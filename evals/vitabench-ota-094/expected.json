@@ -1,0 +1,149 @@
+{
+  "required_orders": [
+    {
+      "order_id": "D0811001T001",
+      "order_type": "train",
+      "user_id": "U010082",
+      "store_id": "S17557516484806057_T00010",
+      "note": "",
+      "location": null,
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 1490,
+      "create_time": "2027-11-17 21:45:00",
+      "update_time": "2027-11-17 21:45:00",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17557516484806057_P00064",
+          "price": 298,
+          "quantity": 5,
+          "date": "2027-11-20",
+          "seat_type": "First Class Seat"
+        }
+      ]
+    },
+    {
+      "order_id": "D0811001T002",
+      "order_type": "train",
+      "user_id": "U010082",
+      "store_id": "S17557516484806057_T00013",
+      "note": "",
+      "location": null,
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 906,
+      "create_time": "2027-11-17 21:48:32",
+      "update_time": "2027-11-17 21:48:32",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17557516484806057_P00079",
+          "price": 302,
+          "quantity": 3,
+          "date": "2027-11-20",
+          "seat_type": "First Class Seat"
+        }
+      ]
+    },
+    {
+      "order_id": "D0811001T003",
+      "order_type": "train",
+      "user_id": "U010082",
+      "store_id": "S17557516484806057_T00015",
+      "note": "",
+      "location": null,
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 268,
+      "create_time": "2027-11-14 16:30:00",
+      "update_time": "2027-11-17 21:50:12",
+      "status": "cancelled",
+      "products": [
+        {
+          "product_id": "S17557516484806057_P00089",
+          "price": 268,
+          "quantity": 1,
+          "date": "2027-11-20",
+          "seat_type": "Business Class Seat"
+        }
+      ]
+    },
+    {
+      "order_id": "D0811001T004",
+      "order_type": "hotel",
+      "user_id": "U010082",
+      "store_id": "S17557516484806057_H00001",
+      "note": "",
+      "location": null,
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 398,
+      "create_time": "2027-11-17 21:52:42",
+      "update_time": "2027-11-17 21:52:42",
+      "status": "unpaid",
+      "products": [
+        {
+          "product_id": "S17557516484806057_P00002",
+          "price": 398,
+          "quantity": 1,
+          "date": "2027-11-19",
+          "room_type": "Comfort Twin Room"
+        }
+      ]
+    },
+    {
+      "order_id": "D0811001T005",
+      "order_type": "attraction",
+      "user_id": "U010082",
+      "store_id": "S17557516484806057_A00005",
+      "note": "",
+      "location": null,
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 450,
+      "create_time": "2027-11-17 21:53:29",
+      "update_time": "2027-11-17 21:53:29",
+      "status": "unpaid",
+      "products": [
+        {
+          "product_id": "S17557516484806057_P00027",
+          "price": 90,
+          "quantity": 5,
+          "date": "2027-11-20",
+          "ticket_type": "Adult Ticket"
+        }
+      ]
+    }
+  ],
+  "rubrics": [
+    "The outbound train ticket order should be from Linyi to Qingdao",
+    "The outbound train ticket order should be High-Speed Rail",
+    "The outbound train ticket order should arrive before 10:30",
+    "The outbound train ticket order should be for First Class Seat",
+    "The outbound train ticket order should be for 5 tickets",
+    "The outbound train ticket order date should be November 20, 2027",
+    "The return train ticket order should be from Qingdao to Linyi",
+    "The return train ticket order should be High-Speed Rail",
+    "The return train ticket order should be the last train departing on that day",
+    "The return train ticket order should be for First Class Seat",
+    "The return train ticket order should be for 3 tickets",
+    "The return ticket order date should be November 20, 2027",
+    "The status of the historical train ticket order from Linyi to Tai'an is cancelled",
+    "The booked hotel should be within 3km of user's home",
+    "The booked hotel rating should be above 4.0",
+    "The booked hotel should include Wake-up Service",
+    "The hotel booking date should be November 19, 2027",
+    "The hotel booking cost should not exceed 400 yuan",
+    "The hotel booking should be for a Standard Twin Room",
+    "Given the weather in Qingdao on November 20, 2027 is breeze, the ticket purchased should be for Laoshan Yangkou Scenic Area",
+    "The purchased tickets should be for November 20, 2027",
+    "The purchased tickets should be Adult Ticket",
+    "The purchased tickets should be for 5 people"
+  ]
+}

@@ -1,0 +1,119 @@
+{
+  "required_orders": [
+    {
+      "order_id": "D0812004T001",
+      "order_type": "flight",
+      "user_id": "U256275",
+      "store_id": "S17557505467922967_F00009",
+      "note": "",
+      "location": null,
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 580,
+      "create_time": "2023-06-03 17:25:29",
+      "update_time": "2023-06-03 17:25:29",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17557505467922967_P00040",
+          "price": 580,
+          "quantity": 1,
+          "date": "2023-06-17",
+          "seat_type": "economy class"
+        }
+      ]
+    },
+    {
+      "order_id": "D0812004T003",
+      "order_type": "train",
+      "user_id": "U256275",
+      "store_id": "S17557505467922967_T00014",
+      "note": "",
+      "location": null,
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 58,
+      "create_time": "2023-06-03 17:33:46",
+      "update_time": "2023-06-03 17:33:46",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17557505467922967_P00071",
+          "price": 58,
+          "quantity": 1,
+          "date": "2023-06-18",
+          "seat_type": "hard sleeper (upper berth)"
+        }
+      ]
+    },
+    {
+      "order_id": "D0812004T002",
+      "order_type": "hotel",
+      "user_id": "U256275",
+      "store_id": "S17557505467922967_H00001",
+      "note": "",
+      "location": null,
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 188,
+      "create_time": "2023-06-03 17:38:14",
+      "update_time": "2023-06-03 17:38:14",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17557505467922967_P00001",
+          "price": 188,
+          "quantity": 1,
+          "date": "2023-06-17",
+          "room_type": "standard king room"
+        }
+      ]
+    },
+    {
+      "order_id": "D0812004T004",
+      "order_type": "attraction",
+      "user_id": "U256275",
+      "store_id": "S17557505467922967_A00005",
+      "note": "",
+      "location": null,
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 128,
+      "create_time": "2023-06-03 17:41:00",
+      "update_time": "2023-06-03 17:41:00",
+      "status": "unpaid",
+      "products": [
+        {
+          "product_id": "S17557505467922967_P00021",
+          "price": 128,
+          "quantity": 1,
+          "date": "2023-06-22",
+          "ticket_type": "adult ticket (including rafting)"
+        }
+      ]
+    }
+  ],
+  "rubrics": [
+    "The flight in the airplane order is from Hefei to Taiyuan",
+    "The booked air ticket should be for June 17, 2023",
+    "The flight in the airplane order should arrive in the afternoon",
+    "The train in the train ticket order is from Taiyuan to Fenyang",
+    "The booked train ticket date should be June 18, 2023",
+    "The train departure time in the train ticket order should be the earliest one of the day",
+    "The train ticket booked in the train ticket order should be an upper berth",
+    "The booked hotel should be within 2km of Taiyuan Railway Station, Jianshe South Road, Yingze District, Taiyuan, Shanxi Province",
+    "The booked hotel should have good soundproofing",
+    "The booked hotel should provide wake-up call service",
+    "The hotel reservation date is June 17, 2023",
+    "The room type in the hotel order should not exceed 200 yuan",
+    "The scenic spot in the attraction order should match the user's most frequently visited type (query results show natural scenic spots)",
+    "The scenic spot in the attraction order should offer rafting",
+    "The ticket purchased in the attraction order should be an adult ticket",
+    "The ticket purchased in the attraction order should include rafting",
+    "The ticket date should be on the Dragon Boat Festival holiday, which is June 22, 2023 according to the query, so the purchased ticket date is June 22, 2023"
+  ]
+}

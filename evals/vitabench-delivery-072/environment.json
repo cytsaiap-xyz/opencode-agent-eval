@@ -1,0 +1,396 @@
+{
+  "task_id": "E0717004",
+  "domain": "delivery",
+  "time": "2025-05-31 10:23:25",
+  "user_id": "U000025",
+  "weather": [
+    {
+      "city": "Wuxi City",
+      "category": "overcast",
+      "datetime": "2025-05-31",
+      "temperature": [
+        19,
+        28
+      ],
+      "humidity": 62
+    }
+  ],
+  "location": [
+    {
+      "address": "Wuxi (National) Software Park, 18 Zhenze Road (111 Linghu Avenue), Xinwu District, Wuxi City, Jiangsu Province",
+      "longitude": 120.373013,
+      "latitude": 31.489182
+    }
+  ],
+  "user_profile": {
+    "user id": "U000025",
+    "occupation": "Project Manager",
+    "gender": "female",
+    "age group": "30~35",
+    "residence": "Wuxi",
+    "home address": "Taihu Yonghua Mansion Phase 1, 180 meters southwest of the intersection of Ningle Road and Ningtai Road, Xinwu District, Wuxi City, Jiangsu Province",
+    "work address": "Wuxi (National) Software Park, 18 Zhenze Road (111 Linghu Avenue), Xinwu District, Wuxi City, Jiangsu Province",
+    "dietary restrictions": "",
+    "family status": "Married",
+    "personality": "Easily anxious and worried, needs repeated confirmation to feel at ease"
+  },
+  "user_historical_behaviors": {
+    "user id": "U000025",
+    "occupation": "Project Manager",
+    "gender": "female",
+    "age group": "30~35",
+    "residence": "Wuxi",
+    "home address": "Phase 1, Taihu Yonghua Mansion, 180 meters southwest of the intersection of Ningle Road and Ningtai Road, Xinwu District, Wuxi City, Jiangsu Province",
+    "work address": "Wuxi (National) Software Park, 18 Zhenze Road (111 Linghu Avenue), Xinwu District, Wuxi City, Jiangsu Province",
+    "breakfast": {
+      "frequently purchased categories": [
+        "Quick meals/Buns/Pan-fried buns (average 15 yuan)",
+        "Quick meals/Light food (average 25 yuan)",
+        "Quick meals/Salad (average 32 yuan)"
+      ],
+      "cost per order": "15~38 yuan",
+      "preferred store rating": "4.3~4.8 stars",
+      "preferred delivery time": "20~30 minutes",
+      "preferred distance": "0~1500m",
+      "recent orders": [
+        {
+          "store": "Good Porridge",
+          "product": "Century Egg & Lean Meat Porridge + Meat Buns"
+        },
+        {
+          "store": "Light Food Philosophy",
+          "product": "Avocado Chicken Breast Sandwich"
+        },
+        {
+          "store": "Fresh Elements",
+          "product": "Fruit Cereal Cup + Low-fat Milk"
+        }
+      ],
+      "search history": [
+        "Low-sugar breakfast",
+        "Healthy breakfast",
+        "Light food",
+        "Fruit cup",
+        "Low-fat porridge"
+      ]
+    },
+    "weekday lunch/dinner": {
+      "frequently purchased categories": [
+        "Quick meals/Healthy meals (average 35 yuan)",
+        "Quick meals/Salad (average 38 yuan)",
+        "Chinese cuisine/Cantonese cuisine (average 65 yuan)"
+      ],
+      "cost per order": "35~75 yuan",
+      "preferred store rating": "4.2~4.7 stars",
+      "preferred delivery time": "20~30 minutes",
+      "preferred distance": "0~2500m",
+      "recent orders": [
+        {
+          "store": "Health Cuisine",
+          "product": "Steamed Chicken Breast with Vegetables Set"
+        },
+        {
+          "store": "Cantonese Flavors",
+          "product": "Steamed Sea Bass + Seasonal Vegetables"
+        },
+        {
+          "store": "Joyful Light Food",
+          "product": "Quinoa Chicken Breast Salad"
+        }
+      ],
+      "search history": [
+        "Low-fat meals",
+        "Healthy lunch",
+        "Cantonese cuisine",
+        "Steamed dishes",
+        "Low oil"
+      ]
+    },
+    "weekend lunch/dinner": {
+      "frequently purchased categories": [
+        "Chinese cuisine/Cantonese cuisine (average 120 yuan)",
+        "Chinese cuisine/Stewed pot (average 80 yuan)",
+        "International cuisine/Korean food (average 135 yuan)"
+      ],
+      "cost per order": "80~150 yuan",
+      "preferred store rating": "4.5~4.9 stars",
+      "preferred delivery time": "25~45 minutes",
+      "preferred distance": "0~4000m",
+      "recent orders": [
+        {
+          "store": "Claypot No.1",
+          "product": "Family Size Cordyceps Flower Stewed Chicken + Chinese Flowering Cabbage"
+        },
+        {
+          "store": "Authentic Korean Food",
+          "product": "Ginseng Chicken Soup + Banchan Set"
+        },
+        {
+          "store": "Ju Fu Tang",
+          "product": "Family Size Steamed Turbot + Garlic Broccoli"
+        }
+      ],
+      "search history": [
+        "Family set meal",
+        "Kid-friendly",
+        "Nourishing soup",
+        "No chili",
+        "Nutritious meal"
+      ]
+    },
+    "desserts/drinks/snacks": {
+      "frequently purchased categories": [
+        "Beverages & desserts/Pure tea/Herbal tea (average 18 yuan)",
+        "Beverages & desserts/Fruit salad (average 35 yuan)",
+        "Beverages & desserts/Coffee (average 32 yuan)"
+      ],
+      "cost per order": "18~42 yuan",
+      "preferred store rating": "4.3~4.8 stars",
+      "preferred delivery time": "15~25 minutes",
+      "preferred distance": "0~2000m",
+      "recent orders": [
+        {
+          "store": "Tea Color",
+          "product": "Sugar-free Oolong Tea"
+        },
+        {
+          "store": "Fresh Fruit Workshop",
+          "product": "Seasonal Fruit Salad"
+        },
+        {
+          "store": "Luckin Coffee (Fo'ao Tianyou City Branch)",
+          "product": "Extra-Strong Americano"
+        }
+      ],
+      "search history": [
+        "Sugar-free drinks",
+        "Fruit tea",
+        "Low-fat",
+        "Healthy beverages",
+        "No additives"
+      ]
+    },
+    "night snack": {
+      "frequently purchased categories": [
+        "Quick meals/Small dishes/Portions (average 38 yuan)",
+        "Chinese cuisine/Spicy stir-fry (average 55 yuan)"
+      ],
+      "cost per order": "40~60 yuan",
+      "preferred store rating": "4.1~4.6 stars",
+      "preferred delivery time": "20~35 minutes",
+      "preferred distance": "0~3000m",
+      "recent orders": [
+        {
+          "store": "Small Bowl Residence",
+          "product": "Steamed Fresh Shrimp + Assorted Vegetables"
+        },
+        {
+          "store": "Night Food House",
+          "product": "Mushroom Soup + Multigrain Pancake"
+        },
+        {
+          "store": "Light Night Snack",
+          "product": "Steamed Chicken Breast + Quinoa Rice"
+        }
+      ],
+      "search history": [
+        "Low-fat night snack",
+        "Stomach-friendly soup",
+        "Steamed dishes",
+        "Non-greasy",
+        "Healthy night food"
+      ]
+    }
+  },
+  "stores": {
+    "S32814171117127084_S30670": {
+      "name": "Steamed Delicacies (Junyue Mall Branch)",
+      "store_id": "S32814171117127084_S30670",
+      "score": 4.2,
+      "location": {
+        "address": "No. 3-107, Neighborhood Center, Langxin Road, Xinwu District, Wuxi City, Jiangsu Province",
+        "latitude": 31.488342,
+        "longitude": 120.383884
+      },
+      "tags": [],
+      "products": [
+        {
+          "name": "Glutinous Rice Dumpling with Fresh Meat",
+          "store_id": "S32814171117127084_S30670",
+          "store_name": "Steamed Delicacies (Junyue Mall Branch)",
+          "price": 7,
+          "tags": [
+            "Salty"
+          ],
+          "product_id": "S23240680060346608_P00124",
+          "attributes": [],
+          "quantity": 9999
+        },
+        {
+          "name": "Egg Yolk and Meat Rice Dumpling",
+          "store_id": "S32814171117127084_S30670",
+          "store_name": "Steamed Delicacies (Junyue Mall Branch)",
+          "price": 7,
+          "tags": [
+            "Salty"
+          ],
+          "product_id": "S33040284436404108_P48156",
+          "attributes": [],
+          "quantity": 9999
+        },
+        {
+          "name": "Special Spicy Soup",
+          "store_id": "S32814171117127084_S30670",
+          "store_name": "Steamed Delicacies (Junyue Mall Branch)",
+          "price": 6,
+          "tags": [],
+          "product_id": "S12642530014776475_P58854",
+          "attributes": [],
+          "quantity": 9999
+        },
+        {
+          "name": "Sweet Date Rice Dumpling",
+          "store_id": "S32814171117127084_S30670",
+          "store_name": "Steamed Delicacies (Junyue Mall Branch)",
+          "price": 6.5,
+          "tags": [
+            "Sweet"
+          ],
+          "product_id": "S10180573395536535_P54099",
+          "attributes": [],
+          "quantity": 9999
+        }
+      ]
+    },
+    "S68885587418599272_S28839": {
+      "name": "Luckin Coffee (Fo'ao Tianyou City Branch)",
+      "store_id": "S68885587418599272_S28839",
+      "score": 4.6,
+      "location": {
+        "address": "Luckin Coffee (Fo'ao Tianyou City Branch), 1st Floor Lobby, FamilyMart Premium Supermarket, 18 Hefeng Road, Xinwu District, Wuxi City, Jiangsu Province",
+        "latitude": 31.49149,
+        "longitude": 120.373102
+      },
+      "tags": [],
+      "products": [
+        {
+          "name": "Extra-Strong Americano",
+          "store_id": "S68885587418599272_S28839",
+          "store_name": "Luckin Coffee (Fo'ao Tianyou City Branch)",
+          "price": 19.98,
+          "tags": [],
+          "product_id": "S26400754400806447_P62652",
+          "attributes": [
+            "No Milk",
+            "Single Milk",
+            "Double Milk"
+          ],
+          "quantity": 9999
+        }
+      ]
+    },
+    "S10300601250705109_S72934": {
+      "name": "Barbie Steamed Buns & Dumplings (Software Park Branch)",
+      "store_id": "S10300601250705109_S72934",
+      "score": 4.7,
+      "location": {
+        "address": "Building 2, Unit 2-01-18-2, Tianyou City Commercial Center, Xinwu District, Wuxi City",
+        "latitude": 31.491516,
+        "longitude": 120.373093
+      },
+      "tags": [],
+      "products": [
+        {
+          "name": "Egg Yolk and Meat Rice Dumpling",
+          "store_id": "S10300601250705109_S72934",
+          "store_name": "Barbie Steamed Buns & Dumplings (Software Park Branch)",
+          "price": 9.9,
+          "tags": [
+            "Salty"
+          ],
+          "product_id": "S67792534302039360_P12009",
+          "attributes": [],
+          "quantity": 9999
+        },
+        {
+          "name": "Fresh Meat Rice Dumpling",
+          "store_id": "S10300601250705109_S72934",
+          "store_name": "Barbie Steamed Buns & Dumplings (Software Park Branch)",
+          "price": 8,
+          "tags": [
+            "Salty"
+          ],
+          "product_id": "S23064432691980385_P93280",
+          "attributes": [],
+          "quantity": 9999
+        },
+        {
+          "name": "Signature Spicy Soup",
+          "store_id": "S10300601250705109_S72934",
+          "store_name": "Barbie Steamed Buns & Dumplings (Software Park Branch)",
+          "price": 14,
+          "tags": [
+            "Spicy Fragrant"
+          ],
+          "product_id": "S25094748961918419_P40794",
+          "attributes": [],
+          "quantity": 9999
+        }
+      ]
+    },
+    "S33896941687549268_S15750": {
+      "name": "Luckin Coffee (Wuxi Xiesin Center Branch)",
+      "store_id": "S33896941687549268_S15750",
+      "score": 4.5,
+      "location": {
+        "address": "Luckin Coffee (Wuxi Xiesin Center Branch), No. 5-7, 1st Floor, Starlight Commercial Center, 27 Hefeng Road, Xinwu District, Wuxi City, Jiangsu Province",
+        "latitude": 31.48811,
+        "longitude": 120.36848
+      },
+      "tags": [],
+      "products": [
+        {
+          "name": "Small Butter Americano",
+          "store_id": "S33896941687549268_S15750",
+          "store_name": "Luckin Coffee (Wuxi Xiesin Center Branch)",
+          "price": 20.48,
+          "tags": [
+            "Rich Milk Flavor"
+          ],
+          "product_id": "S24051917765528246_P46145",
+          "attributes": [],
+          "quantity": 9999
+        }
+      ]
+    }
+  },
+  "orders": {
+    "E0717004O01": {
+      "order_id": "E0717004O01",
+      "order_type": "delivery",
+      "user_id": "U000025",
+      "store_id": "S68885587418599272_S28839",
+      "note": "",
+      "location": {
+        "address": "Wuxi (National) Software Park, 18 Zhenze Road (111 Linghu Avenue), Xinwu District, Wuxi City, Jiangsu Province",
+        "longitude": 120.373013,
+        "latitude": 31.489182
+      },
+      "dispatch_time": "2025-05-28 09:24:00",
+      "shipping_time": 30,
+      "delivery_time": "2025-05-28 09:54:00",
+      "total_price": 19.98,
+      "create_time": "2025-05-28 09:06:00",
+      "update_time": "2025-05-28 09:06:00",
+      "status": "delivered",
+      "products": [
+        {
+          "product_id": "S26400754400806447_P62652",
+          "price": 19.98,
+          "quantity": 1,
+          "attributes": "No Milk"
+        }
+      ]
+    }
+  }
+}

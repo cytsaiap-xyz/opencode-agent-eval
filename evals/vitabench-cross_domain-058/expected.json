@@ -1,0 +1,103 @@
+{
+  "required_orders": [
+    {
+      "order_id": "10808012T001",
+      "order_type": "instore",
+      "user_id": "U421256",
+      "store_id": "S17550802131504747_I00009",
+      "note": "",
+      "location": null,
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 176,
+      "create_time": "2025-01-25 16:13:00",
+      "update_time": "2025-01-25 16:13:00",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17550802131504747_P00045",
+          "name": "Light nutritious set meal",
+          "price": 88,
+          "quantity": 2
+        }
+      ]
+    },
+    {
+      "order_id": "10808012T002",
+      "order_type": "delivery",
+      "user_id": "U421256",
+      "store_id": "S17550802131504747_S00001",
+      "note": "",
+      "location": {
+        "address": "Room 502, Unit 2, Building 3, Kangda Community, No. 74 Xuefu Road, Nangang District, Harbin",
+        "longitude": 126.629372,
+        "latitude": 45.720357
+      },
+      "dispatch_time": "2025-01-25 16:22:00",
+      "shipping_time": 31,
+      "delivery_time": "2025-01-25 16:53:00",
+      "total_price": 109.8,
+      "create_time": "2025-01-25 16:15:00",
+      "update_time": "2025-01-25 16:15:00",
+      "status": "delivered",
+      "products": [
+        {
+          "product_id": "S17550802131504747_P00001",
+          "price": 49.9,
+          "quantity": 1,
+          "name": "Thick windproof knitted hat",
+          "attributes": ""
+        },
+        {
+          "product_id": "S17550802131504747_P00002",
+          "price": 59.9,
+          "quantity": 1,
+          "name": "Rechargeable hand warmer",
+          "attributes": ""
+        }
+      ]
+    },
+    {
+      "order_id": "10808012T003",
+      "order_type": "train",
+      "user_id": "U421256",
+      "store_id": "S17550802131504747_T00005",
+      "note": "",
+      "location": null,
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 1580,
+      "create_time": "2025-01-25 16:18:00",
+      "update_time": "2025-01-25 16:18:00",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17550802131504747_P00021",
+          "price": 1580,
+          "quantity": 1,
+          "date": "2025-01-27",
+          "seat_type": "Soft sleeper (train berth)"
+        }
+      ]
+    }
+  ],
+  "rubrics": [
+    "The restaurant ordered should be in Haikou",
+    "The restaurant ordered should be a nutrition restaurant",
+    "The restaurant's average cost per person should be less than or equal to 100 yuan",
+    "The restaurant's food should be a post-illness care set meal",
+    "The restaurant's food should not contain seafood",
+    "The quantity of restaurant food items should be 2",
+    "The delivery order should include a knitted hat",
+    "The delivery order should include a hand warmer",
+    "The knitted hat and hand warmer in the delivery order should come from the same store",
+    "The delivery address should be Room 502, Unit 2, Building 3, Kangda Community, No. 74 Xuefu Road, Nangang District, Harbin",
+    "The estimated delivery time should be January 25, 2025, 16:10-17:10",
+    "A train ticket should be ordered",
+    "The train ticket should be for a train from Harbin to Haikou",
+    "The seat type of the train ticket should be soft sleeper (train berth)",
+    "The departure time of the train should be January 27, 2025"
+  ]
+}

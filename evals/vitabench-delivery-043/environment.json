@@ -1,0 +1,345 @@
+{
+  "task_id": "90714001",
+  "domain": "delivery",
+  "time": "2025-08-09 16:55:13",
+  "user_id": "U000005",
+  "weather": [
+    {
+      "city": "Taiyuan City",
+      "category": "sunny",
+      "datetime": "2025-08-08",
+      "temperature": [
+        21,
+        32
+      ],
+      "humidity": 50
+    }
+  ],
+  "location": [
+    {
+      "address": "Resin Factory Residential Building, 500 meters walk from Exit B of Wangcun South Street Metro Station, Xiaodian District, Taiyuan City, Shanxi Province",
+      "longitude": 112.55827,
+      "latitude": 37.82994
+    }
+  ],
+  "user_profile": {
+    "user id": "U000005",
+    "occupation": "Designer",
+    "gender": "male",
+    "age group": "30~35",
+    "residence": "Taiyuan",
+    "home address": "Resin Factory Residential Building, 500 meters walk from Exit B of Wangcun South Street Metro Station, Xiaodian District, Taiyuan City, Shanxi Province",
+    "work address": "Huayu International, No.169 Xinjian Road, Xinghualing District, Taiyuan City, Shanxi Province",
+    "dietary restrictions": "No fried food, No caffeine",
+    "family status": "Has children",
+    "personality": "Cold and concise in expression, lacks emotional communication and patience"
+  },
+  "user_historical_behaviors": {
+    "user id": "U000005",
+    "occupation": "Designer",
+    "gender": "male",
+    "age group": "30~35",
+    "residence": "Taiyuan",
+    "home address": "Resin Factory Residential Building, 500 meters walk from Exit B of Wangcun South Street Metro Station, Xiaodian District, Taiyuan City, Shanxi Province",
+    "work address": "Huayu International, No.169 Xinjian Road, Xinghualing District, Taiyuan City, Shanxi Province",
+    "breakfast": {
+      "frequently purchased categories": [
+        "Quick Meal/Buns/Pan-fried Buns (Average ¥18)",
+        "Quick Meal/Jianbing/Wraps/Hand-held Pancakes (Average ¥15)",
+        "Quick Meal/Dumplings/Wonton (Average ¥22)"
+      ],
+      "cost per order": "¥12~30",
+      "preferred store rating": "4.2~4.8 stars",
+      "preferred delivery time": "15~25 minutes",
+      "preferred distance": "0~1500m",
+      "recent orders": [
+        {
+          "store": "Wu Dasao Breakfast",
+          "product": "Pork and Leek Steamed Dumplings"
+        },
+        {
+          "store": "Dou Xiang Fang",
+          "product": "Soup Dumplings + Soy Milk Set"
+        }
+      ],
+      "search history": [
+        "Low-oil breakfast",
+        "Steamed dumplings",
+        "Healthy breakfast",
+        "Soy milk"
+      ]
+    },
+    "weekday lunch/dinner": {
+      "frequently purchased categories": [
+        "Quick Meal/Light Food (Average ¥38)",
+        "Quick Meal/Healthy Meal (Average ¥42)",
+        "Quick Meal/Salad (Average ¥32)"
+      ],
+      "cost per order": "¥30~65",
+      "preferred store rating": "4.3~4.9 stars",
+      "preferred delivery time": "20~35 minutes",
+      "preferred distance": "0~2500m",
+      "recent orders": [
+        {
+          "store": "Light Life Healthy Meal",
+          "product": "Low-fat Chicken Breast with Quinoa"
+        },
+        {
+          "store": "Salad Diary",
+          "product": "Avocado Chicken Salad"
+        },
+        {
+          "store": "Vegetarianism",
+          "product": "Steamed Mixed Grain Meal Set"
+        }
+      ],
+      "search history": [
+        "Low-oil",
+        "Healthy meal",
+        "Light food",
+        "Steamed dishes",
+        "Fat-reducing meal set"
+      ]
+    },
+    "weekend lunch/dinner": {
+      "frequently purchased categories": [
+        "Chinese Cuisine/Northeast Cuisine (Average ¥195)",
+        "International Flavor/Stone Pot Rice/Teppanyaki Rice (Average ¥75)",
+        "International Flavor/Japanese Bento/Sushi (Average ¥95)"
+      ],
+      "cost per order": "¥60~200",
+      "preferred store rating": "4.5~5.0 stars",
+      "preferred delivery time": "30~65 minutes",
+      "preferred distance": "0~7500m",
+      "recent orders": [
+        {
+          "store": "Xiao Ju Japanese Restaurant",
+          "product": "Salmon Sashimi Set"
+        },
+        {
+          "store": "Jin Zhang Shao Sweet and Sour Pork (Century City Branch)",
+          "product": "Northeast-style Mixed Pork Rib Stew"
+        },
+        {
+          "store": "Korean Stone Pot",
+          "product": "Two-Person Stone Pot Bibimbap Set"
+        }
+      ],
+      "search history": [
+        "Japanese cuisine",
+        "Healthy family meal",
+        "Stone pot bibimbap",
+        "Family-friendly restaurant",
+        "Oil-free cooking"
+      ]
+    },
+    "desserts/drinks/snacks": {
+      "frequently purchased categories": [
+        "Beverages & Desserts/Pure Tea/Herbal Tea (Average ¥29)",
+        "Beverages & Desserts/Fruit Mix (Average ¥32)",
+        "Beverages & Desserts/Chinese Pastries (Average ¥28)"
+      ],
+      "cost per order": "¥18~45",
+      "preferred store rating": "3.8~4.8 stars",
+      "preferred delivery time": "15~40 minutes",
+      "preferred distance": "0~2000m",
+      "recent orders": [
+        {
+          "store": "Tea Time",
+          "product": "Chrysanthemum Pu'er Tea"
+        },
+        {
+          "store": "Fresh Fruit Season",
+          "product": "Colorful Fruit Mix"
+        },
+        {
+          "store": "Traditional Pastry",
+          "product": "Traditional Osmanthus Cake"
+        }
+      ],
+      "search history": [
+        "Caffeine-free tea",
+        "Fruit tea",
+        "Healthy desserts",
+        "Low-sugar snacks"
+      ]
+    },
+    "night snack": {
+      "frequently purchased categories": [
+        "Quick Meal/Rice Noodles (Average ¥32)",
+        "Snacks & Braised Food/Bobo Chicken (Average ¥45)",
+        "Quick Meal/Clay Pot Soup (Average ¥38)"
+      ],
+      "cost per order": "¥25~55",
+      "preferred store rating": "4.0~4.7 stars",
+      "preferred delivery time": "20~35 minutes",
+      "preferred distance": "0~2500m",
+      "recent orders": [
+        {
+          "store": "Yunnan Crossing Bridge Rice Noodles",
+          "product": "Original Rice Noodles + Braised Egg"
+        },
+        {
+          "store": "Old Neighbor Clay Pot Soup",
+          "product": "Mushroom Chicken Soup"
+        },
+        {
+          "store": "Sichuan Flavor Bobo Chicken",
+          "product": "Mildly Spicy Bobo Chicken Platter"
+        }
+      ],
+      "search history": [
+        "Mild night snack",
+        "Stomach-friendly soup",
+        "Non-greasy",
+        "Light rice noodles"
+      ]
+    }
+  },
+  "stores": {
+    "S20788536851255214_S10437": {
+      "name": "Jin Zhang Shao Sweet and Sour Pork (Century City Branch)",
+      "store_id": "S20788536851255214_S10437",
+      "score": 4.7,
+      "location": {
+        "address": "Jin Zhang Shao (Century City Shopping Center Branch), Shop 024, 5th Floor, Building 1, Century City, No.119 Yingze West Street, Wanbailin District, Taiyuan City, Shanxi Province",
+        "latitude": 37.856836,
+        "longitude": 112.508596
+      },
+      "tags": [],
+      "products": [
+        {
+          "name": "Wuchang Rice",
+          "store_id": "S20788536851255214_S10437",
+          "store_name": "Jin Zhang Shao Sweet and Sour Pork (Century City Branch)",
+          "price": 4.0,
+          "tags": [],
+          "product_id": "S25549692678617491_P05957",
+          "attributes": [],
+          "quantity": 9999
+        },
+        {
+          "name": "Baby Cabbage with Frozen Tofu Stew",
+          "store_id": "S20788536851255214_S10437",
+          "store_name": "Jin Zhang Shao Sweet and Sour Pork (Century City Branch)",
+          "price": 32.9,
+          "tags": [
+            "Healthy and Natural"
+          ],
+          "product_id": "S18579665680945399_P97739",
+          "attributes": [],
+          "quantity": 9999
+        },
+        {
+          "name": "Stewed Chicken with Hazelnut Mushroom Powder",
+          "store_id": "S20788536851255214_S10437",
+          "store_name": "Jin Zhang Shao Sweet and Sour Pork (Century City Branch)",
+          "price": 78.9,
+          "tags": [
+            "Generous Portion"
+          ],
+          "product_id": "S17266542610618363_P36704",
+          "attributes": [],
+          "quantity": 9999
+        },
+        {
+          "name": "Northeast-style Mixed Pork Rib Stew",
+          "store_id": "S20788536851255214_S10437",
+          "store_name": "Jin Zhang Shao Sweet and Sour Pork (Century City Branch)",
+          "price": 74.9,
+          "tags": [
+            "Flavorful"
+          ],
+          "product_id": "S75998663709962077_P31604",
+          "attributes": [],
+          "quantity": 9999
+        },
+        {
+          "name": "Dried Tofu with Oil-drizzled Green Peppers",
+          "product_id": "S12024922542069969_P57251",
+          "store_id": "S20788536851255214_S10437",
+          "store_name": "Jin Zhang Shao Sweet and Sour Pork (Century City Branch)",
+          "price": 32.9,
+          "tags": [],
+          "attributes": [],
+          "quantity": 9999
+        }
+      ]
+    },
+    "S18659469264174024_S37719": {
+      "name": "Shan Li Yuan Slow-cooked Roasted Pear, Brown Sugar Water and Peach Gum Stew",
+      "store_id": "S18659469264174024_S37719",
+      "score": 4.5,
+      "location": {
+        "address": "Shan Li Yuan Slow-cooked Roasted Pear, Brown Sugar Water and Peach Gum Stew, 180 meters northwest of the intersection of Pingyang Road and Qinxian West Street, Xiaodian District, Taiyuan City, Shanxi Province",
+        "latitude": 37.820942,
+        "longitude": 112.550895
+      },
+      "tags": [],
+      "products": [
+        {
+          "name": "Red Bean Pear Soup Milk Tea",
+          "store_id": "S18659469264174024_S37719",
+          "store_name": "Shan Li Yuan Slow-cooked Roasted Pear, Brown Sugar Water and Peach Gum Stew",
+          "price": 28.0,
+          "tags": [],
+          "product_id": "S33876326240563116_P68641",
+          "attributes": [
+            "Hot",
+            "Room Temperature",
+            "Iced"
+          ],
+          "quantity": 9999
+        },
+        {
+          "name": "Freshly Squeezed Snow Pear Juice",
+          "product_id": "S12004464919564209_P69021",
+          "store_id": "S18659469264174024_S37719",
+          "store_name": "Shan Li Yuan Slow-cooked Roasted Pear, Brown Sugar Water and Peach Gum Stew",
+          "price": 22,
+          "tags": [],
+          "attributes": [],
+          "quantity": 9999
+        }
+      ]
+    },
+    "S87272191366287271_S48323": {
+      "name": "Jin Zhang Chu Northeast Cuisine (Stall No.12, Jinyang Li Food Court Branch)",
+      "store_id": "S87272191366287271_S48323",
+      "score": 4.9,
+      "location": {
+        "address": "Happiness Street, at the intersection of Zhenwu Road and Dule Street, Xiaodian District, Taiyuan City, Shanxi Province",
+        "latitude": 37.727564,
+        "longitude": 112.575893
+      },
+      "tags": [],
+      "products": [
+        {
+          "name": "Braised Pork Hock with Handle",
+          "product_id": "S13868438724246297_P34419",
+          "store_id": "S87272191366287271_S48323",
+          "store_name": "Jin Zhang Chu Northeast Cuisine (Stall No.12, Jinyang Li Food Court Branch)",
+          "price": 88,
+          "tags": [
+            "Savory"
+          ],
+          "attributes": [],
+          "quantity": 9999
+        },
+        {
+          "name": "Stir-fried Pork Intestines",
+          "product_id": "S26877575766173217_P43128",
+          "store_id": "S87272191366287271_S48323",
+          "store_name": "Jin Zhang Chu Northeast Cuisine (Stall No.12, Jinyang Li Food Court Branch)",
+          "price": 48,
+          "tags": [
+            "Cannot be made without spice"
+          ],
+          "attributes": [],
+          "quantity": 9999
+        }
+      ]
+    }
+  },
+  "orders": {}
+}

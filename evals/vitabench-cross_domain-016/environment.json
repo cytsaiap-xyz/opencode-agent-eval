@@ -1,0 +1,852 @@
+{
+  "task_id": "10812004",
+  "domain": "cross_domain",
+  "time": "2025-03-09 19:21:44",
+  "user_id": "U256275",
+  "weather": [
+    {
+      "city": "Hefei",
+      "category": "cloudy",
+      "datetime": "2025-03-09",
+      "temperature": [
+        6,
+        15
+      ],
+      "humidity": 68
+    },
+    {
+      "city": "Nanjing",
+      "category": "light rain",
+      "datetime": "2025-03-09",
+      "temperature": [
+        5,
+        14
+      ],
+      "humidity": 75
+    }
+  ],
+  "location": [
+    {
+      "address": "Room 1203, Building B, Mingfa City Plaza, Intersection of East Changjiang Road and Victory Road, Yaohai District, Hefei, Anhui Province",
+      "longitude": 117.3245,
+      "latitude": 31.8825
+    },
+    {
+      "address": "Building A, Binhu Times Square, Intersection of Ma'anshan Road and South First Ring Road, Baohe District, Hefei, Anhui Province",
+      "longitude": 117.2956,
+      "latitude": 31.8221
+    }
+  ],
+  "user_profile": {
+    "user id": "U256275",
+    "occupation": "White-collar worker",
+    "gender": "female",
+    "age group": "25~30",
+    "residence": "Hefei",
+    "home address": "Room 1203, Building B, Mingfa City Plaza, Intersection of East Changjiang Road and Victory Road, Yaohai District, Hefei, Anhui Province",
+    "work address": "Building A, Binhu Times Square, Intersection of Ma'anshan Road and South First Ring Road, Baohe District, Hefei, Anhui Province",
+    "dietary restrictions": "Avoid high purine foods (such as organ meats/seafood soups), no alcohol",
+    "family status": "Has children",
+    "personality": "Experiences significant mood swings, expresses herself with strong emotional color"
+  },
+  "user_historical_behaviors": {
+    "user id": "U256275",
+    "occupation": "White-collar worker",
+    "gender": "female",
+    "age group": "25~30",
+    "residence": "Hefei",
+    "home address": "Room 1203, Building B, Mingfa City Plaza, Intersection of East Changjiang Road and Victory Road, Yaohai District, Hefei, Anhui Province",
+    "work address": "Building A, Binhu Times Square, Intersection of Ma'anshan Road and South First Ring Road, Baohe District, Hefei, Anhui Province",
+    "food delivery": {
+      "breakfast": {
+        "frequently purchased categories": [
+          "Quick meals/Baozi/Shengjianbao (average 15 yuan)",
+          "Quick meals/Youtiao (average 8 yuan)",
+          "Quick meals/Jianbing/Wraps/Shouzhuabing (average 12 yuan)"
+        ],
+        "cost per order": "8~25 yuan",
+        "preferred store rating": "4.2~4.7 points",
+        "preferred delivery time": "15~30 minutes",
+        "preferred distance": "0~2500m",
+        "recent orders": [
+          {
+            "store": "Lao Wang's Baozi Shop",
+            "product": "Pork and Green Onion Baozi + Soy Milk"
+          },
+          {
+            "store": "Tianjin Jianbing",
+            "product": "Original Jianbing"
+          },
+          {
+            "store": "Anhui Breakfast House",
+            "product": "Youtiao + Soy Milk Set"
+          }
+        ],
+        "search history": [
+          "baozi",
+          "soy milk",
+          "youtiao",
+          "jianbing",
+          "breakfast set"
+        ]
+      },
+      "weekday lunch/dinner": {
+        "frequently purchased categories": [
+          "Quick meals/Rice with toppings (average 25 yuan)",
+          "Quick meals/Rice noodles (average 22 yuan)",
+          "Quick meals/Small portion dishes (average 28 yuan)"
+        ],
+        "cost per order": "20~40 yuan",
+        "preferred store rating": "4.0~4.5 points",
+        "preferred delivery time": "20~35 minutes",
+        "preferred distance": "0~3000m",
+        "recent orders": [
+          {
+            "store": "Lao Xiang Ji",
+            "product": "Braised Chicken Rice + Cold Dish"
+          },
+          {
+            "store": "Lanzhou Noodles",
+            "product": "Beef Noodles"
+          },
+          {
+            "store": "Hui Cuisine Restaurant",
+            "product": "Twice-cooked Pork Rice"
+          }
+        ],
+        "search history": [
+          "fast food",
+          "rice with toppings",
+          "rice noodles",
+          "cheap",
+          "large portions"
+        ]
+      },
+      "weekend lunch/dinner": {
+        "frequently purchased categories": [
+          "Chinese cuisine/Crayfish (average 88 yuan)",
+          "Chinese cuisine/Grilled Fish (average 95 yuan)",
+          "Hot pot/Chuanchuan (average 78 yuan)"
+        ],
+        "cost per order": "70~150 yuan",
+        "preferred store rating": "4.5~4.8 points",
+        "preferred delivery time": "30~45 minutes",
+        "preferred distance": "0~5000m",
+        "recent orders": [
+          {
+            "store": "Sichuan Spicy Crayfish",
+            "product": "Spicy Crayfish 4 jin + Beer"
+          },
+          {
+            "store": "Bashu Grilled Fish",
+            "product": "Spicy Grilled Fish + Potatoes + Tofu"
+          },
+          {
+            "store": "Chuanxi Bazi",
+            "product": "Family Set (Boiled Fish + Twice-cooked Pork + Vegetables)"
+          }
+        ],
+        "search history": [
+          "crayfish",
+          "grilled fish",
+          "family set",
+          "suitable for children",
+          "non-spicy dishes"
+        ]
+      },
+      "desserts/drinks/snacks": {
+        "frequently purchased categories": [
+          "Drinks and desserts/Fruit juice (average 18 yuan)",
+          "Drinks and desserts/Pure tea (average 15 yuan)",
+          "Drinks and desserts/Chinese pastries (average 25 yuan)"
+        ],
+        "cost per order": "15~30 yuan",
+        "preferred store rating": "4.3~4.8 points",
+        "preferred delivery time": "15~30 minutes",
+        "preferred distance": "0~3000m",
+        "recent orders": [
+          {
+            "store": "Fresh Fruit Workshop",
+            "product": "Fresh Watermelon Juice"
+          },
+          {
+            "store": "Cha Bai Dao",
+            "product": "Oolong Tea (Sugar-free)"
+          },
+          {
+            "store": "Tao Li Bakery",
+            "product": "Red Bean Bun"
+          }
+        ],
+        "search history": [
+          "fruit tea",
+          "sugar-free drinks",
+          "green tea",
+          "red bean cake"
+        ]
+      },
+      "night snack": {
+        "frequently purchased categories": [
+          "Quick meals/Rice noodles (average 25 yuan)",
+          "Quick meals/Dumplings/Wonton (average 28 yuan)",
+          "Snacks/Braised food (average 32 yuan)"
+        ],
+        "cost per order": "20~45 yuan",
+        "preferred store rating": "4.0~4.6 points",
+        "preferred delivery time": "20~40 minutes",
+        "preferred distance": "0~3500m",
+        "recent orders": [
+          {
+            "store": "Shaxian Snacks",
+            "product": "Wonton + Braised Duck Wings"
+          },
+          {
+            "store": "Chongqing Noodles",
+            "product": "Beef Noodles"
+          },
+          {
+            "store": "Old Street Braised Food",
+            "product": "Braised Platter (Duck Neck + Duck Wings + Dried Tofu)"
+          }
+        ],
+        "search history": [
+          "braised food",
+          "night snack",
+          "noodles",
+          "wonton",
+          "non-spicy"
+        ]
+      }
+    },
+    "in-store consumption": {
+      "in-store dining": {
+        "fine-dining": {
+          "frequently purchased categories": [
+            "Regional cuisine/Sichuan cuisine (average 120 yuan)",
+            "Regional cuisine/Fish dishes (average 150 yuan)",
+            "Hot pot (average 180 yuan)"
+          ],
+          "preferred average price per person": "100~180 yuan",
+          "preferred store rating": "4.2~4.8 stars",
+          "typical dining time": "18:30-21:00",
+          "preferred distance": "1000~5000m",
+          "recent orders": [
+            {
+              "store": "Shu Jiu Xiang Hot Pot (Baohe Wanda Branch)",
+              "product": "Three-person Set (Non-alcoholic drinks)"
+            },
+            {
+              "store": "Chuanxi Bazi (Binhu Branch)",
+              "product": "Spicy Blood Curd + Dry-fried Green Beans + Boiled Fish Slices"
+            },
+            {
+              "store": "Fat Brothers Crab Pot (Mingfa Plaza Branch)",
+              "product": "Family Set"
+            }
+          ],
+          "search history": [
+            "non-alcoholic hot pot",
+            "suitable for family gathering",
+            "Sichuan cuisine",
+            "children's set meal"
+          ]
+        },
+        "light meal": {
+          "frequently purchased categories": [
+            "Fast food/Chinese quick meals (average 35 yuan)",
+            "Fast food/Western fast food (average 30 yuan)",
+            "Bread and desserts (average 25 yuan)"
+          ],
+          "preferred average price per person": "25~45 yuan",
+          "preferred store rating": "3.5~4.3 stars",
+          "typical dining time": "11:30-13:00",
+          "preferred distance": "0~800m",
+          "recent orders": [
+            {
+              "store": "Lao Xiang Ji (Binhu Times Square Branch)",
+              "product": "Signature Three Cup Chicken Set"
+            },
+            {
+              "store": "Yonghe King (Baohe Wanda Branch)",
+              "product": "Chicken Cutlet Set"
+            },
+            {
+              "store": "McDonald's (Mingfa Plaza Branch)",
+              "product": "Big Mac Set"
+            }
+          ],
+          "search history": [
+            "fast food",
+            "set meal",
+            "Chinese fast food",
+            "nearby lunch"
+          ]
+        },
+        "desserts/drinks/snacks": {
+          "frequently purchased categories": [
+            "Beverage shops (average 18 yuan)",
+            "Bread and desserts (average 22 yuan)",
+            "Other food/Fresh fruits (average 15 yuan)"
+          ],
+          "preferred average price per person": "15~25 yuan",
+          "preferred store rating": "3.8~4.5 stars",
+          "typical dining time": "15:00-17:00",
+          "preferred distance": "0~600m",
+          "recent orders": [
+            {
+              "store": "Yidiandian (Mingfa Plaza Branch)",
+              "product": "Pearl Milk Tea (Sugar-free)"
+            },
+            {
+              "store": "Xian Yu Xian (Binhu Times Square Branch)",
+              "product": "Taro Balls with Fresh Milk"
+            },
+            {
+              "store": "85°C Bakery Café (Baohe Wanda Plaza)",
+              "product": "Tiramisu"
+            }
+          ],
+          "search history": [
+            "sugar-free drinks",
+            "Afternoon Tea",
+            "dessert",
+            "milk tea"
+          ]
+        }
+      },
+      "other in-store services": {
+        "frequently consumed categories": {
+          "Sports/Ball sports": "40%",
+          "Leisure and Entertainment/Massage/Foot therapy": "35%",
+          "Parent-child/Family entertainment": "25%"
+        },
+        "cost per order by category": {
+          "Sports/Ball sports": "80~150 yuan",
+          "Leisure and Entertainment/Massage/Foot therapy": "120~200 yuan",
+          "Parent-child/Family entertainment": "150~300 yuan"
+        },
+        "preferred store rating": "4.0~4.8 stars",
+        "preferred service time": "19:00-21:00",
+        "preferred distance": "500~3000m",
+        "recent orders": [
+          {
+            "store": "Hefei Sports Center Basketball Court",
+            "product": "Two Person Basketball Court 2 Hours"
+          },
+          {
+            "store": "Zufutang Foot Massage (Mingfa Plaza Branch)",
+            "product": "Full Body Massage + Foot Therapy Package"
+          },
+          {
+            "store": "Lego Discovery Center (Binhu Wanda Branch)",
+            "product": "Parent-child Tickets (1 Adult 1 Child)"
+          }
+        ],
+        "search history": [
+          "basketball court",
+          "weekend family activities",
+          "foot massage",
+          "sports venues"
+        ]
+      }
+    },
+    "OTA": {
+      "visited scenes": {
+        "Natural landscapes (mountains/lakes/forests)": "35%",
+        "Theme parks": "25%",
+        "Parks": "20%",
+        "Zoos": "15%",
+        "Cultural heritage sites": "5%"
+      },
+      "cost per night on hotel": "300~500 yuan",
+      "visited hotels": {
+        "Home Inn": "30%",
+        "Hanting": "25%",
+        "7 Days Inn": "20%",
+        "Jinjiang Inn": "15%",
+        "GreenTree Inn": "10%"
+      },
+      "browsed hotels": {
+        "Three-star hotels": "45%",
+        "Budget hotels": "35%",
+        "Comfort hotels": "20%"
+      },
+      "historical travel plans": {
+        "Hefei-Huangshan": {
+          "price range": "150-250 yuan",
+          "transportation": "Long-distance bus"
+        },
+        "Hefei-Beijing": {
+          "price range": "500-700 yuan",
+          "transportation": "High-speed Rail"
+        },
+        "Hefei-Shanghai": {
+          "price range": "200-350 yuan",
+          "transportation": "High-speed Rail"
+        },
+        "Hefei-Nanjing": {
+          "price range": "100-150 yuan",
+          "transportation": "High-speed Rail"
+        },
+        "Hefei-Hangzhou": {
+          "price range": "250-400 yuan",
+          "transportation": "High-speed Rail"
+        },
+        "Hefei-Jiuhua Mountain": {
+          "price range": "100-200 yuan",
+          "transportation": "Self-driving"
+        }
+      }
+    }
+  },
+  "stores": {
+    "S17550802129404077_S00001": {
+      "name": "Xian Yu Xian (Mingfa Plaza Branch)",
+      "store_id": "S17550802129404077_S00001",
+      "score": 4.7,
+      "location": {
+        "address": "Xian Yu Xian, 3rd Floor, Mingfa Plaza, East Changjiang Road, Yaohai District, Hefei, Anhui Province",
+        "latitude": 31.883,
+        "longitude": 117.325
+      },
+      "tags": [
+        "Dessert",
+        "Taiwanese Dessert",
+        "Exquisite",
+        "Takeout"
+      ],
+      "store_type": "target",
+      "products": [
+        {
+          "name": "Taro Balls with Fresh Milk",
+          "store_id": "S17550802129404077_S00001",
+          "store_name": "Xian Yu Xian (Mingfa Plaza Branch)",
+          "price": 9.9,
+          "tags": [
+            "Taiwanese Dessert",
+            "Exquisite",
+            "Popular Recommendations",
+            "Taro Balls"
+          ],
+          "product_id": "S17550802129404077_P00001",
+          "attributes": [],
+          "product_type": "target"
+        },
+        {
+          "name": "Red Bean Double Skin Milk Pudding",
+          "store_id": "S17550802129404077_S00001",
+          "store_name": "Xian Yu Xian (Mingfa Plaza Branch)",
+          "price": 9.5,
+          "tags": [
+            "Taiwanese Dessert",
+            "Exquisite",
+            "Red Bean",
+            "Double Skin Milk Pudding"
+          ],
+          "product_id": "S17550802129404077_P00002",
+          "attributes": [],
+          "product_type": "target"
+        },
+        {
+          "name": "Coconut Sago Pudding",
+          "store_id": "S17550802129404077_S00001",
+          "store_name": "Xian Yu Xian (Mingfa Plaza Branch)",
+          "price": 8.8,
+          "tags": [
+            "Taiwanese Dessert",
+            "Exquisite",
+            "Coconut Juice",
+            "Sago"
+          ],
+          "product_id": "S17550802129404077_P00003",
+          "attributes": [],
+          "product_type": "target"
+        },
+        {
+          "name": "Mango Shaved Ice",
+          "store_id": "S17550802129404077_S00001",
+          "store_name": "Xian Yu Xian (Mingfa Plaza Branch)",
+          "price": 32.8,
+          "tags": [
+            "Taiwanese Dessert",
+            "Exquisite",
+            "Mango",
+            "Shaved Ice",
+            "Signature"
+          ],
+          "product_id": "S17550802129404077_P00004",
+          "attributes": [
+            "Standard Size",
+            "Large Size(+5 Yuan)"
+          ],
+          "product_type": "distraction"
+        },
+        {
+          "name": "Bubble Milk Tea Dessert Package",
+          "store_id": "S17550802129404077_S00001",
+          "store_name": "Xian Yu Xian (Mingfa Plaza Branch)",
+          "price": 26.9,
+          "tags": [
+            "Taiwanese Dessert",
+            "Exquisite",
+            "Set Menu",
+            "Milk Tea",
+            "Taro Balls"
+          ],
+          "product_id": "S17550802129404077_P00005",
+          "attributes": [
+            "Less Sweet",
+            "Standard Sweetness",
+            "No Ice",
+            "Less Ice"
+          ],
+          "product_type": "distraction"
+        },
+        {
+          "name": "Taro Paste Boba Milk Tea",
+          "store_id": "S17550802129404077_S00001",
+          "store_name": "Xian Yu Xian (Mingfa Plaza Branch)",
+          "price": 13.8,
+          "tags": [
+            "Taiwanese Dessert",
+            "Exquisite",
+            "Taro Paste",
+            "Milk Tea",
+            "Boba"
+          ],
+          "product_id": "S17550802129404077_P00007",
+          "attributes": [
+            "Less Sweet",
+            "Standard Sweetness",
+            "No Ice",
+            "Less Ice",
+            "Hot"
+          ],
+          "product_type": "distraction"
+        },
+        {
+          "name": "Cheese Taro Paste Cake",
+          "store_id": "S17550802129404077_S00001",
+          "store_name": "Xian Yu Xian (Mingfa Plaza Branch)",
+          "price": 15.8,
+          "tags": [
+            "Taiwanese Dessert",
+            "Exquisite",
+            "Cheese",
+            "Taro Paste",
+            "Cake"
+          ],
+          "product_id": "S17550802129404077_P00009",
+          "attributes": [],
+          "product_type": "target"
+        },
+        {
+          "name": "Passion Fruit Wine Jelly",
+          "store_id": "S17550802129404077_S00001",
+          "store_name": "Xian Yu Xian (Mingfa Plaza Branch)",
+          "price": 12.5,
+          "tags": [
+            "Taiwanese Dessert",
+            "Exquisite",
+            "Passion Fruit",
+            "Wine Jelly"
+          ],
+          "product_id": "S17550802129404077_P00010",
+          "attributes": [
+            "Cold",
+            "No Ice"
+          ],
+          "product_type": "distraction"
+        }
+      ]
+    },
+    "S17550802129404077_S00002": {
+      "name": "85°C Bakery Café (Yaohai Wanda Plaza)",
+      "store_id": "S17550802129404077_S00002",
+      "score": 4.5,
+      "location": {
+        "address": "85°C Bakery Café, 1st Floor, Yaohai Wanda Plaza, Intersection of Tongling Road and Linquan Road, Yaohai District, Hefei, Anhui Province",
+        "latitude": 31.891,
+        "longitude": 117.3156
+      },
+      "tags": [
+        "Bread",
+        "Cake",
+        "Sweet Treats",
+        "Exquisite",
+        "Takeout"
+      ],
+      "store_type": "target",
+      "products": [
+        {
+          "name": "Tiramisu",
+          "store_id": "S17550802129404077_S00002",
+          "store_name": "85°C Bakery Café (Yaohai Wanda Plaza)",
+          "price": 9.9,
+          "tags": [
+            "Exquisite Dessert",
+            "Afternoon Tea",
+            "Classic",
+            "Milk Fragrance",
+            "Coffee Flavor"
+          ],
+          "product_id": "S17550802129404077_P00011",
+          "attributes": [],
+          "product_type": "target"
+        },
+        {
+          "name": "Sea Salt Cheesecake",
+          "store_id": "S17550802129404077_S00002",
+          "store_name": "85°C Bakery Café (Yaohai Wanda Plaza)",
+          "price": 13.8,
+          "tags": [
+            "Exquisite Dessert",
+            "Cheese",
+            "Popular",
+            "Afternoon Tea",
+            "Internet Celebrity"
+          ],
+          "product_id": "S17550802129404077_P00015",
+          "attributes": [
+            "Refrigerated"
+          ],
+          "product_type": "distraction"
+        },
+        {
+          "name": "Passion Fruit Mousse Cake",
+          "store_id": "S17550802129404077_S00002",
+          "store_name": "85°C Bakery Café (Yaohai Wanda Plaza)",
+          "price": 32.5,
+          "tags": [
+            "Exquisite Dessert",
+            "Fruit",
+            "Sweet and Sour",
+            "Afternoon Tea",
+            "Large Size"
+          ],
+          "product_id": "S17550802129404077_P00016",
+          "attributes": [
+            "Refrigerated"
+          ],
+          "product_type": "distraction"
+        },
+        {
+          "name": "Rum Chocolate Cup",
+          "store_id": "S17550802129404077_S00002",
+          "store_name": "85°C Bakery Café (Yaohai Wanda Plaza)",
+          "price": 8.9,
+          "tags": [
+            "Exquisite Dessert",
+            "Chocolate",
+            "Wine Aroma",
+            "Afternoon Tea",
+            "Small Size"
+          ],
+          "product_id": "S17550802129404077_P00017",
+          "attributes": [
+            "Refrigerated"
+          ],
+          "product_type": "distraction"
+        }
+      ]
+    },
+    "S17550802129404077_S00004": {
+      "name": "Starbucks (Mingfa City Plaza Branch)",
+      "store_id": "S17550802129404077_S00004",
+      "score": 4.8,
+      "location": {
+        "address": "Starbucks, 1st Floor, Mingfa City Plaza, East Changjiang Road, Yaohai District, Hefei, Anhui Province",
+        "latitude": 31.8828,
+        "longitude": 117.3246
+      },
+      "tags": [
+        "Coffee",
+        "Sweet Treats",
+        "Exquisite",
+        "Takeout"
+      ],
+      "store_type": "distraction",
+      "products": [
+        {
+          "name": "Matcha Frappuccino",
+          "store_id": "S17550802129404077_S00004",
+          "store_name": "Starbucks (Mingfa City Plaza Branch)",
+          "price": 36,
+          "tags": [
+            "Matcha",
+            "Iced Drinks",
+            "Exquisite",
+            "Dessert"
+          ],
+          "product_id": "S17550802129404077_P00025",
+          "attributes": [
+            "Standard Sweetness",
+            "Less Sweet",
+            "No Sugar",
+            "Standard Ice",
+            "Less Ice"
+          ],
+          "product_type": "distraction"
+        },
+        {
+          "name": "Classic Tiramisu",
+          "store_id": "S17550802129404077_S00004",
+          "store_name": "Starbucks (Mingfa City Plaza Branch)",
+          "price": 28,
+          "tags": [
+            "Tiramisu",
+            "Coffee Flavor",
+            "Exquisite",
+            "Dessert"
+          ],
+          "product_id": "S17550802129404077_P00026",
+          "attributes": [],
+          "product_type": "distraction"
+        },
+        {
+          "name": "Blueberry Muffin",
+          "store_id": "S17550802129404077_S00004",
+          "store_name": "Starbucks (Mingfa City Plaza Branch)",
+          "price": 18,
+          "tags": [
+            "Blueberry",
+            "Bread",
+            "Exquisite",
+            "Sweet Treats"
+          ],
+          "product_id": "S17550802129404077_P00027",
+          "attributes": [],
+          "product_type": "distraction"
+        },
+        {
+          "name": "Mango Coconut Pudding Cup",
+          "store_id": "S17550802129404077_S00004",
+          "store_name": "Starbucks (Mingfa City Plaza Branch)",
+          "price": 22,
+          "tags": [
+            "Mango",
+            "Coconut",
+            "Exquisite",
+            "Dessert"
+          ],
+          "product_id": "S17550802129404077_P00028",
+          "attributes": [],
+          "product_type": "distraction"
+        }
+      ]
+    },
+    "S17550802129404077_S00005": {
+      "name": "Honeymoon Dessert (Mingfa Plaza Branch)",
+      "store_id": "S17550802129404077_S00005",
+      "score": 4.4,
+      "location": {
+        "address": "Honeymoon Dessert, 4th Floor, Mingfa Plaza, East Changjiang Road, Yaohai District, Hefei, Anhui Province",
+        "latitude": 31.8832,
+        "longitude": 117.3251
+      },
+      "tags": [
+        "Hong Kong Style Dessert",
+        "Sweet Treats",
+        "Exquisite",
+        "Takeout"
+      ],
+      "store_type": "distraction",
+      "products": [
+        {
+          "name": "Mango Pancake",
+          "store_id": "S17550802129404077_S00005",
+          "store_name": "Honeymoon Dessert (Mingfa Plaza Branch)",
+          "price": 12.9,
+          "tags": [
+            "Hong Kong Style Dessert",
+            "Exquisite",
+            "Hot Selling",
+            "Fruit",
+            "Mango"
+          ],
+          "product_id": "S17550802129404077_P00030",
+          "attributes": [
+            "Standard Size",
+            "Less Sweet",
+            "Normal Sweetness"
+          ],
+          "product_type": "target"
+        },
+        {
+          "name": "Mango Pomelo Sago",
+          "store_id": "S17550802129404077_S00005",
+          "store_name": "Honeymoon Dessert (Mingfa Plaza Branch)",
+          "price": 16.8,
+          "tags": [
+            "Hong Kong Style Dessert",
+            "Exquisite",
+            "Signature",
+            "Fruit",
+            "Mango",
+            "Coconut Juice"
+          ],
+          "product_id": "S17550802129404077_P00031",
+          "attributes": [
+            "Small Size",
+            "Standard Size"
+          ],
+          "product_type": "target"
+        },
+        {
+          "name": "Cheesecake",
+          "store_id": "S17550802129404077_S00005",
+          "store_name": "Honeymoon Dessert (Mingfa Plaza Branch)",
+          "price": 18.8,
+          "tags": [
+            "Hong Kong Style Dessert",
+            "Exquisite",
+            "Cake",
+            "Cheese"
+          ],
+          "product_id": "S17550802129404077_P00034",
+          "attributes": [
+            "Single Slice"
+          ],
+          "product_type": "distraction"
+        },
+        {
+          "name": "Mango Cheese Mousse",
+          "store_id": "S17550802129404077_S00005",
+          "store_name": "Honeymoon Dessert (Mingfa Plaza Branch)",
+          "price": 21.9,
+          "tags": [
+            "Hong Kong Style Dessert",
+            "Exquisite",
+            "Cheese",
+            "Mango",
+            "Mousse"
+          ],
+          "product_id": "S17550802129404077_P00035",
+          "attributes": [
+            "Standard Size"
+          ],
+          "product_type": "distraction"
+        },
+        {
+          "name": "Rum Cheesecake",
+          "store_id": "S17550802129404077_S00005",
+          "store_name": "Honeymoon Dessert (Mingfa Plaza Branch)",
+          "price": 19.9,
+          "tags": [
+            "Hong Kong Style Dessert",
+            "Exquisite",
+            "Cake",
+            "Cheese",
+            "Wine Aroma"
+          ],
+          "product_id": "S17550802129404077_P00036",
+          "attributes": [
+            "Single Slice"
+          ],
+          "product_type": "distraction"
+        }
+      ]
+    }
+  },
+  "orders": {}
+}

@@ -1,0 +1,52 @@
+{
+  "task_id": "15",
+  "query": "I'm planning a two-day trip from Hangzhou to Shaoxing on November 12, 2025, returning on the 13th. Could you please help me plan my itinerary, including transportation, accommodation, meals, and sightseeing?\n\nOn the day of departure, I'd like to arrive in Shaoxing as early as possible. Could you help me choose the earliest direct train available? That way, I can have more time to enjoy the city upon arrival. For accommodation, please find me the highest-rated hotel in Shaoxing—just one room for two people. We’d like to stay somewhere comfortable.\n\nBy the way, I’m especially interested in experiencing Shaoxing’s natural scenery this time. Please include all recommended nature-based attractions in the itinerary—don’t miss any. Also, there seem to be many restaurants around 'Shaoxing East Lake Scenic Area', and I’ve heard the views there are amazing. After visiting East Lake, we’d like to have a meal nearby. Could you please arrange a restaurant that has a waiting area? It would be great if we could rest there while waiting for our table.\n\nThat covers most of my requirements—I believe I’ve provided all necessary information. Please go ahead and prepare a detailed itinerary along with a budget plan for me! November 12, 2025 is Wednesday",
+  "meta_info": {
+    "org": "Hangzhou",
+    "dest": [
+      "Shaoxing"
+    ],
+    "days": 2,
+    "depart_date": "2025-11-12",
+    "return_date": "2025-11-13",
+    "people_number": 2,
+    "room_number": 1
+  },
+  "hard_constraints": {
+    "train_earliest_departure_direct": {
+      "constraint_context": "Please help me choose the earliest departure direct train for the outbound journey",
+      "constraint_type": "superlative_earliest_departure",
+      "outbound_train_no": "G7711"
+    },
+    "hotel_highest_rated": {
+      "constraint_context": "For accommodation, please select the highest-rated hotel in the city",
+      "constraint_type": "superlative_highest_rated_hotel",
+      "hotel_name": "Shaoxing Yuecheng Hilton Garden Hotel",
+      "hotel_price": 387.0,
+      "hotel_score": 5.0
+    },
+    "restaurant_specific_tag_nearby": {
+      "constraint_context": "Arrange a meal at a restaurant near the 'Shaoxing East Lake Scenic Area' during the trip, with a waiting area service required.",
+      "constraint_type": "superlative_specific_tag_nearby",
+      "attraction_name": "Shaoxing East Lake Scenic Area",
+      "restaurant_name": "Wuyun Toyota Staff Restaurant",
+      "required_tag": "Waiting Area",
+      "price_per_person": 100.0,
+      "restaurant_rating": 4.0
+    },
+    "attraction_all_of_type": {
+      "constraint_context": "Must-visit attractions: Recommend all sites of type 'Natural Scenery' mentioned in the attraction recommendation tool",
+      "constraint_type": "superlative_all_of_type",
+      "attraction_names": [
+        "Keyan Scenic Area",
+        "Shaoxing East Lake Scenic Area"
+      ],
+      "attraction_type_cn": "自然风光",
+      "attraction_type": "Natural Scenery",
+      "attraction_ratings": [
+        4.7,
+        4.4
+      ]
+    }
+  }
+}

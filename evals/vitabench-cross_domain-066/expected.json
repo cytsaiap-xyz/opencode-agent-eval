@@ -1,0 +1,144 @@
+{
+  "required_orders": [
+    {
+      "order_id": "10807013T002",
+      "order_type": "instore",
+      "user_id": "U010064",
+      "store_id": "S17550148885477543_I00009",
+      "note": "",
+      "location": null,
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 428,
+      "create_time": "2025-11-02 15:36:27",
+      "update_time": "2025-11-02 15:36:27",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17550148885477543_P00076",
+          "price": 428,
+          "quantity": 1,
+          "name": "Luxury Room - Classic Singing Package (8-10 People) (5 Hours Available All Day)",
+          "shop_id": "S17550148885477543_I00009",
+          "tags": [
+            "Multi-person Package",
+            "Professional Sound System",
+            "Popular",
+            "Including Drinks"
+          ]
+        }
+      ]
+    },
+    {
+      "order_id": "10807013T003",
+      "order_type": "delivery",
+      "user_id": "U010064",
+      "store_id": "S17550802121746337_S00001",
+      "note": "",
+      "location": {
+        "address": "Star Party KTV (Qingdao Mykal Store), 6F, Mykal (Qingdao Main Store), 69 Hong Kong Middle Road, Shinan District, Qingdao, Shandong Province",
+        "longitude": 120.40337,
+        "latitude": 36.065741
+      },
+      "dispatch_time": "",
+      "shipping_time": 26,
+      "delivery_time": "",
+      "total_price": 49.2,
+      "create_time": "2025-11-02 14:33:47",
+      "update_time": "2025-11-02 14:33:47",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17550802121746337_P00001",
+          "price": 15.8,
+          "quantity": 1,
+          "name": "Golden Throat Lozenges",
+          "store_id": "S17550802121746337_S00001",
+          "store_name": "Health Life Pharmacy and Beauty Store",
+          "attributes": "",
+          "tags": [
+            "Throat Lozenges",
+            "Throat Protection",
+            "KTV Essentials"
+          ]
+        },
+        {
+          "product_id": "S17550802121746337_P00002",
+          "price": 15.9,
+          "quantity": 1,
+          "name": "Farm-produced Wildflower Honey (Small Bottle)",
+          "store_id": "S17550802121746337_S00001",
+          "store_name": "Health Life Pharmacy and Beauty Store",
+          "attributes": "",
+          "tags": [
+            "Honey",
+            "Throat Protection",
+            "Natural",
+            "No Additives"
+          ]
+        },
+        {
+          "product_id": "S17550802121746337_P00003",
+          "price": 17.5,
+          "quantity": 1,
+          "name": "Voice Care Throat Protection Spray",
+          "store_id": "S17550802121746337_S00001",
+          "store_name": "Health Life Pharmacy and Beauty Store",
+          "attributes": "",
+          "tags": [
+            "Throat Protection Spray",
+            "KTV Essentials",
+            "Fast Relief",
+            "Portable"
+          ]
+        }
+      ]
+    },
+    {
+      "order_id": "10807013T001",
+      "order_type": "train",
+      "user_id": "U010064",
+      "store_id": "S17550148885477543_T00005",
+      "note": "",
+      "location": null,
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 294,
+      "create_time": "2025-11-02 15:43:11",
+      "update_time": "2025-11-02 15:43:11",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17550802121746337_P00024",
+          "price": 98,
+          "quantity": 3,
+          "date": "2025-11-03",
+          "seat_type": "Second Class Seat (Student Ticket)"
+        }
+      ]
+    }
+  ],
+  "rubrics": [
+    "The KTV ordered should be a chain KTV",
+    "The KTV room ordered should be a luxury room",
+    "The guild has 9 core members, plus the user, there are 10 people in total for the gathering, but 1 person is abroad and cannot come, so the room ordered should accommodate 9 people",
+    "The cost per person cannot exceed 50, with 9 people, so the KTV package price cannot exceed 450 yuan",
+    "The KTV ordered should have professional sound system",
+    "The KTV package should be available before 10:00 PM",
+    "Need to check the subway station near the KTV, and the result is Yaner Island Road Station (Line 2)",
+    "The delivery order includes throat lozenges",
+    "The delivery order includes honey",
+    "The delivery order includes throat protection spray",
+    "The three delivery items must be ordered from the same store",
+    "The delivery address for the ordered items is Star Party KTV (Qingdao Mykal Store), 6F, Mykal (Qingdao Main Store), 69 Hong Kong Middle Road, Shinan District, Qingdao, Shandong Province",
+    "The estimated delivery time for the ordered items is between 17:00:00-18:00:00 on 2025-11-03",
+    "The total price of the ordered items for delivery does not exceed 50 yuan",
+    "The arrival time of the booked train tickets should be in the morning of 2025-11-03",
+    "The booked tickets cannot be No Seat type",
+    "The booked tickets should be student tickets",
+    "The booked tickets are from Jinan to Qingdao",
+    "The quantity of train tickets order is 3"
+  ]
+}

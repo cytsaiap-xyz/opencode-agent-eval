@@ -1,0 +1,108 @@
+{
+  "required_orders": [
+    {
+      "order_id": "D0812006T001",
+      "order_type": "hotel",
+      "user_id": "U514674",
+      "store_id": "S17557071510434562_H00001",
+      "note": "",
+      "location": null,
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 3700,
+      "create_time": "2026-07-21 13:18:23",
+      "update_time": "2026-07-21 13:18:23",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17557071510434562_P00001",
+          "price": 680,
+          "quantity": 1,
+          "date": "2026-08-01",
+          "room_type": "Deluxe King Room"
+        },
+        {
+          "product_id": "S17557071510434562_P00002",
+          "price": 620,
+          "quantity": 1,
+          "date": "2026-08-01",
+          "room_type": "Comfort Twin Room"
+        },
+        {
+          "product_id": "S17557071510434562_P00003",
+          "price": 680,
+          "quantity": 1,
+          "date": "2026-08-02",
+          "room_type": "Deluxe King Room"
+        },
+        {
+          "product_id": "S17557071510434562_P00004",
+          "price": 620,
+          "quantity": 1,
+          "date": "2026-08-02",
+          "room_type": "Comfort Twin Room"
+        },
+        {
+          "product_id": "S17557071510434562_P00005",
+          "price": 580,
+          "quantity": 1,
+          "date": "2026-08-03",
+          "room_type": "Deluxe King Room"
+        },
+        {
+          "product_id": "S17557071510434562_P00006",
+          "price": 520,
+          "quantity": 1,
+          "date": "2026-08-03",
+          "room_type": "Comfort Twin Room"
+        }
+      ]
+    },
+    {
+      "order_id": "D0812006T002",
+      "order_type": "attraction",
+      "user_id": "U514674",
+      "store_id": "S17557071510434562_A00007",
+      "note": "",
+      "location": null,
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 75,
+      "create_time": "2026-07-21 13:23:41",
+      "update_time": "2026-07-21 13:23:41",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17557071510434562_P00071",
+          "price": 30,
+          "quantity": 2,
+          "date": "2026-08-03",
+          "ticket_type": "Adult Ticket"
+        },
+        {
+          "product_id": "S17557071510434562_P00072",
+          "price": 15,
+          "quantity": 1,
+          "date": "2026-08-03",
+          "ticket_type": "Senior Ticket (60 and above)"
+        }
+      ]
+    }
+  ],
+  "rubrics": [
+    "The hotel brand should be the one the user stays at most frequently (query shows it's Ji Hotel)",
+    "The hotel needs to be the Ji Hotel closest to Nanyang Municipal Government",
+    "The hotel order includes 3 nights of twin rooms",
+    "The hotel order includes 3 nights of king rooms",
+    "The twin rooms in the hotel order are booked for August 1, 2026, August 2, 2026, and August 3, 2026",
+    "The king rooms in the hotel order are booked for August 1, 2026, August 2, 2026, and August 3, 2026",
+    "The query shows that the highest temperature in Nanyang on August 3, 2026 is 32℃, which exceeds 30℃, so the attraction chosen is Zhang Zhongjing Museum",
+    "The date on the attraction tickets should be August 3, 2026",
+    "The attraction order should include Senior Ticket",
+    "The attraction order should include Adult Ticket",
+    "The attraction order should have 1 Senior Ticket (father is 61 years old, eligible for senior ticket)",
+    "The attraction order should have 2 Adult Tickets (mother is 57 years old, needs adult ticket; plus one adult ticket for the user)"
+  ]
+}

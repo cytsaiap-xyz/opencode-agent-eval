@@ -1,0 +1,123 @@
+{
+  "required_orders": [
+    {
+      "order_id": "OO3950ff9e9f",
+      "order_type": "hotel",
+      "user_id": "U646779",
+      "store_id": "S17550802127833850_H00006",
+      "note": "",
+      "location": null,
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 688,
+      "create_time": "2025-04-19 18:27:34",
+      "update_time": "2025-04-19 18:27:34",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17550802127833850_P00035",
+          "price": 688,
+          "quantity": 1,
+          "date": "2025-04-24",
+          "room_type": "Deluxe King Room"
+        }
+      ]
+    },
+    {
+      "book_id": "10811003T001",
+      "shop_id": "S17550802127833850_I00011",
+      "book_time": "2025-04-25 13:00:00",
+      "update_time": "2025-04-19 18:33:22",
+      "customer_id": "U646779",
+      "customer_count": 1,
+      "book_price": 0,
+      "status": "paid"
+    },
+    {
+      "order_id": "OT815f747cdc",
+      "order_type": "delivery",
+      "user_id": "U646779",
+      "store_id": "S17550802127833850_S00001",
+      "note": "",
+      "location": {
+        "address": "Athletes' Nutrition Restaurant, 35 Keyuan Avenue, Xixiangtang District, Nanning, Guangxi Province",
+        "longitude": 108.321234,
+        "latitude": 22.810123
+      },
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 184.1,
+      "create_time": "2025-04-19 18:35:51",
+      "update_time": "2025-04-19 18:35:51",
+      "status": "unpaid",
+      "products": [
+        {
+          "product_id": "S17550802127833850_P00002",
+          "price": 59.9,
+          "quantity": 2,
+          "name": "Chicken Breast",
+          "store_id": "S17550802127833850_S00001",
+          "store_name": "Pet Love Pet Food Specialty Store",
+          "attributes": "",
+          "tags": [
+            "Dog Treats",
+            "Chicken Breast",
+            "Large Dog"
+          ]
+        },
+        {
+          "product_id": "S17550802127833850_P00003",
+          "price": 28.8,
+          "quantity": 1,
+          "name": "Nutritional Canned Food Specially for Golden Retrievers",
+          "store_id": "S17550802127833850_S00001",
+          "store_name": "Pet Love Pet Food Specialty Store",
+          "attributes": "",
+          "tags": [
+            "Dog Food Can",
+            "Specially for Golden Retrievers",
+            "Easy to Digest"
+          ]
+        },
+        {
+          "product_id": "S17550931962268303_P00004",
+          "price": 35.5,
+          "quantity": 1,
+          "name": "Stainless Steel Dog Food Bowl",
+          "store_id": "S17550802127833850_S00001",
+          "store_name": "Pet Love Pet Food Exclusive Store",
+          "attributes": "",
+          "tags": [
+            "Pet Supplies",
+            "Dining Utensils",
+            "Stainless Steel",
+            "Suitable for Large Dogs",
+            "Non-Slip Base"
+          ]
+        }
+      ]
+    }
+  ],
+  "rubrics": [
+    "The hotel booked must be pet-friendly",
+    "The hotel booked must have a Massage Bathtub",
+    "The hotel booking date should be 2025-04-24",
+    "The booked hotel should be within 6km (inclusive) of the sports center",
+    "The restaurant booked should be within 3km (inclusive) of the sports center",
+    "The restaurant booked must allow pets",
+    "The restaurant booked must have nutritional meals designed for athletes",
+    "The restaurant reservation time should be 13:00:00 on 2025-04-25",
+    "The restaurant reservation should be for 1 person",
+    "The delivery address for the pet food order should be Athletes' Nutrition Restaurant, 35 Keyuan Avenue, Xixiangtang District, Nanning, Guangxi Province",
+    "The expected delivery time for the pet food order should be around 13:00 on 2025-04-25 [meaning the expected delivery time should be within the 12:45-13:15 timeframe]",
+    "The pet food order should include Chicken Breast",
+    "The pet food order should include canned pet snacks",
+    "The pet food order should include a dog food bowl",
+    "All items in the pet food order should be from the same store",
+    "The quantity of Chicken Breast in the pet food order should be 2",
+    "The quantity of canned pet snacks in the pet food order should be 1",
+    "The quantity of dog food bowl in the pet food order should be 1"
+  ]
+}

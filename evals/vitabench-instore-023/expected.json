@@ -1,0 +1,75 @@
+{
+  "required_orders": [
+    {
+      "order_id": "10826008T001",
+      "order_type": "instore",
+      "user_id": "U524398",
+      "store_id": "S17564420245532453_I00001",
+      "note": "",
+      "location": null,
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 198,
+      "create_time": "2025-05-06 10:01:41",
+      "update_time": "2025-05-06 10:01:41",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17564420245532453_P00001",
+          "name": "French Constructed Nail Art Package",
+          "price": 198,
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "reservation_id": "10826008T002",
+      "shop_id": "S17564420245532453_I00001",
+      "reservation_time": "2025-05-07 11:00:00",
+      "update_time": "2025-05-06 10:03:41",
+      "customer_id": "U524398",
+      "customer_count": 1,
+      "status": "paid"
+    },
+    {
+      "order_id": "10826008T003",
+      "order_type": "instore",
+      "user_id": "U524398",
+      "store_id": "S17564420245532453_I00002",
+      "note": "",
+      "location": null,
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 98,
+      "create_time": "2025-05-06 10:05:41",
+      "update_time": "2025-05-06 10:05:41",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17564420245532453_P00005",
+          "name": "Classic Old Beijing Hot Pot Single Person Package",
+          "price": 98,
+          "quantity": 1
+        }
+      ]
+    }
+  ],
+  "rubrics": [
+    "The price of ordered items at the nail salon should be within the range of 150-280 yuan (inclusive)",
+    "The rating of the ordered nail salon must be 4.2 or above",
+    "The ordered nail salon must provide One-customer-one-disinfection service",
+    "The ordered nail salon item cannot be a Solid Color Nail Art Package",
+    "The ordered nail salon item should be a nail art package with design",
+    "The ordered nail salon item should be a French Manicure Package",
+    "The ordered nail salon item should include Constructed Nail Art service",
+    "The reserved nail salon should be Elegant Fingertip Nail Salon",
+    "The number of people for the nail salon reservation is 1",
+    "The reservation time for the nail salon is 2025-05-07 11:00:00",
+    "The hot pot restaurant should be Old Beijing Copper Pot Hot Pot",
+    "The hot pot restaurant must be within 1km (inclusive) of Elegant Fingertip Nail Salon, No.170 Xuefu Road, Nangang District, Harbin",
+    "The ordered item at the hot pot restaurant should be a Single Person Meal",
+    "The ordered hot pot package should be Non-spicy"
+  ]
+}

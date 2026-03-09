@@ -1,0 +1,97 @@
+{
+  "required_orders": [
+    {
+      "order_id": "10826043T001",
+      "order_type": "instore",
+      "user_id": "U736925",
+      "store_id": "S17564425461411332_I00001",
+      "note": "",
+      "location": null,
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 128,
+      "create_time": "2024-09-20 15:36:00",
+      "update_time": "2024-09-20 15:36:00",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17564425461411332_P00001",
+          "name": "Classic pottery experience package (firing included)",
+          "price": 128,
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "reservation_id": "10826043T002",
+      "shop_id": "S17564425461411332_I00001",
+      "reservation_time": "2024-09-22 15:00:00",
+      "update_time": "2024-09-20 15:37:00",
+      "customer_id": "U736925",
+      "customer_count": 1,
+      "status": "paid"
+    },
+    {
+      "order_id": "10826043T003",
+      "order_type": "instore",
+      "user_id": "U736925",
+      "store_id": "S17564425461411332_I00002",
+      "note": "",
+      "location": null,
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 88,
+      "create_time": "2024-09-20 15:39:00",
+      "update_time": "2024-09-20 15:39:00",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17564425461411332_P00006",
+          "name": "Adult and child cat interaction package",
+          "price": 88,
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "order_id": "10826043T004",
+      "order_type": "instore",
+      "user_id": "U736925",
+      "store_id": "S17564425461411332_I00003",
+      "note": "",
+      "location": null,
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 168,
+      "create_time": "2024-09-20 15:42:00",
+      "update_time": "2024-09-20 15:42:00",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17564425461411332_P00010",
+          "name": "Northwestern family package (two adults, one child)",
+          "price": 168,
+          "quantity": 1
+        }
+      ]
+    }
+  ],
+  "rubrics": [
+    "The distance from the ordered pottery studio to Room 502, Unit 3, Building 12, Jiangcheng Garden, 1288 Donghuan Avenue, Jiaojiang District, Taizhou, Zhejiang Province should be within 3km (inclusive)",
+    "The ordered pottery studio should be fully equipped",
+    "The ordered pottery studio product price should be less than or equal to 150 yuan",
+    "The ordered pottery studio product should be a package that includes materials fee",
+    "The ordered pottery studio product should be a package that includes firing",
+    "The reserved pottery studio should be Craftsman Pottery Studio",
+    "The pottery studio reservation time should be 2024-09-22 15:00:00",
+    "The pottery studio reservation should be for 1 person",
+    "The distance from the ordered cat cafe to Room 502, Unit 3, Building 12, Jiangcheng Garden, 1288 Donghuan Avenue, Jiaojiang District, Taizhou, Zhejiang Province should be within 3km (inclusive)",
+    "The cat cafe ordered product should be a package for one adult and one child",
+    "The ordered restaurant should be a Northwestern cuisine restaurant",
+    "The ordered restaurant should be on the must-eat list",
+    "The restaurant ordered product should be a parent-child package for two adults and one child"
+  ]
+}

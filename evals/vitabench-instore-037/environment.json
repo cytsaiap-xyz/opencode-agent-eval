@@ -1,0 +1,196 @@
+{
+  "task_id": "10826045",
+  "domain": "instore",
+  "time": "2023-03-22 18:30:00",
+  "user_id": "U054611",
+  "weather": [
+    {
+      "city": "Chengdu",
+      "category": "cloudy",
+      "datetime": "2023-03-22",
+      "temperature": [
+        15,
+        24
+      ],
+      "humidity": 62
+    }
+  ],
+  "location": [
+    {
+      "address": "Room 1204, Unit 1, Building 2, Consulate International City, 69 Tianfu 3rd Street, High-tech South Zone, Wuhou District, Chengdu",
+      "longitude": 104.0679,
+      "latitude": 30.5534
+    },
+    {
+      "address": "Super Monkey Fitness, 4F, E3 Zone, Global Center, 1700 North Tianfu Avenue, Wuhou District, Chengdu",
+      "longitude": 104.0665,
+      "latitude": 30.5732
+    },
+    {
+      "address": "South Railway Station",
+      "longitude": 104.0742,
+      "latitude": 30.5982
+    },
+    {
+      "address": "Yulin Street",
+      "longitude": 104.0528,
+      "latitude": 30.6315
+    }
+  ],
+  "user_profile": {
+    "user id": "U054611",
+    "occupation": "Fitness Instructor",
+    "gender": "male",
+    "age group": "25~30",
+    "residence": "Chengdu",
+    "home address": "Room 1204, Unit 1, Building 2, Consulate International City, 69 Tianfu 3rd Street, High-tech South Zone, Wuhou District, Chengdu",
+    "work address": "Super Monkey Fitness, 4F, E3 Zone, Global Center, 1700 North Tianfu Avenue, Wuhou District, Chengdu",
+    "dietary restrictions": "Avoids high sugar",
+    "family status": "In a relationship",
+    "personality": "Has scattered and jumping thoughts, easily distracted and changes mind frequently"
+  },
+  "user_historical_behaviors": {
+    "user id": "U054611",
+    "occupation": "Fitness Coach",
+    "gender": "male",
+    "age group": "25~30",
+    "residence": "Chengdu",
+    "home address": "Room 1204, Unit 1, Building 2, Consulate International City, 69 Tianfu 3rd Street, High-tech South Zone, Wuhou District, Chengdu",
+    "work address": "Super Monkey Fitness, 4F, E3 Zone, Global Center, 1700 North Tianfu Avenue, Wuhou District, Chengdu",
+    "in-store dining": {
+      "fine-dining": {
+        "frequently purchased categories": [
+          "International Cuisine/Western Food (Average 135 yuan)",
+          "Regional Cuisine/Sichuan Food (Average 110 yuan)",
+          "Regional Cuisine/Fish Dishes (Average 150 yuan)"
+        ],
+        "preferred average price per person": "100~160 yuan",
+        "preferred store rating": "4.2~4.8 stars",
+        "typical dining time": "19:30-21:00",
+        "preferred distance": "500~3000m",
+        "recent orders": [
+          {
+            "store": "Daronghe (Global Center Branch)",
+            "product": "Steamed Sea Bass, Boiled Beef, Seasonal Vegetables"
+          },
+          {
+            "store": "THE BRIDGE (IFS Branch)",
+            "product": "Steak Salad, Grilled Chicken Breast"
+          },
+          {
+            "store": "Taste of Hong Kong (Taikoo Li Branch)",
+            "product": "Steamed Sea Bass, Shrimp with Broccoli"
+          }
+        ],
+        "search history": [
+          "High-protein restaurants",
+          "Healthy Western food",
+          "Low-fat Sichuan cuisine",
+          "Sugar-free dishes"
+        ]
+      },
+      "light meal": {
+        "frequently purchased categories": [
+          "Fast Food/Chinese Quick Meals (Average 45 yuan)",
+          "Fast Food/Western Fast Food (Average 55 yuan)",
+          "Other Dining/Fruits & Fresh Food (Average 30 yuan)"
+        ],
+        "preferred average price per person": "30~60 yuan",
+        "preferred store rating": "3.5~4.3 stars",
+        "typical dining time": "11:30-13:00",
+        "preferred distance": "0~800m",
+        "recent orders": [
+          {
+            "store": "McDonald's (Global Center Branch)",
+            "product": "Grilled Chicken Salad, Sugar-free Iced Americano"
+          },
+          {
+            "store": "Salad Diary (High-tech Branch)",
+            "product": "Chicken Breast Salad, Fruit & Vegetable Cup"
+          },
+          {
+            "store": "Jishi Fitness Meals (Tianfu 3rd Street Branch)",
+            "product": "Low-fat Chicken Breast Meal Box, Boiled Eggs"
+          }
+        ],
+        "search history": [
+          "Fitness meals",
+          "Low-carb lunch",
+          "Protein bento",
+          "Salad"
+        ]
+      },
+      "desserts/drinks/snacks": {
+        "frequently purchased categories": [
+          "Beverage Shops (Average 25 yuan)",
+          "Bakery & Desserts (Average 32 yuan)",
+          "Other Dining/Fruits & Fresh Food (Average 28 yuan)"
+        ],
+        "preferred average price per person": "20~35 yuan",
+        "preferred store rating": "3.9~4.6 stars",
+        "typical dining time": "15:00-17:00",
+        "preferred distance": "0~500m",
+        "recent orders": [
+          {
+            "store": "LeLe Cha (Global Center Branch)",
+            "product": "Sugar-free Green Tea, Protein Energy Balls"
+          },
+          {
+            "store": "Fresh Cut Fruits (Tianfu 3rd Street Branch)",
+            "product": "Fruit Platter, Coconut Water"
+          },
+          {
+            "store": "Whole Wheat Bakery (High-tech Branch)",
+            "product": "Whole Wheat Bread, Sugar-free Yogurt"
+          }
+        ],
+        "search history": [
+          "Sugar-free beverages",
+          "High-protein snacks",
+          "Healthy snacks",
+          "Low-calorie desserts"
+        ]
+      }
+    },
+    "other in-store services": {
+      "frequently consumed categories": {
+        "Sports & Fitness/Fitness Centers": "60%",
+        "Sports & Fitness/Martial Arts": "15%",
+        "Sports & Fitness/Ball Sports": "15%",
+        "Leisure & Entertainment/Massage/Foot Therapy": "10%"
+      },
+      "cost per order by category": {
+        "Sports & Fitness/Fitness Centers": "150~300 yuan",
+        "Sports & Fitness/Martial Arts": "120~200 yuan",
+        "Sports & Fitness/Ball Sports": "80~150 yuan",
+        "Leisure & Entertainment/Massage/Foot Therapy": "180~280 yuan"
+      },
+      "preferred store rating": "4.0~4.9 stars",
+      "preferred service time": "20:00-22:00",
+      "preferred distance": "0~5000m",
+      "recent orders": [
+        {
+          "store": "Super Monkey (Global Center Branch)",
+          "product": "Personal Training Sessions"
+        },
+        {
+          "store": "Mixed Martial Arts Club (High-tech South Branch)",
+          "product": "MMA Training Classes"
+        },
+        {
+          "store": "Rehabilitation Therapy Center (Tianfu 3rd Street Branch)",
+          "product": "Sports Recovery Massage"
+        }
+      ],
+      "search history": [
+        "Fitness equipment",
+        "Sports supplements",
+        "Combat training",
+        "Muscle recovery",
+        "Sports rehabilitation"
+      ]
+    }
+  },
+  "stores": {},
+  "orders": {}
+}

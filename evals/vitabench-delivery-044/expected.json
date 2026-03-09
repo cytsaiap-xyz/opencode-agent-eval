@@ -1,0 +1,95 @@
+{
+  "required_orders": [
+    {
+      "order_id": "90714002T01",
+      "order_type": "delivery",
+      "user_id": "U000022",
+      "store_id": "S15536723275106377_S96178",
+      "note": "",
+      "location": {
+        "address": "Zijingang Primary School of Xuejun Primary School Education Group, 198 Pingshui West Street, Xihu District, Hangzhou, Zhejiang Province",
+        "longitude": 120.094907,
+        "latitude": 30.301115
+      },
+      "dispatch_time": "2025-10-24 11:10:00 ",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 28.8,
+      "create_time": "2025-10-24 11:00:00",
+      "update_time": "2025-10-24 11:00:00",
+      "status": "in-progress",
+      "products": [
+        {
+          "product_id": "S24518040077817653_P83870",
+          "price": 28.8,
+          "quantity": 1,
+          "attributes": ""
+        }
+      ]
+    },
+    {
+      "order_id": "90714002T02",
+      "order_type": "delivery",
+      "user_id": "U000022",
+      "store_id": "S28286985627882831_S33402",
+      "note": "",
+      "location": {
+        "address": "Zijin Literary Garden, 418 Yuhang Tang Road, Xihu District, Hangzhou, Zhejiang Province (470m walk from Samba Metro Station Exit G1)",
+        "longitude": 120.100636,
+        "latitude": 30.296034
+      },
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 23.8,
+      "create_time": "2025-10-24 11:00:00",
+      "update_time": "2025-10-24 11:00:00",
+      "status": "processed",
+      "products": [
+        {
+          "product_id": "S21465954562957466_P07678",
+          "price": 23.8,
+          "quantity": 1,
+          "attributes": ""
+        }
+      ]
+    },
+    {
+      "order_id": "90714002T03",
+      "order_type": "delivery",
+      "user_id": "U000022",
+      "store_id": "S28566313792243207_S99929",
+      "note": "",
+      "location": {
+        "address": "Zijin Literary Garden, 418 Yuhang Tang Road, Xihu District, Hangzhou, Zhejiang Province (470m walk from Samba Metro Station Exit G1)",
+        "longitude": 120.100636,
+        "latitude": 30.296034
+      },
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 21.8,
+      "create_time": "2025-10-24 11:00:00",
+      "update_time": "2025-10-24 11:00:00",
+      "status": "processed",
+      "products": [
+        {
+          "product_id": "S28094256416303510_P14903",
+          "price": 21.8,
+          "quantity": 1,
+          "attributes": "Only with cilantro"
+        }
+      ]
+    }
+  ],
+  "rubrics": [
+    "The delivery address for the beef light meal order should be Zijingang Primary School of Xuejun Primary School Education Group, 198 Pingshui West Street, Xihu District, Hangzhou, Zhejiang Province",
+    "The estimated delivery time for the beef light meal order should be after 11:00 on October 24, 2025",
+    "The merchant selected for the beef light meal order should have a Dine-in Restaurant label to ensure hygiene standards",
+    "The delivery address for the braised meat rice cake order should be Zijin Literary Garden, 418 Yuhang Tang Road, Xihu District, Hangzhou, Zhejiang Province (470m walk from Samba Metro Station Exit G1)",
+    "The estimated delivery time for the braised meat rice cake order should be around 17:00 on October 24, 2025",
+    "The delivery address for the soft egg pancake order should be Zijin Literary Garden, 418 Yuhang Tang Road, Xihu District, Hangzhou, Zhejiang Province (470m walk from Samba Metro Station Exit G1)",
+    "The estimated delivery time for the soft egg pancake order should be around 17:00 on October 24, 2025",
+    "The soft egg pancake order should select the option without onions, but keep other ingredient options (such as selecting 'cilantro only' from options like 'cilantro only', 'With Onions only', 'no cilantro no onions', 'with both cilantro and onions')"
+  ]
+}

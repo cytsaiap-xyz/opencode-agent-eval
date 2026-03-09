@@ -1,0 +1,76 @@
+{
+  "required_orders": [
+    {
+      "order_id": "D0716001T01",
+      "order_type": "delivery",
+      "user_id": "U000043",
+      "store_id": "S23312256807055062_S85735",
+      "note": "Less crispy cracker, cut into halves",
+      "location": {
+        "address": "Building A, Baolian Plaza, 1103 Liyu Road, Wucheng District, Jinhua City, Zhejiang Province",
+        "longitude": 119.644158,
+        "latitude": 29.079634
+      },
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 27.6,
+      "create_time": "2025-02-08 10:25:00",
+      "update_time": "2025-02-08 10:25:00",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S67035860351848435_P63325",
+          "price": 20.8,
+          "quantity": 1,
+          "attributes": ""
+        },
+        {
+          "product_id": "S11629187197692636_P36270",
+          "price": 6.8,
+          "quantity": 1,
+          "attributes": ""
+        }
+      ]
+    },
+    {
+      "order_id": "D0716001T02",
+      "order_type": "delivery",
+      "user_id": "U000043",
+      "store_id": "S16925160597268446_S05242",
+      "note": "",
+      "location": {
+        "address": "Building A, Baolian Plaza, 1103 Liyu Road, Wucheng District, Jinhua City, Zhejiang Province",
+        "longitude": 119.644158,
+        "latitude": 29.079634
+      },
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 44.0,
+      "create_time": "2025-02-08 10:25:00",
+      "update_time": "2025-02-08 10:25:00",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S32779988634634158_P65798",
+          "price": 22.0,
+          "quantity": 2,
+          "attributes": "Less ice, No extra sugar"
+        }
+      ]
+    }
+  ],
+  "rubrics": [
+    "The delivery address for the pancake order should be Building A, Baolian Plaza, 1103 Liyu Road, Wucheng District, Jinhua City, Zhejiang Province",
+    "The estimated delivery time for the pancake order should be between 2025-02-08 11:30:00 and 2025-02-08 12:15:00",
+    "The pancake order should select Lai Shili Pu·Pancake (Sanjiang International Store) as the merchant",
+    "The pancake order should include Multigrain Pancake + Egg + Crispy Cracker + Handmade Extra Large Tenderloin + Lettuce item and add Beef Slices item",
+    "The pancake order should add a note requesting to cut the pancake into halves",
+    "The delivery address for the beverage order should be Building A, Baolian Plaza, 1103 Liyu Road, Wucheng District, Jinhua City, Zhejiang Province",
+    "The estimated delivery time for the beverage order should be before 2025-05-23 12:15:00",
+    "The beverage order should select drinks with Sweet and Fresh flavor",
+    "The beverage order should select drinks with less ice",
+    "The beverage order should select drinks with no extra sugar to meet sugar restriction requirements"
+  ]
+}

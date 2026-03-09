@@ -1,0 +1,149 @@
+{
+  "task_id": "D0806002",
+  "domain": "ota",
+  "time": "2025-03-20 21:11:39",
+  "user_id": "U010009",
+  "weather": [
+    {
+      "city": "Zhengzhou",
+      "category": "overcast",
+      "datetime": "2025-03-22",
+      "temperature": [
+        8,
+        18
+      ],
+      "humidity": 56
+    },
+    {
+      "city": "Kaifeng",
+      "category": "cloudy",
+      "datetime": "2025-03-22",
+      "temperature": [
+        6,
+        16
+      ],
+      "humidity": 52
+    },
+    {
+      "city": "Luoyang",
+      "category": "sunny",
+      "datetime": "2025-03-22",
+      "temperature": [
+        5,
+        17
+      ],
+      "humidity": 48
+    }
+  ],
+  "location": [
+    {
+      "address": "Zhengshang Jinyu Shijia, 106 Jinshui West Road, Tongbai Road Street, Zhongyuan District, Zhengzhou, Henan Province",
+      "longitude": 113.625,
+      "latitude": 34.758
+    },
+    {
+      "address": "Zhangguang Building, 205 Shangcheng Road, Guancheng Hui District, Zhengzhou, Henan Province",
+      "longitude": 113.685,
+      "latitude": 34.743
+    },
+    {
+      "address": "Vanke Meijing Shikai, Zhongyuan District, Zhengzhou, Henan Province",
+      "longitude": 113.612,
+      "latitude": 34.765
+    }
+  ],
+  "user_profile": {
+    "user id": "U010009",
+    "occupation": "Algorithm Engineer",
+    "gender": "female",
+    "age group": "25~30",
+    "residence": "Luoyang",
+    "home address": "Zhengshang Jinyu Shijia, 106 Jinshui West Road, Tongbai Road Street, Zhongyuan District, Zhengzhou, Henan Province",
+    "work address": "Zhangguang Building, 205 Shangcheng Road, Guancheng Hui District, Zhengzhou, Henan Province",
+    "dietary restrictions": "No caffeine, Low sugar",
+    "family status": "In a relationship",
+    "personality": "Extremely detail-oriented, tends to be picky and easily dissatisfied"
+  },
+  "user_historical_behaviors": {
+    "user id": "U010009",
+    "occupation": "Algorithm Engineer",
+    "gender": "female",
+    "age group": "25~30",
+    "residence": "Luoyang",
+    "home address": "Zhengshang Jinyu Shijia, 106 Jinshui West Road, Tongbai Road Street, Zhongyuan District, Zhengzhou, Henan Province",
+    "work address": "Zhangguang Building, 205 Shangcheng Road, Guancheng Hui District, Zhengzhou, Henan Province",
+    "visited scenes": {
+      "Historical Sites": "35%",
+      "Exhibition Venues (Museums/Art Galleries)": "25%",
+      "Natural Landscapes (Mountains/Lakes/Forests)": "20%",
+      "Hot Spring Resorts": "12%",
+      "Special Villages/Industrial Tourism/Uncategorized": "8%"
+    },
+    "cost per night on hotel": "500~1000 yuan",
+    "visited hotels": {
+      "Atour": "40%",
+      "JI Hotel": "30%",
+      "Orange": "15%",
+      "Vienna": "15%"
+    },
+    "browsed hotels": {
+      "Four-star Hotels": "45%",
+      "Comfort Hotels": "35%",
+      "Three-star Hotels": "15%",
+      "Luxury Hotels": "5%"
+    },
+    "historical travel plans": {
+      "Luoyang-Beijing": {
+        "Price Range": "500-700 yuan",
+        "Transportation": "High-Speed Rail"
+      },
+      "Luoyang-Xi'an": {
+        "Price Range": "200-300 yuan",
+        "Transportation": "High-Speed Rail"
+      },
+      "Luoyang-Hangzhou": {
+        "Price Range": "800-1200 yuan",
+        "Transportation": "High-Speed Rail"
+      },
+      "Luoyang-Chengdu": {
+        "Price Range": "900-1400 yuan",
+        "Transportation": "Flight"
+      },
+      "Luoyang-Zhengzhou": {
+        "Price Range": "50-100 yuan",
+        "Transportation": "High-Speed Rail"
+      },
+      "Luoyang-Shanghai": {
+        "Price Range": "700-1100 yuan",
+        "Transportation": "High-Speed Rail"
+      }
+    }
+  },
+  "stores": {},
+  "orders": {
+    "D0806002T002": {
+      "order_id": "D0806002T002",
+      "order_type": "attraction",
+      "user_id": "U010009",
+      "store_id": "S17557513329986348_A00008",
+      "note": "",
+      "location": null,
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 240,
+      "create_time": "2025-03-18 14:25:30",
+      "update_time": "2025-03-18 14:25:30",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17557513329986348_P00066",
+          "price": 120,
+          "quantity": 2,
+          "date": "2025-03-23",
+          "ticket_type": "Adult Ticket"
+        }
+      ]
+    }
+  }
+}

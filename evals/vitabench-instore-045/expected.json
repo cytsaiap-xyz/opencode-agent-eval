@@ -1,0 +1,86 @@
+{
+  "required_orders": [
+    {
+      "order_id": "10826060T001",
+      "order_type": "instore",
+      "user_id": "U996108",
+      "store_id": "S17564426448032907_I00001",
+      "note": "",
+      "location": null,
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 268,
+      "create_time": "2024-10-27 14:20:00",
+      "update_time": "2024-10-27 14:20:00",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17564426448032907_P00001",
+          "name": "Guzheng Three-lesson Trial Package",
+          "price": 268,
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "reservation_id": "10826060T002",
+      "shop_id": "S17564426448032907_I00001",
+      "reservation_time": "2024-10-30 21:00:00",
+      "update_time": "2024-10-27 14:23:00",
+      "customer_id": "U996108",
+      "customer_count": 1,
+      "status": "paid"
+    },
+    {
+      "order_id": "10826060T003",
+      "order_type": "instore",
+      "user_id": "U996108",
+      "store_id": "S17564426448032907_I00003",
+      "note": "",
+      "location": null,
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 128,
+      "create_time": "2024-10-27 14:25:00",
+      "update_time": "2024-10-27 14:25:00",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17564426448032907_P00009",
+          "name": "2-hour Singing Only Package (2-4 people)",
+          "price": 128,
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "book_id": "10826060T004",
+      "shop_id": "S17564426448032907_I00005",
+      "book_time": "2024-10-27 20:00:00",
+      "update_time": "2024-10-27 14:28:00",
+      "customer_id": "U996108",
+      "customer_count": 3,
+      "book_price": 5,
+      "status": "paid"
+    }
+  ],
+  "rubrics": [
+    "The ordered item from the Guzheng training merchant should be a beginner instruction related course",
+    "The ordered item from the Guzheng training merchant should include instrument usage and basic fingering technique instruction",
+    "The ordered item from the Guzheng training merchant should be a three-lesson experience card",
+    "The ordered item from the Guzheng training merchant should cost less than or equal to 300 yuan (inclusive)",
+    "The ordered item from the Guzheng training merchant should be the Guzheng Three-lesson Experience Package",
+    "The Guzheng training merchant should be open until after 9 PM",
+    "The appointment time for the Guzheng training merchant should be October 30, 2024 at 21:00:00",
+    "The number of people for the Guzheng training appointment should be 1 person",
+    "The appointed Guzheng training merchant should be Ancient Melody Guzheng Art Training Center",
+    "The KTV should be within 3km (inclusive) from Room 1204, Building 3, Ronghe Shanshui Lvcheng, No.20 Fengling North Road, Qingxiu District, Nanning",
+    "The ordered item from KTV should be a package that only includes singing",
+    "The price of the ordered item from KTV should not exceed 200 yuan (inclusive)",
+    "Based on the user's historical behavior, the restaurant appointment should be at Helv Rotating Sushi (Mixc Branch)",
+    "The restaurant appointment time should be October 27, 2024 at 20:00:00",
+    "The number of people for the sushi restaurant appointment should be 3 people"
+  ]
+}

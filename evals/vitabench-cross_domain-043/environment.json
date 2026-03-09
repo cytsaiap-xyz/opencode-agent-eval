@@ -1,0 +1,1010 @@
+{
+  "task_id": "A0808001",
+  "domain": "cross_domain",
+  "time": "2026-04-03 23:37:21",
+  "user_id": "U010073",
+  "weather": [
+    {
+      "city": "Taizhou",
+      "category": "cloudy",
+      "datetime": "2026-04-03",
+      "temperature": [
+        15,
+        23
+      ],
+      "humidity": 68
+    },
+    {
+      "city": "Taizhou",
+      "category": "sunny",
+      "datetime": "2026-04-04",
+      "temperature": [
+        16,
+        24
+      ],
+      "humidity": 62
+    }
+  ],
+  "location": [
+    {
+      "address": "Room 203, Building 12, Jiangbin Garden, Hongjia Street, Jiaojiang District, Taizhou, Zhejiang Province",
+      "longitude": 121.382,
+      "latitude": 28.673
+    }
+  ],
+  "user_profile": {
+    "user id": "U010073",
+    "occupation": "Nurse",
+    "gender": "female",
+    "age group": "25~30",
+    "residence": "Taizhou",
+    "home address": "Room 203, Building 12, Jiangbin Garden, Hongjia Street, Jiaojiang District, Taizhou, Zhejiang Province",
+    "work address": "Taizhou First People's Hospital, 999 Central Avenue, Jiaojiang District, Taizhou, Zhejiang Province",
+    "dietary restrictions": "Allergic to mango, avoid caffeine",
+    "family status": "Couple",
+    "personality": "Expression is cold and brief, lacking emotional communication and patience"
+  },
+  "user_historical_behaviors": {
+    "user id": "U010073",
+    "occupation": "nurse",
+    "gender": "female",
+    "age group": "25~30",
+    "residence": "Taizhou",
+    "home address": "Room 203, Building 12, Jiangbin Garden, Hongjia Street, Jiaojiang District, Taizhou, Zhejiang Province",
+    "work address": "Taizhou First People's Hospital, 999 Central Avenue, Jiaojiang District, Taizhou, Zhejiang Province",
+    "delivery": {
+      "food delivery": {
+        "breakfast": {
+          "frequently purchased categories": [
+            "Quick Meals/Steamed Buns/Pan-fried Buns (Average 18 yuan)",
+            "Quick Meals/Rice Noodles (Average 22 yuan)",
+            "Quick Meals/Light Food (Average 32 yuan)"
+          ],
+          "cost per order": "15~35 yuan",
+          "preferred store rating": "4.5~4.8 points",
+          "preferred delivery time": "15~25 minutes",
+          "preferred distance": "0~1500m",
+          "recent orders": [
+            {
+              "store": "Xiao Yang Sheng Jian (Jiaojiang Store)",
+              "product": "Signature Pan-fried Buns + Soy Milk"
+            },
+            {
+              "store": "Jiahe Yipin (Taizhou Wanda Store)",
+              "product": "Original Rice Noodle Roll Set"
+            },
+            {
+              "store": "Light Food Salad Workshop",
+              "product": "Avocado Chicken Breast Salad"
+            }
+          ],
+          "search history": [
+            "Pan-fried Buns",
+            "Light Breakfast",
+            "Rice Noodles",
+            "Low-fat Breakfast"
+          ]
+        },
+        "weekday lunch/dinner": {
+          "frequently purchased categories": [
+            "Quick Meals/Salad (Average 35 yuan)",
+            "Chinese Cuisine/Cantonese (Average 58 yuan)",
+            "International Cuisine/Japanese Bento/Sushi (Average 45 yuan)"
+          ],
+          "cost per order": "30~65 yuan",
+          "preferred store rating": "4.6~4.9 points",
+          "preferred delivery time": "20~35 minutes",
+          "preferred distance": "0~2500m",
+          "recent orders": [
+            {
+              "store": "Light Food Philosophy (Creative Design Center Store)",
+              "product": "Quinoa Chicken Breast Salad + Fruit Cup (Mango-Free)"
+            },
+            {
+              "store": "Cantonese Pavilion (Jiaojiang Store)",
+              "product": "Steamed Sea Bass + Seasonal Vegetables"
+            },
+            {
+              "store": "Zhengxian Revolving Sushi",
+              "product": "Salmon Sushi Set"
+            }
+          ],
+          "search history": [
+            "Healthy Meals",
+            "Low Oil",
+            "Cantonese Cuisine",
+            "Sushi"
+          ]
+        },
+        "weekend lunch/dinner": {
+          "frequently purchased categories": [
+            "Chinese Cuisine/Grilled Fish (Average 88 yuan)",
+            "International Cuisine/Thai Food (Average 92 yuan)",
+            "Hot Pot/Individual Hot Pot (Average 78 yuan)"
+          ],
+          "cost per order": "70~120 yuan",
+          "preferred store rating": "4.7~5.0 points",
+          "preferred delivery time": "30~45 minutes",
+          "preferred distance": "0~3500m",
+          "recent orders": [
+            {
+              "store": "Riverside Grilled Fish (Taizhou Wanda Store)",
+              "product": "Spicy Grilled Fish + Vegetable Platter"
+            },
+            {
+              "store": "Thai One Thai Cuisine",
+              "product": "Tom Yum Soup + Thai Lemon Shrimp"
+            },
+            {
+              "store": "Little Fat Sheep Individual Hot Pot",
+              "product": "Mushroom Soup Base + Beef Rolls + Tofu"
+            }
+          ],
+          "search history": [
+            "Grilled Fish",
+            "Thai Food",
+            "Clear Broth Hot Pot"
+          ]
+        },
+        "desserts/drinks/snacks": {
+          "frequently purchased categories": [
+            "Beverages & Desserts/Juice (Average 25 yuan)",
+            "Beverages & Desserts/Fruit Salad (Average 32 yuan)",
+            "Beverages & Desserts/Chinese Pastries (Average 28 yuan)"
+          ],
+          "cost per order": "20~40 yuan",
+          "preferred store rating": "4.5~4.9 points",
+          "preferred delivery time": "15~30 minutes",
+          "preferred distance": "0~2000m",
+          "recent orders": [
+            {
+              "store": "Fresh Juice Station (Jiangnan Huafu Store)",
+              "product": "Fresh Grapefruit Juice"
+            },
+            {
+              "store": "Fresh Cut Fruit (Jiaojiang Store)",
+              "product": "Colorful Fruit Salad (Mango-Free)"
+            },
+            {
+              "store": "Tao Li Bakery (Taizhou Wanda Store)",
+              "product": "Red Bean Glutinous Rice Cake"
+            }
+          ],
+          "search history": [
+            "Freshly Squeezed Juice",
+            "Mango-Free",
+            "Fruit Salad",
+            "Sugar-Free Desserts"
+          ]
+        },
+        "night snack": {
+          "frequently purchased categories": [
+            "Quick Meals/Dumplings/Wonton (Average 30 yuan)",
+            "Snacks/Braised Food (Average 38 yuan)"
+          ],
+          "cost per order": "25~45 yuan",
+          "preferred store rating": "4.3~4.8 points",
+          "preferred delivery time": "20~35 minutes",
+          "preferred distance": "0~2500m",
+          "recent orders": [
+            {
+              "store": "Fumanlou Dumpling House",
+              "product": "Three Delicacies Dumplings + Side Dish"
+            },
+            {
+              "store": "Old Street Braised Food",
+              "product": "Braised Food Platter"
+            },
+            {
+              "store": "Xishi Tofu Pudding (Jiaojiang Store)",
+              "product": "Signature Tofu Pudding"
+            }
+          ],
+          "search history": [
+            "Dumplings",
+            "Braised Food",
+            "Light Night Snacks"
+          ]
+        }
+      },
+      "product delivery": {
+        "frequently purchased categories": [
+          "Fruit (28%)",
+          "Vegetables/Bean Products (23%)",
+          "Flowers & Gardening (19%)",
+          "Daily Necessities (15%)",
+          "Beauty & Skincare (10%)",
+          "Others (5%)"
+        ],
+        "frequently visited stores": [
+          "MissFresh (Jiaojiang District Store) (45%)",
+          "Hema Fresh (Taizhou Wanda Store) (30%)",
+          "Dingdong Grocery (Jiangnan Huafu Store) (20%)",
+          "Other Stores (5%)"
+        ],
+        "cost per order by category": {
+          "Fruit": "15~50 yuan",
+          "Vegetables/Bean Products": "5~20 yuan",
+          "Flowers & Gardening": "30~100 yuan",
+          "Daily Necessities": "20~60 yuan",
+          "Beauty & Skincare": "50~200 yuan"
+        },
+        "preferred delivery time": "30~60 minutes",
+        "typical order time": "10~12 AM (35%), 4~6 PM (40%), 8~9 PM (25%)",
+        "recent orders": [
+          {
+            "store": "MissFresh (Jiaojiang District Store)",
+            "product": "Organic Strawberries 500g"
+          },
+          {
+            "store": "Hema Fresh (Taizhou Wanda Store)",
+            "product": "Organic Spinach + Tofu"
+          },
+          {
+            "store": "Dingdong Grocery (Jiangnan Huafu Store)",
+            "product": "Succulent Plant Combination"
+          }
+        ],
+        "search history": [
+          "Organic Vegetables",
+          "Succulent Plants",
+          "Additive-Free Facial Cleanser",
+          "Fresh-Cut Fruit",
+          "Pure Cotton Towels"
+        ]
+      }
+    },
+    "in-store consumption": {
+      "in-store dining": {
+        "fine-dining": {
+          "frequently consumed categories": [
+            "Regional Cuisine/Local Jiangzhe Cuisine (Average 100 yuan)",
+            "Regional Cuisine/Fish Dishes (Average 70 yuan)",
+            "International Cuisine/Japanese Food (Average 110 yuan)"
+          ],
+          "preferred average price per person": "60~120 yuan",
+          "preferred store rating": "4.0~4.8 stars",
+          "typical dining time": "18:00-20:00",
+          "preferred distance": "1000~3000m",
+          "recent orders": [
+            {
+              "store": "Songzhu Jiangnan Cuisine",
+              "product": "West Lake Vinegar Fish Set"
+            },
+            {
+              "store": "Fish Joy Pavilion",
+              "product": "Steamed Sea Bass"
+            },
+            {
+              "store": "Hanami Sushi",
+              "product": "Selected Sashimi Platter"
+            }
+          ],
+          "search history": [
+            "Jiangzhe Cuisine",
+            "Japanese Food",
+            "Couple Package"
+          ]
+        },
+        "light meal": {
+          "frequently consumed categories": [
+            "Snacks & Fast Food/Chinese Quick Meals (Average 35 yuan)",
+            "Regional Cuisine/Local Jiangzhe Cuisine (Average 45 yuan)"
+          ],
+          "preferred average price per person": "30~50 yuan",
+          "preferred store rating": "3.5~4.2 stars",
+          "typical dining time": "11:30-13:00",
+          "preferred distance": "0~500m",
+          "recent orders": [
+            {
+              "store": "Grandma's Porridge",
+              "product": "Century Egg & Lean Meat Porridge + Side Dish"
+            },
+            {
+              "store": "Hangbang Quick Meals",
+              "product": "West Lake Beef Soup Set"
+            },
+            {
+              "store": "Old Street Noodle Shop",
+              "product": "Plain Noodles"
+            }
+          ],
+          "search history": [
+            "Light Quick Meals",
+            "Fast Food Near School",
+            "Noodles"
+          ]
+        },
+        "desserts/drinks/snacks": {
+          "frequently consumed categories": [
+            "Beverage Shops (Average 18 yuan)",
+            "Bread & Desserts (Average 25 yuan)"
+          ],
+          "preferred average price per person": "15~30 yuan",
+          "preferred store rating": "3.8~4.5 stars",
+          "typical dining time": "15:00-16:30",
+          "preferred distance": "0~800m",
+          "recent orders": [
+            {
+              "store": "Yidiandian Milk Tea",
+              "product": "Four Seasons Spring Tea (Sugar-Free)"
+            },
+            {
+              "store": "Bread Talk",
+              "product": "Whole Wheat Toast"
+            },
+            {
+              "store": "Naturally Good",
+              "product": "Fresh-Cut Fruit Box"
+            }
+          ],
+          "search history": [
+            "Sugar-Free Beverages",
+            "Low-Fat Desserts",
+            "Healthy Snacks"
+          ]
+        }
+      },
+      "other in-store services": {
+        "frequently consumed categories": {
+          "Sports & Fitness/Sports Venues": "40%",
+          "Sports & Fitness/Ball Sports": "30%",
+          "Leisure & Entertainment/Tea Houses": "20%",
+          "Beauty/Hair Care": "10%"
+        },
+        "cost per order by category": {
+          "Sports & Fitness/Sports Venues": "80~150 yuan",
+          "Sports & Fitness/Ball Sports": "60~120 yuan",
+          "Leisure & Entertainment/Tea Houses": "50~100 yuan",
+          "Beauty/Hair Care": "100~200 yuan"
+        },
+        "preferred store rating": "3.9~4.6 stars",
+        "preferred service time": "17:00-20:00",
+        "preferred distance": "500~3000m",
+        "recent orders": [
+          {
+            "store": "Jiaojiang District Sports Center",
+            "product": "Badminton Court 2 Hours"
+          },
+          {
+            "store": "Tianyi Tea House",
+            "product": "High Mountain Oolong Tea Set"
+          },
+          {
+            "store": "Hair Care World",
+            "product": "Scalp Treatment Set"
+          }
+        ],
+        "search history": [
+          "Badminton Courts",
+          "Health Tea Houses",
+          "Scalp Therapy"
+        ]
+      }
+    },
+    "OTA": {
+      "visited scenes": {
+        "Natural Landscapes (Mountains/Lakes/Forests)": "35%",
+        "Hot Springs": "25%",
+        "Exhibition Halls (Museums/Art Galleries)": "20%",
+        "Parks": "15%",
+        "Cultural & Historical Sites": "5%"
+      },
+      "cost per night on hotel": "300~500 yuan",
+      "visited hotels": {
+        "Home Inn": "30%",
+        "JI Hotel": "25%",
+        "Atour Hotel": "20%",
+        "Hanting Hotel": "15%",
+        "Vienna Hotel": "10%"
+      },
+      "browsed hotels": {
+        "3-Star Hotels": "45%",
+        "Comfort Hotels": "35%",
+        "Economy Hotels": "15%",
+        "4-Star Hotels": "5%"
+      },
+      "historical travel plans": {
+        "Taizhou-Hangzhou": {
+          "Price Range": "100-150 yuan",
+          "Transportation": "Long-distance Bus"
+        },
+        "Taizhou-Shanghai": {
+          "Price Range": "200-300 yuan",
+          "Transportation": "High-speed Rail/Bullet Train"
+        },
+        "Taizhou-Nanjing": {
+          "Price Range": "250-350 yuan",
+          "Transportation": "High-speed Rail/Bullet Train"
+        },
+        "Taizhou-Huangshan": {
+          "Price Range": "400-600 yuan",
+          "Transportation": "Self-driving"
+        },
+        "Taizhou-Ningbo": {
+          "Price Range": "100-200 yuan",
+          "Transportation": "Long-distance Bus"
+        }
+      }
+    }
+  },
+  "stores": {
+    "S17550942368098473_S00001": {
+      "name": "Premium Sports Nutrition Store",
+      "store_id": "S17550942368098473_S00001",
+      "score": 4.8,
+      "location": {
+        "address": "Premium Sports Nutrition Store, 28 Sports Center Road, Hongjia Street, Jiaojiang District, Taizhou, Zhejiang Province",
+        "latitude": 28.671,
+        "longitude": 121.409
+      },
+      "tags": [
+        "Sports Supplement",
+        "Health Food",
+        "Business Hours: 08:30-20:30"
+      ],
+      "store_type": "target",
+      "products": [
+        {
+          "name": "Gatorade Sports Electrolyte Drink 500ml",
+          "store_id": "S17550942368098473_S00001",
+          "store_name": "Premium Sports Nutrition Store",
+          "price": 12.9,
+          "tags": [
+            "Electrolyte Replenishment",
+            "Sports Drink",
+            "Rapid Hydration",
+            "Caffeine-Free"
+          ],
+          "product_id": "S17550942368098473_P00001",
+          "attributes": [
+            "Mango Flavor"
+          ],
+          "product_type": "target"
+        },
+        {
+          "name": "Vitamin Water Electrolyte Sports Drink 550ml",
+          "store_id": "S17550942368098473_S00001",
+          "store_name": "Premium Sports Nutrition Store",
+          "price": 15.8,
+          "tags": [
+            "Low Sugar",
+            "Vitamin-Enhanced",
+            "Sports Hydration",
+            "Caffeine-Free"
+          ],
+          "product_id": "S17550942368098473_P00002",
+          "attributes": [
+            "Grapefruit Flavor"
+          ],
+          "product_type": "target"
+        },
+        {
+          "name": "Energy Plus High Protein Bar 40g Peanut Flavor",
+          "store_id": "S17550942368098473_S00001",
+          "store_name": "Premium Sports Nutrition Store",
+          "price": 9.9,
+          "tags": [
+            "High Protein",
+            "Sports Supplement",
+            "Low Sugar",
+            "Fitness Snacks"
+          ],
+          "product_id": "S17550942368098473_P00003",
+          "attributes": [],
+          "product_type": "target"
+        },
+        {
+          "name": "Coconut Water Electrolyte Drink 330ml",
+          "store_id": "S17550942368098473_S00001",
+          "store_name": "Premium Sports Nutrition Store",
+          "price": 16.8,
+          "tags": [
+            "Natural Electrolytes",
+            "Fat-Free",
+            "Healthy Hydration",
+            "Low Calorie",
+            "Low Caffeine"
+          ],
+          "product_id": "S17550942368098473_P00005",
+          "attributes": [
+            "Original Flavor",
+            "Pineapple Flavor"
+          ],
+          "product_type": "target"
+        },
+        {
+          "name": "Mango Tropical Juice Sports Drink 500ml",
+          "store_id": "S17550942368098473_S00001",
+          "store_name": "Premium Sports Nutrition Store",
+          "price": 13.9,
+          "tags": [
+            "Tropical Fruit",
+            "Vitamin C",
+            "Electrolyte Replenishment",
+            "Quick Energy Replenishment"
+          ],
+          "product_id": "S17550942368098473_P00006",
+          "attributes": [
+            "Mango Flavor",
+            "Mixed Tropical Fruit Flavor"
+          ],
+          "product_type": "distraction"
+        },
+        {
+          "name": "Caffeine Energy Bar 50g",
+          "store_id": "S17550942368098473_S00001",
+          "store_name": "Premium Sports Nutrition Store",
+          "price": 12.5,
+          "tags": [
+            "Caffeine-Enhanced",
+            "Quick Refreshment",
+            "Pre-Workout Supplement",
+            "High Energy"
+          ],
+          "product_id": "S17550942368098473_P00007",
+          "attributes": [
+            "Mocha Flavor",
+            "Espresso Flavor"
+          ],
+          "product_type": "distraction"
+        },
+        {
+          "name": "Sports Supplement Set (2 Bottles of Electrolyte Drink + 4 Energy Bars)",
+          "store_id": "S17550942368098473_S00001",
+          "store_name": "Premium Sports Nutrition Store",
+          "price": 49,
+          "tags": [
+            "Sports Supplement",
+            "High Value for Money"
+          ],
+          "product_id": "S17550942368098473_P00008",
+          "attributes": [
+            "Mixed Flavors"
+          ],
+          "product_type": "target"
+        }
+      ]
+    },
+    "S17550942368098473_S00002": {
+      "name": "Vita Supply Store",
+      "store_id": "S17550942368098473_S00002",
+      "score": 4.7,
+      "location": {
+        "address": "Vita Supply Store, 156 Donghai Avenue, Jiaojiang District, Taizhou, Zhejiang Province",
+        "latitude": 28.675,
+        "longitude": 121.417
+      },
+      "tags": [
+        "Sports Drink",
+        "Professional Sports",
+        "24-Hour Service"
+      ],
+      "store_type": "target",
+      "products": [
+        {
+          "name": "Gatorade Electrolyte Sports Drink (Lemon Flavor)",
+          "store_id": "S17550942368098473_S00002",
+          "store_name": "Vita Supply Store",
+          "price": 9.9,
+          "tags": [
+            "Electrolyte Drink",
+            "Sports Supplement",
+            "Caffeine-Free",
+            "Low Sugar",
+            "Energy Supplementation"
+          ],
+          "product_id": "S17550942368098473_P00009",
+          "attributes": [
+            "Room Temperature",
+            "500ml"
+          ],
+          "product_type": "target"
+        },
+        {
+          "name": "Gatorade Electrolyte Sports Drink (Lime Flavor) 4-Pack",
+          "store_id": "S17550942368098473_S00002",
+          "store_name": "Vita Supply Store",
+          "price": 36.8,
+          "tags": [
+            "Electrolyte Drink",
+            "Sports Supplement",
+            "Caffeine-Free",
+            "Set",
+            "Energy Supplementation"
+          ],
+          "product_id": "S17550942368098473_P00010",
+          "attributes": [
+            "Room Temperature"
+          ],
+          "product_type": "target"
+        },
+        {
+          "name": "Vitamin Water (Tropical Fruit Flavor)",
+          "store_id": "S17550942368098473_S00002",
+          "store_name": "Vita Supply Store",
+          "price": 8.5,
+          "tags": [
+            "Vitamin Drink",
+            "Sports Supplement",
+            "Fruit Flavor",
+            "Vitamin Supplementation"
+          ],
+          "product_id": "S17550942368098473_P00013",
+          "attributes": [
+            "Room Temperature",
+            "500ml"
+          ],
+          "product_type": "distraction"
+        },
+        {
+          "name": "Sports Hydration Salt Tablets",
+          "store_id": "S17550942368098473_S00002",
+          "store_name": "Vita Supply Store",
+          "price": 25.8,
+          "tags": [
+            "Electrolyte Replenishment",
+            "Sports Supplement",
+            "Anti-Dehydration",
+            "Salt Replenishment"
+          ],
+          "product_id": "S17550942368098473_P00016",
+          "attributes": [
+            "20 tablets/box"
+          ],
+          "product_type": "target"
+        }
+      ]
+    },
+    "S17550942368098473_S00003": {
+      "name": "Naturally Fresh Juice Bar",
+      "store_id": "S17550942368098473_S00003",
+      "score": 4.5,
+      "location": {
+        "address": "Naturally Fresh Juice Bar, 12 Commercial Plaza, Hongjia Street, Jiaojiang District, Taizhou, Zhejiang Province",
+        "latitude": 28.674,
+        "longitude": 121.415
+      },
+      "tags": [
+        "Fresh Juice",
+        "Freshly Squeezed",
+        "Healthy Beverages",
+        "Business Hours: 10:00-20:30"
+      ],
+      "store_type": "distraction",
+      "products": [
+        {
+          "name": "Vitamin C Fresh-Squeezed Orange Juice",
+          "store_id": "S17550942368098473_S00003",
+          "store_name": "Naturally Fresh Juice Bar",
+          "price": 18,
+          "tags": [
+            "Freshly Squeezed",
+            "Vitamin C",
+            "Pure Juice",
+            "Additive-Free"
+          ],
+          "product_id": "S17550942368098473_P00017",
+          "attributes": [
+            "Room Temperature",
+            "Iced",
+            "Less Sugar",
+            "Sugar-Free"
+          ],
+          "product_type": "distraction"
+        },
+        {
+          "name": "Vitality Berry Smoothie",
+          "store_id": "S17550942368098473_S00003",
+          "store_name": "Naturally Fresh Juice Bar",
+          "price": 22,
+          "tags": [
+            "Mixed Fruit Juice",
+            "Berries",
+            "High Fiber",
+            "Antioxidant"
+          ],
+          "product_id": "S17550942368098473_P00018",
+          "attributes": [
+            "Room Temperature",
+            "Iced"
+          ],
+          "product_type": "distraction"
+        },
+        {
+          "name": "Energy Vegetable and Fruit Juice",
+          "store_id": "S17550942368098473_S00003",
+          "store_name": "Naturally Fresh Juice Bar",
+          "price": 26,
+          "tags": [
+            "Mixed Vegetables and Fruits",
+            "Detox",
+            "Energy Replenishment"
+          ],
+          "product_id": "S17550942368098473_P00020",
+          "attributes": [
+            "Room Temperature",
+            "Iced",
+            "Less Sugar",
+            "Sugar-Free"
+          ],
+          "product_type": "distraction"
+        },
+        {
+          "name": "Coffee Oatmeal Energy Bar",
+          "store_id": "S17550942368098473_S00003",
+          "store_name": "Naturally Fresh Juice Bar",
+          "price": 16,
+          "tags": [
+            "Coffee",
+            "Oatmeal",
+            "Energy Replenishment",
+            "Sports Snacks"
+          ],
+          "product_id": "S17550942368098473_P00023",
+          "attributes": [],
+          "product_type": "distraction"
+        }
+      ]
+    },
+    "S17550942368098473_S00004": {
+      "name": "Energy Workshop",
+      "store_id": "S17550942368098473_S00004",
+      "score": 4.6,
+      "location": {
+        "address": "Energy Workshop, 788 Central Avenue, Jiaojiang District, Taizhou, Zhejiang Province",
+        "latitude": 28.663,
+        "longitude": 121.42
+      },
+      "tags": [
+        "Sports Nutrition",
+        "Energy Replenishment",
+        "Fitness Food",
+        "Business Hours: 14:30-22:30"
+      ],
+      "store_type": "distraction",
+      "products": [
+        {
+          "name": "Gatorade Sports Drink 500ml",
+          "store_id": "S17550942368098473_S00004",
+          "store_name": "Energy Workshop",
+          "price": 9.9,
+          "tags": [
+            "Electrolyte Drink",
+            "Sports Supplement",
+            "Caffeine-Free"
+          ],
+          "product_id": "S17550942368098473_P00024",
+          "attributes": [],
+          "product_type": "target"
+        },
+        {
+          "name": "Mizone Vitamin Sports Drink 600ml",
+          "store_id": "S17550942368098473_S00004",
+          "store_name": "Energy Workshop",
+          "price": 8.5,
+          "tags": [
+            "Electrolyte Drink",
+            "Vitamin Supplementation",
+            "Sports Supplement"
+          ],
+          "product_id": "S17550942368098473_P00025",
+          "attributes": [
+            "Original Flavor",
+            "Lime Flavor",
+            "Watermelon Flavor"
+          ],
+          "product_type": "target"
+        },
+        {
+          "name": "Energy Star Bar 40g",
+          "store_id": "S17550942368098473_S00004",
+          "store_name": "Energy Workshop",
+          "price": 12.8,
+          "tags": [
+            "Energy Replenishment",
+            "Sports Snacks",
+            "Low Sugar"
+          ],
+          "product_id": "S17550942368098473_P00026",
+          "attributes": [
+            "Chocolate Flavor",
+            "Vanilla Flavor",
+            "Blueberry Flavor"
+          ],
+          "product_type": "target"
+        },
+        {
+          "name": "Power Source High Protein Energy Bar 50g",
+          "store_id": "S17550942368098473_S00004",
+          "store_name": "Energy Workshop",
+          "price": 15.9,
+          "tags": [
+            "High Protein",
+            "Energy Replenishment",
+            "Fitness Snacks"
+          ],
+          "product_id": "S17550942368098473_P00027",
+          "attributes": [
+            "Original Flavor",
+            "Peanut Flavor",
+            "Coconut Flavor"
+          ],
+          "product_type": "target"
+        }
+      ]
+    },
+    "S17550942368098473_S00005": {
+      "name": "FamilyMart (Jiangbin Store)",
+      "store_id": "S17550942368098473_S00005",
+      "score": 4.3,
+      "location": {
+        "address": "FamilyMart, 56 Jiangbin Road, Hongjia Street, Jiaojiang District, Taizhou, Zhejiang Province",
+        "latitude": 28.672,
+        "longitude": 121.41
+      },
+      "tags": [
+        "Convenience Store",
+        "Daily Necessities",
+        "Snacks and Beverages",
+        "Business Hours: 08:30-20:30"
+      ],
+      "store_type": "distraction",
+      "products": [
+        {
+          "name": "Mizone Vitamin Sports Drink (Mango Flavor)",
+          "store_id": "S17550942368098473_S00005",
+          "store_name": "FamilyMart (Jiangbin Store)",
+          "price": 7.5,
+          "tags": [
+            "Electrolyte Drink",
+            "Sports Supplement",
+            "Caffeine-Free",
+            "Mango-Free"
+          ],
+          "product_id": "S17550942368098473_P00033",
+          "attributes": [],
+          "product_type": "target"
+        },
+        {
+          "name": "Anda Energy Bar (Chocolate Flavor)",
+          "store_id": "S17550942368098473_S00005",
+          "store_name": "FamilyMart (Jiangbin Store)",
+          "price": 9.9,
+          "tags": [
+            "Energy Replenishment",
+            "Sports Snacks",
+            "Caffeine-Free",
+            "Mango-Free"
+          ],
+          "product_id": "S17550942368098473_P00034",
+          "attributes": [],
+          "product_type": "target"
+        },
+        {
+          "name": "Cardio Energy Bar (Nut Flavor)",
+          "store_id": "S17550942368098473_S00005",
+          "store_name": "FamilyMart (Jiangbin Store)",
+          "price": 10.5,
+          "tags": [
+            "Energy Replenishment",
+            "Sports Snacks",
+            "High Protein",
+            "Caffeine-Free",
+            "Mango-Free"
+          ],
+          "product_id": "S17550942368098473_P00035",
+          "attributes": [],
+          "product_type": "target"
+        },
+        {
+          "name": "Sports Towel (Quick-Dry)",
+          "store_id": "S17550942368098473_S00005",
+          "store_name": "FamilyMart (Jiangbin Store)",
+          "price": 19.9,
+          "tags": [
+            "Sports Accessories",
+            "Quick-Dry",
+            "Sweat-Absorbent"
+          ],
+          "product_id": "S17550942368098473_P00038",
+          "attributes": [
+            "Blue",
+            "Gray"
+          ],
+          "product_type": "distraction"
+        }
+      ]
+    },
+    "S17550942368098473_S00006": {
+      "name": "Tropical Fruit Store",
+      "store_id": "S17550942368098473_S00006",
+      "score": 4.4,
+      "location": {
+        "address": "Tropical Fruit Store, 33 Sunshine Road, Hongjia Street, Jiaojiang District, Taizhou, Zhejiang Province",
+        "latitude": 28.676,
+        "longitude": 121.413
+      },
+      "tags": [
+        "Fruit",
+        "Freshly Cut",
+        "Juice",
+        "24-Hour Service"
+      ],
+      "store_type": "distraction",
+      "products": [
+        {
+          "name": "Thai Golden Pillow Durian",
+          "store_id": "S17550942368098473_S00006",
+          "store_name": "Tropical Fruit Store",
+          "price": 168,
+          "tags": [
+            "Tropical Fruit",
+            "Highly Nutritious",
+            "Durian",
+            "Imported"
+          ],
+          "product_id": "S17550942368098473_P00040",
+          "attributes": [
+            "Whole",
+            "Cut"
+          ],
+          "product_type": "distraction"
+        },
+        {
+          "name": "Hainan Large Mango",
+          "store_id": "S17550942368098473_S00006",
+          "store_name": "Tropical Fruit Store",
+          "price": 29.9,
+          "tags": [
+            "Tropical Fruit",
+            "Mango",
+            "Domestic",
+            "Sweet"
+          ],
+          "product_id": "S17550942368098473_P00041",
+          "attributes": [
+            "500g",
+            "1kg"
+          ],
+          "product_type": "distraction"
+        },
+        {
+          "name": "Peach Juice",
+          "store_id": "S17550942368098473_S00006",
+          "store_name": "Tropical Fruit Store",
+          "price": 14.9,
+          "tags": [
+            "Freshly Squeezed",
+            "Juice",
+            "Peach",
+            "Beverages"
+          ],
+          "product_id": "S17550942368098473_P00046",
+          "attributes": [
+            "Room Temperature",
+            "Iced"
+          ],
+          "product_type": "distraction"
+        },
+        {
+          "name": "Sports Electrolyte Drink",
+          "store_id": "S17550942368098473_S00006",
+          "store_name": "Tropical Fruit Store",
+          "price": 15.5,
+          "tags": [
+            "Sports Supplement",
+            "Sugar-Free",
+            "Hydration"
+          ],
+          "product_id": "S17550942368098473_P00047",
+          "attributes": [
+            "500ml"
+          ],
+          "product_type": "target"
+        }
+      ]
+    }
+  },
+  "orders": {}
+}

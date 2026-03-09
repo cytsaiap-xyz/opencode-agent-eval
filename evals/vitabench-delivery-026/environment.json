@@ -1,0 +1,379 @@
+{
+  "task_id": "40711005",
+  "domain": "delivery",
+  "time": "2024-11-28 18:54:23",
+  "user_id": "U000055",
+  "weather": [
+    {
+      "city": "Zhengzhou City",
+      "category": "rainy",
+      "datetime": "2024-11-28",
+      "temperature": [
+        4,
+        11
+      ],
+      "humidity": 89
+    }
+  ],
+  "location": [
+    {
+      "address": "Henan Digital Certificate Authentication Center, Building 2, Future International, No. 26 Business Inner Ring Road, Jinshui District, Zhengzhou City, Henan Province",
+      "longitude": 113.733659,
+      "latitude": 34.771419
+    }
+  ],
+  "user_profile": {
+    "user id": "U000055",
+    "occupation": "Network Engineer",
+    "gender": "male",
+    "age group": "30~35",
+    "residence": "Zhengzhou",
+    "home address": "Yulan Xiaohe, No. 62 Yulan Street, Wutong Street, Zhongyuan District, Zhengzhou City, Henan Province",
+    "work address": "Henan Digital Certificate Authentication Center, Building 2, Future International, No. 26 Business Inner Ring Road, Jinshui District, Zhengzhou City, Henan Province",
+    "dietary restrictions": "No organ meats, no alcohol",
+    "family status": "Unknown",
+    "personality": "Emotionally volatile, expresses with strong emotional coloring"
+  },
+  "user_historical_behaviors": {
+    "user id": "U000055",
+    "occupation": "Network Engineer",
+    "gender": "male",
+    "age group": "30~35",
+    "residence": "Zhengzhou",
+    "home address": "Yulan Xiaohe, No. 62 Yulan Street, Wutong Street, Zhongyuan District, Zhengzhou City, Henan Province",
+    "work address": "Henan Digital Certificate Authentication Center, Building 2, Future International, No. 26 Business Inner Ring Road, Jinshui District, Zhengzhou City, Henan Province",
+    "breakfast": {
+      "frequently purchased categories": [
+        "Quick meals/Steamed buns/Pan-fried buns (average 25 yuan)",
+        "Quick meals/Spicy soup (average 15 yuan)",
+        "Quick meals/Fried dough sticks (average 8 yuan)"
+      ],
+      "cost per order": "15~35 yuan",
+      "preferred store rating": "4.2~4.8 stars",
+      "preferred delivery time": "15~30 minutes",
+      "preferred distance": "0~2500m",
+      "recent orders": [
+        {
+          "store": "Lao Zheng Spicy Soup",
+          "product": "Beef spicy soup + Meat bun"
+        },
+        {
+          "store": "Liu's Pan-fried Buns",
+          "product": "Signature pan-fried buns + Soy milk"
+        },
+        {
+          "store": "Breakfast Mr.",
+          "product": "Fried dough sticks + Tofu pudding set"
+        }
+      ],
+      "search history": [
+        "Spicy soup",
+        "Steamed buns",
+        "Soy milk",
+        "Pan-fried buns",
+        "Breakfast set"
+      ]
+    },
+    "weekday lunch/dinner": {
+      "frequently purchased categories": [
+        "Quick meals/Rice bowls (average 25 yuan)",
+        "Quick meals/Braised chicken with rice (average 28 yuan)",
+        "Quick meals/Rice noodles (average 25 yuan)"
+      ],
+      "cost per order": "25~60 yuan",
+      "preferred store rating": "4.5~5.0 stars",
+      "preferred delivery time": "20~35 minutes",
+      "preferred distance": "0~4000m",
+      "recent orders": [
+        {
+          "store": "Braised Chicken Rice",
+          "product": "Signature braised chicken + Cola"
+        },
+        {
+          "store": "Shaxian Snacks (Yanle Road Store)",
+          "product": "Mushroom fried meat rice bowl"
+        },
+        {
+          "store": "Cantonese-Hunan Noodles",
+          "product": "Beef noodles + Braised egg"
+        }
+      ],
+      "search history": [
+        "Fast food",
+        "Rice Bowl",
+        "Braised chicken",
+        "Rice noodles",
+        "Work meal"
+      ]
+    },
+    "weekend lunch/dinner": {
+      "frequently purchased categories": [
+        "Chinese cuisine/Sichuan cuisine (average 88 yuan)",
+        "Foreign flavors/Stone pot rice/Iron plate rice (average 68 yuan)",
+        "Hot pot/Personal hot pot (average 75 yuan)"
+      ],
+      "cost per order": "65~180 yuan",
+      "preferred store rating": "4.5~4.9 stars",
+      "preferred delivery time": "30~45 minutes",
+      "preferred distance": "0~5000m",
+      "recent orders": [
+        {
+          "store": "Sichuan Cuisine",
+          "product": "Boiled fish + Twice-cooked pork + Rice"
+        },
+        {
+          "store": "Korean Stone Pot",
+          "product": "Beef stone pot bibimbap + Seaweed soup"
+        },
+        {
+          "store": "Little Cow Hot Pot",
+          "product": "Signature beef self-heating hot pot"
+        }
+      ],
+      "search history": [
+        "Sichuan cuisine",
+        "Stone pot bibimbap",
+        "Hot pot",
+        "Family set meal",
+        "Kid's meal"
+      ]
+    },
+    "desserts/drinks/snacks": {
+      "frequently purchased categories": [
+        "Beverages and desserts/Coffee (average 28 yuan)",
+        "Beverages and desserts/Milk tea (average 22 yuan)",
+        "Beverages and desserts/Chinese pastries (average 35 yuan)"
+      ],
+      "cost per order": "18~45 yuan",
+      "preferred store rating": "4.5~5.0 stars",
+      "preferred delivery time": "15~45 minutes",
+      "preferred distance": "0~4000m",
+      "recent orders": [
+        {
+          "store": "Le158Cafe (Coffee, Kewen First Street Branch)",
+          "product": "Dark Roast Flat White (Rich and Strong)"
+        },
+        {
+          "store": "Cha Bai Dao",
+          "product": "Cheese Peach Tea"
+        },
+        {
+          "store": "Song's Pastry",
+          "product": "Mung Bean Cake Gift Box"
+        }
+      ],
+      "search history": [
+        "Coffee",
+        "Afternoon tea",
+        "Milk tea",
+        "Pastry"
+      ]
+    },
+    "night snack": {
+      "frequently purchased categories": [
+        "Quick meals/Rice noodles (average 28 yuan)",
+        "Quick meals/Dumplings/Wonton (average 30 yuan)"
+      ],
+      "cost per order": "25~55 yuan",
+      "preferred store rating": "4.0~4.6 stars",
+      "preferred delivery time": "25~40 minutes",
+      "preferred distance": "0~3500m",
+      "recent orders": [
+        {
+          "store": "Cantonese Rice Noodle Rolls",
+          "product": "Beef rice noodle rolls"
+        },
+        {
+          "store": "Dumpling House",
+          "product": "Three-delicacies dumplings + Hot and sour soup"
+        }
+      ],
+      "search history": [
+        "Fried chicken",
+        "Night snack",
+        "Rice noodle rolls",
+        "Dumplings",
+        "Late night meal set"
+      ]
+    }
+  },
+  "stores": {
+    "S13446654125504467_S94507": {
+      "name": "Lanzhou Beef Noodles",
+      "store_id": "S13446654125504467_S94507",
+      "score": 5,
+      "location": {
+        "address": "No. 55, 1st Floor, Zone B, Oriental Commercial Plaza, No. 2 Jiuru Road, Ruyi Lake Office, Zhengdong New District, Zhengzhou City, Henan Province",
+        "latitude": 34.776273,
+        "longitude": 113.732502
+      },
+      "tags": [],
+      "products": [
+        {
+          "name": "Green Pepper Beef Rice Bowl",
+          "store_id": "S13446654125504467_S94507",
+          "store_name": "Lanzhou Beef Noodles",
+          "price": 19.0,
+          "tags": [
+            "Rice Bowl",
+            "Beef"
+          ],
+          "product_id": "S30851657772923813_P84076",
+          "attributes": [],
+          "quantity": 9999
+        },
+        {
+          "name": "Tomato and Egg Rice Bowl",
+          "product_id": "S27732532328274796_P52803",
+          "store_id": "S13446654125504467_S94507",
+          "store_name": "Lanzhou Beef Noodles",
+          "price": 20,
+          "tags": [],
+          "attributes": [],
+          "quantity": 9999
+        },
+        {
+          "name": "Beef Pulled Noodles",
+          "product_id": "S18602686024040029_P73198",
+          "store_id": "S13446654125504467_S94507",
+          "store_name": "Lanzhou Beef Noodles",
+          "price": 18,
+          "tags": [],
+          "attributes": [],
+          "quantity": 9999
+        }
+      ]
+    },
+    "S14040631712091225_S61822": {
+      "name": "Starbucks Delivery (Zhengzhou Yongwei Wooden Color Park Branch)",
+      "store_id": "S14040631712091225_S61822",
+      "score": 5,
+      "location": {
+        "address": "Unit L117-L118, 1st Floor, Building 6, Business East 5th Street, Zhengzhou Area (Zhengdong) of Henan Free Trade Zone",
+        "latitude": 34.723675,
+        "longitude": 113.800825
+      },
+      "tags": [],
+      "products": [
+        {
+          "name": "Golden Roast Flat White",
+          "store_id": "S14040631712091225_S61822",
+          "store_name": "Starbucks Delivery (Zhengzhou Yongwei Wooden Color Park Branch)",
+          "price": 38.0,
+          "tags": [],
+          "product_id": "S15117001798616133_P52715",
+          "attributes": [
+            "Hot",
+            "Iced",
+            "Less Ice",
+            "No Ice"
+          ],
+          "quantity": 9999
+        },
+        {
+          "name": "Double Cup Iced Golden Roast Flat White (Large)",
+          "product_id": "S13959676414259631_P53310",
+          "store_id": "S14040631712091225_S61822",
+          "store_name": "Starbucks Delivery (Zhengzhou Yongwei Wooden Color Park Branch)",
+          "price": 76,
+          "tags": [],
+          "attributes": [],
+          "quantity": 9999
+        },
+        {
+          "name": "Golden Roast Americano",
+          "product_id": "S23759471481393754_P49132",
+          "store_id": "S14040631712091225_S61822",
+          "store_name": "Starbucks Delivery (Zhengzhou Yongwei Wooden Color Park Branch)",
+          "price": 27,
+          "tags": [],
+          "attributes": [
+            "Hot",
+            "Iced",
+            "Less Ice",
+            "No Ice",
+            "Regular Ice"
+          ],
+          "quantity": 9999
+        }
+      ]
+    },
+    "S30343949571872583_S48941": {
+      "name": "Le158Cafe (Coffee, Kewen First Street Branch)",
+      "store_id": "S30343949571872583_S48941",
+      "score": 5,
+      "location": {
+        "address": "No. 111, 1st Floor, Building 1, No. 5 Minsheng Road, Jicheng Office, Zhengdong New District, Zhengzhou City, Henan Province",
+        "latitude": 34.759823,
+        "longitude": 113.7538
+      },
+      "tags": [],
+      "products": [
+        {
+          "name": "Dark Roast Flat White (Rich and Strong)",
+          "product_id": "S30343949571872583_P48941",
+          "store_id": "S30343949571872583_S48941",
+          "store_name": "Le158Cafe (Coffee, Kewen First Street Branch)",
+          "price": 30,
+          "tags": [],
+          "attributes": [
+            "Hot Flat White"
+          ],
+          "quantity": 9999
+        }
+      ]
+    },
+    "S26370994348910082_S69220": {
+      "name": "Zhuangyuan Pie | Changsha Gai Mafan (Jicheng Branch)",
+      "store_id": "S26370994348910082_S69220",
+      "score": 4.9,
+      "location": {
+        "address": "No. 2-20, Jicheng East 5 Community, Xiong'er River Road, Zhengdong New District, Zhengzhou City, Henan Province",
+        "latitude": 34.777909,
+        "longitude": 113.767326
+      },
+      "tags": [],
+      "products": [
+        {
+          "name": "Stir-fried Beef Rice Bowl (Premium Beef)",
+          "product_id": "S31355361504663837_P03274",
+          "store_id": "S26370994348910082_S69220",
+          "store_name": "Zhuangyuan Pie | Changsha Gai Mafan (Jicheng Branch)",
+          "price": 27.9,
+          "tags": [],
+          "attributes": [],
+          "quantity": 9999
+        }
+      ]
+    }
+  },
+  "orders": {
+    "40711005O01": {
+      "order_id": "40711005O01",
+      "order_type": "delivery",
+      "user_id": "U000055",
+      "store_id": "S30343949571872583_S48941",
+      "note": "",
+      "location": {
+        "address": "Henan Digital Certificate Authentication Center, Building 2, Future International, No. 26 Business Inner Ring Road, Jinshui District, Zhengzhou City, Henan Province",
+        "longitude": 113.733659,
+        "latitude": 34.771419
+      },
+      "dispatch_time": "2024-11-25 09:12:00",
+      "shipping_time": 43,
+      "delivery_time": "2024-11-25 09:55:00",
+      "total_price": 30.0,
+      "create_time": "2024-11-25 09:03:00",
+      "update_time": "2024-11-25 09:03:00",
+      "status": "delivered",
+      "products": [
+        {
+          "product_id": "S65274141760381510_P27521",
+          "price": 30.0,
+          "quantity": 1,
+          "attributes": "Hot Flat White"
+        }
+      ]
+    }
+  }
+}

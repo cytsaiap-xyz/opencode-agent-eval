@@ -1,0 +1,68 @@
+{
+  "required_orders": [
+    {
+      "order_id": "80715002T01",
+      "order_type": "delivery",
+      "user_id": "U000032",
+      "store_id": "S25381701465595981_S98282",
+      "note": "",
+      "location": {
+        "address": "Dalian Software Park, 160 meters northeast of the intersection of Huangpu Road and Shuxiang Street, Shahekou District, Dalian, Liaoning Province",
+        "longitude": 121.546838,
+        "latitude": 38.876003
+      },
+      "dispatch_time": "2025-05-08 19:02:00",
+      "shipping_time": 43,
+      "delivery_time": "2025-05-08 19:45:00",
+      "total_price": 60,
+      "create_time": "2025-05-08 18:55:00",
+      "update_time": "2025-05-08 18:55:00",
+      "status": "delivered",
+      "products": [
+        {
+          "product_id": "S57892083557412990_P58196",
+          "price": 20,
+          "quantity": 3,
+          "attributes": "Hot"
+        }
+      ]
+    },
+    {
+      "order_id": "80715002T02",
+      "order_type": "delivery",
+      "user_id": "U000032",
+      "store_id": "S23249297713141485_S15240",
+      "note": "",
+      "location": {
+        "address": "Dalian Software Park, 160 meters northeast of the intersection of Huangpu Road and Shuxiang Street, Shahekou District, Dalian, Liaoning Province",
+        "longitude": 121.546838,
+        "latitude": 38.876003
+      },
+      "dispatch_time": "2025-05-08 19:10:00",
+      "shipping_time": 23,
+      "delivery_time": "2025-05-08 19:33:00",
+      "total_price": 30,
+      "create_time": "2025-05-08 18:59:00",
+      "update_time": "2025-05-08 18:59:00",
+      "status": "delivered",
+      "products": [
+        {
+          "product_id": "S23098322117622348_P79075",
+          "price": 3,
+          "quantity": 10,
+          "attributes": []
+        }
+      ]
+    }
+  ],
+  "rubrics": [
+    "The Black Sesame product ordered from Honeymoon Dessert should be selected with hot drink attribute, suitable for cold stomach conditions",
+    "The Honeymoon Dessert store ordered from should be Honeymoon Dessert (Dalian CapitaMall Peace Plaza Second Store)",
+    "The delivery address for Black Sesame order should be Dalian Software Park, 160 meters northeast of the intersection of Huangpu Road and Shuxiang Street, Shahekou District, Dalian, Liaoning Province",
+    "The estimated delivery time for Black Sesame order should be before 2025-05-08 20:00:00, ensuring the user can enjoy it before working overtime",
+    "The quantity of Black Sesame order should be 3 portions",
+    "The delivery address for Corn Cake products order should be Dalian Software Park, 160 meters northeast of the intersection of Huangpu Road and Shuxiang Street, Shahekou District, Dalian, Liaoning Province",
+    "The estimated delivery time for Corn Cake products order should be before 2025-05-08 20:00:00",
+    "The order quantity of Corn Cake products should be 10 pieces, meeting the stocking needs"
+  ]
+}

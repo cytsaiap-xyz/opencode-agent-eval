@@ -1,0 +1,73 @@
+{
+  "required_orders": [
+    {
+      "order_id": "10811009T001",
+      "order_type": "instore",
+      "user_id": "U060554",
+      "store_id": "S17550806591392888_I00007",
+      "note": "",
+      "location": null,
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 458,
+      "create_time": "2025-09-19 10:33:00",
+      "update_time": "2025-09-19 10:33:00",
+      "status": "unpaid",
+      "products": [
+        {
+          "product_id": "S17550806591392888_P00053",
+          "name": "[Couple Special] Qinghan Elegance Photography Package",
+          "price": 458,
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "order_id": "10811009T002",
+      "order_type": "instore",
+      "user_id": "U060554",
+      "store_id": "S17550806591392888_I00009",
+      "note": "",
+      "location": null,
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 288,
+      "create_time": "2025-09-19 10:37:00",
+      "update_time": "2025-09-19 10:37:00",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17550806591392888_P00063",
+          "name": "Songhe Couple Package",
+          "price": 288,
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "book_id": "10811009T003",
+      "shop_id": "S17550806591392888_I00009",
+      "book_time": "2025-09-21 16:00:00",
+      "update_time": "2025-09-19 10:39:00",
+      "customer_id": "U060554",
+      "customer_count": 2,
+      "book_price": 20,
+      "status": "unconsumed"
+    }
+  ],
+  "rubrics": [
+    "The Hanfu store should be within 1km of Xiyuan Temple",
+    "The ordered product from the Hanfu store should be a couple photography package including styling",
+    "The ordered restaurant should mainly serve Suzhou Cuisine",
+    "The ordered restaurant should offer free Pingtan performance",
+    "The ordered restaurant should provide free Pingtan performance between 4:00 PM and 7:30 PM",
+    "The restaurant order should be for one couple meal, not two individual meals",
+    "The restaurant reservation is for Songhelou Restaurant",
+    "The restaurant reservation time is September 21, 2025, at 16:00",
+    "The restaurant reservation is for 2 people",
+    "The last time milk tea was ordered was July 10, 2025",
+    "The last milk tea order was more than one month before September 20, 2025"
+  ]
+}

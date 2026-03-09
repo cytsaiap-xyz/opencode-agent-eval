@@ -1,0 +1,195 @@
+{
+  "task_id": "10826110",
+  "domain": "instore",
+  "time": "2023-04-01 15:32:00",
+  "user_id": "U499750",
+  "weather": [
+    {
+      "city": "Dalian",
+      "category": "cloudy",
+      "datetime": "2023-04-01",
+      "temperature": [
+        12,
+        18
+      ],
+      "humidity": 58
+    },
+    {
+      "city": "Dalian",
+      "category": "sunny",
+      "datetime": "2023-04-05",
+      "temperature": [
+        14,
+        21
+      ],
+      "humidity": 45
+    }
+  ],
+  "location": [
+    {
+      "address": "Room 1201, Unit 1, Building A3, Xinghai Square, Shahekou District, Dalian",
+      "longitude": 121.586128,
+      "latitude": 38.878754
+    },
+    {
+      "address": "15th Floor, Triumph International Building, No.5 Harbor Square, Zhongshan District, Dalian",
+      "longitude": 121.644721,
+      "latitude": 38.918723
+    },
+    {
+      "address": "Zone B2, Xinghai Square, Shahekou District, Dalian",
+      "longitude": 121.583519,
+      "latitude": 38.880562
+    }
+  ],
+  "user_profile": {
+    "user id": "U499750",
+    "occupation": "Advertising Planner",
+    "gender": "female",
+    "age group": "25~30",
+    "residence": "Dalian",
+    "home address": "Room 1201, Unit 1, Building A3, Xinghai Square, Shahekou District, Dalian",
+    "work address": "15th Floor, Triumph International Building, No.5 Harbor Square, Zhongshan District, Dalian",
+    "dietary restrictions": "Avoid high sugar",
+    "family status": "In a relationship",
+    "personality": "Tends to take control, doesn't easily accept different opinions"
+  },
+  "user_historical_behaviors": {
+    "user id": "U499750",
+    "occupation": "Advertising Planner",
+    "gender": "female",
+    "age group": "25~30",
+    "residence": "Dalian",
+    "home address": "Room 1201, Unit 1, Building A3, Xinghai Square, Shahekou District, Dalian",
+    "work address": "15th Floor, Triumph International Building, No.5 Harbor Square, Zhongshan District, Dalian",
+    "in-store dining": {
+      "fine-dining": {
+        "frequently purchased categories": [
+          "Foreign Cuisine/Western Food (Average 135 yuan)",
+          "Foreign Cuisine/Japanese Food (Average 160 yuan)",
+          "Regional Cuisine/Cantonese Food (Average 120 yuan)"
+        ],
+        "preferred average price per person": "120~160 yuan",
+        "preferred store rating": "4.2~4.9 stars",
+        "typical dining time": "19:00-21:00",
+        "preferred distance": "1000~3000m",
+        "recent orders": [
+          {
+            "store": "Dalian Bayside Western Restaurant",
+            "product": "Low-sugar Steak Set"
+          },
+          {
+            "store": "Sushi Master",
+            "product": "Premium Sashimi Platter"
+          },
+          {
+            "store": "Yue Lai Shun",
+            "product": "Steamed Sea Bass"
+          }
+        ],
+        "search history": [
+          "Sugar-free Western Food",
+          "Healthy Japanese Food",
+          "High-end Restaurants near Xinghai Square"
+        ]
+      },
+      "light meal": {
+        "frequently purchased categories": [
+          "Fast Food/Chinese Quick Meal (Average 35 yuan)",
+          "Fast Food/Western Fast Food (Average 45 yuan)",
+          "Regional Cuisine/Northeastern Cuisine (Average 50 yuan)"
+        ],
+        "preferred average price per person": "30~50 yuan",
+        "preferred store rating": "3.5~4.3 stars",
+        "typical dining time": "12:00-13:30",
+        "preferred distance": "0~500m",
+        "recent orders": [
+          {
+            "store": "Northeastern Chef",
+            "product": "Sweet and Sour Pork Set (Less Sugar)"
+          },
+          {
+            "store": "Mr. Salad",
+            "product": "Light Chicken Breast Salad"
+          },
+          {
+            "store": "Fresh Porridge",
+            "product": "Preserved Egg and Lean Pork Porridge"
+          }
+        ],
+        "search history": [
+          "Fast Food near Office Building",
+          "Low-sugar Lunch",
+          "Healthy Quick Meal"
+        ]
+      },
+      "desserts/drinks/snacks": {
+        "frequently purchased categories": [
+          "Beverage Shops (Average 25 yuan)",
+          "Bread and Desserts (Average 30 yuan)"
+        ],
+        "preferred average price per person": "20~35 yuan",
+        "preferred store rating": "4.0~4.8 stars",
+        "typical dining time": "15:00-16:30",
+        "preferred distance": "0~800m",
+        "recent orders": [
+          {
+            "store": "HeyTea",
+            "product": "Grape with Aloe (Sugar-free)"
+          },
+          {
+            "store": "BreadTalk",
+            "product": "Sugar-free Whole Wheat Bread"
+          },
+          {
+            "store": "Deer Tea",
+            "product": "Jasmine Green Tea (Less Sugar)"
+          }
+        ],
+        "search history": [
+          "Sugar-free Drinks",
+          "Low-calorie Desserts",
+          "Healthy Afternoon Tea"
+        ]
+      }
+    },
+    "other in-store services": {
+      "frequently consumed categories": {
+        "Beauty/Yoga": "35%",
+        "Sports & Fitness/Fitness Center": "30%",
+        "Beauty/Hair Salon": "20%",
+        "Entertainment/DIY Workshop": "15%"
+      },
+      "cost per order by category": {
+        "Beauty/Yoga": "120~200 yuan",
+        "Sports & Fitness/Fitness Center": "80~150 yuan",
+        "Beauty/Hair Salon": "200~350 yuan",
+        "Entertainment/DIY Workshop": "150~250 yuan"
+      },
+      "preferred store rating": "4.0~4.8 stars",
+      "preferred service time": "18:00-21:00",
+      "preferred distance": "0~2500m",
+      "recent orders": [
+        {
+          "store": "Starlight Yoga",
+          "product": "Private Lessons (5 Sessions)"
+        },
+        {
+          "store": "Easy Fitness",
+          "product": "Monthly Pass"
+        },
+        {
+          "store": "Creative Workshop",
+          "product": "Couples Pottery DIY Experience"
+        }
+      ],
+      "search history": [
+        "Yoga near Xinghai Square",
+        "Couples DIY Activities",
+        "Women's Professional Gym"
+      ]
+    }
+  },
+  "stores": {},
+  "orders": {}
+}

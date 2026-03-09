@@ -1,0 +1,87 @@
+{
+  "required_orders": [
+    {
+      "order_id": "10826189T001",
+      "order_type": "instore",
+      "user_id": "U399083",
+      "store_id": "S17567836570014111_I00001",
+      "note": "",
+      "location": null,
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 999,
+      "create_time": "2024-02-13 15:32:00",
+      "update_time": "2024-02-13 15:32:00",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17567836570014111_P00001",
+          "name": "Couple European petal essential oil spa package",
+          "price": 999,
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "reservation_id": "10826189T002",
+      "shop_id": "S17567836570014111_I00001",
+      "reservation_time": "2024-02-14 15:00:00",
+      "update_time": "2024-02-13 15:32:18",
+      "customer_id": "U399083",
+      "customer_count": 2,
+      "status": "paid"
+    },
+    {
+      "order_id": "10826189T003",
+      "order_type": "instore",
+      "user_id": "U399083",
+      "store_id": "S17567836570014111_I00004",
+      "note": "",
+      "location": null,
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 988,
+      "create_time": "2024-02-13 15:34:46",
+      "update_time": "2024-02-13 15:34:46",
+      "status": "unpaid",
+      "products": [
+        {
+          "product_id": "S17567836570014111_P00019",
+          "name": "Romantic candlelight dinner for two package",
+          "price": 988,
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "book_id": "10826189T004",
+      "shop_id": "S17567836570014111_I00004",
+      "book_time": "2024-02-14 19:00:00",
+      "update_time": "2024-02-13 15:36:05",
+      "customer_id": "U399083",
+      "customer_count": 2,
+      "book_price": 10,
+      "status": "unpaid"
+    }
+  ],
+  "rubrics": [
+    "The booked spa should have European style decoration",
+    "The spa package should include a couple suite",
+    "The spa package should include full body essential oil massage",
+    "The spa package should provide petal bath service",
+    "The spa package should be available for two people",
+    "The reserved spa should be Dream Paris Spa Club",
+    "The spa reservation time should be 2024-02-14 15:00:00",
+    "The number of people for the spa reservation should be 2",
+    "The restaurant should be a French restaurant",
+    "The restaurant should have music performance",
+    "The restaurant package should be a couple dining option",
+    "The restaurant package should have Escargot not included",
+    "The total cost of the spa order and restaurant order should not exceed 2000 yuan",
+    "The reserved restaurant should be Blue Moon French Restaurant",
+    "The restaurant reservation time should be 2024-02-14 19:00:00",
+    "The number of people for the restaurant reservation should be 2"
+  ]
+}

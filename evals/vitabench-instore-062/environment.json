@@ -1,0 +1,227 @@
+{
+  "task_id": "10826101",
+  "domain": "instore",
+  "time": "2025-04-30 14:23:00",
+  "user_id": "U787176",
+  "weather": [
+    {
+      "city": "Nanchang",
+      "category": "sunny",
+      "datetime": "2025-04-30",
+      "temperature": [
+        18,
+        28
+      ],
+      "humidity": 45
+    },
+    {
+      "city": "Nanchang",
+      "category": "cloudy",
+      "datetime": "2025-05-01",
+      "temperature": [
+        20,
+        27
+      ],
+      "humidity": 55
+    }
+  ],
+  "location": [
+    {
+      "address": "Room 1503, Unit 2, Building 12, Greenland New Metropolis, 1399 Hongdu North Avenue, Qingyunpu District, Nanchang",
+      "longitude": 115.9235,
+      "latitude": 28.6213
+    },
+    {
+      "address": "Creative Design Studio, Room 1208, Building B, Wanda Plaza, 1266 Fenghe Middle Avenue, Honggutan New District, Nanchang",
+      "longitude": 115.8603,
+      "latitude": 28.6889
+    },
+    {
+      "address": "Super Fitness (Greenland Store), Wanda Plaza, Honggutan New District, Nanchang",
+      "longitude": 115.8587,
+      "latitude": 28.6901
+    }
+  ],
+  "user_profile": {
+    "user id": "U787176",
+    "occupation": "Designer",
+    "gender": "male",
+    "age group": "30~35",
+    "residence": "Nanchang",
+    "home address": "Room 1503, Unit 2, Building 12, Greenland New Metropolis, 1399 Hongdu North Avenue, Qingyunpu District, Nanchang",
+    "work address": "Creative Design Studio, Room 1208, Building B, Wanda Plaza, 1266 Fenghe Middle Avenue, Honggutan New District, Nanchang",
+    "dietary restrictions": "No high-fat organ meats, no alcohol",
+    "family status": "Has pets",
+    "personality": "Prone to anxiety and worry, needs repeated confirmation to feel at ease"
+  },
+  "user_historical_behaviors": {
+    "user id": "U787176",
+    "occupation": "Designer",
+    "gender": "male",
+    "age group": "30~35",
+    "residence": "Nanchang",
+    "home address": "Room 1503, Unit 2, Building 12, Greenland New Metropolis, 1399 Hongdu North Avenue, Qingyunpu District, Nanchang",
+    "work address": "Creative Design Studio, Room 1208, Building B, Wanda Plaza, 1266 Fenghe Middle Avenue, Honggutan New District, Nanchang",
+    "in-store dining": {
+      "fine-dining": {
+        "frequently purchased categories": [
+          "Regional Cuisine/Sichuan Cuisine (Average 95 yuan)",
+          "Foreign Cuisine/Japanese Food (Average 120 yuan)",
+          "Regional Cuisine/Shanghai and Zhejiang Cuisine (Average 85 yuan)"
+        ],
+        "preferred average price per person": "85~120 yuan",
+        "preferred store rating": "4.0~4.7 stars",
+        "typical dining time": "19:00-21:00",
+        "preferred distance": "500~3000m",
+        "recent orders": [
+          {
+            "store": "Shujiang Grilled Fish (Wanda Plaza Store)",
+            "product": "Spicy Grilled Fish + Vegetable Platter"
+          },
+          {
+            "store": "Huayin Japanese Restaurant",
+            "product": "Sashimi Platter + Sake Set"
+          },
+          {
+            "store": "Hangbang Restaurant",
+            "product": "West Lake Vinegar Fish + Dongpo Pork"
+          }
+        ],
+        "search history": [
+          "Non-alcoholic Japanese cuisine",
+          "Healthy Sichuan food",
+          "Creative cuisine"
+        ]
+      },
+      "light meal": {
+        "frequently purchased categories": [
+          "Snacks & Fast Food/Chinese Quick Meals (Average 32 yuan)",
+          "Snacks & Fast Food/Western Fast Food (Average 45 yuan)",
+          "Regional Cuisine/Northeastern Cuisine (Average 40 yuan)"
+        ],
+        "preferred average price per person": "25~45 yuan",
+        "preferred store rating": "3.5~4.2 stars",
+        "typical dining time": "11:30-13:00",
+        "preferred distance": "0~500m",
+        "recent orders": [
+          {
+            "store": "McDonald's (Honggutan Wanda Store)",
+            "product": "Spicy Chicken Burger Meal"
+          },
+          {
+            "store": "Xijiade Dumplings (Creative Work Area Store)",
+            "product": "Three Delicacies Dumplings + Side Dishes"
+          },
+          {
+            "store": "Shaxian Snacks (Fenghe Middle Road Store)",
+            "product": "Bianrou Noodles + Steamed Dumplings"
+          }
+        ],
+        "search history": [
+          "Fast food",
+          "Lunch box",
+          "Dumplings",
+          "Healthy quick meals"
+        ]
+      },
+      "desserts/drinks/snacks": {
+        "frequently purchased categories": [
+          "Beverage Shops (Average 18 yuan)",
+          "Bakery & Desserts (Average 25 yuan)",
+          "Other Dining/Fresh Fruits (Average 15 yuan)"
+        ],
+        "preferred average price per person": "15~30 yuan",
+        "preferred store rating": "3.7~4.5 stars",
+        "typical dining time": "15:00-17:00",
+        "preferred distance": "0~300m",
+        "recent orders": [
+          {
+            "store": "Cha Bai Dao (Wanda Plaza Store)",
+            "product": "Sugar-free Oolong Tea + Coconut Jelly"
+          },
+          {
+            "store": "Bread Talk",
+            "product": "Whole Wheat Toast + Low-sugar Egg Tart"
+          },
+          {
+            "store": "Fresh Fruit Station",
+            "product": "Fruit Platter"
+          }
+        ],
+        "search history": [
+          "Sugar-free beverages",
+          "Low-fat desserts",
+          "Healthy tea drinks"
+        ]
+      }
+    },
+    "other in-store services": {
+      "frequently consumed categories": {
+        "Sports & Fitness/fitness center": "35%",
+        "Leisure & Entertainment/DIY crafting": "30%",
+        "Pets/Pet Hospital": "20%",
+        "Beauty/Hair Salon": "15%"
+      },
+      "cost per order by category": {
+        "Sports & Fitness/fitness center": "80~150 yuan",
+        "Leisure & Entertainment/DIY crafting": "120~200 yuan",
+        "Pets/Pet Hospital": "150~300 yuan",
+        "Beauty/Hair Salon": "100~180 yuan"
+      },
+      "preferred store rating": "4.0~4.8 stars",
+      "preferred service time": "18:00-21:00",
+      "preferred distance": "0~5000m",
+      "recent orders": [
+        {
+          "store": "Super Fitness (Greenland Store)",
+          "product": "Single Fitness Session + Private Lesson"
+        },
+        {
+          "store": "Creative Workshop (Wanda Plaza Store)",
+          "product": "Pottery DIY Experience"
+        },
+        {
+          "store": "Pet Lovers Animal Hospital",
+          "product": "Pet Annual Checkup + Grooming Package"
+        }
+      ],
+      "search history": [
+        "Fitness trainer",
+        "Pottery studio",
+        "Pet hospital",
+        "Creative DIY"
+      ]
+    }
+  },
+  "stores": {},
+  "orders": {
+    "10826101S001": {
+      "order_id": "10826101S001",
+      "order_type": "instore",
+      "user_id": "U787176",
+      "store_id": "S17567836575705922_I00002",
+      "note": "",
+      "location": {
+        "address": "Super Fitness (Greenland Store), Wanda Plaza, Honggutan New District, Nanchang",
+        "longitude": 115.8587,
+        "latitude": 28.6901
+      },
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 128,
+      "create_time": "2025-02-10 17:15:32",
+      "update_time": "2025-02-10 17:15:32",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17567836575705922_P00010",
+          "name": "personal trainer one-on-one training course",
+          "price": 128,
+          "shop_id": "S17567836575705922_I00002",
+          "quantity": 1
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "required_orders": [
+    {
+      "order_id": "10826110T001",
+      "order_type": "instore",
+      "user_id": "U499750",
+      "store_id": "S17567836610186779_I00001",
+      "note": "",
+      "location": null,
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 264,
+      "create_time": "2023-04-01 15:35:09",
+      "update_time": "2023-04-01 15:35:09",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17567836610186779_P00001",
+          "name": "Traditional Rice Ball Making Experience Package (Single Person)",
+          "price": 88,
+          "quantity": 3
+        }
+      ]
+    },
+    {
+      "reservation_id": "10826110T002",
+      "shop_id": "S17567836610186779_I00001",
+      "reservation_time": "2023-04-05 15:00:00",
+      "update_time": "2023-04-01 15:37:09",
+      "customer_id": "U499750",
+      "customer_count": 3,
+      "status": "paid"
+    },
+    {
+      "book_id": "10826110T003",
+      "shop_id": "S17567836610186779_I00003",
+      "book_time": "2023-04-05 18:00:00",
+      "update_time": "2023-04-01 15:39:09",
+      "customer_id": "U499750",
+      "customer_count": 3,
+      "book_price": 20,
+      "status": "paid"
+    }
+  ],
+  "rubrics": [
+    "The baking workshop order delivery address should be within 3km (inclusive) of Room 1201, Unit 1, Building A3, Xinghai Square, Shahekou District, Dalian",
+    "The ordered item from the baking workshop should be a Single Person Experience package",
+    "The ordered item from the baking workshop should include Materials Provided and Making Instructions",
+    "The quantity of items ordered from the baking workshop should be 3",
+    "The booked baking workshop should be Creative Baking Workshop",
+    "Since the Qingming Festival 2023 falls on 2023-04-05, the baking workshop reservation time should be 2023-04-05 15:00:00",
+    "The number of people for the baking workshop reservation should be 3",
+    "There is a Thai restaurant with terrace within 3km (inclusive) of Creative Baking Workshop, No.18 Xinghai Park East Road, Shahekou District, Dalian, so the restaurant reservation should be for a Thai restaurant",
+    "The reserved Thai restaurant should have a terrace",
+    "The Thai restaurant reservation time should be 2023-04-05 18:00:00",
+    "The number of people for the Thai restaurant reservation should be 3"
+  ]
+}

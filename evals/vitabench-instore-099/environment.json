@@ -1,0 +1,261 @@
+{
+  "task_id": "10826308",
+  "domain": "instore",
+  "time": "2026-04-09 15:35:07",
+  "user_id": "U580078",
+  "weather": [
+    {
+      "city": "Luoyang",
+      "category": "sunny",
+      "datetime": "2026-04-11",
+      "temperature": [
+        18,
+        26
+      ],
+      "humidity": 45
+    },
+    {
+      "city": "Luoyang",
+      "category": "cloudy",
+      "datetime": "2026-04-12",
+      "temperature": [
+        16,
+        25
+      ],
+      "humidity": 55
+    }
+  ],
+  "location": [
+    {
+      "address": "Room 502, Unit 1, Building 3, Central Garden Residential Area, 96 Kaixuan East Road, Xigong District, Luoyang",
+      "longitude": 112.4532,
+      "latitude": 34.6589
+    },
+    {
+      "address": "Luoyang First People's Hospital, 48 Taiyuan Road, Jianxi District, Luoyang",
+      "longitude": 112.3987,
+      "latitude": 34.6612
+    },
+    {
+      "address": "Triumph Plaza, Intersection of Wangcheng Avenue and Kaixuan Road, Xigong District, Luoyang",
+      "longitude": 112.4587,
+      "latitude": 34.6623
+    }
+  ],
+  "user_profile": {
+    "user id": "U580078",
+    "occupation": "Doctor",
+    "gender": "female",
+    "age group": "35~40",
+    "residence": "Luoyang",
+    "home address": "Room 502, Unit 1, Building 3, Central Garden Residential Area, 96 Kaixuan East Road, Xigong District, Luoyang",
+    "work address": "Luoyang First People's Hospital, 48 Taiyuan Road, Jianxi District, Luoyang",
+    "dietary restrictions": "Low sodium",
+    "family status": "Has children",
+    "personality": "Gentle personality with high cooperativeness, good at listening and understanding"
+  },
+  "user_historical_behaviors": {
+    "user id": "U580078",
+    "occupation": "Doctor",
+    "gender": "female",
+    "age group": "35~40",
+    "residence": "Luoyang",
+    "home address": "Room 502, Unit 1, Building 3, Central Garden Residential Area, 96 Kaixuan East Road, Xigong District, Luoyang",
+    "work address": "Luoyang First People's Hospital, 48 Taiyuan Road, Jianxi District, Luoyang",
+    "in-store dining": {
+      "fine-dining": {
+        "frequently purchased categories": [
+          "Regional Cuisine/Sichuan Cuisine (Average 120 yuan)",
+          "International Cuisine/Japanese Cuisine (Average 150 yuan)",
+          "Regional Cuisine/Cantonese Cuisine (Average 135 yuan)"
+        ],
+        "preferred average price per person": "110~160 yuan",
+        "preferred store rating": "4.2~4.9 stars",
+        "typical dining time": "18:30-20:30",
+        "preferred distance": "500~3000m",
+        "recent orders": [
+          {
+            "store": "Yuefu Sichuan Restaurant",
+            "product": "Home-style Tofu, Boiled Fish in Chili Oil, Dry-fried Green Beans"
+          },
+          {
+            "store": "Helu Rotating Sushi",
+            "product": "Salmon Sashimi, Crab Meat Salad"
+          },
+          {
+            "store": "Yuelai Shun",
+            "product": "White Cut Chicken, Steamed Sea Bass"
+          }
+        ],
+        "search history": [
+          "Low Sodium Sichuan Cuisine",
+          "Japanese Food",
+          "Caffeine-free Restaurant",
+          "Family-friendly Restaurant",
+          "Healthy Cantonese Cuisine"
+        ]
+      },
+      "light meal": {
+        "frequently purchased categories": [
+          "Snacks/Chinese Quick Meals (Average 35 yuan)",
+          "Snacks/Western Fast Food (Average 30 yuan)",
+          "Regional Cuisine/Shanghai and Jiangsu-Zhejiang Cuisine (Average 45 yuan)"
+        ],
+        "preferred average price per person": "25~50 yuan",
+        "preferred store rating": "3.5~4.3 stars",
+        "typical dining time": "11:30-13:00",
+        "preferred distance": "0~500m",
+        "recent orders": [
+          {
+            "store": "A Bowl of Beef Noodles",
+            "product": "Clear Broth Beef Noodles"
+          },
+          {
+            "store": "Salad Diary",
+            "product": "Low-fat Chicken Breast Salad"
+          },
+          {
+            "store": "Hangzhou Xiaolongbao",
+            "product": "Vegetable Soup Dumplings, Seaweed Soup"
+          }
+        ],
+        "search history": [
+          "Quick Meals Near Hospital",
+          "Low Sodium Simple Meals",
+          "Healthy Lunch",
+          "Light Food"
+        ]
+      },
+      "desserts/drinks/snacks": {
+        "frequently purchased categories": [
+          "Bread and Desserts (Average 25 yuan)",
+          "Beverage Shops (Average 18 yuan)",
+          "Other Dining/Fresh Fruits (Average 15 yuan)"
+        ],
+        "preferred average price per person": "15~30 yuan",
+        "preferred store rating": "4.0~4.8 stars",
+        "typical dining time": "15:00-16:30",
+        "preferred distance": "0~300m",
+        "recent orders": [
+          {
+            "store": "Daily Fruit",
+            "product": "Fruit Platter"
+          },
+          {
+            "store": "Bread Talk",
+            "product": "Whole Wheat Bread"
+          },
+          {
+            "store": "Fresh Fruit Workshop",
+            "product": "Freshly Squeezed Juice (Sugar-free)"
+          }
+        ],
+        "search history": [
+          "Low Sugar Desserts",
+          "Caffeine-free Beverages",
+          "Fruit Shop",
+          "Healthy Snacks"
+        ]
+      }
+    },
+    "other in-store services": {
+      "frequently consumed categories": {
+        "Beauty/Hairdressing": "15%",
+        "Beauty/Yoga": "30%",
+        "Sports and Fitness/Fitness Center": "25%",
+        "Leisure and Entertainment/Massage/Foot Therapy": "20%",
+        "Parent-Child/Children's Playground": "10%"
+      },
+      "cost per order by category": {
+        "Beauty/Hairdressing": "150~300 yuan",
+        "Beauty/Yoga": "80~120 yuan/time",
+        "Sports and Fitness/Fitness Center": "60~100 yuan/time",
+        "Leisure and Entertainment/Massage/Foot Therapy": "120~200 yuan",
+        "Parent-Child/Children's Playground": "100~250 yuan"
+      },
+      "preferred store rating": "4.0~4.8 stars",
+      "preferred service time": "17:30~20:00",
+      "preferred distance": "0~2500m",
+      "recent orders": [
+        {
+          "store": "Zen Yoga Studio",
+          "product": "Single Person Yoga Course"
+        },
+        {
+          "store": "Tranquility Foot Therapy",
+          "product": "Traditional Chinese Medicine Foot Therapy Relaxation Package"
+        },
+        {
+          "store": "LEGO Family Playground",
+          "product": "Weekend Family Package"
+        }
+      ],
+      "search history": [
+        "Stress Relief Yoga",
+        "Parent-Child Activities",
+        "Professional Massage for Doctors",
+        "Nearby Gym",
+        "Children's Playground"
+      ]
+    }
+  },
+  "stores": {},
+  "orders": {
+    "10826308S001": {
+      "order_id": "10826308S001",
+      "order_type": "instore",
+      "user_id": "U580078",
+      "store_id": "S17567844712785574_I00004",
+      "note": "",
+      "location": {
+        "address": "Tranquility Foot Therapy, 4th Floor, China Resources City Crossing, 105 Wangcheng Avenue, Xigong District, Luoyang",
+        "longitude": 112.46,
+        "latitude": 34.663
+      },
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 158,
+      "create_time": "2025-08-10 17:15:32",
+      "update_time": "2025-08-10 17:15:32",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17567844712785574_P00028",
+          "name": "Traditional Chinese Medicine Foot Therapy Relaxation Package",
+          "price": 158,
+          "shop_id": "S17567844712785574_I00004",
+          "quantity": 1
+        }
+      ]
+    },
+    "10826308S002": {
+      "order_id": "10826308S002",
+      "order_type": "instore",
+      "user_id": "U580078",
+      "store_id": "S17567844712785574_I00003",
+      "note": "",
+      "location": {
+        "address": "Zen Yoga Lifestyle Center, 2nd Floor, Central Park Plaza, 88 Kaixuan East Road, Xigong District, Luoyang",
+        "longitude": 112.455,
+        "latitude": 34.6593
+      },
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 158,
+      "create_time": "2025-09-11 14:15:32",
+      "update_time": "2025-09-11 14:15:32",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17567844712785574_P00019",
+          "name": "Pilates Private Course (New Customer Special)",
+          "price": 88,
+          "shop_id": "S17567844712785574_I00003",
+          "quantity": 1
+        }
+      ]
+    }
+  }
+}

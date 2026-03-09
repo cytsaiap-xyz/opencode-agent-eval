@@ -1,0 +1,46 @@
+{
+  "task_id": "53",
+  "query": "I'm planning a four-day trip from Jinan to Chengdu on November 12, 2025, returning on the 15th. Could you help me plan a detailed itinerary? There are four of us traveling, and we'll be flying both ways. When booking flights, please choose direct flights with reasonable prices and convenient timing—avoiding overly inconvenient departure or arrival times.\n\nFor accommodation, I'd like a three-star hotel that definitely has a gym, as I need to work out every day—the gym is a must! We’ll need two rooms for four people. Could you also recommend some suitable hotels?\n\nRegarding dining, I have two small requests. First, there's a place called \"Sunset & You Bistro\" that I really want to visit—I've heard it's quite special, so please make sure to include a meal there. Second, one day we'll be visiting the \"Chengdu Museum,\" and I'd like to find the cheapest restaurant nearby for one meal—could you help arrange that as well?\n\nAs for attractions, just focus on Chengdu’s more popular spots. I don’t have any specific places in mind, so please select several classic ones and include them in the itinerary.\n\nThat covers all my basic requirements—I believe I've provided enough information. Could you please help me plan the trip now? November 12, 2025 is Wednesday",
+  "meta_info": {
+    "org": "Jinan",
+    "dest": [
+      "Chengdu"
+    ],
+    "days": 4,
+    "depart_date": "2025-11-12",
+    "return_date": "2025-11-15",
+    "people_number": 4,
+    "room_number": 2
+  },
+  "hard_constraints": {
+    "flight_seat_status": {
+      "constraint_context": "4 travelers, choosing to travel by plane.",
+      "people_number": 4,
+      "outbound_seat_status": "7",
+      "inbound_seat_status": "8",
+      "outbound_flight_no": "9C7535",
+      "inbound_flight_no": "G56746"
+    },
+    "hotel_star_service_required": {
+      "constraint_context": "Please select a 3-star hotel that offers a gym for accommodation.",
+      "constraint_type": "superlative_star_service_required",
+      "hotel_name": "Ji Hotel Chengdu Kuanzhai Alley West",
+      "required_service": "Gym",
+      "hotel_star": 3,
+      "hotel_price": 360.0
+    },
+    "restaurant_must_eat_named": {
+      "constraint_context": "The itinerary must include one meal at 'Sunset and You Western Restaurant'.",
+      "constraint_type": "superlative_must_eat_named",
+      "restaurant_name": "Sunset and You Western Restaurant",
+      "restaurant_rating": 4.0
+    },
+    "restaurant_cheapest_nearby_attraction": {
+      "constraint_context": "During the trip, please arrange a meal at the cheapest restaurant near 'Chengdu Museum' per person.",
+      "constraint_type": "superlative_cheapest_nearby_attraction",
+      "attraction_name": "Chengdu Museum",
+      "restaurant_name": "Ding Grandma Authentic Old Brand Pig Trotter Shop (Dongchenggen South Street Branch)",
+      "price_per_person": 29.0
+    }
+  }
+}

@@ -1,0 +1,77 @@
+{
+  "required_orders": [
+    {
+      "order_id": "H0721001T01",
+      "order_type": "delivery",
+      "user_id": "U000084",
+      "store_id": "S72636245888181282_S54188",
+      "note": "",
+      "location": {
+        "address": "No. 23 Donghai West Road, Tiansheng Garden·Haiyun Urban Complex, Shinan District, Qingdao, Shandong Province",
+        "longitude": 120.37839,
+        "latitude": 36.061041
+      },
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 46.0,
+      "create_time": "2025-05-01 15:45:00",
+      "update_time": "2025-05-01 15:45:00",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S27202813520347088_P19057",
+          "price": 23.0,
+          "quantity": 2,
+          "attributes": "Small Bowl"
+        }
+      ]
+    },
+    {
+      "order_id": "H0721001T02",
+      "order_type": "delivery",
+      "user_id": "U000084",
+      "store_id": "S29478989696606736_S98869",
+      "note": "",
+      "location": {
+        "address": "No. 23 Donghai West Road, Tiansheng Garden·Haiyun Urban Complex, Shinan District, Qingdao, Shandong Province",
+        "longitude": 120.37839,
+        "latitude": 36.061041
+      },
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 103.6,
+      "create_time": "2025-05-01 15:55:00",
+      "update_time": "2025-05-01 15:55:00",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S11703506162688527_P48578",
+          "price": 54.8,
+          "quantity": 1,
+          "attributes": "Mild Spicy"
+        },
+        {
+          "product_id": "S12684543222819040_P84828",
+          "price": 48.8,
+          "quantity": 1,
+          "attributes": "Mild Spicy"
+        }
+      ]
+    }
+  ],
+  "rubrics": [
+    "The ordered Yoshinoya chicken cutlet rice product should be Teriyaki Chicken Cutlet Rice",
+    "The ordered chicken cutlet rice product specification should be small size or small bowl",
+    "The delivery address for the Yoshinoya chicken cutlet rice order should be No. 23 Donghai West Road, Tiansheng Garden·Haiyun Urban Complex, Shinan District, Qingdao, Shandong Province",
+    "The estimated delivery time for the Yoshinoya chicken cutlet rice order should be around 2025-05-01 17:00:00",
+    "The rating of the ordered Chuozi Meat restaurant should be 4.1 or above",
+    "The Chuozi Meat order should include Hand-held Treasure product",
+    "The Chuozi Meat order should choose cuts that do not contain fat",
+    "All products in the Chuozi Meat order should be mild spicy",
+    "The total number of products in the Chuozi Meat order should be 2",
+    "The delivery address for the Chuozi Meat order should be No. 23 Donghai West Road, Tiansheng Garden·Haiyun Urban Complex, Shinan District, Qingdao, Shandong Province",
+    "The estimated delivery time for the Chuozi Meat order should be around 2025-05-01 17:00:00"
+  ]
+}

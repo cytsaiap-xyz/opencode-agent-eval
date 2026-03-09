@@ -1,0 +1,135 @@
+{
+  "task_id": "D0811001",
+  "domain": "ota",
+  "time": "2027-11-17 21:37:41",
+  "user_id": "U010082",
+  "weather": [
+    {
+      "city": "Linyi",
+      "category": "cloudy",
+      "datetime": "2027-11-20",
+      "temperature": [
+        8,
+        16
+      ],
+      "humidity": 65
+    },
+    {
+      "city": "Qingdao",
+      "category": "breeze",
+      "datetime": "2027-11-20",
+      "temperature": [
+        12,
+        18
+      ],
+      "humidity": 72
+    }
+  ],
+  "location": [
+    {
+      "address": "Room 502, Unit 1, Building 3, Shuian Huadu, 78 Jinqueshan Road, Lanshan District, Linyi, Shandong Province",
+      "longitude": 118.3267,
+      "latitude": 35.1045
+    },
+    {
+      "address": "Building A3, Linyi High-tech Industrial Development Zone, Intersection of Hudong Road and Shuangyueyuan Road, Luozhuang District, Linyi, Shandong Province",
+      "longitude": 118.2845,
+      "latitude": 35.0892
+    }
+  ],
+  "user_profile": {
+    "user id": "U010082",
+    "occupation": "Engineer",
+    "gender": "male",
+    "age group": "30~35",
+    "residence": "Linyi",
+    "home address": "Room 502, Unit 1, Building 3, Shuian Huadu, 78 Jinqueshan Road, Lanshan District, Linyi, Shandong Province",
+    "work address": "Building A3, Linyi High-tech Industrial Development Zone, Intersection of Hudong Road and Shuangyueyuan Road, Luozhuang District, Linyi, Shandong Province",
+    "dietary restrictions": "Avoids high-purine foods (such as organ meats/seafood soup), avoids alcohol",
+    "family status": "Has children",
+    "personality": "Extremely detail-oriented, tends to be picky and easily dissatisfied"
+  },
+  "user_historical_behaviors": {
+    "user id": "U010082",
+    "occupation": "Engineer",
+    "gender": "male",
+    "age group": "30~35",
+    "residence": "Linyi",
+    "home address": "Room 502, Unit 1, Building 3, Shuian Huadu, 78 Jinqueshan Road, Lanshan District, Linyi, Shandong Province",
+    "work address": "Building A3, Linyi High-tech Industrial Development Zone, Intersection of Hudong Road and Shuangyueyuan Road, Luozhuang District, Linyi, Shandong Province",
+    "visited scenes": {
+      "Natural Landscapes (Mountains/Lakes/Forests)": "35%",
+      "Theme Parks": "25%",
+      "Cultural & Historical Sites": "20%",
+      "Parks": "10%",
+      "Exhibition Halls (Museums/Art Galleries)": "10%"
+    },
+    "cost per night on hotel": "300~500 Yuan",
+    "visited hotels": {
+      "Home Inn": "30%",
+      "Hanting Hotel": "25%",
+      "Atour": "20%",
+      "JI Hotel": "15%",
+      "Jinjiang Inn": "10%"
+    },
+    "browsed hotels": {
+      "Comfort Hotels": "50%",
+      "Budget Hotels": "30%",
+      "3-Star Hotels": "15%",
+      "4-Star Hotels": "5%"
+    },
+    "historical travel plans": {
+      "Linyi-Qingdao": {
+        "Price Range": "150-250 Yuan",
+        "Transportation": "Long-distance Bus"
+      },
+      "Linyi-Jinan": {
+        "Price Range": "100-180 Yuan",
+        "Transportation": "High-Speed Rail/EMU (Electric Multiple Unit)"
+      },
+      "Linyi-Beijing": {
+        "Price Range": "300-500 Yuan",
+        "Transportation": "High-Speed Rail/EMU (Electric Multiple Unit)"
+      },
+      "Linyi-Shanghai": {
+        "Price Range": "500-800 Yuan",
+        "Transportation": "High-Speed Rail/EMU (Electric Multiple Unit)"
+      },
+      "Linyi-Yantai": {
+        "Price Range": "200-350 Yuan",
+        "Transportation": "Long-distance Bus"
+      },
+      "Linyi-Huangshan": {
+        "Price Range": "400-600 Yuan",
+        "Transportation": "Self-driving"
+      }
+    }
+  },
+  "stores": {},
+  "orders": {
+    "D0811001T003": {
+      "order_id": "D0811001T003",
+      "order_type": "train",
+      "user_id": "U010082",
+      "store_id": "S17557516484806057_T00015",
+      "note": "",
+      "location": null,
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 268,
+      "create_time": "2027-11-14 16:30:00",
+      "update_time": "2027-11-14 16:30:00",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17557516484806057_P00089",
+          "price": 268,
+          "quantity": 1,
+          "date": "2027-11-20",
+          "seat_type": "Business Class Seat"
+        }
+      ]
+    }
+  }
+}

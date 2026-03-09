@@ -1,0 +1,50 @@
+{
+  "task_id": "67",
+  "query": "I plan to travel from Harbin to Dalian on November 12, 2025, and stay until November 16, 2025, before returning. Could you please help me arrange transportation, accommodation, meals, and sightseeing? I’d like to return as late as possible so I can enjoy more time in Dalian, so please choose the latest available direct train for the return trip.\n\nFor accommodation, I’d like the price to be controlled between 340 and 370 RMB per night—nothing too expensive; just a regular clean and comfortable place is fine. There are two of us traveling, so we’ll need one rooms. Also, for one of the meals, I’d like to dine at a restaurant near 'Dalian Natural Museum', preferably one where I can take a virtual queue number online so I don’t have to waste too much time waiting.\n\nAs for attractions, I’m particularly interested in natural scenery spots. I’ve heard Dalian is great in this regard—please pick the highest-rated one and include it in the itinerary. That’s about it—I think I’ve provided all the necessary information. Please go ahead and prepare the full travel plan for me! November 12, 2025 is Wednesday",
+  "meta_info": {
+    "org": "Harbin",
+    "dest": [
+      "Dalian"
+    ],
+    "days": 5,
+    "depart_date": "2025-11-12",
+    "return_date": "2025-11-16",
+    "people_number": 2,
+    "room_number": 1
+  },
+  "hard_constraints": {
+    "train_latest_arrival_direct": {
+      "constraint_context": "I'd like to return later, so please help me choose the latest arriving direct train for the return trip",
+      "constraint_type": "superlative_latest_arrival",
+      "inbound_train_no": "G729"
+    },
+    "hotel_price_range": {
+      "constraint_context": "The accommodation price must be between 340 and 370 yuan.",
+      "hotel_name": "Hampton by Hilton Dalian Zhongshan",
+      "hotel_price": 368.0,
+      "min_price": 340,
+      "max_price": 370
+    },
+    "restaurant_specific_tag_nearby": {
+      "constraint_context": "Arrange a meal at a restaurant near the 'Dalian Natural History Museum' during the trip, with online number-taking and queuing service required",
+      "constraint_type": "superlative_specific_tag_nearby",
+      "attraction_name": "Dalian Natural History Museum",
+      "restaurant_name": "Mongolian Yuan Culture Theme Restaurant (Haiyun Garden Branch)",
+      "required_tag": "Online Queue",
+      "price_per_person": 100.0,
+      "restaurant_rating": 3.5
+    },
+    "attraction_type_highest_rated": {
+      "constraint_context": "The itinerary must include the highest-rated attraction in the 'Natural Scenery' category.",
+      "constraint_type": "superlative_type_highest_rated",
+      "attraction_names": [
+        "Xinghai Park"
+      ],
+      "attraction_type_cn": "自然风光",
+      "attraction_type": "Natural Scenery",
+      "attraction_ratings": [
+        4.9
+      ]
+    }
+  }
+}

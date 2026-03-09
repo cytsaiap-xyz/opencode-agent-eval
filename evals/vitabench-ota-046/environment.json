@@ -1,0 +1,309 @@
+{
+  "task_id": "70808004",
+  "domain": "ota",
+  "time": "2027-04-13 12:23:31",
+  "user_id": "U010085",
+  "weather": [
+    {
+      "city": "Mount Emei",
+      "category": "overcast",
+      "datetime": "2027-04-16",
+      "temperature": [
+        11,
+        16
+      ],
+      "humidity": 73
+    },
+    {
+      "city": "Mount Emei",
+      "category": "cloudy",
+      "datetime": "2027-04-17",
+      "temperature": [
+        12,
+        18
+      ],
+      "humidity": 75
+    },
+    {
+      "city": "Mount Emei",
+      "category": "light rain",
+      "datetime": "2027-04-18",
+      "temperature": [
+        10,
+        16
+      ],
+      "humidity": 85
+    },
+    {
+      "city": "Mount Emei",
+      "category": "showers",
+      "datetime": "2027-04-19",
+      "temperature": [
+        11,
+        17
+      ],
+      "humidity": 80
+    },
+    {
+      "city": "Mount Emei",
+      "category": "sunny",
+      "datetime": "2027-04-23",
+      "temperature": [
+        14,
+        22
+      ],
+      "humidity": 60
+    },
+    {
+      "city": "Mount Emei",
+      "category": "cloudy",
+      "datetime": "2027-04-24",
+      "temperature": [
+        15,
+        23
+      ],
+      "humidity": 65
+    },
+    {
+      "city": "Mount Emei",
+      "category": "sunny",
+      "datetime": "2027-04-25",
+      "temperature": [
+        16,
+        24
+      ],
+      "humidity": 55
+    },
+    {
+      "city": "Mount Emei",
+      "category": "sunny",
+      "datetime": "2027-04-26",
+      "temperature": [
+        17,
+        25
+      ],
+      "humidity": 53
+    }
+  ],
+  "location": [
+    {
+      "address": "Mount Emei Foot",
+      "longitude": 103.4956,
+      "latitude": 29.6145
+    }
+  ],
+  "user_profile": {
+    "user id": "U010085",
+    "occupation": "Doctor",
+    "gender": "male",
+    "age group": "35~40",
+    "residence": "Chengdu",
+    "home address": "Tianyating Garden, 20 Tianyashi North Street, Jinjiang District, Chengdu, Sichuan Province (280 meters walk from Exit C of City Second Hospital Metro Station)",
+    "work address": "West China Hospital of Sichuan University, 37 Guoxue Alley, Wuhou District, Chengdu, Sichuan Province",
+    "dietary restrictions": "No alcohol, no high-fat organ meats",
+    "family status": "Has children",
+    "personality": "Experiences mood swings, expresses with strong emotional overtones"
+  },
+  "user_historical_behaviors": {
+    "user id": "U010085",
+    "occupation": "Doctor",
+    "gender": "male",
+    "age group": "35~40",
+    "residence": "Chengdu",
+    "home address": "Tianyating Garden, 20 Tianyashi North Street, Jinjiang District, Chengdu, Sichuan Province (280 meters walk from Exit C of City Second Hospital Metro Station)",
+    "work address": "West China Hospital of Sichuan University, 37 Guoxue Alley, Wuhou District, Chengdu, Sichuan Province",
+    "visited scenes": {
+      "Cultural & Historical Sites": "30%",
+      "Exhibition Halls (Museums/Art Galleries)": "25%",
+      "Natural Landscapes (Mountains/Lakes/Forests)": "20%",
+      "Parks": "15%",
+      "Theme Parks": "10%"
+    },
+    "cost per night on hotel": "500~1000 yuan",
+    "visited hotels": {
+      "Atour": "35%",
+      "Ji Hotel": "25%",
+      "Vienna": "20%",
+      "Orange Hotel": "15%",
+      "Home Inn": "5%"
+    },
+    "browsed hotels": {
+      "Four-Star Hotels": "45%",
+      "Comfort Hotels": "35%",
+      "Three-Star Hotels": "15%",
+      "Five-Star Hotels": "5%"
+    },
+    "historical travel plans": {
+      "Chengdu-Beijing": {
+        "Price Range": "800-1500 yuan",
+        "Transportation": "Airplane"
+      },
+      "Chengdu-Shanghai": {
+        "Price Range": "900-1600 yuan",
+        "Transportation": "Airplane"
+      },
+      "Chengdu-Chongqing": {
+        "Price Range": "150-300 yuan",
+        "Transportation": "High-Speed Train"
+      },
+      "Chengdu-Xi'an": {
+        "Price Range": "300-500 yuan",
+        "Transportation": "High-Speed Train"
+      },
+      "Chengdu-Jiuzhaigou": {
+        "Price Range": "400-800 yuan",
+        "Transportation": "Long-distance Bus"
+      },
+      "Chengdu-Mount Emei": {
+        "Price Range": "100-200 yuan",
+        "Transportation": "Self-driving"
+      }
+    }
+  },
+  "stores": {},
+  "orders": {
+    "S17557505486805216_O00001": {
+      "order_id": "S17557505486805216_O00001",
+      "order_type": "hotel",
+      "user_id": "U010085",
+      "store_id": "S17557505486805216_H00001",
+      "note": "Family trip, need a quiet room",
+      "location": {
+        "address": "Atour Hotel, Mount Emei City, Sichuan Province",
+        "longitude": 103.484,
+        "latitude": 29.601
+      },
+      "dispatch_time": "",
+      "shipping_time": 0.0,
+      "delivery_time": "",
+      "total_price": 1760.0,
+      "create_time": "2027-01-15 14:30:00",
+      "update_time": "2027-01-20 09:15:00",
+      "status": "cancelled",
+      "products": [
+        {
+          "product_id": "S17557505486805216_P00001",
+          "price": 880.0,
+          "quantity": 2,
+          "date": "2027-02-08",
+          "room_type": "Family Suite"
+        }
+      ]
+    },
+    "S17557505486805216_O00002": {
+      "order_id": "S17557505486805216_O00002",
+      "order_type": "train",
+      "user_id": "U010085",
+      "store_id": "S17557505486805216_T00011",
+      "note": "Group of three, need adjacent seats",
+      "location": {
+        "address": "Chengdu East Railway Station, Chengdu, Sichuan Province",
+        "longitude": 104.141,
+        "latitude": 30.641
+      },
+      "dispatch_time": "",
+      "shipping_time": 0.0,
+      "delivery_time": "",
+      "total_price": 315.0,
+      "create_time": "2027-03-20 16:45:00",
+      "update_time": "2027-03-20 16:45:00",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17557505486805216_P00100",
+          "price": 105.0,
+          "quantity": 3,
+          "seat_type": "First Class Seat"
+        }
+      ]
+    },
+    "S17557505486805216_O00003": {
+      "order_id": "S17557505486805216_O00003",
+      "order_type": "attraction",
+      "user_id": "U010085",
+      "store_id": "S17557505486805216_A00006",
+      "note": "Visiting with a child, need a child ticket",
+      "location": {
+        "address": "Mount Emei Scenic Area, Mount Emei City, Leshan, Sichuan Province",
+        "longitude": 103.484,
+        "latitude": 29.601
+      },
+      "dispatch_time": "",
+      "shipping_time": 0.0,
+      "delivery_time": "",
+      "total_price": 463.0,
+      "create_time": "2027-03-22 10:20:00",
+      "update_time": "2027-03-22 10:20:00",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17557505486805216_P00046",
+          "price": 185.0,
+          "quantity": 2,
+          "ticket_type": "Adult Ticket"
+        },
+        {
+          "product_id": "S17557505486805216_P00047",
+          "price": 93.0,
+          "quantity": 1,
+          "ticket_type": "Child Ticket (6-18 years old)"
+        }
+      ]
+    },
+    "S17557505486805216_O00004": {
+      "order_id": "S17557505486805216_O00004",
+      "order_type": "hotel",
+      "user_id": "U010085",
+      "store_id": "S17557505486805216_H00002",
+      "note": "Mountain view room, convenient for watching sunrise",
+      "location": {
+        "address": "Ji Hotel Leidongping, Mount Emei City, Sichuan Province",
+        "longitude": 103.334,
+        "latitude": 29.545
+      },
+      "dispatch_time": "",
+      "shipping_time": 0.0,
+      "delivery_time": "",
+      "total_price": 780.0,
+      "create_time": "2026-11-28 11:30:00",
+      "update_time": "2026-11-28 11:30:00",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17557505486805216_P00016",
+          "price": 780.0,
+          "quantity": 1,
+          "date": "2026-12-15",
+          "room_type": "Luxury Mountain View Room"
+        }
+      ]
+    },
+    "S17557505486805216_O00005": {
+      "order_id": "S17557505486805216_O00005",
+      "order_type": "train",
+      "user_id": "U010085",
+      "store_id": "S17557505486805216_T00013",
+      "note": "Return ticket, noon time",
+      "location": {
+        "address": "Mount Emei Station, Mount Emei City, Sichuan Province",
+        "longitude": 103.484,
+        "latitude": 29.601
+      },
+      "dispatch_time": "",
+      "shipping_time": 0.0,
+      "delivery_time": "",
+      "total_price": 195.0,
+      "create_time": "2027-03-22 15:10:00",
+      "update_time": "2027-03-22 15:10:00",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17557505486805216_P00115",
+          "price": 65.0,
+          "quantity": 3,
+          "seat_type": "Second Class Seat"
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,98 @@
+{
+  "required_orders": [
+    {
+      "order_id": "G0721003T01",
+      "order_type": "delivery",
+      "user_id": "U000056",
+      "store_id": "S32352534561955193_S72446",
+      "note": "",
+      "location": {
+        "address": "Co-working Space, 5th Floor, Center 66, No. 139 Renmin Middle Road, Liangxi District, Wuxi City, Jiangsu Province",
+        "longitude": 120.297362,
+        "latitude": 31.574308
+      },
+      "dispatch_time": "2025-10-16 11:20:00",
+      "shipping_time": 40,
+      "delivery_time": "2025-10-16 12:00:00",
+      "total_price": 87,
+      "create_time": "2025-10-16 11:00:00",
+      "update_time": "2025-10-16 11:00:00",
+      "status": "delivered",
+      "products": [
+        {
+          "product_id": "S24482885289562176_P77981",
+          "price": 87,
+          "quantity": 1,
+          "attributes": ""
+        }
+      ]
+    },
+    {
+      "order_id": "G0721003T02",
+      "order_type": "delivery",
+      "user_id": "U000056",
+      "store_id": "S21687429664650680_S32362",
+      "note": "",
+      "location": {
+        "address": "Co-working Space, 5th Floor, Center 66, No. 139 Renmin Middle Road, Liangxi District, Wuxi City, Jiangsu Province",
+        "longitude": 120.297362,
+        "latitude": 31.574308
+      },
+      "dispatch_time": "2025-10-16 18:30:00",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 25,
+      "create_time": "2025-10-16 11:10:00",
+      "update_time": "2025-10-16 11:10:00",
+      "status": "in-progress",
+      "products": [
+        {
+          "product_id": "S20111038835749649_P89250",
+          "price": 25,
+          "quantity": 1,
+          "attributes": "Spicy"
+        }
+      ]
+    },
+    {
+      "order_id": "G0721003T03",
+      "order_type": "delivery",
+      "user_id": "U000056",
+      "store_id": "S10892011637579176_S44408",
+      "note": "",
+      "location": {
+        "address": "Co-working Space, 5th Floor, Center 66, No. 139 Renmin Middle Road, Liangxi District, Wuxi City, Jiangsu Province",
+        "longitude": 120.297362,
+        "latitude": 31.574308
+      },
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 54,
+      "create_time": "2025-10-16 11:05:00",
+      "update_time": "2025-10-16 11:05:00",
+      "status": "processed",
+      "products": [
+        {
+          "product_id": "S74469906752994471_P47610",
+          "price": 27,
+          "quantity": 2,
+          "attributes": "No ice"
+        }
+      ]
+    }
+  ],
+  "rubrics": [
+    "The delivery address for lunch order should be Co-working Space, 5th Floor, Center 66, No. 139 Renmin Middle Road, Liangxi District, Wuxi City, Jiangsu Province",
+    "The estimated delivery time for lunch order should be around 2025-10-16 12:00",
+    "The lunch order should select Wu-Yue specialties, and the portion should be suitable for two people",
+    "The delivery address for afternoon drink order should be Co-working Space, 5th Floor, Center 66, No. 139 Renmin Middle Road, Liangxi District, Wuxi City, Jiangsu Province",
+    "The estimated delivery time for afternoon drink order should be around 2025-10-16 16:00",
+    "The afternoon drink order should select lemon drinks that have refreshing effects",
+    "The product specification for afternoon drink order should select no ice",
+    "The total number of products for afternoon drink order should be 2 portions",
+    "The delivery address for dinner order should be Co-working Space, 5th Floor, Center 66, No. 139 Renmin Middle Road, Liangxi District, Wuxi City, Jiangsu Province",
+    "The estimated delivery time for dinner order should be around 2025-10-16 20:00",
+    "The dinner order should select Spicy Beef Noodle Soup products without meat side dishes"
+  ]
+}

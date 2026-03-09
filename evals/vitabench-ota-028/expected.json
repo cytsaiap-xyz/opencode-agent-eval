@@ -1,0 +1,61 @@
+{
+  "required_orders": [
+    {
+      "order_id": "70806003T001",
+      "order_type": "train",
+      "user_id": "U010014",
+      "store_id": "S17557505479571970_T00010",
+      "note": "",
+      "location": null,
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 175,
+      "create_time": "2026-09-17 15:44:59",
+      "update_time": "2026-09-17 15:44:59",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17557505479571970_P00072",
+          "price": 175,
+          "quantity": 1,
+          "date": "2026-09-19",
+          "seat_type": "Second Class Seat"
+        }
+      ]
+    },
+    {
+      "order_id": "70806003T002",
+      "order_type": "train",
+      "user_id": "U010014",
+      "store_id": "S17557505479571970_T00012",
+      "note": "",
+      "location": null,
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 158,
+      "create_time": "2026-09-17 15:46:59",
+      "update_time": "2026-09-17 15:46:59",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17557505479571970_P00079",
+          "price": 158,
+          "quantity": 1,
+          "date": "2026-09-19",
+          "seat_type": "Second Class Seat"
+        }
+      ]
+    }
+  ],
+  "rubrics": [
+    "There should be two train ticket orders, with the user's own ticket departing before 8 AM",
+    "When searching for the station nearest to the user's home address (Wancheng Huafu Shangyuan, near Haiyuan, at the intersection of Wanliu Huafu North Street and Wanliu West Road, Haidian District, Beijing), the result is Beijing North Railway Station, so the departure station for the ticket departing before 8 AM must be Beijing North Railway Station",
+    "When filtering for trains departing before 8 AM from Beijing North Railway Station, and finding the one with the shortest journey time, the result is G6703, so the user's own ticket order must be for train G6703",
+    "The train ticket orders must be for September 19, 2026",
+    "Must search for and provide the weather information for Shijiazhuang on September 19, 2026, which is light rain with temperatures between 16-23 degrees",
+    "There should be two train ticket orders, with the college classmate's ticket arriving around 2 PM",
+    "The college classmate's train ticket order must be for September 19, 2026"
+  ]
+}

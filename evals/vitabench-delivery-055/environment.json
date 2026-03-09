@@ -1,0 +1,416 @@
+{
+  "task_id": "C0715001",
+  "domain": "delivery",
+  "time": "2025-12-27 10:55:37",
+  "user_id": "U000035",
+  "weather": [
+    {
+      "city": "Chengdu City",
+      "category": "overcast",
+      "datetime": "2025-12-27",
+      "temperature": [
+        4,
+        10
+      ],
+      "humidity": 36
+    }
+  ],
+  "location": [
+    {
+      "address": "Zone B, South A Zone, Yalan Garden, Yulin Street, Wuhou District, Chengdu, Sichuan Province",
+      "longitude": 104.073492,
+      "latitude": 30.623383
+    },
+    {
+      "address": "Toyota Car Dealership",
+      "longitude": 104.044851,
+      "latitude": 30.600121
+    },
+    {
+      "address": "La Terre (Renhe New City Branch), 2nd Floor, Renhe Spring International Plaza, No. 505 West Section of Fucheng Avenue, Wuhou District, Chengdu, Sichuan Province",
+      "longitude": 104.050938,
+      "latitude": 30.587856
+    }
+  ],
+  "user_profile": {
+    "user id": "U000035",
+    "occupation": "Product Manager",
+    "gender": "female",
+    "age group": "30~35",
+    "residence": "Chengdu",
+    "home address": "Zone B, South A Zone, Yalan Garden, Yulin Street, Wuhou District, Chengdu, Sichuan Province",
+    "work address": "Global Center, Building 1, No. 1700, North Section of Tianfu Avenue, Guixi Street, Wuhou District, Chengdu, Sichuan Province",
+    "dietary restrictions": "Avoids high sugar",
+    "family status": "In a relationship",
+    "personality": "Overly dependent on others' guidance, lacks personal opinions and decisiveness"
+  },
+  "user_historical_behaviors": {
+    "user id": "U000035",
+    "occupation": "Product Manager",
+    "gender": "female",
+    "age group": "30~35",
+    "residence": "Chengdu",
+    "home address": "Zone B, South A Zone, Yalan Garden, Yulin Street, Wuhou District, Chengdu, Sichuan Province",
+    "work address": "Global Center, Building 1, No. 1700, North Section of Tianfu Avenue, Guixi Street, Wuhou District, Chengdu, Sichuan Province",
+    "breakfast": {
+      "frequently purchased categories": [
+        "Quick Meals/Light Food (Average 23 yuan)",
+        "Quick Meals/Steamed Buns/Pan-fried Buns (Average 22 yuan)"
+      ],
+      "cost per order": "20~35 yuan",
+      "preferred store rating": "4.3~4.8 stars",
+      "preferred delivery time": "15~30 minutes",
+      "preferred distance": "0~2500m",
+      "recent orders": [
+        {
+          "store": "Salad Diary",
+          "product": "Low-sugar Fruit Oatmeal Salad"
+        },
+        {
+          "store": "Sichuan Famous Snacks",
+          "product": "Steamed Pork Buns + Soy Milk Set"
+        },
+        {
+          "store": "Fresh Vegetable Light Food",
+          "product": "Whole Wheat Egg Sandwich"
+        }
+      ],
+      "search history": [
+        "Low-sugar breakfast",
+        "Healthy light food",
+        "Whole wheat bread",
+        "Sugar-free soy milk"
+      ]
+    },
+    "weekday lunch/dinner": {
+      "frequently purchased categories": [
+        "Quick Meals/Healthy Meals (Average 35 yuan)",
+        "Chinese Cuisine/Cantonese Food (Average 55 yuan)"
+      ],
+      "cost per order": "30~70 yuan",
+      "preferred store rating": "4.5~4.9 stars",
+      "preferred delivery time": "20~35 minutes",
+      "preferred distance": "0~3500m",
+      "recent orders": [
+        {
+          "store": "Dietary Fiber Healthy Meals",
+          "product": "Chicken Breast Vegetable Salad"
+        },
+        {
+          "store": "Pure Cantonese Restaurant",
+          "product": "Steamed Fresh Shrimp + Stir-fried Seasonal Vegetables Set"
+        },
+        {
+          "store": "Fresh Select Salad",
+          "product": "Avocado Chicken Quinoa Rice"
+        }
+      ],
+      "search history": [
+        "Low calorie",
+        "Healthy work meals",
+        "Cantonese steamed dishes",
+        "Light salads"
+      ]
+    },
+    "weekend lunch/dinner": {
+      "frequently purchased categories": [
+        "International Cuisine/Japanese Bento/Sushi (Average 85 yuan)",
+        "Chinese Cuisine/Crayfish (Average 150 yuan)"
+      ],
+      "cost per order": "60~200 yuan",
+      "preferred store rating": "4.5~5.0 stars",
+      "preferred delivery time": "30~60 minutes",
+      "preferred distance": "0~5000m",
+      "recent orders": [
+        {
+          "store": "Fresh Salmon (Qingshi Bridge Market Branch)",
+          "product": "Five Blessing C Platter"
+        },
+        {
+          "store": "Big Shrimp Crayfish (Wuhou Branch)",
+          "product": "Thirteen Spice Crayfish"
+        }
+      ],
+      "search history": [
+        "Authentic Japanese cuisine",
+        "Sugar-free sauce",
+        "Thai food",
+        "Healthy seafood"
+      ]
+    },
+    "desserts/drinks/snacks": {
+      "frequently purchased categories": [
+        "Drinks & Desserts/Pure Tea/Herbal Tea (Average 25 yuan)",
+        "Drinks & Desserts/Hot Latte (Average 32 yuan)"
+      ],
+      "cost per order": "15~50 yuan",
+      "preferred store rating": "4.2~4.9 stars",
+      "preferred delivery time": "15~45 minutes",
+      "preferred distance": "0~4000m",
+      "recent orders": [
+        {
+          "store": "Quchaokushui (SKP Branch)",
+          "product": "Job's Tears Water"
+        },
+        {
+          "store": "Mental Key (Twin Towers Branch)",
+          "product": "Latte"
+        }
+      ],
+      "search history": [
+        "Low-sugar drinks",
+        "Hot beverages",
+        "Herbal tea"
+      ]
+    },
+    "night snack": {
+      "frequently purchased categories": [
+        "Quick Meals/Dumplings/Wontons (Average 40 yuan)",
+        "Hot Pot/Clay Pot Porridge (Average 50 yuan)"
+      ],
+      "cost per order": "25~55 yuan",
+      "preferred store rating": "4.3~4.8 stars",
+      "preferred delivery time": "20~35 minutes",
+      "preferred distance": "0~3500m",
+      "recent orders": [
+        {
+          "store": "Fresh Meat Wonton Shop",
+          "product": "Shrimp and Pork Wontons"
+        },
+        {
+          "store": "Porridge Moment",
+          "product": "Preserved Egg and Lean Pork Porridge (Less Sugar)"
+        },
+        {
+          "store": "Seven Pot",
+          "product": "Clear Chicken Soup Pot"
+        }
+      ],
+      "search history": [
+        "Light night snacks",
+        "Stomach-friendly porridge",
+        "Sugar-free wontons",
+        "Soup pot"
+      ]
+    }
+  },
+  "stores": {
+    "S16600900215255434_S25486": {
+      "name": "Old Chengdu No Pre-made Dishes Sichuan Restaurant (Wuhou Branch)",
+      "store_id": "S16600900215255434_S25486",
+      "score": 4.9,
+      "location": {
+        "address": "No. 7, 1st Floor, Building 2, No. 9 Ximian Bridge Street, Wuhou District, Chengdu, Sichuan Province",
+        "latitude": 30.636354,
+        "longitude": 104.052714
+      },
+      "tags": [
+        "High Rating"
+      ],
+      "products": [
+        {
+          "name": "Green Sichuan Pepper Tripe (Numbing, Spicy and Flavorful)",
+          "store_id": "S16600900215255434_S25486",
+          "store_name": "Old Chengdu No Pre-made Dishes Sichuan Restaurant (Wuhou Branch)",
+          "price": 29.8,
+          "tags": [],
+          "product_id": "S23633206553145211_P14654",
+          "attributes": [],
+          "quantity": 9999
+        },
+        {
+          "name": "Stir-fried Liver and Kidney (Traditional Dish)",
+          "store_id": "S16600900215255434_S25486",
+          "store_name": "Old Chengdu No Pre-made Dishes Sichuan Restaurant (Wuhou Branch)",
+          "price": 33.8,
+          "tags": [],
+          "product_id": "S21446171170312259_P41213",
+          "attributes": [],
+          "quantity": 9999
+        }
+      ]
+    },
+    "S10186695543471431_S58464": {
+      "name": "LA FRUITIÈRE (Renhe New City Branch)",
+      "store_id": "S10186695543471431_S58464",
+      "score": 4.8,
+      "location": {
+        "address": "Next to OHLO, No. 90, 92, Basement 1, No. 505 West Section of Fucheng Avenue, High-tech Zone, China (Sichuan) Pilot Free Trade Zone, Chengdu",
+        "latitude": 30.587689,
+        "longitude": 104.054025
+      },
+      "tags": [],
+      "products": [
+        {
+          "name": "Lychee Rose Dream Mille Crepe",
+          "store_id": "S10186695543471431_S58464",
+          "store_name": "LA FRUITIÈRE (Renhe New City Branch)",
+          "price": 28.8,
+          "tags": [],
+          "product_id": "S26124060913222562_P13131",
+          "attributes": [],
+          "quantity": 9999
+        },
+        {
+          "name": "Fresh Matcha Cheesecake",
+          "product_id": "S25768345859699205_P68750",
+          "store_id": "S10186695543471431_S58464",
+          "store_name": "LA FRUITIÈRE (Renhe New City Branch)",
+          "price": 28.8,
+          "tags": [],
+          "attributes": [],
+          "quantity": 9999
+        },
+        {
+          "name": "[New] Tiramisu Cubes",
+          "product_id": "S17110454782912742_P38996",
+          "store_id": "S10186695543471431_S58464",
+          "store_name": "LA FRUITIÈRE (Renhe New City Branch)",
+          "price": 19.8,
+          "tags": [
+            "Visually Appealing"
+          ],
+          "attributes": [],
+          "quantity": 9999
+        }
+      ]
+    },
+    "S16384697043876564_S20200": {
+      "name": "HEYTEA (Chengdu U Fun Shopping Center Branch)",
+      "store_id": "S16384697043876564_S20200",
+      "score": 4.9,
+      "location": {
+        "address": "Shop 132, 133a, 1st Floor, No. 300 Jiaozi Avenue, High-tech Zone, China (Sichuan) Pilot Free Trade Zone, Chengdu",
+        "latitude": 30.583096,
+        "longitude": 104.056125
+      },
+      "tags": [],
+      "products": [
+        {
+          "name": "Little Milk Jasmine",
+          "store_id": "S16384697043876564_S20200",
+          "store_name": "HEYTEA (Chengdu U Fun Shopping Center Branch)",
+          "price": 19,
+          "tags": [],
+          "product_id": "S90462241601970634_P69999",
+          "attributes": [
+            "Less Sweet (Recommended)",
+            "Slightly Sweet",
+            "Very Slightly Sweet",
+            "No Added Sugar (Not Recommended)",
+            "Extra Sweet"
+          ],
+          "quantity": 9999
+        }
+      ]
+    },
+    "S14910783727123107_S52203": {
+      "name": "People's Grand Canteen Sichuan Restaurant (Sichuan University Branch)",
+      "store_id": "S14910783727123107_S52203",
+      "score": 3.2,
+      "location": {
+        "address": "No. 129, Building 5, Gonghe Village, Wuhou District, Chengdu, Sichuan Province",
+        "latitude": 30.63539,
+        "longitude": 104.084544
+      },
+      "tags": [],
+      "products": [
+        {
+          "name": "Chongqing Chicken with Pointed Peppers❤️ Large Portion (House Specialty)",
+          "product_id": "S26738495200846371_P55126",
+          "store_id": "S14910783727123107_S52203",
+          "store_name": "People's Grand Canteen Sichuan Restaurant (Sichuan University Branch)",
+          "price": 28.71,
+          "tags": [
+            "Spicy and Fragrant"
+          ],
+          "attributes": [],
+          "quantity": 9999
+        },
+        {
+          "name": "Stir-fried Cabbage with Eggs♥ (Suitable for All Ages)",
+          "product_id": "S10834726828513451_P89398",
+          "store_id": "S14910783727123107_S52203",
+          "store_name": "People's Grand Canteen Sichuan Restaurant (Sichuan University Branch)",
+          "price": 14.8,
+          "tags": [
+            "Light-flavored"
+          ],
+          "attributes": [],
+          "quantity": 9999
+        }
+      ]
+    },
+    "S10259921454972440_S23174": {
+      "name": "Tang Palace (Renaissance Chengdu Hotel Branch)",
+      "store_id": "S10259921454972440_S23174",
+      "score": 4.7,
+      "location": {
+        "address": "Tang Palace, No. 48, Section 4, Renmin South Road, Wuhou District, Chengdu, Sichuan Province (Renaissance Chengdu Hotel Branch)",
+        "latitude": 30.612346,
+        "longitude": 104.066359
+      },
+      "tags": [],
+      "products": [
+        {
+          "name": "Chicken Feet in Abalone Sauce/Regular",
+          "product_id": "S40545386888025235_P17336",
+          "store_id": "S10259921454972440_S23174",
+          "store_name": "Tang Palace (Renaissance Chengdu Hotel Branch)",
+          "price": 88,
+          "tags": [
+            "Non-spicy"
+          ],
+          "attributes": [],
+          "quantity": 9999
+        },
+        {
+          "name": "Braised Radish and Beef Brisket Pot/Regular",
+          "product_id": "S24851189700244333_P41922",
+          "store_id": "S10259921454972440_S23174",
+          "store_name": "Tang Palace (Renaissance Chengdu Hotel Branch)",
+          "price": 88,
+          "tags": [
+            "Classic"
+          ],
+          "attributes": [],
+          "quantity": 9999
+        }
+      ]
+    },
+    "S24625565818948214_S81609": {
+      "name": "ChaTraMue Thai Tea (Renhe New City Branch)",
+      "store_id": "S24625565818948214_S81609",
+      "score": 4.7,
+      "location": {
+        "address": "ChaTraMue Thai Tea (Renhe New City Branch), Renhe Spring International Plaza, No. 505 West Section of Fucheng Avenue, Wuhou District, Chengdu, Sichuan Province",
+        "latitude": 30.587597,
+        "longitude": 104.052409
+      },
+      "tags": [],
+      "products": [
+        {
+          "name": "Signature Thai Milk Tea",
+          "product_id": "S30267560580568980_P30135",
+          "store_id": "S24625565818948214_S81609",
+          "store_name": "ChaTraMue Thai Tea (Renhe New City Branch)",
+          "price": 25,
+          "tags": [],
+          "attributes": [],
+          "quantity": 9999
+        },
+        {
+          "name": "Thai Tea with Salted Cheese",
+          "product_id": "S13970170355401398_P59503",
+          "store_id": "S24625565818948214_S81609",
+          "store_name": "ChaTraMue Thai Tea (Renhe New City Branch)",
+          "price": 26,
+          "tags": [],
+          "attributes": [],
+          "quantity": 9999
+        }
+      ]
+    }
+  },
+  "orders": {}
+}

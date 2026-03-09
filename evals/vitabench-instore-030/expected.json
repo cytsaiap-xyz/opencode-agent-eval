@@ -1,0 +1,74 @@
+{
+  "required_orders": [
+    {
+      "order_id": "10826054T001",
+      "order_type": "instore",
+      "user_id": "U439032",
+      "store_id": "S17564425886875082_I00001",
+      "note": "",
+      "location": null,
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 498,
+      "create_time": "2025-03-20 17:33:00",
+      "update_time": "2025-03-20 17:33:00",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17564425886875082_P00001",
+          "name": "Multiple essential oils relaxation package",
+          "price": 498,
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "reservation_id": "10826054T002",
+      "shop_id": "S17564425886875082_I00001",
+      "reservation_time": "2025-03-22 14:00:00",
+      "update_time": "2025-03-20 17:35:00",
+      "customer_id": "U439032",
+      "customer_count": 1,
+      "status": "unconsumed"
+    },
+    {
+      "order_id": "10826054T003",
+      "order_type": "instore",
+      "user_id": "U439032",
+      "store_id": "S17564425886875082_I00003",
+      "note": "",
+      "location": null,
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 88,
+      "create_time": "2025-03-20 17:37:00",
+      "update_time": "2025-03-20 17:37:00",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17564425886875082_P00011",
+          "name": "Black pepper steak light meal set",
+          "price": 88,
+          "quantity": 1
+        }
+      ]
+    }
+  ],
+  "rubrics": [
+    "The ordered aromatherapy SPA package must include multiple essential oils",
+    "The ordered aromatherapy SPA club must have an elegant environment",
+    "The ordered aromatherapy SPA club must have high privacy",
+    "The ordered aromatherapy SPA club must be within 10 kilometers (including 10 kilometers) from Room 1204, Building B, World Trade Center, No. 6 Hong Kong Middle Road, Shinan District, Qingdao",
+    "The reserved aromatherapy SPA club should be Yunshu Aromatherapy SPA Club",
+    "When checking if the aromatherapy SPA club is available for reservation on 2025-03-22 11:00:00, as the business hours are open from 12:00-22:00, it is unavailable, so the reservation time is set to 2025-03-22 14:00:00",
+    "The number of people for the aromatherapy SPA club reservation is 1",
+    "As the user will have therapy in the afternoon of 2025-03-22, the restaurant ordered should be a light meal restaurant",
+    "The ordered restaurant should be a Well-known brand",
+    "The restaurant order must be a Single person meal",
+    "The restaurant set meal must include Beef",
+    "The restaurant order must be a Light meal",
+    "The ordered restaurant should be within one kilometer (including one kilometer) from Yunshu Aromatherapy SPA Club, 3rd Floor, Hyatt Plaza, No. 15 Donghai West Road, Shinan District, Qingdao"
+  ]
+}

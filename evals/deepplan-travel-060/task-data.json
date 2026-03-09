@@ -1,0 +1,41 @@
+{
+  "task_id": "59",
+  "query": "I'm planning a trip from Urumqi to Changsha on November 16, 2025, returning on the 19th, making it a four-day trip in total. For transportation, I'd like to take flights both ways, and I want to book first class since it'll be more comfortable during the flight.\n\nRegarding accommodation, I usually enjoy staying at Orange Hotel, so I’d like to stay with them again this time. However, my budget is limited, so please just help me pick the most affordable hotel under the Orange brand.\n\nAlso, a friend has been highly recommending 'Xiangzhiwei Self-Service Restaurant (Four Twos and Two Kings Authorized Store)', saying their food is especially authentic. I definitely want to try it during this visit—please arrange one meal there for me. Additionally, I’d like to visit 'Hunan Martyrs' Park'. After sightseeing, I’ll probably be hungry, so please help me find the nearest restaurant to that park and arrange a meal there as well, so I don’t have to travel far.\n\nThat’s basically everything. I believe I’ve provided all the necessary information—please go ahead and plan out the detailed itinerary for me. I’m all set and ready to go! November 16, 2025 is Sunday",
+  "meta_info": {
+    "org": "Urumqi",
+    "dest": [
+      "Changsha"
+    ],
+    "days": 4,
+    "depart_date": "2025-11-16",
+    "return_date": "2025-11-19",
+    "people_number": 1,
+    "room_number": 1
+  },
+  "hard_constraints": {
+    "flight_seat_class": {
+      "constraint_context": "Hope to choose air travel, and first class is required for both outbound and return flights",
+      "outbound_flight_no": "FU6594",
+      "inbound_flight_no": "FU6593"
+    },
+    "hotel_cheapest_brand": {
+      "constraint_context": "For accommodation, please select the cheapest hotel among the \"Orange\" brand hotels",
+      "constraint_type": "superlative_cheapest_brand",
+      "hotel_name": "Orange Hotel Changsha Lugu BBK New World",
+      "hotel_price": 308.0
+    },
+    "restaurant_must_eat_named": {
+      "constraint_context": "The itinerary must include one meal at 'Xiangzhiwei Self-Service Restaurant (Four Twos and Two Kings Authorized Store)'.",
+      "constraint_type": "superlative_must_eat_named",
+      "restaurant_name": "Xiangzhiwei Self-Service Restaurant (Four Twos and Two Kings Authorized Store)",
+      "restaurant_rating": 4.0
+    },
+    "restaurant_closest_to_attraction": {
+      "constraint_context": "During the trip, please arrange a meal at the restaurant closest to 'Hunan Martyrs' Park'.",
+      "constraint_type": "superlative_closest_to_attraction",
+      "attraction_name": "Hunan Martyrs' Park",
+      "restaurant_name": "Chuiyan Stir-Fried Yellow Beef Upgraded Store (Huaxia Branch)",
+      "price_per_person": 100.0
+    }
+  }
+}

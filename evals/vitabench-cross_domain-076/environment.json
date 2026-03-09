@@ -1,0 +1,481 @@
+{
+  "task_id": "10811010",
+  "domain": "cross_domain",
+  "time": "2025-07-04 10:15:00",
+  "user_id": "U494358",
+  "weather": [
+    {
+      "city": "Wuhan",
+      "category": "sunny",
+      "datetime": "2025-07-04",
+      "temperature": [
+        26,
+        34
+      ],
+      "humidity": 65
+    },
+    {
+      "city": "Beijing",
+      "category": "cloudy",
+      "datetime": "2025-07-07",
+      "temperature": [
+        23,
+        31
+      ],
+      "humidity": 60
+    }
+  ],
+  "location": [
+    {
+      "address": "Room 302, Building 5, East Garden Community, Huazhong University of Science and Technology, 1037 Luoyu Road, Hongshan District, Wuhan, Hubei Province",
+      "longitude": 114.431618,
+      "latitude": 30.513285
+    }
+  ],
+  "user_profile": {
+    "user id": "U494358",
+    "occupation": "PhD student",
+    "gender": "female",
+    "age group": "25~30",
+    "residence": "Wuhan",
+    "work address": "Building B3, Liandong U Valley Smart Manufacturing Industrial Park, Jiangjun First Road, Dongxihu District, Wuhan, Hubei Province",
+    "dietary restrictions": "Avoids greasy and spicy food, low-salt diet",
+    "family status": "Has children",
+    "personality": "Experiences significant mood swings, expresses herself with strong emotional coloring"
+  },
+  "user_historical_behaviors": {
+    "user id": "U494358",
+    "occupation": "PhD student",
+    "gender": "female",
+    "age group": "25~30",
+    "residence": "Wuhan",
+    "Permanent address": "Room 302, Building 5, East Garden Community, Huazhong University of Science and Technology, 1037 Luoyu Road, Hongshan District, Wuhan, Hubei Province",
+    "work address": "Building B3, Liandong U Valley Smart Manufacturing Industrial Park, Jiangjun First Road, Dongxihu District, Wuhan, Hubei Province",
+    "delivery": {
+      "food delivery": {
+        "breakfast": {
+          "frequently purchased categories": [
+            "Quick meals/Hot dry noodles (average 18 yuan)",
+            "Quick meals/Steamed buns/Pan-fried buns (average 15 yuan)",
+            "Quick meals/Small dishes (average 22 yuan)"
+          ],
+          "cost per order": "15~30 yuan",
+          "preferred store rating": "4.3~4.8 points",
+          "preferred delivery time": "15~25 minutes",
+          "preferred distance": "0~1500m",
+          "recent orders": [
+            {
+              "store": "Old Wuhan Hot Dry Noodles",
+              "product": "Signature hot dry noodles + braised egg"
+            },
+            {
+              "store": "Four Seasons Bun Shop",
+              "product": "Vegetable three delicacies bun + millet porridge"
+            },
+            {
+              "store": "Breakfast Workshop",
+              "product": "Healthy small dishes set"
+            }
+          ],
+          "search history": [
+            "Hot dry noodles",
+            "Steamed buns",
+            "Small dishes",
+            "Soy milk",
+            "Breakfast items"
+          ]
+        },
+        "weekday lunch/dinner": {
+          "frequently purchased categories": [
+            "Chinese cuisine/Hunan cuisine (average 45 yuan)",
+            "Quick meals/Light food (average 38 yuan)",
+            "Quick meals/Healthy meals (average 42 yuan)"
+          ],
+          "cost per order": "35~60 yuan",
+          "preferred store rating": "4.5~4.9 points",
+          "preferred delivery time": "20~35 minutes",
+          "preferred distance": "0~3000m",
+          "recent orders": [
+            {
+              "store": "Hunan Cuisine Restaurant",
+              "product": "Steamed fish + seasonal vegetables"
+            },
+            {
+              "store": "Light Food Workshop",
+              "product": "Chicken breast salad"
+            },
+            {
+              "store": "Diet Select",
+              "product": "Low-fat beef rice"
+            }
+          ],
+          "search history": [
+            "Healthy meal",
+            "Low-fat",
+            "Salad",
+            "Hunan cuisine",
+            "Steamed dishes"
+          ]
+        },
+        "weekend lunch/dinner": {
+          "frequently purchased categories": [
+            "International cuisine/Stone pot bibimbap/Teppanyaki rice (average 65 yuan)",
+            "Chinese cuisine/Claypot stew (average 78 yuan)",
+            "International cuisine/Japanese bento/Sushi (average 85 yuan)"
+          ],
+          "cost per order": "60~120 yuan",
+          "preferred store rating": "4.6~5.0 points",
+          "preferred delivery time": "30~45 minutes",
+          "preferred distance": "0~5000m",
+          "recent orders": [
+            {
+              "store": "Korean Cuisine",
+              "product": "Stone pot bibimbap set"
+            },
+            {
+              "store": "Little Bear Claypot",
+              "product": "Three delicacies claypot stew"
+            },
+            {
+              "store": "Sushi Story",
+              "product": "Deluxe sushi platter"
+            }
+          ],
+          "search history": [
+            "Stone pot bibimbap",
+            "Claypot stew",
+            "Sushi",
+            "Japanese cuisine",
+            "Korean cuisine"
+          ]
+        },
+        "desserts/drinks/snacks": {
+          "frequently purchased categories": [
+            "Drinks and desserts/Juice (average 25 yuan)",
+            "Drinks and desserts/Chinese pastries (average 18 yuan)",
+            "Drinks and desserts/Fruit salad (average 32 yuan)"
+          ],
+          "cost per order": "15~35 yuan",
+          "preferred store rating": "4.4~4.9 points",
+          "preferred delivery time": "15~30 minutes",
+          "preferred distance": "0~2500m",
+          "recent orders": [
+            {
+              "store": "Fresh Juice Bar",
+              "product": "Fresh grapefruit juice"
+            },
+            {
+              "store": "Taoli Pastries",
+              "product": "Red bean glutinous rice cake"
+            },
+            {
+              "store": "Fruit Salad",
+              "product": "Colorful fruit salad"
+            }
+          ],
+          "search history": [
+            "Juice",
+            "Pastries",
+            "Fruit salad",
+            "Desserts",
+            "Caffeine-free"
+          ]
+        },
+        "night snack": {
+          "frequently purchased categories": [
+            "Quick meals/Rice noodles (average 28 yuan)",
+            "Quick meals/Claypot dishes (average 38 yuan)",
+            "Snacks/Braised foods (average 32 yuan)"
+          ],
+          "cost per order": "25~45 yuan",
+          "preferred store rating": "4.2~4.8 points",
+          "preferred delivery time": "20~40 minutes",
+          "preferred distance": "0~3000m",
+          "recent orders": [
+            {
+              "store": "Yunnan Bridge Rice Noodles",
+              "product": "Signature rice noodles"
+            },
+            {
+              "store": "Claypot House",
+              "product": "Health-preserving claypot"
+            },
+            {
+              "store": "Time-honored Braised Foods",
+              "product": "Assorted braised platter"
+            }
+          ],
+          "search history": [
+            "Rice noodles",
+            "Claypot",
+            "Braised foods",
+            "Health-preserving",
+            "Light night snack"
+          ]
+        }
+      },
+      "product delivery": {
+        "frequently purchased categories": [
+          "Vegetables/Bean products(32%)",
+          "Fruits(23%)",
+          "Pet supplies(18%)",
+          "Household items(15%)",
+          "Grains, oils, seasonings, dried goods(8%)",
+          "Others(4%)"
+        ],
+        "frequently visited stores": [
+          "Huazhong Fresh Supermarket(38%)",
+          "Yonghui Supermarket (Hongshan Store)(27%)",
+          "Pet Love Pet Supplies Store(20%)",
+          "Other stores(15%)"
+        ],
+        "cost per order by category": {
+          "Vegetables/Bean products": "5~25 yuan",
+          "Fruits": "10~40 yuan",
+          "Pet supplies": "30~120 yuan",
+          "Household items": "15~50 yuan",
+          "Grains, oils, seasonings, dried goods": "10~45 yuan"
+        },
+        "preferred delivery time": "30~60 minutes",
+        "typical order time": "18~20:00(35%), 9~11:00(25%), 14~16:00(20%)",
+        "recent orders": [
+          {
+            "store": "Huazhong Fresh Supermarket",
+            "product": "Organic vegetable set"
+          },
+          {
+            "store": "Pet Love Pet Supplies Store",
+            "product": "Natural cat food"
+          },
+          {
+            "store": "Yonghui Supermarket (Hongshan Store)",
+            "product": "Seasonal fruit combo"
+          }
+        ],
+        "search history": [
+          "Organic vegetables",
+          "Cat food",
+          "Fruits",
+          "Kitchen paper towels",
+          "Tofu"
+        ]
+      }
+    },
+    "in-store consumption": {
+      "in-store dining": {
+        "fine-dining": {
+          "frequently consumed categories": [
+            "Regional cuisine/Hunan cuisine (average 120 yuan)",
+            "Regional cuisine/Sichuan cuisine (average 95 yuan)",
+            "Regional cuisine/Fish dishes (average 130 yuan)"
+          ],
+          "preferred average price per person": "90~130 yuan",
+          "preferred store rating": "4.0~4.7 stars",
+          "typical dining time": "18:30-20:30",
+          "preferred distance": "1000~3000m",
+          "recent orders": [
+            {
+              "store": "Xiangxi Home Cooking",
+              "product": "Chopped chili fish head set"
+            },
+            {
+              "store": "Bashu Impression",
+              "product": "Homestyle twice-cooked pork"
+            },
+            {
+              "store": "Fish With You",
+              "product": "Steamed sea bass"
+            }
+          ],
+          "search history": [
+            "Non-spicy Sichuan cuisine",
+            "Family gathering",
+            "Health-preserving fish dishes",
+            "Low-oil cuisines"
+          ]
+        },
+        "light meal": {
+          "frequently consumed categories": [
+            "Fast food/Chinese quick meals (average 35 yuan)",
+            "Fast food/Western quick meals (average 30 yuan)",
+            "Regional cuisine/Local Jiangsu-Zhejiang dishes (average 45 yuan)"
+          ],
+          "preferred average price per person": "25~45 yuan",
+          "preferred store rating": "3.5~4.2 stars",
+          "typical dining time": "11:30-13:00",
+          "preferred distance": "100~500m",
+          "recent orders": [
+            {
+              "store": "Yang Guofu Malatang",
+              "product": "Mild spicy malatang"
+            },
+            {
+              "store": "Yonghe King",
+              "product": "Three delicacies soy milk set"
+            },
+            {
+              "store": "Old Grandma Jiu",
+              "product": "Braised pork rib rice"
+            }
+          ],
+          "search history": [
+            "Work meal",
+            "Healthy quick meal",
+            "Non-spicy fast food",
+            "Light food"
+          ]
+        },
+        "desserts/drinks/snacks": {
+          "frequently consumed categories": [
+            "Beverage shops (average 18 yuan)",
+            "Bread and desserts (average 25 yuan)",
+            "Other dining/Fresh fruits (average 15 yuan)"
+          ],
+          "preferred average price per person": "15~25 yuan",
+          "preferred store rating": "3.8~4.5 stars",
+          "typical dining time": "15:00-16:30",
+          "preferred distance": "0~300m",
+          "recent orders": [
+            {
+              "store": "OneZo",
+              "product": "Sugar-free oolong milk tea"
+            },
+            {
+              "store": "Bread Talk",
+              "product": "Whole wheat toast"
+            },
+            {
+              "store": "Xianheng Fruits",
+              "product": "Selected fruit platter"
+            }
+          ],
+          "search history": [
+            "Low-sugar beverages",
+            "Healthy desserts",
+            "Additive-free bread"
+          ]
+        }
+      },
+      "other in-store services": {
+        "frequently consumed categories": {
+          "Beauty/Haircare": "20%",
+          "Sports fitness/Fitness centers": "35%",
+          "Leisure entertainment/Massage/Foot therapy": "25%",
+          "Parent-child/Parent-child entertainment": "20%"
+        },
+        "cost per order by category": {
+          "Beauty/Haircare": "80~150 yuan",
+          "Sports fitness/Fitness centers": "50~120 yuan",
+          "Leisure entertainment/Massage/Foot therapy": "100~180 yuan",
+          "Parent-child/Parent-child entertainment": "120~200 yuan"
+        },
+        "preferred store rating": "4.0~4.8 stars",
+        "preferred service time": "19:00-21:00",
+        "preferred distance": "500~2000m",
+        "recent orders": [
+          {
+            "store": "Joyful Fitness Center",
+            "product": "Yoga course monthly card"
+          },
+          {
+            "store": "Foot Fortune Hall",
+            "product": "Traditional Chinese medicine foot therapy set"
+          },
+          {
+            "store": "Wonder Playground",
+            "product": "Parent-child interaction ticket package"
+          }
+        ],
+        "search history": [
+          "Parent-child activities",
+          "Stress-relief massage",
+          "Women's fitness",
+          "Children's playground"
+        ]
+      }
+    },
+    "OTA": {
+      "visited scenes": {
+        "Cultural heritage sites": "20%",
+        "Natural landscapes (mountains/lakes/forests)": "30%",
+        "Parks": "25%",
+        "Exhibition halls (museums/art galleries)": "15%",
+        "Theme parks": "10%"
+      },
+      "cost per night on hotel": "300~500 yuan",
+      "visited hotels": {
+        "Home Inn": "35%",
+        "Hanting": "25%",
+        "JI Hotel": "20%",
+        "Atour": "15%",
+        "Vienna Hotel": "5%"
+      },
+      "browsed hotels": {
+        "Three-star hotels": "45%",
+        "Economy hotels": "30%",
+        "Comfort hotels": "25%"
+      },
+      "historical travel plans": {
+        "Wuhan-Shanghai": {
+          "Price range": "300-400 yuan",
+          "Transportation method": "High-speed rail"
+        },
+        "Wuhan-Beijing": {
+          "Price range": "500-700 yuan",
+          "Transportation method": "High-speed rail"
+        },
+        "Wuhan-Guangzhou": {
+          "Price range": "400-600 yuan",
+          "Transportation method": "High-speed rail"
+        },
+        "Wuhan-Chongqing": {
+          "Price range": "300-450 yuan",
+          "Transportation method": "High-speed rail"
+        },
+        "Wuhan-Changsha": {
+          "Price range": "150-200 yuan",
+          "Transportation method": "High-speed rail"
+        },
+        "Wuhan-Hangzhou": {
+          "Price range": "350-450 yuan",
+          "Transportation method": "High-speed rail"
+        }
+      }
+    }
+  },
+  "stores": {},
+  "orders": {
+    "S17550807000722555_O00001": {
+      "order_id": "S17550807000722555_O00001",
+      "order_type": "delivery",
+      "user_id": "U494358",
+      "store_id": "S17550807000722555_S00001",
+      "total_price": 399.0,
+      "create_time": "2025-07-03 09:15:32",
+      "status": "delivered",
+      "products": [
+        {
+          "product_id": "S17550807000722555_P00001",
+          "price": 399.0,
+          "quantity": 1
+        }
+      ]
+    },
+    "S17550807000722555_O00003": {
+      "order_id": "S17550807000722555_O00003",
+      "order_type": "instore",
+      "user_id": "U494358",
+      "store_id": "S17550807000722555_I00012",
+      "total_price": 680.0,
+      "create_time": "2025-07-04 10:30:42",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17550807000722555_P00063",
+          "price": 680.0,
+          "quantity": 1
+        }
+      ]
+    }
+  }
+}

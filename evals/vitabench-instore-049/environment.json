@@ -1,0 +1,203 @@
+{
+  "task_id": "10826105",
+  "domain": "instore",
+  "time": "2024-06-09 15:23:00",
+  "user_id": "U013994",
+  "weather": [
+    {
+      "city": "Chengdu City",
+      "category": "cloudy",
+      "datetime": "2024-06-09",
+      "temperature": [
+        24,
+        32
+      ],
+      "humidity": 62
+    },
+    {
+      "city": "Chengdu City",
+      "category": "light rain",
+      "datetime": "2024-06-10",
+      "temperature": [
+        22,
+        28
+      ],
+      "humidity": 78
+    },
+    {
+      "city": "Chengdu City",
+      "category": "cloudy",
+      "datetime": "2024-06-12",
+      "temperature": [
+        23,
+        30
+      ],
+      "humidity": 65
+    }
+  ],
+  "location": [
+    {
+      "address": "No.3 Complex, Dongkang Market Street, Jinjiang District, Chengdu",
+      "longitude": 104.0721,
+      "latitude": 30.6537
+    }
+  ],
+  "user_profile": {
+    "user id": "U013994",
+    "occupation": "Game Streamer",
+    "gender": "female",
+    "age group": "20~25",
+    "residence": "Chengdu",
+    "home address": " No.3 Complex, Dongkang Market Street, Jinjiang District, Chengdu ",
+    "work address": "Room 512, W3 Zone, Global Center, No.1700 North Tianfu Avenue, Wuhou District, Chengdu",
+    "dietary restrictions": "Avoids greasy and spicy food, avoids caffeine",
+    "family status": "Has pets",
+    "personality": "Mild-tempered with high cooperativeness, good at listening and understanding"
+  },
+  "user_historical_behaviors": {
+    "user id": "U013994",
+    "occupation": "Game Streamer",
+    "gender": "female",
+    "age group": "20~25",
+    "residence": "Chengdu",
+    "home address": " No.3 Complex, Dongkang Market Street, Jinjiang District, Chengdu ",
+    "work address": "Room 512, W3 Zone, Global Center, No.1700 North Tianfu Avenue, Wuhou District, Chengdu",
+    "in-store dining": {
+      "fine-dining": {
+        "frequently purchased categories": [
+          "International Cuisine/Japanese Food (Average 120 yuan)",
+          "Regional Cuisine/Sichuan Food (Average 85 yuan)",
+          "Regional Cuisine/Cantonese Food (Average 95 yuan)"
+        ],
+        "preferred average price per person": "85~120 yuan",
+        "preferred store rating": "4.2~4.9 stars",
+        "typical dining time": "18:30-21:00",
+        "preferred distance": "500~3000m",
+        "recent orders": [
+          {
+            "store": "Hefeng Japanese Cuisine (IFS Branch)",
+            "product": "Exquisite Set Meal for Two"
+          },
+          {
+            "store": "Chengdu Impression (Taikoo Li Branch)",
+            "product": "Signature Spicy Blood Curd"
+          },
+          {
+            "store": "Cantonese Tea Restaurant (Global Center Branch)",
+            "product": "Black Pepper Beef Tenderloin"
+          }
+        ],
+        "search history": [
+          "Japanese cuisine",
+          "Non-spicy Sichuan food",
+          "Light meals",
+          "Health-focused meals"
+        ]
+      },
+      "light meal": {
+        "frequently purchased categories": [
+          "Snacks & Fast Food/Chinese Light Meals (Average 35 yuan)",
+          "Snacks & Fast Food/Western Fast Food (Average 40 yuan)",
+          "Regional Cuisine/Local Jiangzhe Cuisine (Average 45 yuan)"
+        ],
+        "preferred average price per person": "30~50 yuan",
+        "preferred store rating": "3.5~4.3 stars",
+        "typical dining time": "12:00-13:30",
+        "preferred distance": "0~800m",
+        "recent orders": [
+          {
+            "store": "Light Meal Salad (Global Center Branch)",
+            "product": "Chicken Breast Vegetable Salad"
+          },
+          {
+            "store": "Jixiang Wonton (IFS Branch)",
+            "product": "Shrimp Wonton Set Meal"
+          },
+          {
+            "store": "McDonald's (Wuhou District Branch)",
+            "product": "Chicken Wrap + French Fries"
+          }
+        ],
+        "search history": [
+          "Light meals",
+          "Salad",
+          "Non-spicy fast food",
+          "Healthy meals"
+        ]
+      },
+      "desserts/drinks/snacks": {
+        "frequently purchased categories": [
+          "Beverage Shops (Average 22 yuan)",
+          "Bread & Desserts (Average 32 yuan)",
+          "Other Dining/Fresh Fruits (Average 25 yuan)"
+        ],
+        "preferred average price per person": "18~35 yuan",
+        "preferred store rating": "4.0~4.8 stars",
+        "typical dining time": "15:00-17:00",
+        "preferred distance": "0~500m",
+        "recent orders": [
+          {
+            "store": "HEYTEA (Taikoo Li Branch)",
+            "product": "Cheese Mango (Caffeine-free)"
+          },
+          {
+            "store": "Fresh Fruit Cuts (IFS Branch)",
+            "product": "Fruit Platter"
+          },
+          {
+            "store": "BreadTalk (Global Center Branch)",
+            "product": "Matcha Red Bean Bread"
+          }
+        ],
+        "search history": [
+          "Caffeine-free drinks",
+          "Fruits",
+          "Low-sugar desserts",
+          "Fresh fruits"
+        ]
+      }
+    },
+    "other in-store services": {
+      "frequently consumed categories": {
+        "Beauty/Hair Salon": "20%",
+        "Beauty/Nail Salon": "15%",
+        "Sports & Fitness/Fitness Centers": "25%",
+        "Entertainment/Murder Mystery Game": "20%",
+        "Pets/Pet Hospitals": "20%"
+      },
+      "cost per order by category": {
+        "Beauty/Hair Salon": "280~450 yuan",
+        "Beauty/Nail Salon": "150~220 yuan",
+        "Sports & Fitness/Fitness Centers": "120~200 yuan/time",
+        "Entertainment/Murder Mystery Game": "80~120 yuan/time",
+        "Pets/Pet Hospitals": "200~500 yuan"
+      },
+      "preferred store rating": "4.0~4.8 stars",
+      "preferred service time": "10:00-16:00",
+      "preferred distance": "0~5000m",
+      "recent orders": [
+        {
+          "store": "Starry Fitness (Global Center Branch)",
+          "product": "Personal Training Package"
+        },
+        {
+          "store": "Love Pet Hospital (Jinjiang District Branch)",
+          "product": "Cat Health Examination Package"
+        },
+        {
+          "store": "Immersive Murder Mystery Game (Taikoo Li Branch)",
+          "product": "Two-person Script Experience"
+        }
+      ],
+      "search history": [
+        "Women's fitness",
+        "Cat hospital",
+        "Light script",
+        "Nail salon recommendations",
+        "Non-irritating hair dye"
+      ]
+    }
+  },
+  "stores": {},
+  "orders": {}
+}

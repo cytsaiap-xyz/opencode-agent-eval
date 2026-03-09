@@ -1,0 +1,134 @@
+{
+  "city": "Riverside",
+  "attractions": [
+    {
+      "id": "a1", "name": "History Museum", "type": "museum",
+      "rating": 4.6, "entryFee": 15, "visitDurationMinutes": 120,
+      "openTime": "09:00", "closeTime": "17:00",
+      "closedDays": ["monday"],
+      "location": { "lat": 34.0, "lng": -117.37 }
+    },
+    {
+      "id": "a2", "name": "Botanical Garden", "type": "park",
+      "rating": 4.8, "entryFee": 10, "visitDurationMinutes": 90,
+      "openTime": "07:00", "closeTime": "18:00",
+      "closedDays": [],
+      "location": { "lat": 34.01, "lng": -117.38 }
+    },
+    {
+      "id": "a3", "name": "Art Gallery", "type": "museum",
+      "rating": 4.3, "entryFee": 12, "visitDurationMinutes": 60,
+      "openTime": "10:00", "closeTime": "18:00",
+      "closedDays": ["tuesday"],
+      "location": { "lat": 33.99, "lng": -117.36 }
+    },
+    {
+      "id": "a4", "name": "Central Park", "type": "park",
+      "rating": 4.5, "entryFee": 0, "visitDurationMinutes": 60,
+      "openTime": "06:00", "closeTime": "20:00",
+      "closedDays": [],
+      "location": { "lat": 34.005, "lng": -117.375 }
+    },
+    {
+      "id": "a5", "name": "Science Center", "type": "museum",
+      "rating": 4.7, "entryFee": 20, "visitDurationMinutes": 150,
+      "openTime": "09:30", "closeTime": "17:30",
+      "closedDays": ["monday", "tuesday"],
+      "location": { "lat": 34.02, "lng": -117.35 }
+    },
+    {
+      "id": "a6", "name": "Riverside Zoo", "type": "zoo",
+      "rating": 4.4, "entryFee": 18, "visitDurationMinutes": 180,
+      "openTime": "08:00", "closeTime": "17:00",
+      "closedDays": ["wednesday"],
+      "location": { "lat": 33.98, "lng": -117.39 }
+    },
+    {
+      "id": "a7", "name": "Heritage Walk", "type": "walking_tour",
+      "rating": 4.2, "entryFee": 5, "visitDurationMinutes": 45,
+      "openTime": "08:00", "closeTime": "19:00",
+      "closedDays": [],
+      "location": { "lat": 34.0, "lng": -117.365 }
+    },
+    {
+      "id": "a8", "name": "Observation Tower", "type": "landmark",
+      "rating": 4.9, "entryFee": 8, "visitDurationMinutes": 30,
+      "openTime": "10:00", "closeTime": "20:00",
+      "closedDays": [],
+      "location": { "lat": 34.015, "lng": -117.37 }
+    }
+  ],
+  "restaurants": [
+    {
+      "id": "r1", "name": "Morning Cafe", "cuisine": "breakfast",
+      "avgPrice": 12, "rating": 4.3, "mealType": "breakfast",
+      "openTime": "06:30", "closeTime": "14:00",
+      "closedDays": [],
+      "location": { "lat": 34.002, "lng": -117.372 }
+    },
+    {
+      "id": "r2", "name": "Lunch Box", "cuisine": "american",
+      "avgPrice": 18, "rating": 4.1, "mealType": "lunch",
+      "openTime": "11:00", "closeTime": "15:00",
+      "closedDays": ["sunday"],
+      "location": { "lat": 34.005, "lng": -117.368 }
+    },
+    {
+      "id": "r3", "name": "Fine Dining Co", "cuisine": "french",
+      "avgPrice": 55, "rating": 4.8, "mealType": "dinner",
+      "openTime": "17:00", "closeTime": "22:00",
+      "closedDays": ["monday"],
+      "location": { "lat": 33.995, "lng": -117.375 }
+    },
+    {
+      "id": "r4", "name": "Noodle Street", "cuisine": "asian",
+      "avgPrice": 14, "rating": 4.5, "mealType": "lunch",
+      "openTime": "11:00", "closeTime": "21:00",
+      "closedDays": [],
+      "location": { "lat": 34.008, "lng": -117.36 }
+    },
+    {
+      "id": "r5", "name": "Pizza Corner", "cuisine": "italian",
+      "avgPrice": 16, "rating": 4.0, "mealType": "dinner",
+      "openTime": "11:00", "closeTime": "22:00",
+      "closedDays": [],
+      "location": { "lat": 34.0, "lng": -117.38 }
+    },
+    {
+      "id": "r6", "name": "Brunch Palace", "cuisine": "brunch",
+      "avgPrice": 20, "rating": 4.6, "mealType": "breakfast",
+      "openTime": "07:00", "closeTime": "15:00",
+      "closedDays": ["tuesday"],
+      "location": { "lat": 34.01, "lng": -117.37 }
+    },
+    {
+      "id": "r7", "name": "Grill House", "cuisine": "steakhouse",
+      "avgPrice": 40, "rating": 4.7, "mealType": "dinner",
+      "openTime": "16:00", "closeTime": "23:00",
+      "closedDays": ["tuesday"],
+      "location": { "lat": 34.003, "lng": -117.365 }
+    }
+  ],
+  "hotels": [
+    {
+      "id": "hotel1", "name": "Riverside Grand", "stars": 4,
+      "pricePerNight": 160, "rating": 4.5,
+      "location": { "lat": 34.005, "lng": -117.37 }
+    },
+    {
+      "id": "hotel2", "name": "Budget Stay", "stars": 2,
+      "pricePerNight": 65, "rating": 3.8,
+      "location": { "lat": 34.0, "lng": -117.375 }
+    },
+    {
+      "id": "hotel3", "name": "Luxury Suites", "stars": 5,
+      "pricePerNight": 300, "rating": 4.9,
+      "location": { "lat": 34.01, "lng": -117.365 }
+    }
+  ],
+  "travelTimesMinutes": {
+    "between_nearby": 10,
+    "between_medium": 20,
+    "between_far": 35
+  }
+}

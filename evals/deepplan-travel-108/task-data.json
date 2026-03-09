@@ -1,0 +1,47 @@
+{
+  "task_id": "107",
+  "query": "I plan to travel from Shenzhen to Beijing on November 12, 2025, and return to Shenzhen on November 18, 2025. This time, I’d like you to help me plan the itinerary, including transportation, accommodation, meals, and sightseeing arrangements.\n\nFor the outbound journey, I’d like to arrive in Beijing as early as possible to have more time for activities on the first day. Could you please help me choose the earliest direct flight available? For the return trip, no specific arrangements are needed—just go with whatever is most convenient.\n\nRegarding accommodation, a three-star hotel would be sufficient. However, I really enjoy swimming and would like to relax during the trip, so the hotel we stay at must have a swimming pool. Also, there are only two of us traveling, so one room will be enough.\n\nAs for dining, I have two specific requests. First, I’m particularly looking forward to visiting the 'National Aquatics Center (Water Cube)'. After touring the site, I’d like to have a meal nearby—preferably at a restaurant that offers private rooms, so we can enjoy a quieter dining atmosphere. Second, I’m also excited to visit the 'Summer Palace'. I’ve heard there are many great places to eat around there, so please help me find the highest-rated restaurant nearby and arrange a meal there.\n\nThese are roughly my thoughts—I believe the information provided is sufficient. Please go ahead and prepare the full itinerary for me. Thanks so much for your help! November 12, 2025 is Wednesday",
+  "meta_info": {
+    "org": "Shenzhen",
+    "dest": [
+      "Beijing"
+    ],
+    "days": 7,
+    "depart_date": "2025-11-12",
+    "return_date": "2025-11-18",
+    "people_number": 2,
+    "room_number": 1
+  },
+  "hard_constraints": {
+    "flight_earliest_departure_direct": {
+      "constraint_context": "Prefer to take a flight for the outbound journey, and need to select the earliest departing direct flight",
+      "constraint_type": "superlative_earliest_departure",
+      "outbound_flight_no": "G59274"
+    },
+    "hotel_star_service_required": {
+      "constraint_context": "Please select a 3-star hotel that provides a pool for accommodation.",
+      "constraint_type": "superlative_star_service_required",
+      "hotel_name": "Xana Hotelle (Beijing South Railway Station Majiabao Road Branch)",
+      "required_service": "Swimming Pool",
+      "hotel_star": 3,
+      "hotel_price": 319.0
+    },
+    "restaurant_specific_tag_nearby": {
+      "constraint_context": "Arrange a meal at a restaurant near the 'National Aquatics Center (Water Cube)' during the trip, with private room service required",
+      "constraint_type": "superlative_specific_tag_nearby",
+      "attraction_name": "National Aquatics Center (Water Cube)",
+      "restaurant_name": "National Style · Home Restaurant (Bird's Nest Scenic View Branch)",
+      "required_tag": "Private Room",
+      "price_per_person": 556.0,
+      "restaurant_rating": 4.6
+    },
+    "restaurant_highest_rated": {
+      "constraint_context": "Please arrange a meal at the highest-rated restaurant near the 'Summer Palace' during the trip.",
+      "constraint_type": "superlative_highest_rated_restaurant",
+      "attraction_name": "Summer Palace",
+      "restaurant_name": "Dayou Shangpin Community Restaurant (Central Party School Community Business Unit)",
+      "price_per_person": 90.0,
+      "restaurant_rating": 4.7
+    }
+  }
+}

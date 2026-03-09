@@ -1,0 +1,91 @@
+{
+  "required_orders": [
+    {
+      "order_id": "70811006T001",
+      "order_type": "attraction",
+      "user_id": "U771552",
+      "store_id": "S17557505472901595_A00006",
+      "note": "",
+      "location": null,
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 200,
+      "create_time": "2027-03-25 12:27:13",
+      "update_time": "2027-03-25 12:27:13",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17557505472901595_P00052",
+          "price": 100,
+          "quantity": 2,
+          "date": "2027-04-08",
+          "ticket_type": "Adult Ticket"
+        }
+      ]
+    },
+    {
+      "order_id": "70811006T002",
+      "order_type": "flight",
+      "user_id": "U771552",
+      "store_id": "S17557505472901595_F00010",
+      "note": "",
+      "location": null,
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 1560,
+      "create_time": "2027-03-25 12:28:13",
+      "update_time": "2027-03-25 12:28:13",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17557505472901595_P00087",
+          "price": 780,
+          "quantity": 2,
+          "date": "2027-04-07",
+          "seat_type": "Economy Class"
+        }
+      ]
+    },
+    {
+      "order_id": "70811006T003",
+      "order_type": "hotel",
+      "user_id": "U771552",
+      "store_id": "S17557505472901595_H00003",
+      "note": "",
+      "location": null,
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 2174,
+      "create_time": "2027-03-25 12:29:13",
+      "update_time": "2027-03-25 12:29:13",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17557505472901595_P00023",
+          "price": 688,
+          "quantity": 1,
+          "date": "2027-04-07",
+          "room_type": "Desert View King Room"
+        }
+      ]
+    }
+  ],
+  "rubrics": [
+    "Need to provide Inner Mongolia Xiangshawan weather forecast information, with results showing sandstorm in Ordos on April 8, 2027, temperature 8-15 degrees, therefore the destination of the trip should be Ningxia Shapotou",
+    "The attraction for the admission ticket order must be Ningxia Shapotou",
+    "The type of admission ticket order must be basic admission ticket without other activities",
+    "The date of the admission ticket order must be April 8, 2027 (the second day after the first Wednesday of next month)",
+    "The quantity of admission tickets must be 2",
+    "The arrival city for the flight order should be Yinchuan",
+    "The departure date of the flight order must be April 7, 2027 (the first Wednesday of next month)",
+    "The quantity of flight tickets must be 2",
+    "The arrival time of the flight should be in the morning",
+    "The check-in date for the hotel order must be April 7, 2027",
+    "The room in the hotel order needs to have a desert view",
+    "The hotel should be rated 4-star or above",
+    "The hotel address should be located near Ningxia Shapotou rather than Inner Mongolia Xiangshawan"
+  ]
+}

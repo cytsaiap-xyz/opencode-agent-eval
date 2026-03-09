@@ -1,0 +1,85 @@
+{
+  "required_orders": [
+    {
+      "order_id": "S17550802098853509_O00011",
+      "order_type": "instore",
+      "user_id": "U528681",
+      "store_id": "S17550802098853509_I00011",
+      "note": "",
+      "location": null,
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 328,
+      "create_time": "2025-03-27 18:17:35",
+      "update_time": "2025-03-27 18:17:35",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17550802098853509_P00058",
+          "price": 328,
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "order_id": "OT64e3047b69",
+      "order_type": "delivery",
+      "user_id": "U528681",
+      "store_id": "S17550802098853509_S00001",
+      "note": "",
+      "location": {
+        "address": "Room 1205, Building 3, Lead SHOW Plaza, Quanxiu Road, Donghai Street, Fengze District, Quanzhou, Fujian Province",
+        "longitude": 118.6132,
+        "latitude": 24.8741
+      },
+      "dispatch_time": "2025-03-27 19:00:00",
+      "shipping_time": 27,
+      "delivery_time": "2025-03-27 19:27:00",
+      "total_price": 58,
+      "create_time": "2025-03-27 18:16:00",
+      "update_time": "2025-03-27 18:16:00",
+      "status": "delivered",
+      "products": [
+        {
+          "product_id": "S17550802098853509_P00002",
+          "price": 58,
+          "quantity": 1,
+          "name": "Quinoa and Tofu Pot",
+          "store_id": "S17550802098853509_S00001",
+          "store_name": "Natural Food Organic Vegetarian",
+          "attributes": "",
+          "tags": [
+            "Organic Ingredients",
+            "Gluten-Free",
+            "High Protein",
+            "Vegetarian"
+          ]
+        }
+      ]
+    },
+    {
+      "reservation_id": "S17550802098853509_R00017",
+      "shop_id": "S17550802098853509_I00011",
+      "reservation_time": "2025-03-28 15:30:00",
+      "update_time": "2025-03-27 19:15:42",
+      "customer_id": "U528681",
+      "customer_count": 1,
+      "status": "unconsumed"
+    }
+  ],
+  "rubrics": [
+    "The food delivery order must be organic healthy vegetarian cuisine",
+    "The food delivery restaurant must offer dine-in service",
+    "The food delivery ingredients cannot contain broccoli",
+    "The food delivery order cannot include high purine foods (such as organ meats/seafood soup/Matsutake Mushroom Soup/Kelp and Mushroom Soup, etc.)",
+    "The food delivery order cannot contain caffeine",
+    "The food delivery order arrival time should be around 7:30 on March 27, 2025 [i.e., the estimated delivery time is within the 7:15-7:45 interval]",
+    "The food delivery address is Room 1205, Building 3, Lead SHOW Plaza, Quanxiu Road, Donghai Street, Fengze District, Quanzhou, Fujian Province",
+    "Must search for and provide information about high-end bath and steam bath centers",
+    "The bath establishment ordered must provide steam bath rooms and professional massage services",
+    "The bath package ordered should include multiple therapy services such as steam bath, massage, and foot massage",
+    "The bath package needs to include face masks",
+    "The bath center appointment time must be in the afternoon"
+  ]
+}

@@ -1,0 +1,141 @@
+{
+  "required_orders": [
+    {
+      "order_id": "70807009T001",
+      "order_type": "flight",
+      "user_id": "U010039",
+      "store_id": "S17557505488137572_F00009",
+      "note": "",
+      "location": null,
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 2460,
+      "create_time": "2026-06-30 21:14:56",
+      "update_time": "2026-06-30 21:14:56",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17557505488137572_P00088",
+          "price": 820,
+          "quantity": 3,
+          "date": "2026-07-04",
+          "seat_type": "Economy class"
+        }
+      ]
+    },
+    {
+      "order_id": "70807009T002",
+      "order_type": "flight",
+      "user_id": "U010039",
+      "store_id": "S17557505488137572_F00010",
+      "note": "",
+      "location": null,
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 2997,
+      "create_time": "2026-06-30 21:15:56",
+      "update_time": "2026-06-30 21:15:56",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17557505488137572_P00097",
+          "price": 999,
+          "quantity": 3,
+          "date": "2026-07-04",
+          "seat_type": "Economy class"
+        }
+      ]
+    },
+    {
+      "order_id": "70807009T003",
+      "order_type": "hotel",
+      "user_id": "U010039",
+      "store_id": "S17557505488137572_H00001",
+      "note": "",
+      "location": null,
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 3540,
+      "create_time": "2026-06-30 21:18:56",
+      "update_time": "2026-06-30 21:18:56",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17557505488137572_P00004",
+          "price": 420,
+          "quantity": 1,
+          "date": "2025-07-04",
+          "room_type": "Classical garden king room"
+        },
+        {
+          "product_id": "S17557505488137572_P00001",
+          "price": 420,
+          "quantity": 1,
+          "date": "2025-07-05",
+          "room_type": "Classical garden king room"
+        },
+        {
+          "product_id": "S17557505488137572_P00006",
+          "price": 480,
+          "quantity": 1,
+          "date": "2025-07-06",
+          "room_type": "Classical garden family room"
+        },
+        {
+          "product_id": "S17557505488137572_P00002",
+          "price": 420,
+          "quantity": 1,
+          "date": "2025-07-07",
+          "room_type": "Classical garden king room"
+        },
+        {
+          "product_id": "S17557505488137572_P00008",
+          "price": 420,
+          "quantity": 1,
+          "date": "2025-07-08",
+          "room_type": "Classical garden king room"
+        },
+        {
+          "product_id": "S17557505488137572_P00009",
+          "price": 420,
+          "quantity": 1,
+          "date": "2025-07-09",
+          "room_type": "Classical garden king room"
+        },
+        {
+          "product_id": "S17557505488137572_P00007",
+          "price": 480,
+          "quantity": 1,
+          "date": "2025-07-10",
+          "room_type": "Classical garden family room"
+        },
+        {
+          "product_id": "S17557505488137572_P20009",
+          "price": 480,
+          "quantity": 1,
+          "date": "2025-07-11",
+          "room_type": "Classical garden family room"
+        }
+      ]
+    }
+  ],
+  "rubrics": [
+    "The outbound flight should be from Fuzhou to Beijing",
+    "The outbound flight departure date should be July 4, 2026 (this Saturday)",
+    "The outbound flight ticket quantity should be 3",
+    "The outbound flight should be an afternoon or evening flight",
+    "The return flight should be from Beijing to Fuzhou",
+    "The return flight departure date should be July 12, 2026 (next Sunday)",
+    "The return flight ticket quantity should be 3",
+    "The return flight should be an afternoon or evening flight",
+    "The hotel should be in the style of Qing Dynasty royal garden",
+    "The hotel needs to provide laundry service",
+    "The hotel must be Family-friendly",
+    "The hotel room type should be family room or king room",
+    "The hotel booking should be for 8 nights, on July 4, 2026, July 5, 2026, July 6, 2026, July 7, 2026, July 8, 2026, July 9, 2026, July 10, 2026, and July 11, 2026",
+    "If both king room and family room are available on the same date, family room should be prioritized, so the room type for July 11, 2026 should be family room"
+  ]
+}

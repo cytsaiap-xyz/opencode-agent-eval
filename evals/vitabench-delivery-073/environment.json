@@ -1,0 +1,445 @@
+{
+  "task_id": "E0721001",
+  "domain": "delivery",
+  "time": "2026-05-11 09:12:19",
+  "user_id": "U000066",
+  "weather": [
+    {
+      "city": "Suzhou City",
+      "category": "sunny",
+      "datetime": "2026-05-11",
+      "temperature": [
+        17,
+        23
+      ],
+      "humidity": 58
+    }
+  ],
+  "location": [
+    {
+      "address": "A1 Tower, Tengfei Innovation Park, 160 meters southeast of the intersection of Xinping Street and Ruoshui Road, Huqiu District, Suzhou, Jiangsu Province",
+      "longitude": 120.733845,
+      "latitude": 31.254175
+    }
+  ],
+  "user_profile": {
+    "user id": "U000066",
+    "occupation": "Algorithm Engineer",
+    "gender": "male",
+    "age group": "25~30",
+    "residence": "Suzhou",
+    "home address": "Boyue Xihu, No. 168 Wanshou Street, Suzhou Industrial Park, Huqiu District, Suzhou, Jiangsu Province",
+    "work address": "A1 Tower, Tengfei Innovation Park, 160 meters southeast of the intersection of Xinping Street and Ruoshui Road, Huqiu District, Suzhou, Jiangsu Province",
+    "dietary restrictions": "No alcohol",
+    "family status": "Has pet",
+    "personality": "Expresses himself coldly and concisely, lacks emotional communication and patience"
+  },
+  "user_historical_behaviors": {
+    "user id": "U000066",
+    "occupation": "Algorithm Engineer",
+    "gender": "male",
+    "age group": "25~30",
+    "residence": "Suzhou",
+    "home address": "Boyue Xihu, No. 168 Wanshou Street, Suzhou Industrial Park, Huqiu District, Suzhou, Jiangsu Province",
+    "work address": "A1 Tower, Tengfei Innovation Park, 160 meters southeast of the intersection of Xinping Street and Ruoshui Road, Huqiu District, Suzhou, Jiangsu Province",
+    "breakfast": {
+      "frequently purchased categories": [
+        "Quick Meals/Steamed Buns/Pan-fried Buns (average 25 yuan)",
+        "Quick Meals/Dumplings/Wonton (average 22 yuan)",
+        "Quick Meals/Soy Milk and Fried Dough Sticks (average 15 yuan)"
+      ],
+      "cost per order": "15~35 yuan",
+      "preferred store rating": "4.3~5.0 stars",
+      "preferred delivery time": "15~30 minutes",
+      "preferred distance": "0~2500m",
+      "recent orders": [
+        {
+          "store": "Yangchun Noodle House",
+          "product": "Mushroom Chicken Noodles + Soup Dumplings"
+        },
+        {
+          "store": "Suzhou Traditional Breakfast",
+          "product": "Pork Wonton + Soy Milk"
+        },
+        {
+          "store": "Yonghe Soy Milk",
+          "product": "Plain Soy Milk + Fried Dough Sticks + Side Dish"
+        }
+      ],
+      "search history": [
+        "Stomach-friendly breakfast",
+        "Soy milk and fried dough sticks",
+        "Soup dumplings",
+        "Wonton",
+        "Nutritious breakfast"
+      ]
+    },
+    "weekday lunch/dinner": {
+      "frequently purchased categories": [
+        "Quick Meals/Rice Noodles (average 22 yuan)",
+        "Quick Meals/Chinese Pulled Noodles (average 28 yuan)",
+        "Quick Meals/Light Food (average 45 yuan)"
+      ],
+      "cost per order": "20~60 yuan",
+      "preferred store rating": "4.2~5.0 stars",
+      "preferred delivery time": "20~35 minutes",
+      "preferred distance": "0~3000m",
+      "recent orders": [
+        {
+          "store": "Suhe Fish Noodles (Creative Industry Park Branch)",
+          "product": "[Owner's Recommendation] Golden Soup Five-Grain Fish Noodles"
+        },
+        {
+          "store": "Mr. Whole Grain",
+          "product": "Low-fat Chicken Breast Rice + Vegetable Soup"
+        },
+        {
+          "store": "Old Friend Noodle House",
+          "product": "Beef Noodles without Spice"
+        }
+      ],
+      "search history": [
+        "Healthy meals",
+        "Low-fat",
+        "Light food",
+        "Fast food",
+        "Filling meals"
+      ]
+    },
+    "weekend lunch/dinner": {
+      "frequently purchased categories": [
+        "Chinese Cuisine/Sichuan Cuisine (average 88 yuan)",
+        "International Cuisine/Japanese Bento/Sushi (average 95 yuan)",
+        "International Cuisine/Stone Pot Bibimbap (average 78 yuan)"
+      ],
+      "cost per order": "70~180 yuan",
+      "preferred store rating": "4.5~5.0 stars",
+      "preferred delivery time": "30~45 minutes",
+      "preferred distance": "0~5000m",
+      "recent orders": [
+        {
+          "store": "Xiao Chuan Family Feast",
+          "product": "Boiled Beef + Twice-cooked Pork + Garlic Pork Slices + Rice"
+        },
+        {
+          "store": "Sushi House",
+          "product": "Teriyaki Chicken Cutlet Sushi Bento"
+        },
+        {
+          "store": "Korean Cuisine",
+          "product": "Beef Bibimbap + Kimchi Soup"
+        }
+      ],
+      "search history": [
+        "Sichuan home-style dishes",
+        "Japanese cuisine",
+        "Low purine",
+        "Stay-at-home friendly",
+        "Stone pot bibimbap"
+      ]
+    },
+    "desserts/drinks/snacks": {
+      "frequently purchased categories": [
+        "Beverages & Desserts/Juice (average 28 yuan)",
+        "Beverages & Desserts/Pure Tea/Herbal Tea (average 22 yuan)",
+        "Beverages & Desserts/Cold Desserts (average 35 yuan)"
+      ],
+      "cost per order": "15~45 yuan",
+      "preferred store rating": "4.4~5.0 stars",
+      "preferred delivery time": "15~30 minutes",
+      "preferred distance": "0~3000m",
+      "recent orders": [
+        {
+          "store": "Percent Tea",
+          "product": "Freshly Squeezed Starfruit Mango"
+        },
+        {
+          "store": "Fresh Juice Bar",
+          "product": "Freshly Squeezed Watermelon Juice"
+        },
+        {
+          "store": "Ice Queen",
+          "product": "Fruit Shaved Ice"
+        }
+      ],
+      "search history": [
+        "Cold drinks",
+        "Healthy tea",
+        "Low sugar",
+        "Fruit tea",
+        "Freshly squeezed juice"
+      ]
+    },
+    "night snack": {
+      "frequently purchased categories": [
+        "Quick Meals/Baked Flatbread/Meat Pies (average 25 yuan)",
+        "Quick Meals/Rice Noodles/Rice Vermicelli (average 32 yuan)",
+        "BBQ & Fried Food/Fried Food (average 45 yuan)"
+      ],
+      "cost per order": "20~55 yuan",
+      "preferred store rating": "4.0~4.7 stars",
+      "preferred delivery time": "20~40 minutes",
+      "preferred distance": "0~3500m",
+      "recent orders": [
+        {
+          "store": "Old Street Snacks",
+          "product": "Scallion Pancake + Pan-fried Dumplings"
+        },
+        {
+          "store": "Guilin Rice Noodles",
+          "product": "Signature Rice Noodles without Spice"
+        },
+        {
+          "store": "Fried Food Street",
+          "product": "Boneless Chicken Strips + French Fries"
+        }
+      ],
+      "search history": [
+        "Late night snacks",
+        "Happy midnight snacks",
+        "Pancakes",
+        "Rice noodles",
+        "Non-spicy night snacks"
+      ]
+    }
+  },
+  "stores": {
+    "S26065627586369062_S23399": {
+      "name": "Suhe Fish Noodles (Creative Industry Park Branch)",
+      "store_id": "S26065627586369062_S23399",
+      "score": 4.9,
+      "location": {
+        "address": "Suzhou Creative Industry Park, No. 328 Xinghu Street, Suzhou Industrial Park, Huqiu District, Suzhou, Jiangsu Province",
+        "latitude": 31.264162,
+        "longitude": 120.733922
+      },
+      "tags": [],
+      "products": [
+        {
+          "name": "[Owner's Recommendation] Golden Soup Five-Grain Fish Noodles",
+          "product_id": "S18192528497455031_P17757",
+          "store_id": "S26065627586369062_S23399",
+          "store_name": "Suhe Fish Noodles (Creative Industry Park Branch)",
+          "price": 22.99,
+          "tags": [],
+          "attributes": [
+            "Separated soup and noodles",
+            "Unseparated soup and noodles"
+          ],
+          "quantity": 9999
+        },
+        {
+          "name": "[Owner's Recommendation] Tomato Five-Grain Fish Noodles",
+          "product_id": "S26774255659104273_P43449",
+          "store_id": "S26065627586369062_S23399",
+          "store_name": "Suhe Fish Noodles (Creative Industry Park Branch)",
+          "price": 22.99,
+          "tags": [],
+          "attributes": [
+            "Separated soup and noodles",
+            "Unseparated soup and noodles"
+          ],
+          "quantity": 9999
+        },
+        {
+          "name": "Golden Soup Clam Fish Noodles",
+          "product_id": "S14294691430479982_P19969",
+          "store_id": "S26065627586369062_S23399",
+          "store_name": "Suhe Fish Noodles (Creative Industry Park Branch)",
+          "price": 24.99,
+          "tags": [],
+          "attributes": [
+            "Separated soup and noodles",
+            "Unseparated soup and noodles"
+          ],
+          "quantity": 9999
+        }
+      ]
+    },
+    "S18286164646930495_S16514": {
+      "name": "De Fa Cai Chaozhou Porridge Tea Restaurant (Suzhou Hengyi Plaza Branch)",
+      "store_id": "S18286164646930495_S16514",
+      "score": 4.8,
+      "location": {
+        "address": "Room 102, Building 1, No. 122 Bada Street, Suzhou Industrial Park, Suzhou Area, China (Jiangsu) Pilot Free Trade Zone",
+        "latitude": 31.265125,
+        "longitude": 120.72587
+      },
+      "tags": [],
+      "products": [
+        {
+          "name": "Crystal Shrimp Dumplings (3 pieces)",
+          "product_id": "S22810519353730742_P56607",
+          "store_id": "S18286164646930495_S16514",
+          "store_name": "De Fa Cai Chaozhou Porridge Tea Restaurant (Suzhou Hengyi Plaza Branch)",
+          "price": 16.8,
+          "tags": [],
+          "attributes": [],
+          "quantity": 9999
+        },
+        {
+          "name": "Cantonese Steamed Pineapple Bun 1 piece (without butter)",
+          "product_id": "S23661573642546781_P96011",
+          "store_id": "S18286164646930495_S16514",
+          "store_name": "De Fa Cai Chaozhou Porridge Tea Restaurant (Suzhou Hengyi Plaza Branch)",
+          "price": 3.8,
+          "tags": [],
+          "attributes": [],
+          "quantity": 9999
+        },
+        {
+          "name": "Fire and Ice Pineapple Bun with Butter (1 piece)",
+          "product_id": "S10480421933000211_P71242",
+          "store_id": "S18286164646930495_S16514",
+          "store_name": "De Fa Cai Chaozhou Porridge Tea Restaurant (Suzhou Hengyi Plaza Branch)",
+          "price": 9.8,
+          "tags": [],
+          "attributes": [],
+          "quantity": 9999
+        }
+      ]
+    },
+    "S89411709014069985_S86114": {
+      "name": "Percent Tea (Dushu Lake Neighborhood Center Branch)",
+      "store_id": "S89411709014069985_S86114",
+      "score": 4.9,
+      "location": {
+        "address": "B1F-09A, Dushu Lake Neighborhood Center, No. 198 Qiyue Street, Suzhou Industrial Park",
+        "latitude": 31.25227,
+        "longitude": 120.723996
+      },
+      "tags": [],
+      "products": [
+        {
+          "name": "Pistachio Azuki Bean Cheese",
+          "product_id": "S28817184822656220_P10240",
+          "store_id": "S89411709014069985_S86114",
+          "store_name": "Percent Tea (Dushu Lake Neighborhood Center Branch)",
+          "price": 22,
+          "tags": [
+            "Water Chestnut Balls",
+            "Pistachio Cheese"
+          ],
+          "attributes": [
+            "Standard sugar (7)",
+            "Half sugar (5) recommended",
+            "Less sugar (3)",
+            "No added sugar (0)"
+          ],
+          "quantity": 9999
+        },
+        {
+          "name": "Double Cup Pistachio Azuki Bean Cheese Set",
+          "product_id": "S22858130484019069_P09952",
+          "store_id": "S89411709014069985_S86114",
+          "store_name": "Percent Tea (Dushu Lake Neighborhood Center Branch)",
+          "price": 44,
+          "tags": [
+            "Water Chestnut Balls",
+            "Pistachio Cheese"
+          ],
+          "attributes": [
+            "Standard sugar (7)",
+            "Half sugar (5) recommended",
+            "Less sugar (3)",
+            "No added sugar (0)"
+          ],
+          "quantity": 9999
+        }
+      ]
+    },
+    "S33823739920400006_S31085": {
+      "name": "Suhe Fish Noodles (Xinghai Plaza Branch)",
+      "store_id": "S33823739920400006_S31085",
+      "score": 5,
+      "location": {
+        "address": "Unit B09, Basement 1, Xing Ya Hui, No. 308 Suya Road, Suzhou Industrial Park, Suzhou Area, China (Jiangsu) Pilot Free Trade Zone",
+        "latitude": 31.316911,
+        "longitude": 120.669928
+      },
+      "tags": [],
+      "products": [
+        {
+          "name": "Golden Soup Five-Grain Fish Noodles + Tomato Five-Grain Fish Noodles (with Two Free Drinks)",
+          "product_id": "S18630711511229957_P27539",
+          "store_id": "S33823739920400006_S31085",
+          "store_name": "Suhe Fish Noodles (Xinghai Plaza Branch)",
+          "price": 48,
+          "tags": [],
+          "attributes": [
+            "Separated soup and noodles",
+            "Unseparated soup and noodles"
+          ],
+          "quantity": 9999
+        }
+      ]
+    },
+    "S26972880265022836_S50500": {
+      "name": "De Fa Cai Chaozhou Porridge Tea Restaurant (Lianfeng Plaza Branch)",
+      "store_id": "S26972880265022836_S50500",
+      "score": 4.9,
+      "location": {
+        "address": "Room 102, Building 4, 1053F02018, Lianfeng Commercial Plaza, Suzhou Industrial Park, Suzhou, Jiangsu Province",
+        "latitude": 31.296829,
+        "longitude": 120.736135
+      },
+      "tags": [],
+      "products": [
+        {
+          "name": "Crystal Shrimp Dumpling (1 piece)",
+          "product_id": "S28901069650706804_P01708",
+          "store_id": "S26972880265022836_S50500",
+          "store_name": "De Fa Cai Chaozhou Porridge Tea Restaurant (Lianfeng Plaza Branch)",
+          "price": 5.8,
+          "tags": [],
+          "attributes": [],
+          "quantity": 9999
+        },
+        {
+          "name": "Hong Kong Style Steamed Pineapple Buns (2 pieces) [Without Butter]",
+          "product_id": "S22009169147122005_P52208",
+          "store_id": "S26972880265022836_S50500",
+          "store_name": "De Fa Cai Chaozhou Porridge Tea Restaurant (Lianfeng Plaza Branch)",
+          "price": 9.8,
+          "tags": [],
+          "attributes": [],
+          "quantity": 9999
+        }
+      ]
+    },
+    "S29214401352823927_S48181": {
+      "name": "Guangcheng Ji Hong Kong Style Tea Restaurant (Bada Street Branch)",
+      "store_id": "S29214401352823927_S48181",
+      "score": 4.9,
+      "location": {
+        "address": "Room 118, Building 1, No. 122 Bada Street, Suzhou Industrial Park, Suzhou Area, China (Jiangsu) Pilot Free Trade Zone",
+        "latitude": 31.265125,
+        "longitude": 120.72587
+      },
+      "tags": [],
+      "products": [
+        {
+          "name": "Cantonese Crystal Shrimp Dumplings (4 pieces) [Dim Sum Essential]",
+          "product_id": "S12011928145564503_P34162",
+          "store_id": "S29214401352823927_S48181",
+          "store_name": "Guangcheng Ji Hong Kong Style Tea Restaurant (Bada Street Branch)",
+          "price": 16.8,
+          "tags": [],
+          "attributes": [],
+          "quantity": 9999
+        },
+        {
+          "name": "Sweet Potato Balls (4 pieces)",
+          "product_id": "S12400026433192717_P56472",
+          "store_id": "S29214401352823927_S48181",
+          "store_name": "Guangcheng Ji Hong Kong Style Tea Restaurant (Bada Street Branch)",
+          "price": 12.8,
+          "tags": [],
+          "attributes": [],
+          "quantity": 9999
+        }
+      ]
+    }
+  },
+  "orders": {}
+}

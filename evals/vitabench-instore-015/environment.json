@@ -1,0 +1,193 @@
+{
+  "task_id": "10826002",
+  "domain": "instore",
+  "time": "2025-05-30 18:26:28",
+  "user_id": "U727719",
+  "weather": [
+    {
+      "city": "Qingdao",
+      "category": "sunny",
+      "datetime": "2025-05-31",
+      "temperature": [
+        20,
+        28
+      ],
+      "humidity": 45
+    },
+    {
+      "city": "Qingdao",
+      "category": "light rain",
+      "datetime": "2025-06-01",
+      "temperature": [
+        19,
+        25
+      ],
+      "humidity": 75
+    }
+  ],
+  "location": [
+    {
+      "address": "Room 502, Unit 1, Building 3, Sea View Garden, 76 Yan'an Road, Shibei District, Qingdao",
+      "longitude": 120.3756,
+      "latitude": 36.0895
+    },
+    {
+      "address": "North Branch of Qingdao Municipal Hospital, 5 Liaocheng Road, Shibei District, Qingdao",
+      "longitude": 120.3692,
+      "latitude": 36.0983
+    }
+  ],
+  "user_profile": {
+    "user id": "U727719",
+    "occupation": "Nurse",
+    "gender": "male",
+    "age group": "25~30",
+    "residence": "Qingdao",
+    "home address": "Room 502, Unit 1, Building 3, Sea View Garden, 76 Yan'an Road, Shibei District, Qingdao",
+    "work address": "North Branch of Qingdao Municipal Hospital, 5 Liaocheng Road, Shibei District, Qingdao",
+    "dietary restrictions": "Dislikes coriander",
+    "family status": "In a relationship",
+    "personality": "Overly dependent on others' guidance, lacks independence and decisiveness"
+  },
+  "user_historical_behaviors": {
+    "user id": "U727719",
+    "occupation": "Nurse",
+    "gender": "male",
+    "age group": "25~30",
+    "residence": "Qingdao",
+    "home address": "Room 502, Unit 1, Building 3, Sea View Garden, 76 Yan'an Road, Shibei District, Qingdao",
+    "work address": "North Branch of Qingdao Municipal Hospital, 5 Liaocheng Road, Shibei District, Qingdao",
+    "in-store dining": {
+      "fine-dining": {
+        "frequently purchased categories": [
+          "Local Cuisine/Seafood (Average 130 yuan)",
+          "Local Cuisine/Sichuan Food (Average 95 yuan)",
+          "Foreign Cuisine/Japanese Food (Average 150 yuan)"
+        ],
+        "preferred average price per person": "90~150 yuan",
+        "preferred store rating": "4.2~4.8 stars",
+        "typical dining time": "19:00-21:00",
+        "preferred distance": "500~3000m",
+        "recent orders": [
+          {
+            "store": "Qingdao Fishing Port Seafood Restaurant",
+            "product": "Steamed Bass Fish Set"
+          },
+          {
+            "store": "Shuxiangyuan Sichuan Restaurant",
+            "product": "Boiled Fish Set"
+          },
+          {
+            "store": "Kaze Japanese Cuisine",
+            "product": "Sashimi Platter"
+          }
+        ],
+        "search history": [
+          "Non-spicy Sichuan food",
+          "Qingdao seafood",
+          "Japanese cuisine",
+          "Romantic restaurants for couples"
+        ]
+      },
+      "light meal": {
+        "frequently purchased categories": [
+          "Fast Food/Chinese Light Meals (Average 30 yuan)",
+          "Fast Food/Western Fast Food (Average 35 yuan)",
+          "Local Cuisine/Northeastern Food (Average 45 yuan)"
+        ],
+        "preferred average price per person": "25~45 yuan",
+        "preferred store rating": "3.5~4.3 stars",
+        "typical dining time": "11:30-13:00",
+        "preferred distance": "0~500m",
+        "recent orders": [
+          {
+            "store": "Fast Food Next to Hospital",
+            "product": "Chicken Salad Set"
+          },
+          {
+            "store": "Northeastern Dumpling King",
+            "product": "Three Delicacies Dumplings"
+          },
+          {
+            "store": "McDonald's (Qingdao Hospital Branch)",
+            "product": "Spicy McChicken Meal"
+          }
+        ],
+        "search history": [
+          "Fast food near hospital",
+          "Healthy light meals",
+          "Low purine diet"
+        ]
+      },
+      "desserts/drinks/snacks": {
+        "frequently purchased categories": [
+          "Beverage Shops (Average 18 yuan)",
+          "Bakery and Desserts (Average 25 yuan)",
+          "Other Food/Fresh Fruits (Average 15 yuan)"
+        ],
+        "preferred average price per person": "15~30 yuan",
+        "preferred store rating": "4.0~4.7 stars",
+        "typical dining time": "15:00-16:30",
+        "preferred distance": "0~300m",
+        "recent orders": [
+          {
+            "store": "HEYTEA (Shibei Wanda Branch)",
+            "product": "Grape Me (Sugar-free)"
+          },
+          {
+            "store": "85°C (Yan'an Road Branch)",
+            "product": "Whole Wheat Bread"
+          },
+          {
+            "store": "Fresh Fruit Station",
+            "product": "Fruit Platter"
+          }
+        ],
+        "search history": [
+          "Sugar-free drinks",
+          "Low-sugar desserts",
+          "Healthy fruits"
+        ]
+      }
+    },
+    "other in-store services": {
+      "frequently consumed categories": {
+        "Sports & Fitness/Fitness Centers": "45%",
+        "Sports & Fitness/Ball Sports": "30%",
+        "Leisure & Entertainment/Massage/Foot Therapy": "15%",
+        "Beauty/Yoga": "10%"
+      },
+      "cost per order by category": {
+        "Sports & Fitness/Fitness Centers": "80~200 yuan",
+        "Sports & Fitness/Ball Sports": "40~100 yuan",
+        "Leisure & Entertainment/KTV/Foot Therapy": "120~180 yuan",
+        "Beauty/Yoga": "90~150 yuan"
+      },
+      "preferred store rating": "4.0~4.8 stars",
+      "preferred service time": "20:00-22:00",
+      "preferred distance": "0~3000m",
+      "recent orders": [
+        {
+          "store": "Qing Fitness (Shibei Branch)",
+          "product": "Monthly Fitness Package"
+        },
+        {
+          "store": "Qingdao Sports Center",
+          "product": "Badminton Court 2 hours"
+        },
+        {
+          "store": "Kang Foot Therapy",
+          "product": "Professional Foot Massage 60 minutes"
+        }
+      ],
+      "search history": [
+        "24-hour operation",
+        "Badminton court reservation",
+        "Fitness discounts for healthcare workers",
+        "Fatigue relief massage"
+      ]
+    }
+  },
+  "stores": {},
+  "orders": {}
+}

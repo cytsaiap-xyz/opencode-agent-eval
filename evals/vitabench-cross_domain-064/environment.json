@@ -1,0 +1,669 @@
+{
+  "task_id": "10811014",
+  "domain": "cross_domain",
+  "time": "2025-04-17 15:44:21",
+  "user_id": "U909169",
+  "weather": [
+    {
+      "city": "Taiyuan",
+      "category": "sunny",
+      "datetime": "2025-04-17",
+      "temperature": [
+        15,
+        25
+      ],
+      "humidity": 45
+    },
+    {
+      "city": "Taiyuan",
+      "category": "light rain",
+      "datetime": "2025-04-18",
+      "temperature": [
+        12,
+        20
+      ],
+      "humidity": 75
+    },
+    {
+      "city": "Changzhi",
+      "category": "cloudy",
+      "datetime": "2025-04-18",
+      "temperature": [
+        14,
+        22
+      ],
+      "humidity": 60
+    }
+  ],
+  "location": [
+    {
+      "address": "Shanxi Textile and Clothing Industrial Park Zone C, 227 Changzhi Road, Xiaodian District, Taiyuan",
+      "longitude": 112.5763,
+      "latitude": 37.7896
+    }
+  ],
+  "user_profile": {
+    "user id": "U909169",
+    "occupation": "Foreign Trade Sales",
+    "gender": "female",
+    "age group": "35~40",
+    "residence": "Taiyuan",
+    "Permanent address": "Apartment 502, Unit 1, Building 3, Jinmo Joy Residence, 92 Wucheng Road, Xiaodian District, Taiyuan",
+    "work address": "Shanxi Textile and Clothing Industrial Park Zone C, 227 Changzhi Road, Xiaodian District, Taiyuan",
+    "dietary restrictions": "Avoids greasy and spicy food, avoids high salt",
+    "family status": "Has children",
+    "personality": "Extremely detail-oriented, tends to be picky and easily dissatisfied"
+  },
+  "user_historical_behaviors": {
+    "user id": "U909169",
+    "occupation": "Foreign Trade Sales",
+    "gender": "female",
+    "age group": "35~40",
+    "residence": "Taiyuan",
+    "Permanent address": "Room 502, Unit 1, Building 3, Jinmao Yue Community, No. 92 Wucheng Road, Xiaodian District, Taiyuan",
+    "work address": "Shanxi Textile and Clothing Industrial Park Zone C, 227 Changzhi Road, Xiaodian District, Taiyuan",
+    "delivery": {
+      "food delivery": {
+        "breakfast": {
+          "frequently purchased categories": [
+            "Quick Meals/Steamed Buns/Pan-fried Buns (Average 18 yuan)",
+            "Quick Meals/Fried Dough Sticks (Average 12 yuan)",
+            "Quick Meals/Pancakes/Wraps/Hand-grabbed Pancakes (Average 15 yuan)"
+          ],
+          "cost per order": "12~25 yuan",
+          "preferred store rating": "4.2~4.7 points",
+          "preferred delivery time": "15~30 minutes",
+          "preferred distance": "0~2500m",
+          "recent orders": [
+            {
+              "store": "Lao Sun's Bun Shop",
+              "product": "Vegetable Three Delicacies Buns + Soybean Milk"
+            },
+            {
+              "store": "Shanxi Breakfast House",
+              "product": "Knife-cut Noodle Set (Small Portion)"
+            },
+            {
+              "store": "Daily Breakfast",
+              "product": "Hand-grabbed Pancake + Soybean Milk"
+            }
+          ],
+          "search history": [
+            "Light breakfast",
+            "Soybean milk",
+            "Steamed buns",
+            "Non-spicy breakfast"
+          ]
+        },
+        "weekday lunch/dinner": {
+          "frequently purchased categories": [
+            "Quick Meals/Small Bowls/Small Portions (Average 32 yuan)",
+            "Quick Meals/Light Food (Average 38 yuan)",
+            "Quick Meals/Healthy Meals (Average 42 yuan)"
+          ],
+          "cost per order": "25~45 yuan",
+          "preferred store rating": "4.3~4.8 points",
+          "preferred delivery time": "20~35 minutes",
+          "preferred distance": "0~3000m",
+          "recent orders": [
+            {
+              "store": "Qingya Small Kitchen",
+              "product": "Steamed Bass + Seasonal Vegetables + Rice"
+            },
+            {
+              "store": "Light Food Philosophy",
+              "product": "Quinoa Chicken Breast Salad"
+            },
+            {
+              "store": "Nutrition Workshop",
+              "product": "Low-fat Chicken Rice + Vegetable Soup"
+            }
+          ],
+          "search history": [
+            "Low Oil",
+            "Healthy meal",
+            "Non-spicy rice",
+            "Light food",
+            "Low Salt"
+          ]
+        },
+        "weekend lunch/dinner": {
+          "frequently purchased categories": [
+            "Chinese Cuisine/Cantonese Cuisine (Average 85 yuan)",
+            "Chinese Cuisine/Shandong Cuisine (Average 75 yuan)",
+            "International Flavors/Japanese Bento/Sushi (Average 90 yuan)"
+          ],
+          "cost per order": "60~120 yuan",
+          "preferred store rating": "4.5~4.9 points",
+          "preferred delivery time": "30~45 minutes",
+          "preferred distance": "0~5000m",
+          "recent orders": [
+            {
+              "store": "Cantonese Pavilion",
+              "product": "Steamed Bass + Blanched Choy Sum + Steamed Egg with Shrimp"
+            },
+            {
+              "store": "Shandong Cuisine Heritage",
+              "product": "Home-style Braised Pork + Shandong Scallion Stir-fried Pork + Assorted Tofu"
+            },
+            {
+              "store": "Sushi Workshop",
+              "product": "Family Sushi Set (Including Salmon, Tuna, Crab Meat)"
+            }
+          ],
+          "search history": [
+            "Family meal set",
+            "Kid-friendly restaurants",
+            "Light Cantonese cuisine",
+            "Non-spicy Japanese food"
+          ]
+        },
+        "desserts/drinks/snacks": {
+          "frequently purchased categories": [
+            "Beverages and Desserts/Juice (Average 22 yuan)",
+            "Beverages and Desserts/Pure Tea/Herbal Tea (Average 18 yuan)",
+            "Beverages and Desserts/Fruit Salad (Average 28 yuan)"
+          ],
+          "cost per order": "15~35 yuan",
+          "preferred store rating": "4.4~4.8 points",
+          "preferred delivery time": "15~25 minutes",
+          "preferred distance": "0~2500m",
+          "recent orders": [
+            {
+              "store": "Fresh Juice Shop",
+              "product": "Freshly Squeezed Grapefruit Juice"
+            },
+            {
+              "store": "CHAYANYUESE",
+              "product": "Oolong Tea (Sugar-free)"
+            },
+            {
+              "store": "Fresh Fruit Mix",
+              "product": "Colorful Fruit Salad (Less Sugar)"
+            }
+          ],
+          "search history": [
+            "Sugar-free drinks",
+            "Fruit salad",
+            "Healthy beverages",
+            "Low Sugar"
+          ]
+        },
+        "night snack": {
+          "frequently purchased categories": [
+            "Quick Meals/Clay Pot Dishes (Average 38 yuan)",
+            "Quick Meals/Rice Noodles/Rice Vermicelli (Average 28 yuan)"
+          ],
+          "cost per order": "25~45 yuan",
+          "preferred store rating": "4.2~4.7 points",
+          "preferred delivery time": "25~40 minutes",
+          "preferred distance": "0~3000m",
+          "recent orders": [
+            {
+              "store": "Clay Pot Porridge Shop",
+              "product": "Preserved Egg and Lean Pork Porridge + Side Dishes"
+            },
+            {
+              "store": "Home-style Small Restaurant",
+              "product": "Clear Soup Rice Noodles + Cold Cucumber Salad"
+            },
+            {
+              "store": "Warm Clay Pot",
+              "product": "Stomach-friendly Clay Pot Porridge (Slightly Spicy)"
+            }
+          ],
+          "search history": [
+            "Mild night snacks",
+            "Not greasy",
+            "Clay pot porridge",
+            "Stomach-friendly night snacks"
+          ]
+        }
+      },
+      "product delivery": {
+        "frequently purchased categories": [
+          "Vegetables/Bean Products (32%)",
+          "Fruits (18%)",
+          "Grains, Oil, Seasonings, Dried Goods (15%)",
+          "Raw Meat/Poultry/Eggs (12%)",
+          "Household Items (10%)",
+          "Others (13%)"
+        ],
+        "frequently visited stores": [
+          "Xiang Life Store (45%)",
+          "Yonghui Supermarket (Taiyuan Wucheng Road Branch) (30%)",
+          "Seven Fresh Supermarket (15%)",
+          "Other Stores (10%)"
+        ],
+        "cost per order by category": {
+          "Vegetables/Bean Products": "5~25 yuan",
+          "Fruits": "10~40 yuan",
+          "Grains, Oil, Seasonings, Dried Goods": "15~50 yuan",
+          "Raw Meat/Poultry/Eggs": "20~60 yuan",
+          "Household Items": "10~45 yuan"
+        },
+        "preferred delivery time": "25~60 minutes",
+        "typical order time": "17~19 hours (40%), 9~11 hours (35%), 13~15 hours (25%)",
+        "recent orders": [
+          {
+            "store": "Xiang Life Store",
+            "product": "Organic Broccoli 300g, Tofu 2 boxes, Eggs 10 pieces"
+          },
+          {
+            "store": "Yonghui Supermarket (Taiyuan Wucheng Road Branch)",
+            "product": "Pork Tenderloin 500g, Carrots 2, Hand Soap"
+          },
+          {
+            "store": "Xiang Life Store",
+            "product": "Apples 4, Children's Toothbrush, Cucumbers 2"
+          }
+        ],
+        "search history": [
+          "Organic vegetables",
+          "Children's products",
+          "Chicken breast",
+          "Additive-free",
+          "Low sugar food"
+        ]
+      }
+    },
+    "in-store consumption": {
+      "in-store dining": {
+        "fine-dining": {
+          "frequently purchased categories": [
+            "Regional Cuisine/Fish (Average 120 yuan)",
+            "Regional Cuisine/Sichuan Cuisine (Average 90 yuan)",
+            "Regional Cuisine/Northeastern Cuisine (Average 85 yuan)"
+          ],
+          "preferred average price per person": "85~120 yuan",
+          "preferred store rating": "4.0~4.6 stars",
+          "typical dining time": "18:30-20:00",
+          "preferred distance": "500~3000m",
+          "recent orders": [
+            {
+              "store": "Taiyuan Fish Head with Pancakes",
+              "product": "Signature Fish Head with Pancakes Set"
+            },
+            {
+              "store": "Old Northeastern Dumpling House",
+              "product": "Sauerkraut Pork with Glass Noodles"
+            },
+            {
+              "store": "Sichuan Flavor Pavilion",
+              "product": "Boiled Fish Set (Mildly Spicy)"
+            }
+          ],
+          "search history": [
+            "Non-spicy Sichuan cuisine",
+            "Home-style dishes",
+            "Kid-friendly restaurants",
+            "Fish head with pancakes"
+          ]
+        },
+        "light meal": {
+          "frequently purchased categories": [
+            "Snacks and Fast Food/Chinese Quick Meals (Average 35 yuan)",
+            "Snacks and Fast Food/Western Fast Food (Average 30 yuan)"
+          ],
+          "preferred average price per person": "25~40 yuan",
+          "preferred store rating": "3.5~4.2 stars",
+          "typical dining time": "11:30-13:00",
+          "preferred distance": "0~800m",
+          "recent orders": [
+            {
+              "store": "Yonghe King",
+              "product": "Light Soybean Milk + Xiaolongbao"
+            },
+            {
+              "store": "Real Kung Fu",
+              "product": "Steamed Chicken Set (Low Oil Low Salt)"
+            },
+            {
+              "store": "Sha County Snacks",
+              "product": "Three Shreds Fried Noodles (Non-spicy)"
+            }
+          ],
+          "search history": [
+            "Fast food near work",
+            "Low Oil and Low Salt lunch",
+            "Healthy quick meal"
+          ]
+        },
+        "desserts/drinks/snacks": {
+          "frequently purchased categories": [
+            "Beverage Shops (Average 18 yuan)",
+            "Bread and Desserts (Average 25 yuan)"
+          ],
+          "preferred average price per person": "15~30 yuan",
+          "preferred store rating": "4.0~4.5 stars",
+          "typical dining time": "15:00-16:30",
+          "preferred distance": "0~500m",
+          "recent orders": [
+            {
+              "store": "CoCo",
+              "product": "Sugar-free Oolong Tea"
+            },
+            {
+              "store": "Bread Talk",
+              "product": "Whole Wheat Bread"
+            },
+            {
+              "store": "Starbucks",
+              "product": "Low Sugar Latte"
+            }
+          ],
+          "search history": [
+            "Low Sugar beverages",
+            "Healthy desserts",
+            "Sugar-free milk tea"
+          ]
+        }
+      },
+      "other in-store services": {
+        "frequently consumed categories": {
+          "Beauty/Hairdressing": "20%",
+          "Sports and Fitness/Fitness Centers": "35%",
+          "Leisure Entertainment/Massage/Foot Therapy": "15%",
+          "Parent-child/Parent-child Recreation": "30%"
+        },
+        "cost per order by category": {
+          "Beauty/Hairdressing": "80~150 yuan",
+          "Sports and Fitness/Fitness Centers": "40~80 yuan",
+          "Leisure Entertainment/Massage/Foot Therapy": "120~180 yuan",
+          "Parent-child/Parent-child Recreation": "100~200 yuan"
+        },
+        "preferred store rating": "3.8~4.7 stars",
+        "preferred service time": "Weekends 10:00-16:00",
+        "preferred distance": "0~5000m",
+        "recent orders": [
+          {
+            "store": "Taiyuan Mom and Baby Parent-child Playground",
+            "product": "Parent-child Package for Two"
+          },
+          {
+            "store": "Leke Fitness",
+            "product": "Single Person Monthly Card"
+          },
+          {
+            "store": "Zufutang Foot Massage",
+            "product": "Neck and Shoulder Relief Package (60 minutes)"
+          }
+        ],
+        "search history": [
+          "Parent-child activities",
+          "Women's fitness",
+          "Weekend parent-child",
+          "Children's recreation",
+          "Neck and shoulder fatigue relief"
+        ]
+      }
+    },
+    "OTA": {
+      "visited scenes": {
+        "Natural Landscapes (Mountains/Lakes/Forests)": "35%",
+        "Parks": "25%",
+        "Characteristic Villages/Industrial Tourism/Uncategorized Projects": "15%",
+        "Cultural Relics": "15%",
+        "Exhibition Halls (Museums/Art Galleries)": "10%"
+      },
+      "cost per night on hotel": "300~500 yuan",
+      "visited hotels": {
+        "Home Inn": "30%",
+        "Hanting": "25%",
+        "7 Days Inn": "20%",
+        "Jinjiang Inn": "15%",
+        "GreenTree Inn": "10%"
+      },
+      "browsed hotels": {
+        "Three-star Hotels": "35%",
+        "Comfort Hotels": "40%",
+        "Economy Hotels": "25%"
+      },
+      "historical travel plans": {
+        "Taiyuan-Xi'an": {
+          "Price range": "200-350 yuan",
+          "Transportation method": "High-speed Rail/EMU (Electric Multiple Unit)"
+        },
+        "Xi'an-Taiyuan": {
+          "Price range": "200-350 yuan",
+          "Transportation method": "High-speed Rail/EMU (Electric Multiple Unit)"
+        },
+        "Taiyuan-Beijing": {
+          "Price range": "150-280 yuan",
+          "Transportation method": "High-speed Rail/EMU (Electric Multiple Unit)"
+        },
+        "Beijing-Taiyuan": {
+          "Price range": "150-280 yuan",
+          "Transportation method": "High-speed Rail/EMU (Electric Multiple Unit)"
+        },
+        "Taiyuan-Pingyao": {
+          "Price range": "50-100 yuan",
+          "Transportation method": "Long-distance Bus"
+        },
+        "Pingyao-Taiyuan": {
+          "Price range": "50-100 yuan",
+          "Transportation method": "Long-distance Bus"
+        },
+        "Taiyuan-Datong": {
+          "Price range": "100-180 yuan",
+          "Transportation method": "Regular Speed Train"
+        },
+        "Datong-Taiyuan": {
+          "Price range": "100-180 yuan",
+          "Transportation method": "Regular Speed Train"
+        },
+        "Taiyuan-Jinzhong": {
+          "Price range": "80-150 yuan",
+          "Transportation method": "Self-driving"
+        }
+      }
+    }
+  },
+  "stores": {
+    "S17550802170962391_S00001": {
+      "name": "Time-honored Pastry Shop",
+      "store_id": "S17550802170962391_S00001",
+      "score": 4.7,
+      "location": {
+        "address": "Time-honored Pastry Shop, 45 Changfeng Street, Xiaodian District, Taiyuan",
+        "latitude": 37.7925,
+        "longitude": 112.5692
+      },
+      "tags": [
+        "Chinese Pastries",
+        "Exquisite Tea Snacks",
+        "Traditional Cuisine",
+        "Low Oil and Low Salt"
+      ],
+      "store_type": "target",
+      "products": [
+        {
+          "name": "Exquisite Rose and Osmanthus Cake",
+          "store_id": "S17550802170962391_S00001",
+          "store_name": "Time-honored Pastry Shop",
+          "price": 32.8,
+          "tags": [
+            "Exquisite Tea Snacks",
+            "Chinese Pastries",
+            "Osmanthus Fragrance",
+            "Low Oil and Low Sugar",
+            "Elegant Packaging"
+          ],
+          "product_id": "S17550802170962391_P00001",
+          "attributes": [
+            "6 pieces",
+            "Gift box packaging"
+          ],
+          "product_type": "target"
+        },
+        {
+          "name": "Traditional Pine Nut Shortbread",
+          "store_id": "S17550802170962391_S00001",
+          "store_name": "Time-honored Pastry Shop",
+          "price": 28.5,
+          "tags": [
+            "Pine Nuts",
+            "Low Oil",
+            "Traditional Craftsmanship",
+            "Exquisite Tea Snacks",
+            "Business Reception"
+          ],
+          "product_id": "S17550802170962391_P00002",
+          "attributes": [
+            "8 pieces",
+            "Simple packaging"
+          ],
+          "product_type": "target"
+        },
+        {
+          "name": "Dried Tangerine Peel Bean Paste Cake",
+          "store_id": "S17550802170962391_S00001",
+          "store_name": "Time-honored Pastry Shop",
+          "price": 29.9,
+          "tags": [
+            "Dried Tangerine Peel",
+            "Bean Paste",
+            "Low Oil and Low Salt",
+            "Exquisite Tea Snacks",
+            "Chinese Pastries"
+          ],
+          "product_id": "S17550802170962391_P00004",
+          "attributes": [
+            "8 pieces",
+            "Elegant packaging"
+          ],
+          "product_type": "target"
+        }
+      ]
+    },
+    "S17550802170962391_S00002": {
+      "name": "Jingyuexuan Tea Snacks",
+      "store_id": "S17550802170962391_S00002",
+      "score": 4.6,
+      "location": {
+        "address": "Jingyuexuan Tea Snacks, 128 Qinxian North Street, Xiaodian District, Taiyuan",
+        "latitude": 37.7852,
+        "longitude": 112.5712
+      },
+      "tags": [
+        "Chinese Pastries",
+        "Tea Snacks",
+        "Exquisite",
+        "Handmade"
+      ],
+      "store_type": "target",
+      "products": [
+        {
+          "name": "Premium Red Bean Paste Squares",
+          "store_id": "S17550802170962391_S00002",
+          "store_name": "Jingyuexuan Tea Snacks",
+          "price": 28.8,
+          "tags": [
+            "Exquisite Tea Snacks",
+            "Traditional Pastries",
+            "Handmade",
+            "Low Sugar",
+            "Low Oil",
+            "Business Hospitality"
+          ],
+          "product_id": "S17550802170962391_P00008",
+          "attributes": [
+            "Room temperature",
+            "Mildly sweet"
+          ],
+          "product_type": "target"
+        },
+        {
+          "name": "Osmanthus Glutinous Rice Lotus Root",
+          "store_id": "S17550802170962391_S00002",
+          "store_name": "Jingyuexuan Tea Snacks",
+          "price": 32.5,
+          "tags": [
+            "Non-pastry",
+            "Handmade",
+            "Delicately Sweet",
+            "Healthy"
+          ],
+          "product_id": "S17550802170962391_P00009",
+          "attributes": [
+            "Refrigerated",
+            "Mildly sweet"
+          ],
+          "product_type": "target"
+        },
+        {
+          "name": "Rose Pastry",
+          "store_id": "S17550802170962391_S00002",
+          "store_name": "Jingyuexuan Tea Snacks",
+          "price": 35,
+          "tags": [
+            "Exquisite Tea Snacks",
+            "Innovative Pastries",
+            "Handmade",
+            "Rose Fragrance",
+            "Business Hospitality",
+            "Aesthetically Pleasing"
+          ],
+          "product_id": "S17550802170962391_P00010",
+          "attributes": [
+            "Room temperature",
+            "Mildly sweet"
+          ],
+          "product_type": "target"
+        }
+      ]
+    },
+    "S17550802170962391_S00003": {
+      "name": "Shanxi Pastry House",
+      "store_id": "S17550802170962391_S00003",
+      "score": 4.5,
+      "location": {
+        "address": "Shanxi Pastry House, 198 Changzhi Road, Xiaodian District, Taiyuan",
+        "latitude": 37.7889,
+        "longitude": 112.5738
+      },
+      "tags": [
+        "Traditional Pastries",
+        "Exquisite Tea Snacks",
+        "Local Specialty"
+      ],
+      "store_type": "target",
+      "products": [
+        {
+          "name": "Shanxi Sesame Crisps",
+          "store_id": "S17550802170962391_S00003",
+          "store_name": "Shanxi Pastry House",
+          "price": 26.8,
+          "tags": [
+            "Traditional Pastries",
+            "Local Specialty",
+            "Chinese Pastries"
+          ],
+          "product_id": "S17550802170962391_P00017",
+          "attributes": [
+            "Spicy",
+            "Elegant packaging"
+          ],
+          "product_type": "distraction"
+        },
+        {
+          "name": "Deep-fried Flaky Pastry",
+          "store_id": "S17550802170962391_S00003",
+          "store_name": "Shanxi Pastry House",
+          "price": 35.5,
+          "tags": [
+            "Traditional Pastries",
+            "Chinese Pastries",
+            "Local Specialty"
+          ],
+          "product_id": "S17550802170962391_P00018",
+          "attributes": [
+            "6 pieces"
+          ],
+          "product_type": "distraction"
+        }
+      ]
+    }
+  },
+  "orders": {}
+}

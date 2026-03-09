@@ -1,0 +1,899 @@
+{
+  "task_id": "A0811004",
+  "domain": "cross_domain",
+  "time": "2024-08-21 13:03:17",
+  "user_id": "U066309",
+  "weather": [
+    {
+      "city": "Kunming",
+      "category": "sunny",
+      "datetime": "2024-08-21",
+      "temperature": [
+        18,
+        26
+      ],
+      "humidity": 65
+    },
+    {
+      "city": "Kunming",
+      "category": "cloudy",
+      "datetime": "2024-08-23",
+      "temperature": [
+        17,
+        25
+      ],
+      "humidity": 70
+    },
+    {
+      "city": "Urumqi",
+      "category": "sunny",
+      "datetime": "2024-08-26",
+      "temperature": [
+        16,
+        28
+      ],
+      "humidity": 40
+    },
+    {
+      "city": "Urumqi",
+      "category": "sunny",
+      "datetime": "2024-08-27",
+      "temperature": [
+        15,
+        27
+      ],
+      "humidity": 45
+    },
+    {
+      "city": "Urumqi",
+      "category": "cloudy",
+      "datetime": "2024-08-28",
+      "temperature": [
+        14,
+        26
+      ],
+      "humidity": 50
+    }
+  ],
+  "location": [
+    {
+      "address": "15th Floor, Yunnan Image Business Center, 448 Youth Road, Wuhua District, Kunming, Yunnan Province",
+      "longitude": 102.7076,
+      "latitude": 25.0461
+    }
+  ],
+  "user_profile": {
+    "user id": "U066309",
+    "occupation": "Fitness coach",
+    "gender": "male",
+    "age group": "25~30",
+    "residence": "Kunming",
+    "Permanent address": "Room 501, Unit 2, Building 32, Jinxing Community, Panlong District, Kunming, Yunnan Province",
+    "work address": "15th Floor, Yunnan Image Business Center, 448 Youth Road, Wuhua District, Kunming, Yunnan Province",
+    "dietary restrictions": "No high sugar, no alcohol",
+    "family status": "Has children",
+    "personality": "Tends to be dominant and controlling, not easily accepting different opinions"
+  },
+  "user_historical_behaviors": {
+    "user id": "U066309",
+    "occupation": "fitness trainer",
+    "gender": "male",
+    "age group": "25~30",
+    "residence": "Kunming",
+    "home address": "Room 501, Unit 2, Building 32, Jinxing Community, Panlong District, Kunming, Yunnan Province",
+    "work address": "15th Floor, Yunnan Image Business Center, 448 Youth Road, Wuhua District, Kunming, Yunnan Province",
+    "delivery": {
+      "food delivery": {
+        "breakfast": {
+          "frequently purchased categories": [
+            "Quick meals/light food (average 35 yuan)",
+            "Quick meals/healthy meals (average 38 yuan)",
+            "Quick meals/salads (average 32 yuan)"
+          ],
+          "cost per order": "25~40 yuan",
+          "preferred store rating": "4.5~4.9 points",
+          "preferred delivery time": "15~25 minutes",
+          "preferred distance": "0~2500m",
+          "recent orders": [
+            {
+              "store": "Light Food Mister",
+              "product": "High-protein whole wheat sandwich + sugar-free soy milk"
+            },
+            {
+              "store": "Salad Diary",
+              "product": "Chicken breast vegetable salad"
+            },
+            {
+              "store": "Energetic Breakfast",
+              "product": "Low-fat yogurt oatmeal combo"
+            }
+          ],
+          "search history": [
+            "Healthy breakfast",
+            "High protein",
+            "Whole wheat bread",
+            "Sugar-free soy milk",
+            "Light food"
+          ]
+        },
+        "weekday lunch/dinner": {
+          "frequently purchased categories": [
+            "Quick meals/healthy meals (average 45 yuan)",
+            "Chinese cuisine/Shandong cuisine (average 60 yuan)",
+            "International cuisine/pasta (average 55 yuan)"
+          ],
+          "cost per order": "40~70 yuan",
+          "preferred store rating": "4.6~4.9 points",
+          "preferred delivery time": "20~35 minutes",
+          "preferred distance": "0~3000m",
+          "recent orders": [
+            {
+              "store": "Light Food Workshop",
+              "product": "Chicken breast quinoa rice + broccoli"
+            },
+            {
+              "store": "Wuxi Local Cuisine",
+              "product": "Steamed bass + seasonal vegetables combo"
+            },
+            {
+              "store": "Milan Western Restaurant",
+              "product": "Low-fat beef pasta"
+            }
+          ],
+          "search history": [
+            "Fitness meal",
+            "High protein low fat",
+            "Chicken breast",
+            "Steamed fish",
+            "Pasta"
+          ]
+        },
+        "weekend lunch/dinner": {
+          "frequently purchased categories": [
+            "Chinese cuisine/Cantonese cuisine (average 85 yuan)",
+            "International cuisine/steak (average 120 yuan)",
+            "Chinese cuisine/grilled fish (average 90 yuan)"
+          ],
+          "cost per order": "80~150 yuan",
+          "preferred store rating": "4.7~5.0 points",
+          "preferred delivery time": "25~40 minutes",
+          "preferred distance": "0~4000m",
+          "recent orders": [
+            {
+              "store": "Yue Lai Yue Hao",
+              "product": "Family package (white cut chicken + garlic broccoli + boiled shrimp)"
+            },
+            {
+              "store": "Steak Workshop",
+              "product": "Australian sirloin steak (medium) + vegetable salad"
+            },
+            {
+              "store": "Jianghu Grilled Fish",
+              "product": "Steamed bass + garlic broccoli"
+            }
+          ],
+          "search history": [
+            "Healthy steak",
+            "Oil-free grilled fish",
+            "White cut chicken",
+            "High protein",
+            "Sugar-free"
+          ]
+        },
+        "desserts/drinks/snacks": {
+          "frequently purchased categories": [
+            "Beverages/desserts/coffee (average 30 yuan)",
+            "Beverages/desserts/pure tea/herbal tea (average 25 yuan)",
+            "Beverages/desserts/juice (average 28 yuan)"
+          ],
+          "cost per order": "20~35 yuan",
+          "preferred store rating": "4.5~4.9 points",
+          "preferred delivery time": "15~25 minutes",
+          "preferred distance": "0~2500m",
+          "recent orders": [
+            {
+              "store": "Starbucks",
+              "product": "Americano (sugar-free)"
+            },
+            {
+              "store": "Cha Yan Yue Se",
+              "product": "Oolong tea (sugar-free)"
+            },
+            {
+              "store": "Fresh Juice Bar",
+              "product": "Pure fresh grapefruit juice (sugar-free)"
+            }
+          ],
+          "search history": [
+            "Sugar-free coffee",
+            "Oolong tea",
+            "Grapefruit juice",
+            "Low-calorie drinks"
+          ]
+        },
+        "night snack": {
+          "frequently purchased categories": [
+            "Quick meals/light food (average 40 yuan)",
+            "Quick meals/salads (average 35 yuan)"
+          ],
+          "cost per order": "30~50 yuan",
+          "preferred store rating": "4.6~4.9 points",
+          "preferred delivery time": "20~35 minutes",
+          "preferred distance": "0~3000m",
+          "recent orders": [
+            {
+              "store": "Midnight Diner Healthy Meals",
+              "product": "Chicken breast salad"
+            },
+            {
+              "store": "Light Food Mister",
+              "product": "Steamed chicken breast + quinoa rice"
+            },
+            {
+              "store": "Salad Diary",
+              "product": "Avocado salad"
+            }
+          ],
+          "search history": [
+            "Night healthy meals",
+            "Low-fat salad",
+            "High-protein night snack",
+            "Chicken breast"
+          ]
+        }
+      },
+      "product delivery": {
+        "frequently purchased categories": [
+          "Vegetables/bean products (32%)",
+          "Raw meat/poultry/eggs (28%)",
+          "Beverages/nutritional supplements (18%)",
+          "Sports and outdoors (12%)",
+          "Household items (8%)",
+          "Others (2%)"
+        ],
+        "frequently visited stores": [
+          "Kunming Fresh Food Supermarket (38%)",
+          "Kunming Department Store (26%)",
+          "Fitness Food Specialty Store (20%)",
+          "Other stores (16%)"
+        ],
+        "cost per order by category": {
+          "Vegetables/bean products": "5~25 yuan",
+          "Raw meat/poultry/eggs": "30~80 yuan",
+          "Beverages/nutritional supplements": "40~150 yuan",
+          "Sports and outdoors": "50~200 yuan",
+          "Household items": "20~60 yuan"
+        },
+        "preferred delivery time": "30~60 minutes",
+        "typical order time": "7~9 AM (35%), 5~7 PM (42%), 9~10 PM (23%)",
+        "recent orders": [
+          {
+            "store": "Kunming Fresh Food Supermarket",
+            "product": "Broccoli 500g, chicken breast 1kg, tofu 2 boxes"
+          },
+          {
+            "store": "Fitness Food Specialty Store",
+            "product": "Sugar-free protein powder, BCAA branched-chain amino acids"
+          },
+          {
+            "store": "Kunming Department Store",
+            "product": "Organic eggs, 3 avocados, sugar-free oatmeal"
+          }
+        ],
+        "search history": [
+          "Chicken breast",
+          "Protein powder",
+          "Broccoli",
+          "Tofu",
+          "Sugar-free",
+          "Avocado",
+          "Fitness food"
+        ]
+      }
+    },
+    "in-store consumption": {
+      "in-store dining": {
+        "fine-dining": {
+          "frequently purchased categories": [
+            "Regional cuisine/Yunnan cuisine (average 135 yuan)",
+            "Regional cuisine/Sichuan cuisine (average 95 yuan)",
+            "International cuisine/Japanese food (average 180 yuan)"
+          ],
+          "preferred average price per person": "90~180 yuan",
+          "preferred store rating": "4.0~4.8 stars",
+          "typical dining time": "6:30-8:30 PM",
+          "preferred distance": "500~3000m",
+          "recent orders": [
+            {
+              "store": "Yunnan Image (Jinxing Branch)",
+              "product": "Steam pot chicken package"
+            },
+            {
+              "store": "Dian Wei Xuan (Wuhua District Branch)",
+              "product": "Crossing-bridge rice noodles family package"
+            },
+            {
+              "store": "Heilu Rotating Sushi (Kunming Joy City Branch)",
+              "product": "Business double set meal"
+            }
+          ],
+          "search history": [
+            "High-end Yunnan cuisine",
+            "Business banquet",
+            "Japanese cuisine",
+            "Alcohol-free menu"
+          ]
+        },
+        "light meal": {
+          "frequently purchased categories": [
+            "Snacks/fast food/Chinese quick meals (average 35 yuan)",
+            "Snacks/fast food/Western fast food (average 45 yuan)",
+            "Regional cuisine/specialty dishes (average 50 yuan)"
+          ],
+          "preferred average price per person": "30~55 yuan",
+          "preferred store rating": "3.5~4.3 stars",
+          "typical dining time": "11:45 AM-1:00 PM",
+          "preferred distance": "0~500m",
+          "recent orders": [
+            {
+              "store": "Yunnan Rice Noodles (Business Center Branch)",
+              "product": "Chicken soup rice noodles + braised egg"
+            },
+            {
+              "store": "Yonghe King (Wuhua District Branch)",
+              "product": "Soy milk and fried dough sticks combo"
+            },
+            {
+              "store": "McDonald's (Youth Road Branch)",
+              "product": "Double beef burger combo"
+            }
+          ],
+          "search history": [
+            "Work meal",
+            "Fast food",
+            "Rice noodles",
+            "Healthy quick meal"
+          ]
+        },
+        "desserts/drinks/snacks": {
+          "frequently purchased categories": [
+            "Beverage shops (average 22 yuan)",
+            "Bread and desserts (average 30 yuan)",
+            "Other dining/fresh fruits (average 15 yuan)"
+          ],
+          "preferred average price per person": "15~35 yuan",
+          "preferred store rating": "4.0~4.5 stars",
+          "typical dining time": "3:00-4:30 PM",
+          "preferred distance": "0~300m",
+          "recent orders": [
+            {
+              "store": "Starbucks (Yunnan Image Branch)",
+              "product": "Americano (large)"
+            },
+            {
+              "store": "Fresh Fruit Time (Wuhua District Branch)",
+              "product": "Mango smoothie (sugar-free)"
+            },
+            {
+              "store": "85°C (Business Center Branch)",
+              "product": "Tiramisu (sugar-free)"
+            }
+          ],
+          "search history": [
+            "Afternoon tea",
+            "Coffee",
+            "Sugar-free drinks",
+            "Healthy fruits"
+          ]
+        }
+      },
+      "other in-store services": {
+        "frequently consumed categories": {
+          "Sports and fitness/fitness centers": "40%",
+          "Sports and fitness/ball sports": "30%",
+          "Leisure and entertainment/massage/foot therapy": "15%",
+          "Parent-child/parent-child recreation": "15%"
+        },
+        "cost per order by category": {
+          "Sports and fitness/fitness centers": "150~300 yuan/time",
+          "Sports and fitness/ball sports": "80~150 yuan/time",
+          "Leisure and entertainment/massage/foot therapy": "120~200 yuan/time",
+          "Parent-child/parent-child recreation": "100~250 yuan/time"
+        },
+        "preferred store rating": "4.0~4.8 stars",
+        "preferred service time": "7:00-9:00 PM",
+        "preferred distance": "0~5000m",
+        "recent orders": [
+          {
+            "store": "Kunming Sports Center Gym",
+            "product": "Monthly membership card"
+          },
+          {
+            "store": "Yunnan Badminton Court (Wuhua Branch)",
+            "product": "Double court for 2 hours"
+          },
+          {
+            "store": "Qile Children's Playground (Joy City Branch)",
+            "product": "Parent-child ticket (1 adult, 1 child)"
+          }
+        ],
+        "search history": [
+          "Gym monthly card",
+          "Badminton court",
+          "Parent-child activities",
+          "Foot massage",
+          "Weekend parent-child"
+        ]
+      }
+    },
+    "OTA": {
+      "visited scenes": {
+        "Natural landscapes (mountains/lakes/forests)": "35%",
+        "Cultural and historical sites": "25%",
+        "Tourist attractions (mountains/seaside/ecological parks and other large scenic areas)": "20%",
+        "Special villages/industrial tourism/unclassified projects": "10%",
+        "Exhibition halls (museums/art galleries)": "10%"
+      },
+      "cost per night on hotel": "500~1000 yuan",
+      "visited hotels": {
+        "Atour": "30%",
+        "JI Hotel": "25%",
+        "Vienna": "20%",
+        "Huazhu": "15%",
+        "Home Inn": "10%"
+      },
+      "browsed hotels": {
+        "Four-star hotels": "45%",
+        "Comfort hotels": "35%",
+        "Three-star hotels": "15%",
+        "Five-star hotels": "5%"
+      },
+      "historical travel plans": {
+        "Kunming-Dali": {
+          "price range": "200-350 yuan",
+          "transportation mode": "High-speed rail/bullet train"
+        },
+        "Kunming-Lijiang": {
+          "price range": "250-400 yuan",
+          "transportation mode": "High-speed rail/bullet train"
+        },
+        "Kunming-Xishuangbanna": {
+          "price range": "600-900 yuan",
+          "transportation mode": "Airplane"
+        },
+        "Kunming-Shanghai": {
+          "price range": "1000-1800 yuan",
+          "transportation mode": "Airplane"
+        },
+        "Kunming-Beijing": {
+          "price range": "1200-2000 yuan",
+          "transportation mode": "Airplane"
+        },
+        "Kunming-Shangri-La": {
+          "price range": "300-450 yuan",
+          "transportation mode": "Long-distance bus"
+        },
+        "Kunming-Tengchong": {
+          "price range": "500-800 yuan",
+          "transportation mode": "Airplane"
+        },
+        "Kunming-Guangzhou": {
+          "price range": "800-1500 yuan",
+          "transportation mode": "Airplane"
+        }
+      }
+    }
+  },
+  "stores": {
+    "S17550810285799690_S00001": {
+      "name": "JD Self-operated Digital Store",
+      "store_id": "S17550810285799690_S00001",
+      "score": 4.8,
+      "location": {
+        "address": "JD Logistics Center, Huashan West Road, Wuhua District, Kunming, Yunnan Province",
+        "latitude": 25.0389,
+        "longitude": 102.6852
+      },
+      "tags": [
+        "Digital",
+        "Camera",
+        "Genuine product guarantee",
+        "Well-known chain shop"
+      ],
+      "store_type": "target",
+      "products": [
+        {
+          "name": "DJI Pocket 3 Standard Edition",
+          "store_id": "S17550810285799690_S00001",
+          "store_name": "JD Self-operated Digital Store",
+          "price": 3499,
+          "tags": [
+            "DJI",
+            "Pocket gimbal camera",
+            "4K",
+            "Genuine product guarantee",
+            "Brand new Chinese official version",
+            "Officially authorized",
+            "Portable",
+            "Stabilizer"
+          ],
+          "product_id": "S17550810285799690_P00002",
+          "attributes": [],
+          "product_type": "target"
+        },
+        {
+          "name": "DJI Action 4 Action Camera",
+          "store_id": "S17550810285799690_S00001",
+          "store_name": "JD Self-operated Digital Store",
+          "price": 2999,
+          "tags": [
+            "DJI",
+            "Action camera",
+            "4K",
+            "Waterproof",
+            "Anti-shake",
+            "Genuine product guarantee",
+            "Brand new Chinese official version",
+            "Outdoor"
+          ],
+          "product_id": "S17550810285799690_P00003",
+          "attributes": [],
+          "product_type": "distraction"
+        },
+        {
+          "name": "Sony ZV-E10L Mirrorless Camera Vlog Kit",
+          "store_id": "S17550810285799690_S00001",
+          "store_name": "JD Self-operated Digital Store",
+          "price": 6299,
+          "tags": [
+            "Sony",
+            "Mirrorless camera",
+            "Vlog",
+            "4K",
+            "Flip screen",
+            "Genuine product guarantee",
+            "Brand new Chinese official version"
+          ],
+          "product_id": "S17550810285799690_P00004",
+          "attributes": [],
+          "product_type": "distraction"
+        },
+        {
+          "name": "Canon EOS R100 Mirrorless Camera Entry-level Kit",
+          "store_id": "S17550810285799690_S00001",
+          "store_name": "JD Self-operated Digital Store",
+          "price": 4599,
+          "tags": [
+            "Canon",
+            "Mirrorless camera",
+            "4K",
+            "Entry-level",
+            "Genuine product guarantee",
+            "Brand new Chinese official version",
+            "Officially authorized"
+          ],
+          "product_id": "S17550810285799690_P00005",
+          "attributes": [],
+          "product_type": "distraction"
+        }
+      ]
+    },
+    "S17550810285799690_S00002": {
+      "name": "Xiao Wang Digital",
+      "store_id": "S17550810285799690_S00002",
+      "score": 4.7,
+      "location": {
+        "address": "Suning Plaza Store, Beijing Road, Panlong District, Kunming, Yunnan Province",
+        "latitude": 25.0582,
+        "longitude": 102.7204
+      },
+      "tags": [
+        "Digital",
+        "Camera",
+        "Genuine product guarantee",
+        "Non-chain store"
+      ],
+      "store_type": "target",
+      "products": [
+        {
+          "name": "DJI Pocket 3 Standard Edition",
+          "store_id": "S17550810285799690_S00002",
+          "store_name": "Xiao Wang Digital",
+          "price": 3499,
+          "tags": [
+            "DJI",
+            "Action camera",
+            "4K high-definition",
+            "Waterproof",
+            "Cycling photography",
+            "Genuine product guarantee"
+          ],
+          "product_id": "S17550810285799690_P00008",
+          "attributes": [],
+          "product_type": "distraction"
+        },
+        {
+          "name": "Sony ZV-1M2 Vlog Camera",
+          "store_id": "S17550810285799690_S00002",
+          "store_name": "Xiao Wang Digital",
+          "price": 5999,
+          "tags": [
+            "Sony",
+            "Vlog camera",
+            "4K high-definition",
+            "Flip screen",
+            "Anti-shake",
+            "Genuine product guarantee"
+          ],
+          "product_id": "S17550810285799690_P00009",
+          "attributes": [],
+          "product_type": "distraction"
+        },
+        {
+          "name": "DJI Pocket 2 Pocket Gimbal Camera Combo Pack",
+          "store_id": "S17550810285799690_S00002",
+          "store_name": "Xiao Wang Digital",
+          "price": 2799,
+          "tags": [
+            "DJI",
+            "Pocket gimbal camera",
+            "4K high-definition",
+            "Anti-shake",
+            "Combo version",
+            "Genuine product guarantee"
+          ],
+          "product_id": "S17550810285799690_P00010",
+          "attributes": [],
+          "product_type": "distraction"
+        }
+      ]
+    },
+    "S17550810285799690_S00003": {
+      "name": "Tmall Digital Specialty Store",
+      "store_id": "S17550810285799690_S00003",
+      "score": 4.6,
+      "location": {
+        "address": "Tmall Logistics Center, East Ring Road, Guandu District, Kunming, Yunnan Province",
+        "latitude": 25.0356,
+        "longitude": 102.7645
+      },
+      "tags": [
+        "Digital",
+        "Camera",
+        "Genuine product guarantee",
+        "Next-day delivery",
+        "Well-known shop"
+      ],
+      "store_type": "distraction",
+      "products": [
+        {
+          "name": "DJI Pocket 3 Creator Combo Pocket Gimbal Camera",
+          "store_id": "S17550810285799690_S00003",
+          "store_name": "Tmall Digital Specialty Store",
+          "price": 5499,
+          "tags": [
+            "DJI",
+            "Pocket gimbal camera",
+            "4K ultra-clear",
+            "Anti-shake",
+            "Wide-angle",
+            "Vlog essential tool",
+            "Official genuine product"
+          ],
+          "product_id": "S17550810285799690_P00011",
+          "attributes": [
+            "Standard Edition",
+            "Creator Combo",
+            "Black",
+            "White"
+          ],
+          "product_type": "distraction"
+        },
+        {
+          "name": "DJI Pocket 3 Standard Edition Pocket Gimbal Camera",
+          "store_id": "S17550810285799690_S00003",
+          "store_name": "Tmall Digital Specialty Store",
+          "price": 3999,
+          "tags": [
+            "DJI",
+            "Pocket gimbal camera",
+            "4K ultra-clear",
+            "Anti-shake",
+            "Vlog shooting",
+            "Official genuine product"
+          ],
+          "product_id": "S17550810285799690_P00012",
+          "attributes": [
+            "Standard Edition",
+            "Black",
+            "White"
+          ],
+          "product_type": "distraction"
+        },
+        {
+          "name": "Sony ZV-E10L Mirrorless Camera Vlog Kit",
+          "store_id": "S17550810285799690_S00003",
+          "store_name": "Tmall Digital Specialty Store",
+          "price": 6299,
+          "tags": [
+            "Sony",
+            "Mirrorless camera",
+            "Vlog shooting",
+            "High-definition",
+            "Selfie",
+            "Official genuine product"
+          ],
+          "product_id": "S17550810285799690_P00013",
+          "attributes": [
+            "Standard Kit",
+            "Deluxe Kit",
+            "Black",
+            "White"
+          ],
+          "product_type": "distraction"
+        },
+        {
+          "name": "Canon EOS R50 Mirrorless Camera Entry-level Kit",
+          "store_id": "S17550810285799690_S00003",
+          "store_name": "Tmall Digital Specialty Store",
+          "price": 4799,
+          "tags": [
+            "Canon",
+            "Mirrorless camera",
+            "Entry-level",
+            "High-definition",
+            "Travel photography",
+            "Official genuine product"
+          ],
+          "product_id": "S17550810285799690_P00014",
+          "attributes": [
+            "Basic Kit",
+            "Travel Kit",
+            "Black",
+            "White"
+          ],
+          "product_type": "distraction"
+        },
+        {
+          "name": "GoPro HERO12 Black Action Camera",
+          "store_id": "S17550810285799690_S00003",
+          "store_name": "Tmall Digital Specialty Store",
+          "price": 3299,
+          "tags": [
+            "GoPro",
+            "Action camera",
+            "Waterproof",
+            "Anti-shake",
+            "Outdoor shooting",
+            "Official genuine product"
+          ],
+          "product_id": "S17550810285799690_P00015",
+          "attributes": [
+            "Standard Edition",
+            "Sports Kit",
+            "Black"
+          ],
+          "product_type": "distraction"
+        }
+      ]
+    },
+    "S17550810285799690_S00004": {
+      "name": "Xiaomi Home Kunming Flagship Store",
+      "store_id": "S17550810285799690_S00004",
+      "score": 4.5,
+      "location": {
+        "address": "Xiaomi Home Flagship Store, Sanshi Street, Wuhua District, Kunming, Yunnan Province",
+        "latitude": 25.0421,
+        "longitude": 102.7032
+      },
+      "tags": [
+        "Digital",
+        "Mobile phone",
+        "Genuine product guarantee",
+        "Rapid delivery",
+        "Well-known chain shop"
+      ],
+      "store_type": "distraction",
+      "products": [
+        {
+          "name": "Xiaomi 13 Ultra 5G Smartphone",
+          "store_id": "S17550810285799690_S00004",
+          "store_name": "Xiaomi Home Kunming Flagship Store",
+          "price": 5999,
+          "tags": [
+            "Flagship smartphone",
+            "Leica lens",
+            "Master imagery",
+            "Camera phone"
+          ],
+          "product_id": "S17550810285799690_P00016",
+          "attributes": [
+            "Black",
+            "White",
+            "Green",
+            "256GB",
+            "512GB"
+          ],
+          "product_type": "distraction"
+        },
+        {
+          "name": "Redmi K70 Pro Smartphone",
+          "store_id": "S17550810285799690_S00004",
+          "store_name": "Xiaomi Home Kunming Flagship Store",
+          "price": 3299,
+          "tags": [
+            "Performance flagship",
+            "Snapdragon 8 Gen 3",
+            "2K display",
+            "Ultra-long battery life"
+          ],
+          "product_id": "S17550810285799690_P00017",
+          "attributes": [
+            "Black",
+            "White",
+            "Blue",
+            "256GB",
+            "512GB"
+          ],
+          "product_type": "distraction"
+        },
+        {
+          "name": "Xiaomi Smart Band 8 Pro",
+          "store_id": "S17550810285799690_S00004",
+          "store_name": "Xiaomi Home Kunming Flagship Store",
+          "price": 399,
+          "tags": [
+            "Smart band",
+            "Activity tracking",
+            "Outdoor sports",
+            "Waterproof"
+          ],
+          "product_id": "S17550810285799690_P00018",
+          "attributes": [
+            "Black",
+            "Blue"
+          ],
+          "product_type": "distraction"
+        },
+        {
+          "name": "Xiaomi Pad 6 Pro",
+          "store_id": "S17550810285799690_S00004",
+          "store_name": "Xiaomi Home Kunming Flagship Store",
+          "price": 2999,
+          "tags": [
+            "Tablet computer",
+            "Large screen audio-visual",
+            "Office entertainment",
+            "HD photography"
+          ],
+          "product_id": "S17550810285799690_P00019",
+          "attributes": [
+            "Black",
+            "Silver",
+            "128GB",
+            "256GB"
+          ],
+          "product_type": "distraction"
+        },
+        {
+          "name": "Xiaomi Smart Camera PTZ Pro",
+          "store_id": "S17550810285799690_S00004",
+          "store_name": "Xiaomi Home Kunming Flagship Store",
+          "price": 599,
+          "tags": [
+            "Smart camera",
+            "AI human detection",
+            "360-degree rotation",
+            "HD night vision"
+          ],
+          "product_id": "S17550810285799690_P00020",
+          "attributes": [
+            "White"
+          ],
+          "product_type": "distraction"
+        }
+      ]
+    }
+  },
+  "orders": {}
+}

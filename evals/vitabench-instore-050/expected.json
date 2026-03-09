@@ -1,0 +1,78 @@
+{
+  "required_orders": [
+    {
+      "order_id": "10826095T001",
+      "order_type": "instore",
+      "user_id": "U880777",
+      "store_id": "S17567836567248372_I00001",
+      "note": "",
+      "location": null,
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 128,
+      "create_time": "2024-09-13 17:32:00",
+      "update_time": "2024-09-13 17:32:00",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17567836567248372_P00001",
+          "name": "Boxing private training trial course (including protective gear and basic instruction)",
+          "price": 128,
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "reservation_id": "10826095T002",
+      "shop_id": "S17567836567248372_I00001",
+      "reservation_time": "2024-09-13 19:00:00",
+      "update_time": "2024-09-13 17:34:00",
+      "customer_id": "U880777",
+      "customer_count": 1,
+      "status": "paid"
+    },
+    {
+      "order_id": "10826095T003",
+      "order_type": "instore",
+      "user_id": "U880777",
+      "store_id": "S17567836567248372_I00002",
+      "note": "",
+      "location": null,
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 32,
+      "create_time": "2024-09-13 17:36:00",
+      "update_time": "2024-09-13 17:36:00",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17567836567248372_P00010",
+          "name": "Signature steamed chicken leg rice combo",
+          "price": 32,
+          "quantity": 1
+        }
+      ]
+    }
+  ],
+  "rubrics": [
+    "The boxing gym to order from must have nationally certified boxing coaches",
+    "The package ordered from the gym should include boxing courses",
+    "The recommended gym should be within 800 meters or less from a parking lot",
+    "The package ordered from the gym should include professional private training",
+    "The package ordered from the gym should include protective gear",
+    "The package ordered from the gym should include basic movements instruction",
+    "Should check if the recommended gym offers single trial classes, and if so, the ordered package should include a single trial class",
+    "The reserved gym should be Nanning Gold Medal Boxing Training Gym",
+    "The gym reservation time should be 2024-09-13 19:00:00",
+    "The number of people for the gym reservation should be 1",
+    "The recommended fast food restaurant should be within 1km or less from Nanning Gold Medal Boxing Training Gym",
+    "The recommended fast food restaurant must have fast serving",
+    "The single-person meal ordered from the fast food restaurant should be light-flavored",
+    "The package ordered from the fast food restaurant should be a single-person meal",
+    "The package ordered from the fast food restaurant should have a balanced meat and vegetable combination",
+    "The package ordered from the fast food restaurant should include rice",
+    "The order price at the fast food restaurant should be less than or equal to 50 yuan"
+  ]
+}

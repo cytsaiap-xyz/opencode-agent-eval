@@ -1,0 +1,57 @@
+{
+  "required_orders": [
+    {
+      "order_id": "10826245T001",
+      "order_type": "instore",
+      "user_id": "U220266",
+      "store_id": "S17567842410354300_I00001",
+      "note": "",
+      "location": null,
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 168,
+      "create_time": "2024-05-25 16:33:07",
+      "update_time": "2024-05-25 16:33:07",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17567842410354300_P00001",
+          "name": "Couples Xinjiang Flavor Set (Alcohol Included)",
+          "price": 168,
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "order_id": "10826245T002",
+      "order_type": "instore",
+      "user_id": "U220266",
+      "store_id": "S17567842410354300_I00002",
+      "note": "",
+      "location": null,
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 68,
+      "create_time": "2024-05-25 16:35:09",
+      "update_time": "2024-05-25 16:35:09",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17567842410354300_P00011",
+          "name": "200 Game Coins Package",
+          "price": 68,
+          "quantity": 1
+        }
+      ]
+    }
+  ],
+  "rubrics": [
+    "The Xinjiang restaurant order should be suitable for photo check-in",
+    "The Xinjiang restaurant order should be a two-person set that includes alcoholic beverages, Spicy Lamb Hoof, and Hand-Grabbed Rice",
+    "The distance from the claw machine store to Tianshan Style Xinjiang Cuisine, 1st Floor, Building A, Triumph Plaza, No. 198 Zhongzhou Middle Road, Xigong District, Luoyang should be within 2km (including 2km)",
+    "In the claw machine store, the 200 Game Coins Package costs only 10 yuan more than the 100 Game Coins Package, so the 200 Game Coins Package should be purchased",
+    "The distance from the Xinjiang restaurant to Room 1503, Building B, Triumph Plaza, No. 229 Zhongzhou Middle Road, Xigong District, Luoyang is within 1km (including 1km), so no reservation is needed"
+  ]
+}

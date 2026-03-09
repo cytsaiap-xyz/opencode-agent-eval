@@ -1,0 +1,1169 @@
+{
+  "task_id": "A0807003",
+  "domain": "cross_domain",
+  "time": "2024-06-24 15:30:00",
+  "user_id": "U001095",
+  "weather": [
+    {
+      "city": "Wuzhen",
+      "category": "sunny",
+      "datetime": "2024-06-30",
+      "temperature": [
+        26,
+        34
+      ],
+      "humidity": 65
+    },
+    {
+      "city": "Hangzhou",
+      "category": "cloudy",
+      "datetime": "2024-06-30",
+      "temperature": [
+        25,
+        33
+      ],
+      "humidity": 70
+    },
+    {
+      "city": "Beijing",
+      "category": "sunny",
+      "datetime": "2024-06-30",
+      "temperature": [
+        22,
+        32
+      ],
+      "humidity": 55
+    }
+  ],
+  "location": [],
+  "user_profile": {
+    "user id": "U001095",
+    "occupation ": "Student ",
+    "gender ": "female ",
+    "age group ": "15~20",
+    "residence ": "Shanghai ",
+    "home address ": "Student Dormitory, Wuchuan Road Campus, Shanghai University of Finance and Economics, Yangpu District, Shanghai ",
+    "work address ": "Wuchuan Road Campus, Shanghai University of Finance and Economics, Yangpu District, Shanghai ",
+    "dietary restrictions ": "No alcohol ",
+    "family status ": "Unknown",
+    "personality": "Mild-tempered with high cooperation, good at listening and understanding"
+  },
+  "user_historical_behaviors": {
+    "user id": "U001095",
+    "occupation": "Student",
+    "gender": "female",
+    "age group": "15~20",
+    "residence": "Shanghai",
+    "home address": "Student Dormitory, Wuchuan Road Campus, Shanghai University of Finance and Economics, Yangpu District, Shanghai",
+    "work address": "Wuchuan Road Campus, Shanghai University of Finance and Economics, Yangpu District, Shanghai",
+    "dietary restrictions": "No alcohol",
+    "family status": "Unknown",
+    "delivery": {
+      "food delivery": {
+        "breakfast": {
+          "frequently purchased categories": [
+            "Light Meals/Buns/Shengjianbao (Average 15 yuan)",
+            "Light Meals/Liangpi/Liangfen/Ganmianpi (Average 12 yuan)",
+            "Light Meals/Healthy Food (Average 22 yuan)"
+          ],
+          "cost per order": "10~25 yuan",
+          "preferred store rating": "4.3~4.8 points",
+          "preferred delivery time": "15~30 minutes",
+          "preferred distance": "0~1500m",
+          "recent orders": [
+            {
+              "store": "Xi'an Famous Breakfast Stall",
+              "product": "Roujiamo + Soy Milk Set"
+            },
+            {
+              "store": "Fresh Juice Bun Shop",
+              "product": "6 Meat Buns + Soy Milk"
+            },
+            {
+              "store": "Healthy Food Selection",
+              "product": "Fruit Oatmeal Cup + Whole Wheat Sandwich"
+            }
+          ],
+          "search history": [
+            "Soy milk",
+            "Buns",
+            "Healthy breakfast",
+            "Oatmeal",
+            "Roujiamo"
+          ]
+        },
+        "weekday lunch/dinner": {
+          "frequently purchased categories": [
+            "Light Meals/Small Bowl Dishes/Small Portion Dishes (Average 25 yuan)",
+            "Light Meals/Salad (Average 28 yuan)",
+            "Light Meals/Healthy Meals (Average 32 yuan)"
+          ],
+          "cost per order": "20~45 yuan",
+          "preferred store rating": "4.5~4.9 points",
+          "preferred delivery time": "20~35 minutes",
+          "preferred distance": "0~2500m",
+          "recent orders": [
+            {
+              "store": "Diet Home",
+              "product": "Steamed Chicken Breast with Vegetables Set"
+            },
+            {
+              "store": "Light Food Salad",
+              "product": "Avocado Chicken Salad"
+            },
+            {
+              "store": "Nutrition Workshop",
+              "product": "Low-Fat Chicken Rice + Broccoli"
+            }
+          ],
+          "search history": [
+            "Healthy meal",
+            "Low-fat",
+            "Salad",
+            "Chicken breast",
+            "Light food"
+          ]
+        },
+        "weekend lunch/dinner": {
+          "frequently purchased categories": [
+            "Chinese Cuisine/Sichuan Cuisine (Average 60 yuan)",
+            "International Flavor/Pasta (Average 55 yuan)",
+            "Hot Pot/Individual Hot Pot (Average 65 yuan)"
+          ],
+          "cost per order": "50~80 yuan",
+          "preferred store rating": "4.6~5.0 points",
+          "preferred delivery time": "30~45 minutes",
+          "preferred distance": "0~3500m",
+          "recent orders": [
+            {
+              "store": "Italian Flavor House",
+              "product": "Tomato Bacon Pasta + Salad"
+            },
+            {
+              "store": "Sichuan Flavor House",
+              "product": "Boiled Fish Fillet + Rice"
+            },
+            {
+              "store": "Individual Hot Pot",
+              "product": "Mushroom Clear Soup Pot + Beef Set"
+            }
+          ],
+          "search history": [
+            "Pasta",
+            "Individual hot pot",
+            "Sichuan cuisine",
+            "Vegetable salad"
+          ]
+        },
+        "desserts/drinks/snacks": {
+          "frequently purchased categories": [
+            "Beverages & Desserts/Juice (Average 18 yuan)",
+            "Beverages & Desserts/Pure Tea/Herbal Tea (Average 16 yuan)",
+            "Beverages & Desserts/Fruit Mix (Average 25 yuan)"
+          ],
+          "cost per order": "15~30 yuan",
+          "preferred store rating": "4.4~4.9 points",
+          "preferred delivery time": "15~30 minutes",
+          "preferred distance": "0~2000m",
+          "recent orders": [
+            {
+              "store": "Fresh Juice Bar",
+              "product": "Mango Coconut Milk Smoothie"
+            },
+            {
+              "store": "Tea Time",
+              "product": "Jasmine Tea"
+            },
+            {
+              "store": "Fresh Fruit Mix",
+              "product": "Colorful Fruit Mix"
+            }
+          ],
+          "search history": [
+            "Fruit tea",
+            "Fresh juice",
+            "Fruit mix",
+            "Flower Tea",
+            "Low-sugar beverages"
+          ]
+        },
+        "night snack": {
+          "frequently purchased categories": [
+            "Light Meals/Rice Noodles (Average 28 yuan)",
+            "Light Meals/Clay Pot Soup (Average 25 yuan)"
+          ],
+          "cost per order": "20~40 yuan",
+          "preferred store rating": "4.2~4.8 points",
+          "preferred delivery time": "20~35 minutes",
+          "preferred distance": "0~2500m",
+          "recent orders": [
+            {
+              "store": "Yunnan Crossing Bridge Rice Noodles",
+              "product": "Mild Chicken Soup Rice Noodles"
+            },
+            {
+              "store": "Old Street Clay Pot Soup",
+              "product": "Healthy Mushroom Soup"
+            },
+            {
+              "store": "Shaanxi Noodle House",
+              "product": "Clear Soup Noodles"
+            }
+          ],
+          "search history": [
+            "Healthy soup",
+            "Rice Noodles",
+            "Non-spicy night snack",
+            "Mild noodles",
+            "Clay pot soup"
+          ]
+        }
+      },
+      "product delivery": {
+        "frequently purchased categories": [
+          "Fruit(28%)",
+          "Vegetables/Bean Products(22%)",
+          "Study/Office Supplies(18%)",
+          "Snacks(12%)",
+          "Beverages/Nutritional Drinks(10%)",
+          "Others(10%)"
+        ],
+        "frequently visited stores": [
+          "Shanghai University of Finance and Economics Campus Convenience Store(35%)",
+          "MissFresh(25%)",
+          "Yonghui Supermarket(20%)",
+          "Other stores(20%)"
+        ],
+        "cost per order by category": {
+          "Fruit": "10~30 yuan",
+          "Vegetables/Bean Products": "5~20 yuan",
+          "Study/Office Supplies": "5~50 yuan",
+          "Snacks": "10~25 yuan",
+          "Beverages/Nutritional Drinks": "8~35 yuan"
+        },
+        "preferred delivery time": "20~45 minutes",
+        "typical order time": "16~18:00(32%), 19~21:00(25%), 13~15:00(18%)",
+        "recent orders": [
+          {
+            "store": "Shanghai University of Finance and Economics Campus Convenience Store",
+            "product": "Notebook + Pens"
+          },
+          {
+            "store": "MissFresh",
+            "product": "4 Apples + 1 Bunch of Bananas"
+          },
+          {
+            "store": "Yonghui Supermarket",
+            "product": "Tomatoes + Cucumber + Tofu"
+          }
+        ],
+        "search history": [
+          "Sticky notes",
+          "Apple",
+          "Cucumber",
+          "Blueberry",
+          "Mineral water",
+          "Colored sticky notes"
+        ]
+      }
+    },
+    "in-store consumption": {
+      "in-store dining": {
+        "fine-dining": {
+          "frequently purchased categories": [
+            "International Cuisine/Japanese Food (Average 100 yuan)",
+            "Local Cuisine/Shanghai and Jiangsu-Zhejiang Cuisine (Average 85 yuan)",
+            "Local Cuisine/Fish Dishes (Average 120 yuan)"
+          ],
+          "preferred average price per person": "80~120 yuan",
+          "preferred store rating": "4.0~4.8 stars",
+          "typical dining time": "17:30-19:30",
+          "preferred distance": "0~800m",
+          "recent orders": [
+            {
+              "store": "Sushi House (Wujiaochang Branch)",
+              "product": "Salmon Sashimi Set"
+            },
+            {
+              "store": "Grandmother's Home (Darongcheng Branch)",
+              "product": "Dongpo Pork"
+            },
+            {
+              "store": "Blue Note Restaurant (SUFE Branch)",
+              "product": "Steamed Sea Bass"
+            }
+          ],
+          "search history": [
+            "Japanese food near SUFE",
+            "Non-spicy Jiangsu-Zhejiang cuisine",
+            "Mild flavor",
+            "Student discount"
+          ]
+        },
+        "light meal": {
+          "frequently purchased categories": [
+            "Snacks & Fast Food/Chinese Quick Meals (Average 25 yuan)",
+            "Snacks & Fast Food/Western Fast Food (Average 30 yuan)",
+            "Local Cuisine/Beijing Cuisine (Average 20 yuan)"
+          ],
+          "preferred average price per person": "15~35 yuan",
+          "preferred store rating": "3.5~4.5 stars",
+          "typical dining time": "11:30-13:00",
+          "preferred distance": "0~500m",
+          "recent orders": [
+            {
+              "store": "Yonghe King (Shanghai University of Finance and Economics Branch)",
+              "product": "Mushroom Chicken Porridge Set"
+            },
+            {
+              "store": "Shaxian Snacks (Guding Road Branch)",
+              "product": "Three Shredded Fried Noodles"
+            },
+            {
+              "store": "Old Beijing Braised Meat Roll (Wuchuan Road Campus Branch)",
+              "product": "Braised Meat Roll Set"
+            }
+          ],
+          "search history": [
+            "SUFE cafeteria",
+            "Fast food near campus",
+            "Budget meal set"
+          ]
+        },
+        "desserts/drinks/snacks": {
+          "frequently purchased categories": [
+            "Beverage Shops (Average 18 yuan)",
+            "Bread & Desserts (Average 22 yuan)",
+            "Other Food/Fresh Fruit (Average 15 yuan)"
+          ],
+          "preferred average price per person": "15~25 yuan",
+          "preferred store rating": "3.8~4.6 stars",
+          "typical dining time": "14:30-16:00",
+          "preferred distance": "0~300m",
+          "recent orders": [
+            {
+              "store": "Alittle Tea (Shanghai University of Finance and Economics Branch)",
+              "product": "Cheese Green Tea (Caffeine-free)"
+            },
+            {
+              "store": "Bread Talk (Wujiaochang Branch)",
+              "product": "Chocolate Croissant"
+            },
+            {
+              "store": "Fresh Fruit Season (Wuchuan Road Campus Branch)",
+              "product": "Fruit Platter"
+            }
+          ],
+          "search history": [
+            "Caffeine-free drinks",
+            "Low-sugar beverages",
+            "Fruit shop",
+            "Bread"
+          ]
+        }
+      },
+      "other in-store services": {
+        "frequently consumed categories": {
+          "Beauty/Haircut": "20%",
+          "Beauty/Yoga": "30%",
+          "Sports & Fitness/Sports Venues": "25%",
+          "Entertainment/DIY Workshops": "25%"
+        },
+        "cost per order by category": {
+          "Beauty/Haircut": "80~150 yuan",
+          "Beauty/Yoga": "50~100 yuan/time",
+          "Sports & Fitness/Sports Venues": "20~40 yuan/hour",
+          "Entertainment/DIY Workshops": "60~120 yuan/time"
+        },
+        "preferred store rating": "4.0~4.8 stars",
+        "preferred service time": "15:00-19:00",
+        "preferred distance": "0~2500m",
+        "recent orders": [
+          {
+            "store": "Qinghe Yoga (Wujiaochang Branch)",
+            "product": "Beginner Yoga Single Experience Class"
+          },
+          {
+            "store": "Shanghai University of Finance and Economics Gymnasium",
+            "product": "Badminton Court Reservation (2 hours)"
+          },
+          {
+            "store": "Pottery Workshop (University Road Branch)",
+            "product": "Pottery Making Experience"
+          }
+        ],
+        "search history": [
+          "Yoga",
+          "Student price haircut",
+          "Badminton court reservation",
+          "DIY workshop",
+          "Creative gift making"
+        ]
+      }
+    },
+    "OTA": {
+      "visited scenes": {
+        "Exhibitions (Museums/Art Galleries)": "45%",
+        "Landmarks": "25%",
+        "Theme Parks": "15%",
+        "Parks": "10%",
+        "Special Villages/Industrial Tourism/Uncategorized Projects": "5%"
+      },
+      "cost per night on hotel": "200~500 yuan",
+      "visited hotels": {
+        "Atour": "35%",
+        "Marriott": "5%",
+        "Shangri-La": "5%",
+        "Ji Hotel": "25%",
+        "Huazhu": "30%"
+      },
+      "browsed hotels": {
+        "Four-star Hotels": "25%",
+        "Five-star Hotels": "25%",
+        "Comfort Hotels": "50%"
+      },
+      "historical travel plans": {
+        "Shanghai-Hangzhou": {
+          "price range": "200-350 yuan",
+          "transportation": "High-speed Rail/EMU"
+        },
+        "Shanghai-Beijing": {
+          "price range": "900-1200 yuan",
+          "transportation": "Airplane"
+        },
+        "Shanghai-Guangzhou": {
+          "price range": "800-1200 yuan",
+          "transportation": "Airplane"
+        },
+        "Shanghai-Suzhou": {
+          "price range": "40-80 yuan",
+          "transportation": "High-speed Rail/EMU"
+        },
+        "Shanghai-Nanjing": {
+          "price range": "150-250 yuan",
+          "transportation": "High-speed Rail/EMU"
+        }
+      }
+    }
+  },
+  "stores": {
+    "S17550810646623020_S00001": {
+      "name": "Mingxiang Pavilion Tea Beverages",
+      "store_id": "S17550810646623020_S00001",
+      "score": 4.7,
+      "location": {
+        "address": "Mingxiang Pavilion Tea Beverages, Near West Scenic Area, Tongxiang City, Jiaxing, Zhejiang Province",
+        "latitude": 30.7456,
+        "longitude": 120.4858
+      },
+      "tags": [
+        "Tea Beverage",
+        "Ancient Style",
+        "Non-Alcoholic",
+        "Delivery"
+      ],
+      "store_type": "target",
+      "products": [
+        {
+          "name": "Traditional Osmanthus Tea",
+          "store_id": "S17550810646623020_S00001",
+          "store_name": "Mingxiang Pavilion Tea Beverages",
+          "price": 28,
+          "tags": [
+            "Classical Flavor",
+            "Osmanthus Fragrance",
+            "Non-Alcoholic",
+            "Traditional Craftsmanship",
+            "Ancient-Style Beverage"
+          ],
+          "product_id": "S17550810646623020_P00001",
+          "attributes": [
+            "Room Temperature",
+            "Warm",
+            "With Ice",
+            "Standard Sugar",
+            "Less Sugar",
+            "No Sugar"
+          ],
+          "product_type": "target"
+        },
+        {
+          "name": "West Lake Longjing Tea with Snow Pear",
+          "store_id": "S17550810646623020_S00001",
+          "store_name": "Mingxiang Pavilion Tea Beverages",
+          "price": 32,
+          "tags": [
+            "Refreshing",
+            "Longjing Tea",
+            "Snow Pear",
+            "Non-Alcoholic",
+            "Ancient-Style Beverage"
+          ],
+          "product_id": "S17550810646623020_P00002",
+          "attributes": [
+            "Room Temperature",
+            "Warm",
+            "With Ice",
+            "Standard Sugar",
+            "Less Sugar",
+            "No Sugar"
+          ],
+          "product_type": "target"
+        },
+        {
+          "name": "Rose Tea Set",
+          "store_id": "S17550810646623020_S00001",
+          "store_name": "Mingxiang Pavilion Tea Beverages",
+          "price": 128,
+          "tags": [
+            "Rose",
+            "Flower Tea",
+            "Set",
+            "Premium",
+            "Gift-Giving",
+            "Ancient-Style Packaging"
+          ],
+          "product_id": "S17550810646623020_P00003",
+          "attributes": [],
+          "product_type": "distraction"
+        },
+        {
+          "name": "Ancient-Style Jasmine Tea",
+          "store_id": "S17550810646623020_S00001",
+          "store_name": "Mingxiang Pavilion Tea Beverages",
+          "price": 25,
+          "tags": [
+            "Jasmine Fragrance",
+            "Fresh Fragrance",
+            "Non-Alcoholic",
+            "Ancient-Style Beverage"
+          ],
+          "product_id": "S17550810646623020_P00004",
+          "attributes": [
+            "Room Temperature",
+            "Warm",
+            "With Ice",
+            "Standard Sugar",
+            "Less Sugar",
+            "No Sugar"
+          ],
+          "product_type": "target"
+        },
+        {
+          "name": "Plum Blossom Wine",
+          "store_id": "S17550810646623020_S00001",
+          "store_name": "Mingxiang Pavilion Tea Beverages",
+          "price": 38,
+          "tags": [
+            "Plum Blossom",
+            "Brewed",
+            "Traditional Method",
+            "Traditional"
+          ],
+          "product_id": "S17550810646623020_P00005",
+          "attributes": [
+            "Room Temperature",
+            "Warm",
+            "With Ice"
+          ],
+          "product_type": "distraction"
+        },
+        {
+          "name": "Wuzhen Special Tea Snack Combo",
+          "store_id": "S17550810646623020_S00001",
+          "store_name": "Mingxiang Pavilion Tea Beverages",
+          "price": 68,
+          "tags": [
+            "Wuzhen Specialty",
+            "Tea Snacks",
+            "Combination",
+            "Ancient Style",
+            "Paired with Tea"
+          ],
+          "product_id": "S17550810646623020_P00006",
+          "attributes": [],
+          "product_type": "target"
+        }
+      ]
+    },
+    "S17550810646623020_S00002": {
+      "name": "Classical Tea House",
+      "store_id": "S17550810646623020_S00002",
+      "score": 4.5,
+      "location": {
+        "address": "Classical Tea House, East Side of West Scenic Area, Tongxiang City, Jiaxing, Zhejiang Province",
+        "latitude": 30.7463,
+        "longitude": 120.4872
+      },
+      "tags": [
+        "Tea Beverage",
+        "Traditional",
+        "Non-Alcoholic",
+        "Delivery"
+      ],
+      "store_type": "target",
+      "products": [
+        {
+          "name": "Traditional Jasmine Tea",
+          "store_id": "S17550810646623020_S00002",
+          "store_name": "Classical Tea House",
+          "price": 38.0,
+          "tags": [
+            "Classical Flavor",
+            "Non-Alcoholic",
+            "Traditional Craftsmanship",
+            "Fragrant with Flowers",
+            "Suitable for Gatherings"
+          ],
+          "product_id": "S17550810646623020_P00007",
+          "attributes": [
+            "Room Temperature",
+            "Hot"
+          ],
+          "product_type": "target"
+        },
+        {
+          "name": "Jiangnan Osmanthus Oolong Tea Teapot Package",
+          "store_id": "S17550810646623020_S00002",
+          "store_name": "Classical Tea House",
+          "price": 58.0,
+          "tags": [
+            "Classical Flavor",
+            "Non-Alcoholic",
+            "Osmanthus Fragrance",
+            "Teapot Packaging",
+            "Shareable for Multiple People"
+          ],
+          "product_id": "S17550810646623020_P00008",
+          "attributes": [
+            "Hot",
+            "Cold"
+          ],
+          "product_type": "target"
+        },
+        {
+          "name": "West Lake Longjing Tea Gift Box",
+          "store_id": "S17550810646623020_S00002",
+          "store_name": "Classical Tea House",
+          "price": 128.0,
+          "tags": [
+            "Premium Tea",
+            "Non-Alcoholic",
+            "Ideal Gift",
+            "Classical Packaging"
+          ],
+          "product_id": "S17550810646623020_P00009",
+          "attributes": [],
+          "product_type": "distraction"
+        },
+        {
+          "name": "Classical Rose Tea",
+          "store_id": "S17550810646623020_S00002",
+          "store_name": "Classical Tea House",
+          "price": 42.0,
+          "tags": [
+            "Classical Flavor",
+            "Non-Alcoholic",
+            "Flower Tea Series",
+            "Popular Among Women",
+            "Beauty-Enhancing"
+          ],
+          "product_id": "S17550810646623020_P00010",
+          "attributes": [
+            "Hot",
+            "Cold"
+          ],
+          "product_type": "target"
+        },
+        {
+          "name": "Wuzhen Special Rice Wine",
+          "store_id": "S17550810646623020_S00002",
+          "store_name": "Classical Tea House",
+          "price": 45.0,
+          "tags": [
+            "Wuzhen Specialties",
+            "Low Alcohol Content",
+            "Traditional Brewing",
+            "Jiangnan Flavor"
+          ],
+          "product_id": "S17550810646623020_P00011",
+          "attributes": [
+            "Room Temperature",
+            "Warm"
+          ],
+          "product_type": "distraction"
+        },
+        {
+          "name": "Classical Tea Snack Combo",
+          "store_id": "S17550810646623020_S00002",
+          "store_name": "Classical Tea House",
+          "price": 68.0,
+          "tags": [
+            "Traditional Pastries",
+            "Non-Alcoholic",
+            "Paired with Tea",
+            "Suitable for Sharing"
+          ],
+          "product_id": "S17550810646623020_P00012",
+          "attributes": [],
+          "product_type": "target"
+        }
+      ]
+    },
+    "S17550810646623020_S00003": {
+      "name": "Drunk Jiangnan Wine Shop",
+      "store_id": "S17550810646623020_S00003",
+      "score": 4.6,
+      "location": {
+        "address": "Drunk Jiangnan Wine Shop, North Gate of West Scenic Area, Tongxiang City, Jiaxing, Zhejiang Province",
+        "latitude": 30.7471,
+        "longitude": 120.4843
+      },
+      "tags": [
+        "Alcoholic Beverages",
+        "Ancient Style",
+        "Delivery"
+      ],
+      "store_type": "distraction",
+      "products": [
+        {
+          "name": "Five-Year Aged Yellow Wine",
+          "store_id": "S17550810646623020_S00003",
+          "store_name": "Drunk Jiangnan Wine Shop",
+          "price": 68.0,
+          "tags": [
+            "Classical Flavor",
+            "Wuzhen Specialties",
+            "Gift Box Set",
+            "Traditional Craftsmanship"
+          ],
+          "product_id": "S17550810646623020_P00013",
+          "attributes": [
+            "500ml",
+            "Gift Box Set",
+            "Room Temperature"
+          ],
+          "product_type": "distraction"
+        },
+        {
+          "name": "Ancient-Style Osmanthus Wine",
+          "store_id": "S17550810646623020_S00003",
+          "store_name": "Drunk Jiangnan Wine Shop",
+          "price": 48.0,
+          "tags": [
+            "Osmanthus Fragrance",
+            "Classical Beverage",
+            "Jiangnan Specialty",
+            "Ideal Gift"
+          ],
+          "product_id": "S17550810646623020_P00014",
+          "attributes": [
+            "350ml",
+            "Elegant packaging",
+            "Room Temperature"
+          ],
+          "product_type": "distraction"
+        },
+        {
+          "name": "Wuzhen Special Brew Rice Wine Set",
+          "store_id": "S17550810646623020_S00003",
+          "store_name": "Drunk Jiangnan Wine Shop",
+          "price": 128.0,
+          "tags": [
+            "Wuzhen Specialties",
+            "Traditional Brewing",
+            "Gift Box Set",
+            "Traditional Flavor"
+          ],
+          "product_id": "S17550810646623020_P00015",
+          "attributes": [
+            "Pack of 4 bottles",
+            "Gift box",
+            "Room Temperature"
+          ],
+          "product_type": "distraction"
+        },
+        {
+          "name": "Green Plum Wine",
+          "store_id": "S17550810646623020_S00003",
+          "store_name": "Drunk Jiangnan Wine Shop",
+          "price": 58.0,
+          "tags": [
+            "Mildly Sweet",
+            "Classical Flavor",
+            "Popular Among Women",
+            "Jiangnan Specialty"
+          ],
+          "product_id": "S17550810646623020_P00016",
+          "attributes": [
+            "400ml",
+            "Elegant bottle packaging",
+            "Chilled"
+          ],
+          "product_type": "distraction"
+        },
+        {
+          "name": "Bamboo Leaf Green Wine",
+          "store_id": "S17550810646623020_S00003",
+          "store_name": "Drunk Jiangnan Wine Shop",
+          "price": 88.0,
+          "tags": [
+            "Classical Famous Wine",
+            "Hanfu Activity Recommendation",
+            "Literary Scholars",
+            "Ideal Gift"
+          ],
+          "product_id": "S17550810646623020_P00017",
+          "attributes": [
+            "500ml",
+            "Exquisite packaging",
+            "Room Temperature"
+          ],
+          "product_type": "distraction"
+        }
+      ]
+    },
+    "S17550810646623020_S00004": {
+      "name": "Modern Beverage Workshop",
+      "store_id": "S17550810646623020_S00004",
+      "score": 4.4,
+      "location": {
+        "address": "Modern Beverage Workshop, South Side of West Scenic Area, Tongxiang City, Jiaxing, Zhejiang Province",
+        "latitude": 30.7432,
+        "longitude": 120.4851
+      },
+      "tags": [
+        "Milk Tea",
+        "Modern",
+        "Non-Alcoholic",
+        "Delivery"
+      ],
+      "store_type": "distraction",
+      "products": [
+        {
+          "name": "Mango Coconut Milk Smoothie",
+          "store_id": "S17550810646623020_S00004",
+          "store_name": "Modern Beverage Workshop",
+          "price": 22.0,
+          "tags": [
+            "Modern Style",
+            "Smoothie",
+            "Tropical Fruit",
+            "Coconut Milk",
+            "Non-Alcoholic"
+          ],
+          "product_id": "S17550810646623020_P00018",
+          "attributes": [
+            "Normal sugar",
+            "Less sugar",
+            "Sugar-free",
+            "Add pearls",
+            "Add coconut jelly"
+          ],
+          "product_type": "distraction"
+        },
+        {
+          "name": "Blueberry Yogurt Smoothie",
+          "store_id": "S17550810646623020_S00004",
+          "store_name": "Modern Beverage Workshop",
+          "price": 26.0,
+          "tags": [
+            "Modern Style",
+            "Smoothie",
+            "Healthy",
+            "Fruity Flavor",
+            "Non-Alcoholic"
+          ],
+          "product_id": "S17550810646623020_P00019",
+          "attributes": [
+            "Normal sugar",
+            "Less sugar",
+            "Sugar-free",
+            "Add nuts"
+          ],
+          "product_type": "distraction"
+        },
+        {
+          "name": "Strawberry Cream Latte",
+          "store_id": "S17550810646623020_S00004",
+          "store_name": "Modern Beverage Workshop",
+          "price": 24.0,
+          "tags": [
+            "Modern Style",
+            "Coffee",
+            "Cream",
+            "Strawberry",
+            "Non-Alcoholic"
+          ],
+          "product_id": "S17550810646623020_P00020",
+          "attributes": [
+            "Hot drink",
+            "Cold drink",
+            "Normal sugar",
+            "Less sugar",
+            "Sugar-free"
+          ],
+          "product_type": "distraction"
+        },
+        {
+          "name": "Matcha Red Bean Milk Cap",
+          "store_id": "S17550810646623020_S00004",
+          "store_name": "Modern Beverage Workshop",
+          "price": 23.0,
+          "tags": [
+            "Modern Style",
+            "Matcha",
+            "Red Bean",
+            "Milk Cap",
+            "Non-Alcoholic"
+          ],
+          "product_id": "S17550810646623020_P00021",
+          "attributes": [
+            "Hot drink",
+            "Cold drink",
+            "Normal sugar",
+            "Less sugar",
+            "Add pearls"
+          ],
+          "product_type": "distraction"
+        },
+        {
+          "name": "Watermelon Mint Sparkling Water",
+          "store_id": "S17550810646623020_S00004",
+          "store_name": "Modern Beverage Workshop",
+          "price": 20.0,
+          "tags": [
+            "Modern Style",
+            "Sparkling Water",
+            "Refreshing",
+            "Summer",
+            "Non-Alcoholic"
+          ],
+          "product_id": "S17550810646623020_P00022",
+          "attributes": [
+            "Add ice",
+            "Less ice",
+            "No ice",
+            "Normal sugar",
+            "Less sugar",
+            "Sugar-free"
+          ],
+          "product_type": "distraction"
+        }
+      ]
+    }
+  },
+  "orders": {
+    "S17550810646623020_O00001": {
+      "order_id": "S17550810646623020_O00001",
+      "order_type": "delivery",
+      "user_id": "U001095",
+      "store_id": "S17550810646623020_S00001",
+      "total_price": 218.0,
+      "create_time": "2024-06-23 14:22:35",
+      "status": "delivered",
+      "products": [
+        {
+          "product_id": "S17550810646623020_P00001",
+          "price": 28.0,
+          "quantity": 3
+        },
+        {
+          "product_id": "S17550810646623020_P00004",
+          "price": 25.0,
+          "quantity": 4
+        },
+        {
+          "product_id": "S17550810646623020_P00006",
+          "price": 68.0,
+          "quantity": 1
+        }
+      ]
+    },
+    "S17550810646623020_O00002": {
+      "order_id": "S17550810646623020_O00002",
+      "order_type": "delivery",
+      "user_id": "U001095",
+      "store_id": "S17550810646623020_S00002",
+      "total_price": 196.0,
+      "create_time": "2024-06-22 19:45:12",
+      "status": "delivered",
+      "products": [
+        {
+          "product_id": "S17550810646623020_P00007",
+          "price": 38.0,
+          "quantity": 2
+        },
+        {
+          "product_id": "S17550810646623020_P00008",
+          "price": 58.0,
+          "quantity": 2
+        },
+        {
+          "product_id": "S17550810646623020_P00012",
+          "price": 68.0,
+          "quantity": 0
+        }
+      ]
+    },
+    "S17550810646623020_O00003": {
+      "order_id": "S17550810646623020_O00003",
+      "order_type": "hotel",
+      "user_id": "U001095",
+      "store_id": "S17550810646623020_H00005",
+      "note": "Hanfu club activity accommodation, 12 people check-in",
+      "location": {
+        "address": "Waterside Homestay, West Scenic Area, Tongxiang City, Jiaxing, Zhejiang Province",
+        "longitude": 120.4852,
+        "latitude": 30.7449
+      },
+      "dispatch_time": "",
+      "shipping_time": 0.0,
+      "delivery_time": "",
+      "total_price": 3764.0,
+      "create_time": "2024-06-23 10:15:28",
+      "update_time": "2024-06-23 10:15:28",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17550810646623020_P00023",
+          "price": 1280.0,
+          "quantity": 1,
+          "date": "2024-06-30",
+          "room_type": "Classical Loft Suite"
+        },
+        {
+          "product_id": "S17550810646623020_P00025",
+          "price": 398.0,
+          "quantity": 6,
+          "date": "2024-06-30",
+          "room_type": "Water Town Twin Room"
+        }
+      ]
+    },
+    "S17550810646623020_O00004": {
+      "order_id": "S17550810646623020_O00004",
+      "order_type": "attraction",
+      "user_id": "U001095",
+      "store_id": "S17550810646623020_A00009",
+      "note": "Hanfu club activity, 12 people group ticket",
+      "location": {
+        "address": "Wuzhen West Scenic Area, Tongxiang City, Jiaxing, Zhejiang Province",
+        "longitude": 120.4846,
+        "latitude": 30.7444
+      },
+      "dispatch_time": "",
+      "shipping_time": 0.0,
+      "delivery_time": "",
+      "total_price": 1800.0,
+      "create_time": "2024-06-23 10:22:45",
+      "update_time": "2024-06-23 10:22:45",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17550810646623020_P00049",
+          "price": 150.0,
+          "quantity": 12,
+          "ticket_type": "Adult Ticket"
+        }
+      ]
+    },
+    "S17550810646623020_O00005": {
+      "order_id": "S17550810646623020_O00005",
+      "order_type": "attraction",
+      "user_id": "U001095",
+      "store_id": "S17550810646623020_A00010",
+      "note": "Alternative activity arranged for aquaphobic members",
+      "location": {
+        "address": "Wood Carving Museum, West Scenic Area, Tongxiang City, Jiaxing, Zhejiang Province",
+        "longitude": 120.4851,
+        "latitude": 30.7446
+      },
+      "dispatch_time": "",
+      "shipping_time": 0.0,
+      "delivery_time": "",
+      "total_price": 480.0,
+      "create_time": "2024-06-23 10:28:17",
+      "update_time": "2024-06-23 10:28:17",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17550810646623020_P00062",
+          "price": 120.0,
+          "quantity": 4,
+          "ticket_type": "Wood Carving Experience Workshop Ticket"
+        }
+      ]
+    },
+    "S17550810646623020_O00006": {
+      "order_id": "S17550810646623020_O00006",
+      "order_type": "attraction",
+      "user_id": "U001095",
+      "store_id": "S17550810646623020_A00011",
+      "note": "Alternative activity arranged for aquaphobic members",
+      "location": {
+        "address": "Silk Museum, West Scenic Area, Tongxiang City, Jiaxing, Zhejiang Province",
+        "longitude": 120.4858,
+        "latitude": 30.7451
+      },
+      "dispatch_time": "",
+      "shipping_time": 0.0,
+      "delivery_time": "",
+      "total_price": 272.0,
+      "create_time": "2024-06-23 10:32:05",
+      "update_time": "2024-06-23 10:32:05",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17550810646623020_P00073",
+          "price": 68.0,
+          "quantity": 4,
+          "ticket_type": "Silk Cultural Creative Workshop"
+        }
+      ]
+    },
+    "S17550810646623020_O00007": {
+      "order_id": "S17550810646623020_O00007",
+      "order_type": "flight",
+      "user_id": "U001095",
+      "store_id": "S17550810646623020_F00014",
+      "note": "Flight booked for core members from Beijing",
+      "location": {
+        "address": "Beijing Capital International Airport, Chaoyang District, Beijing",
+        "longitude": 116.5927,
+        "latitude": 40.0799
+      },
+      "dispatch_time": "",
+      "shipping_time": 0.0,
+      "delivery_time": "",
+      "total_price": 1960.0,
+      "create_time": "2024-06-23 11:05:22",
+      "update_time": "2024-06-23 11:05:22",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17550810646623020_P00089",
+          "price": 980.0,
+          "quantity": 2,
+          "seat_type": "Economy Class"
+        }
+      ]
+    },
+    "S17550810646623020_O00008": {
+      "order_id": "S17550810646623020_O00008",
+      "order_type": "instore",
+      "user_id": "U001095",
+      "store_id": "S17550810646623020_I00018",
+      "total_price": 1988.0,
+      "create_time": "2024-06-23 11:15:08",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17550810646623020_P00112",
+          "price": 1988.0,
+          "quantity": 1
+        }
+      ]
+    }
+  }
+}

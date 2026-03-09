@@ -1,0 +1,190 @@
+{
+  "task_id": "10826031",
+  "domain": "instore",
+  "time": "2023-03-17 10:15:00",
+  "user_id": "U469559",
+  "weather": [
+    {
+      "city": "Luoyang",
+      "category": "cloudy",
+      "datetime": "2023-03-24",
+      "temperature": [
+        12,
+        23
+      ],
+      "humidity": 65
+    },
+    {
+      "city": "Luoyang",
+      "category": "sunny",
+      "datetime": "2023-03-17",
+      "temperature": [
+        10,
+        21
+      ],
+      "humidity": 57
+    }
+  ],
+  "location": [
+    {
+      "address": "Room 1203, Building B, Shenglong City Plaza, Intersection of Tanggong West Road and Hantun North Road, Xigong District, Luoyang",
+      "longitude": 112.4356,
+      "latitude": 34.6581
+    },
+    {
+      "address": "Room 1502, 15th Floor, Zhongtai Business Building, 79 Nanchang Road, Jianxi District, Luoyang",
+      "longitude": 112.3987,
+      "latitude": 34.6612
+    }
+  ],
+  "user_profile": {
+    "user id": "U469559",
+    "occupation": "Advertising Planner",
+    "gender": "female",
+    "age group": "25~30",
+    "residence": "Luoyang",
+    "home address": "Room 1203, Building B, Shenglong City Plaza, Intersection of Tanggong West Road and Hantun North Road, Xigong District, Luoyang",
+    "work address": "Room 1502, 15th Floor, Zhongtai Business Building, 79 Nanchang Road, Jianxi District, Luoyang",
+    "dietary restrictions": "No caffeine, Low Sugar",
+    "family status": "Living alone",
+    "personality": "Tends to be controlling and dominant, not easily accepting different opinions"
+  },
+  "user_historical_behaviors": {
+    "user id": "U469559",
+    "occupation": "Advertising Planner",
+    "gender": "female",
+    "age group": "25~30",
+    "residence": "Luoyang",
+    "home address": "Room 1203, Building B, Shenglong City Plaza, Intersection of Tanggong West Road and Hantun North Road, Xigong District, Luoyang",
+    "work address": "Room 1502, 15th Floor, Zhongtai Business Building, 79 Nanchang Road, Jianxi District, Luoyang",
+    "in-store dining": {
+      "fine-dining": {
+        "frequently purchased categories": [
+          "Foreign Cuisine/Western Food (Average 120 yuan)",
+          "Regional Cuisine/Sichuan Cuisine (Average 90 yuan)",
+          "Regional Cuisine/Cantonese Cuisine (Average 110 yuan)"
+        ],
+        "preferred average price per person": "90~130 yuan",
+        "preferred store rating": "4.3~4.8 stars",
+        "typical dining time": "18:30-20:30",
+        "preferred distance": "500~2000m",
+        "recent orders": [
+          {
+            "store": "La Vita Italian Restaurant Luoyang",
+            "product": "Truffle Pasta Set"
+          },
+          {
+            "store": "Yuefu Sichuan Restaurant",
+            "product": "Boiled Fish + Dry-fried Green Beans"
+          },
+          {
+            "store": "Cantonese Pavilion",
+            "product": "Poached Chicken + Garlic Broccoli"
+          }
+        ],
+        "search history": [
+          "Caffeine-free restaurants",
+          "Healthy Sichuan Cuisine",
+          "Low Sugar Western Food"
+        ]
+      },
+      "light meal": {
+        "frequently purchased categories": [
+          "Fast Food/Chinese Simple Meals (Average 35 yuan)",
+          "Fast Food/Western Fast Food (Average 40 yuan)"
+        ],
+        "preferred average price per person": "25~45 yuan",
+        "preferred store rating": "3.5~4.2 stars",
+        "typical dining time": "12:00-13:30",
+        "preferred distance": "0~500m",
+        "recent orders": [
+          {
+            "store": "Light Salad",
+            "product": "Quinoa Chicken Breast Salad"
+          },
+          {
+            "store": "Fresh Cook Art",
+            "product": "Stir-fried Vegetable Set"
+          },
+          {
+            "store": "Dumpling King",
+            "product": "Vegetable Dumplings"
+          }
+        ],
+        "search history": [
+          "Healthy lunch",
+          "Low Sugar meal sets",
+          "Light food"
+        ]
+      },
+      "desserts/drinks/snacks": {
+        "frequently purchased categories": [
+          "Beverage Shops (Average 18 yuan)",
+          "Bread and Pastries (Average 25 yuan)"
+        ],
+        "preferred average price per person": "15~30 yuan",
+        "preferred store rating": "4.0~4.7 stars",
+        "typical dining time": "15:00-16:30",
+        "preferred distance": "0~300m",
+        "recent orders": [
+          {
+            "store": "Truly Good Tea",
+            "product": "Sugar-free Coconut Juice"
+          },
+          {
+            "store": "LePure Yogurt Bar",
+            "product": "Plain Greek Yogurt"
+          },
+          {
+            "store": "Bread Workshop",
+            "product": "Whole Wheat Walnut Bread"
+          }
+        ],
+        "search history": [
+          "Sugar-free beverages",
+          "Low sugar desserts",
+          "Healthy snacks"
+        ]
+      }
+    },
+    "other in-store services": {
+      "frequently consumed categories": {
+        "Beauty/Yoga": "40%",
+        "Sports & Fitness/Fitness Centers": "35%",
+        "Leisure Entertainment/DIY Workshops": "15%",
+        "Beauty/Nail Salon": "10%"
+      },
+      "cost per order by category": {
+        "Beauty/Yoga": "80~150 yuan",
+        "Sports & Fitness/Fitness Centers": "60~120 yuan",
+        "Leisure Entertainment/DIY Workshops": "70~120 yuan",
+        "Beauty/Nail Salon": "120~200 yuan"
+      },
+      "preferred store rating": "4.0~4.8 stars",
+      "preferred service time": "19:00-21:00",
+      "preferred distance": "0~3000m",
+      "recent orders": [
+        {
+          "store": "Tranquil Yoga Studio",
+          "product": "Single Person Yoga Class"
+        },
+        {
+          "store": "Luoyang Fitness Studio",
+          "product": "Personal Training Package"
+        },
+        {
+          "store": "Creative Workshop",
+          "product": "Pottery Making Experience"
+        }
+      ],
+      "search history": [
+        "Yoga for beginners",
+        "Women's fitness",
+        "Stress-relief activities",
+        "Creative handicrafts"
+      ]
+    }
+  },
+  "stores": {},
+  "orders": {}
+}

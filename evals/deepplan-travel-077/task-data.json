@@ -1,0 +1,43 @@
+{
+  "task_id": "76",
+  "query": "I'd like to go to Guangzhou for a few days, departing from Zhuhai. I plan to leave on November 12, 2025, and return on November 16. Could you help me arrange transportation, accommodation, meals, and attractions?\n\nFor transportation, I’d prefer to take the train one-way. An afternoon departure would be ideal—specifically a train between 13:00 and 17:00—so the timing isn’t too rushed.\n\nRegarding accommodation, I’d like to stay at a Home Inn hotel. My budget is limited, so please help me find the cheapest branch they have and book a room there, there are two of us traveling, so we’ll need one rooms.\n\nBy the way, I have two small requests about meals! First, when visiting the 'Guangzhou Museum (Zhenhai Tower Exhibition Area)', could you help me find the nearby restaurant with the lowest average spending per person? I assume there should be plenty of options around there. Second, when I go to 'Flower City Square', I’ve heard there are some great restaurants on the must-try dining list. Please pick one that ranks in the top ten on that list and arrange a meal there—I’d love to taste some authentic local flavors.\n\nLastly, could you recommend some distinctive and worthwhile attractions in Guangzhou and help organize them into a well-planned itinerary? That covers all my needs. I believe I’ve provided enough information—please go ahead and plan out the full itinerary and budget for me! November 12, 2025 is Wednesday",
+  "meta_info": {
+    "org": "Zhuhai",
+    "dest": [
+      "Guangzhou"
+    ],
+    "days": 5,
+    "depart_date": "2025-11-12",
+    "return_date": "2025-11-16",
+    "people_number": 2,
+    "room_number": 1
+  },
+  "hard_constraints": {
+    "train_departure_time_range": {
+      "constraint_context": "The outbound train must depart between 13:00 and 17:00 in the afternoon.",
+      "outbound_train_no": "G882"
+    },
+    "hotel_cheapest_brand": {
+      "constraint_context": "For accommodation, please select the cheapest hotel among the \"Home Inn\" brand",
+      "constraint_type": "superlative_cheapest_brand",
+      "hotel_name": "Home Inn - Guangzhou Shangxiajiu Ruyi Fang Metro Station Branch",
+      "hotel_price": 146.0
+    },
+    "restaurant_cheapest_nearby_attraction": {
+      "constraint_context": "During the trip, please arrange a meal at the cheapest restaurant near 'Guangzhou Museum (Zhenhai Tower Exhibition Area)' per person.",
+      "constraint_type": "superlative_cheapest_nearby_attraction",
+      "attraction_name": "Guangzhou Museum (Zhenhai Tower Exhibition Area)",
+      "restaurant_name": "Harriman Restaurant",
+      "price_per_person": 17.0
+    },
+    "restaurant_specific_tag_nearby": {
+      "constraint_context": "Arrange a meal at a restaurant near 'Flower City Square' during the trip, must be from the Top 10 on the Must-Eat List with service included",
+      "constraint_type": "superlative_specific_tag_nearby",
+      "attraction_name": "Flower City Square",
+      "restaurant_name": "Zhisheng Restaurant",
+      "required_tag": "Must-Eat Top 10",
+      "price_per_person": 100.0,
+      "restaurant_rating": 3.0
+    }
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "task_id": "31",
+  "query": "I'm planning to visit Zhengzhou from Hefei for three days starting November 12, 2025, and returning on November 14. Please help me arrange transportation, accommodation, meals, and sightseeing. For transportation, I'd like to leave a bit later on my return trip so I can spend a bit more time in Zhengzhou—please check if there's a direct train to Hefei that departs latest and book it for me. For accommodation, just choose a three-star hotel, but I have a friend who will come to visit me and he'll be driving, so the hotel must have free parking.\n\nFor attractions, there are two places I must visit: 'Henan Museum' and 'Yellow River Museum'—please arrange both in the itinerary. Also, could you schedule one meal at a restaurant near 'David Plaza Shopping Center'? I’ve heard the restaurants there are very good, but it would be best if you could find one that supports online number-taking/queuing to save time.\n\nThat basically covers all my requirements. I believe I’ve provided all the necessary information—just go ahead and plan the itinerary for me without asking for anything else. November 12, 2025 is Wednesday",
+  "meta_info": {
+    "org": "Hefei",
+    "dest": [
+      "Zhengzhou"
+    ],
+    "days": 3,
+    "depart_date": "2025-11-12",
+    "return_date": "2025-11-14",
+    "people_number": 1,
+    "room_number": 1
+  },
+  "hard_constraints": {
+    "train_latest_arrival_direct": {
+      "constraint_context": "I would like to return later, so please help me select the latest arriving direct train for the return trip",
+      "constraint_type": "superlative_latest_arrival",
+      "inbound_train_no": "G1946"
+    },
+    "hotel_star_service_required": {
+      "constraint_context": "Please select a 3-star hotel that offers free parking",
+      "constraint_type": "superlative_star_service_required",
+      "hotel_name": "Jinjiang Inn (Phoenix Tea City Phoenix Terrace South Metro Station)",
+      "required_service": "Free Parking",
+      "hotel_star": 3,
+      "hotel_price": 157.0
+    },
+    "attraction_must_visit_named": {
+      "constraint_context": "The itinerary must include visits to 'Henan Museum' and 'Yellow River Museum'.",
+      "constraint_type": "superlative_must_visit_named",
+      "attraction_names": [
+        "Henan Museum",
+        "Yellow River Museum"
+      ],
+      "attraction_ratings": [
+        4.9,
+        4.6
+      ]
+    },
+    "restaurant_specific_tag_nearby": {
+      "constraint_context": "Arrange a meal at a restaurant near 'David Plaza Shopping Center' during the trip, with online number-taking and queuing service required.",
+      "constraint_type": "superlative_specific_tag_nearby",
+      "attraction_name": "David Plaza Shopping Center",
+      "restaurant_name": "The Boots Mud Boots Get Holiday (David Plaza Store)",
+      "required_tag": "Online Queue",
+      "price_per_person": 117.0,
+      "restaurant_rating": 4.8
+    }
+  }
+}

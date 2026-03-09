@@ -1,0 +1,55 @@
+{
+  "task_id": "82",
+  "query": "I plan to travel from Wuhan to Nanjing on November 12, 2025, and return on November 17. I'd appreciate your help in planning my itinerary, including transportation, accommodation, dining, and sightseeing arrangements.\n\nRegarding transportation, I’d like to depart as early as possible. Please help me choose the earliest available direct train so that I’ll still have time to explore upon arrival in Nanjing. For accommodation, a four-star hotel would be suitable. Kindly select the most cost-effective and cheapest option available—I just need one room for two people.\n\nI already have a general idea about Nanjing’s attractions—I’m particularly fond of places with a strong Historical and Cultural atmosphere, and I’d like to visit representative sites with excellent reviews. Could you please include one iconic 'Historical and Cultural' attraction in the itinerary? Additionally, I’d also like to visit some highly rated, must-see spots—please pick the top three highest-rated attractions from recommendations and include them in the schedule.\n\nThat covers all my requirements. I’ve provided all the necessary information—feel free to go ahead and create the full itinerary for me. Thank you! November 12, 2025 is Wednesday",
+  "meta_info": {
+    "org": "Wuhan",
+    "dest": [
+      "Nanjing"
+    ],
+    "days": 6,
+    "depart_date": "2025-11-12",
+    "return_date": "2025-11-17",
+    "people_number": 2,
+    "room_number": 1
+  },
+  "hard_constraints": {
+    "train_earliest_departure_direct": {
+      "constraint_context": "Please help me choose the earliest departure direct train for the outbound journey",
+      "constraint_type": "superlative_earliest_departure",
+      "outbound_train_no": "D3016"
+    },
+    "hotel_cheapest_star": {
+      "constraint_context": "Please select the cheapest hotel among the 4-star hotels",
+      "constraint_type": "superlative_cheapest_star",
+      "hotel_name": "Nanjing Guli Grand Hotel",
+      "hotel_star": 4,
+      "hotel_price": 192.0
+    },
+    "attraction_type_highest_rated": {
+      "constraint_context": "The itinerary must include the highest-rated attraction in the 'Historical and Cultural' category.",
+      "constraint_type": "superlative_type_highest_rated",
+      "attraction_names": [
+        "Sun Yat-sen Mausoleum Scenic Area"
+      ],
+      "attraction_type_cn": "历史文化",
+      "attraction_type": "Historical and Cultural",
+      "attraction_ratings": [
+        4.9
+      ]
+    },
+    "attraction_top_rated_must_visit": {
+      "constraint_context": "The itinerary must include the three highest-rated attractions recommended by the attraction recommendation tool.",
+      "constraint_type": "superlative_top_rated_must_visit",
+      "attraction_names": [
+        "Xuanwu Lake Scenic Area",
+        "Sun Yat-sen Mausoleum Scenic Area",
+        "Yuhuatai Martyrs Cemetery"
+      ],
+      "attraction_ratings": [
+        4.9,
+        4.9,
+        4.8
+      ]
+    }
+  }
+}

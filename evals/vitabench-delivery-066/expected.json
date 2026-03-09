@@ -1,0 +1,67 @@
+{
+  "required_orders": [
+    {
+      "order_id": "D0718001T01",
+      "order_type": "delivery",
+      "user_id": "U000038",
+      "store_id": "S24717473813710342_S37435",
+      "note": "",
+      "location": {
+        "address": "Faculty Building, No.62 West Second Ring North Road, Qiaoxi District, Shijiazhuang City, Hebei Province",
+        "longitude": 114.435532,
+        "latitude": 38.047407
+      },
+      "dispatch_time": "2026-01-30 18:38:00",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 17.9,
+      "create_time": "2026-01-30 18:21:00",
+      "update_time": "2026-01-30 18:21:00",
+      "status": "in-progress",
+      "products": [
+        {
+          "product_id": "S12037763664481505_P73894",
+          "price": 17.9,
+          "quantity": 1,
+          "attributes": ""
+        }
+      ]
+    },
+    {
+      "order_id": "D0718001T02",
+      "order_type": "delivery",
+      "user_id": "U000038",
+      "store_id": "S16740267212964910_S79387",
+      "note": "",
+      "location": {
+        "address": "Faculty Building, No.62 West Second Ring North Road, Qiaoxi District, Shijiazhuang City, Hebei Province",
+        "longitude": 114.435532,
+        "latitude": 38.047407
+      },
+      "dispatch_time": "2026-01-30 18:42:00",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 24.0,
+      "create_time": "2026-01-30 18:23:00",
+      "update_time": "2026-01-30 18:23:00",
+      "status": "in-progress",
+      "products": [
+        {
+          "product_id": "S29570288274735276_P40070",
+          "price": 24.0,
+          "quantity": 1,
+          "attributes": ""
+        }
+      ]
+    }
+  ],
+  "rubrics": [
+    "When ordering pork dumplings for the user, the order items should not contain chive filling",
+    "When ordering pork dumplings for the user, the store rating should be 4.5 or above",
+    "When ordering pork dumplings for the user, the store should have a physical location with Dine-in Available",
+    "The delivery address for the user's pork dumplings order should be Faculty Building, No.62 West Second Ring North Road, Qiaoxi District, Shijiazhuang City, Hebei Province",
+    "When ordering Seafood Dumpling Soup for grandmother, the store rating should be 4.5 or above",
+    "When ordering Seafood Dumpling Soup for grandmother, the store should have a physical location with Dine-in Available",
+    "The delivery address for grandmother's Seafood Dumpling Soup order should be Faculty Building, No.62 West Second Ring North Road, Qiaoxi District, Shijiazhuang City, Hebei Province"
+  ]
+}

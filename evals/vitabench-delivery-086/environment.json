@@ -1,0 +1,406 @@
+{
+  "task_id": "H0721001",
+  "domain": "delivery",
+  "time": "2025-05-01 15:40:39",
+  "user_id": "U000084",
+  "weather": [
+    {
+      "city": "Qingdao City",
+      "category": "sunny",
+      "datetime": "2025-05-01",
+      "temperature": [
+        12,
+        21
+      ],
+      "humidity": 69
+    }
+  ],
+  "location": [
+    {
+      "address": " No. 23 Donghai West Road, Tiansheng Garden·Haiyun Urban Complex, Shinan District, Qingdao, Shandong Province ",
+      "longitude": 120.37839,
+      "latitude": 36.061041
+    }
+  ],
+  "user_profile": {
+    "user id": "U000084",
+    "occupation": "Product Manager",
+    "gender": "female",
+    "age group": "30~35",
+    "residence": "Qingdao",
+    "home address": "No. 23 Donghai West Road, Tiansheng Garden·Haiyun Urban Complex, Shinan District, Qingdao, Shandong Province",
+    "work address": "Building D1, Qingdao International Innovation Park, Xinjin Road, Laoshan District, Qingdao, Shandong Province (360 meters from Exit A of Kutao Metro Station)",
+    "dietary restrictions": "Avoids high sugar, avoids coffee beverages",
+    "family status": "Has children",
+    "personality": "Experiences significant mood fluctuations, expresses herself with strong emotional tones"
+  },
+  "user_historical_behaviors": {
+    "user id": "U000084",
+    "occupation": "Product Manager",
+    "gender": "female",
+    "age group": "30~35",
+    "residence": "Qingdao",
+    "home address": "No. 23 Donghai West Road, Tiansheng Garden·Haiyun Urban Complex, Shinan District, Qingdao, Shandong Province",
+    "work address": "Building D1, Qingdao International Innovation Park, Xinjin Road, Laoshan District, Qingdao, Shandong Province (360 meters from Exit A of Kutao Metro Station)",
+    "breakfast": {
+      "frequently purchased categories": [
+        "Quick Meals/Steamed Buns/Pan-fried Buns (Average 22 yuan)",
+        "Quick Meals/Light Food (Average 35 yuan)"
+      ],
+      "cost per order": "15~38 yuan",
+      "preferred store rating": "4.3~4.8 stars",
+      "preferred delivery time": "15~30 minutes",
+      "preferred distance": "0~2000m",
+      "recent orders": [
+        {
+          "store": "Qingdao Jiaxi Buns",
+          "product": "Steamed Vegetable Buns + Soy Milk Combo"
+        },
+        {
+          "store": "Light Food Yogurt",
+          "product": "Veggie Energy Bowl + Low-sugar Nut Milk"
+        },
+        {
+          "store": "Fresh Pan-fried Buns",
+          "product": "Vegetable Pan-fried Buns + Millet Porridge"
+        }
+      ],
+      "search history": [
+        "Low-sugar breakfast",
+        "Whole wheat bread",
+        "Oatmeal",
+        "Fruit salad",
+        "Soy milk"
+      ]
+    },
+    "weekday lunch/dinner": {
+      "frequently purchased categories": [
+        "Quick Meals/Salad (Average 45 yuan)",
+        "Quick Meals/Healthy Meals (Average 58 yuan)",
+        "Chinese Cuisine/Shandong Cuisine (Average 65 yuan)"
+      ],
+      "cost per order": "40~75 yuan",
+      "preferred store rating": "4.5~4.9 stars",
+      "preferred delivery time": "20~40 minutes",
+      "preferred distance": "0~3500m",
+      "recent orders": [
+        {
+          "store": "Light Healthy Meals",
+          "product": "Quinoa Chicken Breast Salad + Yogurt"
+        },
+        {
+          "store": "Nutritious Meal Selection",
+          "product": "Steamed Fish + Brown Rice + Seasonal Vegetables Combo"
+        },
+        {
+          "store": "Qingdao Traditional Flavor",
+          "product": "Braised Sea Cucumber with Green Onion + Steamed Bass"
+        }
+      ],
+      "search history": [
+        "Low-calorie lunch",
+        "Shandong cuisine",
+        "Seafood",
+        "Healthy meal box",
+        "Vegetable salad"
+      ]
+    },
+    "weekend lunch/dinner": {
+      "frequently purchased categories": [
+        "Chinese Cuisine/Cantonese Cuisine (Average 120 yuan)",
+        "International Cuisine/Japanese Bento/Sushi (Average 110 yuan)"
+      ],
+      "cost per order": "90~180 yuan",
+      "preferred store rating": "4.1~5.0 stars",
+      "preferred delivery time": "35~60 minutes",
+      "preferred distance": "0~5500m",
+      "recent orders": [
+        {
+          "store": "Cantonese Flavor House",
+          "product": "White Cut Chicken + Steamed Bass + Seasonal Vegetables"
+        },
+        {
+          "store": "Itamae Sushi",
+          "product": "Salmon Sashimi + Vegetable Roll + Miso Soup"
+        },
+        {
+          "store": "Seafood Grill",
+          "product": "Steamed Jiaodong Prawns + Seafood Soup"
+        }
+      ],
+      "search history": [
+        "Family-friendly restaurant",
+        "Additive-free restaurant",
+        "Seafood",
+        "Japanese cuisine",
+        "Cantonese restaurant"
+      ]
+    },
+    "desserts/drinks/snacks": {
+      "frequently purchased categories": [
+        "Drinks & Desserts/Fruit Salad (Average 32 yuan)",
+        "Drinks & Desserts/Plain Tea/Herbal Tea (Average 25 yuan)"
+      ],
+      "cost per order": "20~45 yuan",
+      "preferred store rating": "4.4~4.9 stars",
+      "preferred delivery time": "15~30 minutes",
+      "preferred distance": "0~2500m",
+      "recent orders": [
+        {
+          "store": "Fresh Fruit Workshop",
+          "product": "Seasonal Fruit Platter + Coconut Sago Dessert"
+        },
+        {
+          "store": "Cha Bai Dao",
+          "product": "Sugar-free Oolong Tea"
+        },
+        {
+          "store": "Fresh Fruit Mix",
+          "product": "Yogurt Fruit Salad"
+        }
+      ],
+      "search history": [
+        "Low-sugar desserts",
+        "Fruit tea",
+        "Sugar-free drinks",
+        "Herbal tea",
+        "Yogurt"
+      ]
+    },
+    "night snack": {
+      "frequently purchased categories": [
+        "Quick Meals/Small Dishes/Small Portions (Average 45 yuan)",
+        "Snacks & Braised Food/Braised Items (Average 35 yuan)"
+      ],
+      "cost per order": "30~55 yuan",
+      "preferred store rating": "4.2~4.8 stars",
+      "preferred delivery time": "25~45 minutes",
+      "preferred distance": "0~3000m",
+      "recent orders": [
+        {
+          "store": "Xiaohutong Braised Food",
+          "product": "Five-spice Braised Chicken Wings + Braised Vegetable Platter"
+        },
+        {
+          "store": "Little Chef",
+          "product": "Stomach-friendly Small Stew + Vegetable Platter"
+        },
+        {
+          "store": "Fresh Aroma House",
+          "product": "Fresh Vegetable Stir-fry + Mixed Grain Porridge"
+        }
+      ],
+      "search history": [
+        "Small stewed soup",
+        "Braised food",
+        "Healthy night snacks",
+        "Stomach-friendly porridge",
+        "Non-spicy dishes"
+      ]
+    }
+  },
+  "stores": {
+    "S72636245888181282_S54188": {
+      "name": "Yoshinoya (Qingdao Eastern AEON Mall Branch)",
+      "store_id": "S72636245888181282_S54188",
+      "score": 4.8,
+      "location": {
+        "address": "Area 247, 2nd Floor, AEON, No. 72 Hong Kong Middle Road, Shinan District, Qingdao, Shandong Province",
+        "latitude": 36.063965,
+        "longitude": 120.397369
+      },
+      "tags": [],
+      "products": [
+        {
+          "name": "Teriyaki Chicken Cutlet Rice",
+          "store_id": "S72636245888181282_S54188",
+          "store_name": "Yoshinoya (Qingdao Eastern AEON Mall Branch)",
+          "price": 23.0,
+          "tags": [
+            "Crispy Skin and Tender Meat"
+          ],
+          "product_id": "S27202813520347088_P19057",
+          "attributes": [
+            "Small Bowl",
+            "Large Bowl"
+          ],
+          "quantity": 9999
+        },
+        {
+          "name": "Coconut Curry Chicken Cutlet Rice",
+          "product_id": "S89731011988155343_P26972",
+          "store_id": "S72636245888181282_S54188",
+          "store_name": "Yoshinoya (Qingdao Eastern AEON Mall Branch)",
+          "price": 28,
+          "tags": [],
+          "attributes": [],
+          "quantity": 9999
+        }
+      ]
+    },
+    "S29478989696606736_S98869": {
+      "name": "Licun Laohedi Chuozi Meat (Taidong Branch)",
+      "store_id": "S29478989696606736_S98869",
+      "score": 4.7,
+      "location": {
+        "address": "No. 61-7 Qinghe Road, Shibei District, Qingdao, Shandong Province",
+        "latitude": 36.086695,
+        "longitude": 120.353766
+      },
+      "tags": [],
+      "products": [
+        {
+          "name": "Chuozi Hand-held Treasure",
+          "store_id": "S29478989696606736_S98869",
+          "store_name": "Licun Laohedi Chuozi Meat (Taidong Branch)",
+          "price": 54.8,
+          "tags": [],
+          "product_id": "S11703506162688527_P48578",
+          "attributes": [
+            "Non-spicy",
+            "Mild",
+            "Medium",
+            "Extra Spicy"
+          ],
+          "quantity": 9999
+        },
+        {
+          "name": "Chuozi Plum Meat",
+          "store_id": "S29478989696606736_S98869",
+          "store_name": "Licun Laohedi Chuozi Meat (Taidong Branch)",
+          "price": 48.8,
+          "tags": [
+            "Lean Pork"
+          ],
+          "product_id": "S12684543222819040_P84828",
+          "attributes": [
+            "Non-spicy",
+            "Mild",
+            "Medium",
+            "Extra Spicy"
+          ],
+          "quantity": 9999
+        },
+        {
+          "name": "Chuozi Pork Belly",
+          "product_id": "S15666760746868695_P02930",
+          "store_id": "S29478989696606736_S98869",
+          "store_name": "Licun Laohedi Chuozi Meat (Taidong Branch)",
+          "price": 48.8,
+          "tags": [],
+          "attributes": [],
+          "quantity": 9999
+        }
+      ]
+    },
+    "S14315522325445154_S83221": {
+      "name": "Macau Chen Guangji Roast Restaurant (Mixc Mall Branch)",
+      "store_id": "S14315522325445154_S83221",
+      "score": 4.7,
+      "location": {
+        "address": "Macau Chen Guangji Roast Restaurant (Minjiang Road Food Street Branch), No. 12 Minjiang Road, Hong Kong Middle Road Subdistrict, Shinan District, Qingdao, Shandong Province",
+        "latitude": 36.069007,
+        "longitude": 120.379872
+      },
+      "tags": [],
+      "products": [
+        {
+          "name": "Curry Chicken Cutlet Rice",
+          "product_id": "S21127833086160390_P92752",
+          "store_id": "S14315522325445154_S83221",
+          "store_name": "Macau Chen Guangji Roast Restaurant (Mixc Mall Branch)",
+          "price": 39.8,
+          "tags": [],
+          "attributes": [],
+          "quantity": 9999
+        }
+      ]
+    },
+    "S13775710735560243_S84955": {
+      "name": "Yoshinoya (Qingdao Thumb Plaza Branch)",
+      "store_id": "S13775710735560243_S84955",
+      "score": 4.7,
+      "location": {
+        "address": "Yoshinoya (Zhengda·Thumb Plaza), Unit 3F-06B, No. 880 Tong'an Road, Laoshan District, Qingdao, Shandong Province",
+        "latitude": 36.109169,
+        "longitude": 120.447055
+      },
+      "tags": [
+        "Meituan City-wide Delivery"
+      ],
+      "products": [
+        {
+          "name": "Teriyaki Chicken Cutlet Rice",
+          "product_id": "S24296039473482990_P56809",
+          "store_id": "S13775710735560243_S84955",
+          "store_name": "Yoshinoya (Qingdao Thumb Plaza Branch)",
+          "price": 23,
+          "tags": [],
+          "attributes": [],
+          "quantity": 9999
+        }
+      ]
+    },
+    "S31859764226438728_S49684": {
+      "name": "Lv's Dumpling Soup (Taishan Road Branch)",
+      "store_id": "S31859764226438728_S49684",
+      "score": 4.7,
+      "location": {
+        "address": "Lv's Dumpling Soup (Taishan Road Branch), No. 34 Taishanli Cultural Street, No. 88 Taishan Road, Shibei District, Qingdao, Shandong Province",
+        "latitude": 36.083516,
+        "longitude": 120.336243
+      },
+      "tags": [],
+      "products": [
+        {
+          "name": "Qingdao Chuozi Meat",
+          "product_id": "S16276388208107319_P16467",
+          "store_id": "S31859764226438728_S49684",
+          "store_name": "Lv's Dumpling Soup (Taishan Road Branch)",
+          "price": 28,
+          "tags": [
+            "Authentic",
+            "Qingdao Specialty",
+            "Pork Belly"
+          ],
+          "attributes": [],
+          "quantity": 9999
+        }
+      ]
+    },
+    "S12853535338689251_S62527": {
+      "name": "Bridge Head Ribs (Xiaoyao Garden Branch)",
+      "store_id": "S12853535338689251_S62527",
+      "score": 4.9,
+      "location": {
+        "address": "No. 28 Xiaoyao Second Road, Jinmen Road Subdistrict, Shinan District, Qingdao, Shandong Province",
+        "latitude": 36.075313,
+        "longitude": 120.404347
+      },
+      "tags": [],
+      "products": [
+        {
+          "name": "Bridge Head Hand-held Treasure",
+          "product_id": "S24637398640241355_P64030",
+          "store_id": "S12853535338689251_S62527",
+          "store_name": "Bridge Head Ribs (Xiaoyao Garden Branch)",
+          "price": 26,
+          "tags": [],
+          "attributes": [],
+          "quantity": 9999
+        },
+        {
+          "name": "👍 Bridge Head Meat Strips",
+          "product_id": "S17351723449880868_P00132",
+          "store_id": "S12853535338689251_S62527",
+          "store_name": "Bridge Head Ribs (Xiaoyao Garden Branch)",
+          "price": 19,
+          "tags": [],
+          "attributes": [],
+          "quantity": 9999
+        }
+      ]
+    }
+  },
+  "orders": {}
+}

@@ -1,0 +1,449 @@
+{
+  "task_id": "A0806003",
+  "domain": "cross_domain",
+  "time": "2025-05-16 14:30:00",
+  "user_id": "U010015",
+  "weather": [
+    {
+      "city": "Changchun",
+      "category": "overcast",
+      "datetime": "2025-05-16",
+      "temperature": [
+        15,
+        22
+      ],
+      "humidity": 75
+    },
+    {
+      "city": "Changchun",
+      "category": "cloudy",
+      "datetime": "2025-05-17",
+      "temperature": [
+        16,
+        24
+      ],
+      "humidity": 65
+    }
+  ],
+  "location": [
+    {
+      "address": "People's Square, Nanguan District, Changchun City, Jilin Province",
+      "longitude": 125.3382,
+      "latitude": 43.881
+    }
+  ],
+  "user_profile": {
+    "user id": "U010015",
+    "occupation": "finance",
+    "gender": "male",
+    "age group": "25~30",
+    "residence": "Changchun",
+    "home address": "Evergrande Jade Mansion, East of Century Square and Jingyue Street Intersection (Next to Media College), Erdao District, Changchun City, Jilin Province",
+    "work address": "Fortune Plaza Tower A, 998 Liberation Avenue (330m from Pingyang Street Metro Station Exit B), Nanguan District, Changchun City, Jilin Province",
+    "dietary restrictions": "No High Purine (such as offal/seafood soup), No alcohol",
+    "family status": "Unknown",
+    "personality": "Emotionally volatile, expresses with strong emotional undertones"
+  },
+  "user_historical_behaviors": {
+    "user id": "U010015",
+    "occupation": "finance",
+    "gender": "male",
+    "age group": "25~30",
+    "residence": "Changchun",
+    "home address": "Evergrande Jade Mansion, East of Century Square and Jingyue Street Intersection (Next to Media College), Erdao District, Changchun City, Jilin Province",
+    "work address": "Fortune Plaza Tower A, 998 Liberation Avenue (330m from Pingyang Street Metro Station Exit B), Nanguan District, Changchun City, Jilin Province",
+    "delivery": {
+      "food delivery": {
+        "breakfast": {
+          "frequently purchased categories": [
+            "Quick meals/Baozi/Shengjianbao (Average 18 yuan)",
+            "Quick meals/Youtiao (Average 12 yuan)",
+            "Quick meals/Porridge (Average 15 yuan)"
+          ],
+          "cost per order": "10~25 yuan",
+          "preferred store rating": "4.2~4.8 points",
+          "preferred delivery time": "15~30 minutes",
+          "preferred distance": "0~2000m",
+          "recent orders": [
+            {
+              "store": "Yonghe Doujiang",
+              "product": "Plain soy milk + Xiaolongbao"
+            },
+            {
+              "store": "Jixiang Huntun",
+              "product": "Pork wonton + Youtiao"
+            },
+            {
+              "store": "Zhou Yujian Ni",
+              "product": "Century egg & lean pork porridge + Side dish"
+            }
+          ],
+          "search history": [
+            "Soy milk",
+            "Baozi",
+            "Porridge",
+            "Breakfast",
+            "Wonton",
+            "Quick breakfast"
+          ]
+        },
+        "weekday lunch/dinner": {
+          "frequently purchased categories": [
+            "Quick meals/Light food (Average 32 yuan)",
+            "Quick meals/Salad (Average 35 yuan)",
+            "Quick meals/Healthy meals (Average 40 yuan)"
+          ],
+          "cost per order": "25~45 yuan",
+          "preferred store rating": "4.3~4.7 points",
+          "preferred delivery time": "20~35 minutes",
+          "preferred distance": "0~3000m",
+          "recent orders": [
+            {
+              "store": "Light Food Concept",
+              "product": "Low-fat chicken breast salad"
+            },
+            {
+              "store": "Century Square Nutrition Restaurant",
+              "product": "Healthy set (Steamed fish + Vegetables)"
+            },
+            {
+              "store": "Vegetarian Family",
+              "product": "Five-grain rice + Seasonal vegetables"
+            }
+          ],
+          "search history": [
+            "Low-fat",
+            "Light food",
+            "Healthy meal",
+            "Nutritional meal",
+            "Salad",
+            "Fast food"
+          ]
+        },
+        "weekend lunch/dinner": {
+          "frequently purchased categories": [
+            "Chinese cuisine/Northeastern Cuisine (Average 85 yuan)",
+            "International cuisine/Korean cuisine (Average 90 yuan)",
+            "Chinese cuisine/Hunan cuisine (Average 75 yuan)"
+          ],
+          "cost per order": "60~120 yuan",
+          "preferred store rating": "4.5~4.9 points",
+          "preferred delivery time": "30~45 minutes",
+          "preferred distance": "0~5000m",
+          "recent orders": [
+            {
+              "store": "Jilin Flavor House",
+              "product": "Sweet and Sour Pork + Corn porridge + Assorted side dishes"
+            },
+            {
+              "store": "Seoul Small Restaurant",
+              "product": "Bibimbap + Kimchi soup"
+            },
+            {
+              "store": "Hunan Flavor Home",
+              "product": "Steamed fish head with chili + Stir-Fried Pork"
+            }
+          ],
+          "search history": [
+            "Northeastern Cuisine",
+            "Korean cuisine",
+            "Bibimbap",
+            "Authentic Hunan cuisine"
+          ]
+        },
+        "desserts/drinks/snacks": {
+          "frequently purchased categories": [
+            "Beverages & desserts/Pure tea/Herbal tea (Average 22 yuan)",
+            "Beverages & desserts/Fruit salad (Average 28 yuan)",
+            "Beverages & desserts/Cold desserts (Average 30 yuan)"
+          ],
+          "cost per order": "15~35 yuan",
+          "preferred store rating": "4.4~4.8 points",
+          "preferred delivery time": "15~30 minutes",
+          "preferred distance": "0~3000m",
+          "recent orders": [
+            {
+              "store": "Lemon Tea Shop",
+              "product": "Honey grapefruit tea"
+            },
+            {
+              "store": "Fresh Cut Fruits",
+              "product": "Seasonal fruit platter"
+            },
+            {
+              "store": "Ice Cream Workshop",
+              "product": "Low-sugar yogurt ice cream"
+            }
+          ],
+          "search history": [
+            "Fruit Tea",
+            "Fruit Tea",
+            "Low-sugar desserts",
+            "Fruit salad"
+          ]
+        },
+        "night snack": {
+          "frequently purchased categories": [
+            "Quick meals/Dumplings/Wonton (Average 32 yuan)",
+            "Hot pots/Clay pot porridge (Average 38 yuan)",
+            "Snacks & braised food/Braised items (Average 30 yuan)"
+          ],
+          "cost per order": "25~45 yuan",
+          "preferred store rating": "4.2~4.6 points",
+          "preferred delivery time": "25~40 minutes",
+          "preferred distance": "0~2500m",
+          "recent orders": [
+            {
+              "store": "Mom's Dumpling House",
+              "product": "Three delicacies dumplings + Side dish"
+            },
+            {
+              "store": "Small Pot Porridge Shop",
+              "product": "Century egg & pork porridge + Braised platter"
+            },
+            {
+              "store": "De Ji Braised Food",
+              "product": "Braised chicken feet + Braised tofu + Braised eggs"
+            }
+          ],
+          "search history": [
+            "Night snack dumplings",
+            "Small pot porridge",
+            "Stomach-friendly night snacks",
+            "Braised food"
+          ]
+        }
+      },
+      "product delivery": {
+        "frequently purchased categories": [
+          "Snacks (30%)",
+          "Beverages/Nutritional drinks (25%)",
+          "Office supplies (20%)",
+          "Household items (15%)",
+          "Others (10%)"
+        ],
+        "frequently visited stores": [
+          "RT-Mart Supermarket (45%)",
+          "FamilyMart (Nanling Store) (30%)",
+          "Lawson (Media University Store) (15%)",
+          "Other stores (10%)"
+        ],
+        "cost per order by category": {
+          "Snacks": "5~30 yuan",
+          "Beverages/Nutritional drinks": "3~15 yuan",
+          "Office supplies": "2~40 yuan",
+          "Household items": "5~125 yuan"
+        },
+        "preferred delivery time": "20~40 minutes",
+        "typical order time": "7-10 PM (40%), 2-4 PM (30%), 10 AM-12 PM (20%)",
+        "recent orders": [
+          {
+            "store": "RT-Mart Supermarket",
+            "product": "Car wash kit"
+          },
+          {
+            "store": "FamilyMart (Nanling Store)",
+            "product": "Coca-Cola 2L"
+          },
+          {
+            "store": "Lawson (Media University Store)",
+            "product": "Raw chocolate mochi cake"
+          }
+        ],
+        "search history": [
+          "Car wash",
+          "Mochi cake",
+          "Notebook",
+          "Tissue paper",
+          "Coke"
+        ]
+      }
+    },
+    "in-store consumption": {
+      "in-store dining": {
+        "fine-dining": {
+          "frequently purchased categories": [
+            "Regional cuisine/Northeastern Cuisine (Average 125 yuan)",
+            "International cuisine/Japanese cuisine (Average 150 yuan)",
+            "Regional cuisine/Fish dishes (Average 135 yuan)"
+          ],
+          "preferred average price per person": "120~160 yuan",
+          "preferred store rating": "4.2~4.8 stars",
+          "typical dining time": "7:00-9:00 PM",
+          "preferred distance": "0~3000m",
+          "recent orders": [
+            {
+              "store": "Hongbinlou (Nanguan Branch)",
+              "product": "Sweet and Sour Pork + Chicken with mushroom set"
+            },
+            {
+              "store": "Hanada Sushi (Zhuozhan Mall Branch)",
+              "product": "Salmon sashimi set"
+            },
+            {
+              "store": "Nine-turn Intestine (Jilin University South Campus Branch)",
+              "product": "Signature nine-turn intestine + BBQ platter"
+            }
+          ],
+          "search history": [
+            "Non-Alcoholic",
+            "Low Purine",
+            "Japanese cuisine",
+            "Northeastern Cuisine",
+            "High-end restaurant"
+          ]
+        },
+        "light meal": {
+          "frequently purchased categories": [
+            "Snacks & fast food/Chinese quick meals (Average 45 yuan)",
+            "Snacks & fast food/Western fast food (Average 35 yuan)"
+          ],
+          "preferred average price per person": "30~50 yuan",
+          "preferred store rating": "3.5~4.2 stars",
+          "typical dining time": "12:00-1:00 PM",
+          "preferred distance": "0~500m",
+          "recent orders": [
+            {
+              "store": "Shaxian Snacks (Changchun Street Branch)",
+              "product": "Three delicacies steamed dumplings + Ribs with rice"
+            },
+            {
+              "store": "Yonghe King (Huayi Times Branch)",
+              "product": "Mushroom chicken porridge + Side dish"
+            },
+            {
+              "store": "KFC (Changchun Street Branch)",
+              "product": "Sichuan pepper chicken burger set"
+            }
+          ],
+          "search history": [
+            "Fast food",
+            "Bento",
+            "Takeout",
+            "Porridge",
+            "Quick meal"
+          ]
+        },
+        "desserts/drinks/snacks": {
+          "frequently purchased categories": [
+            "Beverage shops (Average 20 yuan)",
+            "Bread & pastries (Average 28 yuan)"
+          ],
+          "preferred average price per person": "15~30 yuan",
+          "preferred store rating": "3.8~4.5 stars",
+          "typical dining time": "3:00-4:30 PM",
+          "preferred distance": "0~800m",
+          "recent orders": [
+            {
+              "store": "Starbucks (Huayi Times Branch)",
+              "product": "Americano"
+            },
+            {
+              "store": "The Alley (Zhuozhan Mall Branch)",
+              "product": "Milk tea ice cream"
+            },
+            {
+              "store": "Bread Talk (Nanguan Wanda Branch)",
+              "product": "Cheesecake + Low-sugar matcha"
+            }
+          ],
+          "search history": [
+            "Coffee",
+            "Sugar-free drinks",
+            "Healthy desserts",
+            "Afternoon tea"
+          ]
+        }
+      },
+      "other in-store services": {
+        "frequently consumed categories": {
+          "Sports & fitness/Fitness center": "40%",
+          "Sports & fitness/Sports venues": "30%",
+          "Leisure & entertainment/Massage/Foot therapy": "20%",
+          "Beauty/Yoga": "10%"
+        },
+        "cost per order by category": {
+          "Sports & fitness/Fitness center": "150~300 yuan",
+          "Sports & fitness/Sports venues": "80~120 yuan",
+          "Leisure & entertainment/Massage/Foot therapy": "180~250 yuan",
+          "Beauty/Yoga": "120~200 yuan"
+        },
+        "preferred store rating": "4.0~4.8 stars",
+        "preferred service time": "6:00-9:00 PM",
+        "preferred distance": "0~3000m",
+        "recent orders": [
+          {
+            "store": "Power Factory Fitness (Nanguan Branch)",
+            "product": "Single personal training session"
+          },
+          {
+            "store": "Foot Health Hall (Changchun Street Branch)",
+            "product": "Full body relaxation massage 90 minutes"
+          },
+          {
+            "store": "Jilin Province Stadium",
+            "product": "Tennis court 2 hours"
+          }
+        ],
+        "search history": [
+          "Fitness",
+          "Massage",
+          "Tennis court",
+          "Yoga",
+          "Personal trainer"
+        ]
+      }
+    },
+    "OTA": {
+      "visited scenes": {
+        "Exhibition halls (museums/art galleries)": "35%",
+        "Natural landscapes (mountains/lakes/forests)": "25%",
+        "Cultural heritage sites": "20%",
+        "Tourist attractions (mountain/coastal/ecological large scenic areas)": "15%",
+        "Theme parks": "5%"
+      },
+      "cost per night on hotel": "500~1000 yuan",
+      "visited hotels": {
+        "Atour": "30%",
+        "Vienna": "25%",
+        "Ji Hotel": "20%",
+        "Home Inn": "15%",
+        "Huazhu": "10%"
+      },
+      "browsed hotels": {
+        "Four-star hotels": "45%",
+        "Comfort hotels": "35%",
+        "Three-star hotels": "15%",
+        "Five-star hotels": "5%"
+      },
+      "historical travel plans": {
+        "Changchun-Beijing": {
+          "Price range": "800-1200 yuan",
+          "Transportation mode": "High-speed rail/EMU"
+        },
+        "Changchun-Shanghai": {
+          "Price range": "1500-2000 yuan",
+          "Transportation mode": "Airplane"
+        },
+        "Changchun-Harbin": {
+          "Price range": "150-250 yuan",
+          "Transportation mode": "High-speed rail/EMU"
+        },
+        "Changchun-Dalian": {
+          "Price range": "400-600 yuan",
+          "Transportation mode": "High-speed rail/EMU"
+        },
+        "Changchun-Changbai Mountain": {
+          "Price range": "300-500 yuan",
+          "Transportation mode": "Long-distance bus"
+        },
+        "Changchun-Shenyang": {
+          "Price range": "200-300 yuan",
+          "Transportation mode": "Self-driving"
+        }
+      }
+    }
+  },
+  "stores": {},
+  "orders": {}
+}

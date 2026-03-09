@@ -1,0 +1,1017 @@
+{
+  "task_id": "10812001",
+  "domain": "cross_domain",
+  "time": "2025-01-18 19:22:13",
+  "user_id": "U744020",
+  "weather": [
+    {
+      "city": "Chengdu",
+      "category": "sunny",
+      "datetime": "2025-01-18",
+      "temperature": [
+        5,
+        12
+      ],
+      "humidity": 65
+    },
+    {
+      "city": "Chengdu",
+      "category": "cloudy",
+      "datetime": "2025-01-19",
+      "temperature": [
+        4,
+        11
+      ],
+      "humidity": 68
+    },
+    {
+      "city": "Chongqing",
+      "category": "light rain",
+      "datetime": "2025-01-19",
+      "temperature": [
+        2,
+        8
+      ],
+      "humidity": 75
+    }
+  ],
+  "location": [
+    {
+      "address": "North Building, Sichuan Investment Tower, 112 Tiantai Road, Wuhou District, Chengdu, Sichuan Province",
+      "longitude": 104.06325,
+      "latitude": 30.58742
+    }
+  ],
+  "user_profile": {
+    "user id": "U744020",
+    "occupation": "Technical Staff",
+    "gender": "female",
+    "age group": "35~40",
+    "residence": "Chengdu",
+    "Permanent address": "Sanli Yunjin, inside Huilong Park, Middle Section of Rennan Extension Line, Shuangliu District, Chengdu, Sichuan Province",
+    "work address": "North Building, Sichuan Investment Tower, 112 Tiantai Road, Wuhou District, Chengdu, Sichuan Province",
+    "dietary restrictions": "Avoid high salt, avoid fried food",
+    "family status": "Has children",
+    "personality": "Scattered and jumpy thinking, easily distracted and prone to changing ideas"
+  },
+  "user_historical_behaviors": {
+    "user id": "U744020",
+    "occupation": "Technical Staff",
+    "gender": "female",
+    "age group": "35~40",
+    "residence": "Chengdu",
+    "Permanent address": "Sanli Yunjin, inside Huilong Park, Middle Section of Rennan Extension Line, Shuangliu District, Chengdu, Sichuan Province",
+    "work address": "North Building, Sichuan Investment Tower, 112 Tiantai Road, Wuhou District, Chengdu, Sichuan Province",
+    "food delivery": {
+      "Takeout food": {
+        "breakfast": {
+          "frequently purchased categories": [
+            "Quick Meals/Steamed Buns/Pan-fried Buns (Average 18 yuan)",
+            "Quick Meals/Fried Dough Sticks (Average 12 yuan)",
+            "Quick Meals/Porridge (Average 15 yuan)"
+          ],
+          "cost per order": "15~25 yuan",
+          "preferred store rating": "4.2~4.7 points",
+          "preferred delivery time": "15~25 minutes",
+          "preferred distance": "0~1500m",
+          "recent orders": [
+            {
+              "store": "Mr. Breakfast",
+              "product": "Eight Treasures Porridge + Meat Bun"
+            },
+            {
+              "store": "Yonghe Soybean Milk",
+              "product": "Fried Dough Stick and Soybean Milk Set"
+            },
+            {
+              "store": "Shandong Pancake King",
+              "product": "Original Jianbing Pancake"
+            }
+          ],
+          "search history": [
+            "Steamed buns",
+            "Soybean milk",
+            "Porridge",
+            "Pancake"
+          ]
+        },
+        "weekday lunch/dinner": {
+          "frequently purchased categories": [
+            "Quick Meals/Light Food (Average 35 yuan)",
+            "Quick Meals/Salad (Average 38 yuan)",
+            "Quick Meals/Healthy Meals (Average 45 yuan)"
+          ],
+          "cost per order": "30~50 yuan",
+          "preferred store rating": "4.3~4.8 points",
+          "preferred delivery time": "20~35 minutes",
+          "preferred distance": "0~2500m",
+          "recent orders": [
+            {
+              "store": "Light Food Salad Workshop",
+              "product": "Chicken Breast Vegetable Salad"
+            },
+            {
+              "store": "Healthy Food Era",
+              "product": "Steamed Chicken Breast with Brown Rice"
+            },
+            {
+              "store": "Fresh Vegetable Light Food",
+              "product": "Quinoa Chicken Salad"
+            }
+          ],
+          "search history": [
+            "Healthy meal",
+            "Salad",
+            "Light food",
+            "Low calorie"
+          ]
+        },
+        "weekend lunch/dinner": {
+          "frequently purchased categories": [
+            "Chinese Cuisine/Shandong Cuisine (Average 85 yuan)",
+            "Hot Pot & Stew/Clay Pot Porridge (Average 65 yuan)",
+            "International Cuisine/Korean Food (Average 90 yuan)"
+          ],
+          "cost per order": "60~120 yuan",
+          "preferred store rating": "4.5~4.9 points",
+          "preferred delivery time": "25~40 minutes",
+          "preferred distance": "0~3500m",
+          "recent orders": [
+            {
+              "store": "Authentic Shandong Cuisine Restaurant",
+              "product": "Braised Sea Cucumber with Green Onion + Sweet and Sour Carp"
+            },
+            {
+              "store": "Korean Cuisine Expert",
+              "product": "Stone Pot Bibimbap + Seafood Tofu Soup"
+            },
+            {
+              "store": "Clay Pot Porridge Collection",
+              "product": "Seafood Clay Pot Porridge + Assorted Side Dishes"
+            }
+          ],
+          "search history": [
+            "Shandong cuisine",
+            "Clay pot",
+            "Korean food",
+            "Family set meal"
+          ]
+        },
+        "desserts/drinks/snacks": {
+          "frequently purchased categories": [
+            "Drinks & Desserts/Juice (Average 22 yuan)",
+            "Drinks & Desserts/Fruit Salad (Average 32 yuan)",
+            "Drinks & Desserts/Chinese Pastry (Average 28 yuan)"
+          ],
+          "cost per order": "20~40 yuan",
+          "preferred store rating": "4.4~4.8 points",
+          "preferred delivery time": "15~30 minutes",
+          "preferred distance": "0~2000m",
+          "recent orders": [
+            {
+              "store": "Fresh Fruit Workshop",
+              "product": "Freshly Squeezed Watermelon Juice"
+            },
+            {
+              "store": "Sweet Time",
+              "product": "Signature Fruit Salad"
+            },
+            {
+              "store": "Pastry Heritage",
+              "product": "Osmanthus Cake (Low Sugar)"
+            }
+          ],
+          "search history": [
+            "Juice",
+            "Fruit salad",
+            "Pastry"
+          ]
+        },
+        "night snack": {
+          "frequently purchased categories": [
+            "Quick Meals/Rice Noodles/Rice Vermicelli (Average 28 yuan)",
+            "Quick Meals/Small Dishes/Small Portions (Average 35 yuan)"
+          ],
+          "cost per order": "25~40 yuan",
+          "preferred store rating": "4.0~4.6 points",
+          "preferred delivery time": "20~35 minutes",
+          "preferred distance": "0~2500m",
+          "recent orders": [
+            {
+              "store": "Yunnan Crossing Bridge Rice Noodles",
+              "product": "Light Chicken Soup Rice Noodles"
+            },
+            {
+              "store": "Small Dishes Restaurant",
+              "product": "Stir-fried Seasonal Vegetables Platter"
+            },
+            {
+              "store": "Health Porridge Shop",
+              "product": "Goji Berry Millet Porridge"
+            }
+          ],
+          "search history": [
+            "Rice noodles",
+            "Small dishes",
+            "Healthy porridge",
+            "Light taste"
+          ]
+        }
+      },
+      "product delivery": {
+        "frequently purchased categories": [
+          "Vegetables/Bean Products(32%)",
+          "Fruits(23%)",
+          "Maternal and Baby Products(18%)",
+          "Home Daily Necessities(15%)",
+          "Grains, Oils, Seasonings, and Dried Goods(8%)",
+          "Others(4%)"
+        ],
+        "frequently visited stores": [
+          "Fresh Life Supermarket(45%)",
+          "Yonghui Life Supermarket(28%)",
+          "Hema(15%)",
+          "Other Stores(12%)"
+        ],
+        "cost per order by category": {
+          "Vegetables/Bean Products": "5~25 yuan",
+          "Fruits": "10~40 yuan",
+          "Maternal and Baby Products": "30~120 yuan",
+          "Home Daily Necessities": "15~45 yuan",
+          "Grains, Oils, Seasonings, and Dried Goods": "8~30 yuan"
+        },
+        "preferred delivery time": "25~45 minutes",
+        "typical order time": "9~11AM(38%), 4~6PM(42%), 8~9PM(20%)",
+        "recent orders": [
+          {
+            "store": "Fresh Life Supermarket",
+            "product": "Organic Vegetables One Bag + Tofu 2 Boxes"
+          },
+          {
+            "store": "Yonghui Life Supermarket",
+            "product": "3 Apples + 1 Bunch of Bananas + Children's Toothpaste"
+          },
+          {
+            "store": "Fresh Life Supermarket",
+            "product": "Baby Wipes + Baby Shampoo"
+          }
+        ],
+        "search history": [
+          "Organic vegetables",
+          "Baby wipes",
+          "Tofu",
+          "Fresh fruit",
+          "Rice"
+        ]
+      }
+    },
+    "in-store consumption": {
+      "in-store dining": {
+        "fine-dining": {
+          "frequently purchased categories": [
+            "Regional Cuisine/Sichuan Cuisine (Average 95 yuan)",
+            "Regional Cuisine/Hunan Cuisine (Average 85 yuan)",
+            "Hot Pot (Average 120 yuan)"
+          ],
+          "preferred average price per person": "85~120 yuan",
+          "preferred store rating": "4.0~4.6 stars",
+          "typical dining time": "18:00-20:00",
+          "preferred distance": "1000~3000m",
+          "recent orders": [
+            {
+              "store": "Xiaolongkan Hot Pot (Hua Run Wucai City Branch)",
+              "product": "Set Menu for Four"
+            },
+            {
+              "store": "Chuanxi Bazi (Yintai City Branch)",
+              "product": "Boiled Fish + Twice-cooked Pork"
+            },
+            {
+              "store": "Xiangxi Country Cuisine",
+              "product": "Chopped Chili Fish Head + Farmer's Stir-fried Pork"
+            }
+          ],
+          "search history": [
+            "Non-spicy Sichuan cuisine",
+            "Kid-friendly hot pot",
+            "Low-salt dishes",
+            "Family gathering"
+          ]
+        },
+        "light meal": {
+          "frequently purchased categories": [
+            "Snacks & Fast Food/Chinese Quick Meals (Average 30 yuan)",
+            "Snacks & Fast Food/Western Fast Food (Average 25 yuan)",
+            "Regional Cuisine/Local Jiangsu-Zhejiang Cuisine (Average 40 yuan)"
+          ],
+          "preferred average price per person": "25~40 yuan",
+          "preferred store rating": "3.5~4.2 stars",
+          "typical dining time": "11:30-12:30",
+          "preferred distance": "0~500m",
+          "recent orders": [
+            {
+              "store": "Yonghe King (Zhonghe Branch)",
+              "product": "Mushroom Chicken Porridge + Side Dish"
+            },
+            {
+              "store": "Real Kung Fu (High-tech Branch)",
+              "product": "Secret Recipe Chicken Leg Rice"
+            },
+            {
+              "store": "Sha County Snacks (Zhonghe Branch)",
+              "product": "Three Delicacies Steamed Dumplings + Seaweed Soup"
+            }
+          ],
+          "search history": [
+            "Work meal",
+            "Fast food",
+            "Bento",
+            "Low-oil meals"
+          ]
+        },
+        "desserts/drinks/snacks": {
+          "frequently purchased categories": [
+            "Beverage Shops (Average 18 yuan)",
+            "Bread and Desserts (Average 25 yuan)",
+            "Other Dining/Fresh Fruits (Average 15 yuan)"
+          ],
+          "preferred average price per person": "15~25 yuan",
+          "preferred store rating": "3.8~4.5 stars",
+          "typical dining time": "15:00-16:30",
+          "preferred distance": "0~800m",
+          "recent orders": [
+            {
+              "store": "A Little Tea (Yuanda Branch)",
+              "product": "Pearl Milk Tea (Sugar-free)"
+            },
+            {
+              "store": "85°C (High-tech Branch)",
+              "product": "Whole Wheat Bread + Fruit Tea"
+            },
+            {
+              "store": "Fresh Fruit Time",
+              "product": "Fruit Platter"
+            }
+          ],
+          "search history": [
+            "Low-sugar milk tea",
+            "Healthy desserts",
+            "Children's fruit",
+            "Sugar-free drinks"
+          ]
+        }
+      },
+      "other in-store services": {
+        "frequently consumed categories": {
+          "Beauty/Hairdressing": "20%",
+          "Sports & Fitness/Fitness Centers": "35%",
+          "Leisure Entertainment/Massage/Foot Therapy": "15%",
+          "Parent-Child/Parent-Child Recreation": "30%"
+        },
+        "cost per order by category": {
+          "Beauty/Hairdressing": "80~150 yuan",
+          "Sports & Fitness/Fitness Centers": "50~200 yuan",
+          "Leisure Entertainment/Massage/Foot Therapy": "100~180 yuan",
+          "Parent-Child/Parent-Child Recreation": "120~250 yuan"
+        },
+        "preferred store rating": "4.0~4.8 stars",
+        "preferred service time": "Weekends 10:00-16:00",
+        "preferred distance": "0~5000m",
+        "recent orders": [
+          {
+            "store": "Wuhou District Ledong Fitness Center",
+            "product": "Monthly Fitness Package"
+          },
+          {
+            "store": "Qile Children's Playground (Hua Run Wucai City Branch)",
+            "product": "Parent-Child Ticket Package"
+          },
+          {
+            "store": "Zusheng Tang Foot Massage (High-tech Branch)",
+            "product": "Neck and Shoulder Relief Package"
+          }
+        ],
+        "search history": [
+          "Parent-child fitness",
+          "Children's recreation",
+          "Weekend stress relief",
+          "Women's fitness classes",
+          "Nearby foot massage"
+        ]
+      }
+    },
+    "OTA": {
+      "visited scenes": {
+        "Theme Parks": "35%",
+        "Zoos": "25%",
+        "Parks": "15%",
+        "Cultural and Historical Sites": "10%",
+        "Tourist Attractions (Mountains/Beaches/Ecological Large Scenic Areas)": "15%"
+      },
+      "cost per night on hotel": "300~500 yuan",
+      "visited hotels": {
+        "Home Inn": "30%",
+        "Hanting": "25%",
+        "7 Days Inn": "15%",
+        "Ji Hotel": "20%",
+        "Jinjiang Inn": "10%"
+      },
+      "browsed hotels": {
+        "Three-star Hotels": "35%",
+        "Budget Hotels": "45%",
+        "Comfort Hotels": "20%"
+      },
+      "historical travel plans": {
+        "Hefei-Shanghai": {
+          "Price range": "200-300 yuan",
+          "Transportation method": "High-speed Rail/Bullet Train"
+        },
+        "Hefei-Huangshan": {
+          "Price range": "150-250 yuan",
+          "Transportation method": "Long-distance Bus"
+        },
+        "Hefei-Beijing": {
+          "Price range": "500-800 yuan",
+          "Transportation method": "High-speed Rail/Bullet Train"
+        },
+        "Hefei-Guangzhou": {
+          "Price range": "700-1200 yuan",
+          "Transportation method": "Airplane"
+        },
+        "Hefei-Nanjing": {
+          "Price range": "100-200 yuan",
+          "Transportation method": "High-speed Rail/Bullet Train"
+        },
+        "Hefei-Qingdao": {
+          "Price range": "400-600 yuan",
+          "Transportation method": "High-speed Rail/Bullet Train"
+        },
+        "Hefei-Wuhu": {
+          "Price range": "50-100 yuan",
+          "Transportation method": "Long-distance Bus"
+        }
+      }
+    }
+  },
+  "stores": {
+    "S17550802118473175_S00001": {
+      "name": "Nuanxin Home Flagship Store",
+      "store_id": "S17550802118473175_S00001",
+      "score": 4.8,
+      "location": {
+        "address": "Nuanxin Home Flagship Store, E2 Zone, Global Center, 1700 North Tianfu Avenue, Wuhou District, Chengdu, Sichuan Province",
+        "latitude": 30.57021,
+        "longitude": 104.0668
+      },
+      "tags": [
+        "Home Furnishings",
+        "Bathrobe",
+        "Bath Towel",
+        "Thermal"
+      ],
+      "store_type": "target",
+      "products": [
+        {
+          "name": "Premium Thickened Coral Fleece Bathrobe",
+          "store_id": "S17550802118473175_S00001",
+          "store_name": "Nuanxin Home Flagship Store",
+          "price": 129.9,
+          "tags": [
+            "Thermal Bathrobe"
+          ],
+          "product_id": "S17550802118473175_P00001",
+          "attributes": [
+            "Color:Gray",
+            "Color:White",
+            "Color:Pink"
+          ],
+          "product_type": "target"
+        },
+        {
+          "name": "Light Luxury Hot Spring Thermal Bathrobe",
+          "store_id": "S17550802118473175_S00001",
+          "store_name": "Nuanxin Home Flagship Store",
+          "price": 159,
+          "tags": [
+            "Thermal Bathrobe",
+            "High-end"
+          ],
+          "product_id": "S17550802118473175_P00002",
+          "attributes": [
+            "Color:Beige",
+            "Color:Sky Blue",
+            "Color:Dark Gray"
+          ],
+          "product_type": "target"
+        },
+        {
+          "name": "Lightweight Pure Cotton Bathrobe",
+          "store_id": "S17550802118473175_S00001",
+          "store_name": "Nuanxin Home Flagship Store",
+          "price": 89.9,
+          "tags": [
+            "Bathrobe",
+            "Pure Cotton",
+            "Breathable",
+            "Comfortable"
+          ],
+          "product_id": "S17550802118473175_P00003",
+          "attributes": [
+            "Color:White",
+            "Color:Blue",
+            "Color:Pink"
+          ],
+          "product_type": "distraction"
+        },
+        {
+          "name": "Couple Thickened Bathrobe Set",
+          "store_id": "S17550802118473175_S00001",
+          "store_name": "Nuanxin Home Flagship Store",
+          "price": 259,
+          "tags": [
+            "Couple Set",
+            "Thickened",
+            "Thermal",
+            "Hot Spring Bathrobe"
+          ],
+          "product_id": "S17550802118473175_P00004",
+          "attributes": [
+            "Color:Gray-White",
+            "Color:Blue-White"
+          ],
+          "product_type": "distraction"
+        },
+        {
+          "name": "Ultra-soft Thickened Thermal Bathrobe",
+          "store_id": "S17550802118473175_S00001",
+          "store_name": "Nuanxin Home Flagship Store",
+          "price": 139,
+          "tags": [
+            "Thermal Bathrobe"
+          ],
+          "product_id": "S17550802118473175_P00005",
+          "attributes": [
+            "Color:Beige",
+            "Color:Light Gray",
+            "Color:Navy Blue"
+          ],
+          "product_type": "target"
+        }
+      ]
+    },
+    "S17550802118473175_S00002": {
+      "name": "Youpin Home Living Store",
+      "store_id": "S17550802118473175_S00002",
+      "score": 4.6,
+      "location": {
+        "address": "Youpin Home Living Store, 368 Tianfu 2nd Street, High-tech Zone, Wuhou District, Chengdu, Sichuan Province",
+        "latitude": 30.58142,
+        "longitude": 104.05987
+      },
+      "tags": [
+        "Home Furnishings",
+        "Bathrobe",
+        "Home Textiles"
+      ],
+      "store_type": "target",
+      "products": [
+        {
+          "name": "Comfortable Thermal Coral Fleece Bathrobe - Beige",
+          "store_id": "S17550802118473175_S00002",
+          "store_name": "Youpin Home Living Store",
+          "price": 129.9,
+          "tags": [
+            "Bathrobe",
+            "Coral Fleece",
+            "Thermal",
+            "Hot Spring Specific",
+            "Soft"
+          ],
+          "product_id": "S17550802118473175_P00006",
+          "attributes": [
+            "Size M",
+            "Size L",
+            "Size XL"
+          ],
+          "product_type": "target"
+        },
+        {
+          "name": "High-end Thickened Flannel Bathrobe - Navy Blue",
+          "store_id": "S17550802118473175_S00002",
+          "store_name": "Youpin Home Living Store",
+          "price": 159,
+          "tags": [
+            "Bathrobe",
+            "Flannel",
+            "Thickened",
+            "Thermal",
+            "Suitable for Hot Springs",
+            "Next-day Delivery"
+          ],
+          "product_id": "S17550802118473175_P00007",
+          "attributes": [
+            "Navy Blue",
+            "Size M",
+            "Size L",
+            "Size XL"
+          ],
+          "product_type": "target"
+        },
+        {
+          "name": "Light Luxury Couple Bathrobe Set - Pair Set",
+          "store_id": "S17550802118473175_S00002",
+          "store_name": "Youpin Home Living Store",
+          "price": 298,
+          "tags": [
+            "Bathrobe",
+            "Couple Style",
+            "Set",
+            "Thermal",
+            "Couple Set"
+          ],
+          "product_id": "S17550802118473175_P00008",
+          "attributes": [
+            "M+L",
+            "L+XL"
+          ],
+          "product_type": "distraction"
+        },
+        {
+          "name": "Lightweight Quick-dry Bathrobe - Sky Blue",
+          "store_id": "S17550802118473175_S00002",
+          "store_name": "Youpin Home Living Store",
+          "price": 89.9,
+          "tags": [
+            "Bathrobe",
+            "Lightweight",
+            "Quick-dry",
+            "Breathable"
+          ],
+          "product_id": "S17550802118473175_P00009",
+          "attributes": [
+            "Size M",
+            "Size L",
+            "Size XL"
+          ],
+          "product_type": "distraction"
+        },
+        {
+          "name": "Children's Cartoon Bathrobe - Little Dinosaur Style",
+          "store_id": "S17550802118473175_S00002",
+          "store_name": "Youpin Home Living Store",
+          "price": 99,
+          "tags": [
+            "Bathrobe",
+            "Children's Style",
+            "Cartoon",
+            "Thermal"
+          ],
+          "product_id": "S17550802118473175_P00010",
+          "attributes": [
+            "90cm",
+            "100cm",
+            "110cm",
+            "120cm"
+          ],
+          "product_type": "distraction"
+        }
+      ]
+    },
+    "S17550802118473175_S00004": {
+      "name": "Pure Cotton Era Official Flagship Store",
+      "store_id": "S17550802118473175_S00004",
+      "score": 4.9,
+      "location": {
+        "address": "Pure Cotton Era Official Flagship Store, IFS International Financial Center, No.1 Section 3, Hongxing Road, Jinjiang District, Chengdu, Sichuan Province",
+        "latitude": 30.65412,
+        "longitude": 104.08236
+      },
+      "tags": [
+        "Pure Cotton",
+        "Bathrobe",
+        "Home Textiles",
+        "Skin-friendly"
+      ],
+      "store_type": "target",
+      "products": [
+        {
+          "name": "Pure Cotton Thick Thermal Bathrobe - Winter Coral Fleece Style",
+          "store_id": "S17550802118473175_S00004",
+          "store_name": "Pure Cotton Era Official Flagship Store",
+          "price": 199,
+          "tags": [
+            "Thermal",
+            "Comfortable",
+            "Absorbent"
+          ],
+          "product_id": "S17550802118473175_P00016",
+          "attributes": [
+            "White",
+            "Gray"
+          ],
+          "product_type": "target"
+        },
+        {
+          "name": "Pure Cotton Absorbent Bathrobe - Lightweight Style",
+          "store_id": "S17550802118473175_S00004",
+          "store_name": "Pure Cotton Era Official Flagship Store",
+          "price": 159,
+          "tags": [],
+          "product_id": "S17550802118473175_P00017",
+          "attributes": [
+            "White",
+            "Blue",
+            "Pink"
+          ],
+          "product_type": "distraction"
+        },
+        {
+          "name": "Pure Cotton Era Skin-friendly Thermal Bathrobe - Premium Style",
+          "store_id": "S17550802118473175_S00004",
+          "store_name": "Pure Cotton Era Official Flagship Store",
+          "price": 259,
+          "tags": [],
+          "product_id": "S17550802118473175_P00018",
+          "attributes": [
+            "Beige",
+            "Dark Gray",
+            "Navy Blue"
+          ],
+          "product_type": "target"
+        },
+        {
+          "name": "Children's Pure Cotton Bathrobe",
+          "store_id": "S17550802118473175_S00004",
+          "store_name": "Pure Cotton Era Official Flagship Store",
+          "price": 129,
+          "tags": [
+            "Cartoon",
+            "Parent-Child",
+            "Absorbent",
+            "Thermal"
+          ],
+          "product_id": "S17550802118473175_P00019",
+          "attributes": [
+            "Little Dinosaur Pattern",
+            "Little Rabbit Pattern",
+            "Little Bear Pattern"
+          ],
+          "product_type": "distraction"
+        },
+        {
+          "name": "Couple Fleece-lined Thermal Bathrobe Set",
+          "store_id": "S17550802118473175_S00004",
+          "store_name": "Pure Cotton Era Official Flagship Store",
+          "price": 399,
+          "tags": [
+            "Luxury",
+            "Gift"
+          ],
+          "product_id": "S17550802118473175_P00020",
+          "attributes": [],
+          "product_type": "distraction"
+        }
+      ]
+    }
+  },
+  "orders": {
+    "S17550802118473175_O00001": {
+      "order_id": "S17550802118473175_O00001",
+      "order_type": "delivery",
+      "user_id": "U744020",
+      "store_id": "S17550802118473175_S00001",
+      "total_price": 139.0,
+      "create_time": "2025-01-15 12:30:45",
+      "status": "delivered",
+      "products": [
+        {
+          "product_id": "S17550802118473175_P00005",
+          "price": 139.0,
+          "quantity": 1
+        }
+      ]
+    },
+    "S17550802118473175_O00002": {
+      "order_id": "S17550802118473175_O00002",
+      "order_type": "delivery",
+      "user_id": "U744020",
+      "store_id": "S17550802118473175_S00004",
+      "total_price": 199.0,
+      "create_time": "2025-01-08 17:45:22",
+      "status": "delivered",
+      "products": [
+        {
+          "product_id": "S17550802118473175_P00016",
+          "price": 199.0,
+          "quantity": 1
+        }
+      ]
+    },
+    "S17550802118473175_O00003": {
+      "order_id": "S17550802118473175_O00003",
+      "order_type": "hotel",
+      "user_id": "U744020",
+      "store_id": "S17550802118473175_H00006",
+      "note": "Please prepare a quiet room, thank you",
+      "location": {
+        "address": "Tianci Hot Spring Resort Hotel inside Tianci Hot Spring Resort, Beibei District, Chongqing",
+        "longitude": 106.43762,
+        "latitude": 29.82531
+      },
+      "dispatch_time": "",
+      "shipping_time": 0.0,
+      "delivery_time": "",
+      "total_price": 498.0,
+      "create_time": "2024-12-15 09:22:13",
+      "update_time": "2024-12-15 09:22:13",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17550802118473175_P00026",
+          "price": 498.0,
+          "quantity": 1,
+          "date": "2024-12-20",
+          "room_type": "Deluxe King Room"
+        }
+      ]
+    },
+    "S17550802118473175_O00004": {
+      "order_id": "S17550802118473175_O00004",
+      "order_type": "train",
+      "user_id": "U744020",
+      "store_id": "S17550802118473175_T00015",
+      "note": "",
+      "location": {
+        "address": "Chengdu East Railway Station, No.1 North Section 1, 2nd Ring Road, Jinniu District, Chengdu, Sichuan Province",
+        "longitude": 104.10342,
+        "latitude": 30.63012
+      },
+      "dispatch_time": "",
+      "shipping_time": 0.0,
+      "delivery_time": "",
+      "total_price": 306.0,
+      "create_time": "2024-12-15 09:35:42",
+      "update_time": "2024-12-15 09:35:42",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17550802118473175_P00088",
+          "price": 153.0,
+          "quantity": 2,
+          "seat_type": "Second Class Seat"
+        }
+      ]
+    },
+    "S17550802118473175_O00005": {
+      "order_id": "S17550802118473175_O00005",
+      "order_type": "attraction",
+      "user_id": "U744020",
+      "store_id": "S17550802118473175_A00011",
+      "note": "",
+      "location": {
+        "address": "Tianci Hot Spring Resort, Beibei District, Chongqing",
+        "longitude": 106.43762,
+        "latitude": 29.82531
+      },
+      "dispatch_time": "",
+      "shipping_time": 0.0,
+      "delivery_time": "",
+      "total_price": 396.0,
+      "create_time": "2024-12-20 10:15:33",
+      "update_time": "2024-12-20 10:15:33",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17550802118473175_P00061",
+          "price": 198.0,
+          "quantity": 2,
+          "ticket_type": "Adult Ticket"
+        }
+      ]
+    },
+    "S17550802118473175_O00006": {
+      "order_id": "S17550802118473175_O00006",
+      "order_type": "train",
+      "user_id": "U744020",
+      "store_id": "S17550802118473175_T00017",
+      "note": "",
+      "location": {
+        "address": "Chongqing North Railway Station, Exit 3 of Shapingba Station, Shapingba District, Chongqing",
+        "longitude": 106.53142,
+        "latitude": 29.57362
+      },
+      "dispatch_time": "",
+      "shipping_time": 0.0,
+      "delivery_time": "",
+      "total_price": 314.0,
+      "create_time": "2024-12-21 09:45:22",
+      "update_time": "2024-12-21 09:45:22",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17550802118473175_P00102",
+          "price": 157.0,
+          "quantity": 2,
+          "seat_type": "Second Class Seat"
+        }
+      ]
+    },
+    "S17550802118473175_O00007": {
+      "order_id": "S17550802118473175_O00007",
+      "order_type": "hotel",
+      "user_id": "U744020",
+      "store_id": "S17550802118473175_H00009",
+      "note": "Hope to have a room with a view",
+      "location": {
+        "address": "Shanshui Hot Spring Hotel, 200 meters from Tianci Hot Spring Resort, Beibei District, Chongqing",
+        "longitude": 106.43942,
+        "latitude": 29.82481
+      },
+      "dispatch_time": "",
+      "shipping_time": 0.0,
+      "delivery_time": "",
+      "total_price": 458.0,
+      "create_time": "2025-01-05 14:22:13",
+      "update_time": "2025-01-05 14:22:13",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17550802118473175_P00051",
+          "price": 458.0,
+          "quantity": 1,
+          "date": "2025-01-10",
+          "room_type": "Deluxe King Room"
+        }
+      ]
+    },
+    "S17550802118473175_O00008": {
+      "order_id": "S17550802118473175_O00008",
+      "order_type": "attraction",
+      "user_id": "U744020",
+      "store_id": "S17550802118473175_A00011",
+      "note": "Hope to arrange a quiet hot spring pool",
+      "location": {
+        "address": "Tianci Hot Spring Resort, Beibei District, Chongqing",
+        "longitude": 106.43762,
+        "latitude": 29.82531
+      },
+      "dispatch_time": "",
+      "shipping_time": 0.0,
+      "delivery_time": "",
+      "total_price": 298.0,
+      "create_time": "2025-01-10 11:30:45",
+      "update_time": "2025-01-10 11:30:45",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17550802118473175_P00031",
+          "price": 298.0,
+          "quantity": 1,
+          "ticket_type": "Hot Spring + Wellness Massage Package"
+        }
+      ]
+    },
+    "S17550802118473175_O00009": {
+      "order_id": "S17550802118473175_O00009",
+      "order_type": "instore",
+      "user_id": "U744020",
+      "store_id": "Chuanxi Bazi",
+      "total_price": 186.0,
+      "create_time": "2024-12-22 19:15:22",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "Boiled fish",
+          "price": 98.0,
+          "quantity": 1
+        },
+        {
+          "product_id": "Twice-cooked pork",
+          "price": 68.0,
+          "quantity": 1
+        },
+        {
+          "product_id": "Rice",
+          "price": 5.0,
+          "quantity": 4
+        }
+      ]
+    },
+    "S17550802118473175_O00010": {
+      "order_id": "S17550802118473175_O00010",
+      "order_type": "instore",
+      "user_id": "U744020",
+      "store_id": "Xiaolongkan Hot Pot",
+      "total_price": 326.0,
+      "create_time": "2025-01-03 18:30:45",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "Set for four people",
+          "price": 326.0,
+          "quantity": 1
+        }
+      ]
+    }
+  }
+}

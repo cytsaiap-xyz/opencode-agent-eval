@@ -1,0 +1,116 @@
+{
+  "required_orders": [
+    {
+      "order_id": "10807006T001",
+      "order_type": "instore",
+      "user_id": "U010031",
+      "store_id": "S17550802130322823_I00014",
+      "note": "",
+      "location": null,
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 1680,
+      "create_time": "2025-06-21 19:17:45",
+      "update_time": "2025-06-21 19:17:45",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17550802130322823_P00073",
+          "name": "Traditional Kung Fu tea tasting (20-person large private room 4 hours)",
+          "price": 1680,
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "reservation_id": "8122671159_R00001",
+      "shop_id": "S17550802130322823_I00014",
+      "reservation_time": "2025-06-28 14:00:00",
+      "update_time": "2025-06-21 19:21:15",
+      "customer_id": "U010031",
+      "customer_count": 20,
+      "status": "unconsumed"
+    },
+    {
+      "order_id": "OT960844b251",
+      "order_type": "delivery",
+      "user_id": "U010031",
+      "store_id": "S17550802130322823_S00001",
+      "note": "Please write \"Happy retirement, Teacher\" on the card",
+      "location": {
+        "address": "Tea Tasting House, No.140 Minzu Avenue, Qingxiu District, Nanning City, Guangxi Zhuang Autonomous Region",
+        "longitude": 108.370852,
+        "latitude": 22.817625
+      },
+      "dispatch_time": "2025-06-28 15:00:00",
+      "shipping_time": 26,
+      "delivery_time": "2025-06-28 15:26:00",
+      "total_price": 698,
+      "create_time": "2025-06-21 19:25:51",
+      "update_time": "2025-06-21 19:25:51",
+      "status": "delivered",
+      "products": [
+        {
+          "product_id": "S17550802130322823_P00001 ",
+          "price": 698,
+          "quantity": 1,
+          "name": "Ink Fragrance Bamboo Rhythm Multi-layer Cake",
+          "store_id": "S17550802130322823_S00001",
+          "store_name": "Wheat Fragrance Cake House",
+          "attributes": "Low sugar formula",
+          "tags": [
+            "Matcha flavor",
+            "Dignified and elegant",
+            "Gathering",
+            "Low sugar",
+            "Serving for 24 people"
+          ]
+        }
+      ]
+    },
+    {
+      "order_id": "OO5338b5910e",
+      "order_type": "train",
+      "user_id": "U010031",
+      "store_id": "S17550802130322823_T00007",
+      "note": "",
+      "location": null,
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 600,
+      "create_time": "2025-06-21 19:17:45",
+      "update_time": "2025-06-21 19:17:45",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17550802130322823_P00036",
+          "price": 300,
+          "quantity": 2,
+          "date": "2025-06-29",
+          "seat_type": "Business class seat"
+        }
+      ]
+    }
+  ],
+  "rubrics": [
+    "The recommended tea house should be located near Nanning Mixc Mall, specifically within Nanning Mixc Mall or within 3km of it",
+    "The recommended tea house should have a large private room that can accommodate at least 20 people",
+    "The recommended tea house set should be suitable for 20 people",
+    "The recommended tea house set should include tea",
+    "The tea house reservation should be for Tea Tasting House",
+    "The tea house reservation date should be June 28, 2025 at 2pm",
+    "The tea house reservation should be for 20 people",
+    "The delivery product should be a multi-layer cake",
+    "The ordered cake should serve 20 people",
+    "The ordered cake style must be dignified and cozy",
+    "The ordered cake style cannot be longevity peach style",
+    "The ordered cake cannot be internet celebrity style",
+    "The cake delivery time should be June 28, 2025 between 3-4pm",
+    "The cake delivery location should be Tea Tasting House, No.140 Minzu Avenue, Qingxiu District, Nanning City, Guangxi Zhuang Autonomous Region",
+    "The total budget is 3000 yuan, the train ticket budget cannot exceed 3000 minus the cost of the tea house order minus the cost of the cake order, therefore the ordered train tickets should be business class seat",
+    "The train ticket order date should be the morning of June 29, 2025",
+    "The quantity of train tickets should be 2"
+  ]
+}

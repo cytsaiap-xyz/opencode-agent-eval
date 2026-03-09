@@ -1,0 +1,186 @@
+{
+  "task_id": "10826012",
+  "domain": "instore",
+  "time": "2025-05-09 07:30:00",
+  "user_id": "U216378",
+  "weather": [
+    {
+      "city": "Changsha",
+      "category": "cloudy",
+      "datetime": "2025-05-11",
+      "temperature": [
+        18,
+        26
+      ],
+      "humidity": 55
+    }
+  ],
+  "location": [
+    {
+      "address": "Room 1003, Building 1, Xiangyu Central, 235 Wuyi Avenue, Furong District, Changsha",
+      "longitude": 112.9834,
+      "latitude": 28.1941
+    },
+    {
+      "address": "1st Floor, Peaceful Department Store, 589 Xiangjiang Middle Road, Kaifu District, Changsha",
+      "longitude": 112.9793,
+      "latitude": 28.2274
+    }
+  ],
+  "user_profile": {
+    "user id": "U216378",
+    "occupation": "Cashier",
+    "gender": "female",
+    "age group": "25~30",
+    "residence": "Changsha",
+    "home address": "Room 1003, Building 1, Xiangyu Central, 235 Wuyi Avenue, Furong District, Changsha",
+    "work address": "1st Floor, Peaceful Department Store, 589 Xiangjiang Middle Road, Kaifu District, Changsha",
+    "dietary restrictions": "Avoid greasy spicy food, avoid high sugar",
+    "family status": "Has a child",
+    "personality": "Easily anxious and worried, needs repeated confirmation to feel at ease"
+  },
+  "user_historical_behaviors": {
+    "user id": "U216378",
+    "occupation": "Cashier",
+    "gender": "female",
+    "age group": "25~30",
+    "residence": "Changsha",
+    "home address": "Room 1003, Building 1, Xiangyu Central, 235 Wuyi Avenue, Furong District, Changsha",
+    "work address": "1st Floor, Peaceful Department Store, 589 Xiangjiang Middle Road, Kaifu District, Changsha",
+    "Dining Arrival": {
+      "fine-dining": {
+        "frequently purchased categories": [
+          "Local Cuisine/Hunan Cuisine (Average 120 yuan)",
+          "Local Cuisine/Fish Dishes (Average 135 yuan)",
+          "Foreign Cuisine/Japanese Food (Average 150 yuan)"
+        ],
+        "preferred average price per person": "100~150 yuan",
+        "preferred store rating": "4.0~4.7 stars",
+        "typical dining time": "18:30-20:30",
+        "preferred distance": "500~3000m",
+        "recent orders": [
+          {
+            "store": "Xiangjiang Fish Restaurant",
+            "product": "Chopped Chili Fish Head Set"
+          },
+          {
+            "store": "Flower Love Japanese Restaurant",
+            "product": "All-You-Can-Eat Sushi Set for Two"
+          },
+          {
+            "store": "Xiang Man Lou",
+            "product": "Homestyle Stir-fried Pork + Steamed Sea Bass"
+          }
+        ],
+        "search history": [
+          "Non-spicy and non-oily restaurants",
+          "Japanese cuisine",
+          "Family-friendly restaurants",
+          "Low-sugar dishes"
+        ]
+      },
+      "light meal": {
+        "frequently purchased categories": [
+          "Snacks & Fast Food/Chinese Quick Meals (Average 35 yuan)",
+          "Snacks & Fast Food/Western Fast Food (Average 30 yuan)",
+          "Local Cuisine/Sichuan Cuisine (Average 45 yuan)"
+        ],
+        "preferred average price per person": "25~50 yuan",
+        "preferred store rating": "3.5~4.3 stars",
+        "typical dining time": "11:30-13:00",
+        "preferred distance": "0~500m",
+        "recent orders": [
+          {
+            "store": "Yonghe King",
+            "product": "Three Delicacies Soybean Milk Set"
+          },
+          {
+            "store": "Light Food Workshop",
+            "product": "Low-fat Chicken Breast Salad"
+          },
+          {
+            "store": "Sichuan Flavor Kitchen",
+            "product": "Mildly Spicy Twice-Cooked Pork Rice"
+          }
+        ],
+        "search history": [
+          "Low-oil fast food",
+          "Healthy quick meals",
+          "Light food",
+          "Lunch specials"
+        ]
+      },
+      "desserts/drinks/snacks": {
+        "frequently purchased categories": [
+          "Beverage Shops (Average 18 yuan)",
+          "Bakery & Desserts (Average 25 yuan)",
+          "Other Food/Fresh Fruits (Average 15 yuan)"
+        ],
+        "preferred average price per person": "15~30 yuan",
+        "preferred store rating": "3.8~4.5 stars",
+        "typical dining time": "15:00-16:30",
+        "preferred distance": "0~300m",
+        "recent orders": [
+          {
+            "store": "Yidiandian",
+            "product": "Sugar-free Oolong Milk Tea"
+          },
+          {
+            "store": "Bali Sweet",
+            "product": "Low-sugar Red Velvet Cake"
+          },
+          {
+            "store": "Fresh Cut Fruit House",
+            "product": "Fruit Platter"
+          }
+        ],
+        "search history": [
+          "Sugar-free milk tea",
+          "Low-sugar desserts",
+          "Children's fruit juice",
+          "Healthy drinks"
+        ]
+      }
+    },
+    "other in-store services": {
+      "frequently consumed categories": {
+        "Beauty/Haircuts": "20%",
+        "Beauty/Yoga": "30%",
+        "Sports & Fitness/Fitness Centers": "15%",
+        "Parent-Child/Family Entertainment": "35%"
+      },
+      "cost per order by category": {
+        "Beauty/Haircuts": "120~200 yuan",
+        "Beauty/Yoga": "80~150 yuan/session",
+        "Sports & Fitness/Fitness Centers": "60~100 yuan/session",
+        "Parent-Child/Family Entertainment": "100~250 yuan"
+      },
+      "preferred store rating": "4.0~4.8 stars",
+      "preferred service time": "10:00-12:00, 17:00-19:00",
+      "preferred distance": "500~5000m",
+      "recent orders": [
+        {
+          "store": "Starlight Family Playground",
+          "product": "Weekend Family Package"
+        },
+        {
+          "store": "Harmony Yoga",
+          "product": "Single Yoga Class"
+        },
+        {
+          "store": "Kasi Hair Salon",
+          "product": "Wash, Cut & Blow-dry Package"
+        }
+      ],
+      "search history": [
+        "Parent-child activities",
+        "Children's playground",
+        "Stress-relief yoga",
+        "Mom fitness",
+        "Weekend family activities"
+      ]
+    }
+  },
+  "stores": {},
+  "orders": {}
+}

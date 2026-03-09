@@ -1,0 +1,112 @@
+{
+  "required_orders": [
+    {
+      "order_id": "OO65d5065306",
+      "order_type": "attraction",
+      "user_id": "U189297",
+      "store_id": "S17550810159889844_A00006",
+      "note": "",
+      "location": null,
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 130,
+      "create_time": "2026-04-09 10:19:21",
+      "update_time": "2026-04-09 10:19:21",
+      "status": "unpaid",
+      "products": [
+        {
+          "product_id": "S17550810159889844_P00030",
+          "price": 100,
+          "quantity": 1,
+          "date": "2026-04-11",
+          "ticket_type": "Two-person Ticket (Adults)"
+        },
+        {
+          "product_id": "S17550810159889844_P00029",
+          "price": 30,
+          "quantity": 1,
+          "date": "2026-04-11",
+          "ticket_type": "Child Ticket (Under 15)"
+        }
+      ]
+    },
+    {
+      "order_id": "OO1200b4838f",
+      "order_type": "hotel",
+      "user_id": "U189297",
+      "store_id": "S17550810159889844_H00004",
+      "note": "",
+      "location": null,
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 1936,
+      "create_time": "2026-04-09 10:22:00",
+      "update_time": "2026-04-09 10:22:00",
+      "status": "unpaid",
+      "products": [
+        {
+          "product_id": "S17550810159889844_P00018",
+          "price": 968,
+          "quantity": 2,
+          "date": "2026-04-11",
+          "room_type": "Canal View King Room"
+        }
+      ]
+    },
+    {
+      "order_id": "A0811009T002",
+      "order_type": "instore",
+      "user_id": "U189297",
+      "store_id": "S17550810159889844_I00015",
+      "note": "",
+      "location": null,
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 468,
+      "create_time": "2026-04-09 10:23:27",
+      "update_time": "2026-04-09 10:23:27",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17550810159889844_P00089",
+          "name": "Selected Seafood Set for 2-3 People",
+          "price": 468,
+          "shop_id": "S17550810159889844_I00015",
+          "tags": {},
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "book_id": "A0811009T001",
+      "shop_id": "S17550810159889844_I00015",
+      "book_time": "2026-04-11 18:30:00",
+      "update_time": "2026-04-09 10:21:45",
+      "customer_id": "U189297",
+      "customer_count": 3,
+      "book_price": 50,
+      "status": "paid"
+    }
+  ],
+  "rubrics": [
+    "The attraction booked should be Sui and Tang Grand Canal Cultural Museum",
+    "The date for the attraction tickets should be April 11, 2026",
+    "The ticket booking method chosen should be the cheapest option (Two-person Ticket 100 yuan + Child Ticket 30 yuan)",
+    "The hotel booked should be Five-star",
+    "The hotel room type should be King Room",
+    "The number of hotel rooms booked should be 2",
+    "The hotel should provide Deluxe Breakfast Buffet",
+    "The hotel should be within 500 meters of the Sui and Tang Grand Canal Cultural Museum",
+    "The check-in date for the hotel should be April 11, 2026",
+    "The restaurant should have a Quiet Environment",
+    "The items ordered at the restaurant should be Seafood",
+    "The price of items ordered at the restaurant should be less than 500 yuan (not including 500)",
+    "The restaurant order should be a set meal for 2-3 people, not multiple individual meals",
+    "The restaurant reservation should be at Huaibei Xianweixuan Seafood Restaurant",
+    "The restaurant reservation time should be April 11, 2026, 18:30:00",
+    "The number of people for the restaurant reservation should be 3"
+  ]
+}

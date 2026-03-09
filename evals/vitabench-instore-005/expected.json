@@ -1,0 +1,114 @@
+{
+  "required_orders": [
+    {
+      "order_id": "10826015T001",
+      "order_type": "instore",
+      "user_id": "U447523",
+      "store_id": "S17564420259995947_I00001",
+      "note": "",
+      "location": null,
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 98,
+      "create_time": "2025-05-02 17:25:41",
+      "update_time": "2025-05-02 17:25:41",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17564420259995947_P00001",
+          "name": "Badminton package for two (2 hours)",
+          "price": 98,
+          "shop_id": "S17564420259995947_I00001",
+          "tags": [
+            "Venue usage",
+            "Free equipment usage"
+          ],
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "reservation_id": "10826015T002",
+      "shop_id": "S17564420259995947_I00001",
+      "reservation_time": "2025-05-03 14:00:00",
+      "update_time": "2025-05-02 17:28:19",
+      "customer_id": "U447523",
+      "customer_count": 2,
+      "status": "unconsumed"
+    },
+    {
+      "order_id": "10826015T003",
+      "order_type": "instore",
+      "user_id": "U447523",
+      "store_id": "S17564420259995947_I00004",
+      "note": "",
+      "location": null,
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 118,
+      "create_time": "2025-04-19 19:20:15",
+      "update_time": "2025-05-02 17:30:22",
+      "status": "cancelled",
+      "products": [
+        {
+          "product_id": "S17564420259995947_P00015",
+          "name": "Dual flavor hotpot base + Tripe + Beef aorta + Fatty beef set for two",
+          "price": 118,
+          "shop_id": "S17564420259995947_I00004",
+          "tags": [
+            "Fresh",
+            "Crispy and tender",
+            "Classic"
+          ],
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "order_id": "10826015T004",
+      "order_type": "instore",
+      "user_id": "U447523",
+      "store_id": "S17564420259995947_I00004",
+      "note": "",
+      "location": null,
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 138,
+      "create_time": "2025-05-02 17:36:09",
+      "update_time": "2025-05-02 17:36:09",
+      "status": "unpaid",
+      "products": [
+        {
+          "product_id": "S17564420259995947_P00014",
+          "name": "Special hot pot set for two (Fatty beef + Duck tongues + Tripe + Beef liver + Various vegetables)",
+          "price": 138,
+          "shop_id": "S17564420259995947_I00004",
+          "tags": [
+            "Dual flavor",
+            "Sichuan flavor"
+          ],
+          "quantity": 1
+        }
+      ]
+    }
+  ],
+  "rubrics": [
+    "Must search for information about three types of sports venues: badminton halls, tennis courts, and table tennis halls, and select the one closest to the user's home",
+    "The package in the sports venue order should be usable for two people",
+    "The package in the sports venue order should include venue usage",
+    "The package in the sports venue order should include free equipment usage",
+    "The price of the package in the sports venue order should be consistent with the user's usual spending level (within the range of 60-100 yuan)",
+    "The package in the sports venue order should be for two hours",
+    "The reserved sports venue should be the one closest to the user's home",
+    "The reserved sports venue should be Yaohai District Sports Center Badminton Hall",
+    "The number of people for the sports venue reservation should be 2",
+    "The time for the sports venue reservation should be 14:00:00 on 2025-05-03",
+    "Check the hot pot set purchase in the historical orders to see if it includes duck tongues; the search shows it does not, and the status of this order is cancelled",
+    "The merchant for the newly purchased hot pot set should be Bashu General Hot Pot (Yaohai Branch)",
+    "The newly purchased hot pot set should include duck tongues",
+    "The newly purchased hot pot set should be a set for two people, not two single-person sets"
+  ]
+}

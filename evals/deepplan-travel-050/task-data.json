@@ -1,0 +1,47 @@
+{
+  "task_id": "49",
+  "query": "I'm planning to travel from Shanghai to Enshi on November 12, 2025, and return on the 15th. Could you please help me plan a detailed itinerary? I'd prefer an earlier departure time for the outbound flight—somewhere between 6:00 AM and 10:00 AM—so I can arrive early and have more time to explore. For accommodation, I don't have very high requirements; just find me a comfortable three-star hotel with a swimming pool—comfort is still important. By the way, I'm especially interested in visiting historical and cultural attractions in Enshi. I've heard some have particularly high ratings—please pick the one with the highest rating and include it in the itinerary. Also, I've heard that the local 'Canyon Flavor Restaurant' is quite special, and I'd like to try it once—could you arrange it for either lunch or dinner on one of the days? These are my main requirements. I think I've provided all the necessary information—please go ahead and prepare the full itinerary for me! November 12, 2025 is Wednesday",
+  "meta_info": {
+    "org": "Shanghai",
+    "dest": [
+      "Enshi"
+    ],
+    "days": 4,
+    "depart_date": "2025-11-12",
+    "return_date": "2025-11-15",
+    "people_number": 1,
+    "room_number": 1
+  },
+  "hard_constraints": {
+    "flight_departure_time_range": {
+      "constraint_context": "The departure flight must leave between 6:00 AM and 10:00 AM",
+      "outbound_flight_no": "9C8523"
+    },
+    "hotel_star_service_required": {
+      "constraint_context": "Please select a 3-star hotel that offers a swimming pool for accommodation.",
+      "constraint_type": "superlative_star_service_required",
+      "hotel_name": "Home Inn Business Travel (Gold Standard) - Enshi Tusi City Airport Branch",
+      "required_service": "Swimming Pool",
+      "hotel_star": 3,
+      "hotel_price": 143.0
+    },
+    "attraction_type_highest_rated": {
+      "constraint_context": "The itinerary must include the highest-rated attraction in the 'Historical and Cultural' category.",
+      "constraint_type": "superlative_type_highest_rated",
+      "attraction_names": [
+        "Lianzhu Tower"
+      ],
+      "attraction_type_cn": "历史文化",
+      "attraction_type": "Historical and Cultural",
+      "attraction_ratings": [
+        4.6
+      ]
+    },
+    "restaurant_must_eat_named": {
+      "constraint_context": "The itinerary must include one meal at the 'Grand Canyon Flavor Restaurant'.",
+      "constraint_type": "superlative_must_eat_named",
+      "restaurant_name": "Grand Canyon Flavor Restaurant",
+      "restaurant_rating": 4.0
+    }
+  }
+}

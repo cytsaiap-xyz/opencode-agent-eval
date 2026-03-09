@@ -1,0 +1,43 @@
+{
+  "task_id": "16",
+  "query": "I'm planning a day trip from Hangzhou to Shaoxing on November 12, 2025, and returning on November 13. Could you please help me plan a detailed itinerary? For transportation, I'd like to depart as early as possible—please pick the earliest direct train so I can arrive in Shaoxing early and have plenty of time to explore.\n\nRegarding accommodation, I don't have any special requirements—just good value for money. By the way, I'm used to staying at 'Home Inn' hotels. Please help me find the cheapest option they have; since I'll be traveling alone, just book one room.\n\nFor dining, there are two things I’d like to arrange. First, I want to have a meal near 'Bazhi Bridge', preferably at a restaurant that offers a waiting area service, so it's more convenient in case there’s a queue. Second, I’ve heard that 'Chengji Small Restaurant' is quite famous, and I definitely want to try it—please include a meal there in the plan.\n\nAs for attractions, please recommend some of Shaoxing’s classic highlights—I trust your judgment! That covers all my needs. I believe I've provided all necessary information, so please go ahead and prepare the full itinerary without asking for further details! November 12, 2025 is Wednesday",
+  "meta_info": {
+    "org": "Hangzhou",
+    "dest": [
+      "Shaoxing"
+    ],
+    "days": 2,
+    "depart_date": "2025-11-12",
+    "return_date": "2025-11-13",
+    "people_number": 1,
+    "room_number": 1
+  },
+  "hard_constraints": {
+    "train_earliest_departure_direct": {
+      "constraint_context": "For the outbound journey, please help me select the earliest departing direct train",
+      "constraint_type": "superlative_earliest_departure",
+      "outbound_train_no": "G7711"
+    },
+    "hotel_cheapest_brand": {
+      "constraint_context": "For accommodation, please select the cheapest hotel among the \"Home Inn\" brand",
+      "constraint_type": "superlative_cheapest_brand",
+      "hotel_name": "Home Inn - Shaoxing North Station, Paojiang New District Olympic Sports Center Branch",
+      "hotel_price": 108.0
+    },
+    "restaurant_specific_tag_nearby": {
+      "constraint_context": "Arrange a meal at a restaurant near 'Bazhi Bridge' during the trip, with a waiting area service required",
+      "constraint_type": "superlative_specific_tag_nearby",
+      "attraction_name": "Bazhi Bridge",
+      "restaurant_name": "Yuwei Cat Prince Grilled Fish Tavern (Shaoxing Shimao Branch)",
+      "required_tag": "Waiting Area",
+      "price_per_person": 41.0,
+      "restaurant_rating": 4.4
+    },
+    "restaurant_must_eat_named": {
+      "constraint_context": "The itinerary must include one meal at 'Chengji Small Restaurant'.",
+      "constraint_type": "superlative_must_eat_named",
+      "restaurant_name": "Chengji Small Restaurant",
+      "restaurant_rating": 4.0
+    }
+  }
+}

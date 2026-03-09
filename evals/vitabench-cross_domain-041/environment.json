@@ -1,0 +1,695 @@
+{
+  "task_id": "A0808008",
+  "domain": "cross_domain",
+  "time": "2025-04-03 12:35:00",
+  "user_id": "U073411",
+  "weather": [
+    {
+      "city": "Shaoxing",
+      "category": "sunny",
+      "datetime": "2025-04-03",
+      "temperature": [
+        16,
+        24
+      ],
+      "humidity": 65
+    }
+  ],
+  "location": [
+    {
+      "address": "Super Gorilla Gym, 4th Floor, Wanda Plaza, 365 East Shengli Road, Yuecheng District, Shaoxing, Zhejiang Province",
+      "longitude": 120.591234,
+      "latitude": 30.002468
+    }
+  ],
+  "user_profile": {
+    "user id": "U073411",
+    "occupation": "Fitness Coach",
+    "gender": "female",
+    "age group": "25~30",
+    "residence": "Shaoxing",
+    "home address": "Room 501, Unit 2, Building 3, Lvcheng Yuyuan Community, 128 Dongpu Road, Chengnan Street, Yuecheng District, Shaoxing, Zhejiang Province",
+    "work address": "Super Gorilla Gym, 4th Floor, Wanda Plaza, 365 East Shengli Road, Yuecheng District, Shaoxing, Zhejiang Province",
+    "dietary restrictions": "Avoids high sugar, Avoids fried foods",
+    "family status": "Lives alone",
+    "personality": "Impatient, frequently rushes things, lacks patience during processes"
+  },
+  "user_historical_behaviors": {
+    "user id": "U073411",
+    "occupation": "fitness coach",
+    "gender": "female",
+    "age group": "25~30",
+    "residence": "Shaoxing",
+    "home address": "Room 501, Unit 2, Building 3, Lvcheng Yuyuan Community, 128 Dongpu Road, Chengnan Street, Yuecheng District, Shaoxing, Zhejiang Province",
+    "work address": "Super Gorilla Gym, 4th Floor, Wanda Plaza, 365 East Shengli Road, Yuecheng District, Shaoxing, Zhejiang Province",
+    "delivery": {
+      "food delivery": {
+        "breakfast": {
+          "frequently purchased categories": [
+            "Quick meals/Light food (Average 35 yuan)",
+            "Quick meals/Salad (Average 32 yuan)",
+            "Quick meals/Healthy meals (Average 38 yuan)"
+          ],
+          "cost per order": "20~40 yuan",
+          "preferred store rating": "4.7~5.0 points",
+          "preferred delivery time": "15~25 minutes",
+          "preferred distance": "0~2000m",
+          "recent orders": [
+            {
+              "store": "Light Food Philosophy",
+              "product": "Vegetable Chicken Breast Light Food Bowl"
+            },
+            {
+              "store": "Salad Diary",
+              "product": "Avocado Chicken Breast Salad"
+            },
+            {
+              "store": "Good Morning Light Food",
+              "product": "Quinoa Chicken Breast Rice"
+            }
+          ],
+          "search history": [
+            "Healthy breakfast",
+            "Low-fat breakfast",
+            "Light food",
+            "Chicken breast",
+            "Quinoa"
+          ]
+        },
+        "weekday lunch/dinner": {
+          "frequently purchased categories": [
+            "Quick meals/Healthy meals (Average 45 yuan)",
+            "Quick meals/Salad (Average 40 yuan)",
+            "International cuisine/Japanese bento/Sushi (Average 52 yuan)"
+          ],
+          "cost per order": "35~60 yuan",
+          "preferred store rating": "4.5~5.0 points",
+          "preferred delivery time": "20~35 minutes",
+          "preferred distance": "0~3500m",
+          "recent orders": [
+            {
+              "store": "Light Food Select",
+              "product": "Black Pepper Beef Fitness Meal"
+            },
+            {
+              "store": "Japanese Bento House",
+              "product": "Low-fat Chicken Breast Bento"
+            },
+            {
+              "store": "Salad Workshop",
+              "product": "Grilled Chicken Salad"
+            }
+          ],
+          "search history": [
+            "Low-fat",
+            "High protein",
+            "Fitness meal",
+            "Chicken breast",
+            "Beef"
+          ]
+        },
+        "weekend lunch/dinner": {
+          "frequently purchased categories": [
+            "Chinese cuisine/Hunan cuisine (Average 65 yuan)",
+            "Chinese cuisine/Crayfish (No frying, Average 85 yuan)",
+            "International cuisine/Korean cuisine (Average 70 yuan)"
+          ],
+          "cost per order": "60~120 yuan",
+          "preferred store rating": "4.6~5.0 points",
+          "preferred delivery time": "30~45 minutes",
+          "preferred distance": "0~5000m",
+          "recent orders": [
+            {
+              "store": "Hunan Flavor House",
+              "product": "Steamed Fish + Lotus Leaf Steamed Rice"
+            },
+            {
+              "store": "Korean Food Notes",
+              "product": "Stone Pot Bibimbap + Kimchi Soup"
+            },
+            {
+              "store": "Jiangnan Small Kitchen",
+              "product": "Steamed Crayfish + Steamed Vegetables"
+            }
+          ],
+          "search history": [
+            "Steamed",
+            "Korean cuisine",
+            "No frying",
+            "Healthy Chinese food",
+            "Steamed dishes"
+          ]
+        },
+        "desserts/drinks/snacks": {
+          "frequently purchased categories": [
+            "Drinks and desserts/Pure tea/Herbal tea (Average 20 yuan)",
+            "Drinks and desserts/Fruit salad (Average 32 yuan)"
+          ],
+          "cost per order": "15~35 yuan",
+          "preferred store rating": "4.7~5.0 points",
+          "preferred delivery time": "15~30 minutes",
+          "preferred distance": "0~2500m",
+          "recent orders": [
+            {
+              "store": "Tea Yan Guan Se",
+              "product": "Sugar-free Green Tea"
+            },
+            {
+              "store": "Xian Feng Fruits",
+              "product": "Mixed Fruit Salad"
+            },
+            {
+              "store": "Yi Dian Dian",
+              "product": "Sugar-free Oolong Tea"
+            }
+          ],
+          "search history": [
+            "Sugar-free tea",
+            "Fruit salad",
+            "Low-sugar drinks",
+            "Fresh-cut fruits"
+          ]
+        },
+        "night snack": {
+          "frequently purchased categories": [
+            "Quick meals/Light food (Average 42 yuan)",
+            "Snacks and braised food/Braised dishes (Average 38 yuan)"
+          ],
+          "cost per order": "30~50 yuan",
+          "preferred store rating": "4.5~4.9 points",
+          "preferred delivery time": "20~35 minutes",
+          "preferred distance": "0~3000m",
+          "recent orders": [
+            {
+              "store": "Night Light Food Station",
+              "product": "Low-fat Chicken Breast Salad"
+            },
+            {
+              "store": "Braised Food Legend",
+              "product": "Braised Chicken Breast (No oil)"
+            },
+            {
+              "store": "Night Light Food",
+              "product": "Steamed Protein Meal"
+            }
+          ],
+          "search history": [
+            "Low-fat night snack",
+            "Protein",
+            "Healthy braised food",
+            "Oil-free fried night snack"
+          ]
+        }
+      },
+      "product delivery": {
+        "frequently purchased categories": [
+          "Vegetables/Bean products(30%)",
+          "Fruits(20%)",
+          "Sports and outdoors(15%)",
+          "Beverages/Nutritional supplements(15%)",
+          "Raw meat/Raw poultry/Raw eggs(12%)",
+          "Others(8%)"
+        ],
+        "frequently visited stores": [
+          "Hema Fresh(35%)",
+          "Yonghui Supermarket(25%)",
+          "Suzhou Area Fresh Food Supermarket(20%)",
+          "7-11 Convenience Store(15%)",
+          "Other stores(5%)"
+        ],
+        "cost per order by category": {
+          "Vegetables/Bean products": "5~25 yuan",
+          "Fruits": "10~40 yuan",
+          "Sports and outdoors": "50~200 yuan",
+          "Beverages/Nutritional supplements": "20~120 yuan",
+          "Raw meat/Raw poultry/Raw eggs": "20~60 yuan"
+        },
+        "preferred delivery time": "30~60 minutes",
+        "typical order time": "7~9 am(30%), 16~18 pm(35%), 21~22 pm(25%)",
+        "recent orders": [
+          {
+            "store": "Hema Fresh",
+            "product": "Broccoli 300g, Chicken breast 500g, Avocado 2 pieces"
+          },
+          {
+            "store": "Yonghui Supermarket",
+            "product": "Protein powder, Sugar-free oatmeal, Grapefruit 2 pieces"
+          },
+          {
+            "store": "7-11 Convenience Store",
+            "product": "Sugar-free mineral water, Ready-to-eat chicken breast"
+          }
+        ],
+        "search history": [
+          "Protein powder",
+          "Chicken breast",
+          "Broccoli",
+          "Avocado",
+          "Sugar-free oatmeal",
+          "Fitness food"
+        ]
+      }
+    },
+    "in-store consumption": {
+      "in-store dining": {
+        "fine-dining": {
+          "frequently consumed categories": [
+            "International cuisine/Western food (Average 120 yuan)",
+            "Regional cuisine/Jiangsu and Zhejiang Cuisine (Average 95 yuan)",
+            "Regional cuisine/Fish (Average 110 yuan)"
+          ],
+          "preferred average price per person": "90~130 yuan",
+          "preferred store rating": "4.2~4.8 stars",
+          "typical dining time": "19:00-21:00",
+          "preferred distance": "0~3000m",
+          "recent orders": [
+            {
+              "store": "Green Lawn Western Restaurant",
+              "product": "Low-fat Steak Set Menu"
+            },
+            {
+              "store": "Jiangnan Small Kitchen",
+              "product": "Steamed Bass"
+            },
+            {
+              "store": "Authentic Jiangsu and Zhejiang Cuisine",
+              "product": "West Lake Vinegar Fish"
+            }
+          ],
+          "search history": [
+            "Healthy Western food",
+            "Low-fat Steak",
+            "Steamed fish",
+            "Jiangsu and Zhejiang Cuisine"
+          ]
+        },
+        "light meal": {
+          "frequently consumed categories": [
+            "Snacks and fast food/Chinese quick meals (Average 35 yuan)",
+            "Snacks and fast food/Western fast food (Average 42 yuan)",
+            "Other dining/Fresh fruits (Average 25 yuan)"
+          ],
+          "preferred average price per person": "25~45 yuan",
+          "preferred store rating": "3.5~4.3 stars",
+          "typical dining time": "12:00-13:30",
+          "preferred distance": "0~500m",
+          "recent orders": [
+            {
+              "store": "Light Food Salad",
+              "product": "Chicken Breast Vegetable Salad"
+            },
+            {
+              "store": "Boiled Fish Light Food",
+              "product": "Low-fat Boiled Fish Set"
+            },
+            {
+              "store": "Fresh Cut Fruit Hub",
+              "product": "Mixed Fruit Box"
+            }
+          ],
+          "search history": [
+            "Light food",
+            "Low-fat meal",
+            "Healthy fast food",
+            "Salad"
+          ]
+        },
+        "desserts/drinks/snacks": {
+          "frequently consumed categories": [
+            "Beverage shops (Average 18 yuan)",
+            "Bread and desserts (Average 22 yuan)"
+          ],
+          "preferred average price per person": "15~25 yuan",
+          "preferred store rating": "4.0~4.5 stars",
+          "typical dining time": "15:30-17:00",
+          "preferred distance": "0~300m",
+          "recent orders": [
+            {
+              "store": "The Alley",
+              "product": "Sugar-free Matcha Latte"
+            },
+            {
+              "store": "Starbucks",
+              "product": "Americano"
+            },
+            {
+              "store": "Whole Wheat Workshop",
+              "product": "Sugar-free Whole Wheat Bread"
+            }
+          ],
+          "search history": [
+            "Sugar-free drinks",
+            "Low-calorie desserts",
+            "Healthy tea drinks",
+            "Whole wheat bread"
+          ]
+        }
+      },
+      "other in-store services": {
+        "frequently consumed categories": {
+          "Sports and fitness/Fitness center": "65%",
+          "Beauty/Yoga": "20%",
+          "Leisure and entertainment/Massage/Foot massage": "10%",
+          "Beauty/Manicure": "5%"
+        },
+        "cost per order by category": {
+          "Sports and fitness/Fitness center": "100~300 yuan",
+          "Beauty/Yoga": "80~150 yuan",
+          "Leisure and entertainment/Massage/Foot massage": "120~200 yuan",
+          "Beauty/Manicure": "80~150 yuan"
+        },
+        "preferred store rating": "4.0~4.8 stars",
+        "preferred service time": "17:00-21:00",
+        "preferred distance": "0~5000m",
+        "recent orders": [
+          {
+            "store": "Super Gorilla Fitness",
+            "product": "Personal Training Course"
+          },
+          {
+            "store": "Joyful Heart Yoga",
+            "product": "Hot Yoga Class"
+          },
+          {
+            "store": "Foot Blessing Hall",
+            "product": "Sports Relaxation Massage"
+          }
+        ],
+        "search history": [
+          "Gym",
+          "Personal training course",
+          "Yoga",
+          "Sports massage",
+          "Fitness equipment"
+        ]
+      }
+    },
+    "OTA": {
+      "visited scenes": {
+        "Natural landscapes (Mountains/Lakes/Forests)": "35%",
+        "Hot spring scenic areas": "25%",
+        "Cultural and historical sites": "20%",
+        "Exhibition halls (Museums/Art galleries)": "15%",
+        "Parks": "5%"
+      },
+      "cost per night on hotel": "500~1000 yuan",
+      "visited hotels": {
+        "Atour": "40%",
+        "JI Hotel": "25%",
+        "Orange Hotel": "20%",
+        "Vienna Hotel": "15%"
+      },
+      "browsed hotels": {
+        "Four-star hotels": "45%",
+        "Comfort hotels": "35%",
+        "Three-star hotels": "15%",
+        "Luxury hotels": "5%"
+      },
+      "historical travel plans": {
+        "Shaoxing-Hangzhou": {
+          "Price range": "50-100 yuan",
+          "Transportation method": "High-speed rail/EMU train"
+        },
+        "Shaoxing-Shanghai": {
+          "Price range": "100-200 yuan",
+          "Transportation method": "High-speed rail/EMU train"
+        },
+        "Shaoxing-Huangshan": {
+          "Price range": "300-500 yuan",
+          "Transportation method": "Long-distance bus"
+        },
+        "Shaoxing-Sanya": {
+          "Price range": "1500-2500 yuan",
+          "Transportation method": "Airplane"
+        },
+        "Shanghai-Shaoxing": {
+          "Price range": "100-200 yuan",
+          "Transportation method": "High-speed rail/EMU train"
+        },
+        "Hangzhou-Shaoxing": {
+          "Price range": "50-100 yuan",
+          "Transportation method": "High-speed rail/EMU train"
+        }
+      }
+    }
+  },
+  "stores": {
+    "S17550858752569984_S00001": {
+      "name": "Huayang Flower Shop",
+      "store_id": "S17550858752569984_S00001",
+      "score": 4.8,
+      "location": {
+        "address": "Huayang Flower Shop, 258 East Shengli Road, Yuecheng District, Shaoxing, Zhejiang Province",
+        "latitude": 29.9992,
+        "longitude": 120.5811
+      },
+      "tags": [
+        "Fresh Flowers",
+        "Gift",
+        "Fast Delivery",
+        "Highly Rated"
+      ],
+      "store_type": "target",
+      "products": [
+        {
+          "name": "Sunshine Sunflower Bouquet",
+          "store_id": "S17550858752569984_S00001",
+          "store_name": "Huayang Flower Shop",
+          "price": 128,
+          "tags": [
+            "Sunflower",
+            "Bouquet",
+            "Confession",
+            "Romantic",
+            "Birthday",
+            "Pure Sunflower"
+          ],
+          "product_id": "S17550858752569984_P00001",
+          "attributes": [
+            "7 flowers",
+            "11 flowers",
+            "19 flowers",
+            "Elegant packaging"
+          ],
+          "product_type": "target"
+        },
+        {
+          "name": "Classic Red Rose Bouquet",
+          "store_id": "S17550858752569984_S00001",
+          "store_name": "Huayang Flower Shop",
+          "price": 99,
+          "tags": [
+            "Rose",
+            "Red Rose",
+            "Confession",
+            "Romantic",
+            "Valentine's Day",
+            "Birthday"
+          ],
+          "product_id": "S17550858752569984_P00003",
+          "attributes": [
+            "11 flowers",
+            "19 flowers",
+            "33 flowers",
+            "Elegant packaging",
+            "Greeting card message"
+          ],
+          "product_type": "distraction"
+        },
+        {
+          "name": "Special Customized Floral Message Card",
+          "store_id": "S17550858752569984_S00001",
+          "store_name": "Huayang Flower Shop",
+          "price": 15,
+          "tags": [
+            "Greeting Card",
+            "Customized",
+            "Confession",
+            "Confession",
+            "Romantic",
+            "Handwritten"
+          ],
+          "product_id": "S17550858752569984_P00005",
+          "attributes": [
+            "Standard style",
+            "Deluxe style",
+            "Handwriting service"
+          ],
+          "product_type": "target"
+        }
+      ]
+    },
+    "S17550858752569984_S00002": {
+      "name": "Rose Rendezvous Flower Shop",
+      "store_id": "S17550858752569984_S00002",
+      "score": 4.5,
+      "location": {
+        "address": "Rose Rendezvous Flower Shop, 112 South Jiefang Road, Yuecheng District, Shaoxing, Zhejiang Province",
+        "latitude": 30.0056,
+        "longitude": 120.5902
+      },
+      "tags": [
+        "Fresh Flowers",
+        "Gift",
+        "Rose Specialty Store"
+      ],
+      "store_type": "distraction",
+      "products": [
+        {
+          "name": "Classic Red Rose Bouquet (11 Roses)",
+          "store_id": "S17550858752569984_S00002",
+          "store_name": "Rose Rendezvous Flower Shop",
+          "price": 158,
+          "tags": [
+            "Red Rose",
+            "Classic Style",
+            "Confession",
+            "Love"
+          ],
+          "product_id": "S17550858752569984_P00006",
+          "attributes": [
+            "Includes card",
+            "Elegant packaging"
+          ],
+          "product_type": "distraction"
+        },
+        {
+          "name": "Mixed Flower Gift Box (Roses + Lilies)",
+          "store_id": "S17550858752569984_S00002",
+          "store_name": "Rose Rendezvous Flower Shop",
+          "price": 258,
+          "tags": [
+            "Mixed Bouquet",
+            "High-end",
+            "Gift Box Package",
+            "Rose",
+            "Lily"
+          ],
+          "product_id": "S17550858752569984_P00008",
+          "attributes": [
+            "Includes card",
+            "Elegant gift box"
+          ],
+          "product_type": "distraction"
+        },
+        {
+          "name": "Teddy Bear and Rose Gift Box",
+          "store_id": "S17550858752569984_S00002",
+          "store_name": "Rose Rendezvous Flower Shop",
+          "price": 298,
+          "tags": [
+            "Gift Box",
+            "Rose",
+            "Teddy Bear",
+            "Confession",
+            "Romantic"
+          ],
+          "product_id": "S17550858752569984_P00009",
+          "attributes": [
+            "Includes teddy bear",
+            "Elegant gift box"
+          ],
+          "product_type": "distraction"
+        },
+        {
+          "name": "Sunflower and Rose Bouquet (5 Roses)",
+          "store_id": "S17550858752569984_S00002",
+          "store_name": "Rose Rendezvous Flower Shop",
+          "price": 128,
+          "tags": [
+            "Sunflower",
+            "Confession",
+            "One-day Advance Reservation Required",
+            "Small Bouquet"
+          ],
+          "product_id": "S17550858752569984_P00010",
+          "attributes": [
+            "Includes card",
+            "Elegant packaging"
+          ],
+          "product_type": "distraction"
+        }
+      ]
+    },
+    "S17550858752569984_S00003": {
+      "name": "Aishang Flower Shop",
+      "store_id": "S17550858752569984_S00003",
+      "score": 4.3,
+      "location": {
+        "address": "Aishang Flower Shop, 480 East Shengli Road, Yuecheng District, Shaoxing, Zhejiang Province",
+        "latitude": 29.9975,
+        "longitude": 120.5867
+      },
+      "tags": [
+        "Fresh Flowers",
+        "Gift",
+        "Wedding Celebration"
+      ],
+      "store_type": "distraction",
+      "products": [
+        {
+          "name": "Red Rose Bouquet",
+          "store_id": "S17550858752569984_S00003",
+          "store_name": "Aishang Flower Shop",
+          "price": 159,
+          "tags": [
+            "Rose",
+            "Red Rose",
+            "Confession",
+            "Bouquet",
+            "Romantic"
+          ],
+          "product_id": "S17550858752569984_P00013",
+          "attributes": [
+            "11 flowers",
+            "Elegant packaging",
+            "Free greeting card"
+          ],
+          "product_type": "distraction"
+        },
+        {
+          "name": "Mixed Bouquet - Sunflowers and White Roses",
+          "store_id": "S17550858752569984_S00003",
+          "store_name": "Aishang Flower Shop",
+          "price": 188,
+          "tags": [
+            "Sunflower",
+            "White Rose",
+            "Mixed Bouquet",
+            "Confession",
+            "Romantic"
+          ],
+          "product_id": "S17550858752569984_P00014",
+          "attributes": [
+            "5 sunflowers",
+            "8 white roses",
+            "Elegant packaging",
+            "Free greeting card"
+          ],
+          "product_type": "distraction"
+        },
+        {
+          "name": "Mini Sunflower Potted Plant",
+          "store_id": "S17550858752569984_S00003",
+          "store_name": "Aishang Flower Shop",
+          "price": 88,
+          "tags": [
+            "Sunflower",
+            "Potted Plant",
+            "Small",
+            "Present",
+            "Kalanchoe"
+          ],
+          "product_id": "S17550858752569984_P00015",
+          "attributes": [
+            "3 flowers",
+            "Ceramic pot",
+            "Care instructions included"
+          ],
+          "product_type": "distraction"
+        }
+      ]
+    }
+  },
+  "orders": {}
+}

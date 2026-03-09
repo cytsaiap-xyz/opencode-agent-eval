@@ -1,0 +1,44 @@
+{
+  "task_id": "60",
+  "query": "I'm planning a trip from Hefei to Nanjing in 2025, departing on November 12 and returning on November 16. Could you help me plan the entire itinerary, including transportation, accommodation, meals, and attractions?\n\nI'd like to take a train to Nanjing, preferably one departing between 7:00 AM and 11:00 AM, so I can start sightseeing right after arrival. For accommodation, I don't have high requirements—just a three-star hotel is fine—but please pick the one with the highest rating. Staying somewhere comfortable will definitely improve the overall experience.\n\nFor dining, I’d like two special arrangements. I've heard there are many great food options near 'Nanjing Confucius Temple'—could you recommend a restaurant closest to that area for one meal? Also, 'Lion Bridge Pedestrian Street' seems quite famous; please find the highest-rated restaurant nearby and include it so I can try some authentic local flavors.\n\nThat covers my main requests. I believe I’ve provided all necessary information, so please go ahead and create a complete itinerary for me without asking for further details. Thank you! November 12, 2025 is Wednesday",
+  "meta_info": {
+    "org": "Hefei",
+    "dest": [
+      "Nanjing"
+    ],
+    "days": 5,
+    "depart_date": "2025-11-12",
+    "return_date": "2025-11-16",
+    "people_number": 1,
+    "room_number": 1
+  },
+  "hard_constraints": {
+    "train_departure_time_range": {
+      "constraint_context": "The departure train must leave between 7:00 AM and 11:00 AM.",
+      "outbound_train_no": "G7262"
+    },
+    "hotel_star_highest_rated": {
+      "constraint_context": "For accommodation, please select the highest-rated hotel among 3-star hotels.",
+      "constraint_type": "superlative_star_highest_rated",
+      "hotel_name": "Ji Hotel (Nanjing Pharmaceutical Valley Longtai Road)",
+      "hotel_star": 3,
+      "hotel_price": 339.0,
+      "hotel_score": 5.0
+    },
+    "restaurant_closest_to_attraction": {
+      "constraint_context": "During the trip, please arrange a meal at the restaurant closest to 'Nanjing Confucius Temple'.",
+      "constraint_type": "superlative_closest_to_attraction",
+      "attraction_name": "Nanjing Confucius Temple",
+      "restaurant_name": "Wanquinglou Gourmet Pavilion",
+      "price_per_person": 100.0
+    },
+    "restaurant_highest_rated": {
+      "constraint_context": "Please arrange a meal at the highest-rated restaurant near 'Lion Bridge Pedestrian Street' during the trip.",
+      "constraint_type": "superlative_highest_rated_restaurant",
+      "attraction_name": "Lion Bridge Pedestrian Street",
+      "restaurant_name": "Songlan · Yakitori Tavern (Yunnan North Road Branch)",
+      "price_per_person": 109.0,
+      "restaurant_rating": 4.8
+    }
+  }
+}

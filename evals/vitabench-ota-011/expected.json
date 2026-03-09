@@ -1,0 +1,95 @@
+{
+  "required_orders": [
+    {
+      "order_id": "A0812009T001",
+      "order_type": "train",
+      "user_id": "U622612",
+      "store_id": "S17557505469336597_T00011",
+      "note": "",
+      "location": null,
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 553,
+      "create_time": "2025-03-19 15:18:33",
+      "update_time": "2025-03-19 15:18:33",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17557505469336597_P00057",
+          "price": 553,
+          "quantity": 1,
+          "date": "2025-03-23",
+          "seat_type": "Second class seat"
+        }
+      ]
+    },
+    {
+      "order_id": "A0812009T002",
+      "order_type": "hotel",
+      "user_id": "U622612",
+      "store_id": "S17557505469336597_H00001",
+      "note": "",
+      "location": null,
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 898,
+      "create_time": "2025-03-19 15:21:13",
+      "update_time": "2025-03-19 15:21:13",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17557505469336597_P00001",
+          "price": 898,
+          "quantity": 1,
+          "date": "2025-03-23",
+          "room_type": "Deluxe king room"
+        }
+      ]
+    },
+    {
+      "order_id": "A0812009T003",
+      "order_type": "attraction",
+      "user_id": "U622612",
+      "store_id": "S17557505469336597_A00006",
+      "note": "",
+      "location": null,
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 80,
+      "create_time": "2025-03-19 15:23:34",
+      "update_time": "2025-03-19 15:23:34",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17557505469336597_P00035",
+          "price": 80,
+          "quantity": 1,
+          "date": "2025-03-24",
+          "ticket_type": "Adult ticket"
+        }
+      ]
+    }
+  ],
+  "rubrics": [
+    "The train ordered should be High-speed rail or EMU (Electric Multiple Unit) train",
+    "The departure city of the train should be Nantong",
+    "The destination of the train should be Wuhan",
+    "The departure date of the train should be March 23, 2025",
+    "The arrival time of the train should be between 16:00-17:00",
+    "The train with the shortest travel time should be selected, and the train in the order should be G1722 (travel time: 3 hours and 33 minutes)",
+    "The distance between the hotel ordered and the Wuhan University Cherry Blossom Garden at 16 Luojia Mountain Road, Wuchang District, Wuhan, Hubei Province should be less than or equal to 2 kilometers",
+    "The hotel brand should be Atour",
+    "The check-in date for the hotel should be March 23, 2025",
+    "The room type ordered should be a king room",
+    "The total cost of the hotel order should be within the 1000 yuan budget (including 1000 yuan)",
+    "Should calculate how many nights can be stayed within the 1000 yuan budget, the result is 1 night (Deluxe king room for 1 night costs 898 yuan in total)",
+    "The attraction ordered should be Yellow Crane Tower",
+    "The attraction ticket type should be Adult ticket",
+    "Need to check the ticket price of Yellow Crane Tower, the result is 80 yuan for Adult ticket",
+    "Should calculate the remaining balance after deducting hotel expenses from 1000 yuan, the result is 102 yuan, which is greater than 80 yuan, so Yellow Crane Tower ticket can be purchased",
+    "The date of use for the attraction ticket should be March 24, 2025"
+  ]
+}

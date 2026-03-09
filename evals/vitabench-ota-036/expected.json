@@ -1,0 +1,130 @@
+{
+  "required_orders": [
+    {
+      "order_id": "70807008T001",
+      "order_type": "flight",
+      "user_id": "U010033",
+      "store_id": "S17557505543289546_F00010",
+      "note": "",
+      "location": null,
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 796,
+      "create_time": "2028-02-13 21:30:13",
+      "update_time": "2028-02-13 21:30:13",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17557505543289546_P00068",
+          "price": 820,
+          "quantity": 1,
+          "date": "2028-02-15",
+          "seat_type": "Economy Class"
+        }
+      ]
+    },
+    {
+      "order_id": "70807008T002",
+      "order_type": "hotel",
+      "user_id": "U010033",
+      "store_id": "S17557505543289546_H00003",
+      "note": "",
+      "location": null,
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 2240,
+      "create_time": "2028-02-13 21:35:13",
+      "update_time": "2028-02-13 21:35:13",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17557505543289546_P00015",
+          "price": 380,
+          "quantity": 1,
+          "date": "2028-02-15",
+          "room_type": "Naxi Traditional King Room"
+        },
+        {
+          "product_id": "S17557505543289546_P00016",
+          "price": 380,
+          "quantity": 1,
+          "date": "2028-02-16",
+          "room_type": "Naxi Traditional King Room"
+        },
+        {
+          "product_id": "S17557505543289546_P00017",
+          "price": 380,
+          "quantity": 1,
+          "date": "2028-02-17",
+          "room_type": "Naxi Traditional King Room"
+        },
+        {
+          "product_id": "S17557505543289546_P00018",
+          "price": 380,
+          "quantity": 1,
+          "date": "2028-02-18",
+          "room_type": "Naxi Traditional King Room"
+        },
+        {
+          "product_id": "S17557505543289546_P00022",
+          "price": 320,
+          "quantity": 1,
+          "date": "2028-02-19",
+          "room_type": "Naxi Traditional King Room"
+        },
+        {
+          "product_id": "S17557505543289546_P00023",
+          "price": 320,
+          "quantity": 1,
+          "date": "2028-02-20",
+          "room_type": "Naxi Traditional King Room"
+        },
+        {
+          "product_id": "S17557505543289546_P00024",
+          "price": 320,
+          "quantity": 1,
+          "date": "2028-02-21",
+          "room_type": "Naxi Traditional King Room"
+        }
+      ]
+    },
+    {
+      "order_id": "70807008T004",
+      "order_type": "attraction",
+      "user_id": "U010033",
+      "store_id": "S17557505543289546_A00005",
+      "note": "",
+      "location": null,
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 298,
+      "create_time": "2028-02-13 21:36:13",
+      "update_time": "2028-02-13 21:36:13",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17557505543289546_P00034",
+          "price": 298,
+          "quantity": 2,
+          "date": "2028-02-20",
+          "ticket_type": "Jade Dragon Snow Mountain Ticket + Main Cable Car Package (including warm clothing rental)"
+        }
+      ]
+    }
+  ],
+  "rubrics": [
+    "Flight order must book a Red-eye Flight",
+    "Need to check which flight between 2028-02-15 and 2028-02-16 has the best Price Discount, the result shows that CA1835 on February 15th at 820 yuan is the cheapest, and the flight in the order must be CA1835",
+    "Guesthouse order must be for a guesthouse rather than a Chain Brand hotel",
+    "Guesthouse must have Naxi Ethnic Features",
+    "Guesthouse booking duration must be one week (7 nights)",
+    "The dates of the guesthouse order must be 2028-02-15, 2028-02-16, 2028-02-17, 2028-02-18, 2028-02-19, 2028-02-20, 2028-02-21 respectively",
+    "The guesthouse price per night must be lower than the user's historical hotel consumption budget, the price per night should be less than 500 yuan",
+    "Must book tickets for Jade Dragon Snow Mountain Scenic Area",
+    "The visiting time for Jade Dragon Snow Mountain in the ticket order must be the sixth day (i.e., 2028-02-20, the 6th day counting from the check-in date)",
+    "The Jade Dragon Snow Mountain admission ticket must choose a package that includes warm clothing rental"
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "required_orders": [
+    {
+      "order_id": "A0714002O01",
+      "order_type": "delivery",
+      "user_id": "U000019",
+      "store_id": "S19692566950255903_S25485",
+      "note": "",
+      "location": {
+        "address": "Cuizhu Jiayuan, 98 Heping Avenue, Yunlong District, Xuzhou, Jiangsu Province (Under Construction)",
+        "longitude": 117.289656,
+        "latitude": 34.247719
+      },
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 24.88,
+      "create_time": "2025-11-08 22:30:00",
+      "update_time": "2025-11-08 22:32:00",
+      "status": "cancelled",
+      "products": [
+        {
+          "product_id": "S31202981544351332_P86622",
+          "price": 24.88,
+          "quantity": 1,
+          "attributes": ""
+        }
+      ]
+    },
+    {
+      "order_id": "A0714002T02",
+      "order_type": "delivery",
+      "user_id": "U000019",
+      "store_id": "S13136705917386046_S64166",
+      "note": "",
+      "location": {
+        "address": "Cuizhu Jiayuan, 98 Heping Avenue, Yunlong District, Xuzhou, Jiangsu Province (Under Construction)",
+        "longitude": 117.289656,
+        "latitude": 34.247719
+      },
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 16,
+      "create_time": "2025-11-08 22:34:00",
+      "update_time": "2025-11-08 22:34:00",
+      "status": "unpaid",
+      "products": [
+        {
+          "product_id": "S20429208112066115_P67474",
+          "price": 16,
+          "quantity": 1,
+          "attributes": "Warm"
+        }
+      ]
+    }
+  ],
+  "rubrics": [
+    "Successfully canceled the 4 Meat 5 Veggie Fried Skewer Wrap order from Han Style Fried Skewers store, the order status with order_id A0714002O01 has been updated to cancelled",
+    "The delivery address for the Cough Relief Lung Nourishing tea drink order should be Cuizhu Jiayuan, 98 Heping Avenue, Yunlong District, Xuzhou, Jiangsu Province (Under Construction)",
+    "The estimated delivery time for the Cough Relief Lung Nourishing tea drink order should be between 2025-11-08 22:31:38 and 2025-11-08 23:31:38",
+    "The merchant should provide night delivery service when ordering the Cough Relief Lung Nourishing tea drink",
+    "The temperature of the Cough Relief Lung Nourishing tea drink should be hot",
+    "The sweetness level of the Cough Relief Lung Nourishing tea drink should be less sugar or no sugar",
+    "The tea drink product in the order should have Cough Relief Lung Nourishing health benefits"
+  ]
+}

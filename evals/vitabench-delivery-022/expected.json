@@ -1,0 +1,56 @@
+{
+  "required_orders": [
+    {
+      "order_id": "40711001T01",
+      "order_type": "delivery",
+      "user_id": "U000004",
+      "store_id": "S29691868989292190_S30164",
+      "note": "",
+      "location": {
+        "address": "Junchuang International Business Garden, 50 North Zhonghua Street, Xinhua District, Shijiazhuang City, Hebei Province",
+        "longitude": 114.476525,
+        "latitude": 38.046094
+      },
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 242.0,
+      "create_time": "2025-06-14 16:42:00",
+      "update_time": "2025-06-14 16:42:00",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S32323489010229624_P20646",
+          "price": 89.0,
+          "quantity": 1,
+          "attributes": ""
+        },
+        {
+          "product_id": "S20116224561682274_P08606",
+          "price": 29.0,
+          "quantity": 1,
+          "attributes": ""
+        },
+        {
+          "product_id": "S10442979807373900_P30837",
+          "price": 55.0,
+          "quantity": 1,
+          "attributes": ""
+        },
+        {
+          "product_id": "S26730900892792972_P71161",
+          "price": 69.0,
+          "quantity": 1,
+          "attributes": ""
+        }
+      ]
+    }
+  ],
+  "rubrics": [
+    "The delivery address for the Cantonese group meal order should be Junchuang International Business Garden, 50 North Zhonghua Street, Xinhua District, Shijiazhuang City, Hebei Province",
+    "The estimated delivery time for the Cantonese group meal order should be before 18:00 on June 14, 2025",
+    "The Cantonese group meal order should include five different dishes, with different dishes in the set meal counted separately",
+    "The Cantonese group meal order must include White Cut Chicken, Beef Brisket Stew, and congee",
+    "Dishes in the Cantonese group meal order other than White Cut Chicken, Beef Brisket Stew, and congee should be Low Salt and Less Oil types, meeting healthy eating requirements"
+  ]
+}

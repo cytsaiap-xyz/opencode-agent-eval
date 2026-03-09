@@ -1,0 +1,65 @@
+{
+  "required_orders": [
+    {
+      "order_id": "90721002T02",
+      "order_type": "delivery",
+      "user_id": "U000098",
+      "store_id": "S55752896230532586_S79712",
+      "note": "",
+      "location": {
+        "address": "Jiayleyuan, No.158 Yongle Road, Liangxi District, Wuxi City, Jiangsu Province (360m walk from Exit 2 of Taihu Square Metro Station)",
+        "longitude": 120.305363,
+        "latitude": 31.558994
+      },
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 28.7,
+      "create_time": "2025-11-01 17:00:00",
+      "update_time": "2025-11-01 17:02:00",
+      "status": "cancelled",
+      "products": [
+        {
+          "product_id": "S10013050269630202_P84592",
+          "price": 28.7,
+          "quantity": 1,
+          "attributes": ""
+        }
+      ]
+    },
+    {
+      "order_id": "90721002T01",
+      "order_type": "delivery",
+      "user_id": "U000098",
+      "store_id": "S20865362129566483_S13882",
+      "note": "",
+      "location": {
+        "address": "Jiayleyuan, No.158 Yongle Road, Liangxi District, Wuxi City, Jiangsu Province (360m walk from Exit 2 of Taihu Square Metro Station)",
+        "longitude": 120.305363,
+        "latitude": 31.558994
+      },
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 36.0,
+      "create_time": "2025-11-01 17:03:00",
+      "update_time": "2025-11-01 17:03:00",
+      "status": "unpaid",
+      "products": [
+        {
+          "product_id": "S23251562205512993_P99701",
+          "price": 18.0,
+          "quantity": 2,
+          "attributes": "No ice"
+        }
+      ]
+    }
+  ],
+  "rubrics": [
+    "Successfully canceled the order for 🏅Deluxe Individual Customized Set Meal from Sixi Cloud Kitchen Chinese Healthy Cuisine store, specifically the order with order_id 90721002T02 should have been updated to cancelled status",
+    "The delivery address for the Carrot Slimming Bottle juice order should be Jiayleyuan, No.158 Yongle Road, Liangxi District, Wuxi City, Jiangsu Province",
+    "The estimated delivery time for the Carrot Slimming Bottle juice order should be before 7:00 PM on November 1, 2025",
+    "The total number of items in the Carrot Slimming Bottle juice order should be 2",
+    "The product specification in the Carrot Slimming Bottle juice order should be 'No ice'"
+  ]
+}

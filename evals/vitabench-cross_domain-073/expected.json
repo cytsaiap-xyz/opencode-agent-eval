@@ -1,0 +1,95 @@
+{
+  "required_orders": [
+    {
+      "order_id": "OIb192a86a68",
+      "order_type": "instore",
+      "user_id": "U267041",
+      "store_id": "S17550802123065403_I00013",
+      "note": "",
+      "location": null,
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 298,
+      "create_time": "2025-03-25 19:16:00",
+      "update_time": "2025-03-25 19:16:00",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17550802123065403_P00080",
+          "price": 298,
+          "quantity": 1,
+          "name": "Family Weekend Happy Picking Package",
+          "shop_id": "S17550802123065403_I00013",
+          "tags": [
+            "Family Package",
+            "Strawberry Picking",
+            "Cherry Picking",
+            "Vegetable Picking",
+            "Farmhouse Meal"
+          ]
+        }
+      ]
+    },
+    {
+      "reservation_id": "10811013T001",
+      "shop_id": "S17550802123065403_I00013",
+      "reservation_time": "2025-03-29 10:00:00",
+      "update_time": "2025-03-25 19:18:45",
+      "customer_id": "U267041",
+      "customer_count": 2,
+      "status": "unconsumed"
+    },
+    {
+      "order_id": "10811013T002",
+      "order_type": "delivery",
+      "user_id": "U267041",
+      "store_id": "S17550802123065403_S00002",
+      "note": "",
+      "location": {
+        "address": "Room 302, Building 12, Water Lane Community, 89 Pingjiang Road, Gusu District, Suzhou, Jiangsu Province",
+        "longitude": 120.63782,
+        "latitude": 31.31149
+      },
+      "dispatch_time": "2025-03-25 19:45:22",
+      "shipping_time": 25,
+      "delivery_time": "2025-03-25 20:10:22",
+      "total_price": 69.8,
+      "create_time": "2025-03-25 19:16:15",
+      "update_time": "2025-03-25 19:16:15",
+      "status": "delivered",
+      "products": [
+        {
+          "product_id": "S17550802123065403_P00006",
+          "price": 39.9,
+          "quantity": 1,
+          "name": "Multifunctional Picking Basket",
+          "attributes": "Bamboo weave style"
+        },
+        {
+          "product_id": "S17550802123065403_P00007",
+          "price": 29.9,
+          "quantity": 1,
+          "name": "Children's Sun Hat",
+          "attributes": "Blue"
+        }
+      ]
+    }
+  ],
+  "rubrics": [
+    "The ordered farm must be an organic farm",
+    "The ordered farm must have seasonal strawberries available for picking",
+    "The ordered farm must have seasonal cherries available for picking",
+    "The ordered farm must have vegetables available for picking",
+    "The farm order package must include picking activities",
+    "The farm order package must include a farmhouse meal",
+    "The reserved farm should be Taihu Organic Fruit and Vegetable Farm",
+    "The farm reservation time is Saturday (2025-03-29) 10:00",
+    "The number of people for the farm reservation should be 2",
+    "The picking basket and children's sun hat should be from the same store",
+    "The picking basket and children's sun hat should be suitable for outdoor use",
+    "The delivery order for the picking basket and sun hat must be delivered before 8:00 PM (20:00) on 2025-03-25",
+    "The delivery order for the picking basket and sun hat must be delivered to  Room 302, Building 12, Water Lane Community, 89 Pingjiang Road, Gusu District, Suzhou, Jiangsu Province",
+    "The color of the sun hat in the delivery order should be blue"
+  ]
+}

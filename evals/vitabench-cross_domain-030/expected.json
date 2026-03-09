@@ -1,0 +1,125 @@
+{
+  "required_orders": [
+    {
+      "order_id": "OIb192a86a68",
+      "order_type": "instore",
+      "user_id": "U469686",
+      "store_id": "S17550802130783410_I00011",
+      "note": "",
+      "location": null,
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 2064,
+      "create_time": "2025-06-11 15:31:00",
+      "update_time": "2025-06-11 15:31:00",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17550802130783410_P00054",
+          "price": 688,
+          "quantity": 3,
+          "name": "8-Person First Month Celebration Meal",
+          "shop_id": "S17550802130783410_I00011",
+          "tags": [
+            "Group Purchase",
+            "8-Person Meal",
+            "Low Oil",
+            "Low Salt",
+            "Infant-Friendly"
+          ]
+        }
+      ]
+    },
+    {
+      "order_id": "OO1eeb17d077",
+      "order_type": "attraction",
+      "user_id": "U469686",
+      "store_id": "S17550802130783410_A00005",
+      "note": "",
+      "location": null,
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 498,
+      "create_time": "2025-06-11 15:33:10",
+      "update_time": "2025-06-11 15:33:10",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17550802130783410_P00021 ",
+          "price": 498,
+          "quantity": 1,
+          "date": "2025-06-12",
+          "ticket_type": "Family Ticket (2 Adults, 1 Child) "
+        }
+      ]
+    },
+    {
+      "order_id": "OT012ea4b3b3",
+      "order_type": "delivery",
+      "user_id": "U469686",
+      "store_id": "S17550802130783410_S00001",
+      "note": "",
+      "location": {
+        "address": "Huafu World, 46 Nanjing South Street, Heping District, Shenyang",
+        "longitude": 123.4329,
+        "latitude": 41.7781
+      },
+      "dispatch_time": "2025-06-11 16:30:00",
+      "shipping_time": 44,
+      "delivery_time": "2025-06-11 17:14:00",
+      "total_price": 328,
+      "create_time": "2025-06-11 15:32:00",
+      "update_time": "2025-06-11 15:32:00",
+      "status": "delivered",
+      "products": [
+        {
+          "product_id": "S17550802130783410_P00002",
+          "price": 328,
+          "quantity": 1,
+          "name": "Ocean-Themed Pure Cotton Family Four-Piece Set",
+          "store_id": "S17550802130783410_S00001",
+          "store_name": "Beibei Family Products",
+          "attributes": "Blue",
+          "tags": [
+            "Parent-Child Clothing",
+            "Four-Piece Set (Parents + Toddler + Infant)",
+            "Pure Cotton",
+            "Navy Blue",
+            "Ocean Style",
+            "Parent-Child Outfit Set",
+            "Breathable Fabric"
+          ]
+        }
+      ]
+    },
+    {
+      "book_id": "OI98ab55e38b",
+      "shop_id": "S17550802130783410_I00011",
+      "book_time": "2025-06-12 12:00:00",
+      "update_time": "2025-06-11 15:36:00",
+      "customer_id": "U469686",
+      "customer_count": 24,
+      "book_price": 60,
+      "status": "paid"
+    }
+  ],
+  "rubrics": [
+    "The restaurant ordered must have Infant-Friendly facilities",
+    "The restaurant environment needs to be Cozy Environment",
+    "Each set meal ordered by the agent at the restaurant must be for 8 people",
+    "The agent needs to order three multi-person set meals at the restaurant",
+    "The set meal dishes at the ordered restaurant should not be too oily",
+    "The dishes in the order set should comply with the user's dietary restrictions: Low Salt",
+    "Need to find information about theme park ticket packages; return price and photography rules: Family Package Ticket price range is 368-698 yuan, Shenyang Happy Family Theme Park allows bringing your own camera, Shenyang Family Time Theme Park has a professional photography area",
+    "Need to order a theme park package suitable for 2 adults, 1 child, and 1 infant",
+    "The ordered parent-child clothing package must include a Four-Piece Set, including clothing for adults, children, and infants",
+    "The ordered parent-child clothing must be Pure Cotton material",
+    "The ordered products must be Blue",
+    "The delivery address for the parent-child clothing order should be the user's residence: Huafu World, 46 Nanjing South Street, Heping District, Shenyang",
+    "The restaurant reservation should be at Star Dream Family Theme Restaurant",
+    "The restaurant reservation time must be June 12, 2025, at 18:00",
+    "The number of people for the restaurant reservation should be 24"
+  ]
+}

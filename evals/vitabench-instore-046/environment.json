@@ -1,0 +1,189 @@
+{
+  "task_id": "10826071",
+  "domain": "instore",
+  "time": "2024-08-15 17:15:00",
+  "user_id": "U450155",
+  "weather": [
+    {
+      "city": "Linyi City",
+      "category": "cloudy",
+      "datetime": "2024-08-15",
+      "temperature": [
+        26,
+        33
+      ],
+      "humidity": 58
+    }
+  ],
+  "location": [
+    {
+      "address": "Room 503, Building 2, Linyi People's Hospital Staff Quarters, 15 Jinqueshan Road, Lanshan District, Linyi City, Shandong Province",
+      "longitude": 118.3567,
+      "latitude": 35.0598
+    },
+    {
+      "address": "4th Floor, Internal Medicine Building, Linyi People's Hospital, 27 Jiefang Road, Lanshan District, Linyi City, Shandong Province",
+      "longitude": 118.3552,
+      "latitude": 35.0612
+    },
+    {
+      "address": "Intersection of Jinqueshan Road and Yimeng Road, Lanshan District, Linyi City, Shandong Province",
+      "longitude": 118.3571,
+      "latitude": 35.0585
+    }
+  ],
+  "user_profile": {
+    "user id": "U450155",
+    "occupation": "Accountant",
+    "gender": "female",
+    "age group": "35~40",
+    "residence": "Linyi",
+    "home address": "Room 503, Building 2, Linyi People's Hospital Staff Quarters, 15 Jinqueshan Road, Lanshan District, Linyi City, Shandong Province",
+    "work address": "4th Floor, Internal Medicine Building, Linyi People's Hospital, 27 Jiefang Road, Lanshan District, Linyi City, Shandong Province",
+    "dietary restrictions": "Avoids high purine foods (such as organ meats/seafood soups), avoids caffeine",
+    "family status": "Has pets",
+    "personality": "Experiences significant mood fluctuations, expresses herself with strong emotional coloring"
+  },
+  "user_historical_behaviors": {
+    "user id": "U450155",
+    "occupation": "Accountant",
+    "gender": "female",
+    "age group": "35~40",
+    "residence": "Linyi",
+    "home address": "Room 503, Building 2, Linyi People's Hospital Staff Quarters, 15 Jinqueshan Road, Lanshan District, Linyi City, Shandong Province",
+    "work address": "4th Floor, Internal Medicine Building, Linyi People's Hospital, 27 Jiefang Road, Lanshan District, Linyi City, Shandong Province",
+    "in-store dining": {
+      "fine-dining": {
+        "frequently purchased categories": [
+          "Local Cuisine/Fish (Average ¥135)",
+          "Local Cuisine/Sichuan Food (Average ¥95)",
+          "International Cuisine/Japanese Food (Average ¥160)"
+        ],
+        "preferred average price per person": "¥90~160",
+        "preferred store rating": "4.0~4.8 stars",
+        "typical dining time": "18:30-20:30",
+        "preferred distance": "500~3000m",
+        "recent orders": [
+          {
+            "store": "Shu Xiang Yuan Sichuan Restaurant",
+            "product": "Boiled Fish + Twice-Cooked Pork + Seasonal Vegetables"
+          },
+          {
+            "store": "Fresh Seafood Restaurant",
+            "product": "Steamed Sea Bass + Ginger and Scallion Crab"
+          },
+          {
+            "store": "Japanese Style Cuisine",
+            "product": "Sashimi Platter + Sushi Set"
+          }
+        ],
+        "search history": [
+          "Non-spicy Sichuan Food",
+          "Healthy Fish Soup",
+          "Japanese Cuisine",
+          "High-end Restaurants in Linyi"
+        ]
+      },
+      "light meal": {
+        "frequently purchased categories": [
+          "Fast Food/Chinese Simple Meals (Average ¥35)",
+          "Fast Food/Western Fast Food (Average ¥40)",
+          "Local Cuisine/Northeastern Chinese Food (Average ¥45)"
+        ],
+        "preferred average price per person": "¥30~50",
+        "preferred store rating": "3.5~4.2 stars",
+        "typical dining time": "12:00-13:00",
+        "preferred distance": "0~500m",
+        "recent orders": [
+          {
+            "store": "Old Neighbor Noodle House",
+            "product": "Beef Noodles + Cold Appetizer"
+          },
+          {
+            "store": "Hospital Cafeteria",
+            "product": "Vegetarian Meal Set"
+          },
+          {
+            "store": "Northeastern Home Cooking",
+            "product": "Sweet and Sour Pork + Rice"
+          }
+        ],
+        "search history": [
+          "Fast Food Near Hospital",
+          "Healthy Quick Meals",
+          "Low Purine Food",
+          "Vegetarian"
+        ]
+      },
+      "desserts/drinks/snacks": {
+        "frequently purchased categories": [
+          "Beverage Shops (Average ¥18)",
+          "Bakery and Desserts (Average ¥25)"
+        ],
+        "preferred average price per person": "¥15~30",
+        "preferred store rating": "3.9~4.5 stars",
+        "typical dining time": "15:00-16:30",
+        "preferred distance": "0~300m",
+        "recent orders": [
+          {
+            "store": "Naturally Good Tea",
+            "product": "Sugar-free Green Tea"
+          },
+          {
+            "store": "Bread Talk",
+            "product": "Whole Wheat Bread"
+          },
+          {
+            "store": "Fresh Fruit Workshop",
+            "product": "Fruit Platter"
+          }
+        ],
+        "search history": [
+          "Caffeine-free Drinks",
+          "Low-sugar Desserts",
+          "Healthy Snacks"
+        ]
+      }
+    },
+    "other in-store services": {
+      "frequently consumed categories": {
+        "Sports & Fitness/Fitness Centers": "35%",
+        "Sports & Fitness/Ball Sports": "40%",
+        "Entertainment/Massage/Foot Therapy": "15%",
+        "Pets/Pet Hospitals": "10%"
+      },
+      "cost per order by category": {
+        "Sports & Fitness/Fitness Centers": "¥80~150",
+        "Sports & Fitness/Ball Sports": "¥50~100",
+        "Entertainment/Massage/Foot Therapy": "¥120~200",
+        "Pets/Pet Hospitals": "¥150~300"
+      },
+      "preferred store rating": "4.0~4.8 stars",
+      "preferred service time": "19:00-21:00",
+      "preferred distance": "0~5000m",
+      "recent orders": [
+        {
+          "store": "Linyi Fitness Center",
+          "product": "Monthly Fitness Membership"
+        },
+        {
+          "store": "City Badminton Court",
+          "product": "2-Hour Doubles Court Reservation"
+        },
+        {
+          "store": "Kangning Pet Clinic",
+          "product": "Annual Pet Check-up + Vaccine"
+        }
+      ],
+      "search history": [
+        "Linyi Gyms",
+        "Badminton Court Reservation",
+        "Pet Hospital",
+        "Foot Massage",
+        "Low-intensity Exercise"
+      ]
+    }
+  },
+  "stores": {},
+  "orders": {}
+}

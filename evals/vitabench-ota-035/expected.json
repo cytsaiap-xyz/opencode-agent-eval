@@ -1,0 +1,96 @@
+{
+  "required_orders": [
+    {
+      "order_id": "70811002T001",
+      "order_type": "flight",
+      "user_id": "U010069",
+      "store_id": "S17557505466916064_F00009",
+      "note": "",
+      "location": null,
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 1520,
+      "create_time": "2027-06-02 23:35:25",
+      "update_time": "2027-06-02 23:35:25",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17557505466916064_P00070",
+          "price": 1520,
+          "quantity": 1,
+          "date": "2027-06-20",
+          "seat_type": "Economy Class"
+        }
+      ]
+    },
+    {
+      "order_id": "70811002T002",
+      "order_type": "hotel",
+      "user_id": "U010069",
+      "store_id": "S17557505466916064_H00002",
+      "note": "",
+      "location": null,
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 1440,
+      "create_time": "2027-06-02 23:39:25",
+      "update_time": "2027-06-02 23:39:25",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17557505466916064_P00015",
+          "price": 360,
+          "quantity": 2,
+          "date": "2027-06-20",
+          "room_type": "Flower Field View Twin Room"
+        },
+        {
+          "product_id": "S17557505466916064_P00016",
+          "price": 360,
+          "quantity": 2,
+          "date": "2027-06-21",
+          "room_type": "Flower Field View Twin Room"
+        }
+      ]
+    },
+    {
+      "order_id": "70811002T003",
+      "order_type": "flight",
+      "user_id": "U010069",
+      "store_id": "S17557505466916064_F00013",
+      "note": "",
+      "location": null,
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 1520,
+      "create_time": "2027-06-02 23:41:25",
+      "update_time": "2027-06-02 23:41:25",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17557505466916064_P00089",
+          "price": 380,
+          "quantity": 4,
+          "date": "2027-06-22",
+          "seat_type": "Economy Class"
+        }
+      ]
+    }
+  ],
+  "rubrics": [
+    "Flight to Ili is scheduled for June 20, 2027",
+    "The flight arrives in Ili around 4 PM on June 20, 2027",
+    "Number of tickets to Ili is 1",
+    "The homestay should be in Country Style",
+    "The homestay should offer Flower Field View",
+    "Since the king room costs over 200 yuan per night, the homestay booking should be for twin rooms",
+    "The homestay booking should include 2 twin rooms per night",
+    "The homestay booking should be for 2 nights, on June 20 and June 21, 2027",
+    "Flight to Urumqi is scheduled for June 22, 2027",
+    "The flight arrives in Urumqi in the afternoon of June 22, 2027",
+    "Number of tickets to Urumqi is 4"
+  ]
+}

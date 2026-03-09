@@ -1,0 +1,104 @@
+{
+  "required_orders": [
+    {
+      "order_id": "OT64e3047b69",
+      "order_type": "delivery",
+      "user_id": "U798941",
+      "store_id": "S17550809260058202_S00002",
+      "note": "",
+      "location": {
+        "address": "Room 1103, Building B2, 700 Yishan Road, Xuhui District, Shanghai",
+        "longitude": 121.42385,
+        "latitude": 31.17785
+      },
+      "dispatch_time": "2026-07-15 15:00:00",
+      "shipping_time": 57,
+      "delivery_time": "2026-07-15 15:57:00",
+      "total_price": 468,
+      "create_time": "2026-07-15 14:32:00",
+      "update_time": "2026-07-15 14:32:00",
+      "status": "delivered",
+      "products": [
+        {
+          "product_id": "S17550809260058202_P00007",
+          "price": 468,
+          "quantity": 1,
+          "name": "French Truffle Chocolate Cake (Sugar-Free Version)",
+          "store_id": "S17550809260058202_S00002",
+          "store_name": "LECAKE",
+          "attributes": "6 inches",
+          "tags": [
+            "Superior Customization",
+            "Confession Special",
+            "Ice Cream Cake"
+          ]
+        }
+      ]
+    },
+    {
+      "order_id": "OOf68f197a3a",
+      "order_type": "attraction",
+      "user_id": "U798941",
+      "store_id": "S17550809260058202_A00010",
+      "note": "",
+      "location": null,
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 360,
+      "create_time": "2026-07-15 14:35:00",
+      "update_time": "2026-07-15 14:35:00",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17550809260058202_P00062",
+          "price": 180,
+          "quantity": 2,
+          "date": "2026-07-25",
+          "ticket_type": "Adult Ticket"
+        }
+      ]
+    },
+    {
+      "order_id": "S17550809260058202_O00003",
+      "order_type": "hotel",
+      "user_id": "U798941",
+      "store_id": "S17550809260058202_H00006",
+      "note": "",
+      "location": {
+        "address": "Dandong Yalu River Grand Hotel, 158 Yalu River Street, Zhenxing District, Dandong, Liaoning Province",
+        "longitude": 124.39785,
+        "latitude": 40.12568
+      },
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 1080,
+      "create_time": "2026-07-15 14:40:36",
+      "update_time": "2026-07-15 14:40:36",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17550809260058202_P00029",
+          "price": 1080,
+          "quantity": 1,
+          "date": "2026-07-24",
+          "room_type": "River View Executive King Room"
+        }
+      ]
+    }
+  ],
+  "rubrics": [
+    "The cake price should be between 400-500 yuan",
+    "The cake must be Sugar-Free type",
+    "The cake delivery address should be Room 1103, Building B2, 700 Yishan Road, Xuhui District, Shanghai",
+    "The estimated cake delivery time should be before 2026-07-15 16:00",
+    "The scenic spot order should be for Yalu River Cruise tickets",
+    "Check the weather in Dandong from July 19, 2026 to July 25, 2026, and choose the day with the highest temperature to order cruise tickets, therefore should order tickets for July 25, 2026 (temperature 25-34℃)",
+    "The number of cruise tickets ordered should be 2",
+    "The hotel ordered should be within 3 kilometers (inclusive) from the Yalu River Tourist Dock, Zhenxing District, Dandong, Liaoning Province",
+    "The hotel room type ordered should be River View Room",
+    "The hotel room price should be greater than or equal to 1000 yuan",
+    "Based on the cruise ticket date (July 25, 2026), confirm the hotel check-in date, which should be July 24, 2026"
+  ]
+}

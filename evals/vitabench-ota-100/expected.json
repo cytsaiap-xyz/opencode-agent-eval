@@ -1,0 +1,114 @@
+{
+  "required_orders": [
+    {
+      "order_id": "70812004T001",
+      "order_type": "train",
+      "user_id": "U250786",
+      "store_id": "S17557074548681683_T00011",
+      "note": "",
+      "location": null,
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 45,
+      "create_time": "2025-11-13 23:18:25",
+      "update_time": "2025-11-13 23:18:25",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17557074548681683_P00074",
+          "price": 45,
+          "quantity": 1,
+          "date": "2025-11-21",
+          "seat_type": "first class seat"
+        }
+      ]
+    },
+    {
+      "order_id": "70812004T002",
+      "order_type": "train",
+      "user_id": "U250786",
+      "store_id": "S17557074548681683_T00016",
+      "note": "",
+      "location": null,
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 28,
+      "create_time": "2025-11-13 23:21:25",
+      "update_time": "2025-11-13 23:21:25",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17557074548681683_P00097",
+          "price": 28,
+          "quantity": 1,
+          "date": "2025-11-23",
+          "seat_type": "second class seat"
+        }
+      ]
+    },
+    {
+      "order_id": "70812004T003",
+      "order_type": "attraction",
+      "user_id": "U250786",
+      "store_id": "S17557074548681683_A00005",
+      "note": "",
+      "location": null,
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 30,
+      "create_time": "2025-11-13 23:23:25",
+      "update_time": "2025-11-13 23:23:25",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17557074548681683_P00046",
+          "price": 30,
+          "quantity": 1,
+          "date": "2025-11-23",
+          "ticket_type": "adult ticket"
+        }
+      ]
+    },
+    {
+      "order_id": "70812004T004",
+      "order_type": "attraction",
+      "user_id": "U250786",
+      "store_id": "S17557540007196491_A00007",
+      "note": "",
+      "location": null,
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 45,
+      "create_time": "2025-11-13 23:27:25",
+      "update_time": "2025-11-13 23:27:25",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17557540007196491_P00063",
+          "price": 45,
+          "quantity": 1,
+          "date": "2025-11-22",
+          "ticket_type": "adult ticket"
+        }
+      ]
+    }
+  ],
+  "rubrics": [
+    "The departure date of the outbound train is November 21, 2025",
+    "The arrival time of the outbound train should be before 10:00 AM on November 21, 2025",
+    "The outbound train ticket should be for the shortest journey time (G6632)",
+    "The outbound train ticket should be for a train from Zhengzhou to Xuchang",
+    "The departure date of the return train is November 23, 2025",
+    "The arrival time of the return train should be before 5:00 PM on November 23, 2025",
+    "The return train ticket should be for a train from Xuchang to Zhengzhou",
+    "The usage date for the Chunqiu Tower ticket should be November 23, 2025",
+    "The Chunqiu Tower ticket type should be adult ticket",
+    "The weather in Xuchang on Saturday (November 22, 2025) is sunny, so tickets for Huanglonggu Scenic Area should be ordered",
+    "The usage date for the Huanglonggu Scenic Area tickets should be November 22, 2025",
+    "The departure time of the return train (D6789) is 14:20, which is before 15:00, so tickets for Chancellor Cao's Mansion should not be ordered"
+  ]
+}

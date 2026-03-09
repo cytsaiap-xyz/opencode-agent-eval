@@ -1,0 +1,790 @@
+{
+  "task_id": "A0804001",
+  "domain": "cross_domain",
+  "time": "2024-09-05 15:24:43",
+  "user_id": "U010005",
+  "weather": [
+    {
+      "city": "Hefei",
+      "category": "cloudy",
+      "datetime": "2024-09-05",
+      "temperature": [
+        25,
+        32
+      ],
+      "humidity": 65
+    },
+    {
+      "city": "Chengdu",
+      "category": "showers",
+      "datetime": "2024-09-05",
+      "temperature": [
+        22,
+        28
+      ],
+      "humidity": 78
+    },
+    {
+      "city": "Hefei",
+      "category": "sunny",
+      "datetime": "2024-09-19",
+      "temperature": [
+        20,
+        28
+      ],
+      "humidity": 55
+    }
+  ],
+  "location": [
+    {
+      "address": "CR Land Plaza Tower A, 60 meters southwest of the intersection of Lvzhou West Road and Longtu Road, Shushan District, Hefei, Anhui Province",
+      "longitude": 117.2283,
+      "latitude": 31.8489
+    },
+    {
+      "address": "CR Land Park Mansion, 228 Huaining Road, Shushan District, Hefei, Anhui Province",
+      "longitude": 117.232,
+      "latitude": 31.8524
+    }
+  ],
+  "user_profile": {
+    "user id": "U010005",
+    "occupation": "HR Manager",
+    "gender": "male",
+    "age group": "30~35",
+    "residence": "Hefei",
+    "Permanent address": "CR Land Park Mansion, 228 Huaining Road, Shushan District, Hefei, Anhui Province",
+    "work address": "CR Land Plaza Tower A, 60 meters southwest of the intersection of Lvzhou West Road and Longtu Road, Shushan District, Hefei, Anhui Province",
+    "dietary restrictions": "Avoids high-fat organ meats, avoids alcohol",
+    "family status": "Married",
+    "personality": "Tends to be controlling, not easily accepting of different opinions"
+  },
+  "user_historical_behaviors": {
+    "user id": "U010005",
+    "occupation": "HR Manager",
+    "gender": "male",
+    "age group": "30~35",
+    "residence": "Hefei",
+    "home address": "CR Land Park Mansion, 228 Huaining Road, Shushan District, Hefei, Anhui Province",
+    "work address": "CR Land Plaza Tower A, 60 meters southwest of the intersection of Lvzhou West Road and Longtu Road, Shushan District, Hefei, Anhui Province",
+    "delivery": {
+      "food delivery": {
+        "breakfast": {
+          "frequently purchased categories": [
+            "Quick Meals/Steamed Buns/Pan-fried Buns (Average 18 yuan)",
+            "Quick Meals/Light Food (Average 32 yuan)",
+            "Quick Meals/Sandwiches (Average 25 yuan)"
+          ],
+          "cost per order": "15~35 yuan",
+          "preferred store rating": "4.2~4.7 points",
+          "preferred delivery time": "15~30 minutes",
+          "preferred distance": "0~2500m",
+          "recent orders": [
+            {
+              "store": "Fresh Morning Breakfast",
+              "product": "Soft Red Bean Buns + Vegetable Soy Milk"
+            },
+            {
+              "store": "Lihua Sandwiches",
+              "product": "Egg and Ham Sandwich"
+            },
+            {
+              "store": "Light Food Select",
+              "product": "Fruit and Vegetable Energy Bowl + Oat Milk"
+            }
+          ],
+          "search history": [
+            "Low-oil breakfast",
+            "Light food",
+            "Sandwich",
+            "Soy milk",
+            "Steamed buns"
+          ]
+        },
+        "weekday lunch/dinner": {
+          "frequently purchased categories": [
+            "Quick Meals/Healthy Meals (Average 45 yuan)",
+            "Foreign Cuisine/Japanese Bento/Sushi (Average 58 yuan)",
+            "Quick Meals/Salad (Average 38 yuan)"
+          ],
+          "cost per order": "35~65 yuan",
+          "preferred store rating": "4.3~4.8 points",
+          "preferred delivery time": "20~40 minutes",
+          "preferred distance": "0~3500m",
+          "recent orders": [
+            {
+              "store": "Light Food Select",
+              "product": "Low-fat Chicken Breast Vegetable Rice"
+            },
+            {
+              "store": "Genki Sushi",
+              "product": "Salmon Bento"
+            },
+            {
+              "store": "Green Salad",
+              "product": "Mediterranean Grilled Chicken Salad"
+            }
+          ],
+          "search history": [
+            "Healthy meal",
+            "Low-calorie",
+            "Nutritious meal",
+            "Vegetable salad",
+            "Low-fat bento"
+          ]
+        },
+        "weekend lunch/dinner": {
+          "frequently purchased categories": [
+            "Chinese Cuisine/Cantonese Cuisine (Average 95 yuan)",
+            "Foreign Cuisine/Stone Pot Rice/Teppanyaki Rice (Average 78 yuan)",
+            "Foreign Cuisine/Pasta (Average 85 yuan)"
+          ],
+          "cost per order": "70~150 yuan",
+          "preferred store rating": "4.5~5.0 points",
+          "preferred delivery time": "30~50 minutes",
+          "preferred distance": "0~5000m",
+          "recent orders": [
+            {
+              "store": "Cantonese Pavilion",
+              "product": "Family Set (Steamed Fish + Stir-fried Black Fungus with Vegetables + Steamed Egg with Shrimp)"
+            },
+            {
+              "store": "Korean Palace",
+              "product": "Set for Two (Bibimbap + Soybean Paste Soup + Kimchi)"
+            },
+            {
+              "store": "Western Kitchen Select",
+              "product": "Truffle Mushroom Pasta + Herb Salad"
+            }
+          ],
+          "search history": [
+            "Family set",
+            "Cantonese cuisine",
+            "Bibimbap",
+            "Pasta"
+          ]
+        },
+        "desserts/drinks/snacks": {
+          "frequently purchased categories": [
+            "Beverages & Desserts/Juice (Average 28 yuan)",
+            "Beverages & Desserts/Pure Tea/Herbal Tea (Average 22 yuan)",
+            "Beverages & Desserts/Fruit Bowl (Average 35 yuan)"
+          ],
+          "cost per order": "18~40 yuan",
+          "preferred store rating": "4.4~4.9 points",
+          "preferred delivery time": "15~30 minutes",
+          "preferred distance": "0~3000m",
+          "recent orders": [
+            {
+              "store": "Fresh Juice Bar",
+              "product": "Fresh Mango Juice"
+            },
+            {
+              "store": "Tea Talk",
+              "product": "Kumquat Lemon Tea"
+            },
+            {
+              "store": "Fruit Indeed",
+              "product": "Colorful Fruit Bowl"
+            }
+          ],
+          "search history": [
+            "Fruit tea",
+            "Fresh juice",
+            "Fruit bowl",
+            "Low-sugar drinks",
+            "Non-alcoholic beverages"
+          ]
+        },
+        "night snack": {
+          "frequently purchased categories": [
+            "Quick Meals/Small Dishes (Average 45 yuan)",
+            "Quick Meals/Spicy Soup (Average 25 yuan)",
+            "Quick Meals/Rice Noodles (Average 30 yuan)"
+          ],
+          "cost per order": "25~50 yuan",
+          "preferred store rating": "4.0~4.6 points",
+          "preferred delivery time": "25~45 minutes",
+          "preferred distance": "0~3500m",
+          "recent orders": [
+            {
+              "store": "Old Taste Small Dish Restaurant",
+              "product": "Three Small Dishes Set (Black Fungus + Cold Tofu + Stir-fried Broccoli)"
+            },
+            {
+              "store": "Hu's Soup Shop",
+              "product": "Tomato Vegetable Spicy Soup"
+            },
+            {
+              "store": "Yunnan Small Pot Rice Noodles",
+              "product": "Mild Vegetable Rice Noodles"
+            }
+          ],
+          "search history": [
+            "Non-spicy night snacks",
+            "Stomach-friendly soup",
+            "Small dishes",
+            "Light night snack",
+            "Vegetable soup"
+          ]
+        }
+      },
+      "product delivery": {
+        "frequently purchased categories": [
+          "Vegetables/Tofu Products (30%)",
+          "Raw Meat/Poultry/Eggs (22%)",
+          "Grains/Oil/Seasonings/Dry Goods (15%)",
+          "Household Supplies (12%)",
+          "Beverages/Nutritional Drinks (10%)",
+          "Others (11%)"
+        ],
+        "frequently visited stores": [
+          "Yonghui Supermarket (Hefei Government District Branch) (45%)",
+          "Elephant Life Supermarket (Evergrande Oasis Branch) (30%)",
+          "Family Mart (Changjiang West Road Branch) (15%)",
+          "Other Stores (10%)"
+        ],
+        "cost per order by category": {
+          "Vegetables/Tofu Products": "5~25 yuan",
+          "Raw Meat/Poultry/Eggs": "20~60 yuan",
+          "Grains/Oil/Seasonings/Dry Goods": "10~40 yuan",
+          "Household Supplies": "80~300 yuan",
+          "Beverages/Nutritional Drinks": "8~35 yuan"
+        },
+        "preferred delivery time": "30~60 minutes",
+        "typical order time": "17~19:00 (35%), 10~12:00 (25%), 20~21:00 (15%)",
+        "recent orders": [
+          {
+            "store": "Yonghui Supermarket (Hefei Government District Branch)",
+            "product": "Vegetables, Tofu, Chicken Breast"
+          },
+          {
+            "store": "Elephant Life Supermarket (Evergrande Oasis Branch)",
+            "product": "Rice, Cooking Oil, Soy Sauce"
+          },
+          {
+            "store": "Family Mart (Changjiang West Road Branch)",
+            "product": "Pure Milk, Mineral Water, Tissue"
+          }
+        ],
+        "search history": [
+          "Low-purine food",
+          "Chicken breast",
+          "Tofu",
+          "Vegetables",
+          "Rice",
+          "Kitchen paper towels",
+          "Sugar-free drinks"
+        ]
+      }
+    },
+    "in-store consumption": {
+      "in-store dining": {
+        "fine-dining": {
+          "frequently consumed categories": [
+            "Foreign Cuisine/Japanese Food (Average 145 yuan)",
+            "Regional Cuisine/Shanghai & Jiangsu-Zhejiang Cuisine (Average 120 yuan)",
+            "Foreign Cuisine/Western Food (Average 130 yuan)"
+          ],
+          "preferred average price per person": "110~150 yuan",
+          "preferred store rating": "4.2~4.9 stars",
+          "typical dining time": "19:00-21:30",
+          "preferred distance": "500~4000m",
+          "recent orders": [
+            {
+              "store": "Helu Rotating Sushi (Wanda Plaza Branch)",
+              "product": "Deluxe Set for Two"
+            },
+            {
+              "store": "Jiangnan Kitchen (Greenland Branch)",
+              "product": "Squirrel-Shaped Mandarin Fish"
+            },
+            {
+              "store": "Simple Love Western Restaurant (Swan Lake Branch)",
+              "product": "Low-Fat Steak Set"
+            }
+          ],
+          "search history": [
+            "Healthy western food",
+            "Japanese cuisine",
+            "Low-oil Jiangsu-Zhejiang cuisine",
+            "Weight-loss restaurant"
+          ]
+        },
+        "light meal": {
+          "frequently consumed categories": [
+            "Snacks & Fast Food/Chinese Quick Meals (Average 32 yuan)",
+            "Snacks & Fast Food/Western Fast Food (Average 35 yuan)"
+          ],
+          "preferred average price per person": "25~40 yuan",
+          "preferred store rating": "3.5~4.3 stars",
+          "typical dining time": "12:00-13:30",
+          "preferred distance": "0~500m",
+          "recent orders": [
+            {
+              "store": "Light Food Select (Purple Peak Mansion Branch)",
+              "product": "Chicken Breast Salad"
+            },
+            {
+              "store": "Valley Light Food (Wanda Plaza Branch)",
+              "product": "Quinoa Chicken Breast Bento"
+            },
+            {
+              "store": "McDonald's (Purple Peak Branch)",
+              "product": "Low-Calorie Chicken Wrap + Vegetable Salad"
+            }
+          ],
+          "search history": [
+            "Weight-loss meals",
+            "Low-calorie bento",
+            "Healthy fast food",
+            "Light meals"
+          ]
+        },
+        "desserts/drinks/snacks": {
+          "frequently consumed categories": [
+            "Beverage Shops (Average 20 yuan)",
+            "Bread & Desserts (Average 25 yuan)"
+          ],
+          "preferred average price per person": "15~30 yuan",
+          "preferred store rating": "4.0~4.8 stars",
+          "typical dining time": "15:00-17:00",
+          "preferred distance": "0~800m",
+          "recent orders": [
+            {
+              "store": "Nayuki Tea (Wanda Branch)",
+              "product": "Cheese Jasmine Tea (0 Calorie Sugar)"
+            },
+            {
+              "store": "HeyTea (Purple Peak Branch)",
+              "product": "Grape Burst (No Added Sugar)"
+            },
+            {
+              "store": "BreadTalk",
+              "product": "Low-Sugar Whole Wheat Toast"
+            }
+          ],
+          "search history": [
+            "Low-sugar drinks",
+            "Low-calorie desserts",
+            "Sugar substitute milk tea",
+            "Low-fat bread"
+          ]
+        }
+      },
+      "other in-store services": {
+        "frequently consumed categories": {
+          "Sports & Fitness/Ball Sports": "35%",
+          "Sports & Fitness/Fitness Centers": "40%",
+          "Leisure & Entertainment/Massage/Foot Therapy": "25%"
+        },
+        "cost per order by category": {
+          "Sports & Fitness/Ball Sports": "80~150 yuan/time",
+          "Sports & Fitness/Fitness Centers": "120~200 yuan/time",
+          "Leisure & Entertainment/Massage/Foot Therapy": "60~300 yuan/time"
+        },
+        "preferred store rating": "4.0~4.8 stars",
+        "preferred service time": "10:00-12:00, 17:00-20:00",
+        "preferred distance": "0~5500m",
+        "recent orders": [
+          {
+            "store": "Leke Fitness (Purple Peak Branch)",
+            "product": "Personal Training Plan"
+          },
+          {
+            "store": "R · Swing Tennis",
+            "product": "Monthly Membership"
+          },
+          {
+            "store": "Tang Dynasty Blind Massage",
+            "product": "Choice of Waist/Visceral Massage or Foot Therapy"
+          }
+        ],
+        "search history": [
+          "Fitness trainer",
+          "Tennis coach",
+          "Stress-relief massage",
+          "Foot reflexology"
+        ]
+      }
+    },
+    "OTA": {
+      "visited scenes": {
+        "Exhibitions (Museums/Art Galleries)": "35%",
+        "Cultural Relics": "25%",
+        "Natural Landscapes (Mountains/Lakes/Forests)": "20%",
+        "Parks": "15%",
+        "Featured Villages/Industrial Tourism/Uncategorized": "5%"
+      },
+      "cost per night on hotel": "500~1000 yuan",
+      "visited hotels": {
+        "Ji Hotel": "30%",
+        "Atour": "25%",
+        "Vienna": "20%",
+        "Orange": "15%",
+        "Hanting": "10%"
+      },
+      "browsed hotels": {
+        "Four-Star Hotels": "35%",
+        "Comfort Hotels": "40%",
+        "Three-Star Hotels": "20%",
+        "Economy Hotels": "5%"
+      },
+      "historical travel plans": {
+        "Hefei-Hangzhou": {
+          "price range": "250-400 yuan",
+          "transportation": "High-Speed Rail/EMU Train"
+        },
+        "Hefei-Shanghai": {
+          "price range": "300-450 yuan",
+          "transportation": "High-Speed Rail/EMU Train"
+        },
+        "Hefei-Beijing": {
+          "price range": "550-800 yuan",
+          "transportation": "High-Speed Rail/EMU Train"
+        },
+        "Hefei-Huangshan": {
+          "price range": "150-250 yuan",
+          "transportation": "Long-Distance Bus"
+        },
+        "Hefei-Guangzhou": {
+          "price range": "800-1200 yuan",
+          "transportation": "Flight"
+        },
+        "Hefei-Chengdu": {
+          "price range": "700-1200 yuan",
+          "transportation": "Flight"
+        }
+      }
+    }
+  },
+  "stores": {
+    "S17550810586464916_S00001": {
+      "name": "Premium Sunglasses Selection",
+      "store_id": "S17550810586464916_S00001",
+      "score": 4.6,
+      "location": {
+        "address": "Premium Sunglasses Selection, 3rd Floor, Hefei Wanda Plaza, Intersection of Changjiang West Road and Qianshan Road, Shushan District, Hefei, Anhui Province",
+        "latitude": 31.8412,
+        "longitude": 117.2189
+      },
+      "tags": [
+        "Fashion Sunglasses",
+        "Brand-Name Glasses",
+        "Flash Delivery"
+      ],
+      "store_type": "target",
+      "products": [
+        {
+          "name": "Ray-Ban Classic Aviator Sunglasses",
+          "store_id": "S17550810586464916_S00001",
+          "store_name": "Premium Sunglasses Selection",
+          "price": 1299,
+          "tags": [
+            "Ray-Ban",
+            "Classic Style",
+            "Aviator Series",
+            "Polarized Lenses",
+            "High-End Sunglasses"
+          ],
+          "product_id": "S17550810586464916_P00001",
+          "attributes": [
+            "Black frame",
+            "Green lenses",
+            "Standard size",
+            "Full UV protection"
+          ],
+          "product_type": "target"
+        },
+        {
+          "name": "Bvlgari Luxury Sunglasses",
+          "store_id": "S17550810586464916_S00001",
+          "store_name": "Premium Sunglasses Selection",
+          "price": 2580,
+          "tags": [
+            "Bvlgari",
+            "Affordable Luxury",
+            "Fashionable",
+            "Square Frame",
+            "Imported Lenses"
+          ],
+          "product_id": "S17550810586464916_P00002",
+          "attributes": [
+            "Tortoiseshell color",
+            "Gradient brown lenses",
+            "Medium size",
+            "Full UV protection"
+          ],
+          "product_type": "distraction"
+        },
+        {
+          "name": "Bolon Polarized Sports Sunglasses",
+          "store_id": "S17550810586464916_S00001",
+          "store_name": "Premium Sunglasses Selection",
+          "price": 799,
+          "tags": [
+            "Bolon",
+            "Sports Series",
+            "Polarized",
+            "Lightweight Design",
+            "Anti-Slip Design"
+          ],
+          "product_id": "S17550810586464916_P00003",
+          "attributes": [
+            "Black and red color combination",
+            "Dark gray lenses",
+            "Standard size",
+            "Full UV protection",
+            "Sweat-resistant design"
+          ],
+          "product_type": "distraction"
+        },
+        {
+          "name": "Molsion Vintage Round Frame Sunglasses",
+          "store_id": "S17550810586464916_S00001",
+          "store_name": "Premium Sunglasses Selection",
+          "price": 499,
+          "tags": [
+            "Molsion",
+            "Vintage",
+            "Round Frame",
+            "Lightweight",
+            "Fashionable"
+          ],
+          "product_id": "S17550810586464916_P00004",
+          "attributes": [
+            "Gold frame",
+            "Brown lenses",
+            "Small size",
+            "Full UV protection"
+          ],
+          "product_type": "distraction"
+        },
+        {
+          "name": "Parim Ultra-Light Titanium Frame Sunglasses",
+          "store_id": "S17550810586464916_S00001",
+          "store_name": "Premium Sunglasses Selection",
+          "price": 659,
+          "tags": [
+            "Parim",
+            "Titanium Frame",
+            "Ultra-Light",
+            "Comfortable",
+            "Business"
+          ],
+          "product_id": "S17550810586464916_P00005",
+          "attributes": [
+            "Silver frame",
+            "Blue lenses",
+            "Standard size",
+            "Full UV protection",
+            "Blue light blocking"
+          ],
+          "product_type": "distraction"
+        }
+      ]
+    },
+    "S17550810586464916_S00002": {
+      "name": "Trendy Glasses Gallery",
+      "store_id": "S17550810586464916_S00002",
+      "score": 4.3,
+      "location": {
+        "address": "Trendy Glasses Gallery, 4th Floor, CR Rainbow City, Intersection of South Second Ring Road and Qianshan Road, Shushan District, Hefei, Anhui Province",
+        "latitude": 31.8395,
+        "longitude": 117.2245
+      },
+      "tags": [
+        "Sunglasses",
+        "Sunglasses",
+        "Same-Day Delivery"
+      ],
+      "store_type": "distraction",
+      "products": [
+        {
+          "name": "Ray-Ban Classic Aviator Sunglasses",
+          "store_id": "S17550810586464916_S00002",
+          "store_name": "Trendy Glasses Gallery",
+          "price": 1299,
+          "tags": [
+            "Ray-Ban",
+            "Classic Style",
+            "Polarized",
+            "UV400 Protection",
+            "Same-Day Delivery"
+          ],
+          "product_id": "S17550810586464916_P00006",
+          "attributes": [
+            "Black frame",
+            "Green lenses",
+            "Standard version",
+            "Includes professional glasses case"
+          ],
+          "product_type": "distraction"
+        },
+        {
+          "name": "Bolon Polarized Sunglasses",
+          "store_id": "S17550810586464916_S00002",
+          "store_name": "Trendy Glasses Gallery",
+          "price": 899,
+          "tags": [
+            "Bolon",
+            "Polarized",
+            "Light",
+            "Fashionable",
+            "Same-Day Delivery"
+          ],
+          "product_id": "S17550810586464916_P00007",
+          "attributes": [
+            "Silver frame",
+            "Gray lenses",
+            "Standard version",
+            "Includes glasses case"
+          ],
+          "product_type": "distraction"
+        },
+        {
+          "name": "Parim Vintage Round Frame Sunglasses",
+          "store_id": "S17550810586464916_S00002",
+          "store_name": "Trendy Glasses Gallery",
+          "price": 499,
+          "tags": [
+            "Vintage",
+            "Round Frame",
+            "UV Protection",
+            "Same-Day Delivery"
+          ],
+          "product_id": "S17550810586464916_P00008",
+          "attributes": [
+            "Gold frame",
+            "Brown lenses",
+            "Standard version"
+          ],
+          "product_type": "distraction"
+        },
+        {
+          "name": "Baodao Glasses Travel Set",
+          "store_id": "S17550810586464916_S00002",
+          "store_name": "Trendy Glasses Gallery",
+          "price": 599,
+          "tags": [
+            "Travel Set",
+            "Polarized",
+            "Sunglasses + Case + Cleaning Cloth",
+            "Same-Day Delivery"
+          ],
+          "product_id": "S17550810586464916_P00009",
+          "attributes": [
+            "Black frame",
+            "Gray lenses",
+            "Travel package"
+          ],
+          "product_type": "distraction"
+        },
+        {
+          "name": "Molsion Outdoor Sports Sunglasses",
+          "store_id": "S17550810586464916_S00002",
+          "store_name": "Trendy Glasses Gallery",
+          "price": 799,
+          "tags": [
+            "Sports Sunglasses",
+            "Sandstorm Protection",
+            "HD Polarized",
+            "Same-Day Delivery"
+          ],
+          "product_id": "S17550810586464916_P00010",
+          "attributes": [
+            "Red frame",
+            "Black lenses",
+            "Sports style",
+            "Includes professional glasses case"
+          ],
+          "product_type": "distraction"
+        }
+      ]
+    }
+  },
+  "orders": {
+    "S17550810586464916_O00001": {
+      "order_id": "S17550810586464916_O00001",
+      "order_type": "delivery",
+      "user_id": "U010005",
+      "store_id": "S17550810586464916_S00001",
+      "note": "",
+      "location": {
+        "address": "CR Land Plaza Tower A, 60 meters southwest of the intersection of Lvzhou West Road and Longtu Road, Shushan District, Hefei, Anhui Province",
+        "longitude": 117.2283,
+        "latitude": 31.8489
+      },
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 1299,
+      "create_time": "2024-09-05 15:22:43",
+      "update_time": "2024-09-05 15:22:43",
+      "status": "unpaid",
+      "products": [
+        {
+          "product_id": "S17550810586464916_P00001",
+          "price": 1299,
+          "quantity": 1
+        }
+      ]
+    },
+    "S17550810586464916_O00002": {
+      "order_id": "S17550810586464916_O00002",
+      "order_type": "flight",
+      "user_id": "U010005",
+      "store_id": "S17550810586464916_F00006",
+      "note": "",
+      "location": {
+        "address": "Hefei Xinqiao International Airport, Hefei, Anhui Province",
+        "longitude": 117.2969,
+        "latitude": 31.7801
+      },
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 1440,
+      "create_time": "2024-08-27 14:22:35",
+      "update_time": "2024-08-27 14:22:35",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17550810586464916_P00030",
+          "price": 720,
+          "quantity": 2,
+          "date": "2024-09-07",
+          "seat_type": "Economy Class"
+        }
+      ]
+    },
+    "S17550810586464916_O00003": {
+      "order_id": "S17550810586464916_O00003",
+      "order_type": "flight",
+      "user_id": "U010005",
+      "store_id": "S17550810586464916_F00009",
+      "note": "",
+      "location": {
+        "address": "Chengdu Shuangliu International Airport, Shuangliu District, Chengdu, Sichuan Province",
+        "longitude": 103.9471,
+        "latitude": 30.5785
+      },
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 1560,
+      "create_time": "2024-08-28 09:15:48",
+      "update_time": "2024-08-28 09:15:48",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17550810586464916_P00047",
+          "price": 780,
+          "quantity": 2,
+          "date": "2024-09-17",
+          "seat_type": "Economy Class"
+        }
+      ]
+    }
+  }
+}

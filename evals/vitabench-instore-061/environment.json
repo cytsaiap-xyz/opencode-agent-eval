@@ -1,0 +1,168 @@
+{
+  "task_id": "10826100",
+  "domain": "instore",
+  "time": "2023-05-12 13:45:00",
+  "user_id": "U543684",
+  "weather": [
+    {
+      "city": "Wenzhou",
+      "category": "cloudy",
+      "datetime": "2023-05-12",
+      "temperature": [
+        18,
+        26
+      ],
+      "humidity": 62
+    }
+  ],
+  "location": [],
+  "user_profile": {
+    "user id": "U543684",
+    "occupation": "Student",
+    "gender": "male",
+    "age group": "15~20",
+    "residence": "Wenzhou",
+    "home address": "Room 304, Building 8, Student Dormitory, Wenzhou University City College, 276 Xueyuan Road, Nanpu Street, Lucheng District, Wenzhou",
+    "work address": "Teaching Building B, Wenzhou University City College, 276 Xueyuan Road, Nanpu Street, Lucheng District, Wenzhou",
+    "dietary restrictions": "Seafood (fish/shrimp/crab), no fried food",
+    "family status": "Has Elderly",
+    "personality": "Impatient when doing things, frequently hurries others, lacks patience for processes"
+  },
+  "user_historical_behaviors": {
+    "user id": "U543684",
+    "occupation": "student",
+    "gender": "male",
+    "age group": "15~20",
+    "residence": "Wenzhou",
+    "home address": "Room 304, Building 8, Student Dormitory, Wenzhou University City College, 276 Xueyuan Road, Nanpu Street, Lucheng District, Wenzhou",
+    "work address": "Teaching Building B, Wenzhou University City College, 276 Xueyuan Road, Nanpu Street, Lucheng District, Wenzhou",
+    "in-store dining": {
+      "fine-dining": {
+        "frequently purchased categories": [
+          "Regional Cuisine/Sichuan Cuisine (Average 85 yuan)",
+          "Regional Cuisine/Shanghai and Zhejiang Cuisine (Average 95 yuan)",
+          "International Cuisine/Western Food (Average 120 yuan)"
+        ],
+        "preferred average price per person": "80~120 yuan",
+        "preferred store rating": "4.0~4.8 stars",
+        "typical dining time": "17:30-19:30",
+        "preferred distance": "500~2000m",
+        "recent orders": [
+          {
+            "store": "Sichuan Flavor Pavilion",
+            "product": "Boiled Fish (Non-spicy)"
+          },
+          {
+            "store": "Jiangnan Small Kitchen",
+            "product": "West Lake Vinegar Fish"
+          },
+          {
+            "store": "Steak House (Wenzhou Wanxiang City Store)",
+            "product": "Pasta Set Meal"
+          }
+        ],
+        "search history": [
+          "Non-spicy Sichuan cuisine",
+          "Jiangsu and Zhejiang cuisine",
+          "Western restaurants"
+        ]
+      },
+      "light meal": {
+        "frequently purchased categories": [
+          "Snacks/Fast Food/Chinese Quick Meals (Average 25 yuan)",
+          "Snacks/Fast Food/Western Fast Food (Average 35 yuan)",
+          "Regional Cuisine/Shanghai and Zhejiang Cuisine (Average 40 yuan)"
+        ],
+        "preferred average price per person": "20~45 yuan",
+        "preferred store rating": "3.5~4.2 stars",
+        "typical dining time": "11:30-13:00",
+        "preferred distance": "0~800m",
+        "recent orders": [
+          {
+            "store": "Yang Guofu Malatang",
+            "product": "Mild Malatang"
+          },
+          {
+            "store": "Shaxian Snacks",
+            "product": "Steamed Dumplings + Seaweed Soup"
+          },
+          {
+            "store": "KFC (Wenzhou University Store)",
+            "product": "Original Chicken Meal"
+          }
+        ],
+        "search history": [
+          "Restaurants near school",
+          "Healthy quick meals",
+          "Non-spicy fast food"
+        ]
+      },
+      "desserts/drinks/snacks": {
+        "frequently purchased categories": [
+          "Beverage Shops (Average 18 yuan)",
+          "Bread and Pastries (Average 22 yuan)",
+          "Other Dining/Fresh Fruits (Average 15 yuan)"
+        ],
+        "preferred average price per person": "15~25 yuan",
+        "preferred store rating": "3.8~4.5 stars",
+        "typical dining time": "15:00-17:00",
+        "preferred distance": "0~500m",
+        "recent orders": [
+          {
+            "store": "Yidiandian",
+            "product": "Cheese Qingke Milk Tea (Less Sugar)"
+          },
+          {
+            "store": "Bread Talk",
+            "product": "Whole Wheat Bread"
+          },
+          {
+            "store": "Xianfeng Fruits",
+            "product": "Fruit Platter"
+          }
+        ],
+        "search history": [
+          "Low-sugar milk tea",
+          "Healthy bread",
+          "Fruit shops"
+        ]
+      }
+    },
+    "other in-store services": {
+      "frequently consumed categories": {
+        "Sports and Fitness/Ball Sports": "60%",
+        "Sports and Fitness/Fitness Centers": "30%",
+        "Leisure and Entertainment/DIY Workshops": "10%"
+      },
+      "cost per order by category": {
+        "Sports and Fitness/Ball Sports": "30~80 yuan",
+        "Sports and Fitness/Fitness Centers": "20~50 yuan",
+        "Leisure and Entertainment/DIY Workshops": "60~120 yuan"
+      },
+      "preferred store rating": "3.7~4.5 stars",
+      "preferred service time": "16:00-20:00",
+      "preferred distance": "0~3000m",
+      "recent orders": [
+        {
+          "store": "Wenzhou University City College Gymnasium",
+          "product": "Badminton Court 2 hours"
+        },
+        {
+          "store": "Youth Fitness Gym",
+          "product": "Student Monthly Card"
+        },
+        {
+          "store": "Creative Workshop",
+          "product": "Pottery DIY Experience"
+        }
+      ],
+      "search history": [
+        "Badminton courts",
+        "Student fitness discounts",
+        "DIY crafts"
+      ]
+    }
+  },
+  "stores": {},
+  "orders": {}
+}

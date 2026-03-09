@@ -1,0 +1,92 @@
+{
+  "required_orders": [
+    {
+      "order_id": "B0714101T02",
+      "order_type": "delivery",
+      "user_id": "U000011",
+      "store_id": "S18748399810467268_S89485",
+      "note": "",
+      "location": {
+        "address": "Chengdu Exchange Building, South of Jinyun West Lane 1, Wuhou District, Chengdu, Sichuan Province",
+        "longitude": 104.071966,
+        "latitude": 30.584042
+      },
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 20,
+      "create_time": "2025-05-08 21:57:00",
+      "update_time": "2025-05-08 21:57:00",
+      "status": "processed",
+      "products": [
+        {
+          "product_id": "S19705338573272683_P73363",
+          "price": 20,
+          "quantity": 1,
+          "attributes": "No Extra Sugar (Recommended)"
+        }
+      ]
+    },
+    {
+      "order_id": "B0714001T02",
+      "order_type": "delivery",
+      "user_id": "U000011",
+      "store_id": "S18748399810467268_S89485",
+      "note": "",
+      "location": {
+        "address": "Chengdu Exchange Building, South of Jinyun West Lane 1, Wuhou District, Chengdu, Sichuan Province",
+        "longitude": 104.071966,
+        "latitude": 30.584042
+      },
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 20,
+      "create_time": "2025-05-08 21:50:00",
+      "update_time": "2025-05-08 21:57:00",
+      "status": "cancelled",
+      "products": [
+        {
+          "product_id": "S19705338573272683_P73363",
+          "price": 20,
+          "quantity": 1,
+          "attributes": "Regular Sugar"
+        },
+        {
+          "order_id": "B0714001T01",
+          "order_type": "delivery",
+          "user_id": "U000011",
+          "store_id": "S24731824436022753_S28135",
+          "note": "",
+          "location": {
+            "address": "Chengdu Exchange Building, South of Jinyun West Lane 1, Wuhou District, Chengdu, Sichuan Province",
+            "longitude": 104.071966,
+            "latitude": 30.584042
+          },
+          "dispatch_time": "",
+          "shipping_time": null,
+          "delivery_time": "",
+          "total_price": 23,
+          "create_time": "2025-05-08 22:01:00",
+          "update_time": "2025-05-08 22:01:00",
+          "status": "unpaid",
+          "products": [
+            {
+              "product_id": "S32773624016234062_P25950",
+              "price": 23,
+              "quantity": 1,
+              "attributes": ""
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "rubrics": [
+    "Cancel the Mango Pomelo Sago order from Shuxia (Yufeng Li Branch), and change the status of order_id B0714001T02 to cancelled",
+    "Place a new order for Mango Pomelo Sago at Shuxia (Yufeng Li Branch), select no extra sugar",
+    "The delivery address for the clay pot porridge order should be Chengdu Exchange Building, South of Jinyun West Lane 1, Wuhou District, Chengdu, Sichuan Province",
+    "The expected delivery time for the clay pot porridge order should be before 2025-05-08 22:30:00",
+    "When selecting clay pot porridge items, avoid products containing high-purine ingredients (such as organ meats, seafood, etc.)"
+  ]
+}

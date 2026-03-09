@@ -1,0 +1,185 @@
+{
+  "task_id": "10826095",
+  "domain": "instore",
+  "time": "2024-09-13 17:30:00",
+  "user_id": "U880777",
+  "weather": [
+    {
+      "city": "Nanning",
+      "category": "cloudy",
+      "datetime": "2024-09-13",
+      "temperature": [
+        26,
+        34
+      ],
+      "humidity": 65
+    }
+  ],
+  "location": [
+    {
+      "address": "Room 502, Building 3, Longteng Elegant Court, No. 12 Youai North Road, Xixiangtang District, Nanning",
+      "longitude": 108.290375,
+      "latitude": 22.839554
+    },
+    {
+      "address": "Nanning Bus Terminal, No. 131 Minzu Avenue, Qingxiu District, Nanning",
+      "longitude": 108.367843,
+      "latitude": 22.810635
+    },
+    {
+      "address": "Parking lot",
+      "longitude": 108.369856,
+      "latitude": 22.814701
+    }
+  ],
+  "user_profile": {
+    "user id": "U880777",
+    "occupation": "Driver",
+    "gender": "male",
+    "age group": "35~40",
+    "residence": "Nanning",
+    "home address": "Room 502, Building 3, Longteng Elegant Court, No. 12 Youai North Road, Xixiangtang District, Nanning",
+    "work address": "Nanning Bus Terminal, No. 131 Minzu Avenue, Qingxiu District, Nanning",
+    "dietary restrictions": "No alcohol",
+    "family status": "Has children",
+    "personality": "Strong logical thinking, likes to analyze and question things, pursues accuracy"
+  },
+  "user_historical_behaviors": {
+    "user id": "U880777",
+    "occupation": "Driver",
+    "gender": "male",
+    "age group": "35~40",
+    "residence": "Nanning",
+    "home address": "Room 502, Building 3, Longteng Elegant Court, No. 12 Youai North Road, Xixiangtang District, Nanning",
+    "work address": "Nanning Bus Terminal, No. 131 Minzu Avenue, Qingxiu District, Nanning",
+    "in-store dining": {
+      "fine-dining": {
+        "frequently purchased categories": [
+          "Regional Cuisine/Sichuan cuisine (Average 95 yuan)",
+          "Hot Pot (Average 120 yuan)",
+          "Regional Cuisine/Hunan Cuisine (Average 85 yuan)"
+        ],
+        "preferred average price per person": "85~120 yuan",
+        "preferred store rating": "4.0~4.7 stars",
+        "typical dining time": "18:30-20:30",
+        "preferred distance": "500~3000m",
+        "recent orders": [
+          {
+            "store": "Bashu General Hot Pot",
+            "product": "Couple Hot Pot Set (Alcohol-free drinks)"
+          },
+          {
+            "store": "Old Dock Sichuan Restaurant",
+            "product": "Boiled Fish + Twice-Cooked Pork + Dry-Fried Green Beans"
+          },
+          {
+            "store": "Xiang Yu Hunan Restaurant",
+            "product": "Steamed Fish Head with Chopped Chili + Homestyle Stir-fried Pork"
+          }
+        ],
+        "search history": [
+          "Best hot pot in Nanning",
+          "Alcohol-free Sichuan food",
+          "Family dinner restaurants"
+        ]
+      },
+      "light meal": {
+        "frequently purchased categories": [
+          "Snacks/Chinese light meal (Average 28 yuan)",
+          "Snacks/Western Fast Food (Average 35 yuan)",
+          "Regional Cuisine/Local Jiangzhe Cuisine (Average 42 yuan)"
+        ],
+        "preferred average price per person": "25~45 yuan",
+        "preferred store rating": "3.5~4.2 stars",
+        "typical dining time": "11:30-13:00",
+        "preferred distance": "0~1000m",
+        "recent orders": [
+          {
+            "store": "Yonghe King",
+            "product": "Signature Soy Milk + Pan-fried Buns"
+          },
+          {
+            "store": "Laoyou Rice Noodles",
+            "product": "Signature Laoyou Rice Noodles + Braised Egg"
+          },
+          {
+            "store": "McDonald's",
+            "product": "Double Beef Burger Combo"
+          }
+        ],
+        "search history": [
+          "Fast food near work",
+          "Affordable lunch",
+          "Restaurants near bus station"
+        ]
+      },
+      "desserts/drinks/snacks": {
+        "frequently purchased categories": [
+          "Beverage Shops (Average 18 yuan)",
+          "Bread and Desserts (Average 25 yuan)",
+          "Other Food/Fresh Fruits (Average 15 yuan)"
+        ],
+        "preferred average price per person": "15~25 yuan",
+        "preferred store rating": "3.8~4.5 stars",
+        "typical dining time": "15:00-16:30",
+        "preferred distance": "0~800m",
+        "recent orders": [
+          {
+            "store": "Chabad Tea",
+            "product": "Lemon Tea + Ice Cream Black Tea"
+          },
+          {
+            "store": "BreadTalk",
+            "product": "Whole Wheat Bread + Cheese Cake"
+          },
+          {
+            "store": "Xianfeng Fruits",
+            "product": "Sliced Fruit Platter"
+          }
+        ],
+        "search history": [
+          "Low-sugar drinks",
+          "Healthy desserts",
+          "Fruit stores"
+        ]
+      }
+    },
+    "other in-store services": {
+      "frequently consumed categories": {
+        "Sports & Fitness/Ball Sports": "45%",
+        "Leisure & Entertainment/Massage/Foot Massage": "35%",
+        "Parent-Child/Parent-Child Recreation": "20%"
+      },
+      "cost per order by category": {
+        "Sports & Fitness/Ball Sports": "50~120 yuan",
+        "Leisure & Entertainment/Massage/Foot Massage": "120~200 yuan",
+        "Parent-Child/Parent-Child Recreation": "80~150 yuan"
+      },
+      "preferred store rating": "3.9~4.6 stars",
+      "preferred service time": "19:00-21:00",
+      "preferred distance": "500~5000m",
+      "recent orders": [
+        {
+          "store": "Nanning Sports Center",
+          "product": "Badminton Court for 2 Hours"
+        },
+        {
+          "store": "Zufu Tang Massage",
+          "product": "Full Body Massage 90 Minutes (Relief for Driving Fatigue)"
+        },
+        {
+          "store": "Qiqile Children's Playground",
+          "product": "Parent-Child Ticket (1 Adult, 1 Child)"
+        }
+      ],
+      "search history": [
+        "Relief for back pain",
+        "Weekend family activities",
+        "Badminton courts",
+        "Affordable foot massage"
+      ]
+    }
+  },
+  "stores": {},
+  "orders": {}
+}

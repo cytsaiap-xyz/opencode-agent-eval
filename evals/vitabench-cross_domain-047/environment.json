@@ -1,0 +1,1137 @@
+{
+  "task_id": "A0807008",
+  "domain": "cross_domain",
+  "time": "2024-11-02 16:45:00",
+  "user_id": "U001097",
+  "weather": [
+    {
+      "city": "Jinan",
+      "category": "sunny",
+      "datetime": "2024-11-02",
+      "temperature": [
+        8,
+        16
+      ],
+      "humidity": 45
+    },
+    {
+      "city": "Zibo",
+      "category": "cloudy",
+      "datetime": "2024-11-03",
+      "temperature": [
+        7,
+        15
+      ],
+      "humidity": 50
+    }
+  ],
+  "location": [
+    {
+      "address": "Room 1902, Unit 1, Building 9, Ronghui City, 2000 Olympic West Road, Lixia District, Jinan, Shandong Province",
+      "longitude": 117.129884,
+      "latitude": 36.651216
+    },
+    {
+      "address": "Zhongjian Cloud View",
+      "longitude": 117.126523,
+      "latitude": 36.651089
+    }
+  ],
+  "user_profile": {
+    "user id": "U001097",
+    "occupation": "Designer",
+    "gender": "female",
+    "age group": "25~30",
+    "residence": "Jinan",
+    "home address": "Room 1902, Unit 1, Building 9, Ronghui City, 2000 Olympic West Road, Lixia District, Jinan, Shandong Province",
+    "work address": "Room 1506, Building A, Lushang Plaza, 15078 Jingshi Road, Lixia District, Jinan, Shandong Province",
+    "dietary restrictions": "Allergic to seafood (fish/shrimp/crab)",
+    "family status": "Has pets",
+    "personality": "Scattered and jumpy thinking, easily distracted and prone to changing ideas"
+  },
+  "user_historical_behaviors": {
+    "user id": "U001097",
+    "occupation": "Designer",
+    "gender": "female",
+    "age group": "25~30",
+    "residence": "Jinan",
+    "home address": "Room 1902, Unit 1, Building 9, Ronghui City, 2000 Olympic West Road, Lixia District, Jinan, Shandong Province",
+    "work address": "Room 1506, Building A, Lushang Plaza, 15078 Jingshi Road, Lixia District, Jinan, Shandong Province",
+    "delivery": {
+      "food delivery": {
+        "breakfast": {
+          "frequently purchased categories": [
+            "Quick Meals/Buns/Pan-fried Buns (Average 18 yuan)",
+            "Quick Meals/Light Food (Average 32 yuan)",
+            "Quick Meals/Salad (Average 28 yuan)"
+          ],
+          "cost per order": "15~35 yuan",
+          "preferred store rating": "4.5~4.8",
+          "preferred delivery time": "15~25 minutes",
+          "preferred distance": "0~1500m",
+          "recent orders": [
+            {
+              "store": "Fresh Light Food",
+              "product": "Avocado Chicken Breast Salad"
+            },
+            {
+              "store": "Xifu Bun Shop",
+              "product": "Pan-fried Pork Buns"
+            },
+            {
+              "store": "Daily Select",
+              "product": "Boiled Eggs + Vegetable Salad"
+            }
+          ],
+          "search history": [
+            "Low-sugar breakfast",
+            "Salad",
+            "Boiled eggs",
+            "Pan-fried buns",
+            "Light food"
+          ]
+        },
+        "weekday lunch/dinner": {
+          "frequently purchased categories": [
+            "Quick Meals/Healthy Meals (Average 42 yuan)",
+            "Chinese Cuisine/Shandong Cuisine (Average 55 yuan)",
+            "Quick Meals/Salad (Average 30 yuan)"
+          ],
+          "cost per order": "30~60 yuan",
+          "preferred store rating": "4.6~4.9",
+          "preferred delivery time": "20~35 minutes",
+          "preferred distance": "0~2500m",
+          "recent orders": [
+            {
+              "store": "Healthy Diet Select",
+              "product": "Low-fat Chicken Breast Meal"
+            },
+            {
+              "store": "Shandong Flavor House",
+              "product": "Stir-fried Lamb with Scallions"
+            },
+            {
+              "store": "Vegetarian Philosophy",
+              "product": "Quinoa Chicken Breast Salad"
+            }
+          ],
+          "search history": [
+            "Low sugar",
+            "Healthy meals",
+            "Shandong cuisine",
+            "Salad",
+            "Low fat"
+          ]
+        },
+        "weekend lunch/dinner": {
+          "frequently purchased categories": [
+            "Chinese Cuisine/Shandong Cuisine (Average 75 yuan)",
+            "Chinese Cuisine/Cantonese Cuisine (Average 90 yuan)",
+            "International Cuisine/Pasta (Average 65 yuan)"
+          ],
+          "cost per order": "60~120 yuan",
+          "preferred store rating": "4.7~5.0",
+          "preferred delivery time": "30~45 minutes",
+          "preferred distance": "0~3500m",
+          "recent orders": [
+            {
+              "store": "Jinan Traditional Restaurant",
+              "product": "Nine-turn Intestine + Sweet and Sour Pork"
+            },
+            {
+              "store": "Cantonese Delight",
+              "product": "White Cut Chicken + Poached Shrimp"
+            },
+            {
+              "store": "Italian Atmosphere",
+              "product": "Tomato Seafood Pasta (Low Sugar Version)"
+            }
+          ],
+          "search history": [
+            "Sugar-free",
+            "Shandong cuisine",
+            "Cantonese cuisine",
+            "Home-style dishes",
+            "Low-sugar pasta"
+          ]
+        },
+        "desserts/drinks/snacks": {
+          "frequently purchased categories": [
+            "Drinks & Desserts/Juice (Average 22 yuan)",
+            "Drinks & Desserts/Fruit Salad (Average 35 yuan)",
+            "Drinks & Desserts/Pure Tea/Herbal Tea (Average 18 yuan)"
+          ],
+          "cost per order": "15~40 yuan",
+          "preferred store rating": "4.6~4.9",
+          "preferred delivery time": "15~30 minutes",
+          "preferred distance": "0~2000m",
+          "recent orders": [
+            {
+              "store": "Fresh Juice Bar",
+              "product": "Fresh Grapefruit Juice (Sugar-free)"
+            },
+            {
+              "store": "Fruit Mix",
+              "product": "Colorful Fruit Salad (Sugar-free)"
+            },
+            {
+              "store": "Tea Time",
+              "product": "Chrysanthemum Pu'er Tea"
+            }
+          ],
+          "search history": [
+            "Sugar-free drinks",
+            "Fresh juice",
+            "Fruit salad",
+            "Chrysanthemum tea",
+            "Low-sugar desserts"
+          ]
+        },
+        "night snack": {
+          "frequently purchased categories": [
+            "Quick Meals/Small Dishes/Half Portions (Average 35 yuan)",
+            "Quick Meals/Claypot Dishes (Average 42 yuan)"
+          ],
+          "cost per order": "30~50 yuan",
+          "preferred store rating": "4.5~4.8",
+          "preferred delivery time": "25~40 minutes",
+          "preferred distance": "0~2500m",
+          "recent orders": [
+            {
+              "store": "Small Dish",
+              "product": "Chicken with Seasonal Vegetables Small Bowl"
+            },
+            {
+              "store": "Claypot Master",
+              "product": "Mushroom and Tofu Claypot"
+            },
+            {
+              "store": "Nutritious Pot",
+              "product": "Clear Stewed Pork Rib Soup"
+            }
+          ],
+          "search history": [
+            "Small dishes",
+            "Claypot",
+            "Clear soup",
+            "Low-fat night snack"
+          ]
+        }
+      },
+      "product delivery": {
+        "frequently purchased categories": [
+          "Vegetables/Tofu Products(32%)",
+          "Fruits(25%)",
+          "Pet Supplies(18%)",
+          "Household Items(12%)",
+          "Grains/Oils/Seasonings/Dried Foods(8%)",
+          "Others(5%)"
+        ],
+        "frequently visited stores": [
+          "Elephant Fresh (Jinan Olympic Center Branch)(45%)",
+          "Hema Fresh(25%)",
+          "Pet Love Home Pet Store(18%)",
+          "Other stores(12%)"
+        ],
+        "cost per order by category": {
+          "Vegetables/Tofu Products": "5~25 yuan",
+          "Fruits": "10~40 yuan",
+          "Pet Supplies": "30~120 yuan",
+          "Household Items": "15~50 yuan",
+          "Grains/Oils/Seasonings/Dried Foods": "10~35 yuan"
+        },
+        "preferred delivery time": "25~60 minutes",
+        "typical order time": "18~20:00(38%), 10~12:00(25%), 16~18:00(20%)",
+        "recent orders": [
+          {
+            "store": "Elephant Fresh (Jinan Olympic Center Branch)",
+            "product": "Organic Spinach 300g, Tofu 2 blocks"
+          },
+          {
+            "store": "Pet Love Home Pet Store",
+            "product": "Hypoallergenic Cat Food 2kg, Cat Litter"
+          },
+          {
+            "store": "Hema Fresh",
+            "product": "Kiwi Fruits 4pcs, Avocados 2pcs"
+          }
+        ],
+        "search history": [
+          "Organic vegetables",
+          "Hypoallergenic cat food",
+          "Sugar-free food",
+          "Kiwi fruit",
+          "Tofu",
+          "Cat litter"
+        ]
+      }
+    },
+    "in-store consumption": {
+      "in-store dining": {
+        "fine-dining": {
+          "frequently consumed categories": [
+            "Regional Cuisine/Special Dishes (Average 135 yuan)",
+            "Regional Cuisine/Sichuan Cuisine (Average 90 yuan)",
+            "International Cuisine/Japanese Food (Average 150 yuan)"
+          ],
+          "preferred average price per person": "90~150 yuan",
+          "preferred store rating": "4.2~4.8 stars",
+          "typical dining time": "19:00-21:00",
+          "preferred distance": "0~500m",
+          "recent orders": [
+            {
+              "store": "North Sea Fisherman",
+              "product": "Signature Steamed Fish (No Seafood)"
+            },
+            {
+              "store": "Blue Pepper Sichuan Restaurant",
+              "product": "Boiled Beef in Chili Oil, Dry Pot Tea Tree Mushrooms"
+            },
+            {
+              "store": "Hegreen Conveyor Belt Sushi",
+              "product": "Vegetable Tempura, Vegetarian Sushi Platter"
+            }
+          ],
+          "search history": [
+            "No Seafood Sichuan cuisine",
+            "Healthy special dishes",
+            "Vegetarian Japanese food",
+            "Light food restaurant",
+            "Jinan high-end restaurants"
+          ]
+        },
+        "light meal": {
+          "frequently consumed categories": [
+            "Fast Food/Chinese Quick Meals (Average 38 yuan)",
+            "Regional Cuisine/Beijing Cuisine (Average 45 yuan)",
+            "International Cuisine/Korean Food (Average 55 yuan)"
+          ],
+          "preferred average price per person": "35~60 yuan",
+          "preferred store rating": "3.5~4.3 stars",
+          "typical dining time": "12:00-13:30",
+          "preferred distance": "0~800m",
+          "recent orders": [
+            {
+              "store": "Salad Diary",
+              "product": "Quinoa Chicken Breast Salad"
+            },
+            {
+              "store": "Yoshinoya",
+              "product": "Vegetable Beef Rice Bowl"
+            },
+            {
+              "store": "Han Jiang Hui",
+              "product": "Stone Pot Bibimbap (No Seafood)"
+            }
+          ],
+          "search history": [
+            "Healthy fast food",
+            "Diet meals",
+            "Light food",
+            "Quick meals near office",
+            "Non-fried fast food"
+          ]
+        },
+        "desserts/drinks/snacks": {
+          "frequently consumed categories": [
+            "Beverage Shops (Average 22 yuan)",
+            "Bread & Desserts (Average 35 yuan)"
+          ],
+          "preferred average price per person": "20~40 yuan",
+          "preferred store rating": "4.0~4.7 stars",
+          "typical dining time": "15:00-16:30",
+          "preferred distance": "0~500m",
+          "recent orders": [
+            {
+              "store": "HeyTea",
+              "product": "Grapefruit with Aloe"
+            },
+            {
+              "store": "MissQ",
+              "product": "Oat Milk Latte"
+            },
+            {
+              "store": "Bread Talk",
+              "product": "Whole Wheat Walnut Toast"
+            }
+          ],
+          "search history": [
+            "Low-sugar drinks",
+            "Lactose-free desserts",
+            "Healthy bread",
+            "Oat milk coffee",
+            "Afternoon tea"
+          ]
+        }
+      },
+      "other in-store services": {
+        "frequently consumed categories": {
+          "Beauty/Hair Salon": "20%",
+          "Beauty/Yoga": "30%",
+          "Sports & Fitness/Fitness Center": "35%",
+          "Entertainment/DIY Workshop": "15%"
+        },
+        "cost per order by category": {
+          "Beauty/Hair Salon": "280~550 yuan",
+          "Beauty/Yoga": "80~150 yuan/session",
+          "Sports & Fitness/Fitness Center": "120~200 yuan/session",
+          "Entertainment/DIY Workshop": "150~300 yuan/session"
+        },
+        "preferred store rating": "4.0~4.8 stars",
+        "preferred service time": "18:00-21:00",
+        "preferred distance": "0~5000m",
+        "recent orders": [
+          {
+            "store": "Fanyin Yoga",
+            "product": "Hot Yoga Monthly Pass"
+          },
+          {
+            "store": "Fila Fitness",
+            "product": "10 Personal Training Sessions"
+          },
+          {
+            "store": "Pottery Workshop",
+            "product": "Individual Pottery Making Experience"
+          }
+        ],
+        "search history": [
+          "Fitness studio",
+          "Jinan yoga",
+          "Pottery",
+          "High-end hair salon",
+          "Nearby fitness center"
+        ]
+      }
+    },
+    "OTA": {
+      "visited scenes": {
+        "Cultural Heritage Sites": "30%",
+        "Exhibitions (Museums/Art Galleries)": "25%",
+        "Natural Landscapes (Mountains/Lakes/Forests)": "15%",
+        "Hot Spring Resorts": "20%",
+        "Parks": "10%"
+      },
+      "cost per night on hotel": "500~1000 yuan",
+      "visited hotels": {
+        "Atour": "35%",
+        "JI Hotel": "30%",
+        "Vienna": "20%",
+        "Huazhu": "15%"
+      },
+      "browsed hotels": {
+        "Four-star Hotels": "45%",
+        "Three-star Hotels": "25%",
+        "Comfort Hotels": "30%"
+      },
+      "historical travel plans": {
+        "Jinan-Beijing": {
+          "price range": "400-600 yuan",
+          "transportation mode": "High-speed Rail"
+        },
+        "Jinan-Shanghai": {
+          "price range": "600-900 yuan",
+          "transportation mode": "High-speed Rail"
+        },
+        "Jinan-Hangzhou": {
+          "price range": "700-1000 yuan",
+          "transportation mode": "High-speed Rail"
+        },
+        "Jinan-Qingdao": {
+          "price range": "100-200 yuan",
+          "transportation mode": "High-speed Rail"
+        },
+        "Jinan-Zibo": {
+          "price range": "16-60 yuan",
+          "transportation mode": "High-speed Rail"
+        },
+        "Zibo-Jinan": {
+          "price range": "16-60 yuan",
+          "transportation mode": "High-speed Rail"
+        }
+      }
+    }
+  },
+  "stores": {
+    "S17550811051817692_S00001": {
+      "name": "JD Home Supermarket",
+      "store_id": "S17550811051817692_S00001",
+      "score": 4.8,
+      "location": {
+        "address": "JD Home Supermarket, 1800 Olympic West Road, Lixia District, Jinan, Shandong Province",
+        "latitude": 36.650578,
+        "longitude": 117.128245
+      },
+      "tags": [
+        "product delivery",
+        "Daily Necessities",
+        "Storage Products"
+      ],
+      "store_type": "target",
+      "products": [
+        {
+          "name": "Baiyuan Thickened Plastic Storage Box Medium Size",
+          "store_id": "S17550811051817692_S00001",
+          "store_name": "JD Home Supermarket",
+          "price": 39.9,
+          "tags": [
+            "Storage Container",
+            "Medium Size",
+            "Sturdy and Durable",
+            "Thickened"
+          ],
+          "product_id": "S17550811051817692_P00001",
+          "attributes": [
+            "Gray",
+            "Blue",
+            "Pink"
+          ],
+          "product_type": "target"
+        },
+        {
+          "name": "Premium Reinforced Storage Box Large Size",
+          "store_id": "S17550811051817692_S00001",
+          "store_name": "JD Home Supermarket",
+          "price": 29.9,
+          "tags": [
+            "Storage Box",
+            "Large Size",
+            "Reinforced"
+          ],
+          "product_id": "S17550811051817692_P00002",
+          "attributes": [
+            "White",
+            "Black"
+          ],
+          "product_type": "distraction"
+        },
+        {
+          "name": "Double Buckle Multi-functional Storage Box Small Size",
+          "store_id": "S17550811051817692_S00001",
+          "store_name": "JD Home Supermarket",
+          "price": 45.8,
+          "tags": [
+            "Storage Container",
+            "Reinforced",
+            "Double Buckle",
+            "Sturdy and Durable"
+          ],
+          "product_id": "S17550811051817692_P00003",
+          "attributes": [
+            "Transparent",
+            "Blue",
+            "Purple"
+          ],
+          "product_type": "target"
+        },
+        {
+          "name": "Large Oxford Fabric Storage Box",
+          "store_id": "S17550811051817692_S00001",
+          "store_name": "JD Home Supermarket",
+          "price": 59.9,
+          "tags": [
+            "Storage Container",
+            "Large Size",
+            "Fabric",
+            "Foldable"
+          ],
+          "product_id": "S17550811051817692_P00004",
+          "attributes": [
+            "Beige",
+            "Gray"
+          ],
+          "product_type": "distraction"
+        },
+        {
+          "name": "Thickened Extra-Hard Plastic Storage Box Small Size",
+          "store_id": "S17550811051817692_S00001",
+          "store_name": "JD Home Supermarket",
+          "price": 32.5,
+          "tags": [
+            "Storage Container",
+            "Extra Hard",
+            "Thickened",
+            "Sturdy and Durable"
+          ],
+          "product_id": "S17550811051817692_P00005",
+          "attributes": [
+            "Transparent",
+            "Black"
+          ],
+          "product_type": "target"
+        }
+      ]
+    },
+    "S17550811051817692_S00002": {
+      "name": "Neighborhood Convenience Store",
+      "store_id": "S17550811051817692_S00002",
+      "score": 4.6,
+      "location": {
+        "address": "Neighborhood Convenience Store, 12345 Jingshi Road, Lixia District, Jinan, Shandong Province",
+        "latitude": 36.654321,
+        "longitude": 117.123456
+      },
+      "tags": [
+        "product delivery",
+        "Home Products",
+        "Storage Products",
+        "Next-day Delivery"
+      ],
+      "store_type": "distraction",
+      "products": [
+        {
+          "name": "Xitianlong Medium Storage Box",
+          "store_id": "S17550811051817692_S00002",
+          "store_name": "Neighborhood Convenience Store",
+          "price": 39.9,
+          "tags": [
+            "Storage Container",
+            "Medium Size",
+            "Sturdy and Durable",
+            "Home Storage",
+            "Moving Essential"
+          ],
+          "product_id": "S17550811051817692_P00006",
+          "attributes": [
+            "Gray",
+            "38L",
+            "PP Material",
+            "Stackable"
+          ],
+          "product_type": "distraction"
+        },
+        {
+          "name": "Baicaoyuan Thickened Medium Storage Box",
+          "store_id": "S17550811051817692_S00002",
+          "store_name": "Neighborhood Convenience Store",
+          "price": 45.8,
+          "tags": [
+            "Storage Box",
+            "Thickened",
+            "Medium Size",
+            "Sturdy and Durable",
+            "Transparent"
+          ],
+          "product_id": "S17550811051817692_P00007",
+          "attributes": [
+            "Transparent",
+            "35L",
+            "Thickened PP Material",
+            "With Lid"
+          ],
+          "product_type": "distraction"
+        },
+        {
+          "name": "Iris Medium Foldable Storage Box",
+          "store_id": "S17550811051817692_S00002",
+          "store_name": "Neighborhood Convenience Store",
+          "price": 59.9,
+          "tags": [
+            "Foldable Storage Box",
+            "Medium Size",
+            "Space-saving",
+            "Sturdy and Durable",
+            "Foldable"
+          ],
+          "product_id": "S17550811051817692_P00008",
+          "attributes": [
+            "Blue",
+            "40L",
+            "Thickened PP Material",
+            "Foldable Design"
+          ],
+          "product_type": "distraction"
+        },
+        {
+          "name": "Youpin Multi-functional Storage Box Three-Piece Set",
+          "store_id": "S17550811051817692_S00002",
+          "store_name": "Neighborhood Convenience Store",
+          "price": 79.9,
+          "tags": [
+            "Storage Container",
+            "Organizer Box",
+            "Three-Piece Set",
+            "Medium Size",
+            "Sturdy and Durable"
+          ],
+          "product_id": "S17550811051817692_P00009",
+          "attributes": [
+            "Pink",
+            "30L+40L+50L",
+            "Eco-friendly PP Material",
+            "With Wheels"
+          ],
+          "product_type": "distraction"
+        },
+        {
+          "name": "Chahua Plastic Storage Box Medium Size",
+          "store_id": "S17550811051817692_S00002",
+          "store_name": "Neighborhood Convenience Store",
+          "price": 32.9,
+          "tags": [
+            "Storage Container",
+            "Medium Size",
+            "Sturdy and Durable",
+            "Home Storage",
+            "With Lid"
+          ],
+          "product_id": "S17550811051817692_P00010",
+          "attributes": [
+            "Green",
+            "36L",
+            "Thickened Material",
+            "Stackable"
+          ],
+          "product_type": "distraction"
+        }
+      ]
+    },
+    "S17550811051817692_S00003": {
+      "name": "Caterpillar Supermarket",
+      "store_id": "S17550811051817692_S00003",
+      "score": 4.7,
+      "location": {
+        "address": "Caterpillar Supermarket, 600 Olympic Middle Road, Lixia District, Jinan, Shandong Province",
+        "latitude": 36.605123,
+        "longitude": 117.12089
+      },
+      "tags": [
+        "product delivery",
+        "Home Products",
+        "Storage Products"
+      ],
+      "store_type": "target",
+      "products": [
+        {
+          "name": "Iris Medium Plastic Storage Box",
+          "store_id": "S17550811051817692_S00003",
+          "store_name": "Caterpillar Supermarket",
+          "price": 39.9,
+          "tags": [
+            "Storage Container",
+            "Medium Size",
+            "Sturdy and Durable",
+            "Plastic",
+            "Home Storage"
+          ],
+          "product_id": "S17550811051817692_P00011",
+          "attributes": [
+            "Gray",
+            "Transparent",
+            "With Lid"
+          ],
+          "product_type": "target"
+        },
+        {
+          "name": "Xitianlong Thickened Medium Storage Box",
+          "store_id": "S17550811051817692_S00003",
+          "store_name": "Caterpillar Supermarket",
+          "price": 49.9,
+          "tags": [
+            "Storage Container",
+            "Medium Size",
+            "Thickened",
+            "Sturdy",
+            "Moving Essential"
+          ],
+          "product_id": "S17550811051817692_P00012",
+          "attributes": [
+            "Blue",
+            "White",
+            "Pink"
+          ],
+          "product_type": "target"
+        },
+        {
+          "name": "Baicaoyuan Oxford Fabric Storage Box",
+          "store_id": "S17550811051817692_S00003",
+          "store_name": "Caterpillar Supermarket",
+          "price": 29.9,
+          "tags": [
+            "Storage Container",
+            "Medium Size",
+            "Fabric",
+            "Foldable"
+          ],
+          "product_id": "S17550811051817692_P00013",
+          "attributes": [
+            "Gray",
+            "Beige",
+            "Coffee"
+          ],
+          "product_type": "distraction"
+        },
+        {
+          "name": "Chahua Extra Large Storage Box",
+          "store_id": "S17550811051817692_S00003",
+          "store_name": "Caterpillar Supermarket",
+          "price": 89.9,
+          "tags": [
+            "Storage Container",
+            "Extra Large Size",
+            "Thickened",
+            "Sturdy and Durable",
+            "Same-day Delivery"
+          ],
+          "product_id": "S17550811051817692_P00014",
+          "attributes": [
+            "Blue",
+            "Green"
+          ],
+          "product_type": "distraction"
+        },
+        {
+          "name": "Lock & Lock Medium Storage Box Three-Piece Set",
+          "store_id": "S17550811051817692_S00003",
+          "store_name": "Caterpillar Supermarket",
+          "price": 129.9,
+          "tags": [
+            "Storage Container",
+            "Medium Size",
+            "Three-Piece Set",
+            "Sturdy and Durable",
+            "PP Material",
+            "2-Hour Delivery"
+          ],
+          "product_id": "S17550811051817692_P00015",
+          "attributes": [
+            "Transparent",
+            "Blue Edge",
+            "Green Edge"
+          ],
+          "product_type": "target"
+        }
+      ]
+    },
+    "S17550811051817692_S00004": {
+      "name": "Mr. Donkey",
+      "store_id": "S17550811051817692_S00004",
+      "score": 4.5,
+      "location": {
+        "address": "Mr. Donkey, 888 Olympic East Road, Lixia District, Jinan, Shandong Province",
+        "latitude": 36.652345,
+        "longitude": 117.032456
+      },
+      "tags": [
+        "product delivery",
+        "Fresh Food",
+        "Daily Necessities"
+      ],
+      "store_type": "distraction",
+      "products": [
+        {
+          "name": "Multi-functional Plastic Storage Box",
+          "store_id": "S17550811051817692_S00004",
+          "store_name": "Mr. Donkey",
+          "price": 39.9,
+          "tags": [
+            "Medium Storage",
+            "Thickened Material",
+            "Durable",
+            "Home Organization"
+          ],
+          "product_id": "S17550811051817692_P00016",
+          "attributes": [
+            "Transparent Style",
+            "Gray Style",
+            "Blue Style"
+          ],
+          "product_type": "target"
+        },
+        {
+          "name": "Extra Thick Reinforced Storage Box",
+          "store_id": "S17550811051817692_S00004",
+          "store_name": "Mr. Donkey",
+          "price": 59.9,
+          "tags": [
+            "Medium Storage",
+            "Extra Thick Material",
+            "Reinforced Design",
+            "Strong Load-bearing"
+          ],
+          "product_id": "S17550811051817692_P00017",
+          "attributes": [
+            "Black Style",
+            "Gray Style"
+          ],
+          "product_type": "target"
+        },
+        {
+          "name": "Small Storage Box Three-Piece Set",
+          "store_id": "S17550811051817692_S00004",
+          "store_name": "Mr. Donkey",
+          "price": 29.9,
+          "tags": [
+            "Small Storage",
+            "Three-Piece Set",
+            "Lightweight",
+            "Desktop Organization"
+          ],
+          "product_id": "S17550811051817692_P00018",
+          "attributes": [
+            "White",
+            "Pink"
+          ],
+          "product_type": "distraction"
+        },
+        {
+          "name": "Foldable Fabric Storage Box",
+          "store_id": "S17550811051817692_S00004",
+          "store_name": "Mr. Donkey",
+          "price": 45.9,
+          "tags": [
+            "Medium Storage",
+            "Fabric Material",
+            "Foldable",
+            "Home Organization"
+          ],
+          "product_id": "S17550811051817692_P00019",
+          "attributes": [
+            "Beige",
+            "Gray",
+            "Blue"
+          ],
+          "product_type": "distraction"
+        },
+        {
+          "name": "Imported Live Boston Lobster",
+          "store_id": "S17550811051817692_S00004",
+          "store_name": "Mr. Donkey",
+          "price": 298,
+          "tags": [
+            "Seafood",
+            "Fresh Food",
+            "High-end Ingredients",
+            "Hotpot Ingredients"
+          ],
+          "product_id": "S17550811051817692_P00020",
+          "attributes": [
+            "500g-600g/piece",
+            "700g-800g/piece"
+          ],
+          "product_type": "distraction"
+        }
+      ]
+    }
+  },
+  "orders": {
+    "S17550811051817692_O00001": {
+      "order_id": "S17550811051817692_O00001",
+      "order_type": "delivery",
+      "user_id": "U001097",
+      "store_id": "S17550811051817692_S00003",
+      "total_price": 129.7,
+      "create_time": "2024-10-31 12:15:23",
+      "status": "delivered",
+      "products": [
+        {
+          "product_id": "S17550811051817692_P00011",
+          "price": 39.9,
+          "quantity": 2
+        },
+        {
+          "product_id": "S17550811051817692_P00012",
+          "price": 49.9,
+          "quantity": 1
+        }
+      ]
+    },
+    "S17550811051817692_O00002": {
+      "order_id": "S17550811051817692_O00002",
+      "order_type": "delivery",
+      "user_id": "U001097",
+      "store_id": "S17550811051817692_S00001",
+      "total_price": 127.5,
+      "create_time": "2024-10-29 15:45:12",
+      "status": "delivered",
+      "products": [
+        {
+          "product_id": "S17550811051817692_P00001",
+          "price": 39.9,
+          "quantity": 1
+        },
+        {
+          "product_id": "S17550811051817692_P00003",
+          "price": 45.8,
+          "quantity": 1
+        },
+        {
+          "product_id": "S17550811051817692_P00005",
+          "price": 42.5,
+          "quantity": 1
+        }
+      ]
+    },
+    "S17550811051817692_O00003": {
+      "order_id": "S17550811051817692_O00003",
+      "order_type": "train",
+      "user_id": "U001097",
+      "store_id": "S17550811051817692_T00006",
+      "note": "Jinan-Zibo Business Trip",
+      "location": {
+        "address": "Jinan Railway Station, Tianqiao District, Jinan, Shandong Province",
+        "longitude": 116.998889,
+        "latitude": 36.678056
+      },
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 39.5,
+      "create_time": "2024-10-25 09:12:34",
+      "update_time": "2024-10-25 09:15:22",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17550811051817692_P00027",
+          "price": 39.5,
+          "quantity": 1,
+          "seat_type": "Second Class Seat"
+        }
+      ]
+    },
+    "S17550811051817692_O00004": {
+      "order_id": "S17550811051817692_O00004",
+      "order_type": "train",
+      "user_id": "U001097",
+      "store_id": "S17550811051817692_T00008",
+      "note": "Zibo-Jinan Return Trip",
+      "location": {
+        "address": "Zibo North Railway Station, Zhangdian District, Zibo, Shandong Province",
+        "longitude": 118.066667,
+        "latitude": 36.833333
+      },
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 40.0,
+      "create_time": "2024-10-25 15:30:45",
+      "update_time": "2024-10-25 15:32:18",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17550811051817692_P00045",
+          "price": 40.0,
+          "quantity": 1,
+          "seat_type": "Second Class Seat"
+        }
+      ]
+    },
+    "S17550811051817692_O00005": {
+      "order_id": "S17550811051817692_O00005",
+      "order_type": "train",
+      "user_id": "U001097",
+      "store_id": "S17550811051817692_T00006",
+      "note": "Jinan-Zibo Family Visit",
+      "location": {
+        "address": "Jinan Railway Station, Tianqiao District, Jinan, Shandong Province",
+        "longitude": 116.998889,
+        "latitude": 36.678056
+      },
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 125.0,
+      "create_time": "2024-09-25 18:45:23",
+      "update_time": "2024-09-25 18:47:12",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17550811051817692_P00027",
+          "price": 39.5,
+          "quantity": 1,
+          "seat_type": "Second Class Seat"
+        },
+        {
+          "product_id": "S17550811051817692_P00028",
+          "price": 62.5,
+          "quantity": 1,
+          "seat_type": "First Class Seat"
+        },
+        {
+          "product_id": "S17550811051817692_P00027",
+          "price": 39.5,
+          "quantity": 0,
+          "seat_type": "Second Class Seat"
+        }
+      ]
+    },
+    "S17550811051817692_O00006": {
+      "order_id": "S17550811051817692_O00006",
+      "order_type": "train",
+      "user_id": "U001097",
+      "store_id": "S17550811051817692_T00008",
+      "note": "Zibo-Jinan Return Trip",
+      "location": {
+        "address": "Zibo North Railway Station, Zhangdian District, Zibo, Shandong Province",
+        "longitude": 118.066667,
+        "latitude": 36.833333
+      },
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 120.0,
+      "create_time": "2024-09-26 10:15:34",
+      "update_time": "2024-09-26 10:17:22",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17550811051817692_P00045",
+          "price": 40.0,
+          "quantity": 3,
+          "seat_type": "Second Class Seat"
+        }
+      ]
+    },
+    "S17550811051817692_O00007": {
+      "order_id": "S17550811051817692_O00007",
+      "order_type": "instore",
+      "user_id": "U001097",
+      "store_id": "S17550811051817692_I00012",
+      "total_price": 392.0,
+      "create_time": "2024-10-25 19:30:45",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17550811051817692_P00069",
+          "price": 138.0,
+          "quantity": 1
+        },
+        {
+          "product_id": "S17550811051817692_P00072",
+          "price": 68.0,
+          "quantity": 1
+        },
+        {
+          "product_id": "S17550811051817692_P00073",
+          "price": 88.0,
+          "quantity": 1
+        },
+        {
+          "product_id": "S17550811051817692_P00075",
+          "price": 98.0,
+          "quantity": 1
+        }
+      ]
+    },
+    "S17550811051817692_O00008": {
+      "order_id": "S17550811051817692_O00008",
+      "order_type": "instore",
+      "user_id": "U001097",
+      "store_id": "S17550811051817692_I00010",
+      "total_price": 528.0,
+      "create_time": "2024-10-10 20:15:23",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17550811051817692_P00057",
+          "price": 428.0,
+          "quantity": 1
+        },
+        {
+          "product_id": "S17550811051817692_P00058",
+          "price": 100.0,
+          "quantity": 1
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,107 @@
+{
+  "required_orders": [
+    {
+      "order_id": "A0805001T001",
+      "order_type": "delivery",
+      "user_id": "U001020",
+      "store_id": "S17550809287952066_S00001",
+      "note": "",
+      "location": {
+        "address": "Shenlong Jinqiao Community, North of Bridge No.1, Majuqiao, Tongzhou District, Beijing",
+        "longitude": 116.5987,
+        "latitude": 39.7564
+      },
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 69.7,
+      "create_time": "2024-11-07 19:19:00",
+      "update_time": "2024-11-07 19:19:00",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17550809287952066_P00001",
+          "price": 19.9,
+          "quantity": 2,
+          "name": "Women's disposable underwear 3-pack",
+          "attributes": ""
+        },
+        {
+          "product_id": "S17550809287952066_P00006",
+          "price": 29.9,
+          "quantity": 1,
+          "name": "Women's small-sized home slippers (size 37-38)",
+          "attributes": ""
+        }
+      ]
+    },
+    {
+      "order_id": "A0805001T002",
+      "order_type": "instore",
+      "user_id": "U001020",
+      "store_id": "S17550809287952066_I00011",
+      "note": "",
+      "location": null,
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 198,
+      "create_time": "2024-11-07 19:22:00",
+      "update_time": "2024-11-07 19:22:00",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17550809287952066_P00066",
+          "name": "Quanjude signature Beijing roast duck set for two",
+          "price": 198,
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "order_id": "A0805001T003",
+      "order_type": "train",
+      "user_id": "U001020",
+      "store_id": "S17550809287952066_T00008",
+      "note": "",
+      "location": null,
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 337,
+      "create_time": "2024-11-07 19:29:00",
+      "update_time": "2024-11-07 19:29:00",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17550809287952066_P00043",
+          "price": 168.5,
+          "quantity": 2,
+          "date": "2024-11-09",
+          "seat_type": "Business class seat"
+        }
+      ]
+    }
+  ],
+  "rubrics": [
+    "The delivery order must include disposable underwear",
+    "The delivery order must include at least four disposable underwear",
+    "The disposable underwear in the delivery order should be women's style",
+    "The delivery order must include slippers",
+    "The slippers in the delivery order should not be disposable",
+    "The slippers in the delivery order should be size 37-38",
+    "The slippers in the delivery order should be women's style",
+    "The disposable underwear and slippers in the delivery order must come from the same store",
+    "After checking, it was found that there will be no rain in Tianjin on November 9 and 10, 2024, so the delivery order should not include disposable raincoats",
+    "The delivery address is Shenlong Jinqiao Community, North of Bridge No.1, Majuqiao, Tongzhou District, Beijing",
+    "The estimated delivery time is 9 PM on November 7, 2024",
+    "The dine-in restaurant should be within 2km of Shenlong Jinqiao Community, North of Bridge No.1, Majuqiao, Tongzhou District, Beijing",
+    "The dine-in restaurant should be the closest one to Shenlong Jinqiao Community, North of Bridge No.1, Majuqiao, Tongzhou District, Beijing",
+    "The dine-in restaurant should be a roast duck restaurant",
+    "The dine-in order should be for a set meal for two people, not two single set meals",
+    "The train tickets should be for a route from Beijing to Tianjin",
+    "The train with the longest journey time should be selected",
+    "The train departure date should be November 9, 2024",
+    "The train seat type should be Business class seat"
+  ]
+}

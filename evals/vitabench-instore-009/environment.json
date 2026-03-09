@@ -1,0 +1,216 @@
+{
+  "task_id": "10826023",
+  "domain": "instore",
+  "time": "2024-07-12 16:30:00",
+  "user_id": "U163066",
+  "weather": [
+    {
+      "city": "Wuhan",
+      "category": "cloudy",
+      "datetime": "2024-07-12",
+      "temperature": [
+        26,
+        34
+      ],
+      "humidity": 65
+    },
+    {
+      "city": "Wuhan",
+      "category": "sunny",
+      "datetime": "2024-07-13",
+      "temperature": [
+        27,
+        35
+      ],
+      "humidity": 60
+    }
+  ],
+  "location": [
+    {
+      "address": "Room 501, Unit 2, Building 4, Hankou Bank Staff Quarters, 241 Xinhua Road, Jianghan District, Wuhan, Hubei Province",
+      "longitude": 114.2682,
+      "latitude": 30.5857
+    }
+  ],
+  "user_profile": {
+    "user id": "U163066",
+    "occupation": "Accountant",
+    "gender": "male",
+    "age group": "30~35",
+    "residence": "Wuhan",
+    "home address": "Room 501, Unit 2, Building 4, Hankou Bank Staff Quarters, 241 Xinhua Road, Jianghan District, Wuhan, Hubei Province",
+    "work address": "Wuhan Hengxin Accounting Firm, 12th Floor, New World International Trade Building, 568 Jianshe Avenue, Jianghan District, Wuhan, Hubei Province",
+    "dietary restrictions": "No alcohol",
+    "family status": "In a relationship",
+    "personality": "Mild-tempered with high cooperativeness, good at listening and understanding"
+  },
+  "user_historical_behaviors": {
+    "user id": "U163066",
+    "occupation": "accountant",
+    "gender": "male",
+    "age group": "30~35",
+    "residence": "Wuhan",
+    "home address": "Room 501, Unit 2, Building 4, Hankou Bank Staff Quarters, 241 Xinhua Road, Jianghan District, Wuhan, Hubei Province",
+    "work address": "Wuhan Hengxin Accounting Firm, 12th Floor, New World International Trade Building, 568 Jianshe Avenue, Jianghan District, Wuhan, Hubei Province",
+    "Dine-in": {
+      "fine-dining": {
+        "frequently purchased categories": [
+          "Local Cuisine/Fish Dishes (Average ¥125)",
+          "Local Cuisine/Sichuan Food (Average ¥95)",
+          "International Cuisine/Japanese Food (Average ¥150)"
+        ],
+        "preferred average price per person": "¥90~150",
+        "preferred store rating": "4.0~4.8 stars",
+        "typical dining time": "18:30-20:30",
+        "preferred distance": "500~3000m",
+        "recent orders": [
+          {
+            "store": "Jiangbian Chengwai Wushan Grilled Fish (Wuhan Guomao Branch)",
+            "product": "Spicy Grilled Fish + Special Side Dishes"
+          },
+          {
+            "store": "Da Rong He (New World Department Store Branch)",
+            "product": "Spicy Pork Blood Soup + Boiled Beef in Chili Oil"
+          },
+          {
+            "store": "Sushiro (Wuhan International Plaza Branch)",
+            "product": "Special Sashimi Platter + Salmon Sushi"
+          }
+        ],
+        "search history": [
+          "Business Dinner",
+          "Sichuan Restaurant",
+          "Japanese Cuisine",
+          "Purine-free Dishes",
+          "Grilled Fish"
+        ]
+      },
+      "light meal": {
+        "frequently purchased categories": [
+          "Fast Food/Simple Chinese Meal (Average ¥35)",
+          "Fast Food/Western Fast Food (Average ¥45)",
+          "Local Cuisine/Northeastern Chinese Food (Average ¥50)"
+        ],
+        "preferred average price per person": "¥30~50",
+        "preferred store rating": "3.5~4.3 stars",
+        "typical dining time": "12:00-13:30",
+        "preferred distance": "0~800m",
+        "recent orders": [
+          {
+            "store": "Real Kung Fu (Wuhan Guomao Branch)",
+            "product": "Teriyaki Chicken Leg Rice + Seasonal Vegetables"
+          },
+          {
+            "store": "Yonghe King (Jianshe Avenue Branch)",
+            "product": "Chicken Wrap + Soy Milk"
+          },
+          {
+            "store": "Sha County Snacks (Jianghan Road Branch)",
+            "product": "Three Delicacies Soup Noodles + Steamed Dumplings"
+          }
+        ],
+        "search history": [
+          "Fast Food",
+          "Bento",
+          "Simple Chinese Meal",
+          "Weekday Lunch"
+        ]
+      },
+      "desserts/drinks/snacks": {
+        "frequently purchased categories": [
+          "Beverage Shops (Average ¥18)",
+          "Bread and Desserts (Average ¥25)",
+          "Other Dining/Fruits and Fresh Food (Average ¥30)"
+        ],
+        "preferred average price per person": "¥15~30",
+        "preferred store rating": "3.8~4.5 stars",
+        "typical dining time": "15:00-17:00",
+        "preferred distance": "0~500m",
+        "recent orders": [
+          {
+            "store": "HeyTea (Wuhan International Plaza Branch)",
+            "product": "Fruit Grape Tea (Non-alcoholic)"
+          },
+          {
+            "store": "85°C Bakery Cafe (Jianghan Road Pedestrian Street Branch)",
+            "product": "Cheesecake + Americano"
+          },
+          {
+            "store": "Fresh Fruit Cut (New World Department Store Branch)",
+            "product": "Fruit Platter"
+          }
+        ],
+        "search history": [
+          "Non-alcoholic Beverages",
+          "Coffee",
+          "Afternoon Tea",
+          "Fruit"
+        ]
+      }
+    },
+    "other in-store services": {
+      "frequently consumed categories": {
+        "Sports & Fitness/Fitness Centers": "40%",
+        "Sports & Fitness/Ball Sports": "35%",
+        "Leisure & Entertainment/Massage/Foot Therapy": "15%",
+        "Beauty Services/Hair Salon": "10%"
+      },
+      "cost per order by category": {
+        "Sports & Fitness/Fitness Centers": "¥100~200",
+        "Sports & Fitness/Ball Sports": "¥60~120",
+        "Leisure & Entertainment/Massage/Foot Therapy": "¥150~300",
+        "Beauty Services/Hair Salon": "¥80~150"
+      },
+      "preferred store rating": "4.0~4.8 stars",
+      "preferred service time": "19:00-21:00",
+      "preferred distance": "0~5000m",
+      "recent orders": [
+        {
+          "store": "Will's Gym (New World International Trade Branch)",
+          "product": "Single-Person Monthly Card"
+        },
+        {
+          "store": "Star Power Badminton Hall (Jianghan District Branch)",
+          "product": "Two-Person Court for 2 Hours"
+        },
+        {
+          "store": "Body Sculpting Hall Foot Therapy (Jianshe Avenue Branch)",
+          "product": "Meridian Foot Massage 90 Minutes"
+        }
+      ],
+      "search history": [
+        "Gym",
+        "Badminton Hall",
+        "Foot Therapy",
+        "Hair Salon",
+        "Massage"
+      ]
+    }
+  },
+  "stores": {},
+  "orders": {
+    "10826023T003": {
+      "order_id": "10826023T003",
+      "order_type": "instore",
+      "user_id": "U163066",
+      "store_id": "S17564420351855866_I00002",
+      "note": "",
+      "location": null,
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 68,
+      "order_time": "2024-07-11 12:23:00",
+      "update_time": "2024-07-11 12:23:00",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17564420351855866_P00008",
+          "name": "Deluxe Family Dumpling Set (Two-Person)",
+          "price": 68,
+          "quantity": 1
+        }
+      ]
+    }
+  }
+}

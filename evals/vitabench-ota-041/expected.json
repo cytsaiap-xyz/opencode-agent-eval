@@ -1,0 +1,124 @@
+{
+  "required_orders": [
+    {
+      "order_id": "S17557505554587434_O00001",
+      "order_type": "train",
+      "user_id": "U504323",
+      "store_id": "S17557505554587434_T00010",
+      "note": "",
+      "location": null,
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 260,
+      "create_time": "2029-04-26 11:25:54",
+      "update_time": "2029-04-26 11:25:54",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17557505554587434_P00054",
+          "price": 65,
+          "quantity": 4,
+          "date": "2029-04-28",
+          "seat_type": "Second class seat"
+        }
+      ]
+    },
+    {
+      "order_id": "S17557505554587434_O00002",
+      "order_type": "train",
+      "user_id": "U504323",
+      "store_id": "S17557505554587434_T00013",
+      "note": "",
+      "location": null,
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 272,
+      "create_time": "2029-04-26 11:27:04",
+      "update_time": "2029-04-26 11:27:04",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17557505554587434_P00070",
+          "price": 68,
+          "quantity": 4,
+          "date": "2029-04-29",
+          "seat_type": "Second class seat"
+        }
+      ]
+    },
+    {
+      "order_id": "S17557505554587434_O00003",
+      "order_type": "hotel",
+      "user_id": "U504323",
+      "store_id": "S17557505554587434_H00001",
+      "note": "",
+      "location": null,
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 776,
+      "create_time": "2029-04-26 11:30:00",
+      "update_time": "2029-04-26 11:30:00",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17557505554587434_P00006",
+          "price": 388,
+          "quantity": 2,
+          "date": "2029-04-28",
+          "room_type": "Comfort king room"
+        }
+      ]
+    },
+    {
+      "order_id": "S17557505554587434_O00004",
+      "order_type": "attraction",
+      "user_id": "U504323",
+      "store_id": "S17557505554587434_A00006",
+      "note": "",
+      "location": "",
+      "dispatch_time": null,
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 512,
+      "create_time": "2029-04-26 11:32:01",
+      "update_time": "2029-04-26 11:32:01",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17557505554587434_P00036",
+          "price": 128,
+          "quantity": 4,
+          "date": "2029-04-28",
+          "ticket_type": "Adult ticket with cultural creative ice cream package"
+        }
+      ]
+    }
+  ],
+  "rubrics": [
+    "The departure location for the outbound ticket is Nantong, and the destination is Suzhou South Railway Station",
+    "The outbound ticket should be EMU (Electric Multiple Unit) train or High-speed rail",
+    "The departure date for the outbound ticket should be 2029-04-28",
+    "The quantity in the outbound ticket order should be 4",
+    "The seat type in the outbound ticket order should be Second class seat",
+    "The outbound ticket should be the earliest available train, which is D5432 (departing at 06:28)",
+    "The departure location for the return ticket is Suzhou South Railway Station, and the destination is Nantong",
+    "The return ticket should be EMU (Electric Multiple Unit) train or High-speed rail",
+    "The departure date for the return ticket should be 2029-04-29",
+    "The departure time for the return ticket should be around 17:00",
+    "The quantity in the return ticket order should be 4",
+    "The seat type in the return ticket order should be Second class seat",
+    "The brand of the hotel should be Hanting or Home Inn or 7 Days Inn",
+    "The distance between the hotel and Suzhou South Railway Station, Wuzhong District, Suzhou, Jiangsu Province should be less than or equal to 500 meters",
+    "The hotel should be newly opened in 2028",
+    "The check-in date for the hotel should be 2029-04-28",
+    "The quantity in the hotel order should be 2",
+    "Need to check and calculate the price difference between twin rooms and king rooms within the available options, which is 70 yuan, greater than 50 yuan, so the room type in the hotel order should be Economy king room",
+    "The attraction to be booked should be Zhouzhuang Ancient Town",
+    "The tickets for the attraction should include the cultural creative ice cream package",
+    "The date in the attraction order should be 2029-04-28",
+    "The quantity in the attraction order should be 4"
+  ]
+}

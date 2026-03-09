@@ -1,0 +1,69 @@
+{
+  "required_orders": [
+    {
+      "order_id": "10826045T001",
+      "order_type": "instore",
+      "user_id": "U054611",
+      "store_id": "S17564425623716834_I00001",
+      "note": "",
+      "location": null,
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 168,
+      "create_time": "2023-03-22 18:31:00",
+      "update_time": "2023-03-22 18:31:00",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17564425623716834_P00001",
+          "name": "Classic Butter Hot Pot Set for Four",
+          "price": 168,
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "order_id": "10826045T002",
+      "order_type": "instore",
+      "user_id": "U054611",
+      "store_id": "S17564425623716834_I00004",
+      "note": "",
+      "location": null,
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 188,
+      "create_time": "2023-03-22 18:33:00",
+      "update_time": "2023-03-22 18:33:00",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17564425623716834_P00014",
+          "name": "Special Mojito",
+          "price": 68,
+          "quantity": 1
+        },
+        {
+          "product_id": "S17564425623716834_P00015",
+          "name": "[DIY Cocktail] Tequila Sunrise",
+          "price": 72,
+          "quantity": 1
+        }
+      ]
+    }
+  ],
+  "rubrics": [
+    "The hot pot restaurant should be within 2km (inclusive) of Chengdu Wuhou District South Railway Station",
+    "The hot pot set ordered should be for four people",
+    "The hot pot set ordered should have a butter base",
+    "The hot pot set ordered should be within 200 yuan (inclusive)",
+    "The hot pot restaurant ordered from should be a Chengdu local hot pot restaurant",
+    "The bar must have live music performance",
+    "The bar should be a top-selling merchant",
+    "Agent should check if there are sets for two with different cocktails, and finding none; thus the bar order should be two single meals",
+    "Since travel is needed tomorrow, the cocktail set ordered should be low alcohol content",
+    "The cocktail set ordered should not contain high sugar content",
+    "The bar order should include two different cocktails"
+  ]
+}

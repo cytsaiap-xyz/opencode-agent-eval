@@ -1,0 +1,471 @@
+{
+  "task_id": "I0721002",
+  "domain": "delivery",
+  "time": "2025-09-26 17:53:29",
+  "user_id": "U000091",
+  "weather": [
+    {
+      "city": "Dalian City",
+      "category": "overcast",
+      "datetime": "2025-09-26",
+      "temperature": [
+        19,
+        25
+      ],
+      "humidity": 85
+    }
+  ],
+  "location": [
+    {
+      "address": "Room 1204, Building 3, Haiyun Garden (Haiyuan Street), No. 24 Haiyuan Street, Shahekou District, Dalian, Liaoning Province (430m walk from Exit B of Second Hospital Metro Station)",
+      "longitude": 121.56714,
+      "latitude": 38.880907
+    }
+  ],
+  "user_profile": {
+    "user id": "U000091",
+    "occupation": "Engineer",
+    "gender": "female",
+    "age group": "30~35",
+    "residence": "Dalian",
+    "home address": "Room 1204, Building 3, Haiyun Garden (Haiyuan Street), No. 24 Haiyuan Street, Shahekou District, Dalian, Liaoning Province (430m walk from Exit B of Second Hospital Metro Station)",
+    "work address": "Zone A, No. 9 Software Park Road, High-tech Park, 160m west of the intersection of Software Park Road and Digital Road, Ganjingzi District, Dalian, Liaoning Province",
+    "dietary restrictions": "No caffeine",
+    "family status": "Married",
+    "personality": "Anxious and worried easily, needs repeated confirmation to feel assured"
+  },
+  "user_historical_behaviors": {
+    "user id": "U000091",
+    "occupation": "Engineer",
+    "gender": "female",
+    "age group": "30~35",
+    "residence": "Dalian",
+    "home address": "Room 1204, Building 3, Haiyun Garden (Haiyuan Street), No. 24 Haiyuan Street, Shahekou District, Dalian, Liaoning Province (430m walk from Exit B of Second Hospital Metro Station)",
+    "work address": "Zone A, No. 9 Software Park Road, High-tech Park, 160m west of the intersection of Software Park Road and Digital Road, Ganjingzi District, Dalian, Liaoning Province",
+    "breakfast": {
+      "frequently purchased categories": [
+        "Quick meals/Light food (Average 32 yuan)",
+        "Quick meals/Steamed buns/Pan-fried buns (Average 18 yuan)",
+        "Quick meals/Salad (Average 35 yuan)"
+      ],
+      "cost per order": "15~35 yuan",
+      "preferred store rating": "4.5~4.8 points",
+      "preferred delivery time": "15~25 minutes",
+      "preferred distance": "0~2000m",
+      "recent orders": [
+        {
+          "store": "Light Food Selection",
+          "product": "Chicken Breast Vegetable Salad"
+        },
+        {
+          "store": "Warm Breakfast House",
+          "product": "Handmade Vegetable Buns"
+        },
+        {
+          "store": "Energy Breakfast",
+          "product": "Fruit Oatmeal Porridge"
+        }
+      ],
+      "search history": [
+        "Low-fat breakfast",
+        "Healthy breakfast",
+        "Oatmeal",
+        "Vegetable salad",
+        "Egg sandwich"
+      ]
+    },
+    "weekday lunch/dinner": {
+      "frequently purchased categories": [
+        "Quick meals/Healthy meals (Average 42 yuan)",
+        "Quick meals/Rice noodles/Vermicelli (Average 30 yuan)",
+        "Chinese cuisine/Shandong cuisine (Average 60 yuan)"
+      ],
+      "cost per order": "20~200 yuan",
+      "preferred store rating": "4.5~5.0 points",
+      "preferred delivery time": "20~35 minutes",
+      "preferred distance": "0~3000m",
+      "recent orders": [
+        {
+          "store": "Home-style Restaurant (Stir-fry·Rice Bowls·Dumplings)",
+          "product": "Stir-fried Rice Noodles with Pickled Vegetables"
+        },
+        {
+          "store": "Crossing Bridge Rice Noodles",
+          "product": "Original Flavor Rice Noodles"
+        },
+        {
+          "store": "Dalian Home Cooking",
+          "product": "Steamed Sea Bass Set Meal"
+        }
+      ],
+      "search history": [
+        "Low-purine food",
+        "Healthy meal sets",
+        "Vegetable salad",
+        "Shandong cuisine",
+        "Caffeine-free"
+      ]
+    },
+    "weekend lunch/dinner": {
+      "frequently purchased categories": [
+        "Chinese cuisine/Cantonese cuisine (Average 95 yuan)",
+        "International flavors/Stone pot rice/Teppanyaki rice (Average 68 yuan)",
+        "Quick meals/Healthy meals (Average 55 yuan)"
+      ],
+      "cost per order": "55~200 yuan",
+      "preferred store rating": "4.5~5.0 points",
+      "preferred delivery time": "25~40 minutes",
+      "preferred distance": "0~4000m",
+      "recent orders": [
+        {
+          "store": "Better Cantonese Food",
+          "product": "Steamed Sea Bass + Vegetable Set Meal"
+        },
+        {
+          "store": "Korean Cuisine House",
+          "product": "Vegetable Stone Pot Bibimbap"
+        },
+        {
+          "store": "Family Restaurant",
+          "product": "Children's Nutritional Set + Healthy Adult Set"
+        }
+      ],
+      "search history": [
+        "Family restaurant",
+        "Healthy family set meals",
+        "Low-purine dishes",
+        "Kid-friendly restaurants",
+        "Cantonese cuisine"
+      ]
+    },
+    "desserts/drinks/snacks": {
+      "frequently purchased categories": [
+        "Drinks & Desserts/Fruit bowls (Average 32 yuan)",
+        "Drinks & Desserts/Yogurt (Average 20 yuan)",
+        "Drinks & Desserts/Fresh juice (Average 20 yuan)"
+      ],
+      "cost per order": "15~40 yuan",
+      "preferred store rating": "4.5~5.0 points",
+      "preferred delivery time": "15~30 minutes",
+      "preferred distance": "0~2500m",
+      "recent orders": [
+        {
+          "store": "LELECHA Tea (Dalian Kaisa Plaza Store)",
+          "product": "Extra-large Hand-peeled Grapes"
+        },
+        {
+          "store": "Ranch Energy (Heishijiao Store)",
+          "product": "Grape Jasmine Yogurt (Large)"
+        },
+        {
+          "store": "Tea Time",
+          "product": "Lemon Yakult (Sugar-free)"
+        }
+      ],
+      "search history": [
+        "Caffeine-free drinks",
+        "Healthy desserts",
+        "Juice",
+        "Handmade pastries",
+        "Fruit yogurt"
+      ]
+    },
+    "night snack": {
+      "frequently purchased categories": [
+        "Quick meals/Small dishes (Average 45 yuan)",
+        "Snacks/Marinated flavors (Average 38 yuan)",
+        "Quick meals/Clay pot dishes (Average 50 yuan)"
+      ],
+      "cost per order": "35~55 yuan",
+      "preferred store rating": "4.2~4.6 points",
+      "preferred delivery time": "20~35 minutes",
+      "preferred distance": "0~3000m",
+      "recent orders": [
+        {
+          "store": "Small Dishes",
+          "product": "Healthy Stir-fry Platter"
+        },
+        {
+          "store": "Old Marinade House",
+          "product": "Five-spice Marinade Platter (No Offal)"
+        },
+        {
+          "store": "Clay Pot Kitchen",
+          "product": "Mushroom Tofu Clay Pot"
+        }
+      ],
+      "search history": [
+        "Low-purine night snacks",
+        "Healthy stir-fry",
+        "Non-spicy clay pot",
+        "Light-flavored marinade",
+        "Vegetarian small dishes"
+      ]
+    }
+  },
+  "stores": {
+    "S27275721451294039_S33656": {
+      "name": "Home-style Restaurant (Stir-fry·Rice Bowls·Dumplings)",
+      "store_id": "S27275721451294039_S33656",
+      "score": 5,
+      "location": {
+        "address": "Home-style Restaurant (Zhongshan Road Store), No. 95 Lianshan Street, Opposite to Second Hospital, Shahekou District, Dalian, Liaoning Province",
+        "latitude": 38.881372,
+        "longitude": 121.569353
+      },
+      "tags": [],
+      "products": [
+        {
+          "name": "Stir-fried Rice Noodles with Pickled Vegetables",
+          "store_id": "S27275721451294039_S33656",
+          "store_name": "Home-style Restaurant (Stir-fry·Rice Bowls·Dumplings)",
+          "price": 20,
+          "tags": [
+            "Savory"
+          ],
+          "product_id": "S20101317002502950_P98829",
+          "attributes": [],
+          "quantity": 9999
+        },
+        {
+          "name": "Stir-fried Rice Noodles with Chinese Turnip",
+          "store_id": "S27275721451294039_S33656",
+          "store_name": "Home-style Restaurant (Stir-fry·Rice Bowls·Dumplings)",
+          "price": 18,
+          "tags": [
+            "Savory"
+          ],
+          "product_id": "S27281697538402225_P73398",
+          "attributes": [],
+          "quantity": 9999
+        }
+      ]
+    },
+    "S19740820626295546_S67618": {
+      "name": "Fish Qian Crispy Grilled Fish (Xinghai Store)",
+      "store_id": "S19740820626295546_S67618",
+      "score": 4.9,
+      "location": {
+        "address": "Fish Qian Crispy Grilled Fish (Xinghai Store), 1st Floor, Xinghai Building, 595 Zhongshan Road, Shahekou District, Dalian, Liaoning Province",
+        "latitude": 38.878015,
+        "longitude": 121.564079
+      },
+      "tags": [
+        "Must-order List 2025 Featured Restaurant"
+      ],
+      "products": [
+        {
+          "name": "[Large Lingbo Fish] Dual-flavor Group Meal (3-4 people) + Three Snacks",
+          "store_id": "S19740820626295546_S67618",
+          "store_name": "Fish Qian Crispy Grilled Fish (Xinghai Store)",
+          "price": 179,
+          "tags": [],
+          "product_id": "S32673216822626376_P48212",
+          "attributes": [
+            "Sauce Flavor + Rainbow Tomato Flavor",
+            "Sauce Flavor + Lychee Sweet Spicy Flavor",
+            "Sauce Flavor + Green Sichuan Pepper Flavor",
+            "Garlic Flavor + Sauce Flavor",
+            "Garlic Flavor + Green Sichuan Pepper Flavor",
+            "Garlic Flavor + Lychee Sweet Spicy Flavor",
+            "Spicy Flavor + Lychee Sweet Spicy Flavor",
+            "Spicy Flavor + Sauce Flavor",
+            "Spicy Flavor + Green Sichuan Pepper Flavor",
+            "Spicy Flavor + Rainbow Tomato Flavor"
+          ],
+          "quantity": 9999
+        }
+      ]
+    },
+    "S26061089588963101_S46131": {
+      "name": "LELECHA Tea (Dalian Kaisa Plaza Store)",
+      "store_id": "S26061089588963101_S46131",
+      "score": 4.8,
+      "location": {
+        "address": "LELECHA Tea (Kaisa Plaza Store), No.104 Kaisa Plaza, Shahekou District, Dalian, Liaoning Province (300m walk from Exit D of Fuguo Street Metro Station)",
+        "latitude": 38.896507,
+        "longitude": 121.587517
+      },
+      "tags": [],
+      "products": [
+        {
+          "name": "Extra-large Hand-peeled Grapes",
+          "product_id": "S33846261535716549_P36658",
+          "store_id": "S26061089588963101_S46131",
+          "store_name": "LELECHA Tea (Dalian Kaisa Plaza Store)",
+          "price": 23,
+          "tags": [
+            "Seven-Scented Jasmine Silver Needle Tea",
+            "Fresh Grapes",
+            "Large Size"
+          ],
+          "attributes": [
+            "Less Sweet",
+            "Regular Sweetness",
+            "Slightly Sweet",
+            "No Added Sugar"
+          ],
+          "quantity": 9999
+        },
+        {
+          "name": "Iced Green Grape Jasmine Tea",
+          "product_id": "S13166827586867126_P70227",
+          "store_id": "S26061089588963101_S46131",
+          "store_name": "LELECHA Tea (Dalian Kaisa Plaza Store)",
+          "price": 21,
+          "tags": [
+            "Standard Large Cup",
+            "Fresh Green Grapes",
+            "Jasmine Silver Needle Tea"
+          ],
+          "attributes": [
+            "Less Sweet",
+            "Regular Sweetness",
+            "Slightly Sweet",
+            "No Added Sugar"
+          ],
+          "quantity": 9999
+        }
+      ]
+    },
+    "S24929731886763144_S48061": {
+      "name": "Ranch Energy (Heishijiao Store)",
+      "store_id": "S24929731886763144_S48061",
+      "score": 5,
+      "location": {
+        "address": "Ranch Energy (Heishijiao Store), No. 6, 1st Floor, No. 32 Heishi Street, Shahekou District, Dalian, Liaoning Province",
+        "latitude": 38.872116,
+        "longitude": 121.557121
+      },
+      "tags": [],
+      "products": [
+        {
+          "name": "Grape Jasmine Yogurt (Large)",
+          "store_id": "S24929731886763144_S48061",
+          "store_name": "Ranch Energy (Heishijiao Store)",
+          "price": 17,
+          "tags": [],
+          "product_id": "S32609261518962702_P95255",
+          "attributes": [
+            "Standard Sugar",
+            "Less Sugar (70%)",
+            "Half Sugar (50%)",
+            "No Added Sugar"
+          ],
+          "quantity": 9999
+        }
+      ]
+    },
+    "S33081514077297325_S53161": {
+      "name": "Night River BBQ·Seafood·Crayfish (East Finance Store)",
+      "store_id": "S33081514077297325_S53161",
+      "score": 4.9,
+      "location": {
+        "address": "No. 131-4 Jianshan Street, Shahekou District, Dalian, Liaoning Province",
+        "latitude": 38.878922,
+        "longitude": 121.549579
+      },
+      "tags": [
+        "Dine-in Restaurant"
+      ],
+      "products": [
+        {
+          "name": "Secret Recipe Garlic-flavored Grilled Fish",
+          "product_id": "S23842951081908208_P73594",
+          "store_id": "S33081514077297325_S53161",
+          "store_name": "Night River BBQ·Seafood·Crayfish (East Finance Store)",
+          "price": 78.8,
+          "tags": [
+            "About 1.5 kg",
+            "For 3-4 people"
+          ],
+          "attributes": [],
+          "quantity": 9999
+        },
+        {
+          "name": "Grilled Fish and Bullfrog Combo",
+          "product_id": "S12407781888014814_P01735",
+          "store_id": "S33081514077297325_S53161",
+          "store_name": "Night River BBQ·Seafood·Crayfish (East Finance Store)",
+          "price": 138,
+          "tags": [
+            "For 3-4 people"
+          ],
+          "attributes": [
+            "Garlic-flavored Fish + Sauce-flavored Perilla Bullfrog",
+            "Spicy Fish + Spicy Kimchi Bullfrog"
+          ],
+          "quantity": 9999
+        }
+      ]
+    },
+    "S14430480741096540_S15798": {
+      "name": "Fish Qian Crispy Grilled Fish (Xinghai Store)",
+      "store_id": "S14430480741096540_S15798",
+      "score": 4.9,
+      "location": {
+        "address": "Fish Qian Crispy Grilled Fish (Xinghai Store), 1st Floor, Xinghai Building, 595 Zhongshan Road, Shahekou District, Dalian, Liaoning Province",
+        "latitude": 38.878015,
+        "longitude": 121.564079
+      },
+      "tags": [
+        "Must-order List 2025 Featured Restaurant"
+      ],
+      "products": [
+        {
+          "name": "Fresh Dual-flavor [Large Lingbo Fish] with 150g Side Dishes",
+          "product_id": "S54080222544816033_P40792",
+          "store_id": "S14430480741096540_S15798",
+          "store_name": "Fish Qian Crispy Grilled Fish (Xinghai Store)",
+          "price": 139,
+          "tags": [
+            "Classic",
+            "For 2 people"
+          ],
+          "attributes": [
+            "Sauce Flavor + Rainbow Tomato Flavor",
+            "Sauce Flavor + Lychee Sweet Spicy Flavor",
+            "Sauce Flavor + Green Sichuan Pepper Flavor",
+            "Garlic Flavor + Sauce Flavor",
+            "Garlic Flavor + Green Sichuan Pepper Flavor",
+            "Garlic Flavor + Lychee Sweet Spicy Flavor",
+            "Spicy Flavor + Lychee Sweet Spicy Flavor",
+            "Spicy Flavor + Sauce Flavor",
+            "Spicy Flavor + Green Sichuan Pepper Flavor",
+            "Spicy Flavor + Rainbow Tomato Flavor"
+          ],
+          "quantity": 9999
+        }
+      ]
+    }
+  },
+  "orders": {
+    "I0721002O01": {
+      "order_id": "I0721002O01",
+      "order_type": "delivery",
+      "user_id": "U000091",
+      "store_id": "S27275721451294039_S33656",
+      "note": "",
+      "location": {
+        "address": "Room 1204, Building 3, Haiyun Garden (Haiyuan Street), No. 24 Haiyuan Street, Shahekou District, Dalian, Liaoning Province (430m walk from Exit B of Second Hospital Metro Station)",
+        "longitude": 121.56714,
+        "latitude": 38.880907
+      },
+      "dispatch_time": "2025-09-20 12:00:00",
+      "shipping_time": 25,
+      "delivery_time": "2025-09-20 12:25:00",
+      "total_price": 18,
+      "create_time": "2025-09-20 11:40:00",
+      "update_time": "2025-09-20 11:40:00",
+      "status": "delivered",
+      "products": [
+        {
+          "product_id": "S27281697538402225_P73398",
+          "price": 18,
+          "quantity": 1,
+          "attributes": ""
+        }
+      ]
+    }
+  }
+}

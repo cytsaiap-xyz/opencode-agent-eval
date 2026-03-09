@@ -1,0 +1,900 @@
+{
+  "task_id": "A0808005",
+  "domain": "cross_domain",
+  "time": "2024-06-07 07:30:00",
+  "user_id": "U045857",
+  "weather": [
+    {
+      "city": "Huizhou",
+      "category": "cloudy",
+      "datetime": "2024-06-07",
+      "temperature": [
+        24,
+        32
+      ],
+      "humidity": 75
+    },
+    {
+      "city": "Huizhou",
+      "category": "sunny",
+      "datetime": "2024-06-08",
+      "temperature": [
+        25,
+        33
+      ],
+      "humidity": 70
+    }
+  ],
+  "location": [
+    {
+      "address": "Room 502, Building 3, Jinxiu Garden, No.12 Jinbang Road, Henan'an Street, Huicheng District, Huizhou, Guangdong Province",
+      "longitude": 114.4162,
+      "latitude": 23.0836
+    },
+    {
+      "address": "Food Street",
+      "longitude": 114.2123,
+      "latitude": 23.4711
+    }
+  ],
+  "user_profile": {
+    "user id": "U045857",
+    "occupation": "Courier",
+    "gender": "male",
+    "age group": "25~30",
+    "residence": "Huizhou",
+    "home address": "Room 502, Building 3, Jinxiu Garden, No.12 Jinbang Road, Henan'an Street, Huicheng District, Huizhou, Guangdong Province",
+    "work address": "SF Express Delivery Station, No.45 Maidi Road, Huicheng District, Huizhou, Guangdong Province",
+    "dietary restrictions": "Avoid high salt",
+    "family status": "Has children",
+    "personality": "Easily anxious and worried, needs repeated confirmation to feel reassured"
+  },
+  "user_historical_behaviors": {
+    "user id": "U045857",
+    "occupation": "Courier",
+    "gender": "male",
+    "age group": "25~30",
+    "residence": "Huizhou",
+    "home address": "Room 502, Building 3, Jinxiu Garden, No.12 Jinbang Road, Henan'an Street, Huicheng District, Huizhou, Guangdong Province",
+    "work address": "SF Express Delivery Station, No.45 Maidi Road, Huicheng District, Huizhou, Guangdong Province",
+    "delivery": {
+      "food delivery": {
+        "breakfast": {
+          "frequently purchased categories": [
+            "Quick Meals/Steamed Buns/Pan-fried Buns (Average ¥20)",
+            "Quick Meals/Fried Dough Sticks (Average ¥15)",
+            "Quick Meals/Soy Milk (Average ¥8)"
+          ],
+          "cost per order": "¥15~35",
+          "preferred store rating": "4.5~4.8",
+          "preferred delivery time": "15~25 minutes",
+          "preferred distance": "0~1500m",
+          "recent orders": [
+            {
+              "store": "Mr. Breakfast",
+              "product": "Soy Milk and Fried Dough Stick Set"
+            },
+            {
+              "store": "Bun Shop",
+              "product": "Pork Bun + Soy Milk"
+            },
+            {
+              "store": "Old Beijing Jianbing",
+              "product": "Original Jianbing"
+            }
+          ],
+          "search history": [
+            "Steamed Buns",
+            "Soy Milk",
+            "Jianbing",
+            "Breakfast Set",
+            "Fried Dough Sticks"
+          ]
+        },
+        "weekday lunch/dinner": {
+          "frequently purchased categories": [
+            "Quick Meals/Rice with Toppings (Average ¥28)",
+            "Quick Meals/Rice Noodles (Average ¥25)",
+            "Chinese Cuisine/Sichuan Food (Average ¥45)"
+          ],
+          "cost per order": "¥25~60",
+          "preferred store rating": "4.3~4.8",
+          "preferred delivery time": "20~35 minutes",
+          "preferred distance": "0~3000m",
+          "recent orders": [
+            {
+              "store": "Sichuan Flavor House",
+              "product": "Twice-Cooked Pork Rice"
+            },
+            {
+              "store": "Friend's Rice Noodles",
+              "product": "Signature Sour & Spicy Noodles"
+            },
+            {
+              "store": "Cafeteria Flavors",
+              "product": "Kung Pao Chicken Set"
+            }
+          ],
+          "search history": [
+            "Rice with Toppings",
+            "Rice Noodles",
+            "Fast Food",
+            "Home-style Dishes",
+            "Set Meals"
+          ]
+        },
+        "weekend lunch/dinner": {
+          "frequently purchased categories": [
+            "Chinese Cuisine/Crayfish (Average ¥98)",
+            "Hot Pot/Individual Hot Pot (Average ¥68)",
+            "International Cuisine/Japanese Bento/Sushi (Average ¥75)"
+          ],
+          "cost per order": "¥60~150",
+          "preferred store rating": "4.5~4.9",
+          "preferred delivery time": "30~45 minutes",
+          "preferred distance": "0~4000m",
+          "recent orders": [
+            {
+              "store": "Sichuan Crayfish",
+              "product": "Spicy Crayfish (Medium Spicy)"
+            },
+            {
+              "store": "Individual Hot Pot",
+              "product": "Beef Self-heating Hot Pot"
+            },
+            {
+              "store": "Sushi Workshop",
+              "product": "Salmon Set"
+            }
+          ],
+          "search history": [
+            "Crayfish",
+            "Individual Hot Pot",
+            "Sushi",
+            "Family Set",
+            "Kid's Meal"
+          ]
+        },
+        "desserts/drinks/snacks": {
+          "frequently purchased categories": [
+            "Drinks & Desserts/Coffee (Average ¥30)",
+            "Drinks & Desserts/Chinese Pastries (Average ¥25)",
+            "Drinks & Desserts/Fruit Salad (Average ¥35)"
+          ],
+          "cost per order": "¥20~40",
+          "preferred store rating": "4.6~4.9",
+          "preferred delivery time": "15~30 minutes",
+          "preferred distance": "0~2500m",
+          "recent orders": [
+            {
+              "store": "Starbucks",
+              "product": "Americano (Sugar-free)"
+            },
+            {
+              "store": "Pastry House",
+              "product": "Osmanthus Cake"
+            },
+            {
+              "store": "Fresh Fruit Bowl",
+              "product": "Fruit Salad"
+            }
+          ],
+          "search history": [
+            "Coffee",
+            "Pastries",
+            "Fruit",
+            "Afternoon Tea",
+            "Sugar-free Drinks"
+          ]
+        },
+        "night snack": {
+          "frequently purchased categories": [
+            "Quick Meals/Dumplings/Wonton (Average ¥35)",
+            "Snacks & Delicacies/Braised Foods (Average ¥40)",
+            "Quick Meals/Clay Pot Soup (Average ¥30)"
+          ],
+          "cost per order": "¥30~50",
+          "preferred store rating": "4.2~4.7",
+          "preferred delivery time": "20~35 minutes",
+          "preferred distance": "0~2500m",
+          "recent orders": [
+            {
+              "store": "Dumpling House",
+              "product": "Three Delicacies Dumplings"
+            },
+            {
+              "store": "Old Street Braised Food",
+              "product": "Braised Platter (No Offal)"
+            },
+            {
+              "store": "Health Soup Shop",
+              "product": "Mushroom Clay Pot Soup"
+            }
+          ],
+          "search history": [
+            "Dumplings",
+            "Braised Food",
+            "Soup",
+            "Night Snack Set",
+            "Health Soup"
+          ]
+        }
+      },
+      "product delivery": {
+        "frequently purchased categories": [
+          "Vegetables/Tofu Products(30%)",
+          "Raw Meat/Poultry/Eggs(20%)",
+          "Grains/Oils/Seasonings/Dried Goods(15%)",
+          "Household Items(12%)",
+          "Study/Office Supplies(10%)",
+          "Others(13%)"
+        ],
+        "frequently visited stores": [
+          "CR Vanguard(45%)",
+          "Yonghui Superstores(30%)",
+          "FamilyMart (Huicheng Branch)(15%)",
+          "Other Stores(10%)"
+        ],
+        "cost per order by category": {
+          "Vegetables/Tofu Products": "¥5~20",
+          "Raw Meat/Poultry/Eggs": "¥20~60",
+          "Grains/Oils/Seasonings/Dried Goods": "¥10~40",
+          "Household Items": "¥15~50",
+          "Study/Office Supplies": "¥5~30"
+        },
+        "preferred delivery time": "25~45 minutes",
+        "typical order time": "17~19:00(45%), 9~11:00(30%), 13~15:00(15%)",
+        "recent orders": [
+          {
+            "store": "CR Vanguard",
+            "product": "Organic Vegetable Set"
+          },
+          {
+            "store": "Yonghui Superstores",
+            "product": "Boneless Chicken Breast"
+          },
+          {
+            "store": "FamilyMart (Huicheng Branch)",
+            "product": "Office Stationery Set"
+          }
+        ],
+        "search history": [
+          "Organic Vegetables",
+          "Chicken Breast",
+          "Wuchang Rice",
+          "Notebook",
+          "Kitchen Paper Towels",
+          "Low-sodium Soy Sauce"
+        ]
+      }
+    },
+    "in-store consumption": {
+      "in-store dining": {
+        "fine-dining": {
+          "frequently purchased categories": [
+            "Regional Cuisine/Sichuan Food (Average ¥85)",
+            "Hot Pot (Average ¥120)",
+            "Regional Cuisine/Cantonese Food (Average ¥95)"
+          ],
+          "preferred average price per person": "¥80~120",
+          "preferred store rating": "4.0~4.5 stars",
+          "typical dining time": "19:00-21:00",
+          "preferred distance": "500~2000m",
+          "recent orders": [
+            {
+              "store": "Sichuan King Palace",
+              "product": "Boiled Fish + Twice-Cooked Pork + Dry-Fried Green Beans"
+            },
+            {
+              "store": "Chaoshan Fresh Beef Hot Pot",
+              "product": "Beef Hot Pot Set"
+            },
+            {
+              "store": "Cantonese Flavor House",
+              "product": "White Cut Chicken + Steamed Fish"
+            }
+          ],
+          "search history": [
+            "Family Gathering",
+            "Split Pot Hot Pot",
+            "Low-sodium Dishes",
+            "Family-friendly Restaurant"
+          ]
+        },
+        "light meal": {
+          "frequently purchased categories": [
+            "Snacks & Fast Food/Chinese Quick Meals (Average ¥25)",
+            "Snacks & Fast Food/Western Fast Food (Average ¥30)"
+          ],
+          "preferred average price per person": "¥20~35",
+          "preferred store rating": "3.5~4.2 stars",
+          "typical dining time": "11:30-13:00",
+          "preferred distance": "0~500m",
+          "recent orders": [
+            {
+              "store": "Yang Mingyu Stewed Chicken Rice",
+              "product": "Mild Spicy Stewed Chicken Rice"
+            },
+            {
+              "store": "Sha County Snacks",
+              "product": "Three Delicacies Soup Dumplings + Noodles"
+            },
+            {
+              "store": "McDonald's",
+              "product": "Spicy McChicken Meal"
+            }
+          ],
+          "search history": [
+            "Fast Food",
+            "Boxed Meal",
+            "Fast Delivery Restaurants",
+            "Work Meals"
+          ]
+        },
+        "desserts/drinks/snacks": {
+          "frequently purchased categories": [
+            "Beverage Shops (Average ¥12)",
+            "Bread & Desserts (Average ¥18)"
+          ],
+          "preferred average price per person": "¥10~20",
+          "preferred store rating": "3.8~4.5 stars",
+          "typical dining time": "15:00-16:30",
+          "preferred distance": "0~300m",
+          "recent orders": [
+            {
+              "store": "CHABAIDO",
+              "product": "Sugar-free Oolong Tea"
+            },
+            {
+              "store": "Honeymoon Dessert",
+              "product": "Mango Pomelo Sago"
+            },
+            {
+              "store": "Yidiandian",
+              "product": "Half-sugar Pearl Milk Tea"
+            }
+          ],
+          "search history": [
+            "Low-sugar Drinks",
+            "Fruit Tea",
+            "Healthy Desserts"
+          ]
+        }
+      },
+      "other in-store services": {
+        "frequently consumed categories": {
+          "Sports & Fitness/Ball Sports": "40%",
+          "Leisure & Entertainment/Massage/Foot Therapy": "35%",
+          "Parent-Child/Parent-Child Recreation": "25%"
+        },
+        "cost per order by category": {
+          "Sports & Fitness/Ball Sports": "¥40~80",
+          "Leisure & Entertainment/Massage/Foot Therapy": "¥80~150",
+          "Parent-Child/Parent-Child Recreation": "¥100~200"
+        },
+        "preferred store rating": "4.0~4.8 stars",
+        "preferred service time": "18:00-20:00",
+        "preferred distance": "0~3000m",
+        "recent orders": [
+          {
+            "store": "Huizhou Basketball Court",
+            "product": "2-Hour Court Reservation"
+          },
+          {
+            "store": "Foot Blessing Massage",
+            "product": "Full Body Massage 60 Minutes"
+          },
+          {
+            "store": "Wonder Parent-Child Playground",
+            "product": "Weekend Family Package"
+          }
+        ],
+        "search history": [
+          "Basketball Court",
+          "Children's Recreation",
+          "Relaxation Massage",
+          "Weekend Family Activities"
+        ]
+      }
+    },
+    "OTA": {
+      "visited scenes": {
+        "Natural Landscapes (Mountains/Lakes/Forests)": "45%",
+        "Parks": "25%",
+        "Theme Parks": "20%",
+        "Historical Sites": "10%"
+      },
+      "cost per night on hotel": "¥100~300",
+      "visited hotels": {
+        "7 Days Inn": "35%",
+        "Home Inn": "30%",
+        "Hanting": "20%",
+        "Jinjiang Inn": "15%"
+      },
+      "browsed hotels": {
+        "Economy Hotels": "75%",
+        "3-Star Hotels": "15%",
+        "Comfortable Hotels": "10%"
+      },
+      "historical travel plans": {
+        "Huizhou-Guangzhou": {
+          "price range": "¥50-100",
+          "transportation": "Long-distance Bus"
+        },
+        "Huizhou-Shenzhen": {
+          "price range": "¥80-120",
+          "transportation": "Long-distance Bus"
+        },
+        "Huizhou-Foshan": {
+          "price range": "¥100-150",
+          "transportation": "Long-distance Bus"
+        },
+        "Huizhou-Dongguan": {
+          "price range": "¥50-80",
+          "transportation": "Long-distance Bus"
+        },
+        "Guangzhou-Huizhou": {
+          "price range": "¥50-100",
+          "transportation": "Long-distance Bus"
+        },
+        "Huizhou-Qingyuan": {
+          "price range": "¥150-200",
+          "transportation": "Self-driving"
+        }
+      }
+    }
+  },
+  "stores": {
+    "S17550809608986081_S00001": {
+      "name": "JD Convenience Store - Flash Sale Zone",
+      "store_id": "S17550809608986081_S00001",
+      "score": 4.8,
+      "location": {
+        "address": "JD Convenience Store, No.99 Jinshan Avenue, Henan'an Street, Huicheng District, Huizhou, Guangdong Province",
+        "latitude": 23.2245,
+        "longitude": 114.417
+      },
+      "tags": [
+        "product delivery",
+        "Daily Necessities",
+        "1-Hour Delivery",
+        "Outdoor Supplies"
+      ],
+      "store_type": "target",
+      "products": [
+        {
+          "name": "Adult Sun Protection Hat",
+          "store_id": "S17550809608986081_S00001",
+          "store_name": "JD Convenience Store - Flash Sale Zone",
+          "price": 59.9,
+          "tags": [
+            "Sun Protection",
+            "Outdoor",
+            "Lightweight"
+          ],
+          "product_id": "S17550809608986081_P00001",
+          "attributes": [],
+          "product_type": "target"
+        },
+        {
+          "name": "Wet Tissues (1 Pack)",
+          "store_id": "S17550809608986081_S00001",
+          "store_name": "JD Convenience Store - Flash Sale Zone",
+          "price": 15.8,
+          "tags": [
+            "Wet Wipes",
+            "Outdoor",
+            "Hygienic",
+            "Portable",
+            "Alcohol-Free"
+          ],
+          "product_id": "S17550809608986081_P00003",
+          "attributes": [],
+          "product_type": "target"
+        },
+        {
+          "name": "Children's Sun Protection Hat",
+          "store_id": "S17550809608986081_S00001",
+          "store_name": "JD Convenience Store - Flash Sale Zone",
+          "price": 19.9,
+          "tags": [
+            "Outdoor",
+            "Lightweight"
+          ],
+          "product_id": "S17550809608986081_P00004",
+          "attributes": [],
+          "product_type": "distraction"
+        },
+        {
+          "name": "Mosquito Repellent Floral Water",
+          "store_id": "S17550809608986081_S00001",
+          "store_name": "JD Convenience Store - Flash Sale Zone",
+          "price": 39.9,
+          "tags": [
+            "Outdoor"
+          ],
+          "product_id": "S17550809608986081_P00005",
+          "attributes": [],
+          "product_type": "distraction"
+        },
+        {
+          "name": "Mosquito Repellent Wristband Set",
+          "store_id": "S17550809608986081_S00001",
+          "store_name": "JD Convenience Store - Flash Sale Zone",
+          "price": 29.9,
+          "tags": [
+            "Mosquito Repellent",
+            "Outdoor",
+            "Parent-Child",
+            "Eco-Friendly"
+          ],
+          "product_id": "S17550809608986081_P00007",
+          "attributes": [
+            "Adults*2",
+            "Child*1",
+            "Multiple colors available"
+          ],
+          "product_type": "distraction"
+        }
+      ]
+    },
+    "S17550809608986081_S00002": {
+      "name": "Meiyijia Convenience Store",
+      "store_id": "S17550809608986081_S00002",
+      "score": 4.6,
+      "location": {
+        "address": "Meiyijia Convenience Store, No.15 Jinbang Road, Henan'an Street, Huicheng District, Huizhou, Guangdong Province",
+        "latitude": 23.0839,
+        "longitude": 114.4165
+      },
+      "tags": [
+        "product delivery",
+        "Daily Necessities",
+        "30-Minute Delivery"
+      ],
+      "store_type": "target",
+      "products": [
+        {
+          "name": "Sun Hat - Wide-Brimmed Style",
+          "store_id": "S17550809608986081_S00002",
+          "store_name": "Meiyijia Convenience Store",
+          "price": 25.9,
+          "tags": [
+            "Sun Protection",
+            "Outdoor",
+            "Wide-Brimmed",
+            "Sun Shade"
+          ],
+          "product_id": "S17550809608986081_P00009",
+          "attributes": [
+            "Beige",
+            "Foldable"
+          ],
+          "product_type": "target"
+        },
+        {
+          "name": "Sun Hat - Children's Cartoon Style",
+          "store_id": "S17550809608986081_S00002",
+          "store_name": "Meiyijia Convenience Store",
+          "price": 15.9,
+          "tags": [
+            "Sun Protection",
+            "Outdoor",
+            "Children",
+            "Cartoon"
+          ],
+          "product_id": "S17550809608986081_P00010",
+          "attributes": [
+            "Blue",
+            "Cute animal pattern"
+          ],
+          "product_type": "target"
+        },
+        {
+          "name": "Mosquito Repellent Floral Water - Cooling Type",
+          "store_id": "S17550809608986081_S00002",
+          "store_name": "Meiyijia Convenience Store",
+          "price": 12.5,
+          "tags": [
+            "Mosquito Repellent",
+            "Outdoor",
+            "Cooling",
+            "Portable"
+          ],
+          "product_id": "S17550809608986081_P00011",
+          "attributes": [
+            "100ml"
+          ],
+          "product_type": "target"
+        },
+        {
+          "name": "Wet Tissues - Travel Pack",
+          "store_id": "S17550809608986081_S00002",
+          "store_name": "Meiyijia Convenience Store",
+          "price": 9.9,
+          "tags": [
+            "Wet Tissues",
+            "Outdoor",
+            "Portable",
+            "Hygienic"
+          ],
+          "product_id": "S17550809608986081_P00012",
+          "attributes": [
+            "80 sheets/pack",
+            "Unscented"
+          ],
+          "product_type": "target"
+        },
+        {
+          "name": "Sunscreen SPF50+",
+          "store_id": "S17550809608986081_S00002",
+          "store_name": "Meiyijia Convenience Store",
+          "price": 35.9,
+          "tags": [
+            "Sun Protection",
+            "Outdoor",
+            "High-Level Protection"
+          ],
+          "product_id": "S17550809608986081_P00013",
+          "attributes": [
+            "50ml"
+          ],
+          "product_type": "distraction"
+        },
+        {
+          "name": "Outdoor Collapsible Water Bottle",
+          "store_id": "S17550809608986081_S00002",
+          "store_name": "Meiyijia Convenience Store",
+          "price": 22.8,
+          "tags": [
+            "Outdoor",
+            "Portable",
+            "Water Bottle"
+          ],
+          "product_id": "S17550809608986081_P00014",
+          "attributes": [
+            "500ml",
+            "Blue"
+          ],
+          "product_type": "distraction"
+        },
+        {
+          "name": "Disposable Raincoat",
+          "store_id": "S17550809608986081_S00002",
+          "store_name": "Meiyijia Convenience Store",
+          "price": 5.5,
+          "tags": [
+            "Outdoor",
+            "Raincoat",
+            "Portable",
+            "Disposable"
+          ],
+          "product_id": "S17550809608986081_P00015",
+          "attributes": [
+            "Adult size",
+            "Transparent"
+          ],
+          "product_type": "distraction"
+        }
+      ]
+    },
+    "S17550809608986081_S00004": {
+      "name": "7-11 Convenience Store (Henan'an Branch)",
+      "store_id": "S17550809608986081_S00004",
+      "score": 4.5,
+      "location": {
+        "address": "7-11 Convenience Store, No.20 Jinbang Road, Henan'an Street, Huicheng District, Huizhou, Guangdong Province",
+        "latitude": 23.084,
+        "longitude": 114.4164
+      },
+      "tags": [
+        "product delivery",
+        "Daily Necessities",
+        "45-Minute Delivery"
+      ],
+      "store_type": "target",
+      "products": [
+        {
+          "name": "Children's Sun Hat",
+          "store_id": "S17550809608986081_S00004",
+          "store_name": "7-11 Convenience Store (Henan'an Branch)",
+          "price": 29.9,
+          "tags": [
+            "Sun Protection",
+            "Children",
+            "Outdoor",
+            "Sun Shade",
+            "Picking Essentials"
+          ],
+          "product_id": "S17550809608986081_P00021",
+          "attributes": [
+            "Pink",
+            "Blue",
+            "Yellow"
+          ],
+          "product_type": "target"
+        },
+        {
+          "name": "Adult Outdoor Sun Hat",
+          "store_id": "S17550809608986081_S00004",
+          "store_name": "7-11 Convenience Store (Henan'an Branch)",
+          "price": 39.9,
+          "tags": [
+            "Sun Protection",
+            "Adult",
+            "Outdoor",
+            "Sun Shade",
+            "Picking Essentials"
+          ],
+          "product_id": "S17550809608986081_P00022",
+          "attributes": [
+            "Black",
+            "Beige",
+            "Navy blue"
+          ],
+          "product_type": "target"
+        },
+        {
+          "name": "Kleenex Wet Wipes",
+          "store_id": "S17550809608986081_S00004",
+          "store_name": "7-11 Convenience Store (Henan'an Branch)",
+          "price": 15.8,
+          "tags": [
+            "Wet Tissues",
+            "Portable",
+            "Hygienic",
+            "Picking Essentials"
+          ],
+          "product_id": "S17550809608986081_P00024",
+          "attributes": [
+            "20 sheets/pack",
+            "Unscented"
+          ],
+          "product_type": "target"
+        },
+        {
+          "name": "Sunscreen Spray",
+          "store_id": "S17550809608986081_S00004",
+          "store_name": "7-11 Convenience Store (Henan'an Branch)",
+          "price": 68,
+          "tags": [
+            "Sun Protection",
+            "Outdoor",
+            "Spray",
+            "SPF50+"
+          ],
+          "product_id": "S17550809608986081_P00025",
+          "attributes": [
+            "150ml"
+          ],
+          "product_type": "distraction"
+        },
+        {
+          "name": "Farm Picking Gloves",
+          "store_id": "S17550809608986081_S00004",
+          "store_name": "7-11 Convenience Store (Henan'an Branch)",
+          "price": 19.9,
+          "tags": [
+            "Picking",
+            "Puncture-Resistant",
+            "Outdoor",
+            "Gardening"
+          ],
+          "product_id": "S17550809608986081_P00026",
+          "attributes": [
+            "Size S",
+            "Size M",
+            "Size L"
+          ],
+          "product_type": "distraction"
+        },
+        {
+          "name": "Mosquito Repellent Patches for Children",
+          "store_id": "S17550809608986081_S00004",
+          "store_name": "7-11 Convenience Store (Henan'an Branch)",
+          "price": 16.5,
+          "tags": [
+            "Mosquito Repellent",
+            "Children",
+            "Outdoor",
+            "Cartoon Pattern"
+          ],
+          "product_id": "S17550809608986081_P00027",
+          "attributes": [
+            "12 pieces/pack"
+          ],
+          "product_type": "distraction"
+        }
+      ]
+    },
+    "S17550809608986081_S00005": {
+      "name": "FamilyMart Convenience Store (Huicheng District Branch)",
+      "store_id": "S17550809608986081_S00005",
+      "score": 4.4,
+      "location": {
+        "address": "FamilyMart Convenience Store, No.36 Maidi Road, Huicheng District, Huizhou, Guangdong Province",
+        "latitude": 23.0795,
+        "longitude": 114.4245
+      },
+      "tags": [
+        "product delivery",
+        "Daily Necessities",
+        "1-Hour Delivery"
+      ],
+      "store_type": "distraction",
+      "products": [
+        {
+          "name": "Children's Sun Hat",
+          "store_id": "S17550809608986081_S00005",
+          "store_name": "FamilyMart Convenience Store (Huicheng District Branch)",
+          "price": 29.9,
+          "tags": [
+            "Sun Protection",
+            "Children",
+            "Outdoor",
+            "Sun Shade"
+          ],
+          "product_id": "S17550809608986081_P00028",
+          "attributes": [
+            "Pink",
+            "Blue",
+            "Yellow"
+          ],
+          "product_type": "distraction"
+        },
+        {
+          "name": "Mosquito Repellent Floral Water",
+          "store_id": "S17550809608986081_S00005",
+          "store_name": "FamilyMart Convenience Store (Huicheng District Branch)",
+          "price": 15.8,
+          "tags": [
+            "Mosquito Repellent",
+            "Outdoor",
+            "Insect-Proof",
+            "Floral Water"
+          ],
+          "product_id": "S17550809608986081_P00029",
+          "attributes": [
+            "100ml"
+          ],
+          "product_type": "target"
+        },
+        {
+          "name": "Adult Sun Hat",
+          "store_id": "S17550809608986081_S00005",
+          "store_name": "FamilyMart Convenience Store (Huicheng District Branch)",
+          "price": 35.9,
+          "tags": [
+            "Sun Protection",
+            "Adult",
+            "Outdoor",
+            "Sun Shade"
+          ],
+          "product_id": "S17550809608986081_P00031",
+          "attributes": [
+            "Black",
+            "Beige"
+          ],
+          "product_type": "distraction"
+        },
+        {
+          "name": "Mineral Water",
+          "store_id": "S17550809608986081_S00005",
+          "store_name": "FamilyMart Convenience Store (Huicheng District Branch)",
+          "price": 2.5,
+          "tags": [
+            "Drinking Water",
+            "Outdoor",
+            "Portable"
+          ],
+          "product_id": "S17550809608986081_P00032",
+          "attributes": [
+            "550ml"
+          ],
+          "product_type": "distraction"
+        }
+      ]
+    }
+  },
+  "orders": {}
+}

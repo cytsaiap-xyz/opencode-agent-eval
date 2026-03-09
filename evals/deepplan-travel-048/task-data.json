@@ -1,0 +1,46 @@
+{
+  "task_id": "47",
+  "query": "I plan to travel from Nanning to Nanjing on November 12, 2025, and return on the 15th. For transportation, please book me the cheapest available direct flight ticket, since my budget is limited—every bit saved helps. For accommodation, I’d like a hotel with a swimming pool, preferably two-star. Simple facilities are fine, but it must have a swimming pool.\n\nOh, by the way, there are two dining spots I’m particularly interested in. One is at 'Nanjing 1912 Block'—I’ve heard there are lots of great food options there, so please pick the highest-rated restaurant and include it in the plan. The other is near 'Nanjing Eye Pedestrian Bridge', where I’d like to try Western cuisine, preferably something with a mix of international flavors. Please find a suitable option and arrange that as well.\n\nThat’s basically all—I’ve provided all the information needed. Just go ahead and create the itinerary for me! November 12, 2025 is Wednesday",
+  "meta_info": {
+    "org": "Nanning",
+    "dest": [
+      "Nanjing"
+    ],
+    "days": 4,
+    "depart_date": "2025-11-12",
+    "return_date": "2025-11-15",
+    "people_number": 1,
+    "room_number": 1
+  },
+  "hard_constraints": {
+    "flight_cheapest_direct": {
+      "constraint_context": "Prefer to take a flight for the outbound journey, and need to select the cheapest flight among direct flights",
+      "constraint_type": "superlative_cheapest_direct",
+      "outbound_flight_no": "HO1729"
+    },
+    "hotel_star_service_required": {
+      "constraint_context": "Please select a 2-star hotel that offers a pool for accommodation.",
+      "constraint_type": "superlative_star_service_required",
+      "hotel_name": "Hanting Hotel Nanjing Getang Metro Station",
+      "required_service": "Swimming Pool",
+      "hotel_star": 2,
+      "hotel_price": 184.0
+    },
+    "restaurant_highest_rated": {
+      "constraint_context": "Please arrange a meal at the highest-rated restaurant near 'Nanjing 1912 Block' during the trip.",
+      "constraint_type": "superlative_highest_rated_restaurant",
+      "attraction_name": "Nanjing 1912 Block",
+      "restaurant_name": "No Worries Australian Bistro (Shipopoan Branch)",
+      "price_per_person": 100.0,
+      "restaurant_rating": 4.8
+    },
+    "restaurant_specific_cuisine_nearby": {
+      "constraint_context": "During the trip, please arrange a meal at a Western-style restaurant (with a variety of cuisines) near 'Nanjing Eye Pedestrian Bridge'.",
+      "constraint_type": "superlative_specific_cuisine_nearby",
+      "attraction_name": "Nanjing Eye Pedestrian Bridge",
+      "restaurant_name": "International Youth Conference Hotel·Leike German Beer Restaurant",
+      "price_per_person": 157.0,
+      "restaurant_rating": 4.0
+    }
+  }
+}

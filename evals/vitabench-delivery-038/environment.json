@@ -1,0 +1,403 @@
+{
+  "task_id": "80715001",
+  "domain": "delivery",
+  "time": "2025-05-23 16:49:03",
+  "user_id": "U000029",
+  "weather": [
+    {
+      "city": "Linyi City",
+      "category": "sunny",
+      "datetime": "2025-05-23",
+      "temperature": [
+        17,
+        28
+      ],
+      "humidity": 60
+    }
+  ],
+  "location": [
+    {
+      "address": "International Department, South Campus of Linyi No.1 Middle School, No.135 Lingong Road, Zhimadun Street, Hedong District, Linyi City, Shandong Province",
+      "longitude": 118.431463,
+      "latitude": 35.000841
+    },
+    {
+      "address": "No.28 Boutique Apartment, 200 Meters West of People's Square, Intersection of Yinqueshan Road and Xinhua Road, Lanshan District, Linyi City, Shandong Province (Linyi People's Square Branch)",
+      "longitude": 118.334011,
+      "latitude": 35.059875
+    }
+  ],
+  "user_profile": {
+    "user id": "U000029",
+    "occupation": "Teacher",
+    "gender": "male",
+    "age group": "35~40",
+    "residence": "Linyi",
+    "home address": "No.28 Boutique Apartment, 200 Meters West of People's Square, Intersection of Yinqueshan Road and Xinhua Road, Lanshan District, Linyi City, Shandong Province (Linyi People's Square Branch)",
+    "work address": "International Department, South Campus of Linyi No.1 Middle School, No.135 Lingong Road, Zhimadun Street, Hedong District, Linyi City, Shandong Province",
+    "dietary restrictions": "Avoid high purine foods (such as organ meats/seafood soups), avoid alcohol",
+    "family status": "Has children",
+    "personality": "Tends to be controlling, not easily accepting of different opinions"
+  },
+  "user_historical_behaviors": {
+    "user id": "U000029",
+    "occupation": "Teacher",
+    "gender": "male",
+    "age group": "35~40",
+    "residence": "Linyi",
+    "home address": "No.28 Boutique Apartment, 200 Meters West of People's Square, Intersection of Yinqueshan Road and Xinhua Road, Lanshan District, Linyi City, Shandong Province (Linyi People's Square Branch)",
+    "work address": "International Department, South Campus of Linyi No.1 Middle School, No.135 Lingong Road, Zhimadun Street, Hedong District, Linyi City, Shandong Province",
+    "breakfast": {
+      "frequently purchased categories": [
+        "Quick Meals/Steamed Buns/Pan-fried Buns (Average ¥18)",
+        "Quick Meals/Rice Noodles/Rice Vermicelli (Average ¥22)",
+        "Quick Meals/Light Food (Average ¥28)"
+      ],
+      "cost per order": "¥15~30",
+      "preferred store rating": "4.2~4.8 stars",
+      "preferred delivery time": "15~30 minutes",
+      "preferred distance": "0~2500m",
+      "recent orders": [
+        {
+          "store": "Yunnan Crossing Bridge Rice Noodles",
+          "product": "Mild Version Small Pot Rice Noodles"
+        },
+        {
+          "store": "Breakfast Master",
+          "product": "Steamed Bun Set (Non-spicy)"
+        },
+        {
+          "store": "Light Food Choice",
+          "product": "Low-fat Vegetable Sandwich"
+        }
+      ],
+      "search history": [
+        "Low-salt breakfast",
+        "Mild-flavored steamed buns",
+        "Yunnan rice noodles",
+        "Nutritious breakfast",
+        "Portable office meals"
+      ]
+    },
+    "weekday lunch/dinner": {
+      "frequently purchased categories": [
+        "Quick Meals/Healthy Meals (Average ¥38)",
+        "Chinese Cuisine/Cantonese Food (Average ¥55)",
+        "International Cuisine/Korean Food (Average ¥60)"
+      ],
+      "cost per order": "¥30~65",
+      "preferred store rating": "4.3~4.8 stars",
+      "preferred delivery time": "20~35 minutes",
+      "preferred distance": "0~3000m",
+      "recent orders": [
+        {
+          "store": "Diet Workshop",
+          "product": "Low-fat Chicken Breast with Vegetable Set"
+        },
+        {
+          "store": "Guangzhou Flavor",
+          "product": "Steamed Fish + Seasonal Vegetables"
+        },
+        {
+          "store": "Korean Restaurant",
+          "product": "Bibimbap in Hot Stone Bowl (Mild Spicy)"
+        }
+      ],
+      "search history": [
+        "Healthy work meals",
+        "Non-spicy lunch",
+        "Low-oil dishes",
+        "Cantonese steamed dishes",
+        "Weight-loss meals"
+      ]
+    },
+    "weekend lunch/dinner": {
+      "frequently purchased categories": [
+        "Chinese Cuisine/Hunan Cuisine (Average ¥80)",
+        "Hot Pot/Fish Hot Pot (Average ¥120)",
+        "International Cuisine/Japanese Bento/Sushi (Average ¥100)"
+      ],
+      "cost per order": "¥70~150",
+      "preferred store rating": "4.5~4.9 stars",
+      "preferred delivery time": "30~45 minutes",
+      "preferred distance": "0~4000m",
+      "recent orders": [
+        {
+          "store": "Hunan Cuisine Restaurant",
+          "product": "Home-style Braised Fish + Stir-fried Vegetables (Less Oil and Salt)"
+        },
+        {
+          "store": "Hanada Sushi",
+          "product": "Family Sushi Set"
+        },
+        {
+          "store": "Fish Paradise",
+          "product": "Family Size Clear Fish Soup Pot"
+        }
+      ],
+      "search history": [
+        "Family-friendly restaurants",
+        "Family gathering meals",
+        "Non-spicy Hunan dishes",
+        "Healthy hot pot",
+        "Kid-friendly restaurants"
+      ]
+    },
+    "desserts/drinks/snacks": {
+      "frequently purchased categories": [
+        "Drinks & Desserts/Pure Tea/Herbal Tea (Average ¥22)",
+        "Drinks & Desserts/Fruit Salad (Average ¥32)",
+        "Drinks & Desserts/Cold Desserts (Average ¥28)"
+      ],
+      "cost per order": "¥15~40",
+      "preferred store rating": "4.4~4.9 stars",
+      "preferred delivery time": "15~30 minutes",
+      "preferred distance": "0~2500m",
+      "recent orders": [
+        {
+          "store": "Yu Bao Tang (Shunde Double-Skin Milk · Cantonese Herbal Tea · Chinese Coffee)",
+          "product": "Guilinggao with Honey"
+        },
+        {
+          "store": "Fresh Fruit Workshop",
+          "product": "Fruit Salad Cup (Less Sugar)"
+        },
+        {
+          "store": "Ice City",
+          "product": "Yogurt Ice Cream"
+        }
+      ],
+      "search history": [
+        "Low-sugar drinks",
+        "Fruit tea",
+        "Healthy desserts",
+        "Kids' desserts",
+        "Sugar-free tea"
+      ]
+    },
+    "night snack": {
+      "frequently purchased categories": [
+        "Quick Meals/Clay Pot Dishes (Average ¥42)",
+        "Quick Meals/Ceramic Pot Soups (Average ¥38)",
+        "Snacks/Braised Dishes (Average ¥35)"
+      ],
+      "cost per order": "¥30~50",
+      "preferred store rating": "4.2~4.7 stars",
+      "preferred delivery time": "25~40 minutes",
+      "preferred distance": "0~3000m",
+      "recent orders": [
+        {
+          "store": "Fat Auntie's Clay Pot",
+          "product": "Clay Pot Chicken + Rice"
+        },
+        {
+          "store": "Ceramic Pot Soup House",
+          "product": "Clear-broth Beef Brisket Soup (Non-spicy)"
+        },
+        {
+          "store": "Braised Flavor House",
+          "product": "Light-flavored Braised Chicken (Mild Spicy)"
+        }
+      ],
+      "search history": [
+        "Stomach-warming late night food",
+        "Health soups",
+        "Non-spicy braised dishes",
+        "Clay pot dishes",
+        "Late night soups"
+      ]
+    }
+  },
+  "stores": {
+    "S97919228618067522_S48161": {
+      "name": "Yu Bao Tang (Shunde Double-Skin Milk · Cantonese Herbal Tea · Chinese Coffee)",
+      "store_id": "S97919228618067522_S48161",
+      "score": 4.8,
+      "location": {
+        "address": "1st Floor, No.118, Lane 4, 190 Meters West of the Intersection of Yinqueshan Road and Hongda Road, Yinqueshan Street, Lanshan District, Linyi City, Shandong Province",
+        "latitude": 35.060787,
+        "longitude": 118.322244
+      },
+      "tags": [],
+      "products": [
+        {
+          "name": "Guilinggao with Honey",
+          "product_id": "S87111253562385722_P09756",
+          "store_id": "S97919228618067522_S48161",
+          "store_name": "Yu Bao Tang (Shunde Double-Skin Milk · Cantonese Herbal Tea · Chinese Coffee)",
+          "price": 25.9,
+          "tags": [],
+          "attributes": [],
+          "quantity": 9999
+        }
+      ]
+    },
+    "S33946320621632228_S88968": {
+      "name": "Tastin' Chinese Burger (Dongfang City Branch)",
+      "store_id": "S33946320621632228_S88968",
+      "score": 4.8,
+      "location": {
+        "address": "Tastin' Chinese Burger, Shop No.106, Dongfang City Commercial Complex, No.135 Yihe East Road, Economic Development Zone, Hedong District, Linyi City, Shandong Province (Economic Development Zone Dongfang City Branch)",
+        "latitude": 35.019434,
+        "longitude": 118.414676
+      },
+      "tags": [],
+      "products": [
+        {
+          "name": "[Thursday Chicken] Family Gathering 10-Piece Set",
+          "product_id": "S11060848464439774_P56159",
+          "store_id": "S33946320621632228_S88968",
+          "store_name": "Tastin' Chinese Burger (Dongfang City Branch)",
+          "price": 68.9,
+          "tags": [],
+          "attributes": [],
+          "quantity": 9999
+        },
+        {
+          "name": "Vine Pepper Half Chicken (Half Portion)",
+          "product_id": "S13680749257823968_P57420",
+          "store_id": "S33946320621632228_S88968",
+          "store_name": "Tastin' Chinese Burger (Dongfang City Branch)",
+          "price": 22.9,
+          "tags": [],
+          "attributes": [],
+          "quantity": 9999
+        }
+      ]
+    },
+    "S19018757844449117_S10244": {
+      "name": "KFC (Jinqueshan Road Wanda Branch)",
+      "store_id": "S19018757844449117_S10244",
+      "score": 4.6,
+      "location": {
+        "address": "KFC Drive-Through Pick-up Point, 1F-1012, Wanda Plaza, No.1 Jinqueshan Road, Lanshan District, Linyi City, Shandong Province (Jinqueshan Road Wanda Branch)",
+        "latitude": 35.053065,
+        "longitude": 118.363123
+      },
+      "tags": [],
+      "products": [
+        {
+          "name": "Whole Chicken Special 3-in-1 Deal",
+          "product_id": "S10029438815085146_P69820",
+          "store_id": "S19018757844449117_S10244",
+          "store_name": "KFC (Jinqueshan Road Wanda Branch)",
+          "price": 39.8,
+          "tags": [],
+          "attributes": [],
+          "quantity": 9999
+        }
+      ]
+    },
+    "S18557419460328659_S45939": {
+      "name": "Niu Huang Bao · Handmade Beef Burger (Linyi Branch)",
+      "store_id": "S18557419460328659_S45939",
+      "score": 4.5,
+      "location": {
+        "address": "Niu Huang Bao Handmade Beef Burger, 220 Meters Southeast of the Intersection of Haiguan Road and Yihe Road, Hedong District, Linyi City, Shandong Province (Linyi Branch)",
+        "latitude": 35.018379,
+        "longitude": 118.406769
+      },
+      "tags": [],
+      "products": [
+        {
+          "name": "Delicious Green Sichuan Pepper Half Chicken Set Meal",
+          "product_id": "S30993186555608936_P96544",
+          "store_id": "S18557419460328659_S45939",
+          "store_name": "Niu Huang Bao · Handmade Beef Burger (Linyi Branch)",
+          "price": 37.9,
+          "tags": [],
+          "attributes": [],
+          "quantity": 9999
+        }
+      ]
+    },
+    "S33115870968394672_S11194": {
+      "name": "Huanxi Food Society (Cantonese Sweet Soup · Taro Balls Ice Jelly · Aunt's Hot Drinks)",
+      "store_id": "S33115870968394672_S11194",
+      "score": 5,
+      "location": {
+        "address": "Huanxi Food Society, 60 Meters West of the Intersection of Qiyang Road and Xinhua Road, Yinqueshan Street, Lanshan District, Linyi City, Shandong Province",
+        "latitude": 35.057641,
+        "longitude": 118.335922
+      },
+      "tags": [],
+      "products": [
+        {
+          "name": "Handcrafted Guilinggao [Sweet-Bitter, Eliminates Internal Heat, 250ml]",
+          "product_id": "S14649300195518219_P70980",
+          "store_id": "S33115870968394672_S11194",
+          "store_name": "Huanxi Food Society (Cantonese Sweet Soup · Taro Balls Ice Jelly · Aunt's Hot Drinks)",
+          "price": 12.1,
+          "tags": [],
+          "attributes": [
+            "Add honey",
+            "Add condensed milk"
+          ],
+          "quantity": 9999
+        },
+        {
+          "name": "Coconut Milk Guilinggao",
+          "product_id": "S26709467541203475_P83306",
+          "store_id": "S33115870968394672_S11194",
+          "store_name": "Huanxi Food Society (Cantonese Sweet Soup · Taro Balls Ice Jelly · Aunt's Hot Drinks)",
+          "price": 14.9,
+          "tags": [],
+          "attributes": [],
+          "quantity": 9999
+        }
+      ]
+    },
+    "S18210078630875102_S46843": {
+      "name": "Yiran Sweet Dessert Shop",
+      "store_id": "S18210078630875102_S46843",
+      "score": 4.3,
+      "location": {
+        "address": "2nd Floor, No.118, Lane 4, 190 Meters West of the Intersection of Yinqueshan Road and Hongda Road, Yinqueshan Street, Lanshan District, Linyi City, Shandong Province",
+        "latitude": 35.060787,
+        "longitude": 118.322244
+      },
+      "tags": [],
+      "products": [
+        {
+          "name": "Guilinggao (Turtle Jelly)",
+          "product_id": "S33301761650218308_P75769",
+          "store_id": "S18210078630875102_S46843",
+          "store_name": "Yiran Sweet Dessert Shop",
+          "price": 23.8,
+          "tags": [],
+          "attributes": [],
+          "quantity": 9999
+        }
+      ]
+    }
+  },
+  "orders": {
+    "80715001O01": {
+      "order_id": "80715001O01",
+      "order_type": "delivery",
+      "user_id": "U000029",
+      "store_id": "S97919228618067522_S48161",
+      "note": "",
+      "location": {
+        "address": "No.28 Boutique Apartment, 200 Meters West of People's Square, Intersection of Yinqueshan Road and Xinhua Road, Lanshan District, Linyi City, Shandong Province (Linyi People's Square Branch)",
+        "longitude": 118.334011,
+        "latitude": 35.059875
+      },
+      "dispatch_time": "2025-04-11 12:00:00",
+      "shipping_time": 50,
+      "delivery_time": "2025-04-11 12:50:00",
+      "total_price": 51.8,
+      "create_time": "2025-04-11 11:51:00",
+      "update_time": "2025-04-11 11:51:00",
+      "status": "delivered",
+      "products": [
+        {
+          "product_id": "S63846567319950893_P80748",
+          "price": 25.9,
+          "quantity": 2,
+          "attributes": "with honey"
+        }
+      ]
+    }
+  }
+}

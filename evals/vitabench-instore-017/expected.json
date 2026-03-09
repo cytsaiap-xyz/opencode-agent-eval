@@ -1,0 +1,88 @@
+{
+  "required_orders": [
+    {
+      "reservation_id": "10826026T001",
+      "shop_id": "S17564420257279950_I00001",
+      "reservation_time": "2024-10-26 16:00",
+      "update_time": "2024-10-23 14:24:01",
+      "customer_id": "U942885",
+      "customer_count": 2,
+      "status": "paid"
+    },
+    {
+      "order_id": "10826026T002",
+      "order_type": "instore",
+      "user_id": "U942885",
+      "store_id": "S17564420257279950_I00001",
+      "note": "",
+      "location": null,
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 168,
+      "create_time": "2024-10-23 14:26:23",
+      "update_time": "2024-10-23 14:26:23",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17564420257279950_P00001",
+          "name": "Health Preservation Sauna Package for Two",
+          "price": 168,
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "order_id": "10826026T003",
+      "order_type": "instore",
+      "user_id": "U942885",
+      "store_id": "S17564420257279950_I00002",
+      "note": "",
+      "location": null,
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 356,
+      "create_time": "2024-10-23 14:29:33",
+      "update_time": "2024-10-23 14:29:33",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17564420257279950_P00006",
+          "name": "Deluxe Japanese Cuisine Package for Two",
+          "price": 356,
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "book_id": "10826026T004",
+      "shop_id": "S17564420257279950_I00002",
+      "book_time": "2024-10-26 19:00",
+      "update_time": "2024-10-23 14:31:24",
+      "customer_id": "U942885",
+      "customer_count": 2,
+      "book_price": 20,
+      "status": "paid"
+    }
+  ],
+  "rubrics": [
+    "The massage shop should be within 1000m (inclusive) from Room 502, Unit 1, Building 3, Jinyu Huafu, 6789 Dongfeng East Street, Kuiwen District, Weifang, Shandong Province",
+    "The massage shop should have a rating of 4.4 or above",
+    "The massage shop should provide Health Preservation Sauna service",
+    "The appointment time for the massage shop should be 2024-10-26 16:00",
+    "The number of people for the massage shop appointment should be 2",
+    "The ordered massage shop should be Yuyang Health Club",
+    "The ordered item at the massage shop should be a Health Preservation Sauna package",
+    "The ordered item at the massage shop should be suitable for two people",
+    "The ordered item at the massage shop should be a Health Preservation Sauna Package for Two",
+    "The Japanese buffet restaurant should be within 4000m (inclusive) from Yuyang Health Club, 3rd Floor, Wanda Plaza, 5678 Dongfeng East Street, Kuiwen District, Weifang, Shandong Province",
+    "The Japanese buffet restaurant should have fresh ingredients",
+    "The ordered item at the Japanese buffet restaurant should be a Package for Two",
+    "The ordered set at the Japanese buffet restaurant should include both Sashimi and Wagyu Beef BBQ",
+    "The price of the ordered set at the Japanese buffet restaurant should be within 400 yuan (inclusive)",
+    "The reserved Japanese buffet restaurant should be Sakura Japanese Buffet",
+    "The reservation time for the Japanese buffet restaurant should be 2024-10-26 19:00",
+    "The number of people for the Japanese buffet restaurant reservation should be 2"
+  ]
+}

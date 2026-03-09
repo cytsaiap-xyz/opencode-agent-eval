@@ -1,0 +1,106 @@
+{
+  "required_orders": [
+    {
+      "order_id": "10826076T001",
+      "order_type": "instore",
+      "user_id": "U669983",
+      "store_id": "S17567836604989753_I00001",
+      "note": "",
+      "location": null,
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 298,
+      "create_time": "2024-10-11 15:33:24",
+      "update_time": "2024-10-11 15:33:24",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17567836604989753_P00001",
+          "name": "Zero foundation close-up magic introductory package (basic props included)",
+          "price": 298,
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "reservation_id": "10826076T002",
+      "shop_id": "S17567836604989753_I00001",
+      "reservation_time": "2024-10-12 09:00:00",
+      "update_time": "2024-10-11 15:34:24",
+      "customer_id": "U669983",
+      "customer_count": 1,
+      "status": "paid"
+    },
+    {
+      "order_id": "10826076T003",
+      "order_type": "instore",
+      "user_id": "U669983",
+      "store_id": "S17567836604989753_I00002",
+      "note": "",
+      "location": null,
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 158,
+      "create_time": "2024-10-04 14:22:15",
+      "update_time": "2024-10-11 15:35:54",
+      "status": "cancelled",
+      "products": [
+        {
+          "product_id": "S17567836604989753_P00013",
+          "name": "Foot therapy wellness package 90 minutes",
+          "price": 158,
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "order_id": "10826076T004",
+      "order_type": "instore",
+      "user_id": "U669983",
+      "store_id": "S17567836604989753_I00002",
+      "note": "",
+      "location": null,
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 198,
+      "create_time": "2024-10-11 15:37:31",
+      "update_time": "2024-10-11 15:37:31",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17567836604989753_P00010",
+          "name": "Deep soothing shoulder and neck massage 90 minutes",
+          "price": 198,
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "reservation_id": "10826076T005",
+      "shop_id": "S17567836604989753_I00002",
+      "reservation_time": "2024-10-12 12:00:00",
+      "update_time": "2024-10-11 15:38:31",
+      "customer_id": "U669983",
+      "customer_count": 1,
+      "status": "paid"
+    }
+  ],
+  "rubrics": [
+    "The magic learning studio should be within 3000m (inclusive) of Room 1803, Unit 1, Building 2, Lushang Olympic City, 14677 Jingshi Road, Lixia District, Jinan",
+    "The magic learning studio should be a top rated merchant",
+    "The ordered item at the magic learning studio should be a zero foundation beginner learning package",
+    "The ordered item at the magic learning studio should include magic props",
+    "The reserved magic learning studio should be Jinan Magic Association Training Center",
+    "The reservation time for the magic learning studio should be 2024-10-12 09:00",
+    "The number of people for the magic learning studio reservation should be 1",
+    "The status of the foot therapy package order should be cancelled",
+    "The foot therapy package was ordered from Xiushentang premium massage, so the massage shop order should be from Xiushentang premium massage",
+    "The ordered item at the massage shop should be a shoulder and neck massage package",
+    "The reserved massage shop should be Xiushentang premium massage",
+    "The reservation time for the massage shop should be 2024-10-12 12:00",
+    "The number of people for the massage shop reservation should be 1"
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "task_id": "65",
+  "query": "I plan to fly from Urumqi to Changsha on November 12, 2025, stay until November 16, and then return. There will be four people traveling together, so we’ll take flights for transportation—please help me select suitable flights and try to arrange convenient departure and return times.\n\nFor accommodation, I’d like something comfortable and conveniently located since we’re traveling to relax. Please help me find the highest-rated hotel in Changsha—we need to book two rooms.\n\nI’ve heard that Changsha has some great natural scenery, so I hope the itinerary can include the top-rated attraction in the 'natural风光' category. Also, aren’t there many popular attractions in Changsha? Please pick the three highest-rated ones from the attraction recommendations—I want to check them all!\n\nThat’s basically it. I think I’ve provided all the necessary information—please go ahead and prepare a detailed travel plan for me. Thanks so much! November 12, 2025 is Wednesday",
+  "meta_info": {
+    "org": "Urumqi",
+    "dest": [
+      "Changsha"
+    ],
+    "days": 5,
+    "depart_date": "2025-11-12",
+    "return_date": "2025-11-16",
+    "people_number": 4,
+    "room_number": 2
+  },
+  "hard_constraints": {
+    "flight_seat_status": {
+      "constraint_context": "4 people traveling, choosing to travel by plane, need to select a flight with sufficient remaining tickets (this sentence does not need to be included in the query, but should be inferred by the user)",
+      "people_number": 4,
+      "outbound_seat_status": "7",
+      "inbound_seat_status": "8",
+      "outbound_flight_no": "FU6594",
+      "inbound_flight_no": "QW6155"
+    },
+    "hotel_highest_rated": {
+      "constraint_context": "For accommodation, please select the highest-rated hotel in this city",
+      "constraint_type": "superlative_highest_rated_hotel",
+      "hotel_name": "Changsha Yuelu Fairfield Hotel",
+      "hotel_price": 392,
+      "hotel_score": 5.0
+    },
+    "attraction_type_highest_rated": {
+      "constraint_context": "The itinerary must include the highest-rated attraction in the 'Natural Scenery' category.",
+      "constraint_type": "superlative_type_highest_rated",
+      "attraction_names": [
+        "Orange Isle Scenic Area"
+      ],
+      "attraction_type_cn": "自然风光",
+      "attraction_type": "Natural Scenery",
+      "attraction_ratings": [
+        4.9
+      ]
+    },
+    "attraction_top_rated_must_visit": {
+      "constraint_context": "The itinerary must include the three highest-rated attractions recommended by the attraction recommendation tool.",
+      "constraint_type": "superlative_top_rated_must_visit",
+      "attraction_names": [
+        "Hunan Martyrs Park",
+        "Orange Isle Scenic Area",
+        "Hunan Museum"
+      ],
+      "attraction_ratings": [
+        4.9,
+        4.9,
+        4.8
+      ]
+    }
+  }
+}

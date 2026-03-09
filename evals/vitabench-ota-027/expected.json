@@ -1,0 +1,82 @@
+{
+  "required_orders": [
+    {
+      "order_id": "70807010T001",
+      "order_type": "flight",
+      "user_id": "U010037",
+      "store_id": "S17557505485023605_F00011",
+      "note": "",
+      "location": null,
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 7680,
+      "create_time": "2021-06-21 21:32:56",
+      "update_time": "2021-06-21 21:32:56",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17557505485023605_P00092",
+          "price": 1280,
+          "quantity": 6,
+          "date": "2021-07-03",
+          "seat_type": "Economy Class"
+        }
+      ]
+    },
+    {
+      "order_id": "70807010T002",
+      "order_type": "hotel",
+      "user_id": "U010037",
+      "store_id": "S17557505485023605_H00002",
+      "note": "",
+      "location": null,
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 11520,
+      "create_time": "2021-06-21 21:37:56",
+      "update_time": "2021-06-21 21:37:56",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17557505485023605_P00016",
+          "price": 1280,
+          "quantity": 3,
+          "date": "2021-07-03",
+          "room_type": "Deluxe Twin Room"
+        },
+        {
+          "product_id": "S17557505485023605_P00013",
+          "price": 1280,
+          "quantity": 3,
+          "date": "2021-07-04",
+          "room_type": "Deluxe Twin Room"
+        },
+        {
+          "product_id": "S17557505485023605_P00014",
+          "price": 1280,
+          "quantity": 3,
+          "date": "2021-07-05",
+          "room_type": "Deluxe Twin Room"
+        }
+      ]
+    }
+  ],
+  "rubrics": [
+    "Departure city must be Hangzhou",
+    "Destination must be Lhasa, Tibet",
+    "Departure date must be the 3rd of next month (July 3, 2021)",
+    "Should check all trains departing from Hangzhou, with results showing that none can reach the destination by July 4, thus air travel should be selected",
+    "The quantity for the flight order should be 6",
+    "The departure time for the flight should be in the afternoon",
+    "The hotel booking dates should be July 3, 2021, July 4, 2021, and July 5, 2021",
+    "The hotel must have Oxygen Supply Facilities",
+    "The hotel must have Tibetan-style Decoration",
+    "The hotel accommodation should be comfortable",
+    "All room types in the hotel order should be the same",
+    "The hotel rooms should accommodate 6 people",
+    "The total price of the hotel order needs to be less than or equal to 5000 yuan",
+    "Need to check information on popular attractions in Lhasa, with results showing Potala Palace (4.8 stars, 200 yuan ticket), Jokhang Temple (4.7 stars, 85 yuan ticket), Barkhor Street (4.5 stars, Free Admission), and Norbulingka (4.3 stars, 60 yuan ticket)"
+  ]
+}

@@ -1,0 +1,196 @@
+{
+  "task_id": "10826061",
+  "domain": "instore",
+  "time": "2025-05-30 15:20:00",
+  "user_id": "U719674",
+  "weather": [
+    {
+      "city": "Qingdao",
+      "category": "cloudy",
+      "datetime": "2025-05-30",
+      "temperature": [
+        21,
+        28
+      ],
+      "humidity": 58
+    },
+    {
+      "city": "Qingdao",
+      "category": "sunny",
+      "datetime": "2025-05-31",
+      "temperature": [
+        22,
+        29
+      ],
+      "humidity": 52
+    }
+  ],
+  "location": [
+    {
+      "address": "Room 1503, Tower B, World Trade Center, 6 Hongkong Middle Road, Shinan District, Qingdao, Shandong Province",
+      "longitude": 120.377614,
+      "latitude": 36.06223
+    },
+    {
+      "address": "Creative Studio No.1, Shilaoren Tourist Park, Laoshan District, Qingdao, Shandong Province",
+      "longitude": 120.507487,
+      "latitude": 36.098387
+    }
+  ],
+  "user_profile": {
+    "user id": "U719674",
+    "occupation": "Freelancer",
+    "gender": "male",
+    "age group": "30~35",
+    "residence": "Qingdao",
+    "home address": "Room 1503, Tower B, World Trade Center, 6 Hongkong Middle Road, Shinan District, Qingdao, Shandong Province",
+    "work address": "Creative Studio No.1, Shilaoren Tourist Park, Laoshan District, Qingdao, Shandong Province",
+    "dietary restrictions": "No high sodium, no alcohol",
+    "family status": "Has children",
+    "personality": "Cold and concise in expression, lacks emotional communication and patience"
+  },
+  "user_historical_behaviors": {
+    "user id": "U719674",
+    "occupation": "Freelancer",
+    "gender": "male",
+    "age group": "30~35",
+    "residence": "Qingdao",
+    "home address": "Room 1503, Tower B, World Trade Center, 6 Hongkong Middle Road, Shinan District, Qingdao, Shandong Province",
+    "work address": "Creative Studio No.1, Shilaoren Tourist Park, Laoshan District, Qingdao, Shandong Province",
+    "in-store dining": {
+      "fine-dining": {
+        "frequently purchased categories": [
+          "Local Cuisine/Seafood (average 135 yuan)",
+          "International Cuisine/Japanese Food (average 180 yuan)",
+          "Local Cuisine/Cantonese cuisine (average 120 yuan)"
+        ],
+        "preferred average price per person": "120~180 yuan",
+        "preferred store rating": "4.2~4.9 stars",
+        "typical dining time": "18:30-20:30",
+        "preferred distance": "500~3000m",
+        "recent orders": [
+          {
+            "store": "Qingdao Fishing Port Seafood Restaurant",
+            "product": "Steamed sea bass + seafood platter"
+          },
+          {
+            "store": "Sushi Master",
+            "product": "Deluxe sashimi platter"
+          },
+          {
+            "store": "Cantonese Flavor House",
+            "product": "Poached shrimp + steamed scallops with garlic"
+          }
+        ],
+        "search history": [
+          "Salt-free seafood",
+          "Low sodium cuisine",
+          "Family-friendly restaurant",
+          "Alcohol-free restaurant"
+        ]
+      },
+      "light meal": {
+        "frequently purchased categories": [
+          "Fast Food/Chinese Quick Meal (average 35 yuan)",
+          "Fast Food/Western Quick Meal (average 45 yuan)",
+          "Local Cuisine/Shanghai & Zhejiang Dishes (average 50 yuan)"
+        ],
+        "preferred average price per person": "30~50 yuan",
+        "preferred store rating": "3.5~4.3 stars",
+        "typical dining time": "12:00-13:30",
+        "preferred distance": "0~800m",
+        "recent orders": [
+          {
+            "store": "Noodle King",
+            "product": "Signature beef noodle + cold dish"
+          },
+          {
+            "store": "Mr. Salad",
+            "product": "Low sodium chicken breast salad"
+          },
+          {
+            "store": "Xiao Yang's Pan-fried Buns",
+            "product": "Signature pan-fried buns + seaweed soup"
+          }
+        ],
+        "search history": [
+          "Healthy fast food",
+          "Low sodium meal",
+          "Children's meal",
+          "Light food"
+        ]
+      },
+      "desserts/drinks/snacks": {
+        "frequently purchased categories": [
+          "Beverage Shops (average 22 yuan)",
+          "Bakery & Desserts (average 35 yuan)",
+          "Other Food/Fresh Fruits (average 28 yuan)"
+        ],
+        "preferred average price per person": "20~40 yuan",
+        "preferred store rating": "4.0~4.8 stars",
+        "typical dining time": "15:00-17:00",
+        "preferred distance": "0~600m",
+        "recent orders": [
+          {
+            "store": "One More Cup",
+            "product": "Sugar-free oolong tea with coconut jelly"
+          },
+          {
+            "store": "85°C",
+            "product": "Whole wheat cranberry bread"
+          },
+          {
+            "store": "Fresh Fruit Bar",
+            "product": "Fruit platter"
+          }
+        ],
+        "search history": [
+          "Sugar-free drinks",
+          "Low-sugar desserts",
+          "Children's desserts",
+          "Healthy beverages"
+        ]
+      }
+    },
+    "other in-store services": {
+      "frequently consumed categories": {
+        "Sports & Fitness/Fitness Centers": "30%",
+        "Sports & Fitness/Sports Venues": "25%",
+        "Parent-Child/Family Entertainment": "35%",
+        "Entertainment/DIY handicraft Workshops": "10%"
+      },
+      "cost per order by category": {
+        "Sports & Fitness/Fitness Centers": "80~150 yuan",
+        "Sports & Fitness/Sports Venues": "100~200 yuan",
+        "Parent-Child/Family Entertainment": "120~280 yuan",
+        "Entertainment/DIY Workshops": "150~300 yuan"
+      },
+      "preferred store rating": "4.0~4.8 stars",
+      "preferred service time": "10:00-16:00",
+      "preferred distance": "0~5000m",
+      "recent orders": [
+        {
+          "store": "Qingdao Sports Center Swimming Pool",
+          "product": "Parent-child swimming lessons"
+        },
+        {
+          "store": "Laoshan Fitness Center",
+          "product": "Single person monthly fitness card"
+        },
+        {
+          "store": "Wonder Family Fun Park",
+          "product": "Weekend family package ticket"
+        }
+      ],
+      "search history": [
+        "Parent-child swimming",
+        "Children's fitness",
+        "Family DIY activities",
+        "Parent-child playground",
+        "Gym"
+      ]
+    }
+  },
+  "stores": {},
+  "orders": {}
+}

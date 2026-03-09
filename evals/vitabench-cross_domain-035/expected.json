@@ -1,0 +1,106 @@
+{
+  "required_orders": [
+    {
+      "order_id": "A0811011T001",
+      "order_type": "instore",
+      "user_id": "U254331",
+      "store_id": "S17550807829797634_I00012",
+      "note": "",
+      "location": null,
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 198,
+      "create_time": "2025-11-19 10:32:00",
+      "update_time": "2025-11-19 10:32:00",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17550807829797634_P00065",
+          "name": "Two-person archery experience package (3 hours)",
+          "price": 198,
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "reservation_id": "A0811011T002",
+      "shop_id": "S17550807829797634_I00012",
+      "reservation_time": "2025-11-19 13:00:00",
+      "update_time": "2025-11-19 10:34:00",
+      "customer_id": "U254331",
+      "customer_count": 2,
+      "status": "paid"
+    },
+    {
+      "order_id": "A0811011T003",
+      "order_type": "delivery",
+      "user_id": "U254331",
+      "store_id": "S17550807829797634_S00001",
+      "note": "",
+      "location": {
+        "address": "Fuzhou Station, No. 168 Lianjiang Middle Road, Jin'an District, Fuzhou City, Fujian Province",
+        "longitude": 119.3056,
+        "latitude": 26.0581
+      },
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 698,
+      "create_time": "2025-11-19 10:36:00",
+      "update_time": "2025-11-19 10:36:00",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17550807829797634_P00001",
+          "price": 698,
+          "quantity": 1,
+          "name": "Premium bird's nest gift box (6-bottle pack)",
+          "attributes": ""
+        }
+      ]
+    },
+    {
+      "order_id": "A0811011T004",
+      "order_type": "delivery",
+      "user_id": "U254331",
+      "store_id": "S17550807829797634_S00002",
+      "note": "",
+      "location": {
+        "address": "Fuzhou Station, No. 168 Lianjiang Middle Road, Jin'an District, Fuzhou City, Fujian Province",
+        "longitude": 119.3056,
+        "latitude": 26.0581
+      },
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 2899,
+      "create_time": "2025-11-19 10:37:00",
+      "update_time": "2025-11-19 10:37:00",
+      "status": "processed",
+      "products": [
+        {
+          "product_id": "S17550807829797634_P00006",
+          "price": 2899,
+          "quantity": 1,
+          "name": "Flying Fairy Moutai 53% vol (500ml)",
+          "attributes": ""
+        }
+      ]
+    }
+  ],
+  "rubrics": [
+    "The package ordered at the archery club should be without coach instruction",
+    "The duration of the ordered product should be 3 hours",
+    "The order at the archery club should be for a two-person package or two single-person packages",
+    "The reserved archery club should be Jian Wu Xu Fa Archery Club (S17550807829797634_I00012)",
+    "The reservation time for the archery club should be November 19, 2025, at 13:00",
+    "The number of people for the archery club reservation should be 2",
+    "The historical order ID to be queried is A0811011T005, train number D3256 arrives at 19:42, so there's no need to change the train ticket",
+    "The food delivery order should include a bird's nest gift box",
+    "The food delivery order should include a bottle of Moutai",
+    "The food delivery address should be Fuzhou Station, No. 168 Lianjiang Middle Road, Jin'an District, Fuzhou City, Fujian Province",
+    "The estimated food delivery time should be between 19:30 and 19:42 on November 19, 2025",
+    "The food delivery order should include the note: Contact 18382114867"
+  ]
+}

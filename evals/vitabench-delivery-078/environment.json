@@ -1,0 +1,443 @@
+{
+  "task_id": "G0721003",
+  "domain": "delivery",
+  "time": "2025-10-16 10:52:13",
+  "user_id": "U000056",
+  "weather": [
+    {
+      "city": "Wuxi City",
+      "category": "sunny",
+      "datetime": "2025-10-16",
+      "temperature": [
+        17,
+        25
+      ],
+      "humidity": 64
+    }
+  ],
+  "location": [
+    {
+      "address": "Co-working Space, 5th Floor, Center 66, No. 139 Renmin Middle Road, Liangxi District, Wuxi City, Jiangsu Province",
+      "longitude": 120.297362,
+      "latitude": 31.574308
+    }
+  ],
+  "user_profile": {
+    "user id": "U000056",
+    "occupation": "Independent Designer",
+    "gender": "male",
+    "age group": "20~25",
+    "residence": "Wuxi",
+    "home address": "Wutong Riverside Garden, North of the Intersection of Fengxiang Road and Qingshi Road, Liangxi District, Wuxi City, Jiangsu Province",
+    "work address": "Co-working Space, 5th Floor, Center 66, No. 139 Renmin Middle Road, Liangxi District, Wuxi City, Jiangsu Province",
+    "dietary restrictions": "No alcohol",
+    "family status": "Has pets",
+    "personality": "Tends to be controlling, not easily accepting of different opinions"
+  },
+  "user_historical_behaviors": {
+    "user id": "U000056",
+    "occupation": "Independent Designer",
+    "gender": "male",
+    "age group": "20~25",
+    "residence": "Wuxi",
+    "home address": "Wutong Riverside Garden, North of the Intersection of Fengxiang Road and Qingshi Road, Liangxi District, Wuxi City, Jiangsu Province",
+    "work address": "Co-working Space, 5th Floor, Center 66, No. 139 Renmin Middle Road, Liangxi District, Wuxi City, Jiangsu Province",
+    "breakfast": {
+      "frequently purchased categories": [
+        "Quick Meals/Buns/Pan-fried Buns (average ¥25)",
+        "Quick Meals/Jianbing/Wraps/Hand-grabbed Pancakes (average ¥18)",
+        "Quick Meals/Black Rice Porridge (average ¥22)"
+      ],
+      "cost per order": "¥15~35",
+      "preferred store rating": "4.2~4.7 stars",
+      "preferred delivery time": "15~25 minutes",
+      "preferred distance": "0~2500m",
+      "recent orders": [
+        {
+          "store": "Wuxi Soup Bun Restaurant",
+          "product": "Signature Xiaolongbao + Soy Milk"
+        },
+        {
+          "store": "Chaoyang Jianbing",
+          "product": "Original Jianbing"
+        },
+        {
+          "store": "Nanjing Dapai Dang",
+          "product": "Classic Duck Blood Vermicelli Soup"
+        }
+      ],
+      "search history": [
+        "Baozi",
+        "Pan-fried Buns",
+        "Soy Milk",
+        "Breakfast",
+        "Black Rice Porridge"
+      ]
+    },
+    "weekday lunch/dinner": {
+      "frequently purchased categories": [
+        "Quick Meals/Rice with Toppings (average ¥32)",
+        "Quick Meals/Noodles (average ¥45)",
+        "Chinese Cuisine/Sichuan Food (average ¥68)"
+      ],
+      "cost per order": "¥25~90",
+      "preferred store rating": "4.0~5.0 stars",
+      "preferred delivery time": "20~55 minutes",
+      "preferred distance": "0~5500m",
+      "recent orders": [
+        {
+          "store": "Yingchun Noodle House (Center 66 Store • Freshly Stir-fried Noodle Toppings)",
+          "product": "Pickled Vegetable and Shredded Tripe Noodle Soup"
+        },
+        {
+          "store": "Spicy Small Restaurant",
+          "product": "Boiled Beef Set Meal"
+        },
+        {
+          "store": "First-class Rice Bowls",
+          "product": "Black Pepper Beef Rice"
+        }
+      ],
+      "search history": [
+        "Low-fat",
+        "Healthy Meals",
+        "Noodles",
+        "Rice Bowls",
+        "Sichuan Cuisine"
+      ]
+    },
+    "weekend lunch/dinner": {
+      "frequently purchased categories": [
+        "International Cuisine/Japanese Bento/Sushi (average ¥85)",
+        "Chinese Cuisine/Grilled Fish (average ¥120)",
+        "Hot Pot/Individual Hot Pot (average ¥95)"
+      ],
+      "cost per order": "¥60~180",
+      "preferred store rating": "4.5~5.0 stars",
+      "preferred delivery time": "25~45 minutes",
+      "preferred distance": "0~5000m",
+      "recent orders": [
+        {
+          "store": "Jingyi Sushi",
+          "product": "Deluxe Salmon Set"
+        },
+        {
+          "store": "Bashu Grilled Whole Fish",
+          "product": "Spicy Grilled Fish + Side Dishes Set"
+        },
+        {
+          "store": "Small Hot Pot Workshop",
+          "product": "Tomato Beef Pot"
+        }
+      ],
+      "search history": [
+        "Sushi",
+        "Grilled Fish",
+        "Individual Hot Pot",
+        "Japanese Food",
+        "Casual Dining"
+      ]
+    },
+    "desserts/drinks/snacks": {
+      "frequently purchased categories": [
+        "Drinks & Desserts/Coffee (average ¥32)",
+        "Drinks & Desserts/Chinese Pastries (average ¥28)",
+        "Drinks & Desserts/Fruit Desserts (average ¥38)"
+      ],
+      "cost per order": "¥15~60",
+      "preferred store rating": "4.4~5.0 stars",
+      "preferred delivery time": "15~60 minutes",
+      "preferred distance": "0~5000m",
+      "recent orders": [
+        {
+          "store": "Yee3·No. 3 Coconut (Wuxi Dadongfang Store)",
+          "product": "Iced Coconut with Honey"
+        },
+        {
+          "store": "Fresh Fruit Mix",
+          "product": "Signature Fruit Mix"
+        }
+      ],
+      "search history": [
+        "Coffee",
+        "Fruit Mix",
+        "Coconut Water",
+        "Afternoon Tea"
+      ]
+    },
+    "night snack": {
+      "frequently purchased categories": [
+        "Snacks & Braised Foods/Braised Items (average ¥45)",
+        "Quick Meals/Liuzhou Snail Rice Noodles (average ¥32)",
+        "Quick Meals/Dumplings/Wonton (average ¥36)"
+      ],
+      "cost per order": "¥25~55",
+      "preferred store rating": "4.2~4.8 stars",
+      "preferred delivery time": "20~35 minutes",
+      "preferred distance": "0~4000m",
+      "recent orders": [
+        {
+          "store": "Old Flavor Braised Food",
+          "product": "Braised Food Platter (No Offal)"
+        },
+        {
+          "store": "Liuzhou Snail Rice Noodles",
+          "product": "Signature Snail Rice Noodles"
+        },
+        {
+          "store": "Old Street Wonton",
+          "product": "Pork Wonton"
+        }
+      ],
+      "search history": [
+        "Braised Food",
+        "Not Spicy",
+        "Wonton",
+        "Mild",
+        "No Offal",
+        "Night Snack"
+      ]
+    }
+  },
+  "stores": {
+    "S32352534561955193_S72446": {
+      "name": "Xiao Wu-Yue (Wuxi Suning Plaza Store)",
+      "store_id": "S32352534561955193_S72446",
+      "score": 4.4,
+      "location": {
+        "address": "F6 Floor, Suning Plaza Renmin Road Store, No. 111 Renmin Middle Road, Liangxi District, Wuxi City, Jiangsu Province",
+        "latitude": 31.575522,
+        "longitude": 120.303007
+      },
+      "tags": [
+        "Authentic"
+      ],
+      "products": [
+        {
+          "name": "Moonlit Lotus Pond Set for Two",
+          "store_id": "S32352534561955193_S72446",
+          "store_name": "Xiao Wu-Yue (Wuxi Suning Plaza Store)",
+          "price": 87,
+          "tags": [
+            "Signature Dishes"
+          ],
+          "product_id": "S24482885289562176_P77981",
+          "attributes": [],
+          "quantity": 9999
+        },
+        {
+          "name": "Wu-Yue Dongpo Chicken",
+          "product_id": "S28159117249866239_P60088",
+          "store_id": "S32352534561955193_S72446",
+          "store_name": "Xiao Wu-Yue (Wuxi Suning Plaza Store)",
+          "price": 68,
+          "tags": [],
+          "attributes": [],
+          "quantity": 9999
+        }
+      ]
+    },
+    "S21687429664650680_S32362": {
+      "name": "Songhe Building · Suzhou-style Soup Noodles (Wuxi Center 66 Store)",
+      "store_id": "S21687429664650680_S32362",
+      "score": 4.5,
+      "location": {
+        "address": "Unit 606, No. 139 Renmin Middle Road, Liangxi District, Wuxi City, Jiangsu Province",
+        "latitude": 31.574308,
+        "longitude": 120.297362
+      },
+      "tags": [],
+      "products": [
+        {
+          "name": "Ruyi Vegetarian Noodles",
+          "store_id": "S21687429664650680_S32362",
+          "store_name": "Songhe Building · Suzhou-style Soup Noodles (Wuxi Center 66 Store)",
+          "price": 25,
+          "tags": [],
+          "product_id": "S20111038835749649_P89250",
+          "attributes": [
+            "Red Soup",
+            "White Soup (with Rice Wine)"
+          ],
+          "quantity": 9999
+        }
+      ]
+    },
+    "S10892011637579176_S44408": {
+      "name": "KOI PLUS (Center 66 Store)",
+      "store_id": "S10892011637579176_S44408",
+      "score": 4.7,
+      "location": {
+        "address": "Unit 533, Center 66 Shopping Mall, No. 139 Renmin Middle Road, Liangxi District, Wuxi City, Jiangsu Province",
+        "latitude": 31.574308,
+        "longitude": 120.297362
+      },
+      "tags": [],
+      "products": [
+        {
+          "name": "Lime Green Tieguanyin Tea",
+          "store_id": "S10892011637579176_S44408",
+          "store_name": "KOI PLUS (Center 66 Store)",
+          "price": 27,
+          "tags": [],
+          "product_id": "S74469906752994471_P47610",
+          "attributes": [
+            "Regular Ice",
+            "Less Ice",
+            "No Ice",
+            "Room Temperature"
+          ],
+          "quantity": 9999
+        }
+      ]
+    },
+    "S56055263922995549_S02773": {
+      "name": "Northeast Kitchen (Wuxi Qingyang Maoye Store)",
+      "store_id": "S56055263922995549_S02773",
+      "score": 4.2,
+      "location": {
+        "address": "Northeast Kitchen (Qingyang Maoye Department Store), F4 Floor, Maoye World, No. 128 Qingyang Road, Liangxi District, Wuxi City, Jiangsu Province",
+        "latitude": 31.549612,
+        "longitude": 120.309538
+      },
+      "tags": [],
+      "products": [
+        {
+          "name": "Pork Bone with Pickled Cabbage Set for Two",
+          "product_id": "S24216014683031027_P59318",
+          "store_id": "S56055263922995549_S02773",
+          "store_name": "Northeast Kitchen (Wuxi Qingyang Maoye Store)",
+          "price": 66.5,
+          "tags": [],
+          "attributes": [],
+          "quantity": 9999
+        }
+      ]
+    },
+    "S26176275105868921_S59110": {
+      "name": "Yimeng Mountain Fried Chicken · Mountain Free-range Chicken (South Yinglong Bridge Store)",
+      "store_id": "S26176275105868921_S59110",
+      "score": 4.6,
+      "location": {
+        "address": "No. (100-102)-3, South of Yinglong Bridge, Liangxi District, Wuxi City, Jiangsu Province",
+        "latitude": 31.569278,
+        "longitude": 120.289187
+      },
+      "tags": [],
+      "products": [
+        {
+          "name": "[Golden Dragon New Year] [Two-person 1kg Set] Yimeng Mountain Stir-fried Chicken 1kg + Potatoes + Qianzhang Tofu Sheet",
+          "product_id": "S17700764878389694_P08405",
+          "store_id": "S26176275105868921_S59110",
+          "store_name": "Yimeng Mountain Fried Chicken · Mountain Free-range Chicken (South Yinglong Bridge Store)",
+          "price": 60.6,
+          "tags": [],
+          "attributes": [],
+          "quantity": 9999
+        }
+      ]
+    },
+    "S93830810283846794_S56337": {
+      "name": "Yes Lemon · Handmade Lemon Tea (Wuxi Suning Plaza Store)",
+      "store_id": "S93830810283846794_S56337",
+      "score": 4.4,
+      "location": {
+        "address": "Yes Lemon · Handmade Lemon Tea, B1 Floor, Suning Plaza Renmin Road Store, No. 111 Renmin Middle Road, Liangxi District, Wuxi City, Jiangsu Province",
+        "latitude": 31.575879,
+        "longitude": 120.302688
+      },
+      "tags": [],
+      "products": [
+        {
+          "name": "Thai Cool Lemon Tea",
+          "product_id": "S10307895136208927_P57475",
+          "store_id": "S93830810283846794_S56337",
+          "store_name": "Yes Lemon · Handmade Lemon Tea (Wuxi Suning Plaza Store)",
+          "price": 18.8,
+          "tags": [],
+          "attributes": [
+            "Less Ice",
+            "Standard Ice"
+          ],
+          "quantity": 9999
+        }
+      ]
+    },
+    "S20176046083245914_S04897": {
+      "name": "1 Diandian (Suning Plaza Store)",
+      "store_id": "S20176046083245914_S04897",
+      "score": 4.4,
+      "location": {
+        "address": "309D, 3rd Floor, Suning Plaza, No. 111 Renmin Middle Road, Liangxi District, Wuxi City, Jiangsu Province",
+        "latitude": 31.574956,
+        "longitude": 120.303164
+      },
+      "tags": [],
+      "products": [
+        {
+          "name": "Kumquat Lemon",
+          "product_id": "S22275398211580566_P98965",
+          "store_id": "S20176046083245914_S04897",
+          "store_name": "1 Diandian (Suning Plaza Store)",
+          "price": 13,
+          "tags": [],
+          "attributes": [
+            "Less Ice",
+            "No Ice",
+            "Standard Ice",
+            "Room Temperature",
+            "Hot"
+          ],
+          "quantity": 9999
+        }
+      ]
+    },
+    "S28127951915502215_S97759": {
+      "name": "Zhuyin Noodle House",
+      "store_id": "S28127951915502215_S97759",
+      "score": 4.6,
+      "location": {
+        "address": "Zhuyin Noodle House, No. 81-5 Jiankang Road, Liangxi District, Wuxi City, Jiangsu Province",
+        "latitude": 31.570563,
+        "longitude": 120.296866
+      },
+      "tags": [],
+      "products": [
+        {
+          "name": "Spicy Beef Noodle Soup",
+          "product_id": "S14100693540657712_P57482",
+          "store_id": "S28127951915502215_S97759",
+          "store_name": "Zhuyin Noodle House",
+          "price": 42,
+          "tags": [],
+          "attributes": [],
+          "quantity": 9999
+        }
+      ]
+    },
+    "S22066242611360822_S03108": {
+      "name": "Suokou Rice Noodles · Nanchang Mixed Noodles Clay Pot Soup (Center 66 Store)",
+      "store_id": "S22066242611360822_S03108",
+      "score": 4.5,
+      "location": {
+        "address": "Suokou Rice Noodles · Nanchang Mixed Noodles Clay Pot Soup, 40 meters northeast of the intersection of Wu'ai North Road and Xizhi Street, Liangxi District, Wuxi City, Jiangsu Province",
+        "latitude": 31.576319,
+        "longitude": 120.291649
+      },
+      "tags": [],
+      "products": [
+        {
+          "name": "Signature Vegetarian Soup Rice Noodles",
+          "product_id": "S31430053761255699_P16182",
+          "store_id": "S22066242611360822_S03108",
+          "store_name": "Suokou Rice Noodles · Nanchang Mixed Noodles Clay Pot Soup (Center 66 Store)",
+          "price": 19.8,
+          "tags": [],
+          "attributes": [],
+          "quantity": 9999
+        }
+      ]
+    }
+  },
+  "orders": {}
+}

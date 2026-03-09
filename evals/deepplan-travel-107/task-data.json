@@ -1,0 +1,52 @@
+{
+  "task_id": "106",
+  "query": "I plan to travel from Ningbo to Zhengzhou on November 12, 2025, and return on November 18, 2025. There are four of us in total, and we'd like to take flights for both the outbound and return journeys. Could you please help me check for suitable flight options?\n\nFor accommodation, I’d like to book a three-star hotel that ideally offers SPA services, so we can relax after a day of sightseeing. We’ll need two rooms—please recommend a hotel with good value for money.\n\nBy the way, during this trip to Zhengzhou, there are two places I really want to visit: 'Henan Museum' and 'Sanhuangzhai'. Please make sure both are included in the itinerary. Also, after visiting the 'Zhengzhou Shang Dynasty Ruins', we’d like to find the most affordable nearby restaurant with low average spending per person for lunch or dinner—please help arrange that as well.\n\nThat covers all my requirements. I believe I’ve provided all necessary information—please go ahead and plan the full itinerary for me! November 12, 2025 is Wednesday",
+  "meta_info": {
+    "org": "Ningbo",
+    "dest": [
+      "Zhengzhou"
+    ],
+    "days": 7,
+    "depart_date": "2025-11-12",
+    "return_date": "2025-11-18",
+    "people_number": 4,
+    "room_number": 2
+  },
+  "hard_constraints": {
+    "flight_seat_status": {
+      "constraint_context": "4 travelers, choosing to travel by plane, need to select a flight with sufficient remaining tickets (this sentence does not need to be included in the query, but should be inferred by the user)",
+      "people_number": 4,
+      "outbound_seat_status": "7",
+      "inbound_seat_status": "8",
+      "outbound_flight_no": "G56802",
+      "inbound_flight_no": "MU9896"
+    },
+    "hotel_star_service_required": {
+      "constraint_context": "Please select a 3-star hotel that offers SPA services for accommodation",
+      "constraint_type": "superlative_star_service_required",
+      "hotel_name": "Kunlun Leju Select Hotel (Zhengzhou South City Jinyi City Branch)",
+      "required_service": "SPA Service",
+      "hotel_star": 3,
+      "hotel_price": 206.0
+    },
+    "restaurant_cheapest_nearby_attraction": {
+      "constraint_context": "During the trip, please arrange a meal at the cheapest restaurant near the 'Zhengzhou Shang Dynasty Ruins', based on average cost per person.",
+      "constraint_type": "superlative_cheapest_nearby_attraction",
+      "attraction_name": "Zhengzhou Shang Dynasty Ruins",
+      "restaurant_name": "Mi Pi Ji Halal Restaurant (West Street Branch)",
+      "price_per_person": 11.0
+    },
+    "attraction_must_visit_named": {
+      "constraint_context": "The itinerary must include visits to 'Henan Museum' and 'Sanhuangzhai'.",
+      "constraint_type": "superlative_must_visit_named",
+      "attraction_names": [
+        "Henan Museum",
+        "Sanhuangzhai"
+      ],
+      "attraction_ratings": [
+        4.9,
+        4.7
+      ]
+    }
+  }
+}

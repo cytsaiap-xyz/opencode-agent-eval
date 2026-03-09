@@ -1,0 +1,859 @@
+{
+  "task_id": "10805002",
+  "domain": "cross_domain",
+  "time": "2025-04-07 17:45:00",
+  "user_id": "U001026",
+  "weather": [
+    {
+      "city": "Xiamen",
+      "category": "sunny",
+      "datetime": "2025-04-07",
+      "temperature": [
+        18,
+        25
+      ],
+      "humidity": 65
+    },
+    {
+      "city": "Huiyang",
+      "category": "cloudy",
+      "datetime": "2025-04-08",
+      "temperature": [
+        16,
+        23
+      ],
+      "humidity": 70
+    }
+  ],
+  "location": [
+    {
+      "address": "Xiamen Hemei World Business Center, No. 618 Chengyi Middle Road, Jimei District, Xiamen, Fujian Province",
+      "longitude": 118.1022,
+      "latitude": 24.6089
+    }
+  ],
+  "user_profile": {
+    "user id": "U001026",
+    "occupation": "Accountant",
+    "gender": "female",
+    "age group": "30~35",
+    "residence": "Xiamen",
+    "Permanent address": "Hengda Landscape at the intersection of Bozhi Road and Wenzhu Road, Jimei District, Xiamen, Fujian Province",
+    "work address": "Xiamen Hemei World Business Center, No. 618 Chengyi Middle Road, Jimei District, Xiamen, Fujian Province",
+    "dietary restrictions": "Low salt, Caffeine-free",
+    "family status": "In a relationship",
+    "personality": "Strong logical thinking, enjoys analysis and questioning, pursues accuracy"
+  },
+  "user_historical_behaviors": {
+    "user id": "U001026",
+    "occupation": "accountant",
+    "gender": "female",
+    "age group": "30~35",
+    "residence": "Xiamen",
+    "Permanent address": "Evergrande Royal View at the intersection of Bozhi Road and Wenzhu Road, Jimei District, Xiamen, Fujian Province",
+    "work address": "Xiamen Hemei World Business Center, No. 618 Chengyi Middle Road, Jimei District, Xiamen, Fujian Province",
+    "delivery": {
+      "food delivery": {
+        "breakfast": {
+          "frequently purchased categories": [
+            "Quick meals/Buns/Pan-fried buns (average 25 yuan)",
+            "Quick meals/Light food (average 35 yuan)",
+            "Quick meals/Salad (average 32 yuan)"
+          ],
+          "cost per order": "15~38 yuan",
+          "preferred store rating": "4.3~4.8 points",
+          "preferred delivery time": "10~20 minutes",
+          "preferred distance": "0~1500m",
+          "recent orders": [
+            {
+              "store": "Good Porridge Way",
+              "product": "Century egg and lean meat porridge + Meat buns"
+            },
+            {
+              "store": "Light Food Philosophy",
+              "product": "Avocado chicken breast sandwich"
+            },
+            {
+              "store": "Fresh Elements",
+              "product": "Fruit cereal cup + Low-fat milk"
+            }
+          ],
+          "search history": [
+            "Low-sugar breakfast",
+            "Healthy breakfast",
+            "Light food",
+            "Fruit cup",
+            "Low-fat porridge"
+          ]
+        },
+        "weekday lunch/dinner": {
+          "frequently purchased categories": [
+            "Quick meals/Healthy meals (average 45 yuan)",
+            "Quick meals/Salad (average 38 yuan)",
+            "Chinese cuisine/Cantonese cuisine (average 65 yuan)"
+          ],
+          "cost per order": "35~75 yuan",
+          "preferred store rating": "4.2~4.7 points",
+          "preferred delivery time": "15~30 minutes",
+          "preferred distance": "0~2500m",
+          "recent orders": [
+            {
+              "store": "Nutritional Cuisine",
+              "product": "Steamed chicken breast with vegetables meal"
+            },
+            {
+              "store": "Cantonese Flavor House",
+              "product": "Steamed bass + Seasonal vegetables"
+            },
+            {
+              "store": "Joyful Light Food",
+              "product": "Quinoa chicken breast salad"
+            }
+          ],
+          "search history": [
+            "Low-fat meals",
+            "Healthy lunch",
+            "Cantonese cuisine",
+            "Steamed dishes",
+            "Low oil"
+          ]
+        },
+        "weekend lunch/dinner": {
+          "frequently purchased categories": [
+            "Chinese cuisine/Cantonese cuisine (average 120 yuan)",
+            "Chinese cuisine/Stewed pot (average 100 yuan)",
+            "International cuisine/Korean cuisine (average 135 yuan)"
+          ],
+          "cost per order": "80~150 yuan",
+          "preferred store rating": "4.5~4.9 points",
+          "preferred delivery time": "25~45 minutes",
+          "preferred distance": "0~4000m",
+          "recent orders": [
+            {
+              "store": "Claypot No.1",
+              "product": "Family-sized cordyceps flower stewed chicken + Chinese broccoli"
+            },
+            {
+              "store": "Authentic Korean Cuisine",
+              "product": "Ginseng chicken soup + Side dish set"
+            },
+            {
+              "store": "Jufu Hall",
+              "product": "Family-sized steamed turbot + Garlic broccoli"
+            }
+          ],
+          "search history": [
+            "Family meal set",
+            "Suitable for children",
+            "Nourishing soup",
+            "No chili",
+            "Nutritious meal"
+          ]
+        },
+        "desserts/drinks/snacks": {
+          "frequently purchased categories": [
+            "Beverages & desserts/Pure tea/Herbal tea (average 28 yuan)",
+            "Beverages & desserts/Fruit mix (average 35 yuan)",
+            "Beverages & desserts/Coffee (average 32 yuan)"
+          ],
+          "cost per order": "18~42 yuan",
+          "preferred store rating": "4.3~4.8 points",
+          "preferred delivery time": "15~25 minutes",
+          "preferred distance": "0~2000m",
+          "recent orders": [
+            {
+              "store": "Tea Color View",
+              "product": "Sugar-free Oolong tea"
+            },
+            {
+              "store": "Fresh Fruit Workshop",
+              "product": "Seasonal fruit mix"
+            },
+            {
+              "store": "SevenCup",
+              "product": "Sparkling water"
+            }
+          ],
+          "search history": [
+            "Sugar-free drinks",
+            "Fruit tea",
+            "Low-fat",
+            "Healthy beverages",
+            "No additives"
+          ]
+        },
+        "night snack": {
+          "frequently purchased categories": [
+            "Quick meals/Small dishes/Small portions (average 48 yuan)",
+            "Chinese cuisine/Spicy stir-fry pot (average 55 yuan)"
+          ],
+          "cost per order": "40~60 yuan",
+          "preferred store rating": "4.1~4.6 points",
+          "preferred delivery time": "20~35 minutes",
+          "preferred distance": "0~3000m",
+          "recent orders": [
+            {
+              "store": "Small Bowl House",
+              "product": "Steamed fresh shrimp + Assorted vegetables"
+            },
+            {
+              "store": "Night Food House",
+              "product": "Mushroom soup + Multigrain pancake"
+            },
+            {
+              "store": "Light Food Night Snack",
+              "product": "Steamed chicken breast + Quinoa rice"
+            }
+          ],
+          "search history": [
+            "Low-fat night snack",
+            "Stomach-friendly soup",
+            "Steamed dishes",
+            "Not greasy",
+            "Healthy night food"
+          ]
+        }
+      },
+      "product delivery": {
+        "frequently purchased categories": [
+          "Vegetables/Bean products(32%)",
+          "Fruits(28%)",
+          "Flowers & Gardening(15%)",
+          "Household items(12%)",
+          "Personal care(8%)",
+          "Others(5%)"
+        ],
+        "frequently visited stores": [
+          "Yonghui Supermarket(45%)",
+          "Fruit & Vegetable Living Hall(22%)",
+          "Flower World Gardening Store(18%)",
+          "Other stores(15%)"
+        ],
+        "cost per order by category": {
+          "Vegetables/Bean products": "5~30 yuan",
+          "Fruits": "10~45 yuan",
+          "Flowers & Gardening": "25~120 yuan",
+          "Household items": "15~50 yuan",
+          "Personal care": "30~80 yuan"
+        },
+        "preferred delivery time": "25~60 minutes",
+        "typical order time": "18~20:00(35%), 10~12:00(25%), 15~17:00(20%)",
+        "recent orders": [
+          {
+            "store": "Yonghui Supermarket",
+            "product": "Organic vegetable set"
+          },
+          {
+            "store": "Flower World Gardening Store",
+            "product": "Succulent plants 3-pot set"
+          },
+          {
+            "store": "Fruit & Vegetable Living Hall",
+            "product": "Seasonal fruit gift box"
+          }
+        ],
+        "search history": [
+          "Organic vegetables",
+          "Succulent plants",
+          "Indoor potted plants",
+          "Additive-free shampoo",
+          "Low-sugar fruits"
+        ]
+      }
+    },
+    "in-store consumption": {
+      "in-store dining": {
+        "fine-dining": {
+          "frequently purchased categories": [
+            "International cuisine/Japanese food (average 120 yuan)",
+            "Regional cuisine/Jiangzhe cuisine (average 85 yuan)",
+            "Regional cuisine/Cantonese cuisine (average 95 yuan)"
+          ],
+          "preferred average price per person": "85~120 yuan",
+          "preferred store rating": "4.2~4.8 stars",
+          "typical dining time": "18:30-20:30",
+          "preferred distance": "500~3000m",
+          "recent orders": [
+            {
+              "store": "Bama Tea House (SM Plaza Store)",
+              "product": "Additive-free light food set"
+            },
+            {
+              "store": "Clear Delight Restaurant (Xiamen Wanxiang City Store)",
+              "product": "Health-preserving steamed dish set"
+            },
+            {
+              "store": "Sushi God (Xiamen SM Store)",
+              "product": "Low-salt delicate sushi platter"
+            }
+          ],
+          "search history": [
+            "Healthy restaurant",
+            "Low-salt restaurant",
+            "Health-preserving Japanese food",
+            "Exquisite Cantonese cuisine"
+          ]
+        },
+        "light meal": {
+          "frequently purchased categories": [
+            "Snacks & fast food/Chinese quick meal (average 35 yuan)",
+            "Regional cuisine/Jiangzhe cuisine (average 42 yuan)"
+          ],
+          "preferred average price per person": "30~45 yuan",
+          "preferred store rating": "3.5~4.2 stars",
+          "typical dining time": "12:00-13:30",
+          "preferred distance": "0~800m",
+          "recent orders": [
+            {
+              "store": "McDonald's (International Bank Center Store)",
+              "product": "Healthy salad"
+            },
+            {
+              "store": "Wu's Clear Soup Noodles (Siming Store)",
+              "product": "Low-sodium clear soup noodles"
+            },
+            {
+              "store": "Real Kung Fu (Financial Center Store)",
+              "product": "Steamed chicken set"
+            }
+          ],
+          "search history": [
+            "Healthy quick meal",
+            "Low-salt fast food",
+            "Restaurants near office"
+          ]
+        },
+        "desserts/drinks/snacks": {
+          "frequently purchased categories": [
+            "Beverage shops (average 22 yuan)",
+            "Bread & desserts (average 25 yuan)"
+          ],
+          "preferred average price per person": "15~30 yuan",
+          "preferred store rating": "4.0~4.7 stars",
+          "typical dining time": "15:00-16:30",
+          "preferred distance": "0~500m",
+          "recent orders": [
+            {
+              "store": "Nayuki Tea (Lakeside Store)",
+              "product": "Sugar-free jasmine tea"
+            },
+            {
+              "store": "Bread Talk (Siming Flagship Store)",
+              "product": "Whole wheat scone"
+            },
+            {
+              "store": "Fresh Fruit Talk (International Bank Center Store)",
+              "product": "Fruit platter"
+            }
+          ],
+          "search history": [
+            "Sugar-free tea",
+            "Whole wheat bread",
+            "Healthy desserts"
+          ]
+        }
+      },
+      "other in-store services": {
+        "frequently consumed categories": {
+          "Sports & fitness/Yoga": "45%",
+          "Beauty/Nail art": "30%",
+          "Leisure & entertainment/Massage/Foot therapy": "15%",
+          "Sports & fitness/Fitness center": "10%"
+        },
+        "cost per order by category": {
+          "Sports & fitness/Yoga": "120~200 yuan",
+          "Beauty/Nail art": "80~150 yuan",
+          "Leisure & entertainment/Massage/Foot therapy": "100~180 yuan",
+          "Sports & fitness/Fitness center": "50~100 yuan"
+        },
+        "preferred store rating": "4.0~4.8 stars",
+        "preferred service time": "18:00-20:00",
+        "preferred distance": "0~3000m",
+        "recent orders": [
+          {
+            "store": "Youji Yoga (Siming Branch)",
+            "product": "Individual relaxation and stress relief course"
+          },
+          {
+            "store": "Anran Nano Sweat Steam (Lakeside Store)",
+            "product": "Stress relief detox package"
+          },
+          {
+            "store": "Fingertip Princess (SM Plaza Store)",
+            "product": "Minimalist style nail art package"
+          }
+        ],
+        "search history": [
+          "Stress relief yoga",
+          "Detox wellness",
+          "Minimalist nail art",
+          "Women's fitness"
+        ]
+      }
+    },
+    "OTA": {
+      "visited scenes": {
+        "Exhibition halls (museums/art galleries)": "35%",
+        "Natural landscapes (mountains/lakes/forests)": "25%",
+        "Tourist attractions (mountains/seaside/ecological large-scale scenic areas)": "20%",
+        "Zoo": "15%",
+        "Park": "5%"
+      },
+      "cost per night on hotel": "300~500 yuan",
+      "visited hotels": {
+        "Home Inn": "30%",
+        "Hanting": "25%",
+        "Ji Hotel": "20%",
+        "Vienna Hotel": "15%",
+        "Atour": "10%"
+      },
+      "browsed hotels": {
+        "Three-star hotels": "45%",
+        "Comfort hotels": "35%",
+        "Budget hotels": "15%",
+        "Four-star hotels": "5%"
+      },
+      "historical travel plans": {
+        "Xiamen-Shanghai": {
+          "Price range": "800-1200 yuan",
+          "Transportation method": "Airplane"
+        },
+        "Xiamen-Beijing": {
+          "Price range": "1500-2000 yuan",
+          "Transportation method": "Airplane"
+        },
+        "Xiamen-Fuzhou": {
+          "Price range": "200-300 yuan",
+          "Transportation method": "High-speed rail/EMU (Electric Multiple Unit)"
+        },
+        "Xiamen-Guangzhou": {
+          "Price range": "500-700 yuan",
+          "Transportation method": "High-speed rail/EMU (Electric Multiple Unit)"
+        },
+        "Xiamen-Chengdu": {
+          "Price range": "1200-1800 yuan",
+          "Transportation method": "Airplane"
+        },
+        "Xiamen-Sanya": {
+          "Price range": "1000-1500 yuan",
+          "Transportation method": "Airplane"
+        }
+      }
+    }
+  },
+  "stores": {
+    "S17550802105236499_S00001": {
+      "name": "Rider Outdoor Store",
+      "store_id": "S17550802105236499_S00001",
+      "score": 4.8,
+      "location": {
+        "address": "Rider Outdoor Store, No. 590 Chengyi Middle Road, Jimei District, Xiamen, Fujian Province",
+        "latitude": 24.6095,
+        "longitude": 118.1018
+      },
+      "tags": [
+        "Outdoor products",
+        "Bicycle accessories",
+        "Safety equipment"
+      ],
+      "store_type": "target",
+      "products": [
+        {
+          "name": "Memory foam U-shaped pillow",
+          "store_id": "S17550802105236499_S00001",
+          "store_name": "Rider Outdoor Store",
+          "price": 69,
+          "tags": [
+            "U-shaped pillow",
+            "Memory foam",
+            "Travel essentials",
+            "Comfortable neck protection",
+            "Business travel supplies"
+          ],
+          "product_id": "S17550802105236499_P00002",
+          "attributes": [
+            "Dark gray"
+          ],
+          "product_type": "target"
+        },
+        {
+          "name": "Premium luxury U-shaped pillow",
+          "store_id": "S17550802105236499_S00001",
+          "store_name": "Rider Outdoor Store",
+          "price": 99,
+          "tags": [
+            "U-shaped pillow",
+            "Deluxe version",
+            "Massage function",
+            "High-quality fabric",
+            "Business travel essentials"
+          ],
+          "product_id": "S17550802105236499_P00003",
+          "attributes": [
+            "Blue",
+            "With massage function"
+          ],
+          "product_type": "target"
+        },
+        {
+          "name": "Portable inflatable U-shaped pillow",
+          "store_id": "S17550802105236499_S00001",
+          "store_name": "Rider Outdoor Store",
+          "price": 15.9,
+          "tags": [
+            "U-shaped pillow",
+            "Inflatable pillow",
+            "Lightweight",
+            "Travel supplies",
+            "Business travel essentials"
+          ],
+          "product_id": "S17550802105236499_P00005",
+          "attributes": [
+            "Green",
+            "Foldable"
+          ],
+          "product_type": "distraction"
+        }
+      ]
+    },
+    "S17550802105236499_S00002": {
+      "name": "Premium Daily Necessities",
+      "store_id": "S17550802105236499_S00002",
+      "score": 4.6,
+      "location": {
+        "address": "Premium Daily Necessities, No. 625 Chengyi Central Road, Jimei District, Xiamen, Fujian Province",
+        "latitude": 24.6092,
+        "longitude": 118.1025
+      },
+      "tags": [
+        "Daily necessities",
+        "Travel supplies",
+        "Leisure snacks"
+      ],
+      "store_type": "target",
+      "products": [
+        {
+          "name": "Memory foam U-shaped pillow",
+          "store_id": "S17550802105236499_S00002",
+          "store_name": "Premium Daily Necessities",
+          "price": 89.9,
+          "tags": [
+            "Travel pillow",
+            "Memory foam",
+            "Comfortable",
+            "Neck protection",
+            "Travel essentials"
+          ],
+          "product_id": "S17550802105236499_P00008",
+          "attributes": [
+            "Gray",
+            "Removable pillowcase"
+          ],
+          "product_type": "target"
+        },
+        {
+          "name": "Luxury massage U-shaped pillow",
+          "store_id": "S17550802105236499_S00002",
+          "store_name": "Premium Daily Necessities",
+          "price": 129.9,
+          "tags": [
+            "Massage function",
+            "Travel pillow",
+            "Memory foam",
+            "Comfortable",
+            "High-speed rail travel"
+          ],
+          "product_id": "S17550802105236499_P00009",
+          "attributes": [
+            "Blue",
+            "USB charging",
+            "3 massage intensity levels"
+          ],
+          "product_type": "target"
+        },
+        {
+          "name": "Inflatable U-shaped pillow",
+          "store_id": "S17550802105236499_S00002",
+          "store_name": "Premium Daily Necessities",
+          "price": 16.9,
+          "tags": [
+            "Lightweight",
+            "Travel pillow",
+            "Inflatable",
+            "Portable"
+          ],
+          "product_id": "S17550802105236499_P00011",
+          "attributes": [
+            "Gray-blue",
+            "Foldable"
+          ],
+          "product_type": "distraction"
+        },
+        {
+          "name": "Extra large suitcase",
+          "store_id": "S17550802105236499_S00002",
+          "store_name": "Premium Daily Necessities",
+          "price": 299,
+          "tags": [
+            "Suitcase",
+            "Large capacity",
+            "Business trip essentials",
+            "Durable"
+          ],
+          "product_id": "S17550802105236499_P00012",
+          "attributes": [
+            "Black",
+            "28 inch",
+            "Combination lock"
+          ],
+          "product_type": "distraction"
+        },
+        {
+          "name": "Smart cervical massager",
+          "store_id": "S17550802105236499_S00002",
+          "store_name": "Premium Daily Necessities",
+          "price": 199.9,
+          "tags": [
+            "Massage",
+            "Cervical spine",
+            "Soothing",
+            "Smart",
+            "Travel"
+          ],
+          "product_id": "S17550802105236499_P00013",
+          "attributes": [
+            "White",
+            "3 intensity levels",
+            "Heat function"
+          ],
+          "product_type": "distraction"
+        }
+      ]
+    },
+    "S17550802105236499_S00003": {
+      "name": "Comfort Travel Supplies Store",
+      "store_id": "S17550802105236499_S00003",
+      "score": 4.7,
+      "location": {
+        "address": "Comfort Travel Supplies Store, No. 630 Chengyi Middle Road, Jimei District, Xiamen, Fujian Province",
+        "latitude": 24.6087,
+        "longitude": 118.102
+      },
+      "tags": [
+        "Travel supplies",
+        "Neck pillow",
+        "Suitcase"
+      ],
+      "store_type": "target",
+      "products": [
+        {
+          "name": "Premium memory foam U-shaped pillow",
+          "store_id": "S17550802105236499_S00003",
+          "store_name": "Comfort Travel Supplies Store",
+          "price": 129.9,
+          "tags": [
+            "U-shaped pillow",
+            "Memory foam",
+            "Premium comfort",
+            "Office lunch break",
+            "Travel essentials"
+          ],
+          "product_id": "S17550802105236499_P00014",
+          "attributes": [
+            "Gray",
+            "Standard"
+          ],
+          "product_type": "target"
+        },
+        {
+          "name": "Luxury massage U-shaped pillow",
+          "store_id": "S17550802105236499_S00003",
+          "store_name": "Comfort Travel Supplies Store",
+          "price": 199.9,
+          "tags": [
+            "U-shaped pillow",
+            "Massage function",
+            "Deluxe version",
+            "Long-distance travel",
+            "High-speed rail essentials"
+          ],
+          "product_id": "S17550802105236499_P00015",
+          "attributes": [
+            "Navy blue",
+            "Massage version"
+          ],
+          "product_type": "target"
+        },
+        {
+          "name": "Classic portable U-shaped pillow",
+          "store_id": "S17550802105236499_S00003",
+          "store_name": "Comfort Travel Supplies Store",
+          "price": 89.9,
+          "tags": [
+            "U-shaped pillow",
+            "Portable",
+            "Lightweight",
+            "Business travel",
+            "Commuting"
+          ],
+          "product_id": "S17550802105236499_P00016",
+          "attributes": [
+            "Light gray",
+            "Portable version"
+          ],
+          "product_type": "target"
+        },
+        {
+          "name": "Luxury inflatable travel pillow",
+          "store_id": "S17550802105236499_S00003",
+          "store_name": "Comfort Travel Supplies Store",
+          "price": 259.9,
+          "tags": [
+            "Inflatable pillow",
+            "High-end",
+            "Full body support",
+            "Business trip"
+          ],
+          "product_id": "S17550802105236499_P00019",
+          "attributes": [
+            "Blue",
+            "Luxury version"
+          ],
+          "product_type": "distraction"
+        },
+        {
+          "name": "Portable luggage scale",
+          "store_id": "S17550802105236499_S00003",
+          "store_name": "Comfort Travel Supplies Store",
+          "price": 45.9,
+          "tags": [
+            "Luggage scale",
+            "Portable",
+            "Precise measurement",
+            "Business trip essentials"
+          ],
+          "product_id": "S17550802105236499_P00020",
+          "attributes": [
+            "White",
+            "Standard"
+          ],
+          "product_type": "distraction"
+        },
+        {
+          "name": "Multi-functional travel adapter",
+          "store_id": "S17550802105236499_S00003",
+          "store_name": "Comfort Travel Supplies Store",
+          "price": 69.9,
+          "tags": [
+            "Power adapter",
+            "Universal for multiple countries",
+            "USB charging",
+            "Business travel"
+          ],
+          "product_id": "S17550802105236499_P00021",
+          "attributes": [
+            "Black",
+            "Multi-functional"
+          ],
+          "product_type": "distraction"
+        }
+      ]
+    },
+    "S17550802105236499_S00004": {
+      "name": "24-Hour Convenience",
+      "store_id": "S17550802105236499_S00004",
+      "score": 4.5,
+      "location": {
+        "address": "24-Hour Convenience, No. 615 Chengyi Middle Road, Jimei District, Xiamen, Fujian Province",
+        "latitude": 24.6091,
+        "longitude": 118.1023
+      },
+      "tags": [
+        "Convenience store",
+        "Snacks",
+        "Daily supplies"
+      ],
+      "store_type": "distraction",
+      "products": [
+        {
+          "name": "Vinda tissue paper 3-pack",
+          "store_id": "S17550802105236499_S00004",
+          "store_name": "24-Hour Convenience",
+          "price": 15.9,
+          "tags": [
+            "Paper products",
+            "Daily supplies",
+            "Daily essentials"
+          ],
+          "product_id": "S17550802105236499_P00022",
+          "attributes": [],
+          "product_type": "distraction"
+        },
+        {
+          "name": "Nongfu Spring Mineral Water 550ml",
+          "store_id": "S17550802105236499_S00004",
+          "store_name": "24-Hour Convenience",
+          "price": 3.5,
+          "tags": [
+            "Drinking water",
+            "Thirst-quenching",
+            "Travel essentials"
+          ],
+          "product_id": "S17550802105236499_P00023",
+          "attributes": [],
+          "product_type": "distraction"
+        },
+        {
+          "name": "Travel neck pillow",
+          "store_id": "S17550802105236499_S00004",
+          "store_name": "24-Hour Convenience",
+          "price": 39.9,
+          "tags": [
+            "Travel supplies",
+            "Casual comfort",
+            "Business trip essentials"
+          ],
+          "product_id": "S17550802105236499_P00024",
+          "attributes": [
+            "Gray",
+            "Inflatable"
+          ],
+          "product_type": "distraction"
+        },
+        {
+          "name": "Travel eye mask",
+          "store_id": "S17550802105236499_S00004",
+          "store_name": "24-Hour Convenience",
+          "price": 19.9,
+          "tags": [
+            "Travel supplies",
+            "Casual comfort",
+            "Light-blocking"
+          ],
+          "product_id": "S17550802105236499_P00025",
+          "attributes": [
+            "Black"
+          ],
+          "product_type": "distraction"
+        },
+        {
+          "name": "Simple umbrella",
+          "store_id": "S17550802105236499_S00004",
+          "store_name": "24-Hour Convenience",
+          "price": 29.9,
+          "tags": [
+            "Travel supplies",
+            "Waterproof",
+            "Portable"
+          ],
+          "product_id": "S17550802105236499_P00026",
+          "attributes": [
+            "Black"
+          ],
+          "product_type": "distraction"
+        }
+      ]
+    }
+  },
+  "orders": {}
+}

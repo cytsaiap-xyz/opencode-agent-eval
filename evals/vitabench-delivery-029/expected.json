@@ -1,0 +1,70 @@
+{
+  "required_orders": [
+    {
+      "order_id": "40711008O01",
+      "order_type": "delivery",
+      "user_id": "U000092",
+      "store_id": "S23597952404471978_S32268",
+      "note": "Extra Spicy Please",
+      "location": {
+        "address": "ZTO Express Xigong Branch 3, No. 3 Jiankang East Road, Xigong District, Luoyang, Henan Province",
+        "longitude": 112.44004,
+        "latitude": 34.676322
+      },
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 19.6,
+      "create_time": "2026-06-24 11:19:00",
+      "update_time": "2026-06-24 11:25:00",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S26405762812607500_P84518",
+          "price": 12.8,
+          "quantity": 1,
+          "attributes": ""
+        },
+        {
+          "product_id": "S31379212894739768_P71880",
+          "price": 6.8,
+          "quantity": 1,
+          "attributes": ""
+        }
+      ]
+    },
+    {
+      "order_id": "40711008T01",
+      "order_type": "delivery",
+      "user_id": "U000092",
+      "store_id": "S14430480741096540_S15798",
+      "note": "",
+      "location": {
+        "address": "ZTO Express Xigong Branch 3, No. 3 Jiankang East Road, Xigong District, Luoyang, Henan Province",
+        "longitude": 112.44004,
+        "latitude": 34.676322
+      },
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 26.9,
+      "create_time": "2026-06-24 11:28:00",
+      "update_time": "2026-06-24 11:28:00",
+      "status": "processed",
+      "products": [
+        {
+          "product_id": "S26182418190845124_P94217",
+          "price": 26.9,
+          "quantity": 1,
+          "attributes": ""
+        }
+      ]
+    }
+  ],
+  "rubrics": [
+    "Add note to the handmade spicy strips order with order_id 40711008O01: Extra spicy, thanks",
+    "The ordered pork sandwich and rice skin noodles must be in meal set form, not as individual items",
+    "The expected delivery time for the pork sandwich and rice skin noodles order should be before 12:00:00 on June 24, 2026",
+    "The delivery address for the pork sandwich and rice skin noodles order should be ZTO Express Xigong Branch 3, No. 3 Jiankang East Road, Xigong District, Luoyang, Henan Province"
+  ]
+}

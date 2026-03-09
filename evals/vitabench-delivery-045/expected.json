@@ -1,0 +1,73 @@
+{
+  "required_orders": [
+    {
+      "order_id": "90715001T01",
+      "order_type": "delivery",
+      "user_id": "U000100",
+      "store_id": "S18620106904396838_S09686",
+      "note": "",
+      "location": {
+        "address": "Cui Lake Paradise Phase 2, 120 meters west of the intersection of Huasheng Road and Jiabo Road, Yuzhong District, Chongqing",
+        "longitude": 106.512755,
+        "latitude": 29.551069
+      },
+      "dispatch_time": "2025-09-13 14:12:00",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 99,
+      "create_time": "2025-09-13 14:03:00",
+      "update_time": "2025-09-13 14:03:00",
+      "status": "in-progress",
+      "products": [
+        {
+          "product_id": "S21178425587357621_P66770",
+          "price": 99,
+          "quantity": 1,
+          "attributes": ""
+        }
+      ]
+    },
+    {
+      "order_id": "90715001T02",
+      "order_type": "delivery",
+      "user_id": "U000100",
+      "store_id": "S12492181510325089_S67166",
+      "note": "",
+      "location": {
+        "address": "Cui Lake Paradise Phase 2, 120 meters west of the intersection of Huasheng Road and Jiabo Road, Yuzhong District, Chongqing",
+        "longitude": 106.512755,
+        "latitude": 29.551069
+      },
+      "dispatch_time": "2025-09-13 14:17:00",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 34,
+      "create_time": "2025-09-13 14:04:00",
+      "update_time": "2025-09-13 14:04:00",
+      "status": "in-progress",
+      "products": [
+        {
+          "product_id": "S25230280955908773_P80930",
+          "price": 17,
+          "quantity": 1,
+          "attributes": "Standard Ice"
+        },
+        {
+          "product_id": "S48384040914991720_P07322",
+          "price": 17,
+          "quantity": 1,
+          "attributes": "Standard Ice"
+        }
+      ]
+    }
+  ],
+  "rubrics": [
+    "The delivery address for the ice cream cake order should be Cui Lake Paradise Phase 2, 120 meters west of the intersection of Huasheng Road and Jiabo Road, Yuzhong District, Chongqing",
+    "The estimated delivery time for the ice cream cake order should be before 16:00 on September 13, 2025",
+    "The ice cream cake should match the scene of mother and daughter having afternoon tea",
+    "The delivery address for the pure tea beverage order should be Cui Lake Paradise Phase 2, 120 meters west of the intersection of Huasheng Road and Jiabo Road, Yuzhong District, Chongqing",
+    "The estimated delivery time for the pure tea beverage order should be before 16:00 on September 13, 2025",
+    "The pure tea beverage order should select products from the Chucha Huayue store",
+    "The two tea beverages in the pure tea beverage order should be of different styles, and both should be standard ice"
+  ]
+}

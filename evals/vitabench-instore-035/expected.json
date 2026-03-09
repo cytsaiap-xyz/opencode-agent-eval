@@ -1,0 +1,72 @@
+{
+  "required_orders": [
+    {
+      "order_id": "10826057T002",
+      "order_type": "instore",
+      "user_id": "U995595",
+      "store_id": "S17564426054175010_I00001",
+      "note": "",
+      "location": null,
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 428,
+      "create_time": "2024-01-05 20:17:00",
+      "update_time": "2024-01-05 20:17:00",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17564426054175010_P00002",
+          "name": "Premium Land & Sea BBQ Set for 4",
+          "price": 428,
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "book_id": "10826057T003",
+      "shop_id": "S17564426054175010_I00001",
+      "book_time": "2024-01-06 11:00:00",
+      "update_time": "2024-01-05 20:18:00",
+      "customer_id": "U995595",
+      "customer_count": 4,
+      "book_price": 100,
+      "status": "paid"
+    },
+    {
+      "order_id": "10826057T004",
+      "order_type": "instore",
+      "user_id": "U995595",
+      "store_id": "S17564426054175010_I00005",
+      "note": "",
+      "location": null,
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 88,
+      "create_time": "2024-01-05 20:20:00",
+      "update_time": "2024-01-05 20:20:00",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17564426054175010_P00019",
+          "name": "Family Package (1 Adult & 1 Child)",
+          "price": 88,
+          "quantity": 1
+        }
+      ]
+    }
+  ],
+  "rubrics": [
+    "Should check if there are outdoor BBQ restaurants within 20km of Room 502, Unit 1, Building 3, Zilang Mansion, 128 Gongnong Road, Chongchuan District, Nantong, Jiangsu Province (including 20km). The result is yes, so the merchant for the in-store dining order should be an outdoor BBQ restaurant",
+    "The ordered outdoor BBQ restaurant should have spacious lawn and canopy facilities",
+    "The set menu ordered at the outdoor BBQ restaurant should provide BBQ ingredients and BBQ tools",
+    "The BBQ ingredients provided in the outdoor BBQ restaurant's ordered set menu should not include pork",
+    "The outdoor BBQ restaurant order should be for one 4-person meal, not four individual sets",
+    "The reserved outdoor BBQ restaurant should be Prairie Canopy BBQ Camp",
+    "The outdoor BBQ restaurant reservation time should be 2024-01-06 11:00:00",
+    "The number of people for the outdoor BBQ restaurant reservation is 4",
+    "Need to check user behavior history to find previously visited family parks, with the result being Wonder Family Park; the ordered family park should be Wonder Family Park",
+    "Need to check the BBQ order price, with the result being not more than 450 yuan; the family park order should be for a Family Package (1 Adult & 1 Child)"
+  ]
+}

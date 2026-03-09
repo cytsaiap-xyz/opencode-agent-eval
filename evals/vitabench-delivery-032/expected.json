@@ -1,0 +1,39 @@
+{
+  "required_orders": [
+    {
+      "order_id": "50714001T01",
+      "order_type": "delivery",
+      "user_id": "U000013",
+      "store_id": "S32512243701239805_S17967",
+      "note": "",
+      "location": {
+        "address": "Zhejiang Nanyang Huacheng Technology Co., Ltd., No. 388 Development Avenue, Economic Development Zone, Baiyun Street, Jiaojiang District, Taizhou City, Zhejiang Province",
+        "longitude": 121.434491,
+        "latitude": 28.636649
+      },
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 28.8,
+      "create_time": "2025-07-15 16:43:00",
+      "update_time": "2025-07-15 16:43:00",
+      "status": "processed",
+      "products": [
+        {
+          "product_id": "S17786566864082843_P67822",
+          "price": 28.8,
+          "quantity": 1,
+          "attributes": ""
+        }
+      ]
+    }
+  ],
+  "rubrics": [
+    "The ordered light dinner item cannot include Kyoto Grain Grilled Meat Rice Bowl",
+    "The ordered light dinner item should come from Super Deer Team · Light Weight-loss Meal (Jiaojiang Branch)",
+    "The ordered light dinner item should provide a Feeling of Fullness and be suitable for consumption before exercise",
+    "The ordered light dinner item should cost less than 30 yuan",
+    "The delivery address for the light dinner order should be Zhejiang Nanyang Huacheng Technology Co., Ltd., No. 388 Development Avenue, Economic Development Zone, Baiyun Street, Jiaojiang District, Taizhou City, Zhejiang Province",
+    "The estimated delivery time for the light dinner order should be before 18:00 on July 15, 2025"
+  ]
+}

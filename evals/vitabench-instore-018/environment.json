@@ -1,0 +1,217 @@
+{
+  "task_id": "10826018",
+  "domain": "instore",
+  "time": "2024-09-16 18:45:00",
+  "user_id": "U071689",
+  "weather": [
+    {
+      "city": "Shijiazhuang",
+      "category": "sunny",
+      "datetime": "2024-09-16",
+      "temperature": [
+        20,
+        28
+      ],
+      "humidity": 35
+    },
+    {
+      "city": "Shijiazhuang",
+      "category": "sunny",
+      "datetime": "2024-09-17",
+      "temperature": [
+        19,
+        29
+      ],
+      "humidity": 45
+    }
+  ],
+  "location": [
+    {
+      "address": "Room 1702, Building 3, Shuiyuntian Apartment, 265 Zhongshan East Road, Chang'an District, Shijiazhuang",
+      "longitude": 114.5253,
+      "latitude": 38.0428
+    },
+    {
+      "address": "15th Floor, Fuqiang Financial Building, 448 Zhongshan West Road, Qiaoxi District, Shijiazhuang",
+      "longitude": 114.4862,
+      "latitude": 38.0316
+    }
+  ],
+  "user_profile": {
+    "user id": "U071689",
+    "occupation": "White-collar worker",
+    "gender": "female",
+    "age group": "30~35",
+    "residence": "Shijiazhuang",
+    "home address": "Room 1702, Building 3, Shuiyuntian Apartment, 265 Zhongshan East Road, Chang'an District, Shijiazhuang",
+    "work address": "15th Floor, Fuqiang Financial Building, 448 Zhongshan West Road, Qiaoxi District, Shijiazhuang",
+    "dietary restrictions": "Avoids high sugar",
+    "family status": "In a relationship",
+    "personality": "Tends to be controlling, not receptive to different opinions"
+  },
+  "user_historical_behaviors": {
+    "user id": "U071689",
+    "occupation": "white-collar worker",
+    "gender": "female",
+    "age group": "30~35",
+    "residence": "Shijiazhuang",
+    "home address": "Room 1702, Building 3, Shuiyuntian Apartment, 265 Zhongshan East Road, Chang'an District, Shijiazhuang",
+    "work address": "15th Floor, Fuqiang Financial Building, 448 Zhongshan West Road, Qiaoxi District, Shijiazhuang",
+    "in-store dining": {
+      "fine-dining": {
+        "frequently purchased categories": [
+          "Regional Cuisine/Sichuan Cuisine (Average ¥120)",
+          "International Cuisine/Japanese Food (Average ¥150)",
+          "Regional Cuisine/Cantonese Cuisine (Average ¥135)"
+        ],
+        "preferred average price per person": "¥100~150",
+        "preferred store rating": "4.3~4.8 stars",
+        "typical dining time": "18:30-20:30",
+        "preferred distance": "500~2500m",
+        "recent orders": [
+          {
+            "store": "Shuxiang Yuan Sichuan Restaurant",
+            "product": "Boiled Fish Set"
+          },
+          {
+            "store": "Japanese Style Restaurant",
+            "product": "Sashimi Platter + Sushi Set"
+          },
+          {
+            "store": "Yue Lai Shun",
+            "product": "Steamed Bass + Poached Shrimp"
+          }
+        ],
+        "search history": [
+          "Oil-free Healthy Restaurant",
+          "Japanese Cuisine",
+          "Low-sugar Sichuan Food",
+          "Cantonese Cuisine"
+        ]
+      },
+      "light meal": {
+        "frequently purchased categories": [
+          "Fast Food/Chinese Quick Meal (Average ¥35)",
+          "Fast Food/Western Quick Meal (Average ¥30)"
+        ],
+        "preferred average price per person": "¥25~40",
+        "preferred store rating": "3.5~4.2 stars",
+        "typical dining time": "12:00-13:00",
+        "preferred distance": "0~500m",
+        "recent orders": [
+          {
+            "store": "Light Food Salad",
+            "product": "Chicken Breast Vegetable Salad"
+          },
+          {
+            "store": "Nutrition Workshop",
+            "product": "Steamed Chicken Breast Bento"
+          },
+          {
+            "store": "Green Light Food",
+            "product": "Quinoa Chicken Rice"
+          }
+        ],
+        "search history": [
+          "Healthy Bento",
+          "Low-calorie Lunch",
+          "Light Food",
+          "Salad"
+        ]
+      },
+      "desserts/drinks/snacks": {
+        "frequently purchased categories": [
+          "Beverage Shops (Average ¥20)",
+          "Bakery and Desserts (Average ¥25)"
+        ],
+        "preferred average price per person": "¥15~30",
+        "preferred store rating": "4.0~4.5 stars",
+        "typical dining time": "15:00-16:30",
+        "preferred distance": "0~300m",
+        "recent orders": [
+          {
+            "store": "Starbucks",
+            "product": "Sugar-free Americano"
+          },
+          {
+            "store": "Fresh Taro Workshop",
+            "product": "Low-sugar Taro Bubble Milk Tea"
+          },
+          {
+            "store": "Bread Talk",
+            "product": "Whole Wheat Walnut Bread"
+          }
+        ],
+        "search history": [
+          "Sugar-free Beverages",
+          "Low-calorie Desserts",
+          "Whole Wheat Bread",
+          "Healthy Tea Drinks"
+        ]
+      }
+    },
+    "other in-store services": {
+      "frequently consumed categories": {
+        "Sports & Fitness/Fitness Center": "40%",
+        "Beauty/Yoga": "30%",
+        "Leisure & Entertainment/Massage/Foot Massage": "20%",
+        "Beauty/Manicure": "10%"
+      },
+      "cost per order by category": {
+        "Sports & Fitness/Fitness Center": "¥150~300",
+        "Beauty/Yoga": "¥120~200",
+        "Leisure & Entertainment/Massage/Foot Massage": "¥180~250",
+        "Beauty/Manicure": "¥80~150"
+      },
+      "preferred store rating": "4.0~4.8 stars",
+      "preferred service time": "18:00-21:00",
+      "preferred distance": "0~3000m",
+      "recent orders": [
+        {
+          "store": "Joy Fitness",
+          "product": "Monthly Membership + Personal Training Sessions"
+        },
+        {
+          "store": "Zen Yoga",
+          "product": "Hot Yoga Single Experience"
+        },
+        {
+          "store": "Foot Blessing Hall",
+          "product": "Full Body Massage Package"
+        }
+      ],
+      "search history": [
+        "Women's Gym",
+        "Fat-burning Yoga",
+        "Essential Oil Massage",
+        "Health Management"
+      ]
+    }
+  },
+  "stores": {},
+  "orders": {
+    "10826018T001": {
+      "order_id": "10826018T001",
+      "order_type": "instore",
+      "user_id": "U071689",
+      "store_id": "S17564420276474247_I00001",
+      "note": "",
+      "location": null,
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 118,
+      "order_time": "2024-09-14 13:46:00",
+      "update_time": "2024-09-14 13:46:00",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17564420276474247_P00004",
+          "name": "Gradient Color Manicure",
+          "price": 118,
+          "quantity": 1
+        }
+      ]
+    }
+  }
+}

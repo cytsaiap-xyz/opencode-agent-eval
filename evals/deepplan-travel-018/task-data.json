@@ -1,0 +1,59 @@
+{
+  "task_id": "17",
+  "query": "I'm planning a two-day trip from Hangzhou to Shaoxing on November 12, 2025, returning on the 13th. There are four of us in total, and we've decided to take the train this time—could you please help arrange the round-trip train schedules for us? Oh, the total budget for this trip should be within 2000 yuan, please consider it in the plan.\n\nFor accommodation, I'd like something comfortable—a four-star hotel would be ideal. Just pick the one with the highest rating. By the way, we'll need to book two rooms for the four of us.\n\nI've heard that there are many great free attractions in Shaoxing, and I'd like to include all of them in the itinerary—two days should be enough to get around. Also, I saw recommendations for the 'Night Cruise on the Ring River' as being quite interesting. Since we'll be in that area, could you please help find the cheapest restaurant per person and arrange a meal there?\n\nThat's basically everything. Please go ahead and plan the full itinerary—I don't need to provide any further details! November 12, 2025 is Wednesday",
+  "meta_info": {
+    "org": "Hangzhou",
+    "dest": [
+      "Shaoxing"
+    ],
+    "days": 2,
+    "depart_date": "2025-11-12",
+    "return_date": "2025-11-13",
+    "people_number": 4,
+    "room_number": 2
+  },
+  "hard_constraints": {
+    "train_seat_status": {
+      "constraint_context": "4 travelers choosing to travel by train, need to select trains with sufficient remaining tickets (this sentence does not need to be included in the query, but should be inferred by the user)",
+      "people_number": 4,
+      "outbound_train_no": "G7713",
+      "inbound_train_no": "G7718",
+      "outbound_seat_status": "7",
+      "inbound_seat_status": "8"
+    },
+    "hotel_star_highest_rated": {
+      "constraint_context": "For accommodation, please select the highest-rated hotel among 4-star hotels.",
+      "constraint_type": "superlative_star_highest_rated",
+      "hotel_name": "Shaoxing Yuecheng Hilton Garden Inn",
+      "hotel_star": 4,
+      "hotel_price": 387.0,
+      "hotel_score": 4.8
+    },
+    "attraction_all_free_attractions": {
+      "constraint_context": "The itinerary must include all the free attractions mentioned in the attraction recommendation tool.",
+      "constraint_type": "superlative_all_free_attractions",
+      "attraction_names": [
+        "Lu Xun's Hometown",
+        "Shaoxing Museum",
+        "Bazhi Bridge",
+        "West Garden"
+      ],
+      "attraction_ratings": [
+        4.7,
+        4.7,
+        4.7,
+        4.6
+      ]
+    },
+    "restaurant_cheapest_nearby_attraction": {
+      "constraint_context": "During the trip, please arrange a meal at the cheapest restaurant near the 'Night Cruise on the Ring River', per person.",
+      "constraint_type": "superlative_cheapest_nearby_attraction",
+      "attraction_name": "Night Cruise on the Ring River",
+      "restaurant_name": "Shangdingxian Specialty Noodles",
+      "price_per_person": 18.0
+    },
+    "budget_constraint": {
+      "max_budget": 2000
+    }
+  }
+}

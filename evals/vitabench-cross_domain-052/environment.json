@@ -1,0 +1,956 @@
+{
+  "task_id": "A0807009",
+  "domain": "cross_domain",
+  "time": "2026-04-22 18:15:00",
+  "user_id": "U010059",
+  "weather": [
+    {
+      "city": "Tianjin",
+      "category": "sunny",
+      "datetime": "2026-04-22",
+      "temperature": [
+        16,
+        25
+      ],
+      "humidity": 45
+    },
+    {
+      "city": "Tianjin",
+      "category": "cloudy",
+      "datetime": "2026-04-23",
+      "temperature": [
+        15,
+        24
+      ],
+      "humidity": 65
+    },
+    {
+      "city": "Tianjin",
+      "category": "sunny",
+      "datetime": "2026-04-24",
+      "temperature": [
+        14,
+        23
+      ],
+      "humidity": 50
+    }
+  ],
+  "location": [
+    {
+      "address": "Room 502, Unit 1, Building 13, Sunac Xingyao Wuzhou, 28 Youyi Road, Hexi District, Tianjin",
+      "longitude": 117.2164,
+      "latitude": 39.1042
+    }
+  ],
+  "user_profile": {
+    "user id": "U010059",
+    "occupation": "Medical Intern",
+    "gender": "male",
+    "age group": "25~30",
+    "residence": "Tianjin",
+    "Permanent address": "Room 502, Unit 1, Building 13, Sunac Xingyao Wuzhou, 28 Youyi Road, Hexi District, Tianjin",
+    "work address": "Tianjin Medical University General Hospital, 6 Nanjing Road, Heping District, Tianjin",
+    "dietary restrictions": "No caffeine, no high fat offal",
+    "family status": "Has pet",
+    "personality": "Easily anxious and worried, needs repeated confirmation to feel at ease"
+  },
+  "user_historical_behaviors": {
+    "user id": "U010059",
+    "occupation": "Medical Intern",
+    "gender": "male",
+    "age group": "25~30",
+    "residence": "Tianjin",
+    "Permanent address": "Room 502, Unit 1, Building 13, Sunac Xingyao Wuzhou, 28 Youyi Road, Hexi District, Tianjin",
+    "work address": "Tianjin Medical University General Hospital, 6 Nanjing Road, Heping District, Tianjin",
+    "Takeout scenario": {
+      "food delivery": {
+        "breakfast": {
+          "frequently purchased categories": [
+            "Quick meals/Buns/Pan-fried buns (average 18 yuan)",
+            "Quick meals/Soy milk and fried dough sticks (average 12 yuan)",
+            "Quick meals/Jianbing/Wraps/Hand-grabbed pancakes (average 15 yuan)"
+          ],
+          "cost per order": "10~25 yuan",
+          "preferred store rating": "4.2~4.7 points",
+          "preferred delivery time": "15~30 minutes",
+          "preferred distance": "0~1500m",
+          "recent orders": [
+            {
+              "store": "Mudu Old Street Breakfast Shop",
+              "product": "Meat bun + soy milk set"
+            },
+            {
+              "store": "Hangzhou Zhiweiguan",
+              "product": "Fresh meat pan-fried buns"
+            },
+            {
+              "store": "Tianjin Jianbing Guozi",
+              "product": "Original hand-grabbed pancake"
+            }
+          ],
+          "search history": [
+            "Buns",
+            "Pan-fried buns",
+            "Hand-grabbed pancakes",
+            "Soy milk",
+            "Quick breakfast"
+          ]
+        },
+        "weekday lunch/dinner": {
+          "frequently purchased categories": [
+            "Quick meals/Rice with toppings (average 25 yuan)",
+            "Quick meals/Braised chicken rice (average 30 yuan)",
+            "Quick meals/Rice noodles (average 22 yuan)"
+          ],
+          "cost per order": "20~40 yuan",
+          "preferred store rating": "4.0~4.6 points",
+          "preferred delivery time": "15~35 minutes",
+          "preferred distance": "0~2500m",
+          "recent orders": [
+            {
+              "store": "Braised Chicken Rice",
+              "product": "Mildly spicy braised chicken rice"
+            },
+            {
+              "store": "Shaxian Snacks",
+              "product": "Braised pork rice + seaweed egg drop soup"
+            },
+            {
+              "store": "Yunnan Bridge Rice Noodles",
+              "product": "Clear soup beef rice noodles"
+            }
+          ],
+          "search history": [
+            "Fast food",
+            "Cheap rice with toppings",
+            "Rice noodles",
+            "Fast delivery"
+          ]
+        },
+        "weekend lunch/dinner": {
+          "frequently purchased categories": [
+            "Chinese cuisine/Crayfish (average 95 yuan)",
+            "Chinese cuisine/Spicy stir-fry pot (average 65 yuan)",
+            "Quick meals/Light food (average 45 yuan)"
+          ],
+          "cost per order": "45~100 yuan",
+          "preferred store rating": "4.3~4.8 points",
+          "preferred delivery time": "30~45 minutes",
+          "preferred distance": "0~3500m",
+          "recent orders": [
+            {
+              "store": "Xiaopang Crayfish",
+              "product": "Garlic-flavored crayfish (medium portion)"
+            },
+            {
+              "store": "Chongqing Spicy Stir-fry Pot",
+              "product": "Mildly spicy set for three"
+            },
+            {
+              "store": "LPPZ Light Food Salad",
+              "product": "Quinoa chicken breast salad"
+            }
+          ],
+          "search history": [
+            "Non-greasy dishes",
+            "Nutritious and healthy",
+            "Crayfish",
+            "Family set meal"
+          ]
+        },
+        "desserts/drinks/snacks": {
+          "frequently purchased categories": [
+            "Drinks and desserts/Juice (average 18 yuan)",
+            "Drinks and desserts/Fruit salad (average 25 yuan)",
+            "Drinks and desserts/Chinese pastries (average 15 yuan)"
+          ],
+          "cost per order": "15~30 yuan",
+          "preferred store rating": "4.4~4.9 points",
+          "preferred delivery time": "20~35 minutes",
+          "preferred distance": "0~2000m",
+          "recent orders": [
+            {
+              "store": "Fresh Juice Shop",
+              "product": "Fresh watermelon juice"
+            },
+            {
+              "store": "Xianfeng Fruits",
+              "product": "Signature fruit salad"
+            },
+            {
+              "store": "Daoxiangcun",
+              "product": "Red bean cake"
+            }
+          ],
+          "search history": [
+            "Fruits",
+            "Sugar-free drinks",
+            "Healthy desserts",
+            "Traditional pastries"
+          ]
+        },
+        "night snack": {
+          "frequently purchased categories": [
+            "Quick meals/Liuzhou rice noodles (average 28 yuan)",
+            "Snacks and braised food/Braised items (average 35 yuan)",
+            "Quick meals/Hot dry noodles (average 20 yuan)"
+          ],
+          "cost per order": "20~40 yuan",
+          "preferred store rating": "4.1~4.7 points",
+          "preferred delivery time": "25~40 minutes",
+          "preferred distance": "0~2500m",
+          "recent orders": [
+            {
+              "store": "Liuzhou Rice Noodles",
+              "product": "Original rice noodles"
+            },
+            {
+              "store": "Master Zhou's Braised Food",
+              "product": "Braised duck neck + braised tofu set"
+            },
+            {
+              "store": "Wuhan Hot Dry Noodles",
+              "product": "Traditional hot dry noodles"
+            }
+          ],
+          "search history": [
+            "Non-greasy night snack",
+            "Braised food",
+            "Hot dry noodles",
+            "Midnight snacks"
+          ]
+        }
+      },
+      "product delivery": {
+        "frequently purchased categories": [
+          "Vegetables/Bean products(32%)",
+          "Fruits(24%)",
+          "Flowers and gardening(18%)",
+          "Household items(12%)",
+          "Grains, oils, seasonings and dried goods(9%)",
+          "Others(5%)"
+        ],
+        "frequently visited stores": [
+          "Tianjin Xiaoxiang Fresh Food(Hexi District Youyi Road Store)(45%)",
+          "Yonghui Supermarket(Medical University Store)(28%)",
+          "Quanshi Convenience Store(Youyi Road Store)(15%)",
+          "Other stores(12%)"
+        ],
+        "cost per order by category": {
+          "Vegetables/Bean products": "5~20 yuan",
+          "Fruits": "10~40 yuan",
+          "Flowers and gardening": "35~80 yuan",
+          "Household items": "15~50 yuan",
+          "Grains, oils, seasonings and dried goods": "10~35 yuan"
+        },
+        "preferred delivery time": "25~60 minutes",
+        "typical order time": "10~12 o'clock(35%)，17~19 o'clock(42%)，14~16 o'clock(15%)",
+        "recent orders": [
+          {
+            "store": "Tianjin Xiaoxiang Fresh Food(Hexi District Youyi Road Store)",
+            "product": "Organic broccoli 300g + okra 200g"
+          },
+          {
+            "store": "Yonghui Supermarket(Medical University Store)",
+            "product": "Low-sugar oatmeal + 2 avocados"
+          },
+          {
+            "store": "Tianjin Xiaoxiang Fresh Food(Hexi District Youyi Road Store)",
+            "product": "Succulent plant pot + gardening tool set"
+          }
+        ],
+        "search history": [
+          "Organic vegetables",
+          "Low-sugar oatmeal",
+          "Succulent plants",
+          "Eco-friendly detergent",
+          "Tofu"
+        ]
+      }
+    },
+    "in-store consumption": {
+      "in-store dining": {
+        "fine-dining": {
+          "frequently purchased categories": [
+            "Regional cuisine/Northeastern cuisine (average 98 yuan)",
+            "Regional cuisine/Sichuan cuisine (average 85 yuan)",
+            "Hot pot (average 120 yuan)"
+          ],
+          "preferred average price per person": "80~120 yuan",
+          "preferred store rating": "4.0~4.6 stars",
+          "typical dining time": "18:30-21:00",
+          "preferred distance": "500~2000m",
+          "recent orders": [
+            {
+              "store": "Old Northeastern Dumpling House",
+              "product": "Pork and leek dumplings + sweet and sour pork"
+            },
+            {
+              "store": "Bashu Chef",
+              "product": "Boiled beef slices + twice-cooked pork"
+            },
+            {
+              "store": "Tianjin Xiaopang Duck",
+              "product": "Roast duck two ways + seasonal vegetables"
+            }
+          ],
+          "search history": [
+            "Northeastern cuisine",
+            "Home-style Sichuan cuisine",
+            "Hot pot without seafood"
+          ]
+        },
+        "light meal": {
+          "frequently purchased categories": [
+            "Snacks and fast food/Chinese quick meals (average 25 yuan)",
+            "Snacks and fast food/Western fast food (average 30 yuan)",
+            "Bread and desserts (average 15 yuan)"
+          ],
+          "preferred average price per person": "15~35 yuan",
+          "preferred store rating": "3.5~4.2 stars",
+          "typical dining time": "11:30-13:00, 17:30-18:30",
+          "preferred distance": "0~500m",
+          "recent orders": [
+            {
+              "store": "Yonghe King",
+              "product": "Chicken wrap + soy milk"
+            },
+            {
+              "store": "KFC",
+              "product": "Spicy chicken burger set"
+            },
+            {
+              "store": "Yoshinoya",
+              "product": "Beef bowl + miso soup"
+            }
+          ],
+          "search history": [
+            "Fast food",
+            "Bento",
+            "Lunch",
+            "Takeaway"
+          ]
+        },
+        "desserts/drinks/snacks": {
+          "frequently purchased categories": [
+            "Beverage shops (average 18 yuan)",
+            "Bread and desserts (average 22 yuan)",
+            "Other dining/Fresh fruits (average 15 yuan)"
+          ],
+          "preferred average price per person": "10~25 yuan",
+          "preferred store rating": "3.8~4.5 stars",
+          "typical dining time": "15:00-16:30, 20:30-21:30",
+          "preferred distance": "0~800m",
+          "recent orders": [
+            {
+              "store": "Shanghai Auntie",
+              "product": "Cheezo mango tea"
+            },
+            {
+              "store": "85°C",
+              "product": "Chocolate cake"
+            },
+            {
+              "store": "Fresh Fruit Station",
+              "product": "Mixed fruit platter"
+            }
+          ],
+          "search history": [
+            "Milk tea",
+            "Non-alcoholic beverages",
+            "Fruits",
+            "Cake"
+          ]
+        }
+      },
+      "other in-store services": {
+        "frequently consumed categories": {
+          "Sports and fitness/Ball sports": "65%",
+          "Leisure and entertainment/Massage/Foot therapy": "25%",
+          "Leisure and entertainment/Card and board games": "10%"
+        },
+        "cost per order by category": {
+          "Sports and fitness/Ball sports": "40~80 yuan",
+          "Leisure and entertainment/Massage/Foot therapy": "120~180 yuan",
+          "Leisure and entertainment/Card and board games": "30~60 yuan"
+        },
+        "preferred store rating": "3.7~4.5 stars",
+        "preferred service time": "19:00-21:30",
+        "preferred distance": "0~3000m",
+        "recent orders": [
+          {
+            "store": "Tianjin Hexi District Sports Center",
+            "product": "Badminton court for 2 hours"
+          },
+          {
+            "store": "Zufutang",
+            "product": "Full body massage 60 minutes"
+          },
+          {
+            "store": "Juyou Card Room",
+            "product": "Private room for 3 hours"
+          }
+        ],
+        "search history": [
+          "Badminton court",
+          "Foot massage",
+          "Nearby sports venues",
+          "High-end card rooms"
+        ]
+      }
+    },
+    "OTA": {
+      "visited scenes": {
+        "Exhibitions (museums/art galleries)": "30%",
+        "Cultural and historical sites": "25%",
+        "Natural landscapes (mountains/lakes/forests)": "20%",
+        "Hot spring resorts": "15%",
+        "Theme parks": "10%"
+      },
+      "cost per night on hotel": "500~1000 yuan",
+      "visited hotels": {
+        "Atour": "35%",
+        "JI Hotel": "25%",
+        "Vienna": "20%",
+        "Orange": "15%",
+        "Huazhu": "5%"
+      },
+      "browsed hotels": {
+        "Four-star hotels": "45%",
+        "Comfort hotels": "30%",
+        "Three-star hotels": "15%",
+        "Five-star hotels": "10%"
+      },
+      "historical travel plans": {
+        "Tianjin-Beijing": {
+          "Price range": "100-200 yuan",
+          "Transportation method": "High-speed rail/EMU train"
+        },
+        "Tianjin-Shanghai": {
+          "Price range": "800-1200 yuan",
+          "Transportation method": "Airplane"
+        },
+        "Tianjin-Hangzhou": {
+          "Price range": "800-1200 yuan",
+          "Transportation method": "Airplane"
+        },
+        "Tianjin-Chengdu": {
+          "Price range": "1000-1500 yuan",
+          "Transportation method": "Airplane"
+        },
+        "Tianjin-Xi'an": {
+          "Price range": "600-900 yuan",
+          "Transportation method": "High-speed rail/EMU train"
+        },
+        "Tianjin-Qingdao": {
+          "Price range": "300-450 yuan",
+          "Transportation method": "High-speed rail/EMU train"
+        }
+      }
+    }
+  },
+  "stores": {
+    "S17550802121554326_S00001": {
+      "name": "Paris Garden French Restaurant",
+      "store_id": "S17550802121554326_S00001",
+      "score": 4.8,
+      "location": {
+        "address": "Paris Garden French Restaurant, 18 Youyi West Road, Hexi District, Tianjin",
+        "latitude": 39.1056,
+        "longitude": 117.2132
+      },
+      "tags": [
+        "French cuisine",
+        "High-end",
+        "Exquisite set meal"
+      ],
+      "store_type": "target",
+      "products": [
+        {
+          "name": "French steak celebration set",
+          "store_id": "S17550802121554326_S00001",
+          "store_name": "Paris Garden French Restaurant",
+          "price": 268,
+          "tags": [
+            "High-end French cuisine"
+          ],
+          "product_id": "S17550802121554326_P00001",
+          "attributes": [
+            "Medium rare",
+            "Medium",
+            "Medium well",
+            "Well done"
+          ],
+          "product_type": "target"
+        },
+        {
+          "name": "Foie gras with truffle Italian bread",
+          "store_id": "S17550802121554326_S00001",
+          "store_name": "Paris Garden French Restaurant",
+          "price": 198,
+          "tags": [
+            "French appetizer",
+            "Foie gras",
+            "Truffle",
+            "High-end cuisine"
+          ],
+          "product_id": "S17550802121554326_P00002",
+          "attributes": [],
+          "product_type": "target"
+        },
+        {
+          "name": "French coffee tiramisu",
+          "store_id": "S17550802121554326_S00001",
+          "store_name": "Paris Garden French Restaurant",
+          "price": 68,
+          "tags": [
+            "French dessert",
+            "Tiramisu",
+            "Coffee flavor",
+            "Exquisite dessert"
+          ],
+          "product_id": "S17550802121554326_P00004",
+          "attributes": [],
+          "product_type": "distraction"
+        },
+        {
+          "name": "French duck liver pâté with pan-fried bread",
+          "store_id": "S17550802121554326_S00001",
+          "store_name": "Paris Garden French Restaurant",
+          "price": 158,
+          "tags": [
+            "French appetizer",
+            "Duck liver",
+            "High fat",
+            "Classic French cuisine"
+          ],
+          "product_id": "S17550802121554326_P00005",
+          "attributes": [],
+          "product_type": "distraction"
+        }
+      ]
+    },
+    "S17550802121554326_S00003": {
+      "name": "Royal Cafe",
+      "store_id": "S17550802121554326_S00003",
+      "score": 4.9,
+      "location": {
+        "address": "Royal Cafe, 35 Youyi Road, Hexi District, Tianjin",
+        "latitude": 39.1048,
+        "longitude": 117.2175
+      },
+      "tags": [
+        "Coffee",
+        "Western dessert",
+        "Exquisite tea break"
+      ],
+      "store_type": "distraction",
+      "products": [
+        {
+          "name": "French hand-dripped coffee",
+          "store_id": "S17550802121554326_S00003",
+          "store_name": "Royal Cafe",
+          "price": 38,
+          "tags": [
+            "French coffee",
+            "Hand-dripped",
+            "Premium coffee",
+            "Rich"
+          ],
+          "product_id": "S17550802121554326_P00011",
+          "attributes": [
+            "Standard",
+            "With sugar",
+            "Without sugar"
+          ],
+          "product_type": "distraction"
+        },
+        {
+          "name": "Italian espresso",
+          "store_id": "S17550802121554326_S00003",
+          "store_name": "Royal Cafe",
+          "price": 32,
+          "tags": [
+            "Italian coffee",
+            "Concentrated",
+            "Refreshing",
+            "Classic"
+          ],
+          "product_id": "S17550802121554326_P00012",
+          "attributes": [
+            "Single",
+            "Double"
+          ],
+          "product_type": "distraction"
+        },
+        {
+          "name": "Tiramisu cake",
+          "store_id": "S17550802121554326_S00003",
+          "store_name": "Royal Cafe",
+          "price": 48,
+          "tags": [
+            "Italian dessert",
+            "Cream",
+            "Exquisite",
+            "Coffee flavor"
+          ],
+          "product_id": "S17550802121554326_P00013",
+          "attributes": [
+            "Single serving",
+            "Double serving"
+          ],
+          "product_type": "distraction"
+        },
+        {
+          "name": "French macaron gift box",
+          "store_id": "S17550802121554326_S00003",
+          "store_name": "Royal Cafe",
+          "price": 68,
+          "tags": [
+            "French dessert",
+            "Exquisite",
+            "Gift box",
+            "Multiple flavors"
+          ],
+          "product_id": "S17550802121554326_P00014",
+          "attributes": [
+            "6 pieces",
+            "12 pieces"
+          ],
+          "product_type": "distraction"
+        },
+        {
+          "name": "Mocha coffee",
+          "store_id": "S17550802121554326_S00003",
+          "store_name": "Royal Cafe",
+          "price": 36,
+          "tags": [
+            "Chocolate flavor",
+            "Coffee",
+            "Milk foam",
+            "Hot beverage"
+          ],
+          "product_id": "S17550802121554326_P00015",
+          "attributes": [
+            "Standard",
+            "With sugar",
+            "Without sugar",
+            "With cream",
+            "Without cream"
+          ],
+          "product_type": "distraction"
+        }
+      ]
+    },
+    "S17550802121554326_S00004": {
+      "name": "Jiangxin Japanese Cuisine",
+      "store_id": "S17550802121554326_S00004",
+      "score": 4.8,
+      "location": {
+        "address": "Jiangxin Japanese Cuisine, 66 Youyi Road, Hexi District, Tianjin",
+        "latitude": 39.1062,
+        "longitude": 117.2158
+      },
+      "tags": [
+        "Japanese cuisine",
+        "High-end",
+        "Sashimi",
+        "Sushi"
+      ],
+      "store_type": "distraction",
+      "products": [
+        {
+          "name": "Artisanal selected sashimi platter",
+          "store_id": "S17550802121554326_S00004",
+          "store_name": "Jiangxin Japanese Cuisine",
+          "price": 288,
+          "tags": [
+            "High-end",
+            "Sashimi",
+            "Fresh food",
+            "Platter",
+            "Japanese cuisine"
+          ],
+          "product_id": "S17550802121554326_P00016",
+          "attributes": [],
+          "product_type": "distraction"
+        },
+        {
+          "name": "Premium sushi gift box",
+          "store_id": "S17550802121554326_S00004",
+          "store_name": "Jiangxin Japanese Cuisine",
+          "price": 198,
+          "tags": [
+            "Sushi",
+            "Gift box",
+            "High-end",
+            "Japanese cuisine"
+          ],
+          "product_id": "S17550802121554326_P00017",
+          "attributes": [
+            "Standard",
+            "Deluxe"
+          ],
+          "product_type": "distraction"
+        },
+        {
+          "name": "Wagyu beef barbecue set",
+          "store_id": "S17550802121554326_S00004",
+          "store_name": "Jiangxin Japanese Cuisine",
+          "price": 358,
+          "tags": [
+            "Wagyu beef",
+            "Roasted meat",
+            "Set meal",
+            "High-end",
+            "Japanese cuisine"
+          ],
+          "product_id": "S17550802121554326_P00018",
+          "attributes": [
+            "For two",
+            "For four"
+          ],
+          "product_type": "distraction"
+        },
+        {
+          "name": "Assorted tempura platter",
+          "store_id": "S17550802121554326_S00004",
+          "store_name": "Jiangxin Japanese Cuisine",
+          "price": 168,
+          "tags": [
+            "Tempura",
+            "Deep-fried",
+            "Assorted",
+            "Japanese cuisine"
+          ],
+          "product_id": "S17550802121554326_P00019",
+          "attributes": [],
+          "product_type": "distraction"
+        },
+        {
+          "name": "Artisanal matcha tiramisu",
+          "store_id": "S17550802121554326_S00004",
+          "store_name": "Jiangxin Japanese Cuisine",
+          "price": 68,
+          "tags": [
+            "Matcha",
+            "Dessert",
+            "Tiramisu",
+            "Caffeine"
+          ],
+          "product_id": "S17550802121554326_P00020",
+          "attributes": [],
+          "product_type": "distraction"
+        }
+      ]
+    },
+    "S17550802121554326_S00005": {
+      "name": "Gold Medal Crayfish",
+      "store_id": "S17550802121554326_S00005",
+      "score": 4.5,
+      "location": {
+        "address": "Gold Medal Crayfish, 125 Heiniu City Road, Hexi District, Tianjin",
+        "latitude": 39.1087,
+        "longitude": 117.2198
+      },
+      "tags": [
+        "Crayfish",
+        "Chinese style",
+        "Spicy flavor"
+      ],
+      "store_type": "distraction",
+      "products": [
+        {
+          "name": "Garlic-flavored crayfish (medium portion)",
+          "store_id": "S17550802121554326_S00005",
+          "store_name": "Gold Medal Crayfish",
+          "price": 98,
+          "tags": [
+            "Signature dish",
+            "Garlic flavor",
+            "Medium size",
+            "Bestselling"
+          ],
+          "product_id": "S17550802121554326_P00021",
+          "attributes": [
+            "Mildly spicy",
+            "Medium spicy",
+            "Extra spicy",
+            "No garlic"
+          ],
+          "product_type": "distraction"
+        },
+        {
+          "name": "Thirteen-spice crayfish (large portion)",
+          "store_id": "S17550802121554326_S00005",
+          "store_name": "Gold Medal Crayfish",
+          "price": 128,
+          "tags": [
+            "Thirteen-spice",
+            "Large portion",
+            "Recommended",
+            "Classic flavor"
+          ],
+          "product_id": "S17550802121554326_P00022",
+          "attributes": [
+            "Mildly spicy",
+            "Medium spicy",
+            "Extra spicy"
+          ],
+          "product_type": "distraction"
+        },
+        {
+          "name": "Spicy crayfish set meal",
+          "store_id": "S17550802121554326_S00005",
+          "store_name": "Gold Medal Crayfish",
+          "price": 158,
+          "tags": [
+            "Set meal",
+            "Spicy and numbing",
+            "Pairs with beer",
+            "With side dishes"
+          ],
+          "product_id": "S17550802121554326_P00023",
+          "attributes": [
+            "Medium spicy",
+            "Extra spicy",
+            "Extremely spicy",
+            "With beer",
+            "Without beer"
+          ],
+          "product_type": "distraction"
+        },
+        {
+          "name": "Spicy shrimp tails",
+          "store_id": "S17550802121554326_S00005",
+          "store_name": "Gold Medal Crayfish",
+          "price": 68,
+          "tags": [
+            "Shrimp tail",
+            "Spicy",
+            "Easy to eat",
+            "No peeling required"
+          ],
+          "product_id": "S17550802121554326_P00024",
+          "attributes": [
+            "Mildly spicy",
+            "Medium spicy",
+            "Extra spicy"
+          ],
+          "product_type": "distraction"
+        },
+        {
+          "name": "Steamed crayfish",
+          "store_id": "S17550802121554326_S00005",
+          "store_name": "Gold Medal Crayfish",
+          "price": 108,
+          "tags": [
+            "Steamed",
+            "Original flavor",
+            "Healthy",
+            "Low oil"
+          ],
+          "product_id": "S17550802121554326_P00025",
+          "attributes": [
+            "With ginger",
+            "Without ginger",
+            "With garlic",
+            "Without garlic"
+          ],
+          "product_type": "distraction"
+        }
+      ]
+    }
+  },
+  "orders": {
+    "S17550802121554326_O00001": {
+      "order_id": "S17550802121554326_O00001",
+      "order_type": "delivery",
+      "user_id": "U010059",
+      "store_id": "S17550802121554326_S00001",
+      "total_price": 268.0,
+      "create_time": "2026-04-22 18:25:30",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17550802121554326_P00001",
+          "price": 268.0,
+          "quantity": 1,
+          "attributes": [
+            "Medium rare"
+          ]
+        }
+      ],
+      "location": {
+        "address": "Room 502, Unit 1, Building 13, Sunac Xingyao Wuzhou, 28 Youyi Road, Hexi District, Tianjin",
+        "longitude": 117.2164,
+        "latitude": 39.1042
+      },
+      "note": "PhD degree celebration dinner, please deliver quickly to ensure the best taste"
+    },
+    "S17550802121554326_O00003": {
+      "order_id": "S17550802121554326_O00003",
+      "order_type": "train",
+      "user_id": "U010059",
+      "store_id": "T00001",
+      "note": "Going to Beijing for an academic conference",
+      "location": {
+        "address": "Tianjin Railway Station, 1 Jinzhan Road, Hebei District, Tianjin",
+        "longitude": 117.2024,
+        "latitude": 39.1339
+      },
+      "dispatch_time": "",
+      "shipping_time": 0.0,
+      "delivery_time": "",
+      "total_price": 175.5,
+      "create_time": "2026-03-25 09:12:33",
+      "update_time": "2026-03-25 09:12:33",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "T00001_P001",
+          "price": 175.5,
+          "quantity": 1,
+          "seat_type": "Second class seat",
+          "train_number": "G23",
+          "departure_time": "2026-04-02 08:30:00",
+          "arrival_time": "2026-04-02 09:20:00",
+          "departure_station": "Tianjin Railway Station",
+          "arrival_station": "Beijing South Railway Station"
+        }
+      ]
+    },
+    "S17550802121554326_O00004": {
+      "order_id": "S17550802121554326_O00004",
+      "order_type": "flight",
+      "user_id": "U010059",
+      "store_id": "F00001",
+      "note": "Attending a medical exchange meeting in Shanghai",
+      "location": {
+        "address": "Tianjin Binhai International Airport, Airport Economic Zone, Dongli District, Tianjin",
+        "longitude": 117.3462,
+        "latitude": 39.1243
+      },
+      "dispatch_time": "",
+      "shipping_time": 0.0,
+      "delivery_time": "",
+      "total_price": 980.0,
+      "create_time": "2026-02-15 14:23:45",
+      "update_time": "2026-02-15 14:23:45",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "F00001_P001",
+          "price": 980.0,
+          "quantity": 1,
+          "seat_type": "Economy class",
+          "flight_number": "MU5137",
+          "departure_time": "2026-03-10 08:45:00",
+          "arrival_time": "2026-03-10 10:30:00",
+          "departure_airport": "Tianjin Binhai International Airport",
+          "arrival_airport": "Shanghai Hongqiao International Airport"
+        }
+      ]
+    }
+  }
+}

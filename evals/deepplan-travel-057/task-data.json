@@ -1,0 +1,51 @@
+{
+  "task_id": "56",
+  "query": "I'm planning a trip from Zhengzhou to Quanzhou on November 12, 2025, and will return on November 15, 2025. There are 4 people  Could you please help me plan the itinerary? For the outbound journey, I'd like to take a flight—ideally the shortest-duration direct flight available, since saving time means more time to enjoy the destination.  \n\nFor accommodation, please arrange a four-star hotel that offers free parking, as we may rent a car during our stay.  \n\nBy the way, what are the top-rated attractions in Quanzhou? I really want to make the most of this trip, so please include the three highest-rated spots from your recommendation tools.  \n\nOne more thing—I heard dining around 'Donghai Bay' is especially convenient. Could you find me the cheapest restaurant in that area (lowest average spending per person) and schedule one meal there so I can try some local specialties?  \n\nThat's about all my requirements. I believe I've provided enough information—please go ahead and start planning my itinerary! November 12, 2025 is Wednesday",
+  "meta_info": {
+    "org": "Zhengzhou",
+    "dest": [
+      "Quanzhou"
+    ],
+    "days": 4,
+    "depart_date": "2025-11-12",
+    "return_date": "2025-11-15",
+    "people_number": 4,
+    "room_number": 2
+  },
+  "hard_constraints": {
+    "flight_shortest_duration_direct": {
+      "constraint_context": "Prefer to take a flight for the outbound journey, and need to select the shortest-duration direct flight available",
+      "constraint_type": "superlative_shortest_duration",
+      "outbound_flight_no": "G59308"
+    },
+    "hotel_star_service_required": {
+      "constraint_context": "Please select a 4-star hotel that offers free parking.",
+      "constraint_type": "superlative_star_service_required",
+      "hotel_name": "Quanzhou Fengze Plaza Financial Street Atour Hotel",
+      "required_service": "Free Parking",
+      "hotel_star": 4,
+      "hotel_price": 463.0
+    },
+    "attraction_top_rated_must_visit": {
+      "constraint_context": "The itinerary must include the three highest-rated attractions recommended by the attraction recommendation tool.",
+      "constraint_type": "superlative_top_rated_must_visit",
+      "attraction_names": [
+        "Tianhou Temple",
+        "Quanfu Xiaoxicheng",
+        "China Fujian-Taiwan Kinship Museum"
+      ],
+      "attraction_ratings": [
+        4.8,
+        4.7,
+        4.7
+      ]
+    },
+    "restaurant_cheapest_nearby_attraction": {
+      "constraint_context": "During the trip, please arrange a meal at the cheapest restaurant near 'Donghai Bay' per person.",
+      "constraint_type": "superlative_cheapest_nearby_attraction",
+      "attraction_name": "Donghai Bay",
+      "restaurant_name": "Hongxin Sweet Potato Porridge Express Restaurant (Donghai Branch)",
+      "price_per_person": 17.0
+    }
+  }
+}

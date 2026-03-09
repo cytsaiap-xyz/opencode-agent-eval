@@ -1,0 +1,109 @@
+{
+  "task_id": "70807006",
+  "domain": "ota",
+  "time": "2027-11-05 09:51:29",
+  "user_id": "U010052",
+  "weather": [
+    {
+      "city": "Xi'an",
+      "category": "cloudy",
+      "datetime": "2027-11-06",
+      "temperature": [
+        8,
+        18
+      ],
+      "humidity": 65
+    },
+    {
+      "city": "Pingyao",
+      "category": "sunny",
+      "datetime": "2027-11-06",
+      "temperature": [
+        5,
+        16
+      ],
+      "humidity": 58
+    }
+  ],
+  "location": [
+    {
+      "address": "Ziwei Shangceng, No.5 Taibai South Road, Yanta District, Xi'an, Shaanxi Province",
+      "longitude": 108.9398,
+      "latitude": 34.2317
+    },
+    {
+      "address": "Xi'an Public Transportation Group Co., Ltd., No.79 Zhuhong Road, Weiyang District, Xi'an, Shaanxi Province",
+      "longitude": 108.9534,
+      "latitude": 34.3156
+    }
+  ],
+  "user_profile": {
+    "user id": "U010052",
+    "occupation": "Driver",
+    "gender": "female",
+    "age group": "30~35",
+    "residence": "Xi'an",
+    "home address": "Ziwei Shangceng, No.5 Taibai South Road, Yanta District, Xi'an, Shaanxi Province",
+    "work address": "Xi'an Public Transportation Group Co., Ltd., No.79 Zhuhong Road, Weiyang District, Xi'an, Shaanxi Province",
+    "dietary restrictions": "Avoid high-salt foods",
+    "family status": "Has children",
+    "personality": "Strong logical thinking, likes to analyze and question, pursues accuracy"
+  },
+  "user_historical_behaviors": {
+    "user id": "U010052",
+    "occupation": "Driver",
+    "gender": "female",
+    "age group": "30~35",
+    "residence": "Xi'an",
+    "home address": "Ziwei Shangceng, No.5 Taibai South Road, Yanta District, Xi'an, Shaanxi Province",
+    "work address": "Xi'an Public Transportation Group Co., Ltd., No.79 Zhuhong Road, Weiyang District, Xi'an, Shaanxi Province",
+    "visited scenes": {
+      "Theme parks": "30%",
+      "Tourist attractions (mountains/beaches/ecological large-scale scenic areas)": "25%",
+      "Cultural and historical sites": "20%",
+      "Parks": "15%",
+      "Zoos": "10%"
+    },
+    "cost per night on hotel": "300~500 yuan",
+    "visited hotels": {
+      "Home Inn": "35%",
+      "Hanting": "25%",
+      "7 Days Inn": "20%",
+      "Jinjiang Inn": "15%",
+      "Ji Hotel": "5%"
+    },
+    "browsed hotels": {
+      "Three-star hotels": "45%",
+      "Economy hotels": "40%",
+      "Comfort hotels": "15%"
+    },
+    "historical travel plans": {
+      "Xi'an-Beijing": {
+        "Price range": "400-600 yuan",
+        "Transportation": "High-speed rail/EMU (Electric Multiple Unit) train"
+      },
+      "Xi'an-Chengdu": {
+        "Price range": "300-450 yuan",
+        "Transportation": "High-speed rail/EMU (Electric Multiple Unit) train"
+      },
+      "Xi'an-Chongqing": {
+        "Price range": "350-500 yuan",
+        "Transportation": "High-speed rail/EMU (Electric Multiple Unit) train"
+      },
+      "Xi'an-Shanghai": {
+        "Price range": "700-1200 yuan",
+        "Transportation": "Airplane"
+      },
+      "Xi'an-Guangzhou": {
+        "Price range": "800-1300 yuan",
+        "Transportation": "Airplane"
+      },
+      "Xi'an-Huashan": {
+        "Price range": "100-200 yuan",
+        "Transportation": "Long-distance bus"
+      }
+    }
+  },
+  "stores": {},
+  "orders": {}
+}

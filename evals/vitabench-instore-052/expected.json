@@ -1,0 +1,75 @@
+{
+  "required_orders": [
+    {
+      "order_id": "10826022T001",
+      "order_type": "instore",
+      "user_id": "U884188",
+      "store_id": "S17567836583649809_I00001",
+      "note": "",
+      "location": null,
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 388,
+      "create_time": "2023-03-18 09:17:00",
+      "update_time": "2023-03-18 09:17:00",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17567836583649809_P00007",
+          "name": "4-Person Mahjong Package (Private Room + Free Tea Refill)",
+          "price": 388,
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "reservation_id": "10826022T002",
+      "shop_id": "S17567836583649809_I00001",
+      "reservation_time": "2023-03-18 14:00:00",
+      "update_time": "2023-03-18 09:20:00",
+      "customer_id": "U884188",
+      "customer_count": 4,
+      "status": "paid"
+    },
+    {
+      "order_id": "10826022T003",
+      "order_type": "instore",
+      "user_id": "U884188",
+      "store_id": "S17567836583649809_I00009",
+      "note": "",
+      "location": null,
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 666,
+      "create_time": "2023-03-18 09:23:00",
+      "update_time": "2023-03-18 09:23:00",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17567836583649809_P00074",
+          "name": "8 Meat 8 Vegetable Premium Dining Package (Suitable for 5-6 People)",
+          "price": 666,
+          "quantity": 1
+        }
+      ]
+    }
+  ],
+  "rubrics": [
+    "The tea house ordered must be within 3000 meters (inclusive) of Times Mansion, No. 188 Zhiquan Street, East Street, Jinjiang District, Chengdu",
+    "The tea house order must include a four-person package",
+    "The tea house order must include access to a Private Room",
+    "The tea house order must include tea beverages",
+    "The tea house order must include Mahjong service",
+    "Since the user mentioned arriving at 2:00 PM on March 18, 2023 and planning to stay until 6:00 PM on March 18, 2023, the tea house package must support at least 4 Hours of entertainment",
+    "The reserved tea house should be Jinxuan Tea House",
+    "The tea house reservation should be for 4 people",
+    "The tea house reservation time should be 14:00:00 on March 18, 2023",
+    "The hot pot restaurant must be within 3000 meters (inclusive) of Times Mansion, No. 188 Zhiquan Street, East Street, Jinjiang District, Chengdu",
+    "The hot pot package must be suitable for at least 5 people",
+    "The hot pot package must include Beverages",
+    "The hot pot package must not include alcoholic drinks",
+    "The total budget for both the tea house and hot pot restaurant is 1200 yuan. After subtracting the tea house package price, 812 yuan remains. Therefore, the hot pot package price should be less than or equal to 812 yuan"
+  ]
+}

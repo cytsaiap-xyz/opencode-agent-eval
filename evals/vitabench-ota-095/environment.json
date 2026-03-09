@@ -1,0 +1,382 @@
+{
+  "task_id": "D0808006",
+  "domain": "ota",
+  "time": "2027-04-25 12:29:33",
+  "user_id": "U010080",
+  "weather": [
+    {
+      "city": "Tianjin",
+      "category": "cloudy",
+      "datetime": "2027-04-25",
+      "temperature": [
+        12,
+        18
+      ],
+      "humidity": 65
+    },
+    {
+      "city": "Guiyang",
+      "category": "sunny",
+      "datetime": "2027-05-07",
+      "temperature": [
+        16,
+        24
+      ],
+      "humidity": 58
+    },
+    {
+      "city": "Kaili",
+      "category": "cloudy",
+      "datetime": "2027-05-07",
+      "temperature": [
+        15,
+        23
+      ],
+      "humidity": 62
+    },
+    {
+      "city": "Qiandongnan",
+      "category": "sunny",
+      "datetime": "2027-05-08",
+      "temperature": [
+        14,
+        22
+      ],
+      "humidity": 60
+    }
+  ],
+  "location": [
+    {
+      "address": "Room 1201, Building 3, Champagne Garden, 136 Chifeng Road, Heping District, Tianjin",
+      "longitude": 117.210813,
+      "latitude": 39.118329
+    },
+    {
+      "address": "Siyuan Advertising Media Company, 15th Floor, Northern Financial Building, 5 Youyi Road, Hexi District, Tianjin",
+      "longitude": 117.200435,
+      "latitude": 39.101563
+    }
+  ],
+  "user_profile": {
+    "user id": "U010080",
+    "occupation": "Advertising Planner",
+    "gender": "female",
+    "age group": "30~35",
+    "residence": "Tianjin",
+    "home address": "Room 1201, Building 3, Champagne Garden, 136 Chifeng Road, Heping District, Tianjin",
+    "work address": "Siyuan Advertising Media Company, 15th Floor, Northern Financial Building, 5 Youyi Road, Hexi District, Tianjin",
+    "dietary restrictions": "No caffeine, No fried food",
+    "family status": "In a relationship",
+    "personality": "Overly dependent on others' guidance, lacks self-determination and decisiveness"
+  },
+  "user_historical_behaviors": {
+    "user id": "U010080",
+    "occupation": "Advertising Planner",
+    "gender": "female",
+    "age group": "30~35",
+    "residence": "Tianjin",
+    "home address": "Room 1201, Building 3, Champagne Garden, 136 Chifeng Road, Heping District, Tianjin",
+    "work address": "Siyuan Advertising Media Company, 15th Floor, Northern Financial Building, 5 Youyi Road, Hexi District, Tianjin",
+    "visited scenes": {
+      "Exhibition Halls (Museums/Art Galleries)": "35%",
+      "Theme Parks": "25%",
+      "Historical Sites": "20%",
+      "Hot Spring Resorts": "15%",
+      "Natural Landscapes (Mountains/Lakes/Forests)": "5%"
+    },
+    "cost per night on hotel": "500~1000 yuan",
+    "visited hotels": {
+      "Atour": "40%",
+      "JI Hotel": "25%",
+      "Vienna": "20%",
+      "Orange": "15%"
+    },
+    "browsed hotels": {
+      "Four-star Hotels": "45%",
+      "Comfort Hotels": "35%",
+      "Three-star Hotels": "15%",
+      "Luxury Hotels": "5%"
+    },
+    "historical travel plans": {
+      "Tianjin-Beijing": {
+        "Price Range": "50-100 yuan",
+        "Transportation": "High-speed Rail/EMU (Electric Multiple Unit)"
+      },
+      "Tianjin-Shanghai": {
+        "Price Range": "600-800 yuan",
+        "Transportation": "High-speed Rail/EMU (Electric Multiple Unit)"
+      },
+      "Tianjin-Hangzhou": {
+        "Price Range": "800-1200 yuan",
+        "Transportation": "Flight"
+      },
+      "Tianjin-Chengdu": {
+        "Price Range": "1000-1500 yuan",
+        "Transportation": "Flight"
+      },
+      "Tianjin-Xiamen": {
+        "Price Range": "1200-1800 yuan",
+        "Transportation": "Flight"
+      },
+      "Tianjin-Xi'an": {
+        "Price Range": "500-700 yuan",
+        "Transportation": "High-speed Rail/EMU (Electric Multiple Unit)"
+      }
+    }
+  },
+  "stores": {},
+  "orders": {
+    "S17557514605716896_O00001": {
+      "order_id": "S17557514605716896_O00001",
+      "order_type": "hotel",
+      "user_id": "U010080",
+      "store_id": "S17557514605716896_H00001",
+      "note": "First night accommodation for 5-day 4-night Qiandongnan tour",
+      "location": {
+        "address": "Atour Hotel Kaili, Shaoshan South Road, Kaili, Qiandongnan Miao and Dong Autonomous Prefecture, Guizhou Province",
+        "longitude": 107.9772,
+        "latitude": 26.5836
+      },
+      "dispatch_time": "",
+      "shipping_time": 0.0,
+      "delivery_time": "",
+      "total_price": 458.0,
+      "create_time": "2027-04-24 14:25:18",
+      "update_time": "2027-04-24 14:25:18",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17557514605716896_P00001",
+          "price": 458.0,
+          "quantity": 1,
+          "date": "2027-05-07",
+          "room_type": "Business King Room"
+        }
+      ]
+    },
+    "S17557514605716896_O00002": {
+      "order_id": "S17557514605716896_O00002",
+      "order_type": "hotel",
+      "user_id": "U010080",
+      "store_id": "S17557514605716896_H00002",
+      "note": "Accommodation near Xijiang Thousand Households Miao Village",
+      "location": {
+        "address": "JI Hotel Xijiang Thousand Households Miao Village, Leishan County, Qiandongnan Miao and Dong Autonomous Prefecture, Guizhou Province",
+        "longitude": 108.1356,
+        "latitude": 26.4892
+      },
+      "dispatch_time": "",
+      "shipping_time": 0.0,
+      "delivery_time": "",
+      "total_price": 420.0,
+      "create_time": "2027-04-24 15:12:33",
+      "update_time": "2027-04-24 15:12:33",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17557514605716896_P00021",
+          "price": 420.0,
+          "quantity": 1,
+          "date": "2027-05-08",
+          "room_type": "Standard Twin Room"
+        }
+      ]
+    },
+    "S17557514605716896_O00003": {
+      "order_id": "S17557514605716896_O00003",
+      "order_type": "hotel",
+      "user_id": "U010080",
+      "store_id": "S17557514605716896_H00003",
+      "note": "Traditional Dong wooden building guesthouse experience, with drum tower and wind and rain bridge",
+      "location": {
+        "address": "Zhaoxing Dong Village Wooden Building Guesthouse, Liping County, Qiandongnan Miao and Dong Autonomous Prefecture, Guizhou Province",
+        "longitude": 109.1547,
+        "latitude": 25.8769
+      },
+      "dispatch_time": "",
+      "shipping_time": 0.0,
+      "delivery_time": "",
+      "total_price": 380.0,
+      "create_time": "2027-04-24 16:08:45",
+      "update_time": "2027-04-24 16:08:45",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17557514605716896_P00025",
+          "price": 380.0,
+          "quantity": 1,
+          "date": "2027-05-09",
+          "room_type": "Traditional Dong Wooden Building Twin Room"
+        }
+      ]
+    },
+    "S17557514605716896_O00004": {
+      "order_id": "S17557514605716896_O00004",
+      "order_type": "hotel",
+      "user_id": "U010080",
+      "store_id": "S17557514605716896_H00004",
+      "note": "Last night at Vienna International Hotel Liping",
+      "location": {
+        "address": "Vienna International Hotel Liping, Liping County, Qiandongnan Miao and Dong Autonomous Prefecture, Guizhou Province",
+        "longitude": 109.1387,
+        "latitude": 25.9112
+      },
+      "dispatch_time": "",
+      "shipping_time": 0.0,
+      "delivery_time": "",
+      "total_price": 480.0,
+      "create_time": "2027-04-24 16:45:22",
+      "update_time": "2027-04-24 16:45:22",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17557514605716896_P00033",
+          "price": 480.0,
+          "quantity": 1,
+          "date": "2027-05-10",
+          "room_type": "Deluxe King Room"
+        }
+      ]
+    },
+    "S17557514605716896_O00005": {
+      "order_id": "S17557514605716896_O00005",
+      "order_type": "attraction",
+      "user_id": "U010080",
+      "store_id": "S17557514605716896_A00006",
+      "note": "Visit Xijiang Thousand Households Miao Village on the 8th",
+      "location": {
+        "address": "Xijiang Thousand Households Miao Village Scenic Area, Leishan County, Qiandongnan Miao and Dong Autonomous Prefecture, Guizhou Province",
+        "longitude": 108.1356,
+        "latitude": 26.4892
+      },
+      "dispatch_time": "",
+      "shipping_time": 0.0,
+      "delivery_time": "",
+      "total_price": 110.0,
+      "create_time": "2027-04-24 17:20:15",
+      "update_time": "2027-04-24 17:20:15",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17557514605716896_P00055",
+          "price": 110.0,
+          "quantity": 1,
+          "date": "2027-05-08",
+          "ticket_type": "Adult Ticket"
+        }
+      ]
+    },
+    "S17557514605716896_O00006": {
+      "order_id": "S17557514605716896_O00006",
+      "order_type": "attraction",
+      "user_id": "U010080",
+      "store_id": "S17557514605716896_A00007",
+      "note": "Visit Zhaoxing Dong Village on the 9th",
+      "location": {
+        "address": "Zhaoxing Dong Village Scenic Area, Liping County, Qiandongnan Miao and Dong Autonomous Prefecture, Guizhou Province",
+        "longitude": 109.1547,
+        "latitude": 25.8769
+      },
+      "dispatch_time": "",
+      "shipping_time": 0.0,
+      "delivery_time": "",
+      "total_price": 80.0,
+      "create_time": "2027-04-24 17:35:28",
+      "update_time": "2027-04-24 17:35:28",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17557514605716896_P00067",
+          "price": 80.0,
+          "quantity": 1,
+          "date": "2027-05-09",
+          "ticket_type": "Adult Ticket"
+        }
+      ]
+    },
+    "S17557514605716896_O00007": {
+      "order_id": "S17557514605716896_O00007",
+      "order_type": "attraction",
+      "user_id": "U010080",
+      "store_id": "S17557514605716896_A00008",
+      "note": "Visit to Qiandongnan Museum, matching exhibition hall preference",
+      "location": {
+        "address": "Qiandongnan Museum, Kaili, Qiandongnan Miao and Dong Autonomous Prefecture, Guizhou Province",
+        "longitude": 107.9772,
+        "latitude": 26.5836
+      },
+      "dispatch_time": "",
+      "shipping_time": 0.0,
+      "delivery_time": "",
+      "total_price": 0.0,
+      "create_time": "2027-04-24 18:10:42",
+      "update_time": "2027-04-24 18:10:42",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17557514605716896_P00079",
+          "price": 0.0,
+          "quantity": 1,
+          "date": "2027-05-10",
+          "ticket_type": "Adult Ticket"
+        }
+      ]
+    },
+    "S17557514605716896_O00008": {
+      "order_id": "S17557514605716896_O00008",
+      "order_type": "attraction",
+      "user_id": "U010080",
+      "store_id": "S17557514605716896_A00009",
+      "note": "Miao Silver Ornament Museum, matching museum preference",
+      "location": {
+        "address": "Miao Silver Ornament Museum, Leishan County, Qiandongnan Miao and Dong Autonomous Prefecture, Guizhou Province",
+        "longitude": 108.1356,
+        "latitude": 26.4892
+      },
+      "dispatch_time": "",
+      "shipping_time": 0.0,
+      "delivery_time": "",
+      "total_price": 30.0,
+      "create_time": "2027-04-24 18:25:55",
+      "update_time": "2027-04-24 18:25:55",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17557514605716896_P00087",
+          "price": 30.0,
+          "quantity": 1,
+          "date": "2027-05-11",
+          "ticket_type": "Adult Ticket"
+        }
+      ]
+    },
+    "S17557514605716896_O00009": {
+      "order_id": "S17557514605716896_O00009",
+      "order_type": "flight",
+      "user_id": "U010080",
+      "store_id": "S17557514605716896_F00011",
+      "note": "Flight from Tianjin to Guiyang, allowing time to travel to Qiandongnan",
+      "location": {
+        "address": "Terminal 2, Tianjin Binhai International Airport",
+        "longitude": 117.3462,
+        "latitude": 39.1244
+      },
+      "dispatch_time": "",
+      "shipping_time": 0.0,
+      "delivery_time": "",
+      "total_price": 1180.0,
+      "create_time": "2027-04-23 20:15:30",
+      "update_time": "2027-04-23 20:15:30",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17557514605716896_P00102",
+          "price": 1180.0,
+          "quantity": 1,
+          "date": "2027-05-07",
+          "seat_type": "Economy Class"
+        }
+      ]
+    }
+  }
+}

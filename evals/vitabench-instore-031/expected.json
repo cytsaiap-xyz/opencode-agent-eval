@@ -1,0 +1,63 @@
+{
+  "required_orders": [
+    {
+      "order_id": "10826035T001",
+      "order_type": "instore",
+      "user_id": "U027289",
+      "store_id": "S17564424982696164_I00001",
+      "note": "",
+      "location": null,
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 168,
+      "create_time": "2025-04-04 17:30:00",
+      "update_time": "2025-04-04 17:30:00",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17564424982696164_P00001",
+          "name": "Archery experience package for two (including free instruction and protective gear)",
+          "price": 168,
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "order_id": "10826035T002",
+      "order_type": "instore",
+      "user_id": "U027289",
+      "store_id": "S17564424982696164_I00003",
+      "note": "",
+      "location": null,
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 468,
+      "create_time": "2025-04-04 17:35:00",
+      "update_time": "2025-04-04 17:35:00",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17564424982696164_P00010",
+          "name": "Cherry blossom romantic sushi package for two",
+          "price": 468,
+          "quantity": 1
+        }
+      ]
+    }
+  ],
+  "rubrics": [
+    "The ordered package is an archery experience package",
+    "The ordered archery package is for two people",
+    "The ordered archery hall must be equipped with complete safety protection facilities",
+    "The staff at the ordered archery hall must have professional safety guidance qualifications",
+    "The ordered archery package must include free instruction",
+    "Should check if the double experience package at the ordered archery hall includes protective gear, the result is yes; the ordered package for two must include protective gear",
+    "The ordered Japanese cuisine package is for two people",
+    "The ordered restaurant cannot be 'Sushi Ichiban' from the user's order history",
+    "The ordered restaurant must be an internet celebrity store",
+    "The average consumption per person for the ordered package must not exceed 300 yuan (300 yuan included)",
+    "The ordered restaurant must be within 4-5 kilometers from Gold Medal Archery Club, 3rd Floor, Building B, Yuefeng Plaza, 89 Culture Road, Jinshui District, Zhengzhou"
+  ]
+}

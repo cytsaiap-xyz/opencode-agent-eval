@@ -1,0 +1,83 @@
+{
+  "required_orders": [
+    {
+      "order_id": "10826082T001",
+      "order_type": "instore",
+      "user_id": "U034740",
+      "store_id": "S17567836579442822_I00001",
+      "note": "",
+      "location": null,
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 128,
+      "create_time": "2024-06-07 17:18:00",
+      "update_time": "2024-06-07 17:18:00",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17567836579442822_P00003",
+          "name": "Aerial yoga trial course (120 minutes)",
+          "price": 128,
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "reservation_id": "10826082T002",
+      "shop_id": "S17567836579442822_I00001",
+      "reservation_time": "2024-06-07 18:00:00",
+      "update_time": "2024-06-07 17:20:00",
+      "customer_id": "U034740",
+      "customer_count": 1,
+      "status": "paid"
+    },
+    {
+      "order_id": "10826082T003",
+      "order_type": "instore",
+      "user_id": "U034740",
+      "store_id": "S17567836579442822_I00009",
+      "note": "",
+      "location": null,
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 83,
+      "create_time": "2024-06-07 17:27:00",
+      "update_time": "2024-06-07 17:27:00",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17567836579442822_P00073",
+          "name": "Classic Caesar salad combo",
+          "price": 38,
+          "quantity": 1
+        },
+        {
+          "product_id": "S17567836579442822_P00077",
+          "name": "Secret recipe fried chicken single meal",
+          "price": 45,
+          "quantity": 1
+        }
+      ]
+    }
+  ],
+  "rubrics": [
+    "Query user's historical behavior. The user has been to Tranquil Yoga Center before, so the recommended yoga studio cannot be Tranquil Yoga Center",
+    "The ordered yoga studio should not be more than 5 kilometers (including 5 kilometers) from the Cardiology Department, 3rd Floor, Outpatient Building, Guiyang First People's Hospital, Huaguoyuan CBD, Nanming District, Guiyang City",
+    "The ordered product in the yoga studio order needs to be an experience package",
+    "The ordered product in the yoga studio order needs to be an Aerial yoga program",
+    "The user has scheduled to arrive at 18:00 on June 7, 2024, and plans to finish the experience at 20:00 on June 7, 2024. Therefore, the product ordered in the yoga studio order should provide a 2-hour experience duration",
+    "The booked yoga studio should be Sky Yoga Studio",
+    "The booking time for the yoga studio is 18:00 on June 7, 2024",
+    "The number of people for the yoga studio reservation is 1",
+    "The ordered restaurant should be within 800 meters from Room 1203, Building A, Financial Center, 162 Beijing Road, Yunyan District, Guiyang City",
+    "The restaurant order should include a salad combo",
+    "The quantity of salad combo in the restaurant order should be 1",
+    "The restaurant order should include a fried chicken combo",
+    "The quantity of fried chicken combo in the restaurant order should be 1",
+    "The salad combo in the restaurant order must be for a single person",
+    "The fried chicken combo in the restaurant order must be for a single person",
+    "The salad combo and fried chicken combo in the restaurant order need to be ordered from the same store"
+  ]
+}

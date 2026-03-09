@@ -1,0 +1,223 @@
+{
+  "task_id": "10826206",
+  "domain": "instore",
+  "time": "2024-04-18 16:30:00",
+  "user_id": "U994332",
+  "weather": [
+    {
+      "city": "Hefei City",
+      "category": "cloudy",
+      "datetime": "2024-04-19",
+      "temperature": [
+        16,
+        24
+      ],
+      "humidity": 55
+    },
+    {
+      "city": "Hefei City",
+      "category": "sunny",
+      "datetime": "2024-04-20",
+      "temperature": [
+        18,
+        26
+      ],
+      "humidity": 45
+    },
+    {
+      "city": "Hefei City",
+      "category": "sunny turning cloudy",
+      "datetime": "2024-04-21",
+      "temperature": [
+        17,
+        25
+      ],
+      "humidity": 50
+    }
+  ],
+  "location": [
+    {
+      "address": "Room 502, Unit 2, Building 8, Rongqiao Central Park, Wangjiang West Road and Qianshan Road Intersection, Shushan District, Hefei",
+      "longitude": 117.2356,
+      "latitude": 31.8412
+    },
+    {
+      "address": "iFLYTEK Artificial Intelligence Research Institute, 12th Floor, Building C3, Innovation Industrial Park, 2800 Innovation Avenue, High-tech District, Hefei",
+      "longitude": 117.1295,
+      "latitude": 31.8276
+    },
+    {
+      "address": "Floral Life, 3rd Floor, Building A, Technology Entrepreneurship Plaza, 2560 Innovation Avenue, High-tech District, Hefei",
+      "longitude": 117.1324,
+      "latitude": 31.8289
+    },
+    {
+      "address": "Blue Sea Fishing Harbor, 1st Floor, Building B, Technology Innovation Plaza, 2700 Innovation Avenue, High-tech District, Hefei",
+      "longitude": 117.1285,
+      "latitude": 31.8268
+    },
+    {
+      "address": "Xingyue Foot Massage, East Gate of Shuimu Chuntian Community, 500 Wangjiang West Road, Shushan District, Hefei",
+      "longitude": 117.2405,
+      "latitude": 31.8428
+    }
+  ],
+  "user_profile": {
+    "user id": "U994332",
+    "occupation": "Algorithm Engineer",
+    "gender": "female",
+    "age group": "25~30",
+    "residence": "Hefei",
+    "home address": "Room 502, Unit 2, Building 8, Rongqiao Central Park, Wangjiang West Road and Qianshan Road Intersection, Shushan District, Hefei",
+    "work address": "iFLYTEK Artificial Intelligence Research Institute, 12th Floor, Building C3, Innovation Industrial Park, 2800 Innovation Avenue, High-tech District, Hefei",
+    "dietary restrictions": "No caffeine, Low sugar",
+    "family status": "Lives alone",
+    "personality": "Has scattered and jumpy thinking, easily distracted and changes mind frequently"
+  },
+  "user_historical_behaviors": {
+    "user id": "U994332",
+    "occupation": "Algorithm Engineer",
+    "gender": "female",
+    "age group": "25~30",
+    "residence": "Hefei",
+    "home address": "Room 502, Unit 2, Building 8, Rongqiao Central Park, Wangjiang West Road and Qianshan Road Intersection, Shushan District, Hefei",
+    "work address": "iFLYTEK Artificial Intelligence Research Institute, 12th Floor, Building C3, Innovation Industrial Park, 2800 Innovation Avenue, High-tech District, Hefei",
+    "in-store dining": {
+      "fine-dining": {
+        "frequently purchased categories": [
+          "Regional Cuisine/Sichuan Cuisine (Average ¥95)",
+          "International Cuisine/Japanese Food (Average ¥250)",
+          "Regional Cuisine/Cantonese Cuisine (Average ¥185)"
+        ],
+        "preferred average price per person": "¥90~330",
+        "preferred store rating": "4.0~4.8 stars",
+        "typical dining time": "18:30-20:30",
+        "preferred distance": "500~3000m",
+        "recent orders": [
+          {
+            "store": "Shu Jiang Grilled Fish (High-tech District Branch)",
+            "product": "Spicy Grilled Fish + Vegetable Platter"
+          },
+          {
+            "store": "Sushi Master (Innovation Avenue Branch)",
+            "product": "Salmon Sashimi Platter"
+          },
+          {
+            "store": "Yue Yue Xuan (Swan Lake Wanda Plaza Branch)",
+            "product": "Steamed Bass + Choy Sum"
+          }
+        ],
+        "search history": [
+          "Non-spicy Sichuan Cuisine",
+          "Japanese Food",
+          "Cantonese Cuisine",
+          "Healthy Dishes",
+          "Low-sugar Restaurants"
+        ]
+      },
+      "light meal": {
+        "frequently purchased categories": [
+          "Fast Food/Chinese Simple Meals (Average ¥35)",
+          "Fast Food/Western Fast Food (Average ¥40)",
+          "Regional Cuisine/Northeastern Cuisine (Average ¥45)"
+        ],
+        "preferred average price per person": "¥30~50",
+        "preferred store rating": "3.5~4.3 stars",
+        "typical dining time": "12:00-13:30",
+        "preferred distance": "0~800m",
+        "recent orders": [
+          {
+            "store": "Hejiafu Fast Food (iFLYTEK Branch)",
+            "product": "Stir-fried Pork with Black Fungus + Tomato and Egg + Rice"
+          },
+          {
+            "store": "Salala Light Food (Innovation Industrial Park Branch)",
+            "product": "Quinoa Chicken Breast Salad"
+          },
+          {
+            "store": "Northeastern Home Cooking (High-tech West District Branch)",
+            "product": "Sweet and Sour Pork + Three Shredded Vegetables + Rice"
+          }
+        ],
+        "search history": [
+          "Light Food",
+          "Healthy Simple Meals",
+          "Fast Food",
+          "Sugar-free Meals",
+          "Low-calorie Lunch"
+        ]
+      },
+      "desserts/drinks/snacks": {
+        "frequently purchased categories": [
+          "Beverage Shops (Average ¥18)",
+          "Bread and Desserts (Average ¥25)",
+          "Other Dining/Fresh Fruits (Average ¥15)"
+        ],
+        "preferred average price per person": "¥15~30",
+        "preferred store rating": "3.8~4.5 stars",
+        "typical dining time": "15:00-17:00",
+        "preferred distance": "0~500m",
+        "recent orders": [
+          {
+            "store": "Yidiandian (High-tech West District Branch)",
+            "product": "Sugar-free Oolong Tea"
+          },
+          {
+            "store": "Bread Talk (Innovation Industrial Park Branch)",
+            "product": "Whole Wheat Bread"
+          },
+          {
+            "store": "Fresh Fruits (iFLYTEK Branch)",
+            "product": "Fruit Platter"
+          }
+        ],
+        "search history": [
+          "Sugar-free Beverages",
+          "Low-sugar Desserts",
+          "Healthy Snacks",
+          "Fruits"
+        ]
+      }
+    },
+    "other in-store services": {
+      "frequently consumed categories": {
+        "Sports & Fitness/Fitness Centers": "40%",
+        "Sports & Fitness/Yoga": "30%",
+        "Beauty/Hair Salon": "20%",
+        "Entertainment/Massage/Foot Therapy": "10%"
+      },
+      "cost per order by category": {
+        "Sports & Fitness/Fitness Centers": "¥80~150",
+        "Sports & Fitness/Yoga": "¥60~120",
+        "Beauty/Hair Salon": "¥120~250",
+        "Entertainment/Massage/Foot Therapy": "¥100~180"
+      },
+      "preferred store rating": "4.0~4.8 stars",
+      "preferred service time": "19:00-21:00",
+      "preferred distance": "0~3000m",
+      "recent orders": [
+        {
+          "store": "Super Gorilla Fitness (Wangjiang Road Branch)",
+          "product": "Single Person Fitness Monthly Card"
+        },
+        {
+          "store": "Fanyin Yoga (High-tech West District Branch)",
+          "product": "Single Person Yoga Course"
+        },
+        {
+          "store": "Trendy Hairstyle (Swan Lake Wanda Branch)",
+          "product": "Wash, Cut & Blow Dry Package"
+        }
+      ],
+      "search history": [
+        "Gym",
+        "Yoga Studio",
+        "Female-only Fitness",
+        "Stress-relief Massage",
+        "Nearby Hair Salon"
+      ]
+    }
+  },
+  "stores": {},
+  "orders": {}
+}

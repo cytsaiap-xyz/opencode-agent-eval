@@ -1,0 +1,101 @@
+{
+  "required_orders": [
+    {
+      "order_id": "J0716002T01",
+      "order_type": "delivery",
+      "user_id": "U000096",
+      "store_id": "S21718353114713898_S77555",
+      "note": "",
+      "location": {
+        "address": "No. 26 Sihuan South Road, Henan'an Street, Huicheng District, Huizhou City, Guangdong Province, Wanxiang International Office Building",
+        "longitude": 114.443041,
+        "latitude": 23.035436
+      },
+      "dispatch_time": "2025-03-11 20:07:00",
+      "shipping_time": 28,
+      "delivery_time": "2025-03-11 20:35:00",
+      "total_price": 30.0,
+      "create_time": "2025-03-11 20:02:00",
+      "update_time": "2025-03-11 20:02:00",
+      "status": "delivered",
+      "products": [
+        {
+          "product_id": "S28550993188472208_P13681",
+          "price": 30.0,
+          "quantity": 1,
+          "attributes": ""
+        }
+      ]
+    },
+    {
+      "order_id": "J0716002T03",
+      "order_type": "delivery",
+      "user_id": "U000096",
+      "store_id": "S11830933639824558_S97829",
+      "note": "",
+      "location": {
+        "address": "No. 26 Sihuan South Road, Henan'an Street, Huicheng District, Huizhou City, Guangdong Province, Wanxiang International Office Building",
+        "longitude": 114.443041,
+        "latitude": 23.035436
+      },
+      "dispatch_time": "2025-03-11 20:19:00",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 188.0,
+      "create_time": "2025-03-11 20:06:00",
+      "update_time": "2025-03-11 20:06:00",
+      "status": "in-progress",
+      "products": [
+        {
+          "product_id": "S29049403220872394_P92994",
+          "price": 188.0,
+          "quantity": 1,
+          "attributes": "Mild Spicy"
+        }
+      ]
+    },
+    {
+      "order_id": "J0716002T02",
+      "order_type": "delivery",
+      "user_id": "U000096",
+      "store_id": "S80854347985296109_S72541",
+      "note": "",
+      "location": {
+        "address": "No. 8 Sanxin South Road, Jiangbei, Huicheng District, Huizhou City, Guangdong Province, Jiangbei New Garden",
+        "longitude": 114.416299,
+        "latitude": 23.118535
+      },
+      "dispatch_time": "2025-03-11 20:20:00",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 19.2,
+      "create_time": "2025-03-11 20:11:00",
+      "update_time": "2025-03-11 20:11:00",
+      "status": "in-progress",
+      "products": [
+        {
+          "product_id": "S15584715623979675_P75038",
+          "price": 3.6,
+          "quantity": 1,
+          "attributes": ""
+        },
+        {
+          "product_id": "S59761435911294633_P74836",
+          "price": 15.6,
+          "quantity": 1,
+          "attributes": "Hot"
+        }
+      ]
+    }
+  ],
+  "rubrics": [
+    "The delivery address for the Red Bean Paste Egg Yolk Pastry order should be No. 26 Sihuan South Road, Henan'an Street, Huicheng District, Huizhou City, Guangdong Province, Wanxiang International Office Building",
+    "The delivery address for the Meat Crab Pot order should be No. 26 Sihuan South Road, Henan'an Street, Huicheng District, Huizhou City, Guangdong Province, Wanxiang International Office Building",
+    "When selecting Meat Crab Pot, the mild spicy flavor should be chosen, suitable for sharing with colleagues",
+    "When selecting a Meat Crab Pot merchant, the rating should be greater than or equal to 4.5",
+    "The delivery address for the Double-Skin Milk Pudding order should be No. 8 Sanxin South Road, Jiangbei, Huicheng District, Huizhou City, Guangdong Province, Jiangbei New Garden",
+    "When selecting Double-Skin Milk Pudding, it should not contain mango ingredients to avoid allergic reactions",
+    "Double-Skin Milk Pudding should be selected as a hot drink, suitable for consumption during menstruation",
+    "The Double-Skin Milk Pudding order should include Red Bean (Extra Topping), with a total of 2 items"
+  ]
+}

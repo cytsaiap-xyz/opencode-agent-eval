@@ -1,0 +1,39 @@
+{
+  "required_orders": [
+    {
+      "order_id": "80714002T01",
+      "order_type": "delivery",
+      "user_id": "U000017",
+      "store_id": "S14928051648372008_S44574",
+      "note": "",
+      "location": {
+        "address": "Jinzhai Residential Area near Machine Tool Factory No.3, Jinwa Road, east of Dashuying Interchange, Guandu District, Kunming City, Yunnan Province",
+        "longitude": 102.750245,
+        "latitude": 25.037627
+      },
+      "dispatch_time": "2025-04-11 18:00:00",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 18.0,
+      "create_time": "2025-04-11 17:46:00",
+      "update_time": "2025-04-11 17:46:00",
+      "status": "in-progress",
+      "products": [
+        {
+          "product_id": "S14673831172316592_P26837",
+          "price": 18.0,
+          "quantity": 1,
+          "attribute": ""
+        }
+      ]
+    }
+  ],
+  "rubrics": [
+    "The delivery address for the chicken claypot order should be Jinzhai Residential Area near Machine Tool Factory No.3, Jinwa Road, east of Dashuying Interchange, Guandu District, Kunming City, Yunnan Province",
+    "The delivery time for the chicken claypot order should be before 2025-04-11 19:00:00 to ensure the user has enough time for dining and digestion",
+    "The ordered claypot dish must contain chicken as the main ingredient",
+    "The ordered claypot dish must include rice or other staple food to ensure a complete nutritional balance",
+    "The ordered claypot dish should have a light, non-greasy flavor to meet the user's dietary restriction of avoiding greasy food",
+    "The ordered claypot dish must come with dipping sauce to satisfy the user's requirement for condiments"
+  ]
+}

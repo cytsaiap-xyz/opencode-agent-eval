@@ -1,0 +1,102 @@
+{
+  "required_orders": [
+    {
+      "order_id": "10826206T001",
+      "order_type": "instore",
+      "user_id": "U994332",
+      "store_id": "S17567836577215650_I00001",
+      "note": "",
+      "location": null,
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 98,
+      "create_time": "2024-04-18 16:33:41",
+      "update_time": "2024-04-18 16:33:41",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17567836577215650_P00002",
+          "name": "floral art basics single experience",
+          "price": 98,
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "reservation_id": "10826206T002",
+      "shop_id": "S17567836577215650_I00001",
+      "reservation_time": "2024-04-19 18:00:00",
+      "update_time": "2024-04-18 16:35:41",
+      "customer_id": "U994332",
+      "customer_count": 1,
+      "status": "paid"
+    },
+    {
+      "order_id": "10826206T003",
+      "order_type": "instore",
+      "user_id": "U994332",
+      "store_id": "S17567836577215650_I00006",
+      "note": "",
+      "location": null,
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 298,
+      "create_time": "2024-04-18 16:36:21",
+      "update_time": "2024-04-18 16:36:21",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17567836577215650_P00046",
+          "name": "single person seafood buffet dinner voucher",
+          "price": 298,
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "order_id": "10826206T004",
+      "order_type": "instore",
+      "user_id": "U994332",
+      "store_id": "S17567836577215650_I00003",
+      "note": "",
+      "location": null,
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 88,
+      "create_time": "2024-04-18 16:39:22",
+      "update_time": "2024-04-18 16:39:22",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17567836577215650_P00019",
+          "name": "soothing wellness foot therapy 60 minutes",
+          "price": 88,
+          "quantity": 1
+        }
+      ]
+    }
+  ],
+  "rubrics": [
+    "The flower arrangement shop should have a rating of 4.5 or above",
+    "The flower arrangement shop should be the closest one to iFLYTEK Artificial Intelligence Research Institute, 12th Floor, Building C3, Innovation Industrial Park, 2800 Innovation Avenue, High-tech District, Hefei",
+    "The ordered item at the flower arrangement shop should be a beginner flower arrangement introduction course package",
+    "The ordered item at the flower arrangement shop should have the longest teaching duration",
+    "The reserved flower arrangement shop should be Floral Life",
+    "The reservation time for the flower arrangement shop should be 2024-04-19 18:00",
+    "The number of people for the flower arrangement shop reservation should be 1",
+    "The seafood buffet restaurant should be within 2000m (inclusive) of Floral Life, 3rd Floor, Building A, Technology Entrepreneurship Plaza, 2560 Innovation Avenue, High-tech District, Hefei",
+    "The seafood buffet restaurant should provide free parking",
+    "The ordered item at the seafood buffet restaurant should be a single person package",
+    "The ordered item at the seafood buffet restaurant should include salmon",
+    "User behavior history needs to be checked; the user's usual spending on Japanese cuisine is 250 yuan, and since there's no package that matches the user's usual consumption habits, the price of the ordered item at the seafood buffet restaurant should be within 300 yuan (inclusive)",
+    "The foot massage shop should be within 500m (inclusive) of Room 502, Unit 2, Building 8, Rongqiao Central Park, Wangjiang West Road and Qianshan Road Intersection, Shushan District, Hefei",
+    "The foot massage shop should have a rating of 4.5 or above",
+    "The foot massage shop should guarantee massage service availability on 2024-04-19 21:30",
+    "The ordered item at the foot massage shop should be a single person foot massage package",
+    "The usage duration of the ordered item at the foot massage shop should be 1 hour",
+    "The price of the ordered item at the foot massage shop should be within 100 yuan (inclusive)"
+  ]
+}

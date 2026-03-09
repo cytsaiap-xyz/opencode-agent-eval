@@ -1,0 +1,63 @@
+{
+  "required_orders": [
+    {
+      "order_id": "10812009T001",
+      "order_type": "train",
+      "user_id": "U474790",
+      "store_id": "S17557505469225855_T00012",
+      "note": "",
+      "location": null,
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 65,
+      "create_time": "2025-05-16 16:20:21",
+      "update_time": "2025-05-16 16:20:21",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17557505469225855_P00062",
+          "price": 65,
+          "quantity": 1,
+          "date": "2025-05-18",
+          "seat_type": "Second class seat"
+        }
+      ]
+    },
+    {
+      "order_id": "10812009T002",
+      "order_type": "hotel",
+      "user_id": "U474790",
+      "store_id": "S17557505469225855_H00001",
+      "note": "",
+      "location": null,
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 238,
+      "create_time": "2025-05-16 16:22:21",
+      "update_time": "2025-05-16 16:22:21",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17557505469225855_P00001",
+          "price": 238,
+          "quantity": 1,
+          "date": "2025-05-17",
+          "room_type": "Vintage king room"
+        }
+      ]
+    }
+  ],
+  "rubrics": [
+    "Train tickets must be for departures at or after 10 AM",
+    "Train tickets should be dated for Sunday, May 18, 2025",
+    "The return train ticket must be the shortest duration option available, which is G1571 (15:42-16:28, 46 minutes duration)",
+    "Since the return train departs after 3 PM (such as G1571 at 15:42), the guesthouse must allow late check-out until 2 PM",
+    "The guesthouse should be within 2km of Yinxu Ruins, Xiaotun Village, Yindu District, Anyang, Henan Province",
+    "The guesthouse decoration style must be Retro style",
+    "The total price of the guesthouse booking must be less than or equal to 250 yuan",
+    "The guesthouse booking must be for Saturday night (May 17, 2025)",
+    "Information about historical sites related to Feng Shen (Gods Canonization) in Anyang should be searched, with the result being Youli City (where King Wen of Zhou was imprisoned, and the birthplace of 'I Ching')"
+  ]
+}

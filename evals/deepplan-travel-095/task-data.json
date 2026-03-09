@@ -1,0 +1,45 @@
+{
+  "task_id": "94",
+  "query": "I'm planning a trip from Xiamen to Nanchang on November 12, 2025, and will stay until returning on November 17. I'd like to ask you to help me plan the entire itinerary, including transportation, accommodation, meals, and attractions.\n\nRegarding transportation, I’d prefer a later arrival time back in Xiamen, since I don’t want the trip to feel too rushed. Please just help me pick the latest direct train option available for the return journey.\n\nFor accommodation, I’d like to stay at 'Jinjiang Inn'. I've stayed there several times before and found it offers great value for money. This time, please find me the highest-rated hotel among all 'Jinjiang Inn' locations. There are three of us traveling, so we’ll need two rooms.\n\nBy the way, I also have some specific requests for meals. I heard there are quite a few dining options near the 'Bada Shanren Memorial Hall', and since I’m especially eager to visit this attraction, could you arrange a meal at the restaurant closest to it? Additionally, I really want to visit the 'Jiangxi Provincial Museum (New Museum)'. I’ve heard there are some restaurants nearby with good service—I’d like to dine at one that has a waiting area. Could you please arrange that as well?\n\nThat’s basically everything—hope I haven’t left out any important details! Just help me finalize the full itinerary. Thanks so much for your help! November 12, 2025 is Wednesday",
+  "meta_info": {
+    "org": "Xiamen",
+    "dest": [
+      "Nanchang"
+    ],
+    "days": 6,
+    "depart_date": "2025-11-12",
+    "return_date": "2025-11-17",
+    "people_number": 3,
+    "room_number": 2
+  },
+  "hard_constraints": {
+    "train_latest_arrival_direct": {
+      "constraint_context": "I'd like to return later, so please help me choose the latest direct train for the return trip",
+      "constraint_type": "superlative_latest_arrival",
+      "inbound_train_no": "G9874"
+    },
+    "hotel_brand_highest_rated": {
+      "constraint_context": "For accommodation, please select the highest-rated hotel among the \"Jinjiang Inn\" brand.",
+      "constraint_type": "superlative_brand_highest_rated",
+      "hotel_name": "Jinjiang Inn Nanchang Bayi Square Yongshu Road Metro Station",
+      "hotel_price": 134.0,
+      "hotel_score": 4.4
+    },
+    "restaurant_closest_to_attraction": {
+      "constraint_context": "During the trip, please arrange a meal at the restaurant closest to 'Bada Shanren Memorial Hall'.",
+      "constraint_type": "superlative_closest_to_attraction",
+      "attraction_name": "Bada Shanren Memorial Hall",
+      "restaurant_name": "Yunlin Mountain Hotel · Meihu Chinese Restaurant",
+      "price_per_person": 73.0
+    },
+    "restaurant_specific_tag_nearby": {
+      "constraint_context": "Arrange a restaurant near the 'Jiangxi Provincial Museum (New Museum)' during the trip, with a waiting area service required",
+      "constraint_type": "superlative_specific_tag_nearby",
+      "attraction_name": "Jiangxi Provincial Museum (New Museum)",
+      "restaurant_name": "Mu Jia Music Restaurant & Bar Phoenix Island Branch (Jianjun Sculpture Square Branch)",
+      "required_tag": "Waiting Area",
+      "price_per_person": 128.0,
+      "restaurant_rating": 4.4
+    }
+  }
+}

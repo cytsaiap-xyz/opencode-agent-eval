@@ -1,0 +1,49 @@
+{
+  "task_id": "61",
+  "query": "I plan to travel from Nanning to Nanjing on November 12, 2025, and stay for a few days, returning on the 16th. I'd like you to help me plan the entire trip, including transportation, accommodation, meals, and sightseeing arrangements.\n\nFirst, regarding transportation: I’d like to take a flight for the outbound journey, preferably a direct one, with the lowest price possible. Since it's a short-haul flight, affordability is important.\n\nAs for accommodation, I don’t have high requirements—just a two-star hotel will suffice. However, there’s one small request: the hotel must have a swimming pool, as I’d like to squeeze in some time to swim and relax. There are three of us traveling, so we’ll need two rooms. Please help me select a suitable hotel.\n\nBy the way, for dining, I have a small wish—I’ve heard that 'Nanjing 1912 Block' is quite famous, and I’d like to visit that area. Could you arrange a meal at a restaurant closest to 'Nanjing 1912 Block'? That way, we can go straight to dinner after sightseeing, which would be more convenient.\n\nFinally, for attractions, I really want to experience the local leisure atmosphere. Could you pick the highest-rated spot among all 'Leisure Experience' attractions in Nanjing and include it in the itinerary? I’d like to visit the most worthwhile place to fully enjoy the experience.\n\nThat covers everything—I believe I've provided all necessary information. Please go ahead and prepare the full itinerary and budget plan for me without needing to ask further details. Thank you! November 12, 2025 is Wednesday",
+  "meta_info": {
+    "org": "Nanning",
+    "dest": [
+      "Nanjing"
+    ],
+    "days": 5,
+    "depart_date": "2025-11-12",
+    "return_date": "2025-11-16",
+    "people_number": 3,
+    "room_number": 2
+  },
+  "hard_constraints": {
+    "flight_cheapest_direct": {
+      "constraint_context": "Prefer to take a flight for the outbound journey, and need to select the cheapest flight among direct flights",
+      "constraint_type": "superlative_cheapest_direct",
+      "outbound_flight_no": "HO1729"
+    },
+    "hotel_star_service_required": {
+      "constraint_context": "Please select a 2-star hotel that offers a swimming pool for accommodation.",
+      "constraint_type": "superlative_star_service_required",
+      "hotel_name": "Jinjiang Inn (Nanjing Railway Station Xuanwu Lake Zhongfu Road Metro Station Hotel)",
+      "required_service": "Swimming Pool",
+      "hotel_star": 2,
+      "hotel_price": 147.0
+    },
+    "restaurant_closest_to_attraction": {
+      "constraint_context": "During the trip, please arrange a meal at the restaurant closest to 'Nanjing 1912 Block'.",
+      "constraint_type": "superlative_closest_to_attraction",
+      "attraction_name": "Nanjing 1912 Block",
+      "restaurant_name": "La Niña Spanish Restaurant (Beiting Alley Branch)",
+      "price_per_person": 101.0
+    },
+    "attraction_type_highest_rated": {
+      "constraint_context": "The itinerary must include the highest-rated attraction in the 'Leisure Experience' category.",
+      "constraint_type": "superlative_type_highest_rated",
+      "attraction_names": [
+        "Nanjing Deji Plaza"
+      ],
+      "attraction_type_cn": "休闲体验",
+      "attraction_type": "Leisure Experience",
+      "attraction_ratings": [
+        4.8
+      ]
+    }
+  }
+}

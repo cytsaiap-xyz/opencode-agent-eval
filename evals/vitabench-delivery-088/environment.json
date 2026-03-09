@@ -1,0 +1,269 @@
+{
+  "task_id": "H0721003",
+  "domain": "delivery",
+  "time": "2025-03-05 19:00:00",
+  "user_id": "U000095",
+  "weather": [
+    {
+      "city": "Weifang City",
+      "category": "sunny",
+      "datetime": "2025-03-05",
+      "temperature": [
+        -1,
+        8
+      ],
+      "humidity": 43
+    }
+  ],
+  "location": [
+    {
+      "address": "Weifang Xinchen Tiandi, No.1588 Wenhua Road, Kuiwen District, Weifang City, Shandong Province",
+      "longitude": 119.142013,
+      "latitude": 36.730536
+    }
+  ],
+  "user_profile": {
+    "user id": "U000095",
+    "occupation": "Actor",
+    "gender": "male",
+    "age group": "25~30",
+    "residence": "Weifang",
+    "home address": "Mingshi Garden, No. 2687 Yuhe Road (East of Yuhe Road, South of Dongfeng Street), Kuiwen District, Weifang City, Shandong Province",
+    "work address": "Weifang Xinchen Tiandi, No.1588 Wenhua Road, Kuiwen District, Weifang City, Shandong Province",
+    "dietary restrictions": "No alcohol, No fried food",
+    "family status": "Has children",
+    "personality": "Tends to be controlling, not easily accepting of different opinions"
+  },
+  "user_historical_behaviors": {
+    "user id": "U000095",
+    "occupation": "Actor",
+    "gender": "male",
+    "age group": "25~30",
+    "residence": "Weifang",
+    "home address": "Mingshi Garden, No.2687 Yuhe Road (East of Yuhe Road, South of Dongfeng Street), Kuiwen District, Weifang City, Shandong Province",
+    "work address": "Weifang Xinchen Tiandi, No.1588 Wenhua Road, Kuiwen District, Weifang City, Shandong Province",
+    "breakfast": {
+      "frequently purchased categories": [
+        "Quick Meals/Light Food (Average 32 yuan)",
+        "Quick Meals/Salad (Average 28 yuan)",
+        "Quick Meals/Healthy Food (Average 35 yuan)"
+      ],
+      "cost per order": "20~40 yuan",
+      "preferred store rating": "4.5~4.8",
+      "preferred delivery time": "15~25 minutes",
+      "preferred distance": "0~2500m",
+      "recent orders": [
+        {
+          "store": "Morning Light Food",
+          "product": "Chicken Breast Vegetable Salad"
+        },
+        {
+          "store": "Morning Light Breakfast",
+          "product": "High Protein Light Meal Set"
+        },
+        {
+          "store": "Fresh Juice Bar",
+          "product": "Mixed Vegetable and Fruit Juice + Whole Wheat Bread"
+        }
+      ],
+      "search history": [
+        "Low-fat breakfast",
+        "Healthy light food",
+        "Protein",
+        "Salad breakfast",
+        "No fried food"
+      ]
+    },
+    "weekday lunch/dinner": {
+      "frequently purchased categories": [
+        "Chinese Cuisine/Lu Cuisine (Average 45 yuan)",
+        "Quick Meals/Healthy Food (Average 42 yuan)",
+        "International Cuisine/Pasta (Average 50 yuan)"
+      ],
+      "cost per order": "20~65 yuan",
+      "preferred store rating": "4.0~5.0",
+      "preferred delivery time": "20~55 minutes",
+      "preferred distance": "0~5000m",
+      "recent orders": [
+        {
+          "store": "Weifang Flavor",
+          "product": "Homemade Beef Tendon"
+        },
+        {
+          "store": "Salad Me",
+          "product": "Light Vegetable Salad with Grilled Chicken Breast"
+        },
+        {
+          "store": "Good Food Time",
+          "product": "Tomato Pasta with Fresh Shrimp"
+        }
+      ],
+      "search history": [
+        "Low-oil healthy meals",
+        "Homestyle Lu cuisine",
+        "Pasta",
+        "Non-alcoholic dishes"
+      ]
+    },
+    "weekend lunch/dinner": {
+      "frequently purchased categories": [
+        "Chinese Cuisine/Lu Cuisine (Average 85 yuan)",
+        "International Cuisine/Japanese Bento/Sushi (Average 120 yuan)",
+        "International Cuisine/Stone Pot Rice/Teppanyaki Rice (Average 95 yuan)"
+      ],
+      "cost per order": "70~180 yuan",
+      "preferred store rating": "4.6~5.0",
+      "preferred delivery time": "25~55 minutes",
+      "preferred distance": "0~4500m",
+      "recent orders": [
+        {
+          "store": "Sushi Workshop",
+          "product": "Luxury Family Sushi Platter"
+        },
+        {
+          "store": "Weifang Time-honored Brand",
+          "product": "Authentic Lu Cuisine Family Set"
+        },
+        {
+          "store": "Stone Pot Rice Expert",
+          "product": "Korean Stone Pot Bibimbap Set for Two"
+        }
+      ],
+      "search history": [
+        "Family set meals",
+        "Parent-child meals",
+        "Non-alcoholic Japanese food",
+        "Authentic Lu cuisine",
+        "Healthy stone pot dishes"
+      ]
+    },
+    "desserts/drinks/snacks": {
+      "frequently purchased categories": [
+        "Drinks and Desserts/Juice (Average 23 yuan)",
+        "Drinks and Desserts/Fruit Salad (Average 32 yuan)",
+        "Drinks and Desserts/Pure Tea/Herbal Tea (Average 18 yuan)"
+      ],
+      "cost per order": "15~45 yuan",
+      "preferred store rating": "4.0~5.0",
+      "preferred delivery time": "15~60 minutes",
+      "preferred distance": "0~5500m",
+      "recent orders": [
+        {
+          "store": "Donggeng Road Pastry House (Weifang Yinzuo Store)",
+          "product": "Lychee Rose Cheese Sherbet"
+        },
+        {
+          "store": "Fresh Fruit Juices",
+          "product": "Mixed Fruit and Vegetable Juice"
+        }
+      ],
+      "search history": [
+        "Low-sugar beverages",
+        "Fresh fruits",
+        "Desserts",
+        "Low-calorie drinks"
+      ]
+    },
+    "night snack": {
+      "frequently purchased categories": [
+        "Snacks and Braised Dishes/Braised Food (Average 38 yuan)",
+        "Quick Meals/Small Dishes/Small Portions (Average 42 yuan)"
+      ],
+      "cost per order": "25~55 yuan",
+      "preferred store rating": "4.2~4.9",
+      "preferred delivery time": "25~60 minutes",
+      "preferred distance": "0~4700m",
+      "recent orders": [
+        {
+          "store": "Braised Food Heritage",
+          "product": "Healthy Braised Food Platter"
+        },
+        {
+          "store": "Health Soup Restaurant",
+          "product": "Clear Stewed Chicken Soup with Mixed Grains"
+        },
+        {
+          "store": "Small Dish Restaurant",
+          "product": "Steamed Fresh Vegetables Small Portion"
+        }
+      ],
+      "search history": [
+        "Healthy night snacks",
+        "Non-fried braised food",
+        "Health-preserving soup",
+        "Low-fat night food"
+      ]
+    }
+  },
+  "stores": {
+    "S28238457757110038_S89746": {
+      "name": "Alley Fried Chicken & Seafood Private Kitchen (Taihua Branch)",
+      "store_id": "S28238457757110038_S89746",
+      "score": 4.6,
+      "location": {
+        "address": "No.15, South Street, Tongji Gate Electronic Commercial Street, Dongguan Subdistrict Office, Kuiwen District, Weifang City, Shandong Province",
+        "latitude": 36.714092,
+        "longitude": 119.112842
+      },
+      "tags": [],
+      "products": [
+        {
+          "name": "Lemon Boneless Chicken Feet",
+          "store_id": "S28238457757110038_S89746",
+          "store_name": "Alley Fried Chicken & Seafood Private Kitchen (Taihua Branch)",
+          "price": 26.88,
+          "tags": [
+            "Single Portion",
+            "Sour"
+          ],
+          "product_id": "S21140841273620451_P81330",
+          "attributes": [],
+          "quantity": 9999
+        },
+        {
+          "name": "Boneless Sichuan Pepper Chicken Feet",
+          "store_id": "S28238457757110038_S89746",
+          "store_name": "Alley Fried Chicken & Seafood Private Kitchen (Taihua Branch)",
+          "price": 26.88,
+          "tags": [],
+          "product_id": "S46393695337949851_P42945",
+          "attributes": [],
+          "quantity": 9999
+        },
+        {
+          "name": "Boneless Garlic Flavored Chicken Feet",
+          "store_id": "S28238457757110038_S89746",
+          "store_name": "Alley Fried Chicken & Seafood Private Kitchen (Taihua Branch)",
+          "price": 26.88,
+          "tags": [],
+          "product_id": "S46022044259912080_P24494",
+          "attributes": [],
+          "quantity": 9999
+        },
+        {
+          "name": "Alley Tiger Skin Chicken Feet",
+          "store_id": "S28238457757110038_S89746",
+          "store_name": "Alley Fried Chicken & Seafood Private Kitchen (Taihua Branch)",
+          "price": 18.88,
+          "tags": [
+            "Salty and Fresh"
+          ],
+          "product_id": "S42053705959360625_P33671",
+          "attributes": [],
+          "quantity": 9999
+        },
+        {
+          "name": "Numbing Spicy Deboned Chicken Feet",
+          "store_id": "S28238457757110038_S89746",
+          "store_name": "Alley Fried Chicken & Seafood Private Kitchen (Taihua Branch)",
+          "price": 26.88,
+          "tags": [],
+          "product_id": "S95979915184123077_P59175",
+          "attributes": [],
+          "quantity": 9999
+        }
+      ]
+    }
+  },
+  "orders": {}
+}

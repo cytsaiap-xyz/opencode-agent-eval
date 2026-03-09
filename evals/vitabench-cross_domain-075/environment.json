@@ -1,0 +1,1073 @@
+{
+  "task_id": "A0808002",
+  "domain": "cross_domain",
+  "time": "2025-04-18 11:15:00",
+  "user_id": "U106297",
+  "weather": [
+    {
+      "city": "Taiyuan",
+      "category": "cloudy to light rain",
+      "datetime": "2025-04-18",
+      "temperature": [
+        12,
+        22
+      ],
+      "humidity": 65
+    },
+    {
+      "city": "Taiyuan",
+      "category": "light rain",
+      "datetime": "2025-04-19",
+      "temperature": [
+        10,
+        19
+      ],
+      "humidity": 78
+    },
+    {
+      "city": "Taiyuan",
+      "category": "overcast",
+      "datetime": "2025-04-20",
+      "temperature": [
+        11,
+        20
+      ],
+      "humidity": 70
+    }
+  ],
+  "location": [
+    {
+      "address": "12th Floor, Shanxi International Financial Center, 368 Qinxian North Street, Xiaodian District, Taiyuan, Shaanxi Province",
+      "longitude": 112.5692,
+      "latitude": 37.7986
+    }
+  ],
+  "user_profile": {
+    "user id": "U106297",
+    "occupation": "Finance",
+    "gender": "female",
+    "age group": "35~40",
+    "residence": "Taiyuan",
+    "Permanent address": "Room 501, Unit 2, Building 8, Vanke Zitai Community, 16 Changfeng West Street, Xiaodian District, Taiyuan, Shanxi Province",
+    "work address": "12th Floor, Shanxi International Financial Center, 368 Qinxian North Street, Xiaodian District, Taiyuan, Shaanxi Province",
+    "dietary restrictions": "No high sugar, no alcohol",
+    "family status": "Lives with elderly family member",
+    "personality": "Overly dependent on others' guidance, lacks self-determination and decisiveness"
+  },
+  "user_historical_behaviors": {
+    "user id": "U106297",
+    "occupation": "Finance",
+    "gender": "female",
+    "age group": "35~40",
+    "residence": "Taiyuan",
+    "home address": "Room 501, Unit 2, Building 8, Vanke Zitai Community, 16 Changfeng West Street, Xiaodian District, Taiyuan, Shanxi Province",
+    "work address": "12th Floor, Shanxi International Financial Center, 368 Qinxian North Street, Xiaodian District, Taiyuan, Shaanxi Province",
+    "delivery": {
+      "food delivery": {
+        "breakfast": {
+          "frequently purchased categories": [
+            "Quick meals/Steamed buns/Pan-fried buns (Average 22 yuan)",
+            "Quick meals/Fried dough sticks (Average 15 yuan)",
+            "Quick meals/Jianbing/Wraps/Pancakes (Average 18 yuan)"
+          ],
+          "cost per order": "15~30 yuan",
+          "preferred store rating": "4.2~4.8 stars",
+          "preferred delivery time": "15~25 minutes",
+          "preferred distance": "0~2500m",
+          "recent orders": [
+            {
+              "store": "Beijing Style Bun Shop",
+              "product": "Pork Buns + Soy Milk Set"
+            },
+            {
+              "store": "Tianjin Jianbing",
+              "product": "Original Jianbing"
+            },
+            {
+              "store": "Breakfast Porridge Shop",
+              "product": "Century Egg and Pork Porridge + Fried Dough Sticks"
+            }
+          ],
+          "search history": [
+            "Steamed buns",
+            "Low-salt breakfast",
+            "Soy milk",
+            "Porridge",
+            "Nutritious breakfast"
+          ]
+        },
+        "weekday lunch/dinner": {
+          "frequently purchased categories": [
+            "Quick meals/Rice with toppings (Average 35 yuan)",
+            "Quick meals/Braised chicken rice (Average 38 yuan)",
+            "Chinese cuisine/Northeastern cuisine (Average 45 yuan)"
+          ],
+          "cost per order": "30~50 yuan",
+          "preferred store rating": "4.3~4.8 stars",
+          "preferred delivery time": "20~35 minutes",
+          "preferred distance": "0~3000m",
+          "recent orders": [
+            {
+              "store": "Braised Chicken Rice",
+              "product": "Mildly Spicy Braised Chicken + Vegetables"
+            },
+            {
+              "store": "Northeastern Cuisine Restaurant",
+              "product": "Sweet and Sour Pork + Rice"
+            },
+            {
+              "store": "Home-style Restaurant",
+              "product": "Tomato and Egg Stir-fry + Rice"
+            }
+          ],
+          "search history": [
+            "Low-salt dishes",
+            "Home cooking",
+            "Healthy work meals",
+            "Northeastern cuisine"
+          ]
+        },
+        "weekend lunch/dinner": {
+          "frequently purchased categories": [
+            "Chinese cuisine/Sichuan cuisine (Average 85 yuan)",
+            "International cuisine/Stone pot rice/Hot plate meals (Average 78 yuan)",
+            "Hot pot/Individual hot pot (Average 98 yuan)"
+          ],
+          "cost per order": "70~150 yuan",
+          "preferred store rating": "4.5~4.9 stars",
+          "preferred delivery time": "30~45 minutes",
+          "preferred distance": "0~4500m",
+          "recent orders": [
+            {
+              "store": "Bashu Family",
+              "product": "Boiled Fish + Bean Curd + Rice"
+            },
+            {
+              "store": "Korean Cuisine",
+              "product": "Stone Pot Bibimbap + Kimchi"
+            },
+            {
+              "store": "Fresh Beef Place",
+              "product": "Beef Individual Hot Pot"
+            }
+          ],
+          "search history": [
+            "Sichuan cuisine",
+            "Stone pot bibimbap",
+            "Non-spicy hot pot",
+            "Parent-child meals"
+          ]
+        },
+        "desserts/drinks/snacks": {
+          "frequently purchased categories": [
+            "Beverages and desserts/Juice (Average 28 yuan)",
+            "Beverages and desserts/Chinese pastries (Average 32 yuan)",
+            "Beverages and desserts/Fruit desserts (Average 38 yuan)"
+          ],
+          "cost per order": "20~45 yuan",
+          "preferred store rating": "4.4~4.9 stars",
+          "preferred delivery time": "15~30 minutes",
+          "preferred distance": "0~2500m",
+          "recent orders": [
+            {
+              "store": "Fresh Juice Shop",
+              "product": "Fresh Watermelon Juice"
+            },
+            {
+              "store": "Traditional Pastry Shop",
+              "product": "Mung Bean Cake"
+            },
+            {
+              "store": "Fresh Fruit Dessert",
+              "product": "Mango Pomelo Sago"
+            }
+          ],
+          "search history": [
+            "Low-sugar beverages",
+            "Fresh-squeezed juice",
+            "Caffeine-free",
+            "Fruit desserts"
+          ]
+        },
+        "night snack": {
+          "frequently purchased categories": [
+            "Quick meals/Dumplings/Wonton (Average 40 yuan)",
+            "Quick meals/Casserole dishes (Average 45 yuan)",
+            "Snacks/Braised foods (Average 38 yuan)"
+          ],
+          "cost per order": "35~55 yuan",
+          "preferred store rating": "4.2~4.7 stars",
+          "preferred delivery time": "20~35 minutes",
+          "preferred distance": "0~3000m",
+          "recent orders": [
+            {
+              "store": "Dumpling House",
+              "product": "Three Delicacies Dumplings"
+            },
+            {
+              "store": "Casserole Porridge",
+              "product": "Century Egg and Pork Casserole Porridge"
+            },
+            {
+              "store": "Old Braised Food Shop",
+              "product": "Braised Meat Platter"
+            }
+          ],
+          "search history": [
+            "Low-salt night snack",
+            "Stomach-friendly night snack",
+            "Dumplings",
+            "Casserole porridge"
+          ]
+        }
+      },
+      "product delivery": {
+        "frequently purchased categories": [
+          "Vegetables/Bean products (30%)",
+          "Raw meat/Poultry/Eggs (20%)",
+          "Grains/Oil/Seasonings/Dried goods (15%)",
+          "Fruits (12%)",
+          "Household items (10%)",
+          "Mother and baby products (8%)",
+          "Others (5%)"
+        ],
+        "frequently visited stores": [
+          "China Resources Vanguard (Taiyuan Xiaodian District Branch) (45%)",
+          "Yonghui Supermarket (Taiyuan Qinxian North Street Branch) (30%)",
+          "Convenience Bee (Jinmao Yue Branch) (15%)",
+          "Other stores (10%)"
+        ],
+        "cost per order by category": {
+          "Vegetables/Bean products": "5~25 yuan",
+          "Raw meat/Poultry/Eggs": "30~80 yuan",
+          "Grains/Oil/Seasonings/Dried goods": "10~40 yuan",
+          "Fruits": "15~50 yuan",
+          "Household items": "20~60 yuan",
+          "Mother and baby products": "50~150 yuan"
+        },
+        "preferred delivery time": "30~60 minutes",
+        "typical order time": "17~19:00 (40%), 10~12:00 (30%), 20~21:00 (20%)",
+        "recent orders": [
+          {
+            "store": "China Resources Vanguard (Taiyuan Xiaodian District Branch)",
+            "product": "Organic Vegetable Set"
+          },
+          {
+            "store": "Yonghui Supermarket (Taiyuan Qinxian North Street Branch)",
+            "product": "Low-sodium Soy Sauce"
+          },
+          {
+            "store": "China Resources Vanguard (Taiyuan Xiaodian District Branch)",
+            "product": "Baby Wipes"
+          }
+        ],
+        "search history": [
+          "Organic vegetables",
+          "Low-salt",
+          "Low-sodium",
+          "Children's food",
+          "Fresh eggs",
+          "Elderly products"
+        ]
+      }
+    },
+    "in-store consumption": {
+      "in-store dining": {
+        "fine-dining": {
+          "frequently purchased categories": [
+            "Regional cuisine/Seafood (Average 135 yuan)",
+            "Regional cuisine/Jiangzhe cuisine (Average 120 yuan)",
+            "International cuisine/Japanese cuisine (Average 150 yuan)"
+          ],
+          "preferred average price per person": "100~150 yuan",
+          "preferred store rating": "4.2~4.8 stars",
+          "typical dining time": "18:30-20:30",
+          "preferred distance": "500~3000m",
+          "recent orders": [
+            {
+              "store": "Taiyuan Fish With You",
+              "product": "Signature Sauerkraut Fish Set"
+            },
+            {
+              "store": "Jiangnan Small Kitchen",
+              "product": "West Lake Fish in Vinegar Sauce + Dongpo Pork"
+            },
+            {
+              "store": "Helv Rotating Sushi",
+              "product": "Business Set for Two"
+            }
+          ],
+          "search history": [
+            "Sugar-free dishes",
+            "Health-oriented restaurants",
+            "Business gatherings",
+            "Japanese cuisine",
+            "Low-sugar fish dishes"
+          ]
+        },
+        "light meal": {
+          "frequently purchased categories": [
+            "Fast food/Chinese quick meals (Average 35 yuan)",
+            "Fast food/Western quick meals (Average 40 yuan)"
+          ],
+          "preferred average price per person": "25~45 yuan",
+          "preferred store rating": "3.5~4.3 stars",
+          "typical dining time": "12:00-13:30",
+          "preferred distance": "0~800m",
+          "recent orders": [
+            {
+              "store": "Yonghe King",
+              "product": "Three Shredded Vegetable Fried Rice + Small Wonton"
+            },
+            {
+              "store": "Salala Light Food",
+              "product": "Low-fat Chicken Breast Salad"
+            },
+            {
+              "store": "Yoshinoya",
+              "product": "Beef Bowl Set"
+            }
+          ],
+          "search history": [
+            "Healthy light meals",
+            "Low-calorie lunch",
+            "Quick service",
+            "Light food"
+          ]
+        },
+        "desserts/drinks/snacks": {
+          "frequently purchased categories": [
+            "Beverage shops (Average 18 yuan)",
+            "Bread and pastries (Average 25 yuan)"
+          ],
+          "preferred average price per person": "15~30 yuan",
+          "preferred store rating": "3.8~4.5 stars",
+          "typical dining time": "15:00-16:30",
+          "preferred distance": "0~500m",
+          "recent orders": [
+            {
+              "store": "Cha Bai Dao",
+              "product": "Sugar-free Oolong Tea"
+            },
+            {
+              "store": "85°C Bakery Cafe",
+              "product": "Sugar-Free Whole Wheat Bread"
+            },
+            {
+              "store": "Starbucks",
+              "product": "Americano"
+            }
+          ],
+          "search history": [
+            "Sugar-free drinks",
+            "Low-sugar desserts",
+            "Whole wheat bread",
+            "Healthy snacks"
+          ]
+        }
+      },
+      "other in-store services": {
+        "frequently consumed categories": {
+          "Beauty/Hairdressing": "15%",
+          "Beauty/Yoga": "30%",
+          "Sports and fitness/Fitness centers": "35%",
+          "Leisure and entertainment/Massage/Foot therapy": "20%"
+        },
+        "cost per order by category": {
+          "Beauty/Hairdressing": "180~350 yuan",
+          "Beauty/Yoga": "80~150 yuan/session",
+          "Sports and fitness/Fitness centers": "120~200 yuan/session",
+          "Leisure and entertainment/Massage/Foot therapy": "150~280 yuan"
+        },
+        "preferred store rating": "4.0~4.8 stars",
+        "preferred service time": "18:00-20:30",
+        "preferred distance": "0~3000m",
+        "recent orders": [
+          {
+            "store": "Taiyuan Yoga Life Studio",
+            "product": "Single Person Yoga Class Experience"
+          },
+          {
+            "store": "Yuedong Fitness Center",
+            "product": "Monthly Membership"
+          },
+          {
+            "store": "Kangzu Tang",
+            "product": "Traditional Chinese Medicine Foot Massage"
+          }
+        ],
+        "search history": [
+          "Stress-relief yoga",
+          "Fitness with elderly companions",
+          "Chinese medicine massage",
+          "Occupational cervical spine therapy"
+        ]
+      }
+    },
+    "OTA": {
+      "visited scenes": {
+        "Cultural heritage sites": "35%",
+        "Exhibitions (museums/art galleries)": "25%",
+        "Natural landscapes (mountains/lakes/forests)": "20%",
+        "Parks": "15%",
+        "Hot spring scenic areas": "5%"
+      },
+      "cost per night on hotel": "500~1000 yuan",
+      "visited hotels": {
+        "Atour": "30%",
+        "JI Hotel": "25%",
+        "Vienna": "20%",
+        "Huazhu": "15%",
+        "Home Inn": "10%"
+      },
+      "browsed hotels": {
+        "Four-star hotels": "45%",
+        "Comfort hotels": "35%",
+        "Three-star hotels": "15%",
+        "Five-star hotels": "5%"
+      },
+      "historical travel plans": {
+        "Taiyuan-Beijing": {
+          "price range": "300-500 yuan",
+          "transportation mode": "High-speed train/EMU"
+        },
+        "Taiyuan-Shanghai": {
+          "price range": "800-1200 yuan",
+          "transportation mode": "Airplane"
+        },
+        "Taiyuan-Xi'an": {
+          "price range": "200-400 yuan",
+          "transportation mode": "High-speed train/EMU"
+        },
+        "Taiyuan-Hangzhou": {
+          "price range": "700-1100 yuan",
+          "transportation mode": "Airplane"
+        },
+        "Taiyuan-Qingdao": {
+          "price range": "600-900 yuan",
+          "transportation mode": "Airplane"
+        },
+        "Beijing-Taiyuan": {
+          "price range": "300-500 yuan",
+          "transportation mode": "High-speed train/EMU"
+        },
+        "Shanghai-Taiyuan": {
+          "price range": "800-1200 yuan",
+          "transportation mode": "Airplane"
+        }
+      }
+    }
+  },
+  "stores": {
+    "S17550809174775032_S00001": {
+      "name": "Sweetheart Pastry House",
+      "store_id": "S17550809174775032_S00001",
+      "score": 4.7,
+      "location": {
+        "address": "Sweetheart Pastry House, 156 Qinxian Street, Xiaodian District, Taiyuan, Shanxi Province",
+        "latitude": 37.8012,
+        "longitude": 112.5702
+      },
+      "tags": [
+        "Sweet Snacks",
+        "Cake",
+        "Cupcake",
+        "Afternoon Tea",
+        "Low Sugar"
+      ],
+      "store_type": "target",
+      "products": [
+        {
+          "name": "Low-Sugar Cupcake Gift Box (15 Cups)",
+          "store_id": "S17550809174775032_S00001",
+          "store_name": "Sweetheart Pastry House",
+          "price": 128,
+          "tags": [
+            "Cupcake",
+            "Low Sugar",
+            "Multi-Serving",
+            "Gift Box Package",
+            "Afternoon Tea",
+            "Gathering",
+            "Celebration"
+          ],
+          "product_id": "S17550809174775032_P00001",
+          "attributes": [
+            "Customizable logo available"
+          ],
+          "product_type": "target"
+        },
+        {
+          "name": "Fruit Cupcake Assortment (15 Cups)",
+          "store_id": "S17550809174775032_S00001",
+          "store_name": "Sweetheart Pastry House",
+          "price": 135,
+          "tags": [
+            "Cupcake",
+            "Fruits",
+            "Multi-Serving",
+            "Afternoon Tea",
+            "Gathering",
+            "Celebration",
+            "Photogenic"
+          ],
+          "product_id": "S17550809174775032_P00002",
+          "attributes": [
+            "Strawberry flavor",
+            "Blueberry flavor",
+            "Mango flavor",
+            "Pineapple flavor",
+            "Orange flavor"
+          ],
+          "product_type": "target"
+        },
+        {
+          "name": "Chocolate Cupcake Platter (15 Cups)",
+          "store_id": "S17550809174775032_S00001",
+          "store_name": "Sweetheart Pastry House",
+          "price": 145,
+          "tags": [
+            "Cupcake",
+            "Chocolate",
+            "Multi-Serving",
+            "Afternoon Tea",
+            "Gathering",
+            "Celebration",
+            "Photogenic"
+          ],
+          "product_id": "S17550809174775032_P00003",
+          "attributes": [
+            "Milk chocolate",
+            "Sugar-free option available"
+          ],
+          "product_type": "distraction"
+        },
+        {
+          "name": "Premium Cupcake Tower (15 Cups)",
+          "store_id": "S17550809174775032_S00001",
+          "store_name": "Sweetheart Pastry House",
+          "price": 168,
+          "tags": [
+            "Cupcake",
+            "Cake Tower",
+            "Multi-Serving",
+            "Afternoon Tea",
+            "Celebration",
+            "High-end",
+            "Photogenic"
+          ],
+          "product_id": "S17550809174775032_P00005",
+          "attributes": [
+            "Includes display stand"
+          ],
+          "product_type": "target"
+        },
+        {
+          "name": "Mini Cupcakes (8 Cups)",
+          "store_id": "S17550809174775032_S00001",
+          "store_name": "Sweetheart Pastry House",
+          "price": 68,
+          "tags": [
+            "Cupcake",
+            "Mini",
+            "Afternoon Tea",
+            "Exquisite",
+            "Photogenic"
+          ],
+          "product_id": "S17550809174775032_P00006",
+          "attributes": [],
+          "product_type": "distraction"
+        },
+        {
+          "name": "Low-Sugar Fruit Tea Set (Serves 15)",
+          "store_id": "S17550809174775032_S00001",
+          "store_name": "Sweetheart Pastry House",
+          "price": 158,
+          "tags": [
+            "Fruit Tea and Snacks",
+            "Low Sugar",
+            "Multi-Serving",
+            "Afternoon Tea",
+            "Healthy",
+            "Gathering"
+          ],
+          "product_id": "S17550809174775032_P00007",
+          "attributes": [],
+          "product_type": "distraction"
+        },
+        {
+          "name": "Deluxe Cupcake Gift Box (5 Cups)",
+          "store_id": "S17550809174775032_S00001",
+          "store_name": "Sweetheart Pastry House",
+          "price": 58,
+          "tags": [
+            "Cupcake",
+            "Gift Box",
+            "Exquisite",
+            "Afternoon Tea",
+            "Photogenic"
+          ],
+          "product_id": "S17550809174775032_P00008",
+          "attributes": [
+            "Low-sugar version available"
+          ],
+          "product_type": "distraction"
+        }
+      ]
+    },
+    "S17550809174775032_S00002": {
+      "name": "Starbucks (Taiyuan International Finance Center Branch)",
+      "store_id": "S17550809174775032_S00002",
+      "score": 4.8,
+      "location": {
+        "address": "Starbucks, 1st Floor, Shanxi International Financial Center, 368 Qinxian North Street, Xiaodian District, Taiyuan, Shanxi Province",
+        "latitude": 37.7986,
+        "longitude": 112.5692
+      },
+      "tags": [
+        "Coffee",
+        "Dessert",
+        "Afternoon Tea",
+        "Cake"
+      ],
+      "store_type": "target",
+      "products": [
+        {
+          "name": "Low-Sugar Cupcake Package (Serves 15)",
+          "store_id": "S17550809174775032_S00002",
+          "store_name": "Starbucks (Taiyuan International Finance Center Branch)",
+          "price": 298,
+          "tags": [
+            "Afternoon Tea",
+            "Cupcake",
+            "Multi-Person Sharing",
+            "Low Sugar",
+            "Celebration",
+            "Photogenic"
+          ],
+          "product_id": "S17550809174775032_P00009",
+          "attributes": [
+            "Low-sugar formula"
+          ],
+          "product_type": "target"
+        },
+        {
+          "name": "Classic Cupcakes (Serves 5)",
+          "store_id": "S17550809174775032_S00002",
+          "store_name": "Starbucks (Taiyuan International Finance Center Branch)",
+          "price": 98,
+          "tags": [
+            "Afternoon Tea",
+            "Cupcake",
+            "Photogenic"
+          ],
+          "product_id": "S17550809174775032_P00010",
+          "attributes": [
+            "Original flavor",
+            "Red velvet flavor"
+          ],
+          "product_type": "distraction"
+        },
+        {
+          "name": "Sugar-Free Cupcake Gift Box (Serves 15)",
+          "store_id": "S17550809174775032_S00002",
+          "store_name": "Starbucks (Taiyuan International Finance Center Branch)",
+          "price": 328,
+          "tags": [
+            "Afternoon Tea",
+            "Cupcake",
+            "Multi-Person Sharing",
+            "Sugar-Free",
+            "Multiple Flavors",
+            "Gift Box Package"
+          ],
+          "product_id": "S17550809174775032_P00011",
+          "attributes": [
+            "Original flavor",
+            "Vanilla flavor"
+          ],
+          "product_type": "target"
+        },
+        {
+          "name": "High-Sugar Cupcake Platter (Serves 15)",
+          "store_id": "S17550809174775032_S00002",
+          "store_name": "Starbucks (Taiyuan International Finance Center Branch)",
+          "price": 288,
+          "tags": [
+            "Afternoon Tea",
+            "Cupcake",
+            "Multi-Person Sharing",
+            "Photogenic"
+          ],
+          "product_id": "S17550809174775032_P00012",
+          "attributes": [
+            "Original flavor",
+            "Strawberry flavor"
+          ],
+          "product_type": "distraction"
+        }
+      ]
+    },
+    "S17550809174775032_S00003": {
+      "name": "85°C Bakery Cafe (Taiyuan Changfeng Street Branch)",
+      "store_id": "S17550809174775032_S00003",
+      "score": 4.5,
+      "location": {
+        "address": "85°C Bakery Cafe, 62 Changfeng Street, Xiaodian District, Taiyuan, Shanxi Province",
+        "latitude": 37.8106,
+        "longitude": 112.5598
+      },
+      "tags": [
+        "Bread",
+        "Cake",
+        "Dessert",
+        "Afternoon Tea"
+      ],
+      "store_type": "target",
+      "products": [
+        {
+          "name": "Low-Sugar Cupcake Set (15 Pieces)",
+          "store_id": "S17550809174775032_S00003",
+          "store_name": "85°C Bakery Cafe (Taiyuan Changfeng Street Branch)",
+          "price": 128,
+          "tags": [
+            "Cupcake",
+            "Set",
+            "Afternoon Tea",
+            "Multi-Person Sharing"
+          ],
+          "product_id": "S17550809174775032_P00015",
+          "attributes": [
+            "Low-sugar formula"
+          ],
+          "product_type": "target"
+        },
+        {
+          "name": "Chocolate Cupcakes (5 Pieces)",
+          "store_id": "S17550809174775032_S00003",
+          "store_name": "85°C Bakery Cafe (Taiyuan Changfeng Street Branch)",
+          "price": 45,
+          "tags": [
+            "Cupcake",
+            "Chocolate Flavor",
+            "Afternoon Tea"
+          ],
+          "product_id": "S17550809174775032_P00017",
+          "attributes": [],
+          "product_type": "target"
+        },
+        {
+          "name": "Vanilla Cupcakes (5 Pieces)",
+          "store_id": "S17550809174775032_S00003",
+          "store_name": "85°C Bakery Cafe (Taiyuan Changfeng Street Branch)",
+          "price": 45,
+          "tags": [
+            "Cupcake",
+            "Vanilla Flavor",
+            "Afternoon Tea"
+          ],
+          "product_id": "S17550809174775032_P00018",
+          "attributes": [
+            "Low-sugar formula",
+            "5 pieces"
+          ],
+          "product_type": "target"
+        },
+        {
+          "name": "Sugar-Free Whole Wheat Bread",
+          "store_id": "S17550809174775032_S00003",
+          "store_name": "85°C Bakery Cafe (Taiyuan Changfeng Street Branch)",
+          "price": 16,
+          "tags": [
+            "Bread",
+            "Sugar-Free",
+            "Whole Wheat",
+            "Healthy"
+          ],
+          "product_id": "S17550809174775032_P00019",
+          "attributes": [
+            "Sugar-free formula",
+            "Whole wheat"
+          ],
+          "product_type": "target"
+        },
+        {
+          "name": "Cream Cake (8 Inch)",
+          "store_id": "S17550809174775032_S00003",
+          "store_name": "85°C Bakery Cafe (Taiyuan Changfeng Street Branch)",
+          "price": 98,
+          "tags": [
+            "Cake",
+            "Cream",
+            "Afternoon Tea"
+          ],
+          "product_id": "S17550809174775032_P00020",
+          "attributes": [
+            "Regular sugar content"
+          ],
+          "product_type": "distraction"
+        },
+        {
+          "name": "Classic Coffee (Medium)",
+          "store_id": "S17550809174775032_S00003",
+          "store_name": "85°C Bakery Cafe (Taiyuan Changfeng Street Branch)",
+          "price": 18,
+          "tags": [
+            "Coffee",
+            "Beverages",
+            "Afternoon Tea"
+          ],
+          "product_id": "S17550809174775032_P00022",
+          "attributes": [
+            "Hot drink",
+            "With sugar",
+            "Without sugar"
+          ],
+          "product_type": "distraction"
+        }
+      ]
+    },
+    "S17550809174775032_S00004": {
+      "name": "Fresh Fruit Dessert (Taiyuan Vanke Branch)",
+      "store_id": "S17550809174775032_S00004",
+      "score": 4.4,
+      "location": {
+        "address": "Fresh Fruit Dessert, 18 Changfeng West Street, Xiaodian District, Taiyuan, Shanxi Province",
+        "latitude": 37.8125,
+        "longitude": 112.559
+      },
+      "tags": [
+        "Fruits",
+        "Dessert",
+        "Afternoon Tea"
+      ],
+      "store_type": "distraction",
+      "products": [
+        {
+          "name": "Colorful Fruit Platter (Serves 15)",
+          "store_id": "S17550809174775032_S00004",
+          "store_name": "Fresh Fruit Dessert (Taiyuan Vanke Branch)",
+          "price": 288,
+          "tags": [
+            "Fruit Platter",
+            "Group Sharing",
+            "Afternoon Tea",
+            "Gathering",
+            "Fresh Fruits"
+          ],
+          "product_id": "S17550809174775032_P00023",
+          "attributes": [
+            "Regular sugar",
+            "Low sugar",
+            "Sugar-free"
+          ],
+          "product_type": "distraction"
+        },
+        {
+          "name": "Seasonal Fresh Fruit Dessert (Small Portion)",
+          "store_id": "S17550809174775032_S00004",
+          "store_name": "Fresh Fruit Dessert (Taiyuan Vanke Branch)",
+          "price": 32,
+          "tags": [
+            "Fruits",
+            "Afternoon Tea",
+            "Low Sugar",
+            "Healthy"
+          ],
+          "product_id": "S17550809174775032_P00024",
+          "attributes": [
+            "Regular sugar",
+            "Low sugar",
+            "Sugar-free"
+          ],
+          "product_type": "distraction"
+        },
+        {
+          "name": "Fruit Tea Platter (Serves 10)",
+          "store_id": "S17550809174775032_S00004",
+          "store_name": "Fresh Fruit Dessert (Taiyuan Vanke Branch)",
+          "price": 198,
+          "tags": [
+            "Fruit Tea",
+            "Platter",
+            "Afternoon Tea",
+            "Group Sharing"
+          ],
+          "product_id": "S17550809174775032_P00025",
+          "attributes": [
+            "Regular sugar",
+            "70% sugar",
+            "50% sugar",
+            "30% sugar",
+            "Sugar-free"
+          ],
+          "product_type": "distraction"
+        },
+        {
+          "name": "Fresh Fruit Salad Cups (15 Cups)",
+          "store_id": "S17550809174775032_S00004",
+          "store_name": "Fresh Fruit Dessert (Taiyuan Vanke Branch)",
+          "price": 225,
+          "tags": [
+            "Fruit Salad",
+            "Afternoon Tea",
+            "Gathering",
+            "Low Sugar",
+            "Healthy"
+          ],
+          "product_id": "S17550809174775032_P00026",
+          "attributes": [
+            "Regular sugar",
+            "Low sugar",
+            "Sugar-free",
+            "Without yogurt",
+            "With yogurt"
+          ],
+          "product_type": "distraction"
+        }
+      ]
+    },
+    "S17550809174775032_S00005": {
+      "name": "Pastry Legend (Taiyuan Fortune Center Branch)",
+      "store_id": "S17550809174775032_S00005",
+      "score": 4.2,
+      "location": {
+        "address": "Pastry Legend, 400 Qinxian North Street, Xiaodian District, Taiyuan, Shanxi Province",
+        "latitude": 37.7996,
+        "longitude": 112.5712
+      },
+      "tags": [
+        "Chinese Pastries",
+        "Traditional Snacks",
+        "Afternoon Tea"
+      ],
+      "store_type": "distraction",
+      "products": [
+        {
+          "name": "Traditional Date and Yam Cake (Sugar-Free Version)",
+          "store_id": "S17550809174775032_S00005",
+          "store_name": "Pastry Legend (Taiyuan Fortune Center Branch)",
+          "price": 28.8,
+          "tags": [
+            "Chinese Pastries",
+            "Sugar-Free",
+            "Traditional Snacks",
+            "Health Preservation",
+            "Afternoon Tea"
+          ],
+          "product_id": "S17550809174775032_P00028",
+          "attributes": [
+            "Standard package",
+            "Deluxe packaging"
+          ],
+          "product_type": "target"
+        },
+        {
+          "name": "Red Bean Paste Sponge Cake (Low Sugar)",
+          "store_id": "S17550809174775032_S00005",
+          "store_name": "Pastry Legend (Taiyuan Fortune Center Branch)",
+          "price": 26.5,
+          "tags": [
+            "Chinese Pastries",
+            "Low Sugar",
+            "Soft and Fluffy",
+            "Afternoon Tea"
+          ],
+          "product_id": "S17550809174775032_P00029",
+          "attributes": [
+            "Standard package",
+            "Deluxe packaging"
+          ],
+          "product_type": "target"
+        },
+        {
+          "name": "Taoshan-Style Mooncake Gift Box",
+          "store_id": "S17550809174775032_S00005",
+          "store_name": "Pastry Legend (Taiyuan Fortune Center Branch)",
+          "price": 88,
+          "tags": [
+            "Chinese Pastries",
+            "Gift Box",
+            "Traditional Snacks"
+          ],
+          "product_id": "S17550809174775032_P00030",
+          "attributes": [
+            "6 pieces",
+            "12 pieces"
+          ],
+          "product_type": "distraction"
+        },
+        {
+          "name": "Traditional Mung Bean Cake (Serves 15)",
+          "store_id": "S17550809174775032_S00005",
+          "store_name": "Pastry Legend (Taiyuan Fortune Center Branch)",
+          "price": 118,
+          "tags": [
+            "Chinese Pastries",
+            "Traditional Snacks",
+            "Group Purchase",
+            "Afternoon Tea"
+          ],
+          "product_id": "S17550809174775032_P00031",
+          "attributes": [
+            "Standard package",
+            "Deluxe package"
+          ],
+          "product_type": "distraction"
+        },
+        {
+          "name": "Handmade Walnut Cookies (10 Pieces)",
+          "store_id": "S17550809174775032_S00005",
+          "store_name": "Pastry Legend (Taiyuan Fortune Center Branch)",
+          "price": 42.5,
+          "tags": [
+            "Chinese Pastries",
+            "Traditional Snacks",
+            "Crispy",
+            "Afternoon Tea"
+          ],
+          "product_id": "S17550809174775032_P00032",
+          "attributes": [
+            "Standard package",
+            "Gift box package"
+          ],
+          "product_type": "distraction"
+        }
+      ]
+    }
+  },
+  "orders": {
+    "S17550809174775032_O00001": {
+      "order_id": "S17550809174775032_O00001",
+      "order_type": "delivery",
+      "user_id": "U106297",
+      "store_id": "S17550809174775032_S00001",
+      "total_price": 138.0,
+      "create_time": "2025-04-18 11:25:12",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17550809174775032_P00004",
+          "price": 138.0,
+          "quantity": 1
+        }
+      ]
+    },
+    "S17550809174775032_O00003": {
+      "order_id": "S17550809174775032_O00003",
+      "order_type": "instore",
+      "user_id": "U106297",
+      "store_id": "S17550809174775032_I00010",
+      "total_price": 498.0,
+      "create_time": "2025-04-18 11:40:23",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17550809174775032_P00071",
+          "price": 498.0,
+          "quantity": 1
+        }
+      ]
+    }
+  }
+}

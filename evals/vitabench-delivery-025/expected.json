@@ -1,0 +1,80 @@
+{
+  "required_orders": [
+    {
+      "order_id": "40711004T01",
+      "order_type": "delivery",
+      "user_id": "U000039",
+      "store_id": "S79679458844636948_S74671",
+      "note": "",
+      "location": {
+        "address": "Nanyang New Village near No.94 Tongyang Road, Liangxi District, Wuxi, Jiangsu Province",
+        "longitude": 120.310453,
+        "latitude": 31.552312
+      },
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 41.0,
+      "create_time": "2024-08-23 22:09:00",
+      "update_time": "2024-08-23 22:09:00",
+      "status": "processed",
+      "products": [
+        {
+          "product_id": "S29061524043408537_P69151",
+          "price": 29.0,
+          "quantity": 1,
+          "attributes": ""
+        },
+        {
+          "product_id": "S17299343602389098_P63585",
+          "price": 12.0,
+          "quantity": 1,
+          "attributes": ""
+        }
+      ]
+    },
+    {
+      "order_id": "40711004T02",
+      "order_type": "delivery",
+      "user_id": "U000039",
+      "store_id": "S91621604275653436_S48003",
+      "note": "",
+      "location": {
+        "address": "Nanyang New Village near No.94 Tongyang Road, Liangxi District, Wuxi, Jiangsu Province",
+        "longitude": 120.310453,
+        "latitude": 31.552312
+      },
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 24.0,
+      "create_time": "2024-08-23 22:13:00",
+      "update_time": "2024-08-23 22:13:00",
+      "status": "processed",
+      "products": [
+        {
+          "product_id": "S33141201285943289_P89807",
+          "price": 13.0,
+          "quantity": 1,
+          "attributes": ""
+        },
+        {
+          "product_id": "S95392241852672728_P68388",
+          "price": 11.0,
+          "quantity": 1,
+          "attributes": ""
+        }
+      ]
+    }
+  ],
+  "rubrics": [
+    "The delivery address for night snack orders should be Nanyang New Village near No.94 Tongyang Road, Liangxi District, Wuxi, Jiangsu Province",
+    "The estimated delivery time for night snack orders should be before 22:55 on August 23, 2024",
+    "The night snack order for braised goose meat and vegetable hearts should be from popular ranked merchants, such as Chaolin Fresh Midnight Restaurant or other stores with popular ranking labels",
+    "When selecting braised goose meat, the Non-Spicy flavor should be chosen, and when selecting vegetable hearts, the Low Oil cooking method should be chosen",
+    "The delivery address for Suzhou-style Mung Bean Soup orders should be Nanyang New Village near No.94 Tongyang Road, Liangxi District, Wuxi, Jiangsu Province",
+    "The estimated delivery time for Suzhou-style Mung Bean Soup orders should be before 22:55 on August 23, 2024",
+    "The Suzhou-style Mung Bean Soup order should include 1 regular mung bean soup item with No Additional Ingredients",
+    "The Suzhou-style Mung Bean Soup order should include 1 mung bean soup item with only Lily Bulb as an additional ingredient"
+  ]
+}

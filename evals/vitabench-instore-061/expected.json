@@ -1,0 +1,113 @@
+{
+  "required_orders": [
+    {
+      "order_id": "10826100T001",
+      "order_type": "instore",
+      "user_id": "U543684",
+      "store_id": "S17567836582349272_I00001",
+      "note": "",
+      "location": null,
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 672,
+      "create_time": "2023-05-12 13:47:00",
+      "update_time": "2023-05-12 13:47:00",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17567836582349272_P00001",
+          "name": "4-hour unlimited play package",
+          "price": 168,
+          "quantity": 4
+        }
+      ]
+    },
+    {
+      "reservation_id": "10826100T002",
+      "shop_id": "S17567836582349272_I00001",
+      "reservation_time": "2023-05-12 14:00:00",
+      "update_time": "2023-05-12 13:48:00",
+      "customer_id": "U543684",
+      "customer_count": 4,
+      "status": "paid"
+    },
+    {
+      "order_id": "10826100T003",
+      "order_type": "instore",
+      "user_id": "U543684",
+      "store_id": "S17567836582349272_I00002",
+      "note": "",
+      "location": null,
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 178,
+      "create_time": "2023-05-12 13:49:00",
+      "update_time": "2023-05-12 13:49:00",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17567836582349272_P00010",
+          "name": "Durian supreme meal for four",
+          "price": 178,
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "order_id": "10826100T004",
+      "order_type": "instore",
+      "user_id": "U543684",
+      "store_id": "S17567836582349272_I00003",
+      "note": "",
+      "location": null,
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 480,
+      "create_time": "2023-05-12 13:51:00",
+      "update_time": "2023-05-12 13:51:00",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17567836582349272_P00019",
+          "name": "Beverage package for four (Craft beer + Whiskey cocktails)",
+          "price": 480,
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "reservation_id": "10826100T005",
+      "shop_id": "S17567836582349272_I00003",
+      "reservation_time": "2023-05-12 19:30:00",
+      "update_time": "2023-05-12 13:55:00",
+      "customer_id": "U543684",
+      "customer_count": 4,
+      "status": "paid"
+    }
+  ],
+  "rubrics": [
+    "The trend play hall order should include VR games",
+    "The trend play hall order should include a billiards hall",
+    "The product ordered at the trend play hall should be a 4-hour unlimited play package",
+    "The quantity of products ordered at the trend play hall should be 4",
+    "The reservation time for the trend play hall should be May 12, 2023, at 14:00:00",
+    "The number of people for the trend play hall reservation should be 4",
+    "The merchant for the trend play hall reservation should be Interstellar Trend Play Space",
+    "The hamburger restaurant ordered from should be a chain store",
+    "The hamburger restaurant should be within 1km (inclusive) from Interstellar Trend Play Space, 588 Chezhan Avenue, Lucheng District, Wenzhou",
+    "The order from the hamburger restaurant should be a meal for four people, not four individual meals",
+    "The package ordered from the hamburger restaurant should include hamburgers and durian pizza",
+    "The price of products ordered from the hamburger restaurant should be 200 yuan or less",
+    "The Livehouse ordered from should be within 3km (inclusive) from Pizza Hut, 4th Floor, Wenzhou Impression City, 1599 Wanyuan Road, Chashan Street, Ouhai District, Wenzhou",
+    "The Livehouse ordered from should be ranked in the top ten on Wenzhou's popularity list",
+    "The product ordered from the Livehouse should be a beverage package",
+    "The product ordered from the Livehouse should be sufficient for 4 people",
+    "With each person spending 500 yuan, totaling 2000 yuan. According to the orders above, the trend play hall package costs 672 yuan, the hamburger restaurant meal for four costs 178 yuan, therefore the Livehouse beverage package should not exceed 1150 yuan (inclusive)",
+    "The reservation time for the Livehouse should be May 12, 2023, at 19:30:00",
+    "The number of people for the Livehouse reservation should be 4",
+    "The merchant for the Livehouse reservation should be Wenzhou Sound LiveHouse"
+  ]
+}

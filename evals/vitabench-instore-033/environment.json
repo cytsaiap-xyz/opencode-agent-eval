@@ -1,0 +1,244 @@
+{
+  "task_id": "10826041",
+  "domain": "instore",
+  "time": "2024-08-04 10:30:00",
+  "user_id": "U330447",
+  "weather": [
+    {
+      "city": "Jinan",
+      "category": "cloudy",
+      "datetime": "2024-08-04",
+      "temperature": [
+        26,
+        34
+      ],
+      "humidity": 55
+    }
+  ],
+  "location": [
+    {
+      "address": "Room 301, Unit 2, Building 5, Greentown Lily Garden, 14717 Jingshi Road, Lixia District, Jinan",
+      "longitude": 117.086614,
+      "latitude": 36.651216
+    },
+    {
+      "address": "12th Floor, Building 6, Shuntai Plaza, 2000 Shunhua Road, High-tech Zone, Jinan",
+      "longitude": 117.129095,
+      "latitude": 36.651341
+    },
+    {
+      "address": "4th Floor, Hang Lung Plaza, 188 Quancheng Road, Lixia District, Jinan",
+      "longitude": 117.021341,
+      "latitude": 36.661452
+    },
+    {
+      "address": "3rd Floor, Greenland Binfen City, 24567 Jingshi Road, Huaiyin District, Jinan",
+      "longitude": 116.962547,
+      "latitude": 36.652318
+    },
+    {
+      "address": "3rd Floor, Qilu Inzone Mall, 15 Huayuan Road, Licheng District, Jinan",
+      "longitude": 117.075623,
+      "latitude": 36.668745
+    }
+  ],
+  "user_profile": {
+    "user id": "U330447",
+    "occupation": "Technical Staff",
+    "gender": "female",
+    "age group": "25~30",
+    "residence": "Jinan",
+    "home address": "Room 301, Unit 2, Building 5, Greentown Lily Garden, 14717 Jingshi Road, Lixia District, Jinan",
+    "work address": "12th Floor, Building 6, Shuntai Plaza, 2000 Shunhua Road, High-tech Zone, Jinan",
+    "dietary restrictions": "No heavy oil and spicy food, no coffee",
+    "family status": "In a relationship",
+    "personality": "Cold and concise in expression, lacks emotional communication and patience"
+  },
+  "user_historical_behaviors": {
+    "user id": "U330447",
+    "occupation": "Technical Staff",
+    "gender": "female",
+    "age group": "25~30",
+    "residence": "Jinan",
+    "home address": "Room 301, Unit 2, Building 5, Greentown Lily Garden, 14717 Jingshi Road, Lixia District, Jinan",
+    "work address": "12th Floor, Building 6, Shuntai Plaza, 2000 Shunhua Road, High-tech Zone, Jinan",
+    "in-store dining": {
+      "fine-dining": {
+        "frequently purchased categories": [
+          "Regional Cuisine/Lu Cuisine (Average 85 yuan)",
+          "International Cuisine/Japanese Cuisine (Average 120 yuan)",
+          "Regional Cuisine/Cantonese Cuisine (Average 95 yuan)"
+        ],
+        "preferred average price per person": "80~120 yuan",
+        "preferred store rating": "4.0~4.8 stars",
+        "typical dining time": "18:30-20:30",
+        "preferred distance": "500~3000m",
+        "recent orders": [
+          {
+            "store": "Heniu Dao Japanese Cuisine",
+            "product": "Salmon Sashimi Platter"
+          },
+          {
+            "store": "Cantonese Flavor House",
+            "product": "Steamed Sea Bass"
+          },
+          {
+            "store": "Yan's Private Kitchen · Century-old Lu Cuisine (Hang Lung Store)",
+            "product": "Intangible Cultural Heritage Stir-fried Pork Kidney Meal for 2"
+          }
+        ],
+        "search history": [
+          "Non-spicy Japanese Food",
+          "Light Meal Restaurant",
+          "Cantonese Cuisine",
+          "Private Kitchen Cuisine"
+        ]
+      },
+      "light meal": {
+        "frequently purchased categories": [
+          "Snacks/Fast Food/Chinese Quick Meals (Average 35 yuan)",
+          "Regional Cuisine/Local Jiangsu-Zhejiang Cuisine (Average 45 yuan)"
+        ],
+        "preferred average price per person": "25~50 yuan",
+        "preferred store rating": "3.5~4.3 stars",
+        "typical dining time": "12:00-13:00",
+        "preferred distance": "0~800m",
+        "recent orders": [
+          {
+            "store": "Qingmei Light Food",
+            "product": "Quinoa Chicken Breast Salad"
+          },
+          {
+            "store": "Xiaoyang Pan-fried Buns",
+            "product": "Signature Pan-fried Buns"
+          },
+          {
+            "store": "Taoyuan Village",
+            "product": "Taiwanese Braised Pork Rice"
+          }
+        ],
+        "search history": [
+          "Healthy Quick Meals",
+          "Light Food",
+          "Salad",
+          "Pan-fried Buns"
+        ]
+      },
+      "desserts/drinks/snacks": {
+        "frequently purchased categories": [
+          "Beverage Shops (Average 18 yuan)",
+          "Bread and Desserts (Average 25 yuan)"
+        ],
+        "preferred average price per person": "15~30 yuan",
+        "preferred store rating": "4.0~4.6 stars",
+        "typical dining time": "15:00-16:30",
+        "preferred distance": "0~500m",
+        "recent orders": [
+          {
+            "store": "Nayuki",
+            "product": "Cheese Jasmine Tea"
+          },
+          {
+            "store": "BreadTalk",
+            "product": "Whole Wheat European Bread"
+          },
+          {
+            "store": "HeyTea",
+            "product": "Grape Pulp Tea"
+          }
+        ],
+        "search history": [
+          "Low-sugar Beverages",
+          "Whole Wheat Bread",
+          "Non-coffee Drinks"
+        ]
+      }
+    },
+    "other in-store services": {
+      "frequently consumed categories": {
+        "Sports/Fitness/Yoga": "40%",
+        "Beauty/Haircare": "30%",
+        "Leisure Entertainment/Massage/Foot Therapy": "20%",
+        "Leisure Entertainment/DIY Workshops": "10%"
+      },
+      "cost per order by category": {
+        "Sports/Fitness/Yoga": "80~150 yuan",
+        "Beauty/Haircare": "120~300 yuan",
+        "Leisure Entertainment/Massage/Foot Therapy": "100~180 yuan",
+        "Leisure Entertainment/DIY Workshops": "60~120 yuan"
+      },
+      "preferred store rating": "4.0~4.8 stars",
+      "preferred service time": "18:00-20:00",
+      "preferred distance": "0~3000m",
+      "recent orders": [
+        {
+          "store": "Yuejie Yoga",
+          "product": "Single-person Course"
+        },
+        {
+          "store": "Yadai Styling",
+          "product": "Haircut + Treatment Package"
+        },
+        {
+          "store": "Yinzhu Health · Foot Therapy · SPA",
+          "product": "3-time Card [Tea] Traditional Foot Therapy + Full Body Meridian Massage | 90 minutes + Package"
+        }
+      ],
+      "search history": [
+        "Beginner Yoga Classes",
+        "Stress-free Massage",
+        "Scalp Treatment",
+        "Pottery DIY"
+      ]
+    }
+  },
+  "stores": {},
+  "orders": {
+    "10826041T001": {
+      "order_id": "10826041T001",
+      "order_type": "instore",
+      "user_id": "U330447",
+      "store_id": "S17564425397654378_I00001",
+      "note": "",
+      "location": null,
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 188,
+      "order_time": "2024-08-03 10:07:00",
+      "update_time": "2024-08-03 10:07:00",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17564425397654378_P00002",
+          "name": "Couple Shoulder and Neck Massage Package | 60 minutes for Two",
+          "price": 188,
+          "quantity": 1
+        }
+      ]
+    },
+    "10826041T002": {
+      "order_id": "10826041T002",
+      "order_type": "instore",
+      "user_id": "U330447",
+      "store_id": "S17564425397654378_I00003",
+      "note": "",
+      "location": null,
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 188,
+      "order_time": "2024-08-03 10:17:20",
+      "update_time": "2024-08-03 10:17:20",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17564425397654378_P00011",
+          "name": "Classic Lu Cuisine Couple Package",
+          "price": 188,
+          "quantity": 1
+        }
+      ]
+    }
+  }
+}

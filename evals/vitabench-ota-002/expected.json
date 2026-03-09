@@ -1,0 +1,99 @@
+{
+  "required_orders": [
+    {
+      "order_id": "70808001T001",
+      "order_type": "train",
+      "user_id": "U010054",
+      "store_id": "S17557505487409598_T00010",
+      "note": "",
+      "location": null,
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 398,
+      "create_time": "2027-06-25 12:32:16",
+      "update_time": "2027-06-28 12:26:11",
+      "status": "cancelled",
+      "products": [
+        {
+          "product_id": "S17557505487409598_P00080",
+          "price": 398,
+          "quantity": 1,
+          "date": "2027-07-10",
+          "seat_type": "Soft Sleeper"
+        }
+      ]
+    },
+    {
+      "order_id": "70808001T002",
+      "order_type": "train",
+      "user_id": "U010054",
+      "store_id": "S17557505487409598_T00011",
+      "note": "",
+      "location": null,
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 468,
+      "create_time": "2027-06-28 12:29:11",
+      "update_time": "2027-06-28 12:29:11",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17557505487409598_P00093",
+          "price": 468,
+          "quantity": 1,
+          "date": "2027-07-12",
+          "seat_type": "Soft Sleeper"
+        }
+      ]
+    },
+    {
+      "order_id": "70808001T003",
+      "order_type": "hotel",
+      "user_id": "U010054",
+      "store_id": "S17557505487409598_H00002",
+      "note": "",
+      "location": null,
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 1140,
+      "create_time": "2027-06-28 12:31:11",
+      "update_time": "2027-06-28 12:31:11",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17557505487409598_P00008",
+          "price": 380,
+          "quantity": 1,
+          "date": "2027-07-12",
+          "room_type": "Scenic View King Room"
+        },
+        {
+          "product_id": "S17557505487409598_P00016",
+          "price": 380,
+          "quantity": 1,
+          "date": "2027-07-13",
+          "room_type": "Scenic View King Room"
+        },
+        {
+          "product_id": "S17557505487409598_P00015",
+          "price": 380,
+          "quantity": 1,
+          "date": "2027-07-14",
+          "room_type": "Scenic View King Room"
+        }
+      ]
+    }
+  ],
+  "rubrics": [
+    "The train ticket order status for July 10, 2027 should be cancelled",
+    "The train number for July 10, 2027 is K9619, with departure time at 18:30. The tickets for this train on July 12, 2027 are sold out, so the tickets for July 12, 2027 should be for train K9622 which departs one hour later (departure time at 19:30)",
+    "The train ticket order status for July 12, 2027 should be paid",
+    "The reserved homestay should have Bai Ethnic Style",
+    "The reserved homestay should have views of Erhai Lake and Cangshan Mountain",
+    "The reserved homestay should include breakfast",
+    "The homestay reservation should include three nights, specifically for July 12, 2027, July 13, 2027, and July 14, 2027"
+  ]
+}

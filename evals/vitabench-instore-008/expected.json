@@ -1,0 +1,71 @@
+{
+  "required_orders": [
+    {
+      "order_id": "10826019T001",
+      "order_type": "instore",
+      "user_id": "U061728",
+      "store_id": "S17564420278251374_I00002",
+      "note": "",
+      "location": null,
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 68,
+      "create_time": "2025-06-16 14:24:00",
+      "update_time": "2025-06-16 14:24:00",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17564420278251374_P00001",
+          "name": "Meow's Afternoon Tea Set",
+          "price": 68,
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "order_id": "10826019T002",
+      "order_type": "instore",
+      "user_id": "U061728",
+      "store_id": "S17564420278251374_I00002",
+      "note": "",
+      "location": null,
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 88,
+      "create_time": "2025-06-16 14:24:00",
+      "update_time": "2025-06-16 14:24:00",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17564420278251374_P00005",
+          "name": "Premium Cat Grooming Package",
+          "price": 88,
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "reservation_id": "10826019T003",
+      "shop_id": "S17564420278251374_I00002",
+      "reservation_time": "2025-06-17 16:00:00",
+      "update_time": "2025-06-16 14:26:00",
+      "customer_id": "U061728",
+      "customer_count": 1,
+      "status": "paid"
+    }
+  ],
+  "rubrics": [
+    "The coffee shop merchant must be Pet-Friendly",
+    "The coffee shop order set must include mini cake and beverage",
+    "The coffee shop order set must not include Tiramisu",
+    "The beverage in the coffee shop order set cannot be fruit coffee",
+    "The pet shop must be within 1km of the coffee shop (Meow Café, Room 102, Building B, Triumph Plaza, at the Intersection of Wangcheng Avenue and Triumph East Road, Xigong District, Luoyang)",
+    "The pet shop order package must be a bathing service",
+    "The pet shop order package must include Paw Hair Trimming and Loose Hair Removal services",
+    "The pet shop bathing service must be booked around 16:00 on 2025-06-17",
+    "The booked pet shop merchant should be Cute Pet Paradise",
+    "Must look for restaurants within 1km of the pet shop, and the restaurant set menu must provide spicy food, cannot contain garlic, must include Sour Plum Juice. The result was none, so no restaurant order is needed"
+  ]
+}

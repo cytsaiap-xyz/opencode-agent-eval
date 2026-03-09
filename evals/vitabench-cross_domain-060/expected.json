@@ -1,0 +1,107 @@
+{
+  "required_orders": [
+    {
+      "order_id": "OOe1d6b03764",
+      "order_type": "train",
+      "user_id": "U001026",
+      "store_id": "S17550802105236499_T00005",
+      "note": "",
+      "location": null,
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 285,
+      "create_time": "2025-04-07 17:48:35",
+      "update_time": "2025-04-07 17:48:35",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17550802105236499_P00027",
+          "price": 285,
+          "quantity": 1,
+          "date": "2025-04-07",
+          "seat_type": "Second class seat"
+        }
+      ]
+    },
+    {
+      "order_id": "OIb192a86a68",
+      "order_type": "instore",
+      "user_id": "U001026",
+      "store_id": "S17550802105236499_I00009",
+      "note": "",
+      "location": null,
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 198,
+      "create_time": "2025-04-07 17:45:00",
+      "update_time": "2025-04-07 17:45:00",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17550802105236499_P00053",
+          "price": 198,
+          "quantity": 1,
+          "name": "Sleep-aid full body massage package (90 minutes)",
+          "shop_id": "S17550802105236499_I00009",
+          "tags": [
+            "Full body massage",
+            "90 minutes",
+            "Stress relief",
+            "Soothing"
+          ]
+        }
+      ]
+    },
+    {
+      "order_id": "10805002T001",
+      "order_type": "delivery",
+      "user_id": "U001026",
+      "store_id": "S17550802105236499_S00002",
+      "note": "",
+      "location": {
+        "address": "Xiamen Hemei World Business Center, No. 618 Chengyi Middle Road, Jimei District, Xiamen, Fujian Province",
+        "longitude": 118.1022,
+        "latitude": 24.6089
+      },
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 16.9,
+      "create_time": "2025-04-07 17:51:28",
+      "update_time": "2025-04-07 17:51:28",
+      "status": "unpaid",
+      "products": [
+        {
+          "product_id": "S17550802105236499_P00011",
+          "price": 16.9,
+          "quantity": 1,
+          "name": "Inflatable U-shaped pillow",
+          "attributes": "Gray-blue,Foldable",
+          "tags": [
+            "Lightweight",
+            "Travel pillow",
+            "Inflatable",
+            "Portable"
+          ]
+        }
+      ]
+    }
+  ],
+  "rubrics": [
+    "The purchased train ticket is from Xiamen North Station to Huiyang Station",
+    "Considering arrival at the station at 7:00 and allowing 10 minutes for queuing, the departure time of the purchased train ticket should be later than 19:10:00",
+    "The purchased train ticket should be a Second class seat or Hard seat",
+    "The departure date of the purchased train ticket is April 7, 2025",
+    "The reimbursement limit is 500, and the cost of the massage package should be less than or equal to 500 minus the cost of the train ticket",
+    "According to the query, the location of Huiyang Railway Station is obtained, and the massage package provider should be within 3km of Huiyang Railway Station",
+    "The massage package should be for full body",
+    "The massage package time should be more than 1.5 hours",
+    "The massage service provider should offer Overnight service",
+    "The reimbursement limit is 500, and the cost of the U-shaped pillow should be less than or equal to 500 minus the cost of the train ticket and minus the cost of the massage package",
+    "The U-shaped pillow should be the most expensive one within the available budget",
+    "The delivery address for the U-shaped pillow should be Xiamen Hemei World Business Center, No. 618 Chengyi Middle Road, Jimei District, Xiamen, Fujian Province",
+    "The estimated delivery time for the U-shaped pillow should be before 18:30:00 on 2025-04-07"
+  ]
+}

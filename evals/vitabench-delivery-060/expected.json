@@ -1,0 +1,83 @@
+{
+  "required_orders": [
+    {
+      "order_id": "D0717002T01",
+      "order_type": "delivery",
+      "user_id": "U000015",
+      "store_id": "S30277630239337670_S96390",
+      "note": "",
+      "location": {
+        "address": "Xinyi Garden, Jinshan Road, Mudu Town, Wuzhong District, Suzhou, Jiangsu Province",
+        "longitude": 120.521901,
+        "latitude": 31.26574
+      },
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 36.0,
+      "create_time": "2026-08-09 18:12:00",
+      "update_time": "2026-08-09 18:12:00",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S30868868128876203_P46149",
+          "price": 18.0,
+          "quantity": 2,
+          "attributes": "Less Ice"
+        }
+      ]
+    },
+    {
+      "order_id": "D0717002T02",
+      "order_type": "delivery",
+      "user_id": "U000015",
+      "store_id": "S20143775779327750_S53996",
+      "note": "",
+      "location": {
+        "address": "Xinyi Garden, Jinshan Road, Mudu Town, Wuzhong District, Suzhou, Jiangsu Province",
+        "longitude": 120.521901,
+        "latitude": 31.26574
+      },
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 148,
+      "create_time": "2026-08-09 18:12:00",
+      "update_time": "2026-08-09 18:12:00",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S26294683682178716_P63793",
+          "price": 33.25,
+          "quantity": 1,
+          "attributes": ""
+        },
+        {
+          "product_id": "S97709085515793158_P00049",
+          "price": 68.0,
+          "quantity": 1,
+          "attributes": ""
+        },
+        {
+          "product_id": "S23516532710347533_P09619",
+          "price": 46.75,
+          "quantity": 1,
+          "attributes": ""
+        }
+      ]
+    }
+  ],
+  "rubrics": [
+    "The delivery address for the CHABAIDAO drink order should be Xinyi Garden, Jinshan Road, Mudu Town, Wuzhong District, Suzhou, Jiangsu Province",
+    "The estimated delivery time for the CHABAIDAO drink order should be around 20:00 on 2026-08-09",
+    "The CHABAIDAO drink order should select CHABAIDAO (Suzhou Fenghua Plaza Branch) as the merchant",
+    "The CHABAIDAO drink ordered should be Pomelo Sago",
+    "The temperature attribute for the CHABAIDAO drink order should be set to less ice",
+    "The delivery address for the Sichuan cuisine dinner order should be Xinyi Garden, Jinshan Road, Mudu Town, Wuzhong District, Suzhou, Jiangsu Province",
+    "The estimated delivery time for the Sichuan cuisine dinner order should be around 20:00 on 2026-08-09",
+    "The Sichuan cuisine dinner order should not include seafood items and rice",
+    "The portion size of the Sichuan cuisine dinner order should be suitable for three adults",
+    "The total price of the Sichuan cuisine dinner order should be around 150 yuan",
+    "The Sichuan cuisine dinner order should include 3 Sichuan dishes"
+  ]
+}

@@ -1,0 +1,99 @@
+{
+  "required_orders": [
+    {
+      "order_id": "D0807014T001",
+      "order_type": "hotel",
+      "user_id": "U010070",
+      "store_id": "S17557514964243714_H00001",
+      "note": "",
+      "location": null,
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 31400,
+      "create_time": "2024-09-12 15:25:30",
+      "update_time": "2024-09-12 15:25:30",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17557514964243714_P00001",
+          "price": 1150,
+          "quantity": 4,
+          "date": "2024-09-13",
+          "room_type": "Executive Luxury King Room"
+        },
+        {
+          "product_id": "S17557514964243714_P00002",
+          "price": 1280,
+          "quantity": 4,
+          "date": "2024-09-14",
+          "room_type": "Executive Luxury King Room"
+        },
+        {
+          "product_id": "S17557514964243714_P00004",
+          "price": 1280,
+          "quantity": 4,
+          "date": "2024-09-15",
+          "room_type": "Executive Luxury King Room"
+        },
+        {
+          "product_id": "S17557514964243714_P00005",
+          "price": 1480,
+          "quantity": 4,
+          "date": "2024-09-16",
+          "room_type": "Executive Luxury King Room"
+        },
+        {
+          "product_id": "S17557514964243714_P00009",
+          "price": 1380,
+          "quantity": 4,
+          "date": "2024-09-17",
+          "room_type": "Executive Luxury King Room"
+        },
+        {
+          "product_id": "S17557514964243714_P00010",
+          "price": 1280,
+          "quantity": 4,
+          "date": "2024-09-18",
+          "room_type": "Executive Luxury King Room"
+        }
+      ]
+    },
+    {
+      "order_id": "D0807014T002",
+      "order_type": "attraction",
+      "user_id": "U010070",
+      "store_id": "S17557514964243714_A00005",
+      "note": "",
+      "location": null,
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 65,
+      "create_time": "2024-09-12 15:30:45",
+      "update_time": "2024-09-12 15:30:45",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17557514964243714_P00036",
+          "price": 65,
+          "quantity": 1,
+          "date": "2024-09-17",
+          "ticket_type": "Adult Ticket (One-way)"
+        }
+      ]
+    }
+  ],
+  "rubrics": [
+    "The booked hotel should be within 500 meters of Central Plaza, 18 Harbour Road, Wan Chai, Hong Kong",
+    "The hotel should have an Executive Floor",
+    "The hotel reservation should include six nights of rooms, specifically for 2024-09-13, 2024-09-14, 2024-09-15, 2024-09-16, 2024-09-17, 2024-09-18",
+    "The room type in the hotel reservation should be a king room",
+    "The hotel reservation should include 4 rooms for each night",
+    "The room rate per night should be between 1000-1600 yuan, and the total order amount should be between 24000-38400 yuan",
+    "Need to check the date of Mid-Autumn Festival in 2024, which is 2024-09-17; need to check the weather in Hong Kong on 2024-09-17, which is sunny, and the tickets in the attraction order should be for the Victoria Peak Tram",
+    "The tickets in the attraction order should be one-way tickets",
+    "The tickets in the attraction order should be Adult Ticket",
+    "The date in the attraction order should be 2024-09-17"
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "task_id": "79",
+  "query": "I plan to travel from Shenzhen to Hangzhou for a few days, departing on November 12, 2025, and returning on November 16, 2025. The total budget for this trip should be within 16000 yuan. For transportation, I'd like to take the train both ways and book first-class seats—they're more comfortable. For accommodation, please find me the highest-rated hotel under the Home Inn brand; I just want a clean and comfortable place to stay. Oh, and we’re a group of four people, so we’ll need two rooms.\n\nRegarding meals, there are a couple of places I must include. One is a restaurant near 'Longjing Village'—I’ve heard the surroundings are lovely, but preferably choose one with a waiting area service for convenience. Also, I really want to have a meal at 'Normal University Family Joyful Restaurant (Jiru Garden Branch)'—a friend recommended it before, saying the food is very authentic, and this trip will be the perfect chance to try it.\n\nThese are basically all my requirements. I’ve provided all the information needed, so please go ahead and plan the detailed itinerary for me—no need to ask for further details! November 12, 2025 is Wednesday",
+  "meta_info": {
+    "org": "Shenzhen",
+    "dest": [
+      "Hangzhou"
+    ],
+    "days": 5,
+    "depart_date": "2025-11-12",
+    "return_date": "2025-11-16",
+    "people_number": 4,
+    "room_number": 2
+  },
+  "hard_constraints": {
+    "train_seat_class": {
+      "constraint_context": "Travel by train, and hope to choose first-class seats for both outbound and return journeys",
+      "outbound_train_no": "G100",
+      "inbound_train_no": "D3125"
+    },
+    "hotel_brand_highest_rated": {
+      "constraint_context": "For accommodation, please select the highest-rated hotel among \"Home Inn\" brand hotels.",
+      "constraint_type": "superlative_brand_highest_rated",
+      "hotel_name": "Home Inn NEO - Hangzhou Wulin Square Chaohui Road Canal Branch",
+      "hotel_price": 150.0,
+      "hotel_score": 4.2
+    },
+    "restaurant_specific_tag_nearby": {
+      "constraint_context": "Arrange a meal at a restaurant near 'Longjing Village' during the trip, with a waiting area service required",
+      "constraint_type": "superlative_specific_tag_nearby",
+      "attraction_name": "Longjing Village",
+      "restaurant_name": "Longjing Courtyard Restaurant",
+      "required_tag": "Waiting Area",
+      "price_per_person": 100.0,
+      "restaurant_rating": 4.1
+    },
+    "restaurant_must_eat_named": {
+      "constraint_context": "The itinerary must include one meal at 'Normal University Family Joyful Restaurant (Jiru Garden Branch)'.",
+      "constraint_type": "superlative_must_eat_named",
+      "restaurant_name": "Normal University Family Joyful Restaurant (Jiru Garden Branch)",
+      "restaurant_rating": 4.1
+    }
+  }
+}

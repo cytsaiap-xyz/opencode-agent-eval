@@ -1,0 +1,420 @@
+{
+  "task_id": "A0812001",
+  "domain": "cross_domain",
+  "time": "2026-01-04 14:30:00",
+  "user_id": "U791958",
+  "weather": [
+    {
+      "city": "Puyang",
+      "category": "cloudy",
+      "datetime": "2026-01-04",
+      "temperature": [
+        -2,
+        5
+      ],
+      "humidity": 65
+    },
+    {
+      "city": "Luoyang",
+      "category": "sunny",
+      "datetime": "2026-01-04",
+      "temperature": [
+        -1,
+        6
+      ],
+      "humidity": 60
+    }
+  ],
+  "location": [],
+  "user_profile": {
+    "user id": "U791958",
+    "occupation": "Advertising Planner",
+    "gender": "female",
+    "age group": "25~30",
+    "residence": "Luoyang",
+    "home address": "Room 1503, Building A, Triumph Plaza, 259 Zhongzhou Middle Road, Xigong District, Luoyang, Henan Province",
+    "work address": "Luoyang Creative Advertising Media Co., Ltd., 12th Floor, Zhonghong Building, 20 Nanchang Road, Jianxi District, Luoyang, Henan Province",
+    "dietary restrictions": "No caffeine",
+    "family status": "Has pet",
+    "personality": "Strong logical thinking, likes to analyze and question, pursues accuracy"
+  },
+  "user_historical_behaviors": {
+    "user id": "U791958",
+    "occupation": "Advertising Planner",
+    "gender": "female",
+    "age group": "25~30",
+    "residence": "Luoyang",
+    "home address": "Room 1503, Building A, Triumph Plaza, 259 Zhongzhou Middle Road, Xigong District, Luoyang, Henan Province",
+    "work address": "Luoyang Creative Advertising Media Co., Ltd., 12th Floor, Zhonghong Building, 20 Nanchang Road, Jianxi District, Luoyang, Henan Province",
+    "in-store dining": {
+      "fine-dining": {
+        "frequently purchased categories": [
+          "Regional Cuisine/Sichuan Cuisine (Average 95 yuan)",
+          "International Cuisine/Western Food (Average 135 yuan)",
+          "Regional Cuisine/Cantonese Cuisine (Average 110 yuan)"
+        ],
+        "preferred average price per person": "90~150 yuan",
+        "preferred store rating": "4.2~4.8 stars",
+        "typical dining time": "18:30-20:30",
+        "preferred distance": "800~3000m",
+        "recent orders": [
+          {
+            "store": "Chanson Western Restaurant",
+            "product": "Steak Set (Main Course + Salad + Dessert)"
+          },
+          {
+            "store": "Shu Xiang Pavilion",
+            "product": "Boiled Fish + Dry-Fried Green Beans + Rice"
+          },
+          {
+            "store": "Yue Hai Xuan",
+            "product": "Steamed Bass + Blanched Shrimp + Vegetables"
+          }
+        ],
+        "search history": [
+          "Sichuan Cuisine",
+          "Healthy Western Food",
+          "Light Cantonese Cuisine",
+          "Business Gatherings"
+        ]
+      },
+      "light meal": {
+        "frequently purchased categories": [
+          "Snacks & Fast Food/Chinese Quick Meals (Average 35 yuan)",
+          "International Cuisine/Southeast Asian Food (Average 45 yuan)",
+          "Snacks & Fast Food/Western Fast Food (Average 30 yuan)"
+        ],
+        "preferred average price per person": "25~50 yuan",
+        "preferred store rating": "3.5~4.3 stars",
+        "typical dining time": "11:30-13:00",
+        "preferred distance": "0~600m",
+        "recent orders": [
+          {
+            "store": "Light Salad Bar",
+            "product": "Chicken Breast Quinoa Salad"
+          },
+          {
+            "store": "Vietnamese Flavors",
+            "product": "Refreshing Rice Noodle Set"
+          },
+          {
+            "store": "Fresh Vegetable Workshop",
+            "product": "Low-Fat Chicken Rice"
+          }
+        ],
+        "search history": [
+          "Healthy Light Food",
+          "Low-Oil Fast Food",
+          "Quick Meal",
+          "Work Lunch"
+        ]
+      },
+      "desserts/drinks/snacks": {
+        "frequently purchased categories": [
+          "Beverage Shops (Average 18 yuan)",
+          "Bakery & Desserts (Average 25 yuan)",
+          "Other Dining/Fresh Fruits (Average 15 yuan)"
+        ],
+        "preferred average price per person": "15~30 yuan",
+        "preferred store rating": "4.0~4.7 stars",
+        "typical dining time": "15:00-16:30",
+        "preferred distance": "0~500m",
+        "recent orders": [
+          {
+            "store": "Naturally Fresh Fruit Tea",
+            "product": "Freshly Squeezed Fruit Tea (Sugar-Free)"
+          },
+          {
+            "store": "Duoyin Desserts",
+            "product": "Low Sugar Yogurt Mousse"
+          },
+          {
+            "store": "Fresh Cut Fruit Shop",
+            "product": "Fruit Platter"
+          }
+        ],
+        "search history": [
+          "Caffeine-Free Drinks",
+          "Low Sugar Desserts",
+          "Healthy Fruit Tea",
+          "Fresh Cut Fruits"
+        ]
+      }
+    },
+    "other in-store services": {
+      "frequently consumed categories": {
+        "Beauty/Yoga": "35%",
+        "Sports & Fitness/Fitness Centers": "25%",
+        "Leisure Entertainment/Massage/Foot Therapy": "20%",
+        "Pets/Pet Hospitals": "15%",
+        "Beauty/Hair Salon": "5%"
+      },
+      "cost per order by category": {
+        "Beauty/Yoga": "80~150 yuan",
+        "Sports & Fitness/Fitness Centers": "60~120 yuan",
+        "Leisure Entertainment/Massage/Foot Therapy": "100~180 yuan",
+        "Pets/Pet Hospitals": "150~300 yuan",
+        "Beauty/Hair Salon": "120~200 yuan"
+      },
+      "preferred store rating": "4.0~4.8 stars",
+      "preferred service time": "18:00-21:00",
+      "preferred distance": "0~2500m",
+      "recent orders": [
+        {
+          "store": "Tranquil Yoga Studio",
+          "product": "Monthly Yoga Course"
+        },
+        {
+          "store": "Kangning Pet Hospital",
+          "product": "Cat Examination Package"
+        },
+        {
+          "store": "Relaxing Foot Therapy",
+          "product": "Essential Oil Massage Package"
+        }
+      ],
+      "search history": [
+        "Gentle Yoga",
+        "Pet Grooming",
+        "Stress-Relief Massage",
+        "Healthy Weight Loss",
+        "Women's Fitness"
+      ]
+    }
+  },
+  "stores": {},
+  "orders": {
+    "S17550148871188176_O00001": {
+      "order_id": "S17550148871188176_O00001",
+      "order_type": "train",
+      "user_id": "U791958",
+      "store_id": "S17550148871188176_T00003",
+      "note": "",
+      "location": {
+        "address": "Puyang Railway Station, Tiexi Road, Hualong District, Puyang, Henan Province",
+        "longitude": 115.0356,
+        "latitude": 35.7645
+      },
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 82,
+      "create_time": "2026-01-02 15:45:23",
+      "update_time": "2026-01-02 15:45:23",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17550148871188176_P00038",
+          "price": 82,
+          "quantity": 1,
+          "date": "2026-01-05",
+          "seat_type": "Hard Seat"
+        }
+      ]
+    },
+    "S17550148871188176_O00002": {
+      "order_id": "S17550148871188176_O00002",
+      "order_type": "hotel",
+      "user_id": "U791958",
+      "store_id": "S17550148871188176_H00001",
+      "note": "Going back to Puyang hometown for family visit",
+      "location": {
+        "address": "Puyang Atour Light Hotel, Intersection of Changqing Middle Road and Kaizhou Road, Hualong District, Puyang, Henan Province",
+        "longitude": 115.0287,
+        "latitude": 35.7535
+      },
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 198,
+      "create_time": "2025-12-28 10:15:36",
+      "update_time": "2025-12-28 10:15:36",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17550148871188176_P00001",
+          "price": 198,
+          "quantity": 1,
+          "date": "2026-01-03",
+          "room_type": "Standard Room"
+        }
+      ]
+    },
+    "S17550148871188176_O00003": {
+      "order_id": "S17550148871188176_O00003",
+      "order_type": "train",
+      "user_id": "U791958",
+      "store_id": "S17550148871188176_T00005",
+      "note": "Luoyang to Puyang, going back hometown for weekend",
+      "location": {
+        "address": "Luoyang Railway Station, Station Road, Old Town District, Luoyang, Henan Province",
+        "longitude": 112.4539,
+        "latitude": 34.6812
+      },
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 89.5,
+      "create_time": "2025-12-30 13:20:45",
+      "update_time": "2025-12-30 13:20:45",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17550148871188176_P00054",
+          "price": 89.5,
+          "quantity": 1,
+          "date": "2026-01-03",
+          "seat_type": "Second Class Seat"
+        }
+      ]
+    },
+    "S17550148871188176_O00004": {
+      "order_id": "S17550148871188176_O00004",
+      "order_type": "hotel",
+      "user_id": "U791958",
+      "store_id": "S17550148871188176_H00001",
+      "note": "Weekend trip to Puyang to visit family",
+      "location": {
+        "address": "Puyang Atour Light Hotel, Intersection of Changqing Middle Road and Kaizhou Road, Hualong District, Puyang, Henan Province",
+        "longitude": 115.0287,
+        "latitude": 35.7535
+      },
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 185,
+      "create_time": "2025-11-15 09:30:24",
+      "update_time": "2025-11-15 09:30:24",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17550148871188176_P00003",
+          "price": 185,
+          "quantity": 1,
+          "date": "2025-11-18",
+          "room_type": "Standard Room"
+        }
+      ]
+    },
+    "S17550148871188176_O00005": {
+      "order_id": "S17550148871188176_O00005",
+      "order_type": "train",
+      "user_id": "U791958",
+      "store_id": "S17550148871188176_T00003",
+      "note": "Luoyang to Puyang, weekend family visit",
+      "location": {
+        "address": "Luoyang Railway Station, Station Road, Old Town District, Luoyang, Henan Province",
+        "longitude": 112.4539,
+        "latitude": 34.6812
+      },
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 82,
+      "create_time": "2025-11-16 14:10:36",
+      "update_time": "2025-11-16 14:10:36",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17550148871188176_P00038",
+          "price": 82,
+          "quantity": 1,
+          "date": "2025-11-18",
+          "seat_type": "Hard Seat"
+        }
+      ]
+    },
+    "S17550148871188176_O00006": {
+      "order_id": "S17550148871188176_O00006",
+      "order_type": "train",
+      "user_id": "U791958",
+      "store_id": "S17550148871188176_T00004",
+      "note": "Return from Puyang to Luoyang",
+      "location": {
+        "address": "Puyang Railway Station, Tiexi Road, Hualong District, Puyang, Henan Province",
+        "longitude": 115.0356,
+        "latitude": 35.7645
+      },
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 58.5,
+      "create_time": "2025-11-20 09:25:18",
+      "update_time": "2025-11-20 09:25:18",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17550148871188176_P00047",
+          "price": 58.5,
+          "quantity": 1,
+          "date": "2025-11-20",
+          "seat_type": "Hard Seat"
+        }
+      ]
+    },
+    "S17550148871188176_O00007": {
+      "order_id": "S17550148871188176_O00007",
+      "order_type": "instore",
+      "user_id": "U791958",
+      "store_id": "S17550148871188176_I00008",
+      "total_price": 198,
+      "create_time": "2026-01-04 15:10:28",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17550148871188176_P00083",
+          "price": 198,
+          "quantity": 1
+        }
+      ]
+    },
+    "S17550148871188176_O00008": {
+      "order_id": "S17550148871188176_O00008",
+      "order_type": "instore",
+      "user_id": "U791958",
+      "store_id": "S17550148871188176_I00011",
+      "total_price": 36,
+      "create_time": "2026-01-04 16:45:12",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17550148871188176_P00117",
+          "price": 18,
+          "quantity": 2
+        }
+      ]
+    },
+    "S17550148871188176_O00009": {
+      "order_id": "S17550148871188176_O00009",
+      "order_type": "instore",
+      "user_id": "U791958",
+      "store_id": "S17550148871188176_I00012",
+      "total_price": 28,
+      "create_time": "2025-12-29 15:35:42",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17550148871188176_P00127",
+          "price": 28,
+          "quantity": 1
+        }
+      ]
+    },
+    "S17550148871188176_O00010": {
+      "order_id": "S17550148871188176_O00010",
+      "order_type": "instore",
+      "user_id": "U791958",
+      "store_id": "S17550148871188176_I00011",
+      "total_price": 18,
+      "create_time": "2025-11-19 16:20:15",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17550148871188176_P00117",
+          "price": 18,
+          "quantity": 1
+        }
+      ]
+    }
+  }
+}

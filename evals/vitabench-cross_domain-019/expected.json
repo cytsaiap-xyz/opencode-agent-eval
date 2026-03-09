@@ -1,0 +1,75 @@
+{
+  "required_orders": [
+    {
+      "order_id": "10807003T001",
+      "order_type": "delivery",
+      "user_id": "U010035",
+      "store_id": "S17550148884164152_I00012",
+      "note": "",
+      "location": {
+        "address": "15th Floor, Building B, Jinhua Commercial Center, 399 Bayi South Street, Wucheng District, Jinhua, Zhejiang Province",
+        "longitude": 119.6527,
+        "latitude": 29.0812
+      },
+      "dispatch_time": "2025-03-03 14:10:00",
+      "shipping_time": 28,
+      "delivery_time": "2025-03-03 14:38:00",
+      "total_price": 2299,
+      "create_time": "2025-03-03 14:03:02",
+      "update_time": "2025-03-03 14:03:02",
+      "status": "delivered",
+      "products": [
+        {
+          "product_id": "S17550148884164152_P00084",
+          "price": 2299,
+          "quantity": 1,
+          "name": "Bose QuietComfort 45 Wireless Noise Cancelling Headphones",
+          "attributes": ""
+        }
+      ]
+    },
+    {
+      "reservation_id": "10807003T002",
+      "shop_id": "S17550148884164152_I00017",
+      "reservation_time": "2025-03-03 19:00:00",
+      "update_time": "2025-03-03 14:04:13",
+      "customer_id": "U010035",
+      "customer_count": 2,
+      "status": "paid"
+    },
+    {
+      "order_id": "10807003T003",
+      "order_type": "flight",
+      "user_id": "U010035",
+      "store_id": "S17550148884164152_F00006",
+      "note": "",
+      "location": null,
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 980,
+      "create_time": "2025-03-03 14:05:00",
+      "update_time": "2025-03-03 14:05:00",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17550148884164152_P00040",
+          "price": 980,
+          "quantity": 1,
+          "date": "2025-03-04",
+          "seat_type": "Economy Class"
+        }
+      ]
+    }
+  ],
+  "rubrics": [
+    "The Bluetooth earphones ordered should be priced above 2,000 yuan",
+    "The expected delivery time for the Bluetooth earphones is March 3, 2025, 14:00-15:00",
+    "The delivery address for the Bluetooth earphones is 15th Floor, Building B, Jinhua Commercial Center, 399 Bayi South Street, Wucheng District, Jinhua, Zhejiang Province",
+    "The rating of the reserved Business SPA club should be 4.0 or above",
+    "The Business SPA club reservation is for 2 people",
+    "The Business SPA club reservation time is March 3, 2025, 19:00",
+    "The agent needs to check the distance between Jindu Garden, 1229 Danxi Road, Wucheng District, Jinhua, Zhejiang Province and Yiwu International Airport, 201 Minhang Road, Yiwu, Zhejiang Province. The query result shows that the distance between the two locations does not exceed 50km",
+    "Order flight information for flights departing from Yiwu to Zhengzhou before 10:00 on March 4, 2025"
+  ]
+}

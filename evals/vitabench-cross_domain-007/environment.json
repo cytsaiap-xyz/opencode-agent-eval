@@ -1,0 +1,1251 @@
+{
+  "task_id": "10811005",
+  "domain": "cross_domain",
+  "time": "2025-03-27 18:15:00",
+  "user_id": "U528681",
+  "weather": [
+    {
+      "city": "Quanzhou",
+      "category": "cloudy",
+      "datetime": "2025-03-27",
+      "temperature": [
+        18,
+        25
+      ],
+      "humidity": 68
+    },
+    {
+      "city": "Wuyi Mountain",
+      "category": "light rain",
+      "datetime": "2025-03-28",
+      "temperature": [
+        15,
+        22
+      ],
+      "humidity": 85
+    }
+  ],
+  "location": [
+    {
+      "address": "Room 1205, Building 3, Lead SHOW Plaza, Quanxiu Road, Donghai Street, Fengze District, Quanzhou, Fujian Province",
+      "longitude": 118.6132,
+      "latitude": 24.8741
+    },
+    {
+      "address": "12th Floor, Building E, Zhongjun World City, 496 Yunlu Road, Fengze District, Quanzhou, Fujian Province",
+      "longitude": 118.6015,
+      "latitude": 24.8823
+    }
+  ],
+  "user_profile": {
+    "user id": "U528681",
+    "occupation": "Product Manager",
+    "gender": "male",
+    "age group": "30~35",
+    "residence": "Quanzhou",
+    "home address": "Room 1205, Building 3, Lead SHOW Plaza, Quanxiu Road, Donghai Street, Fengze District, Quanzhou, Fujian Province",
+    "work address": "12th Floor, Building E, Zhongjun World City, 496 Yunlu Road, Fengze District, Quanzhou, Fujian Province",
+    "dietary restrictions": "No high purine foods (such as organ meats/seafood soup), No caffeine",
+    "family status": "Has pets",
+    "personality": "Has scattered and jumping thought patterns, easily distracted and changes mind frequently"
+  },
+  "user_historical_behaviors": {
+    "user id": "U528681",
+    "occupation": "Product Manager",
+    "gender": "male",
+    "age group": "30~35",
+    "residence": "Quanzhou",
+    "home address": "Room 1205, Building 3, Lead SHOW Plaza, Quanxiu Road, Donghai Street, Fengze District, Quanzhou, Fujian Province",
+    "work address": "12th Floor, Building E, Zhongjun World City, 496 Yunlu Road, Fengze District, Quanzhou, Fujian Province",
+    "delivery": {
+      "food delivery": {
+        "breakfast": {
+          "frequently purchased categories": [
+            "Fast Food/Steamed Buns/Pan-fried Buns (Average 18 yuan)",
+            "Fast Food/Jianbing/Wraps/Hand-grabbed Pancakes (Average 12 yuan)",
+            "Fast Food/Rice Noodles/Vermicelli (Average 16 yuan)"
+          ],
+          "cost per order": "10~25 yuan",
+          "preferred store rating": "4.2~4.7 points",
+          "preferred delivery time": "15~30 minutes",
+          "preferred distance": "0~2500m",
+          "recent orders": [
+            {
+              "store": "Yonghe Soybean Milk",
+              "product": "Original Pan-fried Buns + Soy Milk Combo"
+            },
+            {
+              "store": "Lao Pan's Jianbing",
+              "product": "Special Jianbing"
+            },
+            {
+              "store": "Jiahe Yipin",
+              "product": "Minced Meat Rice Noodles"
+            }
+          ],
+          "search history": [
+            "Steamed Buns",
+            "Soy Milk",
+            "Jianbing",
+            "Rice Noodles",
+            "Quick Breakfast"
+          ]
+        },
+        "weekday lunch/dinner": {
+          "frequently purchased categories": [
+            "Fast Food/Rice with Toppings (Average 28 yuan)",
+            "Fast Food/Braised Chicken Rice (Average 32 yuan)",
+            "International Cuisine/Stone Pot Rice/Teppanyaki Rice (Average 42 yuan)"
+          ],
+          "cost per order": "25~50 yuan",
+          "preferred store rating": "4.3~4.8 points",
+          "preferred delivery time": "20~35 minutes",
+          "preferred distance": "0~3000m",
+          "recent orders": [
+            {
+              "store": "Braised Chicken Rice",
+              "product": "Mildly Spicy Braised Chicken Rice"
+            },
+            {
+              "store": "Right Now Food",
+              "product": "Shiitake Mushroom Sliced Chicken Rice"
+            },
+            {
+              "store": "Korean Cuisine",
+              "product": "Beef Bibimbap"
+            }
+          ],
+          "search history": [
+            "Fast Food",
+            "Solo Dining",
+            "Braised Chicken",
+            "Bibimbap",
+            "Health Meal Set"
+          ]
+        },
+        "weekend lunch/dinner": {
+          "frequently purchased categories": [
+            "Chinese Cuisine/Sichuan Cuisine (Average 88 yuan)",
+            "International Cuisine/Japanese Bento/Sushi (Average 98 yuan)",
+            "Hot Pot/Individual Hot Pot (Average 75 yuan)"
+          ],
+          "cost per order": "60~120 yuan",
+          "preferred store rating": "4.5~4.9 points",
+          "preferred delivery time": "30~45 minutes",
+          "preferred distance": "0~5000m",
+          "recent orders": [
+            {
+              "store": "Sichuan Xiangmen",
+              "product": "Boiled Beef + Dry-fried Green Beans + Rice"
+            },
+            {
+              "store": "Helu Sushi",
+              "product": "Deluxe Salmon Set"
+            },
+            {
+              "store": "Xiaolongkan",
+              "product": "Individual Mild Spicy Beef Hot Pot Set"
+            }
+          ],
+          "search history": [
+            "Sichuan Cuisine",
+            "Japanese Food",
+            "Individual Hot Pot",
+            "High-rated Restaurants",
+            "Specialty Dishes"
+          ]
+        },
+        "desserts/drinks/snacks": {
+          "frequently purchased categories": [
+            "Beverages & Desserts/Juice (Average 22 yuan)",
+            "Beverages & Desserts/Western Pastries (Average 35 yuan)",
+            "Beverages & Desserts/Fruit Bowls (Average 28 yuan)"
+          ],
+          "cost per order": "15~40 yuan",
+          "preferred store rating": "4.4~4.9 points",
+          "preferred delivery time": "15~30 minutes",
+          "preferred distance": "0~3000m",
+          "recent orders": [
+            {
+              "store": "Fresh Fruit Workshop",
+              "product": "Freshly Squeezed Watermelon Juice"
+            },
+            {
+              "store": "85°C",
+              "product": "Mango Mousse"
+            },
+            {
+              "store": "Fresh Cut Fruit",
+              "product": "Colorful Fruit Bowl"
+            }
+          ],
+          "search history": [
+            "Juice",
+            "Mousse",
+            "Fruit Bowl",
+            "Afternoon Tea",
+            "Caffeine-Free"
+          ]
+        },
+        "night snack": {
+          "frequently purchased categories": [
+            "Fast Food/Dumplings/Wonton (Average 30 yuan)",
+            "Snacks/Braised Dishes (Average 38 yuan)",
+            "Fast Food/Liuzhou Rice Noodles (Average 32 yuan)"
+          ],
+          "cost per order": "25~45 yuan",
+          "preferred store rating": "4.2~4.8 points",
+          "preferred delivery time": "20~40 minutes",
+          "preferred distance": "0~3500m",
+          "recent orders": [
+            {
+              "store": "Shen Dacheng",
+              "product": "Fresh Meat Wonton"
+            },
+            {
+              "store": "Master Zhou's Braised Food",
+              "product": "Signature Braised Platter"
+            },
+            {
+              "store": "Liuzhou Rice Noodles",
+              "product": "Signature Rice Noodles"
+            }
+          ],
+          "search history": [
+            "Wonton",
+            "Braised Food",
+            "Rice Noodles",
+            "Light Night Snack",
+            "Non-spicy Night Snack"
+          ]
+        }
+      },
+      "product delivery": {
+        "frequently purchased categories": [
+          "Vegetables/Bean Products(30%)",
+          "Raw Meat/Poultry/Eggs(22%)",
+          "Grains/Oil/Seasonings/Dried Goods(15%)",
+          "Fruits(12%)",
+          "Household Items(10%)",
+          "Others(11%)"
+        ],
+        "frequently visited stores": [
+          "Yonghui Supermarket(35%)",
+          "Fengze District Minsheng Supermarket(28%)",
+          "FamilyMart(20%)",
+          "Other Stores(17%)"
+        ],
+        "cost per order by category": {
+          "Vegetables/Bean Products": "5~30 yuan",
+          "Raw Meat/Poultry/Eggs": "20~80 yuan",
+          "Grains/Oil/Seasonings/Dried Goods": "10~50 yuan",
+          "Fruits": "10~40 yuan",
+          "Household Items": "15~60 yuan"
+        },
+        "preferred delivery time": "25~60 minutes",
+        "typical order time": "17~19hrs(38%), 10~12hrs(25%), 20~22hrs(18%)",
+        "recent orders": [
+          {
+            "store": "Yonghui Supermarket",
+            "product": "Greens, Tofu, Eggs, Pork Belly"
+          },
+          {
+            "store": "Fengze District Minsheng Supermarket",
+            "product": "Rice, Cooking Oil, Soy Sauce"
+          },
+          {
+            "store": "FamilyMart",
+            "product": "Tissues, Hand Soap, Pet Snacks"
+          }
+        ],
+        "search history": [
+          "Low-sodium Soy Sauce",
+          "Fresh Meat",
+          "Fresh Vegetables",
+          "Pet Supplies",
+          "Rice",
+          "Kitchen Paper Towels"
+        ]
+      }
+    },
+    "in-store consumption": {
+      "in-store dining": {
+        "fine-dining": {
+          "frequently purchased categories": [
+            "Regional Cuisine/Fujian Cuisine (Average 120 yuan)",
+            "International Cuisine/Japanese Food (Average 150 yuan)",
+            "Regional Cuisine/Cantonese Cuisine (Average 130 yuan)"
+          ],
+          "preferred average price per person": "120~150 yuan",
+          "preferred store rating": "4.2~4.8 stars",
+          "typical dining time": "19:00-21:00",
+          "preferred distance": "500~3000m",
+          "recent orders": [
+            {
+              "store": "Quanzhou Traditional Minnan Cuisine",
+              "product": "Ginger Duck Set"
+            },
+            {
+              "store": "Sushi Master",
+              "product": "Caffeine-Free Special Tea + Premium Sashimi Platter"
+            },
+            {
+              "store": "Cantonese Seafood Harbor",
+              "product": "Steamed Sea Bass + Boiled Shrimp (Peeled)"
+            }
+          ],
+          "search history": [
+            "Caffeine-Free",
+            "Healthy Restaurant",
+            "High-end Fujian Cuisine",
+            "Business Dining"
+          ]
+        },
+        "light meal": {
+          "frequently purchased categories": [
+            "Snacks & Fast Food/Chinese Light Meals (Average 35 yuan)",
+            "Regional Cuisine/Jiangzhe Cuisine (Average 45 yuan)",
+            "Snacks & Fast Food/Western Fast Food (Average 40 yuan)"
+          ],
+          "preferred average price per person": "30~50 yuan",
+          "preferred store rating": "3.5~4.2 stars",
+          "typical dining time": "12:00-13:30",
+          "preferred distance": "0~800m",
+          "recent orders": [
+            {
+              "store": "Yunlu Light Meals",
+              "product": "Chicken Breast Salad Set"
+            },
+            {
+              "store": "Minnan Kitchen",
+              "product": "Braised Noodles + Side Dishes"
+            },
+            {
+              "store": "Shaxian Snacks PLUS",
+              "product": "Three Delicacies Soup + Mixed Noodles"
+            }
+          ],
+          "search history": [
+            "Fast Food Near Office",
+            "Healthy Light Meals",
+            "Bento"
+          ]
+        },
+        "desserts/drinks/snacks": {
+          "frequently purchased categories": [
+            "Beverage Shops (Average 18 yuan)",
+            "Bread & Pastries (Average 25 yuan)",
+            "Other Food/Fresh Fruits (Average 15 yuan)"
+          ],
+          "preferred average price per person": "15~30 yuan",
+          "preferred store rating": "4.0~4.7 stars",
+          "typical dining time": "15:00-16:30",
+          "preferred distance": "0~500m",
+          "recent orders": [
+            {
+              "store": "Chayanyuese",
+              "product": "Jasmine Green Tea (Caffeine-Free)"
+            },
+            {
+              "store": "Happy Cake",
+              "product": "Fruit Tart"
+            },
+            {
+              "store": "Xianfeng Fruits",
+              "product": "Selected Fruit Platter"
+            }
+          ],
+          "search history": [
+            "Caffeine-Free Tea Drinks",
+            "Low Sugar Desserts",
+            "Healthy Beverages"
+          ]
+        }
+      },
+      "other in-store services": {
+        "frequently consumed categories": {
+          "Sports & Fitness/Fitness Centers": "40%",
+          "Pets/Veterinary Hospitals": "30%",
+          "Entertainment/Massage/Foot Therapy": "20%",
+          "Entertainment/Tea Houses": "10%"
+        },
+        "cost per order by category": {
+          "Sports & Fitness/Fitness Centers": "80~200 yuan",
+          "Pets/Veterinary Hospitals": "100~300 yuan",
+          "Entertainment/Massage/Foot Therapy": "120~180 yuan",
+          "Entertainment/Tea Houses": "50~100 yuan"
+        },
+        "preferred store rating": "4.0~4.8 stars",
+        "preferred service time": "18:00-21:00",
+        "preferred distance": "0~5000m",
+        "recent orders": [
+          {
+            "store": "Quanzhou Jianti Fitness Center",
+            "product": "Personal Training Course"
+          },
+          {
+            "store": "Love Pet Animal Hospital",
+            "product": "Pet Health Check Package"
+          },
+          {
+            "store": "Songxin Foot Massage",
+            "product": "Full Body Relaxation Massage 90 Minutes"
+          }
+        ],
+        "search history": [
+          "Gym",
+          "Veterinary Hospital",
+          "Foot Massage",
+          "Caffeine-Free Tea House"
+        ]
+      }
+    },
+    "OTA": {
+      "visited scenes": {
+        "Cultural Heritage Sites": "35%",
+        "Natural Landscapes (Mountains/Lakes/Forests)": "25%",
+        "Hot Springs": "15%",
+        "Unique Villages/Industrial Tourism/Uncategorized Sites": "10%",
+        "Exhibition Halls (Museums/Art Galleries)": "15%"
+      },
+      "cost per night on hotel": "500~1000 yuan",
+      "visited hotels": {
+        "Atour": "30%",
+        "Ji Hotel": "25%",
+        "Vienna": "20%",
+        "Orange": "15%",
+        "Huazhu": "10%"
+      },
+      "browsed hotels": {
+        "Four-star Hotels": "40%",
+        "Comfort Hotels": "35%",
+        "Three-star Hotels": "15%",
+        "Luxury Hotels": "10%"
+      },
+      "historical travel plans": {
+        "Quanzhou-Xiamen": {
+          "price range": "200-400 yuan",
+          "transportation mode": "Self-driving"
+        },
+        "Quanzhou-Shanghai": {
+          "price range": "800-1200 yuan",
+          "transportation mode": "Flight"
+        },
+        "Quanzhou-Beijing": {
+          "price range": "1200-1800 yuan",
+          "transportation mode": "Flight"
+        },
+        "Quanzhou-Fuzhou": {
+          "price range": "100-200 yuan",
+          "transportation mode": "High-speed Rail/Train"
+        },
+        "Quanzhou-Guangzhou": {
+          "price range": "400-600 yuan",
+          "transportation mode": "High-speed Rail/Train"
+        },
+        "Quanzhou-Hangzhou": {
+          "price range": "500-700 yuan",
+          "transportation mode": "High-speed Rail/Train"
+        },
+        "Quanzhou-Wuyi Mountain": {
+          "price range": "200-300 yuan",
+          "transportation mode": "High-speed Rail/Train"
+        }
+      }
+    }
+  },
+  "stores": {
+    "S17550802098853509_S00001": {
+      "name": "Natural Food Organic Vegetarian",
+      "store_id": "S17550802098853509_S00001",
+      "score": 4.7,
+      "location": {
+        "address": "Natural Food Organic Vegetarian Restaurant, 128 Quanxiu Road, Donghai Street, Fengze District, Quanzhou, Fujian Province",
+        "latitude": 24.8765,
+        "longitude": 118.6145
+      },
+      "tags": [
+        "Organic Ingredients",
+        "Healthy Diet",
+        "Vegetarian",
+        "Dine-in Restaurant",
+        "Eco-friendly Food Container"
+      ],
+      "store_type": "target",
+      "products": [
+        {
+          "name": "Organic Vegetable Wellness Package",
+          "store_id": "S17550802098853509_S00001",
+          "store_name": "Natural Food Organic Vegetarian",
+          "price": 68,
+          "tags": [
+            "Organic Vegetables",
+            "Vegetarian",
+            "Contains Carrots, Round Lettuce, Purple Cabbage, Baby Pumpkin, Broccoli",
+            "Health & Wellness",
+            "Spinach Juice"
+          ],
+          "product_id": "S17550802098853509_P00001",
+          "attributes": [
+            "Standard Portion"
+          ],
+          "product_type": "target"
+        },
+        {
+          "name": "Quinoa and Tofu Pot",
+          "store_id": "S17550802098853509_S00001",
+          "store_name": "Natural Food Organic Vegetarian",
+          "price": 58,
+          "tags": [
+            "Organic Ingredients",
+            "Gluten-Free",
+            "High Protein",
+            "Vegetarian"
+          ],
+          "product_id": "S17550802098853509_P00002",
+          "attributes": [
+            "Single Serving"
+          ],
+          "product_type": "target"
+        },
+        {
+          "name": "Broccoli Mixed Vegetable Salad",
+          "store_id": "S17550802098853509_S00001",
+          "store_name": "Natural Food Organic Vegetarian",
+          "price": 42,
+          "tags": [
+            "Organic",
+            "Raw Food",
+            "Salad",
+            "Low Calorie",
+            "Health",
+            "Caffeine-Free"
+          ],
+          "product_id": "S17550802098853509_P00003",
+          "attributes": [
+            "Original Flavor",
+            "Add Nuts"
+          ],
+          "product_type": "distraction"
+        },
+        {
+          "name": "Matsutake Mushroom Soup",
+          "store_id": "S17550802098853509_S00001",
+          "store_name": "Natural Food Organic Vegetarian",
+          "price": 48,
+          "tags": [
+            "Organic",
+            "Wellness",
+            "Mushroom",
+            "Vegetarian",
+            "High Purine"
+          ],
+          "product_id": "S17550802098853509_P00004",
+          "attributes": [
+            "Add Ginger",
+            "No Ginger"
+          ],
+          "product_type": "distraction"
+        },
+        {
+          "name": "Organic Matcha Soy Milk Mousse",
+          "store_id": "S17550802098853509_S00001",
+          "store_name": "Natural Food Organic Vegetarian",
+          "price": 36,
+          "tags": [
+            "Organic",
+            "Dessert",
+            "Vegetarian",
+            "Exquisite Dessert"
+          ],
+          "product_id": "S17550802098853509_P00005",
+          "attributes": [
+            "Low Sugar",
+            "Standard Portion"
+          ],
+          "product_type": "distraction"
+        }
+      ]
+    },
+    "S17550802098853509_S00002": {
+      "name": "Zen Joy Vegetarian Restaurant",
+      "store_id": "S17550802098853509_S00002",
+      "score": 4.5,
+      "location": {
+        "address": "Zen Joy Vegetarian Restaurant, 56 Wenling Road, Donghai Street, Fengze District, Quanzhou, Fujian Province",
+        "latitude": 24.8782,
+        "longitude": 118.6121
+      },
+      "tags": [
+        "Vegetarian",
+        "Zen-style Cuisine",
+        "Health"
+      ],
+      "store_type": "target",
+      "products": [
+        {
+          "name": "Organic Vegetarian Wellness Package",
+          "store_id": "S17550802098853509_S00002",
+          "store_name": "Zen Joy Vegetarian Restaurant",
+          "price": 68,
+          "tags": [
+            "Organic",
+            "Vegetarian",
+            "Wellness",
+            "Caffeine-Free",
+            "Health",
+            "Low Purine"
+          ],
+          "product_id": "S17550802098853509_P00006",
+          "attributes": [
+            "No Broccoli",
+            "No High Purine Ingredients",
+            "Customizable Delivery Time"
+          ],
+          "product_type": "target"
+        },
+        {
+          "name": "Zen-style Light Meal Vegetable Platter",
+          "store_id": "S17550802098853509_S00002",
+          "store_name": "Zen Joy Vegetarian Restaurant",
+          "price": 58,
+          "tags": [
+            "Organic",
+            "Vegetarian",
+            "Light Meal",
+            "Caffeine-Free",
+            "Low Purine"
+          ],
+          "product_id": "S17550802098853509_P00007",
+          "attributes": [
+            "No High Purine Ingredients",
+            "Customizable Delivery Time"
+          ],
+          "product_type": "distraction"
+        },
+        {
+          "name": "Organic Fruit and Vegetable Salad",
+          "store_id": "S17550802098853509_S00002",
+          "store_name": "Zen Joy Vegetarian Restaurant",
+          "price": 42,
+          "tags": [
+            "Organic",
+            "Vegetarian",
+            "Salad",
+            "Health",
+            "Caffeine-Free",
+            "Low Purine"
+          ],
+          "product_id": "S17550802098853509_P00009",
+          "attributes": [
+            "No Broccoli"
+          ],
+          "product_type": "target"
+        }
+      ]
+    },
+    "S17550802098853509_S00003": {
+      "name": "Green Wonderland Vegetable Bistro",
+      "store_id": "S17550802098853509_S00003",
+      "score": 4.6,
+      "location": {
+        "address": "Green Wonderland Vegetable Bistro, 202 Quanxiu Road, Donghai Street, Fengze District, Quanzhou, Fujian Province",
+        "latitude": 24.8755,
+        "longitude": 118.6159
+      },
+      "tags": [
+        "Organic",
+        "Additive-Free"
+      ],
+      "store_type": "target",
+      "products": [
+        {
+          "name": "Stir-fried Seasonal Vegetables and Tofu Pot",
+          "store_id": "S17550802098853509_S00003",
+          "store_name": "Green Wonderland Vegetable Bistro",
+          "price": 42,
+          "tags": [
+            "Organic",
+            "Health",
+            "Vegetarian",
+            "Tofu",
+            "Seasonal Vegetables"
+          ],
+          "product_id": "S17550802098853509_P00012",
+          "attributes": [
+            "No Broccoli",
+            "Caffeine-Free",
+            "Low Purine"
+          ],
+          "product_type": "target"
+        },
+        {
+          "name": "Matcha Tofu Mousse",
+          "store_id": "S17550802098853509_S00003",
+          "store_name": "Green Wonderland Vegetable Bistro",
+          "price": 28,
+          "tags": [
+            "Dessert",
+            "Health",
+            "Vegetarian",
+            "Low Sugar",
+            "Matcha"
+          ],
+          "product_id": "S17550802098853509_P00014",
+          "attributes": [
+            "No Broccoli",
+            "Contains Caffeine",
+            "Low Purine"
+          ],
+          "product_type": "distraction"
+        },
+        {
+          "name": "Kelp and Mushroom Soup",
+          "store_id": "S17550802098853509_S00003",
+          "store_name": "Green Wonderland Vegetable Bistro",
+          "price": 32,
+          "tags": [
+            "Organic",
+            "Health",
+            "Vegetarian",
+            "Soup",
+            "Kelp"
+          ],
+          "product_id": "S17550802098853509_P00015",
+          "attributes": [
+            "No Broccoli",
+            "Caffeine-Free",
+            "High Purine"
+          ],
+          "product_type": "distraction"
+        }
+      ]
+    },
+    "S17550802098853509_S00004": {
+      "name": "Mr. Broccoli Light Meals",
+      "store_id": "S17550802098853509_S00004",
+      "score": 4.8,
+      "location": {
+        "address": "Mr. Broccoli Light Meals, 88 Quanxiu Road, Donghai Street, Fengze District, Quanzhou, Fujian Province",
+        "latitude": 24.8748,
+        "longitude": 118.6138
+      },
+      "tags": [
+        "Light Meal",
+        "Broccoli",
+        "Health",
+        "Dine-in Restaurant"
+      ],
+      "store_type": "distraction",
+      "products": [
+        {
+          "name": "Broccoli Fresh Vegetable Salad",
+          "store_id": "S17550802098853509_S00004",
+          "store_name": "Mr. Broccoli Light Meals",
+          "price": 38.8,
+          "tags": [
+            "Organic",
+            "Health",
+            "Light Meal",
+            "Salad",
+            "Broccoli"
+          ],
+          "product_id": "S17550802098853509_P00016",
+          "attributes": [
+            "No Broccoli",
+            "Add Walnuts",
+            "Add Quinoa",
+            "Homemade Vinaigrette"
+          ],
+          "product_type": "distraction"
+        },
+        {
+          "name": "Broccoli Steamed Egg Set",
+          "store_id": "S17550802098853509_S00004",
+          "store_name": "Mr. Broccoli Light Meals",
+          "price": 42.5,
+          "tags": [
+            "Organic",
+            "Health",
+            "Light Meal",
+            "Broccoli",
+            "Package"
+          ],
+          "product_id": "S17550802098853509_P00017",
+          "attributes": [
+            "Low Salt",
+            "No Sugar",
+            "Slightly Spicy",
+            "Not Spicy"
+          ],
+          "product_type": "distraction"
+        },
+        {
+          "name": "Broccoli Fruit and Vegetable Tea",
+          "store_id": "S17550802098853509_S00004",
+          "store_name": "Mr. Broccoli Light Meals",
+          "price": 26,
+          "tags": [
+            "Specialty Drink",
+            "Broccoli",
+            "Tea Drink",
+            "Contains Caffeine"
+          ],
+          "product_id": "S17550802098853509_P00019",
+          "attributes": [
+            "No Ice",
+            "Less Sugar",
+            "Standard Sugar"
+          ],
+          "product_type": "distraction"
+        }
+      ]
+    },
+    "S17550802098853509_S00005": {
+      "name": "Fresh Seafood Soup Restaurant",
+      "store_id": "S17550802098853509_S00005",
+      "score": 4.4,
+      "location": {
+        "address": "Fresh Seafood Soup Restaurant, 150 Quanxiu Road, Donghai Street, Fengze District, Quanzhou, Fujian Province",
+        "latitude": 24.8761,
+        "longitude": 118.6142
+      },
+      "tags": [
+        "Seafood",
+        "Soup",
+        "Health",
+        "Dine-in Restaurant"
+      ],
+      "store_type": "distraction",
+      "products": [
+        {
+          "name": "Vegetarian Mushroom Soup",
+          "store_id": "S17550802098853509_S00005",
+          "store_name": "Fresh Seafood Soup Restaurant",
+          "price": 36,
+          "tags": [
+            "Vegetarian",
+            "Mushroom",
+            "Health",
+            "Organic",
+            "High Purine"
+          ],
+          "product_id": "S17550802098853509_P00023",
+          "attributes": [
+            "Add Tofu",
+            "No Tofu"
+          ],
+          "product_type": "distraction"
+        },
+        {
+          "name": "Broccoli Shrimp Tofu Soup",
+          "store_id": "S17550802098853509_S00005",
+          "store_name": "Fresh Seafood Soup Restaurant",
+          "price": 48,
+          "tags": [
+            "Seafood",
+            "Vegetables",
+            "Broccoli",
+            "Tofu",
+            "High Purine"
+          ],
+          "product_id": "S17550802098853509_P00024",
+          "attributes": [
+            "Add Cilantro",
+            "No Cilantro"
+          ],
+          "product_type": "distraction"
+        }
+      ]
+    },
+    "S17550802098853509_S00006": {
+      "name": "Vitality Coffee & Light Meals",
+      "store_id": "S17550802098853509_S00006",
+      "score": 4.7,
+      "location": {
+        "address": "Vitality Coffee & Light Meals, 160 Quanxiu Road, Donghai Street, Fengze District, Quanzhou, Fujian Province",
+        "latitude": 24.8771,
+        "longitude": 118.6149
+      },
+      "tags": [
+        "Coffee",
+        "Light Meal",
+        "Health",
+        "Dine-in Restaurant"
+      ],
+      "store_type": "distraction",
+      "products": [
+        {
+          "name": "Matcha Latte",
+          "store_id": "S17550802098853509_S00006",
+          "store_name": "Vitality Coffee & Light Meals",
+          "price": 28,
+          "tags": [
+            "Matcha",
+            "Milk Tea",
+            "Hot Drink",
+            "Popular"
+          ],
+          "product_id": "S17550802098853509_P00027",
+          "attributes": [
+            "Hot",
+            "Room Temperature",
+            "Add Ice",
+            "Less Sugar",
+            "Standard Sugar"
+          ],
+          "product_type": "distraction"
+        },
+        {
+          "name": "Organic Vegetable Salad",
+          "store_id": "S17550802098853509_S00006",
+          "store_name": "Vitality Coffee & Light Meals",
+          "price": 38,
+          "tags": [
+            "Organic",
+            "Vegetarian",
+            "Health",
+            "Light Meal",
+            "Free Americano"
+          ],
+          "product_id": "S17550802098853509_P00028",
+          "attributes": [
+            "Thousand Island Dressing",
+            "Vinaigrette"
+          ],
+          "product_type": "target"
+        },
+        {
+          "name": "Broccoli Quinoa Bowl",
+          "store_id": "S17550802098853509_S00006",
+          "store_name": "Vitality Coffee & Light Meals",
+          "price": 42,
+          "tags": [
+            "Organic Broccoli",
+            "Health",
+            "Quinoa",
+            "Free Americano (One Cup)"
+          ],
+          "product_id": "S17550802098853509_P00029",
+          "attributes": [
+            "Add Chickpeas",
+            "Add Quinoa"
+          ],
+          "product_type": "distraction"
+        },
+        {
+          "name": "Organic Vegetable Pasta",
+          "store_id": "S17550802098853509_S00006",
+          "store_name": "Vitality Coffee & Light Meals",
+          "price": 45,
+          "tags": [
+            "Cherry Tomato",
+            "Cheese",
+            "Health",
+            "Button Mushroom",
+            "Free Americano (One Cup)"
+          ],
+          "product_id": "S17550802098853509_P00030",
+          "attributes": [
+            "Tomato Sauce",
+            "Olive Oil"
+          ],
+          "product_type": "target"
+        }
+      ]
+    }
+  },
+  "orders": {
+    "S17550802098853509_O00001": {
+      "order_id": "S17550802098853509_O00001",
+      "order_type": "delivery",
+      "user_id": "U528681",
+      "store_id": "S17550802098853509_S00001",
+      "total_price": 68.0,
+      "create_time": "2025-03-27 19:05:23",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17550802098853509_P00001",
+          "price": 68.0,
+          "quantity": 1
+        }
+      ]
+    },
+    "S17550802098853509_O00002": {
+      "order_id": "S17550802098853509_O00002",
+      "order_type": "delivery",
+      "user_id": "U528681",
+      "store_id": "S17550802098853509_S00003",
+      "total_price": 110.0,
+      "create_time": "2025-03-22 18:34:12",
+      "status": "delivered",
+      "products": [
+        {
+          "product_id": "S17550802098853509_P00011",
+          "price": 68.0,
+          "quantity": 1
+        },
+        {
+          "product_id": "S17550802098853509_P00012",
+          "price": 42.0,
+          "quantity": 1
+        }
+      ]
+    },
+    "S17550802098853509_O00003": {
+      "order_id": "S17550802098853509_O00003",
+      "order_type": "delivery",
+      "user_id": "U528681",
+      "store_id": "S17550802098853509_S00002",
+      "total_price": 110.0,
+      "create_time": "2025-03-19 12:15:36",
+      "status": "delivered",
+      "products": [
+        {
+          "product_id": "S17550802098853509_P00006",
+          "price": 68.0,
+          "quantity": 1
+        },
+        {
+          "product_id": "S17550802098853509_P00009",
+          "price": 42.0,
+          "quantity": 1
+        }
+      ]
+    },
+    "S17550802098853509_O00004": {
+      "order_id": "S17550802098853509_O00004",
+      "order_type": "delivery",
+      "user_id": "U528681",
+      "store_id": "Braised chicken with rice",
+      "total_price": 32.0,
+      "create_time": "2025-03-15 12:32:45",
+      "status": "delivered",
+      "products": [
+        {
+          "product_id": "Mildly spicy stewed chicken with rice",
+          "price": 32.0,
+          "quantity": 1
+        }
+      ]
+    },
+    "S17550802098853509_O00005": {
+      "order_id": "S17550802098853509_O00005",
+      "order_type": "delivery",
+      "user_id": "U528681",
+      "store_id": "Yonghe Soy Milk",
+      "total_price": 18.0,
+      "create_time": "2025-03-13 08:15:27",
+      "status": "delivered",
+      "products": [
+        {
+          "product_id": "Original pan-fried buns + soy milk set",
+          "price": 18.0,
+          "quantity": 1
+        }
+      ]
+    },
+    "S17550802098853509_O00006": {
+      "order_id": "S17550802098853509_O00006",
+      "order_type": "hotel",
+      "user_id": "U528681",
+      "store_id": "Atour Hotel",
+      "note": "Need a quiet room for work",
+      "location": {
+        "address": "Atour Hotel, 358 Hubin South Road, Siming District, Xiamen, Fujian Province",
+        "longitude": 118.0894,
+        "latitude": 24.4853
+      },
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 688.0,
+      "create_time": "2025-03-05 14:23:15",
+      "update_time": "2025-03-05 14:23:15",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "YDXM20250305",
+          "price": 688.0,
+          "quantity": 1,
+          "date": "2025-03-10",
+          "room_type": "Deluxe king room"
+        }
+      ]
+    },
+    "S17550802098853509_O00007": {
+      "order_id": "S17550802098853509_O00007",
+      "order_type": "hotel",
+      "user_id": "U528681",
+      "store_id": "Ji Hotel",
+      "note": "Would like to request a high-floor room",
+      "location": {
+        "address": "Ji Hotel, 128 Wusi Road, Gulou District, Fuzhou, Fujian Province",
+        "longitude": 119.3062,
+        "latitude": 26.0614
+      },
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 598.0,
+      "create_time": "2025-02-15 16:42:18",
+      "update_time": "2025-02-15 16:42:18",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "QJFZ20250215",
+          "price": 598.0,
+          "quantity": 1,
+          "date": "2025-02-20",
+          "room_type": "Business king room"
+        }
+      ]
+    },
+    "S17550802098853509_O00008": {
+      "order_id": "S17550802098853509_O00008",
+      "order_type": "attraction",
+      "user_id": "U528681",
+      "store_id": "Wuyi Mountain Scenic Area",
+      "note": "Chinese tour guide service needed",
+      "location": {
+        "address": "Wuyi Mountain Scenic Area, Wuyishan City, Nanping, Fujian Province",
+        "longitude": 117.9455,
+        "latitude": 27.7566
+      },
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 225.0,
+      "create_time": "2025-02-20 09:15:23",
+      "update_time": "2025-02-20 09:15:23",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "WYSMP20250220",
+          "price": 225.0,
+          "quantity": 1,
+          "ticket_type": "Scenic area combo ticket"
+        }
+      ]
+    },
+    "S17550802098853509_O00009": {
+      "order_id": "S17550802098853509_O00009",
+      "order_type": "train",
+      "user_id": "U528681",
+      "store_id": "G1234",
+      "note": "",
+      "location": {
+        "address": "Quanzhou Station, Fengze District, Quanzhou, Fujian Province",
+        "longitude": 118.5912,
+        "latitude": 24.8921
+      },
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 249.0,
+      "create_time": "2025-02-18 10:35:42",
+      "update_time": "2025-02-18 10:35:42",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "G1234QZ2025021801",
+          "price": 249.0,
+          "quantity": 1,
+          "seat_type": "Second-class seat"
+        }
+      ]
+    },
+    "S17550802098853509_O00010": {
+      "order_id": "S17550802098853509_O00010",
+      "order_type": "flight",
+      "user_id": "U528681",
+      "store_id": "MU5678",
+      "note": "Need window seat",
+      "location": {
+        "address": "Quanzhou Jinjiang International Airport, Jinjiang, Quanzhou, Fujian Province",
+        "longitude": 118.5897,
+        "latitude": 24.7964
+      },
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 1120.0,
+      "create_time": "2025-01-25 09:23:17",
+      "update_time": "2025-01-25 09:23:17",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "MU5678QZ2025012501",
+          "price": 1120.0,
+          "quantity": 1,
+          "seat_type": "Economy class"
+        }
+      ]
+    },
+    "S17550802098853509_O00011": {
+      "order_id": "S17550802098853509_O00011",
+      "order_type": "instore",
+      "user_id": "U528681",
+      "store_id": "S17550802098853509_I00011",
+      "total_price": 328.0,
+      "create_time": "2025-03-27 19:12:35",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17550802098853509_P00058",
+          "price": 328.0,
+          "quantity": 1
+        }
+      ]
+    },
+    "S17550802098853509_O00012": {
+      "order_id": "S17550802098853509_O00012",
+      "order_type": "instore",
+      "user_id": "U528681",
+      "store_id": "S17550802098853509_I00014",
+      "total_price": 79.9,
+      "create_time": "2025-03-15 16:42:18",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17550802098853509_P00078",
+          "price": 79.9,
+          "quantity": 1
+        }
+      ]
+    },
+    "S17550802098853509_O00013": {
+      "order_id": "S17550802098853509_O00013",
+      "order_type": "instore",
+      "user_id": "U528681",
+      "store_id": "Quanzhou Fitness Center",
+      "total_price": 180.0,
+      "create_time": "2025-03-10 18:25:32",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "Personal training course",
+          "price": 180.0,
+          "quantity": 1
+        }
+      ]
+    },
+    "S17550802098853509_O00014": {
+      "order_id": "S17550802098853509_O00014",
+      "order_type": "instore",
+      "user_id": "U528681",
+      "store_id": "Songxin Foot Massage",
+      "total_price": 168.0,
+      "create_time": "2025-03-05 19:34:27",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "90-minute full body relaxation massage",
+          "price": 168.0,
+          "quantity": 1
+        }
+      ]
+    }
+  }
+}

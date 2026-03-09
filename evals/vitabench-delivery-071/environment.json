@@ -1,0 +1,357 @@
+{
+  "task_id": "E0717003",
+  "domain": "delivery",
+  "time": "2024-09-14 17:08:00",
+  "user_id": "U000018",
+  "weather": [
+    {
+      "city": "Yantai City",
+      "category": "cloudy",
+      "datetime": "2024-09-14",
+      "temperature": [
+        20,
+        24
+      ],
+      "humidity": 60
+    }
+  ],
+  "location": [
+    {
+      "address": "Zhinong Li, Opposite to the North of Huaxin Garden, Xingfu South Road, Zhifu District, Yantai, Shandong Province",
+      "longitude": 121.366686,
+      "latitude": 37.563124
+    }
+  ],
+  "user_profile": {
+    "user id": "U000018",
+    "occupation": "Doctor",
+    "gender": "female",
+    "age group": "35~40",
+    "residence": "Yantai",
+    "home address": "Zhinong Li, Opposite to the North of Huaxin Garden, Xingfu South Road, Zhifu District, Yantai, Shandong Province",
+    "work address": "Yuhuangding Hospital Main Campus, Southwest River Road, Xiangyang Street, Zhifu District, Yantai, Shandong Province",
+    "dietary restrictions": "No high salt, no alcohol",
+    "family status": "Has children",
+    "personality": "Impatient, frequently rushes things, lacks patience during processes"
+  },
+  "user_historical_behaviors": {
+    "user id": "U000018",
+    "occupation": "Doctor",
+    "gender": "female",
+    "age group": "35~40",
+    "residence": "Yantai",
+    "home address": "Zhinong Li, Opposite to the North of Huaxin Garden, Xingfu South Road, Zhifu District, Yantai, Shandong Province",
+    "work address": "Yuhuangding Hospital Main Campus, Southwest River Road, Xiangyang Street, Zhifu District, Yantai, Shandong Province",
+    "breakfast": {
+      "frequently purchased categories": [
+        "Quick meals/Dumplings/Wonton (Average ¥15)",
+        "Quick meals/Steamed buns/Pan-fried buns (Average ¥15)",
+        "Quick meals/Fried dough sticks (Average ¥8)"
+      ],
+      "cost per order": "¥15~35",
+      "preferred store rating": "4.2~4.7 stars",
+      "preferred delivery time": "15~30 minutes",
+      "preferred distance": "0~1500m",
+      "recent orders": [
+        {
+          "store": "Fulou Breakfast",
+          "product": "Fresh meat wonton + Soy milk"
+        },
+        {
+          "store": "Master Kang Breakfast Shop",
+          "product": "Pork and green onion bun combo"
+        }
+      ],
+      "search history": [
+        "Nutritious breakfast",
+        "Stomach-friendly porridge",
+        "Soy milk and fried dough sticks",
+        "Wonton"
+      ]
+    },
+    "weekday lunch/dinner": {
+      "frequently purchased categories": [
+        "Quick meals/Small bowl dishes/Small portion dishes (Average ¥25)",
+        "Traditional Chinese cuisine/Shandong cuisine (Average ¥45)",
+        "Quick meals/Light food (Average ¥38)"
+      ],
+      "cost per order": "¥25~60",
+      "preferred store rating": "4.3~4.8 stars",
+      "preferred delivery time": "20~35 minutes",
+      "preferred distance": "0~2500m",
+      "recent orders": [
+        {
+          "store": "Shandong Cuisine Pavilion",
+          "product": "Braised sea cucumber with green onion + Small portion of rice"
+        },
+        {
+          "store": "Light Food Salad",
+          "product": "Chicken breast quinoa salad"
+        },
+        {
+          "store": "Shanhe Xuan Vegetarian Restaurant",
+          "product": "Stir-fried three shredded vegetables + Small millet rice"
+        }
+      ],
+      "search history": [
+        "Low fat",
+        "Healthy meal",
+        "Shandong cuisine",
+        "Vegetarian food",
+        "Small portion dish"
+      ]
+    },
+    "weekend lunch/dinner": {
+      "frequently purchased categories": [
+        "Traditional Chinese cuisine/Stir-fried dishes (Average ¥110)",
+        "Foreign cuisine/Japanese bento/Sushi (Average ¥110)",
+        "Hot pot/Chaoshan hot pot (Average ¥180)"
+      ],
+      "cost per order": "¥80~280",
+      "preferred store rating": "4.5~5.0 stars",
+      "preferred delivery time": "25~65 minutes",
+      "preferred distance": "0~6500m",
+      "recent orders": [
+        {
+          "store": "Sushiro",
+          "product": "Salmon sashimi set + Chawanmushi"
+        },
+        {
+          "store": "Green Tea Restaurant (Yantai Joy City Branch)",
+          "product": "Green Tea Signature Set for Two"
+        },
+        {
+          "store": "Laoshe Teahouse Yantai Branch",
+          "product": "Yantai Special Seafood Pot"
+        }
+      ],
+      "search history": [
+        "Family meal set",
+        "Kids meal",
+        "Japanese cuisine",
+        "Local specialties",
+        "Set for two"
+      ]
+    },
+    "desserts/drinks/snacks": {
+      "frequently purchased categories": [
+        "Drinks and desserts/Fruit juice (Average ¥22)",
+        "Drinks and desserts/Pure tea/Herbal tea (Average ¥18)",
+        "Drinks and desserts/Chinese pastries (Average ¥28)"
+      ],
+      "cost per order": "¥15~40",
+      "preferred store rating": "4.4~4.9 stars",
+      "preferred delivery time": "15~25 minutes",
+      "preferred distance": "0~2000m",
+      "recent orders": [
+        {
+          "store": "Auntie Shanghai Select Tea (Xingfu Middle Road Branch)",
+          "product": "Extra Large Bucket of Fruit Tea"
+        },
+        {
+          "store": "Tea Time",
+          "product": "Herbal tea set"
+        },
+        {
+          "store": "Daoxiangcun",
+          "product": "Red date pastry gift box"
+        }
+      ],
+      "search history": [
+        "Low sugar drinks",
+        "Caffeine-free",
+        "Flower tea",
+        "Fruit tea",
+        "Traditional pastries"
+      ]
+    },
+    "night snack": {
+      "frequently purchased categories": [
+        "Quick meals/Clay pot dishes (Average ¥42)",
+        "Quick meals/Earthen pot soup (Average ¥35)",
+        "Snacks/Braised food (Average ¥32)"
+      ],
+      "cost per order": "¥25~50",
+      "preferred store rating": "4.2~4.7 stars",
+      "preferred delivery time": "20~35 minutes",
+      "preferred distance": "0~2500m",
+      "recent orders": [
+        {
+          "store": "Liu's Clay Pot",
+          "product": "Mushroom and tofu clay pot"
+        },
+        {
+          "store": "Old Neighbor Earthen Pot Soup",
+          "product": "Healthy mushroom soup"
+        },
+        {
+          "store": "Braised Food Master",
+          "product": "Vegetarian platter"
+        }
+      ],
+      "search history": [
+        "Healthy soup",
+        "Non-spicy",
+        "Light night snack",
+        "Clay pot",
+        "Stomach-friendly"
+      ]
+    }
+  },
+  "stores": {
+    "S22380603448156647_S47133": {
+      "name": "Auntie Shanghai Select Tea (Xingfu Middle Road Branch)",
+      "store_id": "S22380603448156647_S47133",
+      "score": 4.9,
+      "location": {
+        "address": "Auntie Shanghai Select Tea (Yantai Xingfu Middle Road Branch), 47-1 Xingfu Middle Road, Zhifu District, Yantai, Shandong Province",
+        "latitude": 37.565974,
+        "longitude": 121.355442
+      },
+      "tags": [],
+      "products": [
+        {
+          "name": "Extra Large Bucket of Fruit Tea",
+          "product_id": "S19752548911592184_P21735",
+          "store_id": "S22380603448156647_S47133",
+          "store_name": "Auntie Shanghai Select Tea (Xingfu Middle Road Branch)",
+          "price": 22,
+          "tags": [
+            "Sweet and Sour"
+          ],
+          "attributes": [
+            "Regular Ice",
+            "Less Ice",
+            "No Ice"
+          ],
+          "quantity": 9999
+        },
+        {
+          "name": "【Shanghai Classic】Choice of 2 Fruit Teas",
+          "product_id": "S13822450753579478_P79438",
+          "store_id": "S22380603448156647_S47133",
+          "store_name": "Auntie Shanghai Select Tea (Xingfu Middle Road Branch)",
+          "price": 15,
+          "tags": [],
+          "attributes": [
+            "Regular Ice",
+            "Less Ice",
+            "No Ice"
+          ],
+          "quantity": 9999
+        },
+        {
+          "name": "Summer Refreshing Fruit Tea (Choose 1 from 3)",
+          "product_id": "S22855897031118091_P85488",
+          "store_id": "S22380603448156647_S47133",
+          "store_name": "Auntie Shanghai Select Tea (Xingfu Middle Road Branch)",
+          "price": 18,
+          "tags": [],
+          "attributes": [
+            "Regular Ice",
+            "Less Ice",
+            "No Ice"
+          ],
+          "quantity": 9999
+        },
+        {
+          "name": "Fairy Green Grape Lemon Tea",
+          "product_id": "S18997291935063394_P29091",
+          "store_id": "S22380603448156647_S47133",
+          "store_name": "Auntie Shanghai Select Tea (Xingfu Middle Road Branch)",
+          "price": 18,
+          "tags": [],
+          "attributes": [
+            "Regular Ice",
+            "Less Ice",
+            "No Ice"
+          ],
+          "quantity": 9999
+        }
+      ]
+    },
+    "S19264770908101694_S38950": {
+      "name": "Haidilao Hotpot (Yantai Zhenhua Mall Branch)",
+      "store_id": "S19264770908101694_S38950",
+      "score": 4.6,
+      "location": {
+        "address": "Haidilao Hotpot (Zhenhua Mall Branch), No. 8F-18, 8th Floor, Zhenhua Mall, 18 West Street, Zhifu District, Yantai, Shandong Province",
+        "latitude": 37.542211,
+        "longitude": 121.382626
+      },
+      "tags": [],
+      "products": [
+        {
+          "name": "Tripe and Meat Set Meal with 6 Meat Dishes and 6 Vegetable Dishes for 2-3 People",
+          "product_id": "S32959546924972330_P56695",
+          "store_id": "S19264770908101694_S38950",
+          "store_name": "Haidilao Hotpot (Yantai Zhenhua Mall Branch)",
+          "price": 268,
+          "tags": [
+            "Hot Pot"
+          ],
+          "attributes": [
+            "Clear Oil Spicy Hot Pot sgg340-400",
+            "Tomato Hot Pot sgg255-300",
+            "Three Fresh Hot Pot sgg10-25",
+            "Beef Tallow Spicy Pot Base sgg425-66"
+          ],
+          "quantity": 9999
+        },
+        {
+          "name": "Bullfrogs and Fish Flavorful Pot with 6 Meat Dishes and 5 Vegetable Dishes for 2-3 People",
+          "product_id": "S23204590709797608_P42344",
+          "store_id": "S19264770908101694_S38950",
+          "store_name": "Haidilao Hotpot (Yantai Zhenhua Mall Branch)",
+          "price": 268,
+          "tags": [
+            "Hot Pot"
+          ],
+          "attributes": [],
+          "quantity": 9999
+        },
+        {
+          "name": "Single Person Fatty Beef Premium Set Meal",
+          "product_id": "S96202573047637520_P45993",
+          "store_id": "S19264770908101694_S38950",
+          "store_name": "Haidilao Hotpot (Yantai Zhenhua Mall Branch)",
+          "price": 128,
+          "tags": [
+            "Hot Pot"
+          ],
+          "attributes": [],
+          "quantity": 9999
+        }
+      ]
+    }
+  },
+  "orders": {
+    "E0717003O01": {
+      "order_id": "E0717003O01",
+      "order_type": "delivery",
+      "user_id": "U000018",
+      "store_id": "S22380603448156647_S47133",
+      "note": "",
+      "location": {
+        "address": "Zhinong Li, Opposite to the North of Huaxin Garden, Xingfu South Road, Zhifu District, Yantai, Shandong Province",
+        "longitude": 121.366686,
+        "latitude": 37.563124
+      },
+      "dispatch_time": "2024-09-13 18:42:00",
+      "shipping_time": 26,
+      "delivery_time": "2024-09-13 19:08:00",
+      "total_price": 22.0,
+      "create_time": "2024-09-13 18:28:00",
+      "update_time": "2024-09-13 18:28:00",
+      "status": "delivered",
+      "products": [
+        {
+          "product_id": "S19752548911592184_P21735",
+          "price": 22.0,
+          "quantity": 1,
+          "attributes": "No Ice"
+        }
+      ]
+    }
+  }
+}

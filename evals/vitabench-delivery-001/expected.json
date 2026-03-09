@@ -1,0 +1,38 @@
+{
+  "required_orders": [
+    {
+      "order_id": "10711001T01",
+      "order_type": "delivery",
+      "user_id": "U000001",
+      "store_id": "S85277471199200385_S98778",
+      "note": "",
+      "location": {
+        "address": "Yunnan University Affiliated Hospital, 160 meters southeast of the intersection of Xinmin Lane and Pingzheng Street, Wuhua District, Kunming, Yunnan Province",
+        "longitude": 102.713518,
+        "latitude": 25.048244
+      },
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 25,
+      "create_time": "2025-06-21 11:20:00",
+      "update_time": "2025-06-21 11:20:00",
+      "status": "processed",
+      "products": [
+        {
+          "product_id": "S26110520013660896_P88296",
+          "price": 25,
+          "quantity": 1,
+          "attributes": ""
+        }
+      ]
+    }
+  ],
+  "rubrics": [
+    "The rice noodle restaurant must support Dine-in available",
+    "The rice noodle product must not be gold soup flavor, as the user is tired of it",
+    "The rice noodle product must not contain fried side dishes or high-purine ingredients (such as offal, seafood soup, etc.)",
+    "The delivery address for the rice noodle order should be Yunnan University Affiliated Hospital, 160 meters southeast of the intersection of Xinmin Lane and Pingzheng Street, Wuhua District, Kunming, Yunnan Province",
+    "The delivery time for the rice noodle order should be around 2025-06-21 12:00:00 to ensure completion of the meal before the afternoon break"
+  ]
+}

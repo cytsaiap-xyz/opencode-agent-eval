@@ -1,0 +1,80 @@
+{
+  "required_orders": [
+    {
+      "order_id": "10826063T001",
+      "order_type": "instore",
+      "user_id": "U858652",
+      "store_id": "S17564426772264179_I00002",
+      "note": "",
+      "location": null,
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 128,
+      "create_time": "2025-09-27 20:17:00",
+      "update_time": "2025-09-27 20:17:00",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17564426772264179_P00006",
+          "name": "Parent-child Animal Feeding Experience Package",
+          "price": 128,
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "order_id": "10826063T002",
+      "order_type": "instore",
+      "user_id": "U858652",
+      "store_id": "S17564426772264179_I00003",
+      "note": "",
+      "location": null,
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 86,
+      "create_time": "2025-09-27 20:20:00",
+      "update_time": "2025-09-27 20:20:00",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17564426772264179_P00010",
+          "name": "Classic You Mian Yu Yu",
+          "price": 48,
+          "quantity": 1
+        },
+        {
+          "product_id": "S17564426772264179_P00011",
+          "name": "Children's Nutritional Meal Package",
+          "price": 38,
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "book_id": "10826063T003",
+      "shop_id": "S17564426772264179_I00003",
+      "book_time": "2025-10-01 12:30:00",
+      "update_time": "2025-09-27 20:23:00",
+      "customer_id": "U858652",
+      "customer_count": 2,
+      "book_price": 10,
+      "status": "paid"
+    }
+  ],
+  "rubrics": [
+    "Based on available information, the equestrian club's parent-child packages have an age restriction of 5 years and above, so the recommendation should be the family park",
+    "The family park should be located within the city area",
+    "The family park should allow interaction with small animals",
+    "The ordered item at the family park should be a family package",
+    "The ordered item at the family park should include feeding small animals",
+    "Xibei should be no more than 3km (including 3km) from Wonderful Animal Kingdom Family Park, No. 18 Hong Kong Middle Road, Shinan District, Qingdao, Shandong Province",
+    "The ordered items at Xibei should include children's meals",
+    "The ordered items at Xibei should include You Mian (oat noodles)",
+    "Children's meal package and You Mian should be from the same restaurant",
+    "The reservation time for Xibei should be National Day (October 1, 2025) at 12:30 PM",
+    "The number of people for the Xibei reservation should be 2",
+    "The reserved restaurant should be Xibei You Mian Village (Hong Kong Middle Road Branch)"
+  ]
+}

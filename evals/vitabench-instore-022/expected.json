@@ -1,0 +1,77 @@
+{
+  "required_orders": [
+    {
+      "order_id": "10826006T001",
+      "order_type": "instore",
+      "user_id": "U354723",
+      "store_id": "S17564420305476295_I00001",
+      "note": "",
+      "location": null,
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 298,
+      "create_time": "2025-03-14 16:27:00",
+      "update_time": "2025-03-14 16:27:00",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17564420305476295_P00001",
+          "name": "Single Hot Spring SPA Accommodation Package (Including Multi-temperature Pools + Private Bath House)",
+          "price": 298,
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "reservation_id": "10826006T002",
+      "shop_id": "S17564420305476295_I00001",
+      "reservation_time": "2025-03-16 20:00:00",
+      "update_time": "2025-03-14 16:29:00",
+      "customer_id": "U354723",
+      "customer_count": 1,
+      "status": "paid"
+    },
+    {
+      "order_id": "10826006T003",
+      "order_type": "instore",
+      "user_id": "U354723",
+      "store_id": "S17564420305476295_I00002",
+      "note": "",
+      "location": null,
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 52,
+      "create_time": "2025-03-14 16:31:00",
+      "update_time": "2025-03-14 16:31:00",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17564420305476295_P00005",
+          "name": "Sour Soup Beef Single Serving Package",
+          "price": 52,
+          "quantity": 1
+        }
+      ]
+    }
+  ],
+  "rubrics": [
+    "Hot spring store orders must include SPA services",
+    "The hot spring establishment must provide Free Parking service",
+    "Products ordered at hot spring establishments must offer Multi-temperature Pools for selection",
+    "Products ordered at hot spring establishments must provide good Private Space",
+    "Products ordered at hot spring establishments should be priced between 180-300 yuan (inclusive)",
+    "Products ordered at hot spring establishments should include Accommodation",
+    "Products ordered at hot spring establishments should be Single Serving packages",
+    "The reserved hot spring establishment should be Yunding Hot Spring Resort",
+    "The number of people for the hot spring reservation is 1",
+    "The reservation time for the hot spring establishment is March 16, 2025 at 20:00:00",
+    "The restaurant must provide Free Parking service",
+    "The restaurant must be within 2km (inclusive) of Yunding Hot Spring Resort, 88 Hot Spring Road, Qiantao Township, Huaxi District, Guiyang",
+    "Products ordered at the restaurant must include Sour Soup Beef",
+    "The restaurant rating should be 4.2 or above",
+    "Restaurant orders should be Single Serving packages",
+    "Restaurant order prices should be within 60 yuan"
+  ]
+}

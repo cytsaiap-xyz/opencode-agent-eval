@@ -1,0 +1,186 @@
+{
+  "task_id": "10826063",
+  "domain": "instore",
+  "time": "2025-09-27 20:15:00",
+  "user_id": "U858652",
+  "weather": [
+    {
+      "city": "Qingdao City",
+      "category": "cloudy",
+      "datetime": "2025-10-01",
+      "temperature": [
+        16,
+        25
+      ],
+      "humidity": 55
+    }
+  ],
+  "location": [
+    {
+      "address": "Room 1203, Tower A, World Trade Center, No. 6 Hong Kong Middle Road, Shinan District, Qingdao, Shandong Province",
+      "longitude": 120.383087,
+      "latitude": 36.071137
+    },
+    {
+      "address": "5th Floor, Building 12, Zone B, Software Park No. 1, Shilaoren Tourist Park, Laoshan District, Qingdao, Shandong Province",
+      "longitude": 120.497442,
+      "latitude": 36.106576
+    }
+  ],
+  "user_profile": {
+    "user id": "U858652",
+    "occupation": "Product Manager",
+    "gender": "male",
+    "age group": "30~35",
+    "residence": "Qingdao",
+    "home address": "5th Floor, Building 12, Zone B, Software Park No. 1, Shilaoren Tourist Park, Laoshan District, Qingdao, Shandong Province",
+    "work address": "5th Floor, Building 12, Zone B, Software Park No. 1, Shilaoren Tourist Park, Laoshan District, Qingdao, Shandong Province",
+    "dietary restrictions": "Avoids sugar, avoids alcohol",
+    "family status": "Has children",
+    "personality": "Mild-tempered with high cooperativeness, good at listening and understanding"
+  },
+  "user_historical_behaviors": {
+    "user id": "U858652",
+    "occupation": "Product Manager",
+    "gender": "male",
+    "age group": "30~35",
+    "residence": "Qingdao",
+    "home address": "Room 1203, Tower A, World Trade Center, No. 6 Hong Kong Middle Road, Shinan District, Qingdao, Shandong Province",
+    "work address": "5th Floor, Building 12, Zone B, Software Park No. 1, Shilaoren Tourist Park, Laoshan District, Qingdao, Shandong Province",
+    "in-store dining": {
+      "fine-dining": {
+        "frequently purchased categories": [
+          "Local Cuisine/Seafood (Average 128 yuan)",
+          "Foreign Cuisine/Western Food (Average 150 yuan)",
+          "Local Cuisine/Cantonese Food (Average 135 yuan)"
+        ],
+        "preferred average price per person": "120~160 yuan",
+        "preferred store rating": "4.2~4.8 stars",
+        "typical dining time": "18:30-20:30",
+        "preferred distance": "1000~5000m",
+        "recent orders": [
+          {
+            "store": "Hongdao Bay Seafood Restaurant",
+            "product": "Steamed Yellow Croaker + Sea Cucumber with Scallion Oil"
+          },
+          {
+            "store": "West Coast Steak House",
+            "product": "Australian Wagyu Set Menu"
+          },
+          {
+            "store": "Cantonese Flavor House",
+            "product": "White Cut Chicken + Braised Sea Cucumber in Abalone Sauce"
+          }
+        ],
+        "search history": [
+          "Qingdao seafood",
+          "Sugar-free desserts",
+          "Family-friendly restaurants",
+          "Business banquet"
+        ]
+      },
+      "light meal": {
+        "frequently purchased categories": [
+          "Snacks/Fast Food/Chinese Quick Meals (Average 35 yuan)",
+          "Snacks/Fast Food/Western Fast Food (Average 42 yuan)",
+          "Local Cuisine/Northeastern Food (Average 48 yuan)"
+        ],
+        "preferred average price per person": "30~50 yuan",
+        "preferred store rating": "3.5~4.2 stars",
+        "typical dining time": "12:00-13:00",
+        "preferred distance": "0~800m",
+        "recent orders": [
+          {
+            "store": "Old Wang's Fried Rice",
+            "product": "Assorted Fried Rice + Hot and Sour Soup"
+          },
+          {
+            "store": "Mr. Salad",
+            "product": "Low-sugar Chicken Breast Salad"
+          },
+          {
+            "store": "Northeastern Dumpling House",
+            "product": "Three Delicacies Dumplings + Cabbage Pork Dumplings"
+          }
+        ],
+        "search history": [
+          "Low-sugar meals",
+          "Working meals",
+          "Healthy quick meals",
+          "Fast service"
+        ]
+      },
+      "desserts/drinks/snacks": {
+        "frequently purchased categories": [
+          "Beverage Shops (Average 22 yuan)",
+          "Bread and Desserts (Average 30 yuan)",
+          "Other Food/Fresh Fruits (Average 25 yuan)"
+        ],
+        "preferred average price per person": "20~35 yuan",
+        "preferred store rating": "4.0~4.5 stars",
+        "typical dining time": "15:00-16:30",
+        "preferred distance": "0~600m",
+        "recent orders": [
+          {
+            "store": "Tea Hundred",
+            "product": "Sugar-free Oolong Tea + Coconut Jelly"
+          },
+          {
+            "store": "85°C",
+            "product": "Sugar-free Whole Wheat Bread"
+          },
+          {
+            "store": "Fresh Cut Fruit Bar",
+            "product": "Fruit Platter"
+          }
+        ],
+        "search history": [
+          "Sugar-free drinks",
+          "Low-calorie desserts",
+          "Healthy tea beverages",
+          "Children's snacks"
+        ]
+      }
+    },
+    "other in-store services": {
+      "frequently consumed categories": {
+        "Sports & Fitness/Fitness Centers": "40%",
+        "Sports & Fitness/Ball Sports": "30%",
+        "Family/Parent-child Recreation": "20%",
+        "Leisure Entertainment/Massage/Foot Therapy": "10%"
+      },
+      "cost per order by category": {
+        "Sports & Fitness/Fitness Centers": "150~300 yuan",
+        "Sports & Fitness/Ball Sports": "80~150 yuan",
+        "Family/Parent-child Recreation": "100~200 yuan",
+        "Leisure Entertainment/Massage/Foot Therapy": "120~180 yuan"
+      },
+      "preferred store rating": "4.0~4.8 stars",
+      "preferred service time": "18:00-21:00",
+      "preferred distance": "0~3000m",
+      "recent orders": [
+        {
+          "store": "Qingdao Fitness Factory",
+          "product": "Monthly Fitness Package"
+        },
+        {
+          "store": "Starry Sky Badminton Court",
+          "product": "Two-person Badminton Court for 2 Hours"
+        },
+        {
+          "store": "Wonderful Playground",
+          "product": "Parent-child Interaction Package"
+        }
+      ],
+      "search history": [
+        "Gym",
+        "Family Activities",
+        "Weekend recreation",
+        "Badminton court",
+        "Low-intensity exercise"
+      ]
+    }
+  },
+  "stores": {},
+  "orders": {}
+}

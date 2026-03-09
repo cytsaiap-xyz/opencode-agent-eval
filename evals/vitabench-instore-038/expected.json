@@ -1,0 +1,64 @@
+{
+  "required_orders": [
+    {
+      "reservation_id": "10826031T001",
+      "shop_id": "S17564424237133476_I00003",
+      "reservation_time": "2023-03-24 13:00:00",
+      "update_time": "2023-03-17 10:16:00",
+      "customer_id": "U469559",
+      "customer_count": 20,
+      "status": "unconsumed"
+    },
+    {
+      "order_id": "10826031T002",
+      "order_type": "instore",
+      "user_id": "U469559",
+      "store_id": "S17564424237133476_I00003",
+      "note": "",
+      "location": null,
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 1588,
+      "create_time": "2023-03-17 10:16:25",
+      "update_time": "2023-03-17 10:16:25",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17564424237133476_P00010",
+          "name": "Luxury Party Package",
+          "price": 1588,
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "book_id": "10826031T003",
+      "shop_id": "S17564424237133476_I00003",
+      "book_time": "2023-03-24 18:30:00",
+      "update_time": "2023-03-17 10:17:03",
+      "customer_id": "U469559",
+      "customer_count": 20,
+      "book_price": 100,
+      "status": "paid"
+    }
+  ],
+  "rubrics": [
+    "The venue to be booked is a large party venue",
+    "The party venue should be equipped with a projector",
+    "The party venue reservation time is next Friday, March 24, 2023, at 13:00:00",
+    "The party venue reservation is for 20 people",
+    "The party venue package duration should be 5 hours",
+    "The party venue package should include Unlimited KTV access",
+    "The party venue package should include Unlimited Billiards access",
+    "The party venue package should include Unlimited Mahjong access",
+    "The party venue package should include Unlimited PS5 Gaming access",
+    "The party venue package should include Unlimited Board Games access",
+    "The party venue to be booked should be LePai Party House",
+    "The restaurant to be booked must be a Chinese restaurant",
+    "The restaurant must be within 3 kilometers (inclusive) of LePai Party House, located at the intersection of Wangcheng Avenue and Kaixuan East Road, Xigong District, Luoyang",
+    "The restaurant must have a large private room",
+    "The reservation time is next Friday, March 24, 2023, at 18:30:00",
+    "The reservation is for 20 people"
+  ]
+}

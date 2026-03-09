@@ -1,0 +1,366 @@
+{
+  "task_id": "E0721004",
+  "domain": "delivery",
+  "time": "2024-12-13 17:07:29",
+  "user_id": "U000067",
+  "weather": [
+    {
+      "city": "Taizhou City",
+      "category": "sunny",
+      "datetime": "2024-12-13",
+      "temperature": [
+        5,
+        12
+      ],
+      "humidity": 79
+    }
+  ],
+  "location": [
+    {
+      "address": "Zhejiang Hisun Pharmaceutical Co., Ltd., Binhai Industrial Zone, No. 56 Binhai Road, Jiaojiang District, Taizhou City, Zhejiang Province",
+      "longitude": 121.499469,
+      "latitude": 28.661968
+    },
+    {
+      "address": "Chuangshi Mingdi, No. 1 Haiwang Road, Jiaojiang District, Taizhou City, Zhejiang Province",
+      "longitude": 121.538383,
+      "latitude": 28.59289
+    }
+  ],
+  "user_profile": {
+    "user id": "U000067",
+    "occupation": "Technical Staff",
+    "gender": "male",
+    "age group": "30~35",
+    "residence": "Taizhou",
+    "home address": "Chuangshi Mingdi, No. 1 Haiwang Road, Jiaojiang District, Taizhou City, Zhejiang Province",
+    "work address": "Zhejiang Hisun Pharmaceutical Co., Ltd., Binhai Industrial Zone, No. 56 Binhai Road, Jiaojiang District, Taizhou City, Zhejiang Province",
+    "dietary restrictions": "None",
+    "family status": "Living alone",
+    "personality": "Overly dependent on others' guidance, lacking independence and decisiveness"
+  },
+  "user_historical_behaviors": {
+    "user id": "U000067",
+    "occupation": "Technical Staff",
+    "gender": "male",
+    "age group": "30~35",
+    "residence": "Taizhou",
+    "home address": "Chuangshi Mingdi, No. 1 Haiwang Road, Jiaojiang District, Taizhou City, Zhejiang Province",
+    "work address": "Zhejiang Hisun Pharmaceutical Co., Ltd., Binhai Industrial Zone, No. 56 Binhai Road, Jiaojiang District, Taizhou City, Zhejiang Province",
+    "breakfast": {
+      "frequently purchased categories": [
+        "Quick Meals/Steamed Buns/Pan-fried Buns (Average 18 yuan)",
+        "Quick Meals/Fried Dough Sticks (Average 5 yuan)",
+        "Quick Meals/Chinese Noodles (Average 24 yuan)"
+      ],
+      "cost per order": "15~35 yuan",
+      "preferred store rating": "4.3~4.8 stars",
+      "preferred delivery time": "15~25 minutes",
+      "preferred distance": "0~2500m",
+      "recent orders": [
+        {
+          "store": "Lao Yang Breakfast Shop",
+          "product": "Meat Buns + Soy Milk"
+        },
+        {
+          "store": "Huainan Beef Soup",
+          "product": "Beef Soup Noodles"
+        },
+        {
+          "store": "Tianjin Goubuli",
+          "product": "Steamed Dumplings + Fried Dough Sticks"
+        }
+      ],
+      "search history": [
+        "Stomach-friendly breakfast",
+        "Non-spicy breakfast",
+        "Beef noodles",
+        "Health porridge",
+        "Light meals"
+      ]
+    },
+    "weekday lunch/dinner": {
+      "frequently purchased categories": [
+        "Quick Meals/Braised Chicken Rice (Average 28 yuan)",
+        "Chinese Cuisine/Northeastern Dishes (Average 45 yuan)",
+        "Quick Meals/Fast Food (Average 36 yuan)"
+      ],
+      "cost per order": "25~60 yuan",
+      "preferred store rating": "4.2~5.0 stars",
+      "preferred delivery time": "20~35 minutes",
+      "preferred distance": "500~7000m",
+      "recent orders": [
+        {
+          "store": "Braised Chicken Rice",
+          "product": "Mildly Spicy Braised Chicken Rice + Vegetables"
+        },
+        {
+          "store": "Northeastern Home Cooking",
+          "product": "Sweet and Sour Pork + Rice"
+        },
+        {
+          "store": "Grandma Yan Korean Soup Rice (Central Plaza Branch•Stone Pot Bibimbap)",
+          "product": "Fish Cake Ramen Rice Cake | Easily Clumpy, Order with Caution"
+        }
+      ],
+      "search history": [
+        "Mildly spicy lunch",
+        "Stomach-friendly",
+        "Healthy meals",
+        "Low oil",
+        "Fast food combo"
+      ]
+    },
+    "weekend lunch/dinner": {
+      "frequently purchased categories": [
+        "International Cuisine/Japanese Bento/Sushi (Average 85 yuan)",
+        "Chinese Cuisine/Hunan Dishes (Average 95 yuan)",
+        "International Cuisine/Pasta (Average 68 yuan)"
+      ],
+      "cost per order": "65~150 yuan",
+      "preferred store rating": "4.5~4.9 stars",
+      "preferred delivery time": "25~45 minutes",
+      "preferred distance": "1000~5000m",
+      "recent orders": [
+        {
+          "store": "Helu Rotating Sushi",
+          "product": "Salmon Set Meal"
+        },
+        {
+          "store": "Xiang Meizi Restaurant",
+          "product": "Homestyle Stir-fried Pork + Chopped Chili Fish Head (Mildly Spicy)"
+        },
+        {
+          "store": "Naples Pasta House",
+          "product": "Creamy Mushroom Pasta + Salad"
+        }
+      ],
+      "search history": [
+        "Family-friendly restaurant",
+        "Family set meals",
+        "Suitable for children",
+        "Mildly spicy Hunan cuisine",
+        "Japanese food"
+      ]
+    },
+    "desserts/drinks/snacks": {
+      "frequently purchased categories": [
+        "Drinks & Desserts/Coffee (Average 28 yuan)",
+        "Drinks & Desserts/Fruit Salad (Average 32 yuan)",
+        "Drinks & Desserts/Chinese Pastries (Average 22 yuan)"
+      ],
+      "cost per order": "15~40 yuan",
+      "preferred store rating": "4.4~4.9 stars",
+      "preferred delivery time": "15~30 minutes",
+      "preferred distance": "0~3000m",
+      "recent orders": [
+        {
+          "store": "Starbucks",
+          "product": "Americano"
+        },
+        {
+          "store": "Xianfeng Fruits",
+          "product": "Fruit Salad Cup"
+        },
+        {
+          "store": "Daoxiangcun",
+          "product": "Mung Bean Cake"
+        }
+      ],
+      "search history": [
+        "Low-sugar desserts",
+        "Fruit tea",
+        "Coffee",
+        "Sugar-free drinks",
+        "Healthy snacks"
+      ]
+    },
+    "night snack": {
+      "frequently purchased categories": [
+        "Quick Meals/Clay Pot Soup (Average 28 yuan)",
+        "Quick Meals/Hot Pot Dishes (Average 42 yuan)",
+        "Snacks & Deli/Marinated Food (Average 35 yuan)"
+      ],
+      "cost per order": "20~55 yuan",
+      "preferred store rating": "4.0~4.6 stars",
+      "preferred delivery time": "20~40 minutes",
+      "preferred distance": "1000~4000m",
+      "recent orders": [
+        {
+          "store": "Lao Wang Hot Pot",
+          "product": "Stomach-friendly Hot Pot Porridge"
+        },
+        {
+          "store": "Haiji Clay Pot Soup",
+          "product": "Mushroom Clay Pot Soup"
+        },
+        {
+          "store": "Dexing Deli",
+          "product": "Marinated Food Platter"
+        }
+      ],
+      "search history": [
+        "Stomach-friendly late night snack",
+        "Mildly spicy night food",
+        "Porridge",
+        "Easy to digest",
+        "Clay pot soup"
+      ]
+    }
+  },
+  "stores": {
+    "S31127199787566498_S75237": {
+      "name": "Xiaoyu Family Sauerkraut Fish (Rice.Rice Noodles.Yuehu Branch)",
+      "store_id": "S31127199787566498_S75237",
+      "score": 4.6,
+      "location": {
+        "address": "Stall No. 12, B1 Floor, Building 5-6, Lakeside Garden, Eastern New District, Taizhou Bay New Area, Taizhou City, Zhejiang Province",
+        "latitude": 28.5951,
+        "longitude": 121.537797
+      },
+      "tags": [],
+      "products": [
+        {
+          "name": "Lemon Sour Soup Black Fish + 7 Side Dishes + Rice",
+          "store_id": "S31127199787566498_S75237",
+          "store_name": "Xiaoyu Family Sauerkraut Fish (Rice.Rice Noodles.Yuehu Branch)",
+          "price": 29.88,
+          "tags": [
+            "Appetizing"
+          ],
+          "product_id": "S25190868040778027_P13009",
+          "attributes": [],
+          "quantity": 9999
+        }
+      ]
+    },
+    "S31834913635855682_S09841": {
+      "name": "Grandma Yan Korean Soup Rice (Central Plaza Branch•Stone Pot Bibimbap)",
+      "store_id": "S31834913635855682_S09841",
+      "score": 4.7,
+      "location": {
+        "address": "No. 020, 1st Floor, Jindi Central Plaza, No. 859 Ankang Road, Haimen Street, Jiaojiang District, Taizhou City, Zhejiang Province",
+        "latitude": 28.647008,
+        "longitude": 121.454663
+      },
+      "tags": [],
+      "products": [
+        {
+          "name": "[Hot Sale] Korean Soft Tofu Soup + Rice (Single Portion)",
+          "store_id": "S31834913635855682_S09841",
+          "store_name": "Grandma Yan Korean Soup Rice (Central Plaza Branch•Stone Pot Bibimbap)",
+          "price": 26.88,
+          "tags": [],
+          "product_id": "S29104756795340843_P23967",
+          "attributes": [],
+          "quantity": 9999
+        },
+        {
+          "name": "Fish Cake Ramen Rice Cake | Easily Clumpy, Order with Caution",
+          "product_id": "S51607455637047373_P21275",
+          "store_id": "S31834913635855682_S09841",
+          "store_name": "Grandma Yan Korean Soup Rice (Central Plaza Branch•Stone Pot Bibimbap)",
+          "price": 32.88,
+          "tags": [],
+          "attributes": [],
+          "quantity": 9999
+        },
+        {
+          "name": "Korean Soft Tofu Soup (Without Rice)",
+          "product_id": "S39301881357728731_P21047",
+          "store_id": "S31834913635855682_S09841",
+          "store_name": "Grandma Yan Korean Soup Rice (Central Plaza Branch•Stone Pot Bibimbap)",
+          "price": 24.88,
+          "tags": [],
+          "attributes": [],
+          "quantity": 9999
+        }
+      ]
+    },
+    "S29761919882631225_S35621": {
+      "name": "Little Cabin Flavor (Stir-fry)",
+      "store_id": "S29761919882631225_S35621",
+      "score": 4.9,
+      "location": {
+        "address": "Jinhai Mall, Opposite Galaxy Mall, Gongren Road, Jiaojiang District, Taizhou City, Zhejiang Province",
+        "latitude": 28.6814,
+        "longitude": 121.433644
+      },
+      "tags": [],
+      "products": [
+        {
+          "name": "Crucian Carp Tofu Soup",
+          "product_id": "S33076673020966032_P95031",
+          "store_id": "S29761919882631225_S35621",
+          "store_name": "Little Cabin Flavor (Stir-fry)",
+          "price": 35.98,
+          "tags": [],
+          "attributes": [],
+          "quantity": 9999
+        }
+      ]
+    },
+    "S11159675405795966_S50199": {
+      "name": "Jiangxi Happy Stir-fry",
+      "store_id": "S11159675405795966_S50199",
+      "score": 4.4,
+      "location": {
+        "address": "No. 7-8, Building 87, Jinlijia Garden, Womin Community, Pengjie Town, Luqiao District, Taizhou City, Zhejiang Province",
+        "latitude": 28.567608,
+        "longitude": 121.528729
+      },
+      "tags": [],
+      "products": [
+        {
+          "name": "White Rice (Orders with 1 dish and 3 rice not accepted)",
+          "product_id": "S26157887426481990_P88411",
+          "store_id": "S11159675405795966_S50199",
+          "store_name": "Jiangxi Happy Stir-fry",
+          "price": 1,
+          "tags": [],
+          "attributes": [],
+          "quantity": 9999
+        },
+        {
+          "name": "Soft Tofu Soup",
+          "product_id": "S11405213750348490_P39913",
+          "store_id": "S11159675405795966_S50199",
+          "store_name": "Jiangxi Happy Stir-fry",
+          "price": 11,
+          "tags": [],
+          "attributes": [],
+          "quantity": 9999
+        }
+      ]
+    }
+  },
+  "orders": {
+    "E0721004T01": {
+      "order_id": "E0721004T01",
+      "order_type": "delivery",
+      "user_id": "U000067",
+      "store_id": "S31127199787566498_S75237",
+      "note": "",
+      "location": {
+        "address": "Chuangshi Mingdi, No. 1 Haiwang Road, Jiaojiang District, Taizhou City, Zhejiang Province",
+        "longitude": 121.538383,
+        "latitude": 28.59289
+      },
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 29.88,
+      "create_time": "2024-12-13 17:06:00",
+      "update_time": "2024-12-13 17:06:00",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S25190868040778027_P13009",
+          "price": 29.88,
+          "quantity": 1,
+          "attributes": ""
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,146 @@
+{
+  "required_orders": [
+    {
+      "order_id": "70807005T001",
+      "order_type": "flight",
+      "user_id": "U010024",
+      "store_id": "S17557511800822767_F00009",
+      "note": "",
+      "location": null,
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 2340,
+      "create_time": "2028-06-13 15:24:34",
+      "update_time": "2028-06-13 15:24:34",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17557511800822767_P00079",
+          "price": 780,
+          "quantity": 3,
+          "date": "2028-06-26",
+          "seat_type": "Economy Class"
+        }
+      ]
+    },
+    {
+      "order_id": "70807005T002",
+      "order_type": "flight",
+      "user_id": "U010024",
+      "store_id": "S17557511800822767_F00011",
+      "note": "",
+      "location": null,
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 3840,
+      "create_time": "2028-06-13 15:27:34",
+      "update_time": "2028-06-13 15:27:34",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17557511800822767_P00089",
+          "price": 1280,
+          "quantity": 3,
+          "date": "2028-06-30",
+          "seat_type": "Economy Class"
+        }
+      ]
+    },
+    {
+      "order_id": "70807005T003",
+      "order_type": "hotel",
+      "user_id": "U010024",
+      "store_id": "S17557511800822767_H00003",
+      "note": "",
+      "location": null,
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 3152,
+      "create_time": "2028-06-13 15:29:34",
+      "update_time": "2028-06-13 15:29:34",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17557511800822767_P00011",
+          "price": 788,
+          "quantity": 1,
+          "date": "2028-06-26",
+          "room_type": "Dunhuang Style Family Suite"
+        },
+        {
+          "product_id": "S17557511800822767_P00012",
+          "price": 788,
+          "quantity": 1,
+          "date": "2028-06-27",
+          "room_type": "Dunhuang Style Family Suite"
+        },
+        {
+          "product_id": "S17557511800822767_P00013",
+          "price": 788,
+          "quantity": 1,
+          "date": "2028-06-28",
+          "room_type": "Dunhuang Style Family Suite"
+        },
+        {
+          "product_id": "S17557511800822767_P00014",
+          "price": 788,
+          "quantity": 1,
+          "date": "2028-06-29",
+          "room_type": "Dunhuang Style Family Suite"
+        }
+      ]
+    },
+    {
+      "order_id": "70807005T004",
+      "order_type": "attraction",
+      "user_id": "U010024",
+      "store_id": "S17557511800822767_A00005",
+      "note": "",
+      "location": null,
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 595,
+      "create_time": "2028-06-13 15:33:34",
+      "update_time": "2028-06-13 15:33:34",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17557511800822767_P00031",
+          "price": 238,
+          "quantity": 2,
+          "date": "2028-06-28",
+          "ticket_type": "Adult Ticket"
+        },
+        {
+          "product_id": "S17557511800822767_P00032",
+          "price": 119,
+          "quantity": 1,
+          "date": "2028-06-28",
+          "ticket_type": "Student Ticket"
+        }
+      ]
+    }
+  ],
+  "rubrics": [
+    "Departure flight date is June 26, 2028",
+    "Departure flight cannot be a Red-eye Flight",
+    "Number of departure flight tickets is 3",
+    "Departure flight should be from Yantai to Dunhuang",
+    "Return flight date is June 30, 2028",
+    "Return flight cannot be a Red-eye Flight",
+    "Number of return flight tickets is 3",
+    "Return flight should be from Dunhuang to Yantai",
+    "Hotel should have Dunhuang characteristics",
+    "The booked hotel should be Dunhuang Feitian Theme Hotel",
+    "Hotel room type should be Family Suite or Twin Room",
+    "Hotel reservation should include 4 nights, specifically for June 26, 2028, June 27, 2028, June 28, 2028, and June 29, 2028",
+    "The attraction to be booked should be Mogao Caves",
+    "Attraction tickets should include 2 Adult Tickets",
+    "Attraction tickets should include 1 Student Ticket",
+    "The date for using attraction tickets is June 28, 2028"
+  ]
+}

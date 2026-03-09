@@ -1,0 +1,195 @@
+{
+  "task_id": "10826040",
+  "domain": "instore",
+  "time": "2024-05-28 18:23:23",
+  "user_id": "U204258",
+  "weather": [
+    {
+      "city": "Zhuhai City",
+      "category": "sunny",
+      "datetime": "2024-06-02",
+      "temperature": [
+        24,
+        32
+      ],
+      "humidity": 45
+    },
+    {
+      "city": "Zhuhai City",
+      "category": "cloudy",
+      "datetime": "2024-05-28",
+      "temperature": [
+        23,
+        30
+      ],
+      "humidity": 55
+    }
+  ],
+  "location": [
+    {
+      "address": "Room 1204, Building 3, Huafa Four Seasons Garden, 2023 Jiuzhou Avenue West, Xiangzhou District, Zhuhai",
+      "longitude": 113.526,
+      "latitude": 22.265
+    },
+    {
+      "address": "5th Floor, Building B2, CLP Technology Park, 8 Jinhong Road, Tangjia Bay, High-Tech Zone, Zhuhai",
+      "longitude": 113.547,
+      "latitude": 22.362
+    }
+  ],
+  "user_profile": {
+    "user id": "U204258",
+    "occupation": "Engineer",
+    "gender": "female",
+    "age group": "30~35",
+    "residence": "Zhuhai",
+    "home address": "Room 1204, Building 3, Huafa Four Seasons Garden, 2023 Jiuzhou Avenue West, Xiangzhou District, Zhuhai",
+    "work address": "5th Floor, Building B2, CLP Technology Park, 8 Jinhong Road, Tangjia Bay, High-Tech Zone, Zhuhai",
+    "dietary restrictions": "Low Sodium, Caffeine-Free",
+    "family status": "In a relationship",
+    "personality": "Experiences significant mood swings, expresses herself with strong emotional coloring"
+  },
+  "user_historical_behaviors": {
+    "user id": "U204258",
+    "occupation": "Engineer",
+    "gender": "female",
+    "age group": "30~35",
+    "residence": "Zhuhai",
+    "home address": "Room 1204, Building 3, Huafa Four Seasons Garden, 2023 Jiuzhou Avenue West, Xiangzhou District, Zhuhai",
+    "work address": "5th Floor, Building B2, CLP Technology Park, 8 Jinhong Road, Tangjia Bay, High-Tech Zone, Zhuhai",
+    "in-store dining": {
+      "fine-dining": {
+        "frequently purchased categories": [
+          "Local Cuisine/Cantonese Cuisine (Average 120 yuan)",
+          "Foreign Cuisine/Japanese Food (Average 150 yuan)",
+          "Foreign Cuisine/Western Food (Average 130 yuan)"
+        ],
+        "preferred average price per person": "100~150 yuan",
+        "preferred store rating": "4.2~4.9 stars",
+        "typical dining time": "18:30-20:30",
+        "preferred distance": "500~3000m",
+        "recent orders": [
+          {
+            "store": "Sun & Moon Seafood Restaurant",
+            "product": "Steamed Zhuhai Guishan Grouper"
+          },
+          {
+            "store": "Lugang Xiaozhen Taiwanese Restaurant",
+            "product": "Three Cup Chicken Set"
+          },
+          {
+            "store": "Sicily Italian Restaurant",
+            "product": "Truffle Steak Pasta"
+          }
+        ],
+        "search history": [
+          "Caffeine-Free",
+          "Low sodium dishes",
+          "Couple Date restaurant",
+          "Restaurants with nice environment"
+        ]
+      },
+      "light meal": {
+        "frequently purchased categories": [
+          "Snacks & Fast Food/Chinese Quick Meal (Average 35 yuan)",
+          "Snacks & Fast Food/Western Fast Food (Average 40 yuan)",
+          "Local Cuisine/Sichuan Cuisine (Average 45 yuan)"
+        ],
+        "preferred average price per person": "30~50 yuan",
+        "preferred store rating": "3.5~4.3 stars",
+        "typical dining time": "12:00-13:30",
+        "preferred distance": "0~800m",
+        "recent orders": [
+          {
+            "store": "Laowanhui Sichuan Restaurant",
+            "product": "Boiled Fish Set (Mild Spicy)"
+          },
+          {
+            "store": "Salad Fashion",
+            "product": "Light Meal Salad"
+          },
+          {
+            "store": "Jiahe Yipin",
+            "product": "Braised Pork Rice"
+          }
+        ],
+        "search history": [
+          "Work meal",
+          "Healthy meal",
+          "Low Sodium",
+          "Fast food"
+        ]
+      },
+      "desserts/drinks/snacks": {
+        "frequently purchased categories": [
+          "Beverage Shops (Average 20 yuan)",
+          "Bread & Desserts (Average 25 yuan)",
+          "Other Food/Fresh Fruits (Average 15 yuan)"
+        ],
+        "preferred average price per person": "15~30 yuan",
+        "preferred store rating": "4.0~4.8 stars",
+        "typical dining time": "15:00-17:00",
+        "preferred distance": "0~600m",
+        "recent orders": [
+          {
+            "store": "HEYTEA",
+            "product": "Pulpy Grape Tea (No Sugar)"
+          },
+          {
+            "store": "Bread Talk",
+            "product": "Whole Wheat European Bread"
+          },
+          {
+            "store": "Fresh Fruit Workshop",
+            "product": "Fruit Platter"
+          }
+        ],
+        "search history": [
+          "Caffeine-Free drinks",
+          "Low sugar",
+          "Healthy desserts",
+          "Fruits"
+        ]
+      }
+    },
+    "other in-store services": {
+      "frequently consumed categories": {
+        "Sports & Fitness/Fitness Centers": "40%",
+        "Beauty/Yoga": "30%",
+        "Entertainment/Massage/Foot Therapy": "15%",
+        "Sports & Fitness/Ball Sports": "15%"
+      },
+      "cost per order by category": {
+        "Sports & Fitness/Fitness Centers": "80~200 yuan",
+        "Beauty/Yoga": "120~180 yuan",
+        "Entertainment/Massage/Foot Therapy": "150~300 yuan",
+        "Sports & Fitness/Ball Sports": "60~120 yuan"
+      },
+      "preferred store rating": "4.0~4.8 stars",
+      "preferred service time": "18:00-21:00",
+      "preferred distance": "0~5000m",
+      "recent orders": [
+        {
+          "store": "Qinghe Yoga Life Studio",
+          "product": "Single Person Yoga Course"
+        },
+        {
+          "store": "Super Monkey Fitness",
+          "product": "Monthly Membership"
+        },
+        {
+          "store": "Banyan Tree SPA",
+          "product": "Shoulder and Neck Relaxation Package"
+        }
+      ],
+      "search history": [
+        "Yoga courses",
+        "Gyms",
+        "Shoulder and neck massage",
+        "Badminton courts"
+      ]
+    }
+  },
+  "stores": {},
+  "orders": {}
+}

@@ -1,0 +1,75 @@
+{
+  "required_orders": [
+    {
+      "order_id": "10721003T01",
+      "order_type": "delivery",
+      "user_id": "U000042",
+      "store_id": "S94165448870298504_S93237",
+      "note": "",
+      "location": {
+        "address": "Green Island Garden, No. 63 Hong Kong Middle Road, Shinan District, Qingdao, Shandong Province (180m walking distance from Exit A of Yan'erdao Road Metro Station)",
+        "longitude": 120.40003,
+        "latitude": 36.066226
+      },
+      "dispatch_time": "2025-05-31 18:54:00",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 34,
+      "create_time": "2025-05-31 18:45:00",
+      "update_time": "2025-05-31 18:45:00",
+      "status": "in-progress",
+      "products": [
+        {
+          "product_id": "S14166528684325946_P34171",
+          "price": 34,
+          "quantity": 1,
+          "attributes": ""
+        }
+      ]
+    },
+    {
+      "order_id": "10721003T02",
+      "order_type": "delivery",
+      "user_id": "U000042",
+      "store_id": "S26286878923282243_S58501",
+      "note": "",
+      "location": {
+        "address": "Green Island Garden, No. 63 Hong Kong Middle Road, Shinan District, Qingdao, Shandong Province (180m walking distance from Exit A of Yan'erdao Road Metro Station)",
+        "longitude": 120.40003,
+        "latitude": 36.066226
+      },
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 72.56,
+      "create_time": "2025-05-31 18:49:00",
+      "update_time": "2025-05-31 18:49:00",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S14214267117147297_P22912",
+          "price": 26.88,
+          "quantity": 2,
+          "attributes": ""
+        },
+        {
+          "product_id": "S26376925645495405_P72482",
+          "price": 18.8,
+          "quantity": 1,
+          "attributes": ""
+        }
+      ]
+    }
+  ],
+  "rubrics": [
+    "The delivery address for children's beverage orders should be Green Island Garden, No. 63 Hong Kong Middle Road, Shinan District, Qingdao, Shandong Province (180m walking distance from Exit A of Yan'erdao Road Metro Station)",
+    "The delivery time for children's beverage orders should be before 2025-06-01 00:00:00",
+    "The merchant rating for children's beverage orders should be greater than or equal to 4.0",
+    "Children's beverages should not be milk or any product containing milk, to avoid stomach discomfort in children",
+    "The delivery address for night snack orders should be Green Island Garden, No. 63 Hong Kong Middle Road, Shinan District, Qingdao, Shandong Province (180m walking distance from Exit A of Yan'erdao Road Metro Station)",
+    "The delivery time for night snack orders should be scheduled after 2025-06-01 00:00:00",
+    "The merchant rating for night snack orders should be greater than or equal to 4.0",
+    "The merchant selected for night snack orders should support late-night delivery service",
+    "Items like Stir-fried River Snails in the night snack order should be selected with mild spicy or non-spicy flavor, suitable for users with mouth ulcers"
+  ]
+}

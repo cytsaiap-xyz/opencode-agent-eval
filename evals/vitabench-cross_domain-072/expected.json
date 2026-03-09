@@ -1,0 +1,143 @@
+{
+  "required_orders": [
+    {
+      "order_id": "OIb192a86a68",
+      "order_type": "instore",
+      "user_id": "U747738",
+      "store_id": "S17550807132085573_I00010",
+      "note": "",
+      "location": null,
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 5580,
+      "create_time": "2025-01-07 18:33:12",
+      "update_time": "2025-01-07 18:33:12",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17550807132085573_P00056",
+          "price": 5580,
+          "quantity": 1,
+          "name": "Large-scale Weight Loss Special Training Plan",
+          "shop_id": "S17550807132085573_I00010",
+          "tags": [
+            "Fitness Test",
+            "Nutrition Guidance",
+            "Professional Coach",
+            "Appropriate for Beginners"
+          ]
+        }
+      ]
+    },
+    {
+      "order_id": "10811004T002",
+      "order_type": "delivery",
+      "user_id": "U747738",
+      "store_id": "S17550807132085573_S00001",
+      "note": "",
+      "location": {
+        "address": "Fitness Nutrition Expert, No.56 Jianling New Village, 126 Jianhua South Street, Yuhua District, Shijiazhuang, Hebei Province",
+        "longitude": 114.548622,
+        "latitude": 38.026839
+      },
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 636,
+      "create_time": "2025-01-07 18:35:45",
+      "update_time": "2025-01-07 18:35:45",
+      "status": "unpaid",
+      "products": [
+        {
+          "product_id": "S17550807132085573_P00001",
+          "name": "Premium Whey Protein Powder (Vanilla Flavor)",
+          "price": 269,
+          "quantity": 1,
+          "tags": [
+            "Muscle Gain",
+            "Fitness Essential",
+            "High Protein",
+            "907g/tub"
+          ],
+          "attributes": ""
+        },
+        {
+          "product_id": "S17550807132085573_P00002",
+          "name": "BCAA Branched-Chain Amino Acid Powder",
+          "price": 189,
+          "quantity": 1,
+          "tags": [
+            "Anti-fatigue",
+            "Muscle Recovery",
+            "300g/can"
+          ],
+          "attributes": "Lemon flavor"
+        },
+        {
+          "product_id": "S17550807132085573_P00003",
+          "name": "Post-workout Recovery Drink (12 Bottles)",
+          "price": 89,
+          "quantity": 2,
+          "tags": [
+            "Electrolyte Supplement",
+            "Quick Recovery",
+            "Fitness"
+          ],
+          "attributes": ""
+        }
+      ]
+    },
+    {
+      "order_id": "10811004T001",
+      "order_type": "train",
+      "user_id": "U747738",
+      "store_id": "S17550807132085573_T00007",
+      "note": "",
+      "location": {
+        "address": "Baoding East Railway Station, 88 Tianhe Middle Road, Lianchi District, Baoding, Hebei Province",
+        "longitude": 115.563,
+        "latitude": 38.883
+      },
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 65,
+      "create_time": "2025-01-07 18:39:42",
+      "update_time": "2025-01-07 18:39:42",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17550807132085573_P00036",
+          "price": 65,
+          "quantity": 1,
+          "date": "2025-01-13",
+          "seat_type": "Second Class Seat"
+        }
+      ]
+    }
+  ],
+  "rubrics": [
+    "The weight loss boot camp ordered should be located in Shijiazhuang",
+    "The boot camp ordered should be a closed training mode",
+    "The boot camp package ordered must include Professional Coaching Guidance",
+    "The boot camp package ordered should be suitable for people with large-scale weight loss needs",
+    "The boot camp package ordered should be suitable for beginners",
+    "The boot camp package ordered must include Fitness Test service",
+    "The boot camp package ordered must include Nutritional Advice service",
+    "The duration of the boot camp package should be one month",
+    "The delivery address for the food delivery order should be Room 502, Building 3, Jinxin Community, 198 Dongfeng West Road, Lianchi District, Baoding, Hebei Province",
+    "The food delivery order should include Whey Protein",
+    "The food delivery order should include BCAA amino acid",
+    "The food delivery order should include Post-workout Recovery Drink",
+    "The quantity of BCAA amino acid in the food delivery order should be 1 tub",
+    "The specification of the Post-workout Recovery Drink should be by the pack",
+    "The quantity of Post-workout Recovery Drink in the food delivery order should be 2",
+    "The three products in the food delivery order should come from the same store",
+    "Need to check the order history for the past week, the result shows ordered food delivery 3 times, not exceeding 5 times, so should book a train ticket for January 13, 2025",
+    "The train ticket in the order should be Second Class Seat",
+    "The train in the order should be the earliest departure of the day",
+    "The train in the order should be from Baoding to Shijiazhuang",
+    "The train in the order should be High-speed Rail"
+  ]
+}

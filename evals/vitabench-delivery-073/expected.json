@@ -1,0 +1,103 @@
+{
+  "required_orders": [
+    {
+      "order_id": "E0721001T01",
+      "order_type": "delivery",
+      "user_id": "U000066",
+      "store_id": "S26065627586369062_S23399",
+      "note": "",
+      "location": {
+        "address": "A1 Tower, Tengfei Innovation Park, 160 meters southeast of the intersection of Xinping Street and Ruoshui Road, Huqiu District, Suzhou, Jiangsu Province",
+        "longitude": 120.733845,
+        "latitude": 31.254175
+      },
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 22.99,
+      "create_time": "2026-05-11 09:18:00",
+      "update_time": "2026-05-11 09:18:00",
+      "status": "processed",
+      "products": [
+        {
+          "product_id": "S18192528497455031_P17757",
+          "price": 22.99,
+          "quantity": 1,
+          "attributes": "Soup and Noodles Separated"
+        }
+      ]
+    },
+    {
+      "order_id": "E0721001T02",
+      "order_type": "delivery",
+      "user_id": "U000066",
+      "store_id": "S18286164646930495_S16514",
+      "note": "",
+      "location": {
+        "address": "A1 Tower, Tengfei Innovation Park, 160 meters southeast of the intersection of Xinping Street and Ruoshui Road, Huqiu District, Suzhou, Jiangsu Province",
+        "longitude": 120.733845,
+        "latitude": 31.254175
+      },
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 20.6,
+      "create_time": "2026-05-11 09:21:00",
+      "update_time": "2026-05-11 09:21:00",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S22810519353730742_P56607",
+          "price": 16.8,
+          "quantity": 1,
+          "attributes": ""
+        },
+        {
+          "product_id": "S23661573642546781_P96011",
+          "price": 3.8,
+          "quantity": 1,
+          "attributes": ""
+        }
+      ]
+    },
+    {
+      "order_id": "E0721001T03",
+      "order_type": "delivery",
+      "user_id": "U000066",
+      "store_id": "S89411709014069985_S86114",
+      "note": "",
+      "location": {
+        "address": "A1 Tower, Tengfei Innovation Park, 160 meters southeast of the intersection of Xinping Street and Ruoshui Road, Huqiu District, Suzhou, Jiangsu Province",
+        "longitude": 120.733845,
+        "latitude": 31.254175
+      },
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 22,
+      "create_time": "2026-05-11 09:22:00",
+      "update_time": "2026-05-11 09:22:00",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S28817184822656220_P10240",
+          "price": 22,
+          "quantity": 1,
+          "attributes": "Half Sugar (5) Recommended"
+        }
+      ]
+    }
+  ],
+  "rubrics": [
+    "The delivery address for the Golden Soup Five-Grain Fish Noodles order should be A1 Tower, Tengfei Innovation Park, 160 meters southeast of the intersection of Xinping Street and Ruoshui Road, Huqiu District, Suzhou, Jiangsu Province",
+    "The delivery time for the Golden Soup Five-Grain Fish Noodles order should be before 2026-05-11 11:00:00",
+    "The fish noodles item in the Golden Soup Five-Grain Fish Noodles order should select the option with soup and noodles separated",
+    "The delivery address for the snack order should be A1 Tower, Tengfei Innovation Park, 160 meters southeast of the intersection of Xinping Street and Ruoshui Road, Huqiu District, Suzhou, Jiangsu Province",
+    "The delivery time for the snack order should be before 2026-05-11 11:00:00",
+    "The pineapple bun item in the snack order should select the version without butter",
+    "The snack order should have a total of 2 items, both from De Fa Cai Chaozhou Porridge Tea Restaurant (Suzhou Hengyi Plaza Branch)",
+    "The delivery address for the Percent Tea fresh milk tea order should be A1 Tower, Tengfei Innovation Park, 160 meters southeast of the intersection of Xinping Street and Ruoshui Road, Huqiu District, Suzhou, Jiangsu Province",
+    "The delivery time for the Percent Tea fresh milk tea order should be before 2026-05-11 11:00:00",
+    "The milk tea item with Pistachio Cheese and Water Chestnut Balls in the Percent Tea fresh milk tea order should select half sugar sweetness"
+  ]
+}

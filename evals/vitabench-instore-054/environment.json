@@ -1,0 +1,174 @@
+{
+  "task_id": "10826079",
+  "domain": "instore",
+  "time": "2024-10-23 19:30:00",
+  "user_id": "U605626",
+  "weather": [
+    {
+      "city": "Changchun",
+      "category": "cloudy",
+      "datetime": "2024-10-24",
+      "temperature": [
+        12,
+        20
+      ],
+      "humidity": 55
+    }
+  ],
+  "location": [],
+  "user_profile": {
+    "user id": "U605626",
+    "occupation": "Cashier",
+    "gender": "female",
+    "age group": "25~30",
+    "residence": "Changchun",
+    "home address": "Room 502, Unit 1, Building 3, CR Arc de Triomphe, 1358 Chongqing Road, Chaoyang District, Changchun",
+    "work address": "Cashier Area, 1st Floor, Eurasia Mall, 8599 Yatai Street, Nanguan District, Changchun",
+    "dietary restrictions": "No fried food, low sugar",
+    "family status": "Has children",
+    "personality": "Extremely detail-oriented, tends to be picky and easily dissatisfied"
+  },
+  "user_historical_behaviors": {
+    "user id": "U605626",
+    "occupation": "Cashier",
+    "gender": "female",
+    "age group": "25~30",
+    "residence": "Changchun",
+    "home address": "Room 502, Unit 1, Building 3, CR Arc de Triomphe, 1358 Chongqing Road, Chaoyang District, Changchun",
+    "work address": "Cashier Area, 1st Floor, Eurasia Mall, 8599 Yatai Street, Nanguan District, Changchun",
+    "in-store dining": {
+      "fine-dining": {
+        "frequently purchased categories": [
+          "Regional Cuisine/Northeastern Cuisine (Average 95 yuan)",
+          "Regional Cuisine/Sichuan Cuisine (Average 85 yuan)",
+          "International Cuisine/Japanese Food (Average 120 yuan)"
+        ],
+        "preferred average price per person": "80~120 yuan",
+        "preferred store rating": "4.0~4.7 stars",
+        "typical dining time": "17:30-19:30",
+        "preferred distance": "500~3000m",
+        "recent orders": [
+          {
+            "store": "Little Sheep Hot Pot (Eurasia Mall Store)",
+            "product": "Clear Oil Dual-flavor Hot Pot + Vegetable Platter + Lamb Rolls"
+          },
+          {
+            "store": "Xianshen Shanghai Cuisine (Outlet Store)",
+            "product": "Home-style Tofu + Pine Nut Corn + Boiled Fish"
+          },
+          {
+            "store": "Helv Rotating Sushi (Eurasia Store)",
+            "product": "Salmon Sashimi + Sushi Platter"
+          }
+        ],
+        "search history": [
+          "Non-fried dishes",
+          "Healthy Northeastern cuisine",
+          "Family-friendly restaurants",
+          "Low-sugar Japanese cuisine"
+        ]
+      },
+      "light meal": {
+        "frequently purchased categories": [
+          "Snacks/Fast Food/Chinese Quick Meals (Average 35 yuan)",
+          "Snacks/Fast Food/Western Fast Food (Average 28 yuan)",
+          "Regional Cuisine/Northeastern Cuisine (Average 45 yuan)"
+        ],
+        "preferred average price per person": "25~55 yuan",
+        "preferred store rating": "3.5~4.2 stars",
+        "typical dining time": "11:30-13:00",
+        "preferred distance": "0~500m",
+        "recent orders": [
+          {
+            "store": "Wallace",
+            "product": "Value Meal for Two"
+          },
+          {
+            "store": "Yonghe King (Eurasia Store)",
+            "product": "Plain Soy Milk + Egg Pancake"
+          },
+          {
+            "store": "Shaxian Snacks (Chongqing Road Store)",
+            "product": "Three Delicacies Soup + Noodles"
+          }
+        ],
+        "search history": [
+          "Low-fat lunch",
+          "Healthy fast food",
+          "Nearby quick meals",
+          "Non-fried fast food"
+        ]
+      },
+      "desserts/drinks/snacks": {
+        "frequently purchased categories": [
+          "Beverage Shops (Average 16 yuan)",
+          "Bread and Desserts (Average 22 yuan)",
+          "Other Food/Fresh Fruits (Average 25 yuan)"
+        ],
+        "preferred average price per person": "15~25 yuan",
+        "preferred store rating": "3.8~4.5 stars",
+        "typical dining time": "15:00-16:30",
+        "preferred distance": "0~200m",
+        "recent orders": [
+          {
+            "store": "CoCo (Eurasia Mall Store)",
+            "product": "Sugar-free Jasmine Green Tea"
+          },
+          {
+            "store": "Fresh Fruit Cut (Eurasia Store)",
+            "product": "Fruit Platter"
+          },
+          {
+            "store": "Bread Talk (Arc de Triomphe Store)",
+            "product": "Whole Wheat Bread"
+          }
+        ],
+        "search history": [
+          "Sugar-free drinks",
+          "Low-calorie desserts",
+          "Healthy fruits",
+          "Children's snacks"
+        ]
+      }
+    },
+    "other in-store services": {
+      "frequently consumed categories": {
+        "Parent-Child/Family Entertainment": "45%",
+        "Beauty/Hair Salon": "20%",
+        "Sports & Fitness/Fitness Centers": "25%",
+        "Leisure Entertainment/Massage/Foot Therapy": "10%"
+      },
+      "cost per order by category": {
+        "Parent-Child/Family Entertainment": "80~150 yuan",
+        "Beauty/Hair Salon": "120~200 yuan",
+        "Sports & Fitness/Fitness Centers": "60~100 yuan",
+        "Leisure Entertainment/Massage/Foot Therapy": "120~180 yuan"
+      },
+      "preferred store rating": "4.0~4.8 stars",
+      "preferred service time": "Weekends 10:00-16:00",
+      "preferred distance": "0~5000m",
+      "recent orders": [
+        {
+          "store": "LEGO Land (Eurasia Mall Store)",
+          "product": "Family Package"
+        },
+        {
+          "store": "Youmi Yoga (Arc de Triomphe Store)",
+          "product": "Single Yoga Class"
+        },
+        {
+          "store": "Suran Anti-aging Center",
+          "product": "[Anti-aging Firming] Juvederm C Hyaluronic Acid 1ml injection filler"
+        }
+      ],
+      "search history": [
+        "Weekend family activities",
+        "Children's playground",
+        "Nearby gyms",
+        "Beginner yoga classes"
+      ]
+    }
+  },
+  "stores": {},
+  "orders": {}
+}

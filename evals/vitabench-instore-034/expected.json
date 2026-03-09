@@ -1,0 +1,73 @@
+{
+  "required_orders": [
+    {
+      "order_id": "10826039T001",
+      "order_type": "instore",
+      "user_id": "U697724",
+      "store_id": "S17564425297743877_I00001",
+      "note": "",
+      "location": null,
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 128,
+      "create_time": "2025-04-04 15:31:00",
+      "update_time": "2025-04-04 15:31:00",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17564425297743877_P00001",
+          "name": "Children's Calligraphy Enlightenment Experience Package (Complete Tool Set Included)",
+          "price": 128,
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "reservation_id": "10826039T002",
+      "shop_id": "S17564425297743877_I00001",
+      "reservation_time": "2025-04-06 15:00:00",
+      "update_time": "2025-04-04 15:32:00",
+      "customer_id": "U697724",
+      "customer_count": 1,
+      "status": "unconsumed"
+    },
+    {
+      "order_id": "10826039T003",
+      "order_type": "instore",
+      "user_id": "U697724",
+      "store_id": "S17564425297743877_I00002",
+      "note": "",
+      "location": null,
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 388,
+      "create_time": "2025-04-04 15:33:00",
+      "update_time": "2025-04-04 15:33:00",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17564425297743877_P00006",
+          "name": "Family Gathering Package A (For 5-6 People)",
+          "price": 388,
+          "quantity": 1
+        }
+      ]
+    }
+  ],
+  "rubrics": [
+    "The calligraphy order package must be suitable for children",
+    "The calligraphy package must include pen, ink, paper, and inkstone",
+    "The calligraphy order package must be an experience course package",
+    "The calligraphy package must provide One-on-One Teaching",
+    "The calligraphy order merchant must be within 3km of the home address (Room 1204, Building B, Hangyang International City, 131 Minzu Avenue, Qingxiu District, Nanning)",
+    "The calligraphy appointment merchant must be Han Mo Xuan Calligraphy Training Center",
+    "The calligraphy appointment order must be scheduled for Sunday afternoon (April 6, 2025) at 3 PM",
+    "The calligraphy appointment order must be for 1 person",
+    "The restaurant must be located within 3km of Mixc Shopping Center",
+    "The dining party consists of 6 people, including 4 adults, 1 young child, and 1 infant; the restaurant order should be one 5-6 person meal package rather than multiple 3-person packages",
+    "The restaurant package dishes must be Light Flavored",
+    "The restaurant must provide High Chair Available facility"
+  ]
+}

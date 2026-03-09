@@ -1,0 +1,190 @@
+{
+  "task_id": "10826082",
+  "domain": "instore",
+  "time": "2024-06-07 17:15:00",
+  "user_id": "U034740",
+  "weather": [
+    {
+      "city": "Guiyang City",
+      "category": "cloudy",
+      "datetime": "2024-06-07",
+      "temperature": [
+        22,
+        29
+      ],
+      "humidity": 65
+    }
+  ],
+  "location": [
+    {
+      "address": "Room 1203, Building A, Financial Center, 162 Beijing Road, Yunyan District, Guiyang City",
+      "longitude": 106.7145,
+      "latitude": 26.5785
+    },
+    {
+      "address": "Cardiology Department, 3rd Floor, Outpatient Building, Guiyang First People's Hospital, Huaguoyuan CBD, Nanming District, Guiyang City",
+      "longitude": 106.6833,
+      "latitude": 26.5619
+    },
+    {
+      "address": "Yoga World, M Zone, Huaguoyuan CBD, Nanming District, Guiyang City",
+      "longitude": 106.6852,
+      "latitude": 26.5638
+    }
+  ],
+  "user_profile": {
+    "user id": "U034740",
+    "occupation": "Doctor",
+    "gender": "female",
+    "age group": "35~40",
+    "residence": "Guiyang",
+    "home address": "Room 1203, Building A, Financial Center, 162 Beijing Road, Yunyan District, Guiyang City",
+    "work address": "Cardiology Department, 3rd Floor, Outpatient Building, Guiyang First People's Hospital, Huaguoyuan CBD, Nanming District, Guiyang City",
+    "dietary restrictions": "No Caffeine, No High Salt",
+    "family status": "Has Children",
+    "personality": "Tends to dominate and control, difficult to accept different opinions"
+  },
+  "user_historical_behaviors": {
+    "user id": "U034740",
+    "occupation": "Doctor",
+    "gender": "female",
+    "age group": "35~40",
+    "residence": "Guiyang",
+    "home address": "Room 1203, Building A, Financial Center, 162 Beijing Road, Yunyan District, Guiyang City",
+    "work address": "Cardiology Department, 3rd Floor, Outpatient Building, Guiyang First People's Hospital, Huaguoyuan CBD, Nanming District, Guiyang City",
+    "in-store dining": {
+      "fine-dining": {
+        "frequently purchased categories": [
+          "Foreign/Western cuisine (average 150 yuan)",
+          "Regional cuisine/Cantonese food (average 130 yuan)",
+          "Regional cuisine/Shanghai and Jiangsu-Zhejiang cuisine (average 120 yuan)"
+        ],
+        "preferred average price per person": "120~160 yuan",
+        "preferred store rating": "4.2~4.8 stars",
+        "typical dining time": "19:00-21:00",
+        "preferred distance": "500~3000m",
+        "recent orders": [
+          {
+            "store": "Yuexuan Chinese Restaurant",
+            "product": "Steamed Sea Bass Set Meal"
+          },
+          {
+            "store": "Yi Wei Xuan",
+            "product": "Low-sodium Steak Set"
+          },
+          {
+            "store": "Jiangnan Small Kitchen",
+            "product": "Crab Roe Lion's Head Meatballs"
+          }
+        ],
+        "search history": [
+          "Healthy Western food",
+          "Low-sodium Cantonese cuisine",
+          "Children's set meal",
+          "Business banquet"
+        ]
+      },
+      "light meal": {
+        "frequently purchased categories": [
+          "Snacks/Fast food/Chinese quick meals (average 45 yuan)",
+          "Regional cuisine/Shanghai and Jiangsu-Zhejiang cuisine (average 60 yuan)",
+          "Snacks/Fast food/Western fast food (average 40 yuan)"
+        ],
+        "preferred average price per person": "35~65 yuan",
+        "preferred store rating": "3.5~4.3 stars",
+        "typical dining time": "12:00-13:30",
+        "preferred distance": "0~800m",
+        "recent orders": [
+          {
+            "store": "Pure Vegetarian",
+            "product": "Health Vegetable Set Meal"
+          },
+          {
+            "store": "Nutrition Workshop",
+            "product": "Low-sodium Chicken Breast Rice"
+          },
+          {
+            "store": "Mr. Salad",
+            "product": "Healthy Chicken Salad"
+          }
+        ],
+        "search history": [
+          "Lunch near hospital",
+          "Low-sodium set meal",
+          "Healthy quick meal",
+          "Vegetarian"
+        ]
+      },
+      "desserts/drinks/snacks": {
+        "frequently purchased categories": [
+          "Beverage shops (average 25 yuan)",
+          "Bread and desserts (average 30 yuan)",
+          "Other dining/Fresh fruits (average 20 yuan)"
+        ],
+        "preferred average price per person": "20~35 yuan",
+        "preferred store rating": "4.0~4.7 stars",
+        "typical dining time": "15:00-16:30",
+        "preferred distance": "0~300m",
+        "recent orders": [
+          {
+            "store": "Fresh Fruit Workshop",
+            "product": "Sugar-free Fruit Tea"
+          },
+          {
+            "store": "Bread Talk",
+            "product": "Whole wheat bread"
+          },
+          {
+            "store": "Premium Fruit Cut",
+            "product": "Fruit Platter"
+          }
+        ],
+        "search history": [
+          "Sugar-free drinks",
+          "Low-calorie desserts",
+          "Healthy fruits",
+          "Children's desserts"
+        ]
+      }
+    },
+    "other in-store services": {
+      "frequently consumed categories": {
+        "Beauty/Hair salon": "20%",
+        "Sports & Fitness/Fitness center": "40%",
+        "Beauty/Yoga": "25%",
+        "Parent-child/Family entertainment": "15%"
+      },
+      "cost per order by category": {
+        "Beauty/Hair salon": "180~350 yuan",
+        "Sports & Fitness/Fitness center": "80~200 yuan/time",
+        "Beauty/Yoga": "120~180 yuan/time",
+        "Parent-child/Family entertainment": "150~300 yuan"
+      },
+      "preferred store rating": "4.0~4.8 stars",
+      "preferred service time": "18:00-20:00",
+      "preferred distance": "0~5000m",
+      "recent orders": [
+        {
+          "store": "Tranquil Yoga Center",
+          "product": "Stress relief yoga course"
+        },
+        {
+          "store": "Star Power Fitness Center",
+          "product": "Private stress relief course"
+        },
+        {
+          "store": "BabyJoy Parent-Child Center",
+          "product": "Weekend family activity"
+        }
+      ],
+      "search history": [
+        "Stress relief yoga",
+        "Women's fitness",
+        "Weekend parent-child activities",
+        "Doctor's stress relief"
+      ]
+    }
+  },
+  "stores": {},
+  "orders": {}
+}

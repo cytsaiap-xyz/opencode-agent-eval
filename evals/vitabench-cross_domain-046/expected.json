@@ -1,0 +1,98 @@
+{
+  "required_orders": [
+    {
+      "order_id": "A0811008T002",
+      "order_type": "instore",
+      "user_id": "U869962",
+      "store_id": "S17550812417923070_I00009",
+      "note": "",
+      "location": null,
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 158,
+      "create_time": "2024-11-22 10:21:00",
+      "update_time": "2024-11-22 10:21:00",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17550812417923070_P00041",
+          "name": "Two-Person Stove-Cooked Tea Package",
+          "price": 158,
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "order_id": "A0811008T003",
+      "order_type": "delivery",
+      "user_id": "U869962",
+      "store_id": "S17550812417923070_S00003",
+      "note": "",
+      "location": {
+        "address": "Hoshino Camping Base, 168 Wanghai Road, Xinglongtai District, Panjin, Liaoning Province",
+        "longitude": 122.0823,
+        "latitude": 41.1342
+      },
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 89.8,
+      "create_time": "2024-11-22 10:24:00",
+      "update_time": "2024-11-22 10:24:00",
+      "status": "processed",
+      "products": [
+        {
+          "product_id": "S17550812417923070_P00011",
+          "price": 59.9,
+          "quantity": 1,
+          "name": "Professional Frisbee",
+          "attributes": ""
+        },
+        {
+          "product_id": "S17550812417923070_P00012",
+          "price": 29.9,
+          "quantity": 1,
+          "name": "Waterproof Playing Cards",
+          "attributes": ""
+        }
+      ]
+    },
+    {
+      "order_id": "A0811008T001",
+      "order_type": "train",
+      "user_id": "U869962",
+      "store_id": "S17550812417923070_T00007",
+      "note": "",
+      "location": null,
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 154,
+      "create_time": "2024-11-22 10:31:00",
+      "update_time": "2024-11-22 10:31:00",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17550812417923070_P00031",
+          "price": 154,
+          "quantity": 1,
+          "date": "2024-11-22",
+          "seat_type": "Second Class Seat"
+        }
+      ]
+    }
+  ],
+  "rubrics": [
+    "The in-store merchant should be an outdoor store with camping activities",
+    "The ordered outdoor store must have an area available for Frisbee activities",
+    "The ordered item from the outdoor store should be a Two-Person Stove-Cooked Tea Package",
+    "The takeout order must include Playing Cards",
+    "The takeout order must include Frisbee",
+    "The playing cards and frisbee in the takeout order must come from the same store",
+    "The delivery address for the takeout order should be Hoshino Camping Base, 168 Wanghai Road, Xinglongtai District, Panjin, Liaoning Province",
+    "The expected delivery time for the takeout order should be before 15:00 on November 22, 2024",
+    "The departure time of the final ordered high-speed rail ticket from Panjin to Dalian should be 21:42",
+    "The train number of the final ordered high-speed rail ticket should be G8021"
+  ]
+}

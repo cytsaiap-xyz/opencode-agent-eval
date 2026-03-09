@@ -1,0 +1,347 @@
+{
+  "task_id": "10721003",
+  "domain": "delivery",
+  "time": "2025-05-31 18:45:07",
+  "user_id": "U000042",
+  "weather": [
+    {
+      "city": "Qingdao City",
+      "category": "sunny",
+      "datetime": "2025-05-31",
+      "temperature": [
+        24,
+        17
+      ],
+      "humidity": 71
+    }
+  ],
+  "location": [
+    {
+      "address": "Green Island Garden, No. 63 Hong Kong Middle Road, Shinan District, Qingdao, Shandong Province (180m walking distance from Exit A of Yan'erdao Road Metro Station)",
+      "longitude": 120.40003,
+      "latitude": 36.066226
+    }
+  ],
+  "user_profile": {
+    "user id": "U000042",
+    "occupation": "Advertising Planner",
+    "gender": "male",
+    "age group": "30~35",
+    "residence": "Qingdao",
+    "home address": "Green Island Garden, No. 63 Hong Kong Middle Road, Shinan District, Qingdao, Shandong Province (180m walking distance from Exit A of Yan'erdao Road Metro Station)",
+    "work address": "Building A, Vanke Center, 80 meters east of the intersection of Tailiu Road and Fuzhou North Road, Shibei District, Qingdao, Shandong Province",
+    "dietary restrictions": "No caffeine, no fish mint",
+    "family status": "Has children",
+    "personality": "Scattered and jumpy thinking, easily distracted and changes mind"
+  },
+  "user_historical_behaviors": {
+    "user id": "U000042",
+    "occupation": "Advertising Planner",
+    "gender": "male",
+    "age group": "30~35",
+    "residence": "Qingdao",
+    "home address": "Green Island Garden, No. 63 Hong Kong Middle Road, Shinan District, Qingdao, Shandong Province (180m walking distance from Exit A of Yan'erdao Road Metro Station)",
+    "work address": "Building A, Vanke Center, 80 meters east of the intersection of Tailiu Road and Fuzhou North Road, Shibei District, Qingdao, Shandong Province",
+    "breakfast": {
+      "frequently purchased categories": [
+        "Quick Meals/Steamed Buns/Pan-fried Buns (Average 18 yuan)",
+        "Quick Meals/Fried Dough Sticks (Average 10 yuan)"
+      ],
+      "cost per order": "10~30 yuan",
+      "preferred store rating": "4.3~4.8 stars",
+      "preferred delivery time": "15~25 minutes",
+      "preferred distance": "0~1500m",
+      "recent orders": [
+        {
+          "store": "Lao Zhu's Bun Shop",
+          "product": "Pork Buns + Soy Milk"
+        },
+        {
+          "store": "Liu's Pan-fried Buns",
+          "product": "Signature Pan-fried Buns"
+        },
+        {
+          "store": "Luxi Breakfast",
+          "product": "Fried Dough Sticks + Soy Milk Set"
+        }
+      ],
+      "search history": [
+        "steamed buns",
+        "pan-fried buns",
+        "soy milk",
+        "fried dough sticks",
+        "breakfast set",
+        "nutritious breakfast"
+      ]
+    },
+    "weekday lunch/dinner": {
+      "frequently purchased categories": [
+        "Quick Meals/Braised Chicken Rice (Average 25 yuan)",
+        "Quick Meals/Rice Noodles (Average 28 yuan)",
+        "International Cuisine/Japanese Bento/Sushi (Average 45 yuan)"
+      ],
+      "cost per order": "25~60 yuan",
+      "preferred store rating": "4.2~4.7 stars",
+      "preferred delivery time": "20~35 minutes",
+      "preferred distance": "0~2500m",
+      "recent orders": [
+        {
+          "store": "Jixiang Braised Chicken",
+          "product": "Mildly Spicy Braised Chicken Rice + Coke"
+        },
+        {
+          "store": "Yufu Rice Noodles",
+          "product": "Tomato Beef Rice Noodles"
+        },
+        {
+          "store": "Sushiro",
+          "product": "Salmon Set"
+        }
+      ],
+      "search history": [
+        "braised chicken",
+        "fast food",
+        "quick and convenient",
+        "rice noodles",
+        "Japanese bento"
+      ]
+    },
+    "weekend lunch/dinner": {
+      "frequently purchased categories": [
+        "Chinese Cuisine/Crayfish (Average 110 yuan)",
+        "Hot Pot/Fish Hot Pot (Average 125 yuan)",
+        "International Cuisine/Pasta (Average 78 yuan)"
+      ],
+      "cost per order": "70~160 yuan",
+      "preferred store rating": "4.5~5.0 stars",
+      "preferred delivery time": "30~45 minutes",
+      "preferred distance": "0~4000m",
+      "recent orders": [
+        {
+          "store": "Crayfish Legend",
+          "product": "Thirteen Spices Crayfish + Potatoes + Corn"
+        },
+        {
+          "store": "Fatty's Fish Hot Pot",
+          "product": "Sauerkraut Fish Hot Pot + Side Dish Set"
+        },
+        {
+          "store": "Naples Pasta House",
+          "product": "Classic Meat Sauce Pasta + Baked Wings"
+        }
+      ],
+      "search history": [
+        "crayfish",
+        "fish hot pot",
+        "parent-child meal",
+        "kids meal",
+        "weekend food",
+        "family set"
+      ]
+    },
+    "desserts/drinks/snacks": {
+      "frequently purchased categories": [
+        "Beverages & Desserts/Juice (Average 26 yuan)",
+        "Beverages & Desserts/Bread (Average 45 yuan)"
+      ],
+      "cost per order": "15~60 yuan",
+      "preferred store rating": "4.0~5.0 stars",
+      "preferred delivery time": "15~45 minutes",
+      "preferred distance": "0~5000m",
+      "recent orders": [
+        {
+          "store": "MORE Juice",
+          "product": "Sweet Carrot Juice | Best for Eye Fatigue"
+        },
+        {
+          "store": "DOWNTOWN BAKER (Bread·Desserts·Zhangzhou 2nd Road Branch)",
+          "product": "[Signature] Fresh Milk Toast"
+        }
+      ],
+      "search history": [
+        "juice",
+        "caffeine-free drinks",
+        "toast",
+        "children's desserts"
+      ]
+    },
+    "night snack": {
+      "frequently purchased categories": [
+        "Quick Meals/Dumplings/Wonton (Average 52 yuan)",
+        "Quick Meals/Claypot Dishes (Average 68 yuan)",
+        "Snacks & Cold Dishes/Braised Flavors (Average 43 yuan)"
+      ],
+      "cost per order": "20~120 yuan",
+      "preferred store rating": "4.0~5.0 stars",
+      "preferred delivery time": "20~50 minutes",
+      "preferred distance": "0~5000m",
+      "recent orders": [
+        {
+          "store": "Sister Chen's BBQ & Wild Wonton (Crayfish & Pork Ribs)",
+          "product": "[Value Must-Try] Two-person Set with Special Small Wontons (2 servings) + Meat Tendon Skewers (10 skewers)"
+        },
+        {
+          "store": "Royal Duck Quzhou Duck Head (Shinan Branch)",
+          "product": "[Meat & Vegetable Set] Fixed Price Duck Neck + Collarbone + Vegetable Platter"
+        }
+      ],
+      "search history": [
+        "night snack",
+        "wonton",
+        "braised flavors"
+      ]
+    }
+  },
+  "stores": {
+    "S26286878923282243_S58501": {
+      "name": "Zibo Special BBQ (Zhonglian Branch)",
+      "store_id": "S26286878923282243_S58501",
+      "score": 4.7,
+      "location": {
+        "address": "Basement Floor, No. 139 Xuzhou Road, Shinan District, Qingdao, Shandong Province",
+        "latitude": 36.080961,
+        "longitude": 120.379148
+      },
+      "tags": [
+        "Safe to Eat",
+        "Fresh Ingredients",
+        "Open Until 2 AM"
+      ],
+      "products": [
+        {
+          "name": "Spicy Sautéed River Snails",
+          "store_id": "S26286878923282243_S58501",
+          "store_name": "Zibo Special BBQ (Zhonglian Branch)",
+          "price": 26.88,
+          "tags": [
+            "Single Serving",
+            "Available in Mild Spicy/Very Mild Spicy"
+          ],
+          "product_id": "S14214267117147297_P22912",
+          "attributes": [],
+          "quantity": 9999
+        },
+        {
+          "name": "[Craft] Fresh Draft Beer",
+          "store_id": "S26286878923282243_S58501",
+          "store_name": "Zibo Special BBQ (Zhonglian Branch)",
+          "price": 18.8,
+          "tags": [
+            "One Serving Equals One Pint"
+          ],
+          "product_id": "S26376925645495405_P72482",
+          "attributes": [],
+          "quantity": 9999
+        },
+        {
+          "name": "Snow Beer",
+          "store_id": "S26286878923282243_S58501",
+          "store_name": "Zibo Special BBQ (Zhonglian Branch)",
+          "price": 5.5,
+          "tags": [],
+          "product_id": "S24902554885732296_P47337",
+          "attributes": [],
+          "quantity": 9999
+        },
+        {
+          "name": "Tsingtao Beer 330mL",
+          "store_id": "S26286878923282243_S58501",
+          "store_name": "Zibo Special BBQ (Zhonglian Branch)",
+          "price": 7.5,
+          "tags": [],
+          "product_id": "S15988580350608722_P59959",
+          "attributes": [],
+          "quantity": 9999
+        }
+      ]
+    },
+    "S94165448870298504_S93237": {
+      "name": "Le Bonheur (Bread·Cake·Coffee)",
+      "store_id": "S94165448870298504_S93237",
+      "score": 4.3,
+      "location": {
+        "address": "Unit 107, 1st Floor, Building 2, No. 63 Hong Kong Middle Road, Shinan District, Qingdao, Shandong Province",
+        "latitude": 36.06597,
+        "longitude": 120.397146
+      },
+      "tags": [
+        "Safe to Eat",
+        "Dine-in Available"
+      ],
+      "products": [
+        {
+          "name": "Grapefruit Sparkling Water",
+          "store_id": "S94165448870298504_S93237",
+          "store_name": "Le Bonheur (Bread·Cake·Coffee)",
+          "price": 34,
+          "tags": [
+            "Caffeine-Free",
+            "Dairy-Free"
+          ],
+          "product_id": "S14166528684325946_P34171",
+          "attributes": [],
+          "quantity": 9999
+        },
+        {
+          "name": "Hot Chocolate",
+          "store_id": "S94165448870298504_S93237",
+          "store_name": "Le Bonheur (Bread·Cake·Coffee)",
+          "price": 30,
+          "tags": [
+            "Fresh Milk"
+          ],
+          "product_id": "S82520692647470514_P45778",
+          "attributes": [],
+          "quantity": 9999
+        }
+      ]
+    },
+    "S10172216899363047_S49096": {
+      "name": "Yuxuan Fried Food Shop (Maidao Branch)",
+      "store_id": "S10172216899363047_S49096",
+      "score": 5,
+      "location": {
+        "address": "No. B022, 1st Floor, Maidao Jiayuan Farmers Market, 33 Haikou Road, Laoshan District, Qingdao, Shandong Province",
+        "latitude": 36.066311,
+        "longitude": 120.427563
+      },
+      "tags": [],
+      "products": [
+        {
+          "name": "Spicy Stir-fried River Snails",
+          "store_id": "S10172216899363047_S49096",
+          "store_name": "Yuxuan Fried Food Shop (Maidao Branch)",
+          "price": 7.04,
+          "tags": [],
+          "product_id": "S58291025883339528_P21930",
+          "attributes": [],
+          "quantity": 9999
+        }
+      ]
+    },
+    "S16232741093160874_S85242": {
+      "name": "Captain's Seafood BBQ & Crayfish (Wusi Branch)",
+      "store_id": "S16232741093160874_S85242",
+      "score": 4.6,
+      "location": {
+        "address": "Unit 1A33, Building C, No. 6 Yan'erdao Road, Hong Kong Middle Road Street, Shinan District, Qingdao, Shandong Province",
+        "latitude": 36.065267,
+        "longitude": 120.400128
+      },
+      "tags": [],
+      "products": [
+        {
+          "name": "👍🏻Authentic No.4 Brewery Fresh Draft Beer, 1kg Same-day Delivery🍺",
+          "store_id": "S16232741093160874_S85242",
+          "store_name": "Captain's Seafood BBQ & Crayfish (Wusi Branch)",
+          "price": 18.8,
+          "tags": [],
+          "product_id": "S55731320995957624_P70984",
+          "attributes": [],
+          "quantity": 9999
+        }
+      ]
+    }
+  },
+  "orders": {}
+}

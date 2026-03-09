@@ -1,0 +1,168 @@
+{
+  "task_id": "D0807013",
+  "domain": "ota",
+  "time": "2025-03-21 11:17:32",
+  "user_id": "U010066",
+  "weather": [
+    {
+      "city": "Chengdu",
+      "category": "cloudy",
+      "datetime": "2025-03-21",
+      "temperature": [
+        12,
+        18
+      ],
+      "humidity": 65
+    },
+    {
+      "city": "Chengdu",
+      "category": "sunny",
+      "datetime": "2025-03-22",
+      "temperature": [
+        8,
+        22
+      ],
+      "humidity": 45
+    },
+    {
+      "city": "Chengdu",
+      "category": "showers",
+      "datetime": "2025-03-23",
+      "temperature": [
+        10,
+        16
+      ],
+      "humidity": 78
+    },
+    {
+      "city": "Langzhong",
+      "category": "cloudy",
+      "datetime": "2025-03-21",
+      "temperature": [
+        10,
+        19
+      ],
+      "humidity": 58
+    },
+    {
+      "city": "Langzhong",
+      "category": "sunny",
+      "datetime": "2025-03-22",
+      "temperature": [
+        6,
+        24
+      ],
+      "humidity": 42
+    },
+    {
+      "city": "Langzhong",
+      "category": "cloudy",
+      "datetime": "2025-03-23",
+      "temperature": [
+        9,
+        20
+      ],
+      "humidity": 55
+    }
+  ],
+  "location": [],
+  "user_profile": {
+    "user id": "U010066",
+    "occupation": "Blue-collar worker",
+    "gender": "male",
+    "age group": "30~35",
+    "residence": "Kunming",
+    "home address": "Room 502, Building 3, Panlong Residential Complex, next to Yunnan Normal University, Kunshi Road, Wuhua District, Kunming, Yunnan Province",
+    "work address": "Kunming Smart Big Data Company, 15th Floor, Building A, Rongcheng Youjun Plaza, Guandu District, Kunming, Yunnan Province",
+    "dietary restrictions": "High sugar, Caffeine",
+    "family status": "Has children",
+    "personality": "Extremely demanding about details, tends to be picky and easily dissatisfied"
+  },
+  "user_historical_behaviors": {
+    "user id": "U010066",
+    "occupation": "Blue-collar worker",
+    "gender": "male",
+    "age group": "30~35",
+    "residence": "Kunming",
+    "home address": "Room 502, Building 3, Panlong Residential Complex, next to Yunnan Normal University, Kunshi Road, Wuhua District, Kunming, Yunnan Province",
+    "work address": "Kunming Smart Big Data Company, 15th Floor, Building A, Rongcheng Youjun Plaza, Guandu District, Kunming, Yunnan Province",
+    "visited scenes": {
+      "Cultural and historical sites": "25%",
+      "Natural landscapes (mountains/lakes/forests)": "35%",
+      "Exhibition halls (museums/art galleries)": "15%",
+      "Parks": "10%",
+      "Featured villages/industrial tourism/uncategorized projects": "15%"
+    },
+    "cost per night on hotel": "500~1000 yuan",
+    "visited hotels": {
+      "Atour": "30%",
+      "JI Hotel": "25%",
+      "Vienna": "20%",
+      "Orange": "15%",
+      "Home Inn": "10%"
+    },
+    "browsed hotels": {
+      "Four-star hotels": "25%",
+      "Three-star hotels": "30%",
+      "Comfort hotels": "35%",
+      "Economy hotels": "10%"
+    },
+    "historical travel plans": {
+      "Kunming-Beijing": {
+        "Price range": "1200-2000 yuan",
+        "Transportation mode": "Airplane"
+      },
+      "Kunming-Shanghai": {
+        "Price range": "1500-2200 yuan",
+        "Transportation mode": "Airplane"
+      },
+      "Kunming-Dali": {
+        "Price range": "120-200 yuan",
+        "Transportation mode": "High-speed train"
+      },
+      "Kunming-Lijiang": {
+        "Price range": "150-250 yuan",
+        "Transportation mode": "High-speed train"
+      },
+      "Kunming-Xishuangbanna": {
+        "Price range": "600-800 yuan",
+        "Transportation mode": "Airplane"
+      },
+      "Kunming-Guangzhou": {
+        "Price range": "900-1500 yuan",
+        "Transportation mode": "Airplane"
+      },
+      "Kunming-Chengdu": {
+        "Price range": "700-1200 yuan",
+        "Transportation mode": "Airplane"
+      }
+    }
+  },
+  "stores": {},
+  "orders": {
+    "S17557512511049624_O00001": {
+      "order_id": "S17557512511049624_O00001",
+      "order_type": "flight",
+      "user_id": "U010066",
+      "store_id": "S17557512511049624_F00011",
+      "location": null,
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "note": "",
+      "total_price": 1220,
+      "create_time": "2025-03-18 14:20:00",
+      "update_time": "2025-03-18 14:20:00",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17557512511049624_P00079",
+          "price": 1220,
+          "quantity": 1,
+          "date": "2025-03-21",
+          "seat_type": "Economy class"
+        }
+      ]
+    }
+  }
+}

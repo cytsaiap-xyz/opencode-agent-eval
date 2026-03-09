@@ -1,0 +1,106 @@
+{
+  "required_orders": [
+    {
+      "order_id": "10826041T001",
+      "order_type": "instore",
+      "user_id": "U330447",
+      "store_id": "S17564425397654378_I00001",
+      "note": "",
+      "location": null,
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 188,
+      "create_time": "2024-08-03 10:07:00",
+      "update_time": "2024-08-04 10:33:42",
+      "status": "cancelled",
+      "products": [
+        {
+          "product_id": "S17564425397654378_P00002",
+          "name": "Couple Shoulder and Neck Massage Package | 60 minutes for Two",
+          "price": 188,
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "order_id": "10826041T003",
+      "order_type": "instore",
+      "user_id": "U010074",
+      "store_id": "S17564425397654378_I00002",
+      "note": "",
+      "location": null,
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 288,
+      "create_time": "2024-08-04 10:36:21",
+      "update_time": "2024-08-04 10:36:21",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17564425397654378_P00006",
+          "name": "Three-person Basic Flower Arrangement Experience Package",
+          "price": 288,
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "order_id": "10826041T002",
+      "order_type": "instore",
+      "user_id": "U330447",
+      "store_id": "S17564425397654378_I00003",
+      "note": "",
+      "location": null,
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 188,
+      "create_time": "2024-08-03 10:17:20",
+      "update_time": "2024-08-04 10:38:11",
+      "status": "cancelled",
+      "products": [
+        {
+          "product_id": "S17564425397654378_P00011",
+          "name": "Classic Lu Cuisine Couple Package",
+          "price": 188,
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "order_id": "10826041T004",
+      "order_type": "instore",
+      "user_id": "U330447",
+      "store_id": "S17564425397654378_I00003",
+      "note": "",
+      "location": null,
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 268,
+      "create_time": "2024-08-04 10:40:37",
+      "update_time": "2024-08-04 10:40:37",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17564425397654378_P00012",
+          "name": "Century-old Heritage Family Feast Package for Three",
+          "price": 268,
+          "quantity": 1
+        }
+      ]
+    }
+  ],
+  "rubrics": [
+    "The status of the shoulder and neck massage package order should be cancelled",
+    "The flower arrangement order should teach basic flower arrangement skills",
+    "The environment of the flower shop should be spacious",
+    "Should check if there is a three-person package in the flower shop where the order was placed, and the result is yes; the flower arrangement order should be a Three-person Basic Flower Arrangement Experience Package",
+    "Should check the distance between the private kitchen restaurant (4th Floor, Hang Lung Plaza, 188 Quancheng Road, Lixia District, Jinan (Yan's Private Kitchen · Century-old Lu Cuisine)) and the flower shop (4th Floor, Hang Lung Plaza, 188 Quancheng Road, Lixia District, Jinan (Yan's Private Kitchen · Century-old Lu Cuisine)) in the order history, and the result is not more than 5 kilometers; also, the private kitchen restaurant has options for three-person meals, so the private kitchen Couple Package order status should be cancelled",
+    "The three-person meal order should belong to Yan's Private Kitchen · Century-old Lu Cuisine",
+    "The three-person meal package should not contain dishes with heavy oil and spice",
+    "The item in the three-person meal order should be one three-person meal, not three individual meals"
+  ]
+}

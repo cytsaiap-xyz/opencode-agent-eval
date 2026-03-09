@@ -1,0 +1,459 @@
+{
+  "task_id": "H0721002",
+  "domain": "delivery",
+  "time": "2025-04-19 17:01:06",
+  "user_id": "U000014",
+  "weather": [
+    {
+      "city": "Harbin City",
+      "category": "cloudy",
+      "datetime": "2025-04-19",
+      "temperature": [
+        3,
+        13
+      ],
+      "humidity": 46
+    }
+  ],
+  "location": [
+    {
+      "address": "Guixin Community, 1 Guixin Street, Nangang District, Harbin, Heilongjiang Province",
+      "longitude": 126.629389,
+      "latitude": 45.74059
+    }
+  ],
+  "user_profile": {
+    "user id": "U000014",
+    "occupation": "Designer",
+    "gender": "female",
+    "age group": "25~30",
+    "residence": "Harbin",
+    "home address": "Guixin Community, 1 Guixin Street, Nangang District, Harbin, Heilongjiang Province",
+    "work address": "Cultural and Creative Design Center, F2 Floor, Songlei Central Street Store, 66 Central Street, Daoli District, Harbin, Heilongjiang Province",
+    "dietary restrictions": "Avoids heavy oil and spicy food, dislikes cilantro",
+    "family status": "In a relationship",
+    "personality": "Has scattered and jumpy thinking, easily distracted and changes mind frequently"
+  },
+  "user_historical_behaviors": {
+    "user id": "U000014",
+    "occupation": "Designer",
+    "gender": "female",
+    "age group": "25~30",
+    "residence": "Harbin",
+    "home address": "Guixin Community, 1 Guixin Street, Nangang District, Harbin, Heilongjiang Province",
+    "work address": "Cultural and Creative Design Center, F2 Floor, Songlei Central Street Store, 66 Central Street, Daoli District, Harbin, Heilongjiang Province",
+    "breakfast": {
+      "frequently purchased categories": [
+        "Quick Meals/Buns/Pan-fried Buns (Average ¥15)",
+        "Quick Meals/Light Food (Average ¥28)",
+        "Drinks & Desserts/Coffee (Average ¥22)"
+      ],
+      "cost per order": "¥15~35",
+      "preferred store rating": "4.3~4.8",
+      "preferred delivery time": "15~30 minutes",
+      "preferred distance": "0~2500m",
+      "recent orders": [
+        {
+          "store": "Xianxiangyuan Bun Shop",
+          "product": "Red Bean Bun + Black Rice Porridge"
+        },
+        {
+          "store": "Light Food Yogurt",
+          "product": "Fruit Oatmeal Cup + Whole Wheat Toast"
+        },
+        {
+          "store": "Luckin Coffee",
+          "product": "Cold Brew Coffee"
+        }
+      ],
+      "search history": [
+        "Healthy breakfast",
+        "Sugar-free soy milk",
+        "Low-fat breakfast",
+        "Light food",
+        "Oatmeal"
+      ]
+    },
+    "weekday lunch/dinner": {
+      "frequently purchased categories": [
+        "Quick Meals/Small Bowls/Small Portions (Average ¥38)",
+        "Quick Meals/Healthy Meals (Average ¥45)",
+        "Quick Meals/Salad (Average ¥32)"
+      ],
+      "cost per order": "¥30~55",
+      "preferred store rating": "4.2~4.7",
+      "preferred delivery time": "20~40 minutes",
+      "preferred distance": "0~3500m",
+      "recent orders": [
+        {
+          "store": "Light Meal House",
+          "product": "Quinoa Chicken Breast Salad"
+        },
+        {
+          "store": "Little Chef",
+          "product": "Steamed Sea Bass + Brown Rice"
+        },
+        {
+          "store": "Fruit & Vegetable Light Food",
+          "product": "Mediterranean Salad + Steamed Vegetables"
+        }
+      ],
+      "search history": [
+        "Low-fat lunch",
+        "Healthy meals",
+        "Light salads",
+        "Non-spicy dishes",
+        "Light diet"
+      ]
+    },
+    "weekend lunch/dinner": {
+      "frequently purchased categories": [
+        "International Cuisine/Pasta (Average ¥68)",
+        "International Cuisine/Japanese Bento/Sushi (Average ¥85)",
+        "Chinese Cuisine/Cantonese Food (Average ¥120)"
+      ],
+      "cost per order": "¥60~150",
+      "preferred store rating": "4.5~4.9",
+      "preferred delivery time": "25~45 minutes",
+      "preferred distance": "0~5000m",
+      "recent orders": [
+        {
+          "store": "Romia Italian Restaurant",
+          "product": "Truffle Mushroom Pasta + Caesar Salad"
+        },
+        {
+          "store": "Asakusa Japanese Restaurant",
+          "product": "Salmon Sashimi Platter + Chawanmushi"
+        },
+        {
+          "store": "Cantonese Pavilion",
+          "product": "Steamed Sea Bass + Spring Onion Chicken + Preserved Meat Clay Pot Rice"
+        }
+      ],
+      "search history": [
+        "Fine cuisine",
+        "Japanese cuisine",
+        "Exquisite dinner",
+        "Cantonese cuisine"
+      ]
+    },
+    "desserts/drinks/snacks": {
+      "frequently purchased categories": [
+        "Drinks & Desserts/Pure Tea/Herbal Tea (Average ¥25)",
+        "Drinks & Desserts/Fruit Salad (Average ¥35)",
+        "Drinks & Desserts/Coffee (Average ¥28)"
+      ],
+      "cost per order": "¥20~45",
+      "preferred store rating": "4.4~4.9",
+      "preferred delivery time": "15~30 minutes",
+      "preferred distance": "0~3000m",
+      "recent orders": [
+        {
+          "store": "Jasmine Milk White",
+          "product": "Pineapple Grapefruit + Jasmine Honey Peach"
+        },
+        {
+          "store": "Fresh Cut Fruit Bar",
+          "product": "Mixed Fruit Salad + Coconut Jelly"
+        },
+        {
+          "store": "Starbucks",
+          "product": "Iced Americano"
+        }
+      ],
+      "search history": [
+        "Sugar-free tea",
+        "Fruit salad",
+        "Iced coffee",
+        "Low-sugar drinks"
+      ]
+    },
+    "night snack": {
+      "frequently purchased categories": [
+        "Quick Meals/Rice Noodles (Average ¥32)",
+        "Quick Meals/Clay Pot Dishes (Average ¥45)",
+        "Quick Meals/Porridge (Average ¥25)"
+      ],
+      "cost per order": "¥25~55",
+      "preferred store rating": "4.3~4.8",
+      "preferred delivery time": "20~40 minutes",
+      "preferred distance": "0~3000m",
+      "recent orders": [
+        {
+          "store": "Yunnan Crossing Bridge Rice Noodles",
+          "product": "Original Rice Noodles + Pickled Vegetables"
+        },
+        {
+          "store": "Old Street Clay Pot",
+          "product": "Mushroom Clay Pot + White Rice"
+        },
+        {
+          "store": "Chaoshan Porridge",
+          "product": "Preserved Egg and Lean Meat Porridge + Pickles"
+        }
+      ],
+      "search history": [
+        "Stomach-friendly night snack",
+        "Mild clay pot dishes",
+        "Light night snack",
+        "Nutritious soup"
+      ]
+    }
+  },
+  "stores": {
+    "S13425777444327930_S93304": {
+      "name": "Drunk Northeast Stew·Northeastern Cuisine",
+      "store_id": "S13425777444327930_S93304",
+      "score": 4.6,
+      "location": {
+        "address": "Eight District Street, Daowai District, Harbin, Heilongjiang Province",
+        "latitude": 45.768821,
+        "longitude": 126.642092
+      },
+      "tags": [],
+      "products": [
+        {
+          "name": "Northeast Great Harvest",
+          "product_id": "S30275213393925044_P42440",
+          "store_id": "S13425777444327930_S93304",
+          "store_name": "Drunk Northeast Stew·Northeastern Cuisine",
+          "price": 55,
+          "tags": [
+            "Home-Style Cuisine"
+          ],
+          "attributes": [],
+          "quantity": 9999
+        },
+        {
+          "name": "Northeast Rice",
+          "product_id": "S79667605294087199_P22359",
+          "store_id": "S13425777444327930_S93304",
+          "store_name": "Drunk Northeast Stew·Northeastern Cuisine",
+          "price": 2.5,
+          "tags": [],
+          "attributes": [],
+          "quantity": 9999
+        },
+        {
+          "name": "Braised Ribs with Green Beans and Potatoes (Large Portion, Pure Ribs)",
+          "product_id": "S12732661382434990_P54518",
+          "store_id": "S13425777444327930_S93304",
+          "store_name": "Drunk Northeast Stew·Northeastern Cuisine",
+          "price": 88,
+          "tags": [],
+          "attributes": [],
+          "quantity": 9999
+        }
+      ]
+    },
+    "S24620395468234095_S79800": {
+      "name": "700CC (Harbin International Exhibition Shopping Plaza Store)",
+      "store_id": "S24620395468234095_S79800",
+      "score": 4.9,
+      "location": {
+        "address": "Lvtou International Exhibition Shopping Plaza, 40 West Dazhi Street, Nangang District, Harbin, Heilongjiang Province",
+        "latitude": 45.754356,
+        "longitude": 126.641091
+      },
+      "tags": [],
+      "products": [
+        {
+          "name": "Lemon Wheatgrass (Medium Cup)",
+          "product_id": "S31639431311084099_P91639",
+          "store_id": "S24620395468234095_S79800",
+          "store_name": "700CC (Harbin International Exhibition Shopping Plaza Store)",
+          "price": 14,
+          "tags": [
+            "Sweet and Sour"
+          ],
+          "attributes": [
+            "Cold",
+            "Less Ice",
+            "Room Temperature"
+          ],
+          "quantity": 9999
+        }
+      ]
+    },
+    "S25726847335377968_S75768": {
+      "name": "Li Xiulan Smoked Sauce·Traditional Roast Chicken (West Bridge Store)",
+      "store_id": "S25726847335377968_S75768",
+      "score": 4.8,
+      "location": {
+        "address": "No.5, Floor 1, Unit 2, 106 Hanxiang Street, Nangang District, Harbin, Heilongjiang Province",
+        "latitude": 45.739264,
+        "longitude": 126.621783
+      },
+      "tags": [],
+      "products": [
+        {
+          "name": "🏅️🏅️🏅️【Shop's Recommendation】Li's Traditional Smoked Chicken",
+          "product_id": "S33696416686604544_P21810",
+          "store_id": "S25726847335377968_S75768",
+          "store_name": "Li Xiulan Smoked Sauce·Traditional Roast Chicken (West Bridge Store)",
+          "price": 35.8,
+          "tags": [],
+          "attributes": [
+            "Needs Heating",
+            "No Heating Required"
+          ],
+          "quantity": 9999
+        },
+        {
+          "name": "[Must-Eat List] Smoked Chicken Frame with Chicken Legs (Mixed Together)",
+          "product_id": "S73069401299384198_P14827",
+          "store_id": "S25726847335377968_S75768",
+          "store_name": "Li Xiulan Smoked Sauce·Traditional Roast Chicken (West Bridge Store)",
+          "price": 11.98,
+          "tags": [
+            "Cilantro",
+            "Onion",
+            "Garlic"
+          ],
+          "attributes": [
+            "Cold",
+            "Needs Heating"
+          ],
+          "quantity": 9999
+        }
+      ]
+    },
+    "S27837442299742343_S50967": {
+      "name": "Yihetang (Gogol Street Store)",
+      "store_id": "S27837442299742343_S50967",
+      "score": 4.9,
+      "location": {
+        "address": "Yihetang, 278 Gogol Street, Nangang District, Harbin, Heilongjiang Province (Heyuan Scenic Garden Store)",
+        "latitude": 45.756557,
+        "longitude": 126.651723
+      },
+      "tags": [],
+      "products": [
+        {
+          "name": "Lemon Wheat Green Juice",
+          "product_id": "S30888171166604723_P91984",
+          "store_id": "S27837442299742343_S50967",
+          "store_name": "Yihetang (Gogol Street Store)",
+          "price": 12,
+          "tags": [
+            "Large Cup Size",
+            "No Tea Base"
+          ],
+          "attributes": [
+            "Cold",
+            "Less Ice",
+            "No Ice",
+            "Warm",
+            "Room Temperature",
+            "Very Little Ice"
+          ],
+          "quantity": 9999
+        }
+      ]
+    },
+    "S32682999024407805_S79294": {
+      "name": "Li's Smoking Craftsman·Smoked Sauce Roast Chicken (Daoli Store)",
+      "store_id": "S32682999024407805_S79294",
+      "score": 4.9,
+      "location": {
+        "address": "Li's Smoking Craftsman, 7-15 Qianjin Road, Daoli District, Harbin, Heilongjiang Province",
+        "latitude": 45.753522,
+        "longitude": 126.597575
+      },
+      "tags": [],
+      "products": [
+        {
+          "name": "[Signature Dish] Li's Traditional Roast Chicken (Whole)",
+          "product_id": "S13525502434486483_P38814",
+          "store_id": "S32682999024407805_S79294",
+          "store_name": "Li's Smoking Craftsman·Smoked Sauce Roast Chicken (Daoli Store)",
+          "price": 36.8,
+          "tags": [
+            "Sugar-Smoked",
+            "Freshly Made Daily"
+          ],
+          "attributes": [],
+          "quantity": 9999
+        },
+        {
+          "name": "One Smoked Chicken Thigh",
+          "product_id": "S10075156636629171_P12831",
+          "store_id": "S32682999024407805_S79294",
+          "store_name": "Li's Smoking Craftsman·Smoked Sauce Roast Chicken (Daoli Store)",
+          "price": 15.8,
+          "tags": [
+            "Salty and Fresh"
+          ],
+          "attributes": [
+            "Cold",
+            "Hot"
+          ],
+          "quantity": 9999
+        }
+      ]
+    },
+    "S30412797928056693_S69067": {
+      "name": "Yu Fuji Traditional Hot Braised Foods (Hexing Road Store)",
+      "store_id": "S30412797928056693_S69067",
+      "score": 4.8,
+      "location": {
+        "address": "Yu Fuji Hot Braised Foods, No.21, Commercial Street of Beyoute Supermarket, Floor 1, 361-3 West Dazhi Street, Nangang District, Harbin, Heilongjiang Province (Harbin Beyoute Hexing Road Store)",
+        "latitude": 45.731096,
+        "longitude": 126.613835
+      },
+      "tags": [
+        "Twenty-Year-Old Establishment"
+      ],
+      "products": [
+        {
+          "name": "Traditional Smoked Chicken",
+          "product_id": "S30331789353559686_P68744",
+          "store_id": "S30412797928056693_S69067",
+          "store_name": "Yu Fuji Traditional Hot Braised Foods (Hexing Road Store)",
+          "price": 34.71,
+          "tags": [
+            "Classic",
+            "Ready-to-Eat at Room Temperature"
+          ],
+          "attributes": [],
+          "quantity": 9999
+        }
+      ]
+    }
+  },
+  "orders": {
+    "H0721002O01": {
+      "order_id": "H0721002O01",
+      "order_type": "delivery",
+      "user_id": "U000014",
+      "store_id": "S13425777444327930_S93304",
+      "note": "",
+      "location": {
+        "address": "Guixin Community, 1 Guixin Street, Nangang District, Harbin, Heilongjiang Province",
+        "longitude": 126.629389,
+        "latitude": 45.74059
+      },
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 60,
+      "create_time": "2025-04-19 17:00:00",
+      "update_time": "2025-04-19 17:00:00",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S30275213393925044_P42440",
+          "price": 55,
+          "quantity": 1,
+          "attributes": ""
+        },
+        {
+          "product_id": "S79667605294087199_P22359",
+          "price": 2.5,
+          "quantity": 2,
+          "attributes": ""
+        }
+      ]
+    }
+  }
+}

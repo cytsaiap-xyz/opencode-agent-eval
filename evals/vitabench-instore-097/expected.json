@@ -1,0 +1,74 @@
+{
+  "required_orders": [
+    {
+      "order_id": "10826324T001",
+      "order_type": "instore",
+      "user_id": "U061728",
+      "store_id": "S17567844984464149_I00001",
+      "note": "",
+      "location": null,
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 388,
+      "create_time": "2025-08-15 15:32:19",
+      "update_time": "2025-08-15 15:32:19",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17567844984464149_P00001",
+          "name": "Classic Thai Set for Four (Including Tom Yum Soup + Yellow Curry Chicken)",
+          "price": 388,
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "book_id": "10826324T002",
+      "shop_id": "S17567844984464149_I00001",
+      "book_time": "2025-08-16 18:00:00",
+      "update_time": "2025-08-15 15:33:30",
+      "customer_id": "U061728",
+      "customer_count": 4,
+      "book_price": 30,
+      "status": "paid"
+    },
+    {
+      "order_id": "10826324T003",
+      "order_type": "instore",
+      "user_id": "U061728",
+      "store_id": "S17567844984464149_I00002",
+      "note": "",
+      "location": null,
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 200,
+      "create_time": "2025-08-15 15:36:00",
+      "update_time": "2025-08-15 15:36:00",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17567844984464149_P00014",
+          "name": "Unlimited Cat Companionship Experience for One (Free Beverage Refills)",
+          "price": 50,
+          "quantity": 4
+        }
+      ]
+    }
+  ],
+  "rubrics": [
+    "The ordered restaurant needs to provide Thai cuisine",
+    "The restaurant order must be a 4-person set meal, not multiple individual set meals",
+    "The restaurant set meal must include Tom Yum",
+    "The restaurant set meal must include Yellow Curry Chicken",
+    "Since there are 4 people dining, and each person is expected to pay 100 yuan, the calculation is 4*100=400 yuan. Therefore, the restaurant set meal price needs to be within 400 yuan (including 400 yuan)",
+    "The reserved restaurant should be Thai Home Thai Cuisine",
+    "The restaurant reservation time is 18:00 on August 16, 2025",
+    "The restaurant reservation is for 4 people",
+    "The ordered cat café package needs to accommodate 4 people (purchase a four-person meal or purchase 4 single-person meals)",
+    "The ordered cat café package must have unlimited time",
+    "The ordered cat café package must include free drink refills",
+    "The ordered cat café must be within 1 kilometer (including 1 kilometer) from Thai Home Thai Cuisine, 2nd Floor, Building B, Kaixuan Plaza, No. 168 Zhongzhou Middle Road, Xigong District, Luoyang"
+  ]
+}

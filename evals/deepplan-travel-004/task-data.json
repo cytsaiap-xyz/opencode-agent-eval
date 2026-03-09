@@ -1,0 +1,51 @@
+{
+  "task_id": "3",
+  "query": "I plan to travel from Changchun to Dalian on November 12, 2025, stay for one day, and return to Changchun on the evening of November 13. Could you please help me plan my itinerary, including transportation, accommodation, meals, and attractions?\n\nRegarding transportation, I’d like to arrive back in Changchun as late as possible—could you help me choose the latest direct train that arrives on the same day? I prefer a more relaxed pace, so please don’t make the schedule too tight.\n\nFor accommodation, I’m looking for a three-star hotel with both a washing machine and dryer, which would be more convenient since I’m only staying one night and want things to be stress-free. By the way, I’m quite interested in Dalian’s natural scenery—I’ve heard the coastal views are especially beautiful. Could you include the highest-rated nature attraction in the itinerary so I can experience the highlight?\n\nFor dining, I’d like to find a restaurant near 'Donggang Business District'—I’ve heard it’s a great area. The restaurant must offer a waiting area service so I won’t have to worry about long queues.\n\nThat covers everything. Please arrange the full itinerary for me—I’ve provided all the details needed, so no need to ask for further information. November 12, 2025 is Wednesday",
+  "meta_info": {
+    "org": "Changchun",
+    "dest": [
+      "Dalian"
+    ],
+    "days": 2,
+    "depart_date": "2025-11-12",
+    "return_date": "2025-11-13",
+    "people_number": 1,
+    "room_number": 1
+  },
+  "hard_constraints": {
+    "train_latest_arrival_direct": {
+      "constraint_context": "I would like to return later, so please help me select the latest direct train for the return journey",
+      "constraint_type": "superlative_latest_arrival",
+      "inbound_train_no": "G729"
+    },
+    "hotel_star_service_required": {
+      "constraint_context": "For accommodation, please select a 3-star hotel that provides \"washer\" and \"dryer\".",
+      "constraint_type": "superlative_star_service_required",
+      "hotel_name": "Home Inn Business Travel - Dalian Venice Water City Harbor Square Metro Station Branch",
+      "required_service": "Washer and Dryer",
+      "hotel_star": 3,
+      "hotel_price": 157.0
+    },
+    "attraction_type_highest_rated": {
+      "constraint_context": "The itinerary must include the highest-rated attraction in the 'Natural Scenery' category.",
+      "constraint_type": "superlative_type_highest_rated",
+      "attraction_names": [
+        "Binhai Road West Section Boardwalk"
+      ],
+      "attraction_type_cn": "自然风光",
+      "attraction_type": "Natural Scenery",
+      "attraction_ratings": [
+        4.9
+      ]
+    },
+    "restaurant_specific_tag_nearby": {
+      "constraint_context": "Arrange a meal at a restaurant near the 'Donggang Business District' during the trip, with seating area service available",
+      "constraint_type": "superlative_specific_tag_nearby",
+      "attraction_name": "Donggang Business District",
+      "restaurant_name": "Venice Rainbow Restaurant (Haichang · Oriental Water City Phase 2 Branch)",
+      "required_tag": "Waiting Area",
+      "price_per_person": 81.0,
+      "restaurant_rating": 4.6
+    }
+  }
+}

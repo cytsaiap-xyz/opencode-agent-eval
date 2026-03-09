@@ -1,0 +1,489 @@
+{
+  "task_id": "A0807004",
+  "domain": "cross_domain",
+  "time": "2024-03-29 10:30:00",
+  "user_id": "U001088",
+  "weather": [
+    {
+      "city": "Weifang",
+      "category": "sunny",
+      "datetime": "2024-03-29",
+      "temperature": [
+        12,
+        22
+      ],
+      "humidity": 45
+    },
+    {
+      "city": "Weifang",
+      "category": "cloudy",
+      "datetime": "2024-03-30",
+      "temperature": [
+        10,
+        20
+      ],
+      "humidity": 55
+    },
+    {
+      "city": "Weifang",
+      "category": "sunny",
+      "datetime": "2024-03-31",
+      "temperature": [
+        11,
+        21
+      ],
+      "humidity": 50
+    }
+  ],
+  "location": [],
+  "user_profile": {
+    "user id": "U001088",
+    "age group": "30~35",
+    "residence": "Weifang",
+    "personality": "Strong logical thinking, enjoys analysis and questioning, pursues accuracy"
+  },
+  "user_historical_behaviors": {
+    "user id": "U001088",
+    "occupation ": "Administrative Manager ",
+    "gender ": "female",
+    "age group": "30~35",
+    "residence": "Weifang",
+    "home address ": "Derun Left Bank Oasis, Southwest Corner of the Intersection of Yuhe Road and Beigong East Street, Kuiwen District, Weifang, Shandong Province ",
+    "work address ": "GoerTek Technology Park, 551 Gaoxin 2nd Road, Kuiwen District, Weifang, Shandong Province ",
+    "dietary restrictions ": "Avoids high sugar ",
+    "family status ": "Has children ",
+    "delivery": {
+      "food delivery": {
+        "breakfast": {
+          "frequently purchased categories": [
+            "Quick Meals/Light Food (Average 28 yuan)",
+            "Quick Meals/Salad (Average 32 yuan)",
+            "Quick Meals/Healthy Meals (Average 35 yuan)"
+          ],
+          "cost per order": "25~40 yuan",
+          "preferred store rating": "4.5~4.9 points",
+          "preferred delivery time": "15~25 minutes",
+          "preferred distance": "0~2500m",
+          "recent orders": [
+            {
+              "store": "Light Food Philosophy",
+              "product": "Avocado Chicken Breast Whole Wheat Sandwich"
+            },
+            {
+              "store": "Salad Mixer",
+              "product": "Quinoa Chicken Breast Salad"
+            },
+            {
+              "store": "Green Leaf Light Food",
+              "product": "Low-fat Protein Breakfast Box"
+            }
+          ],
+          "search history": [
+            "Low-fat breakfast",
+            "Protein",
+            "Whole wheat bread",
+            "Healthy breakfast"
+          ]
+        },
+        "weekday lunch/dinner": {
+          "frequently purchased categories": [
+            "Quick Meals/Healthy Meals (Average 45 yuan)",
+            "Quick Meals/Salad (Average 38 yuan)",
+            "Chinese Cuisine/Shandong Cuisine (Average 65 yuan)"
+          ],
+          "cost per order": "35~70 yuan",
+          "preferred store rating": "4.6~4.9 points",
+          "preferred delivery time": "20~35 minutes",
+          "preferred distance": "0~3000m",
+          "recent orders": [
+            {
+              "store": "Light Food Select",
+              "product": "Low-fat Chicken Breast Quinoa Rice"
+            },
+            {
+              "store": "Weifang Flavor House",
+              "product": "Steamed Bass Set Meal"
+            },
+            {
+              "store": "Nutritionist Light Food",
+              "product": "High-protein Chicken Breast Salad"
+            }
+          ],
+          "search history": [
+            "Fitness meal",
+            "Low-fat",
+            "High-protein",
+            "Chicken breast"
+          ]
+        },
+        "weekend lunch/dinner": {
+          "frequently purchased categories": [
+            "Chinese Cuisine/Shandong Cuisine (Average 80 yuan)",
+            "International Cuisine/Japanese Bento/Sushi (Average 110 yuan)",
+            "Chinese Cuisine/Cantonese Cuisine (Average 95 yuan)"
+          ],
+          "cost per order": "70~150 yuan",
+          "preferred store rating": "4.7~5.0 points",
+          "preferred delivery time": "30~45 minutes",
+          "preferred distance": "0~4000m",
+          "recent orders": [
+            {
+              "store": "Luxiang Pavilion",
+              "product": "Steamed Sea Cucumber"
+            },
+            {
+              "store": "Sushi Story",
+              "product": "Salmon Sashimi Platter"
+            },
+            {
+              "store": "Guangdong Cantonese Restaurant",
+              "product": "Poached Shrimp"
+            }
+          ],
+          "search history": [
+            "Seafood",
+            "Oil-free cooking",
+            "Steamed dishes",
+            "Sushi"
+          ]
+        },
+        "desserts/drinks/snacks": {
+          "frequently purchased categories": [
+            "Beverages & Desserts/Pure Tea/Herbal Tea (Average 22 yuan)",
+            "Beverages & Desserts/Fruit Salad (Average 35 yuan)"
+          ],
+          "cost per order": "18~40 yuan",
+          "preferred store rating": "4.6~4.9 points",
+          "preferred delivery time": "15~25 minutes",
+          "preferred distance": "0~2500m",
+          "recent orders": [
+            {
+              "store": "HEYTEA",
+              "product": "Sugar-free Oolong Tea"
+            },
+            {
+              "store": "Fresh Fruit Workshop",
+              "product": "Mixed Fruit Salad"
+            },
+            {
+              "store": "CHAGEE",
+              "product": "Low-sugar Green Tea"
+            }
+          ],
+          "search history": [
+            "Sugar-free tea",
+            "Fruit",
+            "Low-calorie drinks",
+            "Freshly squeezed juice"
+          ]
+        },
+        "night snack": {
+          "frequently purchased categories": [
+            "Snacks & Braised Food/Braised Food (Average 45 yuan)",
+            "Quick Meals/Rice Noodles (Average 38 yuan)"
+          ],
+          "cost per order": "35~55 yuan",
+          "preferred store rating": "4.5~4.8 points",
+          "preferred delivery time": "20~35 minutes",
+          "preferred distance": "0~3000m",
+          "recent orders": [
+            {
+              "store": "Braised Food Kitchen",
+              "product": "Braised Chicken Breast"
+            },
+            {
+              "store": "Yunnan Bridge Rice Noodles",
+              "product": "Clear Broth Chicken Rice Noodles"
+            },
+            {
+              "store": "Healthy Braised Food House",
+              "product": "Oil-free Braised Food Platter"
+            }
+          ],
+          "search history": [
+            "Low-fat night snack",
+            "Braised food",
+            "Clear broth rice noodles",
+            "Healthy night snack"
+          ]
+        }
+      },
+      "product delivery": {
+        "frequently purchased categories": [
+          "Vegetables/Tofu Products(35%)",
+          "Raw Meat/Poultry/Eggs(25%)",
+          "Fruits(20%)",
+          "Sports & Outdoor(10%)",
+          "Grains, Oil, Seasonings & Dried Goods(7%)",
+          "Others(3%)"
+        ],
+        "frequently visited stores": [
+          "China Resources Vanguard Convenience Store(45%)",
+          "Yonghui Superstores(30%)",
+          "Xiao Xiang Supermarket (formerly Meituan Grocery Kuiwen Store)(20%)",
+          "Other stores(5%)"
+        ],
+        "cost per order by category": {
+          "Vegetables/Tofu Products": "5~20 yuan",
+          "Raw Meat/Poultry/Eggs": "30~80 yuan",
+          "Fruits": "10~40 yuan",
+          "Sports & Outdoor": "50~200 yuan",
+          "Grains, Oil, Seasonings & Dried Goods": "15~50 yuan"
+        },
+        "preferred delivery time": "25~60 minutes",
+        "typical order time": "7~9am(35%), 5~7pm(40%), 1~3pm(20%)",
+        "recent orders": [
+          {
+            "store": "China Resources Vanguard Convenience Store",
+            "product": "Broccoli 300g, Tofu 2 packs, Chicken Breast 500g"
+          },
+          {
+            "store": "Yonghui Superstores",
+            "product": "Avocados 2pcs, Salmon Sashimi 200g"
+          },
+          {
+            "store": "Xiao Xiang Supermarket (formerly Meituan Grocery Kuiwen Store)",
+            "product": "Fitness Protein Powder, Tomatoes 300g"
+          }
+        ],
+        "search history": [
+          "Chicken breast",
+          "Protein powder",
+          "Broccoli",
+          "Avocado",
+          "Salmon",
+          "Low-fat ingredients"
+        ]
+      }
+    },
+    "in-store consumption": {
+      "in-store dining": {
+        "fine-dining": {
+          "frequently consumed categories": [
+            "Regional Cuisine/Sichuan Cuisine (Average 85 yuan)",
+            "International Cuisine/Korean Food (Average 120 yuan)",
+            "Regional Cuisine/Beijing Cuisine (Average 95 yuan)"
+          ],
+          "preferred average price per person": "80~120 yuan",
+          "preferred store rating": "4.0~4.6 stars",
+          "typical dining time": "18:30-20:30",
+          "preferred distance": "500~2000m",
+          "recent orders": [
+            {
+              "store": "Spicy Palace Sichuan Cuisine",
+              "product": "Boiled Fish Set"
+            },
+            {
+              "store": "Korean House",
+              "product": "Stone Pot Bibimbap"
+            },
+            {
+              "store": "Beijing Roast Duck Restaurant",
+              "product": "Roast Duck for Two"
+            }
+          ],
+          "search history": [
+            "Authentic Sichuan cuisine",
+            "Family gathering",
+            "Kids set meal",
+            "Set meals without seafood"
+          ]
+        },
+        "light meal": {
+          "frequently consumed categories": [
+            "Snacks & Fast Food/Chinese Quick Meals (Average 35 yuan)",
+            "Snacks & Fast Food/Western Fast Food (Average 30 yuan)",
+            "Regional Cuisine/Northeast Chinese Cuisine (Average 40 yuan)"
+          ],
+          "preferred average price per person": "25~45 yuan",
+          "preferred store rating": "3.5~4.2 stars",
+          "typical dining time": "11:30-13:00",
+          "preferred distance": "0~500m",
+          "recent orders": [
+            {
+              "store": "Yonghe King",
+              "product": "Signature Three-piece Set"
+            },
+            {
+              "store": "McDonald's",
+              "product": "Grilled Chicken Burger Set"
+            },
+            {
+              "store": "Northeast Auntie's Dumpling House",
+              "product": "Pork and Cabbage Dumplings"
+            }
+          ],
+          "search history": [
+            "Work lunch",
+            "Dumplings",
+            "Fast service",
+            "Bento"
+          ]
+        },
+        "desserts/drinks/snacks": {
+          "frequently consumed categories": [
+            "Beverage Shops (Average 18 yuan)",
+            "Bread & Desserts (Average 25 yuan)"
+          ],
+          "preferred average price per person": "15~30 yuan",
+          "preferred store rating": "3.8~4.5 stars",
+          "typical dining time": "15:00-16:30",
+          "preferred distance": "0~300m",
+          "recent orders": [
+            {
+              "store": "COCO",
+              "product": "Red Tea Macchiato"
+            },
+            {
+              "store": "Bread Talk",
+              "product": "Red Bean Bread"
+            },
+            {
+              "store": "Meet Fresh",
+              "product": "Taro Ball Dessert"
+            }
+          ],
+          "search history": [
+            "Caffeine-free drinks",
+            "Afternoon tea",
+            "Children's desserts",
+            "Fruit tea"
+          ]
+        }
+      },
+      "other in-store services": {
+        "frequently consumed categories": {
+          "Sports & Fitness/Fitness Centers": "40%",
+          "Beauty/Haircuts": "30%",
+          "Parent-child/Parent-child Playgrounds": "20%",
+          "Leisure Entertainment/DIY Workshops": "10%"
+        },
+        "cost per order by category": {
+          "Sports & Fitness/Fitness Centers": "80~150 yuan",
+          "Beauty/Haircuts": "120~250 yuan",
+          "Parent-child/Parent-child Playgrounds": "100~200 yuan",
+          "Leisure Entertainment/DIY Workshops": "60~120 yuan"
+        },
+        "preferred store rating": "4.0~4.8 stars",
+        "preferred service time": "19:00-21:00",
+        "preferred distance": "0~3000m",
+        "recent orders": [
+          {
+            "store": "Zhongjian Fitness",
+            "product": "Single Person Yoga Class"
+          },
+          {
+            "store": "Fayixuan",
+            "product": "Wash, Cut and Blow-dry Package"
+          },
+          {
+            "store": "Curious Parent-child Playground",
+            "product": "Weekend Parent-child Interactive Ticket"
+          }
+        ],
+        "search history": [
+          "Women's fitness",
+          "Parent-child activities",
+          "Children's handicraft classes",
+          "Weekend parent-child outings"
+        ]
+      }
+    },
+    "OTA": {
+      "visited scenes": {
+        "Cultural Relics": "35%",
+        "Exhibition Halls (Museums/Art Galleries)": "25%",
+        "Natural Landscapes (Mountains/Lakes/Forests)": "20%",
+        "Parks": "15%",
+        "Tourist Attractions (Mountains/Beaches/Ecological Large Scenic Areas)": "5%"
+      },
+      "cost per night on hotel": "500~1000 yuan",
+      "visited hotels": {
+        "Atour": "30%",
+        "JI Hotel": "25%",
+        "Vienna Hotel": "20%",
+        "Home Inn": "15%",
+        "Jinjiang Inn": "10%"
+      },
+      "browsed hotels": {
+        "Four-star Hotels": "25%",
+        "Three-star Hotels": "35%",
+        "Comfort Hotels": "30%",
+        "Budget Hotels": "10%"
+      },
+      "historical travel plans": {
+        "Weifang-Beijing": {
+          "Price Range": "350-450 yuan",
+          "Transportation Mode": "High-speed Rail/Bullet Train"
+        },
+        "Weifang-Shanghai": {
+          "Price Range": "500-600 yuan",
+          "Transportation Mode": "High-speed Rail/Bullet Train"
+        },
+        "Weifang-Qingdao": {
+          "Price Range": "100-150 yuan",
+          "Transportation Mode": "High-speed Rail/Bullet Train"
+        },
+        "Weifang-Jinan": {
+          "Price Range": "80-120 yuan",
+          "Transportation Mode": "High-speed Rail/Bullet Train"
+        },
+        "Within Shandong Province": {
+          "Price Range": "200-400 yuan",
+          "Transportation Mode": "Self-driving"
+        }
+      }
+    }
+  },
+  "stores": {},
+  "orders": {
+    "S17550809757137606_O00001": {
+      "order_id": "S17550809757137606_O00001",
+      "order_type": "instore",
+      "user_id": "U001088",
+      "store_id": "S17550809757137606_I00006",
+      "total_price": 2980.0,
+      "create_time": "2024-03-28 15:42:36",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17550809757137606_P00045",
+          "price": 2980.0,
+          "quantity": 1
+        }
+      ]
+    },
+    "S17550809757137606_O00002": {
+      "order_id": "S17550809757137606_O00002",
+      "order_type": "instore",
+      "user_id": "U001088",
+      "store_id": "S17550809757137606_I00006",
+      "total_price": 1880.0,
+      "create_time": "2024-03-28 15:45:21",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17550809757137606_P00046",
+          "price": 188.0,
+          "quantity": 10
+        }
+      ]
+    },
+    "S17550809757137606_O00003": {
+      "order_id": "S17550809757137606_O00003",
+      "order_type": "instore",
+      "user_id": "U001088",
+      "store_id": "S17550809757137606_I00006",
+      "total_price": 1200.0,
+      "create_time": "2024-03-28 16:02:15",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17550809757137606_P00049",
+          "price": 1200.0,
+          "quantity": 1
+        }
+      ]
+    }
+  }
+}

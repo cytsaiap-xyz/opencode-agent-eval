@@ -1,0 +1,51 @@
+{
+  "task_id": "102",
+  "query": "I'm planning a trip from Hohhot to Beijing on November 12, 2025, and will return on November 18. Could you please help me plan this trip, including arrangements for transportation, accommodation, meals, and attractions?\n\nLet's start with transportation. For the outbound journey, you can arrange any train departure time that's convenient. However, for the return trip, I'd prefer to return to Hohhot as late as possible so I can spend more time in Beijing. Also, please make sure to book direct train services—transfers are too troublesome.\n\nFor accommodation, a three-star hotel is sufficient—I don't have high requirements for lodging. However, I'll be driving there myself, so it would be best if the hotel offers free parking, which would be more convenient.\n\nRegarding meals, there’s one thing I definitely want: I’d like to have a meal near the 'National Aquatics Center (Water Cube)'. Just pick the restaurant there with the lowest average spending per person so I can try some local affordable cuisine—the budget doesn’t need to be high.\n\nAs for attractions, I’ve heard Beijing has many must-visit places. Please select the top three highest-rated ones from your recommendations and include them in the itinerary—that way I won’t miss out on the highlights.\n\nThat’s basically all I need. I think I've provided all the necessary information—please go ahead and prepare the detailed travel plan and budget for me! November 12, 2025 is Wednesday",
+  "meta_info": {
+    "org": "Hohhot",
+    "dest": [
+      "Beijing"
+    ],
+    "days": 7,
+    "depart_date": "2025-11-12",
+    "return_date": "2025-11-18",
+    "people_number": 1,
+    "room_number": 1
+  },
+  "hard_constraints": {
+    "train_latest_arrival_direct": {
+      "constraint_context": "I would like to return later, so please help me choose the latest direct train for the return journey",
+      "constraint_type": "superlative_latest_arrival",
+      "inbound_train_no": "G2465"
+    },
+    "hotel_star_service_required": {
+      "constraint_context": "Please select a 3-star hotel that offers free parking",
+      "constraint_type": "superlative_star_service_required",
+      "hotel_name": "Qiuguo Hotel Express (Beijing Beiqijia Wendu Water City Branch)",
+      "required_service": "Free Parking",
+      "hotel_star": 3,
+      "hotel_price": 236.0
+    },
+    "restaurant_cheapest_nearby_attraction": {
+      "constraint_context": "During the trip, please arrange a meal at the cheapest restaurant near the 'National Aquatics Center (Water Cube)' per person.",
+      "constraint_type": "superlative_cheapest_nearby_attraction",
+      "attraction_name": "National Aquatics Center (Water Cube)",
+      "restaurant_name": "Beijing Academy of Social Sciences Restaurant",
+      "price_per_person": 40.0
+    },
+    "attraction_top_rated_must_visit": {
+      "constraint_context": "The itinerary must include the three highest-rated attractions recommended by the attraction recommendation tool.",
+      "constraint_type": "superlative_top_rated_must_visit",
+      "attraction_names": [
+        "Beihai Park",
+        "Shichahai",
+        "Beijing Olympic Park"
+      ],
+      "attraction_ratings": [
+        4.9,
+        4.9,
+        4.9
+      ]
+    }
+  }
+}

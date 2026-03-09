@@ -1,0 +1,126 @@
+{
+  "required_orders": [
+    {
+      "order_id": "70812007T001",
+      "order_type": "train",
+      "user_id": "U759409",
+      "store_id": "S17557505495911209_T00011",
+      "note": "",
+      "location": null,
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 178,
+      "create_time": "2023-06-09 15:19:53",
+      "update_time": "2023-06-09 15:19:53",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17557505495911209_P00072",
+          "price": 89,
+          "quantity": 2,
+          "date": "2023-06-24",
+          "seat_type": "Second Class Seat"
+        }
+      ]
+    },
+    {
+      "order_id": "70812007T002",
+      "order_type": "train",
+      "user_id": "U759409",
+      "store_id": "S17557505495911209_T00012",
+      "note": "",
+      "location": null,
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 178,
+      "create_time": "2023-06-09 15:22:53",
+      "update_time": "2023-06-09 15:22:53",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17557505495911209_P00077",
+          "price": 89,
+          "quantity": 2,
+          "date": "2023-06-25",
+          "seat_type": "Second Class Seat"
+        }
+      ]
+    },
+    {
+      "order_id": "70812007T003",
+      "order_type": "attraction",
+      "user_id": "U759409",
+      "store_id": "S17557546665235880_A00005",
+      "note": "",
+      "location": null,
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 308,
+      "create_time": "2023-06-09 15:29:53",
+      "update_time": "2023-06-09 15:29:53",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17557546665235880_P00029",
+          "price": 128,
+          "quantity": 1,
+          "date": "2023-06-24",
+          "ticket_type": "College Entrance Exam Graduate Discount Ticket"
+        },
+        {
+          "product_id": "S17557546665235880_P00030",
+          "price": 180,
+          "quantity": 1,
+          "date": "2023-06-24",
+          "ticket_type": "Parasailing Only Adult Ticket"
+        }
+      ]
+    },
+    {
+      "order_id": "70812007T004",
+      "order_type": "hotel",
+      "user_id": "U759409",
+      "store_id": "S17557505495911209_H00002",
+      "note": "",
+      "location": null,
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 1188,
+      "create_time": "2023-06-09 15:33:53",
+      "update_time": "2023-06-09 15:33:53",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17557505495911209_P00009",
+          "price": 1188,
+          "quantity": 1,
+          "date": "2023-06-24",
+          "room_type": "Deluxe Twin Room (Sea View)"
+        }
+      ]
+    }
+  ],
+  "rubrics": [
+    "Departure train's date should be June 24, 2023",
+    "Departure train's arrival time should be before 10:00 AM on June 24, 2023",
+    "Departure train's tickets should be for Zhuhai to Yangjiang",
+    "Departure train's tickets quantity should be 2",
+    "Return train's departure date should be June 25, 2023",
+    "Return train's departure time should be between 7:00 PM and 8:00 PM on June 25, 2023",
+    "Return train's tickets should be for Yangjiang to Zhuhai",
+    "Return train's tickets quantity should be 2",
+    "The ordered attraction tickets should be for parasailing",
+    "The ordered attraction tickets should include one Parasailing Only Adult Ticket",
+    "The ordered attraction tickets should include one College Entrance Exam Graduate Discount Ticket",
+    "The ordered attraction tickets' usage date should be June 24, 2023",
+    "The ordered hotel should be five-star",
+    "The ordered hotel should provide buffet",
+    "The ordered hotel room type should be twin room",
+    "The ordered hotel room quantity should be 1",
+    "Hotel check-in date should be June 24, 2023"
+  ]
+}

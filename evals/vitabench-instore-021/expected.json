@@ -1,0 +1,96 @@
+{
+  "required_orders": [
+    {
+      "order_id": "10826010T001",
+      "order_type": "instore",
+      "user_id": "U982928",
+      "store_id": "S17564420255786250_I00001",
+      "note": "",
+      "location": null,
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 120,
+      "create_time": "2024-12-19 17:31:00",
+      "update_time": "2024-12-20 15:31:00",
+      "status": "cancelled",
+      "products": [
+        {
+          "product_id": "S17564420255786250_P00004",
+          "name": "Single Person Shared Escape Room Experience Ticket",
+          "price": 120,
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "order_id": "10826010T002",
+      "order_type": "instore",
+      "user_id": "U982928",
+      "store_id": "S17564420255786250_I00001",
+      "note": "",
+      "location": null,
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 198,
+      "create_time": "2024-12-20 15:32:00",
+      "update_time": "2024-12-20 15:32:00",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17564420255786250_P00001",
+          "name": "Beginner Entry Theme Double Ticket - Secret Garden",
+          "price": 198,
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "reservation_id": "10826010T003",
+      "shop_id": "S17564420255786250_I00001",
+      "reservation_time": "2024-12-21 14:00:00",
+      "update_time": "2024-12-20 15:33:00",
+      "customer_id": "U982928",
+      "customer_count": 2,
+      "status": "paid"
+    },
+    {
+      "order_id": "10826010T004",
+      "order_type": "instore",
+      "user_id": "U982928",
+      "store_id": "S17564420255786250_I00002",
+      "note": "",
+      "location": null,
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 268,
+      "create_time": "2024-12-20 15:35:00",
+      "update_time": "2024-12-20 15:35:00",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17564420255786250_P00006",
+          "name": "Minnan Selected Couple Package",
+          "price": 268,
+          "quantity": 1
+        }
+      ]
+    }
+  ],
+  "rubrics": [
+    "The status of the Single Person Shared Escape Room Experience Ticket order should be cancelled",
+    "The ordered product at the escape room should be of low difficulty",
+    "The ordered product at the escape room should be a Couple Package",
+    "The escape room should be Puzzle Solver Escape Room",
+    "The booked escape room should be Puzzle Solver Escape Room",
+    "The booking time for the escape room should be 2024-12-21 14:00:00",
+    "The number of people for the escape room booking should be 2",
+    "The budget is 500 yuan, the escape room costs 198 yuan, so the price of the ordered Minnan cuisine should be less than or equal to 302 yuan",
+    "The Minnan restaurant should be within 500m (inclusive) of Puzzle Solver Escape Room Center, 1299 Lijing Road, Honggutan New District, Nanchang, Jiangxi Province",
+    "The Minnan restaurant should be a Non-Smoking Restaurant",
+    "The Minnan restaurant should have Two-Person Booth seating",
+    "The ordered meal at the Minnan restaurant should be a couple package, not two single person packages"
+  ]
+}

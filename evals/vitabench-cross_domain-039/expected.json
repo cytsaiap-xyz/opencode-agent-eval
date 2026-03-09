@@ -1,0 +1,80 @@
+{
+  "required_orders": [
+    {
+      "order_id": "A0811010T001",
+      "order_type": "delivery",
+      "user_id": "U564137",
+      "store_id": "S17550810556939211_S00002",
+      "note": "Deliver around 8 PM",
+      "location": {
+        "address": "Jidian Internet Cafe, North Plaza of Zhuhai High-Speed Railway Station, 999 Yingbin South Road, Xiangzhou District, Zhuhai City, Guangdong Province",
+        "longitude": 113.552,
+        "latitude": 22.218
+      },
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 108,
+      "create_time": "2024-02-23 18:19:53",
+      "update_time": "2024-02-23 18:19:53",
+      "status": "unpaid",
+      "products": [
+        {
+          "product_id": "S17550810556939211_P00010",
+          "price": 29,
+          "quantity": 1,
+          "name": "Coffee Jelly Lemon Tea",
+          "store_id": "S17550810556939211_S00002",
+          "store_name": "Nayuki Tea",
+          "attributes": "No toppings",
+          "tags": [
+            "Contains Caffeine",
+            "Refreshing",
+            "Refreshing",
+            "Popular Drinks"
+          ]
+        }
+      ]
+    },
+    {
+      "order_id": "OIb192a86a68",
+      "order_type": "instore",
+      "user_id": "U564137",
+      "store_id": "S17550810556939211_I00010",
+      "note": "",
+      "location": null,
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 108,
+      "create_time": "2024-02-23 18:16:23",
+      "update_time": "2024-02-23 18:16:23",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17550810556939211_P00054",
+          "price": 108,
+          "quantity": 1,
+          "name": "All Night Private Room Package",
+          "shop_id": "S17550810556939211_I00010",
+          "tags": [
+            "240Hz Monitor",
+            "High-End Configuration",
+            "Drinks Included"
+          ]
+        }
+      ]
+    }
+  ],
+  "rubrics": [
+    "Delivery address is Jidian Internet Cafe, North Plaza of Zhuhai High-Speed Railway Station, 999 Yingbin South Road, Xiangzhou District, Zhuhai City, Guangdong Province",
+    "Delivery time is around 8 PM on February 23, 2024 [i.e., delivery time should be between 7:45 PM and 8:15 PM]",
+    "Products in the delivery order should not include toppings",
+    "The ordered product should contain caffeine",
+    "The merchant should provide 24-Hour Service",
+    "The merchant should have monitors above 200Hz",
+    "The purchased package should be for a private room",
+    "The purchased package should allow overnight use",
+    "By checking historical orders, we found a train ticket from Zhuhai to Foshan departing at 07:25 on February 24, 2024, so the merchant should be near the high-speed railway station"
+  ]
+}

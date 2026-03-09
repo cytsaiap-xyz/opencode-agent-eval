@@ -1,0 +1,131 @@
+{
+  "task_id": "70805002",
+  "domain": "ota",
+  "time": "2025-07-25 19:56:53",
+  "user_id": "U010006",
+  "weather": [
+    {
+      "city": "Tianjin",
+      "category": "cloudy",
+      "datetime": "2025-07-30",
+      "temperature": [
+        26,
+        32
+      ],
+      "humidity": 68
+    },
+    {
+      "city": "Hangzhou",
+      "category": "moderate rain",
+      "datetime": "2025-07-30",
+      "temperature": [
+        24,
+        28
+      ],
+      "humidity": 85
+    }
+  ],
+  "location": [
+    {
+      "address": "Ningsheng Li, Intersection of Weijin South Road and Cangqiong Road, Nankai District, Tianjin",
+      "longitude": 117.1692,
+      "latitude": 39.0742
+    }
+  ],
+  "user_profile": {
+    "user id": "U010006",
+    "occupation": "Freelancer",
+    "gender": "male",
+    "age group": "30~35",
+    "residence": "Tianjin",
+    "home address": "Ningsheng Li, Intersection of Weijin South Road and Cangqiong Road, Nankai District, Tianjin",
+    "work address": "Ningsheng Li, Intersection of Weijin South Road and Cangqiong Road, Nankai District, Tianjin",
+    "dietary restrictions": "No alcohol, No high-fat offal",
+    "family status": "Has pets",
+    "personality": "Strong logical thinking, likes to analyze and question, pursues accuracy"
+  },
+  "user_historical_behaviors": {
+    "user id": "U010006",
+    "occupation": "Freelancer",
+    "gender": "male",
+    "age group": "30~35",
+    "residence": "Tianjin",
+    "home address": "Ningsheng Li, Intersection of Weijin South Road and Cangqiong Road, Nankai District, Tianjin",
+    "work address": "Ningsheng Li, Intersection of Weijin South Road and Cangqiong Road, Nankai District, Tianjin",
+    "visited scenes": {
+      "Historical Sites": "25%",
+      "Exhibition Halls (Museums/Art Galleries)": "30%",
+      "Natural Landscapes (Mountains/Lakes/Forests)": "15%",
+      "Parks": "10%",
+      "Hot Spring Resorts": "15%",
+      "Traditional Villages/Industrial Tourism/Uncategorized": "5%"
+    },
+    "cost per night on hotel": "500~1000 yuan",
+    "visited hotels": {
+      "Atour": "35%",
+      "Ji Hotel": "25%",
+      "Vienna Hotel": "20%",
+      "Orange Hotel": "15%",
+      "Jinjiang Inn": "5%"
+    },
+    "browsed hotels": {
+      "Four-star Hotels": "25%",
+      "Three-star Hotels": "30%",
+      "Comfort Hotels": "35%",
+      "Budget Hotels": "10%"
+    },
+    "historical travel plans": {
+      "Tianjin-Beijing": {
+        "Price Range": "80-120 yuan",
+        "Transportation": "High-Speed Rail"
+      },
+      "Tianjin-Shanghai": {
+        "Price Range": "600-900 yuan",
+        "Transportation": "High-Speed Rail"
+      },
+      "Tianjin-Hangzhou": {
+        "Price Range": "800-1200 yuan",
+        "Transportation": "Flight"
+      },
+      "Tianjin-Chengdu": {
+        "Price Range": "900-1400 yuan",
+        "Transportation": "Flight"
+      },
+      "Tianjin-Xi'an": {
+        "Price Range": "500-800 yuan",
+        "Transportation": "High-Speed Rail"
+      },
+      "Tianjin-Qingdao": {
+        "Price Range": "300-500 yuan",
+        "Transportation": "High-Speed Rail"
+      }
+    }
+  },
+  "stores": {},
+  "orders": {
+    "70805002T001": {
+      "order_id": "70805002T001",
+      "order_type": "flight",
+      "user_id": "U010006",
+      "store_id": "S17557505552244121_F00008",
+      "note": "",
+      "location": null,
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 950,
+      "create_time": "2025-07-21 12:53:11",
+      "update_time": "2025-07-21 12:53:11",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17557505552244121_P00058",
+          "price": 950,
+          "quantity": 1,
+          "date": "2025-07-30",
+          "seat_type": "Economy Class"
+        }
+      ]
+    }
+  }
+}

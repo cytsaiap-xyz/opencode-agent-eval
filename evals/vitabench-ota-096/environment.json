@@ -1,0 +1,328 @@
+{
+  "task_id": "D0807001",
+  "domain": "ota",
+  "time": "2023-01-03 11:23:47",
+  "user_id": "U010018",
+  "weather": [
+    {
+      "city": "Hangzhou",
+      "category": "overcast",
+      "datetime": "2023-01-03",
+      "temperature": [
+        5,
+        12
+      ],
+      "humidity": 68
+    },
+    {
+      "city": "Sanya",
+      "category": "sunny",
+      "datetime": "2023-01-22",
+      "temperature": [
+        22,
+        28
+      ],
+      "humidity": 65
+    },
+    {
+      "city": "Sanya",
+      "category": "light rain",
+      "datetime": "2023-01-23",
+      "temperature": [
+        21,
+        27
+      ],
+      "humidity": 85
+    },
+    {
+      "city": "Sanya",
+      "category": "overcast",
+      "datetime": "2023-01-24",
+      "temperature": [
+        23,
+        29
+      ],
+      "humidity": 62
+    },
+    {
+      "city": "Sanya",
+      "category": "sunny",
+      "datetime": "2023-01-25",
+      "temperature": [
+        24,
+        30
+      ],
+      "humidity": 58
+    },
+    {
+      "city": "Sanya",
+      "category": "sunny",
+      "datetime": "2023-01-26",
+      "temperature": [
+        23,
+        28
+      ],
+      "humidity": 64
+    }
+  ],
+  "location": [
+    {
+      "address": "Rongxin Kongque Lanxuan, Intersection of Xueyuan North Road and Yuying Road, Gongshu District, Hangzhou, Zhejiang Province",
+      "longitude": 120.134567,
+      "latitude": 30.295432
+    },
+    {
+      "address": "Transfar Innovation Building, China Xiaoshan Science and Technology City, 100m West of the Intersection of Yuanqing Road and Changxiang Road, Xiaoshan District, Hangzhou, Zhejiang Province",
+      "longitude": 120.234567,
+      "latitude": 30.185432
+    }
+  ],
+  "user_profile": {
+    "user id": "U010018",
+    "occupation": "Blue-collar worker",
+    "gender": "male",
+    "age group": "30~35",
+    "residence": "Hangzhou",
+    "home address": "Rongxin Kongque Lanxuan, Intersection of Xueyuan North Road and Yuying Road, Gongshu District, Hangzhou, Zhejiang Province",
+    "work address": "Transfar Innovation Building, China Xiaoshan Science and Technology City, 100m West of the Intersection of Yuanqing Road and Changxiang Road, Xiaoshan District, Hangzhou, Zhejiang Province",
+    "dietary restrictions": "Avoid high-purine foods (such as organ meats/seafood soup), Avoid alcohol",
+    "family status": "Has children",
+    "personality": "Experiences significant mood swings, expresses himself with strong emotional overtones"
+  },
+  "user_historical_behaviors": {
+    "user id": "U010018",
+    "occupation": "Blue-collar worker",
+    "gender": "male",
+    "age group": "30~35",
+    "residence": "Hangzhou",
+    "home address": "Rongxin Kongque Lanxuan, Intersection of Xueyuan North Road and Yuying Road, Gongshu District, Hangzhou, Zhejiang Province",
+    "work address": "Transfar Innovation Building, China Xiaoshan Science and Technology City, 100m West of the Intersection of Yuanqing Road and Changxiang Road, Xiaoshan District, Hangzhou, Zhejiang Province",
+    "visited scenes": {
+      "Cultural and Historical Sites": "20%",
+      "Parks": "35%",
+      "Theme Parks": "25%",
+      "Zoos": "15%",
+      "Scenic Area Facilities (Restrooms/Cable Cars/Visitor Centers/Ticket Offices)": "5%"
+    },
+    "cost per night on hotel": "500~1200 yuan",
+    "visited hotels": {
+      "Marriott": "40%",
+      "Hilton": "25%",
+      "Sheraton": "15%",
+      "Orange": "10%",
+      "Home Inn": "10%"
+    },
+    "browsed hotels": {
+      "Five-star Hotels": "45%",
+      "Luxury Hotels": "40%",
+      "Four-star Hotels": "15%"
+    },
+    "historical travel plans": {
+      "Hangzhou-Shanghai": {
+        "Price Range": "100-150 yuan",
+        "Transportation Mode": "High-speed Rail/Bullet Train"
+      },
+      "Hangzhou-Huangshan": {
+        "Price Range": "250-350 yuan",
+        "Transportation Mode": "Long-distance Bus"
+      },
+      "Hangzhou-Beijing": {
+        "Price Range": "600-900 yuan",
+        "Transportation Mode": "High-speed Rail/Bullet Train"
+      },
+      "Hangzhou-Nanjing": {
+        "Price Range": "150-200 yuan",
+        "Transportation Mode": "High-speed Rail/Bullet Train"
+      },
+      "Hangzhou-Suzhou": {
+        "Price Range": "120-180 yuan",
+        "Transportation Mode": "High-speed Rail/Bullet Train"
+      }
+    }
+  },
+  "stores": {},
+  "orders": {
+    "S17557512133563110_O00001": {
+      "order_id": "S17557512133563110_O00001",
+      "order_type": "hotel",
+      "user_id": "U010018",
+      "store_id": "S17557512133563110_H00001",
+      "note": "Accommodation at Sanya Bay during Spring Festival, need Sea View Room, please provide Airport Transfer Service",
+      "location": {
+        "address": "Sanya Marriott Resort, Sanya Bay Road, Sanya, Hainan Province",
+        "longitude": 109.4734,
+        "latitude": 18.2289
+      },
+      "dispatch_time": "",
+      "shipping_time": 0.0,
+      "delivery_time": "",
+      "total_price": 3360.0,
+      "create_time": "2023-01-02 14:30:00",
+      "update_time": "2023-01-02 14:30:00",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17557512133563110_P00001",
+          "price": 1680.0,
+          "quantity": 2,
+          "date": "2023-01-26",
+          "room_type": "Family Suite with Sea View"
+        }
+      ]
+    },
+    "S17557512133563110_O00002": {
+      "order_id": "S17557512133563110_O00002",
+      "order_type": "hotel",
+      "user_id": "U010018",
+      "store_id": "S17557512133563110_H00002",
+      "note": "Accommodation at Haitang Bay during Spring Festival, need Sea View Room, please provide Airport Transfer Service",
+      "location": {
+        "address": "Sanya Haitang Bay Hilton Hotel, Haitang North Road, Haitang Bay, Sanya, Hainan Province",
+        "longitude": 109.7589,
+        "latitude": 18.3156
+      },
+      "dispatch_time": "",
+      "shipping_time": 0.0,
+      "delivery_time": "",
+      "total_price": 5600.0,
+      "create_time": "2023-01-02 15:15:00",
+      "update_time": "2023-01-02 15:15:00",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17557512133563110_P00013",
+          "price": 2800.0,
+          "quantity": 2,
+          "date": "2023-01-28",
+          "room_type": "Sea View Family Suite"
+        }
+      ]
+    },
+    "S17557512133563110_O00003": {
+      "order_id": "S17557512133563110_O00003",
+      "order_type": "flight",
+      "user_id": "U010018",
+      "store_id": "S17557512133563110_F00013",
+      "note": "Round-trip flights from Hangzhou to Sanya during Spring Festival for family of five, cost-effective Economy Class",
+      "location": {
+        "address": "Xiaoshan International Airport, Xiaoshan District, Hangzhou, Zhejiang Province",
+        "longitude": 120.434,
+        "latitude": 30.229
+      },
+      "dispatch_time": "",
+      "shipping_time": 0.0,
+      "delivery_time": "",
+      "total_price": 6400.0,
+      "create_time": "2023-01-02 16:45:00",
+      "update_time": "2023-01-02 16:45:00",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17557512133563110_P00157",
+          "price": 1280.0,
+          "quantity": 5,
+          "date": "2023-01-26",
+          "seat_type": "Economy Class"
+        }
+      ]
+    },
+    "S17557512133563110_O00004": {
+      "order_id": "S17557512133563110_O00004",
+      "order_type": "flight",
+      "user_id": "U010018",
+      "store_id": "S17557512133563110_F00012",
+      "note": "Return flight from Sanya to Hangzhou during Spring Festival, Economy Class for family of five",
+      "location": {
+        "address": "Phoenix International Airport, Sanya, Hainan Province",
+        "longitude": 109.412,
+        "latitude": 18.302
+      },
+      "dispatch_time": "",
+      "shipping_time": 0.0,
+      "delivery_time": "",
+      "total_price": 6400.0,
+      "create_time": "2023-01-02 17:00:00",
+      "update_time": "2023-01-02 17:00:00",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17557512133563110_P00150",
+          "price": 1280.0,
+          "quantity": 5,
+          "date": "2023-02-02",
+          "seat_type": "Economy Class"
+        }
+      ]
+    },
+    "S17557512133563110_O00005": {
+      "order_id": "S17557512133563110_O00005",
+      "order_type": "attraction",
+      "user_id": "U010018",
+      "store_id": "S17557512133563110_A00005",
+      "note": "Tianya Haijiao tickets for family of five during Spring Festival",
+      "location": {
+        "address": "Tianya Haijiao Tourist Area, Tianya District, Sanya, Hainan Province",
+        "longitude": 109.347,
+        "latitude": 18.298
+      },
+      "dispatch_time": "",
+      "shipping_time": 0.0,
+      "delivery_time": "",
+      "total_price": 334.0,
+      "create_time": "2023-01-02 18:20:00",
+      "update_time": "2023-01-02 18:20:00",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17557512133563110_P00054",
+          "price": 95.0,
+          "quantity": 3,
+          "date": "2023-01-26",
+          "ticket_type": "Adult Ticket"
+        },
+        {
+          "product_id": "S17557512133563110_P00058",
+          "price": 48.0,
+          "quantity": 2,
+          "date": "2023-01-26",
+          "ticket_type": "Child Ticket"
+        }
+      ]
+    },
+    "S17557512133563110_O00006": {
+      "order_id": "S17557512133563110_O00006",
+      "order_type": "attraction",
+      "user_id": "U010018",
+      "store_id": "S17557512133563110_A00008",
+      "note": "Wuzhizhou Island tickets for the whole family during Spring Festival",
+      "location": {
+        "address": "Wuzhizhou Island, Haitang Bay, Sanya, Hainan Province",
+        "longitude": 109.765,
+        "latitude": 18.316
+      },
+      "dispatch_time": "",
+      "shipping_time": 0.0,
+      "delivery_time": "",
+      "total_price": 714.0,
+      "create_time": "2023-01-02 19:10:00",
+      "update_time": "2023-01-02 19:10:00",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17557512133563110_P00099",
+          "price": 168.0,
+          "quantity": 3,
+          "date": "2023-01-27",
+          "ticket_type": "Adult Ticket"
+        },
+        {
+          "product_id": "S17557512133563110_P00104",
+          "price": 105.0,
+          "quantity": 2,
+          "date": "2023-01-27",
+          "ticket_type": "Child Ticket"
+        }
+      ]
+    }
+  }
+}

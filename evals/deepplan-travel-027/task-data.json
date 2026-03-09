@@ -1,0 +1,48 @@
+{
+  "task_id": "26",
+  "query": "I plan to travel from Hangzhou to Nanchang for a three-day trip on November 12, 2025, returning on November 14. Could you please help me arrange the itinerary including transportation, accommodation, meals, and sightseeing?\n\nRegarding transportation, I’d like to depart as early as possible—earlier is better—and preferably take a direct train so that we’ll have more time to explore upon arrival in Nanchang. For accommodation, I care about the hotel’s facilities and environment, so please choose a hotel renovated after 2023 to ensure comfort. By the way, there are three of us traveling together, so we’ll need two rooms—thanks in advance!\n\nFor dining, there’s one place I’m particularly eager to try: 'Xinghualou (Shui Guanyin Pavilion)'. I’ve heard there are many great restaurants around there. Could you arrange for us to have a meal in that area? Ideally, pick a restaurant offering outdoor seating—I think dining outdoors in Nanchang would be quite enjoyable. Additionally, if possible, please also recommend the highest-rated restaurant near 'Xinghualou (Shui Guanyin Pavilion)' so we can dine there once as well.\n\nThese are basically all my requirements. I believe I’ve provided sufficient information—please go ahead and plan the itinerary directly without needing to ask for further details! November 12, 2025 is Wednesday",
+  "meta_info": {
+    "org": "Hangzhou",
+    "dest": [
+      "Nanchang"
+    ],
+    "days": 3,
+    "depart_date": "2025-11-12",
+    "return_date": "2025-11-14",
+    "people_number": 3,
+    "room_number": 2
+  },
+  "hard_constraints": {
+    "train_earliest_departure_direct": {
+      "constraint_context": "Please help me choose the earliest departure direct train for the outbound journey",
+      "constraint_type": "superlative_earliest_departure",
+      "outbound_train_no": "G353"
+    },
+    "hotel_newest_decoration": {
+      "constraint_context": "Please select hotels that were renovated in 2023 or later for accommodation",
+      "constraint_type": "superlative_newest_decoration",
+      "hotel_name": "Ji Hotel Nanchang Chaoyang West Lake Wanda Joy City Branch",
+      "hotel_price": 282.0,
+      "hotel_score": 4.8,
+      "decoration_time": 2024,
+      "year_threshold": 2023
+    },
+    "restaurant_specific_tag_nearby": {
+      "constraint_context": "Arrange a meal at a restaurant near 'Apricot Blossom Tower (Water Guanyin Pavilion)' during the trip, with outdoor seating service required",
+      "constraint_type": "superlative_specific_tag_nearby",
+      "attraction_name": "Apricot Blossom Tower (Water Guanyin Pavilion)",
+      "restaurant_name": "Lychee Restaurant",
+      "required_tag": "Outdoor Seating",
+      "price_per_person": 77.0,
+      "restaurant_rating": 4.9
+    },
+    "restaurant_highest_rated": {
+      "constraint_context": "During the trip, please arrange a meal at the highest-rated restaurant near 'Apricot Blossom Tower (Water Guanyin Pavilion)'",
+      "constraint_type": "superlative_highest_rated_restaurant",
+      "attraction_name": "Apricot Blossom Tower (Water Guanyin Pavilion)",
+      "restaurant_name": "Lychee Restaurant",
+      "price_per_person": 77.0,
+      "restaurant_rating": 4.9
+    }
+  }
+}

@@ -1,0 +1,233 @@
+{
+  "required_orders": [
+    {
+      "order_id": "10808011T003",
+      "order_type": "delivery",
+      "user_id": "U958565",
+      "store_id": "S17550806610851493_S00005",
+      "note": "",
+      "location": {
+        "address": "Room 1203, Unit 5, Jinnyu Jiahua Building, 19 Xibeiwang Middle Road, Haidian District, Beijing",
+        "longitude": 116.316,
+        "latitude": 40.052
+      },
+      "dispatch_time": "2024-06-08 18:55:00",
+      "shipping_time": 40,
+      "delivery_time": "2024-06-08 19:35:00",
+      "total_price": 298,
+      "create_time": "2024-06-08 18:35:00",
+      "update_time": "2024-06-08 18:35:00",
+      "status": "delivered",
+      "products": [
+        {
+          "product_id": "S17550806610851493_P00021",
+          "price": 298,
+          "quantity": 1,
+          "name": "\"Jurisprudence\" (Hardcover Collector's Edition)',\n                  \"attributes\": \"\"\n                }\n              ]\n            },\n            {\n              \"order_id\": \"10808011T001\",\n              \"order_type\": \"instore\",\n              \"user_id\": \"U958565\",\n              \"store_id\": \"S17550806610851493_I00012\",\n              \"note\": \"\",\n              \"location\": null,\n              \"dispatch_time\": \"\",\n              \"shipping_time\": null,\n              \"delivery_time\": \"\",\n              \"total_price\": 168,\n              \"create_time\": \"2024-06-08 18:32:00\",\n              \"update_time\": \"2024-06-08 18:32:00\",\n              \"status\": \"paid\",\n              \"products\": [\n                {\n                  \"product_id\": \"S17550806610851493_P00058\",\n                  \"name\": \"Cozy Double Viewing Package (4 hours)\",\n                  \"price\": 168,\n                  \"quantity\": 1\n                }\n              ]\n            },\n            {\n              \"reservation_id\": \"10808011T002\",\n              \"shop_id\": \"S17550806610851493_I00012\",\n              \"reservation_time\": \"2025-06-18 21:00:00\",\n              \"update_time\": \"2024-06-08 18:33:00\",\n              \"customer_id\": \"U958565\",\n              \"customer_count\": 2,\n              \"status\": \"unconsumed\"\n            },\n            {\n              \"order_id\": \"OO5636a2a264\",\n              \"order_type\": \"attraction\",\n              \"user_id\": \"U958565\",\n              \"store_id\": \"S17550806610851493_A00006\",\n              \"note\": \"\",\n              \"location\": null,\n              \"dispatch_time\": \"\",\n              \"shipping_time\": null,\n              \"delivery_time\": \"\",\n              \"total_price\": 160,\n              \"create_time\": \"2024-06-08 18:37:00\",\n              \"update_time\": \"2024-06-08 18:37:00\",\n              \"status\": \"paid\",\n              \"products\": [\n                {\n                  \"product_id\": \"S17550806610851493_P00030\",\n                  \"price\": 80,\n                  \"quantity\": 2,\n                  \"date\": \"2024-06-09\",\n                  \"ticket_type\": \"Special Admission Ticket\"\n                }\n              ]\n            }\n          ],\n          \"optional_orders\": [],\n          \"state_rubrics\": [\n            \"The delivery order product must be a legal classic work\",\n            \"The purchased book must be a hardcover edition\",\n            \"The purchased book must have collectible value\",\n            \"The book should be delivered to Room 1203, Unit 5, Jinnyu Jiahua Building, 19 Xibeiwang Middle Road, Haidian District, Beijing\",\n            \"The book needs to be delivered on the same day\",\n            \"Need to check the business hours of the private cinema where the order was placed, the result shows it",
+          "1": 0,
+          "20": 0,
+          "required_orders": [
+            {
+              "order_id": "10808011T003",
+              "order_type": "delivery",
+              "user_id": "U958565",
+              "store_id": "S17550806610851493_S00005",
+              "note": "",
+              "location": {
+                "address": "Room 1203, Unit 5, Jinnyu Jiahua Building, 19 Xibeiwang Middle Road, Haidian District, Beijing",
+                "longitude": 116.316,
+                "latitude": 40.052
+              },
+              "dispatch_time": "2024-06-08 18:55:00",
+              "shipping_time": 40,
+              "delivery_time": "2024-06-08 19:35:00",
+              "total_price": 298,
+              "create_time": "2024-06-08 18:35:00",
+              "update_time": "2024-06-08 18:35:00",
+              "status": "delivered",
+              "products": [
+                {
+                  "product_id": "S17550806610851493_P00021",
+                  "price": 298,
+                  "quantity": 1,
+                  "name": "\"Jurisprudence\" (Hardcover Collector's Edition)',\n                  \"attributes\": \"\"\n                }\n              ]\n            },\n            {\n              \"order_id\": \"10808011T001\",\n              \"order_type\": \"instore\",\n              \"user_id\": \"U958565\",\n              \"store_id\": \"S17550806610851493_I00012\",\n              \"note\": \"\",\n              \"location\": null,\n              \"dispatch_time\": \"\",\n              \"shipping_time\": null,\n              \"delivery_time\": \"\",\n              \"total_price\": 168,\n              \"create_time\": \"2024-06-08 18:32:00\",\n              \"update_time\": \"2024-06-08 18:32:00\",\n              \"status\": \"paid\",\n              \"products\": [\n                {\n                  \"product_id\": \"S17550806610851493_P00058\",\n                  \"name\": \"Cozy Double Viewing Package (4 hours)\",\n                  \"price\": 168,\n                  \"quantity\": 1\n                }\n              ]\n            },\n            {\n              \"reservation_id\": \"10808011T002\",\n              \"shop_id\": \"S17550806610851493_I00012\",\n              \"reservation_time\": \"2025-06-18 21:00:00\",\n              \"update_time\": \"2024-06-08 18:33:00\",\n              \"customer_id\": \"U958565\",\n              \"customer_count\": 2,\n              \"status\": \"unconsumed\"\n            },\n            {\n              \"order_id\": \"OO5636a2a264\",\n              \"order_type\": \"attraction\",\n              \"user_id\": \"U958565\",\n              \"store_id\": \"S17550806610851493_A00006\",\n              \"note\": \"\",\n              \"location\": null,\n              \"dispatch_time\": \"\",\n              \"shipping_time\": null,\n              \"delivery_time\": \"\",\n              \"total_price\": 160,\n              \"create_time\": \"2024-06-08 18:37:00\",\n              \"update_time\": \"2024-06-08 18:37:00\",\n              \"status\": \"paid\",\n              \"products\": [\n                {\n                  \"product_id\": \"S17550806610851493_P00030\",\n                  \"price\": 80,\n                  \"quantity\": 2,\n                  \"date\": \"2024-06-09\",\n                  \"ticket_type\": \"Special Admission Ticket\"\n                }\n              ]\n            }\n          ],\n          \"optional_orders\": [],\n          \"state_rubrics\": [\n            \"The private cinema must be a small private room\",\n            \"The package duration ordered at the private cinema must be 4 hours\",\n            \"The private cinema must be close to home, within 3 kilometers of Room 1203, Unit 5, Jinnyu Jiahua Building, 19 Xibeiwang Middle Road, Haidian District, Beijing\",\n            \"The private cinema rating must be higher than 4.9\",\n            \"The private cinema needs to be booked for the latest available time slot on the same day (June 8, 2024), which is 21:00\"\n          ]\n        },\n        {\n          \"required_orders\": [\n            {\n              \"order_id\": \"10808011T003\",\n              \"order_type\": \"delivery\",\n              \"user_id\": \"U958565\",\n              \"store_id\": \"S17550806610851493_S00005\",\n              \"note\": \"\",\n              \"location\": {\n                \"address\": \"Room 1203, Unit 5, Jinnyu Jiahua Building, 19 Xibeiwang Middle Road, Haidian District, Beijing\",\n                \"longitude\": 116.316,\n                \"latitude\": 40.052\n              },\n              \"dispatch_time\": \"2024-06-08 18:55:00\",\n              \"shipping_time\": 40,\n              \"delivery_time\": \"2024-06-08 19:35:00\",\n              \"total_price\": 298,\n              \"create_time\": \"2024-06-08 18:35:00\",\n              \"update_time\": \"2024-06-08 18:35:00\",\n              \"status\": \"delivered\",\n              \"products\": [\n                {\n                  \"product_id\": \"S17550806610851493_P00021\",\n                  \"price\": 298,\n                  \"quantity\": 1,\n                  \"name\": '\"Jurisprudence\" (Hardcover Collector's Edition)",
+                  "attributes": ""
+                }
+              ]
+            },
+            {
+              "order_id": "10808011T001",
+              "order_type": "instore",
+              "user_id": "U958565",
+              "store_id": "S17550806610851493_I00012",
+              "note": "",
+              "location": null,
+              "dispatch_time": "",
+              "shipping_time": null,
+              "delivery_time": "",
+              "total_price": 168,
+              "create_time": "2024-06-08 18:32:00",
+              "update_time": "2024-06-08 18:32:00",
+              "status": "paid",
+              "products": [
+                {
+                  "product_id": "S17550806610851493_P00058",
+                  "name": "Cozy Double Viewing Package (4 hours)",
+                  "price": 168,
+                  "quantity": 1
+                }
+              ]
+            },
+            {
+              "reservation_id": "10808011T002",
+              "shop_id": "S17550806610851493_I00012",
+              "reservation_time": "2025-06-18 21:00:00",
+              "update_time": "2024-06-08 18:33:00",
+              "customer_id": "U958565",
+              "customer_count": 2,
+              "status": "unconsumed"
+            },
+            {
+              "order_id": "OO5636a2a264",
+              "order_type": "attraction",
+              "user_id": "U958565",
+              "store_id": "S17550806610851493_A00006",
+              "note": "",
+              "location": null,
+              "dispatch_time": "",
+              "shipping_time": null,
+              "delivery_time": "",
+              "total_price": 160,
+              "create_time": "2024-06-08 18:37:00",
+              "update_time": "2024-06-08 18:37:00",
+              "status": "paid",
+              "products": [
+                {
+                  "product_id": "S17550806610851493_P00030",
+                  "price": 80,
+                  "quantity": 2,
+                  "date": "2024-06-09",
+                  "ticket_type": "Special Admission Ticket"
+                }
+              ]
+            }
+          ],
+          "optional_orders": [],
+          "state_rubrics": [
+            "The number of people reserved at the private cinema is 2"
+          ]
+        },
+        {
+          "required_orders": [
+            {
+              "order_id": "10808011T003",
+              "order_type": "delivery",
+              "user_id": "U958565",
+              "store_id": "S17550806610851493_S00005",
+              "note": "",
+              "location": {
+                "address": "Room 1203, Unit 5, Jinnyu Jiahua Building, 19 Xibeiwang Middle Road, Haidian District, Beijing",
+                "longitude": 116.316,
+                "latitude": 40.052
+              },
+              "dispatch_time": "2024-06-08 18:55:00",
+              "shipping_time": 40,
+              "delivery_time": "2024-06-08 19:35:00",
+              "total_price": 298,
+              "create_time": "2024-06-08 18:35:00",
+              "update_time": "2024-06-08 18:35:00",
+              "status": "delivered",
+              "products": [
+                {
+                  "product_id": "S17550806610851493_P00021",
+                  "price": 298,
+                  "quantity": 1,
+                  "name": "\"Jurisprudence\" (Hardcover Collector's Edition)',\n                  \"attributes\": \"\""
+                }
+              ]
+            },
+            {
+              "order_id": "10808011T001",
+              "order_type": "instore",
+              "user_id": "U958565",
+              "store_id": "S17550806610851493_I00012",
+              "note": "",
+              "location": null,
+              "dispatch_time": "",
+              "shipping_time": null,
+              "delivery_time": "",
+              "total_price": 168,
+              "create_time": "2024-06-08 18:32:00",
+              "update_time": "2024-06-08 18:32:00",
+              "status": "paid",
+              "products": [
+                {
+                  "product_id": "S17550806610851493_P00058",
+                  "name": "Cozy Double Viewing Package (4 hours)",
+                  "price": 168,
+                  "quantity": 1
+                }
+              ]
+            },
+            {
+              "reservation_id": "10808011T002",
+              "shop_id": "S17550806610851493_I00012",
+              "reservation_time": "2025-06-18 21:00:00",
+              "update_time": "2024-06-08 18:33:00",
+              "customer_id": "U958565",
+              "customer_count": 2,
+              "status": "unconsumed"
+            },
+            {
+              "order_id": "OO5636a2a264",
+              "order_type": "attraction",
+              "user_id": "U958565",
+              "store_id": "S17550806610851493_A00006",
+              "note": "",
+              "location": null,
+              "dispatch_time": "",
+              "shipping_time": null,
+              "delivery_time": "",
+              "total_price": 160,
+              "create_time": "2024-06-08 18:37:00",
+              "update_time": "2024-06-08 18:37:00",
+              "status": "paid",
+              "products": [
+                {
+                  "product_id": "S17550806610851493_P00030",
+                  "price": 80,
+                  "quantity": 2,
+                  "date": "2024-06-09",
+                  "ticket_type": "Special Admission Ticket"
+                }
+              ]
+            }
+          ],
+          "optional_orders": [],
+          "state_rubrics": [
+            "Query whether The Great Hall of the People is open for visits tomorrow (June 9, 2024), the result shows that The Great Hall of the People will be open from 09:00-15:00 tomorrow",
+            "Tickets need to be purchased for tomorrow (June 9, 2024) for two people",
+            "The attraction for the tickets should be The Great Hall of the People"
+          ]
+        }
+      ]
+    }
+  ],
+  "rubrics": [
+    "The food delivery order must be for legal classic books",
+    "The purchased books must be hardcover editions",
+    "The purchased books must have collectible value",
+    "The purchased books should be delivered to Room 1203, Unit 5, Jinnyu Jiahua Building, 19 Xibeiwang Middle Road, Haidian District, Beijing",
+    "The books need to be delivered on the same day",
+    "Need to check the operating hours of the private cinema for booking, with the result showing open until 1:00 AM, and the books should be delivered before 20:00 on June 8, 2025",
+    "The private cinema must be a Small Private Room",
+    "The package duration for the private cinema booking must be 4 hours",
+    "The private cinema must be close to home, within 3 kilometers of Room 1203, Unit 5, Jinnyu Jiahua Building, 19 Xibeiwang Middle Road, Haidian District, Beijing",
+    "The private cinema must have a rating higher than 4.9",
+    "The private cinema needs to be booked for the latest available time slot on the same day (June 8, 2024), which is 21:00",
+    "The number of people for the private cinema booking is 2",
+    "Check if The Great Hall of the People is open for visits tomorrow (June 9, 2024), with the result showing that The Great Hall of the People is open from 09:00-15:00 tomorrow",
+    "Two tickets need to be purchased for tomorrow (June 9, 2024)",
+    "The attraction for the tickets should be The Great Hall of the People"
+  ]
+}

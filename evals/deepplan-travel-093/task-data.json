@@ -1,0 +1,46 @@
+{
+  "task_id": "92",
+  "query": "I'm planning a trip from Shenzhen to Beijing on November 12, 2025, returning on November 17, so roughly five days. Could you help me plan the itinerary? Please arrange transportation, accommodation, meals, and attractions.\n\nRegarding transportation, I'd like to take a flight for the outbound journey. Could you help me find the cheapest direct flight with China Express Airlines? For accommodation, I don't have any special requirements—just a three-star hotel would be fine—and preferably the most budget-friendly option, since my travel budget is limited this time. By the way, there are only two of us traveling, so one room will suffice.\n\nOh, and I’d also like to schedule a meal at 'Yue She Restaurant (T+MALL Branch)'—I’ve heard the food there is excellent and I really want to try it this time! As for attractions, I’m particularly fond of places with a 'Historical and Cultural' atmosphere. Could you include the top-rated 'Historical and Cultural' site in the itinerary? Given that Beijing has so many worthwhile destinations, I’m sure there’s something impressive to see.\n\nThat covers all my requirements. I believe this information should be sufficient—please go ahead and prepare the travel plan for me without asking further questions about preferences. November 12, 2025 is Wednesday",
+  "meta_info": {
+    "org": "Shenzhen",
+    "dest": [
+      "Beijing"
+    ],
+    "days": 6,
+    "depart_date": "2025-11-12",
+    "return_date": "2025-11-17",
+    "people_number": 2,
+    "room_number": 1
+  },
+  "hard_constraints": {
+    "flight_cheapest_airline_direct": {
+      "constraint_context": "For the outbound journey, please help me select the cheapest direct flight from \"Huaxia\"",
+      "constraint_type": "superlative_cheapest_airline",
+      "outbound_flight_no": "G59098"
+    },
+    "hotel_cheapest_star": {
+      "constraint_context": "Please select the cheapest hotel among the \"3-star hotels\"",
+      "constraint_type": "superlative_cheapest_star",
+      "hotel_name": "Ji Hotel Beijing Asian Games Village Bird's Nest",
+      "hotel_star": 3
+    },
+    "restaurant_must_eat_named": {
+      "constraint_context": "The itinerary must include one meal at Yue She Restaurant (T+MALL Branch).",
+      "constraint_type": "superlative_must_eat_named",
+      "restaurant_name": "Yue She Restaurant (T+MALL Branch)",
+      "restaurant_rating": 4.2
+    },
+    "attraction_type_highest_rated": {
+      "constraint_context": "The itinerary must include the highest-rated attraction in the 'Historical and Cultural' category.",
+      "constraint_type": "superlative_type_highest_rated",
+      "attraction_names": [
+        "Tiananmen Square"
+      ],
+      "attraction_type_cn": "历史文化",
+      "attraction_type": "Historical and Cultural",
+      "attraction_ratings": [
+        4.9
+      ]
+    }
+  }
+}

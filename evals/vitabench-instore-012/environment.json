@@ -1,0 +1,214 @@
+{
+  "task_id": "10826028",
+  "domain": "instore",
+  "time": "2024-07-03 19:45:00",
+  "user_id": "U136362",
+  "weather": [
+    {
+      "city": "Taiyuan",
+      "category": "sunny",
+      "datetime": "2024-07-03",
+      "temperature": [
+        22,
+        28
+      ],
+      "humidity": 45
+    },
+    {
+      "city": "Taiyuan",
+      "category": "Sunny Turning Cloudy",
+      "datetime": "2024-07-04",
+      "temperature": [
+        24,
+        29
+      ],
+      "humidity": 55
+    }
+  ],
+  "location": [
+    {
+      "address": "Room 1503, Building B, Huade Center Apartments, 128 Changzhi Road, Xiaodian District, Taiyuan",
+      "longitude": 112.5786,
+      "latitude": 37.7472
+    },
+    {
+      "address": "Building 5, Shanxi Film and Television Cultural Industry Park, 12 Liuxiang South Road, Yingze District, Taiyuan",
+      "longitude": 112.5634,
+      "latitude": 37.8654
+    }
+  ],
+  "user_profile": {
+    "user id": "U136362",
+    "occupation": "Actor",
+    "gender": "male",
+    "age group": "30~35",
+    "residence": "Taiyuan",
+    "home address": "Room 1503, Building B, Huade Center Apartments, 128 Changzhi Road, Xiaodian District, Taiyuan",
+    "work address": "Building 5, Shanxi Film and Television Cultural Industry Park, 12 Liuxiang South Road, Yingze District, Taiyuan",
+    "dietary restrictions": "No high sugar, No alcohol",
+    "family status": "Living alone",
+    "personality": "Easily anxious and worried, needs repeated confirmation to feel at ease"
+  },
+  "user_historical_behaviors": {
+    "user id": "U136362",
+    "occupation": "actor",
+    "gender": "male",
+    "age group": "30~35",
+    "residence": "Taiyuan",
+    "home address": "Room 1503, Building B, Huade Center Apartments, 128 Changzhi Road, Xiaodian District, Taiyuan",
+    "work address": "Building 5, Shanxi Film and Television Cultural Industry Park, 12 Liuxiang South Road, Yingze District, Taiyuan",
+    "in-store dining": {
+      "fine-dining": {
+        "frequently purchased categories": [
+          "Regional/Specialty Cuisine (Average ¥120)",
+          "Foreign Cuisine/Western Food (Average ¥160)",
+          "Foreign Cuisine/Japanese Food (Average ¥180)"
+        ],
+        "preferred average price per person": "¥120~180",
+        "preferred store rating": "4.2~4.8 stars",
+        "typical dining time": "19:00-21:00",
+        "preferred distance": "500~3000m",
+        "recent orders": [
+          {
+            "store": "Taiyuan Xian Shang Xian Japanese Restaurant",
+            "product": "Premium Sashimi Platter"
+          },
+          {
+            "store": "Dingding Western Restaurant",
+            "product": "Black Pepper Steak Set"
+          },
+          {
+            "store": "Shanxi Old Stove",
+            "product": "Signature Shanxi Flavor Set"
+          }
+        ],
+        "search history": [
+          "Healthy Low Sugar Restaurant",
+          "Non-Alcoholic Cuisine",
+          "High Protein Low Fat Meals"
+        ]
+      },
+      "light meal": {
+        "frequently purchased categories": [
+          "Fast Food/Chinese Simple Meals (Average ¥35)",
+          "Fast Food/Western Fast Food (Average ¥45)"
+        ],
+        "preferred average price per person": "¥30~50",
+        "preferred store rating": "3.5~4.2 stars",
+        "typical dining time": "12:00-13:30",
+        "preferred distance": "0~1000m",
+        "recent orders": [
+          {
+            "store": "Salad Diary",
+            "product": "Chicken Breast Vegetable Salad"
+          },
+          {
+            "store": "Mi Xiao Fan",
+            "product": "Low-Fat Chicken Rice"
+          },
+          {
+            "store": "Light Food Workshop",
+            "product": "Steamed Chicken Breast Set"
+          }
+        ],
+        "search history": [
+          "Fitness Meals",
+          "Low Sugar Cuisine",
+          "Protein Meals"
+        ]
+      },
+      "desserts/drinks/snacks": {
+        "frequently purchased categories": [
+          "Beverage Shops (Average ¥25)",
+          "Other Dining/Fresh Fruits (Average ¥30)"
+        ],
+        "preferred average price per person": "¥20~35",
+        "preferred store rating": "4.0~4.6 stars",
+        "typical dining time": "15:00-17:00",
+        "preferred distance": "0~800m",
+        "recent orders": [
+          {
+            "store": "Fresh Fruit Workshop",
+            "product": "Sugar-Free Fruit Tea"
+          },
+          {
+            "store": "Nayuki",
+            "product": "Low Sugar Oat Milk Tea"
+          },
+          {
+            "store": "Really Fresh",
+            "product": "Seasonal Fruit Platter"
+          }
+        ],
+        "search history": [
+          "Sugar-Free Drinks",
+          "Low-Calorie Fruits",
+          "Artificial Sweetener Desserts"
+        ]
+      }
+    },
+    "other in-store services": {
+      "frequently consumed categories": {
+        "Sports & Fitness/Fitness Centers": "40%",
+        "Sports & Fitness/Sports Venues": "30%",
+        "Leisure & Entertainment/Massage/Foot Massage": "15%",
+        "Beauty/Yoga": "15%"
+      },
+      "cost per order by category": {
+        "Sports & Fitness/Fitness Centers": "¥150~300",
+        "Sports & Fitness/Sports Venues": "¥80~150",
+        "Leisure & Entertainment/Massage/Foot Massage": "¥200~350",
+        "Beauty/Yoga": "¥120~200"
+      },
+      "preferred store rating": "4.0~4.8 stars",
+      "preferred service time": "7:00-9:00, 18:00-20:00",
+      "preferred distance": "0~2500m",
+      "recent orders": [
+        {
+          "store": "Taiyuan Power Fitness Center",
+          "product": "Personal Training Course Package"
+        },
+        {
+          "store": "Lexing Sports Center",
+          "product": "Badminton Court (4 Hours Any Time)"
+        },
+        {
+          "store": "Jingxin Yoga Studio",
+          "product": "Single Person Yoga Class"
+        }
+      ],
+      "search history": [
+        "Gym",
+        "Physical Training",
+        "Professional Massage",
+        "Actor Body Shaping Class"
+      ]
+    }
+  },
+  "stores": {},
+  "orders": {
+    "10826028T001": {
+      "order_id": "10826028T001",
+      "order_type": "instore",
+      "user_id": "U136362",
+      "store_id": "S17564420255503132_I00001",
+      "note": "",
+      "location": null,
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 80,
+      "order_time": "2024-06-30 10:26:00",
+      "update_time": "2024-06-30 10:26:00",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17564420255503132_P00003",
+          "name": "Badminton Court Reservation Voucher (4 Hours Any Time)",
+          "price": 80,
+          "quantity": 1
+        }
+      ]
+    }
+  }
+}

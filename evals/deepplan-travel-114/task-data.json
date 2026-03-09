@@ -1,0 +1,53 @@
+{
+  "task_id": "113",
+  "query": "I plan to travel from Nanning to Nanjing on November 12, 2025, and return on November 18. I'd appreciate your help in planning a detailed itinerary, including transportation, accommodation, dining, and attractions. I have a few specific requirements as follows—thank you so much for your assistance!\n\nFirst, regarding transportation: I prefer to take a flight for the outbound journey, ideally on an Airbus-manufactured aircraft for greater comfort. For the ticket, please choose the cheapest direct flight available. As for accommodation, a two-star hotel would be sufficient—mainly we’re looking for good value. Also, since we’ll have a car, it would be best if the hotel could offer free parking, which would make things more convenient.\n\nRegarding dining, I have a request: could you arrange for us to have one meal at a restaurant near 'Liu Chao Bo Wu Guan'? I’ve heard there are many great dining options in that area, but preferably one that supports online queuing or number pickup, so we don’t have to wait in line upon arrival and waste time.\n\nFor attractions, I’d like the itinerary to include high-quality spots—for example, the top three highest-rated recommended attractions. Please help me select must-visit places with minimal risk of disappointment.\n\nThere will be four people in our group, and we’ll need to book two rooms. I believe these are all my requirements—I hope everything is clear. Please go ahead and prepare the full itinerary for me! November 12, 2025 is Wednesday",
+  "meta_info": {
+    "org": "Nanning",
+    "dest": [
+      "Nanjing"
+    ],
+    "days": 7,
+    "depart_date": "2025-11-12",
+    "return_date": "2025-11-18",
+    "people_number": 4,
+    "room_number": 2
+  },
+  "hard_constraints": {
+    "flight_cheapest_manufacturer_direct": {
+      "constraint_context": "Prefer to take a flight for the outbound journey, and need to select the cheapest direct flight available on an Airbus-manufactured aircraft",
+      "constraint_type": "superlative_cheapest_manufacturer",
+      "outbound_flight_no": "HO1729"
+    },
+    "hotel_star_service_required": {
+      "constraint_context": "Please select a 2-star hotel that offers free parking",
+      "constraint_type": "superlative_star_service_required",
+      "hotel_name": "Home Inn - Nanjing Andemen Metro Station Yuhuatai Scenic Area Branch",
+      "required_service": "Free Parking",
+      "hotel_star": 2,
+      "hotel_price": 203.0
+    },
+    "restaurant_specific_tag_nearby": {
+      "constraint_context": "Schedule a meal at a restaurant near the 'Six Dynasties Museum' during the trip, with online number-taking and queuing service required.",
+      "constraint_type": "superlative_specific_tag_nearby",
+      "attraction_name": "Six Dynasties Museum",
+      "restaurant_name": "Nanjing The Grand Mansion Luxury Collection Hotel Xuanling Pavilion Chinese Restaurant",
+      "required_tag": "Online Queue",
+      "price_per_person": 334.0,
+      "restaurant_rating": 4.3
+    },
+    "attraction_top_rated_must_visit": {
+      "constraint_context": "The itinerary must include the three highest-rated attractions recommended by the attraction recommendation tool.",
+      "constraint_type": "superlative_top_rated_must_visit",
+      "attraction_names": [
+        "Linggu Temple",
+        "China Nanjing Yunjin Museum",
+        "Laomendong"
+      ],
+      "attraction_ratings": [
+        4.8,
+        4.8,
+        4.8
+      ]
+    }
+  }
+}

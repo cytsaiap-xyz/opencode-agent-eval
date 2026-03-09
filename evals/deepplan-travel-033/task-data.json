@@ -1,0 +1,46 @@
+{
+  "task_id": "32",
+  "query": "I plan to travel from Harbin to Beijing on November 12, 2025, and return on November 14, 2025. For transportation, I'd like to take the train both ways—please help me book first-class seat tickets, as they're more comfortable, especially since it's not a short journey.\n\nFor accommodation, I’d like a three-star hotel. Also, I’ve been really wanting to relax lately—could you please find one that offers SPA services? It would help me unwind after each day of sightseeing.\n\nBy the way, I have two small requests regarding meals. First, please arrange a meal at a restaurant near 'Shichahai', preferably one with a waiting area so it’s more convenient even if it's busy. Second, I’d like to have a meal near 'Tsinghua University'—for this one, pick the restaurant with the lowest average cost per person; I want to try the most cost-effective option.\n\nThat's basically everything. I’ve provided all the information needed, so please go ahead and arrange the itinerary for me—thanks so much! November 12, 2025 is Wednesday",
+  "meta_info": {
+    "org": "Harbin",
+    "dest": [
+      "Beijing"
+    ],
+    "days": 3,
+    "depart_date": "2025-11-12",
+    "return_date": "2025-11-14",
+    "people_number": 1,
+    "room_number": 1
+  },
+  "hard_constraints": {
+    "train_seat_class": {
+      "constraint_context": "Travel by train, and hope to choose first-class seats for both the outbound and return journeys",
+      "outbound_train_no": "G908",
+      "inbound_train_no": "G915"
+    },
+    "hotel_star_service_required": {
+      "constraint_context": "Please select a 3-star hotel that offers SPA services for accommodation",
+      "constraint_type": "superlative_star_service_required",
+      "hotel_name": "Ji Hotel Beijing Nanluoguxiang Andingmen Subway Station",
+      "required_service": "SPA Service",
+      "hotel_star": 3,
+      "hotel_price": 615.0
+    },
+    "restaurant_specific_tag_nearby": {
+      "constraint_context": "Arrange a meal at a restaurant near 'Shichahai' during the trip, with a waiting area service required",
+      "constraint_type": "superlative_specific_tag_nearby",
+      "attraction_name": "Shichahai",
+      "restaurant_name": "Papà Danilo Uncle Danilo · Italian Pasta (Gulou Branch)",
+      "required_tag": "Waiting Area",
+      "price_per_person": 153.0,
+      "restaurant_rating": 4.5
+    },
+    "restaurant_cheapest_nearby_attraction": {
+      "constraint_context": "During the trip, please arrange a meal at the cheapest restaurant near 'Tsinghua University' per person.",
+      "constraint_type": "superlative_cheapest_nearby_attraction",
+      "attraction_name": "Tsinghua University",
+      "restaurant_name": "Tsinghua University Nanyuan Restaurant",
+      "price_per_person": 12.0
+    }
+  }
+}

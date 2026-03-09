@@ -1,0 +1,98 @@
+{
+  "required_orders": [
+    {
+      "order_id": "D0807002T001",
+      "order_type": "flight",
+      "user_id": "U010022",
+      "store_id": "S17557518210681493_F00009",
+      "note": "",
+      "location": null,
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 700,
+      "create_time": "2024-09-11 13:16:21",
+      "update_time": "2024-09-11 13:16:21",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17557518210681493_P00091",
+          "price": 700,
+          "quantity": 1,
+          "date": "2024-09-15",
+          "seat_type": "economy class"
+        }
+      ]
+    },
+    {
+      "order_id": "D0807002T002",
+      "order_type": "hotel",
+      "user_id": "U010022",
+      "store_id": "S17557518210681493_H00002",
+      "note": "",
+      "location": null,
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 2448,
+      "create_time": "2024-09-11 13:19:21",
+      "update_time": "2024-09-11 13:19:21",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17557518210681493_P00017",
+          "price": 368,
+          "quantity": 1,
+          "date": "2024-09-15",
+          "room_type": "economy king room"
+        },
+        {
+          "product_id": "S17557518210681493_P00018",
+          "price": 398,
+          "quantity": 1,
+          "date": "2024-09-16",
+          "room_type": "economy king room"
+        },
+        {
+          "product_id": "S17557518210681493_P00019",
+          "price": 418,
+          "quantity": 1,
+          "date": "2024-09-17",
+          "room_type": "economy king room"
+        },
+        {
+          "product_id": "S17557518210681493_P00020",
+          "price": 428,
+          "quantity": 1,
+          "date": "2024-09-18",
+          "room_type": "economy king room"
+        },
+        {
+          "product_id": "S17557518210681493_P00021",
+          "price": 438,
+          "quantity": 1,
+          "date": "2024-09-19",
+          "room_type": "economy king room"
+        },
+        {
+          "product_id": "S17557518210681493_P00022",
+          "price": 398,
+          "quantity": 1,
+          "date": "2024-09-20",
+          "room_type": "economy king room"
+        }
+      ]
+    }
+  ],
+  "rubrics": [
+    "Need to check whether there are direct flights from Weifang to Haikou, and the result is yes, so the departure city and arrival city for the flight order should be from Weifang to Haikou",
+    "Need to filter all flights on 2024-09-13, 2024-09-14, and 2024-09-15, and find the cheapest flight, which is SC4651 on 2024-09-15, economy class",
+    "The flight order should be for flight SC4651",
+    "The flight order date should be 2024-09-15",
+    "The flight order should be for economy class",
+    "The hotel must be near Haikou Mingmen Plaza",
+    "The hotel order price per night must be within the 300-500 yuan price range",
+    "The hotel must provide laundry service",
+    "The hotel order's accommodation period must be from the arrival date until the evening of the 20th, specifically 2024-09-15, 2024-09-16, 2024-09-17, 2024-09-18, 2024-09-19, 2024-09-20"
+  ]
+}

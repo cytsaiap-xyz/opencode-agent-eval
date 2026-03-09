@@ -1,0 +1,478 @@
+{
+  "task_id": "10806001",
+  "domain": "cross_domain",
+  "time": "2025-06-12 15:20:00",
+  "user_id": "U001054",
+  "weather": [
+    {
+      "city": "Chengdu",
+      "category": "cloudy",
+      "datetime": "2025-06-12",
+      "temperature": [
+        24,
+        32
+      ],
+      "humidity": 65
+    },
+    {
+      "city": "Leshan",
+      "category": "sunny",
+      "datetime": "2025-06-14",
+      "temperature": [
+        26,
+        34
+      ],
+      "humidity": 60
+    },
+    {
+      "city": "Leshan",
+      "category": "cloudy",
+      "datetime": "2025-06-15",
+      "temperature": [
+        25,
+        33
+      ],
+      "humidity": 62
+    }
+  ],
+  "location": [],
+  "user_profile": {
+    "user id": "U001054",
+    "occupation": "White-collar worker",
+    "gender": "female",
+    "age group": "30~35",
+    "residence": "Chengdu",
+    "Permanent address": "Consulate International City, 4111 Zizhou Avenue, Zhonghe Street, Shuangliu District, Chengdu, Sichuan Province",
+    "work address": "9th Floor, Building 2, Zone E, Tianfu Software Park, 1366 Middle Section of Tianfu Avenue, High-tech Zone, Wuhou District, Chengdu, Sichuan Province",
+    "dietary restrictions": "No fish mint, no caffeine",
+    "family status": "Has children",
+    "personality": "Strong logical thinking, likes to analyze and question things, pursues accuracy"
+  },
+  "user_historical_behaviors": {
+    "user id": "U001054",
+    "occupation": "White-collar Worker",
+    "gender": "female",
+    "age group": "30~35",
+    "residence": "Chengdu",
+    "Permanent address": "Embassy International City, 4111 Zizhou Avenue, Zhonghe Street, Shuangliu District, Chengdu, Sichuan Province",
+    "work address": "9th Floor, Building 2, Zone E, Tianfu Software Park, 1366 Middle Section of Tianfu Avenue, High-tech Zone, Wuhou District, Chengdu, Sichuan Province",
+    "Takeout scenario": {
+      "food delivery": {
+        "breakfast": {
+          "frequently purchased categories": [
+            "Quick Meals/Light Food (Average 35 yuan)",
+            "Quick Meals/Healthy Meals (Average 40 yuan)",
+            "Quick Meals/Salads (Average 32 yuan)"
+          ],
+          "cost per order": "25~45 yuan",
+          "preferred store rating": "4.6~5.0",
+          "preferred delivery time": "15~30 minutes",
+          "preferred distance": "0~2500m",
+          "recent orders": [
+            {
+              "store": "Light Food Select",
+              "product": "Chicken Breast Vegetable Salad"
+            },
+            {
+              "store": "Green Light Food",
+              "product": "Avocado Chicken Breast Sandwich"
+            },
+            {
+              "store": "Energetic Breakfast",
+              "product": "Low-fat Yogurt Fruit Cup"
+            }
+          ],
+          "search history": [
+            "Healthy breakfast",
+            "Low-fat salad",
+            "Chicken breast",
+            "Protein breakfast"
+          ]
+        },
+        "weekday lunch/dinner": {
+          "frequently purchased categories": [
+            "Quick Meals/Healthy Meals (Average 45 yuan)",
+            "Chinese Cuisine/Sichuan Cuisine (Average 55 yuan)",
+            "Quick Meals/Light Food (Average 38 yuan)"
+          ],
+          "cost per order": "35~65 yuan",
+          "preferred store rating": "4.5~4.9",
+          "preferred delivery time": "20~35 minutes",
+          "preferred distance": "0~3000m",
+          "recent orders": [
+            {
+              "store": "Energy Work Meal",
+              "product": "Low-fat Chicken Breast Set"
+            },
+            {
+              "store": "Light Food Philosophy",
+              "product": "Beef Quinoa Rice"
+            },
+            {
+              "store": "Light Sichuan Cuisine",
+              "product": "Boiled Fish Fillets (Mildly Spicy)"
+            }
+          ],
+          "search history": [
+            "High-protein lunch",
+            "Fitness meal",
+            "Low-fat meal",
+            "Boiled dishes"
+          ]
+        },
+        "weekend lunch/dinner": {
+          "frequently purchased categories": [
+            "Chinese Cuisine/Grilled Fish (Average 80 yuan)",
+            "Chinese Cuisine/Sichuan Cuisine (Average 75 yuan)",
+            "International Cuisine/Korean Cuisine (Average 90 yuan)"
+          ],
+          "cost per order": "70~150 yuan",
+          "preferred store rating": "4.7~5.0",
+          "preferred delivery time": "30~45 minutes",
+          "preferred distance": "0~4500m",
+          "recent orders": [
+            {
+              "store": "Riverside Grilled Fish",
+              "product": "Spicy Grilled Fish (Without Beer)"
+            },
+            {
+              "store": "Korean Cuisine",
+              "product": "Stone Pot Bibimbap Set for Two"
+            },
+            {
+              "store": "Sichuan Flavor Restaurant",
+              "product": "Dry Pot Chicken (Mildly Spicy)"
+            }
+          ],
+          "search history": [
+            "Sugar-free grilled fish",
+            "Low-fat Korean food",
+            "Healthy Sichuan cuisine"
+          ]
+        },
+        "desserts/drinks/snacks": {
+          "frequently purchased categories": [
+            "Beverages & Desserts/Pure Tea/Herbal Tea (Average 18 yuan)",
+            "Beverages & Desserts/Fruit Salad (Average 25 yuan)",
+            "Beverages & Desserts/Fruit Juice (Average 22 yuan)"
+          ],
+          "cost per order": "15~30 yuan",
+          "preferred store rating": "4.6~5.0",
+          "preferred delivery time": "15~25 minutes",
+          "preferred distance": "0~2500m",
+          "recent orders": [
+            {
+              "store": "Fresh Juice Bar",
+              "product": "Sugar-free Celery Apple Juice"
+            },
+            {
+              "store": "Tea Time",
+              "product": "Oolong Tea (Sugar-free)"
+            },
+            {
+              "store": "Fruit Salad",
+              "product": "Pure Fruit Salad (Sugar-free)"
+            }
+          ],
+          "search history": [
+            "Sugar-free drinks",
+            "Healthy juice",
+            "Low-calorie fruits"
+          ]
+        },
+        "night snack": {
+          "frequently purchased categories": [
+            "Quick Meals/Light Food (Average 35 yuan)",
+            "BBQ & Fried Food/Charcoal Grilled Meat (Average 50 yuan)",
+            "Quick Meals/Salads (Average 32 yuan)"
+          ],
+          "cost per order": "30~55 yuan",
+          "preferred store rating": "4.5~4.9",
+          "preferred delivery time": "25~40 minutes",
+          "preferred distance": "0~3000m",
+          "recent orders": [
+            {
+              "store": "Night Light Food",
+              "product": "High-protein Salad"
+            },
+            {
+              "store": "Fitness BBQ",
+              "product": "Oil-free Chicken Breast Skewers"
+            },
+            {
+              "store": "Night Food Select",
+              "product": "Steamed Chicken Breast Vegetable Roll"
+            }
+          ],
+          "search history": [
+            "Low-fat night snack",
+            "Fitness night food",
+            "High-protein night snack"
+          ]
+        }
+      },
+      "product delivery": {
+        "frequently purchased categories": [
+          "Fruits (28%)",
+          "Vegetables/Bean Products (25%)",
+          "Raw Meat/Poultry/Eggs (18%)",
+          "Sports & Outdoors (15%)",
+          "Beverages/Nutritional Supplements (10%)",
+          "Others (4%)"
+        ],
+        "frequently visited stores": [
+          "MissFresh (38%)",
+          "Hema Fresh (25%)",
+          "Yonghui Supermarket (22%)",
+          "Other Stores (15%)"
+        ],
+        "cost per order by category": {
+          "Fruits": "15~40 yuan",
+          "Vegetables/Bean Products": "5~25 yuan",
+          "Raw Meat/Poultry/Eggs": "25~80 yuan",
+          "Sports & Outdoors": "50~200 yuan",
+          "Beverages/Nutritional Supplements": "30~120 yuan"
+        },
+        "preferred delivery time": "30~60 minutes",
+        "typical order time": "7~9 AM (35%), 5~7 PM (40%), 9~10 PM (25%)",
+        "recent orders": [
+          {
+            "store": "Hema Fresh",
+            "product": "Chicken Breast 500g, Broccoli 300g, Avocados 2"
+          },
+          {
+            "store": "MissFresh",
+            "product": "Blueberries 125g, Strawberries 250g, Kiwi Fruits 4"
+          },
+          {
+            "store": "Yonghui Supermarket",
+            "product": "Protein Powder, BCAA Amino Acids, Energy Bars"
+          }
+        ],
+        "search history": [
+          "Chicken breast",
+          "Protein powder",
+          "Avocado",
+          "Broccoli",
+          "Low-sugar fruits",
+          "Fitness snacks"
+        ]
+      }
+    },
+    "in-store consumption": {
+      "in-store dining": {
+        "fine-dining": {
+          "frequently consumed categories": [
+            "Regional Cuisine/Sichuan Cuisine (Average 120 yuan)",
+            "International Cuisine/Japanese Cuisine (Average 150 yuan)",
+            "Regional Cuisine/Cantonese Cuisine (Average 130 yuan)"
+          ],
+          "preferred average price per person": "100~150 yuan",
+          "preferred store rating": "4.2~4.8 stars",
+          "typical dining time": "6:30-8:30 PM",
+          "preferred distance": "1000~3000m",
+          "recent orders": [
+            {
+              "store": "Feng Siniang Beef",
+              "product": "【Popular Recommendation】Meal for 2"
+            },
+            {
+              "store": "Da Dong Roast Duck",
+              "product": "Signature Roast Duck Set"
+            },
+            {
+              "store": "Heruo Revolving Sushi",
+              "product": "Selected Sushi Platter, Salmon Sashimi"
+            }
+          ],
+          "search history": [
+            "Light Sichuan cuisine",
+            "Non-spicy Japanese food",
+            "Family-friendly restaurant",
+            "Business dining"
+          ]
+        },
+        "light meal": {
+          "frequently consumed categories": [
+            "Snacks & Fast Food/Chinese Quick Meals (Average 35 yuan)",
+            "Regional Cuisine/Jiangzhe Cuisine (Average 45 yuan)",
+            "Snacks & Fast Food/Western Fast Food (Average 40 yuan)"
+          ],
+          "preferred average price per person": "30~50 yuan",
+          "preferred store rating": "3.5~4.3 stars",
+          "typical dining time": "12:00-1:00 PM",
+          "preferred distance": "0~800m",
+          "recent orders": [
+            {
+              "store": "Yonghe King",
+              "product": "Three Delicacies Soy Milk Set"
+            },
+            {
+              "store": "Hefune Noodles",
+              "product": "Tomato Beef Brisket Noodles"
+            },
+            {
+              "store": "Salad House",
+              "product": "Light Chicken Breast Salad"
+            }
+          ],
+          "search history": [
+            "Healthy light food",
+            "Low-fat quick meal",
+            "Work meal",
+            "Lunch box"
+          ]
+        },
+        "desserts/drinks/snacks": {
+          "frequently consumed categories": [
+            "Beverage Shops (Average 20 yuan)",
+            "Bakery & Desserts (Average 25 yuan)",
+            "Other Food/Fresh Fruits (Average 15 yuan)"
+          ],
+          "preferred average price per person": "15~30 yuan",
+          "preferred store rating": "3.9~4.6 stars",
+          "typical dining time": "3:00-4:30 PM",
+          "preferred distance": "0~500m",
+          "recent orders": [
+            {
+              "store": "NAYUKI",
+              "product": "Jasmine Cheese Tea (Sugar-free)"
+            },
+            {
+              "store": "Starbucks",
+              "product": "Oat Milk Latte (Decaf)"
+            },
+            {
+              "store": "Xianfeng Fruits",
+              "product": "Fruit Platter"
+            }
+          ],
+          "search history": [
+            "Decaf drinks",
+            "Low-sugar desserts",
+            "Healthy beverages",
+            "Fresh-cut fruits"
+          ]
+        }
+      },
+      "other in-store services": {
+        "frequently consumed categories": {
+          "Beauty/Yoga": "35%",
+          "Sports & Fitness/Fitness Center": "25%",
+          "Entertainment/Massage/Foot Therapy": "20%",
+          "Parent-Child/Parent-Child Entertainment": "20%"
+        },
+        "cost per order by category": {
+          "Beauty/Yoga": "80~150 yuan",
+          "Sports & Fitness/Fitness Center": "100~200 yuan",
+          "Entertainment/Massage/Foot Therapy": "120~180 yuan",
+          "Parent-Child/Parent-Child Entertainment": "80~150 yuan"
+        },
+        "preferred store rating": "4.0~4.8 stars",
+        "preferred service time": "6:00~8:00 PM",
+        "preferred distance": "0~3000m",
+        "recent orders": [
+          {
+            "store": "Zhenshe Yoga",
+            "product": "Individual Premium Yoga Course"
+          },
+          {
+            "store": "Leke Fitness",
+            "product": "Personal Training for Stress Relief and Body Shaping"
+          },
+          {
+            "store": "Dream Parent-Child Playground",
+            "product": "Weekend Family Package Ticket"
+          }
+        ],
+        "search history": [
+          "Prenatal yoga",
+          "Light-intensity fitness",
+          "Parent-child activities",
+          "Stress-relief massage",
+          "Children's playground"
+        ]
+      }
+    },
+    "OTA": {
+      "visited scenes": {
+        "Cultural Heritage Sites": "25%",
+        "Exhibition Halls (Museums/Art Galleries)": "20%",
+        "Natural Landscapes (Mountains/Lakes/Forests)": "30%",
+        "Parks": "10%",
+        "Hot Spring Resorts": "15%"
+      },
+      "cost per night on hotel": "500~1000 yuan",
+      "visited hotels": {
+        "Atour": "35%",
+        "Ji Hotel": "25%",
+        "Vienna Hotel": "20%",
+        "Orange Hotel": "15%",
+        "Hilton": "5%"
+      },
+      "browsed hotels": {
+        "Four-star Hotels": "30%",
+        "Three-star Hotels": "25%",
+        "Comfort Hotels": "40%",
+        "Luxury Hotels": "5%"
+      },
+      "historical travel plans": {
+        "Chengdu-Chongqing": {
+          "Price Range": "150-300 yuan",
+          "Transportation": "High-speed Train"
+        },
+        "Chengdu-Beijing": {
+          "Price Range": "800-1500 yuan",
+          "Transportation": "Flight"
+        },
+        "Chengdu-Shanghai": {
+          "Price Range": "900-1600 yuan",
+          "Transportation": "Flight"
+        },
+        "Chengdu-Xi'an": {
+          "Price Range": "350-500 yuan",
+          "Transportation": "High-speed Train"
+        },
+        "Chengdu-Mount Emei": {
+          "Price Range": "100-200 yuan",
+          "Transportation": "High-speed Train"
+        },
+        "Chengdu-Jiuzhaigou": {
+          "Price Range": "200-400 yuan",
+          "Transportation": "Long-distance Bus"
+        }
+      }
+    }
+  },
+  "stores": {},
+  "orders": {
+    "S17550808014223099_O00002": {
+      "order_id": "S17550808014223099_O00002",
+      "order_type": "attraction",
+      "user_id": "U001054",
+      "store_id": "S17550808014223099_A00004",
+      "note": "",
+      "location": {
+        "address": "Leshan Giant Buddha Scenic Area, 2435 Lingyun Road, Shizhong District, Leshan, Sichuan Province",
+        "longitude": 103.7714,
+        "latitude": 29.5471
+      },
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 320,
+      "create_time": "2025-06-11 16:30:12",
+      "update_time": "2025-06-11 16:30:12",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17550808014223099_P00026",
+          "price": 160,
+          "quantity": 2,
+          "date": "2025-06-14",
+          "ticket_type": "Adult Ticket"
+        }
+      ]
+    }
+  }
+}

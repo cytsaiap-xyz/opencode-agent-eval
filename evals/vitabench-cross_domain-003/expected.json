@@ -1,0 +1,74 @@
+{
+  "required_orders": [
+    {
+      "order_id": "10806004003",
+      "order_type": "attraction",
+      "user_id": "U010025",
+      "store_id": "S17550802111734829_A00003",
+      "note": "",
+      "location": {
+        "address": "Yesanpo Scenic Area, Laishui County, Baoding, Hebei Province",
+        "longitude": 115.228,
+        "latitude": 39.459
+      },
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 195,
+      "create_time": "2025-10-22 14:32:41",
+      "update_time": "2025-10-22 14:32:41",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17550802111734829_P00019",
+          "price": 65,
+          "quantity": 3,
+          "date": "2025-10-29",
+          "ticket_type": "Adult Ticket"
+        }
+      ]
+    },
+    {
+      "order_id": "10806004002",
+      "order_type": "delivery",
+      "user_id": "U010025",
+      "store_id": "S17550931962874071_S00002",
+      "note": "",
+      "location": {
+        "address": "Huachuang International Plaza, 557 Yuhua West Road, Lianchi District, Baoding, Hebei Province",
+        "longitude": 115.484,
+        "latitude": 38.865
+      },
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 289,
+      "create_time": "2025-10-22 14:38:10",
+      "update_time": "2025-10-22 14:38:10",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17550931962874071_P00009",
+          "price": 289,
+          "quantity": 1,
+          "name": "Lightweight Outdoor Tent",
+          "attributes": ""
+        }
+      ]
+    }
+  ],
+  "rubrics": [
+    "The ordered scenic area should be suitable for hiking activities",
+    "The ordered scenic area should be in Baoding",
+    "The latest admission time for the scenic area should be after 16:30",
+    "The price of the ordered tickets should be the lowest among all tickets for this scenic area (S17550802111734829_P00019)",
+    "The price of a single ticket should not exceed 100 yuan",
+    "The usage date for the ordered tickets should be October 29, 2025",
+    "The quantity of ordered tickets should be 3",
+    "The agent must check the weather for both October 29, 2025, and October 30, 2025, with the final results showing temperatures above 30 degrees on both days",
+    "The ordered outdoor equipment should be from the Toread Outdoor Flagship Store",
+    "The ordered outdoor equipment should be a tent",
+    "The delivery address for the outdoor equipment should be Huachuang International Plaza, 557 Yuhua West Road, Lianchi District, Baoding, Hebei Province",
+    "The expected delivery time for the outdoor equipment should be before 16:30 on October 29, 2025"
+  ]
+}

@@ -1,0 +1,106 @@
+{
+  "hotels": [
+    {
+      "id": "h1", "name": "Grand Plaza Hotel", "stars": 5, "pricePerNight": 280,
+      "location": { "lat": 40.7128, "lng": -74.006 },
+      "amenities": ["pool", "spa", "gym", "restaurant", "wifi"],
+      "checkInTime": "15:00", "checkOutTime": "11:00",
+      "availableDates": ["2025-03-15", "2025-03-16", "2025-03-17", "2025-03-18"]
+    },
+    {
+      "id": "h2", "name": "Budget Inn", "stars": 2, "pricePerNight": 75,
+      "location": { "lat": 40.7580, "lng": -73.9855 },
+      "amenities": ["wifi"],
+      "checkInTime": "14:00", "checkOutTime": "10:00",
+      "availableDates": ["2025-03-15", "2025-03-16", "2025-03-17", "2025-03-18"]
+    },
+    {
+      "id": "h3", "name": "Comfort Suites", "stars": 3, "pricePerNight": 150,
+      "location": { "lat": 40.7484, "lng": -73.9857 },
+      "amenities": ["wifi", "gym", "restaurant"],
+      "checkInTime": "15:00", "checkOutTime": "12:00",
+      "availableDates": ["2025-03-15", "2025-03-16", "2025-03-17"]
+    },
+    {
+      "id": "h4", "name": "Riverside Lodge", "stars": 4, "pricePerNight": 200,
+      "location": { "lat": 40.7831, "lng": -73.9712 },
+      "amenities": ["pool", "wifi", "gym", "restaurant"],
+      "checkInTime": "16:00", "checkOutTime": "11:00",
+      "availableDates": ["2025-03-15", "2025-03-16", "2025-03-17", "2025-03-18"]
+    }
+  ],
+  "restaurants": [
+    {
+      "id": "rest1", "name": "The Italian Place", "cuisine": "italian",
+      "pricePerPerson": 40, "rating": 4.7,
+      "location": { "lat": 40.7145, "lng": -74.008 },
+      "hours": { "open": "11:00", "close": "22:00" },
+      "closedDays": ["monday"],
+      "acceptsReservations": true, "maxPartySize": 8
+    },
+    {
+      "id": "rest2", "name": "Sushi World", "cuisine": "japanese",
+      "pricePerPerson": 55, "rating": 4.9,
+      "location": { "lat": 40.7505, "lng": -73.9934 },
+      "hours": { "open": "12:00", "close": "23:00" },
+      "closedDays": [],
+      "acceptsReservations": true, "maxPartySize": 6
+    },
+    {
+      "id": "rest3", "name": "Quick Bites", "cuisine": "american",
+      "pricePerPerson": 15, "rating": 3.8,
+      "location": { "lat": 40.7580, "lng": -73.9855 },
+      "hours": { "open": "08:00", "close": "21:00" },
+      "closedDays": [],
+      "acceptsReservations": false, "maxPartySize": 20
+    },
+    {
+      "id": "rest4", "name": "Spice Garden", "cuisine": "indian",
+      "pricePerPerson": 30, "rating": 4.5,
+      "location": { "lat": 40.7484, "lng": -73.990 },
+      "hours": { "open": "11:30", "close": "22:30" },
+      "closedDays": ["tuesday"],
+      "acceptsReservations": true, "maxPartySize": 10
+    },
+    {
+      "id": "rest5", "name": "Le Parisien", "cuisine": "french",
+      "pricePerPerson": 65, "rating": 4.8,
+      "location": { "lat": 40.7128, "lng": -74.000 },
+      "hours": { "open": "17:00", "close": "23:00" },
+      "closedDays": ["sunday", "monday"],
+      "acceptsReservations": true, "maxPartySize": 4
+    }
+  ],
+  "transport": [
+    {
+      "id": "t1", "type": "train", "from": "Penn Station", "to": "Grand Central",
+      "departureTime": "09:00", "arrivalTime": "09:25", "price": 5,
+      "fromLocation": { "lat": 40.7505, "lng": -73.9934 },
+      "toLocation": { "lat": 40.7527, "lng": -73.9772 }
+    },
+    {
+      "id": "t2", "type": "train", "from": "Penn Station", "to": "Downtown",
+      "departureTime": "10:00", "arrivalTime": "10:20", "price": 5,
+      "fromLocation": { "lat": 40.7505, "lng": -73.9934 },
+      "toLocation": { "lat": 40.7128, "lng": -74.006 }
+    },
+    {
+      "id": "t3", "type": "bus", "from": "Midtown", "to": "Upper West Side",
+      "departureTime": "11:00", "arrivalTime": "11:40", "price": 3,
+      "fromLocation": { "lat": 40.7580, "lng": -73.9855 },
+      "toLocation": { "lat": 40.7831, "lng": -73.9712 }
+    },
+    {
+      "id": "t4", "type": "taxi", "from": "Any", "to": "Any",
+      "departureTime": "flexible", "arrivalTime": "flexible", "price": 25,
+      "fromLocation": { "lat": 0, "lng": 0 },
+      "toLocation": { "lat": 0, "lng": 0 }
+    },
+    {
+      "id": "t5", "type": "train", "from": "Grand Central", "to": "Downtown",
+      "departureTime": "14:00", "arrivalTime": "14:30", "price": 5,
+      "fromLocation": { "lat": 40.7527, "lng": -73.9772 },
+      "toLocation": { "lat": 40.7128, "lng": -74.006 }
+    }
+  ]
+}

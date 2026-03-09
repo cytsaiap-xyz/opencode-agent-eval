@@ -1,0 +1,88 @@
+{
+  "required_orders": [
+    {
+      "order_id": "OIb192a86a68",
+      "order_type": "instore",
+      "user_id": "U010097",
+      "store_id": "S17550802180171503_I00010",
+      "note": "",
+      "location": null,
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 888,
+      "create_time": "2025-12-20 09:31:00",
+      "update_time": "2025-12-20 09:31:00",
+      "status": "unpaid",
+      "products": [
+        {
+          "product_id": "S17550802180171503_P00053",
+          "price": 888,
+          "quantity": 1,
+          "name": "Birthday Banquet Special Set",
+          "shop_id": "S17550802180171503_I00010",
+          "tags": [
+            "Birthday Banquet Exclusive",
+            "Complimentary Longevity Noodles",
+            "Crab Roe Lion's Head Meatballs, Stewed Shredded Bean Curd, Braised Soft-shell Turtle, Sliced Tofu, Clear-stewed Crab Roe Tofu, Yangzhou Fried Rice, Jade Shumai, Thousand-layer Oil Cake"
+          ]
+        }
+      ]
+    },
+    {
+      "book_id": "10807010T003",
+      "shop_id": "S17550802180171503_I00010",
+      "book_time": "2025-12-23 11:00:00",
+      "update_time": "2025-12-20 09:35:00",
+      "customer_id": "U010097",
+      "customer_count": 8,
+      "book_price": 200,
+      "status": "unpaid"
+    },
+    {
+      "order_id": "10807010T002",
+      "order_type": "delivery",
+      "user_id": "U010097",
+      "store_id": "S17550802180171503_S00001",
+      "note": "",
+      "location": {
+        "address": "Room 502, Building 3, Zhongxing Mingyuan, 328 Didang Lake Road, Yuecheng District, Shaoxing, Zhejiang Province",
+        "longitude": 120.586,
+        "latitude": 30.002
+      },
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 198,
+      "create_time": "2025-12-20 09:35:00",
+      "update_time": "2025-12-20 09:35:00",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17550802180171503_P00002",
+          "price": 198,
+          "quantity": 1,
+          "name": "Purple Clay Tea Pet - Complete Fortune and Longevity",
+          "attributes": ""
+        }
+      ]
+    }
+  ],
+  "rubrics": [
+    "The restaurant ordered from must offer traditional Huaiyang Cuisine",
+    "The restaurant ordered from must be a Time-honored Brand",
+    "The restaurant's set menu must include Crab Roe Lion's Head Meatballs",
+    "The restaurant's set menu must include Longevity Noodles",
+    "The restaurant should have Private Rooms",
+    "The merchant to be reserved should be Huaiyang Fu",
+    "Need to check the specific date of Winter Solstice, with the result being December 21, 2025, and the order reservation date should be December 23, 2025",
+    "The number of diners for the reservation should be 8",
+    "The reservation time should be 11:00 AM",
+    "The product to be ordered should be a Tea Pet Ornament",
+    "The ordered product must match with Purple Clay Tea Set, therefore a Purple Clay Material Tea Pet must be chosen",
+    "The ordered Tea Pet must have meanings of Prolonging Life and Health",
+    "The Tea Pet order should be delivered to Room 502, Building 3, Zhongxing Mingyuan, 328 Didang Lake Road, Yuecheng District, Shaoxing, Zhejiang Province",
+    "Need to inquire and provide information about the Botanical Garden ticket prices and senior discount policy; the result shows that Shaoxing Botanical Garden Adult Ticket is 30 yuan, Senior Ticket is 15 yuan, 50% cheaper than Adult Ticket",
+    "Need to return the Botanical Garden opening hours; opening hours are 08:30-17:00, not later than 17:00, no need to book tickets in advance"
+  ]
+}

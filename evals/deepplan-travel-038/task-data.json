@@ -1,0 +1,51 @@
+{
+  "task_id": "37",
+  "query": "I'm planning a trip from Hefei to Zhengzhou around November 12, 2025, and returning on the 14th. Could you help me plan the itinerary? Please include transportation, accommodation, meals, and attractions.\n\nLet’s start with transportation. I’d like to take a train there, preferably departing between 5:00 PM and 9:00 PM so I can get some work done during the day. For the return journey, just arrange a convenient option—as long as it doesn’t get me home too late.\n\nFor accommodation, please find me a four-star hotel that ideally has a gym and is conveniently located, so it's easy to get around. I usually exercise regularly and would like to keep up my routine while traveling. By the way, there are three of us, but we only need two rooms.\n\nI’d also appreciate your help with meal arrangements. One meal should be near 'Zhengzhou Museum New Hall'—please recommend the most affordable restaurant nearby, something with good value for money.\n\nAs for attractions, I’d like to see the highlights. I’ve heard Zhengzhou has several highly rated spots—please pick the top three highest-rated ones and include them in the itinerary.\n\nThat’s pretty much everything—I believe I’ve provided all necessary details. Please go ahead and create the plan for me! November 12, 2025 is Wednesday",
+  "meta_info": {
+    "org": "Hefei",
+    "dest": [
+      "Zhengzhou"
+    ],
+    "days": 3,
+    "depart_date": "2025-11-12",
+    "return_date": "2025-11-14",
+    "people_number": 3,
+    "room_number": 2
+  },
+  "hard_constraints": {
+    "train_departure_time_range": {
+      "constraint_context": "The departure train must leave between 5:00 PM and 9:00 PM",
+      "outbound_train_no": "G3128"
+    },
+    "hotel_star_service_required": {
+      "constraint_context": "Please select a 4-star hotel that offers a gym for accommodation, and the location should be convenient.",
+      "constraint_type": "superlative_star_service_required",
+      "hotel_name": "Ji Hotel Zhengzhou Convention Center Future Road",
+      "required_service": "Gym",
+      "hotel_star": 4,
+      "hotel_price": 328.0,
+      "convenient_location": true
+    },
+    "restaurant_cheapest_nearby_attraction": {
+      "constraint_context": "During the trip, please arrange a meal at the cheapest restaurant near 'Zhengzhou Museum New Hall' per person.",
+      "constraint_type": "superlative_cheapest_nearby_attraction",
+      "attraction_name": "Zhengzhou Museum New Hall",
+      "restaurant_name": "Jiupu Restaurant",
+      "price_per_person": 100.0
+    },
+    "attraction_top_rated_must_visit": {
+      "constraint_context": "The itinerary must include the three highest-rated attractions recommended by the attraction recommendation tool.",
+      "constraint_type": "superlative_top_rated_must_visit",
+      "attraction_names": [
+        "Erqi Square",
+        "Henan Museum",
+        "Ruyi Lake Scenic Area"
+      ],
+      "attraction_ratings": [
+        4.9,
+        4.9,
+        4.8
+      ]
+    }
+  }
+}

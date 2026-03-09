@@ -1,0 +1,123 @@
+{
+  "required_orders": [
+    {
+      "order_id": "OIb192a86a68",
+      "order_type": "instore",
+      "user_id": "U494358",
+      "store_id": "S17550807000722555_I00009",
+      "note": "",
+      "location": null,
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 686,
+      "create_time": "2025-07-04 10:18:00",
+      "update_time": "2025-07-04 10:18:00",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17550807000722555_P00061",
+          "price": 98,
+          "quantity": 7,
+          "name": "\"Youth Mystery\" seven-player campus script",
+          "shop_id": "S17550807000722555_I00009",
+          "tags": [
+            "Campus background",
+            "Seven-player script (3 males, 4 females)",
+            "Easy difficulty",
+            "2.5 hours"
+          ]
+        }
+      ]
+    },
+    {
+      "reservation_id": "OIb332255813",
+      "shop_id": "S17550807000722555_I00009",
+      "reservation_time": "2025-07-05 14:00:00",
+      "update_time": "2025-07-04 10:15:00",
+      "customer_id": "U494358",
+      "customer_count": 7,
+      "status": "unconsumed"
+    },
+    {
+      "order_id": "OT7a999d7f14",
+      "order_type": "delivery",
+      "user_id": "U494358",
+      "store_id": "S17550807000722555_S00001",
+      "note": "",
+      "location": {
+        "address": "Room 302, Building 5, East Garden Community, Huazhong University of Science and Technology, 1037 Luoyu Road, Hongshan District, Wuhan, Hubei Province",
+        "longitude": 114.431618,
+        "latitude": 30.513285
+      },
+      "dispatch_time": "2025-07-05 10:35:00",
+      "shipping_time": 20,
+      "delivery_time": "2025-07-05 10:55:00",
+      "total_price": 399,
+      "create_time": "2025-07-04 10:19:00",
+      "update_time": "2025-07-04 10:19:00",
+      "status": "delivered",
+      "products": [
+        {
+          "product_id": "S17550806479682269_P00001",
+          "price": 399,
+          "quantity": 1,
+          "name": "Gold nib fountain pen premium gift box",
+          "store_id": "S17550807000722555_S00001",
+          "store_name": "Premium stationery store",
+          "attributes": "Gold",
+          "tags": [
+            "Gold nib fountain pen",
+            "Premium gift",
+            "Ideal gift",
+            "Business gifts",
+            "Durable fountain pen"
+          ]
+        }
+      ]
+    },
+    {
+      "order_id": "OO6ddafced90",
+      "order_type": "flight",
+      "user_id": "U494358",
+      "store_id": "S17550807000722555_F00005",
+      "note": "",
+      "location": null,
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 1680,
+      "create_time": "2025-07-04 10:17:00",
+      "update_time": "2025-07-04 10:17:00",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "",
+          "price": 1750,
+          "quantity": 1,
+          "date": "2025-07-08",
+          "seat_type": "Business class"
+        }
+      ]
+    }
+  ],
+  "rubrics": [
+    "The in-store merchant should be a murder mystery game venue",
+    "The ordered product from the in-store merchant must be a murder mystery game with campus background",
+    "The ordered product from the in-store merchant must be a 7-player script",
+    "The ordered package from the in-store merchant must have at least two female character roles",
+    "The ordered product from the in-store merchant should be 7 portions",
+    "The murder mystery game activity must end before 17:00, and the ordered product duration is 2.5 hours, so the in-store merchant reservation time should be earlier than 14:30 on July 5, 2025",
+    "The number of people for the in-store merchant reservation is 7",
+    "Need to provide the duration information of the murder mystery game in the order, the duration of \"Youth Mystery\" is 2.5 hours",
+    "The ordered product in the delivery order should be a gold nib fountain pen",
+    "The ordered product in the delivery order cannot be Parker brand",
+    "The estimated delivery time for the ordered product in the delivery order is before 11:15 AM on July 4, 2025",
+    "The delivery address for the ordered product in the delivery order is Room 302, Building 5, East Garden Community, Huazhong University of Science and Technology, 1037 Luoyu Road, Hongshan District, Wuhan, Hubei Province",
+    "The ordered flight ticket should be for a flight from Wuhan to Beijing",
+    "The departure date of the ordered flight ticket should be July 7, 2025",
+    "The ordered flight ticket should be business class",
+    "The price of the ordered flight ticket should be less than 1800 yuan",
+    "The total budget for in-store merchant order and delivery order must not exceed 1200 yuan"
+  ]
+}

@@ -1,0 +1,119 @@
+{
+  "required_orders": [
+    {
+      "order_id": "A0811002T001",
+      "order_type": "train",
+      "user_id": "U226214",
+      "store_id": "S17550810096682511_T00012",
+      "note": "",
+      "location": null,
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 567,
+      "create_time": "2026-08-06 19:33:00",
+      "update_time": "2026-08-06 19:33:00",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17550810096682511_P00080",
+          "price": 189,
+          "quantity": 3,
+          "date": "2026-08-08",
+          "seat_type": "Business class seat"
+        }
+      ]
+    },
+    {
+      "order_id": "A0811002T002",
+      "order_type": "hotel",
+      "user_id": "U226214",
+      "store_id": "S17550810096682511_H00005",
+      "note": "",
+      "location": null,
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 888,
+      "create_time": "2026-08-06 19:36:00",
+      "update_time": "2026-08-06 19:36:00",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17550810096682511_P00029",
+          "price": 888,
+          "quantity": 1,
+          "date": "2026-08-08",
+          "room_type": "E-sports Quadruple Room (Professional Gaming Equipment + Gaming Chair)"
+        }
+      ]
+    },
+    {
+      "order_id": "A0811002T003",
+      "order_type": "delivery",
+      "user_id": "U226214",
+      "store_id": "S17550810096682511_S00002",
+      "note": "",
+      "location": {
+        "address": "Danyang Station E-sports Hotel, 28 Zhanqian Road, Yunyang Street, Danyang, Zhenjiang, Jiangsu Province",
+        "longitude": 119.5817,
+        "latitude": 32.0078
+      },
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 190.9,
+      "create_time": "2026-08-06 19:39:00",
+      "update_time": "2026-08-06 19:39:00",
+      "status": "unpaid",
+      "products": [
+        {
+          "product_id": "S17550810096682511_P00009",
+          "price": 119.9,
+          "quantity": 1,
+          "name": "Red Bull Vitamin Energy Drink 250ml*12 cans",
+          "attributes": ""
+        },
+        {
+          "product_id": "S17550810096682511_P00010",
+          "price": 9.9,
+          "quantity": 3,
+          "name": "Lay's Original Potato Chips 104g",
+          "attributes": ""
+        },
+        {
+          "product_id": "S17550810096682511_P00011",
+          "price": 8.5,
+          "quantity": 3,
+          "name": "Oishi Prawn Crackers Shrimp Flavor 75g",
+          "attributes": ""
+        },
+        {
+          "product_id": "S17550810096682511_P00012",
+          "price": 7.9,
+          "quantity": 2,
+          "name": "Want Want Snow Crackers 108g",
+          "attributes": ""
+        }
+      ]
+    }
+  ],
+  "rubrics": [
+    "Search for train tickets from Suzhou to Danyang around 9 PM, the result shows that tickets for August 7, 2026 are sold out, and need to purchase tickets for around 9 AM on August 8, 2026 [specifically, the departure time of the final booked train ticket should be between 8:45 and 9:15]",
+    "The seat type for the train ticket order should be Business class seat",
+    "The quantity of train tickets should be 3",
+    "The booked hotel should be within 1km (inclusive) of Danyang Station, Zhanqian Road, Yunyang Street, Danyang, Zhenjiang, Jiangsu Province",
+    "Hotel check-in date should be August 8, 2026",
+    "Hotel check-out date should be August 9, 2026",
+    "The room type in the hotel order should be a four-person room",
+    "The room type in the hotel order should provide professional gaming equipment and gaming chair",
+    "The food delivery order should include Red Bull",
+    "The food delivery order should have a total of 12 cans of Red Bull",
+    "The food delivery order should include puffed snacks",
+    "The food delivery order should include 3 types of puffed snacks",
+    "The food delivery order should have a total of 8 puffed snacks",
+    "The Red Bull and puffed snacks in the food delivery order should come from the same store",
+    "The delivery address for the food delivery order should be Danyang Station E-sports Hotel, 28 Zhanqian Road, Yunyang Street, Danyang, Zhenjiang, Jiangsu Province",
+    "The expected delivery time for the food delivery order should be 21:00 on August 8, 2026"
+  ]
+}

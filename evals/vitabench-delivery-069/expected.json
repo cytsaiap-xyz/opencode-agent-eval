@@ -1,0 +1,76 @@
+{
+  "required_orders": [
+    {
+      "order_id": "E0717001T01",
+      "order_type": "delivery",
+      "user_id": "U000021",
+      "store_id": "S26236855021467337_S70481",
+      "note": "",
+      "location": {
+        "address": "Guorui Building, 359 Jiangdong Middle Road, Jianye District, Nanjing, Jiangsu Province",
+        "longitude": 118.72032,
+        "latitude": 31.992184
+      },
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 42.9,
+      "create_time": "2025-04-18 16:50:00",
+      "update_time": "2025-04-18 16:50:00",
+      "status": "processed",
+      "products": [
+        {
+          "product_id": "S10537711184752782_P68507",
+          "price": 39.9,
+          "quantity": 1,
+          "attributes": "Single portion"
+        },
+        {
+          "product_id": "S13669419091607176_P73917",
+          "price": 3.0,
+          "quantity": 1,
+          "attributes": ""
+        }
+      ]
+    },
+    {
+      "order_id": "E0717001T02",
+      "order_type": "delivery",
+      "user_id": "U000021",
+      "store_id": "S63706096961310423_S13042",
+      "note": "",
+      "location": {
+        "address": "Guorui Building, 359 Jiangdong Middle Road, Jianye District, Nanjing, Jiangsu Province",
+        "longitude": 118.72032,
+        "latitude": 31.992184
+      },
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 35.9,
+      "create_time": "2025-04-18 16:50:00",
+      "update_time": "2025-04-18 16:50:00",
+      "status": "processed",
+      "products": [
+        {
+          "product_id": "S16562090161106991_P30021",
+          "price": 35.9,
+          "quantity": 1,
+          "attributes": "Medium size approx. 300g"
+        }
+      ]
+    }
+  ],
+  "rubrics": [
+    "The delivery address for dinner order should be Guorui Building, 359 Jiangdong Middle Road, Jianye District, Nanjing, Jiangsu Province",
+    "The estimated delivery time for dinner order should be around 2025-04-16 17:00:00",
+    "The dinner order should select Xiao Chuniang Huaiyang Cuisine (Hexi Aomei Building Store)",
+    "The dinner order should include Huaiyang Yanduxian and Rice",
+    "The Huaiyang Yanduxian in the dinner order should be single portion size, quantity of 1",
+    "The delivery address for overtime snack order should be Guorui Building, 359 Jiangdong Middle Road, Jianye District, Nanjing, Jiangsu Province",
+    "The estimated delivery time for overtime snack order should be around 2025-04-16 19:00:00",
+    "The overtime snack order should select Juewei Duck Neck",
+    "The overtime snack order should include Signature Duck Neck",
+    "The Signature Duck Neck in the overtime snack order should be medium size"
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "required_orders": [
+    {
+      "order_id": "80714001T01",
+      "order_type": "delivery",
+      "user_id": "U000073",
+      "store_id": "S15927822440687410_S54674",
+      "note": "",
+      "location": {
+        "address": "Student Dormitory, Longtan Campus of Shanxi Engineering Vocational College, 131 Xinjian Road, Sanqiao Street, Xinghualing District, Taiyuan, Shanxi Province",
+        "longitude": 112.548105,
+        "latitude": 37.880882
+      },
+      "dispatch_time": "2025-04-01 18:45:00",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 24.5,
+      "create_time": "2025-04-01 18:29:00",
+      "update_time": "2025-04-01 18:29:00",
+      "status": "in-progress",
+      "products": [
+        {
+          "product_id": "S54069754917006434_P49432",
+          "price": 4.9,
+          "quantity": 5,
+          "attributes": ""
+        }
+      ]
+    }
+  ],
+  "rubrics": [
+    "Order of sauce meat buns to satisfy hunger before evening study session, delivery address should be Longtan Campus of Shanxi Engineering Vocational College, 131 Xinjian Road, Sanqiao Street, Xinghualing District, Taiyuan, Shanxi Province",
+    "Order of sauce meat buns to satisfy hunger before evening study session, estimated delivery time should be before 2025-04-01 20:00:00",
+    "When ordering sauce meat buns to satisfy hunger before evening study session, the selected store should be Pang Er Jiu Traditional Buns (Jingang'yan Road Branch)",
+    "Order of sauce meat buns to satisfy hunger before evening study session, the total quantity of items should be 5"
+  ]
+}

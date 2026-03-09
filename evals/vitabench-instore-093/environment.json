@@ -1,0 +1,198 @@
+{
+  "task_id": "10826296",
+  "domain": "instore",
+  "time": "2025-03-15 19:30:00",
+  "user_id": "U594252",
+  "weather": [
+    {
+      "city": "Taiyuan City",
+      "category": "cloudy",
+      "datetime": "2025-03-15",
+      "temperature": [
+        8,
+        18
+      ],
+      "humidity": 55
+    },
+    {
+      "city": "Taiyuan City",
+      "category": "sunny",
+      "datetime": "2025-03-16",
+      "temperature": [
+        10,
+        20
+      ],
+      "humidity": 45
+    }
+  ],
+  "location": [
+    {
+      "address": "Room 1203, Building A, Longcheng Garden, No.100 South Inner Ring Street, Yingze District, Taiyuan City",
+      "longitude": 112.5803,
+      "latitude": 37.8456
+    },
+    {
+      "address": "Taiyuan Second People's Hospital, intersection of Fuxi Street and Construction North Road, Xinghualing District, Taiyuan City",
+      "longitude": 112.5634,
+      "latitude": 37.8734
+    },
+    {
+      "address": "Shanxi Medical University",
+      "longitude": 112.5591,
+      "latitude": 37.8392
+    }
+  ],
+  "user_profile": {
+    "user id": "U594252",
+    "occupation": "Doctor",
+    "gender": "male",
+    "age group": "35~40",
+    "residence": "Taiyuan",
+    "home address": "Room 1203, Building A, Longcheng Garden, No.100 South Inner Ring Street, Yingze District, Taiyuan City",
+    "work address": "Taiyuan Second People's Hospital, intersection of Fuxi Street and Construction North Road, Xinghualing District, Taiyuan City",
+    "dietary restrictions": "No High Sugar",
+    "family status": "Has Children",
+    "personality": "Expresses coldly and concisely, lacks emotional communication and patience"
+  },
+  "user_historical_behaviors": {
+    "user id": "U594252",
+    "occupation": "Doctor",
+    "gender": "male",
+    "age group": "35~40",
+    "residence": "Taiyuan",
+    "home address": "Room 1203, Building A, Longcheng Garden, No.100 South Inner Ring Street, Yingze District, Taiyuan City",
+    "work address": "Taiyuan Second People's Hospital, intersection of Fuxi Street and Construction North Road, Xinghualing District, Taiyuan City",
+    "in-store dining": {
+      "fine-dining": {
+        "frequently purchased categories": [
+          "Regional Cuisine/Sichuan Cuisine (Average 120 yuan)",
+          "International Cuisine/Western Food (Average 150 yuan)",
+          "Regional Cuisine/Cantonese cuisine (Average 130 yuan)"
+        ],
+        "preferred average price per person": "100~150 yuan",
+        "preferred store rating": "4.2~4.8 stars",
+        "typical dining time": "18:30-21:00",
+        "preferred distance": "500~3000m",
+        "recent orders": [
+          {
+            "store": "Lao Matou Sichuan Restaurant",
+            "product": "Boiled Fish (Mild Spicy)"
+          },
+          {
+            "store": "Taiyuan Yue Jiangnan",
+            "product": "Blanched Prawns"
+          },
+          {
+            "store": "Seine Riverside Western Restaurant",
+            "product": "Steak Set Meal (Medium Well)"
+          }
+        ],
+        "search history": [
+          "Non-spicy Sichuan cuisine",
+          "Healthy Cantonese cuisine",
+          "Western restaurants",
+          "Low purine dishes"
+        ]
+      },
+      "light meal": {
+        "frequently purchased categories": [
+          "Fast Food/Chinese Quick Meal (Average 35 yuan)",
+          "Fast Food/Western Quick Meal (Average 40 yuan)",
+          "Regional Cuisine/Northeastern Cuisine (Average 45 yuan)"
+        ],
+        "preferred average price per person": "30~50 yuan",
+        "preferred store rating": "3.5~4.3 stars",
+        "typical dining time": "11:30-13:00",
+        "preferred distance": "0~1000m",
+        "recent orders": [
+          {
+            "store": "Yonghe King",
+            "product": "Three Delicacies Soy Milk Set"
+          },
+          {
+            "store": "Sha County Snacks",
+            "product": "Steamed Dumplings with Noodles Set"
+          },
+          {
+            "store": "KFC",
+            "product": "Sichuan Pepper Chicken Burger Set"
+          }
+        ],
+        "search history": [
+          "Fast food near hospital",
+          "Healthy quick meals",
+          "Light food"
+        ]
+      },
+      "desserts/drinks/snacks": {
+        "frequently purchased categories": [
+          "Beverage Shops (Average 18 yuan)",
+          "Bread and Desserts (Average 25 yuan)",
+          "Other Dining/Fresh Fruits (Average 20 yuan)"
+        ],
+        "preferred average price per person": "15~30 yuan",
+        "preferred store rating": "4.0~4.6 stars",
+        "typical dining time": "15:00-16:30",
+        "preferred distance": "0~500m",
+        "recent orders": [
+          {
+            "store": "Starbucks",
+            "product": "Americano (Sugar-free)"
+          },
+          {
+            "store": "Xianfeng Fruits",
+            "product": "Selected Fruit Platter"
+          },
+          {
+            "store": "Bread Talk",
+            "product": "Whole Wheat Toast"
+          }
+        ],
+        "search history": [
+          "Sugar-free coffee",
+          "Healthy desserts",
+          "Low-sugar beverages"
+        ]
+      }
+    },
+    "other in-store services": {
+      "frequently consumed categories": {
+        "Sports & Fitness/Fitness Centers": "40%",
+        "Sports & Fitness/Ball Sports": "35%",
+        "Leisure & Entertainment/Massage/Foot Therapy": "15%",
+        "Beauty/Yoga": "10%"
+      },
+      "cost per order by category": {
+        "Sports & Fitness/Fitness Centers": "150~300 yuan",
+        "Sports & Fitness/Ball Sports": "80~150 yuan",
+        "Leisure & Entertainment/Massage/Foot Therapy": "180~250 yuan",
+        "Beauty/Yoga": "120~200 yuan"
+      },
+      "preferred store rating": "4.0~4.8 stars",
+      "preferred service time": "19:00-21:30",
+      "preferred distance": "0~3000m",
+      "recent orders": [
+        {
+          "store": "Taiyuan Lijian Fitness Center",
+          "product": "Personal Training (Back and Waist Rehabilitation)"
+        },
+        {
+          "store": "Yingze District Badminton Court",
+          "product": "Double Court for 2 Hours"
+        },
+        {
+          "store": "Zushengtang Wellness Center",
+          "product": "Traditional Chinese Medicine Foot Massage (60 minutes)"
+        }
+      ],
+      "search history": [
+        "Lumbar spine rehabilitation training",
+        "Badminton courts",
+        "Professional massage for doctors",
+        "Beginner yoga class"
+      ]
+    }
+  },
+  "stores": {},
+  "orders": {}
+}

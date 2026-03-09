@@ -1,0 +1,44 @@
+{
+  "task_id": "29",
+  "query": "I plan to travel from Chongqing to Zhengzhou on November 12, 2025, and stay for three days, returning on November 14. Could you help me plan the entire trip? I need arrangements for transportation, accommodation, meals, and sightseeing.\n\nFor the return journey, I'd like to take a train—could you please choose the fastest direct train available? For accommodation, I want something comfortable; please book the highest-rated hotel in Zhengzhou. There are two of us traveling, so one room will be enough.\n\nRegarding meals, I’d like to experience some good local restaurants. Could one meal be arranged near 'Zhengdong New District CBD'? Just pick the highest-rated restaurant in that area. Also, I’d like to have a meal near the 'Yellow River Museum'. This time my budget is limited, so please find the restaurant with the lowest average cost per person nearby and recommend one.\n\nThese are basically all my requirements. Please go ahead and prepare the full itinerary and budget plan for me—no need to ask me further preferences! November 12, 2025 is Wednesday",
+  "meta_info": {
+    "org": "Chongqing",
+    "dest": [
+      "Zhengzhou"
+    ],
+    "days": 3,
+    "depart_date": "2025-11-12",
+    "return_date": "2025-11-14",
+    "people_number": 2,
+    "room_number": 1
+  },
+  "hard_constraints": {
+    "train_shortest_duration_direct": {
+      "constraint_context": "For the return trip, I hope to choose a train, and need to select the shortest-duration direct train available.",
+      "constraint_type": "superlative_shortest_duration",
+      "inbound_train_no": "G1533"
+    },
+    "hotel_highest_rated": {
+      "constraint_context": "For accommodation, please select the highest-rated hotel in the city",
+      "constraint_type": "superlative_highest_rated_hotel",
+      "hotel_name": "Atour Hotel Henan Zhengkai Avenue",
+      "hotel_price": 360.0,
+      "hotel_score": 5.0
+    },
+    "restaurant_highest_rated": {
+      "constraint_context": "During the trip, please arrange a meal at the highest-rated restaurant near 'Zhengdong New District CBD'.",
+      "constraint_type": "superlative_highest_rated_restaurant",
+      "attraction_name": "Zhengdong New District CBD",
+      "restaurant_name": "Song Style Elegant Banquet · Song Culture Restaurant (Shangzuo Center Branch)",
+      "price_per_person": 212.0,
+      "restaurant_rating": 4.6
+    },
+    "restaurant_cheapest_nearby_attraction": {
+      "constraint_context": "During the trip, please arrange a meal at the cheapest restaurant near the 'Yellow River Museum' per person.",
+      "constraint_type": "superlative_cheapest_nearby_attraction",
+      "attraction_name": "Yellow River Museum",
+      "restaurant_name": "Zhang's Goose Burger",
+      "price_per_person": 50.0
+    }
+  }
+}

@@ -1,0 +1,76 @@
+{
+  "required_orders": [
+    {
+      "order_id": "OO9156382e05",
+      "order_type": "attraction",
+      "user_id": "U010096",
+      "store_id": "S17550812965821285_A00001",
+      "note": "",
+      "location": null,
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 180,
+      "create_time": "2026-04-17 12:17:32",
+      "update_time": "2026-04-17 12:17:32",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17550812965821285_P00004",
+          "price": 180,
+          "quantity": 1,
+          "date": "2026-04-18",
+          "ticket_type": "Family Package (2 Adults, 1 Child) (Access to Multiple Interactive Experience Zones)"
+        }
+      ]
+    },
+    {
+      "order_id": "S17550812965821285_O00002",
+      "order_type": "instore",
+      "user_id": "U010096",
+      "store_id": "S17550812965821285_I00006",
+      "note": "",
+      "location": null,
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 398,
+      "create_time": "2026-04-17 12:21:22",
+      "update_time": "2026-04-17 12:21:22",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17550812965821285_P00035",
+          "name": "Salmon Sashimi Platter Set for 2-3 Persons",
+          "price": 398,
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "book_id": "OI98ab55e38b",
+      "shop_id": "S17550812965821285_I00006",
+      "book_time": "2026-04-18 18:00:00",
+      "update_time": "2026-04-17 12:19:24",
+      "customer_id": "U010096",
+      "customer_count": 3,
+      "book_price": 30,
+      "status": "paid"
+    }
+  ],
+  "rubrics": [
+    "The attraction booked should be an indoor venue",
+    "The attraction booked should have multiple interactive experience zones",
+    "The date for the attraction tickets should be April 18, 2026",
+    "The attraction tickets should be a family package for 2 adults and 1 child",
+    "The restaurant ordered from should be no more than 3 kilometers away from Suzhou Science and Technology Museum, 1 Changjiang Road, High-Tech Zone, Suzhou, Jiangsu Province",
+    "The restaurant ordered from should be of good quality",
+    "The restaurant ordered from should be located in a shopping mall",
+    "The set meal ordered from the restaurant must include Salmon dishes",
+    "The set meal ordered from the restaurant should be one set for 2-3 persons, not multiple individual set meals",
+    "The set meal ordered from the restaurant should cost between 100-150 yuan per person, with a total price between 300-450 yuan",
+    "The reserved restaurant should be Wuer Izakaya (Jinji Lake Branch)",
+    "Must make a reservation at the Jinji Lake Branch izakaya restaurant for April 18, 2026 at 18:00",
+    "The reservation should be for 3 people"
+  ]
+}

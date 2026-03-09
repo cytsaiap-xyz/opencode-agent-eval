@@ -1,0 +1,45 @@
+{
+  "task_id": "38",
+  "query": "I'm planning a three-day trip from Nanchang to Chongqing on November 12, 2025, with my return on November 14, 2025. For transportation, I'd like to take a flight for the outbound journey—ideally the earliest direct flight available—so I can arrive in Chongqing as early as possible and have a more flexible schedule.\n\nFor accommodation, my budget is between 240 and 290 yuan per night; please keep the price within this range and help me select a suitable hotel. Also, there are three of us traveling together, so we’ll need two rooms.\n\nBy the way, I’m especially looking forward to experiencing Chongqing’s food scene. Could you arrange a meal at a restaurant near the 'Chongqing Two Rivers Night Cruise'? I’ve heard there are many restaurants from the “must-try” lists in that area—please pick one ranked in the top ten on such a list; it should be a safe choice! Oh, and there’s another spot called the 'Mountain City Trail · Jianxing Slope Grand Stairway'—the photos look very authentic to Chongqing. I expect it’ll be tiring walking around there, so could you also arrange a meal at a restaurant closest to this attraction? Ideally, it should be convenient to reach on foot.\n\nThat covers everything—I believe I’ve provided all necessary details. Please go ahead and plan the entire itinerary for me without asking for further information. November 12, 2025 is Wednesday",
+  "meta_info": {
+    "org": "Nanchang",
+    "dest": [
+      "Chongqing"
+    ],
+    "days": 3,
+    "depart_date": "2025-11-12",
+    "return_date": "2025-11-14",
+    "people_number": 3,
+    "room_number": 2
+  },
+  "hard_constraints": {
+    "flight_earliest_departure_direct": {
+      "constraint_context": "Prefer to take a flight for the outbound journey, and need to select the earliest departing direct flight",
+      "constraint_type": "superlative_earliest_departure",
+      "outbound_flight_no": "ZH8845"
+    },
+    "hotel_price_range": {
+      "constraint_context": "The accommodation price must be between 240 yuan and 290 yuan.",
+      "hotel_name": "Hanting Hotel (Chongqing Daping Metro Station Branch)",
+      "hotel_price": 265.0,
+      "min_price": 240,
+      "max_price": 290
+    },
+    "restaurant_specific_tag_nearby": {
+      "constraint_context": "Arrange a meal at a restaurant near the 'Chongqing Two Rivers Night Cruise' during the trip, with service from the Must-Eat List Top 10 required.",
+      "constraint_type": "superlative_specific_tag_nearby",
+      "attraction_name": "Chongqing Two Rivers Night Cruise",
+      "restaurant_name": "Jinzhao Drunken Tavern (Hongyadong Branch)",
+      "required_tag": "Must-Eat Top 10",
+      "price_per_person": 75.0,
+      "restaurant_rating": 4.1
+    },
+    "restaurant_closest_to_attraction": {
+      "constraint_context": "During the trip, please arrange a meal at the restaurant closest to 'Mountain City Trail · Jianxing Slope Grand Stairway'.",
+      "constraint_type": "superlative_closest_to_attraction",
+      "attraction_name": "Mountain City Trail · Jianxing Slope Grand Stairway",
+      "restaurant_name": "Level Restaurant (Zhongshan Third Road)",
+      "price_per_person": 21.0
+    }
+  }
+}

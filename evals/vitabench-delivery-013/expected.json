@@ -1,0 +1,42 @@
+{
+  "required_orders": [
+    {
+      "order_id": "30711001T01",
+      "order_type": "delivery",
+      "user_id": "U000003",
+      "store_id": "S26270993369029575_S81541",
+      "note": "",
+      "location": {
+        "address": "Xiangzhang Garden, 168 Xiangzhang Road, Yuhua District, Changsha, Hunan Province",
+        "longitude": 113.007008,
+        "latitude": 28.134684
+      },
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 26.0,
+      "create_time": "2025-09-05 19:37:00",
+      "update_time": "2025-09-05 19:37:00",
+      "status": "processed",
+      "products": [
+        {
+          "product_id": "S69062526404922496_P75737",
+          "price": 18.0,
+          "quantity": 1,
+          "attributes": ""
+        },
+        {
+          "product_id": "S13295447731942135_P11967",
+          "price": 8.0,
+          "quantity": 1,
+          "attributes": ""
+        }
+      ]
+    }
+  ],
+  "rubrics": [
+    "The delivery address for the bread order should be Xiangzhang Garden, 168 Xiangzhang Road, Yuhua District, Changsha, Hunan Province",
+    "The bread order should select Molecular Fresh Bread (Forestry University Store) as the merchant",
+    "Considering the health needs related to insulin resistance, the bread order should prioritize bread products with low GI (Glycemic Index)"
+  ]
+}

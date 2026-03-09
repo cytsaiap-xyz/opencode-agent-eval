@@ -1,0 +1,201 @@
+{
+  "task_id": "10826297",
+  "domain": "instore",
+  "time": "2025-01-13 14:35:00",
+  "user_id": "U671374",
+  "weather": [
+    {
+      "city": "Taiyuan",
+      "category": "sunny",
+      "datetime": "2025-01-13",
+      "temperature": [
+        -6,
+        3
+      ],
+      "humidity": 45
+    },
+    {
+      "city": "Taiyuan",
+      "category": "cloudy",
+      "datetime": "2025-01-14",
+      "temperature": [
+        -5,
+        2
+      ],
+      "humidity": 52
+    }
+  ],
+  "location": [
+    {
+      "address": "Room 502, Unit 1, Building 3, Longcheng No. 1 Residential Area, No. 256 Qinxian North Street, Xiaodian District, Taiyuan",
+      "longitude": 112.578945,
+      "latitude": 37.793526
+    },
+    {
+      "address": "15th Floor, Tower A, Taiyuan International Energy R&D Center, No. 100 Yingze West Street, Wanbailin District, Taiyuan",
+      "longitude": 112.518762,
+      "latitude": 37.856391
+    },
+    {
+      "address": "Mixc Shopping Center, No. 115 Changfeng Street, Xiaodian District, Taiyuan",
+      "longitude": 112.553486,
+      "latitude": 37.812734
+    }
+  ],
+  "user_profile": {
+    "user id": "U671374",
+    "occupation": "Engineer",
+    "gender": "female",
+    "age group": "30~35",
+    "residence": "Taiyuan",
+    "home address": "Room 502, Unit 1, Building 3, Longcheng No. 1 Residential Area, No. 256 Qinxian North Street, Xiaodian District, Taiyuan",
+    "work address": "15th Floor, Tower A, Taiyuan International Energy R&D Center, No. 100 Yingze West Street, Wanbailin District, Taiyuan",
+    "dietary restrictions": "No deep-fried food",
+    "family status": "Has children",
+    "personality": "Experiences significant mood swings, expresses herself with strong emotional coloring"
+  },
+  "user_historical_behaviors": {
+    "user id": "U671374",
+    "occupation": "Engineer",
+    "gender": "female",
+    "age group": "30~35",
+    "residence": "Taiyuan",
+    "home address": "Room 502, Unit 1, Building 3, Longcheng No. 1 Residential Area, No. 256 Qinxian North Street, Xiaodian District, Taiyuan",
+    "work address": "15th Floor, Tower A, Taiyuan International Energy R&D Center, No. 100 Yingze West Street, Wanbailin District, Taiyuan",
+    "in-store dining": {
+      "fine-dining": {
+        "frequently purchased categories": [
+          "Regional Cuisine/Sichuan Cuisine (Average 130 yuan)",
+          "International Cuisine/Western Food (Average 160 yuan)",
+          "Regional Cuisine/Specialty Dishes (Average 115 yuan)"
+        ],
+        "preferred average price per person": "110~160 yuan",
+        "preferred store rating": "4.2~4.8 stars",
+        "typical dining time": "18:30-20:30",
+        "preferred distance": "2000~5000m",
+        "recent orders": [
+          {
+            "store": "Xin Rong Ji (Qinxian Street Branch)",
+            "product": "Braised Pork Ribs + Premium Vegetables + Rice"
+          },
+          {
+            "store": "Xiao Long Kan Hot Pot (Mixc Branch)",
+            "product": "Mushroom Yuanyang Hot Pot Base + Fresh Beef Tripe + Beef Throat + Fresh Bamboo Shoots"
+          },
+          {
+            "store": "Azure Mediterranean Restaurant",
+            "product": "Pasta + Salad + Non-alcoholic Mojito"
+          }
+        ],
+        "search history": [
+          "Healthy Restaurant",
+          "Non-Deep-Fried Sichuan Cuisine",
+          "Family-friendly Restaurant",
+          "Suitable for Group Dining"
+        ]
+      },
+      "light meal": {
+        "frequently purchased categories": [
+          "Fast Food/Chinese Simple Meal (Average 35 yuan)",
+          "Fast Food/Western Fast Food (Average 42 yuan)",
+          "Regional Cuisine/Northeastern Cuisine (Average 45 yuan)"
+        ],
+        "preferred average price per person": "30~50 yuan",
+        "preferred store rating": "3.5~4.3 stars",
+        "typical dining time": "11:30-13:00",
+        "preferred distance": "0~1000m",
+        "recent orders": [
+          {
+            "store": "Yonghe King (International Energy Center Branch)",
+            "product": "Three Shredded Fried Noodles + Corn Porridge"
+          },
+          {
+            "store": "Sha County Snacks (Qinxian Street Branch)",
+            "product": "Steamed Dumplings + Seaweed Soup"
+          },
+          {
+            "store": "Jixiang Wonton (Wanbailin District Branch)",
+            "product": "Shrimp Wontons + Side Dish"
+          }
+        ],
+        "search history": [
+          "Healthy Fast Food",
+          "Work Meal",
+          "Non-greasy Lunch",
+          "Light Food"
+        ]
+      },
+      "desserts/drinks/snacks": {
+        "frequently purchased categories": [
+          "Beverage Shops (Average 20 yuan)",
+          "Bread and Desserts (Average 25 yuan)",
+          "Other Dining/Fruits and Fresh Food (Average 15 yuan)"
+        ],
+        "preferred average price per person": "15~30 yuan",
+        "preferred store rating": "4.0~4.7 stars",
+        "typical dining time": "15:00-16:30",
+        "preferred distance": "0~800m",
+        "recent orders": [
+          {
+            "store": "Cha Bai Dao (International Energy Center Branch)",
+            "product": "Sugar-free Jasmine Green Tea"
+          },
+          {
+            "store": "Fresh Fruit Station (Qinxian Street Branch)",
+            "product": "Fruit Platter"
+          },
+          {
+            "store": "Bread Talk (Mixc Branch)",
+            "product": "Whole Wheat Bread + Low-sugar Yogurt"
+          }
+        ],
+        "search history": [
+          "Sugar-free Drinks",
+          "Low-calorie Desserts",
+          "Fruit Shop",
+          "Healthy Afternoon Tea"
+        ]
+      }
+    },
+    "other in-store services": {
+      "frequently consumed categories": {
+        "Sports/Fitness Center": "40%",
+        "Beauty/Yoga": "35%",
+        "Parent-child/Parent-child Recreation": "15%",
+        "Leisure Entertainment/Massage/Foot Therapy": "10%"
+      },
+      "cost per order by category": {
+        "Sports/Fitness Center": "100~200 yuan",
+        "Beauty/Yoga": "80~150 yuan",
+        "Parent-child/Parent-child Recreation": "120~300 yuan",
+        "Leisure Entertainment/Massage/Foot Therapy": "150~250 yuan"
+      },
+      "preferred store rating": "4.0~4.8 stars",
+      "preferred service time": "19:00-21:00",
+      "preferred distance": "0~3000m",
+      "recent orders": [
+        {
+          "store": "Taiyuan Power Fitness (Qinxian Street Branch)",
+          "product": "Yoga Private Coaching Course"
+        },
+        {
+          "store": "Yuedong Yoga (Wanbailin District Branch)",
+          "product": "Monthly Membership"
+        },
+        {
+          "store": "Qile Children's Playground (Mixc Branch)",
+          "product": "Parent-child Interactive Package"
+        }
+      ],
+      "search history": [
+        "Women's Fitness",
+        "Parent-child Activities",
+        "Yoga Studio",
+        "Children's Weekend Activities",
+        "Foot Massage"
+      ]
+    }
+  },
+  "stores": {},
+  "orders": {}
+}

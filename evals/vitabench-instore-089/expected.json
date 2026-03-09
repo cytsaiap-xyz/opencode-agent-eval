@@ -1,0 +1,60 @@
+{
+  "required_orders": [
+    {
+      "order_id": "10826331T001",
+      "order_type": "instore",
+      "user_id": "U499750",
+      "store_id": "S17567845424848621_I00001",
+      "note": "",
+      "location": null,
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 328,
+      "create_time": "2024-09-20 19:18:42",
+      "update_time": "2024-09-20 19:18:42",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17567845424848621_P00004",
+          "name": "Nourishing Package for Two (Flower Cordyceps Soup + Mountain Seasonal Vegetables + Low-sugar Dessert + Astragalus Beef)",
+          "price": 328,
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "order_id": "10826331T002",
+      "order_type": "instore",
+      "user_id": "U499750",
+      "store_id": "S17567845424848621_I00009",
+      "note": "",
+      "location": null,
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 380,
+      "create_time": "2024-09-20 19:21:27",
+      "update_time": "2024-09-20 19:21:27",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17567845424848621_P00073",
+          "name": "One-to-two Zen Meditation Private Course (60 minutes)",
+          "price": 380,
+          "quantity": 1
+        }
+      ]
+    }
+  ],
+  "rubrics": [
+    "The restaurant ordered should have Chinese Courtyard Style decoration",
+    "The products ordered from the restaurant should be a package for two people",
+    "The products ordered from the restaurant should have a health cultivation theme",
+    "Based on inquiries, packages containing Celery with Lily Bulbs are sold out at eligible restaurants, so the package ordered should include Astragalus Beef",
+    "The restaurant package ordered cannot contain both Celery with Lily Bulbs and Astragalus Beef",
+    "The meditation center should be within 2.5 kilometers (inclusive) from Xinghai Square Commercial Area, Shahekou District, Dalian",
+    "The product ordered from the meditation center should be a one-to-two course package",
+    "The total price of products from the meditation center should be less than or equal to 400 yuan"
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "task_id": "0",
+  "query": "I'm planning a two-day trip from Hefei to Nanjing on November 12, 2025, returning in the evening of the 13th. The total budget for this trip should be within 3000 yuan. There are three of us traveling, and we'll take the train since it should be quite convenient—please help me choose a suitable train schedule.\n\nFor accommodation, I have specific preferences: I'd like a three-star hotel with a swimming pool, and please book two rooms.\n\nThere are several places I must visit during this trip, including 'Nanjing Deji Plaza' and 'Nanjing City Wall Taicheng Scenic Area'—please make sure to include both in the itinerary. Also, I’d like to have a meal near 'Laomendong', preferably at a restaurant that offers birthday set menus, as one of my friends has a birthday and we’d like to celebrate together.\n\nThat's basically everything—I've provided all the details clearly. Please go ahead and plan the itinerary for me! November 12, 2025 is Wednesday",
+  "meta_info": {
+    "org": "Hefei",
+    "dest": [
+      "Nanjing"
+    ],
+    "days": 2,
+    "depart_date": "2025-11-12",
+    "return_date": "2025-11-13",
+    "people_number": 3,
+    "room_number": 2
+  },
+  "hard_constraints": {
+    "train_seat_status": {
+      "constraint_context": "3 travelers, choosing to travel by train, need to select a train with sufficient remaining tickets (this sentence does not need to be included in the query, but should be inferred by the user)",
+      "people_number": 3,
+      "outbound_train_no": "G7798",
+      "inbound_train_no": "G3031",
+      "outbound_seat_status": "6",
+      "inbound_seat_status": "7"
+    },
+    "hotel_star_service_required": {
+      "constraint_context": "Please select a 3-star hotel that offers a swimming pool for accommodation.",
+      "constraint_type": "superlative_star_service_required",
+      "hotel_name": "Orange Hotel Nanjing Confucius Temple Scenic Area",
+      "required_service": "Swimming Pool",
+      "hotel_star": 3,
+      "hotel_price": 441.0
+    },
+    "restaurant_specific_tag_nearby": {
+      "constraint_context": "Arrange a meal at a restaurant near 'Laomendong' during the trip, with birthday set menu service required",
+      "constraint_type": "superlative_specific_tag_nearby",
+      "attraction_name": "Laomendong",
+      "restaurant_name": "Six Dynasties Pine Teahouse",
+      "required_tag": "Birthday Package",
+      "price_per_person": 294.0,
+      "restaurant_rating": 4.7
+    },
+    "attraction_must_visit_named": {
+      "constraint_context": "The itinerary must include visits to 'Nanjing Deji Plaza' and 'Nanjing City Wall Taicheng Scenic Area'.",
+      "constraint_type": "superlative_must_visit_named",
+      "attraction_names": [
+        "Nanjing Deji Plaza",
+        "Nanjing City Wall Taicheng Scenic Area"
+      ],
+      "attraction_ratings": [
+        4.8,
+        4.6
+      ]
+    },
+    "budget_constraint": {
+      "max_budget": 3000
+    }
+  }
+}

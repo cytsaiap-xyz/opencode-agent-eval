@@ -1,0 +1,39 @@
+{
+  "required_orders": [
+    {
+      "order_id": "20711002T01",
+      "order_type": "delivery",
+      "user_id": "U000002",
+      "store_id": "S10884602254755805_S86671",
+      "note": "",
+      "location": {
+        "address": "Ziwei City Garden near Bank of Communications (Xi'an Electronic City Branch), Yanta District, Xi'an, Shaanxi Province",
+        "longitude": 108.917964,
+        "latitude": 34.201373
+      },
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 14,
+      "create_time": "2025-09-18 19:01:00",
+      "update_time": "2025-09-18 19:01:00",
+      "status": "processed",
+      "products": [
+        {
+          "product_id": "S82307399321174061_P83228",
+          "price": 14,
+          "quantity": 1,
+          "attributes": "Hot"
+        }
+      ]
+    }
+  ],
+  "rubrics": [
+    "The delivery address should be Ziwei City Garden near Bank of Communications (Xi'an Electronic City Branch), Yanta District, Xi'an, Shaanxi Province",
+    "The delivery time of the menstrual period drink order should be after 2025-09-18 20:00:00",
+    "Drink orders cannot select Mixue Ice Cream stores",
+    "Drink orders must select products that are Low Caffeine or caffeine-free",
+    "Menstrual period drink orders must select hot drinks, not cold drinks",
+    "Menstrual period drink orders should select small or Medium Cup, not large or extra-large cups"
+  ]
+}

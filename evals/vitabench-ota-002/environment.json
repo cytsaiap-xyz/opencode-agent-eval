@@ -1,0 +1,129 @@
+{
+  "task_id": "70808001",
+  "domain": "ota",
+  "time": "2027-06-28 12:23:11",
+  "user_id": "U010054",
+  "weather": [
+    {
+      "city": "Harbin",
+      "category": "sunny",
+      "datetime": "2027-06-28",
+      "temperature": [
+        18,
+        28
+      ],
+      "humidity": 65
+    },
+    {
+      "city": "Chongqing",
+      "category": "cloudy",
+      "datetime": "2027-07-10",
+      "temperature": [
+        24,
+        32
+      ],
+      "humidity": 78
+    },
+    {
+      "city": "Dali",
+      "category": "sunny",
+      "datetime": "2027-07-12",
+      "temperature": [
+        16,
+        25
+      ],
+      "humidity": 72
+    }
+  ],
+  "location": [],
+  "user_profile": {
+    "user id": "U010054",
+    "occupation": "Sales",
+    "gender": "female",
+    "age group": "25~30",
+    "residence": "Harbin",
+    "home address": "Jinjue Wanxiang Phase 3, 140 meters west of the intersection of Xining South Road and Nanxing Street, Nangang District, Harbin, Heilongjiang Province",
+    "work address": "Wangfujing Shopping Center (Guandong Ancient Lane Store), 899 Jingjiang East Road, Daoli District, Harbin, Heilongjiang Province",
+    "dietary restrictions": "Avoids greasy and spicy food, avoids caffeine",
+    "family status": "Has pet",
+    "personality": "Easily anxious and worried, needs repeated confirmation to feel at ease"
+  },
+  "user_historical_behaviors": {
+    "user id": "U010054",
+    "occupation": "Sales",
+    "gender": "female",
+    "age group": "25~30",
+    "residence": "Harbin",
+    "home address": "Golden Jue Wanxiang Phase 3, 140 meters west of the intersection of Xining South Road and Nanxing Street, Nangang District, Harbin, Heilongjiang Province",
+    "work address": "Wangfujing Shopping Center (Guandong Ancient Lane Store), 899 Jingjiang East Road, Daoli District, Harbin, Heilongjiang Province",
+    "visited scenes": {
+      "Cultural & Historical Sites": "30%",
+      "Natural Landscapes (Mountains/Lakes/Forests)": "25%",
+      "Hot Spring Resorts": "20%",
+      "Exhibition Halls (Museums/Art Galleries)": "15%",
+      "Traditional Villages/Industrial Tourism/Uncategorized": "10%"
+    },
+    "cost per night on hotel": "300~500 yuan",
+    "visited hotels": {
+      "Home Inn": "35%",
+      "Hanting": "25%",
+      "Ji Hotel": "20%",
+      "Atour": "15%",
+      "Vienna": "5%"
+    },
+    "browsed hotels": {
+      "Three-star Hotels": "45%",
+      "Comfortable Hotels": "40%",
+      "Budget Hotels": "15%"
+    },
+    "historical travel plans": {
+      "Harbin-Beijing": {
+        "Price Range": "800-1200 yuan",
+        "Transportation": "High-speed Train"
+      },
+      "Harbin-Shanghai": {
+        "Price Range": "1200-2000 yuan",
+        "Transportation": "Flight"
+      },
+      "Harbin-Dalian": {
+        "Price Range": "400-600 yuan",
+        "Transportation": "High-speed Train"
+      },
+      "Harbin-Changchun": {
+        "Price Range": "150-250 yuan",
+        "Transportation": "High-speed Train"
+      },
+      "Harbin-Shenyang": {
+        "Price Range": "250-350 yuan",
+        "Transportation": "High-speed Train"
+      }
+    }
+  },
+  "stores": {},
+  "orders": {
+    "70808001T001": {
+      "order_id": "70808001T001",
+      "order_type": "train",
+      "user_id": "U010054",
+      "store_id": "S17557505487409598_T00010",
+      "note": "",
+      "location": null,
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 398,
+      "create_time": "2027-06-25 12:32:16",
+      "update_time": "2027-06-25 12:32:16",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17557505487409598_P00080",
+          "price": 398,
+          "quantity": 1,
+          "date": "2027-07-10",
+          "seat_type": "Soft Sleeper"
+        }
+      ]
+    }
+  }
+}

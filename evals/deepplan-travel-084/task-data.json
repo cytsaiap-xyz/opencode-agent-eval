@@ -1,0 +1,50 @@
+{
+  "task_id": "83",
+  "query": "I plan to travel from Hefei to Guangzhou on November 12, 2025, and stay until November 17 before returning to Hefei. Regarding transportation, I'd like to take a train for the return journey—please help me choose a direct train from Guangzhou to Hefei with the lowest price available.\n\nFor accommodation, I’d like to book a five-star hotel, but I don’t want to spend too much, so please find me the cheapest option that’s still five-star—remember, it’s for five nights.There are three of us traveling, so we’ll need two rooms.\n\nAs for dining, I’ve heard there are many great restaurants around 'Lychee Bay'. Could you help me find one that’s ranked in the Top 10 on the “Must-Try Restaurant List”? I’d love to try some authentic local cuisine there.\n\nBy the way, I’m really fond of natural landscapes. Could you include in my itinerary the highest-rated 'Natural Scenery' attraction in Guangzhou? I’d like to fully experience the feeling of being close to nature.\n\nThese are basically all my requirements—I believe I’ve provided all the necessary information. Please go ahead and plan my full itinerary and budget without asking for further details! November 12, 2025 is Wednesday",
+  "meta_info": {
+    "org": "Hefei",
+    "dest": [
+      "Guangzhou"
+    ],
+    "days": 6,
+    "depart_date": "2025-11-12",
+    "return_date": "2025-11-17",
+    "people_number": 3,
+    "room_number": 2
+  },
+  "hard_constraints": {
+    "train_cheapest_direct": {
+      "constraint_context": "For the return trip, I hope to choose a train and need to select the cheapest direct train available.",
+      "constraint_type": "superlative_cheapest_direct",
+      "inbound_train_no": "G650"
+    },
+    "hotel_cheapest_star": {
+      "constraint_context": "Please select the cheapest hotel among 5-star hotels",
+      "constraint_type": "superlative_cheapest_star",
+      "hotel_name": "Guangzhou Huangpu Jincheng Hotel",
+      "hotel_star": 5,
+      "hotel_price": 383.0
+    },
+    "restaurant_specific_tag_nearby": {
+      "constraint_context": "Arrange a meal at a restaurant near 'Lychee Bay' during the trip, with service required to be among the Top 10 on the Must-Eat List.",
+      "constraint_type": "superlative_specific_tag_nearby",
+      "attraction_name": "Lychee Bay",
+      "restaurant_name": "Wulin Chef Tea House (Duobao Road Branch)",
+      "required_tag": "Must-Eat Top 10",
+      "price_per_person": 65.0,
+      "restaurant_rating": 4.6
+    },
+    "attraction_type_highest_rated": {
+      "constraint_context": "The itinerary must include the highest-rated attraction in the 'Natural Scenery' category.",
+      "constraint_type": "superlative_type_highest_rated",
+      "attraction_names": [
+        "Lychee Bay"
+      ],
+      "attraction_type_cn": "自然风光",
+      "attraction_type": "Natural Scenery",
+      "attraction_ratings": [
+        4.7
+      ]
+    }
+  }
+}

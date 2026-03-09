@@ -1,0 +1,85 @@
+{
+  "required_orders": [
+    {
+      "order_id": "40711003T01",
+      "order_type": "delivery",
+      "user_id": "U000027",
+      "store_id": "S18646822163055673_S83922",
+      "note": "",
+      "location": {
+        "address": "Wusi Huating, 8-1 Yongsheng Lane, Shahekou District, Dalian, Liaoning Province (280m walk from Exit A of Xinggong Street Metro Station)",
+        "longitude": 121.590754,
+        "latitude": 38.914051
+      },
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 113,
+      "create_time": "2025-05-27 12:36:00",
+      "update_time": "2025-05-27 12:36:00",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S12678590731222448_P39976",
+          "price": 59,
+          "quantity": 1,
+          "attributes": ""
+        },
+        {
+          "product_id": "S28133304347865044_P04578",
+          "price": 22,
+          "quantity": 1,
+          "attributes": ""
+        },
+        {
+          "product_id": "S63696291966516933_P45731",
+          "price": 28,
+          "quantity": 1,
+          "attributes": ""
+        },
+        {
+          "product_id": "S96623811432181556_P52935",
+          "price": 2,
+          "quantity": 2,
+          "attributes": ""
+        }
+      ]
+    },
+    {
+      "order_id": "40711003T02",
+      "order_type": "delivery",
+      "user_id": "U000027",
+      "store_id": "S14394301616023486_S55695",
+      "note": "",
+      "location": {
+        "address": "Wusi Huating, 8-1 Yongsheng Lane, Shahekou District, Dalian, Liaoning Province (280m walk from Exit A of Xinggong Street Metro Station)",
+        "longitude": 121.590754,
+        "latitude": 38.914051
+      },
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 98,
+      "create_time": "2025-05-27 12:38:00",
+      "update_time": "2025-05-27 12:38:00",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S15469799519439947_P55117",
+          "price": 98,
+          "quantity": 1,
+          "attributes": ""
+        }
+      ]
+    }
+  ],
+  "rubrics": [
+    "Home-style cuisine orders should have a balance of meat and vegetable dishes",
+    "Restaurants for home-style cuisine orders should have ratings of 4.0 or above",
+    "Home-style cuisine orders should be delivered before 8:00 PM on May 27, 2025, but not too early to avoid the food getting cold",
+    "Home-style cuisine orders should be delivered to Wusi Huating, 8-1 Yongsheng Lane, Shahekou District, Dalian, Liaoning Province (280m walk from Exit A of Xinggong Street Metro Station)",
+    "The Lotus Root Pastry order should contain handmade products",
+    "The Lotus Root Pastry order should be in gift box packaging",
+    "The Lotus Root Pastry order should be delivered to Wusi Huating, 8-1 Yongsheng Lane, Shahekou District, Dalian, Liaoning Province (280m walk from Exit A of Xinggong Street Metro Station)"
+  ]
+}

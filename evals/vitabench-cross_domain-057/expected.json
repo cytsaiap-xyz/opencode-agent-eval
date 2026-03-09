@@ -1,0 +1,102 @@
+{
+  "required_orders": [
+    {
+      "order_id": "OT960844b251",
+      "order_type": "delivery",
+      "user_id": "U744020",
+      "store_id": "S17550802118473175_S00001",
+      "note": "",
+      "location": {
+        "address": "North Building, Sichuan Investment Tower, 112 Tiantai Road, Wuhou District, Chengdu, Sichuan Province",
+        "longitude": 104.06325,
+        "latitude": 30.58742
+      },
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 129.9,
+      "create_time": "2025-01-18 19:23:16",
+      "update_time": "2025-01-18 19:23:16",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17550802118473175_P00001",
+          "price": 129.9,
+          "quantity": 1,
+          "name": "Premium Thickened Coral Fleece Bathrobe",
+          "store_id": "S17550802118473175_S00001",
+          "store_name": "Nuanxin Home Flagship Store",
+          "attributes": "Color:Pink",
+          "tags": [
+            "Thermal Bathrobe"
+          ]
+        }
+      ]
+    },
+    {
+      "order_id": "10812001T001",
+      "order_type": "attraction",
+      "user_id": "U744020",
+      "store_id": "S17550802118473175_A00011",
+      "note": "",
+      "location": {
+        "address": "Tianci Hot Spring Resort, Beibei District, Chongqing",
+        "longitude": 106.43762,
+        "latitude": 29.82531
+      },
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 258,
+      "create_time": "2025-01-18 19:24:56",
+      "update_time": "2025-01-18 19:24:56",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17550802118473175_P00061",
+          "price": 258,
+          "quantity": 1,
+          "date": "2025-01-19",
+          "ticket_type": "Hot Spring Adult Ticket"
+        }
+      ]
+    },
+    {
+      "order_id": "OO973cd7b20b",
+      "order_type": "hotel",
+      "user_id": "U744020",
+      "store_id": "S17550802118473175_H00006",
+      "note": "",
+      "location": null,
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 498,
+      "create_time": "2025-01-18 19:27:31",
+      "update_time": "2025-01-18 19:27:31",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17550802118473175_P00026",
+          "price": 498,
+          "quantity": 1,
+          "date": "2025-01-19",
+          "room_type": "Deluxe King Room"
+        }
+      ]
+    }
+  ],
+  "rubrics": [
+    "Items in the delivery order should be pink",
+    "Items in the delivery order should be thermal",
+    "The delivery time of the order should be between 09:30:00-10:30:00 on January 19, 2025",
+    "The delivery address should be North Building, Sichuan Investment Tower, 112 Tiantai Road, Wuhou District, Chengdu, Sichuan Province",
+    "According to the query, the temperature in Chongqing on January 19, 2025 will be 2°C-8°C, so the package purchased at the scenic spot is for hot spring only",
+    "The date for the scenic spot reservation is January 19, 2025",
+    "The merchant in the scenic spot order should be Tianci Hot Spring Resort",
+    "The distance between the booked hotel and Tianci Hot Spring Resort Hotel inside Tianci Hot Spring Resort, Beibei District, Chongqing should be less than or equal to 500m",
+    "The rating of the booked hotel should be greater than or equal to 4.5",
+    "The room type in the hotel order should be a king room",
+    "The date of the hotel reservation should be January 19, 2025"
+  ]
+}

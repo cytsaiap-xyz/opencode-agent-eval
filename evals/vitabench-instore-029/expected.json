@@ -1,0 +1,85 @@
+{
+  "required_orders": [
+    {
+      "order_id": "10826033T001",
+      "order_type": "instore",
+      "user_id": "U024076",
+      "store_id": "S17564424751335089_I00001",
+      "note": "",
+      "location": null,
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 138,
+      "create_time": "2024-12-19 18:46:00",
+      "update_time": "2024-12-19 18:46:00",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17564424751335089_P00004",
+          "name": "Uterus Warming Moxibustion Treatment",
+          "price": 138,
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "reservation_id": "10826033T002",
+      "shop_id": "S17564424751335089_I00001",
+      "reservation_time": "2024-12-19 20:00:00",
+      "update_time": "2024-12-19 18:47:00",
+      "customer_id": "U024076",
+      "customer_count": 1,
+      "status": "unconsumed"
+    },
+    {
+      "order_id": "10826033T003",
+      "order_type": "instore",
+      "user_id": "U024076",
+      "store_id": "S17564424751335089_I00004",
+      "note": "",
+      "location": null,
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 268,
+      "create_time": "2024-12-19 18:48:00",
+      "update_time": "2024-12-19 18:48:00",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17564424751335089_P00015",
+          "name": "Thai Enjoy Classic Set for Two (Tom Yum Soup + Curry Crab + Mango Sticky Rice + 2 Thai Milk Teas)",
+          "price": 268,
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "book_id": "10826033T004",
+      "shop_id": "S17564424751335089_I00004",
+      "book_time": "2024-12-2 18:00:00",
+      "update_time": "2024-12-19 18:49:00",
+      "customer_id": "U024076",
+      "customer_count": 2,
+      "book_price": 0,
+      "status": "paid"
+    }
+  ],
+  "rubrics": [
+    "The moxibustion order merchant must be a Traditional Chinese Medicine Health Center",
+    "The moxibustion order merchant rating must be 4.0 stars or above",
+    "The moxibustion order package price must be less than or equal to 150 yuan",
+    "The moxibustion order merchant environment must be nice",
+    "The moxibustion order package must be suitable for menstrual regulation therapy",
+    "The moxibustion appointment needs to be scheduled for 8:00 PM (2024-12-19 20:00)",
+    "The appointed moxibustion order merchant should be Kang Ning TCM Health Center",
+    "The Thai restaurant must be within 3000m of the company (Room 1506, Building B, Building Economy Industrial Park, No. 27 Business Inner Ring Road, Zhengdong New District, Zhengzhou)",
+    "The Thai cuisine order package should have an average cost per person between 100-150 yuan, meaning a total price between 200 and 300 yuan (inclusive)",
+    "The Thai cuisine order package should include signature dishes and drinks",
+    "The Thai cuisine order package should be enough for two people",
+    "The Thai cuisine table reservation needs to be scheduled for Sunday at 6:00 PM (2024-12-22 18:00)",
+    "The Thai cuisine table reservation needs to be for 2 people",
+    "The reserved Thai restaurant should be Thai Enjoy Thai Restaurant"
+  ]
+}

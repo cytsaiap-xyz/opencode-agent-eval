@@ -1,0 +1,50 @@
+{
+  "task_id": "34",
+  "query": "I plan to travel from Nanning to Chongqing for a three-day trip on November 12, 2025, and return on November 14. Could you help me plan a detailed itinerary? For transportation, I'd like to take a flight for the outbound journey—please help me choose a direct flight with the shortest flying time, and try to avoid anything too inconvenient.\n\nFor accommodation, please find a three-star hotel with a swimming pool. There are four of us traveling, so we’ll need to book two rooms.\n\nBy the way, for dining, I’d like to try authentic Sichuan cuisine. Please arrange one meal at a well-reviewed restaurant near 'Hongyan Revolutionary Memorial Hall'. Also, I’m especially fond of natural scenery—please check which attraction in Chongqing has the highest rating among the 'natural风光' category and make sure to include it in the itinerary.\n\nThat’s basically all—I’ve clarified the overall requirements. Just go ahead and plan it for me; no need to ask for further details. November 12, 2025 is Wednesday",
+  "meta_info": {
+    "org": "Nanning",
+    "dest": [
+      "Chongqing"
+    ],
+    "days": 3,
+    "depart_date": "2025-11-12",
+    "return_date": "2025-11-14",
+    "people_number": 4,
+    "room_number": 2
+  },
+  "hard_constraints": {
+    "flight_shortest_duration_direct": {
+      "constraint_context": "Prefer to take a flight for the outbound journey, and need to select the shortest-duration direct flight available",
+      "constraint_type": "superlative_shortest_duration",
+      "outbound_flight_no": "CA3527"
+    },
+    "hotel_star_service_required": {
+      "constraint_context": "Please select a 3-star hotel that offers a swimming pool for accommodation.",
+      "constraint_type": "superlative_star_service_required",
+      "hotel_name": "Vienna Hotel (5.0 Chongqing Sunac Resort Branch)",
+      "required_service": "Swimming Pool",
+      "hotel_star": 3,
+      "hotel_price": 251.0
+    },
+    "restaurant_specific_cuisine_nearby": {
+      "constraint_context": "Please arrange a meal at a restaurant near 'Hongyan Revolutionary Memorial Hall' during the trip, serving Sichuan cuisine (Szechuan).",
+      "constraint_type": "superlative_specific_cuisine_nearby",
+      "attraction_name": "Hongyan Revolutionary Memorial Hall",
+      "restaurant_name": "Exquisite Sichuan Cuisine · Half-Mountain Garden Restaurant",
+      "price_per_person": 100.0,
+      "restaurant_rating": 4.5
+    },
+    "attraction_type_highest_rated": {
+      "constraint_context": "The itinerary must include the highest-rated attraction in the 'Natural Scenery' category.",
+      "constraint_type": "superlative_type_highest_rated",
+      "attraction_names": [
+        "Nanbin Road"
+      ],
+      "attraction_type_cn": "自然风光",
+      "attraction_type": "Natural Scenery",
+      "attraction_ratings": [
+        4.5
+      ]
+    }
+  }
+}

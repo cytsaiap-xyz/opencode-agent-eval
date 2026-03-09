@@ -1,0 +1,98 @@
+{
+  "required_orders": [
+    {
+      "order_id": "J0716001T02",
+      "order_type": "delivery",
+      "user_id": "U000099",
+      "store_id": "S25404730601650268_S58462",
+      "note": "Add more cilantro",
+      "location": {
+        "address": "Shandong Drama Theater, 115 Liberation Road, Lixia District, Jinan, Shandong Province",
+        "longitude": 117.044643,
+        "latitude": 36.66697
+      },
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 68.88,
+      "create_time": "2024-05-18 12:00:00",
+      "update_time": "2024-05-18 12:00:00",
+      "status": "processed",
+      "products": [
+        {
+          "product_id": "S52372295090028906_P76280",
+          "price": 68.88,
+          "quantity": 1,
+          "attributes": ""
+        }
+      ]
+    },
+    {
+      "order_id": "J0716001T03",
+      "order_type": "delivery",
+      "user_id": "U000099",
+      "store_id": "S23393414851448293_S19853",
+      "note": "",
+      "location": {
+        "address": "Shandong Drama Theater, 115 Liberation Road, Lixia District, Jinan, Shandong Province",
+        "longitude": 117.044643,
+        "latitude": 36.66697
+      },
+      "dispatch_time": "2024-05-18 12:12:00",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 29.8,
+      "create_time": "2024-05-18 12:03:00",
+      "update_time": "2024-05-18 12:03:00",
+      "status": "in-progress",
+      "products": [
+        {
+          "product_id": "S19088751354434699_P64667",
+          "price": 29.8,
+          "quantity": 1,
+          "attributes": ""
+        }
+      ]
+    },
+    {
+      "order_id": "J0716001T01",
+      "order_type": "delivery",
+      "user_id": "U000099",
+      "store_id": "S18487338541407843_S28262",
+      "note": "",
+      "location": {
+        "address": "Shandong Drama Theater, 115 Liberation Road, Lixia District, Jinan, Shandong Province",
+        "longitude": 117.044643,
+        "latitude": 36.66697
+      },
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 21.8,
+      "create_time": "2024-05-18 12:15:00",
+      "update_time": "2024-05-18 12:15:00",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S12791597665478343_P17264",
+          "price": 21.8,
+          "quantity": 1,
+          "attributes": ""
+        }
+      ]
+    }
+  ],
+  "rubrics": [
+    "The delivery address for the Yellow River carp order for the photographer should be Shandong Drama Theater, 115 Liberation Road, Lixia District, Jinan, Shandong Province",
+    "The expected delivery time for the Yellow River carp order for the photographer should be before 2024-05-18 14:00:00",
+    "The carp dish chosen for the photographer should have a sweet and sour flavor, such as sweet and sour carp or other sweet and sour preparations",
+    "The carp dish ordered for the photographer should include a special note requesting extra cilantro",
+    "The delivery address for the tiramisu cake order for the partner should be Shandong Drama Theater, 115 Liberation Road, Lixia District, Jinan, Shandong Province",
+    "The expected delivery time for the tiramisu cake order for the partner should be before 2024-05-18 14:00:00",
+    "The tiramisu cake chosen for the partner should be the classic chocolate flavor, avoiding other innovative flavors",
+    "The delivery address for the vegetable salad order for the user themselves should be Shandong Drama Theater, 115 Liberation Road, Lixia District, Jinan, Shandong Province",
+    "The expected delivery time for the vegetable salad order for the user themselves should be before 2024-05-18 14:00:00",
+    "The vegetable salad chosen by the user should be vegetarian, without meat or other animal proteins",
+    "The vegetable salad chosen by the user should include Cherry Tomato as a main side ingredient"
+  ]
+}

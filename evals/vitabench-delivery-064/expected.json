@@ -1,0 +1,38 @@
+{
+  "required_orders": [
+    {
+      "order_id": "D0721002T01",
+      "order_type": "delivery",
+      "user_id": "U000072",
+      "store_id": "S35929114096228378_S65169",
+      "note": "",
+      "location": {
+        "address": "Evergrande Oasis, No. 15 Alishan Street, Shijiazhuang Economic and Technological Development Zone, Gaocheng District, Shijiazhuang, Hebei Province",
+        "longitude": 114.672494,
+        "latitude": 38.021183
+      },
+      "dispatch_time": "2026-04-11 14:46:00",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 26.0,
+      "create_time": "2026-04-11 14:32:00",
+      "update_time": "2026-04-11 14:32:00",
+      "status": "in-progress",
+      "products": [
+        {
+          "product_id": "S30277200266115114_P79333",
+          "price": 26.0,
+          "quantity": 1,
+          "attributes": ""
+        }
+      ]
+    }
+  ],
+  "rubrics": [
+    "The delivery address for the stir-fried yogurt order should be Evergrande Oasis, No. 15 Alishan Street, Shijiazhuang Economic and Technological Development Zone, Gaocheng District, Shijiazhuang, Hebei Province",
+    "The estimated delivery time for the stir-fried yogurt order should be within the time range of 14:27-16:00 on April 11, 2026",
+    "The stir-fried yogurt order should select Xishi Candied Haws & Stir-fried Yogurt (Shijiazhuang Gaoxin InJoy Mall Branch) as the merchant",
+    "The stir-fried yogurt order should select a product with strawberry flavor",
+    "The stir-fried yogurt order should select a product with rich and mellow flavor, such as Rich Strawberry Stir-fried Yogurt"
+  ]
+}

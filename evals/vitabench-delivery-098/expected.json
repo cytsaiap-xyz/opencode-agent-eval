@@ -1,0 +1,67 @@
+{
+  "required_orders": [
+    {
+      "order_id": "J0721001T01",
+      "order_type": "delivery",
+      "user_id": "U000089",
+      "store_id": "S14300562617778145_S54361",
+      "note": "",
+      "location": {
+        "address": "Tianyuan Business Building, 3 Yuejin Road, Chang'an District, Shijiazhuang, Hebei Province",
+        "longitude": 114.535201,
+        "latitude": 38.049537
+      },
+      "dispatch_time": "2024-03-31 08:46:00",
+      "shipping_time": 34,
+      "delivery_time": "2024-03-31 09:20:00",
+      "total_price": 29.8,
+      "create_time": "2024-03-31 08:40:00",
+      "update_time": "2024-03-31 08:40:00",
+      "status": "delivered",
+      "products": [
+        {
+          "product_id": "S23532868960336657_P82546",
+          "price": 29.8,
+          "quantity": 1,
+          "attributes": ""
+        }
+      ]
+    },
+    {
+      "order_id": "J0721001T02",
+      "order_type": "delivery",
+      "user_id": "U000089",
+      "store_id": "S59786818786582947_S57980",
+      "note": "",
+      "location": {
+        "address": "Tianyuan Business Building, 3 Yuejin Road, Chang'an District, Shijiazhuang, Hebei Province",
+        "longitude": 114.535201,
+        "latitude": 38.049537
+      },
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 24.9,
+      "create_time": "2024-03-31 08:50:00",
+      "update_time": "2024-03-31 08:50:00",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S40851029391762274_P15308",
+          "price": 24.9,
+          "quantity": 1,
+          "attributes": "Hot"
+        }
+      ]
+    }
+  ],
+  "rubrics": [
+    "The rating of the ramen restaurant should be 4.3 or above",
+    "The ramen product ordered should not contain shrimp ingredients",
+    "The delivery address for the ramen order should be Tianyuan Business Building, 3 Yuejin Road, Chang'an District, Shijiazhuang, Hebei Province",
+    "The estimated delivery time for the ramen order should be around 2024-03-31 12:00:00",
+    "The temperature attribute for the milk tea product should be set as hot",
+    "The delivery address for the milk tea order should be Tianyuan Business Building, 3 Yuejin Road, Chang'an District, Shijiazhuang, Hebei Province",
+    "The estimated delivery time for the milk tea order should be around 2024-03-31 12:00:00"
+  ]
+}

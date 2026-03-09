@@ -1,0 +1,110 @@
+{
+  "required_orders": [
+    {
+      "order_id": "40711007O01",
+      "order_type": "delivery",
+      "user_id": "U000081",
+      "store_id": "S82494482631579347_S23157",
+      "note": "",
+      "location": {
+        "address": "Taojie Law Office, Room 101, 396 Xiangyang Street, Jianshe South Road Subdistrict, Jingxiu District, Baoding, Hebei Province",
+        "longitude": 115.472165,
+        "latitude": 38.871248
+      },
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 16.5,
+      "create_time": "2025-03-17 09:12:00",
+      "update_time": "2025-03-17 09:14:00",
+      "status": "cancelled",
+      "products": [
+        {
+          "product_id": "S30009099950619045_P99935",
+          "price": 2.0,
+          "quantity": 1,
+          "attributes": ""
+        },
+        {
+          "product_id": "S11655027708875740_P71827",
+          "price": 4.5,
+          "quantity": 1,
+          "attributes": ""
+        },
+        {
+          "product_id": "S34002854115936253_P30287",
+          "price": 10.0,
+          "quantity": 1,
+          "attributes": ""
+        }
+      ]
+    },
+    {
+      "order_id": "40711007T03",
+      "order_type": "delivery",
+      "user_id": "U000081",
+      "store_id": "S69031706351719271_S47372",
+      "note": "Place at the law firm reception upon delivery",
+      "location": {
+        "address": "Taojie Law Office, Room 101, 396 Xiangyang Street, Jianshe South Road Subdistrict, Jingxiu District, Baoding, Hebei Province",
+        "longitude": 115.472165,
+        "latitude": 38.871248
+      },
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 20.0,
+      "create_time": "2025-03-17 09:15:00",
+      "update_time": "2025-03-17 09:15:00",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S27469872835583751_P78504",
+          "price": 20.0,
+          "quantity": 1,
+          "attributes": ""
+        }
+      ]
+    },
+    {
+      "order_id": "40711007T01",
+      "order_type": "delivery",
+      "user_id": "U000081",
+      "store_id": "S12527455866039387_S87262",
+      "note": "Please leave it at the front desk of the law firm upon delivery",
+      "location": {
+        "address": "Taojie Law Office, Room 101, 396 Xiangyang Street, Jianshe South Road Subdistrict, Jingxiu District, Baoding, Hebei Province",
+        "longitude": 115.472165,
+        "latitude": 38.871248
+      },
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 29.9,
+      "create_time": "2025-03-17 09:17:00",
+      "update_time": "2025-03-17 09:17:00",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S12944248077265433_P42501",
+          "price": 29.9,
+          "quantity": 1,
+          "attributes": ""
+        }
+      ]
+    }
+  ],
+  "rubrics": [
+    "Successfully cancelled user's breakfast order at Chundejin Baozi (Garden Store), the order with order_id 40711007O01 should have a status of cancelled",
+    "The delivery address for the Sticky Bean Bun order should be Taojie Law Office, Room 101, 396 Xiangyang Street, Jianshe South Road Subdistrict, Jingxiu District, Baoding, Hebei Province",
+    "The estimated delivery time for the Sticky Bean Bun order should be between 2025-03-17 12:00:00 and 2025-03-17 14:00:00",
+    "When choosing Sticky Bean Bun products, Low Sugar type should be selected",
+    "When choosing Sticky Bean Bun products, they should not contain dairy ingredients",
+    "The Sticky Bean Bun order should include the note: Please place it at the front desk of the law firm upon delivery",
+    "The delivery address for the lunch set meal order should be Taojie Law Office, Room 101, 396 Xiangyang Street, Jianshe South Road Subdistrict, Jingxiu District, Baoding, Hebei Province",
+    "The estimated delivery time for the lunch set meal order should be between 2025-03-17 12:00:00 and 2025-03-17 14:00:00",
+    "When choosing a lunch meal set , the best-selling single person meal set in the store should be selected",
+    "When choosing a lunch meal set, a light flavor should be selected that meets the requirements of low salt, low oil, and non-spicy diet",
+    "The lunch set meal order should include the note: Please place it at the front desk of the law firm upon delivery"
+  ]
+}

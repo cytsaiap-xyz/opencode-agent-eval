@@ -1,0 +1,123 @@
+{
+  "required_orders": [
+    {
+      "order_id": "10808003T01",
+      "order_type": "instore",
+      "user_id": "U824134",
+      "store_id": "S17550802108642397_I00011",
+      "note": "",
+      "location": null,
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 1838,
+      "create_time": "2025-07-30 14:35:00",
+      "update_time": "2025-07-30 14:35:00",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17550802108642397_P00076",
+          "price": 1838,
+          "quantity": 1,
+          "name": "Premium Room Karaoke Package (8 Hours)",
+          "shop_id": "S17550802108642397_I00011",
+          "tags": [
+            "Extra-large Private Room",
+            "Entry Anytime",
+            "Including 24 Drinks",
+            "Complimentary Champagne"
+          ]
+        }
+      ]
+    },
+    {
+      "order_id": "OT64e3047b69",
+      "order_type": "delivery",
+      "user_id": "U824134",
+      "store_id": "S17550802108642397_S00002",
+      "note": "",
+      "location": {
+        "address": "Golden Age KTV, 89 Jiefang Road, Quanshan District, Xuzhou",
+        "longitude": 117.1923,
+        "latitude": 34.2432
+      },
+      "dispatch_time": "2025-03-09 20:00:00",
+      "shipping_time": 25,
+      "delivery_time": "2025-03-09 20:25:00",
+      "total_price": 598,
+      "create_time": "2025-07-30 14:35:00",
+      "update_time": "2025-07-30 14:35:00",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17550802108642397_P00006",
+          "price": 598,
+          "quantity": 1,
+          "name": "Low Sugar Light Dessert Package A (Serving for 10 People)",
+          "store_id": "S17550802108642397_S00002",
+          "store_name": "Sweet House",
+          "attributes": "Low Sugar Cream",
+          "tags": [
+            "Low Sugar",
+            "Dessert Table",
+            "Six Types of Desserts",
+            "On-site Delivery"
+          ]
+        }
+      ]
+    },
+    {
+      "order_id": "OO29ffa4c68d",
+      "order_type": "flight",
+      "user_id": "U824134",
+      "store_id": "S17550802108642397_F00007",
+      "note": "",
+      "location": null,
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 560,
+      "create_time": "2025-07-30 14:35:00",
+      "update_time": "2025-07-30 14:35:00",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17550802108642397_P00043",
+          "price": 560,
+          "quantity": 1,
+          "date": "2025-08-03",
+          "seat_type": "Economy Class"
+        }
+      ]
+    },
+    {
+      "reservation_id": "OIb332255813",
+      "shop_id": "S17550802108642397_I00011",
+      "reservation_time": "2025-08-07 20:00:00",
+      "update_time": "2025-07-30 14:38:00",
+      "customer_id": "U824134",
+      "customer_count": 10,
+      "status": "unconsumed"
+    }
+  ],
+  "rubrics": [
+    "The KTV ordered must have private rooms that can accommodate 10 people",
+    "The KTV ordered must be open 24 hours",
+    "The KTV package ordered must include champagne",
+    "The KTV package ordered must be applicable for entry at 8:00 PM",
+    "The dessert ordered must be suitable for 10 people",
+    "The dessert package ordered must include at least 4 types of desserts",
+    "The dessert ordered should match the user's dietary preference: avoiding high sugar",
+    "The delivery address for the dessert order should be Golden Age KTV, 89 Jiefang Road, Quanshan District, Xuzhou",
+    "The delivery time for the dessert order should be between 8-9 PM on August 7, 2025",
+    "The total price for KTV and dessert orders should be less than 3000 yuan",
+    "Must check flight prices from Guangzhou to Xuzhou",
+    "The departure time of the flight ordered should be between July 30 and August 8, 2025",
+    "The flight ordered cannot be a red-eye flight",
+    "The flight ticket price cannot exceed 564 yuan",
+    "The flight number in the flight order should be MU5321",
+    "The date of the flight order should be August 3, 2025",
+    "The KTV reserved is Golden Age KTV",
+    "The KTV reservation time is 8:00 PM on August 7, 2025"
+  ]
+}

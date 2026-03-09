@@ -1,0 +1,73 @@
+{
+  "required_orders": [
+    {
+      "order_id": "10826102T001",
+      "order_type": "instore",
+      "user_id": "U555566",
+      "store_id": "S17567836621485163_I00001",
+      "note": "",
+      "location": null,
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 288,
+      "create_time": "2024-11-05 17:23:00",
+      "update_time": "2024-11-05 17:23:00",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17567836621485163_P00001",
+          "name": "Hifu Deep Cleansing Treatment",
+          "price": 288,
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "reservation_id": "10826102T002",
+      "shop_id": "S17567836621485163_I00001",
+      "reservation_time": "2024-11-06 18:30:00",
+      "update_time": "2024-11-05 17:25:06",
+      "customer_id": "U555566",
+      "customer_count": 1,
+      "status": "paid"
+    },
+    {
+      "order_id": "10826102T003",
+      "order_type": "instore",
+      "user_id": "U555566",
+      "store_id": "S17567836621485163_I00002",
+      "note": "",
+      "location": null,
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 168,
+      "create_time": "2024-11-05 17:27:31",
+      "update_time": "2024-11-05 17:27:31",
+      "status": "unpaid",
+      "products": [
+        {
+          "product_id": "S17567836621485163_P00010",
+          "name": "Classic Russian Family Set",
+          "price": 168,
+          "quantity": 1
+        }
+      ]
+    }
+  ],
+  "rubrics": [
+    "The beauty salon should be within 1km (inclusive) from the 16th Floor, Yuanda Shopping Mall Office Building, 1268 Fifth Avenue, Qunli, Daoli District, Harbin",
+    "The beauty salon's rating should not be less than 4.8",
+    "The purchased beauty salon package should be a deep cleansing package",
+    "After checking if the beauty salon has Hifu (High-Intensity Focused Ultrasound) packages, the result is positive, so the purchased package should be a Hifu package",
+    "The price of the beauty salon order should not exceed 300 yuan",
+    "The beauty salon appointment time should be November 6, 2024 at 18:30:00",
+    "The number of people for the beauty salon appointment should be 1 person",
+    "The appointed beauty salon should be Yashi Beauty Care Center",
+    "The restaurant ordered from should be a Russian restaurant",
+    "The restaurant order should be a Set Menu for 2-3 People",
+    "The restaurant should be within 1km (inclusive) from CR Arch of Triumph, 218 Hongqi Street, Nangang District, Harbin",
+    "The ordered Set Menu for 2-3 People should be the cheapest one in the restaurant"
+  ]
+}

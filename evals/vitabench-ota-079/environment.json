@@ -1,0 +1,263 @@
+{
+  "task_id": "D0808005",
+  "domain": "ota",
+  "time": "2025-03-25 21:32:14",
+  "user_id": "U010056",
+  "weather": [
+    {
+      "city": "Shenzhen",
+      "category": "cloudy",
+      "datetime": "2025-03-24",
+      "temperature": [
+        18,
+        26
+      ],
+      "humidity": 65
+    },
+    {
+      "city": "Qinhuangdao",
+      "category": "sunny",
+      "datetime": "2025-03-24",
+      "temperature": [
+        2,
+        12
+      ],
+      "humidity": 45
+    },
+    {
+      "city": "Beijing",
+      "category": "overcast",
+      "datetime": "2025-03-24",
+      "temperature": [
+        1,
+        8
+      ],
+      "humidity": 52
+    }
+  ],
+  "location": [
+    {
+      "address": "Room 1507, Yihua Fintech Building, 3018 Keyuan South Road, South Science Park, Nanshan District, Shenzhen, Guangdong Province",
+      "longitude": 113.9577,
+      "latitude": 22.5211
+    },
+    {
+      "address": "Shared Office Space, 11th Floor, Nord Financial Center, 1006 Fuzhong Third Road, Futian Street, Futian District, Shenzhen, Guangdong Province",
+      "longitude": 114.0579,
+      "latitude": 22.5387
+    }
+  ],
+  "user_profile": {
+    "user id": "U010056",
+    "occupation": "Freelancer",
+    "gender": "male",
+    "age group": "30~35",
+    "residence": "Shenzhen",
+    "home address": "Room 1507, Yihua Fintech Building, 3018 Keyuan South Road, South Science Park, Nanshan District, Shenzhen, Guangdong Province",
+    "work address": "Shared Office Space, 11th Floor, Nord Financial Center, 1006 Fuzhong Third Road, Futian Street, Futian District, Shenzhen, Guangdong Province",
+    "dietary restrictions": "Avoid high purine foods (such as organ meats/seafood soup), avoid alcohol",
+    "family status": "In a relationship",
+    "personality": "Mild-tempered and cooperative, good at listening and understanding"
+  },
+  "user_historical_behaviors": {
+    "user id": "U010056",
+    "occupation": "Freelancer",
+    "gender": "male",
+    "age group": "30~35",
+    "residence": "Shenzhen",
+    "home address": "Room 1507, Yihua Fintech Building, 3018 Keyuan South Road, South Science Park, Nanshan District, Shenzhen, Guangdong Province",
+    "work address": "Shared Office Space, 11th Floor, Nord Financial Center, 1006 Fuzhong Third Road, Futian Street, Futian District, Shenzhen, Guangdong Province",
+    "visited scenes": {
+      "Exhibitions (Museums/Art Galleries)": "25%",
+      "Natural Landscapes (Mountains/Lakes/Forests)": "35%",
+      "Theme Parks": "15%",
+      "Hot Spring Resorts": "20%",
+      "Feature Villages/Industrial Tourism/Uncategorized": "5%"
+    },
+    "cost per night on hotel": "500~1000 yuan",
+    "visited hotels": {
+      "Atour": "35%",
+      "Ji Hotel": "30%",
+      "Vienna": "20%",
+      "Orange Hotel": "15%"
+    },
+    "browsed hotels": {
+      "Four-star Hotels": "40%",
+      "Comfort Hotels": "45%",
+      "Luxury Hotels": "15%"
+    },
+    "historical travel plans": {
+      "Shenzhen-Hangzhou": {
+        "Price Range": "800-1200 yuan",
+        "Transportation Method": "Airplane"
+      },
+      "Shenzhen-Beijing": {
+        "Price Range": "1200-2000 yuan",
+        "Transportation Method": "Airplane"
+      },
+      "Shenzhen-Xiamen": {
+        "Price Range": "400-600 yuan",
+        "Transportation Method": "High-Speed Rail/EMU (Electric Multiple Unit) Train"
+      },
+      "Shenzhen-Guangzhou": {
+        "Price Range": "100-150 yuan",
+        "Transportation Method": "High-Speed Rail/EMU (Electric Multiple Unit) Train"
+      },
+      "Shenzhen-Huangshan": {
+        "Price Range": "700-1100 yuan",
+        "Transportation Method": "Airplane"
+      },
+      "Shenzhen-Chengdu": {
+        "Price Range": "900-1400 yuan",
+        "Transportation Method": "Airplane"
+      },
+      "Shenzhen-Zhuhai": {
+        "Price Range": "200-300 yuan",
+        "Transportation Method": "Self-driving"
+      }
+    }
+  },
+  "stores": {},
+  "orders": {
+    "S17557513695122299_O00001": {
+      "order_id": "S17557513695122299_O00001",
+      "order_type": "attraction",
+      "user_id": "U010056",
+      "store_id": "S17557513695122299_A00005",
+      "note": "Combo ticket for Shanhaiguan Scenic Area including Meng Jiangnu Temple",
+      "location": {
+        "address": "Shanhaiguan Scenic Area, 1 East Street, Shanhaiguan District, Qinhuangdao, Hebei Province",
+        "longitude": 119.7756,
+        "latitude": 39.9979
+      },
+      "dispatch_time": "",
+      "shipping_time": 0.0,
+      "delivery_time": "",
+      "total_price": 90.0,
+      "create_time": "2025-03-23 14:25:00",
+      "update_time": "2025-03-23 16:42:00",
+      "status": "cancelled",
+      "products": [
+        {
+          "product_id": "S17557513695122299_P00021",
+          "price": 90.0,
+          "quantity": 1,
+          "ticket_type": "Double Ticket",
+          "date": "2025-04-02"
+        }
+      ]
+    },
+    "S17557513695122299_O00002": {
+      "order_id": "S17557513695122299_O00002",
+      "order_type": "hotel",
+      "user_id": "U010056",
+      "store_id": "S17557513695122299_H00002",
+      "note": "Booking for high school classmate's family, Childcare Service needed",
+      "location": {
+        "address": "InterContinental Shenzhen OCT, 8 East Baishi Road, Nanshan District, Shenzhen, Guangdong Province",
+        "longitude": 113.9752,
+        "latitude": 22.5364
+      },
+      "dispatch_time": "",
+      "shipping_time": 0.0,
+      "delivery_time": "",
+      "total_price": 1288.0,
+      "create_time": "2025-03-21 19:30:00",
+      "update_time": "2025-03-21 19:30:00",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17557513695122299_P00006",
+          "price": 1288.0,
+          "quantity": 1,
+          "date": "2025-03-27",
+          "room_type": "Deluxe Ocean View King Room"
+        }
+      ]
+    },
+    "S17557513695122299_O00003": {
+      "order_id": "S17557513695122299_O00003",
+      "order_type": "attraction",
+      "user_id": "U010056",
+      "store_id": "S17557513695122299_A00006",
+      "note": "Visit to Hangzhou West Lake Museum",
+      "location": {
+        "address": "China National Silk Museum, 89 Nanshan Road, West Lake District, Hangzhou, Zhejiang Province",
+        "longitude": 120.1305,
+        "latitude": 30.2084
+      },
+      "dispatch_time": "",
+      "shipping_time": 0.0,
+      "delivery_time": "",
+      "total_price": 45.0,
+      "create_time": "2025-02-12 10:15:00",
+      "update_time": "2025-02-12 10:15:00",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17557513695122299_P00033",
+          "price": 45.0,
+          "quantity": 1,
+          "ticket_type": "Double Ticket",
+          "date": "2025-02-15"
+        }
+      ]
+    },
+    "S17557513695122299_O00004": {
+      "order_id": "S17557513695122299_O00004",
+      "order_type": "hotel",
+      "user_id": "U010056",
+      "store_id": "S17557513695122299_H00003",
+      "note": "Accommodation for business trip to Hangzhou",
+      "location": {
+        "address": "Atour Hotel Hangzhou West Lake Branch, 259 Wensan Road, West Lake District, Hangzhou, Zhejiang Province",
+        "longitude": 120.1305,
+        "latitude": 30.2694
+      },
+      "dispatch_time": "",
+      "shipping_time": 0.0,
+      "delivery_time": "",
+      "total_price": 916.0,
+      "create_time": "2025-02-10 16:20:00",
+      "update_time": "2025-02-10 16:20:00",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17557513695122299_P00011",
+          "price": 458.0,
+          "quantity": 2,
+          "date": "2025-02-14",
+          "room_type": "Business King Room"
+        }
+      ]
+    },
+    "S17557513695122299_O00005": {
+      "order_id": "S17557513695122299_O00005",
+      "order_type": "flight",
+      "user_id": "U010056",
+      "store_id": "S17557513695122299_F00009",
+      "note": "Shenzhen to Hangzhou business trip",
+      "location": {
+        "address": "Shenzhen Bao'an International Airport, Bao'an District, Shenzhen, Guangdong Province",
+        "longitude": 113.8111,
+        "latitude": 22.639
+      },
+      "dispatch_time": "",
+      "shipping_time": 0.0,
+      "delivery_time": "",
+      "total_price": 2360.0,
+      "create_time": "2025-01-25 11:45:00",
+      "update_time": "2025-01-25 11:45:00",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17557513695122299_P00057",
+          "price": 1180.0,
+          "quantity": 2,
+          "seat_type": "Economy Class",
+          "date": "2025-02-12"
+        }
+      ]
+    }
+  }
+}

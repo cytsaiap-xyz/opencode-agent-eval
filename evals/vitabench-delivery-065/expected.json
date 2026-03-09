@@ -1,0 +1,92 @@
+{
+  "required_orders": [
+    {
+      "order_id": "D0721003T01",
+      "order_type": "delivery",
+      "user_id": "U000085",
+      "store_id": "S32507084916632845_S19824",
+      "note": "",
+      "location": {
+        "address": "Jingcheng Xiufu, No. 288 Zhangba East Road, Yanta District, Xi'an City, Shaanxi Province",
+        "longitude": 108.898075,
+        "latitude": 34.196761
+      },
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 38.0,
+      "create_time": "2025-10-03 16:00:00",
+      "update_time": "2025-10-03 16:07:00",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S14825796504948355_P99189",
+          "price": 19.0,
+          "quantity": 2,
+          "attributes": ""
+        }
+      ]
+    },
+    {
+      "order_id": "D0721103T01",
+      "order_type": "delivery",
+      "user_id": "U000085",
+      "store_id": "S32507084916632845_S19824",
+      "note": "",
+      "location": {
+        "address": "Jingcheng Xiufu, No. 288 Zhangba East Road, Yanta District, Xi'an City, Shaanxi Province",
+        "longitude": 108.898075,
+        "latitude": 34.196761
+      },
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 19.0,
+      "create_time": "2025-10-03 16:07:00",
+      "update_time": "2025-10-03 16:07:00",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S14825796504948355_P99189",
+          "price": 19.0,
+          "quantity": 1,
+          "attributes": ""
+        }
+      ]
+    },
+    {
+      "order_id": "D0721003T02",
+      "order_type": "delivery",
+      "user_id": "U000085",
+      "store_id": "S52087136705399630_S27337",
+      "note": "",
+      "location": {
+        "address": "Jingcheng Xiufu, No. 288 Zhangba East Road, Yanta District, Xi'an City, Shaanxi Province",
+        "longitude": 108.898075,
+        "latitude": 34.196761
+      },
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 198.0,
+      "create_time": "2025-10-03 16:08:00",
+      "update_time": "2025-10-03 16:08:00",
+      "status": "unpaid",
+      "products": [
+        {
+          "product_id": "S14316846796057144_P36623",
+          "price": 99.0,
+          "quantity": 2,
+          "attributes": "Cumin Flavor"
+        }
+      ]
+    }
+  ],
+  "rubrics": [
+    "Order one more serving of tofu pudding from order D0721003T01",
+    "The delivery address for the beef jerky order should be Jingcheng Xiufu, No. 288 Zhangba East Road, Yanta District, Xi'an City, Shaanxi Province",
+    "The beef jerky order should select Taizu Military Rations: Freshly Baked Beef Jerky (Xi'an Branch) as the merchant",
+    "The beef jerky order should select lean type products, avoiding marbled mixed types",
+    "The total weight of beef jerky products in the order should be one jin (500g)"
+  ]
+}

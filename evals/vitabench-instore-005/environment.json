@@ -1,0 +1,219 @@
+{
+  "task_id": "10826015",
+  "domain": "instore",
+  "time": "2025-05-02 17:23:41",
+  "user_id": "U447523",
+  "weather": [
+    {
+      "city": "Hefei",
+      "category": "sunny",
+      "datetime": "2025-05-02",
+      "temperature": [
+        18,
+        28
+      ],
+      "humidity": 45
+    },
+    {
+      "city": "Hefei",
+      "category": "cloudy",
+      "datetime": "2025-05-03",
+      "temperature": [
+        19,
+        27
+      ],
+      "humidity": 50
+    }
+  ],
+  "location": [
+    {
+      "address": "Room 502, Building 3, Evergrande Oasis, No.8 East Changjiang Road, Yaohai District, Hefei",
+      "longitude": 117.3121,
+      "latitude": 31.8842
+    },
+    {
+      "address": "Hefei BOE Optoelectronics Technology Co., Ltd., No.266 Fanhua Avenue, Economic and Technological Development Zone, Hefei",
+      "longitude": 117.2134,
+      "latitude": 31.7865
+    }
+  ],
+  "user_profile": {
+    "user id": "U447523",
+    "occupation": "Blue-collar worker",
+    "gender": "male",
+    "age group": "30~35",
+    "residence": "Hefei",
+    "home address": "Room 502, Building 3, Evergrande Oasis, No.8 East Changjiang Road, Yaohai District, Hefei",
+    "work address": "Hefei BOE Optoelectronics Technology Co., Ltd., No.266 Fanhua Avenue, Economic and Technological Development Zone, Hefei",
+    "dietary restrictions": "No alcohol",
+    "family status": "Has children",
+    "personality": "Overly dependent on others' guidance, lacks independence and decisiveness"
+  },
+  "user_historical_behaviors": {
+    "user id": "U447523",
+    "occupation": "Blue-collar worker",
+    "gender": "male",
+    "age group": "30~35",
+    "residence": "Hefei",
+    "home address": "Room 502, Building 3, Evergrande Oasis, No.8 East Changjiang Road, Yaohai District, Hefei",
+    "work address": "Hefei BOE Optoelectronics Technology Co., Ltd., No.266 Fanhua Avenue, Economic and Technological Development Zone, Hefei",
+    "in-store dining": {
+      "fine-dining": {
+        "frequently purchased categories": [
+          "Regional cuisine/Sichuan cuisine (Average 95 yuan)",
+          "Regional cuisine/Northeastern cuisine (Average 85 yuan)",
+          "Hot pot (Average 120 yuan)"
+        ],
+        "preferred average price per person": "80~120 yuan",
+        "preferred store rating": "4.0~4.5 stars",
+        "typical dining time": "18:30-20:30",
+        "preferred distance": "1000~3000m",
+        "recent orders": [
+          {
+            "store": "Bashu General Hot Pot (Yaohai Branch)",
+            "product": "Dual flavor hotpot base + Tripe + Beef aorta + Fatty beef"
+          },
+          {
+            "store": "Old Northeastern Restaurant (East Changjiang Road Branch)",
+            "product": "Sweet and sour pork + Three earthly treasures + Chicken stew with mushrooms"
+          },
+          {
+            "store": "Chuanxi Bazi (Evergrande Oasis Branch)",
+            "product": "Boiled fish in hot sauce + Twice-cooked pork + Dry-fried green beans"
+          }
+        ],
+        "search history": [
+          "Hot pot",
+          "Homestyle Northeastern cuisine",
+          "Sichuan restaurant"
+        ]
+      },
+      "light meal": {
+        "frequently purchased categories": [
+          "Snacks/Fast food/Chinese simple meals (Average 25 yuan)",
+          "Snacks/Fast food/Western fast food (Average 35 yuan)",
+          "Regional cuisine/Local Jiangsu and Zhejiang cuisine (Average 40 yuan)"
+        ],
+        "preferred average price per person": "20~45 yuan",
+        "preferred store rating": "3.5~4.2 stars",
+        "typical dining time": "11:30-13:00",
+        "preferred distance": "0~500m",
+        "recent orders": [
+          {
+            "store": "BOE Cafeteria",
+            "product": "Braised pork ribs + Rice"
+          },
+          {
+            "store": "Real Kung Fu (BOE Branch)",
+            "product": "Teriyaki chicken leg rice"
+          },
+          {
+            "store": "Sha County Snacks (Development Zone Branch)",
+            "product": "Three delicacies wonton + Dry noodles"
+          }
+        ],
+        "search history": [
+          "Work meals",
+          "Cheap fast food",
+          "Set meals"
+        ]
+      },
+      "desserts/drinks/snacks": {
+        "frequently purchased categories": [
+          "Beverage shops (Average 18 yuan)",
+          "Bread and desserts (Average 22 yuan)"
+        ],
+        "preferred average price per person": "15~25 yuan",
+        "preferred store rating": "3.8~4.5 stars",
+        "typical dining time": "15:00-16:30",
+        "preferred distance": "0~800m",
+        "recent orders": [
+          {
+            "store": "One More Cup (Evergrande Oasis Branch)",
+            "product": "Four Seasons Green Tea (Sugar-free)"
+          },
+          {
+            "store": "Starbucks (BOE Branch)",
+            "product": "Americano (Medium)"
+          },
+          {
+            "store": "Bread Talk (Yaohai Wanda Branch)",
+            "product": "Whole wheat bread"
+          }
+        ],
+        "search history": [
+          "Sugar-free drinks",
+          "Low-fat desserts",
+          "Healthy beverages"
+        ]
+      }
+    },
+    "other in-store services": {
+      "frequently consumed categories": {
+        "Sports and fitness/Fitness centers": "40%",
+        "Sports and fitness/Ball sports": "35%",
+        "Parent-child/Family entertainment": "25%"
+      },
+      "cost per order by category": {
+        "Sports and fitness/Fitness centers": "80~150 yuan",
+        "Sports and fitness/Ball sports": "60~100 yuan",
+        "Parent-child/Family entertainment": "120~200 yuan"
+      },
+      "preferred store rating": "3.9~4.6 stars",
+      "preferred service time": "19:00-21:00",
+      "preferred distance": "500~3000m",
+      "recent orders": [
+        {
+          "store": "Lishi Gym (Yaohai Branch)",
+          "product": "Single fitness session"
+        },
+        {
+          "store": "Hefei Sports Center",
+          "product": "Badminton court for 2 hours"
+        },
+        {
+          "store": "Qile Children's Playground (Wanda Plaza Branch)",
+          "product": "Parent-child ticket (1 adult and 1 child)"
+        }
+      ],
+      "search history": [
+        "Weekend gym",
+        "Parent-child activities",
+        "Badminton court reservation",
+        "Children's entertainment"
+      ]
+    }
+  },
+  "stores": {},
+  "orders": {
+    "10826015T003": {
+      "order_id": "10826015T003",
+      "order_type": "instore",
+      "user_id": "U447523",
+      "store_id": "S17564420259995947_I00004",
+      "note": "",
+      "location": null,
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 118,
+      "create_time": "2025-04-19 19:20:15",
+      "update_time": "2025-04-19 19:20:15",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17564420259995947_P00015",
+          "name": "Dual flavor hotpot base + Tripe + Beef aorta + Fatty beef set for two",
+          "price": 118,
+          "shop_id": "S17564420259995947_I00004",
+          "tags": [
+            "Fresh",
+            "Crispy and tender",
+            "Classic"
+          ],
+          "quantity": 1
+        }
+      ]
+    }
+  }
+}

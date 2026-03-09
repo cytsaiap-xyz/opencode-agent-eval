@@ -1,0 +1,77 @@
+{
+  "required_orders": [
+    {
+      "order_id": "E0717004T01",
+      "order_type": "delivery",
+      "user_id": "U000025",
+      "store_id": "S32814171117127084_S30670",
+      "note": "",
+      "location": {
+        "address": "Wuxi (National) Software Park, 18 Zhenze Road (111 Linghu Avenue), Xinwu District, Wuxi City, Jiangsu Province",
+        "longitude": 120.373013,
+        "latitude": 31.489182
+      },
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 20.0,
+      "create_time": "2025-05-31 10:26:00",
+      "update_time": "2025-05-31 10:26:00",
+      "status": "processed",
+      "products": [
+        {
+          "product_id": "S23240680060346608_P00124",
+          "price": 7.0,
+          "quantity": 1,
+          "attributes": ""
+        },
+        {
+          "product_id": "S33040284436404108_P48156",
+          "price": 7.0,
+          "quantity": 1,
+          "attributes": ""
+        },
+        {
+          "product_id": "S12642530014776475_P58854",
+          "price": 6.0,
+          "quantity": 1,
+          "attributes": ""
+        }
+      ]
+    },
+    {
+      "order_id": "E0717004T02",
+      "order_type": "delivery",
+      "user_id": "U000025",
+      "store_id": "S68885587418599272_S28839",
+      "note": "",
+      "location": {
+        "address": "Wuxi (National) Software Park, 18 Zhenze Road (111 Linghu Avenue), Xinwu District, Wuxi City, Jiangsu Province",
+        "longitude": 120.373013,
+        "latitude": 31.489182
+      },
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 19.98,
+      "create_time": "2025-05-31 10:26:00",
+      "update_time": "2025-05-31 10:26:00",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S26400754400806447_P62652",
+          "price": 19.98,
+          "quantity": 1,
+          "attributes": "No Milk"
+        }
+      ]
+    }
+  ],
+  "rubrics": [
+    "Rice dumplings in the order should not be sweet flavored, but should be savory options such as Egg Yolk and Meat Rice Dumpling, Fresh Meat Rice Dumpling, etc.",
+    "Rice dumpling orders should not be from Barbie Steamed Buns & Dumplings stores, but from other vendors offering rice dumplings",
+    "The delivery address for rice dumpling orders should be Wuxi (National) Software Park, 18 Zhenze Road (111 Linghu Avenue), Xinwu District, Wuxi City, Jiangsu Province",
+    "Coffee in the order should not contain dairy products, and should have the 'no milk' attribute",
+    "The delivery address for coffee orders should be Wuxi (National) Software Park, 18 Zhenze Road (111 Linghu Avenue), Xinwu District, Wuxi City, Jiangsu Province"
+  ]
+}

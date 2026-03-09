@@ -1,0 +1,47 @@
+{
+  "task_id": "10",
+  "query": "I'm planning to travel from Guiyang to Guilin on November 12, 2025, and will stay for just one day before returning on the 13th. The trip is quite short, so please help me arrange a tight itinerary! For transportation, I'd like to take a train—please check if there's the most affordable direct train option available; timing is flexible, as long as it helps save money.\n\nFor accommodation, I'd prefer something comfortable. I think three-star hotels offer great value for money, so please help me pick the one with the highest rating—just one night is needed. By the way, there are four of us in total, so we'll need two rooms.\n\nRegarding meals, I've heard the scenery around 'Duxiu Peak' is especially beautiful, so I’d love to have a meal nearby with an outdoor seating option, where we can enjoy the view while eating. Additionally, I’d like to try Western cuisine—please arrange a meal at a Western restaurant near 'Wood Dragon Lake', preferably one offering a variety of fusion flavors so we can sample several specialties.\n\nI’ve now mentioned all the places I’d like to visit and dine at. Please help me plan an itinerary based on these requirements. I believe I've provided all necessary budget and detail—feel free to go ahead and organize everything for me! November 12, 2025 is Wednesday",
+  "meta_info": {
+    "org": "Guiyang",
+    "dest": [
+      "Guilin"
+    ],
+    "days": 2,
+    "depart_date": "2025-11-12",
+    "return_date": "2025-11-13",
+    "people_number": 4,
+    "room_number": 2
+  },
+  "hard_constraints": {
+    "train_cheapest_direct": {
+      "constraint_context": "Hope to take the train for the outbound journey, and need to select the cheapest direct train available",
+      "constraint_type": "superlative_cheapest_direct",
+      "outbound_train_no": "D1851"
+    },
+    "hotel_star_highest_rated": {
+      "constraint_context": "For accommodation, please select the highest-rated hotel among 3-star hotels.",
+      "constraint_type": "superlative_star_highest_rated",
+      "hotel_name": "Lavande Hotel · Guilin City Center Square Elephant Trunk Hill Scenic Area Store",
+      "hotel_star": 3,
+      "hotel_price": 295.0,
+      "hotel_score": 4.8
+    },
+    "restaurant_specific_tag_nearby": {
+      "constraint_context": "Arrange a meal at a restaurant near 'Duxiu Peak' during the trip, with outdoor seating service required",
+      "constraint_type": "superlative_specific_tag_nearby",
+      "attraction_name": "Duxiu Peak",
+      "restaurant_name": "Rosemary Western Restaurant (Yiren Road No. 1-3)",
+      "required_tag": "Outdoor Seating",
+      "price_per_person": 57.0,
+      "restaurant_rating": 4.2
+    },
+    "restaurant_specific_cuisine_nearby": {
+      "constraint_context": "Please arrange a meal at a Western-style restaurant (with a variety of cuisines) near 'Wood Dragon Lake' during the trip.",
+      "constraint_type": "superlative_specific_cuisine_nearby",
+      "attraction_name": "Wood Dragon Lake",
+      "restaurant_name": "Ru Zhuo Western Restaurant (Temporarily Closed)",
+      "price_per_person": 438.0,
+      "restaurant_rating": 4.5
+    }
+  }
+}

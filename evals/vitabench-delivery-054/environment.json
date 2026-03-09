@@ -1,0 +1,400 @@
+{
+  "task_id": "C0714001",
+  "domain": "delivery",
+  "time": "2025-08-16 11:39:12",
+  "user_id": "U000008",
+  "weather": [
+    {
+      "city": "Shaoxing City",
+      "category": "sunny",
+      "datetime": "2025-08-16",
+      "temperature": [
+        28,
+        35
+      ],
+      "humidity": 38
+    }
+  ],
+  "location": [
+    {
+      "address": "East Area of Qinyuyuan, Nanchi Road, Yuecheng District, Shaoxing City, Zhejiang Province",
+      "longitude": 120.584075,
+      "latitude": 29.959042
+    }
+  ],
+  "user_profile": {
+    "user id": "U000008",
+    "occupation": "Lawyer",
+    "gender": "female",
+    "age group": "30~35",
+    "residence": "Shaoxing",
+    "home address": " East Area of Qinyuyuan, Nanchi Road, Yuecheng District, Shaoxing City, Zhejiang Province ",
+    "work address": "Gaobi Tianyu Building, East Street, Fushan Street, Yuecheng District, Shaoxing City, Zhejiang Province",
+    "dietary restrictions": "Avoids heavy oil and spicy food",
+    "family status": "In a relationship",
+    "personality": "Extremely detail-oriented, tends to be picky and easily dissatisfied"
+  },
+  "user_historical_behaviors": {
+    "user id": "U000008",
+    "occupation": "Lawyer",
+    "gender": "female",
+    "age group": "30~35",
+    "residence": "Shaoxing",
+    "home address": " East Area of Qinyuyuan, Nanchi Road, Yuecheng District, Shaoxing City, Zhejiang Province ",
+    "work address": "Gaobi Tianyu Building, East Street, Fushan Street, Yuecheng District, Shaoxing City, Zhejiang Province",
+    "breakfast": {
+      "frequently purchased categories": [
+        "Fast Food/Buns/Pan-fried Buns (Average ¥15)",
+        "Fast Food/Light Meals (Average ¥25)",
+        "Fast Food/Salads (Average ¥28)"
+      ],
+      "cost per order": "¥15~35",
+      "preferred store rating": "4.3~4.8 stars",
+      "preferred delivery time": "10~20 minutes",
+      "preferred distance": "0~1500m",
+      "recent orders": [
+        {
+          "store": "Fresh Fruit Light Meal",
+          "product": "Yogurt Fruit Salad"
+        },
+        {
+          "store": "Shen Dacheng",
+          "product": "Crab Roe Soup Dumplings"
+        },
+        {
+          "store": "Light Meal Select",
+          "product": "Chicken Breast Sandwich + Yogurt"
+        }
+      ],
+      "search history": [
+        "Low-fat breakfast",
+        "Salad",
+        "Fruit mix",
+        "Soup dumplings",
+        "Healthy porridge"
+      ]
+    },
+    "weekday lunch/dinner": {
+      "frequently purchased categories": [
+        "Fast Food/Healthy Meals (Average ¥42)",
+        "International Cuisine/Japanese Bento/Sushi (Average ¥55)",
+        "Chinese Cuisine/Cantonese (Average ¥60)"
+      ],
+      "cost per order": "¥35~70",
+      "preferred store rating": "4.5~4.9 stars",
+      "preferred delivery time": "15~30 minutes",
+      "preferred distance": "0~2500m",
+      "recent orders": [
+        {
+          "store": "Diet House",
+          "product": "Light Chicken Breast Salad Rice"
+        },
+        {
+          "store": "Sushi House",
+          "product": "Salmon Sashimi Bento"
+        },
+        {
+          "store": "Guangzhou Kitchen",
+          "product": "Steamed Bass + Seasonal Vegetables"
+        }
+      ],
+      "search history": [
+        "Healthy meals",
+        "Low-oil",
+        "Japanese cuisine",
+        "Cantonese cuisine",
+        "Steamed dishes"
+      ]
+    },
+    "weekend lunch/dinner": {
+      "frequently purchased categories": [
+        "Chinese Cuisine/Cantonese (Average ¥85)",
+        "International Cuisine/Steak (Average ¥120)"
+      ],
+      "cost per order": "¥70~150",
+      "preferred store rating": "4.6~5.0 stars",
+      "preferred delivery time": "25~45 minutes",
+      "preferred distance": "0~3500m",
+      "recent orders": [
+        {
+          "store": "Cuiyuan Restaurant",
+          "product": "Shrimp Dumplings + Char Siu Buns + Scallops with Garlic Vermicelli"
+        },
+        {
+          "store": "Steak West",
+          "product": "Australian Grain-fed Steak (Medium Rare) + Vegetable Soup"
+        }
+      ],
+      "search history": [
+        "Cantonese cuisine",
+        "Fine dining",
+        "Steak",
+        "Italian cuisine",
+        "Couple set meal"
+      ]
+    },
+    "desserts/drinks/snacks": {
+      "frequently purchased categories": [
+        "Desserts/Drinks/Coffee (Average ¥30)",
+        "Desserts/Drinks/Fruit Mix (Average ¥35)",
+        "Desserts/Drinks/Western Pastries (Average ¥40)"
+      ],
+      "cost per order": "¥25~45",
+      "preferred store rating": "4.4~4.9 stars",
+      "preferred delivery time": "15~25 minutes",
+      "preferred distance": "0~2000m",
+      "recent orders": [
+        {
+          "store": "Starbucks",
+          "product": "Sugar-free Latte"
+        },
+        {
+          "store": "Fresh Cut Fruit",
+          "product": "Light Fruit Mix"
+        },
+        {
+          "store": "Paris Baguette",
+          "product": "Cheese Light Cheesecake"
+        }
+      ],
+      "search history": [
+        "Low-sugar coffee",
+        "Fruit",
+        "Sugar-free desserts",
+        "Light cheesecake"
+      ]
+    },
+    "night snack": {
+      "frequently purchased categories": [
+        "Fast Food/Salads (Average ¥32)",
+        "Fast Food/Light Meals (Average ¥38)"
+      ],
+      "cost per order": "¥20~35",
+      "preferred store rating": "4.3~4.8 stars",
+      "preferred delivery time": "15~55 minutes",
+      "preferred distance": "0~7000m",
+      "recent orders": [
+        {
+          "store": "Miss Slim Healthy Meals",
+          "product": "Chicken Breast Salad"
+        },
+        {
+          "store": "Xiyin Steak Homemade Pasta · Baked Rice (Shaoxing Branch)",
+          "product": "Classic Tomato Meat Sauce Pasta [Grandmas' Favorite Check-in Spot]"
+        },
+        {
+          "store": "Fresh Fruits and Vegetables",
+          "product": "Mixed Vegetable and Fruit Salad"
+        }
+      ],
+      "search history": [
+        "Healthy night snacks",
+        "Oil-free food",
+        "Low-calorie",
+        "Light meals"
+      ]
+    }
+  },
+  "stores": {
+    "S79687561289843350_S50725": {
+      "name": "Xiyin Steak Homemade Pasta · Baked Rice (Shaoxing Branch)",
+      "store_id": "S79687561289843350_S50725",
+      "score": 4.5,
+      "location": {
+        "address": "Xiyin Steak Homemade Pasta · Baked Rice, 40 meters southwest of the intersection of Jishan Road and Dongchi Road, Yuecheng District, Shaoxing City, Zhejiang Province",
+        "latitude": 29.999061,
+        "longitude": 120.594059
+      },
+      "tags": [
+        "Fast Food & Light Meals"
+      ],
+      "products": [
+        {
+          "name": "[Signature Triple Beef 🐮] Classic Thick-cut French Black Pepper Grilled Steak Pasta",
+          "store_id": "S79687561289843350_S50725",
+          "store_name": "Xiyin Steak Homemade Pasta · Baked Rice (Shaoxing Branch)",
+          "price": 24.8,
+          "tags": [
+            "Store's Best-Seller"
+          ],
+          "product_id": "S34696353417615440_P13458",
+          "attributes": [],
+          "quantity": 9999
+        },
+        {
+          "name": "Classic Tomato Meat Sauce Pasta [Grandmas' Favorite Check-in Spot]",
+          "product_id": "S56040675373590242_P64206",
+          "store_id": "S79687561289843350_S50725",
+          "store_name": "Xiyin Steak Homemade Pasta · Baked Rice (Shaoxing Branch)",
+          "price": 21.8,
+          "tags": [],
+          "attributes": [],
+          "quantity": 9999
+        }
+      ]
+    },
+    "S13169465789960013_S02214": {
+      "name": "Gong Xiaoyan · Auntie's Hot Drinks · Freshly Stewed Bird's Nest (Chengnan Branch)",
+      "store_id": "S13169465789960013_S02214",
+      "score": 5.0,
+      "location": {
+        "address": "No. 1, Building 4, Rongyue Mansion, Chengnan Avenue, Yuecheng District, Shaoxing City, Zhejiang Province",
+        "latitude": 29.978045,
+        "longitude": 120.591081
+      },
+      "tags": [],
+      "products": [
+        {
+          "name": "Auntie's Longan Red Date Ginger Tea (Love Yourself a Little More)",
+          "store_id": "S13169465789960013_S02214",
+          "store_name": "Gong Xiaoyan · Auntie's Hot Drinks · Freshly Stewed Bird's Nest (Chengnan Branch)",
+          "price": 19.8,
+          "tags": [],
+          "product_id": "S79356345247909739_P59597",
+          "attributes": [
+            "Normal Ginger",
+            "Extra Ginger"
+          ],
+          "quantity": 9999
+        }
+      ]
+    },
+    "S29749940782828794_S68603": {
+      "name": "Feizi Italian Restaurant (Shaoxing Yintai City Branch)",
+      "store_id": "S29749940782828794_S68603",
+      "score": 4.8,
+      "location": {
+        "address": "Feizi Italian Restaurant (Shaoxing Jindi Yintai Department Store), No. 26, 3rd Floor, Yintai City, No. 777 Liberation South Road, Yuecheng District, Shaoxing City, Zhejiang Province",
+        "latitude": 29.984991,
+        "longitude": 120.579537
+      },
+      "tags": [
+        "Dine-in Restaurant"
+      ],
+      "products": [
+        {
+          "name": "Wild Mushroom Chicken Pasta",
+          "product_id": "S28264705936329726_P00865",
+          "store_id": "S29749940782828794_S68603",
+          "store_name": "Feizi Italian Restaurant (Shaoxing Yintai City Branch)",
+          "price": 25,
+          "tags": [
+            "Delicious Flavor"
+          ],
+          "attributes": [],
+          "quantity": 9999
+        },
+        {
+          "name": "Classic Italian Meat Sauce Pasta",
+          "product_id": "S22670015862780352_P04838",
+          "store_id": "S29749940782828794_S68603",
+          "store_name": "Feizi Italian Restaurant (Shaoxing Yintai City Branch)",
+          "price": 25,
+          "tags": [
+            "Italian Flavor"
+          ],
+          "attributes": [],
+          "quantity": 9999
+        }
+      ]
+    },
+    "S99665004909925609_S04463": {
+      "name": "Pizza Hut (Shaoxing Liberation Road Branch · Baked Rice · Pasta)",
+      "store_id": "S99665004909925609_S04463",
+      "score": 4.9,
+      "location": {
+        "address": "Pizza Hut (Qianguan Lane Branch), No. 189 Liberation South Road, Yuecheng District, Shaoxing City, Zhejiang Province",
+        "latitude": 29.994057,
+        "longitude": 120.580099
+      },
+      "tags": [],
+      "products": [
+        {
+          "name": "Tomato Sauce Meatball Pasta",
+          "product_id": "S92236452526995868_P26679",
+          "store_id": "S99665004909925609_S04463",
+          "store_name": "Pizza Hut (Shaoxing Liberation Road Branch · Baked Rice · Pasta)",
+          "price": 26.9,
+          "tags": [],
+          "attributes": [],
+          "quantity": 9999
+        }
+      ]
+    },
+    "S20774307979920045_S21318": {
+      "name": "Yan Nuan Chao · Auntie's Hot Drinks · Bird's Nest Stewed Delicacies (Yuecheng Branch)",
+      "store_id": "S20774307979920045_S21318",
+      "score": 5,
+      "location": {
+        "address": "Room 218-2, Building 3, Lakeside Commercial Center, 100 meters northwest of the intersection of Renmin Middle Road and Banmazhang, Yuecheng District, Shaoxing City, Zhejiang Province",
+        "latitude": 29.995975,
+        "longitude": 120.592825
+      },
+      "tags": [],
+      "products": [
+        {
+          "name": "Brown Sugar Rose Ginger Milk Tea [Rich Milk Flavor, Good for Cooling]",
+          "product_id": "S29709079927817537_P23633",
+          "store_id": "S20774307979920045_S21318",
+          "store_name": "Yan Nuan Chao · Auntie's Hot Drinks · Bird's Nest Stewed Delicacies (Yuecheng Branch)",
+          "price": 21.84,
+          "tags": [],
+          "attributes": [],
+          "quantity": 9999
+        }
+      ]
+    },
+    "S20591204533511368_S09450": {
+      "name": "Nuan Yan · Auntie's Hot Drinks · Freshly Stewed Bird's Nest (Shaoxing Branch)",
+      "store_id": "S20591204533511368_S09450",
+      "score": 5,
+      "location": {
+        "address": "No. 13-4, Yan'an Road, Yuecheng District, Shaoxing City, Zhejiang Province",
+        "latitude": 29.989202,
+        "longitude": 120.588186
+      },
+      "tags": [],
+      "products": [
+        {
+          "name": "Traditional Brown Sugar Ginger Tea [Livestream Featured Product]",
+          "product_id": "S19706535899698348_P13727",
+          "store_id": "S20591204533511368_S09450",
+          "store_name": "Nuan Yan · Auntie's Hot Drinks · Freshly Stewed Bird's Nest (Shaoxing Branch)",
+          "price": 19.9,
+          "tags": [],
+          "attributes": [],
+          "quantity": 9999
+        }
+      ]
+    }
+  },
+  "orders": {
+    "C0714001O01": {
+      "order_id": "C0714001O01",
+      "order_type": "delivery",
+      "user_id": "U000008",
+      "store_id": "S79687561289843350_S50725",
+      "note": "",
+      "location": {
+        "address": "East Area of Qinyuyuan, Nanchi Road, Yuecheng District, Shaoxing City, Zhejiang Province",
+        "longitude": 120.584075,
+        "latitude": 29.959042
+      },
+      "dispatch_time": "2025-07-17 11:53:00 ",
+      "shipping_time": 42,
+      "delivery_time": "2025-07-17 12:35:00",
+      "total_price": 21.8,
+      "create_time": "2025-07-17 11:38:00",
+      "update_time": "2025-07-17 11:38:00",
+      "status": "delivered",
+      "products": [
+        {
+          "product_id": "S56040675373590242_P64206",
+          "price": 21.8,
+          "quantity": 1,
+          "attributes": ""
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,1185 @@
+{
+  "task_id": "10807001",
+  "domain": "cross_domain",
+  "time": "2025-05-20 10:31:11",
+  "user_id": "U010019",
+  "weather": [
+    {
+      "city": "Shenzhen",
+      "category": "cloudy",
+      "datetime": "2025-05-20",
+      "temperature": [
+        22,
+        28
+      ],
+      "humidity": 65
+    }
+  ],
+  "location": [
+    {
+      "address": "Room 304, Building 9, Baolong Residential Area Lane 2, Nanlian Community, Longgang Street (350 meters walk from Exit B of Longcheng Square Metro Station), Longgang District, Shenzhen, Guangdong Province",
+      "longitude": 114.2501,
+      "latitude": 22.7308
+    }
+  ],
+  "user_profile": {
+    "user id": "U010019",
+    "occupation": "Courier",
+    "gender": "female",
+    "age group": "25~30",
+    "residence": "Shenzhen",
+    "Permanent address": "Room 304, Building 9, Baolong Residential Area Lane 2, Nanlian Community, Longgang Street (350 meters walk from Exit B of Longcheng Square Metro Station), Longgang District, Shenzhen, Guangdong Province",
+    "work address": "SF Express (Longgang Avenue Branch), 4036 Henggang Section, Longgang Avenue, Longgang District, Shenzhen, Guangdong Province",
+    "dietary restrictions": "No high salt, no deep-fried food",
+    "family status": "Has children",
+    "personality": "Has scattered and jumpy thinking, easily distracted and changes ideas frequently"
+  },
+  "user_historical_behaviors": {
+    "user id": "U010019",
+    "occupation": "courier",
+    "gender": "female",
+    "age group": "25~30",
+    "residence": "Shenzhen",
+    "home address": "Room 304, Building 9, Baolong Residential Area Lane 2, Nanlian Community, Longgang Street (350 meters walk from Exit B of Longcheng Square Metro Station), Longgang District, Shenzhen, Guangdong Province",
+    "work address": "SF Express (Longgang Avenue Branch), 4036 Henggang Section, Longgang Avenue, Longgang District, Shenzhen, Guangdong Province",
+    "Takeout scenario": {
+      "food delivery": {
+        "breakfast": {
+          "frequently purchased categories": [
+            "Quick Meals/Steamed Buns/Pan-fried Buns (Average 18 yuan)",
+            "Quick Meals/Fried Dough Sticks (Average 12 yuan)",
+            "Quick Meals/Jianbing/Wraps/Hand-grabbed Pancakes (Average 15 yuan)"
+          ],
+          "cost per order": "12~25 yuan",
+          "preferred store rating": "4.2~4.8 points",
+          "preferred delivery time": "15~25 minutes",
+          "preferred distance": "0~2000m",
+          "recent orders": [
+            {
+              "store": "Champion Steamed Bun Shop",
+              "product": "Pork and Leek Steamed Buns + Soy Milk"
+            },
+            {
+              "store": "Old Shanghai Pan-fried Buns",
+              "product": "Signature Pan-fried Buns + Egg"
+            },
+            {
+              "store": "Breakfast Master",
+              "product": "Hand-grabbed Pancake + Fried Dough Sticks and Soy Milk Set"
+            }
+          ],
+          "search history": [
+            "Steamed buns",
+            "Soy milk",
+            "Pan-fried buns",
+            "Breakfast set",
+            "Congee"
+          ]
+        },
+        "weekday lunch/dinner": {
+          "frequently purchased categories": [
+            "Quick Meals/Rice with Toppings (Average 28 yuan)",
+            "Quick Meals/Rice Noodles/Rice Vermicelli (Average 25 yuan)",
+            "Quick Meals/Light Meal (Average 35 yuan)"
+          ],
+          "cost per order": "25~45 yuan",
+          "preferred store rating": "4.3~4.7 points",
+          "preferred delivery time": "20~35 minutes",
+          "preferred distance": "0~3000m",
+          "recent orders": [
+            {
+              "store": "Mushroom and Chicken Rice",
+              "product": "Mushroom and Chicken Rice + Cold Cucumber"
+            },
+            {
+              "store": "Salad Light Meal Workshop",
+              "product": "Boiled Chicken Breast Salad + Corn Soup"
+            },
+            {
+              "store": "Yunnan Crossing Bridge Rice Noodles",
+              "product": "Traditional Crossing Bridge Rice Noodles + Braised Egg"
+            }
+          ],
+          "search history": [
+            "Healthy meal",
+            "Low Fat",
+            "Rice noodles",
+            "Rice bowl",
+            "Fast food"
+          ]
+        },
+        "weekend lunch/dinner": {
+          "frequently purchased categories": [
+            "Chinese Formal Dinner/Cantonese Cuisine (Average 85 yuan)",
+            "Chinese Formal Dinner/Northeastern Chinese Cuisine (Average 75 yuan)",
+            "Exotic Flavor/Korean Cuisine (Average 90 yuan)"
+          ],
+          "cost per order": "60~120 yuan",
+          "preferred store rating": "4.5~5.0 points",
+          "preferred delivery time": "30~45 minutes",
+          "preferred distance": "0~5000m",
+          "recent orders": [
+            {
+              "store": "Xiguan Traditional Cantonese Restaurant",
+              "product": "White Cut Chicken + Steamed Sea Bass + Seasonal Vegetables + White Rice"
+            },
+            {
+              "store": "Little Chef's Northeastern Cuisine",
+              "product": "Sweet and Sour Pork + Sautéed Meat Slices + Edible Amaranth + Rice"
+            },
+            {
+              "store": "Seoul Star",
+              "product": "Stone Pot Bibimbap + Kimchi + Seaweed Soup"
+            }
+          ],
+          "search history": [
+            "Cantonese Cuisine",
+            "Home-style Dishes",
+            "Korean Cuisine",
+            "Healthy",
+            "Not greasy"
+          ]
+        },
+        "desserts/drinks/snacks": {
+          "frequently purchased categories": [
+            "desserts/drinks/snacks/Juice (Average 28 yuan)",
+            "desserts/drinks/snacks/Pure Tea/Herbal Tea (Average 20 yuan)",
+            "desserts/drinks/snacks/Cake (Average 80 yuan)"
+          ],
+          "cost per order": "20~80 yuan",
+          "preferred store rating": "4.4~4.9 points",
+          "preferred delivery time": "15~30 minutes",
+          "preferred distance": "0~2500m",
+          "recent orders": [
+            {
+              "store": "Fresh Juice Stand",
+              "product": "Mango Orange Juice"
+            },
+            {
+              "store": "Tea Time",
+              "product": "Jasmine Tea"
+            },
+            {
+              "store": "Guoran Cake",
+              "product": "Colorful Fruit Cake (Dairy Cream)"
+            }
+          ],
+          "search history": [
+            "Fruit tea",
+            "Fruit salad",
+            "Low Sugar drinks",
+            "Healthy beverages"
+          ]
+        },
+        "night snack": {
+          "frequently purchased categories": [
+            "Quick Meals/Clay Pot Dishes (Average 45 yuan)",
+            "Quick Meals/Rice Noodles/Rice Vermicelli (Average 30 yuan)",
+            "Hot Pot/Clay Pot Congee (Average 38 yuan)"
+          ],
+          "cost per order": "30~55 yuan",
+          "preferred store rating": "4.2~4.8 points",
+          "preferred delivery time": "25~40 minutes",
+          "preferred distance": "0~3000m",
+          "recent orders": [
+            {
+              "store": "Old Canton Clay Pot Congee",
+              "product": "Century Egg and Lean Pork Congee + Pickles"
+            },
+            {
+              "store": "Clay Pot Rice Noodle Shop",
+              "product": "Beef Clay Pot Rice Noodles"
+            },
+            {
+              "store": "Warm Clay Pot",
+              "product": "Mushroom Clay Pot + White Rice"
+            }
+          ],
+          "search history": [
+            "Clay pot",
+            "Stomach-soothing",
+            "Warming",
+            "Congee",
+            "Non-greasy night snacks"
+          ]
+        }
+      },
+      "product delivery": {
+        "frequently purchased categories": [
+          "Fresh Meat/Poultry/Eggs(28%)",
+          "Vegetables/Bean Products(22%)",
+          "Fruit(15%)",
+          "Household Items(12%)",
+          "Mother and Baby Products(10%)",
+          "Others(13%)"
+        ],
+        "frequently visited stores": [
+          "Seven Fresh Supermarket(35%)",
+          "MissFresh(25%)",
+          "FamilyMart(20%)",
+          "Other Stores(20%)"
+        ],
+        "cost per order by category": {
+          "Fresh Meat/Poultry/Eggs": "20~60 yuan",
+          "Vegetables/Bean Products": "5~25 yuan",
+          "Fruit": "10~40 yuan",
+          "Household Items": "15~45 yuan",
+          "Mother and Baby Products": "30~120 yuan"
+        },
+        "preferred delivery time": "25~60 minutes",
+        "typical order time": "9~11 o'clock(32%), 15~17 o'clock(28%), 20~22 o'clock(18%)",
+        "recent orders": [
+          {
+            "store": "Seven Fresh Supermarket",
+            "product": "Boneless Chicken Breast 300g"
+          },
+          {
+            "store": "MissFresh",
+            "product": "Organic Vegetable Set"
+          },
+          {
+            "store": "FamilyMart",
+            "product": "Baby Wipes + Diapers"
+          }
+        ],
+        "search history": [
+          "Chicken breast",
+          "Organic vegetables",
+          "Wet wipes",
+          "Diapers",
+          "Low Salt",
+          "No additives"
+        ]
+      }
+    },
+    "in-store consumption": {
+      "in-store dining": {
+        "fine-dining": {
+          "frequently purchased categories": [
+            "Regional Cuisine/Cantonese Cuisine (Average 140 yuan)",
+            "Foreign Cuisine/Japanese Food (Average 160 yuan)",
+            "Regional Cuisine/Fish Dishes (Average 125 yuan)"
+          ],
+          "preferred average price per person": "120~180 yuan",
+          "preferred store rating": "4.2~4.8 stars",
+          "typical dining time": "19:00-21:00",
+          "preferred distance": "500~3000m",
+          "recent orders": [
+            {
+              "store": "Chaofu City Seafood Restaurant",
+              "product": "Steamed Tiger Grouper + Poached Shrimp + Chicken Feet in Oyster Sauce"
+            },
+            {
+              "store": "Luding Roast Goose",
+              "product": "Crispy Roast Goose + White Cut Chicken + Fresh Shrimp Wonton"
+            },
+            {
+              "store": "Sushiro",
+              "product": "Salmon Sashimi + Grilled Eel Sushi + Sea Urchin Gunkan"
+            }
+          ],
+          "search history": [
+            "Salt-free restaurant",
+            "Low Sodium Cantonese food",
+            "Healthy Japanese food",
+            "Family-friendly restaurant"
+          ]
+        },
+        "light meal": {
+          "frequently purchased categories": [
+            "Snacks & Fast Food/Chinese Quick Meals (Average 40 yuan)",
+            "Regional Cuisine/Hunan Cuisine (Average 35 yuan)",
+            "Snacks & Fast Food/Western Fast Food (Average 30 yuan)"
+          ],
+          "preferred average price per person": "25~45 yuan",
+          "preferred store rating": "3.5~4.2 stars",
+          "typical dining time": "12:00-13:30",
+          "preferred distance": "0~500m",
+          "recent orders": [
+            {
+              "store": "Yonghe King",
+              "product": "Minced Meat with Eggplant Rice + Side Dish"
+            },
+            {
+              "store": "Hunan Village Restaurant",
+              "product": "Spicy Fish Head with Rice + Sour and Spicy Lotus Root"
+            },
+            {
+              "store": "Salad Baby",
+              "product": "Low-calorie Chicken Breast Salad + Grapefruit Juice"
+            }
+          ],
+          "search history": [
+            "Work meals",
+            "Low Sodium fast food",
+            "Healthy lunch box",
+            "Salad"
+          ]
+        },
+        "desserts/drinks/snacks": {
+          "frequently purchased categories": [
+            "Bread and Desserts (Average 25 yuan)",
+            "Beverage Shops (Average 18 yuan)",
+            "Other Dining/Fresh Fruits (Average 22 yuan)"
+          ],
+          "preferred average price per person": "15~30 yuan",
+          "preferred store rating": "4.0~4.5 stars",
+          "typical dining time": "15:00-16:30",
+          "preferred distance": "0~300m",
+          "recent orders": [
+            {
+              "store": "Paris Baguette",
+              "product": "Sugar-free Whole Wheat Bread + Plain Yogurt"
+            },
+            {
+              "store": "Xianheng Fruits",
+              "product": "Selected Fruit Platter"
+            },
+            {
+              "store": "The Alley",
+              "product": "Low Sugar Jasmine Green Tea"
+            }
+          ],
+          "search history": [
+            "Caffeine-free beverages",
+            "Low Sugar desserts",
+            "Healthy fruit tea"
+          ]
+        }
+      },
+      "other in-store services": {
+        "frequently consumed categories": {
+          "Sports & Fitness/Fitness Center": "40%",
+          "Sports & Fitness/Ball Sports": "20%",
+          "Leisure & Entertainment/Massage/Foot Massage": "15%",
+          "Beauty/Yoga": "15%",
+          "Parent-child/Family Entertainment": "10%"
+        },
+        "cost per order by category": {
+          "Sports & Fitness/Fitness Center": "80~200 yuan",
+          "Sports & Fitness/Ball Sports": "100~150 yuan",
+          "Leisure & Entertainment/Massage/Foot Massage": "150~300 yuan",
+          "Beauty/Yoga": "120~200 yuan",
+          "Parent-child/Family Entertainment": "100~250 yuan"
+        },
+        "preferred store rating": "4.0~4.8 stars",
+        "preferred service time": "18:00-21:00",
+        "preferred distance": "0~5000m",
+        "recent orders": [
+          {
+            "store": "Will's Gym",
+            "product": "Monthly Fitness Package"
+          },
+          {
+            "store": "Brahma Yoga",
+            "product": "Stress Relief Course"
+          },
+          {
+            "store": "Wonder Children's Playground",
+            "product": "Weekend Family Package"
+          }
+        ],
+        "search history": [
+          "Designer stress relief",
+          "Family activities",
+          "Gym",
+          "Massage therapy",
+          "Family yoga"
+        ]
+      }
+    },
+    "OTA": {
+      "visited scenes": {
+        "Theme Parks": "42%",
+        "Parks": "30%",
+        "Natural Landscapes (Mountains/Lakes/Forests)": "15%",
+        "Zoo": "10%",
+        "Special Villages/Industrial Tourism/Uncategorized Projects": "3%"
+      },
+      "cost per night on hotel": "300~500 yuan",
+      "visited hotels": {
+        "Home Inn": "35%",
+        "Hanting Hotel": "25%",
+        "7 Days Inn": "20%",
+        "Jinjiang Inn": "15%",
+        "GreenTree Inn": "5%"
+      },
+      "browsed hotels": {
+        "Economy Hotels": "65%",
+        "Three-star Hotels": "20%",
+        "Comfort Hotels": "15%"
+      },
+      "historical travel plans": {
+        "Shenzhen-Guangzhou": {
+          "Price range": "80-120 yuan",
+          "Transportation method": "High-speed Rail/Bullet Train"
+        },
+        "Shenzhen-Dongguan": {
+          "Price range": "40-60 yuan",
+          "Transportation method": "Long-distance Bus"
+        },
+        "Shenzhen-Zhuhai": {
+          "Price range": "150-200 yuan",
+          "Transportation method": "High-speed Rail/Bullet Train"
+        },
+        "Shenzhen-Huizhou": {
+          "Price range": "50-80 yuan",
+          "Transportation method": "Long-distance Bus"
+        },
+        "Shenzhen-Zhanjiang": {
+          "Price range": "250-350 yuan",
+          "Transportation method": "High-speed Rail/Bullet Train"
+        }
+      }
+    }
+  },
+  "stores": {
+    "S17550802126834321_S00001": {
+      "name": "Guoran Cake",
+      "store_id": "S17550802126834321_S00001",
+      "score": 4.8,
+      "location": {
+        "address": "Guoran Cake Shop, No.12, Area A, Longcheng Square, Longgang District, Shenzhen, Guangdong Province",
+        "latitude": 22.7325,
+        "longitude": 114.2489
+      },
+      "tags": [
+        "Cake",
+        "Dessert",
+        "Dairy Cream",
+        "Birthday Cake",
+        "Low Sugar"
+      ],
+      "store_type": "target",
+      "products": [
+        {
+          "name": "Simple Pure Dairy Cream Cake",
+          "store_id": "S17550802126834321_S00001",
+          "store_name": "Guoran Cake",
+          "price": 108,
+          "tags": [
+            "Birthday Cake",
+            "Dairy Cream",
+            "Low Sugar",
+            "Fresh Style"
+          ],
+          "product_id": "S17550802126834321_P00002",
+          "attributes": [
+            "8-inch"
+          ],
+          "product_type": "target"
+        },
+        {
+          "name": "Strawberry Sweetheart Cake (Vegetable Cream)",
+          "store_id": "S17550802126834321_S00001",
+          "store_name": "Guoran Cake",
+          "price": 65,
+          "tags": [
+            "Birthday Cake",
+            "Vegetable Cream",
+            "Strawberry",
+            "Dessert"
+          ],
+          "product_id": "S17550802126834321_P00003",
+          "attributes": [
+            "6-inch"
+          ],
+          "product_type": "distraction"
+        },
+        {
+          "name": "Forest Style Mini Cake",
+          "store_id": "S17550802126834321_S00001",
+          "store_name": "Guoran Cake",
+          "price": 38,
+          "tags": [
+            "Mini Cake",
+            "Dairy Cream",
+            "Low Sugar",
+            "Personal Style"
+          ],
+          "product_id": "S17550802126834321_P00004",
+          "attributes": [
+            "4-inch"
+          ],
+          "product_type": "target"
+        },
+        {
+          "name": "Deluxe Chocolate Cream Cake",
+          "store_id": "S17550802126834321_S00001",
+          "store_name": "Guoran Cake",
+          "price": 108,
+          "tags": [
+            "Birthday Cake",
+            "Dairy Cream",
+            "Chocolate",
+            "High-end Style"
+          ],
+          "product_id": "S17550802126834321_P00005",
+          "attributes": [
+            "8-inch",
+            "10-inch"
+          ],
+          "product_type": "distraction"
+        },
+        {
+          "name": "Birthday Party Decoration Package",
+          "store_id": "S17550802126834321_S00001",
+          "store_name": "Guoran Cake",
+          "price": 15,
+          "tags": [
+            "Birthday Hat",
+            "Candle",
+            "Ribbons",
+            "Decorative Paper"
+          ],
+          "product_id": "S17550802126834321_P00006",
+          "attributes": [],
+          "product_type": "target"
+        }
+      ]
+    },
+    "S17550802126834321_S00002": {
+      "name": "Happy Cake",
+      "store_id": "S17550802126834321_S00002",
+      "score": 4.5,
+      "location": {
+        "address": "Happy Cake (Longcheng Square Branch), 7028 Longxiang Avenue, Longgang District, Shenzhen, Guangdong Province",
+        "latitude": 22.731,
+        "longitude": 114.2505
+      },
+      "tags": [
+        "Cake",
+        "Dessert",
+        "Dairy Cream",
+        "Birthday Cake"
+      ],
+      "store_type": "target",
+      "products": [
+        {
+          "name": "Colorful Fruit Cake (Dairy Cream)",
+          "store_id": "S17550802126834321_S00002",
+          "store_name": "Happy Cake",
+          "price": 68,
+          "tags": [
+            "Birthday Cake",
+            "Dairy Cream",
+            "Fruit Cake",
+            "6-inch",
+            "Low Sugar"
+          ],
+          "product_id": "S17550802126834321_P00007",
+          "attributes": [],
+          "product_type": "target"
+        },
+        {
+          "name": "Little Forest Vegetable Cream Cake",
+          "store_id": "S17550802126834321_S00002",
+          "store_name": "Happy Cake",
+          "price": 58,
+          "tags": [
+            "Birthday Cake",
+            "Vegetable Cream",
+            "Forest Style",
+            "6-inch",
+            "Low Sugar"
+          ],
+          "product_id": "S17550802126834321_P00008",
+          "attributes": [
+            "Low Sugar Version"
+          ],
+          "product_type": "target"
+        },
+        {
+          "name": "Strawberry Light Dairy Cream Cake",
+          "store_id": "S17550802126834321_S00002",
+          "store_name": "Happy Cake",
+          "price": 85,
+          "tags": [
+            "Birthday Cake",
+            "Dairy Cream",
+            "Strawberry",
+            "6-inch",
+            "Low Sugar"
+          ],
+          "product_id": "S17550802126834321_P00009",
+          "attributes": [
+            "Low Sugar Version"
+          ],
+          "product_type": "target"
+        },
+        {
+          "name": "Classic Non-dairy Cream Cake",
+          "store_id": "S17550802126834321_S00002",
+          "store_name": "Happy Cake",
+          "price": 48,
+          "tags": [
+            "Birthday Cake",
+            "Non-dairy Cream",
+            "Classic Style",
+            "6-inch"
+          ],
+          "product_id": "S17550802126834321_P00010",
+          "attributes": [
+            "6-inch"
+          ],
+          "product_type": "distraction"
+        },
+        {
+          "name": "Deluxe Fruit Birthday Cake",
+          "store_id": "S17550802126834321_S00002",
+          "store_name": "Happy Cake",
+          "price": 98,
+          "tags": [
+            "Birthday Cake",
+            "Dairy Cream",
+            "Fruit",
+            "8-inch",
+            "Deluxe Style"
+          ],
+          "product_id": "S17550802126834321_P00011",
+          "attributes": [
+            "8-inch"
+          ],
+          "product_type": "distraction"
+        }
+      ]
+    },
+    "S17550802126834321_S00003": {
+      "name": "Sweet Princess",
+      "store_id": "S17550802126834321_S00003",
+      "score": 4.3,
+      "location": {
+        "address": "Sweet Princess Cake Shop, 6899 Longxiang Avenue, Longgang District, Shenzhen, Guangdong Province",
+        "latitude": 22.7315,
+        "longitude": 114.2485
+      },
+      "tags": [
+        "Cake",
+        "Dessert",
+        "Vegetable Cream",
+        "Birthday Cake"
+      ],
+      "store_type": "distraction",
+      "products": [
+        {
+          "name": "Sweetheart Strawberry Cream Cake",
+          "store_id": "S17550802126834321_S00003",
+          "store_name": "Sweet Princess",
+          "price": 68,
+          "tags": [
+            "Birthday Cake",
+            "Strawberry",
+            "Vegetable Cream",
+            "Dessert",
+            "Single Portion"
+          ],
+          "product_id": "S17550802126834321_P00013",
+          "attributes": [
+            "Regular Sweetness"
+          ],
+          "product_type": "distraction"
+        },
+        {
+          "name": "Mini Mango Mousse Cake",
+          "store_id": "S17550802126834321_S00003",
+          "store_name": "Sweet Princess",
+          "price": 42,
+          "tags": [
+            "Mousse Cake",
+            "Mango",
+            "Vegetable Cream",
+            "Small Portion",
+            "Birthday"
+          ],
+          "product_id": "S17550802126834321_P00014",
+          "attributes": [
+            "Low Sugar"
+          ],
+          "product_type": "distraction"
+        },
+        {
+          "name": "Birthday Special Fruit Cake",
+          "store_id": "S17550802126834321_S00003",
+          "store_name": "Sweet Princess",
+          "price": 78,
+          "tags": [
+            "Birthday Cake",
+            "Fruit",
+            "Vegetable Cream",
+            "Birthday Package",
+            "Birthday Hat Included"
+          ],
+          "product_id": "S17550802126834321_P00015",
+          "attributes": [
+            "Standard Sweetness"
+          ],
+          "product_type": "distraction"
+        },
+        {
+          "name": "Light Cheesecake",
+          "store_id": "S17550802126834321_S00003",
+          "store_name": "Sweet Princess",
+          "price": 58,
+          "tags": [
+            "Cheesecake",
+            "Low Fat",
+            "Light Meal",
+            "Vegetable Cream"
+          ],
+          "product_id": "S17550802126834321_P00016",
+          "attributes": [
+            "Low Sugar"
+          ],
+          "product_type": "distraction"
+        },
+        {
+          "name": "Birthday Party Decoration Set",
+          "store_id": "S17550802126834321_S00003",
+          "store_name": "Sweet Princess",
+          "price": 29.9,
+          "tags": [
+            "Birthday Decoration",
+            "Birthday Hat",
+            "Ribbons",
+            "Party Supplies"
+          ],
+          "product_id": "S17550802126834321_P00017",
+          "attributes": [
+            "3 Birthday Hats",
+            "2 Rolls of Ribbons",
+            "10 Balloons"
+          ],
+          "product_type": "distraction"
+        }
+      ]
+    },
+    "S17550802126834321_S00004": {
+      "name": "Pie Shop",
+      "store_id": "S17550802126834321_S00004",
+      "score": 4.7,
+      "location": {
+        "address": "Pie Shop (Longgang Central City Branch), 3333 Longcheng Avenue, Longgang District, Shenzhen, Guangdong Province",
+        "latitude": 22.7298,
+        "longitude": 114.2512
+      },
+      "tags": [
+        "Cake",
+        "Dessert",
+        "Dairy Cream",
+        "Birthday Cake",
+        "Premium"
+      ],
+      "store_type": "distraction",
+      "products": [
+        {
+          "name": "French Style Dairy Cream Strawberry Cake",
+          "store_id": "S17550802126834321_S00004",
+          "store_name": "Pie Shop",
+          "price": 168,
+          "tags": [
+            "Birthday Cake",
+            "Dairy Cream",
+            "Strawberry",
+            "French Style",
+            "Premium"
+          ],
+          "product_id": "S17550802126834321_P00018",
+          "attributes": [
+            "6-inch",
+            "8-inch"
+          ],
+          "product_type": "distraction"
+        },
+        {
+          "name": "Black Forest Dairy Cream Cake",
+          "store_id": "S17550802126834321_S00004",
+          "store_name": "Pie Shop",
+          "price": 158,
+          "tags": [
+            "Birthday Cake",
+            "Dairy Cream",
+            "Chocolate",
+            "German Style",
+            "Premium"
+          ],
+          "product_id": "S17550802126834321_P00019",
+          "attributes": [
+            "6-inch",
+            "8-inch"
+          ],
+          "product_type": "distraction"
+        },
+        {
+          "name": "Mango Mousse Dairy Cream Cake",
+          "store_id": "S17550802126834321_S00004",
+          "store_name": "Pie Shop",
+          "price": 198,
+          "tags": [
+            "Birthday Cake",
+            "Dairy Cream",
+            "Mango",
+            "Mousse",
+            "Premium",
+            "Low Sugar"
+          ],
+          "product_id": "S17550802126834321_P00020",
+          "attributes": [
+            "6-inch",
+            "8-inch"
+          ],
+          "product_type": "distraction"
+        },
+        {
+          "name": "Mini Dairy Cream Cupcake",
+          "store_id": "S17550802126834321_S00004",
+          "store_name": "Pie Shop",
+          "price": 98,
+          "tags": [
+            "Cupcake",
+            "Dairy Cream",
+            "Mini",
+            "Premium",
+            "Exquisite"
+          ],
+          "product_id": "S17550802126834321_P00021",
+          "attributes": [
+            "4-piece Set",
+            "6-piece Set"
+          ],
+          "product_type": "distraction"
+        },
+        {
+          "name": "Birthday Party Decoration Set",
+          "store_id": "S17550802126834321_S00004",
+          "store_name": "Pie Shop",
+          "price": 88,
+          "tags": [
+            "Birthday Hat",
+            "Ribbons",
+            "Candle",
+            "Decoration",
+            "Party"
+          ],
+          "product_id": "S17550802126834321_P00022",
+          "attributes": [],
+          "product_type": "distraction"
+        }
+      ]
+    },
+    "S17550802126834321_S00005": {
+      "name": "Happy Party Supply Shop",
+      "store_id": "S17550802126834321_S00005",
+      "score": 4.5,
+      "location": {
+        "address": "Happy Party Supply Store, 6788 Longxiang Avenue, Longgang District, Shenzhen, Guangdong Province",
+        "latitude": 22.7302,
+        "longitude": 114.2498
+      },
+      "tags": [
+        "Party Supplies",
+        "Birthday Hat",
+        "Ribbons",
+        "Balloon",
+        "Decorative Item"
+      ],
+      "store_type": "target",
+      "products": [
+        {
+          "name": "Birthday Hats 5-piece Set",
+          "store_id": "S17550802126834321_S00005",
+          "store_name": "Happy Party Supply Shop",
+          "price": 15.8,
+          "tags": [
+            "Birthday Hat",
+            "Party Supplies",
+            "Birthday Decoration"
+          ],
+          "product_id": "S17550802126834321_P00024",
+          "attributes": [
+            "5-piece Set",
+            "Multiple Colors Available"
+          ],
+          "product_type": "target"
+        },
+        {
+          "name": "Decorative Ribbons 3-roll Set",
+          "store_id": "S17550802126834321_S00005",
+          "store_name": "Happy Party Supply Shop",
+          "price": 12.5,
+          "tags": [
+            "Ribbons",
+            "Party Decoration",
+            "Birthday Decoration"
+          ],
+          "product_id": "S17550802126834321_P00025",
+          "attributes": [
+            "3-roll Set",
+            "Multiple Colors Available"
+          ],
+          "product_type": "target"
+        },
+        {
+          "name": "Deluxe Birthday Party Decoration Set",
+          "store_id": "S17550802126834321_S00005",
+          "store_name": "Happy Party Supply Shop",
+          "price": 89.9,
+          "tags": [
+            "Deluxe Set",
+            "Party Decoration",
+            "Birthday Hat",
+            "Ribbons",
+            "Balloon",
+            "Streamers"
+          ],
+          "product_id": "S17550802126834321_P00026",
+          "attributes": [
+            "For 20 People",
+            "Includes Balloon Arch"
+          ],
+          "product_type": "distraction"
+        },
+        {
+          "name": "Children's Theme Birthday Decoration Set",
+          "store_id": "S17550802126834321_S00005",
+          "store_name": "Happy Party Supply Shop",
+          "price": 45.5,
+          "tags": [
+            "Children's Theme",
+            "Cartoon Decoration",
+            "Birthday Hat",
+            "Ribbons"
+          ],
+          "product_id": "S17550802126834321_P00027",
+          "attributes": [
+            "Cartoon Pattern",
+            "For 8 People"
+          ],
+          "product_type": "distraction"
+        }
+      ]
+    }
+  },
+  "orders": {
+    "S17550802126834321_O00001": {
+      "order_id": "S17550802126834321_O00001",
+      "order_type": "delivery",
+      "user_id": "U010019",
+      "store_id": "S17550802126834321_S00001",
+      "total_price": 78.0,
+      "create_time": "2025-05-15 10:28:45",
+      "status": "delivered",
+      "products": [
+        {
+          "product_id": "S17550802126834321_P00001",
+          "price": 78.0,
+          "quantity": 1
+        }
+      ]
+    },
+    "S17550802126834321_O00002": {
+      "order_id": "S17550802126834321_O00002",
+      "order_type": "delivery",
+      "user_id": "U010019",
+      "store_id": "S17550802126834321_S00002",
+      "total_price": 68.0,
+      "create_time": "2025-04-28 15:42:12",
+      "status": "delivered",
+      "products": [
+        {
+          "product_id": "S17550802126834321_P00007",
+          "price": 68.0,
+          "quantity": 1
+        }
+      ]
+    },
+    "S17550802126834321_O00003": {
+      "order_id": "S17550802126834321_O00003",
+      "order_type": "delivery",
+      "user_id": "U010019",
+      "store_id": "S17550802126834321_S00001",
+      "total_price": 38.0,
+      "create_time": "2025-03-19 12:35:27",
+      "status": "delivered",
+      "products": [
+        {
+          "product_id": "S17550802126834321_P00004",
+          "price": 38.0,
+          "quantity": 1
+        }
+      ]
+    },
+    "S17550802126834321_O00004": {
+      "order_id": "S17550802126834321_O00004",
+      "order_type": "hotel",
+      "user_id": "U010019",
+      "store_id": "S17550802126834321_H00006",
+      "note": "Hope to arrange a quiet room",
+      "location": {
+        "address": "Home Inn (Longcheng Square Branch), 6999 Longxiang Avenue, Longgang District, Shenzhen, Guangdong Province",
+        "longitude": 114.2522,
+        "latitude": 22.734
+      },
+      "dispatch_time": "",
+      "shipping_time": 0.0,
+      "delivery_time": "",
+      "total_price": 369.0,
+      "create_time": "2025-05-01 14:32:18",
+      "update_time": "2025-05-01 14:35:22",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17550802126834321_P00028",
+          "price": 369.0,
+          "quantity": 1,
+          "date": "2025-05-03",
+          "room_type": "Second Class Seat"
+        }
+      ]
+    },
+    "S17550802126834321_O00005": {
+      "order_id": "S17550802126834321_O00005",
+      "order_type": "hotel",
+      "user_id": "U010019",
+      "store_id": "S17550802126834321_H00007",
+      "note": "Late arrival, please keep the room",
+      "location": {
+        "address": "Hanting Hotel (Longcheng Square Metro Station Branch), 3500 Longcheng Avenue, Longgang District, Shenzhen, Guangdong Province",
+        "longitude": 114.2515,
+        "latitude": 22.7335
+      },
+      "dispatch_time": "",
+      "shipping_time": 0.0,
+      "delivery_time": "",
+      "total_price": 368.0,
+      "create_time": "2025-04-12 10:56:33",
+      "update_time": "2025-04-12 10:58:47",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17550802126834321_P00033",
+          "price": 368.0,
+          "quantity": 1,
+          "date": "2025-04-15",
+          "room_type": "Twin Room"
+        }
+      ]
+    },
+    "S17550802126834321_O00006": {
+      "order_id": "S17550802126834321_O00006",
+      "order_type": "train",
+      "user_id": "U010019",
+      "store_id": "T00001",
+      "note": "",
+      "location": {
+        "address": "Shenzhen East Station, Buji Street, Longgang District, Shenzhen, Guangdong Province",
+        "longitude": 114.1407,
+        "latitude": 22.6095
+      },
+      "dispatch_time": "",
+      "shipping_time": 0.0,
+      "delivery_time": "",
+      "total_price": 114.5,
+      "create_time": "2025-04-20 14:32:18",
+      "update_time": "2025-04-20 14:35:22",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "T00001P001",
+          "price": 114.5,
+          "quantity": 1,
+          "seat_type": "Second Class Seat",
+          "train_number": "G6082",
+          "departure_station": "Shenzhen North Station",
+          "arrival_station": "Guangzhou South Station",
+          "departure_time": "2025-04-22 10:15:00",
+          "arrival_time": "2025-04-22 10:55:00"
+        }
+      ]
+    },
+    "S17550802126834321_O00007": {
+      "order_id": "S17550802126834321_O00007",
+      "order_type": "train",
+      "user_id": "U010019",
+      "store_id": "T00002",
+      "note": "",
+      "location": {
+        "address": "Shenzhen East Station, Buji Street, Longgang District, Shenzhen, Guangdong Province",
+        "longitude": 114.1407,
+        "latitude": 22.6095
+      },
+      "dispatch_time": "",
+      "shipping_time": 0.0,
+      "delivery_time": "",
+      "total_price": 55.0,
+      "create_time": "2025-03-15 10:56:33",
+      "update_time": "2025-03-15 10:58:47",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "T00002P001",
+          "price": 55.0,
+          "quantity": 1,
+          "seat_type": "First Class Seat",
+          "train_number": "D2345",
+          "departure_station": "Shenzhen North Station",
+          "arrival_station": "Dongguan Station",
+          "departure_time": "2025-03-18 15:20:00",
+          "arrival_time": "2025-03-18 15:55:00"
+        }
+      ]
+    },
+    "S17550802126834321_O00008": {
+      "order_id": "S17550802126834321_O00008",
+      "order_type": "instore",
+      "user_id": "U010019",
+      "store_id": "S17550802126834321_I00011",
+      "total_price": 298.0,
+      "create_time": "2025-05-10 18:32:45",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17550802126834321_P00055",
+          "price": 298.0,
+          "quantity": 1
+        }
+      ]
+    },
+    "S17550802126834321_O00009": {
+      "order_id": "S17550802126834321_O00009",
+      "order_type": "instore",
+      "user_id": "U010019",
+      "store_id": "S17550802126834321_I00015",
+      "total_price": 49.8,
+      "create_time": "2025-05-10 18:33:22",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17550802126834321_P00076",
+          "price": 29.9,
+          "quantity": 1
+        },
+        {
+          "product_id": "S17550802126834321_P00077",
+          "price": 19.9,
+          "quantity": 1
+        }
+      ]
+    },
+    "S17550802126834321_O00010": {
+      "order_id": "S17550802126834321_O00010",
+      "order_type": "instore",
+      "user_id": "U010019",
+      "store_id": "S17550802126834321_I00012",
+      "total_price": 388.0,
+      "create_time": "2025-04-25 19:20:15",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17550802126834321_P00059",
+          "price": 388.0,
+          "quantity": 1
+        }
+      ]
+    }
+  }
+}

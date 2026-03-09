@@ -1,0 +1,108 @@
+{
+  "required_orders": [
+    {
+      "order_id": "OT7788633b4a",
+      "order_type": "delivery",
+      "user_id": "U009941",
+      "store_id": "S17550802145136245_S00002",
+      "note": "Please deliver as soon as possible, needs to arrive before 19:20",
+      "location": {
+        "address": "5th Floor, Building D, Changzhou Software Park, 9 Taihu East Road, Xinbei District, Changzhou, Jiangsu Province",
+        "longitude": 119.9735,
+        "latitude": 31.8245
+      },
+      "dispatch_time": "2024-12-17 18:55:00",
+      "shipping_time": 20,
+      "delivery_time": "2024-12-17 19:15:00",
+      "total_price": 24.9,
+      "create_time": "2024-12-17 18:46:00",
+      "update_time": "2024-12-17 18:46:00",
+      "status": "delivered",
+      "products": [
+        {
+          "product_id": "S17550802145136245_P00007",
+          "price": 24.9,
+          "quantity": 1,
+          "name": "Clear Chicken Soup Rice Package",
+          "store_id": "S17550802145136245_S00002",
+          "store_name": "Old Chicken Soup Restaurant",
+          "attributes": "Add vegetables",
+          "tags": [
+            "Combo/Package",
+            "Chicken Soup",
+            "Rice",
+            "White Radish"
+          ]
+        }
+      ]
+    },
+    {
+      "order_id": "OIb192a86a78",
+      "order_type": "instore",
+      "user_id": "U009941",
+      "store_id": "S17550802145136245_I00011",
+      "note": "",
+      "location": null,
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 188,
+      "create_time": "2024-12-17 18:47:00",
+      "update_time": "2024-12-17 18:47:00",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17550802145136245_P00059",
+          "price": 188,
+          "quantity": 1,
+          "name": "Small Room 3-Hour Singing",
+          "shop_id": "S17550802145136245_I00011",
+          "tags": [
+            "Small Room",
+            "3 Hours",
+            "Premium Sound Equipment",
+            "Evening Singing"
+          ]
+        }
+      ]
+    },
+    {
+      "order_id": "OO71204f2beb",
+      "order_type": "train",
+      "user_id": "U009941",
+      "store_id": "S17550802145136245_T00009",
+      "note": "",
+      "location": null,
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 147.5,
+      "create_time": "2024-12-17 18:49:00",
+      "update_time": "2024-12-17 18:49:00",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17550802145136245_P00045",
+          "price": 147.5,
+          "quantity": 1,
+          "date": "2024-12-18",
+          "seat_type": "Second Class Seat"
+        }
+      ]
+    }
+  ],
+  "rubrics": [
+    "The takeout food ordered must be chicken soup rice",
+    "The takeout food ordered must not contain carrots",
+    "The price of the takeout food should not exceed 25 yuan",
+    "The takeout order must be delivered before 2024-12-17 19:20",
+    "The delivery address should be 5th Floor, Building D, Changzhou Software Park, 9 Taihu East Road, Xinbei District, Changzhou, Jiangsu Province",
+    "The KTV to be booked should be located within 3km of Changzhou Wanda Cinema, 4th Floor, Wanda Plaza, 123 Yanling West Road, Zhonglou District, Changzhou, Jiangsu Province",
+    "The KTV must have good sound equipment",
+    "The KTV package service duration should be 3 hours",
+    "The KTV package specification should be Small Room",
+    "The train ticket to be booked should be for a departure on December 18, 2025",
+    "The train ticket must be for a morning departure",
+    "Need to check for the shortest morning journey from Changzhou to Huai'an, with the search result showing train G7681 taking 1 hour 15 minutes (10:05-11:20) as the shortest, and need to book this one"
+  ]
+}

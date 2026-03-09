@@ -1,0 +1,69 @@
+{
+  "required_orders": [
+    {
+      "order_id": "H0717001T01",
+      "order_type": "delivery",
+      "user_id": "U000041",
+      "store_id": "S15949154785780736_S01374",
+      "note": "",
+      "location": {
+        "address": "Nanchang No. 2 Middle School (Supu Road Campus), No. 3 Supu Road, Dunzitang Street, Donghu District, Nanchang City, Jiangxi Province",
+        "longitude": 115.900423,
+        "latitude": 28.676482
+      },
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 25,
+      "create_time": "2025-06-21 09:58:00",
+      "update_time": "2025-06-21 09:58:00",
+      "status": "processed",
+      "products": [
+        {
+          "product_id": "S27196852544252758_P93917",
+          "price": 25,
+          "quantity": 1,
+          "attributes": "Less Ice"
+        }
+      ]
+    },
+    {
+      "order_id": "H0717001T02",
+      "order_type": "delivery",
+      "user_id": "U000041",
+      "store_id": "S18899744937884355_S71840",
+      "note": "",
+      "location": {
+        "address": "Nanchang No. 2 Middle School (Supu Road Campus), No. 3 Supu Road, Dunzitang Street, Donghu District, Nanchang City, Jiangxi Province",
+        "longitude": 115.900423,
+        "latitude": 28.676482
+      },
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 158.8,
+      "create_time": "2025-06-21 10:00:00",
+      "update_time": "2025-06-21 10:00:00",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S14045593901868448_P87353",
+          "price": 158.8,
+          "quantity": 1,
+          "attributes": ""
+        }
+      ]
+    }
+  ],
+  "rubrics": [
+    "The delivery address for the fresh juice order should be Nanchang No. 2 Middle School (Supu Road Campus), No. 3 Supu Road, Dunzitang Street, Donghu District, Nanchang City, Jiangxi Province",
+    "The estimated delivery time for the fresh juice order should be around 15:30 on June 21, 2025",
+    "The fresh juice order should select the Less Ice option",
+    "The fresh juice order should choose a product with a variety of fruit ingredients",
+    "The delivery address for the birthday cake order should be Nanchang No. 2 Middle School (Supu Road Campus), No. 3 Supu Road, Dunzitang Street, Donghu District, Nanchang City, Jiangxi Province",
+    "The estimated delivery time for the birthday cake order should be before 17:00 on June 21, 2025",
+    "The birthday cake order should choose a merchant from the Baxi brand",
+    "The birthday cake order product should be made with Fresh Cream",
+    "The birthday cake order should select a design style suitable for little girls' aesthetic preferences"
+  ]
+}

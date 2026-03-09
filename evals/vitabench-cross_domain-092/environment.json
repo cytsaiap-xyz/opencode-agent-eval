@@ -1,0 +1,980 @@
+{
+  "task_id": "A0808009",
+  "domain": "cross_domain",
+  "time": "2026-06-11 10:03:04",
+  "user_id": "U040131",
+  "weather": [
+    {
+      "city": "Nanjing",
+      "category": "cloudy",
+      "datetime": "2026-06-11",
+      "temperature": [
+        24,
+        32
+      ],
+      "humidity": 65
+    },
+    {
+      "city": "Xiangtan",
+      "category": "sunny",
+      "datetime": "2026-06-21",
+      "temperature": [
+        26,
+        34
+      ],
+      "humidity": 70
+    },
+    {
+      "city": "Xiangtan",
+      "category": "showers",
+      "datetime": "2026-06-22",
+      "temperature": [
+        25,
+        33
+      ],
+      "humidity": 75
+    },
+    {
+      "city": "Xiangtan",
+      "category": "cloudy",
+      "datetime": "2026-06-23",
+      "temperature": [
+        24,
+        32
+      ],
+      "humidity": 72
+    },
+    {
+      "city": "Xiangtan",
+      "category": "sunny",
+      "datetime": "2026-06-24",
+      "temperature": [
+        25,
+        33
+      ],
+      "humidity": 68
+    },
+    {
+      "city": "Xiangtan",
+      "category": "sunny",
+      "datetime": "2026-06-25",
+      "temperature": [
+        26,
+        35
+      ],
+      "humidity": 67
+    }
+  ],
+  "location": [],
+  "user_profile": {
+    "user id": "U040131",
+    "occupation": "nurse",
+    "gender": "female",
+    "age group": "25~30",
+    "residence": "Nanjing",
+    "Permanent address": "Room 501, Unit 2, Building 3, Kairun Jincheng Residential Area, No. 389 Central Road, Gulou District, Nanjing, Jiangsu Province",
+    "work address": "Nanjing Gulou Hospital, No.267 Zhongshan North Road, Gulou District, Nanjing, Jiangsu Province",
+    "dietary restrictions": "Avoids caffeine, avoids high sugar",
+    "family status": "Lives with elderly family members",
+    "personality": "Tends to be anxious and worried, needs repeated confirmation to feel at ease"
+  },
+  "user_historical_behaviors": {
+    "user id": "U040131",
+    "occupation": "nurse",
+    "gender": "female",
+    "age group": "25~30",
+    "residence": "Nanjing",
+    "Permanent address": "Room 501, Unit 2, Building 3, Cairun Jincheng Community, No.389 Central Road, Gulou District, Nanjing, Jiangsu Province",
+    "work address": "Nanjing Gulou Hospital, No.267 Zhongshan North Road, Gulou District, Nanjing, Jiangsu Province",
+    "Takeout scenario": {
+      "food delivery": {
+        "breakfast": {
+          "frequently purchased categories": [
+            "Quick meals/Buns/Pan-fried buns (average 18 yuan)",
+            "Quick meals/Dumplings/Wonton (average 22 yuan)",
+            "Quick meals/Light food (average 32 yuan)"
+          ],
+          "cost per order": "15~35 yuan",
+          "preferred store rating": "4.5~4.8",
+          "preferred delivery time": "15~25 minutes",
+          "preferred distance": "0~1500m",
+          "recent orders": [
+            {
+              "store": "Yonghe Soybean Milk (Gulou Branch)",
+              "product": "Original pan-fried buns + Sugar-free soybean milk"
+            },
+            {
+              "store": "Grandma's Handmade Dumplings (Hanzhong Road Branch)",
+              "product": "Three delicacies dumplings"
+            },
+            {
+              "store": "Light Food Concept (Golden Wheel Plaza Branch)",
+              "product": "Whole wheat sandwich + Yogurt"
+            }
+          ],
+          "search history": [
+            "Low-sugar breakfast",
+            "Soybean milk",
+            "Boiled eggs",
+            "Whole wheat bread"
+          ]
+        },
+        "weekday lunch/dinner": {
+          "frequently purchased categories": [
+            "Quick meals/Healthy meals (average 45 yuan)",
+            "Chinese cuisine/Cantonese cuisine (average 65 yuan)",
+            "Quick meals/Salad (average 38 yuan)"
+          ],
+          "cost per order": "35~70 yuan",
+          "preferred store rating": "4.3~4.9",
+          "preferred delivery time": "20~35 minutes",
+          "preferred distance": "0~2500m",
+          "recent orders": [
+            {
+              "store": "Light Food Workshop (Xuanwu Campus Branch)",
+              "product": "Chicken breast with quinoa + Seasonal vegetables"
+            },
+            {
+              "store": "Cantonese Pavilion (Xuanwu District Branch)",
+              "product": "Steamed sea bass + Seasonal vegetables"
+            },
+            {
+              "store": "Fruit Salad (Foreign Language School Branch)",
+              "product": "Avocado chicken salad"
+            }
+          ],
+          "search history": [
+            "Low-fat meals",
+            "Healthy meals",
+            "Steamed dishes",
+            "Cantonese cuisine"
+          ]
+        },
+        "weekend lunch/dinner": {
+          "frequently purchased categories": [
+            "Chinese cuisine/Hunan cuisine (average 88 yuan)",
+            "Foreign cuisine/Japanese bento/Sushi (average 95 yuan)",
+            "Chinese cuisine/Crayfish (average 128 yuan)"
+          ],
+          "cost per order": "80~150 yuan",
+          "preferred store rating": "4.6~5.0",
+          "preferred delivery time": "30~45 minutes",
+          "preferred distance": "0~3500m",
+          "recent orders": [
+            {
+              "store": "Hunan Encounter (Golden Wheel Plaza Branch)",
+              "product": "Chopped chili fish head + Homestyle stir-fried pork"
+            },
+            {
+              "store": "Sushi Story (Gulou Branch)",
+              "product": "Salmon sashimi platter + Chawanmushi"
+            },
+            {
+              "store": "Singapore Crayfish (Hanzhong Road Branch)",
+              "product": "Garlic crayfish + Spicy potatoes"
+            }
+          ],
+          "search history": [
+            "Family meal set",
+            "Japanese cuisine",
+            "Crayfish"
+          ]
+        },
+        "desserts/drinks/snacks": {
+          "frequently purchased categories": [
+            "Drinks and desserts/Juice (average 26 yuan)",
+            "Drinks and desserts/Fruit salad (average 35 yuan)",
+            "Drinks and desserts/Chinese pastries (average 28 yuan)"
+          ],
+          "cost per order": "20~40 yuan",
+          "preferred store rating": "4.4~4.9",
+          "preferred delivery time": "15~30 minutes",
+          "preferred distance": "0~2000m",
+          "recent orders": [
+            {
+              "store": "Fresh Juice (Golden Wheel Plaza Branch)",
+              "product": "Fresh grapefruit juice (sugar-free)"
+            },
+            {
+              "store": "Fruit Delights (Gulou Branch)",
+              "product": "Colorful fruit salad (less sugar)"
+            },
+            {
+              "store": "Taoli Pastry (Hanzhong Road Branch)",
+              "product": "Red bean cake (low-sugar version)"
+            }
+          ],
+          "search history": [
+            "Sugar-free drinks",
+            "Low-sugar desserts",
+            "Fruit salad",
+            "Healthy desserts"
+          ]
+        },
+        "night snack": {
+          "frequently purchased categories": [
+            "Quick meals/Small dishes/Half portions (average 42 yuan)",
+            "Quick meals/Rice noodles/Vermicelli (average 35 yuan)"
+          ],
+          "cost per order": "30~50 yuan",
+          "preferred store rating": "4.2~4.8",
+          "preferred delivery time": "20~35 minutes",
+          "preferred distance": "0~2000m",
+          "recent orders": [
+            {
+              "store": "Small Dishes (Gulou Night Snack Branch)",
+              "product": "Stir-fried seasonal vegetables + Steamed chicken"
+            },
+            {
+              "store": "Yunnan Crossing Bridge Rice Noodles (Hanzhong Road Branch)",
+              "product": "Clear soup rice noodles"
+            },
+            {
+              "store": "Home-style Stir-fry (Golden Wheel Plaza Branch)",
+              "product": "Tomato and egg stir-fry + Small portion of rice"
+            }
+          ],
+          "search history": [
+            "Healthy night snacks",
+            "Light stir-fry dishes",
+            "Small portions",
+            "Stomach-friendly night snacks"
+          ]
+        }
+      },
+      "product delivery": {
+        "frequently purchased categories": [
+          "Vegetables/Bean products(32%)",
+          "Fruits(23%)",
+          "Study/Office supplies(15%)",
+          "Household items(12%)",
+          "Grain, oil, seasoning, dry goods(10%)",
+          "Others(8%)"
+        ],
+        "frequently visited stores": [
+          "Yonghui Supermarket (Golden Wheel Plaza Branch)(45%)",
+          "Dmall Supermarket (Gulou District Branch)(28%)",
+          "FamilyMart (Hanzhong Road Branch)(18%)",
+          "Other stores(9%)"
+        ],
+        "cost per order by category": {
+          "Vegetables/Bean products": "5~30 yuan",
+          "Fruits": "10~50 yuan",
+          "Study/Office supplies": "5~45 yuan",
+          "Household items": "10~60 yuan",
+          "Grain, oil, seasoning, dry goods": "8~40 yuan"
+        },
+        "preferred delivery time": "25~60 minutes",
+        "typical order time": "17~19 o'clock(38%), 9~11 o'clock(25%), 13~15 o'clock(20%)",
+        "recent orders": [
+          {
+            "store": "Yonghui Supermarket (Golden Wheel Plaza Branch)",
+            "product": "Organic broccoli 300g, tofu, carrots"
+          },
+          {
+            "store": "Dmall Supermarket (Gulou District Branch)",
+            "product": "4 apples, a bunch of bananas, 3 kiwi fruits"
+          },
+          {
+            "store": "Stationery Supermarket (Hanzhong Road Branch)",
+            "product": "Colored sticky notes, marker pen set"
+          }
+        ],
+        "search history": [
+          "Organic vegetables",
+          "Seasonal fruits",
+          "Office supplies",
+          "Additive-free food"
+        ]
+      }
+    },
+    "In-store scenario": {
+      "in-store dining": {
+        "fine-dining": {
+          "frequently consumed categories": [
+            "Regional cuisine/Local Jiangsu and Zhejiang cuisine (average 95 yuan)",
+            "Foreign cuisine/Japanese cuisine (average 120 yuan)",
+            "Regional cuisine/Cantonese cuisine (average 85 yuan)"
+          ],
+          "preferred average price per person": "85~120 yuan",
+          "preferred store rating": "4.0~4.7 stars",
+          "typical dining time": "18:30-20:30",
+          "preferred distance": "800~2500m",
+          "recent orders": [
+            {
+              "store": "Songhe Lou (Confucius Temple Branch)",
+              "product": "Crab roe lion's head meatball set meal"
+            },
+            {
+              "store": "Daiyo Teppanyaki",
+              "product": "Japanese-style salad + Salmon set meal"
+            },
+            {
+              "store": "Yuexuan Chinese Restaurant",
+              "product": "Steamed sea bass + Seasonal vegetables"
+            }
+          ],
+          "search history": [
+            "Sugar-free desserts",
+            "Healthy restaurants",
+            "Low-fat dishes",
+            "Nanjing specialty dishes",
+            "Japanese cuisine"
+          ]
+        },
+        "light meal": {
+          "frequently consumed categories": [
+            "Snacks and fast food/Chinese quick meals (average 35 yuan)",
+            "Snacks and fast food/Western fast food (average 30 yuan)",
+            "Regional cuisine/Other regional cuisines (average 45 yuan)"
+          ],
+          "preferred average price per person": "25~45 yuan",
+          "preferred store rating": "3.5~4.2 stars",
+          "typical dining time": "11:30-13:00",
+          "preferred distance": "0~500m",
+          "recent orders": [
+            {
+              "store": "Yonghe King",
+              "product": "Three delicacies soybean milk set"
+            },
+            {
+              "store": "Jixiang Wonton",
+              "product": "Shrimp wonton + Side dish"
+            },
+            {
+              "store": "Sha County Snacks",
+              "product": "Three-diced set meal"
+            }
+          ],
+          "search history": [
+            "Restaurants near hospital",
+            "Fast food",
+            "Healthy lunch",
+            "Low-fat set meals"
+          ]
+        },
+        "desserts/drinks/snacks": {
+          "frequently consumed categories": [
+            "Bread and desserts (average 18 yuan)",
+            "Beverage shops (average 15 yuan)",
+            "Other dining/Fresh fruits (average 12 yuan)"
+          ],
+          "preferred average price per person": "12~20 yuan",
+          "preferred store rating": "3.8~4.5 stars",
+          "typical dining time": "15:00-16:30",
+          "preferred distance": "0~300m",
+          "recent orders": [
+            {
+              "store": "A Little Tea",
+              "product": "Sugar-free oolong tea"
+            },
+            {
+              "store": "HeyTea",
+              "product": "Very Grape (less sugar)"
+            },
+            {
+              "store": "BreadTalk",
+              "product": "Whole wheat toast"
+            }
+          ],
+          "search history": [
+            "Sugar-free beverages",
+            "Low-calorie desserts",
+            "Healthy fruit tea",
+            "Whole wheat bread"
+          ]
+        }
+      },
+      "other in-store services": {
+        "frequently consumed categories": {
+          "Beauty/Yoga": "35%",
+          "Sports and fitness/Fitness centers": "40%",
+          "Leisure and entertainment/Massage/Foot therapy": "15%",
+          "Beauty/Nail art": "10%"
+        },
+        "cost per order by category": {
+          "Beauty/Yoga": "80~150 yuan",
+          "Sports and fitness/Fitness centers": "60~120 yuan",
+          "Leisure and entertainment/Massage/Foot therapy": "120~180 yuan",
+          "Beauty/Nail art": "80~150 yuan"
+        },
+        "preferred store rating": "4.0~4.8 stars",
+        "preferred service time": "19:00-21:00",
+        "preferred distance": "0~3000m",
+        "recent orders": [
+          {
+            "store": "Leke Fitness (Gulou Branch)",
+            "product": "Single fitness class"
+          },
+          {
+            "store": "Fanyin Yoga",
+            "product": "Monthly card for 8 classes"
+          },
+          {
+            "store": "Yuejuejian Foot Massage",
+            "product": "Traditional Chinese massage package"
+          }
+        ],
+        "search history": [
+          "Yoga classes",
+          "Stress-relief massage",
+          "Fitness discounts for medical staff",
+          "Women's gym",
+          "Nearby fitness centers"
+        ]
+      }
+    },
+    "OTA": {
+      "visited scenes": {
+        "Exhibition halls (museums/art galleries)": "35%",
+        "Natural landscapes (mountains/lakes/forests)": "25%",
+        "Parks": "20%",
+        "Hot spring scenic areas": "15%",
+        "Cultural and historical sites": "5%"
+      },
+      "cost per night on hotel": "300~500 yuan",
+      "visited hotels": {
+        "Home Inn": "30%",
+        "Atour": "25%",
+        "Ji Hotel": "20%",
+        "Orange Hotel": "15%",
+        "Hanting": "10%"
+      },
+      "browsed hotels": {
+        "Comfort hotels": "45%",
+        "Three-star hotels": "35%",
+        "Economy hotels": "15%",
+        "Four-star hotels": "5%"
+      },
+      "historical travel plans": {
+        "Nanjing-Hangzhou": {
+          "Price range": "100-150 yuan",
+          "Transportation method": "High-speed rail/EMU"
+        },
+        "Hangzhou-Nanjing": {
+          "Price range": "100-150 yuan",
+          "Transportation method": "High-speed rail/EMU"
+        },
+        "Nanjing-Huangshan": {
+          "Price range": "150-200 yuan",
+          "Transportation method": "High-speed rail/EMU"
+        },
+        "Huangshan-Nanjing": {
+          "Price range": "150-200 yuan",
+          "Transportation method": "High-speed rail/EMU"
+        },
+        "Nanjing-Suzhou": {
+          "Price range": "80-120 yuan",
+          "Transportation method": "High-speed rail/EMU"
+        },
+        "Suzhou-Nanjing": {
+          "Price range": "80-120 yuan",
+          "Transportation method": "High-speed rail/EMU"
+        },
+        "Nanjing-Shanghai": {
+          "Price range": "140-180 yuan",
+          "Transportation method": "High-speed rail/EMU"
+        },
+        "Shanghai-Nanjing": {
+          "Price range": "140-180 yuan",
+          "Transportation method": "High-speed rail/EMU"
+        },
+        "Nanjing-Beijing": {
+          "Price range": "550-700 yuan",
+          "Transportation method": "High-speed rail/EMU"
+        },
+        "Beijing-Nanjing": {
+          "Price range": "550-700 yuan",
+          "Transportation method": "High-speed rail/EMU"
+        }
+      }
+    }
+  },
+  "stores": {
+    "S17550809870242807_S00001": {
+      "name": "Home Living Selection",
+      "store_id": "S17550809870242807_S00001",
+      "score": 4.8,
+      "location": {
+        "address": "Home Living Selection, No.123 Furong Middle Road, Construction North Road Street, Yuetang District, Xiangtan, Hunan Province",
+        "latitude": 27.8346,
+        "longitude": 112.9445
+      },
+      "tags": [
+        "Daily necessities",
+        "Household items",
+        "Bathroom supplies",
+        "Business hours: 07:00-17:30"
+      ],
+      "store_type": "target",
+      "products": [
+        {
+          "name": "Disposable toilet seat covers 3-piece pack",
+          "store_id": "S17550809870242807_S00001",
+          "store_name": "Home Living Selection",
+          "price": 6.9,
+          "tags": [
+            "Toilet seat cover",
+            "Disposable",
+            "Hygiene products",
+            "Travel essential",
+            "Travel size"
+          ],
+          "product_id": "S17550809870242807_P00001",
+          "attributes": [],
+          "product_type": "target"
+        },
+        {
+          "name": "Extra thick disposable toilet seat covers 10-piece pack",
+          "store_id": "S17550809870242807_S00001",
+          "store_name": "Home Living Selection",
+          "price": 15.8,
+          "tags": [
+            "Toilet seat cover",
+            "Extra thick",
+            "Hygiene products",
+            "Travel set",
+            "20-piece pack"
+          ],
+          "product_id": "S17550809870242807_P00002",
+          "attributes": [],
+          "product_type": "target"
+        },
+        {
+          "name": "Skin-friendly disposable toilet seat covers 5-piece pack",
+          "store_id": "S17550809870242807_S00001",
+          "store_name": "Home Living Selection",
+          "price": 6.5,
+          "tags": [
+            "Toilet seat cover",
+            "Skin-friendly",
+            "Hygiene products",
+            "Travel portable"
+          ],
+          "product_id": "S17550809870242807_P00003",
+          "attributes": [],
+          "product_type": "distraction"
+        },
+        {
+          "name": "Bathroom cleaning set",
+          "store_id": "S17550809870242807_S00001",
+          "store_name": "Home Living Selection",
+          "price": 29.9,
+          "tags": [
+            "Cleaning set",
+            "Bathroom supplies",
+            "Disinfectant",
+            "Cleaning brush"
+          ],
+          "product_id": "S17550809870242807_P00004",
+          "attributes": [],
+          "product_type": "distraction"
+        },
+        {
+          "name": "Premium waterproof toilet seat covers 15-piece pack",
+          "store_id": "S17550809870242807_S00001",
+          "store_name": "Home Living Selection",
+          "price": 19.9,
+          "tags": [
+            "Toilet seat cover",
+            "Waterproof",
+            "Premium",
+            "Travel essential",
+            "Hygiene products"
+          ],
+          "product_id": "S17550809870242807_P00005",
+          "attributes": [],
+          "product_type": "target"
+        }
+      ]
+    },
+    "S17550809870242807_S00002": {
+      "name": "FamilyMart convenience store",
+      "store_id": "S17550809870242807_S00002",
+      "score": 4.6,
+      "location": {
+        "address": "FamilyMart, No.58 Renmin Road, Yuhu District, Xiangtan, Hunan Province",
+        "latitude": 27.8562,
+        "longitude": 112.9127
+      },
+      "tags": [
+        "Convenience store",
+        "Daily necessities",
+        "Snacks",
+        "Open 24 hours"
+      ],
+      "store_type": "distraction",
+      "products": [
+        {
+          "name": "Disposable underwear 5-piece pack",
+          "store_id": "S17550809870242807_S00002",
+          "store_name": "FamilyMart convenience store",
+          "price": 19.9,
+          "tags": [
+            "Hygiene products",
+            "Travel essential",
+            "Disposable items"
+          ],
+          "product_id": "S17550809870242807_P00006",
+          "attributes": [
+            "M size",
+            "L size"
+          ],
+          "product_type": "distraction"
+        },
+        {
+          "name": "Wet toilet wipes",
+          "store_id": "S17550809870242807_S00002",
+          "store_name": "FamilyMart convenience store",
+          "price": 12.8,
+          "tags": [
+            "Hygiene products",
+            "Cleaning supplies",
+            "Wet wipes"
+          ],
+          "product_id": "S17550809870242807_P00007",
+          "attributes": [],
+          "product_type": "distraction"
+        },
+        {
+          "name": "Travel-size toiletry set",
+          "store_id": "S17550809870242807_S00002",
+          "store_name": "FamilyMart convenience store",
+          "price": 29.9,
+          "tags": [
+            "Travel supplies",
+            "Toiletries",
+            "Travel size"
+          ],
+          "product_id": "S17550809870242807_P00008",
+          "attributes": [
+            "Toothbrush",
+            "Toothpaste",
+            "Towel"
+          ],
+          "product_type": "distraction"
+        },
+        {
+          "name": "Disposable gloves 10-piece pack",
+          "store_id": "S17550809870242807_S00002",
+          "store_name": "FamilyMart convenience store",
+          "price": 8.5,
+          "tags": [
+            "Hygiene products",
+            "Protective items",
+            "Disposable items"
+          ],
+          "product_id": "S17550809870242807_P00009",
+          "attributes": [
+            "Medium size"
+          ],
+          "product_type": "distraction"
+        },
+        {
+          "name": "Facial tissues 3-pack",
+          "store_id": "S17550809870242807_S00002",
+          "store_name": "FamilyMart convenience store",
+          "price": 14.5,
+          "tags": [
+            "Paper products",
+            "Daily necessities",
+            "Hygiene products"
+          ],
+          "product_id": "S17550809870242807_P00010",
+          "attributes": [],
+          "product_type": "distraction"
+        }
+      ]
+    },
+    "S17550809870242807_S00003": {
+      "name": "KangJie Bathroom Specialty Store",
+      "store_id": "S17550809870242807_S00003",
+      "score": 4.7,
+      "location": {
+        "address": "KangJie Bathroom Specialty Store, No.235 Xiangtan Avenue, Baota Street, Yuetang District, Xiangtan, Hunan Province",
+        "latitude": 27.8291,
+        "longitude": 112.9512
+      },
+      "tags": [
+        "Bathroom supplies",
+        "Cleaning supplies",
+        "Toilet seat cover",
+        "Open 24 hours"
+      ],
+      "store_type": "target",
+      "products": [
+        {
+          "name": "Disposable toilet seat covers 3-piece pack",
+          "store_id": "S17550809870242807_S00003",
+          "store_name": "KangJie Bathroom Specialty Store",
+          "price": 6.9,
+          "tags": [
+            "Hygiene",
+            "Travel essential",
+            "Travel size"
+          ],
+          "product_id": "S17550809870242807_P00011",
+          "attributes": [],
+          "product_type": "target"
+        },
+        {
+          "name": "KangJie travel toilet seat covers 10-piece pack",
+          "store_id": "S17550809870242807_S00003",
+          "store_name": "KangJie Bathroom Specialty Store",
+          "price": 15.8,
+          "tags": [
+            "Hygiene",
+            "Extra thick",
+            "Waterproof"
+          ],
+          "product_id": "S17550809870242807_P00012",
+          "attributes": [],
+          "product_type": "target"
+        },
+        {
+          "name": "KangJie disposable underwear 5-piece (adult)",
+          "store_id": "S17550809870242807_S00003",
+          "store_name": "KangJie Bathroom Specialty Store",
+          "price": 23.5,
+          "tags": [
+            "Travel",
+            "Clean"
+          ],
+          "product_id": "S17550809870242807_P00013",
+          "attributes": [
+            "M-L size"
+          ],
+          "product_type": "distraction"
+        },
+        {
+          "name": "KangJie pull-out wet toilet paper 50-piece pack",
+          "store_id": "S17550809870242807_S00003",
+          "store_name": "KangJie Bathroom Specialty Store",
+          "price": 29.9,
+          "tags": [
+            "Large capacity",
+            "Pull-out style",
+            "Portable box packaging"
+          ],
+          "product_id": "S17550809870242807_P00014",
+          "attributes": [],
+          "product_type": "target"
+        },
+        {
+          "name": "Toilet bowl cleaner 500ml",
+          "store_id": "S17550809870242807_S00003",
+          "store_name": "KangJie Bathroom Specialty Store",
+          "price": 19.8,
+          "tags": [
+            "Cleaning agent",
+            "Disinfection",
+            "Stain removal",
+            "Bathroom cleaning"
+          ],
+          "product_id": "S17550809870242807_P00015",
+          "attributes": [
+            "Lemon scent",
+            "Pine scent"
+          ],
+          "product_type": "distraction"
+        }
+      ]
+    },
+    "S17550809870242807_S00004": {
+      "name": "Watsons",
+      "store_id": "S17550809870242807_S00004",
+      "score": 4.9,
+      "location": {
+        "address": "Watsons, 1st Floor, BBG Plaza, No.78 Shaoshan West Road, Yuhu District, Xiangtan, Hunan Province",
+        "latitude": 27.8534,
+        "longitude": 112.9198
+      },
+      "tags": [
+        "Personal care",
+        "Cosmetics",
+        "Hygiene products",
+        "Business hours: 10:00-18:00"
+      ],
+      "store_type": "distraction",
+      "products": [
+        {
+          "name": "Disposable toilet seat covers (3-piece pack)",
+          "store_id": "S17550809870242807_S00004",
+          "store_name": "Watsons",
+          "price": 9.9,
+          "tags": [
+            "Disposable",
+            "Hygiene products",
+            "Travel essential",
+            "Toilet seat cover"
+          ],
+          "product_id": "S17550809870242807_P00016",
+          "attributes": [],
+          "product_type": "distraction"
+        },
+        {
+          "name": "Kleenex hygienic toilet seat covers (10-piece pack)",
+          "store_id": "S17550809870242807_S00004",
+          "store_name": "Watsons",
+          "price": 26.8,
+          "tags": [
+            "Kleenex",
+            "Toilet seat cover",
+            "Travel size",
+            "Hygiene products"
+          ],
+          "product_id": "S17550809870242807_P00017",
+          "attributes": [],
+          "product_type": "distraction"
+        },
+        {
+          "name": "C&S disposable toilet seat covers (travel pack 12-piece)",
+          "store_id": "S17550809870242807_S00004",
+          "store_name": "Watsons",
+          "price": 22.5,
+          "tags": [
+            "C&S",
+            "Portable",
+            "Hygiene products",
+            "Toilet seat cover"
+          ],
+          "product_id": "S17550809870242807_P00018",
+          "attributes": [],
+          "product_type": "distraction"
+        },
+        {
+          "name": "Vinda antibacterial toilet seat covers (15-piece pack)",
+          "store_id": "S17550809870242807_S00004",
+          "store_name": "Watsons",
+          "price": 24.9,
+          "tags": [
+            "Vinda",
+            "Antibacterial",
+            "Hygiene products",
+            "Travel essential"
+          ],
+          "product_id": "S17550809870242807_P00019",
+          "attributes": [],
+          "product_type": "distraction"
+        },
+        {
+          "name": "Travel toiletry set (toothbrush, toothpaste + towel)",
+          "store_id": "S17550809870242807_S00004",
+          "store_name": "Watsons",
+          "price": 39.9,
+          "tags": [
+            "Travel",
+            "Toiletries",
+            "Set",
+            "Portable"
+          ],
+          "product_id": "S17550809870242807_P00020",
+          "attributes": [],
+          "product_type": "distraction"
+        }
+      ]
+    }
+  },
+  "orders": {
+    "S17550809870242807_O00001": {
+      "order_id": "S17550809870242807_O00001",
+      "order_type": "delivery",
+      "user_id": "U040131",
+      "store_id": "S17550809870242807_S00003",
+      "total_price": 29.9,
+      "create_time": "2026-06-10 20:15:23",
+      "status": "delivered",
+      "products": [
+        {
+          "product_id": "S17550809870242807_P00014",
+          "price": 29.9,
+          "quantity": 1
+        }
+      ]
+    },
+    "S17550809870242807_O00002": {
+      "order_id": "S17550809870242807_O00002",
+      "order_type": "train",
+      "user_id": "U040131",
+      "store_id": "S17550809870242807_T00010",
+      "note": "Father's Day travel",
+      "location": {
+        "address": "Nanjing Railway Station, No.1 Longpan Road, Xuanwu District, Nanjing, Jiangsu Province",
+        "longitude": 118.798,
+        "latitude": 32.086
+      },
+      "dispatch_time": "",
+      "shipping_time": 0.0,
+      "delivery_time": "",
+      "total_price": 2233,
+      "create_time": "2026-06-09 14:23:45",
+      "update_time": "2026-06-09 14:23:45",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17550809870242807_P00051",
+          "price": 1680,
+          "quantity": 1,
+          "seat_type": "Business class seat"
+        },
+        {
+          "product_id": "S17550809870242807_P00053",
+          "price": 553,
+          "quantity": 1,
+          "seat_type": "Second class seat"
+        }
+      ]
+    },
+    "S17550809870242807_O00003": {
+      "order_id": "S17550809870242807_O00003",
+      "order_type": "hotel",
+      "user_id": "U040131",
+      "store_id": "S17550809870242807_H00006",
+      "note": "Father's Day travel accommodation",
+      "location": {
+        "address": "Xiangtan IKEA Business Hotel, No.168 Xiangtan Avenue, Construction South Road Street, Yuetang District, Xiangtan, Hunan Province",
+        "longitude": 112.9456,
+        "latitude": 27.8295
+      },
+      "dispatch_time": "",
+      "shipping_time": 0.0,
+      "delivery_time": "",
+      "total_price": 716,
+      "create_time": "2026-06-09 15:12:37",
+      "update_time": "2026-06-09 15:12:37",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17550809870242807_P00026",
+          "price": 159,
+          "quantity": 2,
+          "date": "2026-06-21",
+          "room_type": "Standard single room"
+        },
+        {
+          "product_id": "S17550809870242807_P00028",
+          "price": 199,
+          "quantity": 2,
+          "date": "2026-06-23",
+          "room_type": "Business single room"
+        }
+      ]
+    },
+    "S17550809870242807_O00004": {
+      "order_id": "S17550809870242807_O00004",
+      "order_type": "instore",
+      "user_id": "U040131",
+      "store_id": "S17550809870242807_I00013",
+      "total_price": 178,
+      "create_time": "2026-06-10 09:45:12",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17550809870242807_P00067",
+          "price": 178,
+          "quantity": 1
+        }
+      ]
+    }
+  }
+}

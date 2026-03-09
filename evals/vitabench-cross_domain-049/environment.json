@@ -1,0 +1,435 @@
+{
+  "task_id": "A0807007",
+  "domain": "cross_domain",
+  "time": "2025-03-14 11:30:00",
+  "user_id": "U010092",
+  "weather": [
+    {
+      "city": "Beijing",
+      "category": "sunny",
+      "datetime": "2025-03-14",
+      "temperature": [
+        8,
+        17
+      ],
+      "humidity": 45
+    },
+    {
+      "city": "Beijing",
+      "category": "cloudy",
+      "datetime": "2025-03-16",
+      "temperature": [
+        7,
+        16
+      ],
+      "humidity": 50
+    }
+  ],
+  "location": [],
+  "user_profile": {
+    "user id": "U010092",
+    "occupation": "Algorithm Engineer",
+    "gender": "male",
+    "age group": "30~35",
+    "residence": "Beijing",
+    "home address": "Youth Apartment, 34 North Third Ring Road West, Haidian District, Beijing (440 meters walk from Exit C Southeast of Renmin University Subway Station)",
+    "work address": "15th Floor, Tower 1, Block B, Wangjing SOHO, Chaoyang District, Beijing",
+    "dietary restrictions": "No coffee, no fried food",
+    "family status": "Has children",
+    "personality": "Gentle personality with high cooperation, good at listening and understanding"
+  },
+  "user_historical_behaviors": {
+    "user id": "U010092",
+    "occupation": "Algorithm Engineer",
+    "gender": "male",
+    "age group": "30~35",
+    "residence": "Beijing",
+    "home address": "Youth Apartment, 34 North Third Ring Road West, Haidian District, Beijing (440 meters walk from Exit C Southeast of Renmin University Subway Station)",
+    "work address": "15th Floor, Tower 1, Block B, Wangjing SOHO, Chaoyang District, Beijing",
+    "delivery": {
+      "food delivery": {
+        "breakfast": {
+          "frequently purchased categories": [
+            "Quick meals/Pancakes/Wraps/Hand-grabbed pancakes (average 22 yuan)",
+            "Quick meals/Steamed buns/Pan-fried buns (average 18 yuan)",
+            "Quick meals/Light meals (average 32 yuan)"
+          ],
+          "cost per order": "15~35 yuan",
+          "preferred store rating": "4.2~4.8 points",
+          "preferred delivery time": "15~25 minutes",
+          "preferred distance": "0~1500m",
+          "recent orders": [
+            {
+              "store": "Mr. Light Food",
+              "product": "Avocado chicken sandwich + Low-fat yogurt"
+            },
+            {
+              "store": "Old Beijing Pancakes",
+              "product": "Whole wheat pancake + Soy milk"
+            },
+            {
+              "store": "Dim Sum Moment",
+              "product": "Multigrain buns + Steamed egg"
+            }
+          ],
+          "search history": [
+            "Healthy breakfast",
+            "Whole wheat bread",
+            "Low-fat breakfast",
+            "Oatmeal"
+          ]
+        },
+        "weekday lunch/dinner": {
+          "frequently purchased categories": [
+            "Quick meals/Healthy meals (average 45 yuan)",
+            "Chinese cuisine/Cantonese cuisine (average 65 yuan)",
+            "International cuisine/Japanese bento/Sushi (average 58 yuan)"
+          ],
+          "cost per order": "40~75 yuan",
+          "preferred store rating": "4.3~4.9 points",
+          "preferred delivery time": "20~35 minutes",
+          "preferred distance": "0~3000m",
+          "recent orders": [
+            {
+              "store": "Healthy Meal Solutions",
+              "product": "Light chicken breast salad"
+            },
+            {
+              "store": "Cantonese Pavilion",
+              "product": "Steamed fish set meal"
+            },
+            {
+              "store": "Japanese Cuisine",
+              "product": "Salmon bento"
+            }
+          ],
+          "search history": [
+            "Healthy meals",
+            "Low oil",
+            "Cantonese cuisine",
+            "Japanese bento"
+          ]
+        },
+        "weekend lunch/dinner": {
+          "frequently purchased categories": [
+            "Chinese cuisine/Hunan cuisine (average 88 yuan)",
+            "Chinese cuisine/Grilled fish (average 98 yuan)",
+            "International cuisine/Korean cuisine (average 105 yuan)"
+          ],
+          "cost per order": "80~180 yuan",
+          "preferred store rating": "4.5~5.0 points",
+          "preferred delivery time": "30~45 minutes",
+          "preferred distance": "0~4000m",
+          "recent orders": [
+            {
+              "store": "Star Hunan Kitchen",
+              "product": "Fish head with chopped chili + Homestyle stir-fried pork"
+            },
+            {
+              "store": "Fish Meets Charcoal",
+              "product": "Secret recipe grilled fish (not spicy)"
+            },
+            {
+              "store": "Seoul Little Restaurant",
+              "product": "Stone pot bibimbap + Kimchi soup"
+            }
+          ],
+          "search history": [
+            "Oil-free cooking",
+            "Grilled fish",
+            "Korean cuisine",
+            "Hunan cuisine"
+          ]
+        },
+        "desserts/drinks/snacks": {
+          "frequently purchased categories": [
+            "Desserts/drinks/Juice (average 28 yuan)",
+            "Desserts/drinks/Fruit salad (average 35 yuan)",
+            "Desserts/drinks/Chinese pastries (average 22 yuan)"
+          ],
+          "cost per order": "20~40 yuan",
+          "preferred store rating": "4.4~4.9 points",
+          "preferred delivery time": "15~30 minutes",
+          "preferred distance": "0~2500m",
+          "recent orders": [
+            {
+              "store": "Fresh Juice Station",
+              "product": "Fresh grapefruit juice"
+            },
+            {
+              "store": "Truly Fresh",
+              "product": "Colorful fruit salad"
+            },
+            {
+              "store": "Pastry Workshop",
+              "product": "Red date cake"
+            }
+          ],
+          "search history": [
+            "Juice",
+            "Sugar-free drinks",
+            "Fruit salad",
+            "Healthy desserts"
+          ]
+        },
+        "night snack": {
+          "frequently purchased categories": [
+            "Snacks/Marinated foods (average 42 yuan)",
+            "Quick meals/Rice noodles/Vermicelli (average 35 yuan)"
+          ],
+          "cost per order": "30~50 yuan",
+          "preferred store rating": "4.0~4.7 points",
+          "preferred delivery time": "20~35 minutes",
+          "preferred distance": "0~2500m",
+          "recent orders": [
+            {
+              "store": "Old Street Marinated Foods",
+              "product": "Marinated platter (without fried foods)"
+            },
+            {
+              "store": "Yunnan Crossing Bridge Rice Noodles",
+              "product": "Clear soup rice noodles"
+            },
+            {
+              "store": "Congee Fragrance House",
+              "product": "Century egg and lean pork congee"
+            }
+          ],
+          "search history": [
+            "Marinated foods",
+            "Rice noodles",
+            "Night congee",
+            "Night snack"
+          ]
+        }
+      },
+      "product delivery": {
+        "frequently purchased categories": [
+          "Fruits(28%)",
+          "Vegetables/Bean products(23%)",
+          "Household items(16%)",
+          "Flowers and gardening(14%)",
+          "Beauty and skincare(10%)",
+          "Others(9%)"
+        ],
+        "frequently visited stores": [
+          "MissFresh Convenience Store(35%)",
+          "Hema Fresh(27%)",
+          "7-11 Convenience Store(20%)",
+          "Other stores(18%)"
+        ],
+        "cost per order by category": {
+          "Fruits": "15~40 yuan",
+          "Vegetables/Bean products": "5~20 yuan",
+          "Household items": "20~60 yuan",
+          "Flowers and gardening": "50~200 yuan",
+          "Beauty and skincare": "80~300 yuan"
+        },
+        "preferred delivery time": "25~60 minutes",
+        "typical order time": "18~20(32%), 10~12(25%), 14~16(18%)",
+        "recent orders": [
+          {
+            "store": "Hema Fresh",
+            "product": "Organic vegetable gift box"
+          },
+          {
+            "store": "MissFresh Convenience Store",
+            "product": "3 imported avocados"
+          },
+          {
+            "store": "Floral Lifestyle",
+            "product": "Nordic style potted plants"
+          }
+        ],
+        "search history": [
+          "Organic vegetables",
+          "Avocado",
+          "Indoor plants",
+          "Alcohol-free toner",
+          "Natural face mask"
+        ]
+      }
+    },
+    "in-store consumption": {
+      "in-store dining": {
+        "fine-dining": {
+          "frequently purchased categories": [
+            "International cuisine/Western food (average 180 yuan)",
+            "Regional cuisine/Jiangzhe cuisine (average 150 yuan)",
+            "International cuisine/Japanese food (average 200 yuan)"
+          ],
+          "preferred average price per person": "150~200 yuan",
+          "preferred store rating": "4.2~4.9 stars",
+          "typical dining time": "19:00-21:00",
+          "preferred distance": "800~3000m",
+          "recent orders": [
+            {
+              "store": "Lugang Small Town",
+              "product": "Taiwanese three-cup chicken"
+            },
+            {
+              "store": "Yong Gui Fu",
+              "product": "Steamed bass"
+            },
+            {
+              "store": "Japanese Cuisine",
+              "product": "Sashimi platter"
+            }
+          ],
+          "search history": [
+            "Salt-free dishes",
+            "Light food restaurants",
+            "Healthy cuisine",
+            "High-end restaurants"
+          ]
+        },
+        "light meal": {
+          "frequently purchased categories": [
+            "Snacks/quick meals/Chinese quick meals (average 45 yuan)",
+            "Snacks/quick meals/Western fast food (average 35 yuan)"
+          ],
+          "preferred average price per person": "30~50 yuan",
+          "preferred store rating": "3.5~4.2 stars",
+          "typical dining time": "12:00-13:30",
+          "preferred distance": "0~500m",
+          "recent orders": [
+            {
+              "store": "Yonghe King",
+              "product": "Low-salt soy milk set"
+            },
+            {
+              "store": "Yoshinoya",
+              "product": "Vegetable beef rice"
+            },
+            {
+              "store": "Salad Diary",
+              "product": "Light food salad"
+            }
+          ],
+          "search history": [
+            "Healthy fast food",
+            "Low-salt diet",
+            "Light food",
+            "Bento"
+          ]
+        },
+        "desserts/drinks/snacks": {
+          "frequently purchased categories": [
+            "Beverage shops (average 25 yuan)",
+            "Bread and desserts (average 30 yuan)",
+            "Other dining/Fresh fruits (average 20 yuan)"
+          ],
+          "preferred average price per person": "20~35 yuan",
+          "preferred store rating": "4.0~4.8 stars",
+          "typical dining time": "15:00-17:00",
+          "preferred distance": "0~800m",
+          "recent orders": [
+            {
+              "store": "Nayuki Tea",
+              "product": "Sugar-free cheese tea"
+            },
+            {
+              "store": "Bread Talk",
+              "product": "Whole wheat bread"
+            },
+            {
+              "store": "Xianfeng Fruits",
+              "product": "Fruit platter"
+            }
+          ],
+          "search history": [
+            "Sugar-free drinks",
+            "Low-fat desserts",
+            "Fruits",
+            "Healthy snacks"
+          ]
+        }
+      },
+      "other in-store services": {
+        "frequently consumed categories": {
+          "Sports fitness/Fitness centers": "40%",
+          "Beauty/Yoga": "25%",
+          "Leisure entertainment/Massage/Foot therapy": "15%",
+          "Parent-child/Family entertainment": "20%"
+        },
+        "cost per order by category": {
+          "Sports fitness/Fitness centers": "150~300 yuan",
+          "Beauty/Yoga": "120~180 yuan",
+          "Leisure entertainment/Massage/Foot therapy": "180~250 yuan",
+          "Parent-child/Family entertainment": "100~200 yuan"
+        },
+        "preferred store rating": "4.0~4.8 stars",
+        "preferred service time": "18:00-21:00",
+        "preferred distance": "500~5000m",
+        "recent orders": [
+          {
+            "store": "Supermonkey Fitness",
+            "product": "Monthly membership"
+          },
+          {
+            "store": "Youji Yoga",
+            "product": "Single trial class"
+          },
+          {
+            "store": "LEGO Discovery Center",
+            "product": "Family package"
+          }
+        ],
+        "search history": [
+          "Gym",
+          "Family activities",
+          "Yoga studio",
+          "Designer social events",
+          "Family fitness"
+        ]
+      }
+    },
+    "OTA": {
+      "visited scenes": {
+        "Exhibitions (museums/galleries)": "35%",
+        "Cultural heritage sites": "20%",
+        "Natural landscapes (mountains/lakes/forests)": "25%",
+        "Feature villages/Industrial tourism/Unclassified projects": "10%",
+        "Landmark buildings": "10%"
+      },
+      "cost per night on hotel": "500~1000 yuan",
+      "visited hotels": {
+        "Atour": "32%",
+        "Ji Hotel": "28%",
+        "Vienna": "18%",
+        "Orange": "15%",
+        "Home Inn": "7%"
+      },
+      "browsed hotels": {
+        "Four-star hotels": "35%",
+        "Comfort hotels": "45%",
+        "Three-star hotels": "15%",
+        "Luxury hotels": "5%"
+      },
+      "historical travel plans": {
+        "Beijing-Shanghai": {
+          "Price range": "500-1200 yuan",
+          "Transportation": "High-speed rail"
+        },
+        "Beijing-Hangzhou": {
+          "Price range": "700-1500 yuan",
+          "Transportation": "High-speed rail"
+        },
+        "Beijing-Chengdu": {
+          "Price range": "1000-2000 yuan",
+          "Transportation": "Airplane"
+        },
+        "Beijing-Xi'an": {
+          "Price range": "400-800 yuan",
+          "Transportation": "High-speed rail"
+        },
+        "Beijing-Qingdao": {
+          "Price range": "300-600 yuan",
+          "Transportation": "High-speed rail"
+        }
+      }
+    }
+  },
+  "stores": {},
+  "orders": {}
+}

@@ -1,0 +1,1037 @@
+{
+  "task_id": "10808009",
+  "domain": "cross_domain",
+  "time": "2025-10-07 16:30:00",
+  "user_id": "U797215",
+  "weather": [
+    {
+      "city": "Tangshan",
+      "category": "cloudy",
+      "datetime": "2025-10-07",
+      "temperature": [
+        15,
+        22
+      ],
+      "humidity": 65
+    }
+  ],
+  "location": [
+    {
+      "address": "Tangshan People's Hospital Single Dormitory",
+      "longitude": 118.183502,
+      "latitude": 39.630241
+    },
+    {
+      "address": "Tangshan People's Hospital, 65 Jianshe South Road, Lunan District, Tangshan, Hebei Province",
+      "longitude": 118.183813,
+      "latitude": 39.630863
+    }
+  ],
+  "user_profile": {
+    "user id": "U797215",
+    "occupation": "Nurse",
+    "gender": "female",
+    "age group": "25~30",
+    "residence": "Shijiazhuang",
+    "Permanent address": "Room 502, Unit 2, Building 3, Oriental Pearl Residential Area, Intersection of Sports South Street and Construction South Street, Yuhua District, Shijiazhuang",
+    "work address": "Hebei Provincial People's Hospital, 215 Heping West Road, Xinhua District, Shijiazhuang",
+    "dietary restrictions": "No caffeine, No cold food",
+    "family status": "In a relationship",
+    "personality": "Impatient, frequently urges others, lacks patience to wait through processes"
+  },
+  "user_historical_behaviors": {
+    "user id": "U797215",
+    "occupation": "nurse",
+    "gender": "female",
+    "age group": "25~30",
+    "residence": "Shijiazhuang",
+    "Permanent address": "Room 502, Unit 2, Building 3, Oriental Pearl Community, intersection of Sports South Street and Construction South Street, Yuhua District, Shijiazhuang",
+    "work address": "Hebei Provincial People's Hospital, 215 Heping West Road, Xinhua District, Shijiazhuang",
+    "delivery": {
+      "food delivery": {
+        "breakfast": {
+          "frequently purchased categories": [
+            "Quick meals/Buns/Pan-fried buns (Average 15 yuan)",
+            "Quick meals/Rice noodles/Rice vermicelli (Average 18 yuan)",
+            "Quick meals/Fried dough sticks (Average 8 yuan)"
+          ],
+          "cost per order": "8~25 yuan",
+          "preferred store rating": "4.2~4.7 points",
+          "preferred delivery time": "10~20 minutes",
+          "preferred distance": "0~1500m",
+          "recent orders": [
+            {
+              "store": "Breakfast Uncle",
+              "product": "Soy Milk and Fried Dough Stick Package"
+            },
+            {
+              "store": "Fresh Fragrant Pan-fried Buns",
+              "product": "Pork Pan-fried Buns"
+            },
+            {
+              "store": "Axiang Rice Noodles",
+              "product": "Beef Rice Noodles"
+            }
+          ],
+          "search history": [
+            "Stomach-friendly breakfast",
+            "Soy milk",
+            "Buns",
+            "Porridge"
+          ]
+        },
+        "weekday lunch/dinner": {
+          "frequently purchased categories": [
+            "Quick meals/Light food (Average 32 yuan)",
+            "Quick meals/Healthy meals (Average 38 yuan)",
+            "Quick meals/Salad (Average 28 yuan)"
+          ],
+          "cost per order": "25~45 yuan",
+          "preferred store rating": "4.3~4.8 points",
+          "preferred delivery time": "15~30 minutes",
+          "preferred distance": "0~2500m",
+          "recent orders": [
+            {
+              "store": "Salad Diary",
+              "product": "Healthy Chicken Breast Salad"
+            },
+            {
+              "store": "Light Food Philosophy",
+              "product": "Quinoa Chicken Breast Meal Box"
+            },
+            {
+              "store": "Nutritionist's Lunch Box",
+              "product": "Low-fat Poached Chicken Meal"
+            }
+          ],
+          "search history": [
+            "Low-fat",
+            "Healthy meals",
+            "Weight loss meals",
+            "Light food"
+          ]
+        },
+        "weekend lunch/dinner": {
+          "frequently purchased categories": [
+            "Chinese Formal Meal/Crayfish (Average 88 yuan)",
+            "Chinese Formal Meal/Sichuan cuisine (Average 75 yuan)",
+            "Foreign cuisine/Stone pot rice/Teppanyaki rice (Average 65 yuan)"
+          ],
+          "cost per order": "60~120 yuan",
+          "preferred store rating": "4.5~4.9 points",
+          "preferred delivery time": "30~45 minutes",
+          "preferred distance": "0~3500m",
+          "recent orders": [
+            {
+              "store": "Sichuan Flavor Crayfish",
+              "product": "Spicy Crayfish (Medium portion)"
+            },
+            {
+              "store": "Korean Cuisine Workshop",
+              "product": "Signature Stone Pot Bibimbap"
+            },
+            {
+              "store": "Sichuan Family",
+              "product": "Boiled Fish Meal"
+            }
+          ],
+          "search history": [
+            "Crayfish",
+            "Sichuan cuisine",
+            "Korean bibimbap",
+            "Couple set meal"
+          ]
+        },
+        "desserts/drinks/snacks": {
+          "frequently purchased categories": [
+            "Beverages and desserts/Juice (Average 22 yuan)",
+            "Beverages and desserts/Pure tea/Herbal tea (Average 18 yuan)",
+            "Beverages and desserts/Fruit salad (Average 28 yuan)"
+          ],
+          "cost per order": "15~35 yuan",
+          "preferred store rating": "4.4~4.9 points",
+          "preferred delivery time": "15~25 minutes",
+          "preferred distance": "0~2000m",
+          "recent orders": [
+            {
+              "store": "Fresh Fruit Workshop",
+              "product": "Freshly Squeezed Grapefruit Juice"
+            },
+            {
+              "store": "Tea Yan Yue Se",
+              "product": "Jasmine Green Tea"
+            },
+            {
+              "store": "Fresh Cut Fruit Salad",
+              "product": "Colorful Fruit Salad"
+            }
+          ],
+          "search history": [
+            "Fruit tea",
+            "Fruit salad",
+            "Freshly squeezed juice",
+            "Caffeine-free beverages"
+          ]
+        },
+        "night snack": {
+          "frequently purchased categories": [
+            "Quick meals/Clay pot soup (Average 32 yuan)",
+            "Quick meals/Clay pot porridge (Average 28 yuan)",
+            "Hot pot/Clay pot porridge (Average 30 yuan)"
+          ],
+          "cost per order": "25~40 yuan",
+          "preferred store rating": "4.2~4.8 points",
+          "preferred delivery time": "15~30 minutes",
+          "preferred distance": "0~2500m",
+          "recent orders": [
+            {
+              "store": "Old Neighborhood Clay Pot Porridge",
+              "product": "Century Egg and Lean Meat Porridge"
+            },
+            {
+              "store": "Health-preserving Clay Pot Soup",
+              "product": "Goji Berry Chicken Soup"
+            },
+            {
+              "store": "Porridge Destiny",
+              "product": "Stomach-friendly Chinese Yam Porridge"
+            }
+          ],
+          "search history": [
+            "Stomach-friendly porridge",
+            "Warming soup",
+            "Non-greasy night snack",
+            "Health-preserving soup"
+          ]
+        }
+      },
+      "product delivery": {
+        "frequently purchased categories": [
+          "Vegetables/Tofu products(32%)",
+          "Raw meat/Poultry/Eggs(24%)",
+          "Beverages/Nutritional drinks(15%)",
+          "Household items(12%)",
+          "Personal care(10%)",
+          "Others(7%)"
+        ],
+        "frequently visited stores": [
+          "Shijiazhuang Oriental Pearl Yonghui Supermarket(45%)",
+          "Yuhua District 24-hour Convenience Store(28%)",
+          "Shijiazhuang Seven Days Best Choice(15%)",
+          "Other stores(12%)"
+        ],
+        "cost per order by category": {
+          "Vegetables/Tofu products": "5~20 yuan",
+          "Raw meat/Poultry/Eggs": "20~60 yuan",
+          "Beverages/Nutritional drinks": "10~35 yuan",
+          "Household items": "15~45 yuan",
+          "Personal care": "25~80 yuan"
+        },
+        "preferred delivery time": "25~45 minutes",
+        "typical order time": "19~21 o'clock(38%), 7~9 o'clock(25%), 16~18 o'clock(20%)",
+        "recent orders": [
+          {
+            "store": "Shijiazhuang Oriental Pearl Yonghui Supermarket",
+            "product": "Chicken breast 300g + Broccoli 500g + Tofu 200g"
+          },
+          {
+            "store": "Yuhua District 24-hour Convenience Store",
+            "product": "Sugar-free vitamin drink + Hand soap"
+          },
+          {
+            "store": "Shijiazhuang Wanda Plaza Yonghui Supermarket",
+            "product": "Low-fat milk + Eggs + Cucumber"
+          }
+        ],
+        "search history": [
+          "Low-fat milk",
+          "Chicken breast",
+          "Vegetables",
+          "Hand soap",
+          "Sugar-free drinks",
+          "Tofu"
+        ]
+      }
+    },
+    "in-store consumption": {
+      "in-store dining": {
+        "fine-dining": {
+          "frequently purchased categories": [
+            "Regional cuisine/Fish dishes (Average 120 yuan)",
+            "Foreign cuisine/Japanese cuisine (Average 150 yuan)",
+            "Regional cuisine/Cantonese cuisine (Average 100 yuan)"
+          ],
+          "preferred average price per person": "100~150 yuan",
+          "preferred store rating": "4.2~4.8 stars",
+          "typical dining time": "18:30-20:30",
+          "preferred distance": "500~2000m",
+          "recent orders": [
+            {
+              "store": "Din Tai Fung (Shijiazhuang Wanda Branch)",
+              "product": "Crab Roe Xiaolongbao Set"
+            },
+            {
+              "store": "Herui Rotating Sushi",
+              "product": "Double Sushi Set"
+            },
+            {
+              "store": "Cantonese Cuisine Pavilion",
+              "product": "Steamed Bass"
+            }
+          ],
+          "search history": [
+            "Couple dating restaurant",
+            "Japanese cuisine",
+            "Cantonese cuisine",
+            "Health-preserving restaurant"
+          ]
+        },
+        "light meal": {
+          "frequently purchased categories": [
+            "Snacks and fast food/Chinese quick meals (Average 30 yuan)",
+            "Regional cuisine/Shanghai and Jiangsu-Zhejiang cuisine (Average 45 yuan)"
+          ],
+          "preferred average price per person": "25~50 yuan",
+          "preferred store rating": "3.5~4.2 stars",
+          "typical dining time": "11:30-13:00",
+          "preferred distance": "0~500m",
+          "recent orders": [
+            {
+              "store": "Yonghe King",
+              "product": "Century Egg and Lean Meat Porridge Set"
+            },
+            {
+              "store": "Real Kung Fu",
+              "product": "Teriyaki Chicken Cutlet Rice"
+            },
+            {
+              "store": "Lao Niang Jiu",
+              "product": "Braised Pork Ribs Set"
+            }
+          ],
+          "search history": [
+            "Fast food near hospital",
+            "Warming porridge",
+            "Healthy light meal"
+          ]
+        },
+        "desserts/drinks/snacks": {
+          "frequently purchased categories": [
+            "Beverage shops (Average 18 yuan)",
+            "Bread and pastries (Average 25 yuan)"
+          ],
+          "preferred average price per person": "15~30 yuan",
+          "preferred store rating": "4.0~4.5 stars",
+          "typical dining time": "15:00-16:30",
+          "preferred distance": "0~300m",
+          "recent orders": [
+            {
+              "store": "HEYTEA",
+              "product": "Cheese Mango Mango (No ice)"
+            },
+            {
+              "store": "Bread Talk",
+              "product": "Red Bean Bread"
+            },
+            {
+              "store": "Meet Fresh",
+              "product": "Hot Taro Balls"
+            }
+          ],
+          "search history": [
+            "Hot beverages",
+            "Caffeine-free drinks",
+            "Warm desserts"
+          ]
+        }
+      },
+      "other in-store services": {
+        "frequently consumed categories": {
+          "Beauty/Hairdressing": "20%",
+          "Beauty/Manicure": "15%",
+          "Sports and fitness/Yoga": "35%",
+          "Leisure and entertainment/Massage/Foot therapy": "30%"
+        },
+        "cost per order by category": {
+          "Beauty/Hairdressing": "150~280 yuan",
+          "Beauty/Manicure": "80~150 yuan",
+          "Sports and fitness/Yoga": "60~120 yuan/time",
+          "Leisure and entertainment/Massage/Foot therapy": "120~200 yuan"
+        },
+        "preferred store rating": "4.0~4.8 stars",
+        "preferred service time": "19:00-21:00",
+        "preferred distance": "0~3000m",
+        "recent orders": [
+          {
+            "store": "Youji Yoga (Yuhua Branch)",
+            "product": "Single Experience Class"
+          },
+          {
+            "store": "Zusheng Tang Massage",
+            "product": "Traditional Chinese Medicine Massage Package"
+          },
+          {
+            "store": "Youmi Hairstyling",
+            "product": "Wash, Cut and Blow-dry Package"
+          }
+        ],
+        "search history": [
+          "Fatigue relief massage",
+          "Gentle yoga",
+          "Nurse professional manicure",
+          "Stress Relief"
+        ]
+      }
+    },
+    "OTA": {
+      "visited scenes": {
+        "Exhibition halls (Museums/Art galleries)": "35%",
+        "Natural landscapes (Mountains/Lakes/Forests)": "25%",
+        "Hot spring scenic areas": "20%",
+        "Parks": "15%",
+        "Historical and cultural sites": "5%"
+      },
+      "cost per night on hotel": "300~500 yuan",
+      "visited hotels": {
+        "Home Inn": "30%",
+        "JI Hotel": "25%",
+        "Atour Hotel": "20%",
+        "Hanting Hotel": "15%",
+        "Vienna Hotel": "10%"
+      },
+      "browsed hotels": {
+        "Comfortable hotels": "45%",
+        "Three-star hotels": "30%",
+        "Economy hotels": "15%",
+        "Four-star hotels": "10%"
+      },
+      "historical travel plans": {
+        "Shijiazhuang-Beijing": {
+          "Price range": "200-300 yuan",
+          "Transportation mode": "High-speed rail/EMU"
+        },
+        "Shijiazhuang-Qingdao": {
+          "Price range": "400-600 yuan",
+          "Transportation mode": "High-speed rail/EMU"
+        },
+        "Shijiazhuang-Chengde": {
+          "Price range": "150-250 yuan",
+          "Transportation mode": "Long-distance bus"
+        },
+        "Shijiazhuang-Xi'an": {
+          "Price range": "600-900 yuan",
+          "Transportation mode": "High-speed rail/EMU"
+        },
+        "Shijiazhuang-Shanghai": {
+          "Price range": "700-1200 yuan",
+          "Transportation mode": "Airplane"
+        },
+        "Beijing-Shijiazhuang": {
+          "Price range": "200-300 yuan",
+          "Transportation mode": "High-speed rail/EMU"
+        },
+        "Qingdao-Shijiazhuang": {
+          "Price range": "400-600 yuan",
+          "Transportation mode": "High-speed rail/EMU"
+        }
+      }
+    }
+  },
+  "stores": {
+    "S17550848554515407_S00001": {
+      "name": "Midea Official Flagship Store",
+      "store_id": "S17550848554515407_S00001",
+      "score": 4.9,
+      "location": {
+        "address": "Midea Appliance Store at the Intersection of Beixin West Road and Jianshe Road, Lubei District, Tangshan",
+        "latitude": 39.6401,
+        "longitude": 118.1732
+      },
+      "tags": [
+        "Home Appliances",
+        "Washing Machine",
+        "Electrical Appliances",
+        "Official Flagship Store"
+      ],
+      "store_type": "target",
+      "products": [
+        {
+          "name": "Midea 10kg Fully-automatic Top-loading Washing Machine MB100V31",
+          "store_id": "S17550848554515407_S00001",
+          "store_name": "Midea Official Flagship Store",
+          "price": 1299,
+          "tags": [
+            "Quiet Design",
+            "Energy-saving",
+            "Level 1 Energy Efficiency",
+            "Smart Control",
+            "Top-loading Washing Machine",
+            "Large Capacity"
+          ],
+          "product_id": "S17550848554515407_P00001",
+          "attributes": [
+            "White",
+            "10 Kilograms"
+          ],
+          "product_type": "target"
+        },
+        {
+          "name": "Midea 8kg Front-loading Washing Machine MG80V11D",
+          "store_id": "S17550848554515407_S00001",
+          "store_name": "Midea Official Flagship Store",
+          "price": 1699,
+          "tags": [
+            "Quiet Operation",
+            "Front-loading Washing Machine",
+            "Smart Dosing",
+            "Sterilizing Wash"
+          ],
+          "product_id": "S17550848554515407_P00002",
+          "attributes": [
+            "Silver",
+            "8 Kilograms"
+          ],
+          "product_type": "target"
+        },
+        {
+          "name": "Midea 6kg Mini Washing Machine MG60V31",
+          "store_id": "S17550848554515407_S00001",
+          "store_name": "Midea Official Flagship Store",
+          "price": 899,
+          "tags": [
+            "Compact",
+            "Suitable for Single Person",
+            "Smart Control"
+          ],
+          "product_id": "S17550848554515407_P00003",
+          "attributes": [
+            "White",
+            "6 Kilograms"
+          ],
+          "product_type": "target"
+        },
+        {
+          "name": "Midea Washer-dryer Combo MG100V71WDX",
+          "store_id": "S17550848554515407_S00001",
+          "store_name": "Midea Official Flagship Store",
+          "price": 3299,
+          "tags": [
+            "Washer-dryer Combo",
+            "Smart Control",
+            "Inverter Energy Saving",
+            "Steam Sterilization",
+            "High-end"
+          ],
+          "product_id": "S17550848554515407_P00004",
+          "attributes": [
+            "Silver",
+            "10kg Wash/6kg Dry"
+          ],
+          "product_type": "distraction"
+        },
+        {
+          "name": "Midea Smart Twin Tub Washing Machine MP90S",
+          "store_id": "S17550848554515407_S00001",
+          "store_name": "Midea Official Flagship Store",
+          "price": 799,
+          "tags": [
+            "Twin Tub",
+            "Semi-automatic",
+            "Energy-saving",
+            "Suitable for Single Person"
+          ],
+          "product_id": "S17550848554515407_P00005",
+          "attributes": [
+            "Blue",
+            "9 Kilograms"
+          ],
+          "product_type": "distraction"
+        }
+      ]
+    },
+    "S17550848554515407_S00002": {
+      "name": "Haier Appliance Specialty Store",
+      "store_id": "S17550848554515407_S00002",
+      "score": 4.8,
+      "location": {
+        "address": "Haier Appliance Store at 58 Xinhua West Road, Lunan District, Tangshan",
+        "latitude": 39.6298,
+        "longitude": 118.1645
+      },
+      "tags": [
+        "Home Appliances",
+        "Washing Machine",
+        "Electrical Appliances",
+        "Specialty Store"
+      ],
+      "store_type": "target",
+      "products": [
+        {
+          "name": "Haier XQB90-BZ15936 9kg Top-loading Washing Machine",
+          "store_id": "S17550848554515407_S00002",
+          "store_name": "Haier Appliance Specialty Store",
+          "price": 1499,
+          "tags": [
+            "Top-loading Washing Machine",
+            "Energy-saving",
+            "Level 1 Energy Efficiency",
+            "Large Capacity",
+            "Free Installation"
+          ],
+          "product_id": "S17550848554515407_P00006",
+          "attributes": [
+            "9kg Capacity",
+            "Smart Control",
+            "Home Delivery"
+          ],
+          "product_type": "target"
+        },
+        {
+          "name": "Haier EG100HPRO 10kg Direct-drive Front-loading Washing Machine",
+          "store_id": "S17550848554515407_S00002",
+          "store_name": "Haier Appliance Specialty Store",
+          "price": 2299,
+          "tags": [
+            "Front-loading Washing Machine",
+            "Quiet Operation",
+            "Smart Dosing"
+          ],
+          "product_id": "S17550848554515407_P00007",
+          "attributes": [
+            "10KG Capacity",
+            "Smart Control",
+            "Free Installation",
+            "Home Delivery"
+          ],
+          "product_type": "target"
+        },
+        {
+          "name": "Haier XQB75-M12699 7.5kg Fully-automatic Washing Machine",
+          "store_id": "S17550848554515407_S00002",
+          "store_name": "Haier Appliance Specialty Store",
+          "price": 1099,
+          "tags": [
+            "Top-loading Washing Machine",
+            "Compact",
+            "Smart"
+          ],
+          "product_id": "S17550848554515407_P00008",
+          "attributes": [
+            "7.5kg Capacity",
+            "Smart Control",
+            "Free Installation",
+            "Home Delivery"
+          ],
+          "product_type": "target"
+        },
+        {
+          "name": "Haier Little Genius XQB30-36A 3kg Mini Washing Machine",
+          "store_id": "S17550848554515407_S00002",
+          "store_name": "Haier Appliance Specialty Store",
+          "price": 699,
+          "tags": [
+            "Mini Washing Machine",
+            "Compact",
+            "Portable",
+            "Single Person Use"
+          ],
+          "product_id": "S17550848554515407_P00009",
+          "attributes": [
+            "3KG Capacity",
+            "Free Installation",
+            "Home Delivery"
+          ],
+          "product_type": "distraction"
+        },
+        {
+          "name": "Haier WD-T14415D 8kg Front-loading Washing Machine",
+          "store_id": "S17550848554515407_S00002",
+          "store_name": "Haier Appliance Specialty Store",
+          "price": 2499,
+          "tags": [
+            "Front-loading Washing Machine",
+            "Quiet Operation"
+          ],
+          "product_id": "S17550848554515407_P00010",
+          "attributes": [
+            "8KG Capacity",
+            "Smart Control",
+            "Free Installation",
+            "Home Delivery"
+          ],
+          "product_type": "distraction"
+        }
+      ]
+    },
+    "S17550848554515407_S00003": {
+      "name": "Suning.com",
+      "store_id": "S17550848554515407_S00003",
+      "score": 4.7,
+      "location": {
+        "address": "Suning.com at 125 Jianshe North Road, Lubei District, Tangshan",
+        "latitude": 39.6458,
+        "longitude": 118.1723
+      },
+      "tags": [
+        "Home Appliances",
+        "Digital",
+        "Household Appliances"
+      ],
+      "store_type": "distraction",
+      "products": [
+        {
+          "name": "Midea Front-loading Washing Machine MG100V11D",
+          "store_id": "S17550848554515407_S00003",
+          "store_name": "Suning.com",
+          "price": 2599,
+          "tags": [
+            "Front-loading Washing Machine",
+            "Midea",
+            "Quiet Operation",
+            "10 Kilograms",
+            "Smart Home Appliances"
+          ],
+          "product_id": "S17550848554515407_P00011",
+          "attributes": [
+            "White",
+            "10 Kilograms",
+            "Quiet Mode",
+            "Delivery and Installation"
+          ],
+          "product_type": "target"
+        },
+        {
+          "name": "Haier Top-loading Washing Machine EB100M39TH",
+          "store_id": "S17550848554515407_S00003",
+          "store_name": "Suning.com",
+          "price": 1899,
+          "tags": [
+            "Top-loading Washing Machine",
+            "Haier",
+            "Quiet Operation",
+            "10 Kilograms",
+            "Smart Home Appliances"
+          ],
+          "product_id": "S17550848554515407_P00012",
+          "attributes": [
+            "Gray",
+            "10 Kilograms",
+            "Quiet Mode",
+            "Delivery and Installation"
+          ],
+          "product_type": "target"
+        },
+        {
+          "name": "Little Swan Front-loading Washing Machine TG100V88WIDY",
+          "store_id": "S17550848554515407_S00003",
+          "store_name": "Suning.com",
+          "price": 2899,
+          "tags": [
+            "Front-loading Washing Machine",
+            "Little Swan",
+            "Smart Washing",
+            "10 Kilograms",
+            "High Temperature Sterilization",
+            "Quiet Inverter"
+          ],
+          "product_id": "S17550848554515407_P00013",
+          "attributes": [
+            "White",
+            "10 Kilograms",
+            "Smart Dosing",
+            "High Temperature Wash"
+          ],
+          "product_type": "distraction"
+        },
+        {
+          "name": "Haier Mini Washing Machine XQBM30-R268",
+          "store_id": "S17550848554515407_S00003",
+          "store_name": "Suning.com",
+          "price": 899,
+          "tags": [
+            "Mini Washing Machine",
+            "Haier",
+            "Compact",
+            "3 Kilograms",
+            "Dormitory Specific"
+          ],
+          "product_id": "S17550848554515407_P00014",
+          "attributes": [
+            "Pink",
+            "3 Kilograms",
+            "Single Tub"
+          ],
+          "product_type": "distraction"
+        },
+        {
+          "name": "Midea Washer-dryer Combo MD100VT55DG-Y46B",
+          "store_id": "S17550848554515407_S00003",
+          "store_name": "Suning.com",
+          "price": 3999,
+          "tags": [
+            "Washer-dryer Combo",
+            "Midea",
+            "Drying",
+            "Sterilization",
+            "Smart",
+            "10 Kilograms"
+          ],
+          "product_id": "S17550848554515407_P00015",
+          "attributes": [
+            "Silver",
+            "10kg Wash/7kg Dry",
+            "Inverter Motor",
+            "Smart Control"
+          ],
+          "product_type": "distraction"
+        }
+      ]
+    },
+    "S17550848554515407_S00004": {
+      "name": "Little Swan Washing Machine Specialty Store",
+      "store_id": "S17550848554515407_S00004",
+      "score": 4.6,
+      "location": {
+        "address": "Little Swan Washing Machine Store at 76 Xinhua East Road, Lunan District, Tangshan",
+        "latitude": 39.6287,
+        "longitude": 118.1823
+      },
+      "tags": [
+        "Washing Machine",
+        "Home Appliances"
+      ],
+      "store_type": "distraction",
+      "products": [
+        {
+          "name": "Little Swan TD100V21DS5 10KG Front-loading Washing Machine",
+          "store_id": "S17550848554515407_S00004",
+          "store_name": "Little Swan Washing Machine Specialty Store",
+          "price": 2599,
+          "tags": [
+            "Front-loading Washing Machine",
+            "Quiet Operation",
+            "Energy-saving",
+            "10KG Capacity"
+          ],
+          "product_id": "S17550848554515407_P00016",
+          "attributes": [],
+          "product_type": "distraction"
+        },
+        {
+          "name": "Little Swan TB80V23H 8KG Top-loading Washing Machine",
+          "store_id": "S17550848554515407_S00004",
+          "store_name": "Little Swan Washing Machine Specialty Store",
+          "price": 1299,
+          "tags": [
+            "Top-loading Washing Machine",
+            "Energy-saving",
+            "8KG Capacity",
+            "Quiet Operation"
+          ],
+          "product_id": "S17550848554515407_P00017",
+          "attributes": [],
+          "product_type": "distraction"
+        },
+        {
+          "name": "Little Swan TG100V88WMUIADY5 10KG Washer-dryer Combo",
+          "store_id": "S17550848554515407_S00004",
+          "store_name": "Little Swan Washing Machine Specialty Store",
+          "price": 4599,
+          "tags": [
+            "Washer-dryer Combo",
+            "Quiet Operation",
+            "Energy-saving",
+            "Smart Dosing",
+            "10KG Capacity"
+          ],
+          "product_id": "S17550848554515407_P00018",
+          "attributes": [],
+          "product_type": "distraction"
+        },
+        {
+          "name": "Little Swan TG30V88WMUIADY5 3KG Mini Washing Machine",
+          "store_id": "S17550848554515407_S00004",
+          "store_name": "Little Swan Washing Machine Specialty Store",
+          "price": 1899,
+          "tags": [
+            "Mini Washing Machine",
+            "Quiet Operation",
+            "Energy-saving",
+            "3KG Capacity",
+            "Suitable for Studio Apartment"
+          ],
+          "product_id": "S17550848554515407_P00019",
+          "attributes": [],
+          "product_type": "distraction"
+        }
+      ]
+    }
+  },
+  "orders": {
+    "S17550802119759684_O00001": {
+      "order_id": "S17550802119759684_O00001",
+      "order_type": "delivery",
+      "user_id": "U797215",
+      "store_id": "S00001",
+      "total_price": 32.0,
+      "create_time": "2025-10-05 12:15:22",
+      "status": "delivered",
+      "products": [
+        {
+          "product_id": "food_001",
+          "price": 32.0,
+          "quantity": 1,
+          "name": "Healthy Chicken Breast Salad"
+        }
+      ]
+    },
+    "S17550802119759684_O00002": {
+      "order_id": "S17550802119759684_O00002",
+      "order_type": "delivery",
+      "user_id": "U797215",
+      "store_id": "S00002",
+      "total_price": 38.0,
+      "create_time": "2025-10-06 12:30:45",
+      "status": "delivered",
+      "products": [
+        {
+          "product_id": "food_002",
+          "price": 38.0,
+          "quantity": 1,
+          "name": "Quinoa Chicken Breast Meal Box"
+        }
+      ]
+    },
+    "S17550802119759684_O00003": {
+      "order_id": "S17550802119759684_O00003",
+      "order_type": "delivery",
+      "user_id": "U797215",
+      "store_id": "S00003",
+      "total_price": 15.0,
+      "create_time": "2025-10-06 08:10:33",
+      "status": "delivered",
+      "products": [
+        {
+          "product_id": "food_003",
+          "price": 15.0,
+          "quantity": 1,
+          "name": "Soy Milk and Fried Dough Stick Package"
+        }
+      ]
+    },
+    "S17550802119759684_O00004": {
+      "order_id": "S17550802119759684_O00004",
+      "order_type": "hotel",
+      "user_id": "U797215",
+      "store_id": "S17550802119759684_H00001",
+      "note": "Need a quiet room, I'm sensitive to noise",
+      "location": {
+        "address": "Home Inn (Tangshan People's Hospital), 88 Jianshe South Road, Lunan District, Tangshan, Hebei Province",
+        "longitude": 118.184526,
+        "latitude": 39.631245
+      },
+      "dispatch_time": "",
+      "shipping_time": 0.0,
+      "delivery_time": "",
+      "total_price": 336.0,
+      "create_time": "2025-10-06 14:20:15",
+      "update_time": "2025-10-06 14:20:15",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17550802119759684_P00001",
+          "price": 168.0,
+          "quantity": 1,
+          "date": "2025-10-07",
+          "room_type": "Standard Single Room"
+        },
+        {
+          "product_id": "S17550802119759684_P00002",
+          "price": 168.0,
+          "quantity": 1,
+          "date": "2025-10-08",
+          "room_type": "Standard Single Room"
+        }
+      ]
+    },
+    "S17550802119759684_O00005": {
+      "order_id": "S17550802119759684_O00005",
+      "order_type": "train",
+      "user_id": "U797215",
+      "store_id": "T00001",
+      "note": "Job relocation",
+      "location": {
+        "address": "Shijiazhuang Railway Station, Zhongshan West Road, Qiaoxi District, Shijiazhuang, Hebei Province",
+        "longitude": 114.478432,
+        "latitude": 38.042789
+      },
+      "dispatch_time": "",
+      "shipping_time": 0.0,
+      "delivery_time": "",
+      "total_price": 156.5,
+      "create_time": "2025-10-05 09:35:22",
+      "update_time": "2025-10-05 09:35:22",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "T00001_P001",
+          "price": 156.5,
+          "quantity": 1,
+          "seat_type": "Second Class Seat",
+          "departure_time": "2025-10-07 08:30:00",
+          "arrival_time": "2025-10-07 10:15:00",
+          "from_station": "Shijiazhuang Station",
+          "to_station": "Tangshan Station"
+        }
+      ]
+    },
+    "S17550802119759684_O00006": {
+      "order_id": "S17550802119759684_O00006",
+      "order_type": "train",
+      "user_id": "U797215",
+      "store_id": "T00002",
+      "note": "Return to Shijiazhuang to get luggage",
+      "location": {
+        "address": "Tangshan Railway Station, Jianshe South Road, Lunan District, Tangshan, Hebei Province",
+        "longitude": 118.175432,
+        "latitude": 39.627891
+      },
+      "dispatch_time": "",
+      "shipping_time": 0.0,
+      "delivery_time": "",
+      "total_price": 156.5,
+      "create_time": "2025-10-05 10:15:45",
+      "update_time": "2025-10-05 10:15:45",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "T00002_P001",
+          "price": 156.5,
+          "quantity": 1,
+          "seat_type": "Second Class Seat",
+          "departure_time": "2025-10-11 14:20:00",
+          "arrival_time": "2025-10-11 16:05:00",
+          "from_station": "Tangshan Station",
+          "to_station": "Shijiazhuang Station"
+        }
+      ]
+    },
+    "S17550802119759684_O00007": {
+      "order_id": "S17550802119759684_O00007",
+      "order_type": "instore",
+      "user_id": "U797215",
+      "store_id": "S17550802119759684_I00011",
+      "total_price": 2399.0,
+      "create_time": "2025-10-06 15:45:32",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17550802119759684_P00054",
+          "price": 2399.0,
+          "quantity": 1,
+          "name": "Midea Front-loading Washing Machine MG100V31DS5"
+        }
+      ]
+    }
+  }
+}

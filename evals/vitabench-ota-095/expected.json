@@ -1,0 +1,185 @@
+{
+  "required_orders": [
+    {
+      "order_id": "D0808006T001",
+      "order_type": "attraction",
+      "user_id": "U010080",
+      "store_id": "S17557514605716896_A00006",
+      "note": "",
+      "location": null,
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 110,
+      "create_time": "2027-04-25 12:32:33",
+      "update_time": "2027-04-25 12:32:33",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17557514605716896_P00055",
+          "price": 110,
+          "quantity": 1,
+          "date": "2027-05-08",
+          "ticket_type": "Adult Ticket"
+        }
+      ]
+    },
+    {
+      "order_id": "D0808006T002",
+      "order_type": "attraction",
+      "user_id": "U010080",
+      "store_id": "S17557514605716896_A00007",
+      "note": "",
+      "location": null,
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 80,
+      "create_time": "2027-04-25 12:35:28",
+      "update_time": "2027-04-25 12:35:28",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17557514605716896_P00067",
+          "price": 80,
+          "quantity": 1,
+          "date": "2027-05-09",
+          "ticket_type": "Adult Ticket"
+        }
+      ]
+    },
+    {
+      "order_id": "D0808006T003",
+      "order_type": "attraction",
+      "user_id": "U010080",
+      "store_id": "S17557514605716896_A00009",
+      "note": "",
+      "location": null,
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 30,
+      "create_time": "2027-04-25 12:36:57",
+      "update_time": "2027-04-25 12:36:57",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17557514605716896_P00087",
+          "price": 30,
+          "quantity": 1,
+          "date": "2027-05-10",
+          "ticket_type": "Adult Ticket"
+        }
+      ]
+    },
+    {
+      "order_id": "D0808006T004",
+      "order_type": "hotel",
+      "user_id": "U010080",
+      "store_id": "S17557514605716896_H00002",
+      "note": "",
+      "location": null,
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 960,
+      "create_time": "2027-04-25 12:39:09",
+      "update_time": "2027-04-25 12:39:09",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17557514605716896_P00013",
+          "price": 480,
+          "quantity": 1,
+          "date": "2027-05-07",
+          "room_type": "Miao Village View King Room"
+        },
+        {
+          "product_id": "S17557514605716896_P00014",
+          "price": 480,
+          "quantity": 1,
+          "date": "2027-05-08",
+          "room_type": "Miao Village View King Room"
+        }
+      ]
+    },
+    {
+      "order_id": "D0808006T005",
+      "order_type": "hotel",
+      "user_id": "U010080",
+      "store_id": "S17557514605716896_H00003",
+      "note": "",
+      "location": null,
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 930,
+      "create_time": "2027-04-25 12:44:09",
+      "update_time": "2027-04-25 12:44:09",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17557514605716896_P00028",
+          "price": 480,
+          "quantity": 1,
+          "date": "2027-05-09",
+          "room_type": "Wind and Rain Bridge View King Room"
+        },
+        {
+          "product_id": "S17557514605716896_P00027",
+          "price": 450,
+          "quantity": 1,
+          "date": "2027-05-10",
+          "room_type": "Wind and Rain Bridge View King Room"
+        }
+      ]
+    },
+    {
+      "order_id": "D0808006T006",
+      "order_type": "flight",
+      "user_id": "U010080",
+      "store_id": "S17557514605716896_F00012",
+      "note": "",
+      "location": null,
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 1180,
+      "create_time": "2027-04-25 12:50:13",
+      "update_time": "2027-04-25 12:50:13",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17557514605716896_P00107",
+          "price": 1180,
+          "quantity": 1,
+          "date": "2027-05-07",
+          "seat_type": "Economy Class"
+        }
+      ]
+    }
+  ],
+  "rubrics": [
+    "The ticket date for Xijiang Thousand Households Miao Village order is May 8, 2027",
+    "The ticket type for Xijiang Thousand Households Miao Village order is adult ticket",
+    "The ticket date for Zhaoxing Dong Village order is May 9, 2027",
+    "The ticket type for Zhaoxing Dong Village order is adult ticket",
+    "The attractions ordered should be the type of attractions the user frequently visits (according to user profile, it's museums)",
+    "The ticket date for the museum order is May 10, 2027",
+    "The ticket type for the museum order is adult ticket",
+    "The return flight is from Ho Chi Minh City to Shanghai",
+    "The first two nights of accommodation should be in Xijiang Thousand Households Miao Village",
+    "The dates for the first two nights of accommodation are May 7, 2027 and May 8, 2027",
+    "The room type for the first two nights should be king room",
+    "The last two nights' accommodation should be traditional Dong guesthouse",
+    "The last two nights' accommodation should have Drum Tower views",
+    "The last two nights' accommodation should have Wind and Rain Bridge views",
+    "The dates for the last two nights' accommodation are May 9, 2027 and May 10, 2027",
+    "The room type for the last two nights should be king room",
+    "The total price for all four nights of accommodation should not exceed 2000 yuan",
+    "The departure flight booked is from Tianjin to Guiyang",
+    "The departure flight booked should not depart in the morning",
+    "The departure flight booked should not arrive too late",
+    "The departure flight departure date is May 7, 2027"
+  ]
+}

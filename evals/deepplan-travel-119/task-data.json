@@ -1,0 +1,49 @@
+{
+  "task_id": "118",
+  "query": "I'm planning a trip from Zhengzhou to Quanzhou on November 12, 2025, and returning to Zhengzhou on November 18. Could you please help me plan the entire itinerary, including transportation, accommodation, meals, and sightseeing?\n\nFor transportation, I'd like to take a flight for the outbound journey—please help me choose the shortest-duration direct flight, as long travel times can be tiring. Regarding accommodation, my budget is between 280 and 330 yuan per night; could you recommend some suitable hotels? By the way, there are three of us traveling together, so we'll need to book two rooms.\n\nFor attractions, I'd like to visit the most worthwhile places, so please select and include the top three highest-rated spots from the recommendations. Also, my friend specifically mentioned 'Auspicious Restaurant (Dengfu Street Branch)', saying the food there is especially authentic. I’d like to try it during this trip—could you arrange one meal there for us?\n\nThat covers all my requirements—I believe I've provided all necessary information. Please go ahead and prepare a detailed itinerary and budget for me. Thanks so much! November 12, 2025 is Wednesday",
+  "meta_info": {
+    "org": "Zhengzhou",
+    "dest": [
+      "Quanzhou"
+    ],
+    "days": 7,
+    "depart_date": "2025-11-12",
+    "return_date": "2025-11-18",
+    "people_number": 3,
+    "room_number": 2
+  },
+  "hard_constraints": {
+    "flight_shortest_duration_direct": {
+      "constraint_context": "Prefer to take a flight for the outbound journey, and need to select the shortest-duration direct flight available",
+      "constraint_type": "superlative_shortest_duration",
+      "outbound_flight_no": "G59308"
+    },
+    "hotel_price_range": {
+      "constraint_context": "The accommodation price must be between 280 and 330 yuan.",
+      "hotel_name": "Quanzhou Huijin Holiday Hotel",
+      "hotel_price": 325.0,
+      "min_price": 280,
+      "max_price": 330
+    },
+    "attraction_top_rated_must_visit": {
+      "constraint_context": "The itinerary must include the top three highest-rated attractions recommended by the attraction recommendation tool.",
+      "constraint_type": "superlative_top_rated_must_visit",
+      "attraction_names": [
+        "Tianhou Temple",
+        "Quanfuzhou Xiaoxicheng",
+        "Shishi Golden Coast"
+      ],
+      "attraction_ratings": [
+        4.8,
+        4.7,
+        4.7
+      ]
+    },
+    "restaurant_must_eat_named": {
+      "constraint_context": "The itinerary must include one meal at 'Auspicious Restaurant (Dengfu Street Branch)'.",
+      "constraint_type": "superlative_must_eat_named",
+      "restaurant_name": "Auspicious Restaurant (Dengfu Street Branch)",
+      "restaurant_rating": 4.5
+    }
+  }
+}

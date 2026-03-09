@@ -1,0 +1,614 @@
+{
+  "task_id": "10811007",
+  "domain": "cross_domain",
+  "time": "2025-02-18 17:32:05",
+  "user_id": "U440729",
+  "weather": [
+    {
+      "city": "Nantong",
+      "category": "cloudy",
+      "datetime": "2025-02-18",
+      "temperature": [
+        3,
+        12
+      ],
+      "humidity": 65
+    },
+    {
+      "city": "Sanya",
+      "category": "sunny",
+      "datetime": "2025-02-18",
+      "temperature": [
+        18,
+        26
+      ],
+      "humidity": 72
+    }
+  ],
+  "location": [
+    {
+      "address": "Room 502, Building 3, City Garden Community, 28 Gongnong Road, Chongchuan District, Nantong, Jiangsu Province",
+      "longitude": 120.886209,
+      "latitude": 32.016212
+    },
+    {
+      "address": "ZTO Express Nantong Sorting Center, 12 South Street, Chongchuan District, Nantong, Jiangsu Province",
+      "longitude": 120.894563,
+      "latitude": 32.010876
+    }
+  ],
+  "user_profile": {
+    "user id": "U440729",
+    "occupation": "Logistics dispatcher",
+    "gender": "female",
+    "age group": "25~30",
+    "residence": "Nantong",
+    "work address": "ZTO Express Nantong Sorting Center, 12 South Street, Chongchuan District, Nantong, Jiangsu Province",
+    "dietary restrictions": "No High purine (such as Offal/seafood soup), no alcohol",
+    "family status": "Has children",
+    "personality": "Impatient, often rushing others, lacks patience during waiting processes"
+  },
+  "user_historical_behaviors": {
+    "user id": "U440729",
+    "occupation": "Logistics dispatcher",
+    "gender": "female",
+    "age group": "25~30",
+    "residence": "Nantong",
+    "Permanent address": "Room 502, Building 3, City Garden Community, 28 Gongnong Road, Chongchuan District, Nantong, Jiangsu Province",
+    "work address": "ZTO Express Nantong Sorting Center, 12 South Street, Chongchuan District, Nantong, Jiangsu Province",
+    "delivery": {
+      "food delivery": {
+        "breakfast": {
+          "frequently purchased categories": [
+            "Quick meals/Steamed buns/Pan-fried buns (average 15 yuan)",
+            "Quick meals/Fried dough sticks (average 6 yuan)",
+            "Quick meals/Jianbing/Wraps/Pancakes (average 12 yuan)"
+          ],
+          "cost per order": "10~25 yuan",
+          "preferred store rating": "4.3~4.8 points",
+          "preferred delivery time": "15~30 minutes",
+          "preferred distance": "0~2000m",
+          "recent orders": [
+            {
+              "store": "Lao Wang Bun Shop",
+              "product": "Pork buns + Soy milk combo"
+            },
+            {
+              "store": "Tianjin Yang's Jianbing",
+              "product": "Original Jianbing"
+            },
+            {
+              "store": "Nantong Breakfast King",
+              "product": "Fried dough sticks with soy milk + Tea egg"
+            }
+          ],
+          "search history": [
+            "Steamed buns",
+            "Soy milk",
+            "Jianbing",
+            "Breakfast",
+            "Fried dough sticks"
+          ]
+        },
+        "weekday lunch/dinner": {
+          "frequently purchased categories": [
+            "Quick meals/Rice with toppings (average 22 yuan)",
+            "Quick meals/Rice noodles (average 18 yuan)",
+            "Quick meals/Stewed chicken rice (average 25 yuan)"
+          ],
+          "cost per order": "15~30 yuan",
+          "preferred store rating": "4.0~4.5 points",
+          "preferred delivery time": "20~40 minutes",
+          "preferred distance": "0~3000m",
+          "recent orders": [
+            {
+              "store": "Stewed chicken rice",
+              "product": "Mildly spicy stewed chicken rice"
+            },
+            {
+              "store": "Lanzhou noodles",
+              "product": "Beef noodles"
+            },
+            {
+              "store": "Fast food box meals",
+              "product": "Braised pork rice bowl"
+            }
+          ],
+          "search history": [
+            "Rice with toppings",
+            "Stewed chicken",
+            "Cheap",
+            "Fast food",
+            "Rice noodles"
+          ]
+        },
+        "weekend lunch/dinner": {
+          "frequently purchased categories": [
+            "Chinese cuisine/Sichuan dishes (average 65 yuan)",
+            "Chinese cuisine/Northeast dishes (average 70 yuan)",
+            "Hot pot/Individual hot pot (average 55 yuan)"
+          ],
+          "cost per order": "50~90 yuan",
+          "preferred store rating": "4.2~4.8 points",
+          "preferred delivery time": "30~45 minutes",
+          "preferred distance": "0~4000m",
+          "recent orders": [
+            {
+              "store": "Sichuan Flavor Garden",
+              "product": "Twice-cooked pork + Boiled pork slices + Rice"
+            },
+            {
+              "store": "Northeast Courtyard",
+              "product": "Sweet and sour pork + Stir-fried pork strips + Rice"
+            },
+            {
+              "store": "Self-heating Hot Pot",
+              "product": "Beef self-heating hot pot"
+            }
+          ],
+          "search history": [
+            "Sichuan cuisine",
+            "Home-style dishes",
+            "Hot pot",
+            "Northeast cuisine",
+            "Twice-cooked pork"
+          ]
+        },
+        "desserts/drinks/snacks": {
+          "frequently purchased categories": [
+            "Beverages and desserts/Milk tea (average 18 yuan)",
+            "Beverages and desserts/Juice (average 15 yuan)"
+          ],
+          "cost per order": "10~25 yuan",
+          "preferred store rating": "4.5~4.9 points",
+          "preferred delivery time": "15~30 minutes",
+          "preferred distance": "0~2500m",
+          "recent orders": [
+            {
+              "store": "Mixue Ice Cream",
+              "product": "Taro pearl milk tea"
+            },
+            {
+              "store": "Happy Lemon",
+              "product": "Mango pomelo sago"
+            },
+            {
+              "store": "Fresh Fruit Workshop",
+              "product": "Freshly squeezed watermelon juice"
+            }
+          ],
+          "search history": [
+            "Milk tea",
+            "Juice",
+            "Ice cream",
+            "Drinks"
+          ]
+        },
+        "night snack": {
+          "frequently purchased categories": [
+            "BBQ/Grilled skewers (average 45 yuan)",
+            "Quick meals/Spicy hot pot/Oden (average 35 yuan)",
+            "Hot pot/Spicy hot pot/Oden (average 30 yuan)"
+          ],
+          "cost per order": "30~50 yuan",
+          "preferred store rating": "4.0~4.6 points",
+          "preferred delivery time": "25~40 minutes",
+          "preferred distance": "0~3000m",
+          "recent orders": [
+            {
+              "store": "Lao Ma BBQ",
+              "product": "Mixed BBQ platter"
+            },
+            {
+              "store": "Skewer hot pot",
+              "product": "Special spicy hot pot"
+            },
+            {
+              "store": "Oden Shop",
+              "product": "Meatball oden"
+            }
+          ],
+          "search history": [
+            "BBQ",
+            "Spicy hot pot",
+            "Night snack",
+            "Oden",
+            "Skewers"
+          ]
+        }
+      },
+      "product delivery": {
+        "frequently purchased categories": [
+          "Vegetables/Bean products(32%)",
+          "Meat/Poultry/Eggs(18%)",
+          "Fruits(15%)",
+          "Mother and baby products(12%)",
+          "Household items(10%)",
+          "Others(13%)"
+        ],
+        "frequently visited stores": [
+          "RT-Mart Supermarket(35%)",
+          "Nantong Fresh Market(28%)",
+          "Yonghui Supermarket(22%)",
+          "Other stores(15%)"
+        ],
+        "cost per order by category": {
+          "Vegetables/Bean products": "5~20 yuan",
+          "Meat/Poultry/Eggs": "20~60 yuan",
+          "Fruits": "10~40 yuan",
+          "Mother and baby products": "30~100 yuan",
+          "Household items": "10~50 yuan"
+        },
+        "preferred delivery time": "30~60 minutes",
+        "typical order time": "9~11am(38%), 4~6pm(42%), 8~9pm(20%)",
+        "recent orders": [
+          {
+            "store": "RT-Mart Supermarket",
+            "product": "Organic vegetables + Lean pork + Eggs"
+          },
+          {
+            "store": "Nantong Fresh Market",
+            "product": "Tomatoes + Cucumbers + Tofu"
+          },
+          {
+            "store": "Yonghui Supermarket",
+            "product": "Baby wipes + Children's toothpaste"
+          }
+        ],
+        "search history": [
+          "Organic vegetables",
+          "Children's snacks",
+          "No additives",
+          "Low sugar",
+          "Fresh fish"
+        ]
+      }
+    },
+    "in-store consumption": {
+      "in-store dining": {
+        "fine-dining": {
+          "frequently purchased categories": [
+            "Regional cuisine/Fish seafood (average 120 yuan)",
+            "Regional cuisine/Sichuan cuisine (average 85 yuan)",
+            "Hot pot (average 95 yuan)"
+          ],
+          "preferred average price per person": "80~130 yuan",
+          "preferred store rating": "4.0~4.6 stars",
+          "typical dining time": "18:30-20:30",
+          "preferred distance": "500~3000m",
+          "recent orders": [
+            {
+              "store": "Yu Man Tang Live Fish Restaurant",
+              "product": "Steamed sea bass set meal"
+            },
+            {
+              "store": "Shu Xiang Yuan Sichuan Restaurant",
+              "product": "Boiled fish + Dry-fried green beans"
+            },
+            {
+              "store": "Old Wharf Hot Pot",
+              "product": "Beef hot pot set (excluding alcoholic beverage)"
+            }
+          ],
+          "search history": [
+            "Family gathering",
+            "Non-alcoholic hot pot",
+            "Sichuan restaurant",
+            "Family-friendly restaurant"
+          ]
+        },
+        "light meal": {
+          "frequently purchased categories": [
+            "Snacks/Chinese fast food (average 25 yuan)",
+            "Snacks/Western fast food (average 30 yuan)",
+            "Regional cuisine/Jiangzhe cuisine (average 35 yuan)"
+          ],
+          "preferred average price per person": "20~40 yuan",
+          "preferred store rating": "3.5~4.2 stars",
+          "typical dining time": "11:30-13:00",
+          "preferred distance": "0~500m",
+          "recent orders": [
+            {
+              "store": "Lao Niang Jiu Fast Food",
+              "product": "Braised pork rib rice"
+            },
+            {
+              "store": "Lucky Wonton",
+              "product": "Pork wonton + Side dish"
+            },
+            {
+              "store": "McDonald's",
+              "product": "Grilled chicken burger combo"
+            }
+          ],
+          "search history": [
+            "Fast food",
+            "Rice bowls",
+            "Bento",
+            "Nearby takeout"
+          ]
+        },
+        "desserts/drinks/snacks": {
+          "frequently purchased categories": [
+            "Beverage shops (average 15 yuan)",
+            "Bakery and desserts (average 20 yuan)",
+            "Other dining/Fresh fruits (average 12 yuan)"
+          ],
+          "preferred average price per person": "10~25 yuan",
+          "preferred store rating": "3.7~4.5 stars",
+          "typical dining time": "15:00-16:30",
+          "preferred distance": "0~300m",
+          "recent orders": [
+            {
+              "store": "Yidiandian Milk Tea",
+              "product": "Pearl milk tea (less sugar)"
+            },
+            {
+              "store": "85°C",
+              "product": "Tiramisu"
+            },
+            {
+              "store": "Fresh Fruit Garden",
+              "product": "Fruit platter"
+            }
+          ],
+          "search history": [
+            "Milk tea",
+            "Desserts",
+            "Fruits",
+            "Bread"
+          ]
+        }
+      },
+      "other in-store services": {
+        "frequently consumed categories": {
+          "Sports/Ball sports": "40%",
+          "Entertainment/Massage/Foot therapy": "35%",
+          "Parent-child/Play centers": "25%"
+        },
+        "cost per order by category": {
+          "Sports/Ball sports": "40~80 yuan",
+          "Entertainment/Massage/Foot therapy": "80~150 yuan",
+          "Parent-child/Play centers": "100~200 yuan"
+        },
+        "preferred store rating": "3.8~4.5 stars",
+        "preferred service time": "19:00-21:00",
+        "preferred distance": "0~5000m",
+        "recent orders": [
+          {
+            "store": "Zusheng foot therapy",
+            "product": "Full body massage package"
+          },
+          {
+            "store": "Nantong Sports Center",
+            "product": "Badminton court for 2 hours"
+          },
+          {
+            "store": "Happy Valley Family Play Center",
+            "product": "Weekend family package"
+          }
+        ],
+        "search history": [
+          "Foot therapy",
+          "Badminton court",
+          "Parent-child play",
+          "Children's playground",
+          "Family entertainment"
+        ]
+      }
+    },
+    "OTA": {
+      "visited scenes": {
+        "Theme parks": "35%",
+        "Natural attractions (mountains/lakes/forests)": "25%",
+        "Parks": "20%",
+        "Zoos": "15%",
+        "Cultural heritage sites": "5%"
+      },
+      "cost per night on hotel": "300~500 yuan",
+      "visited hotels": {
+        "Home Inn": "30%",
+        "Hanting": "25%",
+        "7 Days Inn": "20%",
+        "Jinjiang Inn": "15%",
+        "GreenTree Inn": "10%"
+      },
+      "browsed hotels": {
+        "Economy hotels": "55%",
+        "Comfort hotels": "35%",
+        "3-star hotels": "10%"
+      },
+      "historical travel plans": {
+        "Nantong-Shanghai": {
+          "Price range": "50-100 yuan",
+          "Transportation mode": "Long-distance bus"
+        },
+        "Nantong-Hangzhou": {
+          "Price range": "150-250 yuan",
+          "Transportation mode": "High-speed rail"
+        },
+        "Nantong-Suzhou": {
+          "Price range": "80-120 yuan",
+          "Transportation mode": "High-speed rail"
+        },
+        "Nantong-Wuxi": {
+          "Price range": "60-100 yuan",
+          "Transportation mode": "High-speed rail"
+        },
+        "Nantong-Yangzhou": {
+          "Price range": "100-150 yuan",
+          "Transportation mode": "Long-distance bus"
+        },
+        "Nantong-Nanjing": {
+          "Price range": "120-180 yuan",
+          "Transportation mode": "High-speed rail"
+        }
+      }
+    }
+  },
+  "stores": {},
+  "orders": {
+    "S17550802154785786_O00002": {
+      "order_id": "S17550802154785786_O00002",
+      "order_type": "delivery",
+      "user_id": "U440729",
+      "store_id": "S17550802154785786_S00005",
+      "note": "No spicy, prefer original flavor",
+      "location": {
+        "address": "Room 502, Building 3, City Garden Community, 28 Gongnong Road, Chongchuan District, Nantong, Jiangsu Province",
+        "longitude": 120.886209,
+        "latitude": 32.016212
+      },
+      "dispatch_time": "2025-02-16 20:15:00",
+      "shipping_time": 25.0,
+      "delivery_time": "2025-02-16 20:40:00",
+      "total_price": 47.0,
+      "create_time": "2025-02-16 19:45:23",
+      "update_time": "2025-02-16 19:45:23",
+      "status": "delivered",
+      "products": [
+        {
+          "product_id": "S17550802154785786_P00034",
+          "price": 25.0,
+          "quantity": 1,
+          "attributes": [
+            "Not spicy"
+          ]
+        },
+        {
+          "product_id": "S17550802154785786_P00036",
+          "price": 15.0,
+          "quantity": 1,
+          "attributes": [
+            "Not spicy"
+          ]
+        },
+        {
+          "product_id": "S17550802154785786_P00037",
+          "price": 12.0,
+          "quantity": 1,
+          "attributes": [
+            "Not spicy"
+          ]
+        }
+      ]
+    },
+    "S17550802154785786_O00003": {
+      "order_id": "S17550802154785786_O00003",
+      "order_type": "delivery",
+      "user_id": "U440729",
+      "store_id": "S17550802154785786_S00001",
+      "note": "No spicy, thank you",
+      "location": {
+        "address": "ZTO Express Nantong Sorting Center, 12 South Street, Chongchuan District, Nantong, Jiangsu Province",
+        "longitude": 120.894563,
+        "latitude": 32.010876
+      },
+      "dispatch_time": "2025-02-15 12:25:00",
+      "shipping_time": 20.0,
+      "delivery_time": "2025-02-15 12:45:00",
+      "total_price": 83.0,
+      "create_time": "2025-02-15 12:05:18",
+      "update_time": "2025-02-15 12:05:18",
+      "status": "delivered",
+      "products": [
+        {
+          "product_id": "S17550802154785786_P00001",
+          "price": 28.8,
+          "quantity": 2,
+          "attributes": [
+            "Not spicy"
+          ]
+        },
+        {
+          "product_id": "S17550802154785786_P00003",
+          "price": 12.8,
+          "quantity": 1,
+          "attributes": [
+            "Not spicy"
+          ]
+        },
+        {
+          "product_id": "S17550802154785786_P00004",
+          "price": 10.8,
+          "quantity": 1,
+          "attributes": [
+            "Not spicy"
+          ]
+        }
+      ]
+    },
+    "S17550802154785786_O00004": {
+      "order_id": "S17550802154785786_O00004",
+      "order_type": "flight",
+      "user_id": "U440729",
+      "store_id": "S17550802154785786_F00010",
+      "note": "Traveling with my son, need adjacent seats",
+      "location": {
+        "address": "Nantong Xingdong International Airport, Airport Road, Xingren Town, Tongzhou District, Nantong, Jiangsu Province",
+        "longitude": 120.975874,
+        "latitude": 32.107124
+      },
+      "dispatch_time": "",
+      "shipping_time": 0.0,
+      "delivery_time": "",
+      "total_price": 1440.0,
+      "create_time": "2025-02-10 09:15:32",
+      "update_time": "2025-02-10 09:15:32",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17550802154785786_P00076",
+          "price": 720.0,
+          "quantity": 2,
+          "date": "2025-03-01",
+          "seat_type": "Economy class"
+        }
+      ]
+    },
+    "S17550802154785786_O00005": {
+      "order_id": "S17550802154785786_O00005",
+      "order_type": "flight",
+      "user_id": "U440729",
+      "store_id": "S17550802154785786_F00011",
+      "note": "Traveling with my son, need adjacent seats",
+      "location": {
+        "address": "Sanya Phoenix International Airport, Phoenix Airport Road, Phoenix Town, Sanya, Hainan Province",
+        "longitude": 109.412367,
+        "latitude": 18.302897
+      },
+      "dispatch_time": "",
+      "shipping_time": 0.0,
+      "delivery_time": "",
+      "total_price": 1420.0,
+      "create_time": "2025-02-10 09:18:45",
+      "update_time": "2025-02-10 09:18:45",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17550802154785786_P00090",
+          "price": 710.0,
+          "quantity": 2,
+          "date": "2025-03-04",
+          "seat_type": "Economy class"
+        }
+      ]
+    },
+    "S17550802154785786_O00006": {
+      "order_id": "S17550802154785786_O00006",
+      "order_type": "instore",
+      "user_id": "U440729",
+      "store_id": "S17550802154785786_I00016",
+      "total_price": 368.0,
+      "create_time": "2025-02-19 09:25:18",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17550802154785786_P00119",
+          "price": 368.0,
+          "quantity": 1
+        }
+      ]
+    }
+  }
+}

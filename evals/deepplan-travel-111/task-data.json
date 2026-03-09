@@ -1,0 +1,54 @@
+{
+  "task_id": "110",
+  "query": "I plan to travel from Zhuhai to Shanghai on November 12, 2025, and stay until around November 18. I'd appreciate your help in arranging the entire trip, including transportation, accommodation, meals, and sightseeing.\n\nRegarding transportation, I’d like to take flights both ways, and please book first class for both legs of the journey—it’ll make the trip more comfortable. For accommodation, I prefer something budget-friendly. Please check the most affordable hotel under the 'Hanting' brand and book two rooms—we’re a group of four people.\n\nThere are a couple of places I must visit during this trip: one is 'Longhua Temple', and the other is 'Shanghai Tower Observation Deck'. Please make sure both are included in the itinerary. Additionally, I’d like to visit some top-rated attractions—since we’re making the trip, I want to see the most worthwhile spots. Please add the three highest-rated recommended attractions to the plan, and space them out comfortably so it’s not too rushed.\n\nThat’s about it—I believe I’ve provided all the necessary information. Please go ahead and create a detailed itinerary for me! November 12, 2025 is Wednesday",
+  "meta_info": {
+    "org": "Zhuhai",
+    "dest": [
+      "Shanghai"
+    ],
+    "days": 7,
+    "depart_date": "2025-11-12",
+    "return_date": "2025-11-18",
+    "people_number": 4,
+    "room_number": 2
+  },
+  "hard_constraints": {
+    "flight_seat_class": {
+      "constraint_context": "Hope to choose air travel, and both outbound and return journeys need to be in first class",
+      "outbound_flight_no": "MU5392",
+      "inbound_flight_no": "CA4750"
+    },
+    "hotel_cheapest_brand": {
+      "constraint_context": "For accommodation, please select the cheapest hotel among the \"汉庭\" brand",
+      "constraint_type": "superlative_cheapest_brand",
+      "hotel_name": "Hanting Hotel Shanghai Hongqiao Airport",
+      "hotel_price": 206.0
+    },
+    "attraction_top_rated_must_visit": {
+      "constraint_context": "The itinerary must include the three highest-rated attractions recommended by the attraction recommendation tool.",
+      "constraint_type": "superlative_top_rated_must_visit",
+      "attraction_names": [
+        "Xuhui Riverside Green Space",
+        "Longhua Temple",
+        "West Bund Museum"
+      ],
+      "attraction_ratings": [
+        4.9,
+        4.9,
+        4.8
+      ]
+    },
+    "attraction_must_visit_named": {
+      "constraint_context": "The itinerary must include visits to 'Longhua Temple' and 'Shanghai Tower Observation Deck'.",
+      "constraint_type": "superlative_must_visit_named",
+      "attraction_names": [
+        "Longhua Temple",
+        "Shanghai Tower Observation Deck"
+      ],
+      "attraction_ratings": [
+        4.9,
+        4.6
+      ]
+    }
+  }
+}

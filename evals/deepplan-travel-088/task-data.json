@@ -1,0 +1,54 @@
+{
+  "task_id": "87",
+  "query": "I plan to travel from Tianjin to Zhengzhou on November 12, 2025, and return on November 17, 2025. The entire trip will be about 6 days—please help me plan a detailed itinerary.\n\nFor transportation, I’d like to take trains for the entire journey. Please book first-class seats for both outbound and return trips, as they’re more comfortable and allow me to relax and rest during the ride. For accommodation, I’d like to stay somewhere nice—please find me the highest-rated hotel in Zhengzhou. Since this is a vacation, comfort is important.\n\nBy the way, I’d like to visit all recommended 'Natural Scenery' attractions. I’ve heard the natural landscapes around Zhengzhou are quite impressive, so I’d like to experience as much as possible. Also, please arrange one meal at a restaurant near the 'Xinmi Huangdi Palace Royal Hot Spring Resort Hotel'. There are four of us traveling, so we’ll need two rooms. By the way, it would be great if this restaurant offers a waiting area service, so we can rest comfortably while waiting.\n\nThat’s pretty much everything—I believe I’ve provided all necessary details. Please go ahead and prepare the full itinerary for me without asking for further information. Thank you! November 12, 2025 is Wednesday",
+  "meta_info": {
+    "org": "Tianjin",
+    "dest": [
+      "Zhengzhou"
+    ],
+    "days": 6,
+    "depart_date": "2025-11-12",
+    "return_date": "2025-11-17",
+    "people_number": 4,
+    "room_number": 2
+  },
+  "hard_constraints": {
+    "train_seat_class": {
+      "constraint_context": "Travel by train, and hope to choose \"First Class Seat\" for both outbound and return journeys",
+      "outbound_train_no": "T122",
+      "inbound_train_no": "G1714"
+    },
+    "hotel_highest_rated": {
+      "constraint_context": "For accommodation, please select the highest-rated hotel in this city",
+      "constraint_type": "superlative_highest_rated_hotel",
+      "hotel_name": "Zhengzhou Hanfeng Business Hotel",
+      "hotel_price": 205.0,
+      "hotel_score": 5.0
+    },
+    "restaurant_specific_tag_nearby": {
+      "constraint_context": "Arrange a meal at a restaurant near 'Xinmi Huangdi Palace Royal Hot Spring Resort Hotel' during the trip, with a waiting area service required.",
+      "constraint_type": "superlative_specific_tag_nearby",
+      "attraction_name": "Xinmi Huangdi Palace Royal Hot Spring Resort Hotel",
+      "restaurant_name": "Harbor Restaurant",
+      "required_tag": "Waiting Area",
+      "price_per_person": 34.0,
+      "restaurant_rating": 4.3
+    },
+    "attraction_all_of_type": {
+      "constraint_context": "Must-visit attractions: Recommend all sites of type 'Natural Scenery' mentioned in the attraction recommendation tool",
+      "constraint_type": "superlative_all_of_type",
+      "attraction_names": [
+        "Zijing Mountain Park",
+        "Beilong Lake Wetland Park",
+        "Sanhuangzhai"
+      ],
+      "attraction_type_cn": "自然风光",
+      "attraction_type": "Natural Scenery",
+      "attraction_ratings": [
+        4.8,
+        4.4,
+        4.7
+      ]
+    }
+  }
+}

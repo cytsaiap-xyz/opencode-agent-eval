@@ -1,0 +1,108 @@
+{
+  "required_orders": [
+    {
+      "order_id": "10826018T001",
+      "order_type": "instore",
+      "user_id": "U071689",
+      "store_id": "S17564420276474247_I00001",
+      "note": "",
+      "location": null,
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 118,
+      "create_time": "2024-09-14 13:46:00",
+      "update_time": "2024-09-16 18:46:00",
+      "status": "cancelled",
+      "products": [
+        {
+          "product_id": "S17564420276474247_P00004",
+          "name": "Gradient Color Manicure",
+          "price": 118,
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "order_id": "10826018T002",
+      "order_type": "instore",
+      "user_id": "U071689",
+      "store_id": "S17564420276474247_I00003",
+      "note": "",
+      "location": null,
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 115,
+      "create_time": "2024-09-16 18:47:00",
+      "update_time": "2024-09-16 18:47:00",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17564420276474247_P00010",
+          "name": "Internet Celebrity Exquisite Manicure Package",
+          "price": 115,
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "reservation_id": "10826018T003",
+      "shop_id": "S17564420276474247_I00003",
+      "reservation_time": "2024-09-17 10:00:00",
+      "update_time": "2024-09-16 18:47:31",
+      "customer_id": "U071689",
+      "customer_count": 1,
+      "status": "paid"
+    },
+    {
+      "order_id": "10826018T004",
+      "order_type": "instore",
+      "user_id": "U071689",
+      "store_id": "S17564420276474247_I00004",
+      "note": "",
+      "location": null,
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 198,
+      "create_time": "2024-09-16 18:48:00",
+      "update_time": "2024-09-16 18:48:00",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17564420276474247_P00015",
+          "name": "Ice Point Hair Removal Experience Package",
+          "price": 99,
+          "quantity": 2
+        }
+      ]
+    },
+    {
+      "reservation_id": "10826018T005",
+      "shop_id": "S17564420276474247_I00004",
+      "reservation_time": "2024-09-17 13:00:00",
+      "update_time": "2024-09-16 18:48:27",
+      "customer_id": "U071689",
+      "customer_count": 2,
+      "status": "paid"
+    }
+  ],
+  "rubrics": [
+    "The order status for Gradient Color Manicure Package should be cancelled",
+    "The nail salon should be a store on the top seller list",
+    "The ordered item at the nail salon should be Internet Celebrity Exquisite Manicure Package",
+    "Based on order history, the last Gradient Color Manicure cost 118 yuan, so the Internet Celebrity Exquisite Manicure Package ordered at the nail salon should not exceed 118 yuan (including 118 yuan)",
+    "The quantity of items ordered at the nail salon should be 1",
+    "The nail salon appointment should be at Fingertip Art Manicure",
+    "The nail salon appointment time should be 2024-09-17 10:00:00",
+    "The number of people for the nail salon appointment should be 1",
+    "The selected Hair Gobbler Chain location should be the closest to Meishang Nail Art, 3rd Floor, Wanda Plaza, 66 Yuhua West Road, Qiaoxi District, Shijiazhuang",
+    "The item ordered at Hair Gobbler Chain should be Ice Point",
+    "The item ordered at Hair Gobbler Chain should be Hair Removal",
+    "The quantity of items ordered at Hair Gobbler Chain should be 2",
+    "The Hair Gobbler Chain appointment should be at Hair Gobbler Hair Removal Chain (Wanda Plaza Branch)",
+    "The Hair Gobbler Chain appointment time should be 3 hours later than the nail salon, which should be 2024-09-17 11:00:00",
+    "The number of people for the Hair Gobbler Chain appointment should be 2"
+  ]
+}

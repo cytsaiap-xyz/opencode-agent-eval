@@ -1,0 +1,35 @@
+{
+  "required_orders": [
+    {
+      "order_id": "I0721003T01",
+      "order_type": "delivery",
+      "user_id": "U000059",
+      "store_id": "S27136445248806510_S46408",
+      "note": "",
+      "location": {
+        "address": "Yintai Garden, 1168 Ganjiang West Road (440m walk from Tongjing North Road Metro Station Exit 5), Gusu District, Suzhou, Jiangsu Province",
+        "longitude": 120.584891,
+        "latitude": 31.302862
+      },
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 20,
+      "create_time": "2025-09-21 06:24:00",
+      "update_time": "2025-09-21 06:24:00",
+      "status": "processed",
+      "products": [
+        {
+          "product_id": "S48452361781906723_P25628",
+          "price": 20,
+          "quantity": 1,
+          "attributes": ""
+        }
+      ]
+    }
+  ],
+  "rubrics": [
+    "The delivery address for the breakfast soup dumpling order should be Yintai Garden, 1168 Ganjiang West Road (440m walk from Tongjing North Road Metro Station Exit 5), Gusu District, Suzhou, Jiangsu Province",
+    "The expected delivery time for the breakfast soup dumpling order should be around 7:00 on September 21, 2025, ensuring that the user can eat in time before taking the boss to the airport"
+  ]
+}

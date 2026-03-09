@@ -1,0 +1,503 @@
+{
+  "task_id": "10806004",
+  "domain": "cross_domain",
+  "time": "2025-10-22 14:30:00",
+  "user_id": "U010025",
+  "weather": [
+    {
+      "city": "Baoding",
+      "category": "overcast",
+      "datetime": "2024-10-29",
+      "temperature": [
+        8,
+        20
+      ],
+      "humidity": 81
+    },
+    {
+      "city": "Baoding",
+      "category": "cloudy",
+      "datetime": "2024-10-30",
+      "temperature": [
+        7,
+        17
+      ],
+      "humidity": 79
+    },
+    {
+      "city": "Baoding",
+      "category": "cloudy to sunny",
+      "datetime": "2025-10-29",
+      "temperature": [
+        29,
+        32
+      ],
+      "humidity": 83
+    },
+    {
+      "city": "Baoding",
+      "category": "sunny",
+      "datetime": "2025-10-30",
+      "temperature": [
+        28,
+        33
+      ],
+      "humidity": 89
+    }
+  ],
+  "location": [
+    {
+      "address": "Huachuang International Plaza, 557 Yuhua West Road, Lianchi District, Baoding, Hebei Province",
+      "longitude": 115.484,
+      "latitude": 38.865
+    }
+  ],
+  "user_profile": {
+    "user id": "U010025",
+    "occupation": "designer",
+    "gender": "male",
+    "age group": "30~35",
+    "residence": "Baoding",
+    "home address": "Oriental Home Zone A, Lianchi District, Baoding, Hebei Province",
+    "work address": "Huachuang International Plaza, 557 Yuhua West Road, Lianchi District, Baoding, Hebei Province",
+    "dietary restrictions": "Avoids oily spicy food, avoids caffeine",
+    "family status": "Has children",
+    "personality": "Cold and concise in expression, lacks emotional communication and patience"
+  },
+  "user_historical_behaviors": {
+    "user id": "U010025",
+    "occupation": "designer",
+    "gender": "male",
+    "age group": "30~35",
+    "residence": "Baoding",
+    "home address": "Oriental Home Zone A, Lianchi District, Baoding, Hebei Province",
+    "work address": "Huachuang International Plaza, 557 Yuhua West Road, Lianchi District, Baoding, Hebei Province",
+    "delivery": {
+      "food delivery": {
+        "breakfast": {
+          "frequently purchased categories": [
+            "Simple Meals/Buns/Pan-fried Buns (Average 18 yuan)",
+            "Simple Meals/Fried Dough Sticks (Average 8 yuan)",
+            "Simple Meals/Light Food (Average 25 yuan)"
+          ],
+          "cost per order": "15~35 yuan",
+          "preferred store rating": "4.3~4.8 points",
+          "preferred delivery time": "15~30 minutes",
+          "preferred distance": "0~2500m",
+          "recent orders": [
+            {
+              "store": "Nine Quality Pan-fried Dumplings",
+              "product": "Fresh Meat Pan-fried Buns + Soy Milk"
+            },
+            {
+              "store": "Gold Medal Breakfast Shop",
+              "product": "Fried Dough Sticks + Soy Milk + Egg"
+            },
+            {
+              "store": "Light Food Select",
+              "product": "Fruit Oatmeal Porridge + Whole Wheat Bread"
+            }
+          ],
+          "search history": [
+            "Low-oil breakfast",
+            "Soy milk",
+            "Stomach-friendly breakfast",
+            "Pan-fried buns",
+            "Light food",
+            "Fruit oatmeal"
+          ]
+        },
+        "weekday lunch/dinner": {
+          "frequently purchased categories": [
+            "Simple Meals/Light Food (Average 35 yuan)",
+            "Simple Meals/Salad (Average 32 yuan)",
+            "Simple Meals/Healthy Meals (Average 45 yuan)"
+          ],
+          "cost per order": "30~60 yuan",
+          "preferred store rating": "4.2~4.8 points",
+          "preferred delivery time": "20~40 minutes",
+          "preferred distance": "0~3000m",
+          "recent orders": [
+            {
+              "store": "Green Light Food Workshop",
+              "product": "Quinoa Chicken Breast Salad"
+            },
+            {
+              "store": "Nutritional Work Meal",
+              "product": "Low-fat Chicken Rice + Seasonal Vegetables"
+            },
+            {
+              "store": "Balanced Diet",
+              "product": "Mediterranean Baked Fish with Brown Rice"
+            }
+          ],
+          "search history": [
+            "Low-fat lunch",
+            "Light food",
+            "Salad",
+            "Healthy work meal",
+            "Low calorie",
+            "No spicy"
+          ]
+        },
+        "weekend lunch/dinner": {
+          "frequently purchased categories": [
+            "Chinese Cuisine/Cantonese Food (Average 85 yuan)",
+            "Foreign Flavors/Stone Pot Rice/Teppanyaki Rice (Average 65 yuan)",
+            "Chinese Cuisine/Northeastern Food (Average 90 yuan)"
+          ],
+          "cost per order": "60~120 yuan",
+          "preferred store rating": "4.5~4.9 points",
+          "preferred delivery time": "30~45 minutes",
+          "preferred distance": "0~4500m",
+          "recent orders": [
+            {
+              "store": "Cantonese Fragrance Pavilion",
+              "product": "White Cut Chicken + Choy Sum + Steamed Fish"
+            },
+            {
+              "store": "Korean Cuisine Restaurant",
+              "product": "Stone Pot Bibimbap Family Set"
+            },
+            {
+              "store": "Hometown Northeastern Cuisine",
+              "product": "Sweet and Sour Pork + Sauerkraut Stewed Ribs"
+            }
+          ],
+          "search history": [
+            "Cantonese cuisine",
+            "Family set meal",
+            "Kid-friendly",
+            "Healthy home-style dishes",
+            "Northeastern cuisine",
+            "Non-spicy cuisine"
+          ]
+        },
+        "desserts/drinks/snacks": {
+          "frequently purchased categories": [
+            "Drinks & Desserts/Juice (Average 22 yuan)",
+            "Drinks & Desserts/Fruit Mix (Average 28 yuan)",
+            "Drinks & Desserts/Pure Tea/Herbal Tea (Average 18 yuan)"
+          ],
+          "cost per order": "15~40 yuan",
+          "preferred store rating": "4.4~5.0 points",
+          "preferred delivery time": "15~30 minutes",
+          "preferred distance": "0~3000m",
+          "recent orders": [
+            {
+              "store": "Fresh Fruit Workshop",
+              "product": "Pure Freshly Squeezed Orange Juice"
+            },
+            {
+              "store": "Fruit Mix Mix",
+              "product": "Colorful Fruit Mix + Yogurt"
+            },
+            {
+              "store": "Tea Pavilion",
+              "product": "Fresh Floral Fruit Tea"
+            }
+          ],
+          "search history": [
+            "Sugar-free drinks",
+            "Fruit tea",
+            "Fresh juice",
+            "Caffeine-free",
+            "Low-sugar desserts"
+          ]
+        },
+        "night snack": {
+          "frequently purchased categories": [
+            "Simple Meals/Claypot Dishes (Average 38 yuan)",
+            "Snacks & Braised Foods/Braised Items (Average 30 yuan)",
+            "Simple Meals/Dumplings/Wonton (Average 25 yuan)"
+          ],
+          "cost per order": "20~45 yuan",
+          "preferred store rating": "4.3~4.7 points",
+          "preferred delivery time": "25~40 minutes",
+          "preferred distance": "0~2500m",
+          "recent orders": [
+            {
+              "store": "Claypot House",
+              "product": "Nourishing Health Claypot"
+            },
+            {
+              "store": "Old Braised Door",
+              "product": "Assorted Braised Platter"
+            },
+            {
+              "store": "Fresh Dumpling House",
+              "product": "Three Delicacies Wonton"
+            }
+          ],
+          "search history": [
+            "Healthy night snack",
+            "Not greasy",
+            "Mild food",
+            "Easy to digest",
+            "Claypot",
+            "Soup"
+          ]
+        }
+      },
+      "product delivery": {
+        "frequently purchased categories": [
+          "Vegetables/Bean Products(32%)",
+          "Fruits(20%)",
+          "Household Items(15%)",
+          "Sports & Outdoor(12%)",
+          "Raw Meat/Poultry/Eggs(10%)",
+          "Others(11%)"
+        ],
+        "frequently visited stores": [
+          "Baoding Fresh Supermarket(38%)",
+          "FamilyMart (Baoding Oriental Home Branch)(25%)",
+          "Hualian Supermarket (Baoding Lianchi Branch)(22%)",
+          "Other stores(15%)"
+        ],
+        "cost per order by category": {
+          "Vegetables/Bean Products": "5~25 yuan",
+          "Fruits": "10~40 yuan",
+          "Household Items": "15~50 yuan",
+          "Outdoor Equipment": "50~200 yuan",
+          "Raw Meat/Poultry/Eggs": "20~60 yuan"
+        },
+        "preferred delivery time": "25~60 minutes",
+        "typical order time": "17~19:00(35%), 9~11:00(25%), 12~14:00(15%)",
+        "recent orders": [
+          {
+            "store": "Baoding Fresh Supermarket",
+            "product": "Organic Spinach 300g"
+          },
+          {
+            "store": "FamilyMart (Baoding Oriental Home Branch)",
+            "product": "Kitchen Paper Towels"
+          },
+          {
+            "store": "Hualian Supermarket (Baoding Lianchi Branch)",
+            "product": "Black Soy Milk (Sugar-free)"
+          }
+        ],
+        "search history": [
+          "Organic vegetables",
+          "Fruits",
+          "Kitchen supplies",
+          "Outdoor Equipment",
+          "Bean products"
+        ]
+      }
+    },
+    "in-store consumption": {
+      "in-store dining": {
+        "fine-dining": {
+          "frequently purchased categories": [
+            "Regional Cuisine/Sichuan Food (Average 125 yuan)",
+            "Foreign Cuisine/Western Food (Average 150 yuan)",
+            "Foreign Cuisine/Japanese Food (Average 180 yuan)"
+          ],
+          "preferred average price per person": "120~180 yuan",
+          "preferred store rating": "4.2~4.8 stars",
+          "typical dining time": "19:00-21:00",
+          "preferred distance": "1000~3500m",
+          "recent orders": [
+            {
+              "store": "Xiguan Sichuan Restaurant (Yuhua Branch)",
+              "product": "Boiled Fish Set (Mild Spicy)"
+            },
+            {
+              "store": "Milan Western Restaurant",
+              "product": "Steak Set (Medium Well)"
+            },
+            {
+              "store": "Matsumoto Japanese Restaurant",
+              "product": "Premium Sashimi Platter"
+            }
+          ],
+          "search history": [
+            "Non-spicy Sichuan cuisine",
+            "High-end Western food",
+            "Japanese cuisine",
+            "Business gathering",
+            "Healthy dishes"
+          ]
+        },
+        "light meal": {
+          "frequently purchased categories": [
+            "Snacks & Fast Food/Chinese Simple Meals (Average 35 yuan)",
+            "Snacks & Fast Food/Western Fast Food (Average 42 yuan)"
+          ],
+          "preferred average price per person": "30~50 yuan",
+          "preferred store rating": "3.5~4.3 stars",
+          "typical dining time": "12:00-13:30",
+          "preferred distance": "0~500m",
+          "recent orders": [
+            {
+              "store": "Fresh Broth (Wanxiang Tiancheng Branch)",
+              "product": "Clear Soup Noodle Set"
+            },
+            {
+              "store": "Salad Diary",
+              "product": "Chicken Fruit Vegetable Salad"
+            },
+            {
+              "store": "Runhe Restaurant",
+              "product": "Steamed Fish + Seasonal Vegetables"
+            }
+          ],
+          "search history": [
+            "Light food",
+            "Healthy meal",
+            "Fast food",
+            "Chinese set meal",
+            "Salad"
+          ]
+        },
+        "desserts/drinks/snacks": {
+          "frequently purchased categories": [
+            "Beverage Shops (Average 25 yuan)",
+            "Bread & Desserts (Average 32 yuan)"
+          ],
+          "preferred average price per person": "20~40 yuan",
+          "preferred store rating": "3.8~4.5 stars",
+          "typical dining time": "15:00-17:00",
+          "preferred distance": "0~800m",
+          "recent orders": [
+            {
+              "store": "Nayuki Tea",
+              "product": "Cheese Jasmine Tea (Sugar-free)"
+            },
+            {
+              "store": "Bread Talk",
+              "product": "Whole Wheat Toast"
+            },
+            {
+              "store": "Fruitful",
+              "product": "Fresh Squeezed Fruit Juice"
+            }
+          ],
+          "search history": [
+            "Low-sugar drinks",
+            "Healthy desserts",
+            "Fruit tea",
+            "Non-alcoholic beverages"
+          ]
+        }
+      },
+      "other in-store services": {
+        "frequently consumed categories": {
+          "Sports & Fitness/Fitness Centers": "45%",
+          "Beauty/Yoga": "30%",
+          "Leisure & Entertainment/DIY Workshops": "15%",
+          "Leisure & Entertainment/Tea Houses": "10%"
+        },
+        "cost per order by category": {
+          "Sports & Fitness/Fitness Centers": "150~300 yuan",
+          "Beauty/Yoga": "120~200 yuan",
+          "Leisure & Entertainment/DIY Workshops": "80~180 yuan",
+          "Leisure & Entertainment/Tea Houses": "60~120 yuan"
+        },
+        "preferred store rating": "4.0~4.8 stars",
+        "preferred service time": "18:00-21:00",
+        "preferred distance": "0~3000m",
+        "recent orders": [
+          {
+            "store": "Orange Sky Fitness (Yuhua Branch)",
+            "product": "Personal Training Course (5 Sessions)"
+          },
+          {
+            "store": "Yuexin Yoga",
+            "product": "Monthly Pass"
+          },
+          {
+            "store": "Wood Art Life DIY Studio",
+            "product": "Handmade Furniture Design Experience"
+          }
+        ],
+        "search history": [
+          "Fitness coach",
+          "Meditation yoga",
+          "Design inspiration",
+          "Non-alcoholic tea house",
+          "Handcraft DIY"
+        ]
+      }
+    },
+    "OTA": {
+      "visited scenes": {
+        "Cultural Relics": "35%",
+        "Exhibition Halls (Museums/Art Galleries)": "25%",
+        "Natural Landscapes (Mountains/Lakes/Forests)": "20%",
+        "Feature Villages/Industrial Tourism/Uncategorized Projects": "15%",
+        "Landmark Buildings": "5%"
+      },
+      "cost per night on hotel": "500~1000 yuan",
+      "visited hotels": {
+        "Atour": "40%",
+        "JI Hotel": "25%",
+        "Vienna Hotel": "20%",
+        "Huazhu Hotels": "15%"
+      },
+      "browsed hotels": {
+        "Four-Star Hotels": "35%",
+        "Comfort Hotels": "45%",
+        "Three-Star Hotels": "20%"
+      },
+      "historical travel plans": {
+        "Baoding-Beijing": {
+          "price range": "70-120 yuan",
+          "transportation": "High-Speed Rail/EMU"
+        },
+        "Baoding-Shanghai": {
+          "price range": "550-800 yuan",
+          "transportation": "High-Speed Rail/EMU"
+        },
+        "Baoding-Hangzhou": {
+          "price range": "700-1200 yuan",
+          "transportation": "High-Speed Rail/EMU"
+        },
+        "Baoding-Xi'an": {
+          "price range": "400-600 yuan",
+          "transportation": "High-Speed Rail/EMU"
+        },
+        "Baoding-Suzhou": {
+          "price range": "600-900 yuan",
+          "transportation": "High-Speed Rail/EMU"
+        },
+        "Beijing-Baoding": {
+          "price range": "70-120 yuan",
+          "transportation": "High-Speed Rail/EMU"
+        }
+      }
+    }
+  },
+  "stores": {},
+  "orders": {
+    "10806004001": {
+      "order_id": "10806004001",
+      "order_type": "delivery",
+      "user_id": "U010025",
+      "store_id": "S17550931962874071_S00002",
+      "note": "",
+      "location": {
+        "address": "Huachuang International Plaza, 557 Yuhua West Road, Lianchi District, Baoding, Hebei Province",
+        "longitude": 115.484,
+        "latitude": 38.865
+      },
+      "dispatch_time": "2025-07-03 14:10:00",
+      "shipping_time": 58,
+      "delivery_time": "2025-07-03 15:08:00",
+      "total_price": 79,
+      "create_time": "2025-07-03 14:08:02",
+      "update_time": "2025-07-03 14:08:02",
+      "status": "delivered",
+      "products": [
+        {
+          "product_id": "S17550931962874071_P00010",
+          "price": 79,
+          "quantity": 1,
+          "name": "Outdoor Hiking Trekking Poles",
+          "attributes": ""
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,105 @@
+{
+  "required_orders": [
+    {
+      "order_id": "10826066T001",
+      "order_type": "instore",
+      "user_id": "U499750",
+      "store_id": "S17567836573372019_I00001",
+      "note": "",
+      "location": null,
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 158,
+      "create_time": "2025-04-04 17:46:00",
+      "update_time": "2025-04-04 17:46:00",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17567836573372019_P00001",
+          "name": "Romantic couple movie package",
+          "price": 158,
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "order_id": "10826066T002",
+      "order_type": "instore",
+      "user_id": "U499750",
+      "store_id": "S17567836573372019_I00002",
+      "note": "",
+      "location": null,
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 188,
+      "create_time": "2025-04-04 17:47:13",
+      "update_time": "2025-04-04 17:47:13",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17567836573372019_P00010",
+          "name": "Blue rose bouquet reservation voucher (19 roses)",
+          "price": 188,
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "reservation_id": "10826066T003",
+      "shop_id": "S17567836573372019_I00002",
+      "reservation_time": "2025-04-05 17:30:00",
+      "update_time": "2025-04-04 17:48:48",
+      "customer_id": "U499750",
+      "customer_count": 1,
+      "status": "paid"
+    },
+    {
+      "order_id": "10826066T004",
+      "order_type": "instore",
+      "user_id": "U499750",
+      "store_id": "S17567836573372019_I00008",
+      "note": "",
+      "location": null,
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 138,
+      "create_time": "2025-04-04 17:49:17",
+      "update_time": "2025-04-04 17:49:17",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17567836573372019_P00064",
+          "name": "Romantic BBQ package for two",
+          "price": 138,
+          "quantity": 1
+        }
+      ]
+    }
+  ],
+  "rubrics": [
+    "Private cinemas should have a romantic environment",
+    "Private cinemas should have private rooms",
+    "Orders at private cinemas should be couple packages",
+    "Orders at private cinemas should be for the 18:00-21:00 time slot",
+    "Package orders at private cinemas should include snacks",
+    "Package orders at private cinemas should include drinks",
+    "Package orders at private cinemas should not contain caffeine",
+    "Products included in private cinema orders should be low in sugar",
+    "The flower shop should be no more than 1km (inclusive) from Starlight Private Cinema, Section B2, Xinghai Square, Shahekou District, Dalian",
+    "Orders at the flower shop should be blue roses",
+    "Orders at the flower shop should be bouquet packages",
+    "The flower shop should be open on Saturdays",
+    "The reserved flower shop should be Blue Rose Flower Shop",
+    "The flower shop reservation time should be 17:30:00 on 2025-04-05",
+    "The flower shop reservation should be for 1 person",
+    "The restaurant should be a Korean cuisine restaurant",
+    "The restaurant should be no more than 2km (inclusive) from Starlight Private Cinema, Section B2, Xinghai Square, Shahekou District, Dalian",
+    "The restaurant should offer a night view",
+    "Orders at the restaurant should be packages for two",
+    "The ordered restaurant package should include beef",
+    "The restaurant order price should not exceed 160 yuan (inclusive)"
+  ]
+}

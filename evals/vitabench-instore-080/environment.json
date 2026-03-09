@@ -1,0 +1,191 @@
+{
+  "task_id": "10826254",
+  "domain": "instore",
+  "time": "2023-11-24 18:43:34",
+  "user_id": "U893511",
+  "weather": [
+    {
+      "city": "Zhengzhou",
+      "category": "cloudy",
+      "datetime": "2023-11-24",
+      "temperature": [
+        5,
+        12
+      ],
+      "humidity": 58
+    },
+    {
+      "city": "Zhengzhou",
+      "category": "sunny",
+      "datetime": "2023-11-25",
+      "temperature": [
+        4,
+        14
+      ],
+      "humidity": 45
+    }
+  ],
+  "location": [
+    {
+      "address": "Room 1203, Building A, Jianye Kaixuan Plaza, No. 59 Huayuan Road, Jinshui District, Zhengzhou",
+      "longitude": 113.676407,
+      "latitude": 34.762456
+    }
+  ],
+  "user_profile": {
+    "user id": "U893511",
+    "occupation": "Project Manager",
+    "gender": "female",
+    "age group": "30~35",
+    "residence": "Zhengzhou",
+    "home address": "Room 1203, Building A, Jianye Kaixuan Plaza, No. 59 Huayuan Road, Jinshui District, Zhengzhou",
+    "work address": "15th Floor, Building B, Building Economy Industrial Park, No. 27 Business Inner Ring Road, Zhengdong New District, Zhengzhou",
+    "dietary restrictions": "No fried food, No caffeine",
+    "family status": "Couples",
+    "personality": "Strong logical thinking, likes to analyze and question, pursues accuracy"
+  },
+  "user_historical_behaviors": {
+    "user id": "U893511",
+    "occupation": "Project Manager",
+    "gender": "female",
+    "age group": "30~35",
+    "residence": "Zhengzhou",
+    "home address": "Room 1203, Building A, Jianye Kaixuan Plaza, No. 59 Huayuan Road, Jinshui District, Zhengzhou",
+    "work address": "15th Floor, Building B, Building Economy Industrial Park, No. 27 Business Inner Ring Road, Zhengdong New District, Zhengzhou",
+    "in-store dining": {
+      "in-store dining": {
+        "fine-dining": {
+          "frequently purchased categories": [
+            "Regional Cuisine/Sichuan (Average ¥95)",
+            "International Cuisine/Western (Average ¥120)",
+            "Regional Cuisine/Cantonese (Average ¥135)"
+          ],
+          "preferred average price per person": "¥90~140",
+          "preferred store rating": "4.2~4.8 stars",
+          "typical dining time": "18:30-20:30",
+          "preferred distance": "500~3000m",
+          "recent orders": [
+            {
+              "store": "Shu Daxia Sichuan Restaurant",
+              "product": "Boiled Fish Set"
+            },
+            {
+              "store": "Michelin Western Restaurant",
+              "product": "Steak Set for Two"
+            },
+            {
+              "store": "Yue Lai Shun",
+              "product": "Steamed Bass + Boiled Shrimp"
+            }
+          ],
+          "search history": [
+            "Oil-free cooking",
+            "Healthy Sichuan cuisine",
+            "Light Western meals",
+            "Caffeine-free drinks"
+          ]
+        },
+        "light meal": {
+          "frequently purchased categories": [
+            "Fast Food/Chinese Simple Meals (Average ¥38)",
+            "Fast Food/Western Fast Food (Average ¥45)",
+            "Regional Cuisine/Specialty Dishes (Average ¥52)"
+          ],
+          "preferred average price per person": "¥35~55",
+          "preferred store rating": "3.5~4.3 stars",
+          "typical dining time": "12:00-13:30",
+          "preferred distance": "0~800m",
+          "recent orders": [
+            {
+              "store": "Light Food Workshop",
+              "product": "Vegetable Salad Set"
+            },
+            {
+              "store": "McDonald's",
+              "product": "Light Chicken Wrap"
+            },
+            {
+              "store": "Small Bowl Cuisine",
+              "product": "Steamed Food Set"
+            }
+          ],
+          "search history": [
+            "Healthy fast food",
+            "Low-fat lunch",
+            "Steamed dishes",
+            "Light simple meals"
+          ]
+        },
+        "desserts/drinks/snacks": {
+          "frequently purchased categories": [
+            "Beverage Shops (Average ¥22)",
+            "Bakery and Desserts (Average ¥28)",
+            "Other Dining/Fresh Fruits (Average ¥15)"
+          ],
+          "preferred average price per person": "¥15~30",
+          "preferred store rating": "4.0~4.7 stars",
+          "typical dining time": "15:00-16:30",
+          "preferred distance": "0~500m",
+          "recent orders": [
+            {
+              "store": "Fresh Fruit Workshop",
+              "product": "Fruit Salad Cup"
+            },
+            {
+              "store": "Cha Bai Dao",
+              "product": "Sugar-free Jasmine Tea"
+            },
+            {
+              "store": "Bread Talk",
+              "product": "Whole Wheat Bread"
+            }
+          ],
+          "search history": [
+            "Caffeine-free tea drinks",
+            "Low-sugar desserts",
+            "Fresh fruits"
+          ]
+        }
+      },
+      "other in-store services": {
+        "frequently consumed categories": {
+          "Sports & Fitness/Fitness Centers": "40%",
+          "Sports & Fitness/Yoga": "30%",
+          "Beauty/Hair Salon": "15%",
+          "Entertainment/Massage/Foot Therapy": "15%"
+        },
+        "cost per order by category": {
+          "Sports & Fitness/Fitness Centers": "¥120~200",
+          "Sports & Fitness/Yoga": "¥80~150",
+          "Beauty/Hair Salon": "¥150~300",
+          "Entertainment/Massage/Foot Therapy": "¥120~200"
+        },
+        "preferred store rating": "4.0~4.8 stars",
+        "preferred service time": "18:00-21:00",
+        "preferred distance": "0~2500m",
+        "recent orders": [
+          {
+            "store": "Gentle Wind Yoga Studio",
+            "product": "Single Person Yoga Monthly Card"
+          },
+          {
+            "store": "Kangti Fitness Center",
+            "product": "5 Personal Training Sessions"
+          },
+          {
+            "store": "Oriental SPA",
+            "product": "Essential Oil Stress Relief Package"
+          }
+        ],
+        "search history": [
+          "Yoga studio",
+          "Women's area in gym",
+          "Stress-relief massage",
+          "Workplace stress reduction"
+        ]
+      }
+    }
+  },
+  "stores": {},
+  "orders": {}
+}

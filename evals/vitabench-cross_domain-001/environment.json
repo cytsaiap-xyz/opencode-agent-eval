@@ -1,0 +1,1029 @@
+{
+  "task_id": "A0812003",
+  "domain": "cross_domain",
+  "time": "2025-06-19 21:29:00",
+  "user_id": "U624274",
+  "weather": [
+    {
+      "city": "Baoding",
+      "category": "sunny",
+      "datetime": "2025-06-19",
+      "temperature": [
+        22,
+        33
+      ],
+      "humidity": 45
+    },
+    {
+      "city": "Beijing",
+      "category": "cloudy",
+      "datetime": "2025-06-21",
+      "temperature": [
+        24,
+        35
+      ],
+      "humidity": 50
+    },
+    {
+      "city": "Beijing",
+      "category": "sunny",
+      "datetime": "2025-06-22",
+      "temperature": [
+        25,
+        36
+      ],
+      "humidity": 48
+    }
+  ],
+  "location": [
+    {
+      "address": "Room 502, Unit 2, Building 8, Oriental Garden Community, Intersection of Dongfeng Road and Yuhua Road, Lianchi District, Baoding, Hebei Province",
+      "longitude": 115.482933,
+      "latitude": 38.873752
+    },
+    {
+      "address": "Building 3, Baoding Technology Park, 128 Chuangye Road, High-tech Zone, Baoding, Hebei Province",
+      "longitude": 115.513421,
+      "latitude": 38.896534
+    }
+  ],
+  "user_profile": {
+    "user id": "U624274",
+    "occupation": "Engineer",
+    "gender": "female",
+    "age group": "30~35",
+    "residence": "Baoding",
+    "home address": "Room 502, Unit 2, Building 8, Oriental Garden Community, Intersection of Dongfeng Road and Yuhua Road, Lianchi District, Baoding, Hebei Province",
+    "work address": "Building 3, Baoding Technology Park, 128 Chuangye Road, High-tech Zone, Baoding, Hebei Province",
+    "dietary restrictions": "No high sugar, No caffeine",
+    "family status": "Has children",
+    "personality": "Impatient, frequently urges others, lacks patience for processes"
+  },
+  "user_historical_behaviors": {
+    "user id": "U624274",
+    "occupation": "engineer",
+    "gender": "female",
+    "age group": "30~35",
+    "residence": "Baoding",
+    "home address": "Room 502, Unit 2, Building 8, Oriental Garden Community, Intersection of Dongfeng Road and Yuhua Road, Lianchi District, Baoding, Hebei Province",
+    "work address": "Building 3, Baoding Technology Park, 128 Chuangye Road, High-tech Zone, Baoding, Hebei Province",
+    "delivery": {
+      "food delivery": {
+        "breakfast": {
+          "frequently purchased categories": [
+            "Quick meals/Steamed buns/Pan-fried buns (Average 15 yuan)",
+            "Quick meals/Pancakes/Wraps/Hand-held pancakes (Average 12 yuan)",
+            "Quick meals/Light food (Average 28 yuan)"
+          ],
+          "cost per order": "12~30 yuan",
+          "preferred store rating": "4.5~4.8 points",
+          "preferred delivery time": "15~25 minutes",
+          "preferred distance": "0~2000m",
+          "recent orders": [
+            {
+              "store": "Yonghe Soybean Milk",
+              "product": "Soy milk and fried dough stick combo"
+            },
+            {
+              "store": "Fresh Handmade Bun Shop",
+              "product": "Meat bun + Soy milk"
+            },
+            {
+              "store": "Light Breakfast Workshop",
+              "product": "Fruit oatmeal cup + Whole wheat sandwich"
+            }
+          ],
+          "search history": [
+            "Low-fat breakfast",
+            "Steamed buns",
+            "Soy milk",
+            "Oatmeal",
+            "Light food"
+          ]
+        },
+        "weekday lunch/dinner": {
+          "frequently purchased categories": [
+            "Quick meals/Small bowls/Small portions (Average 35 yuan)",
+            "Chinese cuisine/Sichuan cuisine (Average 45 yuan)",
+            "Quick meals/Healthy meals (Average 42 yuan)"
+          ],
+          "cost per order": "30~60 yuan",
+          "preferred store rating": "4.3~4.8 points",
+          "preferred delivery time": "20~35 minutes",
+          "preferred distance": "0~3000m",
+          "recent orders": [
+            {
+              "store": "Sichuan Flavor Restaurant",
+              "product": "Boiled sliced pork + Rice"
+            },
+            {
+              "store": "Salad Diary",
+              "product": "Quinoa chicken breast salad"
+            },
+            {
+              "store": "Small Bowl Work Meals",
+              "product": "Three dishes one soup set"
+            }
+          ],
+          "search history": [
+            "Healthy work meals",
+            "Non-greasy",
+            "Small bowl dishes",
+            "Low-calorie lunch"
+          ]
+        },
+        "weekend lunch/dinner": {
+          "frequently purchased categories": [
+            "Chinese cuisine/Cantonese cuisine (Average 88 yuan)",
+            "International cuisine/Japanese bento/Sushi (Average 95 yuan)",
+            "Chinese cuisine/Crayfish (Average 120 yuan)"
+          ],
+          "cost per order": "80~150 yuan",
+          "preferred store rating": "4.6~4.9 points",
+          "preferred delivery time": "30~45 minutes",
+          "preferred distance": "0~5000m",
+          "recent orders": [
+            {
+              "store": "Cantonese Wonton Noodles",
+              "product": "Family set (Wonton noodles + Roast goose + Steamed shrimp dumplings)"
+            },
+            {
+              "store": "Sushi Story",
+              "product": "Salmon set"
+            },
+            {
+              "store": "Crayfish Expert",
+              "product": "Garlic crayfish + Assorted side dishes"
+            }
+          ],
+          "search history": [
+            "Family-friendly meal",
+            "Family set",
+            "Japanese cuisine",
+            "Cantonese cuisine"
+          ]
+        },
+        "desserts/drinks/snacks": {
+          "frequently purchased categories": [
+            "Beverages and desserts/Fruit mix (Average 32 yuan)",
+            "Beverages and desserts/Pure tea/Herbal tea (Average 18 yuan)",
+            "Beverages and desserts/Chinese pastries (Average 25 yuan)"
+          ],
+          "cost per order": "15~35 yuan",
+          "preferred store rating": "4.5~4.9 points",
+          "preferred delivery time": "15~30 minutes",
+          "preferred distance": "0~3000m",
+          "recent orders": [
+            {
+              "store": "Fresh Fruit Workshop",
+              "product": "Mango mix"
+            },
+            {
+              "store": "Cha Yan Yue Se",
+              "product": "Jasmine green tea (sugar-free)"
+            },
+            {
+              "store": "Pastry Shop",
+              "product": "Osmanthus cake"
+            }
+          ],
+          "search history": [
+            "Fruit mix",
+            "Sugar-free tea",
+            "Low-sugar dessert",
+            "Chinese pastries"
+          ]
+        },
+        "night snack": {
+          "frequently purchased categories": [
+            "Snacks and braised food/Bobo Chicken (Average 45 yuan)",
+            "Quick meals/Dumplings/Wonton (Average 30 yuan)"
+          ],
+          "cost per order": "25~50 yuan",
+          "preferred store rating": "4.2~4.7 points",
+          "preferred delivery time": "20~40 minutes",
+          "preferred distance": "0~3000m",
+          "recent orders": [
+            {
+              "store": "Bobo Chicken Legend",
+              "product": "Mild spicy Bobo Chicken platter"
+            },
+            {
+              "store": "Dumpling House",
+              "product": "Three delicacies dumplings"
+            },
+            {
+              "store": "Braised Food Kitchen",
+              "product": "Braised food platter"
+            }
+          ],
+          "search history": [
+            "Non-fried night snacks",
+            "Bobo Chicken",
+            "Dumplings",
+            "Braised food"
+          ]
+        }
+      },
+      "product delivery": {
+        "frequently purchased categories": [
+          "Vegetables/Bean products(28%)",
+          "Fruits(22%)",
+          "Mother and baby products(15%)",
+          "Household items(12%)",
+          "Grains, oils, seasonings, dried goods(10%)",
+          "Others(13%)"
+        ],
+        "frequently visited stores": [
+          "Xiang Fresh Food(45%)",
+          "Yonghui Supermarket(30%)",
+          "Family Mart(15%)",
+          "Other stores(10%)"
+        ],
+        "cost per order by category": {
+          "Vegetables/Bean products": "5~30 yuan",
+          "Fruits": "15~50 yuan",
+          "Mother and baby products": "30~150 yuan",
+          "Household items": "10~60 yuan",
+          "Grains, oils, seasonings, dried goods": "8~45 yuan"
+        },
+        "preferred delivery time": "30~60 minutes",
+        "typical order time": "9~11am(35%), 4~6pm(40%), 8~9pm(25%)",
+        "recent orders": [
+          {
+            "store": "Xiang Fresh Food",
+            "product": "Organic vegetable set + Kiwi 1 jin"
+          },
+          {
+            "store": "Yonghui Supermarket",
+            "product": "Children's toothpaste + Wet wipes + Facial tissues"
+          },
+          {
+            "store": "Xiang Fresh Food",
+            "product": "Wuchang rice 5kg + Olive oil 500ml"
+          }
+        ],
+        "search history": [
+          "Organic vegetables",
+          "Children's snacks",
+          "Additive-free",
+          "Fresh milk",
+          "Children's toothpaste",
+          "Wuchang rice"
+        ]
+      }
+    },
+    "in-store consumption": {
+      "in-store dining": {
+        "fine-dining": {
+          "frequently purchased categories": [
+            "Regional cuisine/Sichuan cuisine (Average 120 yuan)",
+            "Regional cuisine/Fish dishes (Average 150 yuan)",
+            "International cuisine/Japanese food (Average 180 yuan)"
+          ],
+          "preferred average price per person": "120~180 yuan",
+          "preferred store rating": "4.2~4.8 stars",
+          "typical dining time": "18:30-20:30",
+          "preferred distance": "500~3000m",
+          "recent orders": [
+            {
+              "store": "Sichuan Flavor Palace",
+              "product": "Boiled fish + Dry-fried green beans"
+            },
+            {
+              "store": "Fresh Fish Ecological Restaurant",
+              "product": "Steamed sea bass + Seasonal vegetables"
+            },
+            {
+              "store": "Japanese Style Cuisine",
+              "product": "Assorted sashimi + Sushi set"
+            }
+          ],
+          "search history": [
+            "Healthy Sichuan cuisine",
+            "Sugar-free cuisine",
+            "Family-friendly restaurant",
+            "Business dining"
+          ]
+        },
+        "light meal": {
+          "frequently purchased categories": [
+            "Fast food/Chinese quick meals (Average 35 yuan)",
+            "Regional cuisine/Beijing cuisine (Average 45 yuan)",
+            "Fast food/Western fast food (Average 30 yuan)"
+          ],
+          "preferred average price per person": "25~50 yuan",
+          "preferred store rating": "3.5~4.3 stars",
+          "typical dining time": "12:00-13:00",
+          "preferred distance": "0~500m",
+          "recent orders": [
+            {
+              "store": "Eat Now",
+              "product": "Low-sugar chicken salad + Whole grain rice"
+            },
+            {
+              "store": "Old Beijing Zha Jiang Noodles",
+              "product": "Traditional Zha Jiang noodles + Cucumber salad"
+            },
+            {
+              "store": "Light Food Workshop",
+              "product": "Quinoa chicken breast salad"
+            }
+          ],
+          "search history": [
+            "Healthy quick meal",
+            "Work meal",
+            "Low-sugar food",
+            "Fast service"
+          ]
+        },
+        "desserts/drinks/snacks": {
+          "frequently purchased categories": [
+            "Beverage shops (Average 18 yuan)",
+            "Bread and desserts (Average 25 yuan)",
+            "Other dining/Fresh fruits (Average 15 yuan)"
+          ],
+          "preferred average price per person": "15~30 yuan",
+          "preferred store rating": "4.0~4.6 stars",
+          "typical dining time": "15:00-16:30",
+          "preferred distance": "0~800m",
+          "recent orders": [
+            {
+              "store": "Fresh Fruit Workshop",
+              "product": "Low-sugar fruit tea"
+            },
+            {
+              "store": "Paris Chanson",
+              "product": "Sugar-free whole wheat bread"
+            },
+            {
+              "store": "Fresh Cut Fruit Shop",
+              "product": "Seasonal fruit platter"
+            }
+          ],
+          "search history": [
+            "Sugar-free drinks",
+            "Low-sugar desserts",
+            "Healthy snacks",
+            "Children's desserts"
+          ]
+        }
+      },
+      "other in-store services": {
+        "frequently consumed categories": {
+          "Sports/Fitness centers": "35%",
+          "Beauty/Yoga": "25%",
+          "Parent-child/Children's recreation": "30%",
+          "Leisure/Massage/Foot therapy": "10%"
+        },
+        "cost per order by category": {
+          "Sports/Fitness centers": "80~200 yuan",
+          "Beauty/Yoga": "120~180 yuan",
+          "Parent-child/Children's recreation": "150~300 yuan",
+          "Leisure/Massage/Foot therapy": "120~200 yuan"
+        },
+        "preferred store rating": "4.0~4.8 stars",
+        "preferred service time": "18:00-20:00",
+        "preferred distance": "0~5000m",
+        "recent orders": [
+          {
+            "store": "Optimal Fitness Center",
+            "product": "Single fitness session + Personal training"
+          },
+          {
+            "store": "Peaceful Yoga Studio",
+            "product": "Parent-child yoga experience class"
+          },
+          {
+            "store": "Wonder Kids Playground",
+            "product": "Weekend family ticket"
+          }
+        ],
+        "search history": [
+          "Family fitness",
+          "Women's yoga",
+          "Children's recreation",
+          "Work stress relief",
+          "Weekend family activities"
+        ]
+      }
+    },
+    "OTA": {
+      "visited scenes": {
+        "Cultural heritage sites": "35%",
+        "Natural landscapes (Mountains/Lakes/Forests)": "25%",
+        "Exhibition halls (Museums/Art galleries)": "20%",
+        "Characteristic villages/Industrial tourism/Uncategorized projects": "10%",
+        "Parks": "10%"
+      },
+      "cost per night on hotel": "300~500 yuan",
+      "visited hotels": {
+        "Home Inn": "30%",
+        "Ji Hotel": "25%",
+        "Atour": "20%",
+        "Hanting": "15%",
+        "Vienna": "10%"
+      },
+      "browsed hotels": {
+        "3-star hotels": "45%",
+        "Comfort hotels": "35%",
+        "4-star hotels": "15%",
+        "Economy hotels": "5%"
+      },
+      "historical travel plans": {
+        "Baoding-Beijing": {
+          "price range": "50-100 yuan",
+          "transportation method": "High-speed rail"
+        },
+        "Baoding-Shanghai": {
+          "price range": "550-800 yuan",
+          "transportation method": "High-speed rail"
+        },
+        "Baoding-Xi'an": {
+          "price range": "400-600 yuan",
+          "transportation method": "High-speed rail"
+        },
+        "Baoding-Chengdu": {
+          "price range": "800-1200 yuan",
+          "transportation method": "Flight"
+        },
+        "Beijing-Baoding": {
+          "price range": "50-100 yuan",
+          "transportation method": "High-speed rail"
+        },
+        "Shanghai-Baoding": {
+          "price range": "550-800 yuan",
+          "transportation method": "High-speed rail"
+        },
+        "Baoding-Qinhuangdao": {
+          "price range": "150-250 yuan",
+          "transportation method": "High-speed rail"
+        },
+        "Qinhuangdao-Baoding": {
+          "price range": "150-250 yuan",
+          "transportation method": "High-speed rail"
+        },
+        "Baoding-Chengde": {
+          "price range": "100-200 yuan",
+          "transportation method": "Self-driving"
+        }
+      }
+    }
+  },
+  "stores": {
+    "S17550802154486284_S00001": {
+      "name": "Jiaren Cosmetics",
+      "store_id": "S17550802154486284_S00001",
+      "score": 4.7,
+      "location": {
+        "address": "Jiaren Cosmetics, 87 Yuhua Road, Lianchi District, Baoding, Hebei Province",
+        "latitude": 38.874321,
+        "longitude": 115.484562
+      },
+      "tags": [
+        "Beauty products",
+        "Sun protection",
+        "Daily necessities"
+      ],
+      "store_type": "target",
+      "products": [
+        {
+          "name": "Jiaren Self-developed Sun-resistant Gold Bottle Sunscreen SPF50+ PA++++ 90ml",
+          "store_id": "S17550802154486284_S00001",
+          "store_name": "Jiaren Cosmetics",
+          "price": 249,
+          "tags": [
+            "Anessa",
+            "Large capacity",
+            "Sunscreen",
+            "High SPF sun protection",
+            "Popular bestseller"
+          ],
+          "product_id": "S17550802154486284_P00001",
+          "attributes": [],
+          "product_type": "target"
+        },
+        {
+          "name": "Jiaren Self-developed Sun-resistant Gold Bottle Sunscreen SPF50+ PA++++ 60ml",
+          "store_id": "S17550802154486284_S00001",
+          "store_name": "Jiaren Cosmetics",
+          "price": 169,
+          "tags": [
+            "Anessa",
+            "Sunscreen",
+            "High SPF sun protection",
+            "Popular bestseller"
+          ],
+          "product_id": "S17550802154486284_P00002",
+          "attributes": [],
+          "product_type": "distraction"
+        },
+        {
+          "name": "Jiaren Self-developed Blue Bottle Sunscreen SPF50+ PA++++ 40ml",
+          "store_id": "S17550802154486284_S00001",
+          "store_name": "Jiaren Cosmetics",
+          "price": 89,
+          "tags": [
+            "Anessa",
+            "Sunscreen",
+            "High SPF sun protection",
+            "Suitable for sensitive skin"
+          ],
+          "product_id": "S17550802154486284_P00003",
+          "attributes": [],
+          "product_type": "distraction"
+        },
+        {
+          "name": "Nivea Sunscreen Spray SPF50 200ml",
+          "store_id": "S17550802154486284_S00001",
+          "store_name": "Jiaren Cosmetics",
+          "price": 89,
+          "tags": [
+            "Nivea",
+            "Large capacity",
+            "Sunscreen spray",
+            "High SPF sun protection",
+            "Full-body sunscreen"
+          ],
+          "product_id": "S17550802154486284_P00004",
+          "attributes": [],
+          "product_type": "distraction"
+        },
+        {
+          "name": "Biore Watery Sunscreen Milk SPF50+ 85g",
+          "store_id": "S17550802154486284_S00001",
+          "store_name": "Jiaren Cosmetics",
+          "price": 129,
+          "tags": [
+            "Biore",
+            "Large capacity",
+            "Sunscreen lotion",
+            "Water-like texture",
+            "Fresh and non-greasy"
+          ],
+          "product_id": "S17550802154486284_P00005",
+          "attributes": [],
+          "product_type": "distraction"
+        }
+      ]
+    },
+    "S17550802154486284_S00002": {
+      "name": "Global Beauty Purchase",
+      "store_id": "S17550802154486284_S00002",
+      "score": 4.5,
+      "location": {
+        "address": "Global Beauty Purchase, 123 Dongfeng Road, Lianchi District, Baoding, Hebei Province",
+        "latitude": 38.875643,
+        "longitude": 115.483219
+      },
+      "tags": [
+        "Imported beauty products",
+        "Sun protection",
+        "Skincare",
+        "Next-day delivery"
+      ],
+      "store_type": "distraction",
+      "products": [
+        {
+          "name": "Anessa Silver Bottle Fresh Sunscreen Milk SPF50+ PA++++ 60ml",
+          "store_id": "S17550802154486284_S00002",
+          "store_name": "Global Beauty Purchase",
+          "price": 259,
+          "tags": [
+            "Anessa",
+            "Sun protection",
+            "Fresh",
+            "Suitable for sensitive skin"
+          ],
+          "product_id": "S17550802154486284_P00007",
+          "attributes": [],
+          "product_type": "distraction"
+        },
+        {
+          "name": "Anessa Gold Bottle Sunscreen Value Pack SPF50+ PA++++ 60ml×2",
+          "store_id": "S17550802154486284_S00002",
+          "store_name": "Global Beauty Purchase",
+          "price": 499,
+          "tags": [
+            "Anessa",
+            "Sun protection",
+            "Set",
+            "Limited edition",
+            "Large capacity"
+          ],
+          "product_id": "S17550802154486284_P00008",
+          "attributes": [],
+          "product_type": "distraction"
+        },
+        {
+          "name": "Anessa Pink Gold Bottle Sunscreen SPF50+ PA++++ 2025 Limited Edition 60ml",
+          "store_id": "S17550802154486284_S00002",
+          "store_name": "Global Beauty Purchase",
+          "price": 359,
+          "tags": [
+            "Anessa",
+            "Limited edition",
+            "Sun protection",
+            "Large capacity",
+            "Pink gold bottle"
+          ],
+          "product_id": "S17550802154486284_P00009",
+          "attributes": [],
+          "product_type": "distraction"
+        }
+      ]
+    },
+    "S17550802154486284_S00003": {
+      "name": "Watsons Convenience Store",
+      "store_id": "S17550802154486284_S00003",
+      "score": 4.6,
+      "location": {
+        "address": "Watsons Convenience Store, 102 Yuhua Road, Lianchi District, Baoding, Hebei Province",
+        "latitude": 38.873987,
+        "longitude": 115.485632
+      },
+      "tags": [
+        "Beauty products",
+        "Personal care",
+        "Sun protection",
+        "Business hours: 10:00-21:00",
+        "Next-day delivery"
+      ],
+      "store_type": "target",
+      "products": [
+        {
+          "name": "Watsons Sun-resistant Gold Bottle Super Waterproof Sunscreen SPF50+ 90ml",
+          "store_id": "S17550802154486284_S00003",
+          "store_name": "Watsons Convenience Store",
+          "price": 329,
+          "tags": [
+            "Large capacity",
+            "Sunscreen",
+            "SPF50+",
+            "Super waterproof"
+          ],
+          "product_id": "S17550802154486284_P00010",
+          "attributes": [],
+          "product_type": "target"
+        },
+        {
+          "name": "Anessa Gold Bottle Super Waterproof Sunscreen SPF50+ 60ml",
+          "store_id": "S17550802154486284_S00003",
+          "store_name": "Watsons Convenience Store",
+          "price": 239,
+          "tags": [
+            "Anessa",
+            "Sunscreen",
+            "SPF50+",
+            "Super waterproof"
+          ],
+          "product_id": "S17550802154486284_P00011",
+          "attributes": [],
+          "product_type": "distraction"
+        },
+        {
+          "name": "Curel Sunscreen SPF50+ 80ml",
+          "store_id": "S17550802154486284_S00003",
+          "store_name": "Watsons Convenience Store",
+          "price": 189,
+          "tags": [
+            "Curel",
+            "Large capacity",
+            "Sunscreen",
+            "SPF50+",
+            "Suitable for sensitive skin"
+          ],
+          "product_id": "S17550802154486284_P00012",
+          "attributes": [],
+          "product_type": "distraction"
+        },
+        {
+          "name": "Anessa Pink Bottle Sunscreen Spray SPF48+ 100ml",
+          "store_id": "S17550802154486284_S00003",
+          "store_name": "Watsons Convenience Store",
+          "price": 319,
+          "tags": [
+            "Anessa",
+            "Large capacity",
+            "Sunscreen",
+            "SPF48+",
+            "Suitable for sensitive skin"
+          ],
+          "product_id": "S17550802154486284_P00013",
+          "attributes": [],
+          "product_type": "target"
+        },
+        {
+          "name": "Nivea Sunscreen Spray SPF50 200ml",
+          "store_id": "S17550802154486284_S00003",
+          "store_name": "Watsons Convenience Store",
+          "price": 99,
+          "tags": [
+            "Nivea",
+            "Extra large capacity",
+            "Sunscreen spray",
+            "SPF50",
+            "Portable"
+          ],
+          "product_id": "S17550802154486284_P00014",
+          "attributes": [],
+          "product_type": "distraction"
+        }
+      ]
+    },
+    "S17550802154486284_S00004": {
+      "name": "JD Beauty Supermarket",
+      "store_id": "S17550802154486284_S00004",
+      "score": 4.8,
+      "location": {
+        "address": "JD Beauty Supermarket, 156 Dongfeng Road, Lianchi District, Baoding, Hebei Province",
+        "latitude": 38.876234,
+        "longitude": 115.482176
+      },
+      "tags": [
+        "Beauty products",
+        "Sun protection",
+        "Skincare",
+        "Business hours: 09:00-21:00"
+      ],
+      "store_type": "distraction",
+      "products": [
+        {
+          "name": "Curel Sunscreen SPF50+ PA++++ Large Capacity Version",
+          "store_id": "S17550802154486284_S00004",
+          "store_name": "JD Beauty Supermarket",
+          "price": 179,
+          "tags": [
+            "Sun protection",
+            "SPF50",
+            "Suitable for sensitive skin",
+            "Imported from Japan"
+          ],
+          "product_id": "S17550802154486284_P00015",
+          "attributes": [],
+          "product_type": "distraction"
+        },
+        {
+          "name": "Anessa Gold Bottle Sunscreen SPF50+ PA++++ 60ml",
+          "store_id": "S17550802154486284_S00004",
+          "store_name": "JD Beauty Supermarket",
+          "price": 298,
+          "tags": [
+            "Anessa",
+            "SPF50",
+            "Waterproof and sweatproof",
+            "Imported from Japan"
+          ],
+          "product_id": "S17550802154486284_P00016",
+          "attributes": [],
+          "product_type": "distraction"
+        },
+        {
+          "name": "Anessa Small Gold Bottle Sunscreen SPF50+ PA++++ 40ml",
+          "store_id": "S17550802154486284_S00004",
+          "store_name": "JD Beauty Supermarket",
+          "price": 219,
+          "tags": [
+            "Anessa",
+            "SPF50",
+            "Waterproof and sweatproof",
+            "Imported from Japan"
+          ],
+          "product_id": "S17550802154486284_P00017",
+          "attributes": [],
+          "product_type": "distraction"
+        },
+        {
+          "name": "Lancôme Sunscreen Lotion SPF50 PA++++ 120ml",
+          "store_id": "S17550802154486284_S00004",
+          "store_name": "JD Beauty Supermarket",
+          "price": 420,
+          "tags": [
+            "High-end sunscreen",
+            "SPF50",
+            "Moisturizing sunscreen",
+            "Imported from France",
+            "Large capacity"
+          ],
+          "product_id": "S17550802154486284_P00018",
+          "attributes": [],
+          "product_type": "distraction"
+        },
+        {
+          "name": "Shiseido Anessa Sunscreen SPF50+ PA++++ 90ml",
+          "store_id": "S17550802154486284_S00004",
+          "store_name": "JD Beauty Supermarket",
+          "price": 249,
+          "tags": [
+            "Large capacity",
+            "SPF50",
+            "Waterproof and sweatproof",
+            "Imported from Japan"
+          ],
+          "product_id": "S17550802154486284_P00019",
+          "attributes": [],
+          "product_type": "distraction"
+        }
+      ]
+    },
+    "S17550802154486284_S00005": {
+      "name": "7-Eleven convenience store",
+      "store_id": "S17550802154486284_S00005",
+      "score": 4.4,
+      "location": {
+        "address": "7-Eleven Convenience Store, 78 Yuhua Road, Lianchi District, Baoding, Hebei Province",
+        "latitude": 38.874765,
+        "longitude": 115.483876
+      },
+      "tags": [
+        "Daily necessities",
+        "Snacks",
+        "Beverages",
+        "24-hour operation"
+      ],
+      "store_type": "distraction",
+      "products": [
+        {
+          "name": "Nivea Sunscreen SPF50+ PA+++ 120ml",
+          "store_id": "S17550802154486284_S00005",
+          "store_name": "7-Eleven convenience store",
+          "price": 89.9,
+          "tags": [
+            "Sun protection",
+            "SPF50",
+            "PA+++",
+            "Daily necessities",
+            "Summer essential",
+            "Large capacity"
+          ],
+          "product_id": "S17550802154486284_P00020",
+          "attributes": [],
+          "product_type": "distraction"
+        },
+        {
+          "name": "Neutrogena Fresh Sunscreen Lotion SPF30 120ml",
+          "store_id": "S17550802154486284_S00005",
+          "store_name": "7-Eleven convenience store",
+          "price": 75.5,
+          "tags": [
+            "Sun protection",
+            "Lightweight",
+            "Non-greasy",
+            "Daily sun protection",
+            "Large capacity"
+          ],
+          "product_id": "S17550802154486284_P00021",
+          "attributes": [],
+          "product_type": "distraction"
+        },
+        {
+          "name": "Mentholatum Hydrating Sunscreen Spray SPF50 80ml",
+          "store_id": "S17550802154486284_S00005",
+          "store_name": "7-Eleven convenience store",
+          "price": 59.9,
+          "tags": [
+            "Sunscreen spray",
+            "Portable",
+            "Outdoor activity",
+            "Full-body sunscreen"
+          ],
+          "product_id": "S17550802154486284_P00022",
+          "attributes": [],
+          "product_type": "distraction"
+        },
+        {
+          "name": "Pechoin Sunscreen Isolation Cream SPF30 100ml",
+          "store_id": "S17550802154486284_S00005",
+          "store_name": "7-Eleven convenience store",
+          "price": 42.9,
+          "tags": [
+            "Sun protection",
+            "Isolation",
+            "Hydrating",
+            "Daily sun protection",
+            "Large capacity"
+          ],
+          "product_id": "S17550802154486284_P00023",
+          "attributes": [],
+          "product_type": "distraction"
+        },
+        {
+          "name": "Outdoor Protection Kit (Goggles + Helmet)",
+          "store_id": "S17550802154486284_S00005",
+          "store_name": "7-Eleven convenience store",
+          "price": 129.9,
+          "tags": [
+            "Outdoor",
+            "Protection",
+            "Sports equipment"
+          ],
+          "product_id": "S17550802154486284_P00024",
+          "attributes": [],
+          "product_type": "distraction"
+        }
+      ]
+    }
+  },
+  "orders": {
+    "S17550802154486284_O00001": {
+      "order_id": "S17550802154486284_O00001",
+      "order_type": "delivery",
+      "user_id": "U624274",
+      "store_id": "S17550802154486284_S00003",
+      "total_price": 329.0,
+      "create_time": "2025-06-18 15:42:27",
+      "status": "delivered",
+      "products": [
+        {
+          "product_id": "S17550802154486284_P00010",
+          "price": 329.0,
+          "quantity": 1
+        }
+      ]
+    },
+    "S17550802154486284_O00002": {
+      "order_id": "S17550802154486284_O00002",
+      "order_type": "train",
+      "user_id": "U624274",
+      "store_id": "S17550802154486284_T00011",
+      "note": "Going to Beijing on Saturday for CS activity",
+      "location": {
+        "address": "Baoding East Station, Lianchi District, Baoding, Hebei Province",
+        "longitude": 115.56789,
+        "latitude": 38.886543
+      },
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 552.0,
+      "create_time": "2025-06-18 10:23:45",
+      "update_time": "2025-06-19 09:15:22",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17550802154486284_P00056",
+          "price": 92.0,
+          "quantity": 6,
+          "date": "2025-06-21",
+          "seat_type": "Second class seat"
+        }
+      ]
+    },
+    "S17550802154486284_O00003": {
+      "order_id": "S17550802154486284_O00003",
+      "order_type": "train",
+      "user_id": "U624274",
+      "store_id": "S17550802154486284_T00013",
+      "note": "Returning to Baoding from Beijing on Sunday",
+      "location": {
+        "address": "Beijing South Railway Station, Fengtai District, Beijing",
+        "longitude": 116.378901,
+        "latitude": 39.865432
+      },
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 468.0,
+      "create_time": "2025-06-18 10:25:18",
+      "update_time": "2025-06-18 10:25:18",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17550802154486284_P00075",
+          "price": 78.0,
+          "quantity": 6,
+          "date": "2025-06-22",
+          "seat_type": "Second class seat"
+        }
+      ]
+    },
+    "S17550802154486284_O00004": {
+      "order_id": "S17550802154486284_O00004",
+      "order_type": "attraction",
+      "user_id": "U624274",
+      "store_id": "S17550802154486284_A00006",
+      "note": "CS experience activity on Saturday afternoon",
+      "location": {
+        "address": "Beijing Tactical CS Base, Huilongguan Town, Changping District, Beijing",
+        "longitude": 116.345678,
+        "latitude": 40.098765
+      },
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 2388.0,
+      "create_time": "2025-06-18 11:37:52",
+      "update_time": "2025-06-19 14:26:35",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17550802154486284_P00026",
+          "price": 398.0,
+          "quantity": 6,
+          "date": "2025-06-21",
+          "ticket_type": "Adult ticket"
+        }
+      ]
+    }
+  }
+}

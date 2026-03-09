@@ -1,0 +1,45 @@
+{
+  "required_orders": [
+    {
+      "order_id": "10714001T01",
+      "order_type": "delivery",
+      "user_id": "U000016",
+      "store_id": "S33761083328698190_S00450",
+      "note": "",
+      "location": {
+        "address": "Huchi Garden, No. 75 Huchi Road (180 meters walk from Baiyangwan Park Metro Station Exit 4), Gusu District, Suzhou City, Jiangsu Province",
+        "longitude": 120.558303,
+        "latitude": 31.340753
+      },
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 53.76,
+      "create_time": "2025-06-03 17:10:00",
+      "update_time": "2025-06-03 17:10:00",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S14089696301034197_P31775",
+          "price": 21.88,
+          "quantity": 1,
+          "attributes": "Regular Spicy"
+        },
+        {
+          "product_id": "S14310443732096591_P04513",
+          "price": 31.88,
+          "quantity": 1,
+          "attributes": "Mild Spicy"
+        }
+      ]
+    }
+  ],
+  "rubrics": [
+    "The delivery address should be Huchi Garden, No. 75 Huchi Road (180 meters walk from Baiyangwan Park Metro Station Exit 4), Gusu District, Suzhou City, Jiangsu Province",
+    "The order delivery time should be before 18:00 on 2025-06-03, ensuring that the daughter can finish her meal before 6:30 pm to attend her dance class",
+    "The River Snail Rice Noodle ordered for the user should have soup and noodles packaged separately to prevent the noodles from becoming soggy and losing their chewiness",
+    "The River Snail Rice Noodle ordered for the user should include fried egg",
+    "The River Snail Rice Noodle ordered for the daughter should be mild spicy or non-spicy and include chicken feet, meeting the daughter's preference who cannot handle spicy food well but loves chicken feet",
+    "The dinner order of River Snail Rice Noodle should include a total of 2 portions, separately meeting the dining needs of the user and the daughter"
+  ]
+}

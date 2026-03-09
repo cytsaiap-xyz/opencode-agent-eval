@@ -1,0 +1,73 @@
+{
+  "required_orders": [
+    {
+      "order_id": "E0716001T01",
+      "order_type": "delivery",
+      "user_id": "U000051",
+      "store_id": "S20256588427202403_S30564",
+      "note": "",
+      "location": {
+        "address": "Linyi Urban Construction Group Co., Ltd., 180 meters northwest of the intersection of Xi'an Road and Baimahe Road, Lanshan District, Linyi City, Shandong Province",
+        "longitude": 118.382376,
+        "latitude": 35.142379
+      },
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 39.0,
+      "create_time": "2024-10-18 10:52:00",
+      "update_time": "2024-10-18 10:52:00",
+      "status": "processed",
+      "products": [
+        {
+          "product_id": "S16953373692012650_P62169",
+          "price": 39.0,
+          "quantity": 1,
+          "attributes": "Mildly Spicy"
+        }
+      ]
+    },
+    {
+      "order_id": "E0716001T02",
+      "order_type": "delivery",
+      "user_id": "U000051",
+      "store_id": "S29739462731693712_S94527",
+      "note": "",
+      "location": {
+        "address": "Linyi Urban Construction Group Co., Ltd., 180 meters northwest of the intersection of Xi'an Road and Baimahe Road, Lanshan District, Linyi City, Shandong Province",
+        "longitude": 118.382376,
+        "latitude": 35.142379
+      },
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 20.79,
+      "create_time": "2024-10-18 10:53:00",
+      "update_time": "2024-10-18 10:53:00",
+      "status": "processed",
+      "products": [
+        {
+          "product_id": "S44724343238630030_P83860",
+          "price": 20.79,
+          "quantity": 1,
+          "attributes": ""
+        },
+        {
+          "product_id": "S62192820423218074_P62016",
+          "price": 0,
+          "quantity": 1,
+          "attributes": ""
+        }
+      ]
+    }
+  ],
+  "rubrics": [
+    "Deliver user's personal meal order (Korean grilled beef rice bowl or spicy rice dish) to Linyi Urban Construction Group Co., Ltd., 180 meters northwest of the intersection of Xi'an Road and Baimahe Road, Lanshan District, Linyi City, Shandong Province",
+    "The delivery time for user's personal meal should be around 2024-10-18 12:00:00",
+    "User's personal meal should be ordered from Xiaohui Snack House",
+    "The spiciness level of user's personal meal should be Mildly Spicy",
+    "Deliver colleague's meal order (affordable spicy hot pot single meal) to Linyi Urban Construction Group Co., Ltd., 180 meters northwest of the intersection of Xi'an Road and Baimahe Road, Lanshan District, Linyi City, Shandong Province",
+    "The delivery time for colleague's meal should be between 2024-10-18 10:49:12 and 2024-10-18 12:49:12",
+    "The spiciness level of colleague's meal should be Extra Spicy"
+  ]
+}

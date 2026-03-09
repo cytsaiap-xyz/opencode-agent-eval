@@ -1,0 +1,48 @@
+{
+  "task_id": "64",
+  "query": "I plan to travel from Changchun to Hangzhou on November 12, 2025, and return on November 16. Could you please help me arrange the entire trip, including transportation, accommodation, meals, and attractions?\n\nRegarding transportation, feel free to choose any flight for the outbound journey—I don't have specific time requirements, so just pick a suitable one. For the return trip, I’d like to arrive back in Changchun between 2:00 PM and 6:00 PM, so please pay attention to the timing.\n\nFor accommodation, I’d like to book a four-star hotel, as I think this category generally offers good service and facilities. I’m also particularly interested in experiencing a hotel that provides robot room service—could you help me find such a place? By the way, there are three of us traveling, so we’ll need two rooms.\n\nAs for attractions, there are two places I especially want to visit: \"Su Di Chun Xiao\" and \"Longjing Village\"—please make sure both are included in the itinerary. You can recommend some other suitable spots as well. Regarding dining, I’d like to have a meal at a restaurant near \"Ping Hu Qiu Yue Viewing Spot\", preferably one where we can try local specialty dishes.\n\nThat covers all my requirements—I believe I’ve provided enough information. Please help me plan the trip accordingly, and just present the full itinerary when ready! November 12, 2025 is Wednesday",
+  "meta_info": {
+    "org": "Changchun",
+    "dest": [
+      "Hangzhou"
+    ],
+    "days": 5,
+    "depart_date": "2025-11-12",
+    "return_date": "2025-11-16",
+    "people_number": 3,
+    "room_number": 2
+  },
+  "hard_constraints": {
+    "flight_arrival_time_range": {
+      "constraint_context": "The return flight must arrive between 14:00 and 18:00.",
+      "inbound_flight_no": "3U2239"
+    },
+    "hotel_star_service_required": {
+      "constraint_context": "Please select a 4-star hotel that offers robot room service.",
+      "constraint_type": "superlative_star_service_required",
+      "hotel_name": "Hangzhou Xiaoshan Airport Duoya Hotel",
+      "required_service": "Robot Service",
+      "hotel_star": 4,
+      "hotel_price": 321.0
+    },
+    "attraction_must_visit_named": {
+      "constraint_context": "The itinerary must include visits to 'Spring Dawn at Su Causeway' and 'Longjing Village'.",
+      "constraint_type": "superlative_must_visit_named",
+      "attraction_names": [
+        "Spring Dawn at Su Causeway",
+        "Longjing Village"
+      ],
+      "attraction_ratings": [
+        4.8,
+        4.6
+      ]
+    },
+    "restaurant_closest_to_attraction": {
+      "constraint_context": "During the trip, please arrange a meal at the restaurant closest to the 'Autumn Moon over the Calm Lake Scenic Spot'.",
+      "constraint_type": "superlative_closest_to_attraction",
+      "attraction_name": "Autumn Moon over the Calm Lake Scenic Spot",
+      "restaurant_name": "Hangzhou Xinxin Hotel · 1913 Restaurant",
+      "price_per_person": 371.0
+    }
+  }
+}

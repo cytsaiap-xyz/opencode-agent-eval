@@ -1,0 +1,120 @@
+{
+  "task_id": "D0807004",
+  "domain": "ota",
+  "time": "2023-07-12 21:15:46",
+  "user_id": "U010023",
+  "weather": [
+    {
+      "city": "Hefei",
+      "category": "cloudy",
+      "datetime": "2023-07-15",
+      "temperature": [
+        22,
+        28
+      ],
+      "humidity": 65
+    },
+    {
+      "city": "Huangshan",
+      "category": "sunny",
+      "datetime": "2023-07-22",
+      "temperature": [
+        20,
+        26
+      ],
+      "humidity": 58
+    },
+    {
+      "city": "Huangshan",
+      "category": "showers",
+      "datetime": "2023-07-23",
+      "temperature": [
+        19,
+        24
+      ],
+      "humidity": 75
+    }
+  ],
+  "location": [
+    {
+      "address": "Huxi Community, Intersection of Hongqi Street and Huxi Road, Chaoyang District, Changchun, Jilin Province",
+      "longitude": 125.3245,
+      "latitude": 43.8171
+    },
+    {
+      "address": "Changchun International Financial Center, Zhaofeng International Building, 4111 Renmin Street, Nanguan District, Changchun, Jilin Province",
+      "longitude": 125.3089,
+      "latitude": 43.8563
+    }
+  ],
+  "user_profile": {
+    "user id": "U010023",
+    "occupation": "Designer",
+    "gender": "male",
+    "age group": "30~35",
+    "residence": "Changchun",
+    "home address": "Huxi Community, Intersection of Hongqi Street and Huxi Road, Chaoyang District, Changchun, Jilin Province",
+    "work address": "Changchun International Financial Center, Zhaofeng International Building, 4111 Renmin Street, Nanguan District, Changchun, Jilin Province",
+    "dietary restrictions": "No high-purine foods (such as organ meats/seafood soups), No alcohol",
+    "family status": "Lives alone",
+    "personality": "Has jumpy and scattered thinking, easily distracted and changes mind frequently"
+  },
+  "user_historical_behaviors": {
+    "user id": "U010023",
+    "occupation": "Designer",
+    "gender": "male",
+    "age group": "30~35",
+    "residence": "Changchun",
+    "home address": "Huxi Community, Intersection of Hongqi Street and Huxi Road, Chaoyang District, Changchun, Jilin Province",
+    "work address": "Changchun International Financial Center, Zhaofeng International Building, 4111 Renmin Street, Nanguan District, Changchun, Jilin Province",
+    "visited scenes": {
+      "Theme Parks": "35%",
+      "Natural Landscapes (Mountains/Lakes/Forests)": "25%",
+      "Historical Sites": "15%",
+      "Parks": "15%",
+      "Exhibition Halls (Museums/Art Galleries)": "10%"
+    },
+    "cost per night on hotel": "300~500 yuan",
+    "visited hotels": {
+      "Home Inn": "30%",
+      "Hanting": "25%",
+      "Ji Hotel": "20%",
+      "Vienna Hotel": "15%",
+      "Atour": "10%"
+    },
+    "browsed hotels": {
+      "3-star Hotels": "45%",
+      "Comfort Hotels": "35%",
+      "Budget Hotels": "15%",
+      "4-star Hotels": "5%"
+    },
+    "historical travel plans": {
+      "Changchun-Beijing": {
+        "Price Range": "500-800 yuan",
+        "Transportation Method": "High-speed Rail"
+      },
+      "Changchun-Shanghai": {
+        "Price Range": "1200-1800 yuan",
+        "Transportation Method": "Flight"
+      },
+      "Changchun-Harbin": {
+        "Price Range": "150-250 yuan",
+        "Transportation Method": "High-speed Rail"
+      },
+      "Changchun-Dalian": {
+        "Price Range": "300-450 yuan",
+        "Transportation Method": "High-speed Rail"
+      },
+      "Changchun-Shenyang": {
+        "Price Range": "120-200 yuan",
+        "Transportation Method": "High-speed Rail"
+      },
+      "Changchun-Jilin": {
+        "Price Range": "50-100 yuan",
+        "Transportation Method": "Long-distance Bus"
+      }
+    }
+  },
+  "stores": {},
+  "orders": {}
+}

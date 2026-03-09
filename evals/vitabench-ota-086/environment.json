@@ -1,0 +1,313 @@
+{
+  "task_id": "D0807011",
+  "domain": "ota",
+  "time": "2023-04-17 15:31:27",
+  "user_id": "U010079",
+  "weather": [
+    {
+      "city": "Chifeng",
+      "category": "cloudy",
+      "datetime": "2023-04-22",
+      "temperature": [
+        8,
+        18
+      ],
+      "humidity": 45
+    },
+    {
+      "city": "Chifeng",
+      "category": "light rain",
+      "datetime": "2023-04-23",
+      "temperature": [
+        6,
+        15
+      ],
+      "humidity": 68
+    },
+    {
+      "city": "Beijing",
+      "category": "sunny",
+      "datetime": "2023-04-21",
+      "temperature": [
+        12,
+        22
+      ],
+      "humidity": 35
+    },
+    {
+      "city": "Nanjing",
+      "category": "sunny",
+      "datetime": "2023-04-21",
+      "temperature": [
+        15,
+        24
+      ],
+      "humidity": 42
+    }
+  ],
+  "location": [
+    {
+      "address": "Room 503, Building B, Jingfeng Center, No. 99 Tianyuan West Road, Jiangning District, Nanjing, Jiangsu Province",
+      "longitude": 118.7298,
+      "latitude": 31.9526
+    },
+    {
+      "address": "15th Floor, Zhonghai Building, No. 8 Zhongshan North Road, Gulou District, Nanjing, Jiangsu Province",
+      "longitude": 118.7969,
+      "latitude": 32.0581
+    }
+  ],
+  "user_profile": {
+    "user id": "U010079",
+    "occupation": "Network Engineer",
+    "gender": "female",
+    "age group": "30~35",
+    "residence": "Nanjing",
+    "home address": "Room 503, Building B, Jingfeng Center, No. 99 Tianyuan West Road, Jiangning District, Nanjing, Jiangsu Province",
+    "work address": "15th Floor, Zhonghai Building, No. 8 Zhongshan North Road, Gulou District, Nanjing, Jiangsu Province",
+    "dietary restrictions": "No caffeine, low sodium",
+    "family status": "Has children",
+    "personality": "Emotionally volatile, expresses herself with strong emotional tone"
+  },
+  "user_historical_behaviors": {
+    "user id": "U010079",
+    "occupation": "Network Engineer",
+    "gender": "female",
+    "age group": "30~35",
+    "residence": "Nanjing",
+    "home address": "Room 503, Building B, Jingfeng Center, No. 99 Tianyuan West Road, Jiangning District, Nanjing, Jiangsu Province",
+    "work address": "15th Floor, Zhonghai Building, No. 8 Zhongshan North Road, Gulou District, Nanjing, Jiangsu Province",
+    "visited scenes": {
+      "Exhibitions (Museums/Art Galleries)": "35%",
+      "Cultural Heritage Sites": "20%",
+      "Natural Landscapes (Mountains/Lakes/Forests)": "25%",
+      "Theme Parks": "15%",
+      "Featured Villages/Industrial Tourism/Uncategorized": "5%"
+    },
+    "cost per night on hotel": "500~1000 yuan",
+    "visited hotels": {
+      "Atour": "40%",
+      "JI Hotel": "25%",
+      "Vienna": "15%",
+      "Orange": "10%",
+      "Hanting": "10%"
+    },
+    "browsed hotels": {
+      "Four-star Hotels": "30%",
+      "Three-star Hotels": "35%",
+      "Comfort Hotels": "25%",
+      "Economy Hotels": "10%"
+    },
+    "historical travel plans": {
+      "Nanjing-Shanghai": {
+        "Price Range": "150-250 yuan",
+        "Transportation Mode": "High-speed rail"
+      },
+      "Nanjing-Beijing": {
+        "Price Range": "600-900 yuan",
+        "Transportation Mode": "High-speed rail"
+      },
+      "Nanjing-Hangzhou": {
+        "Price Range": "120-200 yuan",
+        "Transportation Mode": "High-speed rail"
+      },
+      "Nanjing-Chengdu": {
+        "Price Range": "800-1200 yuan",
+        "Transportation Mode": "Flight"
+      },
+      "Nanjing-Suzhou": {
+        "Price Range": "100-150 yuan",
+        "Transportation Mode": "High-speed rail"
+      },
+      "Nanjing-Huangshan": {
+        "Price Range": "300-500 yuan",
+        "Transportation Mode": "Self-driving"
+      }
+    }
+  },
+  "stores": {},
+  "orders": {
+    "S17557514229117401_O00001": {
+      "order_id": "S17557514229117401_O00001",
+      "order_type": "attraction",
+      "user_id": "U010079",
+      "store_id": "S17557514229117401_A00006",
+      "note": "",
+      "location": {
+        "address": "Ulan Butong Grassland Scenic Area, Hexigten Banner, Chifeng City, Inner Mongolia Autonomous Region",
+        "longitude": 117.123456,
+        "latitude": 42.654321
+      },
+      "dispatch_time": "",
+      "shipping_time": 0.0,
+      "delivery_time": "",
+      "total_price": 600.0,
+      "create_time": "2023-04-17 14:20:00",
+      "update_time": "2023-04-17 14:45:00",
+      "status": "cancelled",
+      "products": [
+        {
+          "product_id": "S17557514229117401_P00044",
+          "price": 120.0,
+          "quantity": 5,
+          "date": "2023-04-22",
+          "ticket_type": "Adult ticket"
+        }
+      ]
+    },
+    "S17557514229117401_O00002": {
+      "order_id": "S17557514229117401_O00002",
+      "order_type": "attraction",
+      "user_id": "U010079",
+      "store_id": "S17557514229117401_A00006",
+      "note": "Including camel riding experience",
+      "location": {
+        "address": "Ulan Butong Grassland Scenic Area, Hexigten Banner, Chifeng City, Inner Mongolia Autonomous Region",
+        "longitude": 117.123456,
+        "latitude": 42.654321
+      },
+      "dispatch_time": "",
+      "shipping_time": 0.0,
+      "delivery_time": "",
+      "total_price": 1400.0,
+      "create_time": "2023-04-17 14:50:00",
+      "update_time": "2023-04-17 14:50:00",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17557514229117401_P00045",
+          "price": 280.0,
+          "quantity": 5,
+          "date": "2023-04-22",
+          "ticket_type": "Adult ticket + camel riding experience"
+        }
+      ]
+    },
+    "S17557514229117401_O00003": {
+      "order_id": "S17557514229117401_O00003",
+      "order_type": "hotel",
+      "user_id": "U010079",
+      "store_id": "S17557514229117401_H00001",
+      "note": "Friend is a light sleeper, need a quiet room",
+      "location": {
+        "address": "Atour Hotel Chifeng Wanda Plaza, Wanda Plaza, Hongshan District, Chifeng City, Inner Mongolia Autonomous Region",
+        "longitude": 118.956789,
+        "latitude": 42.26789
+      },
+      "dispatch_time": "",
+      "shipping_time": 0.0,
+      "delivery_time": "",
+      "total_price": 2040.0,
+      "create_time": "2023-04-17 15:10:00",
+      "update_time": "2023-04-17 15:10:00",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17557514229117401_P00001",
+          "price": 680.0,
+          "quantity": 2,
+          "date": "2023-04-22",
+          "room_type": "Deluxe king room"
+        },
+        {
+          "product_id": "S17557514229117401_P00004",
+          "price": 680.0,
+          "quantity": 2,
+          "date": "2023-04-23",
+          "room_type": "Deluxe king room"
+        }
+      ]
+    },
+    "S17557514229117401_O00004": {
+      "order_id": "S17557514229117401_O00004",
+      "order_type": "hotel",
+      "user_id": "U010079",
+      "store_id": "S17557514229117401_H00001",
+      "note": "Twin room for other friends",
+      "location": {
+        "address": "Atour Hotel Chifeng Wanda Plaza, Wanda Plaza, Hongshan District, Chifeng City, Inner Mongolia Autonomous Region",
+        "longitude": 118.956789,
+        "latitude": 42.26789
+      },
+      "dispatch_time": "",
+      "shipping_time": 0.0,
+      "delivery_time": "",
+      "total_price": 1440.0,
+      "create_time": "2023-04-17 15:15:00",
+      "update_time": "2023-04-17 15:15:00",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17557514229117401_P00002",
+          "price": 720.0,
+          "quantity": 1,
+          "date": "2023-04-22",
+          "room_type": "Business twin room"
+        },
+        {
+          "product_id": "S17557514229117401_P00005",
+          "price": 720.0,
+          "quantity": 1,
+          "date": "2023-04-23",
+          "room_type": "Business twin room"
+        }
+      ]
+    },
+    "S17557514229117401_O00005": {
+      "order_id": "S17557514229117401_O00005",
+      "order_type": "train",
+      "user_id": "U010079",
+      "store_id": "S17557514229117401_T00014",
+      "note": "Nanjing-Beijing transit, avoiding early morning hours",
+      "location": {
+        "address": "Nanjing Railway Station, No. 264 Longpan Road, Xuanwu District, Nanjing, Jiangsu Province",
+        "longitude": 118.778889,
+        "latitude": 32.086111
+      },
+      "dispatch_time": "",
+      "shipping_time": 0.0,
+      "delivery_time": "",
+      "total_price": 2765.0,
+      "create_time": "2023-04-17 15:25:00",
+      "update_time": "2023-04-17 15:25:00",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17557514229117401_P00099",
+          "price": 553.0,
+          "quantity": 5,
+          "date": "2023-04-21",
+          "seat_type": "Second class seat"
+        }
+      ]
+    },
+    "S17557514229117401_O00006": {
+      "order_id": "S17557514229117401_O00006",
+      "order_type": "train",
+      "user_id": "U010079",
+      "store_id": "S17557514229117401_T00016",
+      "note": "Beijing-Chifeng section, choosing hard sleeper for better comfort",
+      "location": {
+        "address": "Beijing Station, No. 1 Jianguomenwai Street, Chaoyang District, Beijing",
+        "longitude": 116.427222,
+        "latitude": 39.903611
+      },
+      "dispatch_time": "",
+      "shipping_time": 0.0,
+      "delivery_time": "",
+      "total_price": 1340.0,
+      "create_time": "2023-04-17 15:30:00",
+      "update_time": "2023-04-17 15:30:00",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17557514229117401_P00108",
+          "price": 268.0,
+          "quantity": 5,
+          "date": "2023-04-21",
+          "seat_type": "Hard sleeper lower berth"
+        }
+      ]
+    }
+  }
+}

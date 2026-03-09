@@ -1,0 +1,52 @@
+{
+  "task_id": "48",
+  "query": "I'm planning to travel from Urumqi to Shanghai on November 12, 2025, and return on the 15th. Could you help me plan a detailed itinerary covering transportation, accommodation, meals, and sightseeing?\n\nRegarding transportation, I'd like my return flight to arrive in Urumqi later in the evening—ideally between 8:00 PM and 12:00 AM—so I can maximize my time in Shanghai.\n\nFor accommodation, please keep the budget between 900 and 930 yuan per night. Just find me a hotel with good value within this range—I'll be staying in a single room.\n\nAs for attractions, there are a few places I definitely want to visit: one is the \"West Bund Museum of Art\", and the other is \"Plaza 66\". Additionally, I’d like to explore some of Shanghai’s iconic landmarks—please check the \"urban landmark\" category and include the highest-rated ones in the itinerary.\n\nThat covers my main requirements. Please go ahead and arrange a detailed trip plan for me! November 12, 2025 is Wednesday",
+  "meta_info": {
+    "org": "Urumqi",
+    "dest": [
+      "Shanghai"
+    ],
+    "days": 4,
+    "depart_date": "2025-11-12",
+    "return_date": "2025-11-15",
+    "people_number": 1,
+    "room_number": 1
+  },
+  "hard_constraints": {
+    "flight_arrival_time_range": {
+      "constraint_context": "The return flight must arrive between 8:00 PM and 12:00 AM",
+      "inbound_flight_no": "FM9221"
+    },
+    "hotel_price_range": {
+      "constraint_context": "The accommodation price must be between 900 and 930 yuan",
+      "hotel_name": "Renaissance Shanghai Zhongshan Park Hotel",
+      "hotel_price": 914.0,
+      "min_price": 900,
+      "max_price": 930
+    },
+    "attraction_type_highest_rated": {
+      "constraint_context": "The itinerary must include the highest-rated attraction among those categorized as 'City Landmark'.",
+      "constraint_type": "superlative_type_highest_rated",
+      "attraction_names": [
+        "Super Brand Mall"
+      ],
+      "attraction_type_cn": "城市地标",
+      "attraction_type": "City Landmark",
+      "attraction_ratings": [
+        4.8
+      ]
+    },
+    "attraction_must_visit_named": {
+      "constraint_context": "The itinerary must include visits to 'West Bund Museum' and 'Super Brand Mall'.",
+      "constraint_type": "superlative_must_visit_named",
+      "attraction_names": [
+        "West Bund Museum",
+        "Super Brand Mall"
+      ],
+      "attraction_ratings": [
+        4.8,
+        4.8
+      ]
+    }
+  }
+}

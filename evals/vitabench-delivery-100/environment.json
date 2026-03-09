@@ -1,0 +1,306 @@
+{
+  "task_id": "J0721003",
+  "domain": "delivery",
+  "time": "2024-05-09 17:49:59",
+  "user_id": "U000024",
+  "weather": [
+    {
+      "city": "Guangzhou City",
+      "category": "sunny",
+      "datetime": "2024-05-09",
+      "temperature": [
+        20,
+        29
+      ],
+      "humidity": 69
+    }
+  ],
+  "location": [
+    {
+      "address": "TaiKoo Hui, 383 Tianhe Road (Metro Line 3 Shipaiqiao Station Exit C), Tianhe District, Guangzhou, Guangdong Province",
+      "longitude": 113.332479,
+      "latitude": 23.134218
+    }
+  ],
+  "user_profile": {
+    "user id": "U000024",
+    "occupation": "Project Manager",
+    "gender": "male",
+    "age group": "35~40",
+    "residence": "Guangzhou",
+    "home address": "Longkou Community, No. 26, 28, 56, 58 Longkou West Road, Tianhe District, Guangzhou, Guangdong Province",
+    "work address": "TaiKoo Hui, 383 Tianhe Road (Metro Line 3 Shipaiqiao Station Exit C), Tianhe District, Guangzhou, Guangdong Province",
+    "dietary restrictions": "No alcohol",
+    "family status": "Has children",
+    "personality": "Strong logical thinking, likes to analyze and question, pursues accuracy"
+  },
+  "user_historical_behaviors": {
+    "user id": "U000024",
+    "occupation": "Project Manager",
+    "gender": "male",
+    "age group": "35~40",
+    "residence": "Guangzhou",
+    "home address": "Longkou Community, No. 26, 28, 56, 58 Longkou West Road, Tianhe District, Guangzhou, Guangdong Province",
+    "work address": "TaiKoo Hui, 383 Tianhe Road (Metro Line 3 Shipaiqiao Station Exit C), Tianhe District, Guangzhou, Guangdong Province",
+    "breakfast": {
+      "frequently purchased categories": [
+        "Quick meals/Buns/Pan-fried buns (Average ¥10)",
+        "Quick meals/Jianbing/Wraps/Fried pancakes (Average ¥15)",
+        "Quick meals/Light food (Average ¥25)"
+      ],
+      "cost per order": "¥10~25",
+      "preferred store rating": "4.3~4.8 stars",
+      "preferred delivery time": "15~25 minutes",
+      "preferred distance": "0~1500m",
+      "recent orders": [
+        {
+          "store": "Gongdelin Breakfast",
+          "product": "Pork and Green Onion Buns + Soy Milk"
+        },
+        {
+          "store": "Tianfu Breakfast",
+          "product": "Fried Pancake Combo"
+        },
+        {
+          "store": "Light Food Master",
+          "product": "Chicken Breast Whole Wheat Sandwich"
+        }
+      ],
+      "search history": [
+        "Low-fat breakfast",
+        "Buns and soy milk",
+        "Healthy breakfast",
+        "Quick breakfast"
+      ]
+    },
+    "weekday lunch/dinner": {
+      "frequently purchased categories": [
+        "Quick meals/Small portion dishes (Average ¥40)",
+        "Chinese cuisine/Cantonese cuisine (Average ¥35)",
+        "International cuisine/Japanese bento/Sushi (Average ¥50)"
+      ],
+      "cost per order": "¥30~50",
+      "preferred store rating": "4.2~4.7 stars",
+      "preferred delivery time": "20~40 minutes",
+      "preferred distance": "0~2500m",
+      "recent orders": [
+        {
+          "store": "Cantonese Small Kitchen",
+          "product": "White Cut Chicken with Steamed Fish Rice"
+        },
+        {
+          "store": "New Stone Grill",
+          "product": "Low-fat Chicken Breast Rice"
+        },
+        {
+          "store": "Sushi Komachi",
+          "product": "Salmon Sashimi Bento"
+        }
+      ],
+      "search history": [
+        "Healthy work meals",
+        "Cantonese cuisine",
+        "Low-purine lunch",
+        "Fast delivery"
+      ]
+    },
+    "weekend lunch/dinner": {
+      "frequently purchased categories": [
+        "Chinese cuisine/Cantonese cuisine (Average ¥110)",
+        "International cuisine/Japanese bento/Sushi (Average ¥125)",
+        "International cuisine/Pasta (Average ¥85)"
+      ],
+      "cost per order": "¥70~180",
+      "preferred store rating": "4.5~4.9 stars",
+      "preferred delivery time": "30~45 minutes",
+      "preferred distance": "0~3500m",
+      "recent orders": [
+        {
+          "store": "Cantonese Cuisine Family",
+          "product": "Black Pepper Beef + Steamed Bass + Blanched Choy Sum"
+        },
+        {
+          "store": "Bamboo Sushi",
+          "product": "Family Sushi Platter + Seafood Salad"
+        },
+        {
+          "store": "Casablanca Italian Restaurant",
+          "product": "Black Truffle Beef Pasta + Basil Bread"
+        }
+      ],
+      "search history": [
+        "High-rated restaurants",
+        "Family meals",
+        "Cantonese cuisine",
+        "Italian restaurants"
+      ]
+    },
+    "desserts/drinks/snacks": {
+      "frequently purchased categories": [
+        "Drinks and desserts/Pure tea/Herbal tea (Average ¥35)",
+        "Drinks and desserts/Coffee (Average ¥32)",
+        "Drinks and desserts/Fruit salad (Average ¥35)"
+      ],
+      "cost per order": "¥20~45",
+      "preferred store rating": "4.4~4.8 stars",
+      "preferred delivery time": "15~25 minutes",
+      "preferred distance": "0~2000m",
+      "recent orders": [
+        {
+          "store": "Tea Fragrance",
+          "product": "Cooling Herbal Tea"
+        },
+        {
+          "store": "Starbucks",
+          "product": "Americano"
+        },
+        {
+          "store": "Fresh Cut Fruit Season",
+          "product": "Colorful Fruit Salad"
+        }
+      ],
+      "search history": [
+        "Herbal tea",
+        "Low-sugar drinks",
+        "Coffee",
+        "Healthy beverages"
+      ]
+    },
+    "night snack": {
+      "frequently purchased categories": [
+        "Quick meals/Rice noodles/Vermicelli (Average ¥35)",
+        "Snacks and braised food/Braised dishes (Average ¥40)",
+        "Quick meals/Clay pot dishes (Average ¥45)"
+      ],
+      "cost per order": "¥25~55",
+      "preferred store rating": "4.0~4.6 stars",
+      "preferred delivery time": "20~40 minutes",
+      "preferred distance": "0~2500m",
+      "recent orders": [
+        {
+          "store": "Guilin Rice Noodles King",
+          "product": "Original Beef Rice Noodles"
+        },
+        {
+          "store": "Master Huang's Braised Food",
+          "product": "Five-Spice Braised Platter"
+        },
+        {
+          "store": "Pot Pot Premium",
+          "product": "Healthy Clay Pot Porridge"
+        }
+      ],
+      "search history": [
+        "Stomach-friendly night snacks",
+        "Non-spicy braised food",
+        "Clay pot porridge",
+        "Light night snacks"
+      ]
+    }
+  },
+  "stores": {
+    "S12559995746910845_S64519": {
+      "name": "Wudai Tongtang (Tianhe South Branch)",
+      "store_id": "S12559995746910845_S64519",
+      "score": 4.7,
+      "location": {
+        "address": "First Floor, 24 Tianhe South 1st Road, Tianhe District, Guangzhou, Guangdong Province",
+        "latitude": 23.132257,
+        "longitude": 113.324701
+      },
+      "tags": [],
+      "products": [
+        {
+          "name": "Uji Kintoki Shaved Ice (Matcha Flavor) ",
+          "store_id": "S12559995746910845_S64519",
+          "store_name": "Wudai Tongtang (Tianhe South Branch)",
+          "price": 37,
+          "tags": [],
+          "product_id": "S30356558095585016_P74307",
+          "attributes": [],
+          "quantity": 9999
+        },
+        {
+          "name": "Fragrant Durian",
+          "product_id": "S20062665032391218_P76382",
+          "store_id": "S12559995746910845_S64519",
+          "store_name": "Wudai Tongtang (Tianhe South Branch)",
+          "price": 34,
+          "tags": [],
+          "attributes": [],
+          "quantity": 9999
+        }
+      ]
+    },
+    "S21037574995266172_S66382": {
+      "name": "Panda Lover Cake (Tianhe Branch)",
+      "store_id": "S21037574995266172_S66382",
+      "score": 4.6,
+      "location": {
+        "address": "Room B1-101, 102, 110, 140-148 Tiyu East Road, Tianhe District, Guangzhou, Guangdong Province",
+        "latitude": 23.139221,
+        "longitude": 113.329353
+      },
+      "tags": [],
+      "products": [
+        {
+          "name": "Hug Roll | Afternoon Tea | [2 Boxes]",
+          "product_id": "S65498346526176381_P60421",
+          "store_id": "S21037574995266172_S66382",
+          "store_name": "Panda Lover Cake (Tianhe Branch)",
+          "price": 36.8,
+          "tags": [],
+          "attributes": [],
+          "quantity": 9999
+        }
+      ]
+    },
+    "S28971958281211453_S20808": {
+      "name": "Hillsm Bakery French Pastry (Sports Center Branch)",
+      "store_id": "S28971958281211453_S20808",
+      "score": 4.9,
+      "location": {
+        "address": "Unit 101, Podium Building, Fortune Plaza, 118 Tiyu East Road, Tianhe District, Guangzhou, Guangdong Province, HILLSM BAKERY",
+        "latitude": 23.135907,
+        "longitude": 113.32905
+      },
+      "tags": [],
+      "products": [
+        {
+          "name": "Flowing Durian Ice Bread",
+          "product_id": "S31777898221653452_P43738",
+          "store_id": "S28971958281211453_S20808",
+          "store_name": "Hillsm Bakery French Pastry (Sports Center Branch)",
+          "price": 20,
+          "tags": [],
+          "attributes": [],
+          "quantity": 9999
+        }
+      ]
+    },
+    "S58428319691793692_S37258": {
+      "name": "Youxi Dessert Shop (Tee Mall Branch)",
+      "store_id": "S58428319691793692_S37258",
+      "score": 4.3,
+      "location": {
+        "address": "No. 227, L2 Floor, West Tower, Tee Mall, 218 Tianhe Road, Tianhe District, Guangzhou, Guangdong Province",
+        "latitude": 23.132241,
+        "longitude": 113.324391
+      },
+      "tags": [],
+      "products": [
+        {
+          "name": "Durian Milk Dessert",
+          "product_id": "S20283564807066781_P97531",
+          "store_id": "S58428319691793692_S37258",
+          "store_name": "Youxi Dessert Shop (Tee Mall Branch)",
+          "price": 38,
+          "tags": [],
+          "attributes": [],
+          "quantity": 9999
+        }
+      ]
+    }
+  },
+  "orders": {}
+}

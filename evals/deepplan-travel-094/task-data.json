@@ -1,0 +1,45 @@
+{
+  "task_id": "93",
+  "query": "I'm planning a trip from Shenyang to Nanjing on November 12, 2025, returning to Shenyang on November 17. Could you please help me plan the entire itinerary? I have a few specific requests. First, regarding transportation, I'd like to take a train for the outbound journey, preferably departing between 8:00 AM and 12:00 PM, as that timing works best. For accommodation, There are two of us traveling, so we’ll need one rooms. I’d like to stay in a three-star hotel, and I prefer something convenient—could you please find me a hotel with both a washing machine and dryer? That would make the stay more comfortable.\n\nAs for dining, during the trip I’d like to arrange one meal at a restaurant near 'Nanjing Jinghai Temple Memorial Hall'. I really enjoy outdoor settings, so it would be great if the restaurant offers outdoor seating. By the way, when visiting 'Nanjing Museum', I’d also like to have a meal at the nearest restaurant to save time and make the itinerary more efficient.\n\nThat's basically all—I think I've provided enough information. Please go ahead and plan the trip for me. Looking forward to your arrangement! November 12, 2025 is Wednesday",
+  "meta_info": {
+    "org": "Shenyang",
+    "dest": [
+      "Nanjing"
+    ],
+    "days": 6,
+    "depart_date": "2025-11-12",
+    "return_date": "2025-11-17",
+    "people_number": 2,
+    "room_number": 1
+  },
+  "hard_constraints": {
+    "train_departure_time_range": {
+      "constraint_context": "The departure train must leave between 8:00 AM and 12:00 PM",
+      "outbound_train_no": "G1202"
+    },
+    "hotel_star_service_required": {
+      "constraint_context": "For accommodation, please select a 3-star hotel that provides a washer and dryer.",
+      "constraint_type": "superlative_star_service_required",
+      "hotel_name": "Orange Hotel Nanjing Jiangning Sandship Future Network Town",
+      "required_service": "Washer and Dryer",
+      "hotel_star": 3,
+      "hotel_price": 293.0
+    },
+    "restaurant_specific_tag_nearby": {
+      "constraint_context": "Arrange a meal at a restaurant near 'Nanjing Jinghai Temple Memorial Hall' during the trip, with outdoor seating service required",
+      "constraint_type": "superlative_specific_tag_nearby",
+      "attraction_name": "Nanjing Jinghai Temple Memorial Hall",
+      "restaurant_name": "Gulou District Bafanghui Tea Restaurant",
+      "required_tag": "Outdoor Seating",
+      "price_per_person": 45.0,
+      "restaurant_rating": 4.2
+    },
+    "restaurant_closest_to_attraction": {
+      "constraint_context": "During the trip, please arrange a meal at the restaurant closest to 'Nanjing Museum'.",
+      "constraint_type": "superlative_closest_to_attraction",
+      "attraction_name": "Nanjing Museum",
+      "restaurant_name": "Yichun Restaurant (Nanjing Museum Branch)",
+      "price_per_person": 53.0
+    }
+  }
+}

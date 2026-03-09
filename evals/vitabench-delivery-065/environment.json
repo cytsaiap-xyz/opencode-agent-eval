@@ -1,0 +1,325 @@
+{
+  "task_id": "D0721003",
+  "domain": "delivery",
+  "time": "2025-10-03 16:02:58",
+  "user_id": "U000085",
+  "weather": [
+    {
+      "city": "Xi'an City",
+      "category": "sunny",
+      "datetime": "2025-10-03",
+      "temperature": [
+        13,
+        23
+      ],
+      "humidity": 48
+    }
+  ],
+  "location": [
+    {
+      "address": "Jingcheng Xiufu, No. 288 Zhangba East Road, Yanta District, Xi'an City, Shaanxi Province",
+      "longitude": 108.898075,
+      "latitude": 34.196761
+    }
+  ],
+  "user_profile": {
+    "user id": "U000085",
+    "occupation": "Engineer",
+    "gender": "male",
+    "age group": "30~35",
+    "residence": "Xi'an",
+    "home address": "Jingcheng Xiufu, No. 288 Zhangba East Road, Yanta District, Xi'an City, Shaanxi Province",
+    "work address": "Digital Building, No. 8 Technology 5th Road, Yanta District, Xi'an City, Shaanxi Province",
+    "dietary restrictions": "Avoid high purine foods (such as organ meats/seafood soups), avoid fatty organ meats",
+    "family status": "Has children",
+    "personality": "Overly reliant on others' guidance, lacks personal opinions and decisiveness"
+  },
+  "user_historical_behaviors": {
+    "user id": "U000085",
+    "occupation": "Engineer",
+    "gender": "male",
+    "age group": "30~35",
+    "residence": "Xi'an",
+    "home address": "Jingcheng Xiufu, No. 288 Zhangba East Road, Yanta District, Xi'an City, Shaanxi Province",
+    "work address": "Digital Building, No. 8 Technology 5th Road, Yanta District, Xi'an City, Shaanxi Province",
+    "breakfast": {
+      "frequently purchased categories": [
+        "Quick meals/Steamed buns/Pan-fried buns (average 18 yuan)",
+        "Quick meals/Jianbing/Wraps/Hand-grabbed pancakes (average 15 yuan)",
+        "Quick meals/Chinese noodles (average 22 yuan)"
+      ],
+      "cost per order": "15~35 yuan",
+      "preferred store rating": "4.2~4.8 stars",
+      "preferred delivery time": "15~30 minutes",
+      "preferred distance": "0~2500m",
+      "recent orders": [
+        {
+          "store": "Sha County Snacks",
+          "product": "Shredded pork noodles + Soup dumplings"
+        },
+        {
+          "store": "Tianjin Goubuli",
+          "product": "Premium pork buns + Soy milk"
+        },
+        {
+          "store": "Old Beijing Jianbing",
+          "product": "Bacon and egg jianbing + Hot soy milk"
+        }
+      ],
+      "search history": [
+        "Breakfast",
+        "Steamed buns",
+        "Noodles",
+        "Soy milk",
+        "Fast food"
+      ]
+    },
+    "weekday lunch/dinner": {
+      "frequently purchased categories": [
+        "Quick meals/Rice with toppings (average 28 yuan)",
+        "Quick meals/Stewed chicken rice (average 32 yuan)",
+        "International cuisine/Japanese bento/Sushi (average 45 yuan)"
+      ],
+      "cost per order": "25~60 yuan",
+      "preferred store rating": "4.3~4.7 stars",
+      "preferred delivery time": "20~35 minutes",
+      "preferred distance": "0~3500m",
+      "recent orders": [
+        {
+          "store": "Stewed Chicken Rice",
+          "product": "Mildly spicy stewed chicken rice + Braised egg"
+        },
+        {
+          "store": "Yoshinoya",
+          "product": "Beef bowl + Miso soup"
+        },
+        {
+          "store": "Grandma's Home",
+          "product": "Twice-cooked pork rice + Hot and sour soup"
+        }
+      ],
+      "search history": [
+        "Fast food",
+        "Bento",
+        "Rice with toppings",
+        "Healthy meal"
+      ]
+    },
+    "weekend lunch/dinner": {
+      "frequently purchased categories": [
+        "Chinese cuisine/Northwestern cuisine (average 85 yuan)",
+        "Snacks/Beef jerky/Roujiamo (average 72 yuan)"
+      ],
+      "cost per order": "60~150 yuan",
+      "preferred store rating": "4.5~5.0 stars",
+      "preferred delivery time": "25~45 minutes",
+      "preferred distance": "0~5000m",
+      "recent orders": [
+        {
+          "store": "Xibei Oat Noodle Village",
+          "product": "Stir-fried beef oat noodles + Chestnut pumpkin pot with beef brisket + Beef stewed rice"
+        },
+        {
+          "store": "Taizu Military Rations: Freshly Baked Beef Jerky (Xi'an Branch)",
+          "product": "Marbled freshly baked beef jerky original flavor 250g (70% dry)"
+        },
+        {
+          "store": "Xi'an Snacks",
+          "product": "Cold noodles + Roujiamo + Bingfeng soda"
+        }
+      ],
+      "search history": [
+        "Beef jerky",
+        "Home-style dishes",
+        "Family meal set",
+        "Kid-friendly meal",
+        "Suitable for babies"
+      ]
+    },
+    "desserts/drinks/snacks": {
+      "frequently purchased categories": [
+        "Drinks and desserts/Milk tea (average 22 yuan)",
+        "Drinks and desserts/Iced tofu pudding (average 20 yuan)",
+        "Drinks and desserts/Chinese pastries (average 28 yuan)"
+      ],
+      "cost per order": "15~45 yuan",
+      "preferred store rating": "4.4~4.9 stars",
+      "preferred delivery time": "15~55 minutes",
+      "preferred distance": "0~6000m",
+      "recent orders": [
+        {
+          "store": "Daidai Sweet Tofu Pudding Shop (Gaoxin Branch)",
+          "product": "Red Bean Ball Iced Tofu Pudding"
+        },
+        {
+          "store": "COCO",
+          "product": "Pearl milk tea + Brown sugar pearls"
+        },
+        {
+          "store": "Daoxiangcun",
+          "product": "Mung bean cake + Peach shortbread"
+        }
+      ],
+      "search history": [
+        "Tofu pudding",
+        "Milk tea",
+        "Green tea",
+        "Afternoon tea",
+        "Dessert"
+      ]
+    },
+    "night snack": {
+      "frequently purchased categories": [
+        "Quick meals/Rice noodles/Rice vermicelli (average 32 yuan)",
+        "Quick meals/Snail rice noodles (average 35 yuan)",
+        "BBQ and fried food/Fried chicken/Fried snacks (average 48 yuan)"
+      ],
+      "cost per order": "30~60 yuan",
+      "preferred store rating": "4.0~4.6 stars",
+      "preferred delivery time": "25~40 minutes",
+      "preferred distance": "0~4000m",
+      "recent orders": [
+        {
+          "store": "Crossing Bridge Rice Noodles",
+          "product": "Fatty beef rice noodles + Braised chicken wings"
+        }
+      ],
+      "search history": [
+        "Rice noodles",
+        "Late night snacks",
+        "Braised flavors"
+      ]
+    }
+  },
+  "stores": {
+    "S32507084916632845_S19824": {
+      "name": "Daidai Sweet Tofu Pudding Shop (Gaoxin Branch)",
+      "store_id": "S32507084916632845_S19824",
+      "score": 4.8,
+      "location": {
+        "address": "Unit 9, Building 2, East Row 3, Ganjiazhai, Technology 2nd Road, Zhangba Street, High-Tech District, Xi'an City, East Side Ground Floor Storefront",
+        "latitude": 34.218958,
+        "longitude": 108.902158
+      },
+      "tags": [],
+      "products": [
+        {
+          "name": "Red Bean Ball Iced Tofu Pudding",
+          "product_id": "S14825796504948355_P99189",
+          "store_id": "S32507084916632845_S19824",
+          "store_name": "Daidai Sweet Tofu Pudding Shop (Gaoxin Branch)",
+          "price": 19,
+          "tags": [],
+          "attributes": [],
+          "quantity": 9999
+        }
+      ]
+    },
+    "S52087136705399630_S27337": {
+      "name": "Taizu Military Rations: Freshly Baked Beef Jerky (Xi'an Branch)",
+      "store_id": "S52087136705399630_S27337",
+      "score": 5,
+      "location": {
+        "address": "Unit 8, Building 1, East Row 1, Ganjiazhai, High-Tech District, Xi'an City, Shaanxi Province, West Side Ground Floor Storefront",
+        "latitude": 34.220132,
+        "longitude": 108.90462
+      },
+      "tags": [],
+      "products": [
+        {
+          "name": "Extra Fragrant Fruitwood Charcoal Grilled Lean Beef Jerky 250g (70% Dry)",
+          "product_id": "S14316846796057144_P36623",
+          "store_id": "S52087136705399630_S27337",
+          "store_name": "Taizu Military Rations: Freshly Baked Beef Jerky (Xi'an Branch)",
+          "price": 99,
+          "tags": [],
+          "attributes": [
+            "Original Flavor",
+            "Cumin Flavor",
+            "Chili Flavor",
+            "Cumin and Chili Flavor"
+          ],
+          "quantity": 9999
+        },
+        {
+          "name": "Lean Freshly Baked Beef Jerky Cumin Flavor 500g (70% Dry)",
+          "product_id": "S20868116240367598_P42725",
+          "store_id": "S52087136705399630_S27337",
+          "store_name": "Taizu Military Rations: Freshly Baked Beef Jerky (Xi'an Branch)",
+          "price": 198,
+          "tags": [],
+          "attributes": [],
+          "quantity": 9999
+        },
+        {
+          "name": "Lean + Marbled Freshly Baked Beef Jerky 500g (70% Dry)",
+          "product_id": "S13596850718263063_P54845",
+          "store_id": "S52087136705399630_S27337",
+          "store_name": "Taizu Military Rations: Freshly Baked Beef Jerky (Xi'an Branch)",
+          "price": 228,
+          "tags": [],
+          "attributes": [
+            "Original Flavor",
+            "Cumin Flavor",
+            "Chili Flavor",
+            "Cumin and Chili Flavor"
+          ],
+          "quantity": 9999
+        },
+        {
+          "name": "Extra Fragrant Fruitwood Charcoal Grilled Lean Beef Jerky 500g (70% Dry)",
+          "product_id": "S12895008538186261_P59307",
+          "store_id": "S52087136705399630_S27337",
+          "store_name": "Taizu Military Rations: Freshly Baked Beef Jerky (Xi'an Branch)",
+          "price": 198,
+          "tags": [],
+          "attributes": [
+            "Original Flavor",
+            "Chili Flavor",
+            "Cumin and Chili Flavor"
+          ],
+          "quantity": 9999
+        },
+        {
+          "name": "Marbled Freshly Baked Beef Jerky Cumin Flavor 500g (70% Dry)",
+          "product_id": "S33669171249924686_P09811",
+          "store_id": "S52087136705399630_S27337",
+          "store_name": "Taizu Military Rations: Freshly Baked Beef Jerky (Xi'an Branch)",
+          "price": 198,
+          "tags": [],
+          "attributes": [],
+          "quantity": 9999
+        }
+      ]
+    }
+  },
+  "orders": {
+    "D0721003T01": {
+      "order_id": "D0721003T01",
+      "order_type": "delivery",
+      "user_id": "U000085",
+      "store_id": "S32507084916632845_S19824",
+      "note": "",
+      "location": {
+        "address": "Jingcheng Xiufu, No. 288 Zhangba East Road, Yanta District, Xi'an City, Shaanxi Province",
+        "longitude": 108.898075,
+        "latitude": 34.196761
+      },
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 57.0,
+      "create_time": "2025-10-03 16:00:00",
+      "update_time": "2025-10-03 16:00:00",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S14825796504948355_P99189",
+          "price": 19.0,
+          "quantity": 3,
+          "attributes": ""
+        }
+      ]
+    }
+  }
+}

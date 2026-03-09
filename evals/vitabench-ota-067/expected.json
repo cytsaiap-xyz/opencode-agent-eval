@@ -1,0 +1,76 @@
+{
+  "required_orders": [
+    {
+      "order_id": "70804001T001",
+      "order_type": "hotel",
+      "user_id": "U010000",
+      "store_id": "S17557512977306832_H00003",
+      "note": "",
+      "location": null,
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 1374,
+      "create_time": "2025-02-21 16:39:00",
+      "update_time": "2025-02-21 16:39:00",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17557512977306832_P00012",
+          "price": 458,
+          "quantity": 1,
+          "date": "2025-03-09",
+          "room_type": "Comfort twin room"
+        },
+        {
+          "product_id": "S17557512977306832_P00014",
+          "price": 458,
+          "quantity": 1,
+          "date": "2025-03-10",
+          "room_type": "Comfort twin room"
+        },
+        {
+          "product_id": "S17557512977306832_P00097",
+          "price": 458,
+          "quantity": 1,
+          "date": "2025-03-11",
+          "room_type": "Comfort twin room"
+        }
+      ]
+    },
+    {
+      "order_id": "70804001T002",
+      "order_type": "attraction",
+      "user_id": "U010000",
+      "store_id": "S17557512977306832_A00007",
+      "note": "",
+      "location": null,
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 50,
+      "create_time": "2025-02-21 16:42:26",
+      "update_time": "2025-02-21 16:42:26",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17557512977306832_P00031",
+          "price": 50,
+          "quantity": 1,
+          "date": "2025-03-10",
+          "ticket_type": "Adult ticket"
+        }
+      ]
+    }
+  ],
+  "rubrics": [
+    "The hotel booked should support Free cancellation",
+    "Need to verify whether March 9, 2025, March 10, 2025, and March 11, 2025 are statutory holidays, and the result is no, so the distance between the booked hotel and Jiefangbei Pedestrian Street, 100 Zourong Road, Yuzhong District, Chongqing should be less than or equal to 100 meters",
+    "The room type in the hotel order should be twin room",
+    "The hotel order should include three nights, which must be March 9, 2025, March 10, 2025, and March 11, 2025 respectively",
+    "The price of the hotel room should be less than or equal to 500 yuan per night",
+    "The attraction booked should be Baiheliang Underwater Museum",
+    "The ticket date in the attraction order should be March 10, 2025",
+    "The ticket in the attraction order should be an Adult ticket"
+  ]
+}

@@ -1,0 +1,120 @@
+{
+  "required_orders": [
+    {
+      "order_id": "10807007T001",
+      "order_type": "hotel",
+      "user_id": "U010060",
+      "store_id": "S17550802115172544_H00007",
+      "note": "",
+      "location": null,
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 2940,
+      "create_time": "2025-04-29 15:33:00",
+      "update_time": "2025-04-29 15:33:00",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17550802115172544_P00038",
+          "price": 588,
+          "quantity": 1,
+          "date": "2025-05-01",
+          "room_type": "Standard King Room"
+        },
+        {
+          "product_id": "S17550802115172544_P00041",
+          "price": 588,
+          "quantity": 1,
+          "date": "2025-05-02",
+          "room_type": "Standard King Room"
+        },
+        {
+          "product_id": "S17550802115172544_P00044",
+          "price": 588,
+          "quantity": 1,
+          "date": "2025-05-03",
+          "room_type": "Standard King Room"
+        },
+        {
+          "product_id": "S17550802115172544_P00045",
+          "price": 588,
+          "quantity": 1,
+          "date": "2025-05-04",
+          "room_type": "Standard King Room"
+        },
+        {
+          "product_id": "S17550802115172544_P00046",
+          "price": 588,
+          "quantity": 1,
+          "date": "2025-05-05",
+          "room_type": "Standard King Room"
+        }
+      ]
+    },
+    {
+      "order_id": "10807007T002",
+      "order_type": "delivery",
+      "user_id": "U010060",
+      "store_id": "S17550802115172544_S00001",
+      "note": "",
+      "location": {
+        "address": "Qinghai Lake Youjia Hotel at 1km of Qinghai Lake Circuit Track, Shaliu River Town, Gangcha County, Haibei Tibetan Autonomous Prefecture, Qinghai Province",
+        "longitude": 100.2487,
+        "latitude": 37.0561
+      },
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 88,
+      "create_time": "2025-04-29 15:37:00",
+      "update_time": "2025-04-29 15:37:00",
+      "status": "unpaid",
+      "products": [
+        {
+          "product_id": "S17550802115172544_P00002",
+          "price": 88,
+          "quantity": 1,
+          "name": "Plateau Athlete-specific Meal",
+          "attributes": ""
+        }
+      ]
+    },
+    {
+      "order_id": "10807007T003",
+      "order_type": "instore",
+      "user_id": "U010060",
+      "store_id": "S17550802115172544_I00019 ",
+      "note": "",
+      "location": null,
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 580,
+      "create_time": "2025-04-29 15:41:00",
+      "update_time": "2025-04-29 15:41:00",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17550802115172544_P00128",
+          "name": "Full-day Track Training Experience",
+          "price": 580,
+          "quantity": 1
+        }
+      ]
+    }
+  ],
+  "rubrics": [
+    "Hotel check-in date is May 1, 2025",
+    "Hotel check-out date is May 5, 2025",
+    "Hotel should provide Oxygen Supply Equipment",
+    "Hotel booking should be for the same room type from May 1, 2025 to May 5, 2025",
+    "Food delivery order should be Plateau Athlete-specific Meal",
+    "Food delivery address should be Qinghai Lake Youjia Hotel at 1km of Qinghai Lake Circuit Track, Shaliu River Town, Gangcha County, Haibei Tibetan Autonomous Prefecture, Qinghai Province",
+    "Expected delivery time for food order should be 18:00 on May 1, 2025",
+    "In-store merchant should be a physical training venue",
+    "Distance from in-store merchant to hotel should be within 2km",
+    "In-store order items should be related to physical training packages",
+    "Temperature at Qinghai Lake from May 1 to May 5, 2025 is above 5 degrees Celsius, no need to order outdoor thermal supplies"
+  ]
+}

@@ -1,0 +1,190 @@
+{
+  "task_id": "10826027",
+  "domain": "instore",
+  "time": "2025-07-10 18:15:00",
+  "user_id": "U210673",
+  "weather": [
+    {
+      "city": "Taiyuan City",
+      "category": "cloudy",
+      "datetime": "2025-07-10",
+      "temperature": [
+        24,
+        33
+      ],
+      "humidity": 45
+    },
+    {
+      "city": "Taiyuan City",
+      "category": "sunny",
+      "datetime": "2025-07-11",
+      "temperature": [
+        25,
+        34
+      ],
+      "humidity": 40
+    }
+  ],
+  "location": [
+    {
+      "address": "Room 501, Unit 2, Building 3, Shuixiguan Residential Area, 169 Fuxi Street, Yingze District, Taiyuan",
+      "longitude": 112.563842,
+      "latitude": 37.866291
+    },
+    {
+      "address": "3rd Floor, Internal Medicine Building, Shanxi Provincial People's Hospital, 50 Fudong Street, Xinghualing District, Taiyuan",
+      "longitude": 112.571953,
+      "latitude": 37.869384
+    }
+  ],
+  "user_profile": {
+    "user id": "U210673",
+    "occupation": "Doctor",
+    "gender": "female",
+    "age group": "35~40",
+    "residence": "Taiyuan",
+    "home address": "Room 501, Unit 2, Building 3, Shuixiguan Residential Area, 169 Fuxi Street, Yingze District, Taiyuan",
+    "work address": "3rd Floor, Internal Medicine Building, Shanxi Provincial People's Hospital, 50 Fudong Street, Xinghualing District, Taiyuan",
+    "dietary restrictions": "Avoid high purine foods (such as organ meats/seafood soups), avoid caffeine",
+    "family status": "Has children",
+    "personality": "Cold and concise in expression, lacks emotional communication and patience"
+  },
+  "user_historical_behaviors": {
+    "user id": "U210673",
+    "occupation": "Doctor",
+    "gender": "female",
+    "age group": "35~40",
+    "residence": "Taiyuan",
+    "home address": "Room 501, Unit 2, Building 3, Shuixiguan Residential Area, 169 Fuxi Street, Yingze District, Taiyuan",
+    "work address": "3rd Floor, Internal Medicine Building, Shanxi Provincial People's Hospital, 50 Fudong Street, Xinghualing District, Taiyuan",
+    "in-store dining": {
+      "fine-dining": {
+        "frequently purchased categories": [
+          "Regional Cuisine/Sichuan Cuisine (Average 120 yuan)",
+          "Regional Cuisine/Beijing Cuisine (Average 150 yuan)",
+          "International Cuisine/Western Food (Average 180 yuan)"
+        ],
+        "preferred average price per person": "120~180 yuan",
+        "preferred store rating": "4.2~4.8 stars",
+        "typical dining time": "18:30-20:30",
+        "preferred distance": "1000~3000m",
+        "recent orders": [
+          {
+            "store": "Taiyuan Imperial Court Cuisine",
+            "product": "Peking Duck Set"
+          },
+          {
+            "store": "Bashu Impression",
+            "product": "Boiled Fish + Spicy Blood Curd"
+          },
+          {
+            "store": "Steak House (Yingze Branch)",
+            "product": "Australian Grain-fed Steak"
+          }
+        ],
+        "search history": [
+          "Non-spicy Sichuan cuisine",
+          "Family-friendly restaurants",
+          "Health-oriented dishes"
+        ]
+      },
+      "light meal": {
+        "frequently purchased categories": [
+          "Fast Food/Chinese Quick Meals (Average 45 yuan)",
+          "Fast Food/Western Fast Food (Average 35 yuan)"
+        ],
+        "preferred average price per person": "30~50 yuan",
+        "preferred store rating": "3.5~4.2 stars",
+        "typical dining time": "12:00-13:30",
+        "preferred distance": "0~500m",
+        "recent orders": [
+          {
+            "store": "Yonghe King (Hospital Branch)",
+            "product": "Mushroom Chicken Porridge + Side Dish"
+          },
+          {
+            "store": "One Porridge One Noodle (Provincial Hospital Branch)",
+            "product": "Tomato and Egg Noodles"
+          },
+          {
+            "store": "Salad Diary",
+            "product": "Quinoa Chicken Breast Salad"
+          }
+        ],
+        "search history": [
+          "Low-fat meals",
+          "Nutritional set meals",
+          "Light food"
+        ]
+      },
+      "desserts/drinks/snacks": {
+        "frequently purchased categories": [
+          "Beverage Shops (Average 22 yuan)",
+          "Bread and Desserts (Average 30 yuan)"
+        ],
+        "preferred average price per person": "15~35 yuan",
+        "preferred store rating": "3.8~4.5 stars",
+        "typical dining time": "15:00-16:30",
+        "preferred distance": "0~300m",
+        "recent orders": [
+          {
+            "store": "Nayuki",
+            "product": "Cheese Jasmine Tea (Sugar-free)"
+          },
+          {
+            "store": "Bread Talk",
+            "product": "Whole Wheat Walnut Bread"
+          },
+          {
+            "store": "Meet Fresh",
+            "product": "Fresh Fruit Sago (Less Sugar)"
+          }
+        ],
+        "search history": [
+          "Sugar-free beverages",
+          "Low-calorie desserts",
+          "Fresh fruit tea"
+        ]
+      }
+    },
+    "other in-store services": {
+      "frequently consumed categories": {
+        "Sports/Fitness Centers": "40%",
+        "Beauty/Yoga": "35%",
+        "Entertainment/Massage/Foot Therapy": "15%",
+        "Parent-child/Children's Play Areas": "10%"
+      },
+      "cost per order by category": {
+        "Sports/Fitness Centers": "150~300 yuan",
+        "Beauty/Yoga": "120~200 yuan",
+        "Entertainment/Massage/Foot Therapy": "180~250 yuan",
+        "Parent-child/Children's Play Areas": "100~200 yuan"
+      },
+      "preferred store rating": "4.0~4.8 stars",
+      "preferred service time": "19:00-21:00",
+      "preferred distance": "500~3000m",
+      "recent orders": [
+        {
+          "store": "Taiyuan Yushe Yoga Club",
+          "product": "Individual Yoga Course"
+        },
+        {
+          "store": "Yingze District Fitness Studio",
+          "product": "Private Fitness Training"
+        },
+        {
+          "store": "Joy Children's Playground",
+          "product": "Parent-child Interactive Package"
+        }
+      ],
+      "search history": [
+        "Stress-relief yoga",
+        "Women's fitness",
+        "Weekend parent-child activities",
+        "Chinese medical massage"
+      ]
+    }
+  },
+  "stores": {},
+  "orders": {}
+}

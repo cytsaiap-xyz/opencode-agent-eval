@@ -1,0 +1,189 @@
+{
+  "task_id": "10826001",
+  "domain": "instore",
+  "time": "2025-09-24 20:31:24",
+  "user_id": "U228667",
+  "weather": [
+    {
+      "city": "Nanjing",
+      "category": "light rain",
+      "datetime": "2025-09-24",
+      "temperature": [
+        18,
+        24
+      ],
+      "humidity": 75
+    },
+    {
+      "city": "Nanjing",
+      "category": "Cloudy turning to light rain",
+      "datetime": "2025-09-25",
+      "temperature": [
+        17,
+        23
+      ],
+      "humidity": 80
+    }
+  ],
+  "location": [
+    {
+      "address": "Maker Space, 18th Floor, Shangmao Century Plaza, 49 Zhongshan South Road, Qinhuai District, Nanjing",
+      "longitude": 118.7867,
+      "latitude": 32.0461
+    }
+  ],
+  "user_profile": {
+    "user id": "U228667",
+    "occupation": "Freelancer",
+    "gender": "male",
+    "age group": "30~35",
+    "residence": "Nanjing",
+    "home address": "Room 1506, Building B, Golden Wheel International Plaza, 8 Hanzhong Road, Gulou District, Nanjing",
+    "work address": "Maker Space, 18th Floor, Shangmao Century Plaza, 49 Zhongshan South Road, Qinhuai District, Nanjing",
+    "dietary restrictions": "Avoid high purine foods (such as offal/seafood soup), no alcohol",
+    "family status": "Lives alone",
+    "personality": "Experiences significant mood swings, expresses himself with strong emotional coloring"
+  },
+  "user_historical_behaviors": {
+    "user id": "U228667",
+    "occupation": "Freelancer",
+    "gender": "male",
+    "age group": "30~35",
+    "residence": "Nanjing",
+    "home address": "Room 1506, Building B, Golden Wheel International Plaza, 8 Hanzhong Road, Gulou District, Nanjing",
+    "work address": "Maker Space, 18th Floor, Shangmao Century Plaza, 49 Zhongshan South Road, Qinhuai District, Nanjing",
+    "in-store dining": {
+      "fine-dining": {
+        "frequently purchased categories": [
+          "Regional Cuisine/Seafood (Average ¥125)",
+          "Regional Cuisine/Sichuan Cuisine (Average ¥95)",
+          "International Cuisine/Japanese Cuisine (Average ¥150)"
+        ],
+        "preferred average price per person": "¥90~150",
+        "preferred store rating": "4.0~4.8 stars",
+        "typical dining time": "19:00-21:00",
+        "preferred distance": "500~3000m",
+        "recent orders": [
+          {
+            "store": "Wang Jiang Lou (Golden Wheel Branch)",
+            "product": "Boiled Fish Fillet Set"
+          },
+          {
+            "store": "Hua Yin Japanese Restaurant",
+            "product": "Sashimi Platter"
+          },
+          {
+            "store": "Yue Jiang Nan (Shangmao Century Plaza Branch)",
+            "product": "Braised Yellow Croaker"
+          }
+        ],
+        "search history": [
+          "Low purine dishes",
+          "Business restaurants",
+          "Japanese cuisine",
+          "Steamed fish"
+        ]
+      },
+      "light meal": {
+        "frequently purchased categories": [
+          "Fast Food/Chinese light meal (Average ¥35)",
+          "Fast Food/Western Fast Food (Average ¥45)",
+          "Regional Cuisine/Shanghai and Jiangsu-Zhejiang Cuisine (Average ¥55)"
+        ],
+        "preferred average price per person": "¥30~60",
+        "preferred store rating": "3.5~4.2 stars",
+        "typical dining time": "12:00-13:30",
+        "preferred distance": "0~800m",
+        "recent orders": [
+          {
+            "store": "Yonghe King (Shangmao Century Plaza Branch)",
+            "product": "Three shredded ingredients fried noodles"
+          },
+          {
+            "store": "Ji Xiang Wonton (Golden Wheel Plaza Branch)",
+            "product": "Pork Wonton with Side Dish"
+          },
+          {
+            "store": "Sha County Snacks (Hanzhong Road Branch)",
+            "product": "Noodle Set Meal"
+          }
+        ],
+        "search history": [
+          "Work meal",
+          "Fast food",
+          "Noodle dishes",
+          "Salad"
+        ]
+      },
+      "desserts/drinks/snacks": {
+        "frequently purchased categories": [
+          "Beverage Shops (Average ¥22)",
+          "Bakery and Desserts (Average ¥35)",
+          "Other Food/Fruits and Fresh Produce (Average ¥15)"
+        ],
+        "preferred average price per person": "¥15~40",
+        "preferred store rating": "3.8~4.5 stars",
+        "typical dining time": "15:00-17:00",
+        "preferred distance": "0~500m",
+        "recent orders": [
+          {
+            "store": "Nayuki Tea (Golden Wheel Plaza Branch)",
+            "product": "Cheese Jasmine Tea"
+          },
+          {
+            "store": "85°C (Shangmao Century Plaza Branch)",
+            "product": "Tiramisu"
+          },
+          {
+            "store": "Xian Feng Fruits (Hanzhong Road Branch)",
+            "product": "Fruit Platter"
+          }
+        ],
+        "search history": [
+          "Sugar-free drinks",
+          "Low-calorie desserts",
+          "Freshly cut fruits"
+        ]
+      }
+    },
+    "other in-store services": {
+      "frequently consumed categories": {
+        "Sports and Fitness/Fitness Centers": "40%",
+        "Sports and Fitness/Ball Sports": "30%",
+        "Leisure and Entertainment/Massage/Foot therapy": "20%",
+        "Leisure and Entertainment/Tea Houses": "10%"
+      },
+      "cost per order by category": {
+        "Sports and Fitness/Fitness Centers": "¥80~200",
+        "Sports and Fitness/Ball Sports": "¥50~120",
+        "Leisure and Entertainment/Massage/Foot therapy": "¥120~200",
+        "Leisure and Entertainment/Tea Houses": "¥60~100"
+      },
+      "preferred store rating": "4.0~4.8 stars",
+      "preferred service time": "18:00-21:00",
+      "preferred distance": "0~2500m",
+      "recent orders": [
+        {
+          "store": "Will's Gym (Golden Wheel Plaza Branch)",
+          "product": "Single Fitness Session"
+        },
+        {
+          "store": "Nanjing Sport Institute Badminton Court",
+          "product": "Double Court for 2 Hours"
+        },
+        {
+          "store": "Zu Fu Tang (Hanzhong Road Branch)",
+          "product": "Full body massage package"
+        }
+      ],
+      "search history": [
+        "Gym monthly pass",
+        "Badminton court",
+        "Foot and body massage",
+        "Health tea house"
+      ]
+    }
+  },
+  "stores": {},
+  "orders": {}
+}

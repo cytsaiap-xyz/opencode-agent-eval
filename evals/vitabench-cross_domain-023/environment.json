@@ -1,0 +1,911 @@
+{
+  "task_id": "10807002",
+  "domain": "cross_domain",
+  "time": "2024-12-30 15:30:00",
+  "user_id": "U010068",
+  "weather": [
+    {
+      "city": "Quanzhou",
+      "category": "cloudy",
+      "datetime": "2024-12-30",
+      "temperature": [
+        8,
+        16
+      ],
+      "humidity": 65
+    }
+  ],
+  "location": [
+    {
+      "address": "Fengsheng Garden, No.328 Tian'an South Road, Fengze District, Quanzhou, Fujian Province",
+      "longitude": 118.613517,
+      "latitude": 24.879839
+    },
+    {
+      "address": "Xinhadu Supermarket (Donghai Street Branch), Junyuan, Donghai Street, Fengze District, Quanzhou, Fujian Province",
+      "longitude": 118.608742,
+      "latitude": 24.883956
+    }
+  ],
+  "user_profile": {
+    "user id": "U010068",
+    "occupation": "Cashier",
+    "gender": "male",
+    "age group": "25~30",
+    "residence": "Quanzhou",
+    "home address": "Fengsheng Garden, No.328 Tian'an South Road, Fengze District, Quanzhou, Fujian Province",
+    "work address": "Xinhadu Supermarket (Donghai Street Branch), Junyuan, Donghai Street, Fengze District, Quanzhou, Fujian Province",
+    "dietary restrictions": "No high sugar, No fried food",
+    "family status": "Has pets",
+    "personality": "Expresses coldly and concisely, lacks emotional communication and patience"
+  },
+  "user_historical_behaviors": {
+    "user id": "U010068",
+    "occupation": "cashier",
+    "gender": "male",
+    "age group": "25~30",
+    "residence": "Quanzhou",
+    "home address": "Fengsheng Garden, No.328 Tian'an South Road, Fengze District, Quanzhou, Fujian Province",
+    "work address": "Xinhadu Supermarket (Donghai Street Branch), Junyuan, Donghai Street, Fengze District, Quanzhou, Fujian Province",
+    "delivery": {
+      "breakfast": {
+        "frequently purchased categories": [
+          "Simple meals/Fast food/Light meals (average 38 yuan)",
+          "Simple meals/Fast food/Salad (average 35 yuan)",
+          "Simple meals/Fast food/Buns/Pan-fried buns (average 22 yuan)"
+        ],
+        "cost per order": "20~40 yuan",
+        "preferred store rating": "4.5~5.0 points",
+        "preferred delivery time": "15~25 minutes",
+        "preferred distance": "0~2500m",
+        "recent orders": [
+          {
+            "store": "Morning Light Meals",
+            "product": "Fruit Cereal Light Meal Bowl"
+          },
+          {
+            "store": "Fresh Vegetable Salad Delivery",
+            "product": "Avocado Chicken Breast Salad"
+          },
+          {
+            "store": "Fuxing Breakfast",
+            "product": "Low-salt Soy Milk + Whole Wheat Buns"
+          }
+        ],
+        "search history": [
+          "Low-salt breakfast",
+          "Light meals",
+          "Healthy breakfast",
+          "Whole wheat buns",
+          "Low-fat salad"
+        ]
+      },
+      "weekday lunch/dinner": {
+        "frequently purchased categories": [
+          "International Cuisine/Korean Food (average 65 yuan)",
+          "Simple meals/Fast food/Healthy meals (average 58 yuan)",
+          "Chinese cuisine/Cantonese cuisine (average 75 yuan)"
+        ],
+        "cost per order": "50~80 yuan",
+        "preferred store rating": "4.6~4.9 points",
+        "preferred delivery time": "20~35 minutes",
+        "preferred distance": "0~3000m",
+        "recent orders": [
+          {
+            "store": "Chunxi Healthy Meal Box",
+            "product": "Low-salt Chicken Breast Meal Box + Broccoli"
+          },
+          {
+            "store": "Korean Cuisine Workshop",
+            "product": "Bibimbap (without spicy sauce)"
+          },
+          {
+            "store": "Cantonese Delicacies",
+            "product": "Steamed Sea Bass + Chinese Kale"
+          }
+        ],
+        "search history": [
+          "Low-salt lunch",
+          "Healthy cafeteria",
+          "Cantonese steamed dishes",
+          "Korean bibimbap non-spicy",
+          "Balanced nutritional meals"
+        ]
+      },
+      "weekend lunch/dinner": {
+        "frequently purchased categories": [
+          "International Cuisine/Thai Food (average 110 yuan)",
+          "Chinese cuisine/Crayfish (average 130 yuan)",
+          "International Cuisine/Pasta (average 95 yuan)"
+        ],
+        "cost per order": "90~150 yuan",
+        "preferred store rating": "4.7~5.0 points",
+        "preferred delivery time": "30~45 minutes",
+        "preferred distance": "0~4500m",
+        "recent orders": [
+          {
+            "store": "Thai Style House",
+            "product": "Tom Yum Soup (Mild) + Thai Lemon Shrimp"
+          },
+          {
+            "store": "Crayfish Delight",
+            "product": "Garlic Crayfish (Braised)"
+          },
+          {
+            "store": "Italian Food Time",
+            "product": "Seafood Pasta + Vegetable Salad"
+          }
+        ],
+        "search history": [
+          "Authentic Thai food",
+          "Non-deep-fried crayfish",
+          "Italian pasta",
+          "Chilled beverages",
+          "Healthy seafood"
+        ]
+      },
+      "desserts/drinks/snacks": {
+        "frequently purchased categories": [
+          "Beverages and Desserts/Fruit Bowls (average 36 yuan)",
+          "Beverages and Desserts/Pure Tea/Herbal Tea (average 28 yuan)",
+          "Beverages and Desserts/Cold Desserts (average 42 yuan)"
+        ],
+        "cost per order": "25~45 yuan",
+        "preferred store rating": "4.8~5.0 points",
+        "preferred delivery time": "15~25 minutes",
+        "preferred distance": "0~2500m",
+        "recent orders": [
+          {
+            "store": "Fresh Cut Fruit Shop",
+            "product": "Seasonal Fruit Bowl"
+          },
+          {
+            "store": "Clear Tea House",
+            "product": "Chrysanthemum and Jasmine Tea"
+          },
+          {
+            "store": "Ice Sweet Heart",
+            "product": "Low-sugar Yogurt Ice Cream"
+          }
+        ],
+        "search history": [
+          "Caffeine-free beverages",
+          "Low-sugar desserts",
+          "Fruit tea",
+          "Herbal tea",
+          "Freshly cut fruits"
+        ]
+      },
+      "night snack": {
+        "frequently purchased categories": [
+          "Simple meals/Fast food/Small dishes/Small portions (average 48 yuan)",
+          "Simple meals/Fast food/Rice noodles/Rice vermicelli (average 38 yuan)"
+        ],
+        "cost per order": "35~55 yuan",
+        "preferred store rating": "4.7~4.9 points",
+        "preferred delivery time": "20~30 minutes",
+        "preferred distance": "0~2500m",
+        "recent orders": [
+          {
+            "store": "Four Seasons Small Dishes",
+            "product": "Kung Pao Chicken + Seasonal Vegetables"
+          },
+          {
+            "store": "Yunnan Rice Noodles",
+            "product": "Clear Broth Rice Noodles"
+          },
+          {
+            "store": "Night Light Meals",
+            "product": "Steamed Chicken with Seasonal Vegetables"
+          }
+        ],
+        "search history": [
+          "Non-deep-fried night snacks",
+          "Healthy small bites",
+          "Light dishes",
+          "Rice noodles",
+          "Pet-friendly delivery"
+        ]
+      }
+    },
+    "in-store consumption": {
+      "in-store dining": {
+        "fine-dining": {
+          "frequently purchased categories": [
+            "Regional Cuisine/Shanghai and Jiangsu-Zhejiang Cuisine (average 85 yuan)",
+            "Regional Cuisine/Sichuan Cuisine (average 75 yuan)",
+            "International Cuisine/Japanese Food (average 95 yuan)"
+          ],
+          "preferred average price per person": "75~95 yuan",
+          "preferred store rating": "4.0~4.6 stars",
+          "typical dining time": "17:30-19:00",
+          "preferred distance": "500~2000m",
+          "recent orders": [
+            {
+              "store": "Sichuan Delight",
+              "product": "Special Boiled Fish"
+            },
+            {
+              "store": "Little Jiangnan",
+              "product": "Dongpo Pork"
+            },
+            {
+              "store": "Sushi Ichiban",
+              "product": "Salmon Sashimi Set"
+            }
+          ],
+          "search history": [
+            "Healthy restaurant",
+            "Low-sugar dishes",
+            "Japanese cuisine",
+            "Non-fried dishes"
+          ]
+        },
+        "light meal": {
+          "frequently purchased categories": [
+            "Snacks and Fast Food/Chinese Light Meals (average 25 yuan)",
+            "Snacks and Fast Food/Western Fast Food (average 30 yuan)"
+          ],
+          "preferred average price per person": "15~35 yuan",
+          "preferred store rating": "3.5~4.2 stars",
+          "typical dining time": "11:30-12:30",
+          "preferred distance": "0~500m",
+          "recent orders": [
+            {
+              "store": "Mr. Salad",
+              "product": "Light Vegetable and Fruit Salad"
+            },
+            {
+              "store": "Rice Fragrance",
+              "product": "Steamed Chicken Breast Rice"
+            },
+            {
+              "store": "Vitality Light Food",
+              "product": "Chicken Breast Quinoa Rice"
+            }
+          ],
+          "search history": [
+            "Light meals",
+            "Low calorie",
+            "Nearby fast food",
+            "Healthy light meals"
+          ]
+        },
+        "desserts/drinks/snacks": {
+          "frequently purchased categories": [
+            "Beverage Shops (average 18 yuan)",
+            "Bread and Desserts (average 22 yuan)"
+          ],
+          "preferred average price per person": "15~25 yuan",
+          "preferred store rating": "4.0~4.5 stars",
+          "typical dining time": "15:00-16:30",
+          "preferred distance": "0~300m",
+          "recent orders": [
+            {
+              "store": "Tea Talk",
+              "product": "Sugar-free Oolong Tea"
+            },
+            {
+              "store": "Light Sweet Workshop",
+              "product": "Low-sugar Red Bean Mochi"
+            },
+            {
+              "store": "Truly Fresh",
+              "product": "Pure Fruit Juice"
+            }
+          ],
+          "search history": [
+            "Sugar-free beverages",
+            "Low-sugar desserts",
+            "Fruit tea",
+            "Healthy drinks"
+          ]
+        }
+      },
+      "other in-store services": {
+        "frequently consumed categories": {
+          "Sports and Fitness/Sports Venues": "40%",
+          "Beauty/Yoga": "35%",
+          "Pets/Pet Hospitals": "25%"
+        },
+        "cost per order by category": {
+          "Sports and Fitness/Sports Venues": "20~50 yuan",
+          "Beauty/Yoga": "60~120 yuan",
+          "Pets/Pet Hospitals": "80~200 yuan"
+        },
+        "preferred store rating": "4.0~4.8 stars",
+        "preferred service time": "16:00-18:30",
+        "preferred distance": "0~3000m",
+        "recent orders": [
+          {
+            "store": "Youth Badminton Court",
+            "product": "Two-person Court 90 Minutes"
+          },
+          {
+            "store": "Peaceful Mind Yoga",
+            "product": "Beginner Yoga Monthly Card"
+          },
+          {
+            "store": "Pet Love Clinic",
+            "product": "Cat Regular Health Check"
+          }
+        ],
+        "search history": [
+          "Fitness experience",
+          "Beginner yoga",
+          "Badminton courts near campus",
+          "Cat hospital",
+          "Pet grooming"
+        ]
+      }
+    },
+    "OTA": {
+      "visited scenes": {
+        "Theme Parks": "35%",
+        "Parks": "25%",
+        "Cultural and Historical Sites": "15%",
+        "Natural Landscapes (Mountains/Lakes/Forests)": "15%",
+        "Tourist Attractions (Mountain/Coastal/Ecological large-scale scenic areas)": "10%"
+      },
+      "cost per night on hotel": "300~500 yuan",
+      "visited hotels": {
+        "Home Inn": "40%",
+        "Hanting Hotel": "25%",
+        "7 Days Inn": "20%",
+        "Jinjiang Inn": "10%",
+        "GreenTree Inn": "5%"
+      },
+      "browsed hotels": {
+        "Three-star Hotels": "35%",
+        "Comfort Hotels": "30%",
+        "Economy Hotels": "35%"
+      },
+      "historical travel plans": {
+        "Quanzhou-Xiamen": {
+          "Price Range": "30-50 yuan",
+          "Transportation Mode": "Long-distance Bus"
+        },
+        "Quanzhou-Fuzhou": {
+          "Price Range": "80-120 yuan",
+          "Transportation Mode": "High-speed Rail/EMU"
+        },
+        "Quanzhou-Shanghai": {
+          "Price Range": "500-800 yuan",
+          "Transportation Mode": "High-speed Rail/EMU"
+        },
+        "Quanzhou-Guangzhou": {
+          "Price Range": "400-600 yuan",
+          "Transportation Mode": "High-speed Rail/EMU"
+        },
+        "Quanzhou-Wuyishan": {
+          "Price Range": "200-350 yuan",
+          "Transportation Mode": "High-speed Rail/EMU"
+        }
+      }
+    }
+  },
+  "stores": {
+    "S17550802108185132_S00001": {
+      "name": "Yueyan Skincare Specialty Store",
+      "store_id": "S17550802108185132_S00001",
+      "score": 4.8,
+      "location": {
+        "address": "Yueyan Skincare Specialty Store, Donghai Subdistrict, Donghu Subdistrict, Fengze District, Quanzhou, Fujian Province",
+        "latitude": 24.882156,
+        "longitude": 118.610324
+      },
+      "tags": [
+        "Beauty and Skincare",
+        "Authentic Guarantee"
+      ],
+      "store_type": "target",
+      "products": [
+        {
+          "name": "Royal Spring Spot-removing Essence",
+          "store_id": "S17550802108185132_S00001",
+          "store_name": "Yueyan Skincare Specialty Store",
+          "price": 258,
+          "tags": [
+            "Spot Removal",
+            "Fade Pigmentation",
+            "Best-selling Products"
+          ],
+          "product_id": "S17550802108185132_P00001",
+          "attributes": [],
+          "product_type": "target"
+        },
+        {
+          "name": "Premium Luxury Hydra-facial Set",
+          "store_id": "S17550802108185132_S00001",
+          "store_name": "Yueyan Skincare Specialty Store",
+          "price": 568,
+          "tags": [
+            "Hydrating Glow",
+            "Hydrating",
+            "Premium",
+            "Celebrity Favorite"
+          ],
+          "product_id": "S17550802108185132_P00004",
+          "attributes": [],
+          "product_type": "distraction"
+        },
+        {
+          "name": "Japanese Imported Whitening Essence",
+          "store_id": "S17550802108185132_S00001",
+          "store_name": "Yueyan Skincare Specialty Store",
+          "price": 328,
+          "tags": [
+            "Imported",
+            "Whitening",
+            "Firming",
+            "Made in Japan"
+          ],
+          "product_id": "S17550802108185132_P00005",
+          "attributes": [],
+          "product_type": "distraction"
+        }
+      ]
+    },
+    "S17550802108185132_S00002": {
+      "name": "Beautiful Garden Beauty Store",
+      "store_id": "S17550802108185132_S00002",
+      "score": 4.6,
+      "location": {
+        "address": "Beautiful Garden Beauty Store, Donghai Subdistrict, Fengze District, Quanzhou, Fujian Province",
+        "latitude": 24.884215,
+        "longitude": 118.312567
+      },
+      "tags": [
+        "Beauty and Skincare",
+        "Premium Brand"
+      ],
+      "store_type": "distraction",
+      "products": [
+        {
+          "name": "Korean AHC 9th Generation New Eye Cream",
+          "store_id": "S17550802108185132_S00002",
+          "store_name": "Beautiful Garden Beauty Store",
+          "price": 189,
+          "tags": [
+            "Eye Care",
+            "Anti-wrinkle",
+            "Firming",
+            "Anti-aging",
+            "Imported from Korea"
+          ],
+          "product_id": "S17550802108185132_P00006",
+          "attributes": [],
+          "product_type": "distraction"
+        },
+        {
+          "name": "Proya Brightening Spot-removing Essence",
+          "store_id": "S17550802108185132_S00002",
+          "store_name": "Beautiful Garden Beauty Store",
+          "price": 198,
+          "tags": [
+            "Spot Removal",
+            "Whitening",
+            "Fade Pigmentation",
+            "Premium Domestic Products",
+            "High-efficiency Repair"
+          ],
+          "product_id": "S17550802108185132_P00007",
+          "attributes": [
+            "30ml"
+          ],
+          "product_type": "distraction"
+        },
+        {
+          "name": "Winona Sensitive Skin Spot-removing Repair Set",
+          "store_id": "S17550802108185132_S00002",
+          "store_name": "Beautiful Garden Beauty Store",
+          "price": 458,
+          "tags": [
+            "Spot Removal",
+            "Suitable for Sensitive Skin",
+            "Repair",
+            "Set",
+            "Medical Skincare"
+          ],
+          "product_id": "S17550802108185132_P00008",
+          "attributes": [
+            "Serum 30ml + Face cream 50g + Facial cleanser 15g"
+          ],
+          "product_type": "distraction"
+        },
+        {
+          "name": "Pechoin Spot-removing Essence",
+          "store_id": "S17550802108185132_S00002",
+          "store_name": "Beautiful Garden Beauty Store",
+          "price": 129.9,
+          "tags": [
+            "Spot Removal",
+            "Domestic Products",
+            "Spot Fading",
+            "Gentle",
+            "Skin Restoration"
+          ],
+          "product_id": "S17550802108185132_P00009",
+          "attributes": [
+            "40ml"
+          ],
+          "product_type": "distraction"
+        },
+        {
+          "name": "SK-II Spot Essence",
+          "store_id": "S17550802108185132_S00002",
+          "store_name": "Beautiful Garden Beauty Store",
+          "price": 1280,
+          "tags": [
+            "Whitening",
+            "Spot Removal",
+            "Fade Pigmentation",
+            "Premium",
+            "Imported from Japan"
+          ],
+          "product_id": "S17550802108185132_P00010",
+          "attributes": [
+            "50ml"
+          ],
+          "product_type": "distraction"
+        }
+      ]
+    },
+    "S17550802108185132_S00003": {
+      "name": "Kangmei Cosmetics",
+      "store_id": "S17550802108185132_S00003",
+      "score": 4.7,
+      "location": {
+        "address": "Kangmei Pharmacy, Tian'an Road, Fengze District, Quanzhou, Fujian Province",
+        "latitude": 24.880012,
+        "longitude": 118.614523
+      },
+      "tags": [
+        "Cosmeceuticals"
+      ],
+      "store_type": "distraction",
+      "products": [
+        {
+          "name": "L'Oreal Vitamin C Whitening Ampoule",
+          "store_id": "S17550802108185132_S00003",
+          "store_name": "Kangmei Pharmacy",
+          "price": 299,
+          "tags": [
+            "Whitening",
+            "Antioxidant",
+            "Essence",
+            "Premium Skincare"
+          ],
+          "product_id": "S17550802108185132_P00014",
+          "attributes": [],
+          "product_type": "distraction"
+        },
+        {
+          "name": "Pechoin Herbal Moisturizing Cream",
+          "store_id": "S17550802108185132_S00003",
+          "store_name": "Kangmei Pharmacy",
+          "price": 86,
+          "tags": [
+            "Moisturizing",
+            "Traditional Formula",
+            "Gentle and Non-irritating"
+          ],
+          "product_id": "S17550802108185132_P00015",
+          "attributes": [],
+          "product_type": "distraction"
+        }
+      ]
+    },
+    "S17550802108185132_S00004": {
+      "name": "Sephora Flash Store",
+      "store_id": "S17550802108185132_S00004",
+      "score": 4.9,
+      "location": {
+        "address": "Sephora Flash Store, Donghu Subdistrict, Fengze District, Quanzhou, Fujian Province",
+        "latitude": 24.881356,
+        "longitude": 118.609845
+      },
+      "tags": [
+        "Premium Beauty Products",
+        "International Brands"
+      ],
+      "store_type": "distraction",
+      "products": [
+        {
+          "name": "Estée Lauder Advanced Night Repair Serum (Little Brown Bottle)",
+          "store_id": "S17550802108185132_S00004",
+          "store_name": "Sephora Flash Store",
+          "price": 980,
+          "tags": [
+            "Antioxidant",
+            "Repair",
+            "Premium Essence",
+            "Reduce Fine Lines",
+            "Spot Removal"
+          ],
+          "product_id": "S17550802108185132_P00016",
+          "attributes": [],
+          "product_type": "distraction"
+        },
+        {
+          "name": "Lancôme Advanced Genifique Serum",
+          "store_id": "S17550802108185132_S00004",
+          "store_name": "Sephora Flash Store",
+          "price": 750,
+          "tags": [
+            "Brighten Skin Tone",
+            "Improve Skin Texture",
+            "Premium Skincare"
+          ],
+          "product_id": "S17550802108185132_P00017",
+          "attributes": [],
+          "product_type": "distraction"
+        },
+        {
+          "name": "Winona Sensitive Skin Moisturizing Special Care Cream",
+          "store_id": "S17550802108185132_S00004",
+          "store_name": "Sephora Flash Store",
+          "price": 320,
+          "tags": [
+            "Suitable for Sensitive Skin",
+            "Moisturizing",
+            "Repair",
+            "Soothing"
+          ],
+          "product_id": "S17550802108185132_P00018",
+          "attributes": [],
+          "product_type": "distraction"
+        },
+        {
+          "name": "Clarins Double Serum",
+          "store_id": "S17550802108185132_S00004",
+          "store_name": "Sephora Flash Store",
+          "price": 580,
+          "tags": [
+            "Repair",
+            "Even Skin Tone",
+            "Moisturizing"
+          ],
+          "product_id": "S17550802108185132_P00020",
+          "attributes": [],
+          "product_type": "distraction"
+        }
+      ]
+    }
+  },
+  "orders": {
+    "S17550802108185132_O00001": {
+      "order_id": "S17550802108185132_O00001",
+      "order_type": "delivery",
+      "user_id": "U010068",
+      "store_id": "S17550802108185132_S00001",
+      "total_price": 198.0,
+      "create_time": "2024-12-29 16:45:23",
+      "status": "delivered",
+      "products": [
+        {
+          "product_id": "S17550802108185132_P00001",
+          "price": 198.0,
+          "quantity": 1
+        }
+      ]
+    },
+    "S17550802108185132_O00002": {
+      "order_id": "S17550802108185132_O00002",
+      "order_type": "delivery",
+      "user_id": "U010068",
+      "store_id": "S17550802108185132_S00003",
+      "total_price": 129.0,
+      "create_time": "2024-12-27 14:22:15",
+      "status": "delivered",
+      "products": [
+        {
+          "product_id": "S17550802108185132_P00013",
+          "price": 129.0,
+          "quantity": 1
+        }
+      ]
+    },
+    "S17550802108185132_O00003": {
+      "order_id": "S17550802108185132_O00003",
+      "order_type": "delivery",
+      "user_id": "U010068",
+      "store_id": "S17550802108185132_S00004",
+      "total_price": 420.0,
+      "create_time": "2024-12-25 18:30:12",
+      "status": "delivered",
+      "products": [
+        {
+          "product_id": "S17550802108185132_P00019",
+          "price": 420.0,
+          "quantity": 1
+        }
+      ]
+    },
+    "S17550802108185132_O00004": {
+      "order_id": "S17550802108185132_O00004",
+      "order_type": "hotel",
+      "user_id": "U010068",
+      "store_id": "S17550802108185132_H00005",
+      "note": "Parents staying, please prepare a clean and comfortable room",
+      "location": {
+        "address": "Home Inn (Quanzhou Tian'an Road Branch), No.156 Tian'an North Road, Fengze District, Quanzhou, Fujian Province",
+        "longitude": 118.615012,
+        "latitude": 24.881345
+      },
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 288.0,
+      "create_time": "2024-12-29 15:45:23",
+      "update_time": "2024-12-29 15:45:23",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17550802108185132_P00021",
+          "price": 288.0,
+          "quantity": 1,
+          "date": "2024-12-30",
+          "room_type": "Comfort King Room"
+        }
+      ]
+    },
+    "S17550802108185132_O00005": {
+      "order_id": "S17550802108185132_O00005",
+      "order_type": "hotel",
+      "user_id": "U010068",
+      "store_id": "S17550802108185132_H00005",
+      "note": "",
+      "location": {
+        "address": "Home Inn (Quanzhou Tian'an Road Branch), No.156 Tian'an North Road, Fengze District, Quanzhou, Fujian Province",
+        "longitude": 118.615012,
+        "latitude": 24.881345
+      },
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 288.0,
+      "create_time": "2024-11-25 12:30:45",
+      "update_time": "2024-11-25 12:30:45",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17550802108185132_P00021",
+          "price": 288.0,
+          "quantity": 1,
+          "date": "2024-11-26",
+          "room_type": "Comfort King Room"
+        }
+      ]
+    },
+    "S17550802108185132_O00006": {
+      "order_id": "S17550802108185132_O00006",
+      "order_type": "train",
+      "user_id": "U010068",
+      "store_id": "T00001",
+      "note": "",
+      "location": {
+        "address": "Quanzhou Railway Station, No.1 Zhanqian Avenue, Fengze District, Quanzhou, Fujian Province",
+        "longitude": 118.612345,
+        "latitude": 24.879012
+      },
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 95.5,
+      "create_time": "2024-10-22 09:15:33",
+      "update_time": "2024-10-22 09:15:33",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "T00001_P001",
+          "price": 95.5,
+          "quantity": 1,
+          "seat_type": "Second Class Seat"
+        }
+      ]
+    },
+    "S17550802108185132_O00007": {
+      "order_id": "S17550802108185132_O00007",
+      "order_type": "train",
+      "user_id": "U010068",
+      "store_id": "T00002",
+      "note": "",
+      "location": {
+        "address": "Quanzhou Railway Station, No.1 Zhanqian Avenue, Fengze District, Quanzhou, Fujian Province",
+        "longitude": 118.612345,
+        "latitude": 24.879012
+      },
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 320.5,
+      "create_time": "2024-09-15 14:22:45",
+      "update_time": "2024-09-15 14:22:45",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "T00002_P001",
+          "price": 320.5,
+          "quantity": 1,
+          "seat_type": "Second Class Seat"
+        }
+      ]
+    },
+    "S17550802108185132_O00008": {
+      "order_id": "S17550802108185132_O00008",
+      "order_type": "attraction",
+      "user_id": "U010068",
+      "store_id": "A00001",
+      "note": "",
+      "location": {
+        "address": "Donghu Park, Fengze District, Quanzhou, Fujian Province",
+        "longitude": 118.615678,
+        "latitude": 24.882345
+      },
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 60.0,
+      "create_time": "2024-08-03 09:30:22",
+      "update_time": "2024-08-03 09:30:22",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "A00001_P001",
+          "price": 30.0,
+          "quantity": 2,
+          "ticket_type": "Adult Ticket"
+        }
+      ]
+    },
+    "S17550802108185132_O00009": {
+      "order_id": "S17550802108185132_O00009",
+      "order_type": "instore",
+      "user_id": "U010068",
+      "store_id": "S17550802108185132_I00009",
+      "total_price": 498.0,
+      "create_time": "2024-12-29 17:30:15",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17550802108185132_P00041",
+          "price": 498.0,
+          "quantity": 1
+        }
+      ]
+    },
+    "S17550802108185132_O00010": {
+      "order_id": "S17550802108185132_O00010",
+      "order_type": "instore",
+      "user_id": "U010068",
+      "store_id": "S17550802108185132_I00010",
+      "total_price": 388.0,
+      "create_time": "2024-12-05 18:15:42",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17550802108185132_P00050",
+          "price": 388.0,
+          "quantity": 1
+        }
+      ]
+    },
+    "S17550802108185132_O00011": {
+      "order_id": "S17550802108185132_O00011",
+      "order_type": "instore",
+      "user_id": "U010068",
+      "store_id": "S17550802108185132_I00009",
+      "total_price": 128.0,
+      "create_time": "2024-11-20 19:25:33",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17550802108185132_P00042",
+          "price": 128.0,
+          "quantity": 1
+        }
+      ]
+    }
+  }
+}

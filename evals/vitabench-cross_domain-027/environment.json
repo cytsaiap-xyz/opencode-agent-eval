@@ -1,0 +1,1229 @@
+{
+  "task_id": "10812003",
+  "domain": "cross_domain",
+  "time": "2025-06-03 12:15:00",
+  "user_id": "U586066",
+  "weather": [
+    {
+      "city": "Datong",
+      "category": "sunny",
+      "datetime": "2025-06-03",
+      "temperature": [
+        22,
+        30
+      ],
+      "humidity": 45
+    },
+    {
+      "city": "Yuncheng",
+      "category": "cloudy",
+      "datetime": "2025-06-04",
+      "temperature": [
+        24,
+        32
+      ],
+      "humidity": 50
+    }
+  ],
+  "location": [
+    {
+      "address": "South Area, East Garden Community, Garden Front Street, Pingcheng District, Datong, Shanxi Province",
+      "longitude": 113.2956,
+      "latitude": 40.0936
+    },
+    {
+      "address": "Huayu Shopping Center, No.56 Xinjian West Road, Pingcheng District, Datong, Shanxi Province",
+      "longitude": 113.2852,
+      "latitude": 40.0892
+    }
+  ],
+  "user_profile": {
+    "user id": "U586066",
+    "occupation": "White-collar worker",
+    "gender": "female",
+    "age group": "30~35",
+    "residence": "Datong",
+    "home address": "South Area, East Garden Community, Garden Front Street, Pingcheng District, Datong",
+    "work address": "Huayu Shopping Center, No.56 Xinjian West Road, Pingcheng District, Datong, Shanxi Province",
+    "dietary restrictions": "Avoid high purine foods (such as organ meats/seafood soup), avoid caffeine",
+    "family status": "In a relationship",
+    "personality": "Has scattered and jumpy thinking, easily distracted and prone to changing her mind"
+  },
+  "user_historical_behaviors": {
+    "user id": "U586066",
+    "occupation": "white-collar worker",
+    "gender": "female",
+    "age group": "30~35",
+    "residence": "Datong",
+    "home address": "South Area, East Garden Community, Garden Front Street, Pingcheng District, Datong",
+    "work address": "Huayu Shopping Center, No.56 Xinjian West Road, Pingcheng District, Datong, Shanxi Province",
+    "delivery": {
+      "food delivery": {
+        "breakfast": {
+          "frequently purchased categories": [
+            "Quick meals/Baozi/Shengjianjiao (average 22 yuan)",
+            "Quick meals/Light meals (average 32 yuan)",
+            "Quick meals/Dumplings/Wontons (average 25 yuan)"
+          ],
+          "cost per order": "15~35 yuan",
+          "preferred store rating": "4.3~4.8 points",
+          "preferred delivery time": "15~30 minutes",
+          "preferred distance": "0~2500m",
+          "recent orders": [
+            {
+              "store": "Yonghe Soybean Milk",
+              "product": "Sugar-free soybean milk"
+            },
+            {
+              "store": "Light Breakfast Workshop",
+              "product": "Fruit oatmeal cup + whole wheat sandwich"
+            },
+            {
+              "store": "Old Changsha Soup Buns",
+              "product": "Shrimp meat xiaolongbao + seaweed egg drop soup"
+            }
+          ],
+          "search history": [
+            "Low-sugar breakfast",
+            "Soybean milk",
+            "Boiled eggs",
+            "Whole wheat bread",
+            "Light meal"
+          ]
+        },
+        "weekday lunch/dinner": {
+          "frequently purchased categories": [
+            "Quick meals/Healthy meals (average 45 yuan)",
+            "Chinese cuisine/Hunan cuisine (average 65 yuan)",
+            "Quick meals/Salad (average 38 yuan)"
+          ],
+          "cost per order": "35~70 yuan",
+          "preferred store rating": "4.2~4.7 points",
+          "preferred delivery time": "20~35 minutes",
+          "preferred distance": "0~3000m",
+          "recent orders": [
+            {
+              "store": "Light Meal Salad Workshop",
+              "product": "Chicken breast quinoa salad"
+            },
+            {
+              "store": "Hunan Flavor Kitchen",
+              "product": "Steamed fish head with chopped peppers + stir-fried vegetables with dried tofu"
+            },
+            {
+              "store": "Diet Select",
+              "product": "Chicken breast with brown rice + seasonal vegetables"
+            }
+          ],
+          "search history": [
+            "Low calorie lunch",
+            "Hunan cuisine",
+            "Healthy meal",
+            "Salad",
+            "Chicken breast"
+          ]
+        },
+        "weekend lunch/dinner": {
+          "frequently purchased categories": [
+            "Chinese cuisine/Hunan cuisine (average 120 yuan)",
+            "Hot pot/Fish hot pot (average 140 yuan)",
+            "Foreign cuisine/Stone pot bibimbap/Teppanyaki rice (average 85 yuan)"
+          ],
+          "cost per order": "80~180 yuan",
+          "preferred store rating": "4.5~5.0 points",
+          "preferred delivery time": "30~45 minutes",
+          "preferred distance": "0~5000m",
+          "recent orders": [
+            {
+              "store": "Xiangxi Local Cuisine",
+              "product": "Mixed cured meat steamer + steamed fish head with chopped peppers"
+            },
+            {
+              "store": "Banu Tripe Hot Pot",
+              "product": "Tripe hot pot + fresh fish slices + bean skin"
+            },
+            {
+              "store": "Korean Cuisine",
+              "product": "Stone pot bibimbap set for two"
+            }
+          ],
+          "search history": [
+            "Hunan home cooking",
+            "Clear soup fish hot pot",
+            "Korean bibimbap",
+            "Spicy food lovers"
+          ]
+        },
+        "desserts/drinks/snacks": {
+          "frequently purchased categories": [
+            "Drinks and desserts/Juice (average 28 yuan)",
+            "Drinks and desserts/Fruit mix (average 35 yuan)",
+            "Drinks and desserts/Chinese pastries (average 30 yuan)"
+          ],
+          "cost per order": "20~40 yuan",
+          "preferred store rating": "4.4~4.9 points",
+          "preferred delivery time": "15~30 minutes",
+          "preferred distance": "0~3000m",
+          "recent orders": [
+            {
+              "store": "Fresh Juice Station",
+              "product": "Fresh grapefruit juice (sugar-free)"
+            },
+            {
+              "store": "Fruit Mix Mix",
+              "product": "Low-sugar fruit platter"
+            },
+            {
+              "store": "Old Changsha Pastry Shop",
+              "product": "Osmanthus cake"
+            }
+          ],
+          "search history": [
+            "Sugar-free drinks",
+            "Fresh fruit",
+            "Low-sugar desserts",
+            "Freshly squeezed juice"
+          ]
+        },
+        "night snack": {
+          "frequently purchased categories": [
+            "Quick meals/Rice noodles/Vermicelli (average 35 yuan)",
+            "Snacks and cold dishes/Braised foods (average 45 yuan)"
+          ],
+          "cost per order": "30~60 yuan",
+          "preferred store rating": "4.2~4.8 points",
+          "preferred delivery time": "20~35 minutes",
+          "preferred distance": "0~4000m",
+          "recent orders": [
+            {
+              "store": "Hunan Style Rice Noodles",
+              "product": "Lamb rice noodles"
+            },
+            {
+              "store": "Xiaoxiang Braised Foods",
+              "product": "Braised food platter (duck wings + dried tofu + braised eggs)"
+            },
+            {
+              "store": "Old Changsha Rice Noodles",
+              "product": "Hot and sour vermicelli"
+            }
+          ],
+          "search history": [
+            "Rice noodles",
+            "Braised foods",
+            "Hot and sour vermicelli",
+            "Non-spicy night snacks"
+          ]
+        }
+      },
+      "product delivery": {
+        "frequently purchased categories": [
+          "Vegetables/Bean products(32%)",
+          "Fruits(24%)",
+          "Flowers and gardening(15%)",
+          "Household items(12%)",
+          "Raw meat/Poultry/Eggs(10%)",
+          "Others(7%)"
+        ],
+        "frequently visited stores": [
+          "Xianfeng Fruit Supermarket(38%)",
+          "Hema Fresh(26%)",
+          "Yonghui Supermarket(22%)",
+          "Other stores(14%)"
+        ],
+        "cost per order by category": {
+          "Vegetables/Bean products": "5~30 yuan",
+          "Fruits": "15~60 yuan",
+          "Flowers and gardening": "30~120 yuan",
+          "Household items": "10~50 yuan",
+          "Raw meat/Poultry/Eggs": "25~80 yuan"
+        },
+        "preferred delivery time": "30~60 minutes",
+        "typical order time": "17~19:00(35%)，10~12:00(25%)，14~16:00(15%)",
+        "recent orders": [
+          {
+            "store": "Hema Fresh",
+            "product": "Organic vegetable set + eggs"
+          },
+          {
+            "store": "Xianfeng Fruit Supermarket",
+            "product": "Cherries + blueberries"
+          },
+          {
+            "store": "Huayang Flower Shop",
+            "product": "Potted plants + flower mud"
+          }
+        ],
+        "search history": [
+          "Organic vegetables",
+          "Fresh fruit",
+          "Green plants",
+          "Laundry detergent",
+          "Chicken breast",
+          "Sugar-free food"
+        ]
+      }
+    },
+    "in-store consumption": {
+      "in-store dining": {
+        "fine-dining": {
+          "frequently purchased categories": [
+            "Regional cuisine/Sichuan cuisine (average 120 yuan)",
+            "Foreign cuisine/Japanese cuisine (average 150 yuan)",
+            "Hot pot (average 180 yuan)"
+          ],
+          "preferred average price per person": "120~180 yuan",
+          "preferred store rating": "4.0~4.8 stars",
+          "typical dining time": "18:30-20:30",
+          "preferred distance": "500~3000m",
+          "recent orders": [
+            {
+              "store": "Shuxiangyuan Sichuan Restaurant",
+              "product": "Boiled fish (non-spicy) + dry-fried green beans + small stir-fried vegetables"
+            },
+            {
+              "store": "Hefeng Cuisine",
+              "product": "Sashimi platter + sushi set (caffeine-free drinks)"
+            },
+            {
+              "store": "Din Tai Fung",
+              "product": "Xiaolongbao + hot and sour soup + stir-fried greens"
+            }
+          ],
+          "search history": [
+            "Caffeine-free restaurants",
+            "Low purine dishes",
+            "Date restaurants for couples",
+            "Japanese cuisine",
+            "Exquisite Sichuan cuisine"
+          ]
+        },
+        "light meal": {
+          "frequently purchased categories": [
+            "Snacks and fast food/Chinese quick meals (average 35 yuan)",
+            "Snacks and fast food/Western fast food (average 30 yuan)",
+            "Regional cuisine/Northeast cuisine (average 45 yuan)"
+          ],
+          "preferred average price per person": "25~50 yuan",
+          "preferred store rating": "3.5~4.3 stars",
+          "typical dining time": "12:00-13:30",
+          "preferred distance": "0~500m",
+          "recent orders": [
+            {
+              "store": "Xiangmanyuan Fast Food",
+              "product": "Sweet and sour pork set + cucumber salad"
+            },
+            {
+              "store": "Salad Season",
+              "product": "Light meal chicken breast salad + lemon water"
+            },
+            {
+              "store": "Noodle and Pastry King",
+              "product": "Beef noodles + vegetable bun"
+            }
+          ],
+          "search history": [
+            "Work meals",
+            "Healthy fast food",
+            "Light meal",
+            "Low purine lunch",
+            "Restaurants near the office"
+          ]
+        },
+        "desserts/drinks/snacks": {
+          "frequently purchased categories": [
+            "Beverage shops (average 22 yuan)",
+            "Bread and desserts (average 30 yuan)",
+            "Other dining/Fresh fruits (average 15 yuan)"
+          ],
+          "preferred average price per person": "15~35 yuan",
+          "preferred store rating": "3.8~4.5 stars",
+          "typical dining time": "15:00-16:30",
+          "preferred distance": "0~800m",
+          "recent orders": [
+            {
+              "store": "Yidiandian",
+              "product": "Jasmine green tea (sugar-free) + coconut jelly"
+            },
+            {
+              "store": "85°C",
+              "product": "Red bean bread + fruit tart"
+            },
+            {
+              "store": "Fresh Fruit Workshop",
+              "product": "Seasonal fruit platter"
+            }
+          ],
+          "search history": [
+            "Caffeine-free drinks",
+            "Low-sugar desserts",
+            "Healthy afternoon tea",
+            "Fruit",
+            "Freshly squeezed juice"
+          ]
+        }
+      },
+      "other in-store services": {
+        "frequently consumed categories": {
+          "Sports and fitness/Fitness centers": "40%",
+          "Beauty/Yoga": "30%",
+          "Leisure and entertainment/Massage/Foot massage": "20%",
+          "Beauty/Hair salon": "10%"
+        },
+        "cost per order by category": {
+          "Sports and fitness/Fitness centers": "80~200 yuan",
+          "Beauty/Yoga": "100~180 yuan",
+          "Leisure and entertainment/Massage/Foot massage": "120~250 yuan",
+          "Beauty/Hair salon": "150~300 yuan"
+        },
+        "preferred store rating": "4.0~4.8 stars",
+        "preferred service time": "18:00-21:00",
+        "preferred distance": "0~2500m",
+        "recent orders": [
+          {
+            "store": "Datong Fitness Factory",
+            "product": "Single personal training session + nutrition consultation"
+          },
+          {
+            "store": "Yuexin Yoga",
+            "product": "Couples yoga class experience"
+          },
+          {
+            "store": "Kangmei Foot Massage",
+            "product": "Shoulder and neck massage + foot massage set"
+          }
+        ],
+        "search history": [
+          "Couples fitness",
+          "Low-intensity yoga",
+          "Nearby massage",
+          "Shoulder and neck pain relief",
+          "Professional female hairstylists"
+        ]
+      }
+    },
+    "OTA": {
+      "visited scenes": {
+        "Cultural heritage sites": "30%",
+        "Exhibition halls (museums/art galleries)": "25%",
+        "Natural landscapes (mountains/lakes/forests)": "20%",
+        "Hot spring resorts": "15%",
+        "Featured villages/Industrial tourism/Uncategorized projects": "10%"
+      },
+      "cost per night on hotel": "500~1000 yuan",
+      "visited hotels": {
+        "Atour": "35%",
+        "Ji Hotel": "25%",
+        "Vienna": "20%",
+        "Orange": "15%",
+        "Huazhu": "5%"
+      },
+      "browsed hotels": {
+        "Four-star hotels": "40%",
+        "Comfort hotels": "35%",
+        "Three-star hotels": "15%",
+        "Luxury hotels": "10%"
+      },
+      "historical travel plans": {
+        "Datong-Beijing": {
+          "price range": "300-500 yuan",
+          "transportation method": "High-speed rail"
+        },
+        "Datong-Xi'an": {
+          "price range": "400-600 yuan",
+          "transportation method": "High-speed rail"
+        },
+        "Taiyuan-Shanghai": {
+          "price range": "800-1200 yuan",
+          "transportation method": "Airplane"
+        },
+        "Taiyuan-Hangzhou": {
+          "price range": "900-1300 yuan",
+          "transportation method": "Airplane"
+        },
+        "Taiyuan-Chengdu": {
+          "price range": "800-1200 yuan",
+          "transportation method": "Airplane"
+        },
+        "Taiyuan-Datong": {
+          "price range": "100-200 yuan",
+          "transportation method": "High-speed rail"
+        },
+        "Datong-Pingyao": {
+          "price range": "50-100 yuan",
+          "transportation method": "Long-distance bus"
+        }
+      }
+    }
+  },
+  "stores": {
+    "S17550802104222125_S00001": {
+      "name": "Light Meal Philosophy",
+      "store_id": "S17550802104222125_S00001",
+      "score": 4.7,
+      "location": {
+        "address": "Light Meal Philosophy, No.189 Weidu Avenue, Pingcheng District, Datong, Shanxi Province",
+        "latitude": 40.0912,
+        "longitude": 113.2986
+      },
+      "tags": [
+        "Light meal",
+        "Healthy",
+        "Salad",
+        "Chicken breast",
+        "Low calorie"
+      ],
+      "store_type": "target",
+      "products": [
+        {
+          "name": "Chicken breast quinoa salad",
+          "store_id": "S17550802104222125_S00001",
+          "store_name": "Light Meal Philosophy",
+          "price": 42.8,
+          "tags": [
+            "Low calorie",
+            "High protein",
+            "Chicken breast",
+            "Healthy light meal",
+            "Without fruit"
+          ],
+          "product_id": "S17550802104222125_P00001",
+          "attributes": [
+            "Standard portion with nuts",
+            "Large portion with nuts",
+            "Standard portion without nuts",
+            "Large portion without nuts"
+          ],
+          "product_type": "target"
+        },
+        {
+          "name": "Low-fat chicken fruit salad",
+          "store_id": "S17550802104222125_S00001",
+          "store_name": "Light Meal Philosophy",
+          "price": 39.9,
+          "tags": [
+            "Low fat",
+            "Chicken",
+            "Fruit",
+            "Light meal",
+            "High fiber"
+          ],
+          "product_id": "S17550802104222125_P00003",
+          "attributes": [
+            "Without cilantro",
+            "With cilantro"
+          ],
+          "product_type": "target"
+        },
+        {
+          "name": "Beef quinoa energy bowl",
+          "store_id": "S17550802104222125_S00001",
+          "store_name": "Light Meal Philosophy",
+          "price": 45.8,
+          "tags": [
+            "High protein",
+            "Low fat",
+            "Energy meal",
+            "Quinoa"
+          ],
+          "product_id": "S17550802104222125_P00004",
+          "attributes": [
+            "Standard portion",
+            "Slightly spicy",
+            "Not spicy"
+          ],
+          "product_type": "distraction"
+        }
+      ]
+    },
+    "S17550802104222125_S00002": {
+      "name": "Green Light Meals",
+      "store_id": "S17550802104222125_S00002",
+      "score": 4.6,
+      "location": {
+        "address": "Green Light Meals, No.78 Xinjian South Road, Pingcheng District, Datong, Shanxi Province",
+        "latitude": 40.0865,
+        "longitude": 113.2875
+      },
+      "tags": [
+        "Salad",
+        "Sandwich",
+        "Light meal",
+        "Juice",
+        "Low fat"
+      ],
+      "store_type": "target",
+      "products": [
+        {
+          "name": "Avocado chicken sandwich",
+          "store_id": "S17550802104222125_S00002",
+          "store_name": "Green Light Meals",
+          "price": 36.5,
+          "tags": [
+            "Chicken",
+            "Sandwich",
+            "Avocado",
+            "Whole wheat bread",
+            "Vegetables"
+          ],
+          "product_id": "S17550802104222125_P00010",
+          "attributes": [
+            "Crusts removed",
+            "Standard preparation"
+          ],
+          "product_type": "target"
+        },
+        {
+          "name": "Bacon beef sandwich",
+          "store_id": "S17550802104222125_S00002",
+          "store_name": "Green Light Meals",
+          "price": 38.8,
+          "tags": [
+            "Bacon",
+            "Beef",
+            "Sandwich",
+            "Whole wheat bread",
+            "Vegetables"
+          ],
+          "product_id": "S17550802104222125_P00011",
+          "attributes": [
+            "Standard portion",
+            "Crusts removed",
+            "Extra bacon"
+          ],
+          "product_type": "distraction"
+        },
+        {
+          "name": "Pan-fried pork tenderloin vegetable wrap",
+          "store_id": "S17550802104222125_S00002",
+          "store_name": "Green Light Meals",
+          "price": 41.5,
+          "tags": [
+            "Pork",
+            "Vegetables",
+            "Wrap",
+            "Low fat",
+            "Healthy"
+          ],
+          "product_id": "S17550802104222125_P00013",
+          "attributes": [
+            "Standard portion",
+            "Not spicy",
+            "Less oil"
+          ],
+          "product_type": "distraction"
+        },
+        {
+          "name": "Matcha energy bowl",
+          "store_id": "S17550802104222125_S00002",
+          "store_name": "Green Light Meals",
+          "price": 35.8,
+          "tags": [
+            "Matcha",
+            "Nuts",
+            "Fruit",
+            "Low fat",
+            "Energy replenishment"
+          ],
+          "product_id": "S17550802104222125_P00014",
+          "attributes": [
+            "Standard portion",
+            "Less sugar",
+            "Extra nuts"
+          ],
+          "product_type": "distraction"
+        }
+      ]
+    },
+    "S17550802104222125_S00003": {
+      "name": "Health Workshop",
+      "store_id": "S17550802104222125_S00003",
+      "score": 4.5,
+      "location": {
+        "address": "Health Workshop, No.45 Yingbin Street, Pingcheng District, Datong, Shanxi Province",
+        "latitude": 40.0955,
+        "longitude": 113.2835
+      },
+      "tags": [
+        "Weight loss meal",
+        "Chicken breast",
+        "Vegetables",
+        "Fruit",
+        "Healthy"
+      ],
+      "store_type": "target",
+      "products": [
+        {
+          "name": "Chicken breast fruit salad box",
+          "store_id": "S17550802104222125_S00003",
+          "store_name": "Health Workshop",
+          "price": 39.9,
+          "tags": [
+            "Light meal",
+            "Low calorie",
+            "Salad",
+            "Chicken breast",
+            "Fruit",
+            "Caffeine-free"
+          ],
+          "product_id": "S17550802104222125_P00016",
+          "attributes": [
+            "Low-fat dressing",
+            "Add nuts",
+            "No bread",
+            "Add quinoa"
+          ],
+          "product_type": "target"
+        },
+        {
+          "name": "Pork tenderloin veggie-fruit light meal box",
+          "store_id": "S17550802104222125_S00003",
+          "store_name": "Health Workshop",
+          "price": 38.8,
+          "tags": [
+            "Pork",
+            "Vegetables",
+            "Fruit",
+            "Light meal",
+            "Low fat"
+          ],
+          "product_id": "S17550802104222125_P00018",
+          "attributes": [
+            "Less oil",
+            "Less salt",
+            "With quinoa",
+            "Add fruit"
+          ],
+          "product_type": "distraction"
+        },
+        {
+          "name": "Salmon seafood soup set",
+          "store_id": "S17550802104222125_S00003",
+          "store_name": "Health Workshop",
+          "price": 52.9,
+          "tags": [
+            "Salmon",
+            "Seafood soup",
+            "Healthy",
+            "High protein",
+            "Low fat"
+          ],
+          "product_id": "S17550802104222125_P00019",
+          "attributes": [
+            "Medium portion",
+            "Less salt",
+            "With brown rice",
+            "With vegetables"
+          ],
+          "product_type": "distraction"
+        }
+      ]
+    },
+    "S17550802104222125_S00004": {
+      "name": "Tasty Pork Cutlet",
+      "store_id": "S17550802104222125_S00004",
+      "score": 4.3,
+      "location": {
+        "address": "Tasty Pork Cutlet, No.95 Weidu Avenue, Pingcheng District, Datong, Shanxi Province",
+        "latitude": 40.0925,
+        "longitude": 113.2967
+      },
+      "tags": [
+        "Pork cutlet",
+        "Fried pork cutlet",
+        "Rice bowl",
+        "Japanese style"
+      ],
+      "store_type": "distraction",
+      "products": [
+        {
+          "name": "Black pepper pork cutlet rice",
+          "store_id": "S17550802104222125_S00004",
+          "store_name": "Tasty Pork Cutlet",
+          "price": 42.5,
+          "tags": [
+            "Black pepper",
+            "Pork cutlet",
+            "Rice bowl",
+            "Japanese style"
+          ],
+          "product_id": "S17550802104222125_P00021",
+          "attributes": [
+            "Standard spiciness",
+            "Not spicy"
+          ],
+          "product_type": "distraction"
+        },
+        {
+          "name": "Vegetable salad",
+          "store_id": "S17550802104222125_S00004",
+          "store_name": "Tasty Pork Cutlet",
+          "price": 18.8,
+          "tags": [
+            "Vegetables",
+            "Salad",
+            "Healthy",
+            "Low calorie"
+          ],
+          "product_id": "S17550802104222125_P00022",
+          "attributes": [
+            "Standard portion",
+            "With dressing",
+            "Without dressing"
+          ],
+          "product_type": "distraction"
+        },
+        {
+          "name": "Fried pork cutlet salad",
+          "store_id": "S17550802104222125_S00004",
+          "store_name": "Tasty Pork Cutlet",
+          "price": 39.9,
+          "tags": [
+            "Pork cutlet",
+            "Salad",
+            "Vegetables",
+            "Japanese style"
+          ],
+          "product_id": "S17550802104222125_P00024",
+          "attributes": [
+            "Standard portion",
+            "With dressing",
+            "Without dressing"
+          ],
+          "product_type": "distraction"
+        }
+      ]
+    },
+    "S17550802104222125_S00006": {
+      "name": "Seafood Soup Noodles",
+      "store_id": "S17550802104222125_S00006",
+      "score": 4.2,
+      "location": {
+        "address": "Seafood Soup Noodles, No.87 Yingbin Street, Pingcheng District, Datong, Shanxi Province",
+        "latitude": 40.0972,
+        "longitude": 113.2823
+      },
+      "tags": [
+        "Seafood",
+        "Soup noodles",
+        "Seafood soup",
+        "Rice noodles"
+      ],
+      "store_type": "distraction",
+      "products": [
+        {
+          "name": "Vegetable soup noodles",
+          "store_id": "S17550802104222125_S00006",
+          "store_name": "Seafood Soup Noodles",
+          "price": 26,
+          "tags": [
+            "Vegetables",
+            "Soup noodles",
+            "Vegetarian",
+            "Low calorie"
+          ],
+          "product_id": "S17550802104222125_P00032",
+          "attributes": [
+            "Not spicy",
+            "Slightly spicy",
+            "With green onion",
+            "Without green onion"
+          ],
+          "product_type": "distraction"
+        },
+        {
+          "name": "Fresh shrimp chicken soup noodles",
+          "store_id": "S17550802104222125_S00006",
+          "store_name": "Seafood Soup Noodles",
+          "price": 36,
+          "tags": [
+            "Fresh shrimp",
+            "Chicken",
+            "Soup noodles",
+            "Nutrition"
+          ],
+          "product_id": "S17550802104222125_P00033",
+          "attributes": [
+            "Not spicy",
+            "Slightly spicy",
+            "With green onion",
+            "Without green onion"
+          ],
+          "product_type": "distraction"
+        },
+        {
+          "name": "Chicken vegetable soup noodles",
+          "store_id": "S17550802104222125_S00006",
+          "store_name": "Seafood Soup Noodles",
+          "price": 30,
+          "tags": [
+            "Chicken",
+            "Green vegetables",
+            "Soup noodles",
+            "Healthy"
+          ],
+          "product_id": "S17550802104222125_P00034",
+          "attributes": [
+            "Not spicy",
+            "Slightly spicy",
+            "With green onion",
+            "Without green onion"
+          ],
+          "product_type": "distraction"
+        }
+      ]
+    }
+  },
+  "orders": {
+    "S17550802104222125_O00002": {
+      "order_id": "S17550802104222125_O00002",
+      "order_type": "delivery",
+      "user_id": "U586066",
+      "store_id": "S17550802104222125_S00002",
+      "note": "Less oil, no spicy",
+      "location": {
+        "address": "Huayu Shopping Center, No.56 Xinjian West Road, Pingcheng District, Datong, Shanxi Province",
+        "longitude": 113.2852,
+        "latitude": 40.0892
+      },
+      "dispatch_time": "2025-06-01 11:40:12",
+      "shipping_time": 22.0,
+      "delivery_time": "2025-06-01 12:02:15",
+      "total_price": 39.9,
+      "create_time": "2025-06-01 11:25:30",
+      "update_time": "2025-06-01 12:02:15",
+      "status": "delivered",
+      "products": [
+        {
+          "product_id": "S17550802104222125_P00009",
+          "price": 39.9,
+          "quantity": 1,
+          "name": "Low-fat chicken fruit salad",
+          "attributes": [
+            "Standard portion",
+            "Light vinaigrette",
+            "Extra fruit"
+          ]
+        }
+      ]
+    },
+    "S17550802104222125_O00003": {
+      "order_id": "S17550802104222125_O00003",
+      "order_type": "delivery",
+      "user_id": "U586066",
+      "store_id": "S17550802104222125_S00003",
+      "note": "Don't use too much seasoning",
+      "location": {
+        "address": "Huayu Shopping Center, No.56 Xinjian West Road, Pingcheng District, Datong, Shanxi Province",
+        "longitude": 113.2852,
+        "latitude": 40.0892
+      },
+      "dispatch_time": "2025-05-29 13:02:45",
+      "shipping_time": 25.0,
+      "delivery_time": "2025-05-29 13:27:50",
+      "total_price": 42.8,
+      "create_time": "2025-05-29 12:45:20",
+      "update_time": "2025-05-29 13:27:50",
+      "status": "delivered",
+      "products": [
+        {
+          "product_id": "S17550802104222125_P00015",
+          "price": 42.8,
+          "quantity": 1,
+          "name": "Low-fat chicken breast bento",
+          "attributes": [
+            "Oil removed",
+            "Low salt",
+            "With brown rice",
+            "With seasonal vegetables"
+          ]
+        }
+      ]
+    },
+    "S17550802104222125_O00004": {
+      "order_id": "S17550802104222125_O00004",
+      "order_type": "delivery",
+      "user_id": "U586066",
+      "store_id": "S17550802104222125_S00001",
+      "note": "Add some fruit",
+      "location": {
+        "address": "South Area, East Garden Community, Garden Front Street, Pingcheng District, Datong",
+        "longitude": 113.2956,
+        "latitude": 40.0936
+      },
+      "dispatch_time": "2025-05-25 09:52:10",
+      "shipping_time": 20.0,
+      "delivery_time": "2025-05-25 10:12:15",
+      "total_price": 39.9,
+      "create_time": "2025-05-25 09:35:40",
+      "update_time": "2025-05-25 10:12:15",
+      "status": "delivered",
+      "products": [
+        {
+          "product_id": "S17550802104222125_P00003",
+          "price": 39.9,
+          "quantity": 1,
+          "name": "Low-fat chicken fruit salad",
+          "attributes": [
+            "Large portion",
+            "No dressing"
+          ]
+        }
+      ]
+    },
+    "S17550802104222125_O00005": {
+      "order_id": "S17550802104222125_O00005",
+      "order_type": "delivery",
+      "user_id": "U586066",
+      "store_id": "S17550802104222125_S00002",
+      "note": "Keep the fruit fresh",
+      "location": {
+        "address": "South Area, East Garden Community, Garden Front Street, Pingcheng District, Datong",
+        "longitude": 113.2956,
+        "latitude": 40.0936
+      },
+      "dispatch_time": "2025-05-22 19:45:18",
+      "shipping_time": 28.0,
+      "delivery_time": "2025-05-22 20:13:25",
+      "total_price": 79.8,
+      "create_time": "2025-05-22 19:30:05",
+      "update_time": "2025-05-22 20:13:25",
+      "status": "delivered",
+      "products": [
+        {
+          "product_id": "S17550802104222125_P00008",
+          "price": 42.9,
+          "quantity": 1,
+          "name": "Chicken breast quinoa salad",
+          "attributes": [
+            "Standard portion",
+            "Less seasoning",
+            "Extra vegetables"
+          ]
+        },
+        {
+          "product_id": "S17550802104222125_P00009",
+          "price": 36.9,
+          "quantity": 1,
+          "name": "Low-fat chicken fruit salad",
+          "attributes": [
+            "Standard portion",
+            "Light vinaigrette",
+            "Extra fruit"
+          ]
+        }
+      ]
+    },
+    "S17550802104222125_O00006": {
+      "order_id": "S17550802104222125_O00006",
+      "order_type": "train",
+      "user_id": "U586066",
+      "store_id": "S17550802104222125_T00007",
+      "note": "Business trip itinerary",
+      "location": {
+        "address": "Datong Railway Station, No.1 Station Front Street, Pingcheng District, Datong, Shanxi Province",
+        "longitude": 113.2956,
+        "latitude": 40.0762
+      },
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 198.0,
+      "create_time": "2025-06-01 09:15:22",
+      "update_time": "2025-06-01 09:15:22",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17550802104222125_P00036",
+          "price": 198.0,
+          "quantity": 1,
+          "date": "2025-06-04",
+          "seat_type": "First-class seat",
+          "train_number": "D2356",
+          "departure_city": "Datong",
+          "arrival_city": "Yuncheng",
+          "departure_time": "15:06",
+          "arrival_time": "18:45"
+        }
+      ]
+    },
+    "S17550802104222125_O00007": {
+      "order_id": "S17550802104222125_O00007",
+      "order_type": "train",
+      "user_id": "U586066",
+      "store_id": "T00002",
+      "note": "Return ticket",
+      "location": {
+        "address": "Yuncheng Railway Station, No.1 Yudu Avenue, Yanhu District, Yuncheng, Shanxi Province",
+        "longitude": 111.0078,
+        "latitude": 35.0289
+      },
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 198.0,
+      "create_time": "2025-05-28 16:30:15",
+      "update_time": "2025-05-28 16:30:15",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "P00001",
+          "price": 198.0,
+          "quantity": 1,
+          "date": "2025-06-06",
+          "seat_type": "First-class seat",
+          "train_number": "D2357",
+          "departure_city": "Yuncheng",
+          "arrival_city": "Datong",
+          "departure_time": "16:15",
+          "arrival_time": "19:50"
+        }
+      ]
+    },
+    "S17550802104222125_O00008": {
+      "order_id": "S17550802104222125_O00008",
+      "order_type": "train",
+      "user_id": "U586066",
+      "store_id": "T00003",
+      "note": "Weekend trip",
+      "location": {
+        "address": "Datong Railway Station, No.1 Station Front Street, Pingcheng District, Datong, Shanxi Province",
+        "longitude": 113.2956,
+        "latitude": 40.0762
+      },
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 372.0,
+      "create_time": "2025-05-14 10:25:40",
+      "update_time": "2025-05-14 10:25:40",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "P00002",
+          "price": 186.0,
+          "quantity": 2,
+          "date": "2025-05-17",
+          "seat_type": "Second-class seat",
+          "train_number": "G1268",
+          "departure_city": "Datong",
+          "arrival_city": "Taiyuan",
+          "departure_time": "09:35",
+          "arrival_time": "10:50"
+        }
+      ]
+    },
+    "S17550802104222125_O00009": {
+      "order_id": "S17550802104222125_O00009",
+      "order_type": "train",
+      "user_id": "U586066",
+      "store_id": "T00004",
+      "note": "Weekend return",
+      "location": {
+        "address": "Taiyuan Railway Station, Yingze Street, Yingze District, Taiyuan, Shanxi Province",
+        "longitude": 112.5584,
+        "latitude": 37.8706
+      },
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 372.0,
+      "create_time": "2025-05-14 10:45:12",
+      "update_time": "2025-05-14 10:45:12",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "P00003",
+          "price": 186.0,
+          "quantity": 2,
+          "date": "2025-05-19",
+          "seat_type": "Second-class seat",
+          "train_number": "G1269",
+          "departure_city": "Taiyuan",
+          "arrival_city": "Datong",
+          "departure_time": "19:20",
+          "arrival_time": "20:35"
+        }
+      ]
+    },
+    "S17550802104222125_O00010": {
+      "order_id": "S17550802104222125_O00010",
+      "order_type": "hotel",
+      "user_id": "U586066",
+      "store_id": "H00001",
+      "note": "Weekend leisure",
+      "location": {
+        "address": "Atour Hotel, No.566 Changzhi Road, Xiaodian District, Taiyuan, Shanxi Province",
+        "longitude": 112.5784,
+        "latitude": 37.8106
+      },
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 1280.0,
+      "create_time": "2025-04-28 09:35:20",
+      "update_time": "2025-04-28 09:35:20",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "H00001P001",
+          "price": 640.0,
+          "quantity": 2,
+          "date": "2025-05-17",
+          "room_type": "Deluxe king room"
+        }
+      ]
+    },
+    "S17550802104222125_O00011": {
+      "order_id": "S17550802104222125_O00011",
+      "order_type": "instore",
+      "user_id": "U586066",
+      "store_id": "S17550802104222125_I00013",
+      "total_price": 48.0,
+      "create_time": "2025-06-01 08:45:30",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17550802104222125_P00077",
+          "price": 48.0,
+          "quantity": 1,
+          "name": "Serene reading 2-hour set (with green tea)"
+        }
+      ]
+    },
+    "S17550802104222125_O00012": {
+      "order_id": "S17550802104222125_O00012",
+      "order_type": "instore",
+      "user_id": "U586066",
+      "store_id": "S17550802104222125_I00011",
+      "total_price": 58.0,
+      "create_time": "2025-05-26 14:20:15",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17550802104222125_P00068",
+          "price": 58.0,
+          "quantity": 1,
+          "name": "Green tea reading set"
+        }
+      ]
+    },
+    "S17550802104222125_O00013": {
+      "order_id": "S17550802104222125_O00013",
+      "order_type": "instore",
+      "user_id": "U586066",
+      "store_id": "S17550802104222125_I00012",
+      "total_price": 35.0,
+      "create_time": "2025-05-13 16:30:45",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17550802104222125_P00073",
+          "price": 35.0,
+          "quantity": 1,
+          "name": "Green tea premium set"
+        }
+      ]
+    }
+  }
+}

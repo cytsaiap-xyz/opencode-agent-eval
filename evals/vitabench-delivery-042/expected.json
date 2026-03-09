@@ -1,0 +1,97 @@
+{
+  "required_orders": [
+    {
+      "order_id": "80716002T01",
+      "order_type": "delivery",
+      "user_id": "U000069",
+      "store_id": "S16397977979949275_S31031",
+      "note": "",
+      "location": {
+        "address": "Hunan TV Program Production Center (North Area), 60 meters southwest of the intersection of Anju Road and Guixin Road, Kaifu District, Changsha City, Hunan Province",
+        "longitude": 113.045134,
+        "latitude": 28.239155
+      },
+      "dispatch_time": "2025-05-17 16:06:00",
+      "shipping_time": 40,
+      "delivery_time": "2025-05-17 16:46:00",
+      "total_price": 32,
+      "create_time": "2025-05-17 15:55:00",
+      "update_time": "2025-05-17 15:57:00",
+      "status": "delivered",
+      "products": [
+        {
+          "product_id": "S29243685947942659_P16634",
+          "price": 32,
+          "quantity": 1,
+          "attributes": ""
+        }
+      ]
+    },
+    {
+      "order_id": "80716002T02",
+      "order_type": "delivery",
+      "user_id": "U000069",
+      "store_id": "S18439376674920482_S13973",
+      "note": "",
+      "location": {
+        "address": "Hunan TV Program Production Center (North Area), 60 meters southwest of the intersection of Anju Road and Guixin Road, Kaifu District, Changsha City, Hunan Province",
+        "longitude": 113.045134,
+        "latitude": 28.239155
+      },
+      "dispatch_time": "2025-05-17 16:06:00",
+      "shipping_time": 20,
+      "delivery_time": "2025-05-17 16:26:00",
+      "total_price": 28,
+      "create_time": "2025-05-17 15:58:00",
+      "update_time": "2025-05-17 15:58:00",
+      "status": "delivered",
+      "products": [
+        {
+          "product_id": "S16344074169041072_P77071",
+          "price": 14,
+          "quantity": 2,
+          "attributes": ""
+        }
+      ]
+    },
+    {
+      "order_id": "80716002T03",
+      "order_type": "delivery",
+      "user_id": "U000069",
+      "store_id": "S14058772949030407_S32078",
+      "note": "",
+      "location": {
+        "address": "Hunan TV Program Production Center (North Area), 60 meters southwest of the intersection of Anju Road and Guixin Road, Kaifu District, Changsha City, Hunan Province",
+        "longitude": 113.045134,
+        "latitude": 28.239155
+      },
+      "dispatch_time": "2025-05-17 16:11:00",
+      "shipping_time": 32,
+      "delivery_time": "2025-05-17 16:43:00",
+      "total_price": 29.76,
+      "create_time": "2025-05-17 16:03:00",
+      "update_time": "2025-05-17 16:03:00",
+      "status": "delivered",
+      "products": [
+        {
+          "product_id": "S10503479207992409_P98431",
+          "price": 14.88,
+          "quantity": 2,
+          "attributes": ""
+        }
+      ]
+    }
+  ],
+  "rubrics": [
+    "Need to cancel the order containing stinky tofu from Tianma Prince Stinky Tofu store, update the status of order with order_id 80716002T01 to cancelled",
+    "The newly placed snack order should be from Tianma Prince Stinky Tofu",
+    "The newly placed combo snack set should avoid foods with strong odors, such as stinky tofu and other fermented snacks",
+    "The estimated delivery time of the newly placed snack order should be before 2025-05-17 18:00:00",
+    "The delivery address for the beverage order should be Hunan TV Program Production Center (North Area), 60 meters southwest of the intersection of Anju Road and Guixin Road, Kaifu District, Changsha City, Hunan Province",
+    "The estimated delivery time for the beverage order should be before 2025-05-17 18:00:00",
+    "The beverage order should be placed from Liangguo Ba (Hengda Yayuan Branch)",
+    "The delivery address for Spicy Chicken Stir-fried Noodles order should be Hunan TV Program Production Center (North Area), 60 meters southwest of the intersection of Anju Road and Guixin Road, Kaifu District, Changsha City, Hunan Province",
+    "The estimated delivery time for the Spicy Chicken Stir-fried Noodles order should be before 2025-05-17 18:00:00",
+    "The product brand of the Spicy Chicken Stir-fried Noodles order should be Korean Samyang"
+  ]
+}

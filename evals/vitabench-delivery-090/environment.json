@@ -1,0 +1,438 @@
+{
+  "task_id": "I0716001",
+  "domain": "delivery",
+  "time": "2025-09-25 16:02:49",
+  "user_id": "U000060",
+  "weather": [
+    {
+      "city": "Nanning City",
+      "category": "overcast",
+      "datetime": "2025-09-25",
+      "temperature": [
+        23,
+        30
+      ],
+      "humidity": 68
+    }
+  ],
+  "location": [
+    {
+      "address": "Building 3, Unit 1, Taoyuan Residential Complex, No. 51 Taoyuan Road, Qingxiu District, Nanning City, Guangxi Zhuang Autonomous Region",
+      "longitude": 108.333324,
+      "latitude": 22.80215
+    }
+  ],
+  "user_profile": {
+    "user id": "U000060",
+    "occupation": "Financial Manager",
+    "gender": "male",
+    "age group": "35~40",
+    "residence": "Nanning",
+    "home address": "Building 3, Unit 1, Taoyuan Residential Complex, No. 51 Taoyuan Road, Qingxiu District, Nanning City, Guangxi Zhuang Autonomous Region",
+    "work address": "Nanning Greenland Center, No. 15 Kaixuan Road, Headquarters Base, Wuxiang New District, Liangqing District, Nanning City, Guangxi Zhuang Autonomous Region (Inside the Headquarters Base, South of Wuxiang Avenue)",
+    "dietary restrictions": "No alcohol",
+    "family status": "Has pets",
+    "personality": "Strong logical thinking, enjoys analysis and questioning, pursues accuracy"
+  },
+  "user_historical_behaviors": {
+    "user id": "U000060",
+    "occupation": "Financial Manager",
+    "gender": "male",
+    "age group": "35~40",
+    "residence": "Nanning",
+    "home address": "Building 3, Unit 1, Taoyuan Residential Complex, No. 51 Taoyuan Road, Qingxiu District, Nanning City, Guangxi Zhuang Autonomous Region",
+    "work address": "Nanning Greenland Center, No. 15 Kaixuan Road, Headquarters Base, Wuxiang New District, Liangqing District, Nanning City, Guangxi Zhuang Autonomous Region (Inside the Headquarters Base, South of Wuxiang Avenue)",
+    "breakfast": {
+      "frequently purchased categories": [
+        "Quick meals/Steamed buns/Pan-fried buns (Average 25 yuan)",
+        "Quick meals/Jianbing/Wraps/Flatbread (Average 18 yuan)",
+        "Quick meals/Fried dough sticks (Average 12 yuan)"
+      ],
+      "cost per order": "15~35 yuan",
+      "preferred store rating": "4.2~4.8 stars",
+      "preferred delivery time": "15~30 minutes",
+      "preferred distance": "0~2500m",
+      "recent orders": [
+        {
+          "store": "Authentic Guilin Rice Noodles",
+          "product": "Signature Guilin Rice Noodles + Soy Milk"
+        },
+        {
+          "store": "Wang's Bun Shop",
+          "product": "Meat Bun + Salty Soy Milk"
+        },
+        {
+          "store": "Old Guangzhou Rice Noodle Rolls",
+          "product": "Char Siu Rice Noodle Roll + Fried Dough Stick"
+        }
+      ],
+      "search history": [
+        "Guilin Rice Noodles",
+        "Steamed Buns",
+        "Rice Noodle Rolls",
+        "Soy Milk",
+        "Low-oil Breakfast"
+      ]
+    },
+    "weekday lunch/dinner": {
+      "frequently purchased categories": [
+        "Quick meals/Rice with toppings (Average 32 yuan)",
+        "International cuisine/Japanese bento/Sushi (Average 45 yuan)",
+        "Quick meals/Light food (Average 38 yuan)"
+      ],
+      "cost per order": "30~60 yuan",
+      "preferred store rating": "4.3~4.8 stars",
+      "preferred delivery time": "20~35 minutes",
+      "preferred distance": "0~3000m",
+      "recent orders": [
+        {
+          "store": "Fresh Sushi",
+          "product": "Salmon Set Meal"
+        },
+        {
+          "store": "Light Salad",
+          "product": "Avocado Chicken Breast Salad"
+        },
+        {
+          "store": "Sichuan Western Basin",
+          "product": "Twice-cooked Pork Rice"
+        }
+      ],
+      "search history": [
+        "Fat-reducing Meals",
+        "Sushi",
+        "Healthy Meals",
+        "Beef Rice"
+      ]
+    },
+    "weekend lunch/dinner": {
+      "frequently purchased categories": [
+        "Chinese cuisine/Cantonese cuisine (Average 85 yuan)",
+        "Chinese cuisine/Hunan cuisine (Average 75 yuan)",
+        "International cuisine/Thai food (Average 90 yuan)"
+      ],
+      "cost per order": "70~180 yuan",
+      "preferred store rating": "4.5~5.0 stars",
+      "preferred delivery time": "30~45 minutes",
+      "preferred distance": "0~4500m",
+      "recent orders": [
+        {
+          "store": "Old Guangzhou Restaurant",
+          "product": "White Cut Chicken + Steamed Fish + Garlic Lettuce"
+        },
+        {
+          "store": "Hunan Balao",
+          "product": "Chopped Chili Fish Head + Homestyle Stir-fried Pork"
+        },
+        {
+          "store": "Thai Style",
+          "product": "Spicy Stir-fried Pork Neck"
+        }
+      ],
+      "search history": [
+        "Cantonese Cuisine",
+        "Special Restaurants",
+        "Family Set Meals",
+        "Thai Cuisine"
+      ]
+    },
+    "desserts/drinks/snacks": {
+      "frequently purchased categories": [
+        "desserts/drinks/snacks/Coffee (Average 30 yuan)",
+        "desserts/drinks/snacks/Fruit Juice (Average 25 yuan)",
+        "desserts/drinks/snacks/Chinese Pastry (Average 28 yuan)"
+      ],
+      "cost per order": "15~40 yuan",
+      "preferred store rating": "4.4~4.9 stars",
+      "preferred delivery time": "15~25 minutes",
+      "preferred distance": "0~2500m",
+      "recent orders": [
+        {
+          "store": "Starbucks",
+          "product": "Americano"
+        },
+        {
+          "store": "Fresh Juice Shop",
+          "product": "Mango Juice"
+        }
+      ],
+      "search history": [
+        "Low-sugar Coffee",
+        "Fresh Juice",
+        "Afternoon Tea",
+        "Sugar-free Drinks"
+      ]
+    },
+    "night snack": {
+      "frequently purchased categories": [
+        "Quick meals/Rice noodles/Rice vermicelli (Average 35 yuan)",
+        "Quick meals/Liuzhou Snail Rice Noodles (Average 28 yuan)",
+        "Quick meals/Clay pot soup (Average 32 yuan)"
+      ],
+      "cost per order": "25~50 yuan",
+      "preferred store rating": "4.0~4.7 stars",
+      "preferred delivery time": "25~40 minutes",
+      "preferred distance": "0~3000m",
+      "recent orders": [
+        {
+          "store": "Liuzhou Snail Rice Noodles",
+          "product": "Signature Snail Rice Noodles"
+        },
+        {
+          "store": "Guangxi Laoyou Rice Noodles",
+          "product": "Hot and Sour Laoyou Rice Noodles"
+        },
+        {
+          "store": "Tianfuxiang Fresh Ingredients Laoyou Main Branch",
+          "product": "Laoyou Style Pork Offal E-Fu Noodles"
+        }
+      ],
+      "search history": [
+        "Snail Rice Noodles",
+        "Rice Paper Rolls",
+        "Rice Noodles",
+        "Less Greasy Night Snacks"
+      ]
+    }
+  },
+  "stores": {
+    "S68441396243055633_S66153": {
+      "name": "Laoyou Style Pork Offal E-Fu Noodles",
+      "store_id": "S68441396243055633_S66153",
+      "score": 4.6,
+      "location": {
+        "address": "Tianfuxiang Fresh Ingredients Laoyou (Xinhua Main Branch), Opposite the Water Tower, 12-14 Liberation Road Intersection, Xinhua Street, Xingning District, Nanning City, Guangxi Zhuang Autonomous Region",
+        "latitude": 22.814996,
+        "longitude": 108.317229
+      },
+      "tags": [],
+      "products": [
+        {
+          "name": "Fresh Soup Pork Offal Rice Noodles",
+          "store_id": "S68441396243055633_S66153",
+          "store_name": "Tianfuxiang Fresh Ingredients Laoyou Main Branch",
+          "price": 14,
+          "tags": [],
+          "product_id": "S11705981851273565_P59996",
+          "attributes": [],
+          "quantity": 9999
+        },
+        {
+          "name": "Sweet Potato Dessert Soup",
+          "store_id": "S68441396243055633_S66153",
+          "store_name": "Tianfuxiang Fresh Ingredients Laoyou Main Branch",
+          "price": 7,
+          "tags": [],
+          "product_id": "S20734804318993088_P33304",
+          "attributes": [],
+          "quantity": 9999
+        },
+        {
+          "name": "Laoyou Style Pork Offal E-Fu Noodles",
+          "product_id": "S21923082907454107_P11325",
+          "store_id": "S68441396243055633_S66153",
+          "store_name": "Laoyou Style Pork Offal E-Fu Noodles",
+          "price": 16,
+          "tags": [],
+          "attributes": [],
+          "quantity": 9999
+        },
+        {
+          "name": "Mung Bean Dessert Soup",
+          "product_id": "S32925399002273755_P69337",
+          "store_id": "S68441396243055633_S66153",
+          "store_name": "Laoyou Style Pork Offal E-Fu Noodles",
+          "price": 7,
+          "tags": [],
+          "attributes": [],
+          "quantity": 9999
+        }
+      ]
+    },
+    "S43240302180045417_S14076": {
+      "name": "Yao Palace - Guangxi Cuisine (Education Road Branch)",
+      "store_id": "S43240302180045417_S14076",
+      "score": 4.6,
+      "location": {
+        "address": "Yao Palace Guangxi Cuisine (Education Road Branch), 4F, Xiangli Commercial Center, No. 3 Education Road, Qingxiu District, Nanning City, Guangxi Zhuang Autonomous Region",
+        "latitude": 22.80464,
+        "longitude": 108.337329
+      },
+      "tags": [],
+      "products": [
+        {
+          "name": "Oil Tea Free-range Chicken Soup",
+          "store_id": "S43240302180045417_S14076",
+          "store_name": "Yao Palace - Guangxi Cuisine (Education Road Branch)",
+          "price": 15.9,
+          "tags": [],
+          "product_id": "S19159328161115696_P29699",
+          "attributes": [
+            "Single Portion"
+          ],
+          "quantity": 9999
+        },
+        {
+          "name": "Yao-style Handmade Ground Tofu Stuffed Delicacy",
+          "store_id": "S43240302180045417_S14076",
+          "store_name": "Yao Palace - Guangxi Cuisine (Education Road Branch)",
+          "price": 23,
+          "tags": [
+            "Sweet Flavor"
+          ],
+          "product_id": "S39067932885983771_P89154",
+          "attributes": [],
+          "quantity": 9999
+        },
+        {
+          "name": "Fragrant Steamed Rice",
+          "store_id": "S43240302180045417_S14076",
+          "store_name": "Yao Palace - Guangxi Cuisine (Education Road Branch)",
+          "price": 3,
+          "tags": [
+            "Single Portion"
+          ],
+          "product_id": "S18928897898954556_P47912",
+          "attributes": [],
+          "quantity": 9999
+        },
+        {
+          "name": "Stir-fried Yao Mountain Free-range Pork with Local Chili",
+          "store_id": "S43240302180045417_S14076",
+          "store_name": "Yao Palace - Guangxi Cuisine (Education Road Branch)",
+          "price": 49,
+          "tags": [
+            "Signature Dish"
+          ],
+          "product_id": "S14445001259369926_P29929",
+          "attributes": [],
+          "quantity": 9999
+        },
+        {
+          "name": "Zhuang-style Steamed Lemon Duck",
+          "store_id": "S43240302180045417_S14076",
+          "store_name": "Yao Palace - Guangxi Cuisine (Education Road Branch)",
+          "price": 79,
+          "tags": [
+            "Signature Dish"
+          ],
+          "product_id": "S23960545841735513_P82884",
+          "attributes": [],
+          "quantity": 9999
+        },
+        {
+          "name": "[Mountain Specialties] Blanched Seasonal Vegetables",
+          "store_id": "S43240302180045417_S14076",
+          "store_name": "Yao Palace - Guangxi Cuisine (Education Road Branch)",
+          "price": 26,
+          "tags": [],
+          "product_id": "S28863166591108673_P17688",
+          "attributes": [],
+          "quantity": 9999
+        }
+      ]
+    },
+    "S25675485529686008_S73246": {
+      "name": "Yao Palace - Guangxi Cuisine (Education Road Branch)",
+      "store_id": "S25675485529686008_S73246",
+      "score": 4.7,
+      "location": {
+        "address": "Yao Palace Guangxi Cuisine (Education Road Branch), 4F, Xiangli Commercial Center, No. 3 Education Road, Qingxiu District, Nanning City, Guangxi Zhuang Autonomous Region",
+        "latitude": 22.80464,
+        "longitude": 108.337329
+      },
+      "tags": [],
+      "products": [
+        {
+          "name": "Fragrant Steamed Rice",
+          "product_id": "S24239536692720284_P72408",
+          "store_id": "S25675485529686008_S73246",
+          "store_name": "Yao Palace - Guangxi Cuisine (Education Road Branch)",
+          "price": 3,
+          "tags": [],
+          "attributes": [],
+          "quantity": 9999
+        },
+        {
+          "name": "Oil Tea Free-range Chicken Soup",
+          "product_id": "S77138688129206955_P52650",
+          "store_id": "S25675485529686008_S73246",
+          "store_name": "Yao Palace - Guangxi Cuisine (Education Road Branch)",
+          "price": 15.9,
+          "tags": [],
+          "attributes": [],
+          "quantity": 9999
+        },
+        {
+          "name": "Mapo Tofu (Small Portion - Rice Not Included)",
+          "product_id": "S31725748307752111_P35557",
+          "store_id": "S25675485529686008_S73246",
+          "store_name": "Yao Palace - Guangxi Cuisine (Education Road Branch)",
+          "price": 6.8,
+          "tags": [],
+          "attributes": [],
+          "quantity": 9999
+        },
+        {
+          "name": "[Handmade] Mashed Pepper Eggplant",
+          "product_id": "S31386115098584490_P24017",
+          "store_id": "S25675485529686008_S73246",
+          "store_name": "Yao Palace - Guangxi Cuisine (Education Road Branch)",
+          "price": 19,
+          "tags": [],
+          "attributes": [],
+          "quantity": 9999
+        },
+        {
+          "name": "Stir-fried Yao Mountain Free-range Pork with Local Chili",
+          "product_id": "S32452117944818925_P86183",
+          "store_id": "S25675485529686008_S73246",
+          "store_name": "Yao Palace - Guangxi Cuisine (Education Road Branch)",
+          "price": 49,
+          "tags": [],
+          "attributes": [],
+          "quantity": 9999
+        },
+        {
+          "name": "Lime-flavored Sour and Spicy Black Chicken Feet",
+          "product_id": "S99339743843329033_P60638",
+          "store_id": "S25675485529686008_S73246",
+          "store_name": "Yao Palace - Guangxi Cuisine (Education Road Branch)",
+          "price": 39,
+          "tags": [],
+          "attributes": [],
+          "quantity": 9999
+        }
+      ]
+    }
+  },
+  "orders": {
+    "I0716001O01": {
+      "order_id": "I0716001O01",
+      "order_type": "delivery",
+      "user_id": "U000060",
+      "store_id": "S68441396243055633_S66153",
+      "note": "",
+      "location": {
+        "address": "Building 3, Unit 1, Taoyuan Residential Complex, No. 51 Taoyuan Road, Qingxiu District, Nanning City, Guangxi Zhuang Autonomous Region",
+        "longitude": 108.333324,
+        "latitude": 22.80215
+      },
+      "dispatch_time": "2025-09-19 12:25:00",
+      "shipping_time": 20,
+      "delivery_time": "2025-09-19 12:45:00",
+      "total_price": 14,
+      "create_time": "2025-09-19 12:05:00",
+      "update_time": "2025-09-19 12:05:00",
+      "status": "delivered",
+      "products": [
+        {
+          "product_id": "S11705981851273565_P59996",
+          "price": 14,
+          "quantity": 1,
+          "attributes": "200g Rice Noodles"
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "task_id": "12",
+  "query": "I plan to travel from Guiyang to Guilin for a two-day trip on November 12, 2025, and return on the 13th. Could you please help me plan the itinerary, including transportation, accommodation, meals, and sightseeing arrangements?\n\nFor the return journey, I’d like to take a train—please find the cheapest direct train available. You can choose a suitable departure time, as long as it’s convenient. For accommodation, I’d prefer a four-star hotel that offers robot room service, as that would make the stay more enjoyable. Also, I’d like to include two meals in the itinerary: one at the restaurant closest to \"Mulong Lake\" so I can go there directly after sightseeing, and another near \"Li River Gallery\", preferably at a restaurant with a waiting area service so I can sit comfortably if there’s a wait.\n\nThese are basically all my requirements—I believe I’ve provided everything needed. Please go ahead and plan the itinerary for me without asking for further details! November 12, 2025 is Wednesday",
+  "meta_info": {
+    "org": "Guiyang",
+    "dest": [
+      "Guilin"
+    ],
+    "days": 2,
+    "depart_date": "2025-11-12",
+    "return_date": "2025-11-13",
+    "people_number": 1,
+    "room_number": 1
+  },
+  "hard_constraints": {
+    "train_cheapest_direct": {
+      "constraint_context": "For the return trip, I hope to choose a train and need to select the cheapest available direct train",
+      "constraint_type": "superlative_cheapest_direct",
+      "inbound_train_no": "D1794"
+    },
+    "hotel_star_service_required": {
+      "constraint_context": "For accommodation, please select a 4-star hotel that provides \"robot room service\"",
+      "constraint_type": "superlative_star_service_required",
+      "hotel_name": "Guilin Convention and Exhibition International Hotel",
+      "required_service": "Robot Service",
+      "hotel_star": 4,
+      "hotel_price": 456
+    },
+    "restaurant_closest_to_attraction": {
+      "constraint_context": "During the trip, please arrange a meal at the restaurant nearest to 'Wood Dragon Lake'.",
+      "constraint_type": "superlative_closest_to_attraction",
+      "attraction_name": "Wood Dragon Lake",
+      "restaurant_name": "Happiness Lane Oil Tea Restaurant (Fuxing Lane Branch)",
+      "price_per_person": 56.0
+    },
+    "restaurant_specific_tag_nearby": {
+      "constraint_context": "Arrange a meal at a restaurant near 'Ten-Mile Gallery' during the trip, with waiting area service required",
+      "constraint_type": "superlative_specific_tag_nearby",
+      "attraction_name": "Ten-Mile Gallery",
+      "restaurant_name": "Encounter Fan Jian Light Stay Restaurant",
+      "required_tag": "Waiting Area",
+      "price_per_person": 52.0,
+      "restaurant_rating": 4.0
+    }
+  }
+}

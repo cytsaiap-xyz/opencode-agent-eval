@@ -1,0 +1,87 @@
+{
+  "required_orders": [
+    {
+      "order_id": "D0806002T001",
+      "order_type": "attraction",
+      "user_id": "U010009",
+      "store_id": "S17557513329986348_A00006",
+      "note": "",
+      "location": null,
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 45,
+      "create_time": "2025-03-20 21:15:27",
+      "update_time": "2025-03-20 21:15:27",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17557513329986348_P00043",
+          "price": 15,
+          "quantity": 3,
+          "date": "2025-03-22",
+          "ticket_type": "Adult Ticket"
+        }
+      ]
+    },
+    {
+      "order_id": "D0806002T002",
+      "order_type": "attraction",
+      "user_id": "U010009",
+      "store_id": "S17557513329986348_A00008",
+      "note": "",
+      "location": null,
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 240,
+      "create_time": "2025-03-18 14:25:30",
+      "update_time": "2025-03-20 21:17:32",
+      "status": "cancelled",
+      "products": [
+        {
+          "product_id": "S17557513329986348_P00066",
+          "price": 120,
+          "quantity": 2,
+          "date": "2025-03-23",
+          "ticket_type": "Adult Ticket"
+        }
+      ]
+    },
+    {
+      "order_id": "D0806002T003",
+      "order_type": "train",
+      "user_id": "U010009",
+      "store_id": "S17557513329986348_T00014",
+      "note": "",
+      "location": null,
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 140,
+      "create_time": "2025-03-10 19:30:15",
+      "update_time": "2025-03-20 21:21:32",
+      "status": "unpaid",
+      "products": [
+        {
+          "product_id": "S17557513329986348_P00128",
+          "price": 28,
+          "quantity": 5,
+          "date": "2025-04-04",
+          "seat_type": "Second Class Seat"
+        }
+      ]
+    }
+  ],
+  "rubrics": [
+    "Checked the weather for Saturday (2025-03-22), which is overcast, so the attraction ticket purchased is for Zhengzhou City God Temple",
+    "The number of tickets purchased is 3",
+    "The type of tickets purchased is Adult Ticket",
+    "The date of the purchased tickets is March 22, 2025",
+    "The order status for the Aquarium tickets purchased the day before yesterday is cancelled",
+    "By checking the calendar, the upcoming holiday is April 4, 2025 (Tomb Sweeping Day), and the train ticket purchase date is April 4, 2025",
+    "The train tickets purchased are from Zhengzhou to Kaifeng",
+    "According to the inquiry, the total train journey takes 28 minutes, which is less than 1 hour, so the tickets purchased are Second Class Seat",
+    "The number of train tickets purchased is 5"
+  ]
+}

@@ -1,0 +1,855 @@
+{
+  "task_id": "A0811006",
+  "domain": "cross_domain",
+  "time": "2024-03-15 15:30:00",
+  "user_id": "U263870",
+  "weather": [
+    {
+      "city": "Chongqing",
+      "category": "cloudy",
+      "datetime": "2024-03-15",
+      "temperature": [
+        12,
+        18
+      ],
+      "humidity": 75
+    }
+  ],
+  "location": [
+    {
+      "address": "ZTO Express Office, 24 Xingsheng Road, Yangjiaping, Jiulongpo District, Chongqing",
+      "longitude": 106.4953,
+      "latitude": 29.5045
+    }
+  ],
+  "user_profile": {
+    "user id": "U263870",
+    "occupation": "Courier",
+    "gender": "female",
+    "age group": "25~30",
+    "residence": "Chongqing",
+    "Permanent address": "Room 503, Unit 2, No. 27 Xijiao Road, Yangjiaping, Jiulongpo District, Chongqing",
+    "work address": "ZTO Express Office, 24 Xingsheng Road, Yangjiaping, Jiulongpo District, Chongqing",
+    "dietary restrictions": "Avoids fish mint herb",
+    "family status": "Has children",
+    "personality": "Tends to be anxious and worried, needs repeated confirmation to feel at ease"
+  },
+  "user_historical_behaviors": {
+    "user id": "U263870",
+    "occupation": "courier",
+    "gender": "female",
+    "age group": "25~30",
+    "residence": "Chongqing",
+    "Permanent address": "Room 503, Unit 2, No. 27 Xijiao Road, Yangjiaping, Jiulongpo District, Chongqing",
+    "work address": "ZTO Express Office, 24 Xingsheng Road, Yangjiaping, Jiulongpo District, Chongqing",
+    "delivery": {
+      "food delivery": {
+        "breakfast": {
+          "frequently purchased categories": [
+            "Quick Meals/Baozi/Pan-fried Buns (Average ¥25)",
+            "Quick Meals/Chongqing Noodles (Average ¥18)",
+            "Quick Meals/Dumplings/Wonton (Average ¥22)"
+          ],
+          "cost per order": "¥15~30",
+          "preferred store rating": "4.2~4.8 stars",
+          "preferred delivery time": "15~25 minutes",
+          "preferred distance": "0~1500m",
+          "recent orders": [
+            {
+              "store": "Old Chongqing Noodles",
+              "product": "Beef Noodles + Tea Egg"
+            },
+            {
+              "store": "Soy Milk & Fried Dough Sticks Shop",
+              "product": "Soy Milk + Xiaolongbao"
+            },
+            {
+              "store": "Shen Dacheng Shengjianbao",
+              "product": "Pork Pan-fried Buns + Soy Milk"
+            }
+          ],
+          "search history": [
+            "noodles",
+            "baozi",
+            "soy milk",
+            "pan-fried buns",
+            "caffeine-free"
+          ]
+        },
+        "weekday lunch/dinner": {
+          "frequently purchased categories": [
+            "Quick Meals/Braised Chicken Rice (Average ¥28)",
+            "Chinese Cuisine/Sichuan Food (Average ¥45)",
+            "Quick Meals/Light Food (Average ¥35)"
+          ],
+          "cost per order": "¥25~50",
+          "preferred store rating": "4.3~4.8 stars",
+          "preferred delivery time": "20~35 minutes",
+          "preferred distance": "0~2500m",
+          "recent orders": [
+            {
+              "store": "Braised Chicken Rice",
+              "product": "Mild Spicy Braised Chicken Rice + Cucumber Salad"
+            },
+            {
+              "store": "Chuanxi Bazi",
+              "product": "Twice-cooked Pork + Rice + Spicy Potato Strips"
+            },
+            {
+              "store": "Light Food Salad",
+              "product": "Quinoa Chicken Breast Salad + Fruit Cup"
+            }
+          ],
+          "search history": [
+            "braised chicken",
+            "light food salad",
+            "Sichuan cuisine",
+            "non-spicy",
+            "healthy meal"
+          ]
+        },
+        "weekend lunch/dinner": {
+          "frequently purchased categories": [
+            "Hot Pot/Sichuan-Chongqing Hot Pot (Average ¥110)",
+            "Chinese Cuisine/Crayfish (Average ¥98)",
+            "International Cuisine/Japanese Bento/Sushi (Average ¥85)"
+          ],
+          "cost per order": "¥80~180",
+          "preferred store rating": "4.5~4.9 stars",
+          "preferred delivery time": "30~45 minutes",
+          "preferred distance": "0~3500m",
+          "recent orders": [
+            {
+              "store": "Shujiuxiang Hot Pot",
+              "product": "Mushroom Soup Base + Beef + Tofu + Vegetable Platter"
+            },
+            {
+              "store": "Xiamantang",
+              "product": "Thirteen Spice Crayfish 1.5 Jin + Garlic Potatoes"
+            },
+            {
+              "store": "Sushi House",
+              "product": "Salmon Sushi Set + Miso Soup"
+            }
+          ],
+          "search history": [
+            "hot pot",
+            "sushi",
+            "crayfish",
+            "couple set meal",
+            "purine-free"
+          ]
+        },
+        "desserts/drinks/snacks": {
+          "frequently purchased categories": [
+            "Beverages & Desserts/Juice (Average ¥22)",
+            "Beverages & Desserts/Fruit Mix (Average ¥32)",
+            "Beverages & Desserts/Chinese Pastries (Average ¥28)"
+          ],
+          "cost per order": "¥18~40",
+          "preferred store rating": "4.4~4.9 stars",
+          "preferred delivery time": "15~30 minutes",
+          "preferred distance": "0~2000m",
+          "recent orders": [
+            {
+              "store": "Fresh Juice",
+              "product": "Mango Coconut Smoothie"
+            },
+            {
+              "store": "Fresh Cut Fruit Mix",
+              "product": "Colorful Fruit Mix + Coconut Milk"
+            },
+            {
+              "store": "Pastry Shop",
+              "product": "Osmanthus Cake + Mung Bean Cake"
+            }
+          ],
+          "search history": [
+            "fresh-squeezed juice",
+            "fruit mix",
+            "caffeine-free drinks",
+            "pastries"
+          ]
+        },
+        "night snack": {
+          "frequently purchased categories": [
+            "Quick Meals/Liuzhou Rice Noodles (Average ¥32)",
+            "BBQ & Fried Food/Fried Chicken (Average ¥45)",
+            "Snacks & Braised Food/Bobo Chicken (Average ¥38)"
+          ],
+          "cost per order": "¥30~55",
+          "preferred store rating": "4.2~4.7 stars",
+          "preferred delivery time": "25~40 minutes",
+          "preferred distance": "0~2500m",
+          "recent orders": [
+            {
+              "store": "Liuzhou Rice Noodles",
+              "product": "Signature Rice Noodles + Braised Egg"
+            },
+            {
+              "store": "Fried Chicken Workshop",
+              "product": "Korean Fried Chicken + French Fries"
+            },
+            {
+              "store": "Bashu Bobo Chicken",
+              "product": "Mild Spicy Bobo Chicken Platter"
+            }
+          ],
+          "search history": [
+            "rice noodles",
+            "fried chicken",
+            "bobo chicken",
+            "non-spicy",
+            "night snack"
+          ]
+        }
+      },
+      "product delivery": {
+        "frequently purchased categories": [
+          "Vegetables/Tofu Products (28%)",
+          "Fruits (22%)",
+          "Household Items (15%)",
+          "Flowers & Gardening (12%)",
+          "Personal Care (10%)",
+          "Grains/Oil/Seasonings/Dry Goods (8%)",
+          "Others (5%)"
+        ],
+        "frequently visited stores": [
+          "Yonghui Superstores at Longhu North Paradise Walk (45%)",
+          "Carrefour Jiefangbei (30%)",
+          "Chongqing Good Neighbor Convenience Store (15%)",
+          "Other Stores (10%)"
+        ],
+        "cost per order by category": {
+          "Vegetables/Tofu Products": "¥5~25",
+          "Fruits": "¥10~40",
+          "Household Items": "¥15~50",
+          "Flowers & Gardening": "¥30~100",
+          "Personal Care": "¥20~80",
+          "Grains/Oil/Seasonings/Dry Goods": "¥8~30"
+        },
+        "preferred delivery time": "30~60 minutes",
+        "typical order time": "6-8 PM (35%), 10 AM-12 PM (25%), 8-10 PM (18%)",
+        "recent orders": [
+          {
+            "store": "Yonghui Superstores at Longhu North Paradise Walk",
+            "product": "Organic Vegetable Set + 2 Avocados"
+          },
+          {
+            "store": "Carrefour Jiefangbei",
+            "product": "Shampoo + Shower Gel Set"
+          },
+          {
+            "store": "Floral Life Shop",
+            "product": "Potted Plants + Care Kit"
+          }
+        ],
+        "search history": [
+          "organic vegetables",
+          "fruits",
+          "shampoo",
+          "plants",
+          "kitchen cleaning",
+          "caffeine-free"
+        ]
+      }
+    },
+    "in-store consumption": {
+      "in-store dining": {
+        "fine-dining": {
+          "frequently consumed categories": [
+            "Regional Cuisine/Sichuan Cuisine (Average ¥85)",
+            "Regional Cuisine/Specialty Dishes (Average ¥95)",
+            "Hot Pot (Average ¥120)"
+          ],
+          "preferred average price per person": "¥80~120",
+          "preferred store rating": "4.2~4.7 stars",
+          "typical dining time": "6:30 PM-8:00 PM",
+          "preferred distance": "500~2000m",
+          "recent orders": [
+            {
+              "store": "Bashu General Hot Pot",
+              "product": "Mild Spicy Split Pot + Beef Platter"
+            },
+            {
+              "store": "Jiulong Sichuan Restaurant",
+              "product": "Boiled Fish + Dry-fried String Beans"
+            },
+            {
+              "store": "Little Swan Hot Pot",
+              "product": "Clear Broth Base + Shrimp Paste + Beef"
+            }
+          ],
+          "search history": [
+            "non-spicy Sichuan cuisine",
+            "mild hot pot",
+            "family-friendly restaurant",
+            "suitable for family gatherings"
+          ]
+        },
+        "light meal": {
+          "frequently consumed categories": [
+            "Quick Meals/Chinese Fast Food (Average ¥25)",
+            "Quick Meals/Western Fast Food (Average ¥35)",
+            "Regional Cuisine/Other Regional Cuisine (Average ¥30)"
+          ],
+          "preferred average price per person": "¥20~40",
+          "preferred store rating": "3.5~4.3 stars",
+          "typical dining time": "11:30 AM-12:30 PM",
+          "preferred distance": "100~500m",
+          "recent orders": [
+            {
+              "store": "Yang Mingyu Braised Chicken Rice",
+              "product": "Mild Spicy Braised Chicken Rice"
+            },
+            {
+              "store": "Yonghe King",
+              "product": "Fresh Vegetable Soy Milk + Scallion Pancake"
+            },
+            {
+              "store": "Sha County Snacks",
+              "product": "Three Delicacies Soup + Noodles"
+            }
+          ],
+          "search history": [
+            "fast food",
+            "bento",
+            "non-spicy fast food",
+            "affordable lunch"
+          ]
+        },
+        "desserts/drinks/snacks": {
+          "frequently consumed categories": [
+            "Beverage Shops (Average ¥18)",
+            "Bread & Pastries (Average ¥25)",
+            "Other Dining/Fruits & Fresh Food (Average ¥15)"
+          ],
+          "preferred average price per person": "¥15~30",
+          "preferred store rating": "3.8~4.5 stars",
+          "typical dining time": "3:00 PM-4:30 PM",
+          "preferred distance": "0~300m",
+          "recent orders": [
+            {
+              "store": "Yi Dian Dian Milk Tea",
+              "product": "Low-sugar Pearl Milk Tea"
+            },
+            {
+              "store": "85°C",
+              "product": "Cheese Cake + Americano"
+            },
+            {
+              "store": "Fruit Colorful",
+              "product": "Fruit Platter"
+            }
+          ],
+          "search history": [
+            "low-sugar milk tea",
+            "low-calorie desserts",
+            "children's desserts",
+            "healthy beverages"
+          ]
+        }
+      },
+      "other in-store services": {
+        "frequently consumed categories": {
+          "Beauty/Hair Salon": "30%",
+          "Parent-Child/Children's Entertainment": "40%",
+          "Leisure Entertainment/Massage/Foot Therapy": "20%",
+          "Beauty/Nail Care": "10%"
+        },
+        "cost per order by category": {
+          "Beauty/Hair Salon": "¥80~150",
+          "Parent-Child/Children's Entertainment": "¥100~200",
+          "Leisure Entertainment/Massage/Foot Therapy": "¥120~180",
+          "Beauty/Nail Care": "¥60~120"
+        },
+        "preferred store rating": "4.0~4.8 stars",
+        "preferred service time": "Weekends 10:00 AM-4:00 PM",
+        "preferred distance": "0~3000m",
+        "recent orders": [
+          {
+            "store": "Love & Fun Children's Playground",
+            "product": "Parent-Child Package (1 Adult + 1 Child)"
+          },
+          {
+            "store": "Latent Professional Acne Treatment",
+            "product": "Deep Cleansing Treatment"
+          },
+          {
+            "store": "Zadorn",
+            "product": "Shoulder and Neck Relaxation Massage"
+          }
+        ],
+        "search history": [
+          "children's playground",
+          "children's entertainment",
+          "affordable haircut",
+          "foot massage deals"
+        ]
+      }
+    },
+    "OTA": {
+      "visited scenes": {
+        "Theme Parks": "35%",
+        "Parks": "25%",
+        "Natural Landscapes (Mountains/Lakes/Forests)": "20%",
+        "Historical Sites": "10%",
+        "Special Villages/Industrial Tourism/Uncategorized": "10%"
+      },
+      "cost per night on hotel": "¥300~500",
+      "visited hotels": {
+        "Home Inn": "30%",
+        "Hanting": "25%",
+        "7 Days Inn": "20%",
+        "Jinjiang Inn": "15%",
+        "GreenTree Inn": "10%"
+      },
+      "browsed hotels": {
+        "3-Star Hotels": "40%",
+        "Budget Hotels": "35%",
+        "Comfort Hotels": "25%"
+      },
+      "historical travel plans": {
+        "Chongqing-Chengdu": {
+          "Price range": "¥150-250",
+          "Transportation method": "High-speed Rail/EMU"
+        },
+        "Chongqing-Guiyang": {
+          "Price range": "¥200-300",
+          "Transportation method": "High-speed Rail/EMU"
+        },
+        "Chongqing-Wulong": {
+          "Price range": "¥80-120",
+          "Transportation method": "Long-distance Bus"
+        },
+        "Chongqing-Beijing": {
+          "Price range": "¥800-1200",
+          "Transportation method": "Flight"
+        },
+        "Chongqing-Changsha": {
+          "Price range": "¥300-500",
+          "Transportation method": "High-speed Rail/EMU"
+        },
+        "Chengdu-Chongqing": {
+          "Price range": "¥150-250",
+          "Transportation method": "High-speed Rail/EMU"
+        },
+        "Guiyang-Chongqing": {
+          "Price range": "¥200-300",
+          "Transportation method": "High-speed Rail/EMU"
+        },
+        "Wulong-Chongqing": {
+          "Price range": "¥80-120",
+          "Transportation method": "Long-distance Bus"
+        },
+        "Beijing-Chongqing": {
+          "Price range": "¥800-1200",
+          "Transportation method": "Flight"
+        },
+        "Changsha-Chongqing": {
+          "Price range": "¥300-500",
+          "Transportation method": "High-speed Rail/EMU"
+        }
+      }
+    }
+  },
+  "stores": {
+    "S17550809912564224_S00001": {
+      "name": "Tongxing Convenience Store",
+      "store_id": "S17550809912564224_S00001",
+      "score": 4.8,
+      "location": {
+        "address": "Tongxing Convenience Store, 45 Pedestrian Street, Yangjiaping, Jiulongpo District, Chongqing",
+        "latitude": 29.7048,
+        "longitude": 106.6942
+      },
+      "tags": [
+        "Pharmacy",
+        "Health Supplements",
+        "Fast Delivery"
+      ],
+      "store_type": "target",
+      "products": [
+        {
+          "name": "Nin Jiom Loquat Throat Candy (Original Flavor)",
+          "store_id": "S17550809912564224_S00001",
+          "store_name": "Tongxing Convenience Store",
+          "price": 15.8,
+          "tags": [
+            "Throat Lozenges",
+            "Sore Throat Relief",
+            "Fast Delivery",
+            "Singing Essentials",
+            "Original Flavor"
+          ],
+          "product_id": "S17550809912564224_P00001",
+          "attributes": [],
+          "product_type": "target"
+        },
+        {
+          "name": "Throat Lozenges (Monk Fruit Flavor)",
+          "store_id": "S17550809912564224_S00001",
+          "store_name": "Tongxing Convenience Store",
+          "price": 12.5,
+          "tags": [
+            "Throat Lozenges",
+            "Monk Fruit",
+            "Cooling",
+            "Sore Throat Relief",
+            "Fast Delivery"
+          ],
+          "product_id": "S17550809912564224_P00002",
+          "attributes": [],
+          "product_type": "target"
+        },
+        {
+          "name": "Golden Throat Lozenges",
+          "store_id": "S17550809912564224_S00001",
+          "store_name": "Tongxing Convenience Store",
+          "price": 18.9,
+          "tags": [
+            "Throat Soothing",
+            "Throat Care",
+            "Singing Essentials",
+            "Fast Delivery"
+          ],
+          "product_id": "S17550809912564224_P00003",
+          "attributes": [],
+          "product_type": "target"
+        },
+        {
+          "name": "American Ginseng Lozenges",
+          "store_id": "S17550809912564224_S00001",
+          "store_name": "Tongxing Convenience Store",
+          "price": 32.5,
+          "tags": [
+            "Nourishing",
+            "Health Supplements",
+            "Health Preservation",
+            "Throat Soothing"
+          ],
+          "product_id": "S17550809912564224_P00004",
+          "attributes": [],
+          "product_type": "distraction"
+        },
+        {
+          "name": "Cold & Fever Relief Granules",
+          "store_id": "S17550809912564224_S00001",
+          "store_name": "Tongxing Convenience Store",
+          "price": 25.8,
+          "tags": [
+            "Cold Medicine",
+            "Heat-Clearing and Detoxifying",
+            "Prescription Medicine"
+          ],
+          "product_id": "S17550809912564224_P00005",
+          "attributes": [],
+          "product_type": "distraction"
+        }
+      ]
+    },
+    "S17550809912564224_S00002": {
+      "name": "Watsons Convenience Store",
+      "store_id": "S17550809912564224_S00002",
+      "score": 4.6,
+      "location": {
+        "address": "Watsons Convenience Store, 2nd Floor, Longhu Paradise Walk A, Yangjiaping, Jiulongpo District, Chongqing",
+        "latitude": 29.5056,
+        "longitude": 106.4925
+      },
+      "tags": [
+        "Convenience Store",
+        "Personal Care",
+        "Next-Day Delivery"
+      ],
+      "store_type": "target",
+      "products": [
+        {
+          "name": "Golden Throat Lozenges (Original Flavor)",
+          "store_id": "S17550809912564224_S00002",
+          "store_name": "Watsons Convenience Store",
+          "price": 15.9,
+          "tags": [
+            "Throat Lozenges",
+            "Sore Throat Relief",
+            "Singing Essentials",
+            "Fast Delivery"
+          ],
+          "product_id": "S17550809912564224_P00006",
+          "attributes": [],
+          "product_type": "target"
+        },
+        {
+          "name": "Watermelon Frost Throat Lozenges (Cooling Type)",
+          "store_id": "S17550809912564224_S00002",
+          "store_name": "Watsons Convenience Store",
+          "price": 18.5,
+          "tags": [
+            "Throat Lozenges",
+            "Cool Comfort",
+            "Throat Pain Relief",
+            "KTV Essentials"
+          ],
+          "product_id": "S17550809912564224_P00007",
+          "attributes": [],
+          "product_type": "target"
+        },
+        {
+          "name": "Houfen Dispersion Compound",
+          "store_id": "S17550809912564224_S00002",
+          "store_name": "Watsons Convenience Store",
+          "price": 32.8,
+          "tags": [
+            "Chinese Medicine Preparation",
+            "Sore Throat",
+            "Throat Discomfort"
+          ],
+          "product_id": "S17550809912564224_P00008",
+          "attributes": [],
+          "product_type": "distraction"
+        },
+        {
+          "name": "Mint Candy (Fresh Breath)",
+          "store_id": "S17550809912564224_S00002",
+          "store_name": "Watsons Convenience Store",
+          "price": 9.9,
+          "tags": [
+            "Mint Candy",
+            "Fresh Breath",
+            "Portable Package"
+          ],
+          "product_id": "S17550809912564224_P00009",
+          "attributes": [],
+          "product_type": "distraction"
+        },
+        {
+          "name": "Aloe Moisturizing Mask",
+          "store_id": "S17550809912564224_S00002",
+          "store_name": "Watsons Convenience Store",
+          "price": 22.5,
+          "tags": [
+            "Face Mask",
+            "Moisturizing",
+            "Skincare Products"
+          ],
+          "product_id": "S17550809912564224_P00010",
+          "attributes": [],
+          "product_type": "distraction"
+        }
+      ]
+    },
+    "S17550809912564224_S00003": {
+      "name": "24-Hour Convenience Store",
+      "store_id": "S17550809912564224_S00003",
+      "score": 4.5,
+      "location": {
+        "address": "24-Hour Convenience Store, 18 Xingsheng Road, Yangjiaping, Jiulongpo District, Chongqing",
+        "latitude": 29.5047,
+        "longitude": 106.4955
+      },
+      "tags": [
+        "Convenience Store",
+        "Snacks",
+        "Drinks"
+      ],
+      "store_type": "target",
+      "products": [
+        {
+          "name": "Golden Throat Lozenges",
+          "store_id": "S17550809912564224_S00003",
+          "store_name": "24-Hour Convenience Store",
+          "price": 15.9,
+          "tags": [
+            "Throat Lozenges",
+            "Sore Throat",
+            "KTV Essentials",
+            "Quick Relief"
+          ],
+          "product_id": "S17550809912564224_P00011",
+          "attributes": [
+            "Original Flavor"
+          ],
+          "product_type": "target"
+        },
+        {
+          "name": "Watermelon Frost Spray",
+          "store_id": "S17550809912564224_S00003",
+          "store_name": "24-Hour Convenience Store",
+          "price": 18.5,
+          "tags": [
+            "Ulcer Treatment Specialist",
+            "Cooling",
+            "Anti-inflammatory"
+          ],
+          "product_id": "S17550809912564224_P00012",
+          "attributes": [
+            "Cooling Type",
+            "Strong Type"
+          ],
+          "product_type": "target"
+        },
+        {
+          "name": "Vitamin C Throat Soothing Drink",
+          "store_id": "S17550809912564224_S00003",
+          "store_name": "24-Hour Convenience Store",
+          "price": 6.5,
+          "tags": [
+            "Vitamin C",
+            "Immune Enhancement",
+            "Sweet and Sour Flavor"
+          ],
+          "product_id": "S17550809912564224_P00014",
+          "attributes": [
+            "Lemon Flavor",
+            "Orange Flavor"
+          ],
+          "product_type": "target"
+        },
+        {
+          "name": "Chrysanthemum Throat Soothing Tea Bags",
+          "store_id": "S17550809912564224_S00003",
+          "store_name": "24-Hour Convenience Store",
+          "price": 22.9,
+          "tags": [
+            "Throat Soothing Tea",
+            "Heat-Clearing and Detoxifying",
+            "Herbal Tea",
+            "Tea Brewing"
+          ],
+          "product_id": "S17550809912564224_P00015",
+          "attributes": [
+            "Chrysanthemum Flavor",
+            "Chrysanthemum Honey Flavor"
+          ],
+          "product_type": "distraction"
+        }
+      ]
+    },
+    "S17550809912564224_S00004": {
+      "name": "Mr. Seahorse",
+      "store_id": "S17550809912564224_S00004",
+      "score": 4.7,
+      "location": {
+        "address": "Mr. Seahorse, 32 Commercial Street, Yangjiaping, Jiulongpo District, Chongqing",
+        "latitude": 29.7052,
+        "longitude": 106.7938
+      },
+      "tags": [
+        "Daily Necessities",
+        "Health Supplements"
+      ],
+      "store_type": "distraction",
+      "products": [
+        {
+          "name": "Nin Jiom Throat Candy (Honey Lemon Flavor)",
+          "store_id": "S17550809912564224_S00004",
+          "store_name": "Mr. Seahorse",
+          "price": 29.8,
+          "tags": [
+            "Throat Lozenges",
+            "Throat Pain Relief",
+            "Singing Essentials",
+            "Hot Selling"
+          ],
+          "product_id": "S17550809912564224_P00016",
+          "attributes": [],
+          "product_type": "distraction"
+        },
+        {
+          "name": "Golden Throat Tablets",
+          "store_id": "S17550809912564224_S00004",
+          "store_name": "Mr. Seahorse",
+          "price": 18.5,
+          "tags": [
+            "Throat Soothing",
+            "Heat-Clearing and Detoxifying",
+            "Singing Protection",
+            "Hot Selling"
+          ],
+          "product_id": "S17550809912564224_P00017",
+          "attributes": [],
+          "product_type": "distraction"
+        },
+        {
+          "name": "Watermelon Frost Throat Lozenges",
+          "store_id": "S17550809912564224_S00004",
+          "store_name": "Mr. Seahorse",
+          "price": 15.9,
+          "tags": [
+            "Cool Throat Relief",
+            "Watermelon Flavor",
+            "Singing Essentials",
+            "Anti-inflammatory"
+          ],
+          "product_id": "S17550809912564224_P00018",
+          "attributes": [],
+          "product_type": "distraction"
+        },
+        {
+          "name": "Runshutang Mint Throat Lozenges",
+          "store_id": "S17550809912564224_S00004",
+          "store_name": "Mr. Seahorse",
+          "price": 22.8,
+          "tags": [
+            "Mint Flavor",
+            "Cool Throat Relief",
+            "Throat Pain",
+            "KTV Essentials"
+          ],
+          "product_id": "S17550809912564224_P00019",
+          "attributes": [],
+          "product_type": "distraction"
+        },
+        {
+          "name": "Johnson & Johnson Herbal Throat Lozenges",
+          "store_id": "S17550809912564224_S00004",
+          "store_name": "Mr. Seahorse",
+          "price": 32.5,
+          "tags": [
+            "Herbal Formula",
+            "Long-lasting Throat Relief",
+            "Singing Protection",
+            "Imported"
+          ],
+          "product_id": "S17550809912564224_P00020",
+          "attributes": [],
+          "product_type": "distraction"
+        }
+      ]
+    }
+  },
+  "orders": {
+    "S17550809912564224_O00001": {
+      "order_id": "S17550809912564224_O00001",
+      "order_type": "delivery",
+      "user_id": "U263870",
+      "store_id": "S17550809912564224_S00003",
+      "total_price": 15.9,
+      "create_time": "2024-03-15 15:35:22",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17550809912564224_P00011",
+          "price": 15.9,
+          "quantity": 1
+        }
+      ]
+    },
+    "S17550809912564224_O00003": {
+      "order_id": "S17550809912564224_O00003",
+      "order_type": "instore",
+      "user_id": "U263870",
+      "store_id": "S17550809912564224_I00010",
+      "total_price": 428.0,
+      "create_time": "2024-03-15 15:45:36",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17550809912564224_P00055",
+          "price": 428.0,
+          "quantity": 1
+        }
+      ]
+    }
+  }
+}

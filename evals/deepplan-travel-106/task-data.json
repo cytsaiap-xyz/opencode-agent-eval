@@ -1,0 +1,50 @@
+{
+  "task_id": "105",
+  "query": "I plan to travel from Jinan to Chengdu on November 12, 2025, and return after sightseeing until November 18. I'd like you to help me plan the entire trip, including transportation, accommodation, dining, and sightseeing arrangements. The total budget for this trip should be within 8000 yuan.\n\nFor transportation, I’d prefer to take a flight for the outbound journey—ideally a direct flight. Please check which flight has the lowest fare, and just book the cheapest one. Regarding accommodation, I’d like to stay somewhere comfortable, so could you please find me a hotel that was renovated in 2024 or later? By the way, there are two of us traveling, so we only need to book one room.\n\nAs for meals, could you arrange one dinner at a restaurant near 'People's Park'? We’re looking for the option with the lowest average spending per person—somewhere simple where we can try local specialties. Also, when visiting the 'Sichuan Museum', please arrange a meal as well. I’ve heard there are many restaurants featured on must-eat lists nearby; please pick one ranked in the top ten and make the reservation.\n\nThat’s basically all I need. I’ve shared my requirements for transportation, accommodation, and dining—please go ahead and prepare the full itinerary for me! November 12, 2025 is Wednesday",
+  "meta_info": {
+    "org": "Jinan",
+    "dest": [
+      "Chengdu"
+    ],
+    "days": 7,
+    "depart_date": "2025-11-12",
+    "return_date": "2025-11-18",
+    "people_number": 2,
+    "room_number": 1
+  },
+  "hard_constraints": {
+    "flight_cheapest_direct": {
+      "constraint_context": "Prefer to take a flight for the outbound journey, and need to select the cheapest flight among direct flights",
+      "constraint_type": "superlative_cheapest_direct",
+      "outbound_flight_no": "9C7535"
+    },
+    "hotel_newest_decoration": {
+      "constraint_context": "Please select hotels that were renovated in 2024 or later",
+      "constraint_type": "superlative_newest_decoration",
+      "hotel_name": "Hanting Hotel (Chengdu Taikoo Li Chunxi Road Pedestrian Street Branch)",
+      "hotel_price": 335.0,
+      "hotel_score": 4.5,
+      "decoration_time": 2025,
+      "year_threshold": 2024
+    },
+    "restaurant_cheapest_nearby_attraction": {
+      "constraint_context": "During the trip, please arrange a meal at the cheapest restaurant near 'People's Park' per person.",
+      "constraint_type": "superlative_cheapest_nearby_attraction",
+      "attraction_name": "People's Park",
+      "restaurant_name": "Ding Tai Po Authentic Old Mama Pig Trotters Shop (East Chenggen South Street Branch)",
+      "price_per_person": 29.0
+    },
+    "restaurant_specific_tag_nearby": {
+      "constraint_context": "Arrange a meal at a restaurant near 'Sichuan Museum' during the trip, with service required to be among the Top 10 on the Must-Eat List",
+      "constraint_type": "superlative_specific_tag_nearby",
+      "attraction_name": "Sichuan Museum",
+      "restaurant_name": "Huanhua Jinxiu",
+      "required_tag": "Must-Eat Top 10",
+      "price_per_person": 240.0,
+      "restaurant_rating": 4.6
+    },
+    "budget_constraint": {
+      "max_budget": 8000
+    }
+  }
+}

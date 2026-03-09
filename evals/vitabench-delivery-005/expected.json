@@ -1,0 +1,68 @@
+{
+  "required_orders": [
+    {
+      "order_id": "10715002T01",
+      "order_type": "delivery",
+      "user_id": "U000086",
+      "store_id": "S25199488126977541_S02748",
+      "note": "",
+      "location": {
+        "address": "Huixin Cultural Office, 1st Floor, Hengqin Innovation Way, No. 111 Tianyu Road, Xiangzhou District, Zhuhai City, Guangdong Province",
+        "longitude": 113.517995,
+        "latitude": 22.122866
+      },
+      "dispatch_time": "2025-02-14 18:15:00",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 30,
+      "create_time": "2025-02-14 18:05:00",
+      "update_time": "2025-02-14 18:05:00",
+      "status": "in-progress",
+      "products": [
+        {
+          "product_id": "S28500154039512110_P18362",
+          "price": 30,
+          "quantity": 1,
+          "attributes": "Rice Noodles"
+        }
+      ]
+    },
+    {
+      "order_id": "10715002T02",
+      "order_type": "delivery",
+      "user_id": "U000086",
+      "store_id": "S65127841099095198_S44679",
+      "note": "",
+      "location": {
+        "address": "Huafa Shoufu, South Side of Gang'ao Avenue, Xiangzhou District, Zhuhai City, Guangdong Province",
+        "longitude": 113.528684,
+        "latitude": 22.13711
+      },
+      "dispatch_time": "2025-02-14 18:18:00",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 24,
+      "create_time": "2025-02-14 18:09:00",
+      "update_time": "2025-02-14 18:09:00",
+      "status": "in-progress",
+      "products": [
+        {
+          "product_id": "S85468248976555661_P76180",
+          "price": 24,
+          "quantity": 1,
+          "attributes": "Hot"
+        }
+      ]
+    }
+  ],
+  "rubrics": [
+    "The delivery address for the beef ball rice noodle order should be Huixin Cultural Office, 1st Floor, Hengqin Innovation Way, No. 111 Tianyu Road, Xiangzhou District, Zhuhai City, Guangdong Province",
+    "The estimated delivery time for the beef ball rice noodle order should be around 18:30 on February 14, 2025",
+    "The beef balls selected in the beef ball rice noodle order should be freshly hand-pounded, and this feature should be reflected in the product label or description",
+    "The delivery address for the dessert order should be Huafa Shoufu, South Side of Gang'ao Avenue, Xiangzhou District, Zhuhai City, Guangdong Province",
+    "The estimated delivery time for the dessert order should be between 18:15 and 18:30 on February 14, 2025",
+    "A reliable dessert shop should be ordered from, typically characterized by high ratings, Chain Store guarantee, and Authentic flavors",
+    "The product selected in the dessert order should contain taro paste elements, which should be reflected in the product name or description",
+    "The ordered dessert should not be cold"
+  ]
+}

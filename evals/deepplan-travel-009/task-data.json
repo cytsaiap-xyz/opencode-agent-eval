@@ -1,0 +1,42 @@
+{
+  "task_id": "8",
+  "query": "I'm planning a two-day trip from Zhuhai to Guangzhou on November 12, 2025, and returning on the 13th. Could you help me plan the itinerary? I'd like to set off early, so please check for me the earliest direct train for the outbound journey. For the return trip, just pick a convenient time.\n\nFor accommodation, I’d like to book a five-star hotel, but my budget is limited—so just choose the most affordable option available. I’ll be staying in a single room.\n\nRegarding meals, I have two small requests. First, I want to visit the 'Museum of the Nanyue King (Palace Exhibition Area)', and after sightseeing, I’d like to have lunch nearby—please find me the cheapest restaurant in that area with the lowest average spending per person. Second, I’ve heard that the 'Zhou Zhi Ji Tea Restaurant (Guangren Road Branch)' is quite famous, and I definitely want to try it during this trip—please include it in the plan.\n\nThose are all my requirements. Could you please help me work out a detailed itinerary and budget? Just provide me with a complete plan—thanks! November 12, 2025 is Wednesday",
+  "meta_info": {
+    "org": "Zhuhai",
+    "dest": [
+      "Guangzhou"
+    ],
+    "days": 2,
+    "depart_date": "2025-11-12",
+    "return_date": "2025-11-13",
+    "people_number": 1,
+    "room_number": 1
+  },
+  "hard_constraints": {
+    "train_earliest_departure_direct": {
+      "constraint_context": "Please help me choose the earliest departure direct train for the outbound journey",
+      "constraint_type": "superlative_earliest_departure",
+      "outbound_train_no": "C7698"
+    },
+    "hotel_cheapest_star": {
+      "constraint_context": "Please select the cheapest hotel among the 5-star hotels",
+      "constraint_type": "superlative_cheapest_star",
+      "hotel_name": "Guangzhou Xiangxue International Hotel Apartment (Baoneng Performing Arts Center Branch)",
+      "hotel_star": 5,
+      "hotel_price": 307.0
+    },
+    "restaurant_cheapest_nearby_attraction": {
+      "constraint_context": "During the trip, please arrange a meal at the cheapest restaurant near 'Museum of the Nanyue King (Palace Exhibition Area)'",
+      "constraint_type": "superlative_cheapest_nearby_attraction",
+      "attraction_name": "Museum of the Nanyue King (Palace Exhibition Area)",
+      "restaurant_name": "Jingbao Restaurant · Established 1994",
+      "price_per_person": 32.0
+    },
+    "restaurant_must_eat_named": {
+      "constraint_context": "The itinerary must include one meal at 'Zhou Zhi Ji Tea Restaurant (Guangren Road Branch)'.",
+      "constraint_type": "superlative_must_eat_named",
+      "restaurant_name": "Zhou Zhi Ji Tea Restaurant (Guangren Road Branch)",
+      "restaurant_rating": 4.3
+    }
+  }
+}

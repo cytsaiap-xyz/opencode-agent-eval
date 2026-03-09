@@ -1,0 +1,75 @@
+{
+  "required_orders": [
+    {
+      "order_id": "10826009T001",
+      "order_type": "instore",
+      "user_id": "U840543",
+      "store_id": "S17564420246412321_I00001",
+      "note": "",
+      "location": null,
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 528,
+      "create_time": "2024-08-24 14:33:00",
+      "update_time": "2024-08-24 14:33:00",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17564420246412321_P00001",
+          "name": "Large private room 6-hour package",
+          "price": 528,
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "reservation_id": "10826009T002",
+      "shop_id": "S17564420246412321_I00001",
+      "reservation_time": "2024-08-24 16:00:00",
+      "update_time": "2024-08-24 14:34:00",
+      "customer_id": "U840543",
+      "customer_count": 4,
+      "status": "paid"
+    },
+    {
+      "order_id": "10826009T003",
+      "order_type": "instore",
+      "user_id": "U840543",
+      "store_id": "S17564420246412321_I00002",
+      "note": "",
+      "location": null,
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 268,
+      "create_time": "2024-08-24 14:35:00",
+      "update_time": "2024-08-24 14:35:00",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17564420246412321_P00005",
+          "name": "BBQ set menu for four",
+          "price": 268,
+          "quantity": 1
+        }
+      ]
+    }
+  ],
+  "rubrics": [
+    "The mahjong venue must have a good environment",
+    "The mahjong venue facilities must be relatively new",
+    "The mahjong venue cannot be located in a residential area",
+    "The mahjong venue must be Full self-service style",
+    "The mahjong package ordered should not include tea and snacks",
+    "The mahjong venue order must be a 6-hour private room package",
+    "The mahjong venue reservation time must be August 24, 2024 at 4 PM",
+    "The number of people for the mahjong venue reservation should be 4",
+    "The reserved mahjong venue should be Shangya Card & Chess Club",
+    "The BBQ restaurant ordered must be an established venue with at least five years of operation, opened before 2019",
+    "The BBQ restaurant ordered should be within 500m (including 500m) of Laojiekou BBQ, 156 Financial Second Street, Taihu New Town, Binhu District, Wuxi",
+    "The BBQ restaurant ordered must be open until 3:00 AM (including 3:00 AM)",
+    "The BBQ restaurant order should be a Set menu for four",
+    "The BBQ restaurant order should cost no more than 80 yuan per person, with a total order amount not exceeding 320 yuan"
+  ]
+}

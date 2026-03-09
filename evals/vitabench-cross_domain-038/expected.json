@@ -1,0 +1,96 @@
+{
+  "required_orders": [
+    {
+      "order_id": "OO21f033eaf6",
+      "order_type": "train",
+      "user_id": "U536682",
+      "store_id": "S17550809417136210_T00006",
+      "note": "",
+      "location": null,
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 183,
+      "create_time": "2025-08-24 09:15:28",
+      "update_time": "2025-08-24 09:15:28",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17550809417136210_P00030",
+          "price": 183,
+          "quantity": 1,
+          "date": "2025-08-25",
+          "seat_type": "Second Class Seat"
+        }
+      ]
+    },
+    {
+      "order_id": "OIb192a86a68",
+      "order_type": "instore",
+      "user_id": "U536682",
+      "store_id": "S17550809417136210_I00012",
+      "note": "",
+      "location": null,
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 99,
+      "create_time": "2025-08-24 09:17:41",
+      "update_time": "2025-08-24 09:17:41",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17550809417136210_P00058",
+          "price": 99,
+          "quantity": 1,
+          "name": "Korean Style Four-Grid + Polaroid Package",
+          "shop_id": "S17550809417136210_I00012",
+          "tags": [
+            "Korean Style Photo Booth Stickers",
+            "Commemorative Photo",
+            "Friends Group Photo"
+          ]
+        }
+      ]
+    },
+    {
+      "order_id": "OO584e142bdd",
+      "order_type": "hotel",
+      "user_id": "U536682",
+      "store_id": "S17550809417136210_H00001",
+      "note": "",
+      "location": null,
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 450,
+      "create_time": "2025-08-24 09:21:36",
+      "update_time": "2025-08-24 09:21:36",
+      "status": "unpaid",
+      "products": [
+        {
+          "product_id": "S17550809417136210_P00006",
+          "price": 450,
+          "quantity": 1,
+          "date": "2025-08-25",
+          "room_type": "Standard King Room"
+        }
+      ]
+    }
+  ],
+  "rubrics": [
+    "The train ticket booked should be from Suzhou to Lianyungang",
+    "The selected train should be the one with shortest travel time (select G2878, total duration 2 hours 38 minutes, shortest time)",
+    "The departure date of the selected train should be August 25, 2025",
+    "The arrival time of the selected train should be in the morning",
+    "The train ticket purchased should be Second Class Seat",
+    "The photo studio purchase should include Four-Grid Photo Booth Stickers",
+    "The photo studio purchase should include Polaroid photo shooting",
+    "The photo studio products should have Korean Style",
+    "The photo studio products should be cost-effective, query shows that Korean Style Four-Grid + Polaroid Package offers the best value",
+    "The hotel booked should be four-star or above",
+    "The booked hotel should be in downtown Lianyungang",
+    "The room type booked should be Standard King Room",
+    "The hotel booking date should be August 25, 2025"
+  ]
+}

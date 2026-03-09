@@ -1,0 +1,924 @@
+{
+  "task_id": "10804001",
+  "domain": "cross_domain",
+  "time": "2025-08-10 18:23:00",
+  "user_id": "U001005",
+  "weather": [
+    {
+      "city": "Nanjing",
+      "category": "sunny",
+      "datetime": "2025-08-10",
+      "temperature": [
+        26,
+        34
+      ],
+      "humidity": 65
+    },
+    {
+      "city": "Qinhuangdao",
+      "category": "sunny",
+      "datetime": "2025-08-20",
+      "temperature": [
+        24,
+        32
+      ],
+      "humidity": 60
+    }
+  ],
+  "location": [],
+  "user_profile": {
+    "user id": "U001005",
+    "occupation": "Fitness trainer",
+    "gender": "male",
+    "age group": "25~30",
+    "residence": "Nanjing",
+    "Permanent address": "Room 1403, Building 2, Jade Valley Garden, 29 Dingshu Road, Yuhuatai District, Nanjing, Jiangsu Province",
+    "work address": "Super Monkey Fitness Studio, G Floor, Golden Eagle World, 99 Fuchunjiang East Street, Jianye District, Nanjing",
+    "dietary restrictions": "No high sugar, no fried food",
+    "family status": "In a relationship",
+    "personality": "Impatient, frequently rushes things, lacks patience for processes"
+  },
+  "user_historical_behaviors": {
+    "user id": "U001005",
+    "occupation": "fitness coach",
+    "gender": "male",
+    "age group": "25~30",
+    "residence": "Nanjing",
+    "home address": "Room 1403, Building 2, Jade Valley Garden, 29 Dingshu Road, Yuhuatai District, Nanjing, Jiangsu Province",
+    "work address": "Super Monkey Fitness Studio, G Floor, Golden Eagle World, 99 Fuchunjiang East Street, Jianye District, Nanjing",
+    "Takeout scenario": {
+      "food delivery": {
+        "breakfast": {
+          "frequently purchased categories": [
+            "Quick meals/Buns/Pan-fried buns (average 22 yuan)",
+            "Quick meals/Dumplings/Wonton (average 25 yuan)",
+            "Quick meals/Light food (average 32 yuan)"
+          ],
+          "cost per order": "15~35 yuan",
+          "preferred store rating": "4.5~4.8 stars",
+          "preferred delivery time": "15~25 minutes",
+          "preferred distance": "0~1500m",
+          "recent orders": [
+            {
+              "store": "Fresh Pan-fried Buns (Jinlun Store)",
+              "product": "Signature Three-Flavored Pan-fried Buns + Soy Milk"
+            },
+            {
+              "store": "Hangzhou Soup Dumplings (Hanzhong Road Store)",
+              "product": "Crab Roe Soup Dumplings + Pumpkin Porridge"
+            },
+            {
+              "store": "Light Food Salad (Gulou Store)",
+              "product": "Fruit Oatmeal Bowl + Sugar-free Yogurt"
+            }
+          ],
+          "search history": [
+            "Low-sugar breakfast",
+            "Pan-fried buns",
+            "Healthy breakfast",
+            "Soy milk"
+          ]
+        },
+        "weekday lunch/dinner": {
+          "frequently purchased categories": [
+            "Quick meals/Light food (average 45 yuan)",
+            "Quick meals/Salad (average 38 yuan)",
+            "Quick meals/Healthy meal (average 52 yuan)"
+          ],
+          "cost per order": "30~60 yuan",
+          "preferred store rating": "4.6~4.9 stars",
+          "preferred delivery time": "20~35 minutes",
+          "preferred distance": "0~2500m",
+          "recent orders": [
+            {
+              "store": "Vegetable Season Light Food (New Land Center Store)",
+              "product": "Quinoa Chicken Breast Salad + Avocado"
+            },
+            {
+              "store": "Salad Works (Jianye Store)",
+              "product": "Low-fat Chicken Breast Healthy Meal Box"
+            },
+            {
+              "store": "Diet House (Lushan Road Store)",
+              "product": "Mediterranean Roast Chicken with Brown Rice"
+            }
+          ],
+          "search history": [
+            "Healthy lunch",
+            "Low-calorie",
+            "Light food",
+            "Salad"
+          ]
+        },
+        "weekend lunch/dinner": {
+          "frequently purchased categories": [
+            "Chinese cuisine/Cantonese cuisine (average 88 yuan)",
+            "International cuisine/Japanese bento/Sushi (average 95 yuan)",
+            "Chinese cuisine/Sichuan cuisine (average 78 yuan)"
+          ],
+          "cost per order": "70~180 yuan",
+          "preferred store rating": "4.7~5.0 stars",
+          "preferred delivery time": "25~45 minutes",
+          "preferred distance": "0~4000m",
+          "recent orders": [
+            {
+              "store": "Cantonese Restaurant (Gulou Store)",
+              "product": "Family Set (Steamed Fish + Shrimp with Broccoli + Blanched Vegetables)"
+            },
+            {
+              "store": "Hegreen Rotating Sushi (Jinlun Plaza Store)",
+              "product": "Salmon Sashimi + Tuna Sushi + Salad"
+            },
+            {
+              "store": "Xiao Long Kan Hotpot (Hanzhong Road Store)",
+              "product": "Half Spicy Half Plain Soup Base + Beef + Shrimp Paste + Vegetable Platter"
+            }
+          ],
+          "search history": [
+            "Couple's restaurant",
+            "Healthy hotpot",
+            "No deep-fried food",
+            "Couple's set menu"
+          ]
+        },
+        "desserts/drinks/snacks": {
+          "frequently purchased categories": [
+            "Drinks and desserts/Pure tea/Herbal tea (average 22 yuan)",
+            "Drinks and desserts/Fruit salad (average 35 yuan)",
+            "Drinks and desserts/Coffee (average 28 yuan)"
+          ],
+          "cost per order": "18~40 yuan",
+          "preferred store rating": "4.5~4.9 stars",
+          "preferred delivery time": "15~30 minutes",
+          "preferred distance": "0~2000m",
+          "recent orders": [
+            {
+              "store": "HEYTEA (Jinlun Plaza Store)",
+              "product": "Grape Fruit Tea (Less Sugar)"
+            },
+            {
+              "store": "Xianfeng Fruit (Gulou Store)",
+              "product": "Colorful Fruit Salad (No Sugar)"
+            },
+            {
+              "store": "Starbucks (New Land Center Store)",
+              "product": "Iced Americano"
+            }
+          ],
+          "search history": [
+            "Sugar-free drinks",
+            "Fresh fruit",
+            "Low-sugar desserts",
+            "Iced americano"
+          ]
+        },
+        "night snack": {
+          "frequently purchased categories": [
+            "Quick meals/Small dishes (average 45 yuan)",
+            "Snacks and marinated food/Marinated dishes (average 38 yuan)"
+          ],
+          "cost per order": "25~50 yuan",
+          "preferred store rating": "4.3~4.8 stars",
+          "preferred delivery time": "20~35 minutes",
+          "preferred distance": "0~2500m",
+          "recent orders": [
+            {
+              "store": "Old Street Small Dishes (Hanzhong Road Store)",
+              "product": "Steamed Chicken Chunks + Seasonal Vegetables"
+            },
+            {
+              "store": "Chef Zhou's Marinated Food (Gulou Store)",
+              "product": "Marinated Chicken Wings + Marinated Tofu"
+            },
+            {
+              "store": "Porridge World (Jinlun Store)",
+              "product": "Preserved Egg and Lean Pork Porridge + Side Dishes"
+            }
+          ],
+          "search history": [
+            "Healthy night snacks",
+            "Not greasy",
+            "Small portion dishes",
+            "Marinated food"
+          ]
+        }
+      },
+      "product delivery": {
+        "frequently purchased categories": [
+          "Fruits(28%)",
+          "Vegetables/Bean products(22%)",
+          "Dairy products/Ice cream(17%)",
+          "Family planning products(15%)",
+          "Household goods(10%)",
+          "Others(8%)"
+        ],
+        "frequently visited stores": [
+          "Yonghui Supermarket(Gulou Store)(45%)",
+          "Hema Fresh(Jinlun Plaza Store)(30%)",
+          "Family Mart(Hanzhong Road Store)(15%)",
+          "Other stores(10%)"
+        ],
+        "cost per order by category": {
+          "Fruits": "15~45 yuan",
+          "Vegetables/Bean products": "5~25 yuan",
+          "Dairy products/Ice cream": "15~40 yuan",
+          "Family planning products": "30~120 yuan",
+          "Household goods": "10~50 yuan"
+        },
+        "preferred delivery time": "30~60 minutes",
+        "typical order time": "9~11 am(32%)，3~5 pm(28%)，7~9 pm(25%)",
+        "recent orders": [
+          {
+            "store": "Hema Fresh(Jinlun Plaza Store)",
+            "product": "Organic Strawberries + Cherries + Milk"
+          },
+          {
+            "store": "Yonghui Supermarket(Gulou Store)",
+            "product": "Broccoli + Carrots + Tofu + Baby Wipes"
+          },
+          {
+            "store": "Family Mart(Hanzhong Road Store)",
+            "product": "Yogurt + Ready-to-eat Salad"
+          }
+        ],
+        "search history": [
+          "Organic vegetables",
+          "Yogurt",
+          "No additives",
+          "Low-sugar fruits",
+          "Baby bowls"
+        ]
+      }
+    },
+    "In-store scenario": {
+      "in-store dining": {
+        "fine-dining": {
+          "frequently purchased categories": [
+            "Regional cuisine/Sichuan cuisine (average 120 yuan)",
+            "International cuisine/Western food (average 150 yuan)",
+            "Regional cuisine/Fish dishes (average 170 yuan)"
+          ],
+          "preferred average price per person": "110~170 yuan",
+          "preferred store rating": "4.3~4.9 stars",
+          "typical dining time": "19:30-21:00",
+          "preferred distance": "1000~3000m",
+          "recent orders": [
+            {
+              "store": "Blue Pepper Clay Pot Fish (Golden Eagle World Store)",
+              "product": "Signature Sauerkraut Fish (Not Spicy) + Chicken with Seasonal Vegetables"
+            },
+            {
+              "store": "Salad Fitness Meal (Jianye Wanda Store)",
+              "product": "Low-fat Steamed Chicken Breast Set"
+            },
+            {
+              "store": "Fizz Steak (New Land Center Store)",
+              "product": "Australian Grain-fed Steak (Medium Rare) + Vegetable Salad"
+            }
+          ],
+          "search history": [
+            "Fitness meal",
+            "Low-fat restaurant",
+            "Steak",
+            "Steamed dishes",
+            "High protein"
+          ]
+        },
+        "light meal": {
+          "frequently purchased categories": [
+            "Snacks and fast food/Chinese simple meal (average 45 yuan)",
+            "Snacks and fast food/Western fast food (average 35 yuan)"
+          ],
+          "preferred average price per person": "30~50 yuan",
+          "preferred store rating": "3.5~4.2 stars",
+          "typical dining time": "12:00-13:30",
+          "preferred distance": "0~500m",
+          "recent orders": [
+            {
+              "store": "Light Food Philosophy (Golden Eagle G Floor Store)",
+              "product": "Chicken Breast Salad + Rye Bread"
+            },
+            {
+              "store": "Subway (Jianye Wanda Store)",
+              "product": "Chicken Breast Whole Wheat Sandwich"
+            },
+            {
+              "store": "Real Kung Fu (Golden Eagle World Store)",
+              "product": "Steamed Chicken Set (Oil-free)"
+            }
+          ],
+          "search history": [
+            "Fitness simple meal",
+            "Light food",
+            "Sugar-free",
+            "Salad",
+            "Whole wheat"
+          ]
+        },
+        "desserts/drinks/snacks": {
+          "frequently purchased categories": [
+            "Beverage shops (average 25 yuan)",
+            "Bread and desserts (average 30 yuan)"
+          ],
+          "preferred average price per person": "20~35 yuan",
+          "preferred store rating": "4.0~4.8 stars",
+          "typical dining time": "15:30-17:00",
+          "preferred distance": "0~300m",
+          "recent orders": [
+            {
+              "store": "Cha for Tea (Jianye Wanda Store)",
+              "product": "Sugar-free Green Tea"
+            },
+            {
+              "store": "Nayuki (Golden Eagle World Store)",
+              "product": "Fresh Fruit Tea (Sugar-free)"
+            },
+            {
+              "store": "MIXUE Protein Lab",
+              "product": "High-protein Energy Bar"
+            }
+          ],
+          "search history": [
+            "Sugar-free drinks",
+            "Protein bar",
+            "Healthy snacks",
+            "Low-fat desserts"
+          ]
+        }
+      },
+      "other in-store services": {
+        "frequently consumed categories": {
+          "Sports and fitness/Fitness center": "75%",
+          "Sports and fitness/Sports venues": "15%",
+          "Sports and fitness/Martial arts and combat": "5%",
+          "Leisure and entertainment/Massage/Foot therapy": "5%"
+        },
+        "cost per order by category": {
+          "Sports and fitness/Fitness center": "150~500 yuan",
+          "Sports and fitness/Sports venues": "80~200 yuan",
+          "Sports and fitness/Martial arts and combat": "180~400 yuan",
+          "Leisure and entertainment/Massage/Foot therapy": "150~300 yuan"
+        },
+        "preferred store rating": "4.2~4.9 stars",
+        "preferred service time": "7:00-9:00, 18:00-21:00",
+        "preferred distance": "0~2000m",
+        "recent orders": [
+          {
+            "store": "Super Monkey Fitness (Golden Eagle World Store)",
+            "product": "Personal Training Course"
+          },
+          {
+            "store": "Impulse Fitness Club (Jianye Store)",
+            "product": "Quarterly Membership"
+          },
+          {
+            "store": "Five Animals Play Combat Gym (Hexi Store)",
+            "product": "Boxing Trial Class"
+          }
+        ],
+        "search history": [
+          "Fitness equipment",
+          "Boxing club",
+          "Physical training",
+          "Sports rehabilitation",
+          "Muscle relaxation"
+        ]
+      }
+    },
+    "OTA": {
+      "visited scenes": {
+        "Natural landscapes (mountains/lakes/forests)": "45%",
+        "Parks": "20%",
+        "Hot spring resorts": "15%",
+        "Landmark buildings": "10%",
+        "Tourist attractions (mountains/seaside/ecological large-scale scenic areas)": "10%"
+      },
+      "cost per night on hotel": "500~1000 yuan",
+      "visited hotels": {
+        "Atour": "35%",
+        "Vienna": "25%",
+        "Ji Hotel": "20%",
+        "Huazhu": "15%",
+        "7 Days Inn": "5%"
+      },
+      "browsed hotels": {
+        "Four-star hotels": "30%",
+        "Comfortable hotels": "45%",
+        "Three-star hotels": "20%",
+        "Luxury hotels": "5%"
+      },
+      "historical travel plans": {
+        "Nanjing-Suzhou": {
+          "Price range": "150-250 yuan",
+          "Transportation method": "High-speed Rail/EMU"
+        },
+        "Nanjing-Shanghai": {
+          "Price range": "250-400 yuan",
+          "Transportation method": "High-speed Rail/EMU"
+        },
+        "Nanjing-Chengdu": {
+          "Price range": "800-1200 yuan",
+          "Transportation method": "Flight"
+        },
+        "Nanjing-Sanya": {
+          "Price range": "1200-2000 yuan",
+          "Transportation method": "Flight"
+        },
+        "Nanjing-Ma'anshan": {
+          "Price range": "100-200 yuan",
+          "Transportation method": "Self-driving"
+        },
+        "Nanjing-Yangzhou": {
+          "Price range": "150-250 yuan",
+          "Transportation method": "Self-driving"
+        }
+      }
+    }
+  },
+  "stores": {
+    "S17550808142878177_S00001": {
+      "name": "Blooming Years Flower Shop",
+      "store_id": "S17550808142878177_S00001",
+      "score": 4.8,
+      "location": {
+        "address": "Blooming Years Flower Shop, No.12 North Area, ARANYA Community, Beidaihe District, Qinhuangdao, Hebei Province",
+        "latitude": 39.8421,
+        "longitude": 119.5127
+      },
+      "tags": [
+        "Fresh Flowers",
+        "Gift",
+        "Premium Floral Arrangement"
+      ],
+      "store_type": "target",
+      "products": [
+        {
+          "name": "Sweet Confession - Pure Pink Rose Bouquet",
+          "store_id": "S17550808142878177_S00001",
+          "store_name": "Blooming Years Flower Shop",
+          "price": 368,
+          "tags": [
+            "Pink Roses",
+            "Qixi Festival Special",
+            "Proposal Bouquet",
+            "Premium Floral Arrangement"
+          ],
+          "product_id": "S17550808142878177_P00001",
+          "attributes": [
+            "33 roses",
+            "Elegant packaging",
+            "Complimentary card"
+          ],
+          "product_type": "target"
+        },
+        {
+          "name": "Romantic Qixi - Pink Roses with Baby's Breath Bouquet",
+          "store_id": "S17550808142878177_S00001",
+          "store_name": "Blooming Years Flower Shop",
+          "price": 428,
+          "tags": [
+            "Pink Roses",
+            "Baby's Breath",
+            "Mixed Flower Bouquet",
+            "Romantic",
+            "Proposal Special"
+          ],
+          "product_id": "S17550808142878177_P00002",
+          "attributes": [
+            "Premium gift box packaging"
+          ],
+          "product_type": "target"
+        },
+        {
+          "name": "Eternal Love - Red Rose Bouquet",
+          "store_id": "S17550808142878177_S00001",
+          "store_name": "Blooming Years Flower Shop",
+          "price": 399,
+          "tags": [
+            "Red Roses",
+            "Qixi Festival Special",
+            "Proposal Bouquet",
+            "Premium Floral Arrangement"
+          ],
+          "product_id": "S17550808142878177_P00003",
+          "attributes": [
+            "33 roses",
+            "Elegant packaging",
+            "Complimentary card"
+          ],
+          "product_type": "distraction"
+        },
+        {
+          "name": "Princess Dream - Pink Rose Single Flower Bouquet",
+          "store_id": "S17550808142878177_S00001",
+          "store_name": "Blooming Years Flower Shop",
+          "price": 299,
+          "tags": [
+            "Pink Roses",
+            "Single Variety Bouquet",
+            "Minimalist Style"
+          ],
+          "product_id": "S17550808142878177_P00004",
+          "attributes": [
+            "19 roses",
+            "Simple packaging",
+            "Small complimentary card"
+          ],
+          "product_type": "distraction"
+        },
+        {
+          "name": "Romantic Moments - White Roses and Hydrangea Mixed Bouquet",
+          "store_id": "S17550808142878177_S00001",
+          "store_name": "Blooming Years Flower Shop",
+          "price": 458,
+          "tags": [
+            "White Roses",
+            "Hydrangea",
+            "Mixed Flower Bouquet",
+            "Premium Floral Arrangement",
+            "Proposal Recommendation"
+          ],
+          "product_id": "S17550808142878177_P00005",
+          "attributes": [
+            "11 pink roses",
+            "3 hydrangeas",
+            "Eucalyptus accents",
+            "Premium gift box",
+            "Complimentary elegant card"
+          ],
+          "product_type": "target"
+        }
+      ]
+    },
+    "S17550808142878177_S00002": {
+      "name": "Love Flowers Boutique",
+      "store_id": "S17550808142878177_S00002",
+      "score": 4.6,
+      "location": {
+        "address": "Love Flowers Boutique, No.3 East Area, ARANYA Community, Beidaihe District, Qinhuangdao, Hebei Province",
+        "latitude": 39.8435,
+        "longitude": 119.5165
+      },
+      "tags": [
+        "Fresh Flowers",
+        "Gift",
+        "Wedding Floral Arrangements",
+        "Delivery"
+      ],
+      "store_type": "target",
+      "products": [
+        {
+          "name": "Romantic Confession - Pink Rose Single Variety Bouquet",
+          "store_id": "S17550808142878177_S00002",
+          "store_name": "Love Flowers Boutique",
+          "price": 299,
+          "tags": [
+            "Pink Roses",
+            "Bouquet",
+            "Proposal",
+            "Qixi Festival (Chinese Valentine's Day)",
+            "Romantic"
+          ],
+          "product_id": "S17550808142878177_P00006",
+          "attributes": [
+            "19 roses",
+            "33 roses",
+            "52 roses",
+            "With card",
+            "Without card"
+          ],
+          "product_type": "target"
+        },
+        {
+          "name": "Red Roses and Hydrangea Mixed Bouquet",
+          "store_id": "S17550808142878177_S00002",
+          "store_name": "Love Flowers Boutique",
+          "price": 368,
+          "tags": [
+            "Red Roses",
+            "Hydrangea",
+            "Mixed Arrangement",
+            "Proposal",
+            "Qixi Festival (Chinese Valentine's Day)",
+            "Vibrant"
+          ],
+          "product_id": "S17550808142878177_P00007",
+          "attributes": [
+            "Small",
+            "Medium",
+            "Large",
+            "With card",
+            "Without card"
+          ],
+          "product_type": "target"
+        },
+        {
+          "name": "Blue Roses and Baby's Breath Gift Box",
+          "store_id": "S17550808142878177_S00002",
+          "store_name": "Love Flowers Boutique",
+          "price": 399,
+          "tags": [
+            "Blue Roses",
+            "Baby's Breath",
+            "Gift Box",
+            "Proposal",
+            "Qixi Festival (Chinese Valentine's Day)",
+            "Vibrant"
+          ],
+          "product_id": "S17550808142878177_P00008",
+          "attributes": [
+            "Square gift box",
+            "Heart-shaped gift box",
+            "With card",
+            "Without card"
+          ],
+          "product_type": "target"
+        },
+        {
+          "name": "Red Roses and Lilies Mixed Bouquet",
+          "store_id": "S17550808142878177_S00002",
+          "store_name": "Love Flowers Boutique",
+          "price": 328,
+          "tags": [
+            "Red Roses",
+            "Lily",
+            "Mixed Arrangement",
+            "Proposal",
+            "Qixi Festival (Chinese Valentine's Day)"
+          ],
+          "product_id": "S17550808142878177_P00009",
+          "attributes": [
+            "Small",
+            "Medium",
+            "Large",
+            "With card",
+            "Without card"
+          ],
+          "product_type": "distraction"
+        },
+        {
+          "name": "Monochrome Pink Rose Bouquet",
+          "store_id": "S17550808142878177_S00002",
+          "store_name": "Love Flowers Boutique",
+          "price": 269,
+          "tags": [
+            "Pink Roses",
+            "Monochrome",
+            "Qixi Festival (Chinese Valentine's Day)"
+          ],
+          "product_id": "S17550808142878177_P00010",
+          "attributes": [
+            "19 roses",
+            "33 roses",
+            "52 roses",
+            "With card",
+            "Without card"
+          ],
+          "product_type": "distraction"
+        }
+      ]
+    },
+    "S17550808142878177_S00003": {
+      "name": "Haiyun Flowers",
+      "store_id": "S17550808142878177_S00003",
+      "score": 4.5,
+      "location": {
+        "address": "Haiyun Flowers, No.45 Bishuiwan Resort, Beidaihe District, Qinhuangdao, Hebei Province",
+        "latitude": 39.9398,
+        "longitude": 119.6092
+      },
+      "tags": [
+        "Fresh Flowers",
+        "Gift",
+        "Delivery"
+      ],
+      "store_type": "distraction",
+      "products": [
+        {
+          "name": "Romantic Pink Rose Bouquet",
+          "store_id": "S17550808142878177_S00003",
+          "store_name": "Haiyun Flowers",
+          "price": 299,
+          "tags": [
+            "Pink Roses",
+            "Qixi Festival (Chinese Valentine's Day)",
+            "Proposal",
+            "Valentine's Day",
+            "Flower Delivery"
+          ],
+          "product_id": "S17550808142878177_P00011",
+          "attributes": [
+            "19 roses",
+            "33 roses",
+            "52 roses",
+            "With white baby's breath",
+            "With eucalyptus leaves"
+          ],
+          "product_type": "distraction"
+        },
+        {
+          "name": "Pink Roses Mixed Bouquet",
+          "store_id": "S17550808142878177_S00003",
+          "store_name": "Haiyun Flowers",
+          "price": 388,
+          "tags": [
+            "Pink Roses",
+            "Mixed Floral Materials",
+            "Luxury Bouquet",
+            "Proposal",
+            "Qixi Festival Special"
+          ],
+          "product_id": "S17550808142878177_P00012",
+          "attributes": [
+            "With white baby's breath",
+            "With eucalyptus leaves",
+            "With pink bellflowers",
+            "With purple accents"
+          ],
+          "product_type": "distraction"
+        },
+        {
+          "name": "Pink Rose Gift Box",
+          "store_id": "S17550808142878177_S00003",
+          "store_name": "Haiyun Flowers",
+          "price": 499,
+          "tags": [
+            "Luxury Gift Box",
+            "Pink Roses",
+            "Proposal",
+            "Qixi Festival (Chinese Valentine's Day)",
+            "Anniversary"
+          ],
+          "product_id": "S17550808142878177_P00013",
+          "attributes": [
+            "Heart-shaped box",
+            "Square box",
+            "With champagne",
+            "With chocolate"
+          ],
+          "product_type": "distraction"
+        },
+        {
+          "name": "Pink Preserved Flower Gift Box",
+          "store_id": "S17550808142878177_S00003",
+          "store_name": "Haiyun Flowers",
+          "price": 568,
+          "tags": [
+            "Preserved Flowers",
+            "Pink Roses",
+            "Non-withering",
+            "Proposal",
+            "Anniversary"
+          ],
+          "product_id": "S17550808142878177_P00014",
+          "attributes": [
+            "With lights",
+            "With music box",
+            "With card"
+          ],
+          "product_type": "distraction"
+        },
+        {
+          "name": "Qixi Special Edition - Pink Rose Ring Flower",
+          "store_id": "S17550808142878177_S00003",
+          "store_name": "Haiyun Flowers",
+          "price": 799,
+          "tags": [
+            "Proposal",
+            "Pink Roses",
+            "Ring Box",
+            "Qixi Festival (Chinese Valentine's Day)",
+            "Luxury Gift"
+          ],
+          "product_id": "S17550808142878177_P00015",
+          "attributes": [
+            "With ring box",
+            "Without ring",
+            "With balloons",
+            "With lights"
+          ],
+          "product_type": "distraction"
+        }
+      ]
+    },
+    "S17550808142878177_S00004": {
+      "name": "Floral Workshop",
+      "store_id": "S17550808142878177_S00004",
+      "score": 4.7,
+      "location": {
+        "address": "Floral Workshop, No.8 West Area, ARANYA Community, Beidaihe District, Qinhuangdao, Hebei Province",
+        "latitude": 39.8412,
+        "longitude": 119.5118
+      },
+      "tags": [
+        "Fresh Flowers",
+        "Gift",
+        "Premium Customization",
+        "Delivery"
+      ],
+      "store_type": "distraction",
+      "products": [
+        {
+          "name": "Red Rose Love Bouquet",
+          "store_id": "S17550808142878177_S00004",
+          "store_name": "Floral Workshop",
+          "price": 299,
+          "tags": [
+            "Red Roses",
+            "Proposal",
+            "Valentine's Day",
+            "Premium",
+            "Fresh Flowers"
+          ],
+          "product_id": "S17550808142878177_P00016",
+          "attributes": [
+            "19 roses",
+            "33 roses",
+            "52 roses"
+          ],
+          "product_type": "distraction"
+        },
+        {
+          "name": "White Rose Bouquet",
+          "store_id": "S17550808142878177_S00004",
+          "store_name": "Floral Workshop",
+          "price": 269,
+          "tags": [
+            "White Roses",
+            "Pure",
+            "Premium",
+            "Fresh Flowers",
+            "Proposal"
+          ],
+          "product_id": "S17550808142878177_P00017",
+          "attributes": [
+            "19 roses",
+            "33 roses",
+            "52 roses"
+          ],
+          "product_type": "distraction"
+        },
+        {
+          "name": "Red Rose Gift Box",
+          "store_id": "S17550808142878177_S00004",
+          "store_name": "Floral Workshop",
+          "price": 399,
+          "tags": [
+            "Red Roses",
+            "Gift Box Packaging",
+            "Proposal",
+            "High-end",
+            "Qixi Festival (Chinese Valentine's Day)"
+          ],
+          "product_id": "S17550808142878177_P00018",
+          "attributes": [
+            "9 roses",
+            "19 roses",
+            "33 roses"
+          ],
+          "product_type": "distraction"
+        },
+        {
+          "name": "Red Roses with Baby's Breath",
+          "store_id": "S17550808142878177_S00004",
+          "store_name": "Floral Workshop",
+          "price": 329,
+          "tags": [
+            "Red Roses",
+            "Baby's Breath",
+            "Mixed Arrangement",
+            "Proposal",
+            "Vibrant"
+          ],
+          "product_id": "S17550808142878177_P00019",
+          "attributes": [
+            "19 roses",
+            "33 roses"
+          ],
+          "product_type": "distraction"
+        },
+        {
+          "name": "Couple's Preserved Flower Gift Box",
+          "store_id": "S17550808142878177_S00004",
+          "store_name": "Floral Workshop",
+          "price": 499,
+          "tags": [
+            "Preserved Flowers",
+            "Gift Box",
+            "Proposal",
+            "Red Roses",
+            "High-end"
+          ],
+          "product_id": "S17550808142878177_P00020",
+          "attributes": [
+            "Small",
+            "Medium",
+            "Large"
+          ],
+          "product_type": "distraction"
+        }
+      ]
+    }
+  },
+  "orders": {}
+}

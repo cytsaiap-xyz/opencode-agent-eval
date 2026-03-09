@@ -1,0 +1,74 @@
+{
+  "required_orders": [
+    {
+      "order_id": "10826246T001",
+      "order_type": "instore",
+      "user_id": "U469559",
+      "store_id": "S17567842494216100_I00001",
+      "note": "",
+      "location": null,
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 172,
+      "create_time": "2025-03-27 08:48:21",
+      "update_time": "2025-03-27 08:48:21",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17567842494216100_P00001",
+          "name": "All-You-Can-Eat Korean BBQ Package for One",
+          "price": 172,
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "order_id": "10826246T002",
+      "order_type": "instore",
+      "user_id": "U469559",
+      "store_id": "S17567842494216100_I00002",
+      "note": "",
+      "location": null,
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 128,
+      "create_time": "2025-03-27 08:50:21",
+      "update_time": "2025-03-27 08:50:21",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17567842494216100_P00010",
+          "name": "Half-tips + Structure Nail Package",
+          "price": 128,
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "reservation_id": "10826246T003",
+      "shop_id": "S17567842494216100_I00002",
+      "reservation_time": "2025-03-29 20:20:00",
+      "update_time": "2025-03-27 08:52:21",
+      "customer_id": "U469559",
+      "customer_count": 1,
+      "status": "paid"
+    }
+  ],
+  "rubrics": [
+    "On March 29, 2025, the weather in Luoyang is cloudy without rain, so the Korean Self-service BBQ restaurant should be within 500 meters (inclusive) of Jianxi Wanda",
+    "Need to search for Korean Self-service BBQ restaurants that meet the criteria, select the one with the highest rating, which is Korean Charcoal BBQ, so the Korean Self-service BBQ restaurant order should be from Korean Charcoal BBQ",
+    "The order from the Korean Self-service BBQ restaurant should be a Single Person Package",
+    "The Korean Self-service BBQ restaurant order should have Unlimited Time",
+    "The distance from the nail salon to Jianxi Wanda should be within 500m (inclusive)",
+    "The nail salon's closing time should be at or after 10 PM",
+    "The nail salon order should allow Style of Your Choice",
+    "The nail salon order should be a Half-tips + Structure Nail Package",
+    "The total expenditure for both the nail salon and Korean Self-service BBQ restaurant should be within 300 yuan. The price of the items in the Korean Self-service BBQ restaurant order is 172 yuan. Therefore, the nail salon package price should be less than or equal to 128 yuan",
+    "The nail salon should accept reservations",
+    "The nail salon that should be reserved is Fingertip Art Nail Salon",
+    "The reservation time for the nail salon is 2025-03-29 20:20:00",
+    "The number of people for the nail salon reservation is 1"
+  ]
+}

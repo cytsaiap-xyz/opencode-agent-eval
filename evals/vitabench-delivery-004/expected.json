@@ -1,0 +1,71 @@
+{
+  "required_orders": [
+    {
+      "order_id": "10716001T01",
+      "order_type": "delivery",
+      "user_id": "U000049",
+      "store_id": "S30117605823859936_S63333",
+      "note": "",
+      "location": {
+        "address": "5th Floor, Building 3, Dalian Software Park, Shahekou District, Dalian, Liaoning Province",
+        "longitude": 121.545784,
+        "latitude": 38.889088
+      },
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 56,
+      "create_time": "2024-08-19 17:54:00",
+      "update_time": "2024-08-19 17:54:00",
+      "status": "unpaid",
+      "products": [
+        {
+          "product_id": "S21869011941711612_P40826",
+          "price": 38,
+          "quantity": 1,
+          "attributes": ""
+        },
+        {
+          "product_id": "S12843828392131711_P64618",
+          "price": 18,
+          "quantity": 1,
+          "attributes": ""
+        }
+      ]
+    },
+    {
+      "order_id": "10716001O01",
+      "order_type": "delivery",
+      "user_id": "U000049",
+      "store_id": "S30117605823859936_S63333",
+      "note": "",
+      "location": {
+        "address": "5th Floor, Building 3, Dalian Software Park, Shahekou District, Dalian, Liaoning Province",
+        "longitude": 121.545784,
+        "latitude": 38.889088
+      },
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 38.9,
+      "create_time": "2024-08-19 17:30:00",
+      "update_time": "2024-08-19 17:51:00",
+      "status": "cancelled",
+      "products": [
+        {
+          "product_id": "S52869129511178636_P87490",
+          "price": 38.9,
+          "quantity": 1,
+          "attributes": ""
+        }
+      ]
+    }
+  ],
+  "rubrics": [
+    "Successfully cancel the Tom Yum Soup Noodles order with id 10716001O01 from HUHU Thai (Roosevelt Branch), the order status should be changed to cancelled",
+    "The delivery address for the new order should be 5th Floor, Building 3, Dalian Software Park, Shahekou District, Dalian, Liaoning Province",
+    "The estimated delivery time for the new order should be around 2024-08-19 18:30",
+    "The new order should include Hot and Sour items such as Tom Yum Fried Rice from HUHU Thai (Roosevelt Branch)",
+    "The new order should include refreshing caffeine-free desserts such as Coconut Sago Pudding"
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "required_orders": [
+    {
+      "order_id": "10711002T01",
+      "order_type": "delivery",
+      "user_id": "U000001",
+      "store_id": "S17432753848082089_S35082",
+      "note": "Less seasoning",
+      "location": {
+        "address": "North Area of Fengning Residential Complex, No. 10 Fengning Road, Wuhua District, Kunming, Yunnan Province",
+        "longitude": 102.673321,
+        "latitude": 25.050946
+      },
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 49,
+      "create_time": "2024-05-12 16:23:00",
+      "update_time": "2024-05-12 16:23:00",
+      "status": "processed",
+      "products": [
+        {
+          "product_id": "S33329865254216168_P09168",
+          "price": 49,
+          "quantity": 1,
+          "attributes": "Garlic Crayfish"
+        }
+      ]
+    }
+  ],
+  "rubrics": [
+    "Delivery address should be North Area of Fengning Residential Complex, No. 10 Fengning Road, Wuhua District, Kunming, Yunnan Province",
+    "Total price of crayfish order should be around 50 yuan",
+    "Crayfish for children should be Non-spicy flavor, such as garlic or other mild flavors",
+    "To prevent stomach issues for children, restaurants with Fresh Ingredients should be selected",
+    "The portion of crayfish ordered should be enough For Two People"
+  ]
+}

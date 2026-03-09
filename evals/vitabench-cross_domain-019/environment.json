@@ -1,0 +1,878 @@
+{
+  "task_id": "10807003",
+  "domain": "cross_domain",
+  "time": "2025-03-03 14:00:00",
+  "user_id": "U010035",
+  "weather": [
+    {
+      "city": "Jinhua",
+      "category": "cloudy",
+      "datetime": "2025-03-03",
+      "temperature": [
+        8,
+        16
+      ],
+      "humidity": 65
+    },
+    {
+      "city": "Yiwu",
+      "category": "cloudy",
+      "datetime": "2025-03-03",
+      "temperature": [
+        9,
+        17
+      ],
+      "humidity": 62
+    },
+    {
+      "city": "Zhengzhou",
+      "category": "sunny",
+      "datetime": "2025-03-04",
+      "temperature": [
+        5,
+        15
+      ],
+      "humidity": 55
+    }
+  ],
+  "location": [
+    {
+      "address": "Jindu Garden, 1229 Danxi Road, Wucheng District, Jinhua, Zhejiang Province",
+      "longitude": 119.6492,
+      "latitude": 29.0895
+    },
+    {
+      "address": "15th Floor, Building B, Jinhua Commercial Center, 399 Bayi South Street, Wucheng District, Jinhua, Zhejiang Province",
+      "longitude": 119.6527,
+      "latitude": 29.0812
+    }
+  ],
+  "user_profile": {
+    "user id": "U010035",
+    "occupation": "Sales",
+    "gender": "female",
+    "age group": "25~30",
+    "residence": "Jinhua",
+    "home address": "Jindu Garden, 1229 Danxi Road, Wucheng District, Jinhua, Zhejiang Province",
+    "work address": "15th Floor, Building B, Jinhua Commercial Center, 399 Bayi South Street, Wucheng District, Jinhua, Zhejiang Province",
+    "dietary restrictions": "No fried food, low sugar",
+    "family status": "Couple",
+    "personality": "Mild-tempered and cooperative, good at listening and understanding"
+  },
+  "user_historical_behaviors": {
+    "user id": "U010035",
+    "occupation": "Sales",
+    "gender": "female",
+    "age group": "25~30",
+    "residence": "Jinhua",
+    "home address": "Jindu Garden, 1229 Danxi Road, Wucheng District, Jinhua, Zhejiang Province",
+    "work address": "15th Floor, Building B, Jinhua Commercial Center, 399 Bayi South Street, Wucheng District, Jinhua, Zhejiang Province",
+    "delivery": {
+      "food delivery": {
+        "breakfast": {
+          "frequently purchased categories": [
+            "Quick meals/Buns/Pan-fried buns (Average 18 yuan)",
+            "Quick meals/Rice noodles/Vermicelli (Average 22 yuan)",
+            "Quick meals/Light food (Average 28 yuan)"
+          ],
+          "cost per order": "15~30 yuan",
+          "preferred store rating": "4.3~4.8",
+          "preferred delivery time": "15~25 minutes",
+          "preferred distance": "0~1500m",
+          "recent orders": [
+            {
+              "store": "Fresh Noodle Way",
+              "product": "Clear Soup Rice Noodle Set"
+            },
+            {
+              "store": "Lucky Buns",
+              "product": "Vegetable Three Delight Buns + Soy Milk"
+            },
+            {
+              "store": "Salad Diary",
+              "product": "Vegetable and Fruit Light Food Bowl"
+            }
+          ],
+          "search history": [
+            "Healthy breakfast",
+            "Low-fat breakfast",
+            "Vegetarian buns",
+            "Soy milk",
+            "Light food"
+          ]
+        },
+        "weekday lunch/dinner": {
+          "frequently purchased categories": [
+            "Quick meals/Light food (Average 38 yuan)",
+            "Quick meals/Salad (Average 35 yuan)",
+            "Chinese cuisine/Cantonese food (Average 45 yuan)"
+          ],
+          "cost per order": "30~60 yuan",
+          "preferred store rating": "4.5~4.9",
+          "preferred delivery time": "20~35 minutes",
+          "preferred distance": "0~2500m",
+          "recent orders": [
+            {
+              "store": "Vegetable Season Healthy Light Food",
+              "product": "Quinoa Chicken Breast Salad"
+            },
+            {
+              "store": "Cantonese Garden",
+              "product": "Steamed Fish Set Meal"
+            },
+            {
+              "store": "Green Vegetable Pavilion",
+              "product": "Steamed Vegetable Platter"
+            }
+          ],
+          "search history": [
+            "Healthy lunch",
+            "Low-fat set meal",
+            "Cantonese cuisine",
+            "Steamed dishes",
+            "Not greasy"
+          ]
+        },
+        "weekend lunch/dinner": {
+          "frequently purchased categories": [
+            "Chinese cuisine/Cantonese food (Average 80 yuan)",
+            "International cuisine/Japanese bento/Sushi (Average 75 yuan)",
+            "Hot pot/Individual hot pot (Average 85 yuan)"
+          ],
+          "cost per order": "65~120 yuan",
+          "preferred store rating": "4.6~5.0",
+          "preferred delivery time": "25~45 minutes",
+          "preferred distance": "0~4000m",
+          "recent orders": [
+            {
+              "store": "Jichuan Sushi",
+              "product": "Salmon Set"
+            },
+            {
+              "store": "Cantonese Flavor Tower",
+              "product": "White Cut Chicken + Steamed Sea Bass"
+            },
+            {
+              "store": "Bashu Fish Hot Pot",
+              "product": "Clear Soup Fish Hot Pot Set"
+            }
+          ],
+          "search history": [
+            "Japanese cuisine",
+            "Cantonese cuisine",
+            "No spicy and not greasy",
+            "Light flavor",
+            "Healthy hot pot"
+          ]
+        },
+        "desserts/drinks/snacks": {
+          "frequently purchased categories": [
+            "Drinks and desserts/Pure tea/Herbal tea (Average 22 yuan)",
+            "Drinks and desserts/Fruit salad (Average 32 yuan)",
+            "Drinks and desserts/Cold desserts (Average 28 yuan)"
+          ],
+          "cost per order": "18~40 yuan",
+          "preferred store rating": "4.4~4.9",
+          "preferred delivery time": "15~30 minutes",
+          "preferred distance": "0~2000m",
+          "recent orders": [
+            {
+              "store": "Cha Baidao",
+              "product": "Oolong Tea"
+            },
+            {
+              "store": "Xian Feng Fruits",
+              "product": "Fruit Platter"
+            },
+            {
+              "store": "Yogurt Time",
+              "product": "Plain Yogurt"
+            }
+          ],
+          "search history": [
+            "Sugar-free tea",
+            "Fruit tea",
+            "Yogurt",
+            "Fresh fruit",
+            "Healthy drinks"
+          ]
+        },
+        "night snack": {
+          "frequently purchased categories": [
+            "Quick meals/Dumplings/Wonton (Average 35 yuan)",
+            "Snacks and marinated food/Boboji (Average 40 yuan)"
+          ],
+          "cost per order": "30~50 yuan",
+          "preferred store rating": "4.2~4.8",
+          "preferred delivery time": "20~40 minutes",
+          "preferred distance": "0~2500m",
+          "recent orders": [
+            {
+              "store": "Mom's Dumpling House",
+              "product": "Three Delight Water Dumplings"
+            },
+            {
+              "store": "Boboji Legend",
+              "product": "Mildly Spicy Platter"
+            },
+            {
+              "store": "Mr. and Mrs. Porridge",
+              "product": "Century Egg and Lean Meat Porridge"
+            }
+          ],
+          "search history": [
+            "Stomach-friendly night snack",
+            "Non-inflammatory",
+            "Low-fat night snack",
+            "Dumplings",
+            "Light porridge"
+          ]
+        }
+      },
+      "product delivery": {
+        "frequently purchased categories": [
+          "Fruit(28%)",
+          "Vegetables/Bean products(24%)",
+          "Flowers and gardening(18%)",
+          "Beauty and skincare(15%)",
+          "Household items(10%)",
+          "Others(5%)"
+        ],
+        "frequently visited stores": [
+          "Xian Feng Fruits(35%)",
+          "Life Select(30%)",
+          "Green Leaf Fresh(20%)",
+          "Other stores(15%)"
+        ],
+        "cost per order by category": {
+          "Fruit": "15~40 yuan",
+          "Vegetables/Bean products": "5~20 yuan",
+          "Flowers and gardening": "35~120 yuan",
+          "Beauty and skincare": "50~200 yuan",
+          "Household items": "15~60 yuan"
+        },
+        "preferred delivery time": "25~60 minutes",
+        "typical order time": "10~12 o'clock(35%), 16~18 o'clock(30%), 19~21 o'clock(20%)",
+        "recent orders": [
+          {
+            "store": "Xian Feng Fruits",
+            "product": "Imported Blueberries"
+          },
+          {
+            "store": "Life Select",
+            "product": "Organic Chinese Flowering Cabbage"
+          },
+          {
+            "store": "Floral Life",
+            "product": "Mini Succulent Plant Set"
+          }
+        ],
+        "search history": [
+          "Organic vegetables",
+          "Succulent plants",
+          "Alcohol-free toner",
+          "Blueberries",
+          "Natural shampoo"
+        ]
+      }
+    },
+    "in-store consumption": {
+      "in-store dining": {
+        "fine-dining": {
+          "frequently purchased categories": [
+            "Regional cuisine/Local Jiangzhe cuisine (Average 120 yuan)",
+            "International cuisine/Western food (Average 150 yuan)",
+            "Regional cuisine/Cantonese cuisine (Average 135 yuan)"
+          ],
+          "preferred average price per person": "100~160 yuan",
+          "preferred store rating": "4.2~4.8 stars",
+          "typical dining time": "18:30-20:30",
+          "preferred distance": "100~2500m",
+          "recent orders": [
+            {
+              "store": "Drunk Jiangnan (Intime City Store)",
+              "product": "Dongpo Pork Set"
+            },
+            {
+              "store": "Hong Kong Small Kitchen (World Trade Center Store)",
+              "product": "Crispy Pigeon"
+            },
+            {
+              "store": "Barbera Italian Restaurant",
+              "product": "Steak Set"
+            }
+          ],
+          "search history": [
+            "High-end restaurant",
+            "Business dinner",
+            "Jiangzhe cuisine",
+            "Low purine"
+          ]
+        },
+        "light meal": {
+          "frequently purchased categories": [
+            "Snacks and fast food/Chinese quick meal (Average 35 yuan)",
+            "Regional cuisine/Sichuan cuisine (Average 45 yuan)",
+            "Snacks and fast food/Western fast food (Average 40 yuan)"
+          ],
+          "preferred average price per person": "30~50 yuan",
+          "preferred store rating": "3.5~4.2 stars",
+          "typical dining time": "12:00-13:30",
+          "preferred distance": "0~800m",
+          "recent orders": [
+            {
+              "store": "Wallace (Judicial Building Store)",
+              "product": "Beef Rice Set"
+            },
+            {
+              "store": "Yonghe King",
+              "product": "Duck Neck Set"
+            },
+            {
+              "store": "West Sichuan Small Restaurant",
+              "product": "Dan Dan Noodles"
+            }
+          ],
+          "search history": [
+            "Work meal",
+            "Fast food",
+            "Boxed lunch",
+            "Near distance"
+          ]
+        },
+        "desserts/drinks/snacks": {
+          "frequently purchased categories": [
+            "Beverage shop (Average 18 yuan)",
+            "Bread and desserts (Average 25 yuan)",
+            "Other dining/Fresh fruits (Average 15 yuan)"
+          ],
+          "preferred average price per person": "15~30 yuan",
+          "preferred store rating": "3.8~4.5 stars",
+          "typical dining time": "15:00-16:30",
+          "preferred distance": "0~500m",
+          "recent orders": [
+            {
+              "store": "HEYTEA (World Trade Center Store)",
+              "product": "Very Grape"
+            },
+            {
+              "store": "Starbucks (Judicial Building Store)",
+              "product": "Americano"
+            },
+            {
+              "store": "85°C",
+              "product": "Sea Salt Cheese Cake"
+            }
+          ],
+          "search history": [
+            "Coffee",
+            "Sugar-free drinks",
+            "Afternoon tea"
+          ]
+        }
+      },
+      "other in-store services": {
+        "frequently consumed categories": {
+          "Sports fitness/Ball sports": "45%",
+          "Beauty/Yoga": "15%",
+          "Leisure and Entertainment/Massage/Foot Therapy": "30%",
+          "Parenting/Children's playground": "10%"
+        },
+        "cost per order by category": {
+          "Sports fitness/Ball sports": "80~150 yuan",
+          "Beauty/Yoga": "120~200 yuan",
+          "Leisure and Entertainment/Massage/Foot Therapy": "150~280 yuan",
+          "Parenting/Children's playground": "100~200 yuan"
+        },
+        "preferred store rating": "4.0~4.8 stars",
+        "preferred service time": "19:00-21:30",
+        "preferred distance": "0~3000m",
+        "recent orders": [
+          {
+            "store": "Jinhua Tennis Center",
+            "product": "Two-person court for 2 hours"
+          },
+          {
+            "store": "Yuzutang SPA Club (World Trade Center Branch)",
+            "product": "Full Body Massage Package"
+          },
+          {
+            "store": "Happy Valley Children's Playground",
+            "product": "Weekend Family Package"
+          }
+        ],
+        "search history": [
+          "Tennis court",
+          "Massage",
+          "Stress Relief",
+          "Weekend family activities",
+          "Yoga"
+        ]
+      }
+    },
+    "OTA": {
+      "visited scenes": {
+        "Cultural heritage sites": "25%",
+        "Natural landscapes (Mountains/Lakes/Forests)": "30%",
+        "Hot spring resorts": "20%",
+        "Characteristic villages/Industrial tourism/Uncategorized projects": "15%",
+        "Exhibitions (Museums/Art galleries)": "10%"
+      },
+      "cost per night on hotel": "300~500 yuan",
+      "visited hotels": {
+        "Home Inn": "25%",
+        "Ji Hotel": "30%",
+        "Atour": "20%",
+        "Vienna Hotel": "15%",
+        "Hanting Hotel": "10%"
+      },
+      "browsed hotels": {
+        "Three-star hotels": "35%",
+        "Four-star hotels": "20%",
+        "Comfort hotels": "40%",
+        "Economy hotels": "5%"
+      },
+      "historical travel plans": {
+        "Jinhua-Hangzhou": {
+          "price range": "50-100 yuan",
+          "transportation method": "High-speed Rail"
+        },
+        "Jinhua-Shanghai": {
+          "price range": "150-250 yuan",
+          "transportation method": "High-speed Rail"
+        },
+        "Jinhua-Beijing": {
+          "price range": "800-1200 yuan",
+          "transportation method": "Airplane"
+        },
+        "Jinhua-Nanjing": {
+          "price range": "200-300 yuan",
+          "transportation method": "High-speed Rail"
+        },
+        "Jinhua-Huangshan": {
+          "price range": "250-350 yuan",
+          "transportation method": "Long-distance Bus"
+        },
+        "Jinhua-Ningbo": {
+          "price range": "100-150 yuan",
+          "transportation method": "High-speed Rail"
+        }
+      }
+    }
+  },
+  "stores": {
+    "S17550931944656724_S00001": {
+      "name": "JD Flash Sale",
+      "store_id": "S17550931944656724_S00001",
+      "score": 4.7,
+      "location": {
+        "address": "JD Appliance Store, 1100 Danxi Road, Wucheng District, Jinhua, Zhejiang Province",
+        "latitude": 29.088956,
+        "longitude": 119.646235
+      },
+      "tags": [
+        "Digital Products",
+        "Appliances",
+        "Flash Delivery"
+      ],
+      "store_type": "target",
+      "products": [
+        {
+          "name": "Sony WF-C500 True Wireless Bluetooth Earphones",
+          "store_id": "S17550931944656724_S00001",
+          "store_name": "JD Flash Sale",
+          "price": 399,
+          "tags": [
+            "Bluetooth Earphones",
+            "SONY",
+            "High Sound Quality"
+          ],
+          "product_id": "S17550931944656724_P00004",
+          "attributes": [
+            "Black",
+            "White",
+            "Mint Green"
+          ],
+          "product_type": "target"
+        },
+        {
+          "name": "Apple AirPods Pro 2nd Generation True Wireless Bluetooth Earphones",
+          "store_id": "S17550931944656724_S00001",
+          "store_name": "JD Flash Sale",
+          "price": 1299,
+          "tags": [
+            "Bluetooth Earphones",
+            "Active Noise Cancellation",
+            "Premium Business"
+          ],
+          "product_id": "S17550931944656724_P00005",
+          "attributes": [
+            "White"
+          ],
+          "product_type": "distraction"
+        },
+        {
+          "name": "ZMI PurPods Pro 2 True Wireless Bluetooth Earphones",
+          "store_id": "S17550931944656724_S00001",
+          "store_name": "JD Flash Sale",
+          "price": 169,
+          "tags": [
+            "Bluetooth Earphones",
+            "Call Noise Reduction",
+            "Business Meeting"
+          ],
+          "product_id": "S17550931944656724_P00006",
+          "attributes": [
+            "Black",
+            "White"
+          ],
+          "product_type": "target"
+        },
+        {
+          "name": "Lenovo LP1S True Wireless Bluetooth Earphones",
+          "store_id": "S17550931944656724_S00001",
+          "store_name": "JD Flash Sale",
+          "price": 99,
+          "tags": [
+            "Bluetooth Earphones",
+            "Cost Performance",
+            "Entry-level"
+          ],
+          "product_id": "S17550931944656724_P00007",
+          "attributes": [
+            "Black",
+            "White"
+          ],
+          "product_type": "distraction"
+        },
+        {
+          "name": "Philips SHB2505 True Wireless Bluetooth Earphones",
+          "store_id": "S17550931944656724_S00001",
+          "store_name": "JD Flash Sale",
+          "price": 199,
+          "tags": [
+            "Bluetooth Earphones",
+            "Business",
+            "Call Noise Reduction"
+          ],
+          "product_id": "S17550931944656724_P00008",
+          "attributes": [
+            "Black"
+          ],
+          "product_type": "target"
+        }
+      ]
+    },
+    "S17550931944656724_S00002": {
+      "name": "Suning.com",
+      "store_id": "S17550931944656724_S00002",
+      "score": 4.5,
+      "location": {
+        "address": "Suning.com, 300 Bayi South Street, Wucheng District, Jinhua, Zhejiang Province",
+        "latitude": 29.081823,
+        "longitude": 119.649125
+      },
+      "tags": [
+        "Digital Products",
+        "Appliances",
+        "Flash Delivery"
+      ],
+      "store_type": "target",
+      "products": [
+        {
+          "name": "Xiaomi Redmi Buds 4 Pro Bluetooth Earphones",
+          "store_id": "S17550931944656724_S00002",
+          "store_name": "Suning.com",
+          "price": 299,
+          "tags": [
+            "Bluetooth Earphones",
+            "Wireless",
+            "Active Noise Cancellation",
+            "Flash Delivery"
+          ],
+          "product_id": "S17550931944656724_P00011",
+          "attributes": [
+            "Space Black",
+            "Glacier White"
+          ],
+          "product_type": "target"
+        },
+        {
+          "name": "Apple AirPods Pro 2nd Generation",
+          "store_id": "S17550931944656724_S00002",
+          "store_name": "Suning.com",
+          "price": 1699,
+          "tags": [
+            "Bluetooth Earphones",
+            "Wireless",
+            "Active Noise Cancellation",
+            "Business",
+            "Premium"
+          ],
+          "product_id": "S17550931944656724_P00012",
+          "attributes": [],
+          "product_type": "distraction"
+        },
+        {
+          "name": "Sony WF-1000XM5 Bluetooth Earphones",
+          "store_id": "S17550931944656724_S00002",
+          "store_name": "Suning.com",
+          "price": 2199,
+          "tags": [
+            "Bluetooth Earphones",
+            "Wireless",
+            "Active Noise Cancellation",
+            "Premium",
+            "Business"
+          ],
+          "product_id": "S17550931944656724_P00013",
+          "attributes": [
+            "Black",
+            "Silver"
+          ],
+          "product_type": "distraction"
+        },
+        {
+          "name": "Lenovo ThinkPlus Bluetooth Earphones",
+          "store_id": "S17550931944656724_S00002",
+          "store_name": "Suning.com",
+          "price": 199,
+          "tags": [
+            "Bluetooth Earphones",
+            "Wireless",
+            "Business",
+            "Flash Delivery"
+          ],
+          "product_id": "S17550931944656724_P00014",
+          "attributes": [
+            "Black"
+          ],
+          "product_type": "target"
+        },
+        {
+          "name": "JBL TUNE 225TWS True Wireless Bluetooth Earbuds",
+          "store_id": "S17550931944656724_S00002",
+          "store_name": "Suning.com",
+          "price": 349,
+          "tags": [
+            "Bluetooth Earphones",
+            "Wireless",
+            "Excellent Sound Quality",
+            "Flash Delivery"
+          ],
+          "product_id": "S17550931944656724_P00015",
+          "attributes": [
+            "Black",
+            "White",
+            "Blue"
+          ],
+          "product_type": "target"
+        }
+      ]
+    },
+    "S17550931944656724_S00003": {
+      "name": "Xiaomi Home",
+      "store_id": "S17550931944656724_S00003",
+      "score": 4.8,
+      "location": {
+        "address": "Xiaomi Home, 3rd Floor, Jinhua Wanda Plaza, 99 East Renmin Road, Wucheng District, Jinhua, Zhejiang Province",
+        "latitude": 29.085672,
+        "longitude": 119.654321
+      },
+      "tags": [
+        "Digital Products",
+        "Xiaomi",
+        "Flash Delivery"
+      ],
+      "store_type": "target",
+      "products": [
+        {
+          "name": "Xiaomi True Wireless Bluetooth Earphones Air 2 Pro",
+          "store_id": "S17550931944656724_S00003",
+          "store_name": "Xiaomi Home",
+          "price": 599,
+          "tags": [
+            "Bluetooth Earphones",
+            "Active Noise Cancellation",
+            "Premium",
+            "Business",
+            "Fast Delivery"
+          ],
+          "product_id": "S17550931944656724_P00019",
+          "attributes": [
+            "Black",
+            "White"
+          ],
+          "product_type": "distraction"
+        },
+        {
+          "name": "Xiaomi Neckband Bluetooth Earphones",
+          "store_id": "S17550931944656724_S00003",
+          "store_name": "Xiaomi Home",
+          "price": 199,
+          "tags": [
+            "Bluetooth Earphones",
+            "Neckband Style",
+            "Long Battery Life",
+            "Fast Delivery"
+          ],
+          "product_id": "S17550931944656724_P00020",
+          "attributes": [
+            "Black",
+            "Blue"
+          ],
+          "product_type": "distraction"
+        },
+        {
+          "name": "Xiaomi Dual-driver Semi-in-ear Earphones",
+          "store_id": "S17550931944656724_S00003",
+          "store_name": "Xiaomi Home",
+          "price": 59,
+          "tags": [
+            "Wired Headphones",
+            "High Sound Quality",
+            "Cost Performance",
+            "Fast Delivery"
+          ],
+          "product_id": "S17550931944656724_P00021",
+          "attributes": [
+            "Black",
+            "White"
+          ],
+          "product_type": "distraction"
+        },
+        {
+          "name": "Xiaomi FlipBuds Pro Noise Cancelling Bluetooth Earphones",
+          "store_id": "S17550931944656724_S00003",
+          "store_name": "Xiaomi Home",
+          "price": 799,
+          "tags": [
+            "Bluetooth Earphones",
+            "Flagship Level",
+            "Active Noise Cancellation",
+            "Premium Business",
+            "Fast Delivery"
+          ],
+          "product_id": "S17550931944656724_P00023",
+          "attributes": [
+            "Black",
+            "White"
+          ],
+          "product_type": "distraction"
+        }
+      ]
+    },
+    "S17550931944656724_S00004": {
+      "name": "Huawei Authorized Experience Store",
+      "store_id": "S17550931944656724_S00004",
+      "score": 4.9,
+      "location": {
+        "address": "Huawei Authorized Experience Store, 128 Bayi North Street, Wucheng District, Jinhua, Zhejiang Province",
+        "latitude": 29.088765,
+        "longitude": 119.648932
+      },
+      "tags": [
+        "Digital Products",
+        "Huawei",
+        "Flash Delivery"
+      ],
+      "store_type": "target",
+      "products": [
+        {
+          "name": "Huawei FreeBuds Pro 3 Flagship Wireless Earphones",
+          "store_id": "S17550931944656724_S00004",
+          "store_name": "Huawei Authorized Experience Store",
+          "price": 1299,
+          "tags": [
+            "Bluetooth Earphones",
+            "Wireless Headphones",
+            "Flagship Series",
+            "Business",
+            "Smart Noise Reduction",
+            "HD Calls"
+          ],
+          "product_id": "S17550931944656724_P00026",
+          "attributes": [
+            "Titanium Silver",
+            "Elegant Black",
+            "Cyan White"
+          ],
+          "product_type": "distraction"
+        },
+        {
+          "name": "Huawei FreeBuds 5 Semi-open Wireless Earphones",
+          "store_id": "S17550931944656724_S00004",
+          "store_name": "Huawei Authorized Experience Store",
+          "price": 799,
+          "tags": [
+            "Bluetooth Earphones",
+            "Wireless Headphones",
+            "Semi-open",
+            "HD Calls"
+          ],
+          "product_id": "S17550931944656724_P00027",
+          "attributes": [
+            "Ceramic White",
+            "Ice Crystal Blue",
+            "Dynamic Green"
+          ],
+          "product_type": "distraction"
+        },
+        {
+          "name": "Huawei FreeLace Pro Wireless Earphones",
+          "store_id": "S17550931944656724_S00004",
+          "store_name": "Huawei Authorized Experience Store",
+          "price": 499,
+          "tags": [
+            "Bluetooth Earphones",
+            "Neckband Style",
+            "Active Noise Cancellation",
+            "Immediate Delivery",
+            "Meeting Essentials"
+          ],
+          "product_id": "S17550931944656724_P00028",
+          "attributes": [
+            "Obsidian Black",
+            "Forest Green",
+            "Dawn White"
+          ],
+          "product_type": "target"
+        },
+        {
+          "name": "Huawei Sound X 2023 Smart Speaker",
+          "store_id": "S17550931944656724_S00004",
+          "store_name": "Huawei Authorized Experience Store",
+          "price": 2199,
+          "tags": [
+            "Smart Speaker",
+            "Premium Sound System",
+            "Conference Sound System",
+            "Wireless Connection"
+          ],
+          "product_id": "S17550931944656724_P00029",
+          "attributes": [],
+          "product_type": "distraction"
+        },
+        {
+          "name": "Huawei Smart Watch GT4",
+          "store_id": "S17550931944656724_S00004",
+          "store_name": "Huawei Authorized Experience Store",
+          "price": 1499,
+          "tags": [
+            "Smart Watch",
+            "Exercise Monitoring",
+            "Call Function",
+            "Premium Business"
+          ],
+          "product_id": "S17550931944656724_P00030",
+          "attributes": [
+            "46mm",
+            "41mm"
+          ],
+          "product_type": "distraction"
+        }
+      ]
+    }
+  },
+  "orders": {}
+}

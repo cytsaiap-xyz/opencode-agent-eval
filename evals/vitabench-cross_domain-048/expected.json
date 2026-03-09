@@ -1,0 +1,82 @@
+{
+  "required_orders": [
+    {
+      "book_id": "S17550812080452641_B00011",
+      "shop_id": "S17550812080452641_I00011",
+      "book_time": "2024-04-12 19:30:00",
+      "update_time": "2024-04-12 17:33:23",
+      "customer_id": "U001040",
+      "customer_count": 2,
+      "book_price": 0,
+      "status": "unconsumed"
+    },
+    {
+      "order_id": "A0807005T001",
+      "order_type": "delivery",
+      "user_id": "U001040",
+      "store_id": "S17550812080452641_S00004",
+      "note": "",
+      "location": {
+        "address": "Wenzhou Smart Industrial Park, 326 Haitong Road, Longwan District, Wenzhou, Zhejiang Province",
+        "longitude": 120.750823,
+        "latitude": 27.932546
+      },
+      "dispatch_time": "2024-04-12 17:45:00",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 140,
+      "create_time": "2024-04-12 17:35:00",
+      "update_time": "2024-04-12 17:35:00",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17550812080452641_P00020",
+          "price": 128,
+          "quantity": 1,
+          "name": "Wenzhou Yellow Soup Goose Gift Box",
+          "store_id": "S17550812080452641_S00004",
+          "store_name": "Ouyue Flavor House",
+          "attributes": "",
+          "tags": [
+            "Wenzhou Special Features",
+            "Exquisite Packaging",
+            "Perfect Gift"
+          ]
+        },
+        {
+          "product_id": "S17550812080452641_P00021",
+          "price": 12,
+          "quantity": 1,
+          "name": "Chinese-Style Gift Packaging Bag",
+          "store_id": "S17550812080452641_S00004",
+          "store_name": "Ouyue Flavor House",
+          "attributes": "Large",
+          "tags": [
+            "Chinese Style",
+            "Gift Packaging",
+            "Elegant Design",
+            "Eco-Friendly Material"
+          ]
+        }
+      ]
+    }
+  ],
+  "rubrics": [
+    "The ordered restaurant should be an authentic Wenzhou Cuisine restaurant",
+    "The ordered restaurant's rating should be 4.2 or above",
+    "The ordered restaurant should be within 20 kilometers of Wenzhou Smart Industrial Park, 326 Haitong Road, Longwan District, Wenzhou, Zhejiang Province",
+    "The ordered set meal at the Wenzhou restaurant should be a meal for two people, not two individual meals",
+    "The ordered set meal at the Wenzhou restaurant should not contain coriander",
+    "Need to reserve seats at the Wenzhou restaurant around 19:30 [meaning the reservation time should be between 19:15 and 19:45]",
+    "The reservation at the Wenzhou restaurant should be for 2 people",
+    "The Wenzhou specialty souvenir gift should not contain Fish Cake",
+    "The price of the Wenzhou specialty souvenir gift should be above 100 yuan",
+    "The packaging bag should be Chinese Style",
+    "The Wenzhou specialty souvenir gift and the packaging bag should come from the same store",
+    "The delivery address for food delivery must be Wenzhou Smart Industrial Park, 326 Haitong Road, Longwan District, Wenzhou, Zhejiang Province",
+    "The expected delivery time should be before 2024-04-12 18:30:00",
+    "The recommended scenic area should reflect Wenzhou's characteristics",
+    "The recommended scenic area should not require extensive walking",
+    "The recommended scenic area should have novel activities, such as making Ou Kiln ceramics"
+  ]
+}

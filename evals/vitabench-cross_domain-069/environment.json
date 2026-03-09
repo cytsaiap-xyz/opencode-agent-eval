@@ -1,0 +1,832 @@
+{
+  "task_id": "10808011",
+  "domain": "cross_domain",
+  "time": "2024-06-08 18:30:00",
+  "user_id": "U958565",
+  "weather": [
+    {
+      "city": "Beijing",
+      "category": "cloudy",
+      "datetime": "2024-06-08",
+      "temperature": [
+        22,
+        31
+      ],
+      "humidity": 65
+    },
+    {
+      "city": "Beijing",
+      "category": "sunny",
+      "datetime": "2024-06-09",
+      "temperature": [
+        23,
+        32
+      ],
+      "humidity": 60
+    }
+  ],
+  "location": [
+    {
+      "address": "Room 1203, Unit 5, Jinnyu Jiahua Building, 19 Xibeiwang Middle Road, Haidian District, Beijing",
+      "longitude": 116.316,
+      "latitude": 40.052
+    },
+    {
+      "address": "12th Floor, Building C, Rongke Information Center, 2 Academy of Sciences South Road, Haidian District, Beijing",
+      "longitude": 116.317,
+      "latitude": 40.045
+    }
+  ],
+  "user_profile": {
+    "user id": "U958565",
+    "occupation": "Algorithm Engineer",
+    "gender": "female",
+    "age group": "25~30",
+    "residence": "Beijing",
+    "Permanent address": "Room 1203, Unit 5, Jinnyu Jiahua Building, 19 Xibeiwang Middle Road, Haidian District, Beijing",
+    "work address": "12th Floor, Building C, Rongke Information Center, 2 Academy of Sciences South Road, Haidian District, Beijing",
+    "dietary restrictions": "No caffeine, Low sugar",
+    "family status": "Lives alone",
+    "personality": "Mild-tempered with high cooperativeness, good at listening and understanding"
+  },
+  "user_historical_behaviors": {
+    "user id": "U958565",
+    "occupation": "Algorithm Engineer",
+    "gender": "female",
+    "age group": "25~30",
+    "residence": "Beijing",
+    "Permanent address": "Room 1203, Unit 5, Jinnyu Jiahua Building, 19 Xibeiwang Middle Road, Haidian District, Beijing",
+    "work address": "12th Floor, Building C, Rongke Information Center, 2 Academy of Sciences South Road, Haidian District, Beijing",
+    "Takeout scenario": {
+      "food delivery": {
+        "breakfast": {
+          "frequently purchased categories": [
+            "Quick Meals/Pancakes/Wraps/Fried Pancakes (Average 18 yuan)",
+            "Quick Meals/Light Food (Average 25 yuan)",
+            "Quick Meals/Salads (Average 28 yuan)"
+          ],
+          "cost per order": "15~35 yuan",
+          "preferred store rating": "4.5~4.8 points",
+          "preferred delivery time": "15~25 minutes",
+          "preferred distance": "0~1500m",
+          "recent orders": [
+            {
+              "store": "Light Food Select",
+              "product": "Avocado Chicken Breast Salad"
+            },
+            {
+              "store": "Fresh Fruit Light Food",
+              "product": "Fruit Cereal Cup + Whole Wheat Toast"
+            },
+            {
+              "store": "Pancake King",
+              "product": "Plain Fried Pancake + Low-sugar Soy Milk"
+            }
+          ],
+          "search history": [
+            "Low-sugar breakfast",
+            "Light food",
+            "Salad",
+            "Whole wheat bread",
+            "Oatmeal"
+          ]
+        },
+        "weekday lunch/dinner": {
+          "frequently purchased categories": [
+            "Quick Meals/Healthy Meals (Average 45 yuan)",
+            "Chinese Cuisine/Cantonese Cuisine (Average 60 yuan)",
+            "Quick Meals/Salads (Average 35 yuan)"
+          ],
+          "cost per order": "35~65 yuan",
+          "preferred store rating": "4.6~4.9 points",
+          "preferred delivery time": "20~35 minutes",
+          "preferred distance": "0~2500m",
+          "recent orders": [
+            {
+              "store": "Healthy Meal Solutions",
+              "product": "Low-fat Chicken Breast Vegetable Meal"
+            },
+            {
+              "store": "Cantonese Flavor House",
+              "product": "Steamed Bass + Seasonal Vegetables"
+            },
+            {
+              "store": "Light Food Philosophy",
+              "product": "Quinoa Beef Salad"
+            }
+          ],
+          "search history": [
+            "Healthy meals",
+            "Low-fat",
+            "Steamed dishes",
+            "Cantonese cuisine",
+            "Chicken breast"
+          ]
+        },
+        "weekend lunch/dinner": {
+          "frequently purchased categories": [
+            "International Cuisine/Korean Food (Average 85 yuan)",
+            "Chinese Cuisine/Northeastern Cuisine (Average 90 yuan)",
+            "International Cuisine/Pasta (Average 75 yuan)"
+          ],
+          "cost per order": "70~150 yuan",
+          "preferred store rating": "4.7~5.0 points",
+          "preferred delivery time": "30~45 minutes",
+          "preferred distance": "0~3500m",
+          "recent orders": [
+            {
+              "store": "Korean Cuisine House",
+              "product": "Stone Pot Bibimbap (Low-sugar Version)"
+            },
+            {
+              "store": "Northeastern Home Cooking",
+              "product": "Sweet and Sour Pork + Seasonal Vegetables"
+            },
+            {
+              "store": "Italian Flavor House",
+              "product": "Tomato Seafood Pasta (Without Coffee)"
+            }
+          ],
+          "search history": [
+            "Korean cuisine",
+            "Stone pot bibimbap",
+            "Northeastern cuisine",
+            "Pasta",
+            "Caffeine-free"
+          ]
+        },
+        "desserts/drinks/snacks": {
+          "frequently purchased categories": [
+            "Beverages & Desserts/Juice (Average 22 yuan)",
+            "Beverages & Desserts/Pure Tea/Herbal Tea (Average 18 yuan)",
+            "Beverages & Desserts/Fruit Salad (Average 32 yuan)"
+          ],
+          "cost per order": "15~40 yuan",
+          "preferred store rating": "4.5~4.9 points",
+          "preferred delivery time": "15~25 minutes",
+          "preferred distance": "0~2000m",
+          "recent orders": [
+            {
+              "store": "Fresh Juice Bar",
+              "product": "Fresh Grapefruit Juice (Sugar-free)"
+            },
+            {
+              "store": "Tea Time",
+              "product": "Jasmine Tea (Light Sugar)"
+            },
+            {
+              "store": "Fruit Mix Mix",
+              "product": "Fruit Salad (Less Sugar Less Milk)"
+            }
+          ],
+          "search history": [
+            "Sugar-free beverages",
+            "Fresh juice",
+            "Floral tea",
+            "Fruit salad",
+            "Low-sugar desserts"
+          ]
+        },
+        "night snack": {
+          "frequently purchased categories": [
+            "Snacks & Marinated Foods/Bobo Chicken (Average 42 yuan)",
+            "Quick Meals/Small Bowl Dishes/Small Portion Dishes (Average 35 yuan)",
+            "Snacks & Marinated Foods/Marinated Items (Average 38 yuan)"
+          ],
+          "cost per order": "30~50 yuan",
+          "preferred store rating": "4.4~4.8 points",
+          "preferred delivery time": "25~40 minutes",
+          "preferred distance": "0~2500m",
+          "recent orders": [
+            {
+              "store": "Bobo Chicken Legend",
+              "product": "Mildly Spicy Bobo Chicken (Small Portion)"
+            },
+            {
+              "store": "Small Bowl Dish Workshop",
+              "product": "Stir-fried Seasonal Vegetables + Poached Shrimp"
+            },
+            {
+              "store": "Old Street Marinated Foods",
+              "product": "Marinated Chicken Feet + Marinated Tofu"
+            }
+          ],
+          "search history": [
+            "Light night snacks",
+            "Small portion dishes",
+            "Low-calorie",
+            "Marinated foods",
+            "Bobo chicken"
+          ]
+        }
+      },
+      "product delivery": {
+        "frequently purchased categories": [
+          "Vegetables/Tofu Products(28%)",
+          "Fruits(22%)",
+          "Pet Supplies(18%)",
+          "Household Items(12%)",
+          "Grains, Oils, Seasonings and Dried Foods(10%)",
+          "Others(10%)"
+        ],
+        "frequently visited stores": [
+          "Elephant Supermarket (Formerly Meituan Grocery Wangjing Store)(45%)",
+          "Hema Fresh (Wangjing SOHO Store)(30%)",
+          "Family Mart (Wangjing SOHO Store)(15%)",
+          "Other Stores(10%)"
+        ],
+        "cost per order by category": {
+          "Vegetables/Tofu Products": "5~30 yuan",
+          "Fruits": "10~50 yuan",
+          "Pet Supplies": "30~120 yuan",
+          "Household Items": "15~60 yuan",
+          "Grains, Oils, Seasonings and Dried Foods": "10~45 yuan"
+        },
+        "preferred delivery time": "25~60 minutes",
+        "typical order time": "17~19:00(38%), 10~12:00(25%), 20~22:00(20%)",
+        "recent orders": [
+          {
+            "store": "Elephant Supermarket (Formerly Meituan Grocery Wangjing Store)",
+            "product": "Organic Spinach 300g + Baby Cabbage 200g"
+          },
+          {
+            "store": "Hema Fresh (Wangjing SOHO Store)",
+            "product": "Cat Food 2kg + Cat Litter 5L"
+          },
+          {
+            "store": "Elephant Supermarket (Formerly Meituan Grocery Wangjing Store)",
+            "product": "2 Avocados + Box of Blueberries"
+          }
+        ],
+        "search history": [
+          "Organic vegetables",
+          "Cat food",
+          "No additives",
+          "Avocado",
+          "Low-sugar fruits",
+          "Cat litter"
+        ]
+      }
+    },
+    "in-store consumption": {
+      "in-store dining": {
+        "fine-dining": {
+          "frequently consumed categories": [
+            "International Cuisine/Japanese Food (Average 120 yuan)",
+            "Regional Cuisine/Sichuan Cuisine (Average 95 yuan)",
+            "Regional Cuisine/Specialty Cuisine (Average 110 yuan)"
+          ],
+          "preferred average price per person": "90~130 yuan",
+          "preferred store rating": "4.2~4.8 stars",
+          "typical dining time": "18:30-20:30",
+          "preferred distance": "500~3000m",
+          "recent orders": [
+            {
+              "store": "Lugang Village Taiwanese Cuisine",
+              "product": "Three Cup Chicken Set"
+            },
+            {
+              "store": "Wuerjiang Japanese Cuisine",
+              "product": "Sashimi Platter"
+            },
+            {
+              "store": "Xiaolongkan Hotpot (Xibeiwang Store)",
+              "product": "Mushroom Dual-flavor Hotpot"
+            }
+          ],
+          "search history": [
+            "Wuerjiang",
+            "Healthy low-sugar",
+            "Japanese cuisine",
+            "Sichuan cuisine without spice"
+          ]
+        },
+        "light meal": {
+          "frequently consumed categories": [
+            "Fast Food/Chinese Quick Meals (Average 35 yuan)",
+            "Regional Cuisine/Northeastern Cuisine (Average 45 yuan)",
+            "International Cuisine/Korean Food (Average 55 yuan)"
+          ],
+          "preferred average price per person": "30~60 yuan",
+          "preferred store rating": "3.5~4.3 stars",
+          "typical dining time": "12:00-13:30",
+          "preferred distance": "0~500m",
+          "recent orders": [
+            {
+              "store": "Yonghe King (Rongke Store)",
+              "product": "Three Delicacies Soy Milk Set"
+            },
+            {
+              "store": "Salad Diary",
+              "product": "Quinoa Chicken Breast Salad"
+            },
+            {
+              "store": "Fish and You (Tech Park Store)",
+              "product": "Sour Cabbage Fish Rice"
+            }
+          ],
+          "search history": [
+            "Low-sugar bento",
+            "Healthy fast food",
+            "Salad",
+            "Light food"
+          ]
+        },
+        "desserts/drinks/snacks": {
+          "frequently consumed categories": [
+            "Beverage Shops (Average 18 yuan)",
+            "Bread and Desserts (Average 25 yuan)",
+            "Other Dining/Fresh Fruits (Average 15 yuan)"
+          ],
+          "preferred average price per person": "15~30 yuan",
+          "preferred store rating": "3.9~4.5 stars",
+          "typical dining time": "15:00-16:30",
+          "preferred distance": "0~300m",
+          "recent orders": [
+            {
+              "store": "Nayuki Tea",
+              "product": "Sugar-free Jasmine Tea"
+            },
+            {
+              "store": "Bread Talk",
+              "product": "Whole Wheat Walnut Bread"
+            },
+            {
+              "store": "Fresh Fruit Station",
+              "product": "Fruit Platter"
+            }
+          ],
+          "search history": [
+            "Sugar-free beverages",
+            "Low-fat desserts",
+            "Whole wheat bread",
+            "Healthy snacks"
+          ]
+        }
+      },
+      "other in-store services": {
+        "frequently consumed categories": {
+          "Sports & Fitness/Fitness Centers": "40%",
+          "Beauty/Yoga": "30%",
+          "Leisure & Entertainment/Massage/Foot Therapy": "15%",
+          "Beauty/Nail Art": "15%"
+        },
+        "cost per order by category": {
+          "Sports & Fitness/Fitness Centers": "80~200 yuan",
+          "Beauty/Yoga": "120~180 yuan",
+          "Leisure & Entertainment/Massage/Foot Therapy": "150~300 yuan",
+          "Beauty/Nail Art": "120~200 yuan"
+        },
+        "preferred store rating": "4.0~4.8 stars",
+        "preferred service time": "18:00-21:00",
+        "preferred distance": "0~2500m",
+        "recent orders": [
+          {
+            "store": "Super Gorilla Fitness (Xibeiwang Store)",
+            "product": "Individual Group Class"
+          },
+          {
+            "store": "Brahma Yoga",
+            "product": "Private Instruction Course"
+          },
+          {
+            "store": "Narui SPA",
+            "product": "Shoulder and Neck Relaxation Package"
+          }
+        ],
+        "search history": [
+          "Gym",
+          "Yoga classes",
+          "Shoulder and neck massage",
+          "Nail salon",
+          "Group fitness"
+        ]
+      }
+    },
+    "OTA": {
+      "visited scenes": {
+        "Cultural Heritage Sites": "25%",
+        "Exhibition Halls (Museums/Art Galleries)": "35%",
+        "Natural Landscapes (Mountains/Lakes/Forests)": "20%",
+        "Parks": "15%",
+        "Special Villages/Industrial Tourism/Uncategorized Projects": "5%"
+      },
+      "cost per night on hotel": "500~1000 yuan",
+      "visited hotels": {
+        "Atour": "40%",
+        "Ji Hotel": "25%",
+        "Orange Hotel": "15%",
+        "Vienna Hotel": "10%",
+        "Home Inn": "10%"
+      },
+      "browsed hotels": {
+        "Four-star Hotels": "30%",
+        "Three-star Hotels": "25%",
+        "Comfort Hotels": "35%",
+        "Economy Hotels": "10%"
+      },
+      "historical travel plans": {
+        "Beijing-Shanghai": {
+          "Price range": "550-800 yuan",
+          "Transportation method": "High-speed Rail/Bullet Train"
+        },
+        "Shanghai-Beijing": {
+          "Price range": "550-800 yuan",
+          "Transportation method": "High-speed Rail/Bullet Train"
+        },
+        "Beijing-Hangzhou": {
+          "Price range": "700-1200 yuan",
+          "Transportation method": "High-speed Rail/Bullet Train"
+        },
+        "Hangzhou-Beijing": {
+          "Price range": "700-1200 yuan",
+          "Transportation method": "High-speed Rail/Bullet Train"
+        },
+        "Beijing-Chengdu": {
+          "Price range": "800-1500 yuan",
+          "Transportation method": "Airplane"
+        },
+        "Chengdu-Beijing": {
+          "Price range": "800-1500 yuan",
+          "Transportation method": "Airplane"
+        },
+        "Beijing-Xi'an": {
+          "Price range": "500-800 yuan",
+          "Transportation method": "High-speed Rail/Bullet Train"
+        },
+        "Xi'an-Beijing": {
+          "Price range": "500-800 yuan",
+          "Transportation method": "High-speed Rail/Bullet Train"
+        }
+      }
+    }
+  },
+  "stores": {
+    "S17550806610851493_S00002": {
+      "name": "China Legal Publishing House Flagship Store",
+      "store_id": "S17550806610851493_S00002",
+      "score": 4.9,
+      "location": {
+        "address": "China Legal Publishing House Flagship Store, 39 East Fourth Ring Road, Chaoyang District, Beijing",
+        "latitude": 39.903,
+        "longitude": 116.493
+      },
+      "tags": [
+        "Law",
+        "Direct from Publisher",
+        "Hardcover Book",
+        "Collector's Edition",
+        "Next-day Delivery",
+        "Business Hours: 08:30-18:00"
+      ],
+      "store_type": "target",
+      "products": [
+        {
+          "name": "Jurisprudence\" (6th Edition) Hardcover Collector's Edition by Zhang Wenxian",
+          "store_id": "S17550806610851493_S00002",
+          "store_name": "China Legal Publishing House Flagship Store",
+          "price": 128,
+          "tags": [
+            "Jurisprudence",
+            "Hardcover Edition",
+            "Collector's Edition",
+            "Legal Classics",
+            "Required Reading for Judicial Examination"
+          ],
+          "product_id": "S17550806610851493_P00006",
+          "attributes": [],
+          "product_type": "target"
+        },
+        {
+          "name": "Civil Code of the People's Republic of China\" Hardcover Collector's Edition with Gold-stamped Cover",
+          "store_id": "S17550806610851493_S00002",
+          "store_name": "China Legal Publishing House Flagship Store",
+          "price": 98,
+          "tags": [
+            "Civil Code",
+            "Hardcover Edition",
+            "Gold-stamped Cover",
+            "Collector's Edition",
+            "Essential for Legal Professionals"
+          ],
+          "product_id": "S17550806610851493_P00007",
+          "attributes": [],
+          "product_type": "target"
+        },
+        {
+          "name": "Classic Legal Works Collection\" Deluxe Hardcover Edition (Complete 5 Volumes)",
+          "store_id": "S17550806610851493_S00002",
+          "store_name": "China Legal Publishing House Flagship Store",
+          "price": 568,
+          "tags": [
+            "Legal Classics",
+            "Hardcover Set",
+            "Deluxe Edition",
+            "Recommended for Judicial Examination",
+            "High Collectible Value"
+          ],
+          "product_id": "S17550806610851493_P00008",
+          "attributes": [],
+          "product_type": "target"
+        },
+        {
+          "name": "Introduction to Jurisprudence\" Paperback Edition - Introductory Law Textbook",
+          "store_id": "S17550806610851493_S00002",
+          "store_name": "China Legal Publishing House Flagship Store",
+          "price": 45,
+          "tags": [
+            "Jurisprudence",
+            "Paperback Edition",
+            "Introductory Textbook",
+            "Judicial Examination"
+          ],
+          "product_id": "S17550806610851493_P00009",
+          "attributes": [],
+          "product_type": "distraction"
+        },
+        {
+          "name": "Criminal Law\" (5th Edition) Hardcover Edition by Gao Mingxuan and Ma Kechang",
+          "store_id": "S17550806610851493_S00002",
+          "store_name": "China Legal Publishing House Flagship Store",
+          "price": 158,
+          "tags": [
+            "Criminal Law",
+            "Hardcover Edition",
+            "Legal Classics",
+            "Required Reading for Judicial Examination"
+          ],
+          "product_id": "S17550806610851493_P00010",
+          "attributes": [],
+          "product_type": "target"
+        }
+      ]
+    },
+    "S17550806610851493_S00003": {
+      "name": "Xinhua Bookstore (Xibeiwang Branch)",
+      "store_id": "S17550806610851493_S00003",
+      "score": 4.7,
+      "location": {
+        "address": "Xinhua Bookstore, 58 Xibeiwang Street, Haidian District, Beijing",
+        "latitude": 40.053,
+        "longitude": 116.312
+      },
+      "tags": [
+        "Books",
+        "Textbook",
+        "Stationery"
+      ],
+      "store_type": "distraction",
+      "products": [
+        {
+          "name": "History of Chinese Legal System\" (4th Edition) (Hardcover)",
+          "store_id": "S17550806610851493_S00003",
+          "store_name": "Xinhua Bookstore (Xibeiwang Branch)",
+          "price": 75,
+          "tags": [
+            "Law Textbook",
+            "Used Books",
+            "History of Chinese Legal System",
+            "Fundamentals of Law",
+            "With Notes"
+          ],
+          "product_id": "S17550806610851493_P00012",
+          "attributes": [],
+          "product_type": "distraction"
+        },
+        {
+          "name": "Criminal Law\" (5th Edition) (Higher Education Law Textbook Series) (Paperback)",
+          "store_id": "S17550806610851493_S00003",
+          "store_name": "Xinhua Bookstore (Xibeiwang Branch)",
+          "price": 68,
+          "tags": [
+            "Law Textbook",
+            "Paperback",
+            "Criminal Law",
+            "Higher Education",
+            "Gao Mingxuan"
+          ],
+          "product_id": "S17550806610851493_P00013",
+          "attributes": [],
+          "product_type": "distraction"
+        },
+        {
+          "name": "Legal Writing Guide\" (Paperback)",
+          "store_id": "S17550806610851493_S00003",
+          "store_name": "Xinhua Bookstore (Xibeiwang Branch)",
+          "price": 45,
+          "tags": [
+            "Legal Practice",
+            "Paperback",
+            "Document Writing",
+            "Legal Reference Book",
+            "Practical Guide"
+          ],
+          "product_id": "S17550806610851493_P00015",
+          "attributes": [],
+          "product_type": "distraction"
+        }
+      ]
+    },
+    "S17550806610851493_S00004": {
+      "name": "Dangdang Book Distribution Center",
+      "store_id": "S17550806610851493_S00004",
+      "score": 4.6,
+      "location": {
+        "address": "Dangdang Book Distribution Center, 58 Nanding Village, Songzhuang Town, Tongzhou District, Beijing",
+        "latitude": 39.957,
+        "longitude": 116.697
+      },
+      "tags": [
+        "Books",
+        "Delivery",
+        "Discount"
+      ],
+      "store_type": "distraction",
+      "products": [
+        {
+          "name": "Jurisprudence\" (5th Edition) Hardcover Collector's Edition",
+          "store_id": "S17550806610851493_S00004",
+          "store_name": "Dangdang Book Distribution Center",
+          "price": 128,
+          "tags": [
+            "Legal Classics",
+            "Hardcover",
+            "Collectible Value",
+            "Jurisprudence",
+            "Essential for Judicial Examination"
+          ],
+          "product_id": "S17550806610851493_P00016",
+          "attributes": [],
+          "product_type": "distraction"
+        },
+        {
+          "name": "History of Legal Thought\" Hardcover Collector's Edition",
+          "store_id": "S17550806610851493_S00004",
+          "store_name": "Dangdang Book Distribution Center",
+          "price": 158,
+          "tags": [
+            "Legal Classics",
+            "Hardcover",
+            "Collectible Value",
+            "Legal History",
+            "Gold-edged Design"
+          ],
+          "product_id": "S17550806610851493_P00017",
+          "attributes": [],
+          "product_type": "distraction"
+        },
+        {
+          "name": "History of Chinese Legal System\" Hardcover Collector's Edition",
+          "store_id": "S17550806610851493_S00004",
+          "store_name": "Dangdang Book Distribution Center",
+          "price": 145,
+          "tags": [
+            "Legal Classics",
+            "Hardcover",
+            "Collectible Value",
+            "Chinese Legal History",
+            "Judicial Examination Textbook"
+          ],
+          "product_id": "S17550806610851493_P00018",
+          "attributes": [],
+          "product_type": "distraction"
+        },
+        {
+          "name": "Legal Culture Studies\" Limited Hardcover Edition",
+          "store_id": "S17550806610851493_S00004",
+          "store_name": "Dangdang Book Distribution Center",
+          "price": 168,
+          "tags": [
+            "Legal Classics",
+            "Hardcover",
+            "Collectible Value",
+            "Legal Culture",
+            "Limited Numbered Edition"
+          ],
+          "product_id": "S17550806610851493_P00019",
+          "attributes": [],
+          "product_type": "distraction"
+        },
+        {
+          "name": "Legal Interpretation\" Deluxe Hardcover Edition",
+          "store_id": "S17550806610851493_S00004",
+          "store_name": "Dangdang Book Distribution Center",
+          "price": 135,
+          "tags": [
+            "Legal Classics",
+            "Hardcover",
+            "Collectible Value",
+            "Legal Interpretation",
+            "Gold-stamped Cover"
+          ],
+          "product_id": "S17550806610851493_P00020",
+          "attributes": [],
+          "product_type": "distraction"
+        }
+      ]
+    },
+    "S17550806610851493_S00005": {
+      "name": "Law University Book Garden",
+      "store_id": "S17550806610851493_S00005",
+      "score": 4.9,
+      "location": {
+        "address": "Law University Book Garden, 25 Xitucheng Road, Haidian District, Beijing",
+        "latitude": 40.037,
+        "longitude": 116.311
+      },
+      "tags": [
+        "Law",
+        "Hardcover Book",
+        "Professional Books",
+        "Collector's Edition"
+      ],
+      "store_type": "target",
+      "products": [
+        {
+          "name": "Jurisprudence\" (Hardcover Collector's Edition)",
+          "store_id": "S17550806610851493_S00005",
+          "store_name": "Law University Book Garden",
+          "price": 298,
+          "tags": [
+            "Legal Classics",
+            "Hardcover Collector's Edition",
+            "Required Reading for Judicial Examination",
+            "Jurisprudence",
+            "High Collectible Value"
+          ],
+          "product_id": "S17550806610851493_P00021",
+          "attributes": [],
+          "product_type": "target"
+        },
+        {
+          "name": "History of Legal Thought\" (Paperback Edition)",
+          "store_id": "S17550806610851493_S00005",
+          "store_name": "Law University Book Garden",
+          "price": 128,
+          "tags": [
+            "Legal Classics",
+            "Collector's Edition",
+            "Legal Theory",
+            "Intellectual History"
+          ],
+          "product_id": "S17550806610851493_P00023",
+          "attributes": [],
+          "product_type": "target"
+        },
+        {
+          "name": "Constitutional Law\" (Paperback Edition)",
+          "store_id": "S17550806610851493_S00005",
+          "store_name": "Law University Book Garden",
+          "price": 98,
+          "tags": [
+            "Legal Textbook",
+            "Paperback Edition",
+            "Required Reading for Judicial Examination",
+            "Constitutional Law"
+          ],
+          "product_id": "S17550806610851493_P00024",
+          "attributes": [],
+          "product_type": "distraction"
+        },
+        {
+          "name": "Criminal Law\" (E-book Edition)",
+          "store_id": "S17550806610851493_S00005",
+          "store_name": "Law University Book Garden",
+          "price": 68,
+          "tags": [
+            "Legal Textbook",
+            "E-book",
+            "Required Reading for Judicial Examination",
+            "Criminal Law"
+          ],
+          "product_id": "S17550806610851493_P00025",
+          "attributes": [],
+          "product_type": "distraction"
+        }
+      ]
+    }
+  },
+  "orders": {
+    "S17550806610851493_O00001": {
+      "order_id": "S17550806610851493_O00001",
+      "order_type": "delivery",
+      "user_id": "U958565",
+      "store_id": "S17550806610851493_S00005",
+      "total_price": 598.0,
+      "create_time": "2024-06-08 19:00:15",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17550806610851493_P00023",
+          "price": 328.0,
+          "quantity": 1
+        },
+        {
+          "product_id": "S17550806610851493_P00021",
+          "price": 298.0,
+          "quantity": 1
+        }
+      ]
+    }
+  }
+}

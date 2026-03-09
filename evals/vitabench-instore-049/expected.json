@@ -1,0 +1,84 @@
+{
+  "required_orders": [
+    {
+      "order_id": "10826105T001",
+      "order_type": "instore",
+      "user_id": "U013994",
+      "store_id": "S17567836567247343_I00001",
+      "note": "",
+      "location": null,
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 168,
+      "create_time": "2024-06-09 15:25:00",
+      "update_time": "2024-06-09 15:25:00",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17567836567247343_P00001",
+          "name": "Classic Pottery Experience Package (Including Clay + Tools + Glazing)",
+          "price": 168,
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "reservation_id": "10826105T002",
+      "shop_id": "S17567836567247343_I00001",
+      "reservation_time": "2024-06-11 09:00:00",
+      "update_time": "2024-06-09 15:28:00",
+      "customer_id": "U013994",
+      "customer_count": 1,
+      "status": "paid"
+    },
+    {
+      "order_id": "10826105T003",
+      "order_type": "instore",
+      "user_id": "U013994",
+      "store_id": "S17567836567247343_I00002",
+      "note": "",
+      "location": null,
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 78,
+      "create_time": "2024-06-09 15:31:04",
+      "update_time": "2024-06-09 15:31:04",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17567836567247343_P00018",
+          "name": "The Disappeared\" Six-player Script Single Carpool Ticket",
+          "price": 78,
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "reservation_id": "10826105T004",
+      "shop_id": "S17567836567247343_I00002",
+      "reservation_time": "2024-06-10 10:00:00",
+      "update_time": "2024-06-09 15:33:20",
+      "customer_id": "U013994",
+      "customer_count": 1,
+      "status": "paid"
+    }
+  ],
+  "rubrics": [
+    "The pottery workshop order should be a pottery experience package",
+    "The pottery workshop package should include basic operation tools",
+    "The pottery workshop package should include production materials",
+    "The pottery workshop ordered should be Niba Craftsman Pottery Workshop",
+    "The pottery workshop booked should be Niba Craftsman Pottery Workshop",
+    "The number of people for the pottery workshop booking is 1",
+    "Should check if the ordered pottery workshop item can be used on June 10, 2024 (Dragon Boat Festival), the result is no, so the pottery workshop appointment time is June 11, 2024, 09:00",
+    "Should check if the ordered pottery workshop item can be used on June 10, 2024 (Dragon Boat Festival), the result is no, so need to check the user's behavior history, the last murder mystery game store the user played at was Immersive Murder Mystery Game (Taikoo Li Branch), so the murder mystery game store order should be Immersive Murder Mystery Game (Taikoo Li Branch)",
+    "The murder mystery game store order should be a Single Carpool Ticket",
+    "The murder mystery game store order should not contain horror elements",
+    "The murder mystery game store order should be usable on June 10, 2024 (Dragon Boat Festival)",
+    "The murder mystery game store booked should be Immersive Murder Mystery Game (Taikoo Li Branch)",
+    "The murder mystery game store appointment time is June 10, 2024, 10:00",
+    "The number of people for the murder mystery game store booking is 1"
+  ]
+}

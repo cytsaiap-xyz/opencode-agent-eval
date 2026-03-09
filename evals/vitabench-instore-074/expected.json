@@ -1,0 +1,70 @@
+{
+  "required_orders": [
+    {
+      "order_id": "10826241T001",
+      "order_type": "instore",
+      "user_id": "U281023",
+      "store_id": "S17567842388731266_I00001",
+      "note": "",
+      "location": null,
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 588,
+      "create_time": "2023-09-28 14:22:12",
+      "update_time": "2023-09-28 14:22:12",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17567842388731266_P00001",
+          "name": "National Day Family Reunion Set for 3-4 People",
+          "price": 588,
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "book_id": "10826241T002",
+      "shop_id": "S17567842388731266_I00001",
+      "book_time": "2023-10-01 11:30:00",
+      "update_time": "2023-09-28 14:24:00",
+      "customer_id": "U281023",
+      "customer_count": 3,
+      "book_price": 10,
+      "status": "paid"
+    },
+    {
+      "order_id": "10826241T003",
+      "order_type": "instore",
+      "user_id": "U281023",
+      "store_id": "S17567842388731266_I00003",
+      "note": "",
+      "location": null,
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 398,
+      "create_time": "2023-09-28 14:26:00",
+      "update_time": "2023-09-28 14:26:00",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17567842388731266_P00019",
+          "name": "Classic Couples Massage Package",
+          "price": 398,
+          "quantity": 1
+        }
+      ]
+    }
+  ],
+  "rubrics": [
+    "The restaurant ordered should be a Huaiyang cuisine restaurant",
+    "Check if the restaurant offers special National Day discount set menus, the result is yes, so the ordered items should be National Day special discount set menus",
+    "The total price of items in the restaurant order should be less than or equal to 600 yuan",
+    "The reserved restaurant should be Song He Lou (Xujiahui Branch)",
+    "The restaurant reservation time is 2023-10-01 11:30:00",
+    "The number of people for the restaurant reservation is 3",
+    "The massage shop ordered should be Royal Foot Massage (Yishan Road Branch)",
+    "The ordered item at the massage shop should be a couples massage package"
+  ]
+}

@@ -1,0 +1,93 @@
+{
+  "required_orders": [
+    {
+      "order_id": "70807001T001",
+      "order_type": "hotel",
+      "user_id": "U010017",
+      "store_id": "S17557510281733481_H00001",
+      "note": "",
+      "location": null,
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 1560,
+      "create_time": "2027-02-24 15:23:38",
+      "update_time": "2027-02-24 15:23:38",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17557510281733481_P00007",
+          "price": 780,
+          "quantity": 1,
+          "date": "2027-03-04",
+          "room_type": "West Lake View King Room"
+        },
+        {
+          "product_id": "S17557510281733481_P00008",
+          "price": 780,
+          "quantity": 1,
+          "date": "2027-03-05",
+          "room_type": "West Lake View King Room"
+        }
+      ]
+    },
+    {
+      "order_id": "70807001T002",
+      "order_type": "attraction",
+      "user_id": "U010017",
+      "store_id": "S17557510281733481_A00006",
+      "note": "",
+      "location": null,
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 108,
+      "create_time": "2027-02-24 15:26:00",
+      "update_time": "2027-02-24 15:26:00",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17557510281733481_P00053",
+          "price": 108,
+          "quantity": 1,
+          "date": "2027-03-04",
+          "ticket_type": "Adult Ticket + Incense and Candle Set + Guided Tour Service"
+        }
+      ]
+    },
+    {
+      "order_id": "70807001T003",
+      "order_type": "attraction",
+      "user_id": "U010017",
+      "store_id": "S17557510281733481_A00007",
+      "note": "",
+      "location": null,
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 20,
+      "create_time": "2027-02-24 15:28:00",
+      "update_time": "2027-02-24 15:28:00",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17557510281733481_P00063",
+          "price": 20,
+          "quantity": 1,
+          "date": "2027-03-05",
+          "ticket_type": "Contemporary Art Exhibition Ticket"
+        }
+      ]
+    }
+  ],
+  "rubrics": [
+    "Need to check the weather in Hangzhou on March 4, 2027 and March 5, 2027, which shows cloudy and sunny respectively, neither is rainy, so the distance between the hotel in the hotel order and the West Lake Scenic Area at 1 Longjing Road, West Lake District, Hangzhou, Zhejiang Province should be less than or equal to 500 meters",
+    "The hotel order should include rooms for two nights, specifically for 2027-03-04 and 2027-03-05",
+    "The attraction in the attraction order with date 2027-03-04 should be Lingyin Temple",
+    "The ticket in the attraction order with date 2027-03-04 should be Adult Ticket",
+    "The ticket in the attraction order with date 2027-03-04 should include an Incense and Candle Set",
+    "The ticket in the attraction order with date 2027-03-04 should include Guided Tour Service",
+    "The attraction in the attraction order with date 2027-03-05 should be Zhejiang Art Museum",
+    "The ticket in the attraction order with date 2027-03-05 should be Contemporary Art Exhibition Ticket"
+  ]
+}

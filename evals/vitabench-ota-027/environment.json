@@ -1,0 +1,274 @@
+{
+  "task_id": "70807010",
+  "domain": "ota",
+  "time": "2021-06-21 21:31:56",
+  "user_id": "U010037",
+  "weather": [
+    {
+      "city": "Shaoxing",
+      "category": "cloudy",
+      "datetime": "2021-06-21",
+      "temperature": [
+        22,
+        28
+      ],
+      "humidity": 75
+    },
+    {
+      "city": "Lhasa",
+      "category": "sunny",
+      "datetime": "2021-06-21",
+      "temperature": [
+        8,
+        22
+      ],
+      "humidity": 45
+    }
+  ],
+  "location": [
+    {
+      "address": "Room 502, Building 3, Fushan Garden, 128 Shenglidong Road, Yuecheng District, Shaoxing, Zhejiang Province",
+      "longitude": 120.582112,
+      "latitude": 29.997117
+    },
+    {
+      "address": "Shaoxing Passenger Transport Center, 1888 Jin Keqiao Avenue, Keqiao District, Shaoxing, Zhejiang Province",
+      "longitude": 120.496904,
+      "latitude": 30.078644
+    }
+  ],
+  "user_profile": {
+    "user id": "U010037",
+    "occupation": "Driver",
+    "gender": "female",
+    "age group": "35~40",
+    "residence": "Shaoxing",
+    "home address": "Room 502, Building 3, Fushan Garden, 128 Shenglidong Road, Yuecheng District, Shaoxing, Zhejiang Province",
+    "work address": "Shaoxing Passenger Transport Center, 1888 Jin Keqiao Avenue, Keqiao District, Shaoxing, Zhejiang Province",
+    "dietary restrictions": "No caffeine, No fried food",
+    "family status": "Has pets",
+    "personality": "Jumpy and scattered thinking, easily distracted and prone to changing mind"
+  },
+  "user_historical_behaviors": {
+    "user id": "U010037",
+    "occupation": "Driver",
+    "gender": "female",
+    "age group": "35~40",
+    "residence": "Shaoxing",
+    "home address": "Room 502, Building 3, Fushan Garden, 128 Shenglidong Road, Yuecheng District, Shaoxing, Zhejiang Province",
+    "work address": "Shaoxing Passenger Transport Center, 1888 Jin Keqiao Avenue, Keqiao District, Shaoxing, Zhejiang Province",
+    "visited scenes": {
+      "Cultural and Historical Sites": "35%",
+      "Natural Landscapes (Mountains/Lakes/Forests)": "25%",
+      "Featured Villages/Industrial Tourism/Uncategorized Sites": "15%",
+      "Hot Spring Scenic Areas": "20%",
+      "Parks": "5%"
+    },
+    "cost per night on hotel": "300~500 yuan",
+    "visited hotels": {
+      "Home Inn": "30%",
+      "Hanting": "25%",
+      "7 Days Inn": "15%",
+      "Ji Hotel": "20%",
+      "Jinjiang Inn": "10%"
+    },
+    "browsed hotels": {
+      "Three-star Hotels": "40%",
+      "Economy Hotels": "45%",
+      "Comfort Hotels": "15%"
+    },
+    "historical travel plans": {
+      "Shaoxing-Hangzhou": {
+        "Price Range": "30-50 yuan",
+        "Transportation Mode": "Long-distance Bus"
+      },
+      "Shaoxing-Shanghai": {
+        "Price Range": "80-120 yuan",
+        "Transportation Mode": "High-speed/Bullet Train"
+      },
+      "Shaoxing-Ningbo": {
+        "Price Range": "60-100 yuan",
+        "Transportation Mode": "High-speed/Bullet Train"
+      },
+      "Shaoxing-Huangshan": {
+        "Price Range": "200-300 yuan",
+        "Transportation Mode": "Long-distance Bus"
+      },
+      "Shaoxing-Suzhou": {
+        "Price Range": "100-150 yuan",
+        "Transportation Mode": "High-speed/Bullet Train"
+      }
+    }
+  },
+  "stores": {},
+  "orders": {
+    "S17557505485023605_O00001": {
+      "order_id": "S17557505485023605_O00001",
+      "order_type": "hotel",
+      "user_id": "U010037",
+      "store_id": "S17557505485023605_H00001",
+      "note": "High school classmate reunion, need Oxygen Supply Facilities",
+      "location": {
+        "address": "InterContinental Lhasa Paradise, 1 Jiangsu Road, Chengguan District, Lhasa, Tibet Autonomous Region",
+        "longitude": 91.1174,
+        "latitude": 29.6516
+      },
+      "dispatch_time": "",
+      "shipping_time": 0.0,
+      "delivery_time": "",
+      "total_price": 2640.0,
+      "create_time": "2021-06-20 14:30:00",
+      "update_time": "2021-06-20 14:30:00",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17557505485023605_P00001",
+          "price": 880.0,
+          "quantity": 3,
+          "date": "2021-07-04",
+          "room_type": "Deluxe Twin Room"
+        }
+      ]
+    },
+    "S17557505485023605_O00002": {
+      "order_id": "S17557505485023605_O00002",
+      "order_type": "hotel",
+      "user_id": "U010037",
+      "store_id": "S17557505485023605_H00001",
+      "note": "Extended stay for second night",
+      "location": {
+        "address": "InterContinental Lhasa Paradise, 1 Jiangsu Road, Chengguan District, Lhasa, Tibet Autonomous Region",
+        "longitude": 91.1174,
+        "latitude": 29.6516
+      },
+      "dispatch_time": "",
+      "shipping_time": 0.0,
+      "delivery_time": "",
+      "total_price": 2640.0,
+      "create_time": "2021-06-20 14:35:00",
+      "update_time": "2021-06-20 14:35:00",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17557505485023605_P00004",
+          "price": 880.0,
+          "quantity": 3,
+          "date": "2021-07-05",
+          "room_type": "Deluxe Twin Room"
+        }
+      ]
+    },
+    "S17557505485023605_O00003": {
+      "order_id": "S17557505485023605_O00003",
+      "order_type": "hotel",
+      "user_id": "U010037",
+      "store_id": "S17557505485023605_H00001",
+      "note": "Extended stay for third night",
+      "location": {
+        "address": "InterContinental Lhasa Paradise, 1 Jiangsu Road, Chengguan District, Lhasa, Tibet Autonomous Region",
+        "longitude": 91.1174,
+        "latitude": 29.6516
+      },
+      "dispatch_time": "",
+      "shipping_time": 0.0,
+      "delivery_time": "",
+      "total_price": 2640.0,
+      "create_time": "2021-06-20 14:40:00",
+      "update_time": "2021-06-20 14:40:00",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17557505485023605_P00006",
+          "price": 880.0,
+          "quantity": 3,
+          "date": "2021-07-06",
+          "room_type": "Deluxe Twin Room"
+        }
+      ]
+    },
+    "S17557505485023605_O00004": {
+      "order_id": "S17557505485023605_O00004",
+      "order_type": "flight",
+      "user_id": "U010037",
+      "store_id": "S17557505485023605_F00011",
+      "note": "Group ticket for 6 people, Shaoxing-Lhasa",
+      "location": {
+        "address": "Hangzhou Xiaoshan International Airport, Airport Highway, Xiaoshan District, Hangzhou, Zhejiang Province",
+        "longitude": 120.4342,
+        "latitude": 30.2295
+      },
+      "dispatch_time": "",
+      "shipping_time": 0.0,
+      "delivery_time": "",
+      "total_price": 7680.0,
+      "create_time": "2021-06-20 15:20:00",
+      "update_time": "2021-06-20 15:20:00",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17557505485023605_P00092",
+          "price": 1280.0,
+          "quantity": 6,
+          "date": "2021-07-03",
+          "seat_type": "Economy Class"
+        }
+      ]
+    },
+    "S17557505485023605_O00005": {
+      "order_id": "S17557505485023605_O00005",
+      "order_type": "attraction",
+      "user_id": "U010037",
+      "store_id": "S17557505485023605_A00006",
+      "note": "Potala Palace ticket reservation",
+      "location": {
+        "address": "Potala Palace, 35 Gongqian Lane, Beijing Middle Road, Chengguan District, Lhasa, Tibet Autonomous Region",
+        "longitude": 91.117,
+        "latitude": 29.6558
+      },
+      "dispatch_time": "",
+      "shipping_time": 0.0,
+      "delivery_time": "",
+      "total_price": 1200.0,
+      "create_time": "2021-06-19 16:45:00",
+      "update_time": "2021-06-19 16:45:00",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17557505485023605_P00047",
+          "price": 200.0,
+          "quantity": 6,
+          "date": "2021-07-24",
+          "ticket_type": "Adult Ticket"
+        }
+      ]
+    },
+    "S17557505485023605_O00006": {
+      "order_id": "S17557505485023605_O00006",
+      "order_type": "attraction",
+      "user_id": "U010037",
+      "store_id": "S17557505485023605_A00007",
+      "note": "Jokhang Temple ticket reservation",
+      "location": {
+        "address": "Jokhang Temple, Barkhor Street, Chengguan District, Lhasa, Tibet Autonomous Region",
+        "longitude": 91.1335,
+        "latitude": 29.6515
+      },
+      "dispatch_time": "",
+      "shipping_time": 0.0,
+      "delivery_time": "",
+      "total_price": 510.0,
+      "create_time": "2021-06-19 17:10:00",
+      "update_time": "2021-06-19 17:10:00",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17557505485023605_P00059",
+          "price": 85.0,
+          "quantity": 6,
+          "date": "2021-07-23",
+          "ticket_type": "Adult Ticket"
+        }
+      ]
+    }
+  }
+}

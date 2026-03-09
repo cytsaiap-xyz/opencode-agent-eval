@@ -1,0 +1,76 @@
+{
+  "required_orders": [
+    {
+      "order_id": "70808003T001",
+      "order_type": "flight",
+      "user_id": "U010041",
+      "store_id": "S17557505502056324_F00010",
+      "note": "",
+      "location": null,
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 1180,
+      "create_time": "2024-08-12 20:56:21",
+      "update_time": "2024-08-12 20:56:21",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17557505502056324_P00078",
+          "price": 1180,
+          "quantity": 1,
+          "date": "2024-08-27",
+          "seat_type": "Economy Class"
+        }
+      ]
+    },
+    {
+      "order_id": "70808003T002",
+      "order_type": "hotel",
+      "user_id": "U010041",
+      "store_id": "S17557112364479019_H00001",
+      "note": "",
+      "location": null,
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 9408,
+      "create_time": "2024-08-12 20:59:21",
+      "update_time": "2024-08-12 20:59:21",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17557505502056324_P00021",
+          "price": 588,
+          "quantity": 4,
+          "date": "2024-08-28",
+          "room_type": "Uyghur Style King Room"
+        },
+        {
+          "product_id": "S17557505502056324_P00018",
+          "price": 588,
+          "quantity": 4,
+          "date": "2024-08-29",
+          "room_type": "Uyghur Style King Room"
+        },
+        {
+          "product_id": "S17557505502056324_P00022",
+          "price": 588,
+          "quantity": 4,
+          "date": "2024-08-30",
+          "room_type": "Uyghur Style King Room"
+        }
+      ]
+    }
+  ],
+  "rubrics": [
+    "Flight departure date must be August 27, 2024 (three days before birthday)",
+    "Flight order must be scheduled in the afternoon to evening, allowing passengers to see the sunset from the plane",
+    "Need to check the departure and arrival times of train K9786, which are 11:41 departure and 22:58 arrival",
+    "Accommodation in Kashgar must be booked for 3 nights",
+    "Kashgar accommodation check-in dates must be August 28, 2024, August 29, 2024, and August 30, 2024 respectively",
+    "Accommodation in Kashgar must be a hotel with Uyghur characteristics",
+    "Must book 4 rooms per night for the Kashgar accommodation",
+    "The hotel in Kashgar must provide parking services or have a Parking Lot"
+  ]
+}

@@ -1,0 +1,160 @@
+{
+  "required_orders": [
+    {
+      "order_id": "A0812004T001",
+      "order_type": "delivery",
+      "user_id": "U575267",
+      "store_id": "S17550802126117462_S00002",
+      "note": "",
+      "location": {
+        "address": "Room 2503, 25th Floor, Times Avenue, No. 88 Jiefangbei Pedestrian Street, Yuzhong District, Chongqing",
+        "longitude": 106.5821,
+        "latitude": 29.5569
+      },
+      "dispatch_time": "2026-09-07 17:40:00",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 46,
+      "create_time": "2026-09-07 17:27:00",
+      "update_time": "2026-09-07 17:27:00",
+      "status": "in-progress",
+      "products": [
+        {
+          "product_id": "S17550802126117462_P00008",
+          "price": 46,
+          "quantity": 1,
+          "name": "Avocado and Salmon Salad",
+          "store_id": "S17550802126117462_S00002",
+          "store_name": "Green Field Light Meals (Jiefangbei Branch)",
+          "attributes": [
+            "Caesar Dressing"
+          ],
+          "tags": [
+            "Highly Satiating",
+            "High Protein",
+            "Healthy",
+            "Salad"
+          ]
+        }
+      ]
+    },
+    {
+      "book_id": "A0812004T002",
+      "shop_id": "S17550802126117462_I00011",
+      "book_time": "2026-09-07 19:00:00",
+      "update_time": "2026-09-07 17:29:00",
+      "customer_id": "U575267",
+      "customer_count": 1,
+      "book_price": 0,
+      "status": "paid"
+    },
+    {
+      "order_id": "S17550802126117462_O00008",
+      "order_type": "instore",
+      "user_id": "U575267",
+      "store_id": "S17550802126117462_I00011",
+      "note": "",
+      "location": null,
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 88,
+      "create_time": "2026-09-07 17:30:52",
+      "updatse_time": "2026-09-07 17:30:52",
+      "status": "unconsumed",
+      "products": [
+        {
+          "product_id": "S17550802126117462_P00055",
+          "price": 88,
+          "quantity": 1,
+          "name": "Premium Coffee Set for Two",
+          "shop_id": "S17550802126117462_I00011",
+          "tags": [
+            "Specialty Coffee",
+            "Choose 2 from 6"
+          ]
+        }
+      ]
+    },
+    {
+      "order_id": "S17550802126117462_O00004",
+      "order_type": "train",
+      "user_id": "U575267",
+      "store_id": "S17550802126117462_T00006",
+      "note": "",
+      "location": {
+        "address": "Chongqing North Railway Station, Shapingba District, Chongqing",
+        "longitude": 106.4849,
+        "latitude": 29.6126
+      },
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 152,
+      "create_time": "2026-09-01 12:35:42",
+      "update_time": "2026-09-01 12:35:42",
+      "status": "cancelled",
+      "products": [
+        {
+          "product_id": "S17550802126117462_P00026",
+          "price": 152,
+          "quantity": 1,
+          "date": "2026-09-08",
+          "seat_type": "Second Class Seat"
+        }
+      ]
+    },
+    {
+      "order_id": "A0812004T003",
+      "order_type": "train",
+      "user_id": "U575267",
+      "store_id": "S17550802126117462_T00007",
+      "note": "",
+      "location": {
+        "address": "Chongqing North Railway Station, Shapingba District, Chongqing",
+        "longitude": 106.4849,
+        "latitude": 29.6126
+      },
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 112,
+      "create_time": "2026-09-07 17:35:42",
+      "update_time": "2026-09-07 17:35:42",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17550802126117462_P00031",
+          "price": 112,
+          "quantity": 1,
+          "date": "2026-09-08",
+          "seat_type": "Second Class Seat"
+        }
+      ]
+    }
+  ],
+  "rubrics": [
+    "The rating of the delivery restaurant should be greater than or equal to 4.3",
+    "The delivery order should not be a set meal for two",
+    "The delivery restaurant should offer dine-in service",
+    "The delivery food should be Light Meal",
+    "The delivery food should be Highly Satiating",
+    "The delivery food should be Non-spicy",
+    "The delivery should not contain Offal",
+    "The delivery address must be Room 2503, 25th Floor, Times Avenue, No. 88 Jiefangbei Pedestrian Street, Yuzhong District, Chongqing",
+    "The estimated delivery time should be before 2026-09-07 18:00:00",
+    "The coffee shop should be open 24 Hours",
+    "The coffee shop should be within 600 meters from Room 2503, 25th Floor, Times Avenue, No. 88 Jiefangbei Pedestrian Street, Yuzhong District, Chongqing",
+    "Should not choose noisy coffee shops (such as those with Band Performance)",
+    "The coffee shop should provide WiFi",
+    "Need to reserve a booth at the coffee shop for 7pm",
+    "The reservation at the coffee shop should be for 1 person",
+    "The ordered items should include two cups of coffee",
+    "The ordered items should be from Maan Coffee (Jiefangbei 24-Hour Branch)",
+    "Need to check the departure time of the user's purchased ticket to Zunyi, and should inform the user that the purchased D1825 train departs from Chongqing North Railway Station at 11:25 tomorrow (2026-09-08) and arrives at Zunyi Railway Station at 12:48",
+    "If the train departure time is before 12pm, order number S17550802126117462_O00004 should be canceled",
+    "The departure station for the train ticket should be Chongqing North Railway Station",
+    "The arrival station for the train ticket should be Zunyi Railway Station",
+    "The train ticket should be for a train departing between 13:00-15:00 on 2026-09-08"
+  ]
+}

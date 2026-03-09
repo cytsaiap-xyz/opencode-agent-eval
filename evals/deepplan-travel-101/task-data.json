@@ -1,0 +1,50 @@
+{
+  "task_id": "100",
+  "query": "I plan to travel from Fuzhou to Hangzhou on November 12, 2025, and return to Fuzhou on November 18, 2025. Could you please help me plan the entire trip, including transportation, accommodation, meals, and sightseeing arrangements? By the way, I'd like to take trains both ways, and for the outbound journey, please choose the most affordable high-speed train that's direct.\n\nAs for accommodation, there should be plenty of four-star hotels in Hangzhou—please pick the one with the highest guest rating. I prefer staying at well-reviewed hotels because they feel more comfortable and reliable. There are two of us traveling, so we’ll need one rooms.\n\nAlso, there are two places I especially want to visit: 'Qinghefang Pedestrian Street' and 'Viewing Fish at Flower Harbor'. Please make sure both are included in the itinerary. Additionally, when visiting 'Viewing Fish at Flower Harbor', I’d like to have a meal nearby—ideally at a halal restaurant. I’ve heard Hangzhou has some good halal cuisine, and I’d like to give it a try.\n\nThat covers my main requirements. I believe I've provided all necessary information—please go ahead and create the travel plan without asking me further questions about preferences! November 12, 2025 is Wednesday",
+  "meta_info": {
+    "org": "Fuzhou",
+    "dest": [
+      "Hangzhou"
+    ],
+    "days": 7,
+    "depart_date": "2025-11-12",
+    "return_date": "2025-11-18",
+    "people_number": 2,
+    "room_number": 1
+  },
+  "hard_constraints": {
+    "train_cheapest_train_type": {
+      "constraint_context": "I hope to take a train for the outbound journey, and need to select the cheapest direct high-speed rail option available",
+      "constraint_type": "superlative_cheapest_train_type",
+      "outbound_train_no": "G3060"
+    },
+    "hotel_star_highest_rated": {
+      "constraint_context": "For accommodation, please select the highest-rated hotel among 4-star hotels.",
+      "constraint_type": "superlative_star_highest_rated",
+      "hotel_name": "Hampton by Hilton Hangzhou Binjiang",
+      "hotel_star": 4,
+      "hotel_price": 399.0,
+      "hotel_score": 4.8
+    },
+    "attraction_must_visit_named": {
+      "constraint_context": "The itinerary must include visits to 'Qinghefang Pedestrian Street' and 'Viewing Fish at Flower Harbor'.",
+      "constraint_type": "superlative_must_visit_named",
+      "attraction_names": [
+        "Qinghefang Pedestrian Street",
+        "Viewing Fish at Flower Harbor"
+      ],
+      "attraction_ratings": [
+        4.7,
+        4.8
+      ]
+    },
+    "restaurant_specific_cuisine_nearby": {
+      "constraint_context": "Please arrange a meal at a restaurant near 'Viewing Fish at Flower Harbor' that serves Halal cuisine during the trip.",
+      "constraint_type": "superlative_specific_cuisine_nearby",
+      "attraction_name": "Viewing Fish at Flower Harbor",
+      "restaurant_name": "Halal Yixiangyuan Restaurant - Roasted Lamb Ribs & Pilaf",
+      "price_per_person": 100.0,
+      "restaurant_rating": 3.9
+    }
+  }
+}

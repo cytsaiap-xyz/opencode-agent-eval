@@ -1,0 +1,86 @@
+{
+  "required_orders": [
+    {
+      "order_id": "OT64e3047b69",
+      "order_type": "delivery",
+      "user_id": "U069141",
+      "store_id": "S17550809460281769_S00001",
+      "note": "Please deliver before 12:00",
+      "location": {
+        "address": "Building 12, 3rd Floor, Zone C, Nanning Software Park, No.15 Innovation Road, High-tech Zone, Xixiangtang District, Nanning, Guangxi Zhuang Autonomous Region",
+        "longitude": 108.290733,
+        "latitude": 22.849761
+      },
+      "dispatch_time": "2025-05-19 10:45:00",
+      "shipping_time": 26,
+      "delivery_time": "2025-05-19 11:11:00",
+      "total_price": 68,
+      "create_time": "2025-05-19 10:36:45",
+      "update_time": "2025-05-19 10:36:45",
+      "status": "delivered",
+      "products": [
+        {
+          "product_id": "S17550809460281769_P00001",
+          "price": 68,
+          "quantity": 1,
+          "name": "Signature Chicken with Pig Stomach Pot (Deluxe Single Serving)",
+          "store_id": "S17550809460281769_S00001",
+          "store_name": "Old Guangzhou Chicken with Pig Stomach",
+          "attributes": "No scallions",
+          "tags": []
+        }
+      ]
+    },
+    {
+      "order_id": "A0811007T001",
+      "order_type": "train",
+      "user_id": "U069141",
+      "store_id": "S17550809460281769_T00006",
+      "note": "",
+      "location": "",
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 1288,
+      "create_time": "2025-05-19 10:38:41",
+      "update_time": "2025-05-19 10:38:41",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17550809460281769_P00027",
+          "price": 1288,
+          "quantity": 1,
+          "date": "2025-05-29",
+          "seat_type": "Business Class Seat"
+        }
+      ]
+    },
+    {
+      "book_id": "A0811007T002",
+      "shop_id": "S17550809460281769_I00015",
+      "book_time": "2025-05-19 20:00:00",
+      "update_time": "2025-05-19 10:39:13",
+      "customer_id": "U069141",
+      "customer_count": 1,
+      "book_price": 158,
+      "status": "paid"
+    }
+  ],
+  "rubrics": [
+    "The merchant in the food delivery order must offer dine-in service",
+    "The food delivery order must be for Chicken with Pig Stomach",
+    "The food delivery items must not contain scallions",
+    "The price of items in the food delivery order must be 50 yuan or more",
+    "The delivery address for the food order must be Building 12, 3rd Floor, Zone C, Nanning Software Park, No.15 Innovation Road, High-tech Zone, Xixiangtang District, Nanning, Guangxi Zhuang Autonomous Region",
+    "The delivery time for the food order should be before 12:00 on May 19, 2025",
+    "The train ticket must be for the shortest journey time, and the train should be G1256",
+    "If no suitable High-Speed Train tickets are available the day before Dragon Boat Festival (2025-05-30), then the train ticket purchase date should be May 29, 2025",
+    "The train ticket should be for Business Class Seat",
+    "The reserved bar must provide Live Music performance",
+    "The reserved bar must offer Exquisite Cocktail",
+    "The reserved bar must offer Solo Drinking Set",
+    "The bar's Solo Drinking Set should include Appetizers",
+    "The bar reservation time should be 20:00 on May 19, 2025",
+    "The bar reservation should be for 1 person"
+  ]
+}

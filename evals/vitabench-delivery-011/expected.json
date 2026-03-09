@@ -1,0 +1,102 @@
+{
+  "required_orders": [
+    {
+      "order_id": "20715002T01",
+      "order_type": "delivery",
+      "user_id": "U000034",
+      "store_id": "S11668798961810671_S70508",
+      "note": "",
+      "location": {
+        "address": "Tsinghua Science Park, 101 University Road, Tangjia Bay, Xiangzhou District, Zhuhai City, Guangdong Province",
+        "longitude": 113.584672,
+        "latitude": 22.345392
+      },
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 18,
+      "create_time": "2025-08-08 11:00:00",
+      "update_time": "2025-08-08 11:03:00",
+      "status": "cancelled",
+      "products": [
+        {
+          "product_id": "S19986369287600600_P19459",
+          "price": 18,
+          "quantity": 1,
+          "attributes": "Extra ice"
+        }
+      ]
+    },
+    {
+      "order_id": "20715002T02",
+      "order_type": "delivery",
+      "user_id": "U000034",
+      "store_id": "S25744658143312475_S05797",
+      "note": "Please provide an extra set of cutlery",
+      "location": {
+        "address": "Tsinghua Science Park, 101 University Road, Tangjia Bay, Xiangzhou District, Zhuhai City, Guangdong Province",
+        "longitude": 113.584672,
+        "latitude": 22.345392
+      },
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 21,
+      "create_time": "2025-08-08 11:05:00",
+      "update_time": "2025-08-08 11:05:00",
+      "status": "unpaid",
+      "products": [
+        {
+          "product_id": "S22921725616497759_P64399",
+          "price": 18,
+          "quantity": 1,
+          "attributes": ""
+        },
+        {
+          "product_id": "S22354168124977757_P23954",
+          "price": 3,
+          "quantity": 1,
+          "attributes": ""
+        }
+      ]
+    },
+    {
+      "order_id": "20715002T03",
+      "order_type": "delivery",
+      "user_id": "U000034",
+      "store_id": "S25096963193279629_S52306",
+      "note": "",
+      "location": {
+        "address": "Tsinghua Science Park, 101 University Road, Tangjia Bay, Xiangzhou District, Zhuhai City, Guangdong Province",
+        "longitude": 113.584672,
+        "latitude": 22.345392
+      },
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 15.99,
+      "create_time": "2025-08-08 11:07:00",
+      "update_time": "2025-08-08 11:07:00",
+      "status": "processed",
+      "products": [
+        {
+          "product_id": "S24871042340866006_P28026",
+          "price": 15.99,
+          "quantity": 1,
+          "attributes": "Hot"
+        }
+      ]
+    }
+  ],
+  "rubrics": [
+    "Successfully cancel the user's iced coffee order from Night of No Mistake · Coffee in Morning, Wine at Night, the order with id 20715002T01 should be changed to cancelled status",
+    "The delivery address for the Yuxiang Shredded Pork lunch order should be Tsinghua Science Park, 101 University Road, Tangjia Bay, Xiangzhou District, Zhuhai City, Guangdong Province",
+    "The estimated delivery time for the Yuxiang Shredded Pork lunch order should be on or before 2025-08-08 12:00:00",
+    "The Yuxiang Shredded Pork lunch order should include a note requesting an extra set of cutlery to ensure an additional pair of chopsticks is available",
+    "The delivery address for the new latte order should be Tsinghua Science Park, 101 University Road, Tangjia Bay, Xiangzhou District, Zhuhai City, Guangdong Province",
+    "The estimated delivery time for the replacement latte order should be around 2025-08-08 14:00:00",
+    "When selecting a replacement latte, avoid Night of No Mistake · Coffee in Morning, Wine at Night and choose another coffee shop",
+    "When selecting a replacement latte, choose a product that Contains coconut milk to satisfy the requirement for a strong coconut flavor",
+    "When selecting a replacement latte, choose a hot drink temperature to avoid cold drinks irritating the digestive system"
+  ]
+}

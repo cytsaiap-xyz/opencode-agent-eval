@@ -1,0 +1,426 @@
+{
+  "task_id": "20715002",
+  "domain": "delivery",
+  "time": "2025-08-08 11:01:36",
+  "user_id": "U000034",
+  "weather": [
+    {
+      "city": "Zhuhai City",
+      "category": "sunny",
+      "datetime": "2025-08-08",
+      "temperature": [
+        27,
+        31
+      ],
+      "humidity": 70
+    }
+  ],
+  "location": [
+    {
+      "address": "Tsinghua Science Park, 101 University Road, Tangjia Bay, Xiangzhou District, Zhuhai City, Guangdong Province",
+      "longitude": 113.584672,
+      "latitude": 22.345392
+    }
+  ],
+  "user_profile": {
+    "user id": "U000034",
+    "occupation": "Project Manager",
+    "gender": "male",
+    "age group": "35~40",
+    "residence": "Zhuhai",
+    "home address": "Room 1802, Building 30, Huafa Four Seasons, 96 Shixi Road, Fengshan Street, Xiangzhou District, Zhuhai City, Guangdong Province",
+    "work address": "Tsinghua Science Park, 101 University Road, Tangjia Bay, Xiangzhou District, Zhuhai City, Guangdong Province",
+    "dietary restrictions": "Avoid high purine foods (such as organ meats/seafood soups)",
+    "family status": "In a relationship",
+    "personality": "Impatient, frequently rushes things, lacks patience to wait for processes"
+  },
+  "user_historical_behaviors": {
+    "user id": "U000034",
+    "occupation": "Project Manager",
+    "gender": "male",
+    "age group": "35~40",
+    "residence": "Zhuhai",
+    "home address": "Room 1802, Building 30, Huafa Seasons, 96 Shixi Road, Fengshan Street, Xiangzhou District, Zhuhai City, Guangdong Province",
+    "work address": "Tsinghua Science Park, 101 University Road, Tangjia Bay, Xiangzhou District, Zhuhai City, Guangdong Province",
+    "breakfast": {
+      "frequently purchased categories": [
+        "Quick meals/Baozi/Pan-fried buns (average 18 yuan)",
+        "Quick meals/Dumplings/Wonton (average 22 yuan)",
+        "Quick meals/Light food (average 32 yuan)"
+      ],
+      "cost per order": "15~35 yuan",
+      "preferred store rating": "4.3~4.8 stars",
+      "preferred delivery time": "15~30 minutes",
+      "preferred distance": "0~2500m",
+      "recent orders": [
+        {
+          "store": "Jinding Pan-fried Buns",
+          "product": "Signature Pork Pan-fried Buns + Soy Milk"
+        },
+        {
+          "store": "Mingming Dumpling House",
+          "product": "Three Delicacies Wonton + Side Dish"
+        },
+        {
+          "store": "Light Food Selection",
+          "product": "Whole Wheat Sandwich Set"
+        }
+      ],
+      "search history": [
+        "Pan-fried buns",
+        "Low-fat breakfast",
+        "Wonton",
+        "Healthy breakfast",
+        "Soy milk"
+      ]
+    },
+    "weekday lunch/dinner": {
+      "frequently purchased categories": [
+        "Quick meals/Rice with toppings (average 28 yuan)",
+        "Quick meals/Healthy meals (average 45 yuan)",
+        "Chinese cuisine/Cantonese cuisine (average 65 yuan)"
+      ],
+      "cost per order": "25~70 yuan",
+      "preferred store rating": "4.2~4.7 stars",
+      "preferred delivery time": "20~35 minutes",
+      "preferred distance": "0~3000m",
+      "recent orders": [
+        {
+          "store": "Cantonese Flavor House",
+          "product": "Preserved Vegetable with Braised Pork Rice + Stir-fried Black Fungus with Vegetables"
+        },
+        {
+          "store": "Vitality Kitchen",
+          "product": "Chicken Breast Quinoa Rice + Vegetable Salad"
+        },
+        {
+          "store": "Home-style Stir-fry",
+          "product": "Dry Pot Chicken + Rice"
+        }
+      ],
+      "search history": [
+        "Low purine food",
+        "Healthy work meals",
+        "Cantonese cuisine",
+        "Fast food",
+        "Non-spicy dishes"
+      ]
+    },
+    "weekend lunch/dinner": {
+      "frequently purchased categories": [
+        "Chinese cuisine/Cantonese cuisine (average 120 yuan)",
+        "International cuisine/Pasta (average 85 yuan)",
+        "Chinese cuisine/Shandong cuisine (average 110 yuan)"
+      ],
+      "cost per order": "70~180 yuan",
+      "preferred store rating": "4.5~4.9 stars",
+      "preferred delivery time": "30~45 minutes",
+      "preferred distance": "0~5000m",
+      "recent orders": [
+        {
+          "store": "Guangzhou Time-honored Brand",
+          "product": "White Cut Chicken + Scallion Oil Noodles + Stir-fried Assorted Vegetables (Set for Two)"
+        },
+        {
+          "store": "Italian Flavor",
+          "product": "Beef Bolognese Pasta + Caesar Salad + Cream of Mushroom Soup"
+        }
+      ],
+      "search history": [
+        "Couple set meal",
+        "Cantonese restaurant",
+        "Private kitchen",
+        "Western food",
+        "Dating restaurant"
+      ]
+    },
+    "desserts/drinks/snacks": {
+      "frequently purchased categories": [
+        "Drinks and desserts/Juice (average 28 yuan)",
+        "Drinks and desserts/Pure tea/Herbal tea (average 22 yuan)",
+        "Drinks and desserts/Western pastries (average 32 yuan)"
+      ],
+      "cost per order": "20~45 yuan",
+      "preferred store rating": "4.4~4.8 stars",
+      "preferred delivery time": "15~30 minutes",
+      "preferred distance": "0~3000m",
+      "recent orders": [
+        {
+          "store": "Fresh Fruit Workshop",
+          "product": "Mango Passion Fruit Smoothie"
+        },
+        {
+          "store": "Cody Coffee (Kingsoft Software Park Branch)",
+          "product": "Meteorite Latte"
+        },
+        {
+          "store": "Paris Sweetheart",
+          "product": "Matcha Red Bean Cake"
+        }
+      ],
+      "search history": [
+        "Fruit tea",
+        "Healthy desserts",
+        "Tea drinks",
+        "Low-sugar desserts"
+      ]
+    },
+    "night snack": {
+      "frequently purchased categories": [
+        "Quick meals/Small dishes/Single portions (average 38 yuan)",
+        "Snacks and braised foods/Braised items (average 42 yuan)",
+        "Quick meals/Clay pot dishes (average 45 yuan)"
+      ],
+      "cost per order": "30~60 yuan",
+      "preferred store rating": "4.2~4.7 stars",
+      "preferred delivery time": "25~40 minutes",
+      "preferred distance": "0~3500m",
+      "recent orders": [
+        {
+          "store": "Clay Pot Porridge Shop",
+          "product": "Century Egg and Lean Pork Porridge + Assorted Small Dishes"
+        },
+        {
+          "store": "Braised Food Legend",
+          "product": "Braised Duck Neck + Braised Eggs + Braised Tofu"
+        },
+        {
+          "store": "Small Bowl Home-style Dishes",
+          "product": "Dry-fried String Beans + Vinegar Cabbage + Small Rice"
+        }
+      ],
+      "search history": [
+        "Non-spicy night snacks",
+        "Stomach-friendly night food",
+        "Small portion dishes",
+        "Braised food",
+        "Mild food"
+      ]
+    }
+  },
+  "stores": {
+    "S25744658143312475_S05797": {
+      "name": "Yonghe King · Freshly Ground Soy Milk · Braised Pork Rice · Breakfast Porridge · Rice with Toppings (Harbor No. 1 FZH002 Branch)",
+      "store_id": "S25744658143312475_S05797",
+      "score": 4.8,
+      "location": {
+        "address": "Yonghe King, 1st Floor, Building A, Harbor No. 1 Creative Cloud, Tangjia Town, Xiangzhou District, Zhuhai City, Guangdong Province (Harbor No. 1 Creative Cloud Branch)",
+        "latitude": 22.362982,
+        "longitude": 113.59875
+      },
+      "tags": [
+        "Generous portion",
+        "Clean and hygienic",
+        "Delicious taste"
+      ],
+      "products": [
+        {
+          "name": "Yuxiang Shredded Pork [Single Serving - Without Rice]",
+          "product_id": "S22921725616497759_P64399",
+          "store_id": "S25744658143312475_S05797",
+          "store_name": "Yonghe King · Freshly Ground Soy Milk · Braised Pork Rice · Breakfast Porridge · Rice with Toppings (Harbor No. 1 FZH002 Branch)",
+          "price": 18,
+          "tags": [
+            "Savory and umami"
+          ],
+          "attributes": [],
+          "quantity": 9999
+        },
+        {
+          "name": "Northeastern Style Rice (à la carte)",
+          "product_id": "S22354168124977757_P23954",
+          "store_id": "S25744658143312475_S05797",
+          "store_name": "Yonghe King · Freshly Ground Soy Milk · Braised Pork Rice · Breakfast Porridge · Rice with Toppings (Harbor No. 1 FZH002 Branch)",
+          "price": 3,
+          "tags": [],
+          "attributes": [],
+          "quantity": 9999
+        }
+      ]
+    },
+    "S11668798961810671_S70508": {
+      "name": "Night of No Mistake · Coffee in Morning, Wine at Night",
+      "store_id": "S11668798961810671_S70508",
+      "score": 5,
+      "location": {
+        "address": "Shanfang Road, Xiangzhou District, Zhuhai City, Guangdong Province",
+        "latitude": 22.359077,
+        "longitude": 113.592001
+      },
+      "tags": [
+        "Safe to eat"
+      ],
+      "products": [
+        {
+          "name": "Green Grape Sparkling Italian Coffee",
+          "product_id": "S19986369287600600_P19459",
+          "store_id": "S11668798961810671_S70508",
+          "store_name": "Night of No Mistake · Coffee in Morning, Wine at Night",
+          "price": 18,
+          "tags": [
+            "Perfume Lemon"
+          ],
+          "attributes": [],
+          "quantity": 9999
+        },
+        {
+          "name": "Caramel Latte",
+          "product_id": "S19228786735500497_P16053",
+          "store_id": "S11668798961810671_S70508",
+          "store_name": "Night of No Mistake · Coffee in Morning, Wine at Night",
+          "price": 20,
+          "tags": [
+            "Milk-based",
+            "Caramel Crispy Cookie"
+          ],
+          "attributes": [],
+          "quantity": 9999
+        }
+      ]
+    },
+    "S25096963193279629_S52306": {
+      "name": "Cody Coffee (Kingsoft Software Park Branch)",
+      "store_id": "S25096963193279629_S52306",
+      "score": 4.9,
+      "location": {
+        "address": "Cody Coffee (Kingsoft Software Park Branch), Shop D2-93, Lanwan Smart Island, Tangjia Town, Xiangzhou District, Zhuhai City, Guangdong Province (at the entrance of Lanwan Smart Island Park)",
+        "latitude": 22.34877,
+        "longitude": 113.603779
+      },
+      "tags": [
+        "Affordable price",
+        "Well-packaged"
+      ],
+      "products": [
+        {
+          "name": "Fresh Coconut Latte",
+          "product_id": "S24871042340866006_P28026",
+          "store_id": "S25096963193279629_S52306",
+          "store_name": "Cody Coffee (Kingsoft Software Park Branch)",
+          "price": 15.99,
+          "tags": [
+            "Contains coconut milk"
+          ],
+          "attributes": [
+            "Hot",
+            "Iced"
+          ],
+          "quantity": 9999
+        }
+      ]
+    },
+    "S11110169793524568_S68308": {
+      "name": "Cody Coffee (Kingsoft Software Park Branch)",
+      "store_id": "S11110169793524568_S68308",
+      "score": 4.8,
+      "location": {
+        "address": "Shaxian Light Meals (Lanwan Smart Island Branch), Lanwan Smart Island, Xiangzhou District, Zhuhai City, Guangdong Province",
+        "latitude": 22.348885,
+        "longitude": 113.603791
+      },
+      "tags": [],
+      "products": [
+        {
+          "name": "Fresh Coconut Latte with Ice",
+          "product_id": "S11467874922141220_P52279",
+          "store_id": "S11110169793524568_S68308",
+          "store_name": "Cody Coffee (Kingsoft Software Park Branch)",
+          "price": 20,
+          "tags": [
+            "Coconut milk",
+            "Fluffy Ice Smoothie"
+          ],
+          "attributes": [],
+          "quantity": 9999
+        }
+      ]
+    },
+    "S31083994082039451_S27489": {
+      "name": "Luckin Coffee (Zhuhai Tsinghua Science Park Branch)",
+      "store_id": "S31083994082039451_S27489",
+      "score": 5,
+      "location": {
+        "address": "Shaxian Light Meals (Lanwan Smart Island Branch), Lanwan Smart Island, Xiangzhou District, Zhuhai City, Guangdong Province",
+        "latitude": 22.344601,
+        "longitude": 113.584096
+      },
+      "tags": [],
+      "products": [
+        {
+          "name": "Green Sandy Latte",
+          "product_id": "S63016850284384931_P27499",
+          "store_id": "S31083994082039451_S27489",
+          "store_name": "Luckin Coffee (Zhuhai Tsinghua Science Park Branch)",
+          "price": 21.7,
+          "tags": [
+            "Mung Bean Paste"
+          ],
+          "attributes": [],
+          "quantity": 9999
+        },
+        {
+          "name": "Standard Americano",
+          "product_id": "S19428399160236094_P65409",
+          "store_id": "S31083994082039451_S27489",
+          "store_name": "Luckin Coffee (Zhuhai Tsinghua Science Park Branch)",
+          "price": 19.24,
+          "tags": [],
+          "attributes": [],
+          "quantity": 9999
+        }
+      ]
+    },
+    "S31693888908766746_S49753": {
+      "name": "Brothers Hunan Restaurant",
+      "store_id": "S31693888908766746_S49753",
+      "score": 4.7,
+      "location": {
+        "address": "Dong Cha Niang, next to No. 29 Lingyuan Pu Street, Shanfang Road, Tangjia Town, Xiangzhou District, Zhuhai City, Guangdong Province",
+        "latitude": 22.357905,
+        "longitude": 113.591458
+      },
+      "tags": [],
+      "products": [
+        {
+          "name": "Stir-fried Pork with Black Fungus + Rice",
+          "product_id": "S16231293016598579_P59740",
+          "store_id": "S31693888908766746_S49753",
+          "store_name": "Brothers Hunan Restaurant",
+          "price": 20.98,
+          "tags": [],
+          "attributes": [],
+          "quantity": 9999
+        }
+      ]
+    }
+  },
+  "orders": {
+    "20715002T01": {
+      "order_id": "20715002T01",
+      "order_type": "delivery",
+      "user_id": "U000034",
+      "store_id": "S11668798961810671_S70508",
+      "note": "",
+      "location": {
+        "address": "Tsinghua Science Park, 101 University Road, Tangjia Bay, Xiangzhou District, Zhuhai City, Guangdong Province",
+        "longitude": 113.584672,
+        "latitude": 22.345392
+      },
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 18,
+      "create_time": "2025-08-08 11:00:00",
+      "update_time": "2025-08-08 11:00:00",
+      "status": "processed",
+      "products": [
+        {
+          "product_id": "S19986369287600600_P19459",
+          "price": 18,
+          "quantity": 1,
+          "attributes": "Extra ice"
+        }
+      ]
+    }
+  }
+}

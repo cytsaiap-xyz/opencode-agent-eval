@@ -1,0 +1,64 @@
+{
+  "required_orders": [
+    {
+      "order_id": "D0811012T001",
+      "order_type": "attraction",
+      "user_id": "U022832",
+      "store_id": "S17557516207048450_A00005",
+      "note": "",
+      "location": null,
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 200,
+      "create_time": "2025-06-07 11:14:25",
+      "update_time": "2025-06-07 11:14:25",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17557516207048450_P00046",
+          "price": 100,
+          "quantity": 2,
+          "date": "2025-06-14",
+          "ticket_type": "Adult Ticket"
+        }
+      ]
+    },
+    {
+      "order_id": "D0811012T002",
+      "order_type": "train",
+      "user_id": "U022832",
+      "store_id": "S17557516207048450_T00010",
+      "note": "",
+      "location": null,
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 170,
+      "create_time": "2025-06-07 11:16:25",
+      "update_time": "2025-06-07 11:16:25",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17557516207048450_P00096",
+          "price": 85,
+          "quantity": 2,
+          "date": "2025-06-14",
+          "seat_type": "Second Class Seat"
+        }
+      ]
+    }
+  ],
+  "rubrics": [
+    "Need to check if Danxia Mountain Scenic Area has two-day tickets available, the result shows no tickets available for 2025-06-14, so adult tickets should be purchased instead",
+    "The ticket date for the admission ticket order should be June 14, 2025",
+    "The quantity for the admission ticket order should be 2",
+    "The scenic spot in the admission ticket order must be Danxia Mountain Scenic Area",
+    "Need to check last month's train ticket order record to Shaoguan, the result shows: Order ID S17557516207048450_O00001, store_id S17557516207048450_T00010, Train D7541, departing at 08:45 and arriving at 10:23, Second Class Seat for 85 yuan",
+    "The train number in the train ticket order must be Train D7541",
+    "The seat type in the train ticket order must be Second Class Seat",
+    "The date in the train ticket order must be June 14, 2025",
+    "The quantity for the train ticket order should be 2",
+    "Must check the distance from the railway station (Shaoguan Railway Station, Zhanqian Road, Zhenjiang District, Shaoguan City, Guangdong Province) to Danxia Mountain (Danxia Mountain Scenic Area, Renhua County, Shaoguan City, Guangdong Province), the result is approximately 20 kilometers"
+  ]
+}

@@ -1,0 +1,76 @@
+{
+  "required_orders": [
+    {
+      "book_id": "A0807007T001",
+      "shop_id": "S17550810196195804_I00007",
+      "book_time": "2025-03-16 12:00:00",
+      "update_time": "2025-03-14 11:36:00",
+      "customer_id": "U010092",
+      "customer_count": 18,
+      "book_price": 80,
+      "status": "unpaid"
+    },
+    {
+      "order_id": "A0807007T002",
+      "order_type": "instore",
+      "user_id": "U010092",
+      "store_id": "S17550810196195804_I00007",
+      "note": "",
+      "location": null,
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 1980,
+      "create_time": "2025-03-14 11:39:00",
+      "update_time": "2025-03-14 11:39:00",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17550810196195804_P00035",
+          "name": "Lantingxu Banquet (18-22 people)",
+          "price": 1980,
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "order_id": "A0807007T003",
+      "order_type": "hotel",
+      "user_id": "U010092",
+      "store_id": "S17550810196195804_H00003",
+      "note": "",
+      "location": null,
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 4680,
+      "create_time": "2025-03-14 11:43:00",
+      "update_time": "2025-03-14 11:43:00",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17550810196195804_P00013",
+          "price": 780,
+          "quantity": 6,
+          "date": "2025-03-16",
+          "room_type": "Deluxe king room"
+        }
+      ]
+    }
+  ],
+  "rubrics": [
+    "The reserved restaurant should be a cultural-themed restaurant with a scholarly atmosphere",
+    "The reserved restaurant should have an elegant and dignified environment",
+    "The reserved restaurant should offer exquisite dishes",
+    "The private room of the reserved restaurant should accommodate at least 18 people",
+    "The restaurant reservation time is 12:00 on March 16, 2025",
+    "The restaurant reservation is for 18 people",
+    "The ordered restaurant should be Moxiang Pavilion (S17550810196195804_I00007)",
+    "The banquet set ordered for the event should be suitable for 18 people",
+    "The booked hotel should be within 1km of Moxiang Pavilion, 36 Zhongguancun South Street, Haidian District, Beijing",
+    "The booked hotel should have a nice environment",
+    "The room type booked should be king room",
+    "Six rooms should be booked at the same hotel",
+    "The check-in date for the hotel should be March 16, 2025"
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "task_id": "36",
+  "query": "I plan to travel from Wuhan to Nanjing on November 12, 2025, and stay for three days, returning on November 14. The total budget for this trip should be within 5500 yuan, Could you please help me arrange the entire itinerary, including transportation, accommodation, meals, and sightseeing? For the outbound journey, I’d like to take the earliest direct train available so that I can have more time to explore upon arrival in Nanjing.\n\nFor accommodation, I’d prefer a four-star hotel, and the rooms should ideally support screen mirroring via TV, as we are traveling as a group of three and will need to book two rooms.\n\nRegarding dining, there are two places I’m particularly interested in. One is a restaurant near the 'Nanjing Eye Pedestrian Bridge'—I’ve heard there are many great dining options there. Could you please recommend one where I can reserve a table online or join the queue virtually? That would be much more convenient. Also, I must have one meal at 'New Bailu (Nanjing Central Mall Branch)', which was highly recommended by a friend who said their dishes are exceptionally delicious. Please include this in the plan as well.\n\nThese are all my requirements. I believe the information provided is sufficient—please go ahead and create the full itinerary without needing to ask me for further details! November 12, 2025 is Wednesday",
+  "meta_info": {
+    "org": "Wuhan",
+    "dest": [
+      "Nanjing"
+    ],
+    "days": 3,
+    "depart_date": "2025-11-12",
+    "return_date": "2025-11-14",
+    "people_number": 3,
+    "room_number": 2
+  },
+  "hard_constraints": {
+    "train_earliest_departure_direct": {
+      "constraint_context": "Please help me choose the earliest departure direct train for the outbound journey",
+      "constraint_type": "superlative_earliest_departure",
+      "outbound_train_no": "D3016"
+    },
+    "hotel_star_service_required": {
+      "constraint_context": "Please select a 4-star hotel that offers screen mirroring on the TV for accommodation.",
+      "constraint_type": "superlative_star_service_required",
+      "hotel_name": "Nanjing Xincheng Development Zone Atour Hotel",
+      "required_service": "TV Casting",
+      "hotel_star": 4,
+      "hotel_price": 311.0
+    },
+    "restaurant_specific_tag_nearby": {
+      "constraint_context": "Arrange a meal at a restaurant near the 'Nanjing Eye Pedestrian Bridge' during the trip, with online number-taking and queue service required",
+      "constraint_type": "superlative_specific_tag_nearby",
+      "attraction_name": "Nanjing Eye Pedestrian Bridge",
+      "restaurant_name": "Hou Weidao · Chinese Restaurant",
+      "required_tag": "Online Queue",
+      "price_per_person": 258.0,
+      "restaurant_rating": 3.9
+    },
+    "restaurant_must_eat_named": {
+      "constraint_context": "The itinerary must include one meal at 'New Bailu (Nanjing Central Mall Branch)'.",
+      "constraint_type": "superlative_must_eat_named",
+      "restaurant_name": "New Bailu (Nanjing Central Mall Branch)",
+      "restaurant_rating": 4.7
+    },
+    "budget_constraint": {
+      "max_budget": 5500
+    }
+  }
+}

@@ -1,0 +1,364 @@
+{
+  "task_id": "H0721004",
+  "domain": "delivery",
+  "time": "2025-03-19 10:01:28",
+  "user_id": "U000045",
+  "weather": [
+    {
+      "city": "Jinhua City",
+      "category": "sunny",
+      "datetime": "2025-03-19",
+      "temperature": [
+        12,
+        21
+      ],
+      "humidity": 65
+    }
+  ],
+  "location": [
+    {
+      "address": "Jiangbin Residential Area, 359 Binhong Road (400 meters from Exit A of Bayi South Street Metro Station), Wucheng District, Jinhua City, Zhejiang Province",
+      "longitude": 119.658639,
+      "latitude": 29.084119
+    }
+  ],
+  "user_profile": {
+    "user id": "U000045",
+    "occupation": "Driver",
+    "gender": "female",
+    "age group": "30~35",
+    "residence": "Jinhua",
+    "home address": "Jiangbin Residential Area, 359 Binhong Road (400 meters from Exit A of Bayi South Street Metro Station), Wucheng District, Jinhua City, Zhejiang Province",
+    "work address": "Workers' Building, Sanjiang Street, Wucheng District, Jinhua City, Zhejiang Province",
+    "dietary restrictions": "No caffeine, low salt",
+    "family status": "Living with elderly",
+    "personality": "Mild-tempered and highly cooperative, good at listening and understanding"
+  },
+  "user_historical_behaviors": {
+    "user id": "U000045",
+    "occupation": "Driver",
+    "gender": "female",
+    "age group": "30~35",
+    "residence": "Jinhua",
+    "home address": "Jiangbin Residential Area, 359 Binhong Road (400 meters from Exit A of Bayi South Street Metro Station), Wucheng District, Jinhua City, Zhejiang Province",
+    "work address": "Workers' Building, Sanjiang Street, Wucheng District, Jinhua City, Zhejiang Province",
+    "breakfast": {
+      "frequently purchased categories": [
+        "Quick meals/Steamed buns/Pan-fried buns (average 18 yuan)",
+        "Quick meals/Dumplings/Wontons (average 22 yuan)",
+        "Quick meals/Soy milk and fried dough sticks (average 15 yuan)"
+      ],
+      "cost per order": "15~30 yuan",
+      "preferred store rating": "4.2~4.7 stars",
+      "preferred delivery time": "10~20 minutes",
+      "preferred distance": "0~1500m",
+      "recent orders": [
+        {
+          "store": "Lao Wang Bun Shop",
+          "product": "Pork bun + soy milk combo"
+        },
+        {
+          "store": "Fujian Shaxian Snacks",
+          "product": "Soup-filled steamed buns"
+        },
+        {
+          "store": "Jixiang Wonton (Wanda Plaza Branch)",
+          "product": "Small Shrimp Wontons"
+        }
+      ],
+      "search history": [
+        "steamed buns",
+        "soy milk",
+        "wontons",
+        "low-sodium breakfast",
+        "nutritious breakfast"
+      ]
+    },
+    "weekday lunch/dinner": {
+      "frequently purchased categories": [
+        "Quick meals/Rice with toppings (average 28 yuan)",
+        "Quick meals/Rice noodles/Rice vermicelli (average 25 yuan)",
+        "Chinese cuisine/Hunan cuisine (average 45 yuan)"
+      ],
+      "cost per order": "25~60 yuan",
+      "preferred store rating": "4.0~4.8 stars",
+      "preferred delivery time": "15~50 minutes",
+      "preferred distance": "0~3500m",
+      "recent orders": [
+        {
+          "store": "Grandma's Rice with Toppings",
+          "product": "Steamed sea bass meal (low-sodium)"
+        },
+        {
+          "store": "Hunan Flavor House",
+          "product": "Stir-fried vegetables + steamed chicken breast with rice"
+        },
+        {
+          "store": "Gold Medal Rice Noodles",
+          "product": "Chicken rice noodles (less salt)"
+        }
+      ],
+      "search history": [
+        "low-sodium dishes",
+        "healthy work meals",
+        "light meals",
+        "rice noodles"
+      ]
+    },
+    "weekend lunch/dinner": {
+      "frequently purchased categories": [
+        "Chinese cuisine/Northeastern cuisine (average 80 yuan)",
+        "Chinese cuisine/Cantonese cuisine (average 90 yuan)",
+        "Hot pot/Fish hot pot (average 100 yuan)"
+      ],
+      "cost per order": "70~150 yuan",
+      "preferred store rating": "4.5~5.0 stars",
+      "preferred delivery time": "30~45 minutes",
+      "preferred distance": "0~3500m",
+      "recent orders": [
+        {
+          "store": "Mom's Clay Pot",
+          "product": "Three delicacies clay pot (mildly spicy) + 2 portions of rice"
+        },
+        {
+          "store": "Cantonese Home Cooking",
+          "product": "Steamed sea bass + blanched choy sum + scrambled eggs with shrimp (family meal)"
+        }
+      ],
+      "search history": [
+        "family meals",
+        "dishes suitable for elderly",
+        "low-sodium hot pot",
+        "steamed fish"
+      ]
+    },
+    "desserts/drinks/snacks": {
+      "frequently purchased categories": [
+        "Beverages & desserts/Pure tea/Herbal tea (average 18 yuan)",
+        "Beverages & desserts/Fruit juice (average 22 yuan)",
+        "Beverages & desserts/Fruit salad (average 25 yuan)"
+      ],
+      "cost per order": "15~40 yuan",
+      "preferred store rating": "4.3~4.9 stars",
+      "preferred delivery time": "15~25 minutes",
+      "preferred distance": "0~2000m",
+      "recent orders": [
+        {
+          "store": "Fresh Juice Bar",
+          "product": "Fresh apple juice (sugar-free)"
+        },
+        {
+          "store": "Tea Time",
+          "product": "Chrysanthemum tea (less sugar)"
+        },
+        {
+          "store": "Fruit Salad Bar",
+          "product": "Signature fruit salad (less sugar)"
+        }
+      ],
+      "search history": [
+        "caffeine-free beverages",
+        "chrysanthemum tea",
+        "fruit salad",
+        "low-sugar drinks"
+      ]
+    },
+    "night snack": {
+      "frequently purchased categories": [
+        "Quick meals/Clay pot dishes (average 35 yuan)",
+        "Quick meals/Rice noodles/Rice vermicelli (average 28 yuan)",
+        "Snacks & braised foods/Braised dishes (average 40 yuan)"
+      ],
+      "cost per order": "25~50 yuan",
+      "preferred store rating": "4.0~4.7 stars",
+      "preferred delivery time": "20~35 minutes",
+      "preferred distance": "0~2500m",
+      "recent orders": [
+        {
+          "store": "Auntie's Delicious Soup",
+          "product": "Health-preserving clay pot (less salt)"
+        },
+        {
+          "store": "Late Night Diner",
+          "product": "Pickled cabbage fish rice noodles (mildly spicy, less salt)"
+        }
+      ],
+      "search history": [
+        "late-night soup",
+        "low-sodium night snacks",
+        "health-preserving clay pot"
+      ]
+    }
+  },
+  "stores": {
+    "S29142096053918581_S78781": {
+      "name": "Zunyi Lamb Rice Noodles (Zhongcun Branch)",
+      "store_id": "S29142096053918581_S78781",
+      "score": 4.8,
+      "location": {
+        "address": "Zunyi Lamb Rice Noodles, 66 Zhongcun Road, Jiangnan Street, Wucheng District, Jinhua City, Zhejiang Province",
+        "latitude": 29.089372,
+        "longitude": 119.655159
+      },
+      "tags": [],
+      "products": [
+        {
+          "name": "Lamb Offal Soup + 2 Handmade Flatbreads",
+          "store_id": "S29142096053918581_S78781",
+          "store_name": "Zunyi Lamb Rice Noodles (Zhongcun Branch)",
+          "price": 34.8,
+          "tags": [],
+          "product_id": "S31340687737670505_P84047",
+          "attributes": [
+            "Not Spicy",
+            "Mildly Spicy",
+            "Medium Spicy",
+            "Numbing Spicy",
+            "Extra Spicy"
+          ],
+          "quantity": 9999
+        }
+      ]
+    },
+    "S14452117609323544_S13447": {
+      "name": "Jixiang Wonton (RT-Mart Branch)",
+      "store_id": "S14452117609323544_S13447",
+      "score": 4.7,
+      "location": {
+        "address": "Impression City, 1159 Bayi South Street, Wucheng District, Jinhua City, Zhejiang Province",
+        "latitude": 29.070869,
+        "longitude": 119.658385
+      },
+      "tags": [],
+      "products": [
+        {
+          "name": "Small Shrimp Wontons",
+          "store_id": "S14452117609323544_S13447",
+          "store_name": "Jixiang Wonton (RT-Mart Branch)",
+          "price": 24.9,
+          "tags": [
+            "Savory"
+          ],
+          "product_id": "S22000261998624782_P87049",
+          "attributes": [
+            "Only Chili Packet",
+            "Only Vinegar Packet",
+            "No Chili or Vinegar Packets",
+            "Both Chili and Vinegar Packets"
+          ],
+          "quantity": 9999
+        },
+        {
+          "name": "Shrimp and Pork Wontons",
+          "product_id": "S71749949060975826_P49922",
+          "store_id": "S14452117609323544_S13447",
+          "store_name": "Jixiang Wonton (RT-Mart Branch)",
+          "price": 32.9,
+          "tags": [],
+          "attributes": [
+            "Chili Packet",
+            "Vinegar Packet",
+            "No Chili Packet",
+            "Both Chili and Vinegar Packets"
+          ],
+          "quantity": 9999
+        }
+      ]
+    },
+    "S30802203417481575_S70344": {
+      "name": "Jixiang Wonton (Jinhua Daoyantang Branch)",
+      "store_id": "S30802203417481575_S70344",
+      "score": 4.1,
+      "location": {
+        "address": "Jixiang Wonton (Jinhua Daotang Branch), 171 Daoyuan Street, Xinshi Street, Wucheng District, Jinhua City, Zhejiang Province",
+        "latitude": 29.12246,
+        "longitude": 119.66165
+      },
+      "tags": [],
+      "products": [
+        {
+          "name": "Fresh Shrimp and Corn Wontons",
+          "product_id": "S15021321466872521_P19654",
+          "store_id": "S30802203417481575_S70344",
+          "store_name": "Jixiang Wonton (Jinhua Daoyantang Branch)",
+          "price": 25.9,
+          "tags": [],
+          "attributes": [
+            "No Chili or Vinegar Packets",
+            "Chili and Vinegar Packets",
+            "Chili Packet",
+            "Vinegar Packet"
+          ],
+          "quantity": 9999
+        },
+        {
+          "name": "Small Shrimp and Pork Wontons",
+          "product_id": "S15145172376167654_P58167",
+          "store_id": "S30802203417481575_S70344",
+          "store_name": "Jixiang Wonton (Jinhua Daoyantang Branch)",
+          "price": 27.98,
+          "tags": [],
+          "attributes": [
+            "Chili Packet",
+            "Vinegar Packet",
+            "No Chili or Vinegar Packets",
+            "Both Chili and Vinegar Packets"
+          ],
+          "quantity": 9999
+        }
+      ]
+    },
+    "S33070273502752457_S75014": {
+      "name": "Hejimao Pan-Fried Buns (Jinhua Wucheng District World Trade Plaza Branch)",
+      "store_id": "S33070273502752457_S75014",
+      "score": 4.8,
+      "location": {
+        "address": "Jinhua World Trade City Plaza, 888 Liyu Road, Sanjiang Street, Wucheng District, Jinhua City, Zhejiang Province",
+        "latitude": 29.082094,
+        "longitude": 119.649021
+      },
+      "tags": [],
+      "products": [
+        {
+          "name": "Small Shrimp Wontons (12 pieces)",
+          "product_id": "S11334770106118319_P85563",
+          "store_id": "S33070273502752457_S75014",
+          "store_name": "Hejimao Pan-Fried Buns (Jinhua Wucheng District World Trade Plaza Branch)",
+          "price": 23,
+          "tags": [],
+          "attributes": [],
+          "quantity": 9999
+        }
+      ]
+    }
+  },
+  "orders": {
+    "H0721004O01": {
+      "order_id": "H0721004O01",
+      "order_type": "delivery",
+      "user_id": "U000045",
+      "store_id": "S29142096053918581_S78781",
+      "note": "",
+      "location": {
+        "address": "Jiangbin Residential Area, 359 Binhong Road (400 meters from Exit A of Bayi South Street Metro Station), Wucheng District, Jinhua City, Zhejiang Province",
+        "longitude": 119.658639,
+        "latitude": 29.084119
+      },
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 34.8,
+      "create_time": "2025-03-19 10:00:00",
+      "update_time": "2025-03-19 10:00:00",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S31340687737670505_P84047",
+          "price": 34.8,
+          "quantity": 1,
+          "attributes": "Spicy"
+        }
+      ]
+    }
+  }
+}

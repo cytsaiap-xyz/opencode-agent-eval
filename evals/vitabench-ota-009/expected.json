@@ -1,0 +1,90 @@
+{
+  "required_orders": [
+    {
+      "order_id": "70811004T001",
+      "order_type": "train",
+      "user_id": "U416524",
+      "store_id": "S17557505486483162_T00010",
+      "note": "",
+      "location": null,
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 354,
+      "create_time": "2022-03-04 09:17:00",
+      "update_time": "2022-03-04 09:17:00",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17557505486483162_P00082",
+          "price": 118,
+          "quantity": 3,
+          "date": "2022-03-05",
+          "seat_type": "second class seat"
+        }
+      ]
+    },
+    {
+      "order_id": "70811004T002",
+      "order_type": "hotel",
+      "user_id": "U416524",
+      "store_id": "S17557505486483162_H00002",
+      "note": "",
+      "location": null,
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 658,
+      "create_time": "2022-03-04 09:19:10",
+      "update_time": "2022-03-04 09:19:10",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17557505486483162_P00011",
+          "price": 658,
+          "quantity": 1,
+          "date": "2022-03-05",
+          "room_type": "superior king room"
+        }
+      ]
+    },
+    {
+      "order_id": "70811004T003",
+      "order_type": "train",
+      "user_id": "U416524",
+      "store_id": "S17557505486483162_T00014",
+      "note": "",
+      "location": null,
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 356,
+      "create_time": "2022-03-04 09:21:00",
+      "update_time": "2022-03-04 09:21:00",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17557505486483162_P00105",
+          "price": 178,
+          "quantity": 2,
+          "date": "2022-03-06",
+          "seat_type": "business class seat"
+        }
+      ]
+    }
+  ],
+  "rubrics": [
+    "The outbound train ticket should be from Nanchang to Wuyuan",
+    "The departure date for the outbound train ticket should be 2022-03-05",
+    "The arrival time for the outbound train should be around 11:00 AM",
+    "Check the price of business class seats for the outbound train within the available options, the result shows 255 yuan per ticket, 510 yuan for two tickets, which exceeds 500 yuan, so the outbound train tickets should select 3 second class seats",
+    "The hotel brand should be Atour or Ji Hotel or Vienna",
+    "The distance between the booked hotel and Jiangling Rapeseed Flower Field, Jiangling Village, Wuyuan County, Shangrao City, Jiangxi Province should be less than or equal to 12 kilometers",
+    "The room type in the hotel order should be a king room",
+    "The check-in date for the hotel order should be 2022-03-05",
+    "The return train ticket should be from Wuyuan to Nanchang",
+    "The departure date for the return train ticket should be 2022-03-06",
+    "The arrival time for the return train should be around 17:00",
+    "Need to check the price of business class seats for the return train within the available options, the result shows 178 yuan per ticket, 356 yuan for two tickets, which is within 500 yuan, so the return train tickets should select two business class seats"
+  ]
+}

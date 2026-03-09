@@ -1,0 +1,158 @@
+{
+  "required_orders": [
+    {
+      "order_id": "OT960844b251",
+      "order_type": "delivery",
+      "user_id": "U738981",
+      "store_id": "S17550802118732400_S00003",
+      "note": "",
+      "location": {
+        "address": "Room 1201, Unit 1, Building 3, Greenland Zifeng Residence, 125 Bayi Avenue, Donghu District, Nanchang, Jiangxi Province",
+        "longitude": 115.912,
+        "latitude": 28.682
+      },
+      "dispatch_time": "2025-05-15 15:37:00",
+      "shipping_time": 27,
+      "delivery_time": "2025-05-15 16:04:00",
+      "total_price": 47.3,
+      "create_time": "2025-05-15 15:30:17",
+      "update_time": "2025-05-15 15:30:17",
+      "status": "delivered",
+      "products": [
+        {
+          "product_id": "S17550802118732400_P00015",
+          "price": 16.8,
+          "quantity": 1,
+          "name": "Luhua Natural Fresh Soy Sauce",
+          "store_id": "S17550802118732400_S00003",
+          "store_name": "Yonghui Supermarket",
+          "attributes": "",
+          "tags": [
+            "Seasonings",
+            "Light Soy Sauce",
+            "Essential Seasonings",
+            "Kitchen Utensils"
+          ]
+        },
+        {
+          "product_id": "S17550802118732400_P00021",
+          "price": 5.5,
+          "quantity": 1,
+          "name": "China Salt Iodized Refined Salt",
+          "store_id": "S17550802118732400_S00003",
+          "store_name": "Yonghui Supermarket",
+          "attributes": "",
+          "tags": [
+            "Seasonings",
+            "Salt",
+            "Kitchen Utensils",
+            "Essential Seasonings"
+          ]
+        },
+        {
+          "product_id": "S17550802118732400_P00018",
+          "price": 9.9,
+          "quantity": 1,
+          "name": "Jiajia White Vinegar",
+          "store_id": "S17550802118732400_S00003",
+          "store_name": "Yonghui Supermarket",
+          "attributes": "",
+          "tags": [
+            "Seasonings",
+            "Kitchen Utensils",
+            "Essential Seasonings"
+          ]
+        },
+        {
+          "product_id": "S17550802118732400_P00019",
+          "price": 11.5,
+          "quantity": 1,
+          "name": "Totole Chicken Essence",
+          "store_id": "S17550802118732400_S00003",
+          "store_name": "Yonghui Supermarket",
+          "attributes": "",
+          "tags": [
+            "Seasonings",
+            "MSG (Monosodium Glutamate)",
+            "Chicken Essence",
+            "Kitchen Utensils",
+            "Essential Seasonings"
+          ]
+        }
+      ]
+    },
+    {
+      "order_id": "OIb192a86a68",
+      "order_type": "instore",
+      "user_id": "U738981",
+      "store_id": "S17550802118732400_I00011",
+      "note": "",
+      "location": null,
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 88,
+      "create_time": "2025-05-15 15:38:21",
+      "update_time": "2025-05-15 15:38:21",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17550802118732400_P00074",
+          "price": 88,
+          "quantity": 1,
+          "name": "Leisurely Tea-Tasting Afternoon Tea Set",
+          "shop_id": "S17550802118732400_I00011",
+          "tags": [
+            "Afternoon Tea",
+            "Tea Ceremony Experience",
+            "Elegant Environment",
+            "Suitable for Elderly"
+          ]
+        }
+      ]
+    },
+    {
+      "order_id": "OO5338b5910e",
+      "order_type": "train",
+      "user_id": "U738981",
+      "store_id": "S17550802118732400_T00006",
+      "note": "",
+      "location": null,
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 165,
+      "create_time": "2025-05-15 15:42:25",
+      "update_time": "2025-05-15 15:42:25",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17550802118732400_P00041",
+          "price": 165,
+          "quantity": 1,
+          "date": "2025-05-16",
+          "seat_type": "First Class Seat"
+        }
+      ]
+    }
+  ],
+  "rubrics": [
+    "No oil products should be included in the seasoning order",
+    "No doubanjiang should be included in the seasoning order",
+    "No dark soy sauce should be included in the seasoning order",
+    "The delivery time for the seasoning order is 2025-05-15 15:30:00-2025-05-15 16:30:00",
+    "The delivery address for the seasoning order is Room 1201, Unit 1, Building 3, Greenland Zifeng Residence, 125 Bayi Avenue, Donghu District, Nanchang, Jiangxi Province",
+    "The seasoning order must include salt",
+    "The seasoning order must include soy sauce",
+    "The seasoning order must include MSG (Monosodium Glutamate)",
+    "The seasoning order must include vinegar",
+    "The tea house to order from must be within 1km of home",
+    "The tea house to order from must have a refined environment",
+    "The set menu in the tea house order must be available in the afternoon",
+    "The train to book should depart on the evening of May 16, 2025",
+    "The train to book should not arrive later than 10 PM",
+    "The train ticket to purchase should be First Class Seat",
+    "The train_number of the booked train must start with G",
+    "The booked train must run from Nanchang to Jiujiang"
+  ]
+}

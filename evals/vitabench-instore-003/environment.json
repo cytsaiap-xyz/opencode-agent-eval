@@ -1,0 +1,223 @@
+{
+  "task_id": "10826017",
+  "domain": "instore",
+  "time": "2025-04-11 16:56:11",
+  "user_id": "U955818",
+  "weather": [
+    {
+      "city": "Changsha",
+      "category": "sunny",
+      "datetime": "2025-04-11",
+      "temperature": [
+        18,
+        26
+      ],
+      "humidity": 45
+    },
+    {
+      "city": "Changsha",
+      "category": "moderate rain",
+      "datetime": "2025-04-12",
+      "temperature": [
+        16,
+        22
+      ],
+      "humidity": 78
+    },
+    {
+      "city": "Changsha",
+      "category": "overcast",
+      "datetime": "2025-04-13",
+      "temperature": [
+        17,
+        23
+      ],
+      "humidity": 65
+    }
+  ],
+  "location": [
+    {
+      "address": "Room 1802, Unit 1, Building 3, Huaze Lidu Community, 319 Jinxing Middle Road, Yuelu District, Changsha, Hunan Province",
+      "longitude": 112.945234,
+      "latitude": 28.213456
+    }
+  ],
+  "user_profile": {
+    "user id": "U955818",
+    "occupation": "Product Manager",
+    "gender": "female",
+    "age group": "30~35",
+    "residence": "Changsha",
+    "home address": "Room 1802, Unit 1, Building 3, Huaze Lidu Community, 319 Jinxing Middle Road, Yuelu District, Changsha, Hunan Province",
+    "work address": "15th Floor, Xiaoxiang Morning Post Building, 456 Wuyi Avenue, Furong District, Changsha, Hunan Province",
+    "dietary restrictions": "No high sugar, No caffeine",
+    "family status": "Has children",
+    "personality": "Cold and concise in expression, lacks emotional communication and patience"
+  },
+  "user_historical_behaviors": {
+    "user id": "U955818",
+    "occupation": "Product Manager",
+    "gender": "female",
+    "age group": "30~35",
+    "residence": "Changsha",
+    "home address": "Room 1802, Unit 1, Building 3, Huaze Lidu Community, 319 Jinxing Middle Road, Yuelu District, Changsha, Hunan Province",
+    "work address": "15th Floor, Xiaoxiang Morning Post Building, 456 Wuyi Avenue, Furong District, Changsha, Hunan Province",
+    "in-store dining": {
+      "fine-dining": {
+        "frequently purchased categories": [
+          "Regional Cuisine/Hunan Cuisine (Average 120 yuan)",
+          "International Cuisine/Japanese Food (Average 150 yuan)",
+          "Regional Cuisine/Cantonese Cuisine (Average 130 yuan)"
+        ],
+        "preferred average price per person": "110~150 yuan",
+        "preferred store rating": "4.2~4.8 stars",
+        "typical dining time": "18:30-20:30",
+        "preferred distance": "500~3000m",
+        "recent orders": [
+          {
+            "store": "Xiang Man Lou",
+            "product": "Chopped Chili Fish Head Set"
+          },
+          {
+            "store": "Sushi-ro",
+            "product": "Special Sashimi Platter"
+          },
+          {
+            "store": "Yuehai Fishing Port",
+            "product": "Steamed Grouper Fish"
+          }
+        ],
+        "search history": [
+          "Non-spicy Hunan Cuisine",
+          "Japanese Cuisine",
+          "Cantonese Cuisine",
+          "Restaurants for Couples"
+        ]
+      },
+      "light meal": {
+        "frequently purchased categories": [
+          "Snacks & Fast Food/Chinese Quick Meals (Average 35 yuan)",
+          "Snacks & Fast Food/Western Fast Food (Average 40 yuan)",
+          "Regional Cuisine/Sichuan Cuisine (Average 45 yuan)"
+        ],
+        "preferred average price per person": "30~50 yuan",
+        "preferred store rating": "3.5~4.3 stars",
+        "typical dining time": "12:00-13:30",
+        "preferred distance": "0~800m",
+        "recent orders": [
+          {
+            "store": "Yonghe King",
+            "product": "Soy Milk and Fried Dough Set"
+          },
+          {
+            "store": "Salad Diary",
+            "product": "Low-sugar Light Salad"
+          },
+          {
+            "store": "Laoyou Rice Noodles",
+            "product": "Mildly Spicy Rice Noodles"
+          }
+        ],
+        "search history": [
+          "Healthy Light Meals",
+          "Low Sugar",
+          "Fast Food",
+          "Bento Box"
+        ]
+      },
+      "desserts/drinks/snacks": {
+        "frequently purchased categories": [
+          "Beverage Shops (Average 18 yuan)",
+          "Bread and Desserts (Average 25 yuan)"
+        ],
+        "preferred average price per person": "15~30 yuan",
+        "preferred store rating": "4.0~4.7 stars",
+        "typical dining time": "15:00-16:30",
+        "preferred distance": "0~500m",
+        "recent orders": [
+          {
+            "store": "HEYTEA",
+            "product": "Sugar-free Jasmine Green Tea"
+          },
+          {
+            "store": "Bread Talk",
+            "product": "Low-sugar Whole Wheat Bread"
+          },
+          {
+            "store": "Fresh Fruit Workshop",
+            "product": "Fresh Fruit Platter"
+          }
+        ],
+        "search history": [
+          "Sugar-free Drinks",
+          "Low-sugar Desserts",
+          "Healthy Snacks"
+        ]
+      }
+    },
+    "other in-store services": {
+      "frequently consumed categories": {
+        "Sports & Fitness/Yoga": "40%",
+        "Beauty/Hairdressing": "20%",
+        "Entertainment/Massage/Foot Therapy": "25%",
+        "Entertainment/DIY Workshop": "15%"
+      },
+      "cost per order by category": {
+        "Sports & Fitness/Yoga": "80~150 yuan",
+        "Beauty/Hairdressing": "150~300 yuan",
+        "Entertainment/Massage/Foot Therapy": "120~200 yuan",
+        "Entertainment/DIY Workshop": "100~180 yuan"
+      },
+      "preferred store rating": "4.0~4.8 stars",
+      "preferred service time": "18:00-20:00",
+      "preferred distance": "0~3000m",
+      "recent orders": [
+        {
+          "store": "Yushe Yoga",
+          "product": "Stress Relief Relaxation Course"
+        },
+        {
+          "store": "Hair Studio",
+          "product": "Haircut + Hair Care Package"
+        }
+      ],
+      "search history": [
+        "Yoga",
+        "Stress Relief Massage",
+        "Nearby Hairdressing",
+        "DIY Crafts",
+        "Couple Activities"
+      ]
+    }
+  },
+  "stores": {},
+  "orders": {
+    "S17564420327514686_O00002": {
+      "order_id": "S17564420327514686_O00002",
+      "order_type": "instore",
+      "user_id": "U955818",
+      "store_id": "S17564420327514686_I00003",
+      "note": "Relaxation after work",
+      "location": {
+        "address": "Fashion Color Art Hair Studio, Wuyi Avenue, Furong District, Changsha, Hunan Province",
+        "longitude": 112.9821,
+        "latitude": 28.1956
+      },
+      "dispatch_time": "",
+      "shipping_time": 0,
+      "delivery_time": "",
+      "total_price": 280,
+      "create_time": "2025-02-03 16:45:22",
+      "update_time": "2025-02-03 16:45:22",
+      "status": "consumed",
+      "products": [
+        {
+          "product_id": "S17564420327514686_P00011",
+          "price": 280,
+          "quantity": 1,
+          "attributes": "Light Color Highlighting Package (Unlimited Bleaching)"
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,221 @@
+{
+  "task_id": "D0811010",
+  "domain": "ota",
+  "time": "2024-12-19 11:37:40",
+  "user_id": "U371998",
+  "weather": [
+    {
+      "city": "Shaoyang",
+      "category": "light rain",
+      "datetime": "2025-01-01",
+      "temperature": [
+        8,
+        12
+      ],
+      "humidity": 78
+    }
+  ],
+  "location": [
+    {
+      "address": "Room 501, Unit 3, Building 12, Fushan Apartment, Dongpu Street, Yuecheng District, Shaoxing, Zhejiang Province",
+      "longitude": 120.592467,
+      "latitude": 30.012856
+    },
+    {
+      "address": "Shaoyang Intermediate People's Court, Baoqing East Road, Shuangqing District, Shaoyang, Hunan Province",
+      "longitude": 111.490376,
+      "latitude": 27.232027
+    }
+  ],
+  "user_profile": {
+    "user id": "U371998",
+    "occupation": "Lawyer",
+    "gender": "female",
+    "age group": "30~35",
+    "residence": "Shaoxing",
+    "home address": "Room 501, Unit 3, Building 12, Fushan Apartment, Dongpu Street, Yuecheng District, Shaoxing, Zhejiang Province",
+    "work address": "Room 1503, 15th Floor, Shaoxing International Business Center, 378 Jiefang North Road, Yuecheng District, Shaoxing, Zhejiang Province",
+    "dietary restrictions": "No caffeine, no alcohol",
+    "family status": "In a relationship",
+    "personality": "Tends to be anxious and worried, needs repeated confirmation to feel at ease"
+  },
+  "user_historical_behaviors": {
+    "user id": "U371998",
+    "occupation": "Lawyer",
+    "gender": "female",
+    "age group": "30~35",
+    "residence": "Shaoxing",
+    "home address": "Room 501, Unit 3, Building 12, Fushan Apartment, Dongpu Street, Yuecheng District, Shaoxing, Zhejiang Province",
+    "work address": "Room 1503, 15th Floor, Shaoxing International Business Center, 378 Jiefang North Road, Yuecheng District, Shaoxing, Zhejiang Province",
+    "visited scenes": {
+      "Cultural and Historical Sites": "35%",
+      "Exhibition Venues (Museums/Art Galleries)": "25%",
+      "Natural Scenery (Mountains/Lakes/Forests)": "20%",
+      "Traditional Villages/Industrial Tourism/Uncategorized": "15%",
+      "Landmark Buildings": "5%"
+    },
+    "cost per night on hotel": "500~1000 yuan",
+    "visited hotels": {
+      "Atour": "40%",
+      "Ji Hotel": "25%",
+      "Vienna": "20%",
+      "Orange": "15%"
+    },
+    "browsed hotels": {
+      "Four-star Hotels": "45%",
+      "Comfort Hotels": "35%",
+      "Three-star Hotels": "15%",
+      "Five-star Hotels": "5%"
+    },
+    "historical travel plans": {
+      "Shaoxing-Hangzhou": {
+        "Price Range": "50-100 yuan",
+        "Transportation": "High-Speed Train"
+      },
+      "Shaoxing-Shanghai": {
+        "Price Range": "100-200 yuan",
+        "Transportation": "High-Speed Train"
+      },
+      "Shaoxing-Beijing": {
+        "Price Range": "800-1200 yuan",
+        "Transportation": "Flight"
+      },
+      "Shaoxing-Nanjing": {
+        "Price Range": "200-350 yuan",
+        "Transportation": "High-Speed Train"
+      },
+      "Shaoxing-Suzhou": {
+        "Price Range": "150-250 yuan",
+        "Transportation": "High-Speed Train"
+      },
+      "Hangzhou-Shaoxing": {
+        "Price Range": "50-100 yuan",
+        "Transportation": "High-Speed Train"
+      },
+      "Shanghai-Shaoxing": {
+        "Price Range": "100-200 yuan",
+        "Transportation": "High-Speed Train"
+      }
+    }
+  },
+  "stores": {},
+  "orders": {
+    "S17557512753054748_O00001": {
+      "order_id": "S17557512753054748_O00001",
+      "order_type": "hotel",
+      "user_id": "U371998",
+      "store_id": "S17557512753054748_H00001",
+      "note": "Accommodation during training in Shaoyang, need laundry service, ironing service and breakfast",
+      "location": {
+        "address": "Atour Hotel Shaoyang, Chengnan Street, Daxiang District, Shaoyang, Hunan Province",
+        "longitude": 111.4692,
+        "latitude": 27.2378
+      },
+      "dispatch_time": "",
+      "shipping_time": 0.0,
+      "delivery_time": "",
+      "total_price": 4128.0,
+      "create_time": "2024-12-18 14:25:30",
+      "update_time": "2024-12-18 14:25:30",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17557512753054748_P00001",
+          "price": 688.0,
+          "quantity": 1,
+          "date": "2024-12-23",
+          "room_type": "Deluxe King Room"
+        },
+        {
+          "product_id": "S17557512753054748_P00002",
+          "price": 688.0,
+          "quantity": 1,
+          "date": "2024-12-24",
+          "room_type": "Deluxe King Room"
+        },
+        {
+          "product_id": "S17557512753054748_P00003",
+          "price": 688.0,
+          "quantity": 1,
+          "date": "2024-12-25",
+          "room_type": "Deluxe King Room"
+        },
+        {
+          "product_id": "S17557512753054748_P00004",
+          "price": 688.0,
+          "quantity": 1,
+          "date": "2024-12-26",
+          "room_type": "Deluxe King Room"
+        },
+        {
+          "product_id": "S17557512753054748_P00005",
+          "price": 688.0,
+          "quantity": 1,
+          "date": "2024-12-27",
+          "room_type": "Deluxe King Room"
+        },
+        {
+          "product_id": "S17557512753054748_P00006",
+          "price": 688.0,
+          "quantity": 1,
+          "date": "2024-12-28",
+          "room_type": "Deluxe King Room"
+        }
+      ]
+    },
+    "S17557512753054748_O00002": {
+      "order_id": "S17557512753054748_O00002",
+      "order_type": "train",
+      "user_id": "U371998",
+      "store_id": "S17557512753054748_T00013",
+      "note": "Going to Shaoyang for training",
+      "location": {
+        "address": "Shaoxing North Railway Station, Yuecheng District, Shaoxing, Zhejiang Province",
+        "longitude": 120.582,
+        "latitude": 30.0037
+      },
+      "dispatch_time": "",
+      "shipping_time": 0.0,
+      "delivery_time": "",
+      "total_price": 553.0,
+      "create_time": "2024-12-17 16:42:15",
+      "update_time": "2024-12-17 16:42:15",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17557512753054748_P00126",
+          "price": 553.0,
+          "quantity": 1,
+          "seat_type": "Second Class Seat"
+        }
+      ]
+    },
+    "S17557512753054748_O00003": {
+      "order_id": "S17557512753054748_O00003",
+      "order_type": "attraction",
+      "user_id": "U371998",
+      "store_id": "S17557512753054748_A00006",
+      "note": "Will visit Baishuidong if the weather is good on New Year's Day",
+      "location": {
+        "address": "Baishuidong Scenic Area, Xinshao County, Shaoyang, Hunan Province",
+        "longitude": 111.1234,
+        "latitude": 27.3456
+      },
+      "dispatch_time": "",
+      "shipping_time": 0.0,
+      "delivery_time": "",
+      "total_price": 88.0,
+      "create_time": "2024-12-18 15:30:22",
+      "update_time": "2024-12-18 15:30:22",
+      "status": "unpaid",
+      "products": [
+        {
+          "product_id": "S17557512753054748_P00073",
+          "price": 88.0,
+          "quantity": 1,
+          "ticket_type": "Adult Ticket"
+        }
+      ]
+    }
+  }
+}

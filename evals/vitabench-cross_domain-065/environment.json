@@ -1,0 +1,831 @@
+{
+  "task_id": "10806003",
+  "domain": "cross_domain",
+  "time": "2025-11-19 14:30:00",
+  "user_id": "U010048",
+  "weather": [
+    {
+      "city": "Jiujiang",
+      "category": "cloudy",
+      "datetime": "2025-11-19",
+      "temperature": [
+        12,
+        18
+      ],
+      "humidity": 72
+    },
+    {
+      "city": "Jiujiang",
+      "category": "sunny",
+      "datetime": "2025-11-20",
+      "temperature": [
+        10,
+        17
+      ],
+      "humidity": 66
+    }
+  ],
+  "location": [],
+  "user_profile": {
+    "user id": "U010048",
+    "occupation": "Actor",
+    "gender": "male",
+    "age group": "25~30",
+    "residence": "Taizhou",
+    "Permanent address": "Yujing Bay, 39 Shanghai South Street, Luqiao District, Taizhou, Zhejiang Province",
+    "work address": "Taizhou Intelligent Warehouse Cultural Industry Park, 988 East Donghai Avenue, Jiaojiang District, Taizhou, Zhejiang Province",
+    "dietary restrictions": "Avoids Heavy Oil Spicy, Contains Alcohol",
+    "family status": "In a relationship",
+    "personality": "Overly dependent on others' guidance, lacks independence and decisiveness"
+  },
+  "user_historical_behaviors": {
+    "user id": "U010048",
+    "occupation": "Actor",
+    "gender": "male",
+    "age group": "25~30",
+    "residence": "Taizhou",
+    "home address": "Yujing Bay, 39 Shanghai South Street, Luqiao District, Taizhou, Zhejiang Province",
+    "work address": "Taizhou Intelligent Warehouse Cultural Industry Park, 988 East Donghai Avenue, Jiaojiang District, Taizhou, Zhejiang Province",
+    "delivery": {
+      "food delivery": {
+        "breakfast": {
+          "frequently purchased categories": [
+            "Quick Meal/Steamed Buns/Pan-fried Buns (Average ¥22)",
+            "Quick Meal/Dumplings/Wonton (Average ¥25)",
+            "Quick Meal/Light Food (Average ¥32)"
+          ],
+          "cost per order": "¥15~35",
+          "preferred store rating": "4.5~4.8",
+          "preferred delivery time": "15~25 minutes",
+          "preferred distance": "0~2000m",
+          "recent orders": [
+            {
+              "store": "Din Tai Fung",
+              "product": "Steamed Bun Set"
+            },
+            {
+              "store": "Salad Diary",
+              "product": "Chicken Breast Vegetable Salad"
+            },
+            {
+              "store": "Gongdelin",
+              "product": "Vegetarian Wonton"
+            }
+          ],
+          "search history": [
+            "Low-fat breakfast",
+            "Healthy porridge",
+            "Steamed buns",
+            "Pork buns"
+          ]
+        },
+        "weekday lunch/dinner": {
+          "frequently purchased categories": [
+            "Quick Meal/Healthy Meal (Average ¥45)",
+            "International Cuisine/Japanese Bento/Sushi (Average ¥68)",
+            "Chinese Cuisine/Cantonese Cuisine (Average ¥75)"
+          ],
+          "cost per order": "¥40~80",
+          "preferred store rating": "4.6~4.9",
+          "preferred delivery time": "25~40 minutes",
+          "preferred distance": "0~3500m",
+          "recent orders": [
+            {
+              "store": "Light Food Workshop",
+              "product": "Low-fat Chicken Breast Rice"
+            },
+            {
+              "store": "Sushi Rou",
+              "product": "Salmon Sashimi Set"
+            },
+            {
+              "store": "Cantonese Pavilion",
+              "product": "White Cut Chicken Platter"
+            }
+          ],
+          "search history": [
+            "Low-fat meal",
+            "Healthy bento",
+            "Steamed dishes",
+            "Non-spicy Cantonese cuisine"
+          ]
+        },
+        "weekend lunch/dinner": {
+          "frequently purchased categories": [
+            "Chinese Cuisine/Hunan Cuisine (Average ¥110)",
+            "International Cuisine/Korean Food (Average ¥125)",
+            "International Cuisine/Pasta (Average ¥95)"
+          ],
+          "cost per order": "¥90~180",
+          "preferred store rating": "4.7~5.0",
+          "preferred delivery time": "30~45 minutes",
+          "preferred distance": "0~5000m",
+          "recent orders": [
+            {
+              "store": "Western Hunan Folk Restaurant",
+              "product": "Chopped Chili Fish Head Set"
+            },
+            {
+              "store": "Korean Cuisine House",
+              "product": "Stone Bowl Bibimbap"
+            },
+            {
+              "store": "Anthony's Italian Restaurant",
+              "product": "Black Truffle Pasta"
+            }
+          ],
+          "search history": [
+            "High-end restaurant",
+            "Non-alcoholic restaurant",
+            "Specialty dishes",
+            "Signature dishes"
+          ]
+        },
+        "desserts/drinks/snacks": {
+          "frequently purchased categories": [
+            "Drinks & Desserts/Pure Tea/Herbal Tea (Average ¥28)",
+            "Drinks & Desserts/Fruit Salad (Average ¥42)",
+            "Drinks & Desserts/Cold Desserts (Average ¥35)"
+          ],
+          "cost per order": "¥25~45",
+          "preferred store rating": "4.6~4.9",
+          "preferred delivery time": "15~30 minutes",
+          "preferred distance": "0~3000m",
+          "recent orders": [
+            {
+              "store": "HEYTEA",
+              "product": "Grape with Cheese Foam"
+            },
+            {
+              "store": "Xianfeng Fruits",
+              "product": "Colorful Fruit Salad"
+            },
+            {
+              "store": "Mixue Ice Cream",
+              "product": "Coconut Ice Cream"
+            }
+          ],
+          "search history": [
+            "Sugar-free drinks",
+            "Fruit tea",
+            "Healthy desserts",
+            "Low-sugar sweets"
+          ]
+        },
+        "night snack": {
+          "frequently purchased categories": [
+            "BBQ/Charcoal Grilled Meat (Average ¥58)",
+            "Quick Meal/Rice Noodles/Vermicelli (Average ¥32)",
+            "Snacks/Braised Flavors (Average ¥45)"
+          ],
+          "cost per order": "¥30~60",
+          "preferred store rating": "4.3~4.8",
+          "preferred delivery time": "20~35 minutes",
+          "preferred distance": "0~3000m",
+          "recent orders": [
+            {
+              "store": "Charcoal BBQ Shop",
+              "product": "Beef Skewer Platter"
+            },
+            {
+              "store": "Guilin Rice Noodles",
+              "product": "Signature Braised Rice Noodles"
+            },
+            {
+              "store": "Old Wang's Braised Food",
+              "product": "Braised Food Platter"
+            }
+          ],
+          "search history": [
+            "Non-spicy night snack",
+            "Healthy night snack",
+            "Non-alcoholic BBQ",
+            "Low purine"
+          ]
+        }
+      },
+      "product delivery": {
+        "frequently purchased categories": [
+          "Fruits (52%)",
+          "Household Items (18%)",
+          "Vegetables/Bean Products (15%)",
+          "Beverages/Nutritional Drinks (10%)",
+          "Others (5%)"
+        ],
+        "frequently visited stores": [
+          "Seven Fresh Supermarket (35%)",
+          "FamilyMart (25%)",
+          "Hema Fresh (22%)",
+          "Other Stores (18%)"
+        ],
+        "cost per order by category": {
+          "Fruits": "¥15~50",
+          "Household Items": "¥10~60",
+          "Vegetables/Bean Products": "¥5~30",
+          "Beverages/Nutritional Drinks": "¥10~40"
+        },
+        "preferred delivery time": "30~60 minutes",
+        "typical order time": "9~11 AM (32%), 4~6 PM (28%), 8~10 PM (25%)",
+        "recent orders": [
+          {
+            "store": "Seven Fresh Supermarket",
+            "product": "Imported Avocado Pack of 3"
+          },
+          {
+            "store": "Hema Fresh",
+            "product": "Apple Juice"
+          },
+          {
+            "store": "FamilyMart",
+            "product": "Sugar-Free Soda Water 6-Pack"
+          }
+        ],
+        "search history": [
+          "Low-sugar drinks",
+          "Sugar-free drinks",
+          "Imported fruits",
+          "Kitchen paper towels",
+          "Low-calorie snacks"
+        ]
+      }
+    },
+    "in-store consumption": {
+      "in-store dining": {
+        "fine-dining": {
+          "frequently purchased categories": [
+            "Regional Cuisine/Jiangsu-Zhejiang Cuisine (Average ¥85)",
+            "Regional Cuisine/Specialty Dishes (Average ¥95)",
+            "International Cuisine/Japanese Food (Average ¥120)"
+          ],
+          "preferred average price per person": "¥80~120",
+          "preferred store rating": "4.0~4.5 stars",
+          "typical dining time": "6:30-8:00 PM",
+          "preferred distance": "500~2000m",
+          "recent orders": [
+            {
+              "store": "Jiangnan Restaurant",
+              "product": "Dongpo Pork"
+            },
+            {
+              "store": "Sushi Ichiban",
+              "product": "Salmon Sushi Platter"
+            },
+            {
+              "store": "Old Taizhou Flavor",
+              "product": "Braised Yellow Croaker"
+            }
+          ],
+          "search history": [
+            "Jiangsu-Zhejiang cuisine",
+            "Taizhou specialty dishes",
+            "Weekend gathering",
+            "Non-spicy Japanese food"
+          ]
+        },
+        "light meal": {
+          "frequently purchased categories": [
+            "Snacks & Fast Food/Chinese Quick Meal (Average ¥25)",
+            "Snacks & Fast Food/Western Fast Food (Average ¥30)",
+            "Regional Cuisine/Jiangsu-Zhejiang Cuisine (Average ¥40)"
+          ],
+          "preferred average price per person": "¥20~45",
+          "preferred store rating": "3.5~4.2 stars",
+          "typical dining time": "11:30 AM-12:30 PM",
+          "preferred distance": "100~800m",
+          "recent orders": [
+            {
+              "store": "Taizhou Noodle House",
+              "product": "Three Delicacies Noodles"
+            },
+            {
+              "store": "Breakfast King",
+              "product": "Steamed Buns + Soy Milk"
+            },
+            {
+              "store": "Old Wang's Fast Food",
+              "product": "Vegetable and Pork Rice Bowl"
+            }
+          ],
+          "search history": [
+            "Chinese fast food",
+            "Nearby noodle shop",
+            "Healthy quick meal",
+            "Non-spicy fast food"
+          ]
+        },
+        "desserts/drinks/snacks": {
+          "frequently purchased categories": [
+            "Beverage Shops (Average ¥15)",
+            "Bread & Desserts (Average ¥20)",
+            "Other Dining/Fresh Fruits (Average ¥12)"
+          ],
+          "preferred average price per person": "¥10~25",
+          "preferred store rating": "3.7~4.3 stars",
+          "typical dining time": "3:00-4:30 PM",
+          "preferred distance": "0~500m",
+          "recent orders": [
+            {
+              "store": "Lemon Tea House",
+              "product": "Iced Lemon Water"
+            },
+            {
+              "store": "Fresh Fruit Plus",
+              "product": "Fruit Platter"
+            },
+            {
+              "store": "Wheat Village",
+              "product": "Whole Wheat Bread"
+            }
+          ],
+          "search history": [
+            "Low-sugar drinks",
+            "Fruit shops",
+            "Healthy desserts",
+            "Whole wheat bread"
+          ]
+        }
+      },
+      "other in-store services": {
+        "frequently consumed categories": {
+          "Beauty/Hair Salon": "35%",
+          "Beauty/Nail Salon": "15%",
+          "Sports & Fitness/Fitness Center": "20%",
+          "Parent-Child/Children's Play": "30%"
+        },
+        "cost per order by category": {
+          "Beauty/Hair Salon": "¥80~150",
+          "Beauty/Nail Salon": "¥60~120",
+          "Sports & Fitness/Fitness Center": "¥30~80",
+          "Parent-Child/Children's Play": "¥100~200"
+        },
+        "preferred store rating": "3.8~4.5 stars",
+        "preferred service time": "10:00 AM-4:00 PM",
+        "preferred distance": "0~3000m",
+        "recent orders": [
+          {
+            "store": "Flying Hair Salon",
+            "product": "Wash, Cut & Blow-dry Package"
+          },
+          {
+            "store": "Golden Childhood Playground",
+            "product": "Parent-Child Ticket Package"
+          },
+          {
+            "store": "Community Fitness Center",
+            "product": "Single Admission Fitness Pass"
+          }
+        ],
+        "search history": [
+          "Affordable hair salon",
+          "Weekend parent-child activities",
+          "Nearby gym",
+          "Children's playground",
+          "Women's fitness"
+        ]
+      }
+    },
+    "OTA": {
+      "visited scenes": {
+        "Cultural Heritage Sites": "25%",
+        "Exhibition Halls (Museums/Art Galleries)": "30%",
+        "Natural Landscapes (Mountains/Lakes/Forests)": "20%",
+        "Hot Spring Scenic Areas": "15%",
+        "Special Villages/Industrial Tourism/Uncategorized": "10%"
+      },
+      "cost per night on hotel": "¥500~1000",
+      "visited hotels": {
+        "Atour": "35%",
+        "JI Hotel": "25%",
+        "Vienna Hotel": "20%",
+        "Huazhu": "15%",
+        "Home Inn": "5%"
+      },
+      "browsed hotels": {
+        "Four-Star Hotel": "45%",
+        "Comfortable Type": "35%",
+        "Three-Star": "15%",
+        "Deluxe Type": "5%"
+      },
+      "historical travel plans": {
+        "Taizhou-Hangzhou": {
+          "price range": "¥150-250",
+          "transportation": "High-Speed Rail"
+        },
+        "Taizhou-Shanghai": {
+          "price range": "¥200-350",
+          "transportation": "High-Speed Rail"
+        },
+        "Shanghai-Beijing": {
+          "price range": "¥800-1200",
+          "transportation": "Flight"
+        },
+        "Taizhou-Hengdian": {
+          "price range": "¥100-200",
+          "transportation": "Long-distance Bus"
+        },
+        "Taizhou-Xiamen": {
+          "price range": "¥350-500",
+          "transportation": "High-Speed Rail"
+        },
+        "Hangzhou-Taizhou": {
+          "price range": "¥150-250",
+          "transportation": "High-Speed Rail"
+        }
+      }
+    }
+  },
+  "stores": {
+    "S17550803068052762_S00001": {
+      "name": "Old Lushan Flavor",
+      "store_id": "S17550803068052762_S00001",
+      "score": 4.7,
+      "location": {
+        "address": "Old Lushan Flavor Restaurant, Guling Town, Lushan Scenic Area, Jiujiang, Jiangxi Province",
+        "latitude": 29.5482,
+        "longitude": 116.0398
+      },
+      "tags": [
+        "Jiangxi Cuisine",
+        "Specialty Dish",
+        "Roast Chicken",
+        "Set Meal",
+        "Takeout Delivery"
+      ],
+      "store_type": "target",
+      "products": [
+        {
+          "name": "Lushan Roast Chicken Set",
+          "store_id": "S17550803068052762_S00001",
+          "store_name": "Old Lushan Flavor",
+          "price": 138,
+          "tags": [
+            "Jiangxi Specialty",
+            "Set Meal",
+            "Signature Dish"
+          ],
+          "product_id": "S17550803068052762_P00001",
+          "attributes": [
+            "Rice",
+            "Steamed Bun"
+          ],
+          "product_type": "target"
+        },
+        {
+          "name": "Lushan Special Farmhouse Roast Chicken",
+          "store_id": "S17550803068052762_S00001",
+          "store_name": "Old Lushan Flavor",
+          "price": 88,
+          "tags": [
+            "Signature Dish",
+            "Single Item"
+          ],
+          "product_id": "S17550803068052762_P00002",
+          "attributes": [
+            "Mild Spicy",
+            "Non-Spicy"
+          ],
+          "product_type": "distraction"
+        },
+        {
+          "name": "Jiangxi Special Set for Two",
+          "store_id": "S17550803068052762_S00001",
+          "store_name": "Old Lushan Flavor",
+          "price": 168,
+          "tags": [
+            "Jiangxi Specialty",
+            "Set Meal",
+            "For Two People",
+            "Classic Cuisine"
+          ],
+          "product_id": "S17550803068052762_P00003",
+          "attributes": [
+            "Mild Spicy",
+            "Non-Spicy"
+          ],
+          "product_type": "distraction"
+        },
+        {
+          "name": "Lushan Light Health Preservation Set",
+          "store_id": "S17550803068052762_S00001",
+          "store_name": "Old Lushan Flavor",
+          "price": 128,
+          "tags": [
+            "Jiangxi Specialty",
+            "Healthy",
+            "Set Meal",
+            "Health Preservation"
+          ],
+          "product_id": "S17550803068052762_P00005",
+          "attributes": [
+            "Mild Spicy",
+            "Non-Spicy"
+          ],
+          "product_type": "target"
+        }
+      ]
+    },
+    "S17550803068052762_S00002": {
+      "name": "Jiujiang Boat Crew Cuisine",
+      "store_id": "S17550803068052762_S00002",
+      "score": 4.5,
+      "location": {
+        "address": "Jiujiang Boat Crew Cuisine Restaurant, Guling Town, Lushan Scenic Area, Jiujiang, Jiangxi Province",
+        "latitude": 29.549,
+        "longitude": 116.041
+      },
+      "tags": [
+        "Jiangxi Cuisine",
+        "Specialty Dish"
+      ],
+      "store_type": "target",
+      "products": [
+        {
+          "name": "Lushan Roast Chicken Set",
+          "store_id": "S17550803068052762_S00002",
+          "store_name": "Jiujiang Boat Crew Cuisine",
+          "price": 88,
+          "tags": [
+            "Jiangxi Specialty",
+            "Roast Chicken Set",
+            "Non-Spicy",
+            "Signature Dish"
+          ],
+          "product_id": "S17550803068052762_P00006",
+          "attributes": [
+            "Rice as main course (required)"
+          ],
+          "product_type": "target"
+        },
+        {
+          "name": "Lushan Steamed Bass Set",
+          "store_id": "S17550803068052762_S00002",
+          "store_name": "Jiujiang Boat Crew Cuisine",
+          "price": 108,
+          "tags": [
+            "Jiangxi Specialty",
+            "Non-Spicy",
+            "Set Meal"
+          ],
+          "product_id": "S17550803068052762_P00007",
+          "attributes": [
+            "Rice as main course (required)"
+          ],
+          "product_type": "target"
+        },
+        {
+          "name": "Lushan Farmhouse Tofu Set",
+          "store_id": "S17550803068052762_S00002",
+          "store_name": "Jiujiang Boat Crew Cuisine",
+          "price": 78,
+          "tags": [
+            "Jiangxi Specialty",
+            "Set Meal"
+          ],
+          "product_id": "S17550803068052762_P00009",
+          "attributes": [
+            "Room Temperature"
+          ],
+          "product_type": "target"
+        }
+      ]
+    },
+    "S17550803068052762_S00003": {
+      "name": "Lushan Farmhouse Restaurant",
+      "store_id": "S17550803068052762_S00003",
+      "score": 4.3,
+      "location": {
+        "address": "Lushan Farmhouse Restaurant, Wulaofeng Road, Lushan Scenic Area, Jiujiang, Jiangxi Province",
+        "latitude": 29.553,
+        "longitude": 116.0478
+      },
+      "tags": [
+        "Farm Cuisine",
+        "Wild Vegetables"
+      ],
+      "store_type": "distraction",
+      "products": [
+        {
+          "name": "Lushan Roast Chicken Farmhouse Set",
+          "store_id": "S17550803068052762_S00003",
+          "store_name": "Lushan Farmhouse Restaurant",
+          "price": 88,
+          "tags": [
+            "Jiangxi Specialty",
+            "Farm Cuisine",
+            "Set Meal",
+            "Extra Spicy"
+          ],
+          "product_id": "S17550803068052762_P00011",
+          "attributes": [
+            "Rice",
+            "Steamed Bun"
+          ],
+          "product_type": "distraction"
+        },
+        {
+          "name": "Lushan Wild Vegetable Set",
+          "store_id": "S17550803068052762_S00003",
+          "store_name": "Lushan Farmhouse Restaurant",
+          "price": 68,
+          "tags": [
+            "Wild Vegetables",
+            "Farm Cuisine",
+            "Set Meal",
+            "Light Flavor"
+          ],
+          "product_id": "S17550803068052762_P00012",
+          "attributes": [
+            "No Spice",
+            "Low Oil"
+          ],
+          "product_type": "distraction"
+        },
+        {
+          "name": "Farmhouse Style Stir-Fried Pork",
+          "store_id": "S17550803068052762_S00003",
+          "store_name": "Lushan Farmhouse Restaurant",
+          "price": 48,
+          "tags": [
+            "Jiangxi Specialty",
+            "Farm Cuisine",
+            "Side Dish"
+          ],
+          "product_id": "S17550803068052762_P00013",
+          "attributes": [
+            "Mild Spicy",
+            "Medium Spicy",
+            "Extra Spicy"
+          ],
+          "product_type": "distraction"
+        },
+        {
+          "name": "Lushan Special Farmhouse Feast",
+          "store_id": "S17550803068052762_S00003",
+          "store_name": "Lushan Farmhouse Restaurant",
+          "price": 158,
+          "tags": [
+            "Jiangxi Specialty",
+            "Farm Cuisine",
+            "Set Meal",
+            "Special Feast"
+          ],
+          "product_id": "S17550803068052762_P00015",
+          "attributes": [
+            "Mild Spicy",
+            "Medium Spicy"
+          ],
+          "product_type": "distraction"
+        }
+      ]
+    },
+    "S17550803068052762_S00004": {
+      "name": "Lushan Beer Duck",
+      "store_id": "S17550803068052762_S00004",
+      "score": 4.6,
+      "location": {
+        "address": "Lushan Beer Duck Restaurant, Ruqin Lake Road, Lushan Scenic Area, Jiujiang, Jiangxi Province",
+        "latitude": 29.551,
+        "longitude": 116.043
+      },
+      "tags": [
+        "Jiangxi Cuisine",
+        "Beer Duck",
+        "Takeout Delivery"
+      ],
+      "store_type": "distraction",
+      "products": [
+        {
+          "name": "Classic Beer Duck",
+          "store_id": "S17550803068052762_S00004",
+          "store_name": "Lushan Beer Duck",
+          "price": 78,
+          "tags": [
+            "Signature Dish",
+            "Beer Duck",
+            "Jiangxi Specialty",
+            "Contains Alcohol"
+          ],
+          "product_id": "S17550803068052762_P00016",
+          "attributes": [
+            "Mild Spicy",
+            "Standard Portion"
+          ],
+          "product_type": "distraction"
+        },
+        {
+          "name": "Sauce-Flavored Roast Duck",
+          "store_id": "S17550803068052762_S00004",
+          "store_name": "Lushan Beer Duck",
+          "price": 68,
+          "tags": [
+            "Signature Dish",
+            "Roast Duck",
+            "Jiangxi Specialty",
+            "Sauce Flavor"
+          ],
+          "product_id": "S17550803068052762_P00018",
+          "attributes": [
+            "Non-Spicy",
+            "Standard Portion"
+          ],
+          "product_type": "distraction"
+        },
+        {
+          "name": "Beer Duck Three-Person Set",
+          "store_id": "S17550803068052762_S00004",
+          "store_name": "Lushan Beer Duck",
+          "price": 158,
+          "tags": [
+            "Set Meal",
+            "Beer Duck",
+            "Jiangxi Specialty",
+            "Contains Alcohol"
+          ],
+          "product_id": "S17550803068052762_P00019",
+          "attributes": [
+            "Mild Spicy",
+            "For Three People"
+          ],
+          "product_type": "distraction"
+        },
+        {
+          "name": "Steamed Seasonal Vegetable Platter",
+          "store_id": "S17550803068052762_S00004",
+          "store_name": "Lushan Beer Duck",
+          "price": 38,
+          "tags": [
+            "Vegetarian",
+            "Light Flavor",
+            "Seasonal Vegetables"
+          ],
+          "product_id": "S17550803068052762_P00020",
+          "attributes": [
+            "Non-Spicy"
+          ],
+          "product_type": "distraction"
+        }
+      ]
+    }
+  },
+  "orders": {
+    "S17550803068052762_O00001": {
+      "order_id": "S17550803068052762_O00001",
+      "order_type": "delivery",
+      "user_id": "U010048",
+      "store_id": "S17550803068052762_S00001",
+      "total_price": 138.0,
+      "create_time": "2025-11-19 16:30:00",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17550803068052762_P00001",
+          "price": 138.0,
+          "quantity": 1
+        }
+      ]
+    },
+    "S17550803068052762_O00004": {
+      "order_id": "S17550803068052762_O00004",
+      "order_type": "train",
+      "user_id": "U010048",
+      "store_id": "S17550803068052762_T00013",
+      "note": "",
+      "location": {
+        "address": "Taizhou Station, Jiaojiang District, Taizhou, Zhejiang Province",
+        "longitude": 121.422,
+        "latitude": 28.656
+      },
+      "dispatch_time": "",
+      "shipping_time": 0.0,
+      "delivery_time": "",
+      "total_price": 883.0,
+      "create_time": "2025-11-18 10:30:00",
+      "update_time": "2025-11-18 10:30:00",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17550803068052762_P00082",
+          "price": 883.0,
+          "quantity": 1,
+          "seat_type": "First Class Seat"
+        }
+      ]
+    },
+    "S17550803068052762_O00005": {
+      "order_id": "S17550803068052762_O00005",
+      "order_type": "instore",
+      "user_id": "U010048",
+      "store_id": "S17550803068052762_I00016",
+      "total_price": 120.0,
+      "create_time": "2025-11-20 14:00:00",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17550803068052762_P00101",
+          "price": 120.0,
+          "quantity": 1
+        }
+      ]
+    }
+  }
+}

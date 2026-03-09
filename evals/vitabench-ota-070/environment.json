@@ -1,0 +1,277 @@
+{
+  "task_id": "D0808010",
+  "domain": "ota",
+  "time": "2025-02-05 16:41:27",
+  "user_id": "U010071",
+  "weather": [
+    {
+      "city": "Xi'an",
+      "category": "heavy rain",
+      "datetime": "2025-02-09",
+      "temperature": [
+        2,
+        8
+      ],
+      "humidity": 85
+    },
+    {
+      "city": "Jiayuguan",
+      "category": "sunny",
+      "datetime": "2025-02-09",
+      "temperature": [
+        -8,
+        3
+      ],
+      "humidity": 45
+    },
+    {
+      "city": "Jiayuguan",
+      "category": "cloudy",
+      "datetime": "2025-02-13",
+      "temperature": [
+        -6,
+        5
+      ],
+      "humidity": 52
+    }
+  ],
+  "location": [
+    {
+      "address": "Room 1302, Unit 1, Building 2, Ziwei Yonghe Square, No.3 Dianzi Avenue, Yanta District, Xi'an, Shaanxi Province",
+      "longitude": 108.9423,
+      "latitude": 34.2194
+    },
+    {
+      "address": "Second Affiliated Hospital of Xi'an Jiaotong University, Northeast Corner of West Youyi Road and West Ziqiang Road Intersection, Xincheng District, Xi'an, Shaanxi Province",
+      "longitude": 108.9532,
+      "latitude": 34.2778
+    }
+  ],
+  "user_profile": {
+    "user id": "U010071",
+    "occupation": "Nurse",
+    "gender": "female",
+    "age group": "30~35",
+    "residence": "Xi'an",
+    "home address": "Room 1302, Unit 1, Building 2, Ziwei Yonghe Square, No.3 Dianzi Avenue, Yanta District, Xi'an, Shaanxi Province",
+    "work address": "Second Affiliated Hospital of Xi'an Jiaotong University, Northeast Corner of West Youyi Road and West Ziqiang Road Intersection, Xincheng District, Xi'an, Shaanxi Province",
+    "dietary restrictions": "No fried food, low salt",
+    "family status": "Has children and elderly family members",
+    "personality": "Strong logical thinking, likes to analyze and question things, pursues accuracy"
+  },
+  "user_historical_behaviors": {
+    "user id": "U010071",
+    "occupation": "Nurse",
+    "gender": "female",
+    "age group": "30~35",
+    "residence": "Xi'an",
+    "home address": "Room 1302, Unit 1, Building 2, Ziwei Yonghe Square, No.3 Dianzi Avenue, Yanta District, Xi'an, Shaanxi Province",
+    "work address": "Second Affiliated Hospital of Xi'an Jiaotong University, Northeast Corner of West Youyi Road and West Ziqiang Road Intersection, Xincheng District, Xi'an, Shaanxi Province",
+    "visited scenes": {
+      "Historical sites": "35%",
+      "Exhibition halls (museums/art galleries)": "20%",
+      "Parks": "25%",
+      "Natural landscapes (mountains/lakes/forests)": "15%",
+      "Featured villages/industrial tourism/uncategorized": "5%"
+    },
+    "cost per night on hotel": "300~500 yuan",
+    "visited hotels": {
+      "Home Inn": "30%",
+      "Ji Hotel": "25%",
+      "Atour": "20%",
+      "Vienna Hotel": "15%",
+      "Orange Hotel": "10%"
+    },
+    "browsed hotels": {
+      "Three-star hotels": "45%",
+      "Comfort hotels": "40%",
+      "Economy hotels": "15%"
+    },
+    "historical travel plans": {
+      "Xi'an-Chengdu": {
+        "Price range": "400-600 yuan",
+        "Transportation": "High-speed/EMU (Electric Multiple Unit) train"
+      },
+      "Xi'an-Beijing": {
+        "Price range": "800-1200 yuan",
+        "Transportation": "Airplane"
+      },
+      "Xi'an-Shanghai": {
+        "Price range": "900-1300 yuan",
+        "Transportation": "Airplane"
+      },
+      "Xi'an-Chongqing": {
+        "Price range": "300-500 yuan",
+        "Transportation": "High-speed/EMU (Electric Multiple Unit) train"
+      },
+      "Xi'an-Lanzhou": {
+        "Price range": "200-350 yuan",
+        "Transportation": "High-speed/EMU (Electric Multiple Unit) train"
+      }
+    }
+  },
+  "stores": {},
+  "orders": {
+    "S17557512803333407_O00001": {
+      "order_id": "S17557512803333407_O00001",
+      "order_type": "hotel",
+      "user_id": "U010071",
+      "store_id": "S17557512803333407_H00001",
+      "note": "Accommodation near Fantawild for convenient evening visit",
+      "location": {
+        "address": "Fantawild Theme Hotel Jiayuguan, Jiayuguan City, Gansu Province",
+        "longitude": 98.289,
+        "latitude": 39.773
+      },
+      "dispatch_time": "",
+      "shipping_time": 0.0,
+      "delivery_time": "",
+      "total_price": 398.0,
+      "create_time": "2025-02-04 14:30:00",
+      "update_time": "2025-02-04 14:30:00",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17557512803333407_P00001",
+          "price": 398.0,
+          "quantity": 1,
+          "date": "2025-02-08",
+          "room_type": "Fantawild themed family room"
+        }
+      ]
+    },
+    "S17557512803333407_O00002": {
+      "order_id": "S17557512803333407_O00002",
+      "order_type": "hotel",
+      "user_id": "U010071",
+      "store_id": "S17557512803333407_H00002",
+      "note": "City wall view room, for a change of accommodation environment",
+      "location": {
+        "address": "Atour Hotel Jiayuguan, Jiayuguan City, Gansu Province",
+        "longitude": 98.277,
+        "latitude": 39.786
+      },
+      "dispatch_time": "",
+      "shipping_time": 0.0,
+      "delivery_time": "",
+      "total_price": 1284.0,
+      "create_time": "2025-02-04 15:15:00",
+      "update_time": "2025-02-04 15:15:00",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17557512803333407_P00010",
+          "price": 428.0,
+          "quantity": 1,
+          "date": "2025-02-09",
+          "room_type": "Deluxe king room with city wall view"
+        },
+        {
+          "product_id": "S17557512803333407_P00011",
+          "price": 428.0,
+          "quantity": 1,
+          "date": "2025-02-10",
+          "room_type": "Deluxe king room with city wall view"
+        },
+        {
+          "product_id": "S17557512803333407_P00012",
+          "price": 428.0,
+          "quantity": 1,
+          "date": "2025-02-11",
+          "room_type": "Deluxe king room with city wall view"
+        }
+      ]
+    },
+    "S17557512803333407_O00003": {
+      "order_id": "S17557512803333407_O00003",
+      "order_type": "attraction",
+      "user_id": "U010071",
+      "store_id": "S17557512803333407_A00005",
+      "note": "Booking Fantawild tickets in advance to ensure seeing the fireworks show",
+      "location": {
+        "address": "Fantawild Adventure Jiayuguan, Jiayuguan City, Gansu Province",
+        "longitude": 98.289,
+        "latitude": 39.773
+      },
+      "dispatch_time": "",
+      "shipping_time": 0.0,
+      "delivery_time": "",
+      "total_price": 490.0,
+      "create_time": "2025-02-04 16:20:00",
+      "update_time": "2025-02-04 16:20:00",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17557512803333407_P00031",
+          "price": 280.0,
+          "quantity": 1,
+          "date": "2025-02-08",
+          "ticket_type": "Adult ticket"
+        },
+        {
+          "product_id": "S17557512803333407_P00032",
+          "price": 210.0,
+          "quantity": 1,
+          "date": "2025-02-08",
+          "ticket_type": "Child ticket"
+        }
+      ]
+    },
+    "S17557512803333407_O00004": {
+      "order_id": "S17557512803333407_O00004",
+      "order_type": "train",
+      "user_id": "U010071",
+      "store_id": "S17557512803333407_T00012",
+      "note": "Outbound EMU (Electric Multiple Unit) train first class seat for comfortable travel",
+      "location": {
+        "address": "Xi'an North Railway Station, Xi'an, Shaanxi Province",
+        "longitude": 108.963,
+        "latitude": 34.372
+      },
+      "dispatch_time": "",
+      "shipping_time": 0.0,
+      "delivery_time": "",
+      "total_price": 1762.0,
+      "create_time": "2025-02-03 20:45:00",
+      "update_time": "2025-02-03 20:45:00",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17557512803333407_P00095",
+          "price": 881.0,
+          "quantity": 2,
+          "date": "2025-02-09",
+          "seat_type": "First class seat"
+        }
+      ]
+    },
+    "S17557512803333407_O00005": {
+      "order_id": "S17557512803333407_O00005",
+      "order_type": "train",
+      "user_id": "U010071",
+      "store_id": "S17557512803333407_T00015",
+      "note": "Return EMU (Electric Multiple Unit) train first class seat, returning to Xi'an in the morning of Lantern Festival",
+      "location": {
+        "address": "Jiayuguan South Railway Station, Jiayuguan City, Gansu Province",
+        "longitude": 98.277,
+        "latitude": 39.786
+      },
+      "dispatch_time": "",
+      "shipping_time": 0.0,
+      "delivery_time": "",
+      "total_price": 1768.0,
+      "create_time": "2025-02-03 21:10:00",
+      "update_time": "2025-02-03 21:10:00",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17557512803333407_P00109",
+          "price": 884.0,
+          "quantity": 2,
+          "date": "2025-02-14",
+          "seat_type": "First class seat"
+        }
+      ]
+    }
+  }
+}

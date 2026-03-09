@@ -1,0 +1,464 @@
+{
+  "task_id": "A0805001",
+  "domain": "cross_domain",
+  "time": "2024-11-07 19:15:00",
+  "user_id": "U001020",
+  "weather": [
+    {
+      "city": "Beijing",
+      "category": "cloudy",
+      "datetime": "2024-11-07",
+      "temperature": [
+        8,
+        15
+      ],
+      "humidity": 65
+    },
+    {
+      "city": "Beijing",
+      "category": "sunny",
+      "datetime": "2024-11-08",
+      "temperature": [
+        7,
+        16
+      ],
+      "humidity": 60
+    },
+    {
+      "city": "Tianjin",
+      "category": "cloudy",
+      "datetime": "2024-11-09",
+      "temperature": [
+        8,
+        17
+      ],
+      "humidity": 68
+    },
+    {
+      "city": "Tianjin",
+      "category": "cloudy",
+      "datetime": "2024-11-10",
+      "temperature": [
+        7,
+        14
+      ],
+      "humidity": 75
+    }
+  ],
+  "location": [
+    {
+      "address": "Shenlong Jinqiao Community, North of Bridge No.1, Majuqiao, Tongzhou District, Beijing",
+      "longitude": 116.5987,
+      "latitude": 39.7564
+    }
+  ],
+  "user_profile": {
+    "user id": "U001020",
+    "occupation": "Blue-collar worker",
+    "gender": "female",
+    "age group": "35~40",
+    "residence": "Beijing",
+    "home address": "Shenlong Jinqiao Community, North of Bridge No.1, Majuqiao, Tongzhou District, Beijing",
+    "work address": "Beijing Guanghua Textile Group Co., Ltd. Industrial Park, 225 Maqiao Road, Tongzhou District, Beijing",
+    "dietary restrictions": "Avoids greasy and spicy food, avoids high salt",
+    "family status": "Has pets",
+    "personality": "Overly dependent on others' guidance, lacks independence and decisiveness"
+  },
+  "user_historical_behaviors": {
+    "user id": "U001020",
+    "occupation": "Blue-collar worker",
+    "gender": "female",
+    "age group": "35~40",
+    "residence": "Beijing",
+    "Permanent address": "Shenlong Jinqiao Community, North of Bridge No.1, Majuqiao, Tongzhou District, Beijing",
+    "work address": "Beijing Guanghua Textile Group Co., Ltd. Industrial Park, 225 Maqiao Road, Tongzhou District, Beijing",
+    "home address": "Shenlong Jinqiao Community, North of Bridge No.1, Majuqiao, Tongzhou District, Beijing",
+    "delivery": {
+      "food delivery": {
+        "breakfast": {
+          "frequently purchased categories": [
+            "Quick meals/Steamed buns/Pan-fried buns (average 15 yuan)",
+            "Quick meals/Fried dough sticks (average 8 yuan)",
+            "Quick meals/Jianbing/Wraps/Hand-grabbed pancakes (average 12 yuan)"
+          ],
+          "cost per order": "8~25 yuan",
+          "preferred store rating": "4.2~4.7",
+          "preferred delivery time": "15~25 minutes",
+          "preferred distance": "0~1500m",
+          "recent orders": [
+            {
+              "store": "Lao Wang's Steamed Bun Shop",
+              "product": "Pork bun + soy milk combo"
+            },
+            {
+              "store": "Tianjin Jianbing",
+              "product": "Original jianbing"
+            },
+            {
+              "store": "Breakfast Workshop",
+              "product": "Fried dough stick and soy milk combo"
+            }
+          ],
+          "search history": [
+            "Steamed buns",
+            "Soy milk",
+            "Jianbing",
+            "Nutritious breakfast"
+          ]
+        },
+        "weekday lunch/dinner": {
+          "frequently purchased categories": [
+            "Quick meals/Rice with toppings (average 22 yuan)",
+            "Quick meals/Small portion dishes (average 25 yuan)",
+            "Quick meals/Rice noodles/Rice vermicelli (average 20 yuan)"
+          ],
+          "cost per order": "20~35 yuan",
+          "preferred store rating": "4.0~4.5",
+          "preferred delivery time": "20~30 minutes",
+          "preferred distance": "0~2000m",
+          "recent orders": [
+            {
+              "store": "Home-style Stir-fry Fast Food",
+              "product": "Moo Shu Pork over rice + Tomato egg soup"
+            },
+            {
+              "store": "Tasty Small Dishes",
+              "product": "Sauerkraut fish + rice"
+            },
+            {
+              "store": "Yunnan Bridge Rice Noodles",
+              "product": "Light chicken soup rice noodles"
+            }
+          ],
+          "search history": [
+            "Non-spicy rice with toppings",
+            "Small portion dishes",
+            "Light lunch",
+            "Fast food"
+          ]
+        },
+        "weekend lunch/dinner": {
+          "frequently purchased categories": [
+            "Chinese cuisine/Shandong cuisine (average 65 yuan)",
+            "International cuisine/Stone pot bibimbap/Teppanyaki rice (average 55 yuan)",
+            "Chinese cuisine/Crayfish (average 80 yuan)"
+          ],
+          "cost per order": "50~120 yuan",
+          "preferred store rating": "4.5~4.8",
+          "preferred delivery time": "30~45 minutes",
+          "preferred distance": "0~3500m",
+          "recent orders": [
+            {
+              "store": "Shandong Home Cooking",
+              "product": "Scallion lamb + Sweet and sour pork + Garlic broccoli"
+            },
+            {
+              "store": "Korean Cuisine",
+              "product": "Stone pot bibimbap + Seaweed soup"
+            },
+            {
+              "store": "Steamed Crayfish House",
+              "product": "Garlic crayfish (mildly spicy) + Clams"
+            }
+          ],
+          "search history": [
+            "Non-spicy crayfish",
+            "Shandong cuisine",
+            "Korean cuisine",
+            "Family set meal"
+          ]
+        },
+        "desserts/drinks/snacks": {
+          "frequently purchased categories": [
+            "Beverages and desserts/Juice (average 18 yuan)",
+            "Beverages and desserts/Cold desserts (average 22 yuan)",
+            "Beverages and desserts/Fruit salad (average 28 yuan)"
+          ],
+          "cost per order": "15~30 yuan",
+          "preferred store rating": "4.3~4.8",
+          "preferred delivery time": "15~25 minutes",
+          "preferred distance": "0~2000m",
+          "recent orders": [
+            {
+              "store": "Fresh Juice Bar",
+              "product": "Fresh watermelon juice"
+            },
+            {
+              "store": "Sweet Ice City",
+              "product": "Yogurt fruit salad"
+            },
+            {
+              "store": "Truly Fresh",
+              "product": "Milk mango salad"
+            }
+          ],
+          "search history": [
+            "Fruit salad",
+            "Fresh juice",
+            "Yogurt",
+            "Low-sugar desserts"
+          ]
+        },
+        "night snack": {
+          "frequently purchased categories": [
+            "Quick meals/Dumplings/Wonton (average 30 yuan)",
+            "Quick meals/Casserole dishes (average 35 yuan)",
+            "Snacks and braised food/Braised items (average 25 yuan)"
+          ],
+          "cost per order": "20~40 yuan",
+          "preferred store rating": "4.0~4.6",
+          "preferred delivery time": "20~35 minutes",
+          "preferred distance": "0~2500m",
+          "recent orders": [
+            {
+              "store": "Lao Li's Dumpling House",
+              "product": "Three delicacies dumplings (20 pieces)"
+            },
+            {
+              "store": "Casserole Porridge Shop",
+              "product": "Preserved egg and lean meat porridge + side dishes"
+            },
+            {
+              "store": "Five Spice Braised Flavors",
+              "product": "Braised chicken wings + braised eggs"
+            }
+          ],
+          "search history": [
+            "Dumplings",
+            "Stomach-friendly porridge",
+            "Braised food",
+            "Non-spicy night snacks"
+          ]
+        }
+      },
+      "product delivery": {
+        "frequently purchased categories": [
+          "Vegetables/Bean products(32%)",
+          "Raw meat/Poultry/Eggs(18%)",
+          "Fruits(15%)",
+          "Household items(12%)",
+          "Mother and baby products(10%)",
+          "Others(13%)"
+        ],
+        "frequently visited stores": [
+          "Tongzhou Wanfu Supermarket(45%)",
+          "Jingkelong Convenience Store(30%)",
+          "Fruit and Vegetable Fresh Store(15%)",
+          "Other stores(10%)"
+        ],
+        "cost per order by category": {
+          "Vegetables/Bean products": "5~20 yuan",
+          "Raw meat/Poultry/Eggs": "20~50 yuan",
+          "Fruits": "10~30 yuan",
+          "Household items": "15~40 yuan",
+          "Pet supplies": "30~100 yuan"
+        },
+        "preferred delivery time": "30~60 minutes",
+        "typical order time": "9~11 am(35%), 5~7 pm(40%), 8~10 pm(15%)",
+        "recent orders": [
+          {
+            "store": "Tongzhou Wanfu Supermarket",
+            "product": "Bok choy 300g, 2 boxes of tofu, 1 jin of eggs"
+          },
+          {
+            "store": "Jingkelong Convenience Store",
+            "product": "Pet wipes, chicken flavor cat toothpaste"
+          },
+          {
+            "store": "Fruit and Vegetable Fresh Store",
+            "product": "Apples 2 jin, bananas 1 jin"
+          }
+        ],
+        "search history": [
+          "Low-sodium soy sauce",
+          "Pet supplies",
+          "Fresh vegetables",
+          "Chicken breast",
+          "Fruits"
+        ]
+      }
+    },
+    "in-store consumption": {
+      "in-store dining": {
+        "fine-dining": {
+          "frequently purchased categories": [
+            "Regional cuisine/Jiangzhe cuisine (average 90 yuan)",
+            "Regional cuisine/Specialty dishes (average 95 yuan)",
+            "International cuisine/Japanese food (average 120 yuan)"
+          ],
+          "preferred average price per person": "90~120 yuan",
+          "preferred store rating": "4.0~4.6 stars",
+          "typical dining time": "18:30-20:00",
+          "preferred distance": "0~2000m",
+          "recent orders": [
+            {
+              "store": "Grandmother's Home",
+              "product": "West Lake fish in vinegar sauce set meal"
+            },
+            {
+              "store": "Yoshitake Japanese Cuisine",
+              "product": "Signature sushi platter"
+            },
+            {
+              "store": "Green Tea Restaurant",
+              "product": "Dongpo pork set meal"
+            }
+          ],
+          "search history": [
+            "Light cuisine",
+            "Non-spicy and non-greasy",
+            "Healthy restaurant",
+            "Japanese cuisine"
+          ]
+        },
+        "light meal": {
+          "frequently purchased categories": [
+            "Snacks and fast food/Chinese quick meals (average 20 yuan)",
+            "Snacks and fast food/Western fast food (average 30 yuan)",
+            "Regional cuisine/Northeastern cuisine (average 25 yuan)"
+          ],
+          "preferred average price per person": "18~32 yuan",
+          "preferred store rating": "3.5~4.2 stars",
+          "typical dining time": "12:00-13:00",
+          "preferred distance": "0~500m",
+          "recent orders": [
+            {
+              "store": "Yonghe Soy Milk",
+              "product": "Fresh vegetable bun set meal"
+            },
+            {
+              "store": "Yi Pin Xuan",
+              "product": "Three delicacies steamed dumplings"
+            },
+            {
+              "store": "Northeastern Dumpling King",
+              "product": "Cabbage and pork dumplings"
+            }
+          ],
+          "search history": [
+            "Low-sodium set meal",
+            "Fast food",
+            "Nearby dumplings",
+            "Light food"
+          ]
+        },
+        "desserts/drinks/snacks": {
+          "frequently purchased categories": [
+            "Beverage shops (average 18 yuan)",
+            "Bread and desserts (average 25 yuan)",
+            "Other dining/Fresh fruits (average 15 yuan)"
+          ],
+          "preferred average price per person": "15~25 yuan",
+          "preferred store rating": "3.8~4.5 stars",
+          "typical dining time": "15:00-16:30",
+          "preferred distance": "0~300m",
+          "recent orders": [
+            {
+              "store": "Answer Tea",
+              "product": "Oolong milk tea (sugar-free)"
+            },
+            {
+              "store": "85°C",
+              "product": "Whole wheat bread"
+            },
+            {
+              "store": "Miss Fresh",
+              "product": "Selected fruit platter"
+            }
+          ],
+          "search history": [
+            "Sugar-free drinks",
+            "Healthy desserts",
+            "Low-fat",
+            "Fresh fruits"
+          ]
+        }
+      },
+      "other in-store services": {
+        "frequently consumed categories": {
+          "Beauty/Yoga": "40%",
+          "Leisure and entertainment/Massage/Foot therapy": "25%",
+          "Pets/Pet hospitals": "20%",
+          "Sports and fitness/Fitness centers": "15%"
+        },
+        "cost per order by category": {
+          "Beauty/Yoga": "120~180 yuan",
+          "Leisure and entertainment/Massage/Foot therapy": "90~150 yuan",
+          "Pets/Pet hospitals": "150~300 yuan",
+          "Sports and fitness/Fitness centers": "80~120 yuan"
+        },
+        "preferred store rating": "4.0~4.8 stars",
+        "preferred service time": "19:00-21:00",
+        "preferred distance": "0~3000m",
+        "recent orders": [
+          {
+            "store": "U-Park Yoga Life Studio",
+            "product": "Single person premium course experience"
+          },
+          {
+            "store": "Kangning Pet Hospital",
+            "product": "Cat check-up package"
+          },
+          {
+            "store": "Yuexin Foot Therapy",
+            "product": "Neck and shoulder relaxation massage"
+          }
+        ],
+        "search history": [
+          "Yoga",
+          "Cat",
+          "Neck and shoulder massage",
+          "Low-intensity fitness",
+          "Pet hospital"
+        ]
+      }
+    },
+    "OTA": {
+      "visited scenes": {
+        "Exhibition halls (museums/art galleries)": "5%",
+        "Cultural and historical sites": "30%",
+        "Natural landscapes (mountains/lakes/forests)": "35%",
+        "Special villages/Industrial tourism/Uncategorized projects": "20%",
+        "Landmark buildings": "10%"
+      },
+      "cost per night on hotel": "200~500 yuan",
+      "visited hotels": {
+        "Atour": "2%",
+        "Ji Hotel": "28%",
+        "Vienna Hotel": "8%",
+        "Orange Hotel": "25%",
+        "Home Inn": "37%"
+      },
+      "browsed hotels": {
+        "Four-star hotels": "15%",
+        "Comfortable hotels": "65%",
+        "Three-star hotels": "15%",
+        "Luxury hotels": "5%"
+      },
+      "historical travel plans": {
+        "Beijing-Shanghai": {
+          "price range": "500-700 yuan",
+          "transportation mode": "High-speed rail"
+        },
+        "Beijing-Hangzhou": {
+          "price range": "600-700 yuan",
+          "transportation mode": "High-speed rail"
+        },
+        "Beijing-Chengdu": {
+          "price range": "600-1000 yuan",
+          "transportation mode": "Airplane"
+        },
+        "Beijing-Xi'an": {
+          "price range": "500-600 yuan",
+          "transportation mode": "High-speed rail"
+        },
+        "Beijing-Qingdao": {
+          "price range": "300-400 yuan",
+          "transportation mode": "High-speed rail"
+        }
+      }
+    }
+  },
+  "stores": {},
+  "orders": {}
+}

@@ -1,0 +1,65 @@
+{
+  "required_orders": [
+    {
+      "order_id": "G0721004O01",
+      "order_type": "delivery",
+      "user_id": "U000035",
+      "store_id": "S20925321976048558_S44996",
+      "note": "",
+      "location": {
+        "address": "Global Center, Building 1, 1700 North Tianfu Avenue, Guixi Street, Wuhou District, Chengdu, Sichuan Province",
+        "longitude": 104.063402,
+        "latitude": 30.568744
+      },
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 20,
+      "create_time": "2025-11-07 10:58:00",
+      "update_time": "2025-11-07 11:00:00",
+      "status": "cancelled",
+      "products": [
+        {
+          "product_id": "S12535768828833281_P20402",
+          "price": 20,
+          "quantity": 1,
+          "attributes": ""
+        }
+      ]
+    },
+    {
+      "order_id": "G0721004T01",
+      "order_type": "delivery",
+      "user_id": "U000035",
+      "store_id": "S21738656403955999_S17120",
+      "note": "",
+      "location": {
+        "address": "Global Center, Building 1, 1700 North Tianfu Avenue, Guixi Street, Wuhou District, Chengdu, Sichuan Province",
+        "longitude": 104.063402,
+        "latitude": 30.568744
+      },
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 18,
+      "create_time": "2025-11-07 11:02:00",
+      "update_time": "2025-11-07 11:02:00",
+      "status": "processed",
+      "products": [
+        {
+          "product_id": "S24749432382521543_P05845",
+          "price": 18,
+          "quantity": 1,
+          "attributes": "Spicy"
+        }
+      ]
+    }
+  ],
+  "rubrics": [
+    "Successfully canceled the Sticky Rice Tibetan Tea · Fresh Milk Tea order from Jincheng Tea House (Renhe New City Branch), the order status should be changed to cancelled",
+    "The delivery address for the wonton order should be Global Center, Building 1, 1700 North Tianfu Avenue, Guixi Street, Wuhou District, Chengdu, Sichuan Province",
+    "The estimated delivery time for the wonton order should be between 11:30 and 12:30 on 2025-11-07",
+    "The restaurant rating for the wonton order should be 4.5 or above",
+    "The flavor of the wonton product should be spicy"
+  ]
+}

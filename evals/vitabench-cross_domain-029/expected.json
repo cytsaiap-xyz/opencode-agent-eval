@@ -1,0 +1,110 @@
+{
+  "required_orders": [
+    {
+      "order_id": "OT64e3047b69",
+      "order_type": "delivery",
+      "user_id": "U428049",
+      "store_id": "S17550802131843488_S00002",
+      "note": "",
+      "location": {
+        "address": "12th Floor, Building B, Yuanda Shopping Mall, intersection of 5th Avenue and Lijiang Road, Qunli, Daoli District, Harbin, Heilongjiang Province",
+        "longitude": 126.603302,
+        "latitude": 45.748501
+      },
+      "dispatch_time": "2025-04-14 17:00:00",
+      "shipping_time": 25,
+      "delivery_time": "2025-04-14 17:25:00",
+      "total_price": 456,
+      "create_time": "2025-04-14 16:31:00",
+      "update_time": "2025-04-14 16:31:00",
+      "status": "delivered",
+      "products": [
+        {
+          "product_id": "S17550802131843488_P00002",
+          "price": 456,
+          "quantity": 1,
+          "name": "Starbucks classic three-flavor package (12 cups)",
+          "store_id": "S17550802131843488_S00002",
+          "store_name": "Starbucks (Qunli Mixc Mall Store)",
+          "attributes": "Half sugar",
+          "tags": [
+            "2 Hot Lattes",
+            "4 Iced Americanos",
+            "6 Matcha Frappuccinos",
+            "Group purchase",
+            "Office"
+          ]
+        }
+      ]
+    },
+    {
+      "order_id": "OIb192a86a68",
+      "order_type": "instore",
+      "user_id": "U428049",
+      "store_id": "S17550802131843488_I00012",
+      "note": "",
+      "location": null,
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 198,
+      "create_time": "2025-04-14 16:33:00",
+      "update_time": "2025-04-14 16:33:00",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17550802131843488_P00064",
+          "price": 198,
+          "quantity": 1,
+          "name": "Bowling single person unlimited time package",
+          "shop_id": "S17550802131843488_I00012",
+          "tags": [
+            "Single person package",
+            "Unlimited time",
+            "Including bowling shoes"
+          ]
+        }
+      ]
+    },
+    {
+      "order_id": "OO24fd06922c",
+      "order_type": "train",
+      "user_id": "U428049",
+      "store_id": "S17550802131843488_T00008",
+      "note": "",
+      "location": null,
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 157,
+      "create_time": "2025-04-14 16:36:00",
+      "update_time": "2025-04-14 16:36:00",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17550802131843488_P00039",
+          "price": 157,
+          "quantity": 1,
+          "date": "2025-04-15",
+          "seat_type": "First-class seat"
+        }
+      ]
+    }
+  ],
+  "rubrics": [
+    "Afternoon tea order should include 12 drinks",
+    "All drinks in the afternoon tea order must be half-sugar, cannot choose full sugar, sugar-free or non-adjustable sugar drinks",
+    "Afternoon tea order drinks must include three different flavors",
+    "Afternoon tea drinks must include at least two hot drinks",
+    "The afternoon tea order must consider the user's dietary restrictions and cannot include alcoholic beverages",
+    "The delivery address for the afternoon tea order should be 12th Floor, Building B, Yuanda Shopping Mall, intersection of 5th Avenue and Lijiang Road, Qunli, Daoli District, Harbin, Heilongjiang Province",
+    "The delivery time for the afternoon tea order should be between 5pm and 6pm on April 14, 2025",
+    "The bowling alley should be located within 3km of 12th Floor, Building B, Yuanda Shopping Mall, intersection of 5th Avenue and Lijiang Road, Qunli, Daoli District, Harbin, Heilongjiang Province",
+    "Should search for the highest-rated bowling alley, which is Star Motion Bowling Alley",
+    "The bowling order package should be single person unlimited time",
+    "The bowling order package should be for 1 person",
+    "Should search for the earliest departure from Harbin to Daqing, which is G1205, and the order should be for train G1205",
+    "The train ticket order must be for First-class seat",
+    "The train ticket order should be for April 15, 2025"
+  ]
+}

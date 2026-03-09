@@ -1,0 +1,113 @@
+{
+  "required_orders": [
+    {
+      "order_id": "10812008T002",
+      "order_type": "train",
+      "user_id": "U160340",
+      "store_id": "S17557505539631060_T00014",
+      "note": "",
+      "location": null,
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 594,
+      "create_time": "2025-08-12 15:37:44",
+      "update_time": "2025-08-12 15:37:44",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17557505539631060_P00116",
+          "price": 198,
+          "quantity": 3,
+          "date": "2025-08-14",
+          "seat_type": "First Class Seat"
+        }
+      ]
+    },
+    {
+      "order_id": "10812008T004",
+      "order_type": "hotel",
+      "user_id": "U160340",
+      "store_id": "S17557505539631060_H00001",
+      "note": "",
+      "location": null,
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 2174,
+      "create_time": "2025-08-12 15:39:44",
+      "update_time": "2025-08-12 15:39:44",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17557505539631060_P00012",
+          "price": 658,
+          "quantity": 1,
+          "date": "2025-08-14",
+          "room_type": "Deluxe Twin Room"
+        },
+        {
+          "product_id": "S17557505539631060_P00001",
+          "price": 758,
+          "quantity": 1,
+          "date": "2025-08-15",
+          "room_type": "Deluxe Twin Room"
+        },
+        {
+          "product_id": "S17557505539631060_P00002",
+          "price": 758,
+          "quantity": 1,
+          "date": "2025-08-16",
+          "room_type": "Deluxe Twin Room"
+        }
+      ]
+    },
+    {
+      "order_id": "10812008T001",
+      "order_type": "attraction",
+      "user_id": "U160340",
+      "store_id": "S17557505539631060_A00006",
+      "note": "",
+      "location": null,
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 225,
+      "create_time": "2025-08-12 15:40:44",
+      "update_time": "2025-08-12 15:40:44",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17557505539631060_P00040",
+          "price": 90,
+          "quantity": 2,
+          "date": "2025-08-15",
+          "ticket_type": "Adult Ticket"
+        },
+        {
+          "product_id": "S17557505539631060_P00053",
+          "price": 45,
+          "quantity": 1,
+          "date": "2025-08-15",
+          "ticket_type": "Child Ticket"
+        }
+      ]
+    }
+  ],
+  "rubrics": [
+    "The high-speed rail order date must be August 14, 2025",
+    "The high-speed rail must be from Xi'an to Tianshui",
+    "The high-speed rail departure time must be between 2:30-3:30 PM the day after tomorrow (August 14)",
+    "The quantity of high-speed rail tickets must be 3",
+    "The booked hotel must be within 1km of the entrance to Maijishan Grottoes (i.e., Maijishan Grottoes, Maiji Mountain Scenic Spot, Maiji District, Tianshui, Gansu Province)",
+    "The hotel must be four-star or above",
+    "The hotel room type must be Family Room or Twin Room",
+    "The hotel check-in dates must be August 14, 2025, August 15, 2025, and August 16, 2025, respectively",
+    "The hotel room types should be consistent",
+    "The scenic spot for the ticket order must be Maijishan Grottoes",
+    "The Maijishan tickets date cannot be on weekends (i.e., cannot be August 16 or August 17)",
+    "The total quantity of tickets in the ticket order should be 3",
+    "The ticket order should include 2 Adult Tickets",
+    "The ticket order should include 1 Child Ticket"
+  ]
+}

@@ -1,0 +1,236 @@
+{
+  "task_id": "70811002",
+  "domain": "ota",
+  "time": "2027-06-02 23:32:25",
+  "user_id": "U010069",
+  "weather": [
+    {
+      "city": "Guiyang",
+      "category": "cloudy",
+      "datetime": "2027-06-20",
+      "temperature": [
+        18,
+        26
+      ],
+      "humidity": 75
+    },
+    {
+      "city": "Ili",
+      "category": "sunny",
+      "datetime": "2027-06-20",
+      "temperature": [
+        12,
+        28
+      ],
+      "humidity": 45
+    },
+    {
+      "city": "Urumqi",
+      "category": "sunny",
+      "datetime": "2027-06-22",
+      "temperature": [
+        16,
+        32
+      ],
+      "humidity": 35
+    }
+  ],
+  "location": [],
+  "user_profile": {
+    "user id": "U010069",
+    "occupation": "Fitness trainer",
+    "gender": "female",
+    "age group": "25~30",
+    "residence": "Guiyang",
+    "home address": "Room 1803, Unit 2, Building 28, J2 Zone, Huaguoyuan Central Business District, Nanming District, Guiyang, Guizhou Province",
+    "work address": "Super Monkey Fitness, 4th Floor, Hongtong Shopping Center, 28 Yan'an Middle Road, Yunyan District, Guiyang, Guizhou Province",
+    "dietary restrictions": "No fried food, low sugar",
+    "family status": "In a relationship",
+    "personality": "Overly dependent on others' guidance, lacks self-determination and decisiveness"
+  },
+  "user_historical_behaviors": {
+    "user id": "U010069",
+    "occupation": "Fitness Coach",
+    "gender": "female",
+    "age group": "25~30",
+    "residence": "Guiyang",
+    "home address": "Room 1803, Unit 2, Building 28, Zone J2, Huaguoyuan Central Business District, Nanming District, Guiyang, Guizhou Province",
+    "work address": "Super Monkey Fitness, 4th Floor, Hongtong Shopping Center, 28 Yan'an Middle Road, Yunyan District, Guiyang, Guizhou Province",
+    "visited scenes": {
+      "Natural Landscapes (Mountains/Lakes/Forests)": "35%",
+      "Hot Spring Areas": "25%",
+      "Tourist Attractions (Mountain/Seaside/Ecological Large Scenic Areas)": "20%",
+      "Theme Parks": "10%",
+      "Landmark Buildings": "10%"
+    },
+    "cost per night on hotel": "500~1000 yuan",
+    "visited hotels": {
+      "Atour": "40%",
+      "JI Hotel": "25%",
+      "Vienna": "15%",
+      "Huazhu": "10%",
+      "Orange": "10%"
+    },
+    "browsed hotels": {
+      "Four-star Hotels": "45%",
+      "Comfort Hotels": "35%",
+      "Luxury Hotels": "15%",
+      "Three-star Hotels": "5%"
+    },
+    "historical travel plans": {
+      "Guiyang-Sanya": {
+        "Price Range": "800-1200 yuan",
+        "Transportation": "Airplane"
+      },
+      "Guiyang-Chengdu": {
+        "Price Range": "200-350 yuan",
+        "Transportation": "High-speed Rail/EMU"
+      },
+      "Guiyang-Chongqing": {
+        "Price Range": "150-300 yuan",
+        "Transportation": "High-speed Rail/EMU"
+      },
+      "Guiyang-Kunming": {
+        "Price Range": "250-400 yuan",
+        "Transportation": "High-speed Rail/EMU"
+      },
+      "Guiyang-Huangguoshu": {
+        "Price Range": "100-200 yuan",
+        "Transportation": "Long-distance Bus"
+      },
+      "Guiyang-Fanjingshan": {
+        "Price Range": "150-250 yuan",
+        "Transportation": "Long-distance Bus"
+      }
+    }
+  },
+  "stores": {},
+  "orders": {
+    "S17557505466916064_O00001": {
+      "order_id": "S17557505466916064_O00001",
+      "order_type": "flight",
+      "user_id": "U010069",
+      "store_id": "S17557505466916064_F00008",
+      "note": "Guiyang-Ili, Lavender Tour",
+      "location": {
+        "address": "Yining Airport, Airport Road, Yining City, Ili Kazakh Autonomous Prefecture, Xinjiang",
+        "longitude": 81.3302,
+        "latitude": 43.9556
+      },
+      "dispatch_time": "",
+      "shipping_time": 0.0,
+      "delivery_time": "",
+      "total_price": 1680.0,
+      "create_time": "2027-06-01 14:20:00",
+      "update_time": "2027-06-01 14:25:00",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17557505466916064_P00065",
+          "price": 1680.0,
+          "quantity": 1,
+          "date": "2027-06-20",
+          "seat_type": "Economy Class"
+        }
+      ]
+    },
+    "S17557505466916064_O00002": {
+      "order_id": "S17557505466916064_O00002",
+      "order_type": "hotel",
+      "user_id": "U010069",
+      "store_id": "S17557505466916064_H00001",
+      "note": "Lavender Country Homestay, two twin rooms for four people",
+      "location": {
+        "address": "Ili Lavender Country Homestay near Lavender Base, Huocheng County, Ili Kazakh Autonomous Prefecture, Xinjiang",
+        "longitude": 80.8732,
+        "latitude": 44.0856
+      },
+      "dispatch_time": "",
+      "shipping_time": 0.0,
+      "delivery_time": "",
+      "total_price": 640.0,
+      "create_time": "2027-06-01 15:30:00",
+      "update_time": "2027-06-01 15:35:00",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17557505466916064_P00002",
+          "price": 160.0,
+          "quantity": 2,
+          "date": "2027-06-20",
+          "room_type": "Country-style Twin Room"
+        },
+        {
+          "product_id": "S17557505466916064_P00004",
+          "price": 160.0,
+          "quantity": 2,
+          "date": "2027-06-21",
+          "room_type": "Country-style Twin Room"
+        }
+      ]
+    },
+    "S17557505466916064_O00003": {
+      "order_id": "S17557505466916064_O00003",
+      "order_type": "attraction",
+      "user_id": "U010069",
+      "store_id": "S17557505466916064_A00005",
+      "note": "Huocheng Lavender Base tickets, four adult tickets",
+      "location": {
+        "address": "Huocheng Lavender Base, Lucaogou Town, Huocheng County, Ili Kazakh Autonomous Prefecture, Xinjiang",
+        "longitude": 80.8901,
+        "latitude": 44.0923
+      },
+      "dispatch_time": "",
+      "shipping_time": 0.0,
+      "delivery_time": "",
+      "total_price": 480.0,
+      "create_time": "2027-06-01 16:10:00",
+      "update_time": "2027-06-01 16:10:00",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17557505466916064_P00036",
+          "price": 60.0,
+          "quantity": 4,
+          "date": "2027-06-20",
+          "ticket_type": "Adult Ticket"
+        },
+        {
+          "product_id": "S17557505466916064_P00037",
+          "price": 60.0,
+          "quantity": 4,
+          "date": "2027-06-21",
+          "ticket_type": "Adult Ticket"
+        }
+      ]
+    },
+    "S17557505466916064_O00004": {
+      "order_id": "S17557505466916064_O00004",
+      "order_type": "flight",
+      "user_id": "U010069",
+      "store_id": "S17557505466916064_F00012",
+      "note": "Ili-Urumqi flight search record",
+      "location": {
+        "address": "Urumqi Diwopu International Airport, 46 Yingbin Road, New District, Urumqi, Xinjiang Uygur Autonomous Region",
+        "longitude": 87.4742,
+        "latitude": 43.9071
+      },
+      "dispatch_time": "",
+      "shipping_time": 0.0,
+      "delivery_time": "",
+      "total_price": 420.0,
+      "create_time": "2027-06-01 16:45:00",
+      "update_time": "2027-06-01 16:45:00",
+      "status": "unpaid",
+      "products": [
+        {
+          "product_id": "S17557505466916064_P00082",
+          "price": 420.0,
+          "quantity": 1,
+          "date": "2027-06-22",
+          "seat_type": "Economy Class"
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,68 @@
+{
+  "required_orders": [
+    {
+      "order_id": "30711004T01",
+      "order_type": "delivery",
+      "user_id": "U000046",
+      "store_id": "S24420223932303530_S72897",
+      "note": "",
+      "location": {
+        "address": "Nanhu Garden, No. 15 Dongzhai Road, Wucheng District, Jinhua City, Zhejiang Province",
+        "longitude": 119.646008,
+        "latitude": 29.072722
+      },
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 18.8,
+      "create_time": "2026-09-24 12:00:00",
+      "update_time": "2026-09-24 12:00:00",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S26094851902819803_P44975",
+          "price": 18.8,
+          "quantity": 1,
+          "attributes": "Mild Spicy"
+        }
+      ]
+    },
+    {
+      "order_id": "30711004T02",
+      "order_type": "delivery",
+      "user_id": "U000046",
+      "store_id": "S29994283967210769_S99077",
+      "note": "",
+      "location": {
+        "address": "Nanhu Garden, No. 15 Dongzhai Road, Wucheng District, Jinhua City, Zhejiang Province",
+        "longitude": 119.646008,
+        "latitude": 29.072722
+      },
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 32.0,
+      "create_time": "2026-09-24 12:03:00",
+      "update_time": "2026-09-24 12:03:00",
+      "status": "processed",
+      "products": [
+        {
+          "product_id": "S21558969585413442_P15535",
+          "price": 32.0,
+          "quantity": 1,
+          "attributes": "Hot"
+        }
+      ]
+    }
+  ],
+  "rubrics": [
+    "Vermicelli main dish order should choose Sichuan-Chongqing Noodle House (Hot and Sour Vermicelli • Dumplings • Rice Noodles) store",
+    "Vermicelli main dish order should select Chongqing Pea Mix Hot and Sour Vermicelli + Golden Beans + Pickled Long Beans + Peanuts + Side Dishes product",
+    "Vermicelli main dish order should select mild spicy flavor",
+    "Vermicelli main dish order delivery address should be Nanhu Garden, No. 15 Dongzhai Road, Wucheng District, Jinhua City, Zhejiang Province",
+    "Beverage order product should be peach flavor",
+    "Peach flavor beverage order product should be low-caffeine or caffeine-free drink",
+    "Peach flavor beverage order product should select hot drink",
+    "Peach flavor beverage order delivery address should be Nanhu Garden, No. 15 Dongzhai Road, Wucheng District, Jinhua City, Zhejiang Province"
+  ]
+}

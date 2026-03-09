@@ -1,0 +1,469 @@
+{
+  "task_id": "10811015",
+  "domain": "cross_domain",
+  "time": "2025-07-02 19:38:05",
+  "user_id": "U788616",
+  "weather": [
+    {
+      "city": "Wuxi",
+      "category": "cloudy",
+      "datetime": "2025-07-04",
+      "temperature": [
+        26,
+        34
+      ],
+      "humidity": 65
+    },
+    {
+      "city": "Wuxi",
+      "category": "sunny",
+      "datetime": "2025-07-05",
+      "temperature": [
+        27,
+        35
+      ],
+      "humidity": 60
+    },
+    {
+      "city": "Shanghai",
+      "category": "light rain",
+      "datetime": "2025-07-04",
+      "temperature": [
+        25,
+        32
+      ],
+      "humidity": 75
+    },
+    {
+      "city": "Shanghai",
+      "category": "overcast",
+      "datetime": "2025-07-05",
+      "temperature": [
+        26,
+        33
+      ],
+      "humidity": 70
+    }
+  ],
+  "location": [],
+  "user_profile": {
+    "user id": "U788616",
+    "occupation": "game streamer",
+    "gender": "female",
+    "age group": "20~25",
+    "residence": "Wuxi",
+    "home address": "Coastal City Liyuan, North Intersection of Guanshun Road and Wudu Road, Binhu District, Wuxi, Jiangsu Province",
+    "work address": "Coastal City Liyuan, North Intersection of Guanshun Road and Wudu Road, Binhu District, Wuxi, Jiangsu Province",
+    "dietary restrictions": "Avoids High Sugar, Avoids Deep-Fried",
+    "family status": "Has pets",
+    "personality": "Expresses coldly and concisely, lacks emotional communication and patience"
+  },
+  "user_historical_behaviors": {
+    "user id": "U788616",
+    "occupation": "game streamer",
+    "gender": "female",
+    "age group": "20~25",
+    "residence": "Wuxi",
+    "Permanent address": "Coastal City Liyuan, North Intersection of Guanshun Road and Wudu Road, Binhu District, Wuxi, Jiangsu Province",
+    "work address": "Coastal City Liyuan, North Intersection of Guanshun Road and Wudu Road, Binhu District, Wuxi, Jiangsu Province",
+    "home address": "Coastal City Liyuan, North Intersection of Guanshun Road and Wudu Road, Binhu District, Wuxi, Jiangsu Province",
+    "delivery": {
+      "food delivery": {
+        "breakfast": {
+          "frequently purchased categories": [
+            "Quick Meals/Steamed Buns/Pan-Fried Buns (Average 18 Yuan)",
+            "Quick Meals/Dumplings/Wonton (Average 22 Yuan)",
+            "Quick Meals/Soy Milk/Tofu Pudding (Average 12 Yuan)"
+          ],
+          "cost per order": "15~30 Yuan",
+          "preferred store rating": "4.5~4.8 points",
+          "preferred delivery time": "15~25 minutes",
+          "preferred distance": "0~1500m",
+          "recent orders": [
+            {
+              "store": "Wuxi Breakfast Shop",
+              "product": "Soup Dumplings + Soy Milk Set"
+            },
+            {
+              "store": "Old Yang's Dumplings",
+              "product": "Pork Wonton"
+            },
+            {
+              "store": "Grandma's Pan-Fried Buns",
+              "product": "Signature Pan-Fried Buns"
+            }
+          ],
+          "search history": [
+            "Soy Milk",
+            "Pan-Fried Buns",
+            "Wonton",
+            "Breakfast Set",
+            "Sugar-Free"
+          ]
+        },
+        "weekday lunch/dinner": {
+          "frequently purchased categories": [
+            "Quick Meals/Light Food (Average 35 Yuan)",
+            "Quick Meals/Salad (Average 32 Yuan)",
+            "Quick Meals/Healthy Meals (Average 45 Yuan)"
+          ],
+          "cost per order": "30~50 Yuan",
+          "preferred store rating": "4.6~4.9 points",
+          "preferred delivery time": "20~35 minutes",
+          "preferred distance": "0~2500m",
+          "recent orders": [
+            {
+              "store": "Light Food Salad Workshop",
+              "product": "Chicken Breast Vegetable Salad"
+            },
+            {
+              "store": "Salad Box",
+              "product": "Low-Fat Chicken Breast Light Meal"
+            },
+            {
+              "store": "Vegetarian Philosophy",
+              "product": "Quinoa Chicken Breast Healthy Meal Box"
+            }
+          ],
+          "search history": [
+            "Light Food",
+            "Low-Fat",
+            "Salad",
+            "Chicken Breast",
+            "Healthy Meal"
+          ]
+        },
+        "weekend lunch/dinner": {
+          "frequently purchased categories": [
+            "Chinese Cuisine/Crayfish (Average 110 Yuan)",
+            "Chinese Cuisine/Sichuan Food (Average 85 Yuan)",
+            "International Cuisine/Japanese Bento/Sushi (Average 95 Yuan)"
+          ],
+          "cost per order": "80~150 Yuan",
+          "preferred store rating": "4.7~5.0 points",
+          "preferred delivery time": "30~45 minutes",
+          "preferred distance": "0~4000m",
+          "recent orders": [
+            {
+              "store": "Sichuan Flavor Crayfish",
+              "product": "Thirteen Spices Crayfish Medium Portion"
+            },
+            {
+              "store": "West Sichuan Restaurant",
+              "product": "Boiled Fish Set"
+            },
+            {
+              "store": "Fresh Sushi Directory",
+              "product": "Salmon Sashimi Platter"
+            }
+          ],
+          "search history": [
+            "Crayfish",
+            "Japanese Food",
+            "Sichuan Food",
+            "Sushi"
+          ]
+        },
+        "desserts/drinks/snacks": {
+          "frequently purchased categories": [
+            "Drinks & Desserts/Pure Tea/Herbal Tea (Average 20 Yuan)",
+            "Drinks & Desserts/Fruit Salad (Average 32 Yuan)"
+          ],
+          "cost per order": "18~35 Yuan",
+          "preferred store rating": "4.5~4.8 points",
+          "preferred delivery time": "15~30 minutes",
+          "preferred distance": "0~2000m",
+          "recent orders": [
+            {
+              "store": "Cha Bai Dao",
+              "product": "Sugar-Free Oolong Tea"
+            },
+            {
+              "store": "Fresh Fruit Workshop",
+              "product": "Colorful Fruit Salad"
+            },
+            {
+              "store": "HEYTEA",
+              "product": "Grape Pulp Tea (Sugar-Free)"
+            }
+          ],
+          "search history": [
+            "Sugar-Free Tea",
+            "Fruit Salad",
+            "Low Sugar",
+            "Pure Tea"
+          ]
+        },
+        "night snack": {
+          "frequently purchased categories": [
+            "Snacks & Braised Food/Bobo Chicken (Average 45 Yuan)",
+            "Quick Meals/Rice Noodles (Average 28 Yuan)"
+          ],
+          "cost per order": "25~50 Yuan",
+          "preferred store rating": "4.3~4.7 points",
+          "preferred delivery time": "20~35 minutes",
+          "preferred distance": "0~3000m",
+          "recent orders": [
+            {
+              "store": "Bobo Chicken Legend",
+              "product": "Spicy Bobo Chicken Small Portion"
+            },
+            {
+              "store": "Yunnan Crossing Bridge Rice Noodles",
+              "product": "Clear Soup Rice Noodles"
+            },
+            {
+              "store": "Braised Food House",
+              "product": "Assorted Braised Platter"
+            }
+          ],
+          "search history": [
+            "Bobo Chicken",
+            "Rice Noodles",
+            "Braised Food",
+            "Night Snack"
+          ]
+        }
+      },
+      "product delivery": {
+        "frequently purchased categories": [
+          "Vegetables/Bean Products(28%)",
+          "Fruits(22%)",
+          "Pet Supplies(18%)",
+          "Household Items(15%)",
+          "Grains/Oil/Seasonings/Dry Goods(10%)",
+          "Others(7%)"
+        ],
+        "frequently visited stores": [
+          "Yonghui Supermarket(Wuxi Taihu New City Store)(42%)",
+          "Hema Fresh(Sunac Plaza Store)(25%)",
+          "FamilyMart(Guanshan Road Store)(18%)",
+          "Other Stores(15%)"
+        ],
+        "cost per order by category": {
+          "Vegetables/Bean Products": "5~25 Yuan",
+          "Fruits": "10~40 Yuan",
+          "Pet Supplies": "30~120 Yuan",
+          "Household Items": "15~50 Yuan",
+          "Grains/Oil/Seasonings/Dry Goods": "8~35 Yuan"
+        },
+        "preferred delivery time": "30~60 minutes",
+        "typical order time": "18~20(35%), 10~12(25%), 20~22(20%)",
+        "recent orders": [
+          {
+            "store": "Yonghui Supermarket(Wuxi Taihu New City Store)",
+            "product": "Organic Spinach 300g, Tofu 2 boxes"
+          },
+          {
+            "store": "Hema Fresh(Sunac Plaza Store)",
+            "product": "Cat Litter 10L, Cat Canned Food 6 cans"
+          },
+          {
+            "store": "Yonghui Supermarket(Wuxi Taihu New City Store)",
+            "product": "Apples 4, Tomatoes 500g, Cucumbers 2"
+          }
+        ],
+        "search history": [
+          "Organic Vegetables",
+          "Cat Litter",
+          "Cat Food",
+          "Fruits",
+          "Tofu",
+          "Kitchen Paper Towels"
+        ]
+      }
+    },
+    "in-store consumption": {
+      "in-store dining": {
+        "fine-dining": {
+          "frequently purchased categories": [
+            "International Cuisine/Japanese Food (Average 180 Yuan)",
+            "Regional Cuisine/Fish Dishes (Average 150 Yuan)",
+            "Regional Cuisine/Cantonese Food (Average 120 Yuan)"
+          ],
+          "preferred average price per person": "120~180 Yuan",
+          "preferred store rating": "4.2~4.9 stars",
+          "typical dining time": "19:00-21:00",
+          "preferred distance": "500~3000m",
+          "recent orders": [
+            {
+              "store": "Xian Luo Sushi",
+              "product": "Special Sashimi Platter"
+            },
+            {
+              "store": "Fresh Flavor Seafood Restaurant",
+              "product": "Steamed Bass"
+            },
+            {
+              "store": "Yue Hai Xuan",
+              "product": "Coconut Rock Sugar Bird's Nest"
+            }
+          ],
+          "search history": [
+            "Low Sugar Japanese Food",
+            "Oil-Free Seafood Restaurant",
+            "Healthy Cantonese Food",
+            "Light Food Cuisine"
+          ]
+        },
+        "light meal": {
+          "frequently purchased categories": [
+            "Fast Food/Chinese Quick Meals (Average 35 Yuan)",
+            "International Cuisine/Korean Food (Average 45 Yuan)",
+            "Regional Cuisine/Northeastern Food (Average 40 Yuan)"
+          ],
+          "preferred average price per person": "30~50 Yuan",
+          "preferred store rating": "3.5~4.3 stars",
+          "typical dining time": "12:00-13:30",
+          "preferred distance": "0~800m",
+          "recent orders": [
+            {
+              "store": "Light Food Salad House",
+              "product": "Avocado Chicken Breast Salad"
+            },
+            {
+              "store": "Korean Stone Pot Bibimbap",
+              "product": "Vegetable Stone Pot Bibimbap"
+            },
+            {
+              "store": "Northeastern Dumpling House",
+              "product": "Steamed Dumpling Set"
+            }
+          ],
+          "search history": [
+            "Healthy Fast Food",
+            "Low-Fat Quick Meal",
+            "Reduced Sugar Set",
+            "Weekday Lunch"
+          ]
+        },
+        "desserts/drinks/snacks": {
+          "frequently purchased categories": [
+            "Beverage Shop (Average 25 Yuan)",
+            "Bread & Dessert (Average 30 Yuan)",
+            "Other Food/Fresh Fruits (Average 20 Yuan)"
+          ],
+          "preferred average price per person": "15~35 Yuan",
+          "preferred store rating": "4.0~4.8 stars",
+          "typical dining time": "15:00-17:00",
+          "preferred distance": "0~500m",
+          "recent orders": [
+            {
+              "store": "CHAYANYUESE",
+              "product": "Sugar-Free Jasmine Green Tea"
+            },
+            {
+              "store": "Bread Talk",
+              "product": "Whole Wheat Walnut Bread"
+            },
+            {
+              "store": "Fresh Cut Fruit Bar",
+              "product": "Seasonal Fruit Platter"
+            }
+          ],
+          "search history": [
+            "Sugar-Free Drinks",
+            "Low-Calorie Desserts",
+            "Healthy Fruits",
+            "Meal Replacement"
+          ]
+        }
+      },
+      "other in-store services": {
+        "frequently consumed categories": {
+          "Beauty/Nail Art": "15%",
+          "Beauty/Yoga": "30%",
+          "Sports & Fitness/Fitness Centers": "25%",
+          "Pets/Pet Hospitals": "20%",
+          "Leisure Entertainment/Massage/Foot Therapy": "10%"
+        },
+        "cost per order by category": {
+          "Beauty/Nail Art": "150~300 Yuan",
+          "Beauty/Yoga": "80~200 Yuan/Session",
+          "Sports & Fitness/Fitness Centers": "100~200 Yuan/Session",
+          "Pets/Pet Hospitals": "200~500 Yuan",
+          "Leisure Entertainment/Massage/Foot Therapy": "150~300 Yuan"
+        },
+        "preferred store rating": "4.0~4.8 stars",
+        "preferred service time": "10:00-12:00, 18:00-20:00",
+        "preferred distance": "0~2500m",
+        "recent orders": [
+          {
+            "store": "Peaceful Mind Yoga Studio",
+            "product": "Private Yoga Class"
+          },
+          {
+            "store": "Pet Love Animal Hospital",
+            "product": "Cat Checkup Package"
+          },
+          {
+            "store": "Joy Self Fitness Center",
+            "product": "female-Exclusive Fitness Course"
+          }
+        ],
+        "search history": [
+          "Women's Fitness",
+          "Pet Hospital",
+          "Nail Salon",
+          "Yoga Studio",
+          "Massage Relaxation"
+        ]
+      }
+    },
+    "OTA": {
+      "visited scenes": {
+        "Theme Parks": "35%",
+        "Water Activities/Water Experiences": "25%",
+        "Tourist Attractions (Mountains/Seaside/Ecological Large Scenic Areas)": "20%",
+        "Exhibition Halls (Museums/Art Galleries)": "15%",
+        "Cultural Heritage Sites": "5%"
+      },
+      "cost per night on hotel": "500~1000 Yuan",
+      "visited hotels": {
+        "Atour": "40%",
+        "JI Hotel": "25%",
+        "Orange Hotel": "20%",
+        "Vienna Hotel": "10%",
+        "Shangri-La": "5%"
+      },
+      "browsed hotels": {
+        "Four-Star Hotels": "45%",
+        "Comfort Hotels": "30%",
+        "Luxury Hotels": "15%",
+        "Five-Star Hotels": "10%"
+      },
+      "historical travel plans": {
+        "Wuxi-Shanghai": {
+          "Price Range": "200-500 Yuan",
+          "Transportation Mode": "High-Speed Rail/Bullet Train"
+        },
+        "Wuxi-Beijing": {
+          "Price Range": "500-800 Yuan",
+          "Transportation Mode": "High-Speed Rail/Bullet Train"
+        },
+        "Wuxi-Sanya": {
+          "Price Range": "1500-2500 Yuan",
+          "Transportation Mode": "Airplane"
+        },
+        "Wuxi-Hangzhou": {
+          "Price Range": "100-300 Yuan",
+          "Transportation Mode": "High-Speed Rail/Bullet Train"
+        },
+        "Wuxi-Chengdu": {
+          "Price Range": "1200-2000 Yuan",
+          "Transportation Mode": "Airplane"
+        },
+        "Beijing-Wuxi": {
+          "Price Range": "500-800 Yuan",
+          "Transportation Mode": "High-Speed Rail/Bullet Train"
+        },
+        "Shanghai-Wuxi": {
+          "Price Range": "200-500 Yuan",
+          "Transportation Mode": "High-Speed Rail/Bullet Train"
+        }
+      }
+    }
+  },
+  "stores": {},
+  "orders": {}
+}

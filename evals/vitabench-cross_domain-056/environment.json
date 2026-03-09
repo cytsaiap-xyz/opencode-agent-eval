@@ -1,0 +1,596 @@
+{
+  "task_id": "10805001",
+  "domain": "cross_domain",
+  "time": "2025-09-12 17:05:00",
+  "user_id": "U001037",
+  "weather": [
+    {
+      "city": "Wuhan",
+      "category": "cloudy",
+      "datetime": "2025-09-12",
+      "temperature": [
+        24,
+        32
+      ],
+      "humidity": 65
+    },
+    {
+      "city": "Guangzhou",
+      "category": "light rain",
+      "datetime": "2025-09-12",
+      "temperature": [
+        26,
+        34
+      ],
+      "humidity": 80
+    }
+  ],
+  "location": [
+    {
+      "address": "Room 1506, Tower A, Wuhan Tiandi, 688 Jiefang Avenue, Jianghan District, Wuhan",
+      "longitude": 114.2855,
+      "latitude": 30.5869
+    }
+  ],
+  "user_profile": {
+    "user id": "U001037",
+    "occupation": "Administrative",
+    "gender": "female",
+    "age group": "25~30",
+    "residence": "Wuhan",
+    "Permanent address": "Poly Heart Language Phase 8, at the intersection of Nanhu Avenue and Yezhihu West Road, Hongshan District, Wuhan, Hubei Province (next to Jianghan University Experimental Normal College)",
+    "work address": "Room 1506, Tower A, Wuhan Tiandi, 688 Jiefang Avenue, Jianghan District, Wuhan",
+    "dietary restrictions": "Avoid high sugar, avoid fried food",
+    "family status": "Has pets",
+    "personality": "Emotional fluctuations, expresses herself with strong emotional colors"
+  },
+  "user_historical_behaviors": {
+    "user id": "U001037",
+    "occupation": "Administrative",
+    "gender": "female",
+    "age group": "25~30",
+    "residence": "Wuhan",
+    "Permanent address": "Poly Heart Words Phase 8, at the intersection of Nanhu Avenue and Yizhihu West Road, Hongshan District, Wuhan, Hubei Province (next to Jianghan University Experimental Normal College)",
+    "work address": "Room 1506, Tower A, Wuhan Tiandi, 688 Jiefang Avenue, Jianghan District, Wuhan",
+    "delivery": {
+      "food delivery": {
+        "breakfast": {
+          "frequently purchased categories": [
+            "Quick meals/Steamed buns/Pan-fried buns (Average 18 yuan)",
+            "Quick meals/Soy milk/Fried dough sticks (Average 12 yuan)",
+            "Quick meals/Light food (Average 28 yuan)"
+          ],
+          "cost per order": "12~30 yuan",
+          "preferred store rating": "4.5~4.8 points",
+          "preferred delivery time": "15~25 minutes",
+          "preferred distance": "0~2000m",
+          "recent orders": [
+            {
+              "store": "Yonghe Soy Milk",
+              "product": "Original soy milk + Fried dough stick set"
+            },
+            {
+              "store": "Salad Diary",
+              "product": "Light breakfast box"
+            },
+            {
+              "store": "Bao Master",
+              "product": "Meat buns + Vegetable buns"
+            }
+          ],
+          "search history": [
+            "Light breakfast",
+            "Low-sugar breakfast",
+            "Soy milk",
+            "Steamed buns"
+          ]
+        },
+        "weekday lunch/dinner": {
+          "frequently purchased categories": [
+            "Quick meals/Light food (Average 35 yuan)",
+            "Quick meals/Salad (Average 32 yuan)",
+            "Quick meals/Healthy meals (Average 45 yuan)"
+          ],
+          "cost per order": "30~50 yuan",
+          "preferred store rating": "4.6~4.9 points",
+          "preferred delivery time": "20~35 minutes",
+          "preferred distance": "0~3000m",
+          "recent orders": [
+            {
+              "store": "Light Food Institute",
+              "product": "Chicken breast salad"
+            },
+            {
+              "store": "Health Workshop",
+              "product": "Boiled chicken breast with seasonal vegetables"
+            },
+            {
+              "store": "Mr. Vegetable & Fruit",
+              "product": "Quinoa chicken rice"
+            }
+          ],
+          "search history": [
+            "Healthy meal",
+            "Light food",
+            "Low-fat meal",
+            "Salad"
+          ]
+        },
+        "weekend lunch/dinner": {
+          "frequently purchased categories": [
+            "Chinese cuisine/Sichuan cuisine (Average 68 yuan)",
+            "Chinese cuisine/Northeastern cuisine (Average 72 yuan)",
+            "Foreign cuisine/Japanese bento/Sushi (Average 88 yuan)"
+          ],
+          "cost per order": "60~120 yuan",
+          "preferred store rating": "4.7~5.0 points",
+          "preferred delivery time": "30~45 minutes",
+          "preferred distance": "0~5000m",
+          "recent orders": [
+            {
+              "store": "Sichuan Fragrance Garden",
+              "product": "Boiled fish set (Mild spicy)"
+            },
+            {
+              "store": "Northeastern Brother Stew House",
+              "product": "Clear-stewed pork ribs"
+            },
+            {
+              "store": "Sushi Story",
+              "product": "Salmon sashimi set"
+            }
+          ],
+          "search history": [
+            "Steamed fish",
+            "Non-spicy Sichuan cuisine",
+            "Japanese cuisine",
+            "No deep-fried"
+          ]
+        },
+        "desserts/drinks/snacks": {
+          "frequently purchased categories": [
+            "Drinks & desserts/Pure tea/Herbal tea (Average 18 yuan)",
+            "Drinks & desserts/Juice (Average 22 yuan)",
+            "Drinks & desserts/Fruit salad (Average 35 yuan)"
+          ],
+          "cost per order": "15~40 yuan",
+          "preferred store rating": "4.5~4.9 points",
+          "preferred delivery time": "15~30 minutes",
+          "preferred distance": "0~3000m",
+          "recent orders": [
+            {
+              "store": "Fresh Fruit Workshop",
+              "product": "Freshly squeezed grapefruit juice (Sugar-free)"
+            },
+            {
+              "store": "HEYTEA",
+              "product": "Oolong tea (Less sugar)"
+            },
+            {
+              "store": "Fruit Love",
+              "product": "Colorful fruit salad (Less sugar)"
+            }
+          ],
+          "search history": [
+            "Sugar-free drinks",
+            "Freshly squeezed juice",
+            "Oolong tea",
+            "Low-sugar desserts"
+          ]
+        },
+        "night snack": {
+          "frequently purchased categories": [
+            "Quick meals/Rice noodles (Average 28 yuan)",
+            "Quick meals/Pot soup (Average 32 yuan)",
+            "Quick meals/Claypot dishes (Average 40 yuan)"
+          ],
+          "cost per order": "25~45 yuan",
+          "preferred store rating": "4.3~4.8 points",
+          "preferred delivery time": "20~40 minutes",
+          "preferred distance": "0~3500m",
+          "recent orders": [
+            {
+              "store": "Yunnan Crossing Bridge Rice Noodles",
+              "product": "Clear soup rice noodles"
+            },
+            {
+              "store": "Old Neighbor Pot Soup",
+              "product": "Mushroom pot soup"
+            },
+            {
+              "store": "Claypot House",
+              "product": "Clear-stewed beef brisket claypot"
+            }
+          ],
+          "search history": [
+            "Clear soup noodles",
+            "Non-greasy night snacks",
+            "Stomach-friendly soup",
+            "Claypot"
+          ]
+        }
+      },
+      "product delivery": {
+        "frequently purchased categories": [
+          "Pet supplies(28%)",
+          "Beverages/Nutritional drinks(22%)",
+          "Fruits(18%)",
+          "Household items(12%)",
+          "Snacks(10%)",
+          "Others(10%)"
+        ],
+        "frequently visited stores": [
+          "Pet World(35%)",
+          "Family Mart(25%)",
+          "Fresh Fruit Supermarket(20%)",
+          "Other stores(20%)"
+        ],
+        "cost per order by category": {
+          "Pet supplies": "30~150 yuan",
+          "Beverages/Nutritional drinks": "10~50 yuan",
+          "Fruits": "15~60 yuan",
+          "Household items": "10~40 yuan",
+          "Snacks": "5~25 yuan"
+        },
+        "preferred delivery time": "25~60 minutes",
+        "typical order time": "8-10PM(45%), 4-6PM(30%), 12-2PM(15%)",
+        "recent orders": [
+          {
+            "store": "Pet World",
+            "product": "Imported cat food 5kg"
+          },
+          {
+            "store": "Family Mart",
+            "product": "Sugar-free sparkling water 6 bottles"
+          },
+          {
+            "store": "Fresh Fruit Supermarket",
+            "product": "Imported cherries 500g"
+          }
+        ],
+        "search history": [
+          "Cat food",
+          "Sugar-free drinks",
+          "Cat litter",
+          "Fruits",
+          "Mineral water"
+        ]
+      }
+    },
+    "in-store consumption": {
+      "in-store dining": {
+        "fine-dining": {
+          "frequently purchased categories": [
+            "Regional cuisine/Cantonese cuisine (Average 138 yuan)",
+            "Foreign cuisine/Japanese cuisine (Average 165 yuan)",
+            "Regional cuisine/Fish dishes (Average 120 yuan)"
+          ],
+          "preferred average price per person": "120~170 yuan",
+          "preferred store rating": "4.2~4.9 stars",
+          "typical dining time": "6:30-9:00PM",
+          "preferred distance": "500~3000m",
+          "recent orders": [
+            {
+              "store": "Xian Chen Creative Cuisine (Tiandi Branch)",
+              "product": "Premium sushi set"
+            },
+            {
+              "store": "Cantonese-Hunan Fusion (Wuhan Tiandi Branch)",
+              "product": "Steamed sea bass"
+            },
+            {
+              "store": "Old Fisherman Seafood (Chu-Han Street Branch)",
+              "product": "Seafood platter"
+            }
+          ],
+          "search history": [
+            "Sugar-free desserts",
+            "Healthy cuisine",
+            "Japanese food",
+            "Light meal restaurant",
+            "Low-sugar Cantonese food"
+          ]
+        },
+        "light meal": {
+          "frequently purchased categories": [
+            "Fast food/Chinese quick meals (Average 35 yuan)",
+            "Fast food/Western quick meals (Average 42 yuan)",
+            "Regional cuisine/Shanghai & Jiangsu-Zhejiang cuisine (Average 45 yuan)"
+          ],
+          "preferred average price per person": "25~50 yuan",
+          "preferred store rating": "3.5~4.3 stars",
+          "typical dining time": "11:30AM-1:00PM",
+          "preferred distance": "0~1000m",
+          "recent orders": [
+            {
+              "store": "McDonald's (Wuhan Tiandi Branch)",
+              "product": "Low-fat chicken salad"
+            },
+            {
+              "store": "Meal Home (Hongshan District Branch)",
+              "product": "Stir-fried seasonal vegetables set"
+            },
+            {
+              "store": "A Bowl of Good Rice (Nanhu Branch)",
+              "product": "Steamed fish set"
+            }
+          ],
+          "search history": [
+            "Healthy quick meals",
+            "Low-calorie set meals",
+            "Vegetable salad",
+            "Nutritious bento"
+          ]
+        },
+        "desserts/drinks/snacks": {
+          "frequently purchased categories": [
+            "Beverage shops (Average 22 yuan)",
+            "Bread and desserts (Average 30 yuan)",
+            "Other dining/Fresh fruits (Average 18 yuan)"
+          ],
+          "preferred average price per person": "15~35 yuan",
+          "preferred store rating": "4.0~4.6 stars",
+          "typical dining time": "3:00-5:30PM",
+          "preferred distance": "0~800m",
+          "recent orders": [
+            {
+              "store": "HEYTEA (Optics Valley Branch)",
+              "product": "Cheese jasmine green tea (Sugar-free)"
+            },
+            {
+              "store": "MissFresh (Hongshan District Branch)",
+              "product": "Seasonal fruit platter"
+            },
+            {
+              "store": "Bread Talk (Nanhu Branch)",
+              "product": "Whole wheat nut bread"
+            }
+          ],
+          "search history": [
+            "Low-sugar beverages",
+            "Zero-calorie drinks",
+            "Sugar-free desserts",
+            "Fresh fruits",
+            "Healthy snacks"
+          ]
+        }
+      },
+      "other in-store services": {
+        "frequently consumed categories": {
+          "Sports & fitness/Yoga": "40%",
+          "Beauty/Hairdressing": "20%",
+          "Leisure & entertainment/Massage/Foot therapy": "20%",
+          "Pets/Pet hospital": "20%"
+        },
+        "cost per order by category": {
+          "Sports & fitness/Yoga": "80~150 yuan",
+          "Beauty/Hairdressing": "150~300 yuan",
+          "Leisure & entertainment/Massage/Foot therapy": "120~200 yuan",
+          "Pets/Pet hospital": "100~500 yuan"
+        },
+        "preferred store rating": "4.0~4.8 stars",
+        "preferred service time": "5:00-8:00PM",
+        "preferred distance": "0~3000m",
+        "recent orders": [
+          {
+            "store": "Light Yoga (Nanhu Branch)",
+            "product": "Individual Yoga Class"
+          },
+          {
+            "store": "High-end Pet Hospital (Hongshan District Branch)",
+            "product": "Pet health check"
+          },
+          {
+            "store": "Tranquility SPA (Wuhan Tiandi Branch)",
+            "product": "Essential oil back massage"
+          }
+        ],
+        "search history": [
+          "Yoga classes",
+          "Pet grooming",
+          "SPA massage",
+          "Organic pet food",
+          "Scalp treatment"
+        ]
+      }
+    },
+    "OTA": {
+      "visited scenes": {
+        "Cultural heritage sites": "25%",
+        "Exhibition halls (Museums/Art galleries)": "20%",
+        "Parks": "30%",
+        "Special villages/Industrial tourism/Unclassified projects": "10%",
+        "Tourist attractions (Mountains/Beaches/Ecological large-scale scenic spots)": "15%"
+      },
+      "cost per night on hotel": "300~500 yuan",
+      "visited hotels": {
+        "Home Inn": "35%",
+        "Hanting Hotel": "20%",
+        "Ji Hotel": "15%",
+        "Atour Hotel": "25%",
+        "Vienna Hotel": "5%"
+      },
+      "browsed hotels": {
+        "Three-star hotels": "45%",
+        "Comfort hotels": "35%",
+        "Economy hotels": "20%"
+      },
+      "historical travel plans": {
+        "Wuhan-Shanghai": {
+          "Price range": "400-600 yuan",
+          "Transportation": "High-speed rail/EMU"
+        },
+        "Wuhan-Beijing": {
+          "Price range": "600-800 yuan",
+          "Transportation": "High-speed rail/EMU"
+        },
+        "Wuhan-Sanya": {
+          "Price range": "1200-1800 yuan",
+          "Transportation": "Airplane"
+        },
+        "Wuhan-Huangshan": {
+          "Price range": "300-500 yuan",
+          "Transportation": "High-speed rail/EMU"
+        },
+        "Wuhan-Hangzhou": {
+          "Price range": "350-550 yuan",
+          "Transportation": "High-speed rail/EMU"
+        }
+      }
+    }
+  },
+  "stores": {},
+  "orders": {
+    "S17550802174487229_O00001": {
+      "order_id": "S17550802174487229_O00001",
+      "order_type": "delivery",
+      "user_id": "U001037",
+      "store_id": "S00125",
+      "total_price": 35.0,
+      "create_time": "2025-09-10 12:15:23",
+      "status": "delivered",
+      "products": [
+        {
+          "product_id": "P00125",
+          "price": 35.0,
+          "quantity": 1,
+          "name": "Steamed Chicken Breast with Seasonal Vegetables Set"
+        }
+      ]
+    },
+    "S17550802174487229_O00002": {
+      "order_id": "S17550802174487229_O00002",
+      "order_type": "delivery",
+      "user_id": "U001037",
+      "store_id": "S00126",
+      "total_price": 28.0,
+      "create_time": "2025-09-11 08:30:15",
+      "status": "delivered",
+      "products": [
+        {
+          "product_id": "P00126",
+          "price": 28.0,
+          "quantity": 1,
+          "name": "Century Egg Porridge with Pork + Fresh Meat Bun"
+        }
+      ]
+    },
+    "S17550802174487229_O00003": {
+      "order_id": "S17550802174487229_O00003",
+      "order_type": "delivery",
+      "user_id": "U001037",
+      "store_id": "S00127",
+      "total_price": 32.0,
+      "create_time": "2025-09-11 17:40:22",
+      "status": "delivered",
+      "products": [
+        {
+          "product_id": "P00127",
+          "price": 32.0,
+          "quantity": 1,
+          "name": "Sugar-free Oolong Tea"
+        }
+      ]
+    },
+    "S17550802174487229_O00007": {
+      "order_id": "S17550802174487229_O00007",
+      "order_type": "train",
+      "user_id": "U001037",
+      "store_id": "T00001",
+      "note": "Business trip to Shanghai last month",
+      "location": {
+        "address": "Wuhan Railway Station, near Wuchang Station Road, Wuchang District, Wuhan, Hubei Province",
+        "longitude": 114.3154,
+        "latitude": 30.5968
+      },
+      "dispatch_time": "",
+      "shipping_time": 0.0,
+      "delivery_time": "",
+      "total_price": 553.5,
+      "create_time": "2025-08-15 09:35:42",
+      "update_time": "2025-08-15 09:35:42",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "T00001_S001",
+          "price": 553.5,
+          "quantity": 1,
+          "seat_type": "Second Class Seat",
+          "train_number": "G1202",
+          "departure_time": "2025-08-18 08:00",
+          "arrival_time": "2025-08-18 12:30",
+          "departure_station": "Wuhan Station",
+          "arrival_station": "Shanghai Hongqiao Station"
+        }
+      ]
+    },
+    "S17550802174487229_O00008": {
+      "order_id": "S17550802174487229_O00008",
+      "order_type": "instore",
+      "user_id": "U001037",
+      "store_id": "S17550802174487229_I00006",
+      "total_price": 588.0,
+      "create_time": "2025-09-12 18:08:45",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17550802174487229_P00029",
+          "price": 588.0,
+          "quantity": 1,
+          "name": "Medium Karaoke Room (6-10 people)"
+        }
+      ]
+    },
+    "S17550802174487229_O00009": {
+      "order_id": "S17550802174487229_O00009",
+      "order_type": "instore",
+      "user_id": "U001037",
+      "store_id": "S17550802174487229_I00010",
+      "total_price": 149.0,
+      "create_time": "2025-09-12 18:12:30",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17550802174487229_P00052",
+          "price": 149.0,
+          "quantity": 1,
+          "name": "Apple 20W USB-C Charger"
+        }
+      ]
+    },
+    "S17550802174487229_O00010": {
+      "order_id": "S17550802174487229_O00010",
+      "order_type": "instore",
+      "user_id": "U001037",
+      "store_id": "S17550802174487229_I00006",
+      "total_price": 88.0,
+      "create_time": "2025-09-12 18:15:10",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17550802174487229_P00033",
+          "price": 88.0,
+          "quantity": 1,
+          "name": "Premium Fruit Platter"
+        }
+      ]
+    },
+    "S17550802174487229_O00011": {
+      "order_id": "S17550802174487229_O00011",
+      "order_type": "instore",
+      "user_id": "U001037",
+      "store_id": "S00128",
+      "total_price": 138.0,
+      "create_time": "2025-09-02 19:30:25",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "P00128",
+          "price": 138.0,
+          "quantity": 1,
+          "name": "Individual Yoga Class"
+        }
+      ]
+    }
+  }
+}

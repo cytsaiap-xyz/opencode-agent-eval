@@ -1,0 +1,825 @@
+{
+  "task_id": "10808010",
+  "domain": "cross_domain",
+  "time": "2025-05-27 17:23:45",
+  "user_id": "U386988",
+  "weather": [
+    {
+      "city": "Dalian",
+      "category": "sunny",
+      "datetime": "2025-05-27",
+      "temperature": [
+        18,
+        26
+      ],
+      "humidity": 45
+    },
+    {
+      "city": "Shenyang",
+      "category": "cloudy",
+      "datetime": "2025-05-31",
+      "temperature": [
+        16,
+        25
+      ],
+      "humidity": 50
+    }
+  ],
+  "location": [
+    {
+      "address": "Room 803, Unit 2, Jinshi International Apartment, 553 Zhongshan Road, Heishijiao Street, Shahekou District, Dalian",
+      "longitude": 121.5637,
+      "latitude": 38.8721
+    },
+    {
+      "address": "Dalian Passenger Station, 663 Changjiang Road, Xigang District, Dalian",
+      "longitude": 121.6127,
+      "latitude": 38.9142
+    }
+  ],
+  "user_profile": {
+    "user id": "U386988",
+    "occupation": "Chef",
+    "gender": "female",
+    "age group": "30~35",
+    "residence": "Dalian",
+    "home address": "Room 803, Unit 2, Jinshi International Apartment, 553 Zhongshan Road, Heishijiao Street, Shahekou District, Dalian",
+    "work address": "Dalian Passenger Station, 663 Changjiang Road, Xigang District, Dalian",
+    "dietary restrictions": "Avoid high purine foods (such as organ meats/seafood soup), avoid caffeine",
+    "family status": "Has children",
+    "personality": "Impatient, frequently rushes others, lacks patience for processes"
+  },
+  "user_historical_behaviors": {
+    "user id": "U386988",
+    "occupation": "Chef",
+    "gender": "female",
+    "age group": "30~35",
+    "residence": "Dalian",
+    "home address": "Room 803, Unit 2, Jinshi International Apartment, 553 Zhongshan Road, Heishijiao Street, Shahekou District, Dalian",
+    "work address": "Dalian Passenger Station, 663 Changjiang Road, Xigang District, Dalian",
+    "delivery": {
+      "breakfast": {
+        "frequently purchased categories": [
+          "Quick meal/Buns/Pan-fried buns (Average 18 yuan)",
+          "Quick meal/Jianbing/Wraps/Hand-held pancakes (Average 12 yuan)",
+          "Quick meal/Dumplings/Wonton (Average 22 yuan)"
+        ],
+        "cost per order": "10~25 yuan",
+        "preferred store rating": "4.2~4.8 points",
+        "preferred delivery time": "15~25 minutes",
+        "preferred distance": "0~1500m",
+        "recent orders": [
+          {
+            "store": "Lao Li Bun Shop",
+            "product": "Pork Bun + Soy Milk Set"
+          },
+          {
+            "store": "Tianjin Jianbing",
+            "product": "Original Jianbing"
+          },
+          {
+            "store": "Shenyang Dumplings",
+            "product": "Three Delicacies Dumplings"
+          }
+        ],
+        "search history": [
+          "buns",
+          "soy milk",
+          "jianbing",
+          "breakfast",
+          "dumplings"
+        ]
+      },
+      "weekday lunch/dinner": {
+        "frequently purchased categories": [
+          "Quick meal/Rice with toppings (Average 28 yuan)",
+          "Quick meal/Small dishes (Average 32 yuan)",
+          "Quick meal/Rice noodles (Average 25 yuan)"
+        ],
+        "cost per order": "25~40 yuan",
+        "preferred store rating": "4.0~4.5 points",
+        "preferred delivery time": "20~35 minutes",
+        "preferred distance": "0~2500m",
+        "recent orders": [
+          {
+            "store": "Shike Rice with Toppings",
+            "product": "Green Pepper and Shredded Pork Rice"
+          },
+          {
+            "store": "Small Dish Home-style Cooking",
+            "product": "Fish-flavored Shredded Pork + Rice"
+          },
+          {
+            "store": "Yunnan Rice Noodles",
+            "product": "Classic Beef Rice Noodles"
+          }
+        ],
+        "search history": [
+          "rice with toppings",
+          "rice noodles",
+          "small dishes",
+          "fast food",
+          "home-style cooking"
+        ]
+      },
+      "weekend lunch/dinner": {
+        "frequently purchased categories": [
+          "Chinese cuisine/Northeastern cuisine (Average 68 yuan)",
+          "Hot pot/Chicken pot (Average 75 yuan)",
+          "Chinese cuisine/Stewed pot (Average 80 yuan)"
+        ],
+        "cost per order": "60~120 yuan",
+        "preferred store rating": "4.3~4.8 points",
+        "preferred delivery time": "25~45 minutes",
+        "preferred distance": "0~3500m",
+        "recent orders": [
+          {
+            "store": "Old Northeast Restaurant",
+            "product": "Sweet and Sour Pork + Three Fresh Vegetables + Rice"
+          },
+          {
+            "store": "Chongqing Chicken Pot",
+            "product": "Signature Spicy Chicken Pot (Medium Spicy)"
+          },
+          {
+            "store": "Huizhou Stewed Pot",
+            "product": "Three Delicacies Stewed Pot + Staple Food"
+          }
+        ],
+        "search history": [
+          "Northeastern cuisine",
+          "chicken pot",
+          "stewed pot",
+          "family meal",
+          "children's set meal"
+        ]
+      },
+      "desserts/drinks/snacks": {
+        "frequently purchased categories": [
+          "Drinks and desserts/Juice (Average 22 yuan)",
+          "Drinks and desserts/Chinese pastries (Average 28 yuan)",
+          "Drinks and desserts/Fruit salad (Average 35 yuan)"
+        ],
+        "cost per order": "20~40 yuan",
+        "preferred store rating": "4.5~4.9 points",
+        "preferred delivery time": "15~30 minutes",
+        "preferred distance": "0~2000m",
+        "recent orders": [
+          {
+            "store": "Fresh Juice Bar",
+            "product": "Fresh Orange Juice"
+          },
+          {
+            "store": "Daoxiangcun",
+            "product": "Red Bean Glutinous Rice Cake"
+          },
+          {
+            "store": "Colorful Fruit Salad",
+            "product": "Signature Fruit Salad"
+          }
+        ],
+        "search history": [
+          "juice",
+          "pastries",
+          "fruit salad",
+          "red bean cake",
+          "caffeine-free drinks"
+        ]
+      },
+      "night snack": {
+        "frequently purchased categories": [
+          "Quick meal/Casserole (Average 38 yuan)",
+          "Snacks/Braised flavors (Average 32 yuan)",
+          "Quick meal/Dumplings/Wonton (Average 28 yuan)"
+        ],
+        "cost per order": "25~45 yuan",
+        "preferred store rating": "4.0~4.6 points",
+        "preferred delivery time": "20~40 minutes",
+        "preferred distance": "0~2500m",
+        "recent orders": [
+          {
+            "store": "Old Street Casserole",
+            "product": "Tofu Casserole"
+          },
+          {
+            "store": "Five Spice Braised Flavors",
+            "product": "Assorted Braised Platter"
+          },
+          {
+            "store": "Old Northern Dumpling House",
+            "product": "Pork and Cabbage Wonton"
+          }
+        ],
+        "search history": [
+          "casserole",
+          "braised flavors",
+          "wonton",
+          "night snack",
+          "non-spicy"
+        ]
+      }
+    },
+    "in-store consumption": {
+      "in-store dining": {
+        "fine-dining": {
+          "frequently consumed categories": [
+            "Regional cuisine/Northeastern cuisine (Average 120 yuan)",
+            "Regional cuisine/Fish (Average 135 yuan)",
+            "Foreign cuisine/Korean cuisine (Average 150 yuan)"
+          ],
+          "preferred average price per person": "120~150 yuan",
+          "preferred store rating": "4.0~4.6 stars",
+          "typical dining time": "17:30-19:30",
+          "preferred distance": "500~2000m",
+          "recent orders": [
+            {
+              "store": "Old Fisherman Live Fish Restaurant",
+              "product": "Steamed Sea Bass + Seasonal Vegetables"
+            },
+            {
+              "store": "Dalian Xin Jia Northeastern Cuisine",
+              "product": "Sweet and Sour Pork + Three Fresh Vegetables + Chicken with Mushroom Stew"
+            },
+            {
+              "store": "Korean Royal Palace",
+              "product": "Army Stew + Korean Mixed Rice"
+            }
+          ],
+          "search history": [
+            "caffeine-free drinks",
+            "kid-friendly restaurants",
+            "Northeastern cuisine",
+            "low purine dishes"
+          ]
+        },
+        "light meal": {
+          "frequently consumed categories": [
+            "Fast food/Chinese quick meal (Average 35 yuan)",
+            "Fast food/Western fast food (Average 42 yuan)",
+            "Regional cuisine/Northeastern cuisine (Average 45 yuan)"
+          ],
+          "preferred average price per person": "30~50 yuan",
+          "preferred store rating": "3.5~4.2 stars",
+          "typical dining time": "11:30-13:00",
+          "preferred distance": "100~800m",
+          "recent orders": [
+            {
+              "store": "Shaxian Snacks",
+              "product": "Three Delicacies Steamed Dumplings + Seaweed Soup"
+            },
+            {
+              "store": "Northeastern Dumpling King",
+              "product": "Pork and Cabbage Water Dumplings + Hot and Sour Soup"
+            },
+            {
+              "store": "McDonald's",
+              "product": "McNugget Meal (No Coffee)"
+            }
+          ],
+          "search history": [
+            "nearby fast food",
+            "cheap and delicious",
+            "kids meal",
+            "water dumplings"
+          ]
+        },
+        "desserts/drinks/snacks": {
+          "frequently consumed categories": [
+            "Beverage shops (Average 18 yuan)",
+            "Bread and desserts (Average 25 yuan)",
+            "Other dining/Fruit and fresh produce (Average 15 yuan)"
+          ],
+          "preferred average price per person": "15~30 yuan",
+          "preferred store rating": "3.8~4.5 stars",
+          "typical dining time": "15:00-16:30",
+          "preferred distance": "0~500m",
+          "recent orders": [
+            {
+              "store": "Fresh Fruit Workshop",
+              "product": "Strawberry Box + Cut Fruit Pieces"
+            },
+            {
+              "store": "85°C",
+              "product": "Cheese Cake + Lemon Tea"
+            },
+            {
+              "store": "A Little Tea",
+              "product": "Fruit Tea (Caffeine-free)"
+            }
+          ],
+          "search history": [
+            "caffeine-free drinks",
+            "fruit tea",
+            "children's desserts",
+            "low-sugar cakes"
+          ]
+        }
+      },
+      "other in-store services": {
+        "frequently consumed categories": {
+          "Beauty/Hair Salon": "20%",
+          "Entertainment/Massage/Foot Therapy": "35%",
+          "Parent-child/Family Entertainment": "30%",
+          "Sports and Fitness/Ball Sports": "15%"
+        },
+        "cost per order by category": {
+          "Beauty/Hair Salon": "120~200 yuan",
+          "Entertainment/Massage/Foot Therapy": "150~280 yuan",
+          "Parent-child/Family Entertainment": "80~200 yuan",
+          "Sports and Fitness/Ball Sports": "60~120 yuan"
+        },
+        "preferred store rating": "4.0~4.8 stars",
+        "preferred service time": "Weekends 10:00-16:00",
+        "preferred distance": "500~3000m",
+        "recent orders": [
+          {
+            "store": "Royal Foot Hall",
+            "product": "Full Body Massage + Foot Therapy Package"
+          },
+          {
+            "store": "Wonder Children's Playground",
+            "product": "Parent-child Ticket (1 Adult 1 Child)"
+          },
+          {
+            "store": "Master Hair Salon",
+            "product": "Wash, Cut and Blow Dry + Hair Treatment"
+          }
+        ],
+        "search history": [
+          "parent-child activities",
+          "foot therapy massage",
+          "weekend family activities",
+          "children's playground",
+          "affordable haircut"
+        ]
+      }
+    },
+    "OTA": {
+      "visited scenes": {
+        "Natural Landscapes (Mountains/Lakes/Forests)": "35%",
+        "Theme Parks": "25%",
+        "Cultural Heritage Sites": "15%",
+        "Parks": "15%",
+        "Zoos": "10%"
+      },
+      "cost per night on hotel": "300~500 yuan",
+      "visited hotels": {
+        "Home Inn": "30%",
+        "Hanting": "25%",
+        "7 Days Inn": "20%",
+        "Ji Hotel": "15%",
+        "Jinjiang Inn": "10%"
+      },
+      "browsed hotels": {
+        "Three-star Hotels": "45%",
+        "Comfort Hotels": "35%",
+        "Budget Hotels": "20%"
+      },
+      "historical travel plans": {
+        "Dalian-Beijing": {
+          "Price Range": "400-800 yuan",
+          "Transportation": "High-speed Rail"
+        },
+        "Dalian-Harbin": {
+          "Price Range": "300-600 yuan",
+          "Transportation": "High-speed Rail"
+        },
+        "Dalian-Shenyang": {
+          "Price Range": "150-250 yuan",
+          "Transportation": "High-speed Rail"
+        },
+        "Dalian-Qingdao": {
+          "Price Range": "350-700 yuan",
+          "Transportation": "High-speed Rail"
+        },
+        "Dalian-Shanghai": {
+          "Price Range": "700-1200 yuan",
+          "Transportation": "Flight"
+        },
+        "Dalian-Weihai": {
+          "Price Range": "200-400 yuan",
+          "Transportation": "Long-distance Bus"
+        }
+      }
+    }
+  },
+  "stores": {
+    "S17550806479682269_S00001": {
+      "name": "Zhen'ai Jewelry",
+      "store_id": "S17550806479682269_S00001",
+      "score": 4.8,
+      "location": {
+        "address": "Zhen'ai Jewelry Store, 658 Zhongshan Road, Shahekou District, Dalian",
+        "latitude": 38.8735,
+        "longitude": 121.5652
+      },
+      "tags": [
+        "Jewelry",
+        "Couple Rings",
+        "Simulated Diamond",
+        "Moissanite",
+        "Same-day Delivery"
+      ],
+      "store_type": "target",
+      "products": [
+        {
+          "name": "Romantic Whisper Moissanite Couple Rings",
+          "store_id": "S17550806479682269_S00001",
+          "store_name": "Zhen'ai Jewelry",
+          "price": 299.99,
+          "tags": [
+            "Couple Rings",
+            "Simulated Moissanite",
+            "Same-day Delivery",
+            "Deluxe Gift Box",
+            "Engagement Gift"
+          ],
+          "product_id": "S17550806479682269_P00001",
+          "attributes": [
+            "One pair for men and women"
+          ],
+          "product_type": "target"
+        },
+        {
+          "name": "High-end Customized Diamond Couple Rings",
+          "store_id": "S17550806479682269_S00001",
+          "store_name": "Zhen'ai Jewelry",
+          "price": 2999,
+          "tags": [
+            "Couple Rings",
+            "Real Diamond",
+            "Same-day Delivery",
+            "High-end Customization",
+            "Engagement Gift"
+          ],
+          "product_id": "S17550806479682269_P00004",
+          "attributes": [
+            "One pair for men and women",
+            "Fixed size",
+            "Complimentary premium gift box"
+          ],
+          "product_type": "distraction"
+        },
+        {
+          "name": "Fashion Moissanite Single Ring",
+          "store_id": "S17550806479682269_S00001",
+          "store_name": "Zhen'ai Jewelry",
+          "price": 199,
+          "tags": [
+            "Single Ring",
+            "Simulated Moissanite",
+            "Same-day Delivery",
+            "Fashion Design",
+            "Gift"
+          ],
+          "product_id": "S17550806479682269_P00005",
+          "attributes": [
+            "Single ring for women",
+            "Adjustable size",
+            "Gift box included"
+          ],
+          "product_type": "distraction"
+        },
+        {
+          "name": "Dreamy Moissanite Couple Rings (Next-day Delivery)",
+          "store_id": "S17550806479682269_S00001",
+          "store_name": "Zhen'ai Jewelry",
+          "price": 288,
+          "tags": [
+            "Couple Rings",
+            "Simulated Moissanite",
+            "Next-day Delivery",
+            "Dreamy Style",
+            "Engagement Gift"
+          ],
+          "product_id": "S17550806479682269_P00006",
+          "attributes": [
+            "One pair for men and women",
+            "Adjustable size",
+            "Gift box included"
+          ],
+          "product_type": "distraction"
+        }
+      ]
+    },
+    "S17550806479682269_S00002": {
+      "name": "Romantic Jewelry Boutique",
+      "store_id": "S17550806479682269_S00002",
+      "score": 4.7,
+      "location": {
+        "address": "Romantic Jewelry Boutique, 89 Wusi Road, Xigang District, Dalian",
+        "latitude": 38.9056,
+        "longitude": 121.5986
+      },
+      "tags": [
+        "Jewelry",
+        "Couple Rings",
+        "Diamond",
+        "Next-day Delivery"
+      ],
+      "store_type": "distraction",
+      "products": [
+        {
+          "name": "Brilliant Love Moissanite Couple Rings",
+          "store_id": "S17550806479682269_S00002",
+          "store_name": "Romantic Jewelry Boutique",
+          "price": 699,
+          "tags": [
+            "Couple Rings",
+            "Moissanite",
+            "Simulated Diamond",
+            "Couple Jewelry",
+            "Deluxe Gift Box"
+          ],
+          "product_id": "S17550806479682269_P00007",
+          "attributes": [
+            "Men's ring #18",
+            "Women's ring #14"
+          ],
+          "product_type": "distraction"
+        },
+        {
+          "name": "Starlight Moissanite Couple Rings",
+          "store_id": "S17550806479682269_S00002",
+          "store_name": "Romantic Jewelry Boutique",
+          "price": 599,
+          "tags": [
+            "Couple Rings",
+            "Moissanite",
+            "Simulated Diamond",
+            "Couple Rings",
+            "Lover's Gift"
+          ],
+          "product_id": "S17550806479682269_P00008",
+          "attributes": [
+            "Men's ring #17",
+            "Women's ring #13"
+          ],
+          "product_type": "distraction"
+        },
+        {
+          "name": "Eternal Love 24K Diamond Luxury Couple Rings",
+          "store_id": "S17550806479682269_S00002",
+          "store_name": "Romantic Jewelry Boutique",
+          "price": 899,
+          "tags": [
+            "Couple Rings",
+            "Proposal Essential"
+          ],
+          "product_id": "S17550806479682269_P00009",
+          "attributes": [
+            "Men's ring #16-22",
+            "Women's ring #12-18"
+          ],
+          "product_type": "distraction"
+        },
+        {
+          "name": "Simple Fashion Moissanite Couple Rings",
+          "store_id": "S17550806479682269_S00002",
+          "store_name": "Romantic Jewelry Boutique",
+          "price": 499,
+          "tags": [
+            "Couple Rings",
+            "Moissanite",
+            "Minimalist Style",
+            "Affordable Luxury",
+            "Daily Wear"
+          ],
+          "product_id": "S17550806479682269_P00010",
+          "attributes": [
+            "Men's ring #18",
+            "Women's ring #14"
+          ],
+          "product_type": "distraction"
+        }
+      ]
+    },
+    "S17550806479682269_S00003": {
+      "name": "Diamond World",
+      "store_id": "S17550806479682269_S00003",
+      "score": 4.9,
+      "location": {
+        "address": "Diamond World, 235 Huanghe Road, Shahekou District, Dalian",
+        "latitude": 38.8835,
+        "longitude": 121.5751
+      },
+      "tags": [
+        "Jewelry",
+        "Diamond",
+        "Real Diamond",
+        "High-end Customization",
+        "Same-day Delivery"
+      ],
+      "store_type": "distraction",
+      "products": [
+        {
+          "name": "1 Carat Natural Diamond Couple Rings",
+          "store_id": "S17550806479682269_S00003",
+          "store_name": "Diamond World",
+          "price": 29800,
+          "tags": [
+            "Diamond Couple Rings",
+            "Couple Rings",
+            "Natural Diamond",
+            "High-end Customization",
+            "Same-day Delivery"
+          ],
+          "product_id": "S17550806479682269_P00011",
+          "attributes": [
+            "Platinum material",
+            "1 carat"
+          ],
+          "product_type": "distraction"
+        },
+        {
+          "name": "GIA Certified 0.5 Carat Diamond Couple Rings",
+          "store_id": "S17550806479682269_S00003",
+          "store_name": "Diamond World",
+          "price": 15600,
+          "tags": [
+            "GIA Certified",
+            "Diamond Couple Rings",
+            "Couple Rings",
+            "High-end Customization",
+            "Same-day Delivery"
+          ],
+          "product_id": "S17550806479682269_P00012",
+          "attributes": [
+            "18K gold",
+            "0.5 carat"
+          ],
+          "product_type": "distraction"
+        },
+        {
+          "name": "Customized Diamond Couple Rings",
+          "store_id": "S17550806479682269_S00003",
+          "store_name": "Diamond World",
+          "price": 8800,
+          "tags": [
+            "Customized Style",
+            "Diamond Couple Rings",
+            "Couple Rings",
+            "Engraving Service",
+            "Same-day Delivery"
+          ],
+          "product_id": "S17550806479682269_P00013",
+          "attributes": [
+            "Rose gold",
+            "0.3 carat"
+          ],
+          "product_type": "distraction"
+        },
+        {
+          "name": "Starlight Series Diamond Couple Rings",
+          "store_id": "S17550806479682269_S00003",
+          "store_name": "Diamond World",
+          "price": 12500,
+          "tags": [
+            "Starlight Series",
+            "Diamond Couple Rings",
+            "Couple Rings",
+            "High-end Customization",
+            "Same-day Delivery"
+          ],
+          "product_id": "S17550806479682269_P00014",
+          "attributes": [
+            "Platinum",
+            "0.4 carat"
+          ],
+          "product_type": "distraction"
+        },
+        {
+          "name": "Affordable Luxury Series Small Diamond Couple Rings",
+          "store_id": "S17550806479682269_S00003",
+          "store_name": "Diamond World",
+          "price": 5600,
+          "tags": [
+            "Affordable Luxury Series",
+            "Small Diamond Couple Rings",
+            "Couple Rings",
+            "Minimalist Design",
+            "Same-day Delivery"
+          ],
+          "product_id": "S17550806479682269_P00015",
+          "attributes": [
+            "18K white gold",
+            "0.1 carat"
+          ],
+          "product_type": "distraction"
+        }
+      ]
+    },
+    "S17550806479682269_S00004": {
+      "name": "Moissanite Jewelry House",
+      "store_id": "S17550806479682269_S00004",
+      "score": 4.6,
+      "location": {
+        "address": "Moissanite Jewelry House, 128 Jiefang Road, Zhongshan District, Dalian",
+        "latitude": 38.8635,
+        "longitude": 121.5452
+      },
+      "tags": [
+        "Jewelry",
+        "Couple Rings",
+        "Simulated Diamond",
+        "Moissanite",
+        "Same-day Delivery"
+      ],
+      "store_type": "target",
+      "products": [
+        {
+          "name": "Simple Fashion Moissanite Single Ring",
+          "store_id": "S17550806479682269_S00004",
+          "store_name": "Moissanite Jewelry House",
+          "price": 159,
+          "tags": [
+            "Single Ring",
+            "Simulated Moissanite",
+            "Same-day Delivery",
+            "Minimalist Style"
+          ],
+          "product_id": "S17550806479682269_P00018",
+          "attributes": [
+            "Single piece",
+            "Adjustable size"
+          ],
+          "product_type": "distraction"
+        },
+        {
+          "name": "Love Mark 925 Sterling Silver Couple Rings",
+          "store_id": "S17550806479682269_S00004",
+          "store_name": "Moissanite Jewelry House",
+          "price": 199,
+          "tags": [
+            "Couple Rings",
+            "925 Sterling Silver",
+            "Same-day Delivery",
+            "Minimalist Design"
+          ],
+          "product_id": "S17550806479682269_P00020",
+          "attributes": [
+            "One pair",
+            "Adjustable size"
+          ],
+          "product_type": "distraction"
+        }
+      ]
+    },
+    "S17550806479682269_S00005": {
+      "name": "Love Code Jewelry",
+      "store_id": "S17550806479682269_S00005",
+      "score": 4.5,
+      "location": {
+        "address": "Love Code Jewelry, 356 Shandong Road, Ganjingzi District, Dalian",
+        "latitude": 38.9235,
+        "longitude": 121.5952
+      },
+      "tags": [
+        "Jewelry",
+        "Couple Rings",
+        "Simulated Diamond",
+        "Moissanite"
+      ],
+      "store_type": "distraction",
+      "products": [
+        {
+          "name": "Niche Design Moissanite Ring",
+          "store_id": "S17550806479682269_S00005",
+          "store_name": "Love Code Jewelry",
+          "price": 259,
+          "tags": [
+            "Couple Rings",
+            "Moissanite",
+            "Simulated Diamond",
+            "Affordable Luxury Style",
+            "Best Friends Style"
+          ],
+          "product_id": "S17550806479682269_P00024",
+          "attributes": [
+            "Silver",
+            "Gold"
+          ],
+          "product_type": "distraction"
+        }
+      ]
+    }
+  },
+  "orders": {
+    "S17550806479682269_O00001": {
+      "order_id": "S17550806479682269_O00001",
+      "order_type": "delivery",
+      "user_id": "U386988",
+      "store_id": "S17550806479682269_S00004",
+      "total_price": 399.0,
+      "create_time": "2025-05-27 12:35:22",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17550806479682269_P00017",
+          "price": 399.0,
+          "quantity": 1
+        }
+      ]
+    }
+  }
+}

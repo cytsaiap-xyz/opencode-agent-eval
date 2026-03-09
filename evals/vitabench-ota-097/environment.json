@@ -1,0 +1,141 @@
+{
+  "task_id": "70806001",
+  "domain": "ota",
+  "time": "2024-11-09 21:32:13",
+  "user_id": "U010007",
+  "weather": [
+    {
+      "city": "Quanzhou",
+      "category": "cloudy",
+      "datetime": "2024-11-09",
+      "temperature": [
+        18,
+        25
+      ],
+      "humidity": 68
+    },
+    {
+      "city": "Changsha",
+      "category": "sunny",
+      "datetime": "2024-11-09",
+      "temperature": [
+        12,
+        20
+      ],
+      "humidity": 55
+    }
+  ],
+  "location": [],
+  "user_profile": {
+    "user id": "U010007",
+    "occupation": "Teacher",
+    "gender": "female",
+    "age group": "35~40",
+    "residence": "Quanzhou",
+    "home address": "Fengze Jinhuai Community, 100 meters north of the intersection of Tian'an North Road and Houban Street, Fengze District, Quanzhou, Fujian Province",
+    "work address": "Quanzhou No.5 Middle School (Chengdong Campus), No.288 Yucai Street, Fengze District, Quanzhou, Fujian Province",
+    "dietary restrictions": "Avoids greasy and spicy food, avoids caffeine",
+    "family status": "Living with elderly family members",
+    "personality": "Has scattered and jumpy thinking, easily distracted and prone to changing her mind"
+  },
+  "user_historical_behaviors": {
+    "user id": "U010007",
+    "occupation": "Teacher",
+    "gender": "female",
+    "age group": "35~40",
+    "residence": "Quanzhou",
+    "home address": "Fengze Jinhuai Apartment, 100 meters north of the intersection of Tian'an North Road and Houban Street, Fengze District, Quanzhou, Fujian Province",
+    "work address": "Quanzhou No.5 Middle School (Chengdong Campus), No.288 Yucai Street, Fengze District, Quanzhou, Fujian Province",
+    "visited scenes": {
+      "Cultural and historical sites": "30%",
+      "Exhibition halls (museums/art galleries)": "25%",
+      "Natural landscapes (mountains/lakes/forests)": "20%",
+      "Parks": "15%",
+      "Characteristic villages/industrial tourism/uncategorized projects": "10%"
+    },
+    "cost per night on hotel": "300~500 yuan",
+    "visited hotels": {
+      "Home Inn": "35%",
+      "Lavande": "25%",
+      "Vienna": "20%",
+      "Atour": "15%",
+      "7 Days": "5%"
+    },
+    "browsed hotels": {
+      "Comfort hotels": "60%",
+      "Three-star hotels": "25%",
+      "Budget hotels": "15%"
+    },
+    "historical travel plans": {
+      "Quanzhou-Xiamen": {
+        "Price range": "50-100 yuan",
+        "Transportation": "Long-distance bus"
+      },
+      "Quanzhou-Fuzhou": {
+        "Price range": "80-150 yuan",
+        "Transportation": "High-speed rail/EMU"
+      },
+      "Quanzhou-Beijing": {
+        "Price range": "800-1200 yuan",
+        "Transportation": "Airplane"
+      },
+      "Quanzhou-Shanghai": {
+        "Price range": "500-800 yuan",
+        "Transportation": "High-speed rail/EMU"
+      },
+      "Quanzhou-Nanjing": {
+        "Price range": "400-600 yuan",
+        "Transportation": "High-speed rail/EMU"
+      },
+      "Quanzhou-Hangzhou": {
+        "Price range": "400-600 yuan",
+        "Transportation": "High-speed rail/EMU"
+      },
+      "Quanzhou-Wuyishan": {
+        "Price range": "200-300 yuan",
+        "Transportation": "High-speed rail/EMU"
+      }
+    }
+  },
+  "stores": {},
+  "orders": {
+    "70806001T001": {
+      "order_id": "70806001T001",
+      "order_type": "hotel",
+      "user_id": "U010007",
+      "store_id": "S17557512725123677_H00004",
+      "note": "",
+      "location": null,
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 894,
+      "create_time": "2024-11-02 13:21:53",
+      "update_time": "2024-11-02 13:21:53",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17557512725123677_P00037",
+          "price": 298,
+          "quantity": 1,
+          "date": "2024-11-14",
+          "room_type": "Standard king room"
+        },
+        {
+          "product_id": "S17557512725123677_P00038",
+          "price": 298,
+          "quantity": 1,
+          "date": "2024-11-15",
+          "room_type": "Standard king room"
+        },
+        {
+          "product_id": "S17557512725123677_P00039",
+          "price": 298,
+          "quantity": 1,
+          "date": "2024-11-16",
+          "room_type": "Standard king room"
+        }
+      ]
+    }
+  }
+}

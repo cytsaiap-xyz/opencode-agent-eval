@@ -1,0 +1,139 @@
+{
+  "required_orders": [
+    {
+      "order_id": "A0804001T001",
+      "order_type": "instore",
+      "user_id": "U010005",
+      "store_id": "S17550810586464916_I00010",
+      "note": "",
+      "location": "",
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 368,
+      "create_time": "2024-09-05 15:34:41",
+      "update_time": "2024-09-05 15:34:41",
+      "status": "unpaid",
+      "products": [
+        {
+          "product_id": "S17550810586464916_P00054",
+          "name": "Sichuan Cuisine + Neck and Shoulder Massage Package (for Two)",
+          "price": 368,
+          "shop_id": "S17550810586464916_I00010",
+          "tags": [
+            "Sichuan Cuisine",
+            "Massage Service",
+            "Stress Relief and Relaxation"
+          ],
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "order_id": "S17550810586464916_O00002",
+      "order_type": "flight",
+      "user_id": "U010005",
+      "store_id": "S17550810586464916_F00006",
+      "note": "",
+      "location": {
+        "address": "Hefei Xinqiao International Airport, Hefei, Anhui Province",
+        "longitude": 117.2969,
+        "latitude": 31.7801
+      },
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 1440,
+      "create_time": "2024-08-27 14:22:35",
+      "update_time": "2024-09-05 15:32:41",
+      "status": "cancelled",
+      "products": [
+        {
+          "product_id": "S17550810586464916_P00030",
+          "price": 720,
+          "quantity": 2,
+          "date": "2024-09-07",
+          "seat_type": "Economy Class"
+        }
+      ]
+    },
+    {
+      "order_id": "A0804001T003",
+      "order_type": "flight",
+      "user_id": "U010005",
+      "store_id": "S17550810586464916_F00007",
+      "note": "",
+      "location": {
+        "address": "Hefei Xinqiao International Airport, Hefei, Anhui Province",
+        "longitude": 117.2969,
+        "latitude": 31.7801
+      },
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 1560,
+      "create_time": "2024-09-05 15:27:12",
+      "update_time": "2024-09-05 15:27:12",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17550810586464916_P00037",
+          "price": 780,
+          "quantity": 2,
+          "date": "2024-09-07",
+          "seat_type": "Economy Class"
+        }
+      ]
+    },
+    {
+      "order_id": "S17550810586464916_O00001",
+      "order_type": "delivery",
+      "user_id": "U010005",
+      "store_id": "S17550810586464916_S00001",
+      "note": "",
+      "location": {
+        "address": "CR Land Plaza Tower A, 60 meters southwest of the intersection of Lvzhou West Road and Longtu Road, Shushan District, Hefei, Anhui Province",
+        "longitude": 117.2283,
+        "latitude": 31.8489
+      },
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 1299,
+      "create_time": "2024-09-05 15:22:43",
+      "update_time": "2024-09-05 15:28:48",
+      "status": "cancelled",
+      "products": [
+        {
+          "product_id": "S17550810586464916_P00001",
+          "price": 1299,
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "book_id": "A0804001T002",
+      "shop_id": "S17550810586464916_I00013",
+      "book_time": "2024-09-17 19:00:00",
+      "update_time": "2024-09-05 15:24:43",
+      "customer_id": "U010005",
+      "customer_count": 6,
+      "book_price": 150,
+      "status": "unpaid"
+    }
+  ],
+  "rubrics": [
+    "The massage shop should be within 5.5km of Chengdu Shuangliu International Airport, Shuangliu District, Chengdu, Sichuan Province",
+    "The order at the massage shop should include food items",
+    "The order at the massage shop should include massage service",
+    "The order at the massage shop should be suitable for 2 people",
+    "Cancel the flight ticket order (flight number CA1832) on September 7, 2024 from historical orders",
+    "The date for flight ticket booking should be September 7, 2024",
+    "The booked flight should be a Red-Eye Flight (flight MU2354)",
+    "The number of flight tickets to book should be 2",
+    "The reserved restaurant should be within 5.5km of CR Land Park Mansion, 228 Huaining Road, Shushan District, Hefei, Anhui Province",
+    "The reserved restaurant should serve Hui Cuisine or Cantonese cuisine",
+    "The restaurant reservation time should be 19:00 on September 17, 2024",
+    "The restaurant reservation should be for 6 people"
+  ]
+}

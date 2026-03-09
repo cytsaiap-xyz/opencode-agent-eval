@@ -1,0 +1,400 @@
+{
+  "task_id": "90715001",
+  "domain": "delivery",
+  "time": "2025-09-13 14:00:17",
+  "user_id": "U000100",
+  "weather": [
+    {
+      "city": "Chongqing City",
+      "category": "sunny",
+      "datetime": "2025-09-13",
+      "temperature": [
+        30,
+        39
+      ],
+      "humidity": 22
+    }
+  ],
+  "location": [
+    {
+      "address": "Cui Lake Paradise Phase 2, 120 meters west of the intersection of Huasheng Road and Jiabo Road, Yuzhong District, Chongqing",
+      "longitude": 106.512755,
+      "latitude": 29.551069
+    }
+  ],
+  "user_profile": {
+    "user id": "U000100",
+    "occupation": "Civil Servant",
+    "gender": "female",
+    "age group": "40~45",
+    "residence": "Chongqing",
+    "home address": "Cui Lake Paradise Phase 2, 120 meters west of the intersection of Huasheng Road and Jiabo Road, Yuzhong District, Chongqing",
+    "work address": "Chongqing Civil Affairs Bureau, No. 489 Min'an Avenue, Yubei District, Chongqing",
+    "dietary restrictions": "No coffee",
+    "family status": "Has children",
+    "personality": "Overly reliant on others' guidance, lacks independence and decisiveness"
+  },
+  "user_historical_behaviors": {
+    "user id": "U000100",
+    "occupation": "Civil Servant",
+    "gender": "female",
+    "age group": "40~45",
+    "residence": "Chongqing",
+    "home address": "Cui Lake Paradise Phase 2, 120 meters west of the intersection of Huasheng Road and Jiabo Road, Yuzhong District, Chongqing",
+    "work address": "Chongqing Civil Affairs Bureau, No. 489 Min'an Avenue, Yubei District, Chongqing",
+    "breakfast": {
+      "frequently purchased categories": [
+        "Quick Meals/Buns/Pan-fried Buns (Average 18 yuan)",
+        "Quick Meals/Light Food (Average 28 yuan)",
+        "Quick Meals/Porridge (Average 20 yuan)"
+      ],
+      "cost per order": "15~35 yuan",
+      "preferred store rating": "4.2~4.8 stars",
+      "preferred delivery time": "15~30 minutes",
+      "preferred distance": "0~2500m",
+      "recent orders": [
+        {
+          "store": "Fresh Fragrant Pan-fried Buns",
+          "product": "Traditional Pan-fried Pork Buns + Eight-Treasure Health Porridge"
+        },
+        {
+          "store": "Salad Diary",
+          "product": "Light Fruit Salad + Whole Wheat Bread"
+        },
+        {
+          "store": "Early Morning",
+          "product": "Purple Sweet Potato Porridge + Longan Red Date Porridge"
+        }
+      ],
+      "search history": [
+        "Low-fat breakfast",
+        "Health porridge",
+        "Fruit salad",
+        "Oil-free breakfast",
+        "Whole wheat bread"
+      ]
+    },
+    "weekday lunch/dinner": {
+      "frequently purchased categories": [
+        "Quick Meals/Small Dishes (Average 35 yuan)",
+        "Chinese Cuisine/Sichuan Food (Average 50 yuan)",
+        "Foreign Cuisine/Stone Bowl Rice (Average 40 yuan)"
+      ],
+      "cost per order": "25~60 yuan",
+      "preferred store rating": "4.3~5.0 stars",
+      "preferred delivery time": "20~70 minutes",
+      "preferred distance": "0~3500m",
+      "recent orders": [
+        {
+          "store": "People's Commune Local Specialties",
+          "product": "Dry Pot Ribs + Two Portions of Rice + One Vegetable Dish"
+        },
+        {
+          "store": "West Sichuan Basin",
+          "product": "Boiled Fish Slices (Mild Spicy) + Garlic White Meat"
+        },
+        {
+          "store": "Korean Stone Bowl Rice",
+          "product": "Healthy Vegetable Stone Bowl Rice + Seaweed Soup"
+        }
+      ],
+      "search history": [
+        "Sichuan cuisine",
+        "Korean stone bowl rice",
+        "Small dishes"
+      ]
+    },
+    "weekend lunch/dinner": {
+      "frequently purchased categories": [
+        "Chinese Cuisine/Cantonese Food (Average 90 yuan)",
+        "Hot Pot/Individual Hot Pot (Average 80 yuan)",
+        "Foreign Cuisine/Pasta (Average 75 yuan)"
+      ],
+      "cost per order": "60~150 yuan",
+      "preferred store rating": "4.5~5.0 stars",
+      "preferred delivery time": "25~45 minutes",
+      "preferred distance": "0~4500m",
+      "recent orders": [
+        {
+          "store": "Cantonese Pavilion",
+          "product": "White Cut Chicken + Steamed Egg with Shrimp + Choy Sum + Jasmine Rice"
+        },
+        {
+          "store": "Fine Hot Pot",
+          "product": "Tomato Mushroom Pot + Tofu + Duck Blood + Fresh Vegetable Set"
+        },
+        {
+          "store": "Italian Stroll",
+          "product": "Tomato Mushroom Pasta + Roasted Vegetable Salad"
+        }
+      ],
+      "search history": [
+        "Family-friendly restaurant",
+        "Family meal set",
+        "Healthy hot pot",
+        "Kids meal"
+      ]
+    },
+    "desserts/drinks/snacks": {
+      "frequently purchased categories": [
+        "Drinks & Desserts/Fruit Juice (Average 26 yuan)",
+        "Drinks & Desserts/Pure Tea/Cold Tea (Average 22 yuan)",
+        "Drinks & Desserts/Fruit Salad (Average 35 yuan)"
+      ],
+      "cost per order": "15~45 yuan",
+      "preferred store rating": "4.4~5.0 stars",
+      "preferred delivery time": "15~70 minutes",
+      "preferred distance": "0~5000m",
+      "recent orders": [
+        {
+          "store": "Chucha Huayue (Darongcheng Store)",
+          "product": "Osmanthus Oolong - MAX Version"
+        },
+        {
+          "store": "Tea Color View",
+          "product": "Jasmine Tea + Rose Tea"
+        },
+        {
+          "store": "Fruit Mix",
+          "product": "Colorful Fruit Salad + Yogurt"
+        }
+      ],
+      "search history": [
+        "Caffeine-free drinks",
+        "Herbal tea",
+        "Fruit tea",
+        "Pregnancy-friendly drinks",
+        "Low-sugar desserts"
+      ]
+    },
+    "night snack": {
+      "frequently purchased categories": [
+        "Quick Meals/Rice Noodles (Average 35 yuan)",
+        "Snacks/Braised Dishes (Average 40 yuan)",
+        "Hot Pot/Clay Pot Porridge (Average 38 yuan)"
+      ],
+      "cost per order": "20~50 yuan",
+      "preferred store rating": "4.2~4.8 stars",
+      "preferred delivery time": "20~40 minutes",
+      "preferred distance": "0~3000m",
+      "recent orders": [
+        {
+          "store": "Yunnan Crossing-Bridge Rice Noodles",
+          "product": "Clear Chicken Rice Noodles + Cold Cucumber"
+        },
+        {
+          "store": "Old Street Braised Food",
+          "product": "Braised Chicken Wings + Braised Tofu + Five-Spice Egg"
+        },
+        {
+          "store": "Health Clay Pot Porridge",
+          "product": "Century Egg & Lean Meat Porridge + Small Dishes Platter"
+        }
+      ],
+      "search history": [
+        "Non-greasy night snack",
+        "Stomach-friendly porridge",
+        "Light night snack",
+        "No fried food",
+        "Clay pot porridge"
+      ]
+    }
+  },
+  "stores": {
+    "S18620106904396838_S09686": {
+      "name": "Baxi Ice Cream Cake (Daping Store)",
+      "store_id": "S18620106904396838_S09686",
+      "score": 5,
+      "location": {
+        "address": "Baxi Ice Cream Cake (Daping Store), No. 0205, 2F, Building 5, Times Square, Shiyou Road Street, Yuzhong District, Chongqing",
+        "latitude": 29.537537,
+        "longitude": 106.510525
+      },
+      "tags": [],
+      "products": [
+        {
+          "name": "[Midsummer Mango Afternoon Tea 4 Inch] Fruit/Ice Cream Cake",
+          "store_id": "S18620106904396838_S09686",
+          "store_name": "Baxi Ice Cream Cake (Daping Store)",
+          "price": 99,
+          "tags": [
+            "Silky Smooth Texture"
+          ],
+          "product_id": "S21178425587357621_P66770",
+          "attributes": [],
+          "quantity": 9999
+        },
+        {
+          "name": "[Qimei Longevity] Elderly Birthday Fruit/Ice Cream Cake",
+          "product_id": "S18228787367986084_P89424",
+          "store_id": "S18620106904396838_S09686",
+          "store_name": "Baxi Ice Cream Cake (Daping Store)",
+          "price": 178,
+          "tags": [
+            "Birthday Blessing for Elders"
+          ],
+          "attributes": [],
+          "quantity": 9999
+        },
+        {
+          "name": "[Birthday] 6 Inch Ice Cream/Fruit Birthday Cake",
+          "product_id": "S11189558501212220_P20014",
+          "store_id": "S18620106904396838_S09686",
+          "store_name": "Baxi Ice Cream Cake (Daping Store)",
+          "price": 168,
+          "tags": [],
+          "attributes": [],
+          "quantity": 9999
+        }
+      ]
+    },
+    "S12492181510325089_S67166": {
+      "name": "Chucha Huayue (Darongcheng Store)",
+      "store_id": "S12492181510325089_S67166",
+      "score": 4.7,
+      "location": {
+        "address": "Chucha Huayue (Darongcheng Store), K034-K035, 3F Outdoor Plaza, Darongcheng, Guanyinqiao, Jiangbei District, Chongqing",
+        "latitude": 29.575847,
+        "longitude": 106.533568
+      },
+      "tags": [],
+      "products": [
+        {
+          "name": "Osmanthus Oolong - MAX Version",
+          "store_id": "S12492181510325089_S67166",
+          "store_name": "Chucha Huayue (Darongcheng Store)",
+          "price": 17,
+          "tags": [
+            "Rich Tea Flavor"
+          ],
+          "product_id": "S25230280955908773_P80930",
+          "attributes": [
+            "Standard Ice",
+            "Less Ice",
+            "No Ice"
+          ],
+          "quantity": 9999
+        },
+        {
+          "name": "Green Mountain Jasmine - MAX Version",
+          "store_id": "S12492181510325089_S67166",
+          "store_name": "Chucha Huayue (Darongcheng Store)",
+          "price": 17,
+          "tags": [
+            "Delicate Texture"
+          ],
+          "product_id": "S48384040914991720_P07322",
+          "attributes": [
+            "Standard Ice",
+            "Less Ice",
+            "No Ice"
+          ],
+          "quantity": 9999
+        },
+        {
+          "name": "Wushan Misty Clouds - MAX Version",
+          "product_id": "S13477445296668531_P58012",
+          "store_id": "S12492181510325089_S67166",
+          "store_name": "Chucha Huayue (Darongcheng Store)",
+          "price": 19,
+          "tags": [
+            "Light Cream"
+          ],
+          "attributes": [],
+          "quantity": 9999
+        }
+      ]
+    },
+    "S25361740322338667_S16742": {
+      "name": "Chucha Huayue (Guanyinqiao Food Street Zone A Store)",
+      "store_id": "S25361740322338667_S16742",
+      "score": 5,
+      "location": {
+        "address": "No. 18, 3F, Xing Tian Plaza, No. 59-2 East Ring Road, Guanyinqiao, Jiangbei District, Chongqing (370m walk from Exit 4 of Guanyinqiao Metro Station)",
+        "latitude": 29.57646,
+        "longitude": 106.533837
+      },
+      "tags": [],
+      "products": [
+        {
+          "name": "Misty Rain on Path - MAX Version",
+          "product_id": "S24826709824145109_P64607",
+          "store_id": "S25361740322338667_S16742",
+          "store_name": "Chucha Huayue (Guanyinqiao Food Street Zone A Store)",
+          "price": 17,
+          "tags": [
+            "Contains Milk"
+          ],
+          "attributes": [],
+          "quantity": 9999
+        },
+        {
+          "name": "Osmanthus Oolong Whole Leaf Fresh Milk Tea",
+          "product_id": "S30189727448321674_P98523",
+          "store_id": "S25361740322338667_S16742",
+          "store_name": "Chucha Huayue (Guanyinqiao Food Street Zone A Store)",
+          "price": 11.9,
+          "tags": [
+            "Non-dairy Creamer"
+          ],
+          "attributes": [],
+          "quantity": 9999
+        }
+      ]
+    },
+    "S13942135013472280_S41854": {
+      "name": "BUJIO Mountain Cake",
+      "store_id": "S13942135013472280_S41854",
+      "score": 5,
+      "location": {
+        "address": "BUJIO Mountain Cake, Longhu Chongqing Times Square, No. 174 Changjiang Second Road, Yuzhong District, Chongqing (150m walk from Exit 1B of Shiyou Road Metro Station)",
+        "latitude": 29.536162,
+        "longitude": 106.512526
+      },
+      "tags": [],
+      "products": [
+        {
+          "name": "Like Wind Has Promise | Matcha Grapefruit | Mousse Animal Light Cream Green Birthday Cake Afternoon Tea",
+          "product_id": "S32702162921606007_P48136",
+          "store_id": "S13942135013472280_S41854",
+          "store_name": "BUJIO Mountain Cake",
+          "price": 218,
+          "tags": [
+            "4 Inch"
+          ],
+          "attributes": [],
+          "quantity": 9999
+        }
+      ]
+    }
+  },
+  "orders": {
+    "90715001O01": {
+      "order_id": "90715001O01",
+      "order_type": "delivery",
+      "user_id": "U000100",
+      "store_id": "S12492181510325089_S67166",
+      "note": "",
+      "location": {
+        "address": "Cui Lake Paradise Phase 2, 120 meters west of the intersection of Huasheng Road and Jiabo Road, Yuzhong District, Chongqing",
+        "longitude": 106.512755,
+        "latitude": 29.551069
+      },
+      "dispatch_time": "2025-09-09 10:17:00",
+      "shipping_time": 71,
+      "delivery_time": "2025-09-09 11:28:00",
+      "total_price": 17.0,
+      "create_time": "2025-09-09 10:00:00",
+      "update_time": "2025-09-09 10:00:00",
+      "status": "delivered",
+      "products": [
+        {
+          "product_id": "S25230280955908773_P80930",
+          "price": 17.0,
+          "quantity": 1,
+          "attributes": "Standard Ice"
+        }
+      ]
+    }
+  }
+}

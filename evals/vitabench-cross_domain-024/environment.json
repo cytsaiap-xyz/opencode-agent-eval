@@ -1,0 +1,842 @@
+{
+  "task_id": "10808002",
+  "domain": "cross_domain",
+  "time": "2025-05-09 08:30:00",
+  "user_id": "U587595",
+  "weather": [
+    {
+      "city": "Suzhou",
+      "category": "light rain",
+      "datetime": "2025-05-11",
+      "temperature": [
+        13,
+        21
+      ],
+      "humidity": 85
+    },
+    {
+      "city": "Suzhou",
+      "category": "cloudy",
+      "datetime": "2025-05-12",
+      "temperature": [
+        17,
+        25
+      ],
+      "humidity": 70
+    }
+  ],
+  "location": [
+    {
+      "address": "Water Lane Apartment, 89 Pingjiang Road, Gusu District, Suzhou, Jiangsu Province",
+      "longitude": 120.6332,
+      "latitude": 31.3117
+    }
+  ],
+  "user_profile": {
+    "user id": "U587595",
+    "occupation": "Actress",
+    "gender": "female",
+    "age group": "25~30",
+    "residence": "Suzhou",
+    "home address": "Water Lane Apartment, 89 Pingjiang Road, Gusu District, Suzhou, Jiangsu Province",
+    "work address": "Suzhou Film and Television Industrial Park, 58 Chengyang Road, Xiangcheng District, Suzhou, Jiangsu Province",
+    "dietary restrictions": "Avoids heavy oil and spicy food, avoids high sugar",
+    "family status": "In a relationship",
+    "personality": "Extremely demanding about details, tends to be picky and easily dissatisfied"
+  },
+  "user_historical_behaviors": {
+    "user id": "U587595",
+    "occupation": "actress",
+    "gender": "female",
+    "age group": "25~30",
+    "residence": "Suzhou",
+    "home address": "Water Lane Apartment, 89 Pingjiang Road, Gusu District, Suzhou, Jiangsu Province",
+    "work address": "Suzhou Film and Television Industrial Park, 58 Chengyang Road, Xiangcheng District, Suzhou, Jiangsu Province",
+    "delivery": {
+      "food delivery": {
+        "breakfast": {
+          "frequently purchased categories": [
+            "Quick meals/Baozi/Shengjianbao (Average 18 yuan)",
+            "Quick meals/Soy milk and fried dough sticks (Average 12 yuan)",
+            "Quick meals/Jianbing/Wraps/Pancakes (Average 15 yuan)"
+          ],
+          "cost per order": "10~25 yuan",
+          "preferred store rating": "4.2~4.7",
+          "preferred delivery time": "15~30 minutes",
+          "preferred distance": "0~1500m",
+          "recent orders": [
+            {
+              "store": "Mudu Old Street Breakfast Shop",
+              "product": "Meat Bun + Soy Milk Set"
+            },
+            {
+              "store": "Hangzhou Zhiweiguan",
+              "product": "Fresh Meat Shengjianbao"
+            },
+            {
+              "store": "Tianjin Jianbing",
+              "product": "Original Pancake"
+            }
+          ],
+          "search history": [
+            "Baozi",
+            "Shengjianbao",
+            "Pancake",
+            "Soy milk",
+            "Quick breakfast"
+          ]
+        },
+        "weekday lunch/dinner": {
+          "frequently purchased categories": [
+            "Quick meals/Rice with toppings (Average 25 yuan)",
+            "Quick meals/Braised chicken rice (Average 30 yuan)",
+            "Quick meals/Rice noodles (Average 22 yuan)"
+          ],
+          "cost per order": "20~40 yuan",
+          "preferred store rating": "4.0~4.6",
+          "preferred delivery time": "15~35 minutes",
+          "preferred distance": "0~2500m",
+          "recent orders": [
+            {
+              "store": "Braised Chicken Rice",
+              "product": "Mildly Spicy Braised Chicken Rice"
+            },
+            {
+              "store": "Shaxian Snacks",
+              "product": "Braised Pork Rice + Seaweed Egg Drop Soup"
+            },
+            {
+              "store": "Yunnan Bridge Rice Noodles",
+              "product": "Clear Soup Beef Rice Noodles"
+            }
+          ],
+          "search history": [
+            "Fast food",
+            "Inexpensive rice with toppings",
+            "Rice noodles",
+            "Quick delivery"
+          ]
+        },
+        "weekend lunch/dinner": {
+          "frequently purchased categories": [
+            "Chinese cuisine/Crayfish (Average 95 yuan)",
+            "Chinese cuisine/Spicy hot pot (Average 65 yuan)",
+            "Quick meals/Light food (Average 45 yuan)"
+          ],
+          "cost per order": "45~100 yuan",
+          "preferred store rating": "4.3~4.8",
+          "preferred delivery time": "30~45 minutes",
+          "preferred distance": "0~3500m",
+          "recent orders": [
+            {
+              "store": "Xiaopang Crayfish",
+              "product": "Garlic Crayfish (Medium)"
+            },
+            {
+              "store": "Chongqing Spicy Hot Pot",
+              "product": "Mildly Spicy Three-person Set"
+            },
+            {
+              "store": "LPPZ Light Food Salad",
+              "product": "Quinoa Chicken Breast Salad"
+            }
+          ],
+          "search history": [
+            "Non-greasy dishes",
+            "Nutritious and healthy",
+            "Crayfish",
+            "Family meal set"
+          ]
+        },
+        "desserts/drinks/snacks": {
+          "frequently purchased categories": [
+            "Beverages and desserts/Juice (Average 18 yuan)",
+            "Beverages and desserts/Fruit salad (Average 25 yuan)",
+            "Beverages and desserts/Chinese pastries (Average 15 yuan)"
+          ],
+          "cost per order": "15~30 yuan",
+          "preferred store rating": "4.4~4.9",
+          "preferred delivery time": "20~35 minutes",
+          "preferred distance": "0~2000m",
+          "recent orders": [
+            {
+              "store": "Fresh Juice Shop",
+              "product": "Fresh Watermelon Juice"
+            },
+            {
+              "store": "Xianfeng Fruit",
+              "product": "Signature Fruit Salad"
+            },
+            {
+              "store": "Daoxiangcun",
+              "product": "Red Bean Cake"
+            }
+          ],
+          "search history": [
+            "Fruit",
+            "Sugar-free beverages",
+            "Healthy desserts",
+            "Traditional Pastries"
+          ]
+        },
+        "night snack": {
+          "frequently purchased categories": [
+            "Quick meals/Liuzhou rice noodles (Average 28 yuan)",
+            "Snacks/Braised foods (Average 35 yuan)",
+            "Quick meals/Hot dry noodles (Average 20 yuan)"
+          ],
+          "cost per order": "20~40 yuan",
+          "preferred store rating": "4.1~4.7",
+          "preferred delivery time": "25~40 minutes",
+          "preferred distance": "0~2500m",
+          "recent orders": [
+            {
+              "store": "Liuzhou Rice Noodles",
+              "product": "Original Liuzhou Rice Noodles"
+            },
+            {
+              "store": "Master Zhou's Braised Foods",
+              "product": "Braised Duck Neck + Braised Tofu Set"
+            },
+            {
+              "store": "Wuhan Hot Dry Noodles",
+              "product": "Traditional Hot Dry Noodles"
+            }
+          ],
+          "search history": [
+            "Non-greasy night snacks",
+            "Braised foods",
+            "Hot dry noodles",
+            "Late night snacks"
+          ]
+        }
+      },
+      "product delivery": {
+        "frequently purchased categories": [
+          "Fruit(28%)",
+          "Vegetables/Tofu products(25%)",
+          "Beauty and skincare(18%)",
+          "Snack foods(15%)",
+          "Flowers and gardening(10%)",
+          "Others(4%)"
+        ],
+        "frequently visited stores": [
+          "Youxian Life(35%)",
+          "Green Organic Supermarket(28%)",
+          "Beauty and Skincare Specialty Store(22%)",
+          "Other stores(15%)"
+        ],
+        "cost per order by category": {
+          "Fruit": "15~50 yuan",
+          "Vegetables/Tofu products": "5~30 yuan",
+          "Beauty and skincare": "100~300 yuan",
+          "Snack foods": "20~60 yuan",
+          "Flowers and gardening": "50~200 yuan"
+        },
+        "preferred delivery time": "30~60 minutes",
+        "typical order time": "9~11 AM(32%)，3~5 PM(28%)，7~9 PM(25%)",
+        "recent orders": [
+          {
+            "store": "Youxian Life",
+            "product": "Organic Blueberries 300g"
+          },
+          {
+            "store": "Green Organic Supermarket",
+            "product": "Imported Avocados (3 pack)"
+          },
+          {
+            "store": "Beauty and Skincare Specialty Store",
+            "product": "Natural Hydrating Mask Set"
+          }
+        ],
+        "search history": [
+          "Organic fruit",
+          "Low-sugar snacks",
+          "Hydrating masks",
+          "Indoor plants",
+          "Natural skincare products"
+        ]
+      }
+    },
+    "in-store consumption": {
+      "in-store dining": {
+        "fine-dining": {
+          "frequently purchased categories": [
+            "Regional cuisine/Jiangsu-Zhejiang cuisine (Average 90 yuan)",
+            "Regional cuisine/Sichuan cuisine (Average 85 yuan)",
+            "International cuisine/Japanese food (Average 120 yuan)"
+          ],
+          "preferred average price per person": "80~120 yuan",
+          "preferred store rating": "4.0~4.8 stars",
+          "typical dining time": "6:30-8:30 PM",
+          "preferred distance": "500~3000m",
+          "recent orders": [
+            {
+              "store": "Jiangnan Flavor",
+              "product": "Squirrel-shaped Mandarin Fish Set"
+            },
+            {
+              "store": "Sichuan Garden",
+              "product": "Boiled Beef + Mapo Tofu"
+            },
+            {
+              "store": "Japanese Style Cuisine",
+              "product": "Sashimi Platter"
+            }
+          ],
+          "search history": [
+            "Suzhou local cuisine",
+            "Non-spicy Sichuan food",
+            "Family gathering",
+            "Restaurants suitable for elderly"
+          ]
+        },
+        "light meal": {
+          "frequently purchased categories": [
+            "Quick meals/Chinese fast food (Average 25 yuan)",
+            "Quick meals/Western fast food (Average 30 yuan)",
+            "Regional cuisine/Other regional cuisines (Average 35 yuan)"
+          ],
+          "preferred average price per person": "15~40 yuan",
+          "preferred store rating": "3.5~4.3 stars",
+          "typical dining time": "11:30 AM-1:00 PM",
+          "preferred distance": "0~500m",
+          "recent orders": [
+            {
+              "store": "Shaxian Snacks",
+              "product": "Three Treasures Fried Rice + Seaweed Egg Drop Soup"
+            },
+            {
+              "store": "Old Street Fast Food",
+              "product": "Yuxiang Shredded Pork Rice"
+            },
+            {
+              "store": "McDonald's",
+              "product": "Big Mac Meal"
+            }
+          ],
+          "search history": [
+            "Fast food near school",
+            "Inexpensive lunch",
+            "Meal sets"
+          ]
+        },
+        "desserts/drinks/snacks": {
+          "frequently purchased categories": [
+            "Beverage shops (Average 18 yuan)",
+            "Bread and desserts (Average 22 yuan)",
+            "Other dining/Fresh fruit (Average 15 yuan)"
+          ],
+          "preferred average price per person": "15~25 yuan",
+          "preferred store rating": "3.8~4.5 stars",
+          "typical dining time": "3:00-5:00 PM",
+          "preferred distance": "0~800m",
+          "recent orders": [
+            {
+              "store": "HeyTea",
+              "product": "Grape Pulp Tea (Sugar-Free)"
+            },
+            {
+              "store": "Bread Talk",
+              "product": "Whole Wheat Toast"
+            },
+            {
+              "store": "Fresh Cut Fruit Shop",
+              "product": "Fruit Platter"
+            }
+          ],
+          "search history": [
+            "Sugar-Free beverages",
+            "Low-sugar desserts",
+            "Healthy snacks"
+          ]
+        }
+      },
+      "other in-store services": {
+        "frequently consumed categories": {
+          "Sports/Ball games": "60%",
+          "Sports/Sports venues": "25%",
+          "Leisure and entertainment/Board games": "15%"
+        },
+        "cost per order by category": {
+          "Sports/Ball games": "30~80 yuan",
+          "Sports/Sports venues": "50~100 yuan",
+          "Leisure and entertainment/Board games": "20~40 yuan"
+        },
+        "preferred store rating": "3.7~4.5 stars",
+        "preferred service time": "4:00-7:00 PM",
+        "preferred distance": "0~2000m",
+        "recent orders": [
+          {
+            "store": "Suzhou University Gymnasium",
+            "product": "Badminton Court 2 Hours"
+          },
+          {
+            "store": "Youth Basketball Park",
+            "product": "Basketball Court Reservation"
+          },
+          {
+            "store": "Qiyi Pavilion",
+            "product": "Go Room 2 Hours"
+          }
+        ],
+        "search history": [
+          "Badminton court",
+          "Basketball court reservation",
+          "Go classroom",
+          "Student discounts"
+        ]
+      }
+    },
+    "OTA": {
+      "visited scenes": {
+        "Cultural relics": "35%",
+        "Exhibition halls (museums/art galleries)": "25%",
+        "Natural landscapes (mountains/lakes/forests)": "20%",
+        "Hot spring scenic areas": "15%",
+        "Special villages/Industrial tourism/Uncategorized projects": "5%"
+      },
+      "cost per night on hotel": "500~1000 yuan",
+      "visited hotels": {
+        "Atour": "30%",
+        "Ji Hotel": "25%",
+        "Vienna Hotel": "20%",
+        "Jinling Chain": "15%",
+        "Huazhu": "10%"
+      },
+      "browsed hotels": {
+        "Four-star hotels": "45%",
+        "Comfort hotels": "35%",
+        "Three-star hotels": "15%",
+        "Luxury hotels": "5%"
+      },
+      "historical travel plans": {
+        "Suzhou-Hangzhou": {
+          "Price range": "100-200 yuan",
+          "Transportation mode": "High-speed train/EMU"
+        },
+        "Suzhou-Beijing": {
+          "Price range": "600-1000 yuan",
+          "Transportation mode": "Airplane"
+        },
+        "Suzhou-Huangshan": {
+          "Price range": "200-400 yuan",
+          "Transportation mode": "High-speed train/EMU"
+        },
+        "Suzhou-Nanjing": {
+          "Price range": "80-150 yuan",
+          "Transportation mode": "High-speed train/EMU"
+        },
+        "Suzhou-Shanghai": {
+          "Price range": "40-80 yuan",
+          "Transportation mode": "High-speed train/EMU"
+        },
+        "Suzhou-Wuxi": {
+          "Price range": "200-400 yuan",
+          "Transportation mode": "Self-driving"
+        }
+      }
+    }
+  },
+  "stores": {
+    "S17550802145565647_S00001": {
+      "name": "Nourishing Bird's Nest Specialty Store",
+      "store_id": "S17550802145565647_S00001",
+      "score": 4.8,
+      "location": {
+        "address": "Nourishing Bird's Nest Specialty Store, 128 Guanqian Street, Gusu District, Suzhou, Jiangsu Province",
+        "latitude": 31.3135,
+        "longitude": 120.6302
+      },
+      "tags": [
+        "Nourishing Health Preservation",
+        "Bird's Nest",
+        "Premium Ingredients",
+        "Low Sugar"
+      ],
+      "store_type": "target",
+      "products": [
+        {
+          "name": "Freshly Stewed Rock Sugar Bird's Nest Cup",
+          "store_id": "S17550802145565647_S00001",
+          "store_name": "Nourishing Bird's Nest Specialty Store",
+          "price": 128,
+          "tags": [
+            "Nourishing Beauty",
+            "Ready-to-Eat",
+            "Mother's Day Special",
+            "female Nourishment",
+            "Low Sugar"
+          ],
+          "product_id": "S17550802145565647_P00001",
+          "attributes": [
+            "Standard Sweetness",
+            "Low Sugar",
+            "Sugar-Free"
+          ],
+          "product_type": "target"
+        },
+        {
+          "name": "Peach Gum and White Fungus Bird's Nest Cup",
+          "store_id": "S17550802145565647_S00001",
+          "store_name": "Nourishing Bird's Nest Specialty Store",
+          "price": 158,
+          "tags": [
+            "Nourishing Beauty",
+            "Ready-to-Eat",
+            "Collagen",
+            "female Nourishment",
+            "Low Sugar"
+          ],
+          "product_id": "S17550802145565647_P00002",
+          "attributes": [
+            "Standard Sweetness",
+            "Low Sugar",
+            "Sugar-Free"
+          ],
+          "product_type": "target"
+        },
+        {
+          "name": "Red Date and Goji Berry Bird's Nest Cup",
+          "store_id": "S17550802145565647_S00001",
+          "store_name": "Nourishing Bird's Nest Specialty Store",
+          "price": 168,
+          "tags": [
+            "Nourishing Beauty",
+            "Ready-to-Eat",
+            "Mother's Day Special",
+            "female Nourishment",
+            "Low Sugar"
+          ],
+          "product_id": "S17550802145565647_P00003",
+          "attributes": [
+            "Standard Sweetness",
+            "Low Sugar",
+            "Sugar-Free"
+          ],
+          "product_type": "distraction"
+        }
+      ]
+    },
+    "S17550802145565647_S00002": {
+      "name": "Imperial Kitchen Nutritious Breakfast",
+      "store_id": "S17550802145565647_S00002",
+      "score": 4.6,
+      "location": {
+        "address": "Imperial Kitchen Nutritious Breakfast, 156 Pingjiang Road, Gusu District, Suzhou, Jiangsu Province",
+        "latitude": 31.3125,
+        "longitude": 120.6338
+      },
+      "tags": [
+        "Nutritious Breakfast",
+        "Health-Preserving Porridge",
+        "Low Oil Low Salt"
+      ],
+      "store_type": "distraction",
+      "products": [
+        {
+          "name": "Red Date and Goji Berry Health Porridge",
+          "store_id": "S17550802145565647_S00002",
+          "store_name": "Imperial Kitchen Nutritious Breakfast",
+          "price": 18.8,
+          "tags": [
+            "Health-Preserving Porridge",
+            "Nourishment",
+            "Low Sugar",
+            "Nutritious Breakfast"
+          ],
+          "product_id": "S17550802145565647_P00006",
+          "attributes": [
+            "Room Temperature",
+            "With Goji Berries",
+            "Without Brown Sugar"
+          ],
+          "product_type": "distraction"
+        },
+        {
+          "name": "White Fungus and Lotus Seed Soup",
+          "store_id": "S17550802145565647_S00002",
+          "store_name": "Imperial Kitchen Nutritious Breakfast",
+          "price": 22,
+          "tags": [
+            "Moisturizing Lungs",
+            "Beauty Nourishment",
+            "Low Sugar",
+            "Nutritious Breakfast"
+          ],
+          "product_id": "S17550802145565647_P00007",
+          "attributes": [
+            "Hot",
+            "Less Sugar",
+            "Sugar-Free"
+          ],
+          "product_type": "distraction"
+        },
+        {
+          "name": "Whole Grain Health Porridge",
+          "store_id": "S17550802145565647_S00002",
+          "store_name": "Imperial Kitchen Nutritious Breakfast",
+          "price": 16.5,
+          "tags": [
+            "Whole Grains",
+            "Low Oil",
+            "Low Salt",
+            "Nutritious Breakfast"
+          ],
+          "product_id": "S17550802145565647_P00008",
+          "attributes": [
+            "Hot",
+            "With Millet",
+            "With Job's Tears"
+          ],
+          "product_type": "distraction"
+        },
+        {
+          "name": "Peach Gum and Snow Fungus Soup",
+          "store_id": "S17550802145565647_S00002",
+          "store_name": "Imperial Kitchen Nutritious Breakfast",
+          "price": 26,
+          "tags": [
+            "Nourishing Beauty",
+            "Health-Preserving Desserts",
+            "Low Sugar",
+            "Collagen"
+          ],
+          "product_id": "S17550802145565647_P00009",
+          "attributes": [
+            "Room Temperature",
+            "Less Sugar",
+            "Sugar-Free"
+          ],
+          "product_type": "distraction"
+        }
+      ]
+    },
+    "S17550802145565647_S00004": {
+      "name": "Fresh Fruit Master",
+      "store_id": "S17550802145565647_S00004",
+      "score": 4.5,
+      "location": {
+        "address": "Fresh Fruit Master, 102 Pingjiang Road, Gusu District, Suzhou, Jiangsu Province",
+        "latitude": 31.3122,
+        "longitude": 120.6335
+      },
+      "tags": [
+        "Fruit",
+        "Juice",
+        "Freshly Squeezed",
+        "Low Sugar"
+      ],
+      "store_type": "distraction",
+      "products": [
+        {
+          "name": "Organic Strawberry Fresh Fruit Box",
+          "store_id": "S17550802145565647_S00004",
+          "store_name": "Fresh Fruit Master",
+          "price": 38.9,
+          "tags": [
+            "Fresh",
+            "Organic",
+            "Strawberry",
+            "Healthy",
+            "Low Sugar"
+          ],
+          "product_id": "S17550802145565647_P00016",
+          "attributes": [
+            "Standard Size",
+            "Gift Box"
+          ],
+          "product_type": "distraction"
+        },
+        {
+          "name": "Blueberry Fresh Fruit Platter",
+          "store_id": "S17550802145565647_S00004",
+          "store_name": "Fresh Fruit Master",
+          "price": 42.8,
+          "tags": [
+            "Blueberry",
+            "Antioxidant",
+            "Beauty Nourishment",
+            "Fresh",
+            "Platter"
+          ],
+          "product_id": "S17550802145565647_P00017",
+          "attributes": [
+            "Small",
+            "Large",
+            "Family Size"
+          ],
+          "product_type": "distraction"
+        },
+        {
+          "name": "Freshly Squeezed Sugar-Free Pomegranate Juice",
+          "store_id": "S17550802145565647_S00004",
+          "store_name": "Fresh Fruit Master",
+          "price": 25.9,
+          "tags": [
+            "Freshly Squeezed",
+            "Sugar-Free",
+            "Pomegranate",
+            "Beauty Treatment",
+            "Healthy Beverages"
+          ],
+          "product_id": "S17550802145565647_P00018",
+          "attributes": [
+            "Small Cup",
+            "Medium Cup",
+            "Large Cup"
+          ],
+          "product_type": "distraction"
+        },
+        {
+          "name": "Fruit Health Gift Box",
+          "store_id": "S17550802145565647_S00004",
+          "store_name": "Fresh Fruit Master",
+          "price": 88,
+          "tags": [
+            "Gift Box",
+            "Health Preservation",
+            "Fruit Platter",
+            "High-End",
+            "Mother's Day Special"
+          ],
+          "product_id": "S17550802145565647_P00019",
+          "attributes": [
+            "Classic",
+            "Deluxe"
+          ],
+          "product_type": "distraction"
+        },
+        {
+          "name": "Fresh-Squeezed Avocado and Kiwi Juice",
+          "store_id": "S17550802145565647_S00004",
+          "store_name": "Fresh Fruit Master",
+          "price": 32.5,
+          "tags": [
+            "Avocado",
+            "Kiwi Fruit",
+            "Freshly Squeezed",
+            "Low Sugar",
+            "Nutritious"
+          ],
+          "product_id": "S17550802145565647_P00020",
+          "attributes": [
+            "Room Temperature",
+            "With Ice"
+          ],
+          "product_type": "distraction"
+        }
+      ]
+    },
+    "S17550802145565647_S00005": {
+      "name": "Time-Honored Pastry Shop",
+      "store_id": "S17550802145565647_S00005",
+      "score": 4.4,
+      "location": {
+        "address": "Time-Honored Pastry Shop, 76 Guanqian Street, Gusu District, Suzhou, Jiangsu Province",
+        "latitude": 31.3145,
+        "longitude": 120.6298
+      },
+      "tags": [
+        "Traditional Pastries",
+        "breakfast",
+        "Suzhou-Style Snacks"
+      ],
+      "store_type": "distraction",
+      "products": [
+        {
+          "name": "Suzhou-Style Red Bean Paste Cake",
+          "store_id": "S17550802145565647_S00005",
+          "store_name": "Time-Honored Pastry Shop",
+          "price": 18.8,
+          "tags": [
+            "Traditional Pastries",
+            "breakfast",
+            "Suzhou-Style Snacks",
+            "Red Bean Paste Filling"
+          ],
+          "product_id": "S17550802145565647_P00021",
+          "attributes": [
+            "Standard Size",
+            "Gift Box"
+          ],
+          "product_type": "distraction"
+        },
+        {
+          "name": "Osmanthus Glutinous Rice Lotus Root",
+          "store_id": "S17550802145565647_S00005",
+          "store_name": "Time-Honored Pastry Shop",
+          "price": 22.5,
+          "tags": [
+            "Traditional Pastries",
+            "breakfast",
+            "Osmanthus Flavor",
+            "Glutinous Rice Lotus Root"
+          ],
+          "product_id": "S17550802145565647_P00022",
+          "attributes": [
+            "Standard Size",
+            "Extra Size"
+          ],
+          "product_type": "distraction"
+        },
+        {
+          "name": "Date Paste Yam Cake",
+          "store_id": "S17550802145565647_S00005",
+          "store_name": "Time-Honored Pastry Shop",
+          "price": 16.9,
+          "tags": [
+            "Traditional Pastries",
+            "breakfast",
+            "Chinese Yam",
+            "Red Date"
+          ],
+          "product_id": "S17550802145565647_P00023",
+          "attributes": [
+            "Room Temperature",
+            "Heated"
+          ],
+          "product_type": "distraction"
+        },
+        {
+          "name": "Rose Cake Gift Box",
+          "store_id": "S17550802145565647_S00005",
+          "store_name": "Time-Honored Pastry Shop",
+          "price": 58,
+          "tags": [
+            "Traditional Pastries",
+            "Gift Box",
+            "Rose",
+            "Mother's Day Special"
+          ],
+          "product_id": "S17550802145565647_P00024",
+          "attributes": [
+            "6-Pack",
+            "12-Pack"
+          ],
+          "product_type": "distraction"
+        },
+        {
+          "name": "Red Bean and Job's Tears Cake",
+          "store_id": "S17550802145565647_S00005",
+          "store_name": "Time-Honored Pastry Shop",
+          "price": 19.9,
+          "tags": [
+            "Traditional Pastries",
+            "breakfast",
+            "Red Bean",
+            "Job's Tears",
+            "Low Sugar"
+          ],
+          "product_id": "S17550802145565647_P00025",
+          "attributes": [
+            "Standard Size",
+            "Slightly Sweet"
+          ],
+          "product_type": "distraction"
+        }
+      ]
+    }
+  },
+  "orders": {}
+}

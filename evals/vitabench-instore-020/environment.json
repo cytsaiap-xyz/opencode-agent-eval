@@ -1,0 +1,195 @@
+{
+  "task_id": "10826007",
+  "domain": "instore",
+  "time": "2024-09-14 09:15:00",
+  "user_id": "U239528",
+  "weather": [
+    {
+      "city": "Luoyang",
+      "category": "cloudy",
+      "datetime": "2024-09-14",
+      "temperature": [
+        18,
+        26
+      ],
+      "humidity": 55
+    }
+  ],
+  "location": [
+    {
+      "address": "Room 1203, Unit 1, Building 3, Zhengshang Bozuan, Intersection of Tanggong West Road and Kaixuan East Road, Xigong District, Luoyang",
+      "longitude": 112.434211,
+      "latitude": 34.662983
+    },
+    {
+      "address": "5th Floor, Building B, CETC Technology Park, Intersection of Kaiyuan Avenue and Houzaimen Street, Luolong District, Luoyang",
+      "longitude": 112.456789,
+      "latitude": 34.619876
+    },
+    {
+      "address": "Carnival Shopping Center, Northeast Corner of the Intersection of Hantun Road and Kaixuan Road, Xigong District, Luoyang",
+      "longitude": 112.438523,
+      "latitude": 34.665102
+    }
+  ],
+  "user_profile": {
+    "user id": "U239528",
+    "occupation": "Project Manager",
+    "gender": "female",
+    "age group": "30~35",
+    "residence": "Luoyang",
+    "home address": "Room 1203, Unit 1, Building 3, Zhengshang Bozuan, Intersection of Tanggong West Road and Kaixuan East Road, Xigong District, Luoyang",
+    "work address": "5th Floor, Building B, CETC Technology Park, Intersection of Kaiyuan Avenue and Houzaimen Street, Luolong District, Luoyang",
+    "dietary restrictions": "No caffeine, Low salt",
+    "family status": "Has pets",
+    "personality": "Strong logical thinking, likes to analyze and question, pursues accuracy"
+  },
+  "user_historical_behaviors": {
+    "user id": "U239528",
+    "occupation": "Project Manager",
+    "gender": "female",
+    "age group": "30~35",
+    "residence": "Luoyang",
+    "home address": "Room 1203, Unit 1, Building 3, Zhengshang Bozuan, Intersection of Tanggong West Road and Kaixuan East Road, Xigong District, Luoyang",
+    "work address": "5th Floor, Building B, CETC Technology Park, Intersection of Kaiyuan Avenue and Houzaimen Street, Luolong District, Luoyang",
+    "in-store dining": {
+      "fine-dining": {
+        "frequently purchased categories": [
+          "Regional Cuisine/Sichuan Cuisine (Average ¥120)",
+          "Foreign Cuisine/Japanese Cuisine (Average ¥150)",
+          "Regional Cuisine/Cantonese Cuisine (Average ¥135)"
+        ],
+        "preferred average price per person": "¥100~160",
+        "preferred store rating": "4.2~4.8 stars",
+        "typical dining time": "18:30-20:30",
+        "preferred distance": "500~3000m",
+        "recent orders": [
+          {
+            "store": "Shangri-La Hotel·Shang Palace",
+            "product": "Cantonese Dim Sum Set"
+          },
+          {
+            "store": "Quality Steak House",
+            "product": "Tomahawk Steak + Sirloin Steak"
+          },
+          {
+            "store": "Sushi Master",
+            "product": "Gourmet Sushi Platter"
+          }
+        ],
+        "search history": [
+          "Luoyang high-end restaurants",
+          "Caffeine-Free Option restaurants",
+          "Low-sodium Sichuan cuisine",
+          "Business banquet"
+        ]
+      },
+      "light meal": {
+        "frequently purchased categories": [
+          "Fast Food/Chinese Quick Meals (Average ¥35)",
+          "Regional Cuisine/Northeastern Cuisine (Average ¥45)",
+          "Fast Food/Western Fast Food (Average ¥30)"
+        ],
+        "preferred average price per person": "¥25~50",
+        "preferred store rating": "3.5~4.3 stars",
+        "typical dining time": "12:00-13:00",
+        "preferred distance": "0~800m",
+        "recent orders": [
+          {
+            "store": "Yonghe King",
+            "product": "Three Delicacies Tofu Pudding Set"
+          },
+          {
+            "store": "Sha County Snacks",
+            "product": "Steamed Dumplings + Seaweed Soup"
+          },
+          {
+            "store": "Northeastern Dama Dumplings",
+            "product": "Three Delicacies Dumplings"
+          }
+        ],
+        "search history": [
+          "Fast food near office",
+          "Low-sodium quick meals",
+          "Healthy work meals",
+          "Dumplings"
+        ]
+      },
+      "desserts/drinks/snacks": {
+        "frequently purchased categories": [
+          "Beverage Shops (Average ¥18)",
+          "Bakery & Desserts (Average ¥25)",
+          "Other Dining/Fresh Fruits (Average ¥15)"
+        ],
+        "preferred average price per person": "¥15~30",
+        "preferred store rating": "3.8~4.5 stars",
+        "typical dining time": "15:00-16:30",
+        "preferred distance": "0~500m",
+        "recent orders": [
+          {
+            "store": "HEYTEA",
+            "product": "Very Grape (Caffeine-Free Option)"
+          },
+          {
+            "store": "BreadTalk",
+            "product": "Whole Wheat Bread"
+          },
+          {
+            "store": "Xianfeng Fruits",
+            "product": "Selected Fruit Platter"
+          }
+        ],
+        "search history": [
+          "Caffeine-Free Option drinks",
+          "Low-sugar desserts",
+          "Healthy fruits",
+          "Whole wheat bread"
+        ]
+      }
+    },
+    "other in-store services": {
+      "frequently consumed categories": {
+        "Pet/Pet Hospital": "30%",
+        "Beauty/Yoga": "25%",
+        "Sports & Fitness/Fitness Center": "35%",
+        "Entertainment/Massage/Foot Massage": "10%"
+      },
+      "cost per order by category": {
+        "Pet/Pet Hospital": "¥80~300",
+        "Beauty/Yoga": "¥120~180",
+        "Sports & Fitness/Fitness Center": "¥80~150",
+        "Entertainment/Massage/Foot Massage": "¥120~200"
+      },
+      "preferred store rating": "4.0~4.8 stars",
+      "preferred service time": "19:00-21:00",
+      "preferred distance": "0~5000m",
+      "recent orders": [
+        {
+          "store": "Cute Pet Hospital",
+          "product": "Pet Health Examination Package"
+        },
+        {
+          "store": "Yoga Galaxy",
+          "product": "Weekend Stress-Relief Yoga Class"
+        },
+        {
+          "store": "Super Fitness Center",
+          "product": "Personal Stress-Relief Training Course"
+        },
+        {
+          "store": "Super Fitness Center",
+          "product": "Personal Stress-Relief Training Course"
+        }
+      ],
+      "search history": [
+        "Highly rated pet hospitals",
+        "Stress-relief yoga",
+        "Women's fitness",
+        "Work stress relief massage",
+        "Pet Grooming"
+      ]
+    }
+  },
+  "stores": {},
+  "orders": {}
+}

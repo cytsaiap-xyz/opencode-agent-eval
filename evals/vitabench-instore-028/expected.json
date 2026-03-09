@@ -1,0 +1,74 @@
+{
+  "required_orders": [
+    {
+      "order_id": "10826042T001 ",
+      "order_type": "instore",
+      "user_id": "U134103",
+      "store_id": "S17564425438695955_I00002",
+      "note": "",
+      "location": null,
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 98,
+      "create_time": "2024-09-10 19:16:00",
+      "update_time": "2024-09-10 19:16:00",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17564425438695955_P00009",
+          "name": "Basic tea ceremony training group buying voucher",
+          "price": 98,
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "reservation_id": "10826042T002",
+      "shop_id": "S17564425438695955_I00002",
+      "reservation_time": "2024-09-14 09:00:00",
+      "update_time": "2024-09-10 19:18:00",
+      "customer_id": "U134103",
+      "customer_count": 1,
+      "status": "paid"
+    },
+    {
+      "order_id": "10826042T003",
+      "order_type": "instore",
+      "user_id": "U134103",
+      "store_id": "S17564425438695955_I00003",
+      "note": "",
+      "location": null,
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 68,
+      "create_time": "2024-09-10 19:19:00",
+      "update_time": "2024-09-10 19:19:00",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17564425438695955_P00010",
+          "name": "Classic Sichuan single set meal (including Kung Pao Chicken)",
+          "price": 68,
+          "quantity": 1
+        }
+      ]
+    }
+  ],
+  "rubrics": [
+    "Should check if the previously visited tea house (Mingyue Tea House) has tea ceremony training packages, with the result being none; therefore, the ordered merchant should not be the previously visited tea house",
+    "The ordered tea house should have a decoration style similar to the previously visited tea house",
+    "The ordered tea house package should be in a partitioned private room",
+    "The ordered tea house package duration should be 2 hours",
+    "Need to check the user's usual spending range, which is between 60 and 120 yuan; the ordered tea house package price should be between 60 and 120 yuan (inclusive)",
+    "The ordered tea house package should include tea ceremony training",
+    "The reserved tea house should be Tianxiang Tea House",
+    "The tea house reservation time should be 2024-09-14 09:00",
+    "The tea house reservation should be for 1 person",
+    "The ordered Sichuan restaurant package should be a strong flavor package",
+    "The ordered Sichuan restaurant package should include Kung Pao Chicken",
+    "The ordered Sichuan restaurant package should be a single meal",
+    "Need to search for qualifying Sichuan restaurants and select the one closest to Tianxiang Tea House, with the result being Shuxiangyuan Sichuan Restaurant; the Sichuan restaurant order should be placed at Shuxiangyuan Sichuan Restaurant"
+  ]
+}

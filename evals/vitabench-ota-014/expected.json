@@ -1,0 +1,164 @@
+{
+  "required_orders": [
+    {
+      "order_id": "70807004T001",
+      "order_type": "flight",
+      "user_id": "U010029",
+      "store_id": "S17557505500237378_F00010",
+      "note": "",
+      "location": null,
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 580,
+      "create_time": "2022-05-13 09:33:00",
+      "update_time": "2022-05-13 09:33:00",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17557505500237378_P00069",
+          "price": 580,
+          "quantity": 1,
+          "date": "2022-06-25",
+          "seat_type": "Economy Class"
+        }
+      ]
+    },
+    {
+      "order_id": "70807004T002",
+      "order_type": "flight",
+      "user_id": "U010029",
+      "store_id": "S17557505500237378_F00009",
+      "note": "",
+      "location": null,
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 1700,
+      "create_time": "2022-05-13 09:35:00",
+      "update_time": "2022-05-13 09:35:00",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17557505500237378_P00064",
+          "price": 850,
+          "quantity": 2,
+          "date": "2022-06-25",
+          "seat_type": "Economy Class"
+        }
+      ]
+    },
+    {
+      "order_id": "70807004T004",
+      "order_type": "attraction",
+      "user_id": "U010029",
+      "store_id": "S17557505500237378_A00005",
+      "note": "",
+      "location": null,
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 684,
+      "create_time": "2022-05-13 09:37:00",
+      "update_time": "2022-05-13 09:37:00",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17557505500237378_P00029",
+          "price": 228,
+          "quantity": 3,
+          "date": "2022-06-26",
+          "ticket_type": "Adult Ticket"
+        }
+      ]
+    },
+    {
+      "order_id": "70807004T003",
+      "order_type": "hotel",
+      "user_id": "U010029",
+      "store_id": "S17557505500237378_H00002",
+      "note": "",
+      "location": null,
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 1572,
+      "create_time": "2022-05-13 09:39:00",
+      "update_time": "2022-05-13 09:39:00",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17557505500237378_P00009",
+          "price": 358,
+          "quantity": 1,
+          "date": "2022-06-25",
+          "room_type": "Standard Twin Room"
+        },
+        {
+          "product_id": "S17557505500237378_P00010",
+          "price": 358,
+          "quantity": 1,
+          "date": "2022-06-26",
+          "room_type": "Standard Twin Room"
+        },
+        {
+          "product_id": "S17557505500237378_P00011",
+          "price": 428,
+          "quantity": 1,
+          "date": "2022-06-25",
+          "room_type": "Business King Room"
+        },
+        {
+          "product_id": "S17557505500237378_P00012",
+          "price": 428,
+          "quantity": 1,
+          "date": "2022-06-26",
+          "room_type": "Business King Room"
+        }
+      ]
+    },
+    {
+      "order_id": "70807004T005",
+      "order_type": "flight",
+      "user_id": "U010029",
+      "store_id": "S17557505500237378_F00011",
+      "note": "",
+      "location": null,
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 2670,
+      "create_time": "2022-05-13 09:41:00",
+      "update_time": "2022-05-13 09:41:00",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17557505500237378_P00073",
+          "price": 890,
+          "quantity": 3,
+          "date": "2022-06-27",
+          "seat_type": "Economy Class"
+        }
+      ]
+    }
+  ],
+  "rubrics": [
+    "The flight ticket from Chongqing to Zhangjiajie should have a departure date of June 25, 2022",
+    "The quantity of flight tickets from Chongqing to Zhangjiajie should be 1",
+    "The flight ticket type from Chongqing to Zhangjiajie should be Economy Class",
+    "Need to filter flights with Zhangjiajie as the destination, and find the combination of flights departing from Shenzhen and Chongqing respectively with the shortest arrival time interval. The result is MU2287 and CZ3967, so the flight from Chongqing to Zhangjiajie in the order should be MU2287",
+    "The flight tickets from Shenzhen to Zhangjiajie should have a departure date of June 25, 2022",
+    "The quantity of flight tickets from Shenzhen to Zhangjiajie should be 2",
+    "The flight ticket type from Shenzhen to Zhangjiajie should be Economy Class",
+    "Need to filter flights with Zhangjiajie as the destination, and find the combination of flights departing from Shenzhen and Chongqing respectively with the shortest arrival time interval. The result is MU2287 and CZ3967, so the flight from Shenzhen to Zhangjiajie in the order should be CZ3967",
+    "The attraction to order should be Zhangjiajie National Forest Park",
+    "The usage date for the attraction tickets should be June 26, 2022",
+    "The quantity of attraction tickets should be 3",
+    "The distance from the booked hotel to the Zhangjiajie National Forest Park Visitor Center should be within 1km (including 1km)",
+    "The hotel order should include a King Room for 2 nights, with booking dates of June 25, 2022 and June 26, 2022",
+    "The hotel order should include a Twin Room for 2 nights, with booking dates of June 25, 2022 and June 26, 2022",
+    "The flight tickets from Zhangjiajie to Shenzhen should have a departure date of June 27, 2022",
+    "The quantity of flight tickets from Zhangjiajie to Shenzhen should be 3",
+    "The flight ticket type from Zhangjiajie to Shenzhen should be Economy Class"
+  ]
+}

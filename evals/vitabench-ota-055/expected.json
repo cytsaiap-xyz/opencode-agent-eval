@@ -1,0 +1,124 @@
+{
+  "required_orders": [
+    {
+      "order_id": "D0808002T001",
+      "order_type": "train",
+      "user_id": "U010049",
+      "store_id": "S17557512327935013_T00013",
+      "note": "",
+      "location": null,
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 256,
+      "create_time": "2026-06-10 10:15:36",
+      "update_time": "2026-06-10 10:15:36",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17557512327935013_P00093",
+          "price": 128,
+          "quantity": 2,
+          "date": "2026-06-13",
+          "seat_type": "Second class seat"
+        }
+      ]
+    },
+    {
+      "order_id": "D0808002T002",
+      "order_type": "hotel",
+      "user_id": "U010049",
+      "store_id": "S17557512327935013_H00002",
+      "note": "",
+      "location": null,
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 428,
+      "create_time": "2026-06-10 10:18:21",
+      "update_time": "2026-06-10 10:18:21",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17557512327935013_P00009",
+          "price": 428,
+          "quantity": 1,
+          "date": "2026-06-13",
+          "room_type": "Deluxe twin room"
+        }
+      ]
+    },
+    {
+      "order_id": "D0808002T003",
+      "order_type": "attraction",
+      "user_id": "U010049",
+      "store_id": "S17557512327935013_A00005",
+      "note": "",
+      "location": null,
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 160,
+      "create_time": "2026-06-10 10:21:21",
+      "update_time": "2026-06-10 10:21:21",
+      "status": "unpaid",
+      "products": [
+        {
+          "product_id": "S17557512327935013_P00031",
+          "price": 80,
+          "quantity": 2,
+          "date": "2026-06-13",
+          "ticket_type": "Adult ticket"
+        }
+      ]
+    },
+    {
+      "order_id": "D0808002T004",
+      "order_type": "attraction",
+      "user_id": "U010049",
+      "store_id": "S17557512327935013_A00006",
+      "note": "",
+      "location": null,
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 200,
+      "create_time": "2026-06-10 10:22:01",
+      "update_time": "2026-06-10 10:22:01",
+      "status": "unpaid",
+      "products": [
+        {
+          "product_id": "S17557512327935013_P00034",
+          "price": 120,
+          "quantity": 1,
+          "date": "2026-06-14",
+          "ticket_type": "Adult ticket"
+        },
+        {
+          "product_id": "S17557512327935013_P00036",
+          "price": 80,
+          "quantity": 2,
+          "date": "2026-06-14",
+          "ticket_type": "Child ticket (ages 6-15)"
+        }
+      ]
+    }
+  ],
+  "rubrics": [
+    "The train ticket booking date is June 13, 2026",
+    "The booked train ticket is for a train departing around 7 AM",
+    "The booked train ticket corresponds to the train with the shortest travel time",
+    "The number of train tickets booked is 2",
+    "The total price of the booked train tickets does not exceed 400",
+    "The booked train tickets are from Linyi to Qufu",
+    "The hotel booking should be with the brand that the user most frequently stays at (which is Home Inn according to the user profile)",
+    "The hotel booking date is June 13, 2026",
+    "The room type in the hotel booking is a twin room",
+    "The Confucius Temple tickets are purchased for June 13, 2026",
+    "Only adult tickets are available when checking Confucius Temple ticket information, so all tickets in the Confucius Temple order are adult tickets",
+    "The number of tickets in the Confucius Temple order is 2",
+    "Check the weather in Qufu on June 14, 2026 (which is sunny), purchase tickets for Nishan Sacred Land for June 14, 2026",
+    "Check that the age range for child tickets at Nishan Sacred Land is 6-15 years old, the child is 13 years old, so purchase a child ticket for them",
+    "The Nishan Sacred Land order includes adult tickets"
+  ]
+}

@@ -1,0 +1,80 @@
+{
+  "required_orders": [
+    {
+      "order_id": "D0808004T001",
+      "order_type": "hotel",
+      "user_id": "U010043",
+      "store_id": "S17557514993656554_H00001",
+      "note": "",
+      "location": null,
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 1900,
+      "create_time": "2024-12-23 13:46:27",
+      "update_time": "2024-12-23 13:46:27",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17557514993656554_P00002",
+          "price": 950,
+          "quantity": 1,
+          "date": "2025-01-02",
+          "room_type": "Hot Spring Heated Kang Family Room"
+        },
+        {
+          "product_id": "S17557514993656554_P00005",
+          "price": 950,
+          "quantity": 1,
+          "date": "2025-01-03",
+          "room_type": "Hot Spring Heated Kang Family Room"
+        }
+      ]
+    },
+    {
+      "order_id": "D0808004T002",
+      "order_type": "attraction",
+      "user_id": "U010043",
+      "store_id": "S17557514993656554_A00005",
+      "note": "",
+      "location": null,
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 1240,
+      "create_time": "2024-12-23 13:47:27",
+      "update_time": "2024-12-23 13:47:27",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17557514993656554_P00020",
+          "price": 480,
+          "quantity": 2,
+          "date": "2025-01-03",
+          "ticket_type": "Tianchi+Waterfall+Hot Springs+Rafting Base Adult Combo Ticket"
+        },
+        {
+          "product_id": "S17557514993656554_P00022",
+          "price": 280,
+          "quantity": 1,
+          "date": "2025-01-03",
+          "ticket_type": "Tianchi+Waterfall+Hot Springs+Rafting Base Child Combo Ticket"
+        }
+      ]
+    }
+  ],
+  "rubrics": [
+    "Hotel booking dates must be January 2, 2025 and January 3, 2025 respectively",
+    "The hotel must be located near Changbai Mountain (such as Songjianghe Town in Fusong County or other areas surrounding the Changbai Mountain scenic area)",
+    "The hotel must provide free parking service",
+    "The hotel must have hot spring facilities",
+    "The room must be a heated kang bed type",
+    "The hotel booking must be for family rooms",
+    "The hotel must provide breakfast service",
+    "The attraction tickets must be multi-site combo tickets",
+    "The tickets must not include shuttle bus service",
+    "Child ticket discounts available for a 9-year-old child must be inquired about",
+    "Different combo ticket purchase options must be compared for price differences, with the result showing that purchasing two adult combo tickets and one child combo ticket separately is cheaper than a family combo ticket, therefore the ticket order must include 2 adult combo tickets and 1 child combo ticket",
+    "The attraction tickets must be for January 3, 2025"
+  ]
+}

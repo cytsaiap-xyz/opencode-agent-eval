@@ -1,0 +1,198 @@
+{
+  "task_id": "10826069",
+  "domain": "instore",
+  "time": "2024-12-12 19:45:00",
+  "user_id": "U524870",
+  "weather": [
+    {
+      "city": "Qingdao",
+      "category": "cloudy",
+      "datetime": "2024-12-12",
+      "temperature": [
+        -3,
+        4
+      ],
+      "humidity": 55
+    },
+    {
+      "city": "Qingdao",
+      "category": "sunny",
+      "datetime": "2024-12-14",
+      "temperature": [
+        -2,
+        5
+      ],
+      "humidity": 45
+    },
+    {
+      "city": "Qingdao",
+      "category": "sunny",
+      "datetime": "2024-12-15",
+      "temperature": [
+        -1,
+        6
+      ],
+      "humidity": 40
+    }
+  ],
+  "location": [
+    {
+      "address": "Room 501, Unit 2, Building 3, Jinshui Garden, No. 128 Zhenhua Road, Lichang District, Qingdao",
+      "longitude": 120.4321,
+      "latitude": 36.1652
+    }
+  ],
+  "user_profile": {
+    "user id": "U524870",
+    "occupation": "Courier",
+    "gender": "female",
+    "age group": "25~30",
+    "residence": "Qingdao",
+    "home address": "Room 501, Unit 2, Building 3, Jinshui Garden, No. 128 Zhenhua Road, Lichang District, Qingdao",
+    "work address": "SF Express Lichang Sorting Center, No. 88 Jiushui East Road, Lichang District, Qingdao",
+    "dietary restrictions": "Avoids greasy and spicy food, avoids cold and raw food",
+    "family status": "Has children",
+    "personality": "Strong logical thinking, likes to analyze and question, pursues accuracy"
+  },
+  "user_historical_behaviors": {
+    "user id": "U524870",
+    "occupation": "delivery courier",
+    "gender": "female",
+    "age group": "25~30",
+    "residence": "Qingdao",
+    "home address": "Room 501, Unit 2, Building 3, Jinshui Garden, No. 128 Zhenhua Road, Lichang District, Qingdao",
+    "work address": "SF Express Lichang Sorting Center, No. 88 Jiushui East Road, Lichang District, Qingdao",
+    "in-store dining": {
+      "fine-dining": {
+        "frequently purchased categories": [
+          "Regional Cuisine/Seafood (Average ¥120)",
+          "Regional Cuisine/Northeastern Cuisine (Average ¥90)",
+          "Regional Cuisine/Cantonese Cuisine (Average ¥100)"
+        ],
+        "preferred average price per person": "¥80~130",
+        "preferred store rating": "4.0~4.7 stars",
+        "typical dining time": "18:30-20:30",
+        "preferred distance": "500~3000m",
+        "recent orders": [
+          {
+            "store": "Fresh Cooking Seafood Home Style Restaurant",
+            "product": "Steamed Sea Bass + Dry-fried Potato Slices + Stir-fried Yam with Black Fungus"
+          },
+          {
+            "store": "Northeastern Family",
+            "product": "Sweet and Sour Pork + Braised Chicken with Mushrooms + Sauerkraut Stewed Ribs"
+          },
+          {
+            "store": "Cantonese Fragrance",
+            "product": "White Cut Chicken + Steamed Fish + Baby Cabbage in Superior Broth"
+          }
+        ],
+        "search history": [
+          "Home-style Dishes",
+          "Non-Spicy Fish",
+          "Mild Cantonese Cuisine",
+          "Family-Friendly Restaurants"
+        ]
+      },
+      "light meal": {
+        "frequently purchased categories": [
+          "Fast Food/Chinese Quick Meals (Average ¥35)",
+          "Fast Food/Western Quick Meals (Average ¥28)"
+        ],
+        "preferred average price per person": "¥25~40",
+        "preferred store rating": "3.5~4.2 stars",
+        "typical dining time": "11:30-13:00",
+        "preferred distance": "0~1000m",
+        "recent orders": [
+          {
+            "store": "Mother Rice's Nutritional Meals",
+            "product": "Steamed Chicken Breast with Seasonal Vegetables + Millet Porridge"
+          },
+          {
+            "store": "Salad Diary",
+            "product": "Light Chicken Salad + Corn Soup"
+          },
+          {
+            "store": "Good Porridge Way",
+            "product": "Century Egg & Lean Pork Porridge + Steamed Vegetable Bun"
+          }
+        ],
+        "search history": [
+          "Nutritional Fast Food",
+          "Non-Spicy Quick Meals",
+          "Healthy Light Food",
+          "Warm Food"
+        ]
+      },
+      "desserts/drinks/snacks": {
+        "frequently purchased categories": [
+          "Beverage Shops (Average ¥18)",
+          "Bakery & Desserts (Average ¥22)"
+        ],
+        "preferred average price per person": "¥15~25",
+        "preferred store rating": "3.8~4.5 stars",
+        "typical dining time": "15:00-16:30",
+        "preferred distance": "0~800m",
+        "recent orders": [
+          {
+            "store": "Deer Tea",
+            "product": "Red Bean Milk Tea (No Ice)"
+          },
+          {
+            "store": "Bread Talk",
+            "product": "Red Date Walnut Bread + Hot Milk"
+          },
+          {
+            "store": "Sweet Lemon Tea",
+            "product": "Hot Lemon Honey Water"
+          }
+        ],
+        "search history": [
+          "No Ice Milk Tea",
+          "Hot Beverages",
+          "Stomach-Friendly Desserts",
+          "Children's Beverages"
+        ]
+      }
+    },
+    "other in-store services": {
+      "frequently consumed categories": {
+        "Beauty/Hair Salon": "30%",
+        "Beauty/Nail Salon": "20%",
+        "Leisure & Entertainment/Massage/Foot Therapy": "25%",
+        "Parent-Child/Family Entertainment": "25%"
+      },
+      "cost per order by category": {
+        "Beauty/Hair Salon": "¥80~150",
+        "Beauty/Nail Salon": "¥60~120",
+        "Leisure & Entertainment/Massage/Foot Therapy": "¥120~180",
+        "Parent-Child/Family Entertainment": "¥100~200"
+      },
+      "preferred store rating": "3.9~4.6 stars",
+      "preferred service time": "19~21:00",
+      "preferred distance": "0~3000m",
+      "recent orders": [
+        {
+          "store": "Jiali Hair Salon",
+          "product": "Wash, Cut & Blow Dry Package"
+        },
+        {
+          "store": "Zufu Tang Wellness Center",
+          "product": "Full Body Massage 60 Minutes"
+        },
+        {
+          "store": "Children's Dream Park",
+          "product": "Parent-Child Package (1 Adult 1 Child)"
+        }
+      ],
+      "search history": [
+        "Weekend Family Activities",
+        "Women's Massage",
+        "Quick Haircut",
+        "Children's Entertainment"
+      ]
+    }
+  },
+  "stores": {},
+  "orders": {}
+}

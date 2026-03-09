@@ -1,0 +1,174 @@
+{
+  "required_orders": [
+    {
+      "order_id": "D0807011T001",
+      "order_type": "attraction",
+      "user_id": "U010079",
+      "store_id": "S17557514229117401_A00006",
+      "note": "",
+      "location": null,
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 1400,
+      "create_time": "2023-04-17 15:33:12",
+      "update_time": "2023-04-17 15:33:12",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17557514229117401_P00045",
+          "price": 280,
+          "quantity": 5,
+          "date": "2023-04-22",
+          "ticket_type": "Adult ticket + camel riding experience"
+        }
+      ]
+    },
+    {
+      "order_id": "D0807011T002",
+      "order_type": "hotel",
+      "user_id": "U010079",
+      "store_id": "S17557514229117401_H00001",
+      "note": "",
+      "location": null,
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 4240,
+      "create_time": "2023-04-17 15:35:12",
+      "update_time": "2023-04-17 15:35:12",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17557514229117401_P00002",
+          "price": 720,
+          "quantity": 2,
+          "date": "2023-04-22",
+          "room_type": "Business twin room"
+        },
+        {
+          "product_id": "S17557514229117401_P00005",
+          "price": 720,
+          "quantity": 2,
+          "date": "2023-04-21",
+          "room_type": "Business twin room"
+        },
+        {
+          "product_id": "S17557514229117401_P00007",
+          "price": 680,
+          "quantity": 1,
+          "date": "2023-04-21",
+          "room_type": "Deluxe king room"
+        },
+        {
+          "product_id": "S17557514229117401_P00001",
+          "price": 680,
+          "quantity": 1,
+          "date": "2023-04-22",
+          "room_type": "Deluxe king room"
+        }
+      ]
+    },
+    {
+      "order_id": "D0807011T003",
+      "order_type": "train",
+      "user_id": "U010079",
+      "store_id": "S17557514229117401_T00015",
+      "note": "",
+      "location": null,
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 1240,
+      "create_time": "2023-04-17 15:39:43",
+      "update_time": "2023-04-17 15:39:43",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17557514229117401_P00105",
+          "price": 248,
+          "quantity": 5,
+          "date": "2023-04-21",
+          "seat_type": "Second class seat"
+        }
+      ]
+    },
+    {
+      "order_id": "D0807011T004",
+      "order_type": "train",
+      "user_id": "U010079",
+      "store_id": "S17557514229117401_T00014",
+      "note": "",
+      "location": null,
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 2765,
+      "create_time": "2023-04-17 15:42:43",
+      "update_time": "2023-04-17 15:42:43",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17557514229117401_P00099",
+          "price": 553,
+          "quantity": 5,
+          "date": "2023-04-21",
+          "seat_type": "Second class seat"
+        }
+      ]
+    },
+    {
+      "order_id": "D0807011T005",
+      "order_type": "attraction",
+      "user_id": "U010079",
+      "store_id": "S17557514229117401_A00008",
+      "note": "",
+      "location": null,
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 150,
+      "create_time": "2023-04-17 15:46:12",
+      "update_time": "2023-04-17 15:46:12",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17557514229117401_P00071",
+          "price": 30,
+          "quantity": 5,
+          "date": "2023-04-23",
+          "ticket_type": "Admission ticket + guided tour service"
+        }
+      ]
+    }
+  ],
+  "rubrics": [
+    "The purchased tickets are dated April 22, 2023",
+    "The number of tickets purchased is 5",
+    "The purchased tickets are valid for adults",
+    "The purchased tickets include camel riding activity",
+    "The tickets are for Ulan Butong Grassland",
+    "The hotel reservation dates are April 21, 2023 and April 22, 2023",
+    "The hotel booking includes twin rooms",
+    "The hotel booking includes king rooms",
+    "The hotel booking includes 2 twin rooms per night",
+    "The hotel booking includes 1 king room per night",
+    "The price per night for each hotel room should be consistent with the user's usual spending level (query shows it's 500-1000)",
+    "The booked hotel should be clean and tidy",
+    "The purchased train tickets are from Beijing to Chifeng",
+    "For the Beijing to Chifeng train tickets, the arrival time should not be in the early morning hours",
+    "For the Beijing to Chifeng train tickets, all seats are of the same class",
+    "For the Beijing to Chifeng train tickets, 5 tickets were purchased",
+    "The Beijing to Chifeng train tickets are booked for April 21, 2023",
+    "Train tickets were also purchased from Nanjing to Beijing",
+    "For the Nanjing to Beijing train tickets, the departure time should not be in the early morning hours",
+    "For the Nanjing to Beijing train tickets, all seats are of the same class",
+    "For the Nanjing to Beijing train tickets, the arrival time should be at least half an hour earlier than the departure time of the Beijing to Chifeng train",
+    "For the Nanjing to Beijing train tickets, 5 tickets were purchased",
+    "The Nanjing to Beijing train tickets are booked for April 21, 2023",
+    "The weather forecast for April 23, 2023 in Chifeng shows rain, so the attraction booked is a museum",
+    "The attraction tickets purchased include guided tour service",
+    "The number of attraction tickets purchased is 5",
+    "The attraction tickets are dated April 23, 2023"
+  ]
+}

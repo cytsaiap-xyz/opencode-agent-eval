@@ -1,0 +1,646 @@
+{
+  "task_id": "A0808006",
+  "domain": "cross_domain",
+  "time": "2025-10-23 21:31:04",
+  "user_id": "U110787",
+  "weather": [
+    {
+      "city": "Changchun",
+      "category": "cloudy",
+      "datetime": "2025-10-23",
+      "temperature": [
+        -2,
+        6
+      ],
+      "humidity": 65
+    },
+    {
+      "city": "Changchun",
+      "category": "sunny",
+      "datetime": "2025-10-25",
+      "temperature": [
+        -3,
+        5
+      ],
+      "humidity": 60
+    },
+    {
+      "city": "Shenzhen",
+      "category": "light rain",
+      "datetime": "2025-10-25",
+      "temperature": [
+        18,
+        24
+      ],
+      "humidity": 78
+    }
+  ],
+  "location": [
+    {
+      "address": "Room 502, Building 3, Jilin University First Hospital Residential Area, 2699 Qianjin Street, Chaoyang District, Changchun City, Jilin Province",
+      "longitude": 125.324825,
+      "latitude": 43.845231
+    }
+  ],
+  "user_profile": {
+    "user id": "U110787",
+    "occupation": "doctor",
+    "gender": "male",
+    "age group": "30~35",
+    "residence": "Changchun",
+    "home address": "Room 502, Building 3, Jilin University First Hospital Residential Area, 2699 Qianjin Street, Chaoyang District, Changchun City, Jilin Province",
+    "work address": "Jilin University First Hospital, 1035 Xi'an Avenue, Chaoyang District, Changchun City, Jilin Province",
+    "dietary restrictions": "No high purine foods (such as organ meats/seafood soup)",
+    "family status": "In a relationship",
+    "personality": "Mild-tempered and highly cooperative, good at listening and understanding"
+  },
+  "user_historical_behaviors": {
+    "user id": "U110787",
+    "occupation": "doctor",
+    "gender": "male",
+    "age group": "30~35",
+    "residence": "Changchun",
+    "home address": "Room 502, Building 3, Jilin University First Hospital Residential Area, 2699 Qianjin Street, Chaoyang District, Changchun City, Jilin Province",
+    "work address": "Jilin University First Hospital, 1035 Xi'an Avenue, Chaoyang District, Changchun City, Jilin Province",
+    "delivery": {
+      "food delivery": {
+        "breakfast": {
+          "frequently purchased categories": [
+            "Quick meals/Steamed buns/Pan-fried buns (average 22 yuan)",
+            "Quick meals/Soy milk and fried dough sticks (average 15 yuan)",
+            "Quick meals/Dumplings/Wonton (average 25 yuan)"
+          ],
+          "cost per order": "15~35 yuan",
+          "preferred store rating": "4.3~4.8 points",
+          "preferred delivery time": "15~25 minutes",
+          "preferred distance": "0~1500m",
+          "recent orders": [
+            {
+              "store": "Fumanlou Bun Shop",
+              "product": "Meat bun + soy milk set"
+            },
+            {
+              "store": "Old Northern Dumpling Restaurant",
+              "product": "Three delicacies dumplings 20 pieces"
+            },
+            {
+              "store": "Jixiang Breakfast Shop",
+              "product": "Fried dough sticks with soy milk + egg"
+            }
+          ],
+          "search history": [
+            "Steamed buns",
+            "Soy milk",
+            "Pan-fried buns",
+            "Breakfast delivery",
+            "Dumplings"
+          ]
+        },
+        "weekday lunch/dinner": {
+          "frequently purchased categories": [
+            "Quick meals/Rice with toppings (average 32 yuan)",
+            "Quick meals/Stewed chicken with rice (average 38 yuan)",
+            "Chinese cuisine/Northeastern cuisine (average 55 yuan)"
+          ],
+          "cost per order": "30~60 yuan",
+          "preferred store rating": "4.5~4.9 points",
+          "preferred delivery time": "20~35 minutes",
+          "preferred distance": "0~2500m",
+          "recent orders": [
+            {
+              "store": "Xiangmanlou Stewed Chicken",
+              "product": "Mildly spicy stewed chicken with rice + cola"
+            },
+            {
+              "store": "Old Northeast Home-style Restaurant",
+              "product": "Sweet and sour pork + rice"
+            },
+            {
+              "store": "Fast Food Mister",
+              "product": "Braised pork ribs with rice + seaweed soup"
+            }
+          ],
+          "search history": [
+            "Stewed chicken",
+            "Fast food",
+            "Rice with toppings",
+            "Northeastern cuisine"
+          ]
+        },
+        "weekend lunch/dinner": {
+          "frequently purchased categories": [
+            "Chinese cuisine/Sichuan cuisine (average 85 yuan)",
+            "Chinese cuisine/Northeastern cuisine (average 95 yuan)",
+            "International cuisine/Pizza (average 120 yuan)"
+          ],
+          "cost per order": "80~180 yuan",
+          "preferred store rating": "4.6~5.0 points",
+          "preferred delivery time": "30~45 minutes",
+          "preferred distance": "0~4000m",
+          "recent orders": [
+            {
+              "store": "Sichuan Flavor Pavilion",
+              "product": "Boiled fish + twice-cooked pork + rice"
+            },
+            {
+              "store": "Pizza Hut",
+              "product": "Super Supreme Pizza + salad"
+            },
+            {
+              "store": "Mom's Northeast Restaurant",
+              "product": "Sweet and sour pork + stir-fried pork slices + pork with vermicelli stew + rice"
+            }
+          ],
+          "search history": [
+            "Family set meal",
+            "Sichuan cuisine",
+            "Pizza",
+            "Northeastern cuisine",
+            "No seafood"
+          ]
+        },
+        "desserts/drinks/snacks": {
+          "frequently purchased categories": [
+            "Beverages and desserts/Coffee (average 28 yuan)",
+            "Beverages and desserts/Milk tea (average 22 yuan)",
+            "Beverages and desserts/Western pastries (average 35 yuan)"
+          ],
+          "cost per order": "20~40 yuan",
+          "preferred store rating": "4.4~4.9 points",
+          "preferred delivery time": "15~30 minutes",
+          "preferred distance": "0~2000m",
+          "recent orders": [
+            {
+              "store": "Starbucks",
+              "product": "2 Americano coffees"
+            },
+            {
+              "store": "CHABAIDO",
+              "product": "2 Cheese mango teas (low sugar)"
+            },
+            {
+              "store": "Bread Talk",
+              "product": "Tiramisu"
+            }
+          ],
+          "search history": [
+            "Coffee",
+            "Afternoon tea",
+            "Milk tea",
+            "Cake",
+            "Low sugar"
+          ]
+        },
+        "night snack": {
+          "frequently purchased categories": [
+            "Barbecue and fried food/Fried chicken/Fried food (average 45 yuan)",
+            "Quick meals/Dumplings/Wonton (average 35 yuan)",
+            "Hot pot/Spicy soup/Oden (average 40 yuan)"
+          ],
+          "cost per order": "30~55 yuan",
+          "preferred store rating": "4.2~4.8 points",
+          "preferred delivery time": "25~40 minutes",
+          "preferred distance": "0~3000m",
+          "recent orders": [
+            {
+              "store": "Zhenxin Chicken Cutlet",
+              "product": "Spicy chicken cutlet + french fries"
+            },
+            {
+              "store": "Dumpling Restaurant",
+              "product": "Three delicacies dumplings + hot and sour soup"
+            },
+            {
+              "store": "Yang Guofu Spicy Soup",
+              "product": "Signature spicy soup"
+            }
+          ],
+          "search history": [
+            "Fried chicken",
+            "Dumplings",
+            "Spicy soup",
+            "Night snack"
+          ]
+        }
+      },
+      "product delivery": {
+        "frequently purchased categories": [
+          "Vegetables/Bean products(28%)",
+          "Raw meat/Poultry/Eggs(22%)",
+          "Grains, oils, seasonings and dried goods(15%)",
+          "Household items(12%)",
+          "Dairy products/Ice products(10%)",
+          "Others(13%)"
+        ],
+        "frequently visited stores": [
+          "Jimaishen Supermarket(Changchun Nanguan Branch)(45%)",
+          "Yonghui Supermarket(Changchun Kaixuan Branch)(30%)",
+          "Convenience Bee(Fortune Center Branch)(15%)",
+          "Other stores(10%)"
+        ],
+        "cost per order by category": {
+          "Vegetables/Bean products": "5~20 yuan",
+          "Raw meat/Poultry/Eggs": "20~60 yuan",
+          "Grains, oils, seasonings and dried goods": "10~40 yuan",
+          "Household items": "15~50 yuan",
+          "Dairy products/Ice products": "8~30 yuan"
+        },
+        "preferred delivery time": "30~60 minutes",
+        "typical order time": "17~19 o'clock(35%), 8~9 o'clock(25%), 12~13 o'clock(20%)",
+        "recent orders": [
+          {
+            "store": "Jimaishen Supermarket(Changchun Nanguan Branch)",
+            "product": "Carrots 500g, Chinese cabbage 1, Eggs 1 box"
+          },
+          {
+            "store": "Yonghui Supermarket(Changchun Kaixuan Branch)",
+            "product": "Pork belly 500g, Tofu 2 boxes"
+          },
+          {
+            "store": "Convenience Bee(Fortune Center Branch)",
+            "product": "Yili Pure Milk 250ml*6, Toilet paper 1 pack"
+          }
+        ],
+        "search history": [
+          "Pork belly",
+          "Tofu",
+          "Eggs",
+          "Laundry detergent",
+          "Rice",
+          "Milk"
+        ]
+      }
+    },
+    "in-store consumption": {
+      "in-store dining": {
+        "fine-dining": {
+          "frequently purchased categories": [
+            "Regional cuisine/Northeastern cuisine (average 120 yuan)",
+            "International cuisine/Japanese cuisine (average 150 yuan)",
+            "Regional cuisine/Fish specialties (average 130 yuan)"
+          ],
+          "preferred average price per person": "100~150 yuan",
+          "preferred store rating": "4.2~4.8 stars",
+          "typical dining time": "19:00-21:00",
+          "preferred distance": "500~3000m",
+          "recent orders": [
+            {
+              "store": "Old Yang's Northeastern Restaurant",
+              "product": "Sweet and sour pork set"
+            },
+            {
+              "store": "Helu Revolving Sushi",
+              "product": "Selected set for two"
+            },
+            {
+              "store": "Fresh Cook Live Fish Restaurant",
+              "product": "Steamed sea bass"
+            }
+          ],
+          "search history": [
+            "Low-purine dishes",
+            "Health-oriented Northeastern cuisine",
+            "Dating restaurants"
+          ]
+        },
+        "light meal": {
+          "frequently purchased categories": [
+            "Snacks and fast food/Chinese light meals (average 35 yuan)",
+            "Regional cuisine/Northeastern cuisine (average 45 yuan)",
+            "Regional cuisine/Specialty dishes (average 40 yuan)"
+          ],
+          "preferred average price per person": "30~50 yuan",
+          "preferred store rating": "3.5~4.3 stars",
+          "typical dining time": "11:30-13:00",
+          "preferred distance": "0~500m",
+          "recent orders": [
+            {
+              "store": "Jilin University First Hospital Canteen",
+              "product": "Low-sodium chicken rice"
+            },
+            {
+              "store": "Shaxian Snacks (Chaoyang Branch)",
+              "product": "Three delicacies steamed dumplings"
+            },
+            {
+              "store": "Northeastern Dumpling House",
+              "product": "Vegetable three delicacies dumplings"
+            }
+          ],
+          "search history": [
+            "Fast food near hospital",
+            "Low-sodium lunch",
+            "Healthy light meal",
+            "Quick service"
+          ]
+        },
+        "desserts/drinks/snacks": {
+          "frequently purchased categories": [
+            "Beverage shops (average 18 yuan)",
+            "Bread and desserts (average 25 yuan)",
+            "Other dining/Fresh fruits (average 15 yuan)"
+          ],
+          "preferred average price per person": "15~30 yuan",
+          "preferred store rating": "3.8~4.5 stars",
+          "typical dining time": "15:00-16:30",
+          "preferred distance": "0~300m",
+          "recent orders": [
+            {
+              "store": "Fresh Fruit Workshop",
+              "product": "Fruit platter"
+            },
+            {
+              "store": "85°C",
+              "product": "Whole wheat bread"
+            },
+            {
+              "store": "ALITTLE TEA",
+              "product": "Sugar-free jasmine green tea"
+            }
+          ],
+          "search history": [
+            "Low-sugar desserts",
+            "Healthy fruits",
+            "Beverages near hospital"
+          ]
+        }
+      },
+      "other in-store services": {
+        "frequently consumed categories": {
+          "Sports and fitness/Fitness centers": "40%",
+          "Sports and fitness/Ball sports": "30%",
+          "Leisure and entertainment/Massage/Foot massage": "20%",
+          "Leisure and entertainment/Tea houses": "10%"
+        },
+        "cost per order by category": {
+          "Sports and fitness/Fitness centers": "80~150 yuan",
+          "Sports and fitness/Ball sports": "40~80 yuan",
+          "Leisure and entertainment/Massage/Foot massage": "120~200 yuan",
+          "Leisure and entertainment/Tea houses": "50~100 yuan"
+        },
+        "preferred store rating": "4.0~4.8 stars",
+        "preferred service time": "20:00-22:00",
+        "preferred distance": "0~2000m",
+        "recent orders": [
+          {
+            "store": "Changchun Chaoyang District Fitness Center",
+            "product": "Monthly membership"
+          },
+          {
+            "store": "Kangtang Massage",
+            "product": "Full body relaxation massage 90 minutes"
+          },
+          {
+            "store": "Starlight Badminton Court",
+            "product": "Two-person court 2 hours"
+          }
+        ],
+        "search history": [
+          "Stress-relief massage",
+          "Couple fitness",
+          "Night-time sports venues",
+          "Fitness discounts for medical staff"
+        ]
+      }
+    },
+    "OTA": {
+      "visited scenes": {
+        "Natural landscapes (mountains/lakes/forests)": "35%",
+        "Hot spring scenic areas": "30%",
+        "Cultural and historical sites": "15%",
+        "Exhibition halls (museums/art galleries)": "12%",
+        "Parks": "8%"
+      },
+      "cost per night on hotel": "300~500 yuan",
+      "visited hotels": {
+        "Home Inn": "32%",
+        "Hanting": "25%",
+        "Atour": "18%",
+        "Ji Hotel": "15%",
+        "Vienna": "10%"
+      },
+      "browsed hotels": {
+        "Three-star hotels": "45%",
+        "Comfort hotels": "35%",
+        "Budget hotels": "20%"
+      },
+      "historical travel plans": {
+        "Changchun-Harbin": {
+          "price range": "150-250 yuan",
+          "transportation mode": "High-speed/EMU train"
+        },
+        "Harbin-Changchun": {
+          "price range": "150-250 yuan",
+          "transportation mode": "High-speed/EMU train"
+        },
+        "Changchun-Beijing": {
+          "price range": "800-1200 yuan",
+          "transportation mode": "Airplane"
+        },
+        "Beijing-Changchun": {
+          "price range": "800-1200 yuan",
+          "transportation mode": "Airplane"
+        },
+        "Changchun-Shenyang": {
+          "price range": "120-200 yuan",
+          "transportation mode": "High-speed/EMU train"
+        },
+        "Shenyang-Changchun": {
+          "price range": "120-200 yuan",
+          "transportation mode": "High-speed/EMU train"
+        },
+        "Changchun-Changbai Mountain": {
+          "price range": "300-400 yuan",
+          "transportation mode": "Long-distance bus"
+        }
+      }
+    }
+  },
+  "stores": {},
+  "orders": {
+    "S17550810181429423_O00001": {
+      "order_id": "S17550810181429423_O00001",
+      "order_type": "flight",
+      "user_id": "U110787",
+      "store_id": "S17550810181429423_F00002",
+      "note": "",
+      "location": {
+        "address": "Bao'an International Airport, Bao'an District, Shenzhen City, Guangdong Province",
+        "longitude": 113.810966,
+        "latitude": 22.639258
+      },
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 950,
+      "create_time": "2025-10-05 09:23:47",
+      "update_time": "2025-10-05 09:23:47",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17550810181429423_P00010",
+          "price": 950,
+          "quantity": 1,
+          "seat_type": "Economy class"
+        }
+      ]
+    },
+    "S17550810181429423_O00002": {
+      "order_id": "S17550810181429423_O00002",
+      "order_type": "flight",
+      "user_id": "U110787",
+      "store_id": "S17550810181429423_F00004",
+      "note": "Business trip from Changchun to Harbin",
+      "location": {
+        "address": "Longjia International Airport, Erdao District, Changchun City, Jilin Province",
+        "longitude": 125.684695,
+        "latitude": 43.996156
+      },
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 1280,
+      "create_time": "2025-09-23 14:15:32",
+      "update_time": "2025-09-23 14:15:32",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17550810181429423_P00019",
+          "price": 1280,
+          "quantity": 1,
+          "seat_type": "Economy class"
+        }
+      ]
+    },
+    "S17550810181429423_O00003": {
+      "order_id": "S17550810181429423_O00003",
+      "order_type": "flight",
+      "user_id": "U110787",
+      "store_id": "S17550810181429423_F00001",
+      "note": "Academic conference from Changchun to Beijing",
+      "location": {
+        "address": "Longjia International Airport, Erdao District, Changchun City, Jilin Province",
+        "longitude": 125.684695,
+        "latitude": 43.996156
+      },
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 1280,
+      "create_time": "2025-08-05 10:45:23",
+      "update_time": "2025-08-05 10:45:23",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17550810181429423_P00001",
+          "price": 1280,
+          "quantity": 1,
+          "seat_type": "Economy class"
+        }
+      ]
+    },
+    "S17550810181429423_O00004": {
+      "order_id": "S17550810181429423_O00004",
+      "order_type": "hotel",
+      "user_id": "U110787",
+      "store_id": "H00001",
+      "note": "Accommodation for Changbai Mountain tour",
+      "location": {
+        "address": "Home Inn Changbai Mountain, Chibei District, Changbai Mountain, Baishan City, Jilin Province",
+        "longitude": 127.650234,
+        "latitude": 42.103456
+      },
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 658,
+      "create_time": "2025-07-20 16:32:18",
+      "update_time": "2025-07-20 16:32:18",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "H00001_P001",
+          "price": 329,
+          "quantity": 2,
+          "date": "2025-07-25",
+          "room_type": "Standard double room"
+        }
+      ]
+    },
+    "S17550810181429423_O00005": {
+      "order_id": "S17550810181429423_O00005",
+      "order_type": "attraction",
+      "user_id": "U110787",
+      "store_id": "A00001",
+      "note": "Changbai Mountain Scenic Area tickets",
+      "location": {
+        "address": "North Gate of Changbai Mountain Scenic Area, Chibei District, Baishan City, Jilin Province",
+        "longitude": 127.652345,
+        "latitude": 42.105678
+      },
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 250,
+      "create_time": "2025-06-25 09:12:45",
+      "update_time": "2025-06-25 09:12:45",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "A00001_P001",
+          "price": 125,
+          "quantity": 2,
+          "ticket_type": "Adult ticket"
+        }
+      ]
+    },
+    "S17550810181429423_O00006": {
+      "order_id": "S17550810181429423_O00006",
+      "order_type": "instore",
+      "user_id": "U110787",
+      "store_id": "S17550810181429423_I00005",
+      "total_price": 2288,
+      "create_time": "2025-10-21 19:45:23",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17550810181429423_P00025",
+          "price": 2288,
+          "quantity": 1
+        }
+      ]
+    },
+    "S17550810181429423_O00007": {
+      "order_id": "S17550810181429423_O00007",
+      "order_type": "instore",
+      "user_id": "U110787",
+      "store_id": "S17550810181429423_I00013",
+      "total_price": 39.9,
+      "create_time": "2025-10-19 15:23:45",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17550810181429423_P00067",
+          "price": 39.9,
+          "quantity": 1
+        }
+      ]
+    },
+    "S17550810181429423_O00008": {
+      "order_id": "S17550810181429423_O00008",
+      "order_type": "instore",
+      "user_id": "U110787",
+      "store_id": "S17550810181429423_I00006",
+      "total_price": 2988,
+      "create_time": "2025-09-28 20:15:34",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17550810181429423_P00031",
+          "price": 2988,
+          "quantity": 1
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,207 @@
+{
+  "task_id": "10826241",
+  "domain": "instore",
+  "time": "2023-09-28 14:20:00",
+  "user_id": "U281023",
+  "weather": [
+    {
+      "city": "Shanghai",
+      "category": "cloudy",
+      "datetime": "2023-09-28",
+      "temperature": [
+        21,
+        28
+      ],
+      "humidity": 65
+    },
+    {
+      "city": "Shanghai",
+      "category": "sunny",
+      "datetime": "2023-10-01",
+      "temperature": [
+        22,
+        29
+      ],
+      "humidity": 55
+    }
+  ],
+  "location": [
+    {
+      "address": "Room 501, Unit 2, Building B, 700 Yishan Road, Xuhui District, Shanghai",
+      "longitude": 121.422501,
+      "latitude": 31.179506
+    },
+    {
+      "address": "Ruijin Hospital, Shanghai Jiao Tong University School of Medicine, 1815 Zhongshan West Road, Xuhui District, Shanghai",
+      "longitude": 121.45481,
+      "latitude": 31.216461
+    },
+    {
+      "address": "Metro City, 1111 Zhaojiabang Road, Xuhui District, Shanghai",
+      "longitude": 121.436768,
+      "latitude": 31.194565
+    },
+    {
+      "address": "IAPM Mall, 1833 Huaihai Middle Road, Xuhui District, Shanghai",
+      "longitude": 121.457359,
+      "latitude": 31.213895
+    },
+    {
+      "address": "Grand Gateway 66, 1 Hongqiao Road, Xuhui District, Shanghai",
+      "longitude": 121.434551,
+      "latitude": 31.194118
+    }
+  ],
+  "user_profile": {
+    "user id": "U281023",
+    "occupation": "Doctor",
+    "gender": "male",
+    "age group": "35~40",
+    "residence": "Shanghai",
+    "home address": "Room 501, Unit 2, Building B, 700 Yishan Road, Xuhui District, Shanghai",
+    "work address": "Ruijin Hospital, Shanghai Jiao Tong University School of Medicine, 1815 Zhongshan West Road, Xuhui District, Shanghai",
+    "dietary restrictions": "Avoid high salt and sugar",
+    "family status": "Living alone",
+    "personality": "Extremely detail-oriented, tends to be picky and easily dissatisfied"
+  },
+  "user_historical_behaviors": {
+    "user id": "U281023",
+    "occupation": "Doctor",
+    "gender": "male",
+    "age group": "35~40",
+    "residence": "Shanghai",
+    "home address": "Room 501, Unit 2, Building B, 700 Yishan Road, Xuhui District, Shanghai",
+    "work address": "Ruijin Hospital, Shanghai Jiao Tong University School of Medicine, 1815 Zhongshan West Road, Xuhui District, Shanghai",
+    "in-store dining": {
+      "fine-dining": {
+        "frequently purchased categories": [
+          "International Cuisine/Western Food (Average 180 yuan)",
+          "Regional Cuisine/Sichuan Food (Average 150 yuan)",
+          "International Cuisine/Japanese Food (Average 200 yuan)"
+        ],
+        "preferred average price per person": "150~200 yuan",
+        "preferred store rating": "4.2~4.8 stars",
+        "typical dining time": "19:00-21:00",
+        "preferred distance": "1000~3000m",
+        "recent orders": [
+          {
+            "store": "Sizzler Steak (Xujiahui Branch)",
+            "product": "Australian Grain-fed Steak Set"
+          },
+          {
+            "store": "Green Pepper (Grand Gateway 66 Branch)",
+            "product": "Boiled Fish Set"
+          },
+          {
+            "store": "Heiroku Rotating Sushi (Xujiahui Branch)",
+            "product": "Sashimi Platter"
+          }
+        ],
+        "search history": [
+          "Gout-friendly Western food",
+          "High-end Sichuan cuisine",
+          "Japanese cuisine",
+          "Highly rated restaurants in Xuhui District"
+        ]
+      },
+      "light meal": {
+        "frequently purchased categories": [
+          "Fast Food/Chinese Quick Meals (Average 45 yuan)",
+          "Fast Food/Western Quick Meals (Average 50 yuan)",
+          "Regional Cuisine/Shanghai and Jiangsu-Zhejiang Cuisine (Average 60 yuan)"
+        ],
+        "preferred average price per person": "40~60 yuan",
+        "preferred store rating": "3.5~4.2 stars",
+        "typical dining time": "12:00-13:00",
+        "preferred distance": "0~500m",
+        "recent orders": [
+          {
+            "store": "Yonghe King (Ruijin Hospital Branch)",
+            "product": "Century Egg and Lean Pork Porridge with Side Dish"
+          },
+          {
+            "store": "Salad Sandwich (Ruijin Hospital Branch)",
+            "product": "Chicken Breast Healthy Light Meal Set"
+          },
+          {
+            "store": "Lao Sheng Chang (Ruijin Hospital Branch)",
+            "product": "Steamed Pork Dumplings"
+          }
+        ],
+        "search history": [
+          "Fast food near hospital",
+          "Healthy quick meals",
+          "Low-purine restaurants"
+        ]
+      },
+      "desserts/drinks/snacks": {
+        "frequently purchased categories": [
+          "Beverage Shops (Average 25 yuan)",
+          "Bakery and Desserts (Average 30 yuan)"
+        ],
+        "preferred average price per person": "20~35 yuan",
+        "preferred store rating": "4.0~4.5 stars",
+        "typical dining time": "15:00-16:30",
+        "preferred distance": "0~300m",
+        "recent orders": [
+          {
+            "store": "HEYTEA (Grand Gateway 66 Xujiahui Branch)",
+            "product": "Very Grape (Less Sugar)"
+          },
+          {
+            "store": "Starbucks (Ruijin Hospital Branch)",
+            "product": "Americano"
+          },
+          {
+            "store": "Bread Talk (Ruijin Hospital Branch)",
+            "product": "Whole Wheat Bread"
+          }
+        ],
+        "search history": [
+          "Sugar-free beverages",
+          "Low-calorie desserts",
+          "Healthy afternoon tea"
+        ]
+      }
+    },
+    "other in-store services": {
+      "frequently consumed categories": {
+        "Sports & Fitness/Fitness Centers": "40%",
+        "Sports & Fitness/Ball Sports": "30%",
+        "Leisure & Entertainment/Massage/Foot Massage": "20%",
+        "Beauty Services/Yoga": "10%"
+      },
+      "cost per order by category": {
+        "Sports & Fitness/Fitness Centers": "150~300 yuan",
+        "Sports & Fitness/Ball Sports": "100~200 yuan",
+        "Leisure & Entertainment/Massage/Foot Massage": "200~350 yuan",
+        "Beauty Services/Yoga": "120~180 yuan"
+      },
+      "preferred store rating": "4.0~4.8 stars",
+      "preferred service time": "20:00-22:00",
+      "preferred distance": "500~3000m",
+      "recent orders": [
+        {
+          "store": "Will's Fitness (Xuhui Branch)",
+          "product": "Single Fitness Session"
+        },
+        {
+          "store": "Xuhui Sports Center",
+          "product": "Badminton Court Reservation"
+        },
+        {
+          "store": "Royal Foot Massage (Yishan Road Branch)",
+          "product": "Traditional Chinese Medicine Tuina Massage"
+        }
+      ],
+      "search history": [
+        "Fitness centers in Xuhui District",
+        "Badminton courts",
+        "Professional massage for doctors",
+        "Muscle fatigue relief"
+      ]
+    }
+  },
+  "stores": {},
+  "orders": {}
+}

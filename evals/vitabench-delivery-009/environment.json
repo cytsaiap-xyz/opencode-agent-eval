@@ -1,0 +1,335 @@
+{
+  "task_id": "20711002",
+  "domain": "delivery",
+  "time": "2025-09-18 18:56:30",
+  "user_id": "U000002",
+  "weather": [
+    {
+      "city": "Xi'an City",
+      "category": "sunny",
+      "datetime": "2025-09-18",
+      "temperature": [
+        23,
+        30
+      ],
+      "humidity": 39
+    }
+  ],
+  "location": [
+    {
+      "address": "Ziwei City Garden near Bank of Communications (Xi'an Electronic City Branch), Yanta District, Xi'an, Shaanxi Province",
+      "longitude": 108.917964,
+      "latitude": 34.201373
+    }
+  ],
+  "user_profile": {
+    "user id": "U000002",
+    "occupation": "Cashier",
+    "gender": "female",
+    "age group": "25~30",
+    "residence": "Xi'an",
+    "home address": "Ziwei City Garden near Bank of Communications (Xi'an Electronic City Branch), Yanta District, Xi'an, Shaanxi Province",
+    "work address": "SAGA (SAIGE International Shopping Center Store), No.123 Chang'an Middle Road, Xiaozhai Street, Yanta District, Xi'an, Shaanxi Province",
+    "dietary restrictions": "Avoids spicy food",
+    "family status": "In a relationship",
+    "personality": "Gentle personality with high cooperation, good at listening and understanding"
+  },
+  "user_historical_behaviors": {
+    "user id": "U000002",
+    "occupation": "Cashier",
+    "gender": "female",
+    "age group": "25~30",
+    "residence": "Xi'an",
+    "home address": "Ziwei City Garden near Bank of Communications (Xi'an Electronic City Branch), Yanta District, Xi'an, Shaanxi Province",
+    "work address": "SAGA (SAIGE International Shopping Center Store), No.123 Chang'an Middle Road, Xiaozhai Street, Yanta District, Xi'an, Shaanxi Province",
+    "breakfast": {
+      "frequently purchased categories": [
+        "Quick meals/Baozi/Shengjianbao (average 18 yuan)",
+        "Quick meals/Youtiao (average 12 yuan)",
+        "Quick meals/Sandwich (average 15 yuan)"
+      ],
+      "cost per order": "10~25 yuan",
+      "preferred store rating": "4.0~4.5 stars",
+      "preferred delivery time": "15~25 minutes",
+      "preferred distance": "0~1500m",
+      "recent orders": [
+        {
+          "store": "Bao Zhou Pu",
+          "product": "Soy milk + Xiaolongbao"
+        },
+        {
+          "store": "Old Beijing Breakfast",
+          "product": "Egg Pancake + Soy milk"
+        },
+        {
+          "store": "Jiahe Yipin",
+          "product": "Milk + Pork floss sandwich"
+        }
+      ],
+      "search history": [
+        "Low-sugar breakfast",
+        "Baozi",
+        "Soy milk",
+        "Sandwich",
+        "Light breakfast"
+      ]
+    },
+    "weekday lunch/dinner": {
+      "frequently purchased categories": [
+        "Quick meals/Light food (average 35 yuan)",
+        "Quick meals/Salad (average 32 yuan)",
+        "Quick meals/Healthy meals (average 40 yuan)"
+      ],
+      "cost per order": "25~45 yuan",
+      "preferred store rating": "4.2~4.8 stars",
+      "preferred delivery time": "20~35 minutes",
+      "preferred distance": "0~2500m",
+      "recent orders": [
+        {
+          "store": "Light Food Workshop",
+          "product": "Vegetable and chicken breast light meal set"
+        },
+        {
+          "store": "Salad Story",
+          "product": "Poached chicken breast salad"
+        },
+        {
+          "store": "Qian Zi Vegetarian",
+          "product": "Low-fat oatmeal rice bowl + Fresh juice"
+        }
+      ],
+      "search history": [
+        "Low-fat lunch",
+        "Healthy meal",
+        "Light food",
+        "Non-spicy lunch",
+        "Salad"
+      ]
+    },
+    "weekend lunch/dinner": {
+      "frequently purchased categories": [
+        "Chinese cuisine/Cantonese cuisine (average 85 yuan)",
+        "Foreign cuisine/Japanese bento/Sushi (average 90 yuan)",
+        "Chinese cuisine/Steamed seafood (average 100 yuan)"
+      ],
+      "cost per order": "60~120 yuan",
+      "preferred store rating": "4.5~4.9 stars",
+      "preferred delivery time": "30~45 minutes",
+      "preferred distance": "0~3500m",
+      "recent orders": [
+        {
+          "store": "Cantonese Home Cooking",
+          "product": "White cut chicken + Steamed bass + Seasonal vegetables"
+        },
+        {
+          "store": "Sushi House",
+          "product": "Family sushi set (for 3-4 people)"
+        },
+        {
+          "store": "Daily Seafood",
+          "product": "Garlic vermicelli scallops (mildly spicy) + Corn"
+        }
+      ],
+      "search history": [
+        "Parent-child meal",
+        "Non-spicy family set",
+        "Cantonese cuisine",
+        "Japanese cuisine",
+        "Child-friendly restaurant"
+      ]
+    },
+    "desserts/drinks/snacks": {
+      "frequently purchased categories": [
+        "Drinks and desserts/Milk tea/Herbal tea (average 18 yuan)",
+        "Drinks and desserts/Fruit bowl (average 25 yuan)",
+        "Drinks and desserts/Cold desserts (average 22 yuan)"
+      ],
+      "cost per order": "15~30 yuan",
+      "preferred store rating": "4.7~5.0 stars",
+      "preferred delivery time": "20~30 minutes",
+      "preferred distance": "0~2000m",
+      "recent orders": [
+        {
+          "store": "CHABAIDAO",
+          "product": "Oolong tea (no sugar)"
+        },
+        {
+          "store": "Fresh Fruit Bowl",
+          "product": "Fruit bowl (less sugar)"
+        },
+        {
+          "store": "Meet Fresh",
+          "product": "Coconut milk sago cream (slight sugar)"
+        }
+      ],
+      "search history": [
+        "Low-sugar drinks",
+        "Fruit tea",
+        "Sugar-free tea",
+        "Healthy desserts",
+        "Fruit bowl"
+      ]
+    },
+    "night snack": {
+      "frequently purchased categories": [
+        "Quick meals/Pot soup (average 28 yuan)",
+        "Quick meals/Small dishes/Small portions (average 35 yuan)",
+        "Snacks and braised food/Braised dishes (average 30 yuan)"
+      ],
+      "cost per order": "25~40 yuan",
+      "preferred store rating": "4.1~4.6 stars",
+      "preferred delivery time": "20~35 minutes",
+      "preferred distance": "0~2500m",
+      "recent orders": [
+        {
+          "store": "Nutritious Soup",
+          "product": "Mushroom chicken soup"
+        },
+        {
+          "store": "Small Bowl Dishes",
+          "product": "Stir-fried seasonal vegetables + Brown rice"
+        },
+        {
+          "store": "Mom's Braised Food",
+          "product": "Braised chicken wings + Braised eggs (mildly spicy)"
+        }
+      ],
+      "search history": [
+        "Light night snack",
+        "Stomach-friendly soup",
+        "Small portion dishes",
+        "Non-spicy braised food",
+        "Healthy night snack"
+      ]
+    }
+  },
+  "stores": {
+    "S10884602254755805_S86671": {
+      "name": "Eastern Gardenia (Xi'an Academy of Fine Arts Store)",
+      "store_id": "S15949154785780736_S01374",
+      "score": 4.3,
+      "location": {
+        "address": "Eastern Gardenia (Xi'an Academy of Fine Arts Store), 1st Floor, Newman Creative, No.118 Hanguang South Road, Xiaozhai Street, Yanta District, Xi'an, Shaanxi Province",
+        "latitude": 34.219914,
+        "longitude": 108.931612
+      },
+      "tags": [],
+      "products": [
+        {
+          "name": "Fresh Treasure Pearls (Brown Sugar Pearls)",
+          "store_id": "S10884602254755805_S86671",
+          "store_name": "Eastern Gardenia (Xi'an Academy of Fine Arts Store)",
+          "price": 14,
+          "tags": [
+            "Low Caffeine",
+            "Medium Cup"
+          ],
+          "product_id": "S82307399321174061_P83228",
+          "attributes": [
+            "Standard Ice",
+            "Less Ice",
+            "No Ice",
+            "Hot"
+          ],
+          "quantity": 9999
+        },
+        {
+          "name": "Fragrant Dan Cong (Duck Shit Aroma)",
+          "product_id": "S17085836146227598_P83031",
+          "store_id": "S10884602254755805_S86671",
+          "store_name": "Eastern Gardenia (Xi'an Academy of Fine Arts Store)",
+          "price": 16,
+          "tags": [
+            "Medium Cup",
+            "High Caffeine"
+          ],
+          "attributes": [
+            "Standard Ice",
+            "Less Ice",
+            "No Ice",
+            "Hot"
+          ],
+          "quantity": 9999
+        }
+      ]
+    },
+    "S24987732831023234_S16640": {
+      "name": "Xiyan Aunt's Hot Drink Fresh Stewed Bird's Nest",
+      "store_id": "S24987732831023234_S16640",
+      "score": 4.6,
+      "location": {
+        "address": "Xiyan Aunt's Hot Drink Fresh Stewed Bird's Nest, 100 meters north of the intersection of Jiashanfang and Yannan First Road, Yanta District, Xi'an, Shaanxi Province",
+        "latitude": 34.212711,
+        "longitude": 108.950615
+      },
+      "tags": [],
+      "products": [
+        {
+          "name": "Red Date Milk Stewed Peach Gum【Large Peach Gum Pieces, Healthy Complexion, Full of Collagen】",
+          "product_id": "S30330727102981390_P51004",
+          "store_id": "S24987732831023234_S16640",
+          "store_name": "Xiyan Aunt's Hot Drink Fresh Stewed Bird's Nest",
+          "price": 29.3,
+          "tags": [
+            "Womb-Warming"
+          ],
+          "attributes": [
+            "Large Cup",
+            "Extra Large Cup"
+          ],
+          "quantity": 9999
+        }
+      ]
+    },
+    "S31446206018564624_S68811": {
+      "name": "Mixue Ice Cream (West Eight Li Store)",
+      "store_id": "S31446206018564624_S68811",
+      "score": 4.9,
+      "location": {
+        "address": "Mixue Ice Cream (Political and Law University Overpass Store), West Gate of South Yard, East Eight Li New Village, Yanta District, Xi'an, Shaanxi Province",
+        "latitude": 34.208433,
+        "longitude": 108.946914
+      },
+      "tags": [],
+      "products": [
+        {
+          "name": "Triple Mix Baba Milk Tea (Upgraded)",
+          "product_id": "S27579908449177209_P64854",
+          "store_id": "S31446206018564624_S68811",
+          "store_name": "Mixue Ice Cream (West Eight Li Store)",
+          "price": 9,
+          "tags": [],
+          "attributes": [],
+          "quantity": 9999
+        }
+      ]
+    },
+    "S19532383999797547_S95752": {
+      "name": "Nayuki PRO (Xi'an Mixc World Store)",
+      "store_id": "S19532383999797547_S95752",
+      "score": 5,
+      "location": {
+        "address": "Nayuki Tea (Xi'an Mixc World PRO Store), No.1111 Yanzhan Road, Qujiang New District, Yanta District, Xi'an, Shaanxi Province",
+        "latitude": 34.199453,
+        "longitude": 108.951089
+      },
+      "tags": [],
+      "products": [
+        {
+          "name": "Daidai Flower & Flat Peach Ice Milk",
+          "product_id": "S14002843518480439_P22284",
+          "store_id": "S19532383999797547_S95752",
+          "store_name": "Nayuki PRO (Xi'an Mixc World Store)",
+          "price": 20,
+          "tags": [],
+          "attributes": [
+            "Ice",
+            "Less Ice"
+          ],
+          "quantity": 9999
+        }
+      ]
+    }
+  },
+  "orders": {}
+}

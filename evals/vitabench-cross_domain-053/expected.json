@@ -1,0 +1,108 @@
+{
+  "required_orders": [
+    {
+      "book_id": "10807008T001",
+      "shop_id": "S17550802111542162_I00011",
+      "book_time": "2025-07-27 12:00:00",
+      "update_time": "2025-07-25 10:31:23",
+      "customer_id": "U010038",
+      "customer_count": 6,
+      "book_price": 50,
+      "status": "unconsumed"
+    },
+    {
+      "order_id": "10807008T002",
+      "order_type": "delivery",
+      "user_id": "U010038",
+      "store_id": "S17550802111542162_S00001",
+      "note": "",
+      "location": {
+        "address": "Harbor Family Banquet Restaurant, No.5 Harbor Square, Zhongshan District, Dalian, Liaoning Province",
+        "longitude": 121.644725,
+        "latitude": 38.868034
+      },
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 197.9,
+      "create_time": "2025-07-25 10:32:15",
+      "update_time": "2025-07-25 10:32:15",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17550802111542162_P00001",
+          "name": "Anti-Slip Adjustable Walking Stick for Elderly",
+          "price": 89.9,
+          "quantity": 1,
+          "attributrs": "Black",
+          "tags": [
+            "Elderly Products",
+            "Travel Essential",
+            "Anti-Slip Design",
+            "Foldable",
+            "Lightweight"
+          ]
+        },
+        {
+          "product_id": "S17550802111542162_P00002",
+          "name": "Adult Diapers L Size",
+          "price": 108,
+          "quantity": 1,
+          "attributrs": "10-Pack",
+          "tags": [
+            "Elderly Products",
+            "Travel Essential",
+            "Breathable",
+            "Leak-Proof"
+          ]
+        }
+      ]
+    },
+    {
+      "order_id": "10807008T003",
+      "order_type": "train",
+      "user_id": "U010038",
+      "store_id": "S17550802111542162_T00007",
+      "note": "",
+      "location": {
+        "address": "Beijing South Railway Station, Fengtai District, Beijing",
+        "longitude": 116.378517,
+        "latitude": 39.865246
+      },
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 882,
+      "create_time": "2025-07-25 10:38:42",
+      "update_time": "2025-07-25 10:38:42",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17550802111542162_P00037",
+          "price": 882,
+          "quantity": 1,
+          "date": "2025-07-27",
+          "seat_type": "First Class Seat"
+        }
+      ]
+    }
+  ],
+  "rubrics": [
+    "The reserved restaurant should be within 3km from Dalian Port, 41 Changjiang Road, Zhongshan District, Dalian, Liaoning Province",
+    "The reserved restaurant should have Accessible Facilities",
+    "The reserved restaurant should have Child-Friendly dishes",
+    "The reserved restaurant should have Elder-Friendly dishes",
+    "The reserved restaurant should be suitable for three generations dining together",
+    "The restaurant reservation time should be 12:00 on July 27, 2025",
+    "The restaurant reservation should be for 6 people",
+    "The delivery address for the takeout order should be Harbor Family Banquet Restaurant, No.5 Harbor Square, Zhongshan District, Dalian, Liaoning Province",
+    "The delivery time for the takeout order should be around 12:00 on 2025-07-27 [i.e., delivery time should be between 11:40 and 12:20]",
+    "The takeout order should include a walking stick",
+    "The takeout order should include Adult Diapers",
+    "The walking stick and Adult Diapers in the takeout order should be from the same store",
+    "The train ticket to purchase should be for High-Speed Rail",
+    "The High-Speed Rail ticket should be First Class Seat",
+    "The High-Speed Rail ticket departure date should be 2025-07-27",
+    "The High-Speed Rail ticket arrival time should be before 11:00"
+  ]
+}

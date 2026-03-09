@@ -1,0 +1,61 @@
+{
+  "required_orders": [
+    {
+      "order_id": "70805001T001",
+      "order_type": "train",
+      "user_id": "U010002",
+      "store_id": "S17557511395254657_T00013",
+      "note": "",
+      "location": null,
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 450,
+      "create_time": "2024-06-15 14:33:00",
+      "update_time": "2024-06-15 14:33:00",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17557511395254657_P00093",
+          "price": 225,
+          "quantity": 2,
+          "date": "2024-06-18",
+          "seat_type": "Second class seat"
+        }
+      ]
+    },
+    {
+      "order_id": "70805001T002",
+      "order_type": "attraction",
+      "user_id": "U010002",
+      "store_id": "S17557511395254657_A00005",
+      "note": "",
+      "location": null,
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 45,
+      "create_time": "2024-06-15 14:39:00",
+      "update_time": "2024-06-15 14:39:00",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17557511395254657_P00046",
+          "price": 45,
+          "quantity": 1,
+          "date": "2024-06-19",
+          "ticket_type": "Banana boat experience ticket"
+        }
+      ]
+    }
+  ],
+  "rubrics": [
+    "Train departure date should be June 18, 2024",
+    "Train tickets should be for the train from Jinan to Weihai",
+    "Train number should be G6966",
+    "Number of train tickets should be 2",
+    "The ordered attraction ticket should be the cheapest one (Banana boat experience ticket)",
+    "Attraction ticket use date should be June 19, 2024",
+    "Number of attraction tickets should be 1"
+  ]
+}

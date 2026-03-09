@@ -1,0 +1,318 @@
+{
+  "task_id": "G0716001",
+  "domain": "delivery",
+  "time": "2025-08-16 10:59:27",
+  "user_id": "U000057",
+  "weather": [
+    {
+      "city": "Zhengzhou City",
+      "category": "sunny",
+      "datetime": "2025-08-16",
+      "temperature": [
+        22,
+        31
+      ],
+      "humidity": 46
+    }
+  ],
+  "location": [
+    {
+      "address": "Greenland Yuansheng International, Intersection of Jinshui East Road and Dongfeng South Road, Zhengdong New District, Jinshui District, Zhengzhou City, Henan Province",
+      "longitude": 113.768792,
+      "latitude": 34.767286
+    }
+  ],
+  "user_profile": {
+    "user id": "U000057",
+    "occupation": "Designer",
+    "gender": "female",
+    "age group": "25~30",
+    "residence": "Zhengzhou",
+    "home address": "Greenland Yuansheng International, Intersection of Jinshui East Road and Dongfeng South Road, Zhengdong New District, Jinshui District, Zhengzhou City, Henan Province",
+    "work address": "Building C, Jianzheng Oriental Center, No. 100 Shangdu Road, Guancheng Hui District, Zhengzhou City, Henan Province",
+    "dietary restrictions": "Avoids greasy and spicy food, avoids caffeine",
+    "family status": "Living with partner",
+    "personality": "Experiences mood swings, expresses herself with strong emotional undertones"
+  },
+  "user_historical_behaviors": {
+    "user id": "U000057",
+    "occupation": "Designer",
+    "gender": "female",
+    "age group": "25~30",
+    "residence": "Zhengzhou",
+    "home address": "Greenland Yuansheng International, Intersection of Jinshui East Road and Dongfeng South Road, Zhengdong New District, Jinshui District, Zhengzhou City, Henan Province",
+    "work address": "Building C, Jianzheng Oriental Center, No. 100 Shangdu Road, Guancheng Hui District, Zhengzhou City, Henan Province",
+    "breakfast": {
+      "frequently purchased categories": [
+        "Quick Meals/Light Food (Average ¥28)",
+        "Quick Meals/Jianbing/Wraps/Pancakes (Average ¥15)",
+        "desserts/drinks/snacks/Juice (Average ¥22)"
+      ],
+      "cost per order": "¥15~35",
+      "preferred store rating": "4.5~4.8 stars",
+      "preferred delivery time": "15~25 minutes",
+      "preferred distance": "0~1500m",
+      "recent orders": [
+        {
+          "store": "Salad House",
+          "product": "Fruit Light Salad Set"
+        },
+        {
+          "store": "Fresh Juice Bar",
+          "product": "Fresh Vegetable & Fruit Juice"
+        },
+        {
+          "store": "Old Beijing Jianbing",
+          "product": "Whole Wheat Jianbing"
+        }
+      ],
+      "search history": [
+        "Healthy breakfast",
+        "Light salad",
+        "Fruits",
+        "Whole wheat food",
+        "Caffeine-free drinks"
+      ]
+    },
+    "weekday lunch/dinner": {
+      "frequently purchased categories": [
+        "Quick Meals/Healthy Meals (Average ¥45)",
+        "Quick Meals/Salad (Average ¥38)",
+        "International Cuisine/Kimbap (Average ¥35)"
+      ],
+      "cost per order": "¥30~65",
+      "preferred store rating": "4.3~4.9 stars",
+      "preferred delivery time": "20~35 minutes",
+      "preferred distance": "0~2500m",
+      "recent orders": [
+        {
+          "store": "Light Food Philosophy",
+          "product": "Chicken Breast with Quinoa"
+        },
+        {
+          "store": "Vegetable Workshop",
+          "product": "Avocado Salmon Salad"
+        },
+        {
+          "store": "Fuku Sushi House",
+          "product": "Vegetable Kimbap Set"
+        }
+      ],
+      "search history": [
+        "Low-oil healthy meal",
+        "Vegetable salad",
+        "Light food",
+        "Non-spicy cuisine"
+      ]
+    },
+    "weekend lunch/dinner": {
+      "frequently purchased categories": [
+        "Chinese Cuisine/Cantonese Cuisine (Average ¥85)",
+        "International Cuisine/Japanese Bento/Sushi (Average ¥110)",
+        "Chinese Cuisine/Grilled Fish (Average ¥120)"
+      ],
+      "cost per order": "¥75~150",
+      "preferred store rating": "4.6~5.0 stars",
+      "preferred delivery time": "30~45 minutes",
+      "preferred distance": "0~3500m",
+      "recent orders": [
+        {
+          "store": "Hanada Japanese Cuisine",
+          "product": "Deluxe Sushi Platter"
+        },
+        {
+          "store": "Cantonese Delights",
+          "product": "Steamed Sea Bass Set"
+        },
+        {
+          "store": "Grilled Fish Legend",
+          "product": "Mild Spicy Lemon Grilled Fish"
+        }
+      ],
+      "search history": [
+        "Non-spicy Japanese food",
+        "Cantonese cuisine",
+        "Steamed fish",
+        "Couple set meal",
+        "Mild grilled fish"
+      ]
+    },
+    "desserts/drinks/snacks": {
+      "frequently purchased categories": [
+        "desserts/drinks/snacks/Juice (Average ¥26)",
+        "desserts/drinks/snacks/Western Pastries (Average ¥32)",
+        "desserts/drinks/snacks/Fruit Bowls (Average ¥35)"
+      ],
+      "cost per order": "¥20~45",
+      "preferred store rating": "4.5~4.9 stars",
+      "preferred delivery time": "15~30 minutes",
+      "preferred distance": "0~2000m",
+      "recent orders": [
+        {
+          "store": "LELECHA Tea (Zhengzhou Greenland 360 Branch)",
+          "product": "Grape Yogurt (No Tea Base)"
+        },
+        {
+          "store": "Paris Sweet Heart",
+          "product": "Matcha Tiramisu"
+        },
+        {
+          "store": "Fresh Cut Fruit Bowl",
+          "product": "Summer Fruit Bowl"
+        }
+      ],
+      "search history": [
+        "Caffeine-free desserts",
+        "Fresh juice",
+        "Fruit bowl",
+        "Light sweet desserts"
+      ]
+    },
+    "night snack": {
+      "frequently purchased categories": [
+        "Quick Meals/Rice Noodles/Vermicelli (Average ¥32)",
+        "Snacks/Braised Food (Average ¥40)",
+        "Quick Meals/Small Dishes/Small Portions (Average ¥45)"
+      ],
+      "cost per order": "¥25~50",
+      "preferred store rating": "4.2~4.8 stars",
+      "preferred delivery time": "20~35 minutes",
+      "preferred distance": "0~2500m",
+      "recent orders": [
+        {
+          "store": "Yunnan Bridge Rice Noodles",
+          "product": "Clear Soup Chicken Rice Noodles"
+        },
+        {
+          "store": "Time-honored Braised Food Shop",
+          "product": "Five-Spice Braised Platter"
+        },
+        {
+          "store": "Home-style Small Dishes",
+          "product": "Stir-fried Seasonal Vegetables Small Dish"
+        }
+      ],
+      "search history": [
+        "Non-spicy rice noodles",
+        "Night snack",
+        "Small portion dishes",
+        "Mild braised food"
+      ]
+    }
+  },
+  "stores": {
+    "S19315672627329167_S12289": {
+      "name": "LELECHA Tea (Zhengzhou Greenland 360 Branch)",
+      "store_id": "S19315672627329167_S12289",
+      "score": 4.8,
+      "location": {
+        "address": "Shop 125, 1st Floor, Building B, Xintian 360 Plaza, No. 80 Jinshui East Road, Jicheng Office, Zhengdong New District, Zhengzhou City, Henan Province",
+        "latitude": 34.770009,
+        "longitude": 113.767615
+      },
+      "tags": [],
+      "products": [
+        {
+          "name": "Abundant Orange",
+          "store_id": "S19315672627329167_S12289",
+          "store_name": "LELECHA Tea (Zhengzhou Greenland 360 Branch)",
+          "price": 21,
+          "tags": [],
+          "product_id": "S21294793049651694_P89343",
+          "attributes": [
+            "Snow ice",
+            "Less ice",
+            "Jasmine Silver Needle",
+            "No tea base"
+          ],
+          "quantity": 9999
+        },
+        {
+          "name": "Green Grape and Green Mango Ice",
+          "store_id": "S19315672627329167_S12289",
+          "store_name": "LELECHA Tea (Zhengzhou Greenland 360 Branch)",
+          "price": 23.0,
+          "tags": [],
+          "product_id": "S31086281472020978_P85835",
+          "attributes": [
+            "Snow ice",
+            "Jasmine Silver Needle"
+          ],
+          "quantity": 9999
+        },
+        {
+          "name": "Fresh Mango Coconut Drink",
+          "store_id": "S19315672627329167_S12289",
+          "store_name": "LELECHA Tea (Zhengzhou Greenland 360 Branch)",
+          "price": 17.0,
+          "tags": [],
+          "product_id": "S27842353921452784_P81184",
+          "attributes": [
+            "Snow ice",
+            "Hot",
+            "Jasmine Silver Needle"
+          ],
+          "quantity": 9999
+        },
+        {
+          "name": "Big Bite Strawberry Peach",
+          "store_id": "S19315672627329167_S12289",
+          "store_name": "LELECHA Tea (Zhengzhou Greenland 360 Branch)",
+          "price": 21.0,
+          "tags": [],
+          "product_id": "S10072350399541463_P21024",
+          "attributes": [
+            "Hot",
+            "Jasmine Silver Needle",
+            "No tea base"
+          ],
+          "quantity": 9999
+        }
+      ]
+    },
+    "S12623390759490947_S33169": {
+      "name": "Xiabu Xiabu Hot Pot (Zhengzhou Shangzuo Center Branch)",
+      "store_id": "S12623390759490947_S33169",
+      "score": 4.6,
+      "location": {
+        "address": "Xiabu Xiabu (Shangzuo Center Branch), 4th Floor, Zhengzhou Shangzuo Center, Zhengdong New District, Jinshui District, Zhengzhou City, Henan Province",
+        "latitude": 34.763825,
+        "longitude": 113.756225
+      },
+      "tags": [],
+      "products": [
+        {
+          "name": "White Jade Mushroom Soup Beef Hot Pot Individual Set (7 Meat & 8 Vegetable Items)",
+          "store_id": "S12623390759490947_S33169",
+          "store_name": "Xiabu Xiabu Hot Pot (Zhengzhou Shangzuo Center Branch)",
+          "price": 38.9,
+          "tags": [],
+          "product_id": "S27724810072617102_P48906",
+          "attributes": [],
+          "quantity": 9999
+        },
+        {
+          "name": "[Mild Spicy] Special Sesame Sauce Garlic Beef Hot Pot Individual Set (7 Meat & 8 Vegetable Items)",
+          "store_id": "S12623390759490947_S33169",
+          "store_name": "Xiabu Xiabu Hot Pot (Zhengzhou Shangzuo Center Branch)",
+          "price": 37.9,
+          "tags": [],
+          "product_id": "S54356441944720069_P56196",
+          "attributes": [],
+          "quantity": 9999
+        },
+        {
+          "name": "Xiabu Xiabu Selected Beef Rice Individual Set",
+          "store_id": "S12623390759490947_S33169",
+          "store_name": "Xiabu Xiabu Hot Pot (Zhengzhou Shangzuo Center Branch)",
+          "price": 33.9,
+          "tags": [],
+          "product_id": "S54577903557374952_P34041",
+          "attributes": [],
+          "quantity": 9999
+        }
+      ]
+    }
+  },
+  "orders": {}
+}

@@ -1,0 +1,384 @@
+{
+  "task_id": "D0716001",
+  "domain": "delivery",
+  "time": "2025-02-08 10:11:56",
+  "user_id": "U000043",
+  "weather": [
+    {
+      "city": "Jinhua City",
+      "category": "rainy",
+      "datetime": "2025-02-08",
+      "temperature": [
+        5,
+        12
+      ],
+      "humidity": 83
+    }
+  ],
+  "location": [
+    {
+      "address": "Building A, Baolian Plaza, 1103 Liyu Road, Wucheng District, Jinhua City, Zhejiang Province",
+      "longitude": 119.644158,
+      "latitude": 29.079634
+    }
+  ],
+  "user_profile": {
+    "user id": "U000043",
+    "occupation": "Fitness Coach",
+    "gender": "male",
+    "age group": "25~30",
+    "residence": "Jinhua",
+    "home address": "Jinhua Modern City, 1518 Binhong Road, Wucheng District, Jinhua City, Zhejiang Province",
+    "work address": "Building A, Baolian Plaza, 1103 Liyu Road, Wucheng District, Jinhua City, Zhejiang Province",
+    "dietary restrictions": "Avoid high sugar, Avoid fried food",
+    "family status": "Living alone",
+    "personality": "Scattered and jumpy thinking, easily distracted and prone to changing ideas"
+  },
+  "user_historical_behaviors": {
+    "user id": "U000043",
+    "occupation": "Fitness Coach",
+    "gender": "male",
+    "age group": "25~30",
+    "residence": "Jinhua",
+    "home address": "Jinhua Modern City, 1518 Binhong Road, Wucheng District, Jinhua City, Zhejiang Province",
+    "work address": "Building A, Baolian Plaza, 1103 Liyu Road, Wucheng District, Jinhua City, Zhejiang Province",
+    "breakfast": {
+      "frequently purchased categories": [
+        "Light Meals/Health Meals (Average ¥35)",
+        "Light Meals/Sandwiches (Average ¥28)"
+      ],
+      "cost per order": "¥25~40",
+      "preferred store rating": "4.5~4.9 stars",
+      "preferred delivery time": "15~25 minutes",
+      "preferred distance": "0~1500m",
+      "recent orders": [
+        {
+          "store": "Light Food Select",
+          "product": "Chicken Breast Whole Wheat Sandwich"
+        },
+        {
+          "store": "Health 100%",
+          "product": "Low-fat Milk Oatmeal Set"
+        }
+      ],
+      "search history": [
+        "Healthy breakfast",
+        "Protein breakfast",
+        "Chicken sandwich"
+      ]
+    },
+    "weekday lunch/dinner": {
+      "frequently purchased categories": [
+        "Light Meals/Health Meals (Average ¥30)",
+        "Light Meals/Pancakes (Average ¥25)",
+        "Light Meals/Light Food (Average ¥40)"
+      ],
+      "cost per order": "¥25~50",
+      "preferred store rating": "4.2~5.0 stars",
+      "preferred delivery time": "30~50 minutes",
+      "preferred distance": "0~5000m",
+      "recent orders": [
+        {
+          "store": "Lai Shili Pu·Pancake (Sanjiang International Store)",
+          "product": "Multigrain Pancake + Egg + Crispy Cracker + Handmade Extra Large Tenderloin + Lettuce"
+        },
+        {
+          "store": "Nice to See You Again Cafe&Canteen",
+          "product": "M3 Grain-fed Beef Vegetable Grain Energy Bowl"
+        },
+        {
+          "store": "GRASSEAT (Jiangnan Store)",
+          "product": "Drumstick Light Vegetable Bowl"
+        }
+      ],
+      "search history": [
+        "Fitness meals",
+        "Low-fat high-protein",
+        "Chicken breast rice",
+        "Light food"
+      ]
+    },
+    "weekend lunch/dinner": {
+      "frequently purchased categories": [
+        "Chinese Cuisine/Shandong Cuisine (Average ¥80)",
+        "Chinese Cuisine/Cantonese Cuisine (Average ¥90)",
+        "Light Meals/Health Meals (Average ¥65)"
+      ],
+      "cost per order": "¥60~120",
+      "preferred store rating": "4.0~5.0 stars",
+      "preferred delivery time": "25~50 minutes",
+      "preferred distance": "0~5000m",
+      "recent orders": [
+        {
+          "store": "Little Steamed Fairy Steamed Dishes (Small Bowls.Home-style Stir-fry)",
+          "product": "Steamed Potato Beef Brisket (Mild Spicy) + Two Farm Vegetables + Sterilized Egg + Rice, Steamed Line-caught Bass (Large Portion)"
+        },
+        {
+          "store": "City barbecue•Slow-roasted American Barbecue",
+          "product": "Slow-roasted Beef Ribs (Bone-in About 200g) ➕ Fruit and Vegetables"
+        }
+      ],
+      "search history": [
+        "Steamed fish",
+        "Low-oil healthy dishes",
+        "High protein",
+        "Steamed dishes"
+      ]
+    },
+    "desserts/drinks/snacks": {
+      "frequently purchased categories": [
+        "Beverages Desserts/Pure Tea/Herbal Tea (Average ¥20)",
+        "Beverages Desserts/Fruit Salad (Average ¥32)"
+      ],
+      "cost per order": "¥15~35",
+      "preferred store rating": "4.4~5.0 stars",
+      "preferred delivery time": "15~25 minutes",
+      "preferred distance": "0~2000m",
+      "recent orders": [
+        {
+          "store": "Yeye Not Tea",
+          "product": "White Orchid Coconut Water"
+        },
+        {
+          "store": "Clear Tea House",
+          "product": "Sugar-free Green Tea"
+        }
+      ],
+      "search history": [
+        "Sugar-free drinks",
+        "Pure tea",
+        "Low-sugar desserts"
+      ]
+    },
+    "night snack": {
+      "frequently purchased categories": [
+        "Light Meals/Health Meals (Average ¥45)",
+        "Light Meals/Small Bowl Dishes/Small Portion Dishes (Average ¥40)"
+      ],
+      "cost per order": "¥35~50",
+      "preferred store rating": "4.3~4.8 stars",
+      "preferred delivery time": "20~35 minutes",
+      "preferred distance": "0~2500m",
+      "recent orders": [
+        {
+          "store": "Late Night Healthy Kitchen",
+          "product": "Steamed Chicken Breast"
+        },
+        {
+          "store": "Night Light Food Hall",
+          "product": "Chicken Breast Vegetable Salad"
+        },
+        {
+          "store": "Diet Restaurant",
+          "product": "Low-fat Beef Cubes"
+        }
+      ],
+      "search history": [
+        "Fitness night snack",
+        "Low-calorie supper",
+        "Protein night food",
+        "No-fry night snack"
+      ]
+    }
+  },
+  "stores": {
+    "S23312256807055062_S85735": {
+      "name": "Lai Shili Pu·Pancake (Sanjiang International Store)",
+      "store_id": "S23312256807055062_S85735",
+      "score": 4.7,
+      "location": {
+        "address": "The Second Shop from East, Unit 01, Building B2, Sanjiang International Garden, Wanjiang Community, Duohu Street, Jindong District, Jinhua City, Zhejiang Province",
+        "latitude": 29.093997,
+        "longitude": 119.680395
+      },
+      "tags": [],
+      "products": [
+        {
+          "name": "Multigrain Pancake + Egg + Crispy Cracker + Handmade Extra Large Tenderloin + Lettuce",
+          "product_id": "S67035860351848435_P63325",
+          "store_id": "S23312256807055062_S85735",
+          "store_name": "Lai Shili Pu·Pancake (Sanjiang International Store)",
+          "price": 20.8,
+          "tags": [],
+          "attributes": [],
+          "quantity": 9999
+        },
+        {
+          "name": "[Add] Beef Slices",
+          "product_id": "S11629187197692636_P36270",
+          "store_id": "S23312256807055062_S85735",
+          "store_name": "Lai Shili Pu·Pancake (Sanjiang International Store)",
+          "price": 6.8,
+          "tags": [],
+          "attributes": [],
+          "quantity": 9999
+        },
+        {
+          "name": "Multigrain Pancake + Egg + Crispy Cracker + Large Tenderloin + Hot Dog + Shredded Potato + Lettuce",
+          "product_id": "S84101366788788025_P38949",
+          "store_id": "S23312256807055062_S85735",
+          "store_name": "Lai Shili Pu·Pancake (Sanjiang International Store)",
+          "price": 21.8,
+          "tags": [],
+          "attributes": [],
+          "quantity": 9999
+        }
+      ]
+    },
+    "S16925160597268446_S05242": {
+      "name": "Yeye Not Tea (Jinhua World Trade Plaza Store)",
+      "store_id": "S16925160597268446_S05242",
+      "score": 4.9,
+      "location": {
+        "address": "Yeye Not Tea NOYEYENOTEA, LGA002, B1 Floor, World Trade City Plaza, Wucheng District, Jinhua City, Zhejiang Province (Jinhua World Trade Plaza Store)",
+        "latitude": 29.081291,
+        "longitude": 119.64931
+      },
+      "tags": [],
+      "products": [
+        {
+          "name": "White Orchid Coconut Water",
+          "product_id": "S32779988634634158_P65798",
+          "store_id": "S16925160597268446_S05242",
+          "store_name": "Yeye Not Tea (Jinhua World Trade Plaza Store)",
+          "price": 22,
+          "tags": [
+            "Sweet and Fresh"
+          ],
+          "attributes": [
+            "Ice",
+            "Less Ice",
+            "70% Sugar|Recommended",
+            "Full Sugar",
+            "50% Sugar",
+            "30% Sugar",
+            "No Added Sugar"
+          ],
+          "quantity": 9999
+        },
+        {
+          "name": "A Touch of White Orchid Ice",
+          "product_id": "S24688012702963953_P02557",
+          "store_id": "S16925160597268446_S05242",
+          "store_name": "Yeye Not Tea (Jinhua World Trade Plaza Store)",
+          "price": 22,
+          "tags": [
+            "Rich"
+          ],
+          "attributes": [],
+          "quantity": 9999
+        },
+        {
+          "name": "Peach Coconut Water",
+          "product_id": "S22957911286188049_P55198",
+          "store_id": "S16925160597268446_S05242",
+          "store_name": "Yeye Not Tea (Jinhua World Trade Plaza Store)",
+          "price": 20,
+          "tags": [
+            "Sweet and Fresh"
+          ],
+          "attributes": [
+            "Ice"
+          ],
+          "quantity": 9999
+        }
+      ]
+    },
+    "S26695505444764090_S24084": {
+      "name": "Shanghai Auntie's Soft Pancake·Rice Ball·Sandwich",
+      "store_id": "S26695505444764090_S24084",
+      "score": 4.7,
+      "location": {
+        "address": "Room 102, No. 25 Zhongcun Road, Jiangnan Street, Wucheng District, Jinhua City, Zhejiang Province (Self-declared)",
+        "latitude": 29.089573,
+        "longitude": 119.657269
+      },
+      "tags": [],
+      "products": [
+        {
+          "name": "(Double Egg) Egg Pancake + Handmade Tenderloin + Chicken Strips + Pork Floss Powder + Lettuce",
+          "product_id": "S43462564743776437_P96825",
+          "store_id": "S26695505444764090_S24084",
+          "store_name": "Shanghai Auntie's Soft Pancake·Rice Ball·Sandwich",
+          "price": 23.8,
+          "tags": [],
+          "attributes": [],
+          "quantity": 9999
+        }
+      ]
+    },
+    "S93334732768780347_S88440": {
+      "name": "Xinshiqi Milk Tea·Fried Chicken (Jinhua Wanda Plaza Store)",
+      "store_id": "S93334732768780347_S88440",
+      "score": 4.9,
+      "location": {
+        "address": "Xinshiqi Chinese Milk Tea & Fried Chicken, 3F, Wanda Plaza Jinhua Jindong Store, 300 Liyu East Road, Jindong District, Jinhua City, Zhejiang Province",
+        "latitude": 29.092072,
+        "longitude": 119.676135
+      },
+      "tags": [],
+      "products": [
+        {
+          "name": "Green Grape Lemon Tea",
+          "product_id": "S25408290377370828_P25120",
+          "store_id": "S93334732768780347_S88440",
+          "store_name": "Xinshiqi Milk Tea·Fried Chicken (Jinhua Wanda Plaza Store)",
+          "price": 17,
+          "tags": [
+            "Refreshing"
+          ],
+          "attributes": [],
+          "quantity": 9999
+        },
+        {
+          "name": "Watermelon Ambrosia",
+          "product_id": "S30780031859790990_P33969",
+          "store_id": "S93334732768780347_S88440",
+          "store_name": "Xinshiqi Milk Tea·Fried Chicken (Jinhua Wanda Plaza Store)",
+          "price": 15,
+          "tags": [
+            "Sweet and Fresh",
+            "Heat-relieving"
+          ],
+          "attributes": [],
+          "quantity": 9999
+        }
+      ]
+    }
+  },
+  "orders": {
+    "D0716001O01": {
+      "order_id": "D0716001O01",
+      "order_type": "delivery",
+      "user_id": "U000043",
+      "store_id": "S23312256807055062_S85735",
+      "note": "Less crispy cracker",
+      "location": {
+        "address": "Building A, Baolian Plaza, 1103 Liyu Road, Wucheng District, Jinhua City, Zhejiang Province",
+        "longitude": 119.644158,
+        "latitude": 29.079634
+      },
+      "dispatch_time": "2025-01-31 11:12:00",
+      "shipping_time": 48,
+      "delivery_time": "2025-01-31 12:00:00",
+      "total_price": 27.6,
+      "create_time": "2025-01-31 11:00:00",
+      "update_time": "2025-01-31 11:00:00",
+      "status": "delivered",
+      "products": [
+        {
+          "product_id": "S67035860351848435_P63325",
+          "price": 20.8,
+          "quantity": 1,
+          "attributes": ""
+        },
+        {
+          "product_id": "S11629187197692636_P36270",
+          "price": 6.8,
+          "quantity": 1,
+          "attributes": ""
+        }
+      ]
+    }
+  }
+}

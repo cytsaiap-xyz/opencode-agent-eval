@@ -1,0 +1,585 @@
+{
+  "task_id": "10811011",
+  "domain": "cross_domain",
+  "time": "2025-11-07 16:45:49",
+  "user_id": "U835115",
+  "weather": [
+    {
+      "city": "Changchun",
+      "category": "sunny",
+      "datetime": "2025-11-07",
+      "temperature": [
+        -2,
+        5
+      ],
+      "humidity": 45
+    },
+    {
+      "city": "Taiyuan",
+      "category": "cloudy",
+      "datetime": "2025-11-11",
+      "temperature": [
+        1,
+        10
+      ],
+      "humidity": 67
+    }
+  ],
+  "location": [
+    {
+      "address": "Room 1203, Building B, Changchun International Financial Center, 1588 Kaiyun Street, Chaoyang District, Changchun, Jilin Province",
+      "longitude": 125.293234,
+      "latitude": 43.817652
+    }
+  ],
+  "user_profile": {
+    "user id": "U835115",
+    "occupation": "accountant",
+    "gender": "male",
+    "age group": "30~35",
+    "residence": "Changchun",
+    "work address": "Room 1203, Building B, Changchun International Financial Center, 1588 Kaiyun Street, Chaoyang District, Changchun, Jilin Province",
+    "dietary restrictions": "Avoids high purine foods (such as organ meats/seafood soups), no alcohol",
+    "family status": "Has children",
+    "personality": "Overly reliant on others' guidance, lacks independence and decisiveness"
+  },
+  "user_historical_behaviors": {
+    "user id": "U835115",
+    "occupation": "accountant",
+    "gender": "male",
+    "age group": "30~35",
+    "residence": "Changchun",
+    "Permanent address": "Room 501, Building 3, Jilin University of Finance and Economics Faculty Quarters, 6388 Yatai Street, Nanguan District, Changchun, Jilin Province",
+    "work address": "Room 1203, Building B, Changchun International Financial Center, 1588 Kaiyun Street, Chaoyang District, Changchun, Jilin Province",
+    "delivery": {
+      "food delivery": {
+        "breakfast": {
+          "frequently purchased categories": [
+            "Quick meals/Buns/Pan-fried buns (average 15 yuan)",
+            "Quick meals/Light food (average 28 yuan)",
+            "Quick meals/Fried dough sticks (average 8 yuan)"
+          ],
+          "cost per order": "15~35 yuan",
+          "preferred store rating": "4.3~4.8",
+          "preferred delivery time": "15~25 minutes",
+          "preferred distance": "0~2500m",
+          "recent orders": [
+            {
+              "store": "Xian Liang Fang Breakfast",
+              "product": "Soy milk and fried dough sticks set"
+            },
+            {
+              "store": "Mai Xuan Light Food",
+              "product": "Whole wheat sandwich set"
+            },
+            {
+              "store": "Pumpkin Porridge Shop",
+              "product": "Stomach-friendly porridge with xiaolongbao"
+            }
+          ],
+          "search history": [
+            "Low-fat breakfast",
+            "Stomach-friendly porridge",
+            "Whole wheat bread",
+            "Porridge",
+            "Eight treasure porridge",
+            "Soy milk"
+          ]
+        },
+        "weekday lunch/dinner": {
+          "frequently purchased categories": [
+            "Quick meals/Healthy meals (average 45 yuan)",
+            "Chinese cuisine/Cantonese cuisine (average 65 yuan)",
+            "Foreign cuisine/Pasta (average 55 yuan)"
+          ],
+          "cost per order": "40~70 yuan",
+          "preferred store rating": "4.5~4.9",
+          "preferred delivery time": "20~35 minutes",
+          "preferred distance": "0~3000m",
+          "recent orders": [
+            {
+              "store": "Yue Shan Fang",
+              "product": "Steamed bass fish set"
+            },
+            {
+              "store": "Slim Meal Workshop",
+              "product": "Chicken breast vegetable salad"
+            },
+            {
+              "store": "Yang's Pasta House",
+              "product": "Tomato shrimp pasta"
+            }
+          ],
+          "search history": [
+            "Low-fat",
+            "Healthy meal",
+            "Steamed fish",
+            "Light diet",
+            "Cantonese cuisine",
+            "Chicken breast",
+            "Pasta"
+          ]
+        },
+        "weekend lunch/dinner": {
+          "frequently purchased categories": [
+            "Chinese cuisine/Cantonese cuisine (average 120 yuan)",
+            "Foreign cuisine/Japanese bento/Sushi (average 85 yuan)",
+            "Chinese cuisine/Grilled fish (average 110 yuan)"
+          ],
+          "cost per order": "80~180 yuan",
+          "preferred store rating": "4.6~5.0",
+          "preferred delivery time": "25~45 minutes",
+          "preferred distance": "0~5000m",
+          "recent orders": [
+            {
+              "store": "Pin Wei Xuan Cantonese Restaurant",
+              "product": "Family set (White cut chicken + Garlic steamed shrimp + Choy sum)"
+            },
+            {
+              "store": "Sakura Sushi",
+              "product": "Salmon sashimi platter"
+            },
+            {
+              "store": "Bashu Grilled Fish",
+              "product": "Mild spicy lemon grilled fish"
+            }
+          ],
+          "search history": [
+            "Family meal",
+            "Family set",
+            "Non-spicy grilled fish",
+            "Japanese cuisine",
+            "Kids meal",
+            "Sushi"
+          ]
+        },
+        "desserts/drinks/snacks": {
+          "frequently purchased categories": [
+            "Beverages and desserts/Coffee (average 28 yuan)",
+            "Beverages and desserts/Pure tea/Herbal tea (average 22 yuan)",
+            "Beverages and desserts/Fruit salad (average 32 yuan)"
+          ],
+          "cost per order": "20~40 yuan",
+          "preferred store rating": "4.4~4.9",
+          "preferred delivery time": "15~30 minutes",
+          "preferred distance": "0~3000m",
+          "recent orders": [
+            {
+              "store": "Starbucks",
+              "product": "Americano"
+            },
+            {
+              "store": "HEYTEA",
+              "product": "Oolong tea"
+            },
+            {
+              "store": "Fresh Fruit More",
+              "product": "Mango pomelo sago"
+            }
+          ],
+          "search history": [
+            "Sugar-free coffee",
+            "Oolong tea",
+            "Fruit salad",
+            "Low-sugar beverages",
+            "Coffee"
+          ]
+        },
+        "night snack": {
+          "frequently purchased categories": [
+            "Quick meals/Small dishes/Small portions (average 42 yuan)",
+            "Hot pot/Clay pot porridge (average 38 yuan)",
+            "Quick meals/Rice noodles/Rice vermicelli (average 35 yuan)"
+          ],
+          "cost per order": "30~50 yuan",
+          "preferred store rating": "4.2~4.8",
+          "preferred delivery time": "20~40 minutes",
+          "preferred distance": "0~4000m",
+          "recent orders": [
+            {
+              "store": "Yunnan Crossing Bridge Rice Noodles",
+              "product": "Clear broth rice noodles"
+            },
+            {
+              "store": "Porridge Fragrance House",
+              "product": "Century egg and lean pork porridge"
+            },
+            {
+              "store": "Small Dish Restaurant",
+              "product": "Cold shredded chicken + Wood ear mushroom"
+            }
+          ],
+          "search history": [
+            "Light night snack",
+            "Stomach-friendly porridge",
+            "Small dishes",
+            "Rice noodles",
+            "Non-spicy",
+            "Easy to digest"
+          ]
+        }
+      },
+      "product delivery": {
+        "frequently purchased categories": [
+          "Vegetables/Bean products(28%)",
+          "Raw meat/Poultry/Eggs(24%)",
+          "Grain, oil, seasoning and dried goods(15%)",
+          "Household items(12%)",
+          "Snack foods(10%)",
+          "Others(11%)"
+        ],
+        "frequently visited stores": [
+          "Fresh food supermarket(36%)",
+          "Farmers market(25%)",
+          "Convenience home(18%)",
+          "Daily necessities(12%)",
+          "Other stores(9%)"
+        ],
+        "cost per order by category": {
+          "Vegetables/Bean products": "5~20 yuan",
+          "Raw meat/Poultry/Eggs": "20~60 yuan",
+          "Grain, oil, seasoning and dried goods": "10~40 yuan",
+          "Household items": "15~45 yuan",
+          "Snack foods": "8~25 yuan"
+        },
+        "preferred delivery time": "30~60 minutes",
+        "typical order time": "17~19 o'clock(42%), 10~12 o'clock(25%), 20~21 o'clock(18%)",
+        "recent orders": [
+          {
+            "store": "Fresh food supermarket",
+            "product": "Potatoes 2 jin, tomatoes 1 jin, cucumbers 1 jin"
+          },
+          {
+            "store": "Farmers market",
+            "product": "Lean pork 500g, one box of eggs"
+          },
+          {
+            "store": "Convenience home",
+            "product": "1 bottle of cooking oil, 1 bag of flour, 1 bag of salt"
+          }
+        ],
+        "search history": [
+          "Potatoes",
+          "Pork",
+          "Eggs",
+          "Laundry detergent",
+          "Cooking oil",
+          "Flour",
+          "Vegetables"
+        ]
+      }
+    },
+    "in-store consumption": {
+      "in-store dining": {
+        "fine-dining": {
+          "frequently consumed categories": [
+            "Regional cuisine/Northeastern cuisine (average 130 yuan)",
+            "Regional cuisine/Fish (average 150 yuan)",
+            "Foreign cuisine/Japanese cuisine (average 180 yuan)"
+          ],
+          "preferred average price per person": "120~180 yuan",
+          "preferred store rating": "4.2~4.8 stars",
+          "typical dining time": "18:30-20:30",
+          "preferred distance": "800~3000m",
+          "recent orders": [
+            {
+              "store": "Old Yang's Iron Pot Stew",
+              "product": "Iron pot stewed goose"
+            },
+            {
+              "store": "Songjiang Fish Restaurant",
+              "product": "Steamed bass"
+            },
+            {
+              "store": "Helu Rotating Sushi",
+              "product": "Premium sushi platter"
+            }
+          ],
+          "search history": [
+            "Smokeless BBQ",
+            "Family gathering",
+            "Business dinner",
+            "Alcohol-free menu"
+          ]
+        },
+        "light meal": {
+          "frequently consumed categories": [
+            "Snacks and fast food/Chinese quick meals (average 35 yuan)",
+            "Snacks and fast food/Western fast food (average 40 yuan)",
+            "Regional cuisine/Northeastern cuisine (average 45 yuan)"
+          ],
+          "preferred average price per person": "30~50 yuan",
+          "preferred store rating": "3.5~4.3 stars",
+          "typical dining time": "12:00-13:30",
+          "preferred distance": "0~500m",
+          "recent orders": [
+            {
+              "store": "Northeastern Dumpling King",
+              "product": "Three delicacies dumplings + Side dish"
+            },
+            {
+              "store": "Jixiang Wonton",
+              "product": "Shrimp wonton set"
+            },
+            {
+              "store": "McDonald's",
+              "product": "Grilled chicken burger set"
+            }
+          ],
+          "search history": [
+            "Weekday lunch",
+            "Fast food",
+            "Dumplings",
+            "Healthy quick meal"
+          ]
+        },
+        "desserts/drinks/snacks": {
+          "frequently consumed categories": [
+            "Beverage shops (average 20 yuan)",
+            "Bakery and desserts (average 30 yuan)",
+            "Other dining/Fresh fruits (average 25 yuan)"
+          ],
+          "preferred average price per person": "15~35 yuan",
+          "preferred store rating": "3.9~4.5 stars",
+          "typical dining time": "15:00-16:30",
+          "preferred distance": "0~600m",
+          "recent orders": [
+            {
+              "store": "Starbucks",
+              "product": "Americano"
+            },
+            {
+              "store": "Bread Talk",
+              "product": "Whole wheat bread"
+            },
+            {
+              "store": "Fresh Fruit Station",
+              "product": "Fruit platter"
+            }
+          ],
+          "search history": [
+            "Low-sugar beverages",
+            "Afternoon tea",
+            "Healthy snacks",
+            "Coffee"
+          ]
+        }
+      },
+      "other in-store services": {
+        "frequently consumed categories": {
+          "Sports and fitness/Fitness centers": "40%",
+          "Sports and fitness/Ball sports": "30%",
+          "Parent-child/Family entertainment": "20%",
+          "Leisure and entertainment/Massage/Foot therapy": "10%"
+        },
+        "cost per order by category": {
+          "Sports and fitness/Fitness centers": "150~300 yuan",
+          "Sports and fitness/Ball sports": "80~150 yuan",
+          "Parent-child/Family entertainment": "120~200 yuan",
+          "Leisure and entertainment/Massage/Foot therapy": "180~250 yuan"
+        },
+        "preferred store rating": "4.0~4.8 stars",
+        "preferred service time": "18:00-21:00",
+        "preferred distance": "0~5000m",
+        "recent orders": [
+          {
+            "store": "Changchun Sports Center Gym",
+            "product": "Monthly fitness card package"
+          },
+          {
+            "store": "Happy Valley Family Park",
+            "product": "Weekend family package ticket"
+          },
+          {
+            "store": "Changchun Badminton Hall",
+            "product": "Two-person court for 2 hours"
+          }
+        ],
+        "search history": [
+          "Gym monthly card",
+          "Parent-child activities",
+          "Weekend badminton",
+          "Relaxation massage",
+          "Children's playground"
+        ]
+      }
+    },
+    "OTA": {
+      "visited scenes": {
+        "Historical sites": "30%",
+        "Exhibitions (museums/art galleries)": "25%",
+        "Parks": "20%",
+        "Theme parks": "15%",
+        "Natural landscapes (mountains/lakes/forests)": "10%"
+      },
+      "cost per night on hotel": "300~500 yuan",
+      "visited hotels": {
+        "Home Inn": "35%",
+        "Ji Hotel": "25%",
+        "Hanting": "20%",
+        "7 Days Inn": "10%",
+        "Atour": "10%"
+      },
+      "browsed hotels": {
+        "Three-star hotels": "45%",
+        "Comfort hotels": "35%",
+        "Economy hotels": "20%"
+      },
+      "historical travel plans": {
+        "Changchun-Harbin": {
+          "Price range": "100-150 yuan",
+          "Transportation": "High-speed rail/EMU train"
+        },
+        "Harbin-Changchun": {
+          "Price range": "100-150 yuan",
+          "Transportation": "High-speed rail/EMU train"
+        },
+        "Changchun-Beijing": {
+          "Price range": "400-600 yuan",
+          "Transportation": "High-speed rail/EMU train"
+        },
+        "Beijing-Changchun": {
+          "Price range": "400-600 yuan",
+          "Transportation": "High-speed rail/EMU train"
+        },
+        "Changchun-Shanghai": {
+          "Price range": "800-1200 yuan",
+          "Transportation": "Airplane"
+        },
+        "Shanghai-Changchun": {
+          "Price range": "800-1200 yuan",
+          "Transportation": "Airplane"
+        },
+        "Changchun-Shenyang": {
+          "Price range": "80-120 yuan",
+          "Transportation": "High-speed rail/EMU train"
+        },
+        "Shenyang-Changchun": {
+          "Price range": "80-120 yuan",
+          "Transportation": "High-speed rail/EMU train"
+        }
+      }
+    }
+  },
+  "stores": {},
+  "orders": {
+    "S17550802140416746_O00001": {
+      "order_id": "S17550802140416746_O00001",
+      "order_type": "delivery",
+      "user_id": "U835115",
+      "store_id": "S17550802140416746_S00001",
+      "total_price": 159.9,
+      "create_time": "2025-11-06 15:32:45",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17550802140416746_P00002",
+          "price": 159.9,
+          "quantity": 1
+        }
+      ]
+    },
+    "S17550802140416746_O00003": {
+      "order_id": "S17550802140416746_O00003",
+      "order_type": "flight",
+      "user_id": "U835115",
+      "store_id": "F00002",
+      "note": "Business trip",
+      "location": {
+        "address": "Longjia International Airport, Longjia Town, Changchun, Jilin Province",
+        "longitude": 125.684764,
+        "latitude": 43.996157
+      },
+      "dispatch_time": "",
+      "shipping_time": 0.0,
+      "delivery_time": "",
+      "total_price": 1580.0,
+      "create_time": "2025-10-20 10:23:45",
+      "update_time": "2025-10-20 10:23:45",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "P00001",
+          "price": 1580.0,
+          "quantity": 1,
+          "seat_type": "Business class"
+        }
+      ]
+    },
+    "S17550802140416746_O00004": {
+      "order_id": "S17550802140416746_O00004",
+      "order_type": "flight",
+      "user_id": "U835115",
+      "store_id": "F00003",
+      "note": "Business trip",
+      "location": {
+        "address": "Longjia International Airport, Longjia Town, Changchun, Jilin Province",
+        "longitude": 125.684764,
+        "latitude": 43.996157
+      },
+      "dispatch_time": "",
+      "shipping_time": 0.0,
+      "delivery_time": "",
+      "total_price": 1620.0,
+      "create_time": "2025-09-08 14:15:32",
+      "update_time": "2025-09-08 14:15:32",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "P00002",
+          "price": 1620.0,
+          "quantity": 1,
+          "seat_type": "Business class"
+        }
+      ]
+    },
+    "S17550802140416746_O00005": {
+      "order_id": "S17550802140416746_O00005",
+      "order_type": "instore",
+      "user_id": "U835115",
+      "store_id": "S17550802140416746_I00011",
+      "total_price": 128.0,
+      "create_time": "2025-11-07 16:58:12",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17550802140416746_P00053",
+          "price": 128.0,
+          "quantity": 1
+        }
+      ]
+    },
+    "S17550802140416746_O00006": {
+      "order_id": "S17550802140416746_O00006",
+      "order_type": "instore",
+      "user_id": "U835115",
+      "store_id": "S17550802140416746_I00011",
+      "total_price": 15.0,
+      "create_time": "2025-11-07 16:59:03",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17550802140416746_P00054",
+          "price": 15.0,
+          "quantity": 1
+        }
+      ]
+    },
+    "S17550802140416746_O00007": {
+      "order_id": "S17550802140416746_O00007",
+      "order_type": "instore",
+      "user_id": "U835115",
+      "store_id": "S00001",
+      "total_price": 280.0,
+      "create_time": "2025-10-25 18:45:12",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "P00003",
+          "price": 140.0,
+          "quantity": 2
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,1145 @@
+{
+  "task_id": "A0811007",
+  "domain": "cross_domain",
+  "time": "2025-05-19 10:34:25",
+  "user_id": "U069141",
+  "weather": [
+    {
+      "city": "Nanning",
+      "category": "cloudy",
+      "datetime": "2025-05-19",
+      "temperature": [
+        24,
+        32
+      ],
+      "humidity": 75
+    },
+    {
+      "city": "Yuxi",
+      "category": "sunny",
+      "datetime": "2025-05-19",
+      "temperature": [
+        18,
+        28
+      ],
+      "humidity": 65
+    }
+  ],
+  "location": [
+    {
+      "address": "Building 12, 3rd Floor, Zone C, Nanning Software Park, No.15 Innovation Road, High-tech Zone, Xixiangtang District, Nanning, Guangxi Zhuang Autonomous Region",
+      "longitude": 108.290733,
+      "latitude": 22.849761
+    }
+  ],
+  "user_profile": {
+    "user id": "U069141",
+    "occupation": "Network Engineer",
+    "gender": "female",
+    "age group": "30~35",
+    "residence": "Nanning",
+    "Permanent address": "Room 1205, Building B, China Resources Building, No.136 Minzu Avenue, Qingxiu District, Nanning, Guangxi Zhuang Autonomous Region",
+    "work address": "Building 12, 3rd Floor, Zone C, Nanning Software Park, No.15 Innovation Road, High-tech Zone, Xixiangtang District, Nanning, Guangxi Zhuang Autonomous Region",
+    "dietary restrictions": "Avoids high sugar, avoids caffeine",
+    "family status": "Has children",
+    "personality": "Jumps between thoughts, easily distracted and changes her mind frequently"
+  },
+  "user_historical_behaviors": {
+    "user id": "U069141",
+    "occupation": "network engineer",
+    "gender": "female",
+    "age group": "30~35",
+    "residence": "Nanning",
+    "Permanent address": "Room 1205, Building B, China Resources Building, No.136 Minzu Avenue, Qingxiu District, Nanning, Guangxi Zhuang Autonomous Region",
+    "work address": "Building 12, 3rd Floor, Zone C, Nanning Software Park, No.15 Innovation Road, High-tech Zone, Xixiangtang District, Nanning, Guangxi Zhuang Autonomous Region",
+    "delivery": {
+      "food delivery": {
+        "breakfast": {
+          "frequently purchased categories": [
+            "Quick Meals/Steamed Buns/Pan-fried Buns (Average 18 yuan)",
+            "Quick Meals/Rice Noodles/Noodles (Average 22 yuan)",
+            "Quick Meals/Dumplings/Wonton (Average 20 yuan)"
+          ],
+          "cost per order": "15~30 yuan",
+          "preferred store rating": "4.3~4.8 points",
+          "preferred delivery time": "15~30 minutes",
+          "preferred distance": "0~2000m",
+          "recent orders": [
+            {
+              "store": "Old Guangzhou Rice Noodle Rolls",
+              "product": "Shrimp Rice Noodle Rolls + Soy Milk"
+            },
+            {
+              "store": "Grandma's Steamed Dumplings",
+              "product": "Pork Steamed Dumplings + Century Egg Porridge"
+            },
+            {
+              "store": "Guilin Rice Noodle Breakfast Shop",
+              "product": "Signature Rice Noodles + Fried Dough Sticks"
+            }
+          ],
+          "search history": [
+            "Rice Noodle Rolls",
+            "Soy Milk",
+            "Steamed Buns",
+            "Rice Noodles",
+            "Nanning Breakfast"
+          ]
+        },
+        "weekday lunch/dinner": {
+          "frequently purchased categories": [
+            "Quick Meals/Snail Noodles (Average 28 yuan)",
+            "Chinese Cuisine/Hunan Cuisine (Average 45 yuan)",
+            "Quick Meals/Rice with Toppings (Average 32 yuan)"
+          ],
+          "cost per order": "25~60 yuan",
+          "preferred store rating": "4.2~4.8 points",
+          "preferred delivery time": "20~35 minutes",
+          "preferred distance": "0~3500m",
+          "recent orders": [
+            {
+              "store": "Liuzhou Authentic Snail Noodles",
+              "product": "Signature Snail Noodles + Braised Egg"
+            },
+            {
+              "store": "Hunan Style Stir-fry",
+              "product": "Steamed Fish Head with Chopped Chili Rice"
+            },
+            {
+              "store": "Home-style Restaurant",
+              "product": "Shredded Pork with Eggs Rice + Seaweed Soup"
+            }
+          ],
+          "search history": [
+            "Snail Noodles",
+            "Rice with Toppings",
+            "Non-spicy",
+            "Hunan Cuisine",
+            "Fast Food"
+          ]
+        },
+        "weekend lunch/dinner": {
+          "frequently purchased categories": [
+            "Chinese Cuisine/Cantonese Cuisine (Average 88 yuan)",
+            "Foreign Cuisine/Japanese Bento/Sushi (Average 95 yuan)",
+            "Chinese Cuisine/Crayfish (Average 120 yuan)"
+          ],
+          "cost per order": "75~180 yuan",
+          "preferred store rating": "4.5~4.9 points",
+          "preferred delivery time": "30~45 minutes",
+          "preferred distance": "0~5000m",
+          "recent orders": [
+            {
+              "store": "Cantonese Pavilion",
+              "product": "Shrimp Dumplings + Char Siu Bao + White Cut Chicken + Steamed Chicken Feet"
+            },
+            {
+              "store": "Sushi Story",
+              "product": "Salmon Set + Miso Soup"
+            },
+            {
+              "store": "Thirteen Spices Crayfish",
+              "product": "Garlic Crayfish 2 lbs + Baby Cabbage"
+            }
+          ],
+          "search history": [
+            "Cantonese Cuisine",
+            "Sushi",
+            "Family Meal",
+            "Crayfish",
+            "Non-spicy Japanese Food"
+          ]
+        },
+        "desserts/drinks/snacks": {
+          "frequently purchased categories": [
+            "Beverages/Desserts/Juice (Average 22 yuan)",
+            "Beverages/Desserts/Fruit Salad (Average 32 yuan)",
+            "Beverages/Desserts/Chinese Pastries (Average 25 yuan)"
+          ],
+          "cost per order": "15~40 yuan",
+          "preferred store rating": "4.4~4.9 points",
+          "preferred delivery time": "15~30 minutes",
+          "preferred distance": "0~3000m",
+          "recent orders": [
+            {
+              "store": "Fresh Juice Bar",
+              "product": "Fresh Watermelon Juice"
+            },
+            {
+              "store": "Fruit Salad",
+              "product": "Colorful Fruit Salad + Coconut Milk"
+            },
+            {
+              "store": "Osmanthus Pastry Shop",
+              "product": "Osmanthus Cake + Mung Bean Cake"
+            }
+          ],
+          "search history": [
+            "Juice",
+            "Fruit Salad",
+            "Mung Bean Cake",
+            "Caffeine-Free Drinks"
+          ]
+        },
+        "night snack": {
+          "frequently purchased categories": [
+            "Hot Pot/Chicken Pot (Average 48 yuan)",
+            "Quick Meals/Clay Pot Dishes (Average 38 yuan)",
+            "Snacks/Braised Food (Average 35 yuan)"
+          ],
+          "cost per order": "30~55 yuan",
+          "preferred store rating": "4.2~4.7 points",
+          "preferred delivery time": "25~40 minutes",
+          "preferred distance": "0~3500m",
+          "recent orders": [
+            {
+              "store": "Chongqing Chicken Pot",
+              "product": "Mild Spicy Chicken Pot + Rice"
+            },
+            {
+              "store": "Old Guangzhou Clay Pot Porridge",
+              "product": "Century Egg Lean Pork Porridge + Fried Dough Sticks"
+            },
+            {
+              "store": "Braised Food First Choice",
+              "product": "Braised Food Platter"
+            }
+          ],
+          "search history": [
+            "Clay Pot Porridge",
+            "Non-spicy Night Snack",
+            "Braised Food",
+            "Chicken Pot"
+          ]
+        }
+      },
+      "product delivery": {
+        "frequently purchased categories": [
+          "Vegetables/Bean Products(30%)",
+          "Raw Meat/Poultry/Eggs(22%)",
+          "Fruits(18%)",
+          "Grain/Oil/Condiments/Dry Goods(12%)",
+          "Household Items(10%)",
+          "Others(8%)"
+        ],
+        "frequently visited stores": [
+          "Yonghui Superstores(Nanning Qingxiu Store)(45%)",
+          "MissFresh(Nanning Distribution Center)(30%)",
+          "CR Vanguard(Minzu Avenue Store)(15%)",
+          "Other Stores(10%)"
+        ],
+        "cost per order by category": {
+          "Vegetables/Bean Products": "5~25 yuan",
+          "Raw Meat/Poultry/Eggs": "20~60 yuan",
+          "Fruits": "10~40 yuan",
+          "Grain/Oil/Condiments/Dry Goods": "15~45 yuan",
+          "Household Items": "10~50 yuan"
+        },
+        "preferred delivery time": "30~60 minutes",
+        "typical order time": "17~19:00(35%), 9~11:00(25%), 13~15:00(20%)",
+        "recent orders": [
+          {
+            "store": "Yonghui Superstores(Nanning Qingxiu Store)",
+            "product": "Bok Choy + Tofu + Eggs + Pork Belly"
+          },
+          {
+            "store": "MissFresh(Nanning Distribution Center)",
+            "product": "Mangoes 2 lbs + Bananas 1 lb"
+          },
+          {
+            "store": "CR Vanguard(Minzu Avenue Store)",
+            "product": "Tissues + Dish Soap + Hand Soap"
+          }
+        ],
+        "search history": [
+          "Vegetables",
+          "Tofu",
+          "Eggs",
+          "Fruits",
+          "Pork",
+          "Tissues",
+          "Kids Snacks"
+        ]
+      }
+    },
+    "in-store consumption": {
+      "in-store dining": {
+        "fine-dining": {
+          "frequently purchased categories": [
+            "Foreign Cuisine/Japanese Food (Average 120 yuan)",
+            "Regional Cuisine/Cantonese Cuisine (Average 95 yuan)",
+            "Regional Cuisine/Special Dishes (Average 85 yuan)"
+          ],
+          "preferred average price per person": "85~120 yuan",
+          "preferred store rating": "4.0~4.8 stars",
+          "typical dining time": "18:30-20:30",
+          "preferred distance": "500~3000m",
+          "recent orders": [
+            {
+              "store": "Sushi Master",
+              "product": "Premium Sashimi Platter"
+            },
+            {
+              "store": "Cantonese Delight",
+              "product": "Steamed Grouper"
+            },
+            {
+              "store": "Nanning Impression",
+              "product": "Sour Bamboo Shoots Duck Pot"
+            }
+          ],
+          "search history": [
+            "Sugar-Free Cuisine",
+            "Healthy Restaurant",
+            "Cantonese Cuisine",
+            "Japanese Food"
+          ]
+        },
+        "light meal": {
+          "frequently purchased categories": [
+            "Snacks/Fast Food/Chinese Quick Meals (Average 30 yuan)",
+            "Snacks/Fast Food/Western Fast Food (Average 35 yuan)",
+            "Regional Cuisine/Jiangzhe Cuisine (Average 45 yuan)"
+          ],
+          "preferred average price per person": "25~45 yuan",
+          "preferred store rating": "3.5~4.3 stars",
+          "typical dining time": "12:00-13:00",
+          "preferred distance": "0~500m",
+          "recent orders": [
+            {
+              "store": "Nutrition Workshop",
+              "product": "Low Sugar Chicken Salad"
+            },
+            {
+              "store": "Light Food Philosophy",
+              "product": "Quinoa Chicken Breast Meal Box"
+            },
+            {
+              "store": "Jiazhou Small Kitchen",
+              "product": "Stir-fried Seasonal Vegetables Set"
+            }
+          ],
+          "search history": [
+            "Healthy Quick Meal",
+            "Low Sugar",
+            "Light Food",
+            "Salad"
+          ]
+        },
+        "desserts/drinks/snacks": {
+          "frequently purchased categories": [
+            "Beverage Shops (Average 18 yuan)",
+            "Bread and Desserts (Average 25 yuan)",
+            "Other Food/Fresh Fruits (Average 15 yuan)"
+          ],
+          "preferred average price per person": "15~25 yuan",
+          "preferred store rating": "4.0~4.7 stars",
+          "typical dining time": "15:00-16:30",
+          "preferred distance": "0~300m",
+          "recent orders": [
+            {
+              "store": "CHABA",
+              "product": "Sugar-Free Oolong Tea"
+            },
+            {
+              "store": "Fresh Fruit Workshop",
+              "product": "Fruit Platter"
+            },
+            {
+              "store": "Bread Talk",
+              "product": "Whole Wheat Bread"
+            }
+          ],
+          "search history": [
+            "Sugar-Free Drinks",
+            "Low Sugar Desserts",
+            "Fruits",
+            "Whole Wheat Bread"
+          ]
+        }
+      },
+      "other in-store services": {
+        "frequently consumed categories": {
+          "Sports/Fitness Center": "40%",
+          "Beauty/Yoga": "30%",
+          "Entertainment/Massage/Foot Massage": "20%",
+          "Parent-Child/Activities": "10%"
+        },
+        "cost per order by category": {
+          "Sports/Fitness Center": "80~200 yuan",
+          "Beauty/Yoga": "120~180 yuan",
+          "Entertainment/Massage/Foot Massage": "150~280 yuan",
+          "Parent-Child/Activities": "100~200 yuan"
+        },
+        "preferred store rating": "4.0~4.8 stars",
+        "preferred service time": "19:00-21:00",
+        "preferred distance": "500~5000m",
+        "recent orders": [
+          {
+            "store": "Qingxiu District Leke Fitness",
+            "product": "Monthly Membership"
+          },
+          {
+            "store": "Tranquil Yoga Studio",
+            "product": "Single Class"
+          },
+          {
+            "store": "Children's Playground",
+            "product": "Parent-Child Interactive Package"
+          }
+        ],
+        "search history": [
+          "Gym",
+          "Women's Yoga",
+          "Parent-Child Activities",
+          "Weekend Family Activities",
+          "Relaxing Massage"
+        ]
+      }
+    },
+    "OTA": {
+      "visited scenes": {
+        "Natural Landscapes (Mountains/Lakes/Forests)": "35%",
+        "Theme Parks": "25%",
+        "Exhibition Halls (Museums/Art Galleries)": "15%",
+        "Hot Springs": "15%",
+        "Cultural Heritage Sites": "10%"
+      },
+      "cost per night on hotel": "500~1000 yuan",
+      "visited hotels": {
+        "Atour": "30%",
+        "Vienna": "25%",
+        "JI Hotel": "20%",
+        "Orange": "15%",
+        "Home Inn": "10%"
+      },
+      "browsed hotels": {
+        "Four-star Hotels": "40%",
+        "Comfort Hotels": "35%",
+        "Three-star Hotels": "20%",
+        "Luxury Hotels": "5%"
+      },
+      "historical travel plans": {
+        "Nanning-Guilin": {
+          "Price range": "150-300 yuan",
+          "Transportation method": "High-Speed Train"
+        },
+        "Nanning-Guangzhou": {
+          "Price range": "300-500 yuan",
+          "Transportation method": "High-Speed Train"
+        },
+        "Nanning-Chengdu": {
+          "Price range": "600-1000 yuan",
+          "Transportation method": "Airplane"
+        },
+        "Nanning-Beihai": {
+          "Price range": "100-200 yuan",
+          "Transportation method": "Long-distance bus"
+        },
+        "Nanning-Kunming": {
+          "Price range": "500-800 yuan",
+          "Transportation method": "Airplane"
+        },
+        "Guangzhou-Nanning": {
+          "Price range": "300-500 yuan",
+          "Transportation method": "High-Speed Train"
+        },
+        "Chengdu-Nanning": {
+          "Price range": "600-1000 yuan",
+          "Transportation method": "Airplane"
+        }
+      }
+    }
+  },
+  "stores": {
+    "S17550809460281769_S00001": {
+      "name": "Old Guangzhou Chicken with Pig Stomach",
+      "store_id": "S17550809460281769_S00001",
+      "score": 4.7,
+      "location": {
+        "address": "Old Guangzhou Chicken with Pig Stomach, Building 3, 1st Floor, Zone A, Nanning Software Park, No.8 Innovation Road, High-tech Zone, Xixiangtang District, Nanning, Guangxi Zhuang Autonomous Region",
+        "latitude": 22.849245,
+        "longitude": 108.290125
+      },
+      "tags": [
+        "Cantonese Style Soup",
+        "Dine-in Available",
+        "Popular Store"
+      ],
+      "store_type": "target",
+      "products": [
+        {
+          "name": "Signature Chicken with Pig Stomach Pot (Deluxe Single Serving)",
+          "store_id": "S17550809460281769_S00001",
+          "store_name": "Old Guangzhou Chicken with Pig Stomach",
+          "price": 68,
+          "tags": [],
+          "product_id": "S17550809460281769_P00001",
+          "attributes": [
+            "With scallion",
+            "Without scallion"
+          ],
+          "product_type": "target"
+        },
+        {
+          "name": "Nourishing Chicken with Pig Stomach Pot (Single Serving)",
+          "store_id": "S17550809460281769_S00001",
+          "store_name": "Old Guangzhou Chicken with Pig Stomach",
+          "price": 38,
+          "tags": [
+            "Classic Dish",
+            "Cantonese Style Soup"
+          ],
+          "product_id": "S17550809460281769_P00002",
+          "attributes": [
+            "With scallion",
+            "Without scallion"
+          ],
+          "product_type": "target"
+        },
+        {
+          "name": "Special Chicken with Pig Stomach Set for Two",
+          "store_id": "S17550809460281769_S00001",
+          "store_name": "Old Guangzhou Chicken with Pig Stomach",
+          "price": 98,
+          "tags": [
+            "Set Menu",
+            "Chicken with Pig Stomach",
+            "Cantonese Style Soup",
+            "Served with Rice",
+            "Low Sugar",
+            "Caffeine-Free"
+          ],
+          "product_id": "S17550809460281769_P00003",
+          "attributes": [
+            "With cilantro",
+            "Without cilantro",
+            "With scallion",
+            "Without scallion",
+            "White rice",
+            "Brown rice"
+          ],
+          "product_type": "target"
+        },
+        {
+          "name": "Small Portion Chicken with Pig Stomach",
+          "store_id": "S17550809460281769_S00001",
+          "store_name": "Old Guangzhou Chicken with Pig Stomach",
+          "price": 48,
+          "tags": [],
+          "product_id": "S17550809460281769_P00004",
+          "attributes": [
+            "With cilantro",
+            "Without cilantro",
+            "With scallion",
+            "Without scallion"
+          ],
+          "product_type": "distraction"
+        },
+        {
+          "name": "Brown Sugar Ginger Milk Pudding",
+          "store_id": "S17550809460281769_S00001",
+          "store_name": "Old Guangzhou Chicken with Pig Stomach",
+          "price": 18,
+          "tags": [
+            "Dessert",
+            "Cantonese Desserts"
+          ],
+          "product_id": "S17550809460281769_P00005",
+          "attributes": [],
+          "product_type": "distraction"
+        }
+      ]
+    },
+    "S17550809460281769_S00002": {
+      "name": "Lingnan Secret Recipe Chicken with Pig Stomach",
+      "store_id": "S17550809460281769_S00002",
+      "score": 4.6,
+      "location": {
+        "address": "Lingnan Secret Recipe Chicken with Pig Stomach, No.33 Keyuan Avenue, Xixiangtang District, Nanning, Guangxi Zhuang Autonomous Region",
+        "latitude": 22.851032,
+        "longitude": 108.292457
+      },
+      "tags": [
+        "Cantonese Soup Pot",
+        "Dine-in Available",
+        "Time-Honored Brand"
+      ],
+      "store_type": "target",
+      "products": [
+        {
+          "name": "Signature Secret Recipe Chicken with Pig Stomach Set for Three",
+          "store_id": "S17550809460281769_S00002",
+          "store_name": "Lingnan Secret Recipe Chicken with Pig Stomach",
+          "price": 88,
+          "tags": [
+            "Signature Dish",
+            "Dine-in Available",
+            "Popular Set Menu"
+          ],
+          "product_id": "S17550809460281769_P00006",
+          "attributes": [
+            "Mildly spicy",
+            "Not spicy",
+            "Extra ginger",
+            "Less ginger"
+          ],
+          "product_type": "target"
+        },
+        {
+          "name": "Traditional Nourishing Chicken with Pig Stomach",
+          "store_id": "S17550809460281769_S00002",
+          "store_name": "Lingnan Secret Recipe Chicken with Pig Stomach",
+          "price": 38,
+          "tags": [
+            "Classic Flavor",
+            "Dine-in Available",
+            "Health Soup"
+          ],
+          "product_id": "S17550809460281769_P00007",
+          "attributes": [
+            "Mildly spicy",
+            "Not spicy",
+            "Extra ginger",
+            "Less ginger"
+          ],
+          "product_type": "target"
+        },
+        {
+          "name": "Small Portion Selected Chicken with Pig Stomach",
+          "store_id": "S17550809460281769_S00002",
+          "store_name": "Lingnan Secret Recipe Chicken with Pig Stomach",
+          "price": 42,
+          "tags": [
+            "Dine-in Available",
+            "Lunch Recommendations"
+          ],
+          "product_id": "S17550809460281769_P00009",
+          "attributes": [
+            "Mildly spicy",
+            "Not spicy",
+            "Extra ginger",
+            "Less ginger"
+          ],
+          "product_type": "distraction"
+        }
+      ]
+    },
+    "S17550809460281769_S00003": {
+      "name": "Traditional Chicken with Pig Stomach Soup Restaurant",
+      "store_id": "S17550809460281769_S00003",
+      "score": 4.3,
+      "location": {
+        "address": "Traditional Chicken with Pig Stomach Soup Restaurant, No.20 Innovation Road, High-tech Zone, Xixiangtang District, Nanning, Guangxi Zhuang Autonomous Region",
+        "latitude": 22.850123,
+        "longitude": 108.291458
+      },
+      "tags": [
+        "Chicken with Pig Stomach",
+        "Nutritious Soup",
+        "Takeaway Only",
+        "No Dine-in"
+      ],
+      "store_type": "distraction",
+      "products": [
+        {
+          "name": "Signature Traditional Chicken with Pig Stomach",
+          "store_id": "S17550809460281769_S00003",
+          "store_name": "Traditional Chicken with Pig Stomach Soup Restaurant",
+          "price": 68,
+          "tags": [
+            "Signature",
+            "Chicken with Pig Stomach",
+            "Nutritious",
+            "Nourishing",
+            "Low Sugar"
+          ],
+          "product_id": "S17550809460281769_P00011",
+          "attributes": [
+            "Mildly spicy",
+            "Not spicy",
+            "Extra ginger",
+            "Add goji berries"
+          ],
+          "product_type": "distraction"
+        },
+        {
+          "name": "Clear Broth Chicken with Pig Stomach Soup Pot",
+          "store_id": "S17550809460281769_S00003",
+          "store_name": "Traditional Chicken with Pig Stomach Soup Restaurant",
+          "price": 58,
+          "tags": [
+            "Clear Broth",
+            "Chicken with Pig Stomach",
+            "No Additives",
+            "Nourishing",
+            "Low Sugar"
+          ],
+          "product_id": "S17550809460281769_P00012",
+          "attributes": [
+            "Add goji berries",
+            "Add astragalus",
+            "Regular portion",
+            "Large portion"
+          ],
+          "product_type": "distraction"
+        },
+        {
+          "name": "Chicken with Pig Stomach Soup with Ginger and Date",
+          "store_id": "S17550809460281769_S00003",
+          "store_name": "Traditional Chicken with Pig Stomach Soup Restaurant",
+          "price": 52,
+          "tags": [
+            "Ginger and Date",
+            "Warming",
+            "Chicken with Pig Stomach",
+            "Nutritious",
+            "No Added Sugar"
+          ],
+          "product_id": "S17550809460281769_P00013",
+          "attributes": [
+            "Extra ginger",
+            "Add dates",
+            "Not spicy"
+          ],
+          "product_type": "distraction"
+        },
+        {
+          "name": "Mushroom Chicken with Pig Stomach Pot",
+          "store_id": "S17550809460281769_S00003",
+          "store_name": "Traditional Chicken with Pig Stomach Soup Restaurant",
+          "price": 72,
+          "tags": [
+            "Mushroom",
+            "Chicken with Pig Stomach",
+            "Nourishing",
+            "Nutritious",
+            "Sugar-Free"
+          ],
+          "product_id": "S17550809460281769_P00014",
+          "attributes": [
+            "Add shiitake mushrooms",
+            "Add flower mushrooms",
+            "Add matsutake mushrooms",
+            "Not spicy"
+          ],
+          "product_type": "distraction"
+        },
+        {
+          "name": "Cordyceps Flower Chicken with Pig Stomach Set",
+          "store_id": "S17550809460281769_S00003",
+          "store_name": "Traditional Chicken with Pig Stomach Soup Restaurant",
+          "price": 88,
+          "tags": [
+            "Cordyceps Flower",
+            "Chicken with Pig Stomach",
+            "Premium Set",
+            "Nutritious",
+            "No Added Sugar"
+          ],
+          "product_id": "S17550809460281769_P00015",
+          "attributes": [
+            "Add cordyceps flower",
+            "Add goji berries",
+            "Add astragalus",
+            "Not spicy"
+          ],
+          "product_type": "distraction"
+        }
+      ]
+    },
+    "S17550809460281769_S00004": {
+      "name": "Yi Pin Chicken with Pig Stomach",
+      "store_id": "S17550809460281769_S00004",
+      "score": 4.5,
+      "location": {
+        "address": "Yi Pin Chicken with Pig Stomach, No.25 Keyuan Avenue, Xixiangtang District, Nanning, Guangxi Zhuang Autonomous Region",
+        "latitude": 22.850789,
+        "longitude": 108.291876
+      },
+      "tags": [
+        "Cantonese Soup",
+        "Dine-in Available",
+        "Special Snacks"
+      ],
+      "store_type": "target",
+      "products": [
+        {
+          "name": "Signature Chicken with Pig Stomach Soup Pot",
+          "store_id": "S17550809460281769_S00004",
+          "store_name": "Yi Pin Chicken with Pig Stomach",
+          "price": 48,
+          "tags": [],
+          "product_id": "S17550809460281769_P00016",
+          "attributes": [
+            "Room temperature",
+            "Optional add-ons",
+            "Small portion",
+            "Medium portion",
+            "Large portion"
+          ],
+          "product_type": "target"
+        },
+        {
+          "name": "Premium Chicken with Pig Stomach Set for Two",
+          "store_id": "S17550809460281769_S00004",
+          "store_name": "Yi Pin Chicken with Pig Stomach",
+          "price": 88,
+          "tags": [
+            "Rich Side Dishes",
+            "Nutritionally Balanced"
+          ],
+          "product_id": "S17550809460281769_P00017",
+          "attributes": [],
+          "product_type": "target"
+        },
+        {
+          "name": "Chicken with Pig Stomach with Ginger and Scallion",
+          "store_id": "S17550809460281769_S00004",
+          "store_name": "Yi Pin Chicken with Pig Stomach",
+          "price": 72,
+          "tags": [
+            "Special Flavors",
+            "Appetizing"
+          ],
+          "product_id": "S17550809460281769_P00018",
+          "attributes": [
+            "Room temperature",
+            "Adjustable ginger amount",
+            "Adjustable scallion amount"
+          ],
+          "product_type": "target"
+        },
+        {
+          "name": "Small Portion Chicken with Pig Stomach Soup",
+          "store_id": "S17550809460281769_S00004",
+          "store_name": "Yi Pin Chicken with Pig Stomach",
+          "price": 38,
+          "tags": [
+            "Soup"
+          ],
+          "product_id": "S17550809460281769_P00019",
+          "attributes": [
+            "Room temperature",
+            "Optional add-ons"
+          ],
+          "product_type": "distraction"
+        }
+      ]
+    },
+    "S17550809460281769_S00005": {
+      "name": "Sweet Heart Dessert House",
+      "store_id": "S17550809460281769_S00005",
+      "score": 4.8,
+      "location": {
+        "address": "Sweet Heart Dessert House, No.12 Innovation Road, High-tech Zone, Xixiangtang District, Nanning, Guangxi Zhuang Autonomous Region",
+        "latitude": 22.849654,
+        "longitude": 108.290845
+      },
+      "tags": [
+        "Dessert",
+        "Milk Tea",
+        "Sweet Treats",
+        "Dine-in Available"
+      ],
+      "store_type": "distraction",
+      "products": [
+        {
+          "name": "Mango Mousse Cake",
+          "store_id": "S17550809460281769_S00005",
+          "store_name": "Sweet Heart Dessert House",
+          "price": 38.8,
+          "tags": [
+            "Sweet Treats",
+            "Cake",
+            "Mango",
+            "Popular Desserts"
+          ],
+          "product_id": "S17550809460281769_P00021",
+          "attributes": [
+            "Room temperature",
+            "Refrigerated"
+          ],
+          "product_type": "distraction"
+        },
+        {
+          "name": "Coconut Pudding Cup",
+          "store_id": "S17550809460281769_S00005",
+          "store_name": "Sweet Heart Dessert House",
+          "price": 22.5,
+          "tags": [
+            "Sweet Treats",
+            "Pudding",
+            "Coconut Flavor",
+            "Popular Recommendations"
+          ],
+          "product_id": "S17550809460281769_P00022",
+          "attributes": [
+            "Refrigerated"
+          ],
+          "product_type": "distraction"
+        },
+        {
+          "name": "Sugar-Free Black Tea",
+          "store_id": "S17550809460281769_S00005",
+          "store_name": "Sweet Heart Dessert House",
+          "price": 16,
+          "tags": [
+            "Beverages",
+            "Sugar-Free",
+            "Healthy",
+            "Tea Drinks"
+          ],
+          "product_id": "S17550809460281769_P00023",
+          "attributes": [
+            "Cold",
+            "Hot",
+            "Room temperature"
+          ],
+          "product_type": "distraction"
+        },
+        {
+          "name": "Pure Milk Oat Sago Pudding",
+          "store_id": "S17550809460281769_S00005",
+          "store_name": "Sweet Heart Dessert House",
+          "price": 26.8,
+          "tags": [
+            "Dessert",
+            "Sago Pudding",
+            "Oats",
+            "Low Sugar"
+          ],
+          "product_id": "S17550809460281769_P00024",
+          "attributes": [
+            "Cold",
+            "Hot",
+            "Less sugar",
+            "Sugar-Free"
+          ],
+          "product_type": "distraction"
+        },
+        {
+          "name": "Special Refreshing Americano",
+          "store_id": "S17550809460281769_S00005",
+          "store_name": "Sweet Heart Dessert House",
+          "price": 24,
+          "tags": [
+            "Coffee",
+            "Americano",
+            "Refreshing",
+            "Sugar-Free"
+          ],
+          "product_id": "S17550809460281769_P00025",
+          "attributes": [
+            "Cold",
+            "Hot",
+            "With milk",
+            "Without milk"
+          ],
+          "product_type": "distraction"
+        }
+      ]
+    }
+  },
+  "orders": {
+    "S17550809460281769_O00001": {
+      "order_id": "S17550809460281769_O00001",
+      "order_type": "delivery",
+      "user_id": "U069141",
+      "store_id": "S17550809460281769_S00001",
+      "total_price": 88.0,
+      "create_time": "2025-05-19 10:40:15",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17550809460281769_P00001",
+          "price": 88.0,
+          "quantity": 1,
+          "attributes": [
+            "No cilantro",
+            "Add green onion"
+          ]
+        }
+      ],
+      "location": {
+        "address": "Building 12, 3rd Floor, Zone C, Nanning Software Park, No.15 Innovation Road, High-tech Zone, Xixiangtang District, Nanning, Guangxi Zhuang Autonomous Region",
+        "longitude": 108.290733,
+        "latitude": 22.849761
+      },
+      "dispatch_time": "2025-05-19 11:10:25",
+      "shipping_time": 30.0,
+      "delivery_time": "2025-05-19 11:40:25",
+      "note": "Please deliver as soon as possible, thank you!"
+    },
+    "S17550809460281769_O00002": {
+      "order_id": "S17550809460281769_O00002",
+      "order_type": "delivery",
+      "user_id": "U069141",
+      "store_id": "S17550809460281769_S00004",
+      "total_price": 68.0,
+      "create_time": "2025-05-18 12:05:33",
+      "status": "delivered",
+      "products": [
+        {
+          "product_id": "S17550809460281769_P00016",
+          "price": 68.0,
+          "quantity": 1,
+          "attributes": [
+            "Room temperature",
+            "Medium size"
+          ]
+        }
+      ],
+      "location": {
+        "address": "Building 12, 3rd Floor, Zone C, Nanning Software Park, No.15 Innovation Road, High-tech Zone, Xixiangtang District, Nanning, Guangxi Zhuang Autonomous Region",
+        "longitude": 108.290733,
+        "latitude": 22.849761
+      },
+      "dispatch_time": "2025-05-18 12:25:12",
+      "shipping_time": 25.0,
+      "delivery_time": "2025-05-18 12:50:12",
+      "note": "Less seasoning, thank you"
+    },
+    "S17550809460281769_O00003": {
+      "order_id": "S17550809460281769_O00003",
+      "order_type": "delivery",
+      "user_id": "U069141",
+      "store_id": "S17550809460281769_S00002",
+      "total_price": 68.0,
+      "create_time": "2025-05-11 11:45:22",
+      "status": "delivered",
+      "products": [
+        {
+          "product_id": "S17550809460281769_P00007",
+          "price": 68.0,
+          "quantity": 1,
+          "attributes": [
+            "Not spicy",
+            "Add ginger"
+          ]
+        }
+      ],
+      "location": {
+        "address": "Building 12, 3rd Floor, Zone C, Nanning Software Park, No.15 Innovation Road, High-tech Zone, Xixiangtang District, Nanning, Guangxi Zhuang Autonomous Region",
+        "longitude": 108.290733,
+        "latitude": 22.849761
+      },
+      "dispatch_time": "2025-05-11 12:05:45",
+      "shipping_time": 28.0,
+      "delivery_time": "2025-05-11 12:33:45",
+      "note": "Please deliver to the front desk, thank you"
+    },
+    "S17550809460281769_O00005": {
+      "order_id": "S17550809460281769_O00005",
+      "order_type": "train",
+      "user_id": "U069141",
+      "store_id": "S17550809460281769_T00006",
+      "note": "",
+      "location": {
+        "address": "Nanning East Station, No.3 Station Road, Xingning District, Nanning, Guangxi Zhuang Autonomous Region",
+        "longitude": 108.418126,
+        "latitude": 22.839265
+      },
+      "dispatch_time": "",
+      "shipping_time": 0.0,
+      "delivery_time": "",
+      "total_price": 2576.0,
+      "create_time": "2025-05-03 14:22:45",
+      "update_time": "2025-05-03 14:22:45",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17550809460281769_P00026",
+          "price": 1288.0,
+          "quantity": 2,
+          "seat_type": "Business Class Seat",
+          "train_number": "G1256",
+          "departure_time": "2025-05-10 08:15",
+          "arrival_time": "2025-05-10 12:45",
+          "departure_city": "Nanning",
+          "arrival_city": "Yuxi"
+        }
+      ]
+    },
+    "S17550809460281769_O00006": {
+      "order_id": "S17550809460281769_O00006",
+      "order_type": "flight",
+      "user_id": "U069141",
+      "store_id": "F00001",
+      "note": "",
+      "location": {
+        "address": "Nanning Wuxu International Airport, Jiangnan District, Nanning, Guangxi Zhuang Autonomous Region",
+        "longitude": 108.172041,
+        "latitude": 22.608267
+      },
+      "dispatch_time": "",
+      "shipping_time": 0.0,
+      "delivery_time": "",
+      "total_price": 1580.0,
+      "create_time": "2025-04-20 09:15:22",
+      "update_time": "2025-04-20 09:15:22",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "F00001P001",
+          "price": 1580.0,
+          "quantity": 1,
+          "seat_type": "Economy Class",
+          "flight_number": "MU2456",
+          "departure_time": "2025-04-25 10:30",
+          "arrival_time": "2025-04-25 12:10",
+          "departure_city": "Nanning",
+          "arrival_city": "Chengdu"
+        }
+      ]
+    },
+    "S17550809460281769_O00007": {
+      "order_id": "S17550809460281769_O00007",
+      "order_type": "instore",
+      "user_id": "U069141",
+      "store_id": "S17550809460281769_I00011",
+      "total_price": 198.0,
+      "create_time": "2025-05-19 11:15:22",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17550809460281769_P00054",
+          "price": 198.0,
+          "quantity": 1
+        }
+      ]
+    },
+    "S17550809460281769_O00008": {
+      "order_id": "S17550809460281769_O00008",
+      "order_type": "instore",
+      "user_id": "U069141",
+      "store_id": "S17550809460281769_I00015",
+      "total_price": 198.0,
+      "create_time": "2025-05-12 19:22:45",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17550809460281769_P00077",
+          "price": 198.0,
+          "quantity": 1
+        }
+      ]
+    },
+    "S17550809460281769_O00009": {
+      "order_id": "S17550809460281769_O00009",
+      "order_type": "instore",
+      "user_id": "U069141",
+      "store_id": "S17550809460281769_I00012",
+      "total_price": 188.0,
+      "create_time": "2025-05-05 20:05:33",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17550809460281769_P00059",
+          "price": 188.0,
+          "quantity": 1
+        }
+      ]
+    }
+  }
+}

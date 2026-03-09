@@ -1,0 +1,49 @@
+{
+  "task_id": "85",
+  "query": "My friend and I are planning a trip from Chongqing to Zhengzhou on November 12, 2025, staying until our return on November 17, 2025. Could you please help us plan the entire itinerary, including transportation, accommodation, meals, and sightseeing? The total budget for this trip should be within 6000 yuan.\n\nRegarding transportation, we plan to take flights both ways—please help us choose specific flights that have reasonable timing. For accommodation, we’d like a three-star hotel, and we only need to book one room for two people. Ideally, the room should have a TV with screen mirroring capability so we can watch movies at night.\n\nBy the way, there are two restaurants I’m particularly interested in visiting. One is 'Qiyu Cantonese Tea Restaurant'—I’ve heard their Hong Kong-style dim sum is very authentic, so please arrange for us to have one meal there. The other is the restaurant closest to 'Zhengzhou Shangdu National Archaeological Site Park'; after visiting the park, we’d like to have a meal nearby to avoid traveling too far.\n\nThat covers all our main requirements. I believe I’ve provided all necessary information—please go ahead and start planning the itinerary. Thanks so much for your help! November 12, 2025 is Wednesday",
+  "meta_info": {
+    "org": "Chongqing",
+    "dest": [
+      "Zhengzhou"
+    ],
+    "days": 6,
+    "depart_date": "2025-11-12",
+    "return_date": "2025-11-17",
+    "people_number": 2,
+    "room_number": 1
+  },
+  "hard_constraints": {
+    "flight_seat_status": {
+      "constraint_context": "2 travelers, choosing to travel by plane.",
+      "people_number": 2,
+      "outbound_seat_status": "5",
+      "inbound_seat_status": "6",
+      "outbound_flight_no": "HO7623",
+      "inbound_flight_no": "EU7276"
+    },
+    "hotel_star_service_required": {
+      "constraint_context": "For accommodation, please select a 3-star hotel that provides TVs with screen mirroring capability",
+      "constraint_type": "superlative_star_service_required",
+      "hotel_name": "Puxi Hotel (Zhengzhou CBD Convention and Exhibition Center Branch)",
+      "required_service": "TV Casting",
+      "hotel_star": 3,
+      "hotel_price": 180.0
+    },
+    "restaurant_must_eat_named": {
+      "constraint_context": "The itinerary must include one meal at 'Qiyu Cantonese Tea Restaurant'.",
+      "constraint_type": "superlative_must_eat_named",
+      "restaurant_name": "Qiyu Cantonese Tea Restaurant",
+      "restaurant_rating": 4.1
+    },
+    "restaurant_closest_to_attraction": {
+      "constraint_context": "During the trip, please arrange a meal at the restaurant closest to 'Zhengzhou Shangdu National Archaeological Site Park'.",
+      "constraint_type": "superlative_closest_to_attraction",
+      "attraction_name": "Zhengzhou Shangdu National Archaeological Site Park",
+      "restaurant_name": "Henan University Affiliated Zhengzhou First People's Hospital · Nutrition Restaurant",
+      "price_per_person": 100.0
+    },
+    "budget_constraint": {
+      "max_budget": 6000
+    }
+  }
+}

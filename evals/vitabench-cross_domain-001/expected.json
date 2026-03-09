@@ -1,0 +1,94 @@
+{
+  "required_orders": [
+    {
+      "order_id": "S17550931981226759_O00004",
+      "order_type": "instore",
+      "user_id": "U624274",
+      "store_id": "S17550931981226759_I00013",
+      "note": "",
+      "location": null,
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 1680,
+      "create_time": "2025-06-19 21:35:23",
+      "update_time": "2025-06-19 21:35:23",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17550931981226759_P00093",
+          "name": "Elite Tactical Team Building Package (6 people)",
+          "price": 1680,
+          "shop_id": "S17550931981226759_I00013",
+          "tags": [
+            "6-person group purchase",
+            "3-hour experience",
+            "Advanced equipment",
+            "Tactical coach",
+            "Team competition",
+            "Available on weekends"
+          ],
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "order_id": "S17550802154486284_O00001",
+      "order_type": "delivery",
+      "user_id": "U624274",
+      "store_id": "S17550802154486284_S00004",
+      "note": "",
+      "location": {
+        "address": "Building 3, Baoding Technology Park, 128 Chuangye Road, High-tech Zone, Baoding, Hebei Province",
+        "longitude": 115.513421,
+        "latitude": 38.896534
+      },
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 249,
+      "create_time": "2025-06-19 21:36:27",
+      "update_time": "2025-06-19 21:36:27",
+      "status": "processed",
+      "products": [
+        {
+          "product_id": "S17550802154486284_P00019",
+          "price": 249,
+          "quantity": 1,
+          "name": "Shiseido Anessa Sunscreen SPF50+ PA++++ 90ml",
+          "store_id": "S17550802154486284_S00004",
+          "store_name": "JD Beauty Supermarket",
+          "attributes": [],
+          "tags": [
+            "Large capacity",
+            "SPF50",
+            "Waterproof and sweatproof",
+            "Imported from Japan"
+          ]
+        }
+      ]
+    },
+    {
+      "reservation_id": "S17550931981226759_R00005",
+      "shop_id": "S17550931981226759_I00013",
+      "reservation_time": "2025-06-21 15:30:00",
+      "update_time": "2025-06-19 21:39:12",
+      "customer_id": "U624274",
+      "customer_count": 6,
+      "status": "unconsumed"
+    }
+  ],
+  "rubrics": [
+    "The real-person CS base ordered should be an outdoor base",
+    "The real-person CS base ordered should have a large venue and professional setup",
+    "The real-person CS package ordered should include more than two hours of experience",
+    "The real-person CS package ordered should include advanced equipment",
+    "The real-person CS package ordered should include coach guidance",
+    "The agent should order a real-person CS package for six people",
+    "The sunscreen product ordered should be the Anessa brand",
+    "The sunscreen product ordered should be large capacity",
+    "Check the business hours of JD Beauty Supermarket, which are 09:00-21:00, and cannot be delivered to Room 502, Unit 2, Building 8, Oriental Garden Community, Intersection of Dongfeng Road and Yuhua Road, Lianchi District, Baoding, Hebei Province before 22:00:00 on June 19, 2025; the delivery address should be Building 3, Baoding Technology Park, 128 Chuangye Road, High-tech Zone, Baoding, Hebei Province, and the delivery time should be between 15:00:00-16:00:00 on June 20, 2025",
+    "Need to check high-speed rail ticket information from Baoding to Beijing on June 21, 2025, with departure time after 13:00:00 and arrival time before 15:00:00, resulting in the user taking train G505 arriving in Beijing at 14:02, allowing 1.5 hours travel time from the station to the CS base, thus needing to change the real-person CS order appointment time from 14:00:00 to around 15:30:00 on June 21, 2025 [i.e., arrival appointment time should be within the 15:15-15:45 timeframe]",
+    "The number of people for the CS experience reservation should be 6 people"
+  ]
+}

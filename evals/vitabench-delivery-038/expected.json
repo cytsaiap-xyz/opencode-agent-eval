@@ -1,0 +1,66 @@
+{
+  "required_orders": [
+    {
+      "order_id": "80715001T02",
+      "order_type": "delivery",
+      "user_id": "U000029",
+      "store_id": "S33946320621632228_S88968",
+      "note": "",
+      "location": {
+        "address": "International Department, South Campus of Linyi No.1 Middle School, No.135 Lingong Road, Zhimadun Street, Hedong District, Linyi City, Shandong Province",
+        "longitude": 118.431463,
+        "latitude": 35.000841
+      },
+      "dispatch_time": "2025-05-23 17:02:00",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 37.9,
+      "create_time": "2025-05-23 16:55:00",
+      "update_time": "2025-05-23 16:55:00",
+      "status": "in-progress",
+      "products": [
+        {
+          "product_id": "S75401753354131701_P99357",
+          "price": 37.9,
+          "quantity": 1,
+          "attributes": ""
+        }
+      ]
+    },
+    {
+      "order_id": "80715001T03",
+      "order_type": "delivery",
+      "user_id": "U000029",
+      "store_id": "S97919228618067522_S48161",
+      "note": "",
+      "location": {
+        "address": "No.28 Boutique Apartment, 200 Meters West of People's Square, Intersection of Yinqueshan Road and Xinhua Road, Lanshan District, Linyi City, Shandong Province (Linyi People's Square Branch)",
+        "longitude": 118.334011,
+        "latitude": 35.059875
+      },
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 51.8,
+      "create_time": "2025-05-23 16:58:00 ",
+      "update_time": "2025-05-23 16:58:00 ",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S87111253562385722_P09756",
+          "price": 25.9,
+          "quantity": 2,
+          "attributes": ""
+        }
+      ]
+    }
+  ],
+  "rubrics": [
+    "The delivery address for the half chicken set meal order should be International Department, South Campus of Linyi No.1 Middle School, No.135 Lingong Road, Zhimadun Street, Hedong District, Linyi City, Shandong Province",
+    "The estimated delivery time for the half chicken set meal order should be before 2025-05-23 18:30:00",
+    "The restaurant for ordering the half chicken set meal should be Tastin' Chinese Burger (Dongfang City Branch)",
+    "The delivery address for the herbal tea Guilinggao order should be No.28 Boutique Apartment, 200 Meters West of People's Square, Intersection of Yinqueshan Road and Xinhua Road, Lanshan District, Linyi City, Shandong Province (Linyi People's Square Branch)",
+    "The restaurant for ordering the herbal tea Guilinggao should be Yu Bao Tang",
+    "The herbal tea Guilinggao ordered should include honey as an ingredient"
+  ]
+}

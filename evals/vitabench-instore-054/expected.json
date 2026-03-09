@@ -1,0 +1,83 @@
+{
+  "required_orders": [
+    {
+      "order_id": "10826079T001",
+      "order_type": "instore",
+      "user_id": "U605626",
+      "store_id": "S17567836603457926_I00001",
+      "note": "",
+      "location": null,
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 158,
+      "create_time": "2024-10-23 19:33:00",
+      "update_time": "2024-10-23 19:33:00",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17567836603457926_P00001",
+          "name": "Beginner perfume making starter package",
+          "price": 158,
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "reservation_id": "10826079T002",
+      "shop_id": "S17567836603457926_I00001",
+      "reservation_time": "2024-10-24 15:00:00",
+      "update_time": "2024-10-23 19:35:00",
+      "customer_id": "U605626",
+      "customer_count": 1,
+      "status": "paid"
+    },
+    {
+      "reservation_id": "10826079T003",
+      "shop_id": "S17567836452455124_I00004",
+      "reservation_time": "2024-10-24 15:00:00",
+      "update_time": "2024-10-23 19:36:00",
+      "customer_id": "U605626",
+      "customer_count": 1,
+      "status": "cancelled"
+    },
+    {
+      "order_id": "10826079T004",
+      "order_type": "instore",
+      "user_id": "U605626",
+      "store_id": "S17567836603457926_I00002",
+      "note": "",
+      "location": null,
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 168,
+      "create_time": "2024-10-23 19:37:00",
+      "update_time": "2024-10-23 19:37:00",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17567836603457926_P00010",
+          "name": "Italian meat pizza + black pepper steak set for two",
+          "price": 168,
+          "quantity": 1
+        }
+      ]
+    }
+  ],
+  "rubrics": [
+    "DIY perfume shop's rating should be 4.0 or above",
+    "DIY perfume shop should be in the top five of the highest rated stores",
+    "The ordered product at the DIY perfume shop should be suitable for beginners",
+    "The ordered product at the DIY perfume shop should include teacher guidance",
+    "The price of the ordered product at the DIY perfume shop should not exceed 200 yuan (including 200 yuan)",
+    "The ordered product at the DIY perfume shop should be the beginner perfume making starter package",
+    "The appointment time for the DIY perfume shop should be October 24, 2024, at 15:00:00",
+    "The number of people for the DIY perfume shop appointment should be 1 person",
+    "The DIY perfume shop appointment should be at Fragrance Encounter DIY Perfume Studio",
+    "The reservation order for Suran Anti-aging Center (Arc de Triomphe Store) (S17567836452455124_I00004) should have a status of cancelled",
+    "The restaurant order should include both Italian meat pizza and black pepper steak",
+    "The restaurant order should be a set for two, not two individual sets",
+    "The price of the ordered restaurant meal should not exceed 200 yuan (including 200 yuan)"
+  ]
+}

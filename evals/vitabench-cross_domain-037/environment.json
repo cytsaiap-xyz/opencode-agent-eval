@@ -1,0 +1,737 @@
+{
+  "task_id": "A0807010",
+  "domain": "cross_domain",
+  "time": "2025-09-06 09:30:00",
+  "user_id": "U010032",
+  "weather": [
+    {
+      "city": "Shanghai",
+      "category": "sunny",
+      "datetime": "2025-09-06",
+      "temperature": [
+        23,
+        29
+      ],
+      "humidity": 65
+    },
+    {
+      "city": "Zhuhai",
+      "category": "cloudy",
+      "datetime": "2025-09-07",
+      "temperature": [
+        24,
+        31
+      ],
+      "humidity": 75
+    }
+  ],
+  "location": [
+    {
+      "address": "Room 1506, Building 3, Plaza 66, 1266 West Nanjing Road, Jing'an District, Shanghai",
+      "longitude": 121.4589,
+      "latitude": 31.2302
+    },
+    {
+      "address": "Starlight Cinema, 1400 West Nanjing Road, Jing'an District, Shanghai",
+      "longitude": 121.464,
+      "latitude": 31.2285
+    }
+  ],
+  "user_profile": {
+    "user id": "U010032",
+    "occupation": "Designer",
+    "gender": "male",
+    "age group": "30~35",
+    "residence": "Shanghai",
+    "home address": "Room 1506, Building 3, Plaza 66, 1266 West Nanjing Road, Jing'an District, Shanghai",
+    "work address": "Design Studio, 9th Floor, K11 Art Mall, 300 Middle Huaihai Road, Huangpu District, Shanghai",
+    "dietary restrictions": "No high sodium, no alcohol",
+    "family status": "In a relationship",
+    "personality": "Has scattered and jumpy thinking, easily distracted and changes mind frequently"
+  },
+  "user_historical_behaviors": {
+    "user id": "U010032",
+    "occupation": "designer",
+    "gender": "male",
+    "age group": "30~35",
+    "residence": "Shanghai",
+    "home address": "Room 1506, Building 3, Plaza 66, 1266 West Nanjing Road, Jing'an District, Shanghai",
+    "work address": "Design Studio, 9th Floor, K11 Art Mall, 300 Middle Huaihai Road, Huangpu District, Shanghai",
+    "delivery": {
+      "food delivery": {
+        "breakfast": {
+          "frequently purchased categories": [
+            "Quick Meals/Baozi/Shengjianbao (Average ¥25)",
+            "Quick Meals/Dumplings/Wonton (Average ¥28)",
+            "Quick Meals/Jianbing/Wraps/Jianbing (Chinese Crepe) (Average ¥18)"
+          ],
+          "cost per order": "¥15~35",
+          "preferred store rating": "4.3~4.8",
+          "preferred delivery time": "15~25 minutes",
+          "preferred distance": "0~2500m",
+          "recent orders": [
+            {
+              "store": "Gongdelin Breakfast",
+              "product": "Soup Dumplings + Soy Milk Set"
+            },
+            {
+              "store": "Yonghe Soy Milk",
+              "product": "Youtiao and Soy Milk Set"
+            },
+            {
+              "store": "Tianjin Jianbing",
+              "product": "Original Jianbing"
+            }
+          ],
+          "search history": [
+            "Baozi",
+            "Soy Milk",
+            "Shengjianbao",
+            "Breakfast Set",
+            "Youtiao"
+          ]
+        },
+        "weekday lunch/dinner": {
+          "frequently purchased categories": [
+            "Quick Meals/Rice with Toppings (Average ¥32)",
+            "Chinese Cuisine/Sichuan Cuisine (Average ¥65)",
+            "International Cuisine/Japanese Bento/Sushi (Average ¥58)"
+          ],
+          "cost per order": "¥30~70",
+          "preferred store rating": "4.2~4.8",
+          "preferred delivery time": "20~35 minutes",
+          "preferred distance": "0~3000m",
+          "recent orders": [
+            {
+              "store": "Yipinxuan Sichuan Cuisine",
+              "product": "Boiled Fish Fillet + Rice"
+            },
+            {
+              "store": "Yoshinoya",
+              "product": "Large Beef Bowl"
+            },
+            {
+              "store": "Sushiro",
+              "product": "Salmon Set"
+            }
+          ],
+          "search history": [
+            "Low Fat",
+            "Healthy Meal",
+            "Sichuan Cuisine",
+            "Beef Rice",
+            "Sushi"
+          ]
+        },
+        "weekend lunch/dinner": {
+          "frequently purchased categories": [
+            "Chinese Cuisine/Crayfish (Average ¥128)",
+            "Hot Pot/Sichuan Hot Pot (Average ¥145)",
+            "International Cuisine/Pizza (Average ¥95)"
+          ],
+          "cost per order": "¥80~180",
+          "preferred store rating": "4.5~5.0",
+          "preferred delivery time": "30~45 minutes",
+          "preferred distance": "0~5000m",
+          "recent orders": [
+            {
+              "store": "Xiaohuzhi Crayfish",
+              "product": "Thirteen Spice Crayfish Medium + Potatoes + Beer"
+            },
+            {
+              "store": "Haidilao Hot Pot",
+              "product": "Tomato Split Pot + Beef Platter"
+            },
+            {
+              "store": "Domino's",
+              "product": "Supreme Pizza Family Size"
+            }
+          ],
+          "search history": [
+            "Crayfish",
+            "Hot Pot Delivery",
+            "Couple Set",
+            "Pizza"
+          ]
+        },
+        "desserts/drinks/snacks": {
+          "frequently purchased categories": [
+            "Drinks & Desserts/Coffee (Average ¥32)",
+            "Drinks & Desserts/Milk Tea (Average ¥28)",
+            "Drinks & Desserts/Fruit Bowl (Average ¥35)"
+          ],
+          "cost per order": "¥20~45",
+          "preferred store rating": "4.4~4.9",
+          "preferred delivery time": "15~30 minutes",
+          "preferred distance": "0~3000m",
+          "recent orders": [
+            {
+              "store": "Starbucks",
+              "product": "Iced Americano"
+            },
+            {
+              "store": "HEYTEA",
+              "product": "Very Grape"
+            },
+            {
+              "store": "Xianfeng Fruits",
+              "product": "Colorful Fruit Bowl"
+            }
+          ],
+          "search history": [
+            "Coffee",
+            "Fruit Tea",
+            "Low Sugar Milk Tea",
+            "Afternoon Tea",
+            "Starbucks"
+          ]
+        },
+        "night snack": {
+          "frequently purchased categories": [
+            "BBQ & Fried Food/Fried Chicken/Fried Items (Average ¥45)",
+            "Quick Meals/Liuzhou Rice Noodles (Average ¥32)"
+          ],
+          "cost per order": "¥25~50",
+          "preferred store rating": "4.0~4.6",
+          "preferred delivery time": "25~40 minutes",
+          "preferred distance": "0~3500m",
+          "recent orders": [
+            {
+              "store": "Juicy Fried Chicken",
+              "product": "Spicy Chicken Burger Set"
+            },
+            {
+              "store": "Liuzhou Rice Noodles",
+              "product": "Signature Rice Noodles"
+            },
+            {
+              "store": "Duck Neck Specialty",
+              "product": "Spicy Duck Neck"
+            }
+          ],
+          "search history": [
+            "Fried Chicken",
+            "Night Snack Set",
+            "Rice Noodles",
+            "Marinated Food"
+          ]
+        }
+      },
+      "product delivery": {
+        "frequently purchased categories": [
+          "Vegetables/Bean Products(28%)",
+          "Raw Meat/Poultry/Eggs(22%)",
+          "Grains/Oil/Seasonings/Dried Foods(15%)",
+          "Household Items(12%)",
+          "Beverages/Nutritional Drinks(10%)",
+          "Others(13%)"
+        ],
+        "frequently visited stores": [
+          "Hema Fresh(38%)",
+          "Dingdong Fresh(31%)",
+          "Family Mart(15%)",
+          "Other Stores(16%)"
+        ],
+        "cost per order by category": {
+          "Vegetables/Bean Products": "¥5~20",
+          "Raw Meat/Poultry/Eggs": "¥30~80",
+          "Grains/Oil/Seasonings/Dried Foods": "¥10~45",
+          "Household Items": "¥15~50",
+          "Beverages/Nutritional Drinks": "¥8~35"
+        },
+        "preferred delivery time": "30~60 minutes",
+        "typical order time": "17~19(45%), 10~12(30%), 20~21(15%)",
+        "recent orders": [
+          {
+            "store": "Hema Fresh",
+            "product": "Greens, Chicken Breast, Rice"
+          },
+          {
+            "store": "Dingdong Fresh",
+            "product": "Fresh Beef, Onion, Carrot"
+          },
+          {
+            "store": "Family Mart",
+            "product": "Mineral Water, Tissues, Hand Soap"
+          }
+        ],
+        "search history": [
+          "Low-fat Beef",
+          "Organic Vegetables",
+          "Sugar-free Drinks",
+          "Kitchen Paper Towels",
+          "Eggs"
+        ]
+      }
+    },
+    "in-store consumption": {
+      "in-store dining": {
+        "fine-dining": {
+          "frequently purchased categories": [
+            "International Cuisine/Japanese Food (Average ¥130)",
+            "Regional Cuisine/Shanghai & Jiangsu-Zhejiang Cuisine (Average ¥95)",
+            "International Cuisine/Western Food (Average ¥120)"
+          ],
+          "preferred average price per person": "¥90~150",
+          "preferred store rating": "4.2~4.8 stars",
+          "typical dining time": "19:00-21:00",
+          "preferred distance": "500~2000m",
+          "recent orders": [
+            {
+              "store": "Sushi no Kami (Pudong)",
+              "product": "Premium Sashimi Platter"
+            },
+            {
+              "store": "Waipojia (Zhangjiang)",
+              "product": "Dongpo Pork"
+            },
+            {
+              "store": "Steak House (Zhengda Plaza)",
+              "product": "Australian Grain-fed Beef Steak Set"
+            }
+          ],
+          "search history": [
+            "Japanese Food",
+            "Shanghai Cuisine",
+            "Non-alcoholic Menu",
+            "Low Purine"
+          ]
+        },
+        "light meal": {
+          "frequently purchased categories": [
+            "Snacks & Fast Food/Chinese Quick Meals (Average ¥35)",
+            "Snacks & Fast Food/Western Fast Food (Average ¥40)",
+            "Regional Cuisine/Sichuan Cuisine (Average ¥45)"
+          ],
+          "preferred average price per person": "¥30~50",
+          "preferred store rating": "3.5~4.3 stars",
+          "typical dining time": "12:00-13:30",
+          "preferred distance": "0~500m",
+          "recent orders": [
+            {
+              "store": "Jixiang Wonton (Zhangjiang)",
+              "product": "Three Delicacies Wonton Set"
+            },
+            {
+              "store": "Yonghe King (Puruan)",
+              "product": "Preserved Egg & Lean Meat Porridge with Youtiao"
+            },
+            {
+              "store": "Meizhou Dongpo (Zhangjiang)",
+              "product": "Twice-cooked Pork Rice"
+            }
+          ],
+          "search history": [
+            "Work Meal",
+            "Fast Food",
+            "Healthy Light Meal",
+            "Nearby Restaurants"
+          ]
+        },
+        "desserts/drinks/snacks": {
+          "frequently purchased categories": [
+            "Beverage Shops (Average ¥18)",
+            "Bread & Desserts (Average ¥25)",
+            "Other Food/Fresh Fruits (Average ¥15)"
+          ],
+          "preferred average price per person": "¥15~30",
+          "preferred store rating": "4.0~4.5 stars",
+          "typical dining time": "15:00-16:30",
+          "preferred distance": "0~300m",
+          "recent orders": [
+            {
+              "store": "HEYTEA (Zhangjiang)",
+              "product": "Very Grape (Sugar-free)"
+            },
+            {
+              "store": "85°C (Puruan)",
+              "product": "Sea Salt Cheese Cake"
+            },
+            {
+              "store": "Xianfeng Fruits (Jinqiao)",
+              "product": "Selected Fruit Platter"
+            }
+          ],
+          "search history": [
+            "Sugar-free Drinks",
+            "Afternoon Tea",
+            "Healthy Desserts",
+            "Low Calorie Fruits"
+          ]
+        }
+      },
+      "other in-store services": {
+        "frequently consumed categories": {
+          "Sports & Fitness/Fitness Centers": "40%",
+          "Sports & Fitness/Ball Sports": "35%",
+          "Leisure & Entertainment/Massage/Foot Therapy": "15%",
+          "Leisure & Entertainment/Board Games": "10%"
+        },
+        "cost per order by category": {
+          "Sports & Fitness/Fitness Centers": "¥150~300",
+          "Sports & Fitness/Ball Sports": "¥80~120",
+          "Leisure & Entertainment/Massage/Foot Therapy": "¥120~200",
+          "Leisure & Entertainment/Board Games": "¥60~100"
+        },
+        "preferred store rating": "4.0~4.8 stars",
+        "preferred service time": "19:30~22:00",
+        "preferred distance": "0~3000m",
+        "recent orders": [
+          {
+            "store": "Will's Gym (Zhangjiang)",
+            "product": "One-month Fitness Card"
+          },
+          {
+            "store": "Power Football Field (Jinqiao)",
+            "product": "Five-a-side Football Field 2 Hours"
+          },
+          {
+            "store": "Thai Love Massage (Pudong)",
+            "product": "Neck and Shoulder Therapy Package"
+          }
+        ],
+        "search history": [
+          "Gym Monthly Pass",
+          "Indoor Football Field",
+          "Programmer's Neck Massage",
+          "Weekend Leisure Activities"
+        ]
+      }
+    },
+    "OTA": {
+      "visited scenes": {
+        "Exhibitions (Museums/Art Galleries)": "45%",
+        "Landmark Buildings": "25%",
+        "Theme Parks": "15%",
+        "Parks": "10%",
+        "Special Villages/Industrial Tourism/Uncategorized Projects": "5%"
+      },
+      "cost per night on hotel": "¥1000~2000",
+      "visited hotels": {
+        "Atour": "35%",
+        "Marriott": "20%",
+        "Shangri-La": "15%",
+        "Ji Hotel": "20%",
+        "Huazhu": "10%"
+      },
+      "browsed hotels": {
+        "Four-star Hotels": "45%",
+        "Five-star Hotels": "25%",
+        "Comfort Hotels": "30%"
+      },
+      "historical travel plans": {
+        "Shanghai-Hangzhou": {
+          "price range": "¥200-350",
+          "transportation": "High-speed Rail/EMU"
+        },
+        "Shanghai-Beijing": {
+          "price range": "¥900-1500",
+          "transportation": "Flight"
+        },
+        "Shanghai-Guangzhou": {
+          "price range": "¥800-1300",
+          "transportation": "Flight"
+        },
+        "Shanghai-Chengdu": {
+          "price range": "¥1000-1800",
+          "transportation": "Flight"
+        },
+        "Shanghai-Suzhou": {
+          "price range": "¥40-80",
+          "transportation": "High-speed Rail/EMU"
+        },
+        "Shanghai-Nanjing": {
+          "price range": "¥150-250",
+          "transportation": "High-speed Rail/EMU"
+        }
+      }
+    }
+  },
+  "stores": {
+    "S17550810619584205_S00001": {
+      "name": "Exquisite Breakfast Workshop",
+      "store_id": "S17550810619584205_S00001",
+      "score": 4.7,
+      "location": {
+        "address": "Exquisite Breakfast Workshop, 1188 West Nanjing Road, Jing'an District, Shanghai",
+        "latitude": 31.231,
+        "longitude": 121.457
+      },
+      "tags": [
+        "Elegant Packaging",
+        "Dine-in",
+        "Low Sodium",
+        "Exquisite Plating"
+      ],
+      "store_type": "target",
+      "products": [
+        {
+          "name": "Exquisite Brunch Set for Two",
+          "store_id": "S17550810619584205_S00001",
+          "store_name": "Exquisite Breakfast Workshop",
+          "price": 128,
+          "tags": [
+            "Elegant Packaging",
+            "Low Sodium",
+            "Nutritionally Balanced",
+            "Couples' First Choice"
+          ],
+          "product_id": "S17550810619584205_P00001",
+          "attributes": [],
+          "product_type": "target"
+        },
+        {
+          "name": "French Romantic Single Brunch",
+          "store_id": "S17550810619584205_S00001",
+          "store_name": "Exquisite Breakfast Workshop",
+          "price": 138,
+          "tags": [
+            "Elegant Packaging",
+            "French Style",
+            "Low Sodium",
+            "Exquisite Plating"
+          ],
+          "product_id": "S17550810619584205_P00003",
+          "attributes": [
+            "Whole wheat bread option available"
+          ],
+          "product_type": "target"
+        },
+        {
+          "name": "Single Healthy Light Meal Set",
+          "store_id": "S17550810619584205_S00001",
+          "store_name": "Exquisite Breakfast Workshop",
+          "price": 68,
+          "tags": [
+            "Elegant Packaging",
+            "Low Calorie",
+            "Low Sodium",
+            "Healthy",
+            "Dine-in Available"
+          ],
+          "product_id": "S17550810619584205_P00004",
+          "attributes": [],
+          "product_type": "distraction"
+        },
+        {
+          "name": "Celebration Brunch Set (with Alcohol)",
+          "store_id": "S17550810619584205_S00001",
+          "store_name": "Exquisite Breakfast Workshop",
+          "price": 168,
+          "tags": [
+            "Elegant Packaging",
+            "Set for Two",
+            "Celebration Set",
+            "Exquisite Plating",
+            "High-end"
+          ],
+          "product_id": "S17550810619584205_P00005",
+          "attributes": [
+            "Includes mini champagne"
+          ],
+          "product_type": "distraction"
+        }
+      ]
+    },
+    "S17550810619584205_S00002": {
+      "name": "LOHAS Light Meals",
+      "store_id": "S17550810619584205_S00002",
+      "score": 4.6,
+      "location": {
+        "address": "LOHAS Light Meals, 1320 West Nanjing Road, Jing'an District, Shanghai",
+        "latitude": 31.2298,
+        "longitude": 121.461
+      },
+      "tags": [
+        "Elegant Packaging",
+        "Light Meal",
+        "Low Calorie",
+        "Non-alcoholic",
+        "No Dine-in"
+      ],
+      "store_type": "target",
+      "products": [
+        {
+          "name": "Deluxe Brunch Set for Two",
+          "store_id": "S17550810619584205_S00002",
+          "store_name": "LOHAS Light Meals",
+          "price": 88,
+          "tags": [
+            "Elegant Packaging",
+            "Set for Two"
+          ],
+          "product_id": "S17550810619584205_P00006",
+          "attributes": [
+            "Non-alcoholic",
+            "Low Sodium"
+          ],
+          "product_type": "target"
+        },
+        {
+          "name": "Light Meal Brunch Box for Couples",
+          "store_id": "S17550810619584205_S00002",
+          "store_name": "LOHAS Light Meals",
+          "price": 98,
+          "tags": [
+            "Deluxe Gift Box",
+            "Couple Set",
+            "Brunch"
+          ],
+          "product_id": "S17550810619584205_P00007",
+          "attributes": [
+            "Non-alcoholic",
+            "Low Sodium"
+          ],
+          "product_type": "target"
+        },
+        {
+          "name": "Weekend Leisure Single Brunch",
+          "store_id": "S17550810619584205_S00002",
+          "store_name": "LOHAS Light Meals",
+          "price": 58,
+          "tags": [
+            "Elegant Packaging",
+            "Low Calorie",
+            "Non-alcoholic",
+            "Brunch",
+            "Single Person Set"
+          ],
+          "product_id": "S17550810619584205_P00008",
+          "attributes": [
+            "Low Sodium"
+          ],
+          "product_type": "distraction"
+        },
+        {
+          "name": "Avocado Chicken Breast Sandwich",
+          "store_id": "S17550810619584205_S00002",
+          "store_name": "LOHAS Light Meals",
+          "price": 32,
+          "tags": [
+            "Low Fat",
+            "High Protein",
+            "Light Meal",
+            "Single Item"
+          ],
+          "product_id": "S17550810619584205_P00009",
+          "attributes": [
+            "Non-alcoholic",
+            "Low Sodium"
+          ],
+          "product_type": "distraction"
+        },
+        {
+          "name": "Special Pear and Mint Cocktail",
+          "store_id": "S17550810619584205_S00002",
+          "store_name": "LOHAS Light Meals",
+          "price": 28,
+          "tags": [
+            "Special Drink",
+            "Refreshing",
+            "Elegant Packaging",
+            "Internet-famous Drink"
+          ],
+          "product_id": "S17550810619584205_P00010",
+          "attributes": [
+            "Contains small amount of alcohol"
+          ],
+          "product_type": "distraction"
+        }
+      ]
+    },
+    "S17550810619584205_S00003": {
+      "name": "Mr. Breakfast Premium Breakfast",
+      "store_id": "S17550810619584205_S00003",
+      "score": 4.5,
+      "location": {
+        "address": "Mr. Breakfast Premium Breakfast, 218 Shimen First Road, Jing'an District, Shanghai",
+        "latitude": 31.2315,
+        "longitude": 121.456
+      },
+      "tags": [
+        "Jianbing (Chinese Crepe)",
+        "Soy Milk",
+        "Dine-in"
+      ],
+      "store_type": "target",
+      "products": [
+        {
+          "name": "Brunch Set for Two",
+          "store_id": "S17550810619584205_S00003",
+          "store_name": "Mr. Breakfast Premium Breakfast",
+          "price": 68,
+          "tags": [],
+          "product_id": "S17550810619584205_P00011",
+          "attributes": [
+            "Can be heated"
+          ],
+          "product_type": "target"
+        },
+        {
+          "name": "Deluxe Jianbing Set for Two",
+          "store_id": "S17550810619584205_S00003",
+          "store_name": "Mr. Breakfast Premium Breakfast",
+          "price": 58,
+          "tags": [
+            "Jianbing (Chinese Crepe)",
+            "Set for Two",
+            "Low Sodium"
+          ],
+          "product_id": "S17550810619584205_P00012",
+          "attributes": [
+            "No spicy option"
+          ],
+          "product_type": "target"
+        },
+        {
+          "name": "Jianbing + Youtiao and Soy Milk Set",
+          "store_id": "S17550810619584205_S00003",
+          "store_name": "Mr. Breakfast Premium Breakfast",
+          "price": 22,
+          "tags": [
+            "Classic Set",
+            "Jianbing (Chinese Crepe)",
+            "Soy Milk"
+          ],
+          "product_id": "S17550810619584205_P00013",
+          "attributes": [
+            "No spicy option"
+          ],
+          "product_type": "distraction"
+        },
+        {
+          "name": "Exquisite Soy Milk and Youtiao Gift Box",
+          "store_id": "S17550810619584205_S00003",
+          "store_name": "Mr. Breakfast Premium Breakfast",
+          "price": 42,
+          "tags": [
+            "Soy Milk",
+            "Youtiao (Chinese Fried Dough)",
+            "Dine-in"
+          ],
+          "product_id": "S17550810619584205_P00014",
+          "attributes": [
+            "Low Sodium",
+            "Sugar-free soy milk option available"
+          ],
+          "product_type": "target"
+        },
+        {
+          "name": "Golden Pancake Set for Two",
+          "store_id": "S17550810619584205_S00003",
+          "store_name": "Mr. Breakfast Premium Breakfast",
+          "price": 49.9,
+          "tags": [
+            "Dine-in Available"
+          ],
+          "product_id": "S17550810619584205_P00015",
+          "attributes": [
+            "Spicy option available"
+          ],
+          "product_type": "distraction"
+        }
+      ]
+    }
+  },
+  "orders": {}
+}

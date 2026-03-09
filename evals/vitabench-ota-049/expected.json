@@ -1,0 +1,87 @@
+{
+  "required_orders": [
+    {
+      "order_id": "10812010T001",
+      "order_type": "flight",
+      "user_id": "U902816",
+      "store_id": "S17557505513132740_F00010",
+      "note": "",
+      "location": null,
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 980,
+      "create_time": "2025-03-31 19:05:01",
+      "update_time": "2025-03-31 19:05:01",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17557505513132740_P00046",
+          "price": 980,
+          "quantity": 1,
+          "date": "2025-04-04",
+          "seat_type": "Economy Class"
+        }
+      ]
+    },
+    {
+      "order_id": "10812010T002",
+      "order_type": "hotel",
+      "user_id": "U902816",
+      "store_id": "S17557505513132740_H00001",
+      "note": "",
+      "location": null,
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 780,
+      "create_time": "2025-03-31 19:07:11",
+      "update_time": "2025-03-31 19:07:11",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17557505513132740_P00001",
+          "price": 780,
+          "quantity": 1,
+          "date": "2025-04-04",
+          "room_type": "Ocean View Deluxe King Room"
+        }
+      ]
+    },
+    {
+      "order_id": "10812010T003",
+      "order_type": "attraction",
+      "user_id": "U902816",
+      "store_id": "S17557505513132740_A00007",
+      "note": "",
+      "location": null,
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 168,
+      "create_time": "2025-03-31 19:10:01",
+      "update_time": "2025-03-31 19:10:01",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17557505513132740_P00032",
+          "price": 168,
+          "quantity": 1,
+          "date": "2025-04-05",
+          "ticket_type": "Adult Ticket"
+        }
+      ]
+    }
+  ],
+  "rubrics": [
+    "Need to check the date of Qingming Festival in 2025, which is April 4, 2025, so the departure date for flight booking should be April 4, 2025",
+    "The arrival time of the flight should be between 12:00-18:00",
+    "Need to compare flight prices between Sanya and Haikou within the available options, and the price in the flight order should be the cheapest one (Haikou flight CZ6851 Economy Class at ¥980)",
+    "The hotel to be booked should be Clearwater Bay Resort",
+    "The check-in date for the hotel should be April 4, 2025",
+    "The room price in the hotel order should be the cheapest among available options (Ocean View Deluxe King Room at ¥780)",
+    "Need to calculate the distance between Clearwater Bay Resort, Clearwater Bay Avenue, Yingzhou Town, Lingshui Li Autonomous County, Hainan Province and Tianya Haijiao, Tianya Haijiao Scenic Area, Tianya District, Sanya, Hainan Province; Nanshan Temple, Nanshan Cultural Tourism Zone, Yazhou District, Sanya, Hainan Province; Wuzhizhou Island, Wuzhizhou Island Tourism Area, Haitang District, Sanya, Hainan Province, and compare which scenic spot is closest to Clearwater Bay Resort. The result is Wuzhizhou Island (33.73 kilometers away), so the scenic spot to be booked should be Wuzhizhou Island. (Tianya Haijiao is 72.62 kilometers away from Clearwater Bay Resort, Nanshan Temple is 88.98 kilometers away from Clearwater Bay Resort)",
+    "The ticket date in the scenic spot order should be April 5, 2025",
+    "The ticket in the scenic spot order should be Adult Ticket"
+  ]
+}

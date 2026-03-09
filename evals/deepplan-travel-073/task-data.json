@@ -1,0 +1,50 @@
+{
+  "task_id": "72",
+  "query": "I would like to travel from Jinan to Hangzhou on November 12, 2025, and return on November 16, 2025. I'd appreciate your help in arranging the entire trip, including transportation, accommodation, meals, and attractions. We plan to take the train both ways, and please book first-class seats since they're more comfortable.\n\nFor accommodation, I'd prefer a three-star hotel. Importantly, we'll be driving there, so the hotel must have a free parking lot—please make sure of that. By the way, there are three of us, but two rooms will be sufficient.\n\nRegarding attractions, I'm particularly fond of places with historical and cultural ambiance. I've heard Hangzhou excels in this aspect—please select the highest-rated historical and cultural attraction and include it in the itinerary, making sure not to miss any highlights. Also, I've heard there are many great food options near \"Leifeng Pagoda Scenic Area.\" Since we'll be visiting that area, please recommend the highest-rated restaurant nearby and arrange one meal there so we can try the local specialties.\n\nThese are basically all my requirements. I believe I've provided all necessary information—please go ahead and plan the itinerary directly without asking for further details. Thank you! November 12, 2025 is Wednesday",
+  "meta_info": {
+    "org": "Jinan",
+    "dest": [
+      "Hangzhou"
+    ],
+    "days": 5,
+    "depart_date": "2025-11-12",
+    "return_date": "2025-11-16",
+    "people_number": 3,
+    "room_number": 2
+  },
+  "hard_constraints": {
+    "train_seat_class": {
+      "constraint_context": "Traveling by train, and hoping to choose first-class seats for both outbound and return journeys",
+      "outbound_train_no": "G1734",
+      "inbound_train_no": "G1732"
+    },
+    "hotel_star_service_required": {
+      "constraint_context": "Please select a 3-star hotel that offers free parking",
+      "constraint_type": "superlative_star_service_required",
+      "hotel_name": "Orange Hotel Hangzhou Cultural and Sports Center Xixi Wetland",
+      "required_service": "Free Parking",
+      "hotel_star": 3,
+      "hotel_price": 305.0
+    },
+    "attraction_type_highest_rated": {
+      "constraint_context": "The itinerary must include the highest-rated attraction in the 'Historical and Cultural' category.",
+      "constraint_type": "superlative_type_highest_rated",
+      "attraction_names": [
+        "Lingyin Temple"
+      ],
+      "attraction_type_cn": "历史文化",
+      "attraction_type": "Historical and Cultural",
+      "attraction_ratings": [
+        4.9
+      ]
+    },
+    "restaurant_highest_rated": {
+      "constraint_context": "Please arrange a meal at the highest-rated restaurant near the 'Leifeng Pagoda Scenic Area' during the trip.",
+      "constraint_type": "superlative_highest_rated_restaurant",
+      "attraction_name": "Leifeng Pagoda Scenic Area",
+      "restaurant_name": "Liuying Lakeside",
+      "price_per_person": 217.0,
+      "restaurant_rating": 4.6
+    }
+  }
+}

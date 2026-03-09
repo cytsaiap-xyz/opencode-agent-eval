@@ -1,0 +1,58 @@
+{
+  "required_orders": [
+    {
+      "order_id": "10826240T001",
+      "order_type": "instore",
+      "user_id": "U127475",
+      "store_id": "S17567842118828934_I00001",
+      "note": "",
+      "location": null,
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 198,
+      "create_time": "2024-05-24 10:33:00",
+      "update_time": "2024-05-24 10:33:00",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17567842118828934_P00001",
+          "name": "Signature yellow croaker rice cake + geoduck jelly set for two",
+          "price": 198,
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "book_id": "10826240T002",
+      "shop_id": "S17567842118828934_I00001",
+      "book_time": "2024-05-25 17:30:00",
+      "update_time": "2024-05-24 10:35:00",
+      "customer_id": "U127475",
+      "customer_count": 8,
+      "book_price": 30,
+      "status": "paid"
+    },
+    {
+      "reservation_id": "10826240T003",
+      "shop_id": "S17567842118828934_I00006",
+      "reservation_time": "2024-05-25 20:00:00",
+      "update_time": "2024-05-24 10:37:00",
+      "customer_id": "U127475",
+      "customer_count": 6,
+      "status": "paid"
+    }
+  ],
+  "rubrics": [
+    "The restaurant ordered should be within 3km (inclusive) of Room 503, Unit 2, Building 6, Henghua Garden, 28 Youyi Road, Hexi District, Tianjin",
+    "The restaurant ordered should be Top-rated",
+    "The merchant in the order should be a Fujian cuisine restaurant",
+    "The search shows no 4-person meal that includes both yellow croaker rice cake and geoduck jelly, so the ordered item should be a set meal for 2-3 people that includes both yellow croaker rice cake and geoduck jelly, rather than multiple individual set meals",
+    "The reserved restaurant should be Fujian Aming Seafood Restaurant",
+    "The restaurant reservation time should be 2024-05-25 17:30:00",
+    "The number of people for the restaurant reservation should be 8",
+    "The reserved tea house should be Anxin Tea House",
+    "The tea house reservation time should be 2024-05-25 20:00:00",
+    "The number of people for the tea house reservation should be 6"
+  ]
+}

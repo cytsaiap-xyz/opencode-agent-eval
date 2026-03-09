@@ -1,0 +1,64 @@
+{
+  "required_orders": [
+    {
+      "book_id": "10826020T001",
+      "shop_id": "S17564420264159867_I00001",
+      "book_time": "2025-08-29 12:00:00",
+      "update_time": "2025-08-04 10:34:00",
+      "customer_id": "U715285",
+      "customer_count": 2,
+      "book_price": 50,
+      "status": "paid"
+    },
+    {
+      "order_id": "10826020T002",
+      "order_type": "instore",
+      "user_id": "U715285",
+      "store_id": "S17564420264159867_I00002",
+      "note": "",
+      "location": null,
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 388,
+      "create_time": "2025-08-04 10:37:00",
+      "update_time": "2025-08-04 10:37:00",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17564420264159867_P00006",
+          "name": "Special Proposal Package (Small Room 3 Hours + Champagne + Exquisite Snacks + Scene Decoration)",
+          "price": 388,
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "reservation_id": "10826020T003",
+      "shop_id": "S17564420264159867_I00002",
+      "reservation_time": "2025-08-29 14:30:00",
+      "update_time": "2025-08-04 10:37:00",
+      "customer_id": "U715285",
+      "customer_count": 2,
+      "status": "paid"
+    }
+  ],
+  "rubrics": [
+    "The reservation time for the Western restaurant should be at noon (12:00) on Chinese Valentine's Day (August 29, 2025)",
+    "The number of people for the Western restaurant reservation should be 2",
+    "The Western restaurant should have a terrace",
+    "The Western restaurant should have a lake view",
+    "The Western restaurant should provide a sirloin steak set for two, rather than two individual set meals",
+    "The price of the sirloin steak set for two at the Western restaurant should be within 500 yuan (including 500 yuan)",
+    "The rating of the Western restaurant should be 4.3 or above",
+    "The KTV should be within 2km (including 2km) of the Lakeside Western Restaurant at the intersection of Xinhua Road and Yuhe Road, Bailang River Scenic Area, Kuiwen District, Weifang City, Shandong Province",
+    "The duration of the KTV booking should be 3 hours",
+    "The KTV booking should be for a Small Room",
+    "The KTV booking should include champagne",
+    "The KTV booking should include snacks",
+    "The KTV booking should include scene decoration",
+    "The KTV reservation time should be at 2:30 PM on Chinese Valentine's Day (August 29, 2025)",
+    "The number of people for the KTV reservation should be 2",
+    "The reserved KTV should be Starry Sky KTV"
+  ]
+}

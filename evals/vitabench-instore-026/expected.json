@@ -1,0 +1,76 @@
+{
+  "required_orders": [
+    {
+      "order_id": "10826011T001",
+      "order_type": "instore",
+      "user_id": "U091644",
+      "store_id": "S17564420317165268_I00001",
+      "note": "",
+      "location": null,
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 288,
+      "create_time": "2025-03-15 17:31:00",
+      "update_time": "2025-03-15 17:31:00",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17564420317165268_P00001",
+          "name": "Blue Note Specialty Set for Three (Including Snacks)",
+          "price": 288,
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "reservation_id": "10826011T002",
+      "shop_id": "S17564420317165268_I00001",
+      "reservation_time": "2025-03-15 21:00:00",
+      "update_time": "2025-03-15 17:33:00",
+      "customer_id": "U091644",
+      "customer_count": 3,
+      "status": "paid"
+    },
+    {
+      "order_id": "10826011T003",
+      "order_type": "instore",
+      "user_id": "U091644",
+      "store_id": "S17564420317165268_I00002",
+      "note": "",
+      "location": null,
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 88,
+      "create_time": "2025-03-15 17:35:00",
+      "update_time": "2025-03-15 17:35:00",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17564420317165268_P00006",
+          "name": "Parent-Child Fun Pass (1 Adult 1 Child)",
+          "price": 88,
+          "quantity": 1
+        }
+      ]
+    }
+  ],
+  "rubrics": [
+    "Need to query user's frequently visited bars, the result is b216 (Lianfa Premium Store), the ordered bar cannot be b216 (Lianfa Premium Store)",
+    "The ordered bar must have a smoking area or allow indoor smoking",
+    "The ordered bar must have live singing performances",
+    "The distance between the bar and the night market should be within 800 meters (including 800 meters)",
+    "The bar set order should include snacks",
+    "The bar set order should be a cocktail set",
+    "The bar set order cannot contain food with high purine ingredients",
+    "The reserved bar should be Blue Note Bar",
+    "The reservation time for the bar is 2025-03-15 21:00:00",
+    "The number of people for the bar reservation is 3",
+    "The children's playground should be inside a mall",
+    "The ticket ordered for the children's playground should be suitable for a 5-year-old child",
+    "The children's playground should be no more than 1000 meters (including 1000 meters) from Room 1204, Building A, Sunshine 100 City Plaza, 166 Minzu Avenue, Qingxiu District, Nanning, Guangxi",
+    "The ticket ordered for the children's playground should be a parent-child package",
+    "The ticket ordered for the children's playground should allow entry at 19:00"
+  ]
+}

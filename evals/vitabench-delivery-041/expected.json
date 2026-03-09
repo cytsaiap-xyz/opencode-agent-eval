@@ -1,0 +1,74 @@
+{
+  "required_orders": [
+    {
+      "order_id": "80716001T01",
+      "order_type": "delivery",
+      "user_id": "U000068",
+      "store_id": "S26029760355367319_S56035",
+      "note": "",
+      "location": {
+        "address": "Linhua Road Community, No. 39 Linhua Road, Qixinggang Street, Yuzhong District, Chongqing (Next to Exit 4B of Qixinggang Metro Station)",
+        "longitude": 106.560671,
+        "latitude": 29.555627
+      },
+      "dispatch_time": "2025-01-01 11:46:00",
+      "shipping_time": 33,
+      "delivery_time": "2025-01-01 12:19:00",
+      "total_price": 90.5,
+      "create_time": "2025-01-01 11:38:00",
+      "update_time": "2025-01-01 11:38:00",
+      "status": "delivered",
+      "products": [
+        {
+          "product_id": "S33992586623866451_P39950",
+          "price": 46.8,
+          "quantity": 1,
+          "attributes": ""
+        },
+        {
+          "product_id": "S23410007806115216_P22724",
+          "price": 43.7,
+          "quantity": 1,
+          "attributes": ""
+        }
+      ]
+    },
+    {
+      "order_id": "80716001T02",
+      "order_type": "delivery",
+      "user_id": "U000068",
+      "store_id": "S21386320899164091_S60328",
+      "note": "",
+      "location": {
+        "address": "Linhua Road Community, No. 39 Linhua Road, Qixinggang Street, Yuzhong District, Chongqing (Next to Exit 4B of Qixinggang Metro Station)",
+        "longitude": 106.560671,
+        "latitude": 29.555627
+      },
+      "dispatch_time": "2025-01-01 11:53:00",
+      "shipping_time": 25,
+      "delivery_time": "2025-01-01 12:18:00",
+      "total_price": 19.6,
+      "create_time": "2025-01-01 11:46:00",
+      "update_time": "2025-01-01 11:46:00",
+      "status": "delivered",
+      "products": [
+        {
+          "product_id": "S89975760415369552_P50335",
+          "price": 19.6,
+          "quantity": 1,
+          "attributes": "Hot"
+        }
+      ]
+    }
+  ],
+  "rubrics": [
+    "The delivery address for the braised goose and goose liver order should be Linhua Road Community, No. 39 Linhua Road, Qixinggang Street, Yuzhong District, Chongqing (Next to Exit 4B of Qixinggang Metro Station)",
+    "The braised goose and goose liver order should include one set menu and one individual item",
+    "The delivery time for the braised goose and goose liver order should be between 2025-01-01 11:30:00 and 2025-01-01 12:30:00",
+    "The total portion of items in the braised goose and goose liver order must be larger than a normal meal for two people, but not excessive (e.g., a meal for four would be excessive)",
+    "The selected merchant for the braised goose and goose liver order should have a rating higher than 4.0",
+    "The delivery address for the Peach Gum and Lotus Seed Stewed Milk order should be Linhua Road Community, No. 39 Linhua Road, Qixinggang Street, Yuzhong District, Chongqing (Next to Exit 4B of Qixinggang Metro Station)",
+    "The delivery time for the Peach Gum and Lotus Seed Stewed Milk order should be between 2025-01-01 11:30:00 and 2025-01-01 12:30:00",
+    "The items in the Peach Gum and Lotus Seed Stewed Milk order should have the hot drink attribute selected"
+  ]
+}

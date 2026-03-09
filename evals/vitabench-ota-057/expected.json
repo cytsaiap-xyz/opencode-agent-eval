@@ -1,0 +1,90 @@
+{
+  "required_orders": [
+    {
+      "order_id": "D0811006T001",
+      "order_type": "train",
+      "user_id": "U010055",
+      "store_id": "S17557512008539083_T00012",
+      "note": "",
+      "location": null,
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 402,
+      "create_time": "2025-06-24 11:17:32",
+      "update_time": "2025-06-24 11:17:32",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17557512008539083_P00082",
+          "price": 402,
+          "quantity": 1,
+          "date": "2025-06-29",
+          "seat_type": "Second Class Seat"
+        }
+      ]
+    },
+    {
+      "order_id": "D0811006T002",
+      "order_type": "hotel",
+      "user_id": "U010055",
+      "store_id": "S17557512008539083_H00004",
+      "note": "",
+      "location": null,
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 328,
+      "create_time": "2025-06-24 11:19:32",
+      "update_time": "2025-06-24 11:19:32",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17557512008539083_P00021",
+          "price": 328,
+          "quantity": 1,
+          "date": "2025-06-29",
+          "room_type": "Comfort King Room"
+        }
+      ]
+    },
+    {
+      "order_id": "D0811006T003",
+      "order_type": "hotel",
+      "user_id": "U010055",
+      "store_id": "S17557512008539083_H00003",
+      "note": "",
+      "location": null,
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 318,
+      "create_time": "2025-06-24 11:21:00",
+      "update_time": "2025-06-24 11:21:00",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17557512008539083_P00020",
+          "price": 318,
+          "quantity": 1,
+          "date": "2025-06-30",
+          "room_type": "Economy King Room"
+        }
+      ]
+    }
+  ],
+  "rubrics": [
+    "The departure location of the outbound ticket should be Xi'an",
+    "The destination of the outbound ticket should be Jiuquan",
+    "The departure date of the outbound ticket should be June 29, 2025",
+    "Need to check the lowest price for Express Train sleeper within the optional range, which is 392 yuan; need to check the price information for High-speed Train Second Class Seat within the optional range, which is 402 yuan; subtract these two prices, the result is 10 yuan, meaning the price difference between the two seat types does not exceed 100 yuan, so the seat type in the ticket order should be Second Class Seat",
+    "The hotel in the hotel order for June 29, 2025 should be within 3 kilometers of Jiuquan Satellite Launch Center, Dongfeng Aerospace City, Suzhou District, Jiuquan City, Gansu Province",
+    "The hotel in the hotel order for June 29, 2025 should offer Laundry Service",
+    "The hotel in the hotel order for June 29, 2025 should offer Free Luggage Storage service",
+    "The room type in the hotel order for June 29, 2025 should be a King Room",
+    "The hotel in the hotel order for June 30, 2025 should be within 3 kilometers of Jiuquan Park, 1 Park Road, Suzhou District, Jiuquan City, Gansu Province",
+    "The hotel in the hotel order for June 30, 2025 should offer Laundry Service",
+    "The hotel in the hotel order for June 30, 2025 should offer Free Luggage Storage service",
+    "The room type in the hotel order for June 30, 2025 should be a King Room"
+  ]
+}

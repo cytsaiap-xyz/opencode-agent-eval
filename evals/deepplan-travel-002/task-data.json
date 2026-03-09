@@ -1,0 +1,57 @@
+{
+  "task_id": "1",
+  "query": "I'm planning a two-day trip from Harbin to Dalian on November 12, 2025, returning on November 13. Could you help me arrange the itinerary? There are four of us traveling, and we'd like to take the train round-trip—please just pick a suitable train for us.\n\nFor accommodation, I have a small request: I'd like to find a hotel that has been newly renovated after 2025. Staying somewhere newer just puts us in a better mood. Since there are four of us, we'll need to book two rooms—please help arrange that as well.\n\nBy the way, for dining, I’d like to have one meal arranged near 'Xinghai Bay Boardwalk'. Ideally, it would be at a restaurant offering private room service—I think it would feel more comfortable and private.\n\nAlso, this trip is all about relaxation. I’ve heard Dalian has some fantastic 'Leisure Experience' attractions, and I’d like to visit all the recommended spots of this type. Please include all of them in the plan—don’t miss any.\n\nThat’s basically everything. I believe I've provided all necessary information. Please help me plan the full itinerary and budget—just go ahead and arrange everything without needing to ask me further preferences. Thank you! November 12, 2025 is Wednesday",
+  "meta_info": {
+    "org": "Harbin",
+    "dest": [
+      "Dalian"
+    ],
+    "days": 2,
+    "depart_date": "2025-11-12",
+    "return_date": "2025-11-13",
+    "people_number": 4,
+    "room_number": 2
+  },
+  "hard_constraints": {
+    "train_seat_status": {
+      "constraint_context": "4 travelers, choosing to travel by train, need to select a train with sufficient remaining tickets (this sentence does not need to be reflected in the query, but should be inferred by the user)",
+      "people_number": 4,
+      "outbound_train_no": "G710",
+      "inbound_train_no": "G725",
+      "outbound_seat_status": "7",
+      "inbound_seat_status": "8"
+    },
+    "hotel_newest_decoration": {
+      "constraint_context": "Please select hotels with renovations completed in 2025 or later",
+      "constraint_type": "superlative_newest_decoration",
+      "hotel_name": "Hanting Hotel Dalian Xian Road Commercial Street",
+      "hotel_price": 233.0,
+      "hotel_score": 4.5,
+      "decoration_time": 2025,
+      "year_threshold": 2025
+    },
+    "restaurant_specific_tag_nearby": {
+      "constraint_context": "Arrange a meal at a restaurant near the 'Xinghai Bay Boardwalk' during the trip, with private room service required.",
+      "constraint_type": "superlative_specific_tag_nearby",
+      "attraction_name": "Xinghai Bay Boardwalk",
+      "restaurant_name": "Yuanben Tang Restaurant",
+      "required_tag": "Private Room",
+      "price_per_person": 61.0,
+      "restaurant_rating": 4.0
+    },
+    "attraction_all_of_type": {
+      "constraint_context": "Must-visit attractions: Recommend all景点 categorized as 'Leisure Experience' type mentioned in the attraction recommendation tool",
+      "constraint_type": "superlative_all_of_type",
+      "attraction_names": [
+        "Qingniwa Bridge Commercial Area",
+        "Donggang Business District"
+      ],
+      "attraction_type_cn": "休闲体验",
+      "attraction_type": "Leisure Experience",
+      "attraction_ratings": [
+        4.5,
+        4.2
+      ]
+    }
+  }
+}

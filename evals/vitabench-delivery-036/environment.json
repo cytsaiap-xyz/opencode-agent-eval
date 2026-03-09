@@ -1,0 +1,322 @@
+{
+  "task_id": "80714001",
+  "domain": "delivery",
+  "time": "2025-04-01 18:22:34",
+  "user_id": "U000073",
+  "weather": [
+    {
+      "city": "Taiyuan City",
+      "category": "sunny",
+      "datetime": "2025-04-01",
+      "temperature": [
+        4,
+        17
+      ],
+      "humidity": 67
+    }
+  ],
+  "location": [
+    {
+      "address": "Student Dormitory, Longtan Campus of Shanxi Engineering Vocational College, 131 Xinjian Road, Sanqiao Street, Xinghualing District, Taiyuan, Shanxi Province",
+      "longitude": 112.548105,
+      "latitude": 37.880882
+    }
+  ],
+  "user_profile": {
+    "user id": "U000073",
+    "occupation": "Student",
+    "gender": "male",
+    "age group": "15~20",
+    "residence": "Taiyuan",
+    "home address": "Student Dormitory, Longtan Campus of Shanxi Engineering Vocational College, 131 Xinjian Road, Sanqiao Street, Xinghualing District, Taiyuan, Shanxi Province",
+    "work address": "Longtan Campus of Shanxi Engineering Vocational College, 131 Xinjian Road, Sanqiao Street, Xinghualing District, Taiyuan, Shanxi Province",
+    "dietary restrictions": "Avoid fried food",
+    "family status": "Unknown",
+    "personality": "Emotionally volatile, expresses with strong emotional coloring"
+  },
+  "user_historical_behaviors": {
+    "user id": "U000073",
+    "occupation": "student",
+    "gender": "male",
+    "age group": "15~20",
+    "residence": "Taiyuan",
+    "home address": "Student Dormitory, Longtan Campus of Shanxi Engineering Vocational College, 131 Xinjian Road, Sanqiao Street, Xinghualing District, Taiyuan, Shanxi Province",
+    "work address": "Longtan Campus of Shanxi Engineering Vocational College, 131 Xinjian Road, Sanqiao Street, Xinghualing District, Taiyuan, Shanxi Province",
+    "breakfast": {
+      "frequently purchased categories": [
+        "Quick meals/Buns/Fried buns (average 15 yuan)",
+        "Quick meals/Jianbing/Wraps/Hand-grabbed pancakes (average 12 yuan)",
+        "Quick meals/Rice noodles/Rice vermicelli (average 18 yuan)"
+      ],
+      "cost per order": "10~25 yuan",
+      "preferred store rating": "4.2~4.7 stars",
+      "preferred delivery time": "15~30 minutes",
+      "preferred distance": "0~2000m",
+      "recent orders": [
+        {
+          "store": "Xiao Yang's Pan-fried Buns",
+          "product": "Fresh meat pan-fried buns"
+        },
+        {
+          "store": "Mr. Rice Noodles",
+          "product": "Clear soup rice noodles"
+        }
+      ],
+      "search history": [
+        "buns",
+        "soy milk",
+        "light breakfast",
+        "low-sugar breakfast"
+      ]
+    },
+    "weekday lunch/dinner": {
+      "frequently purchased categories": [
+        "Quick meals/Small bowls/Small dishes (average 25 yuan)",
+        "Quick meals/Light food (average 32 yuan)",
+        "Quick meals/Healthy meals (average 35 yuan)"
+      ],
+      "cost per order": "20~45 yuan",
+      "preferred store rating": "4.2~4.8 stars",
+      "preferred delivery time": "20~35 minutes",
+      "preferred distance": "0~2500m",
+      "recent orders": [
+        {
+          "store": "Light Food Philosophy",
+          "product": "Quinoa chicken breast salad"
+        },
+        {
+          "store": "Pang Er Jiu Traditional Buns (Jingang'yan Road Branch)",
+          "product": "Sauce Meat Bun"
+        },
+        {
+          "store": "Healthy Food Era",
+          "product": "Steamed dishes platter"
+        }
+      ],
+      "search history": [
+        "healthy meal",
+        "low oil",
+        "steamed dishes",
+        "buns",
+        "chicken breast"
+      ]
+    },
+    "weekend lunch/dinner": {
+      "frequently purchased categories": [
+        "Chinese cuisine/Shandong cuisine (average 65 yuan)",
+        "Foreign flavors/Stone pot mixed rice/Teppanyaki rice (average 55 yuan)",
+        "Quick meals/Salad (average 40 yuan)"
+      ],
+      "cost per order": "40~80 yuan",
+      "preferred store rating": "4.1~4.9 stars",
+      "preferred delivery time": "25~45 minutes",
+      "preferred distance": "0~3500m",
+      "recent orders": [
+        {
+          "store": "Qilu Flavor",
+          "product": "Scallion fried lamb"
+        },
+        {
+          "store": "Korean Cuisine",
+          "product": "Stone pot mixed rice"
+        },
+        {
+          "store": "Green Salad",
+          "product": "Avocado chicken breast salad"
+        }
+      ],
+      "search history": [
+        "non-greasy food",
+        "healthy cuisine",
+        "stone pot mixed rice",
+        "specialty dishes"
+      ]
+    },
+    "desserts/drinks/snacks": {
+      "frequently purchased categories": [
+        "Drinks & desserts/Pure tea/Herbal tea (average 18 yuan)",
+        "Drinks & desserts/Coffee (average 28 yuan)",
+        "Drinks & desserts/Fruit mix (average 25 yuan)"
+      ],
+      "cost per order": "15~30 yuan",
+      "preferred store rating": "4.4~4.9 stars",
+      "preferred delivery time": "15~30 minutes",
+      "preferred distance": "0~2500m",
+      "recent orders": [
+        {
+          "store": "Tea Song",
+          "product": "Sugar-free oolong tea"
+        },
+        {
+          "store": "Starbucks",
+          "product": "Americano (sugar-free)"
+        },
+        {
+          "store": "Fresh Fruit Mix",
+          "product": "Light sugar fruit platter"
+        }
+      ],
+      "search history": [
+        "sugar-free drinks",
+        "low sugar",
+        "oolong tea",
+        "fruit tea",
+        "healthy drinks"
+      ]
+    },
+    "night snack": {
+      "frequently purchased categories": [
+        "Quick meals/Rice noodles/Rice vermicelli (average 22 yuan)",
+        "Hot pot/Spicy hot pot/Oden (average 28 yuan)",
+        "Snacks & braised food/Braised items (average 25 yuan)"
+      ],
+      "cost per order": "20~35 yuan",
+      "preferred store rating": "4.0~4.7 stars",
+      "preferred delivery time": "20~40 minutes",
+      "preferred distance": "0~2000m",
+      "recent orders": [
+        {
+          "store": "Old Street Rice Noodles",
+          "product": "Hot and sour rice noodles"
+        },
+        {
+          "store": "Braised Food Station",
+          "product": "Braised chicken wings (mildly spicy)"
+        },
+        {
+          "store": "Oden Expert",
+          "product": "Vegetable oden platter"
+        }
+      ],
+      "search history": [
+        "non-fried night snacks",
+        "low-fat night snacks",
+        "healthy night snacks",
+        "rice noodles",
+        "braised food"
+      ]
+    }
+  },
+  "stores": {
+    "S15927822440687410_S54674": {
+      "name": "Pang Er Jiu Traditional Buns (Jingang'yan Road Branch)",
+      "store_id": "S15927822440687410_S54674",
+      "score": 4.3,
+      "location": {
+        "address": "Second Shop from the East, 91 Jingang'yan Road, Xinghualing District, Taiyuan, Shanxi Province",
+        "latitude": 37.88809,
+        "longitude": 112.547427
+      },
+      "tags": [],
+      "products": [
+        {
+          "name": "Sauce Meat Bun",
+          "store_id": "S15927822440687410_S54674",
+          "store_name": "Pang Er Jiu Traditional Buns (Jingang'yan Road Branch)",
+          "price": 4.9,
+          "tags": [
+            "Savory"
+          ],
+          "product_id": "S54069754917006434_P49432",
+          "attributes": [],
+          "quantity": 9999
+        }
+      ]
+    },
+    "S31006380503211888_S65190": {
+      "name": "Pang Er Jiu Traditional Buns (Fuli Huating Branch)",
+      "store_id": "S31006380503211888_S65190",
+      "score": 4.6,
+      "location": {
+        "address": "Pang Er Jiu Traditional Buns (Fuli Huating), West Gate of Kuangji 75 Community, 286 Shengli Street, Xinghualing District, Taiyuan, Shanxi Province",
+        "latitude": 37.893611,
+        "longitude": 112.555966
+      },
+      "tags": [],
+      "products": [
+        {
+          "name": "Premium Pork Bun (Fresh Marbled Pork)",
+          "product_id": "S64681734674559248_P47553",
+          "store_id": "S31006380503211888_S65190",
+          "store_name": "Pang Er Jiu Traditional Buns (Fuli Huating Branch)",
+          "price": 3.9,
+          "tags": [],
+          "attributes": [],
+          "quantity": 9999
+        },
+        {
+          "name": "Handmade Stir-fried Sauce Meat Buns, 3 per Steamer (Fresh Stir-fried Minced Meat)",
+          "product_id": "S26846471044249744_P79559",
+          "store_id": "S31006380503211888_S65190",
+          "store_name": "Pang Er Jiu Traditional Buns (Fuli Huating Branch)",
+          "price": 13.9,
+          "tags": [],
+          "attributes": [],
+          "quantity": 9999
+        }
+      ]
+    },
+    "S14148901726725338_S84247": {
+      "name": "Kung Fu Bun (CRRC International Plaza Branch)",
+      "store_id": "S14148901726725338_S84247",
+      "score": 4.3,
+      "location": {
+        "address": "CRRC International Plaza Phase 2, 10 Jiefang North Road, Xinghualing District, Taiyuan, Shanxi Province",
+        "latitude": 37.899013,
+        "longitude": 112.566524
+      },
+      "tags": [],
+      "products": [
+        {
+          "name": "Handmade Shiitake Mushroom Sauce Meat Bun",
+          "product_id": "S12381329831209672_P90011",
+          "store_id": "S14148901726725338_S84247",
+          "store_name": "Kung Fu Bun (CRRC International Plaza Branch)",
+          "price": 3.98,
+          "tags": [],
+          "attributes": [],
+          "quantity": 9999
+        },
+        {
+          "name": "Fresh Pork and Scallion Bun",
+          "product_id": "S14942506340381198_P56349",
+          "store_id": "S14148901726725338_S84247",
+          "store_name": "Kung Fu Bun (CRRC International Plaza Branch)",
+          "price": 3.68,
+          "tags": [],
+          "attributes": [],
+          "quantity": 9999
+        }
+      ]
+    }
+  },
+  "orders": {
+    "80714001O01": {
+      "order_id": "80714001O01",
+      "order_type": "delivery",
+      "user_id": "U000073",
+      "store_id": "S15927822440687410_S54674",
+      "note": "",
+      "location": {
+        "address": "Student Dormitory, Longtan Campus of Shanxi Engineering Vocational College, 131 Xinjian Road, Sanqiao Street, Xinghualing District, Taiyuan, Shanxi Province",
+        "longitude": 112.548105,
+        "latitude": 37.880882
+      },
+      "dispatch_time": "2025-03-30 17:18:00",
+      "shipping_time": 15,
+      "delivery_time": "2025-03-30 17:33:00",
+      "total_price": 29.4,
+      "create_time": "2025-03-30 17:05:00",
+      "update_time": "2025-03-30 17:05:00",
+      "status": "delivered",
+      "products": [
+        {
+          "product_id": "S54069754917006434_P49432",
+          "price": 4.9,
+          "quantity": 6,
+          "attributes": ""
+        }
+      ]
+    }
+  }
+}

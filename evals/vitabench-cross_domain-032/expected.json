@@ -1,0 +1,129 @@
+{
+  "required_orders": [
+    {
+      "order_id": "A0808005T001",
+      "order_type": "attraction",
+      "user_id": "U045857",
+      "store_id": "S17550809608986081_A00011",
+      "note": "",
+      "location": null,
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 156,
+      "create_time": "2024-06-07 07:33:00",
+      "update_time": "2024-06-07 07:33:00",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17550809608986081_P00058",
+          "price": 88,
+          "quantity": 1,
+          "date": "2024-06-08",
+          "ticket_type": "Parent-Child Picking Package (1 Adult and 1 Child)"
+        },
+        {
+          "product_id": "S17550809608986081_P00059",
+          "price": 68,
+          "quantity": 1,
+          "date": "2024-06-08",
+          "ticket_type": "Adult Ticket"
+        }
+      ]
+    },
+    {
+      "order_id": "A0808005T002",
+      "order_type": "delivery",
+      "user_id": "U045857",
+      "store_id": "S17550809608986081_S00002",
+      "note": "",
+      "location": {
+        "address": "Room 502, Building 3, Jinxiu Garden, No.12 Jinbang Road, Henan'an Street, Huicheng District, Huizhou, Guangdong Province",
+        "longitude": 114.4162,
+        "latitude": 23.0836
+      },
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 90.1,
+      "create_time": "2024-06-07 07:35:00",
+      "update_time": "2024-06-07 07:35:00",
+      "status": "unpaid",
+      "products": [
+        {
+          "product_id": "S17550809608986081_P00010",
+          "price": 15.9,
+          "quantity": 1,
+          "name": "Sun Hat - Children's Cartoon Style",
+          "attributes": ""
+        },
+        {
+          "product_id": "S17550809608986081_P00009",
+          "price": 25.9,
+          "quantity": 2,
+          "name": "Sun Hat - Wide-Brimmed Style",
+          "attributes": ""
+        },
+        {
+          "product_id": "S17550809608986081_P00011",
+          "price": 12.5,
+          "quantity": 1,
+          "name": "Mosquito Repellent Floral Water - Cooling Type",
+          "attributes": ""
+        },
+        {
+          "product_id": "S17550809608986081_P00012",
+          "price": 9.9,
+          "quantity": 1,
+          "name": "Wet Tissues - Travel Pack",
+          "attributes": ""
+        }
+      ]
+    },
+    {
+      "order_id": "A0808005T003",
+      "order_type": "hotel",
+      "user_id": "U045857",
+      "store_id": "S17550809608986081_H00006",
+      "note": "",
+      "location": null,
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 688,
+      "create_time": "2024-06-07 07:38:00",
+      "update_time": "2024-06-07 07:38:00",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17550809608986081_P00033",
+          "price": 688,
+          "quantity": 1,
+          "date": "2024-06-08",
+          "room_type": "Deluxe King Room with Bathtub"
+        }
+      ]
+    }
+  ],
+  "rubrics": [
+    "The attraction ordered should be an organic farm",
+    "The attraction should have cherries, mulberries, and organic vegetables",
+    "The tickets ordered should be Parent-Child Picking Package (1 Adult and 1 Child) and Adult Ticket",
+    "Tickets should be purchased for June 8, 2024",
+    "The delivery order should include sun hats",
+    "The delivery order should include Mosquito Repellent Floral Water",
+    "The delivery order should include Wet Tissues",
+    "The delivery order should include 3 sun hats",
+    "The delivery order should include 1 Mosquito Repellent Floral Water",
+    "The delivery order should include 1 Wet Tissues",
+    "The sun hats, Mosquito Repellent Floral Water, and Wet Tissues in the delivery order should come from the same store",
+    "The delivery address for the order should be Room 502, Building 3, Jinxiu Garden, No.12 Jinbang Road, Henan'an Street, Huicheng District, Huizhou, Guangdong Province",
+    "The estimated delivery time for the order should be before 08:30 on June 7, 2024",
+    "The reserved hotel should be within 1km (inclusive) of a Food Street",
+    "The reserved hotel should have a Swimming Pool",
+    "The reserved hotel must have Good Sound Insulation",
+    "The environment of the reserved hotel should be Clean and Hygienic",
+    "The room type of the reserved hotel should have a Bathtub",
+    "The check-in date for the hotel reservation should be June 8, 2024"
+  ]
+}

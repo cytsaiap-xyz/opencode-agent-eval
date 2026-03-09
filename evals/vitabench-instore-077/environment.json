@@ -1,0 +1,197 @@
+{
+  "task_id": "10826245",
+  "domain": "instore",
+  "time": "2024-05-25 16:30:00",
+  "user_id": "U220266",
+  "weather": [
+    {
+      "city": "Luoyang",
+      "category": "sunny",
+      "datetime": "2024-05-25",
+      "temperature": [
+        22,
+        31
+      ],
+      "humidity": 45
+    }
+  ],
+  "location": [
+    {
+      "address": "Room 1503, Building B, Triumph Plaza, No. 229 Zhongzhou Middle Road, Xigong District, Luoyang",
+      "longitude": 112.454,
+      "latitude": 34.661
+    },
+    {
+      "address": "Ruisi Advertising Company, 15th Floor, Zhonghong Building, No. 20 Nanchang Road, Jianxi District, Luoyang",
+      "longitude": 112.398,
+      "latitude": 34.658
+    },
+    {
+      "address": "Intersection of Nanchang Road and Lichun Road, Jianxi District, Luoyang",
+      "longitude": 112.399,
+      "latitude": 34.657
+    }
+  ],
+  "user_profile": {
+    "user id": "U220266",
+    "occupation": "Advertising Planner",
+    "gender": "female",
+    "age group": "25~30",
+    "residence": "Luoyang",
+    "home address": "Room 1503, Building B, Triumph Plaza, No. 229 Zhongzhou Middle Road, Xigong District, Luoyang",
+    "work address": "Ruisi Advertising Company, 15th Floor, Zhonghong Building, No. 20 Nanchang Road, Jianxi District, Luoyang",
+    "dietary restrictions": "Avoids high sugar",
+    "family status": "In a relationship",
+    "personality": "Scattered and jumpy thinking, easily distracted and prone to changing ideas"
+  },
+  "user_historical_behaviors": {
+    "user id": "U220266",
+    "occupation": "Advertising Planner",
+    "gender": "female",
+    "age group": "25~30",
+    "residence": "Luoyang",
+    "home address": "Room 1503, Building B, Triumph Plaza, No. 229 Zhongzhou Middle Road, Xigong District, Luoyang",
+    "work address": "Ruisi Advertising Company, 15th Floor, Zhonghong Building, No. 20 Nanchang Road, Jianxi District, Luoyang",
+    "in-store dining": {
+      "fine-dining": {
+        "frequently purchased categories": [
+          "Regional Cuisine/Sichuan Cuisine (Average 98 Yuan)",
+          "Foreign Cuisine/Japanese Food (Average 135 Yuan)",
+          "Regional Cuisine/Cantonese Cuisine (Average 115 Yuan)"
+        ],
+        "preferred average price per person": "90~140 Yuan",
+        "preferred store rating": "4.0~4.8 stars",
+        "typical dining time": "18:30-20:30",
+        "preferred distance": "500~3000m",
+        "recent orders": [
+          {
+            "store": "Sichuan Fragrance Pavilion",
+            "product": "Boiled Fish + Dry Pot Potato Slices + Green Pepper Stir-fried Pork Strips"
+          },
+          {
+            "store": "Sushi Master",
+            "product": "Salmon Sashimi Platter + Special Nigiri Sushi"
+          },
+          {
+            "store": "Cantonese Delights",
+            "product": "White Cut Chicken + Garlic Steamed Shrimp + Steamed Sea Bass"
+          }
+        ],
+        "search history": [
+          "Caffeine-free restaurants",
+          "Low-sugar Sichuan cuisine",
+          "High-end Cantonese cuisine",
+          "Couple dating restaurants",
+          "Japanese cuisine"
+        ]
+      },
+      "light meal": {
+        "frequently purchased categories": [
+          "Snacks & Fast Food/Chinese Simple Meals (Average 35 Yuan)",
+          "Snacks & Fast Food/Western Fast Food (Average 42 Yuan)",
+          "Regional Cuisine/Special Dishes (Average 48 Yuan)"
+        ],
+        "preferred average price per person": "30~50 Yuan",
+        "preferred store rating": "3.5~4.3 stars",
+        "typical dining time": "12:00-13:30",
+        "preferred distance": "0~800m",
+        "recent orders": [
+          {
+            "store": "Yang Mingyu Braised Chicken Rice",
+            "product": "Mildly Spicy Braised Chicken + Tomato Egg Soup"
+          },
+          {
+            "store": "Salad Spud",
+            "product": "Low-fat Chicken Breast Salad + Fruit Cup"
+          },
+          {
+            "store": "Luoyang Beef Soup",
+            "product": "Beef Soup + Spicy Soup"
+          }
+        ],
+        "search history": [
+          "Healthy simple meals",
+          "Sugar-free drinks",
+          "Work meals",
+          "Fast food",
+          "Light salads"
+        ]
+      },
+      "desserts/drinks/snacks": {
+        "frequently purchased categories": [
+          "Beverage Shops (Average 18 Yuan)",
+          "Bread & Desserts (Average 25 Yuan)",
+          "Other Dining/Fresh Fruits (Average 15 Yuan)"
+        ],
+        "preferred average price per person": "15~30 Yuan",
+        "preferred store rating": "4.0~4.5 stars",
+        "typical dining time": "15:00-16:30",
+        "preferred distance": "0~500m",
+        "recent orders": [
+          {
+            "store": "Yidiandian",
+            "product": "Sugar-free Oolong Tea + Coconut Jelly"
+          },
+          {
+            "store": "Bread Talk",
+            "product": "Whole Wheat Bread + Low-sugar Cranberry Cookies"
+          },
+          {
+            "store": "Fresh Fruit Cut",
+            "product": "Fruit Platter + Grapefruit Juice"
+          }
+        ],
+        "search history": [
+          "Sugar-free drinks",
+          "Low-sugar desserts",
+          "Healthy snacks",
+          "Fruits",
+          "Reduced-sugar milk tea"
+        ]
+      }
+    },
+    "other in-store services": {
+      "frequently consumed categories": {
+        "Beauty/Yoga": "35%",
+        "Sports & Fitness/Fitness Centers": "30%",
+        "Beauty/Nail Art": "15%",
+        "Leisure & Entertainment/DIY Workshops": "10%",
+        "Leisure & Entertainment/Murder Mystery Games": "10%"
+      },
+      "cost per order by category": {
+        "Beauty/Yoga": "80~150 Yuan",
+        "Sports & Fitness/Fitness Centers": "60~120 Yuan",
+        "Beauty/Nail Art": "120~200 Yuan",
+        "Leisure & Entertainment/DIY Workshops": "80~150 Yuan",
+        "Leisure & Entertainment/Murder Mystery Games": "70~120 Yuan"
+      },
+      "preferred store rating": "4.0~4.8 stars",
+      "preferred service time": "18:00-21:00",
+      "preferred distance": "0~3000m",
+      "recent orders": [
+        {
+          "store": "Youji Yoga",
+          "product": "Monthly Membership + Private Lessons"
+        },
+        {
+          "store": "Super Fitness",
+          "product": "Quarterly Gym Card + Aerobic Training"
+        },
+        {
+          "store": "Fingertip Art",
+          "product": "Minimalist Style Nail Art + Hand Care"
+        }
+      ],
+      "search history": [
+        "Couple yoga",
+        "Gym",
+        "Nearby nail salons",
+        "Creative DIY",
+        "Two-person murder mystery games",
+        "Stress relief activities"
+      ]
+    }
+  },
+  "stores": {},
+  "orders": {}
+}

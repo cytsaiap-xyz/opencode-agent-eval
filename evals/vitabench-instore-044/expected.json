@@ -1,0 +1,119 @@
+{
+  "required_orders": [
+    {
+      "order_id": "10826059T001",
+      "order_type": "instore",
+      "user_id": "U013886",
+      "store_id": "S17564426124392851_I00001",
+      "note": "",
+      "location": null,
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 88,
+      "create_time": "2025-11-12 16:33:00",
+      "update_time": "2025-11-13 15:33:00",
+      "status": "cancelled",
+      "products": [
+        {
+          "product_id": "S17564426124392851_P00001",
+          "name": "Adult rock climbing single experience package",
+          "price": 88,
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "order_id": "10826059T002",
+      "order_type": "instore",
+      "user_id": "U013886",
+      "store_id": "S17564426124392851_I00001",
+      "note": "",
+      "location": null,
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 158,
+      "create_time": "2025-11-13 15:35:00",
+      "update_time": "2025-11-13 15:35:00",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17564426124392851_P00002",
+          "name": "Parent-child rock climbing package (1 adult, 1 child)",
+          "price": 158,
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "reservation_id": "10826059T003",
+      "shop_id": "S17564426124392851_I00001",
+      "reservation_time": "2025-11-15 16:30:00",
+      "update_time": "2025-11-13 15:37:00",
+      "customer_id": "U013886",
+      "customer_count": 2,
+      "status": "paid"
+    },
+    {
+      "order_id": "10826059T004",
+      "order_type": "instore",
+      "user_id": "U013886",
+      "store_id": "S17564426124392851_I00002",
+      "note": "",
+      "location": null,
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 88,
+      "create_time": "2025-11-13 15:40:00",
+      "update_time": "2025-11-13 15:40:00",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17564426124392851_P00005",
+          "name": "Cantonese chicken soup noodles with white cut chicken set for two",
+          "price": 88,
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "order_id": "10826059T005",
+      "order_type": "instore",
+      "user_id": "U013886",
+      "store_id": "S17564426124392851_I00003",
+      "note": "",
+      "location": null,
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 88,
+      "create_time": "2025-11-13 15:44:00",
+      "update_time": "2025-11-13 15:44:00",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17564426124392851_P00010",
+          "name": "Sports rehabilitation package for one",
+          "price": 88,
+          "quantity": 1
+        }
+      ]
+    }
+  ],
+  "rubrics": [
+    "The status of the adult rock climbing single experience package order should be cancelled",
+    "The product ordered at the climbing gym should be Parent-child rock climbing package (1 adult, 1 child)",
+    "The merchant for the climbing gym order should be Extreme Rock Climbing Gym",
+    "The reservation time for the climbing gym is November 15, 2025, at 16:30",
+    "The number of people for the climbing gym reservation should be 2",
+    "The reserved merchant for the climbing gym should be Extreme Rock Climbing Gym",
+    "The Cantonese restaurant should not be more than 1km (including 1km) from Extreme Rock Climbing Gym, 85 Lianqian West Road, Siming District, Xiamen",
+    "The ordered food from the Cantonese restaurant should be Light diet",
+    "The ordered item from the Cantonese restaurant should be Package for two",
+    "The technician at the sports rehabilitation center should have a sports rehabilitation therapist certificate",
+    "The sports rehabilitation center should not be more than 1km (including 1km) from Room 504, Building 3, Lotus Apartment, 189 Lianqian East Road, Siming District, Xiamen",
+    "The ordered item from the sports rehabilitation center should be Sports rehabilitation package for one"
+  ]
+}

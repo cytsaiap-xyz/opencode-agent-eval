@@ -1,0 +1,660 @@
+{
+  "task_id": "10807004",
+  "domain": "cross_domain",
+  "time": "2025-10-27 08:15:00",
+  "user_id": "U010086",
+  "weather": [
+    {
+      "city": "Guangzhou",
+      "category": "sunny",
+      "datetime": "2025-10-27",
+      "temperature": [
+        18,
+        26
+      ],
+      "humidity": 65
+    }
+  ],
+  "location": [
+    {
+      "address": "Jiazi Village, 663 East Huacheng Avenue, Tianhe District, Guangzhou, Guangdong Province",
+      "longitude": 113.3352,
+      "latitude": 23.1248
+    }
+  ],
+  "user_profile": {
+    "user id": "U010086",
+    "occupation": "Cashier",
+    "gender": "female",
+    "age group": "35~40",
+    "residence": "Guangzhou",
+    "home address": "Jiazi Village, 663 East Huacheng Avenue, Tianhe District, Guangzhou, Guangdong Province",
+    "work address": "Taikoo Hui, 383 Tianhe Road (Metro Line 3 Shipaiqiao Station Exit C), Tianhe District, Guangzhou, Guangdong Province",
+    "dietary restrictions": "No high-fat offal, no alcohol",
+    "family status": "Has children",
+    "personality": "Tends to be controlling, not easily accepting of different opinions"
+  },
+  "user_historical_behaviors": {
+    "user id": "U010086",
+    "occupation": "cashier",
+    "gender": "female",
+    "age group": "35~40",
+    "residence": "Guangzhou",
+    "home address": "Guangzhou Province Guangdong, Tianhe District, 663 East Huacheng Avenue, Jiazi Village",
+    "work address": "Taikoo Hui, 383 Tianhe Road (Metro Line 3 Shipaiqiao Station Exit C), Tianhe District, Guangzhou, Guangdong Province",
+    "delivery": {
+      "food delivery": {
+        "breakfast": {
+          "frequently purchased categories": [
+            "Simple meals/buns/pan-fried buns (average 18 yuan)",
+            "Simple meals/light food (average 32 yuan)",
+            "Simple meals/sandwiches (average 25 yuan)"
+          ],
+          "cost per order": "15~35 yuan",
+          "preferred store rating": "4.2~4.7 points",
+          "preferred delivery time": "15~30 minutes",
+          "preferred distance": "0~2500m",
+          "recent orders": [
+            {
+              "store": "Fresh Moist Breakfast Shop",
+              "product": "Soft Red Bean Bun + Vegetable Soy Milk"
+            },
+            {
+              "store": "Lihua Sandwich",
+              "product": "Egg and Ham Sandwich"
+            },
+            {
+              "store": "Wheat Fun Light Food",
+              "product": "Fruit and Vegetable Energy Bowl + Oat Milk"
+            }
+          ],
+          "search history": [
+            "Low-oil breakfast",
+            "Light food",
+            "Sandwich",
+            "Soy milk",
+            "Buns"
+          ]
+        },
+        "weekday lunch/dinner": {
+          "frequently purchased categories": [
+            "Simple meals/healthy meals (average 45 yuan)",
+            "Foreign cuisine/Japanese bento/sushi (average 58 yuan)",
+            "Simple meals/salad (average 38 yuan)"
+          ],
+          "cost per order": "35~65 yuan",
+          "preferred store rating": "4.3~4.8 points",
+          "preferred delivery time": "20~40 minutes",
+          "preferred distance": "0~3500m",
+          "recent orders": [
+            {
+              "store": "Light Food Selection",
+              "product": "Low-fat Chicken Breast Vegetable Rice"
+            },
+            {
+              "store": "Vitality Sushi",
+              "product": "Salmon Bento"
+            },
+            {
+              "store": "Green Salad",
+              "product": "Mediterranean Grilled Chicken Salad"
+            }
+          ],
+          "search history": [
+            "Healthy meals",
+            "Low calorie",
+            "Nutritious meals",
+            "Vegetable salad",
+            "Low-fat bento"
+          ]
+        },
+        "weekend lunch/dinner": {
+          "frequently purchased categories": [
+            "Chinese cuisine/Cantonese cuisine (average 95 yuan)",
+            "Foreign cuisine/stone pot rice/teppanyaki (average 78 yuan)",
+            "Foreign cuisine/pasta (average 85 yuan)"
+          ],
+          "cost per order": "70~150 yuan",
+          "preferred store rating": "4.5~5.0 points",
+          "preferred delivery time": "30~50 minutes",
+          "preferred distance": "0~5000m",
+          "recent orders": [
+            {
+              "store": "Cantonese Flavor House",
+              "product": "Family Set (Steamed Fish + Stir-fried Black Fungus with Vegetables + Steamed Egg with Shrimp)"
+            },
+            {
+              "store": "Korean Pavilion",
+              "product": "Set for Two (Stone Pot Bibimbap + Soybean Paste Soup + Kimchi)"
+            },
+            {
+              "store": "Western Kitchen Selection",
+              "product": "Truffle Mushroom Pasta + Herb Salad"
+            }
+          ],
+          "search history": [
+            "Family Set",
+            "Cantonese Cuisine",
+            "Stone Pot Bibimbap",
+            "Kids' meal",
+            "Non-spicy dishes"
+          ]
+        },
+        "desserts/drinks/snacks": {
+          "frequently purchased categories": [
+            "Drinks and desserts/juice (average 28 yuan)",
+            "Drinks and desserts/pure tea/herbal tea (average 22 yuan)",
+            "Drinks and desserts/fruit salad (average 35 yuan)"
+          ],
+          "cost per order": "18~40 yuan",
+          "preferred store rating": "4.4~4.9 points",
+          "preferred delivery time": "15~30 minutes",
+          "preferred distance": "0~3000m",
+          "recent orders": [
+            {
+              "store": "Fresh Juice Bar",
+              "product": "Fresh Mango Juice"
+            },
+            {
+              "store": "Tea Words",
+              "product": "Kumquat Lemon Tea"
+            },
+            {
+              "store": "Truly Fresh",
+              "product": "Colorful Fruit Salad"
+            }
+          ],
+          "search history": [
+            "Fruit tea",
+            "Freshly squeezed juice",
+            "Fruit salad",
+            "Low-sugar drinks",
+            "Non-alcoholic beverages"
+          ]
+        },
+        "night snack": {
+          "frequently purchased categories": [
+            "Simple meals/small dishes (average 45 yuan)",
+            "Simple meals/spicy soup (average 25 yuan)",
+            "Simple meals/rice noodles (average 30 yuan)"
+          ],
+          "cost per order": "25~50 yuan",
+          "preferred store rating": "4.0~4.6 points",
+          "preferred delivery time": "25~45 minutes",
+          "preferred distance": "0~3500m",
+          "recent orders": [
+            {
+              "store": "Old Taste Small Dish Restaurant",
+              "product": "Three Small Dishes Set (Black Fungus Vegetable + Cold Tofu + Stir-fried Broccoli)"
+            },
+            {
+              "store": "Hu's Soup Shop",
+              "product": "Tomato Vegetable Spicy Soup"
+            },
+            {
+              "store": "Yunnan Small Pot Rice Noodles",
+              "product": "Mild Version Vegetable Rice Noodles"
+            }
+          ],
+          "search history": [
+            "Non-spicy night snack",
+            "Stomach-friendly soup",
+            "Small portion dishes",
+            "Mild night snack",
+            "Vegetable soup"
+          ]
+        }
+      },
+      "product delivery": {
+        "frequently purchased categories": [
+          "Vegetables/bean products(28%)",
+          "Raw meat/poultry/eggs(22%)",
+          "Grains, oils, seasonings and dried goods(15%)",
+          "Fruits(14%)",
+          "Household items(12%)",
+          "Others(9%)"
+        ],
+        "frequently visited stores": [
+          "Hema Fresh(35%)",
+          "Yonghui Supermarket(30%)",
+          "7-11 Convenience Store(20%)",
+          "Other stores(15%)"
+        ],
+        "cost per order by category": {
+          "Vegetables/bean products": "5~20 yuan",
+          "Raw meat/poultry/eggs": "25~60 yuan",
+          "Grains, oils, seasonings and dried goods": "10~35 yuan",
+          "Fruits": "15~40 yuan",
+          "Household items": "20~50 yuan"
+        },
+        "preferred delivery time": "25~60 minutes",
+        "typical order time": "17~19:00(38%)，10~12:00(25%)，20~22:00(18%)",
+        "recent orders": [
+          {
+            "store": "Hema Fresh",
+            "product": "Chicken breast 500g, Broccoli 300g, Carrot 200g"
+          },
+          {
+            "store": "Yonghui Supermarket",
+            "product": "Wuchang Rice 5kg, Olive Oil 500ml"
+          },
+          {
+            "store": "7-11 Convenience Store",
+            "product": "Tissue, Hand Soap, Children's Toothbrush"
+          }
+        ],
+        "search history": [
+          "Low purine ingredients",
+          "Children's food",
+          "Organic vegetables",
+          "Chicken breast",
+          "Wuchang rice",
+          "Children's toothbrush"
+        ]
+      }
+    },
+    "in-store consumption": {
+      "in-store dining": {
+        "fine-dining": {
+          "frequently consumed categories": [
+            "Regional cuisine/Sichuan cuisine (average 120 yuan)",
+            "Foreign cuisine/Japanese cuisine (average 150 yuan)",
+            "Regional cuisine/Cantonese cuisine (average 135 yuan)"
+          ],
+          "preferred average price per person": "110~160 yuan",
+          "preferred store rating": "4.3~4.8 stars",
+          "typical dining time": "18:30-20:30",
+          "preferred distance": "500~3000m",
+          "recent orders": [
+            {
+              "store": "Din Tai Fung (Jinshan Wanda Plaza Branch)",
+              "product": "Crab Roe Soup Dumplings + Black Truffle Soup Dumplings"
+            },
+            {
+              "store": "Drunk Jiangnan (Cangshan Branch)",
+              "product": "Braised Lion's Head Meatballs + Dongpo Pork + Eel Paste + Vegetables"
+            },
+            {
+              "store": "Green Rotating Sushi (Jinshan Wanda Branch)",
+              "product": "Salmon Sashimi + Tuna Sushi + Chawanmushi"
+            }
+          ],
+          "search history": [
+            "Non-alcoholic Japanese food",
+            "Family-friendly restaurant",
+            "Private home cuisine",
+            "Cantonese family banquet"
+          ]
+        },
+        "light meal": {
+          "frequently consumed categories": [
+            "Snacks and fast food/Chinese simple meals (average 45 yuan)",
+            "Snacks and fast food/Western fast food (average 40 yuan)",
+            "Regional cuisine/Shanghai and Zhejiang cuisine (average 50 yuan)"
+          ],
+          "preferred average price per person": "35~55 yuan",
+          "preferred store rating": "3.5~4.2 stars",
+          "typical dining time": "11:30-13:00",
+          "preferred distance": "0~800m",
+          "recent orders": [
+            {
+              "store": "Yonghe King (Huawei Branch)",
+              "product": "Signature Soy Milk + Pan-fried Buns"
+            },
+            {
+              "store": "Home Chicken (Jinshan Wanda Branch)",
+              "product": "Three Cup Chicken Set + Vegetable Soup"
+            },
+            {
+              "store": "Sha County Snacks (Taijiang Branch)",
+              "product": "Noodles + Steamed Dumplings"
+            }
+          ],
+          "search history": [
+            "Low-fat simple meal",
+            "Fast food",
+            "Work meal",
+            "Bento"
+          ]
+        },
+        "desserts/drinks/snacks": {
+          "frequently consumed categories": [
+            "Beverage shops (average 20 yuan)",
+            "Bread and desserts (average 25 yuan)",
+            "Other dining/fresh fruits (average 15 yuan)"
+          ],
+          "preferred average price per person": "15~30 yuan",
+          "preferred store rating": "3.9~4.5 stars",
+          "typical dining time": "15:00-16:30",
+          "preferred distance": "0~500m",
+          "recent orders": [
+            {
+              "store": "HEYTEA (Cangshan Wanda Branch)",
+              "product": "Grape with Cheese Foam + Cheese Topping"
+            },
+            {
+              "store": "BreadTalk (Jinshan Branch)",
+              "product": "Whole Wheat Bread + Chia Seed Bread"
+            },
+            {
+              "store": "Fresh Fruit Workshop (Taijiang Branch)",
+              "product": "Fruit Platter + Yogurt"
+            }
+          ],
+          "search history": [
+            "Low-sugar drinks",
+            "Healthy desserts",
+            "Juice",
+            "Freshly squeezed"
+          ]
+        }
+      },
+      "other in-store services": {
+        "frequently consumed categories": {
+          "Sports and fitness/fitness centers": "40%",
+          "Leisure and entertainment/massage/foot therapy": "25%",
+          "Parent-child/parent-child recreation": "25%",
+          "Sports and fitness/ball sports": "10%"
+        },
+        "cost per order by category": {
+          "Sports and fitness/fitness centers": "80~150 yuan",
+          "Leisure and entertainment/massage/foot therapy": "120~180 yuan",
+          "Parent-child/parent-child recreation": "150~300 yuan",
+          "Sports and fitness/ball sports": "60~100 yuan"
+        },
+        "preferred store rating": "4.0~4.7 stars",
+        "preferred service time": "18~20:00",
+        "preferred distance": "0~3000m",
+        "recent orders": [
+          {
+            "store": "Light Enjoy Fitness (Jinshan Wanda Branch)",
+            "product": "Personal Training Session 1 hour"
+          },
+          {
+            "store": "Dream Kingdom Family Park (Cangshan Branch)",
+            "product": "Family Package (1 Adult 1 Child)"
+          },
+          {
+            "store": "Comfort Hall Health Center (Taijiang Branch)",
+            "product": "Cervical Spine Treatment Package"
+          }
+        ],
+        "search history": [
+          "Low-intensity fitness",
+          "Parent-child activities",
+          "Relaxing massage",
+          "Health management"
+        ]
+      }
+    },
+    "OTA": {
+      "visited scenes": {
+        "Theme parks": "35%",
+        "Parks": "25%",
+        "Natural landscapes (mountains/lakes/forests)": "15%",
+        "Zoos": "20%",
+        "Exhibition halls (museums/art galleries)": "5%"
+      },
+      "cost per night on hotel": "300~500 yuan",
+      "visited hotels": {
+        "Home Inn": "30%",
+        "Hanting": "25%",
+        "Atour": "20%",
+        "JI Hotel": "15%",
+        "7 Days Inn": "10%"
+      },
+      "browsed hotels": {
+        "Three-star hotels": "40%",
+        "Comfort hotels": "35%",
+        "Economy hotels": "20%",
+        "Four-star hotels": "5%"
+      },
+      "historical travel plans": {
+        "Guangzhou-Shenzhen": {
+          "Price range": "80-120 yuan",
+          "Transportation mode": "High-speed rail/EMU"
+        },
+        "Guangzhou-Zhuhai": {
+          "Price range": "100-150 yuan",
+          "Transportation mode": "High-speed rail/EMU"
+        },
+        "Guangzhou-Foshan": {
+          "Price range": "10-20 yuan",
+          "Transportation mode": "Metro/urban rail"
+        },
+        "Guangzhou-Qingyuan": {
+          "Price range": "50-80 yuan",
+          "Transportation mode": "Long-distance bus"
+        },
+        "Guangzhou-Changsha": {
+          "Price range": "350-450 yuan",
+          "Transportation mode": "High-speed rail/EMU"
+        },
+        "Guangzhou-Hong Kong": {
+          "Price range": "200-300 yuan",
+          "Transportation mode": "High-speed rail/EMU"
+        }
+      }
+    }
+  },
+  "stores": {
+    "S17550802114659560_S00001": {
+      "name": "Kangjian Electric Appliance Store",
+      "store_id": "S17550802114659560_S00001",
+      "score": 4.7,
+      "location": {
+        "address": "Kangjian Electric Appliance Store, Wanling Hui, 230 Tianhe Road, Tianhe District, Guangzhou, Guangdong Province",
+        "latitude": 23.1325,
+        "longitude": 113.3301
+      },
+      "tags": [
+        "Home Appliances",
+        "Health Appliances",
+        "Massage Equipment",
+        "Elderly Products"
+      ],
+      "store_type": "target",
+      "products": [
+        {
+          "name": "Elderly Cervical Massager",
+          "store_id": "S17550802114659560_S00001",
+          "store_name": "Kangjian Electric Appliance Store",
+          "price": 159.9,
+          "tags": [
+            "Cervical Massage",
+            "For Elderly Use",
+            "Easy Operation",
+            "One-Key Start",
+            "Auto Timer",
+            "Home Massage Device"
+          ],
+          "product_id": "S17550802114659560_P00001",
+          "attributes": [
+            "U-shaped design",
+            "3 intensity levels",
+            "15-minute auto shutdown",
+            "Rechargeable"
+          ],
+          "product_type": "target"
+        },
+        {
+          "name": "Multi-functional Waist Massager for the Elderly",
+          "store_id": "S17550802114659560_S00001",
+          "store_name": "Kangjian Electric Appliance Store",
+          "price": 129.9,
+          "tags": [
+            "Waist Massage",
+            "For Elderly Use",
+            "Easy Operation",
+            "One-Key Start",
+            "Heat Therapy Function"
+          ],
+          "product_id": "S17550802114659560_P00002",
+          "attributes": [
+            "Belt style",
+            "3 mode settings",
+            "Heat therapy available",
+            "20-minute auto shutdown"
+          ],
+          "product_type": "target"
+        },
+        {
+          "name": "Premium Full Body Massage Chair",
+          "store_id": "S17550802114659560_S00001",
+          "store_name": "Kangjian Electric Appliance Store",
+          "price": 3999,
+          "tags": [
+            "Full Body Massage",
+            "Intelligent Control",
+            "Multi-functional",
+            "Luxury Experience"
+          ],
+          "product_id": "S17550802114659560_P00003",
+          "attributes": [
+            "8 massage modes",
+            "Voice control",
+            "Zero gravity",
+            "Bluetooth music"
+          ],
+          "product_type": "distraction"
+        },
+        {
+          "name": "Foot Massage Machine",
+          "store_id": "S17550802114659560_S00001",
+          "store_name": "Kangjian Electric Appliance Store",
+          "price": 189.9,
+          "tags": [
+            "Foot Massage",
+            "Suitable for the Elderly",
+            "Simple Operation",
+            "Relieve Fatigue",
+            "Promote Blood Circulation"
+          ],
+          "product_id": "S17550802114659560_P00004",
+          "attributes": [
+            "3 intensity levels",
+            "Heat therapy function",
+            "15-minute timer",
+            "Auto Shutdown"
+          ],
+          "product_type": "target"
+        },
+        {
+          "name": "Professional Handheld Massage Gun",
+          "store_id": "S17550802114659560_S00001",
+          "store_name": "Kangjian Electric Appliance Store",
+          "price": 299.9,
+          "tags": [
+            "Deep Tissue Massage",
+            "Muscle Relaxation",
+            "Sports Recovery",
+            "Portable"
+          ],
+          "product_id": "S17550802114659560_P00005",
+          "attributes": [
+            "6 speed levels",
+            "4 massage heads",
+            "Low noise",
+            "Rechargeable"
+          ],
+          "product_type": "distraction"
+        }
+      ]
+    },
+    "S17550802114659560_S00002": {
+      "name": "Comfort Hall Health Living Store",
+      "store_id": "S17550802114659560_S00002",
+      "score": 4.5,
+      "location": {
+        "address": "Comfort Hall Health Living Store, Building B, Sinopec Tower, 191 West Tiyu Road, Tianhe District, Guangzhou, Guangdong Province",
+        "latitude": 23.1335,
+        "longitude": 113.3278
+      },
+      "tags": [
+        "Massage Equipment",
+        "Health Equipment",
+        "Elderly Products",
+        "Physiotherapy Equipment"
+      ],
+      "store_type": "target",
+      "products": [
+        {
+          "name": "Elder Exclusive Neck and Shoulder Massager",
+          "store_id": "S17550802114659560_S00002",
+          "store_name": "Comfort Hall Health Living Store",
+          "price": 189.9,
+          "tags": [
+            "For Elderly Use",
+            "Easy Operation",
+            "Neck and Shoulder Massage",
+            "One-Key Start",
+            "Auto Shutdown",
+            "Suitable for the Elderly"
+          ],
+          "product_id": "S17550802114659560_P00006",
+          "attributes": [
+            "Standard model",
+            "Beige"
+          ],
+          "product_type": "target"
+        },
+        {
+          "name": "Multi-functional Massage Chair Pad",
+          "store_id": "S17550802114659560_S00002",
+          "store_name": "Comfort Hall Health Living Store",
+          "price": 299,
+          "tags": [
+            "Full Body Massage",
+            "Seat Cushion Type",
+            "Multiple Modes",
+            "Heating Function"
+          ],
+          "product_id": "S17550802114659560_P00008",
+          "attributes": [
+            "Standard model",
+            "Black"
+          ],
+          "product_type": "distraction"
+        },
+        {
+          "name": "Smart Foot Massager",
+          "store_id": "S17550802114659560_S00002",
+          "store_name": "Comfort Hall Health Living Store",
+          "price": 249.9,
+          "tags": [
+            "Foot Massage",
+            "APP Control",
+            "Intelligent Adjustment",
+            "Multiple Modes"
+          ],
+          "product_id": "S17550802114659560_P00009",
+          "attributes": [
+            "Standard model",
+            "Light brown"
+          ],
+          "product_type": "distraction"
+        },
+        {
+          "name": "Simple Handheld Massage Stick",
+          "store_id": "S17550802114659560_S00002",
+          "store_name": "Comfort Hall Health Living Store",
+          "price": 89.9,
+          "tags": [
+            "Handheld",
+            "Single Button Operation",
+            "Lightweight",
+            "Suitable for the Elderly",
+            "Easy to Use"
+          ],
+          "product_id": "S17550802114659560_P00010",
+          "attributes": [
+            "Standard model",
+            "Blue"
+          ],
+          "product_type": "target"
+        }
+      ]
+    }
+  },
+  "orders": {}
+}

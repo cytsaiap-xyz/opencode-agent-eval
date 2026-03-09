@@ -1,0 +1,288 @@
+{
+  "task_id": "80714002",
+  "domain": "delivery",
+  "time": "2025-04-11 17:45:00",
+  "user_id": "U000017",
+  "weather": [
+    {
+      "city": "Kunming City",
+      "category": "cloudy",
+      "datetime": "2025-04-11",
+      "temperature": [
+        16,
+        25
+      ],
+      "humidity": 70
+    }
+  ],
+  "location": [
+    {
+      "address": "Jinzhai Residential Area near Machine Tool Factory No.3, Jinwa Road, east of Dashuying Interchange, Guandu District, Kunming City, Yunnan Province",
+      "longitude": 102.750245,
+      "latitude": 25.037627
+    }
+  ],
+  "user_profile": {
+    "user id": "U000017",
+    "occupation": "Blue-collar worker",
+    "gender": "female",
+    "age group": "40~45",
+    "residence": "Kunming",
+    "home address": "Jinzhai Residential Area near Machine Tool Factory No.3, Jinwa Road, east of Dashuying Interchange, Guandu District, Kunming City, Yunnan Province",
+    "work address": "No. 80 Chunman Avenue, Haigui Building, Luoyang Street, Chenggong District, Kunming City, Yunnan Province",
+    "dietary restrictions": "Avoid greasy food",
+    "family status": "Has children",
+    "personality": "Scattered and jumpy thinking, easily distracted and changes mind frequently"
+  },
+  "user_historical_behaviors": {
+    "user id": "U000017",
+    "occupation": "Blue-collar worker",
+    "gender": "female",
+    "age group": "40~45",
+    "residence": "Kunming",
+    "home address": "Jinzhai Residential Area near Machine Tool Factory No.3, Jinwa Road, east of Dashuying Interchange, Guandu District, Kunming City, Yunnan Province",
+    "work address": "No. 80 Chunman Avenue, Haigui Building, Luoyang Street, Chenggong District, Kunming City, Yunnan Province",
+    "breakfast": {
+      "frequently purchased categories": [
+        "Quick meals/Steamed buns/Pan-fried buns (average 18 yuan)",
+        "Quick meals/Rice noodles/Rice vermicelli (average 22 yuan)",
+        "Quick meals/Light food (average 18 yuan)"
+      ],
+      "cost per order": "15~25 yuan",
+      "preferred store rating": "4.2~4.8 stars",
+      "preferred delivery time": "15~30 minutes",
+      "preferred distance": "0~2500m",
+      "recent orders": [
+        {
+          "store": "Yunnan Bridge Rice Noodles",
+          "product": "Small pot of mild rice noodles"
+        },
+        {
+          "store": "Mr. Breakfast",
+          "product": "Steamed bun combo"
+        },
+        {
+          "store": "Light Food Select",
+          "product": "Low-fat vegetable sandwich"
+        }
+      ],
+      "search history": [
+        "Low-salt breakfast",
+        "Steamed buns",
+        "Yunnan rice noodles",
+        "Nutritious breakfast",
+        "Portable work meals"
+      ]
+    },
+    "weekday lunch/dinner": {
+      "frequently purchased categories": [
+        "Quick meals/Healthy meals (average 18 yuan)",
+        "Chinese cuisine/Cantonese food (average 20 yuan)",
+        "International cuisine/Korean food (average 25 yuan)"
+      ],
+      "cost per order": "18~26 yuan",
+      "preferred store rating": "4.3~4.8 stars",
+      "preferred delivery time": "20~35 minutes",
+      "preferred distance": "0~3000m",
+      "recent orders": [
+        {
+          "store": "Diet Workshop",
+          "product": "Low-fat chicken breast with vegetable combo"
+        },
+        {
+          "store": "Guangzhou Flavor",
+          "product": "Steamed fish with seasonal vegetables"
+        },
+        {
+          "store": "Korean Cuisine House",
+          "product": "Stone pot bibimbap (slightly spicy)"
+        }
+      ],
+      "search history": [
+        "Healthy work meals",
+        "Low-oil dishes",
+        "Cantonese steamed dishes"
+      ]
+    },
+    "weekend lunch/dinner": {
+      "frequently purchased categories": [
+        "Chinese cuisine/Hunan food (average 30 yuan)",
+        "Hot pots/Fish hot pot (average 45 yuan)",
+        "International cuisine/Japanese bento/Sushi (average 50 yuan)"
+      ],
+      "cost per order": "30~50 yuan",
+      "preferred store rating": "4.5~4.9 stars",
+      "preferred delivery time": "30~45 minutes",
+      "preferred distance": "0~4000m",
+      "recent orders": [
+        {
+          "store": "Flower Field Sushi",
+          "product": "Parent-child sushi set"
+        },
+        {
+          "store": "Fish Pond",
+          "product": "Family-size fish hot pot"
+        }
+      ],
+      "search history": [
+        "Family-friendly restaurant",
+        "Family gathering",
+        "Healthy hot pot",
+        "Kid-friendly restaurant"
+      ]
+    },
+    "desserts/drinks/snacks": {
+      "frequently purchased categories": [
+        "Drinks and desserts/Pure tea/Herbal tea (average 12 yuan)",
+        "Drinks and desserts/Fruit salad (average 15 yuan)",
+        "Drinks and desserts/Cold desserts (average 18 yuan)"
+      ],
+      "cost per order": "12~20 yuan",
+      "preferred store rating": "4.4~4.9 stars",
+      "preferred delivery time": "15~30 minutes",
+      "preferred distance": "0~2500m",
+      "recent orders": [
+        {
+          "store": "Tea Time",
+          "product": "Rose tea (sugar-free)"
+        },
+        {
+          "store": "Fresh Fruit Workshop",
+          "product": "Fruit salad cup (less sugar)"
+        },
+        {
+          "store": "Ice City",
+          "product": "Yogurt ice cream"
+        }
+      ],
+      "search history": [
+        "Low-sugar drinks",
+        "Fruit tea",
+        "Healthy desserts",
+        "Kid-friendly desserts",
+        "Sugar-free tea"
+      ]
+    },
+    "night snack": {
+      "frequently purchased categories": [
+        "Quick meals/Clay pot dishes (average 22 yuan)",
+        "Quick meals/Clay pot soup (average 28 yuan)",
+        "Snacks/Braised food (average 25 yuan)"
+      ],
+      "cost per order": "20~30 yuan",
+      "preferred store rating": "4.2~4.7 stars",
+      "preferred delivery time": "25~40 minutes",
+      "preferred distance": "0~3000m",
+      "recent orders": [
+        {
+          "store": "Fugui Restaurant",
+          "product": "Clay pot chicken with rice"
+        },
+        {
+          "store": "Clay Pot Soup House",
+          "product": "Clear-broth beef brisket soup"
+        },
+        {
+          "store": "Braised Food House",
+          "product": "Fragrant braised chicken (slightly spicy)"
+        }
+      ],
+      "search history": [
+        "Warming night snacks",
+        "Health soups",
+        "Braised food",
+        "Clay pot dishes",
+        "Late-night soup"
+      ]
+    }
+  },
+  "stores": {
+    "S14928051648372008_S44574": {
+      "name": "Fugui Restaurant",
+      "store_id": "S14928051648372008_S44574",
+      "score": 4.5,
+      "location": {
+        "address": "No. 6 Jinmasi Village, Jinma Sub-district Office, Guandu District, Kunming City, Yunnan Province",
+        "latitude": 25.036314,
+        "longitude": 102.747905
+      },
+      "tags": [],
+      "products": [
+        {
+          "name": "Chicken claypot, 1 portion with rice and small chili pepper dipping sauce",
+          "store_id": "S14928051648372008_S44574",
+          "store_name": "Fugui Restaurant",
+          "price": 18,
+          "tags": [
+            "With dipping sauce",
+            "Rich in protein",
+            "Rich in carbohydrates"
+          ],
+          "product_id": "S14673831172316592_P26837",
+          "attributes": [],
+          "quantity": 9999
+        },
+        {
+          "name": "Chicken rice soup, 1 portion, rice packed separately",
+          "product_id": "S32297631453580029_P46026",
+          "store_id": "S14928051648372008_S44574",
+          "store_name": "Fugui Restaurant",
+          "price": 16,
+          "tags": [
+            "Fragrant chicken oil"
+          ],
+          "attributes": [],
+          "quantity": 9999
+        },
+        {
+          "name": "Pork trotter claypot, 1 portion with rice and small chili pepper dipping sauce",
+          "product_id": "S14568092532529148_P90507",
+          "store_id": "S14928051648372008_S44574",
+          "store_name": "Fugui Restaurant",
+          "price": 18,
+          "tags": [],
+          "attributes": [],
+          "quantity": 9999
+        }
+      ]
+    },
+    "S14938148519796596_S46469": {
+      "name": "Clay pot stewed soup",
+      "store_id": "S14938148519796596_S46469",
+      "score": 4.5,
+      "location": {
+        "address": "Tuwa Pot Stewed Soup, 200 meters southeast of the intersection of Jinwa Road and Qingyu Road, Panlong District, Kunming City, Yunnan Province",
+        "latitude": 25.052035,
+        "longitude": 102.792681
+      },
+      "tags": [],
+      "products": [
+        {
+          "name": "Large portion of braised bean curd sticks with potatoes and rice",
+          "product_id": "S14938148519796596_P46469",
+          "store_id": "S14938148519796596_S46469",
+          "store_name": "Clay pot stewed soup",
+          "price": 15,
+          "tags": [
+            "With dipping sauce"
+          ],
+          "attributes": [],
+          "quantity": 9999
+        },
+        {
+          "name": "Sour papaya stewed chicken soup (without rice)",
+          "product_id": "S55486850838178356_P65726",
+          "store_id": "S14938148519796596_S46469",
+          "store_name": "Clay pot stewed soup",
+          "price": 17,
+          "tags": [
+            "Sour, spicy and refreshing"
+          ],
+          "attributes": [],
+          "quantity": 9999
+        }
+      ]
+    }
+  },
+  "orders": {}
+}

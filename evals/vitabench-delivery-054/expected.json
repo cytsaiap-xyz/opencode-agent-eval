@@ -1,0 +1,68 @@
+{
+  "required_orders": [
+    {
+      "order_id": "C0714001T01",
+      "order_type": "delivery",
+      "user_id": "U000008",
+      "store_id": "S79687561289843350_S50725",
+      "note": "",
+      "location": {
+        "address": "East Area of Qinyuyuan, Nanchi Road, Yuecheng District, Shaoxing City, Zhejiang Province",
+        "longitude": 120.584075,
+        "latitude": 29.959042
+      },
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 24.8,
+      "create_time": "2025-08-16 11:41:00",
+      "update_time": "2025-08-16 11:41:00",
+      "status": "processed",
+      "products": [
+        {
+          "product_id": "S34696353417615440_P13458",
+          "price": 24.8,
+          "quantity": 1,
+          "attributes": ""
+        }
+      ]
+    },
+    {
+      "order_id": "C0714001T02",
+      "order_type": "delivery",
+      "user_id": "U000008",
+      "store_id": "S13169465789960013_S02214",
+      "note": "",
+      "location": {
+        "address": "East Area of Qinyuyuan, Nanchi Road, Yuecheng District, Shaoxing City, Zhejiang Province",
+        "longitude": 120.584075,
+        "latitude": 29.959042
+      },
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 19.8,
+      "create_time": "2025-08-16 11:42:00",
+      "update_time": "2025-08-16 11:42:00",
+      "status": "processed",
+      "products": [
+        {
+          "product_id": "S79356345247909739_P59597",
+          "price": 19.8,
+          "quantity": 1,
+          "attributes": "More ginger"
+        }
+      ]
+    }
+  ],
+  "rubrics": [
+    "The delivery address for the pasta order should be East Area of Qinyuyuan, Nanchi Road, Yuecheng District, Shaoxing City, Zhejiang Province",
+    "The estimated delivery time for the pasta order should be around 12:00 PM on 2025-08-16",
+    "The pasta order should select products from Xiyin Steak Homemade Pasta · Baked Rice (Shaoxing Branch)",
+    "The pasta order should not select pasta products with tomato meat sauce flavor",
+    "The delivery address for the brown sugar ginger tea order should be East Area of Qinyuyuan, Nanchi Road, Yuecheng District, Shaoxing City, Zhejiang Province",
+    "The estimated delivery time for the brown sugar ginger tea order should be around 12:00 PM on 2025-08-16",
+    "The brown sugar ginger tea order should select hot drink products",
+    "The brown sugar ginger tea order should select products with the 'more ginger' attribute"
+  ]
+}

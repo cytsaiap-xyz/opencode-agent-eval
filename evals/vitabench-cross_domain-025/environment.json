@@ -1,0 +1,1082 @@
+{
+  "task_id": "A0812002",
+  "domain": "cross_domain",
+  "time": "2025-07-09 09:15:00",
+  "user_id": "U311640",
+  "weather": [
+    {
+      "city": "Mianyang",
+      "category": "sunny",
+      "datetime": "2025-07-09",
+      "temperature": [
+        26,
+        35
+      ],
+      "humidity": 65
+    },
+    {
+      "city": "Mianyang",
+      "category": "cloudy",
+      "datetime": "2025-07-10",
+      "temperature": [
+        27,
+        38
+      ],
+      "humidity": 70
+    }
+  ],
+  "location": [
+    {
+      "address": "JI Hotel, Next to Wangfujing Department Store, 68 East Linyuan Road, Fucheng District, Mianyang, Sichuan Province",
+      "longitude": 104.7418,
+      "latitude": 31.468
+    }
+  ],
+  "user_profile": {
+    "user id": "U311640",
+    "occupation": "Driver",
+    "gender": "male",
+    "age group": "35~40",
+    "residence": "Shijiazhuang",
+    "home address": "Room 502, Unit 2, Building 12, Zone B, Wanda Plaza, 66 West Yuhua Road, Qiaoxi District, Shijiazhuang, Hebei Province",
+    "work address": "Shijiazhuang Bus Terminal, 58 North Zhonghua Street, Xinhua District, Shijiazhuang, Hebei Province",
+    "dietary restrictions": "Avoid high purine foods (such as organ meats/seafood soup), no alcohol",
+    "family status": "Has children",
+    "personality": "Overly dependent on others' guidance, lacks independence and decisiveness"
+  },
+  "user_historical_behaviors": {
+    "user id": "U311640",
+    "occupation": "driver",
+    "gender": "male",
+    "age group": "35~40",
+    "residence": "Shijiazhuang",
+    "home address": "Room 502, Unit 2, Building 12, Zone B, Wanda Plaza, 66 West Yuhua Road, Qiaoxi District, Shijiazhuang, Hebei Province",
+    "work address": "Shijiazhuang Bus Terminal, 58 North Zhonghua Street, Xinhua District, Shijiazhuang, Hebei Province",
+    "delivery": {
+      "food delivery": {
+        "breakfast": {
+          "frequently purchased categories": [
+            "Quick Meals/Steamed Buns/Pan-fried Buns (Average 15 yuan)",
+            "Quick Meals/Fried Dough Sticks (Average 8 yuan)",
+            "Quick Meals/Soy Milk (Average 6 yuan)"
+          ],
+          "cost per order": "10~25 yuan",
+          "preferred store rating": "4.3~4.8 points",
+          "preferred delivery time": "10~20 minutes",
+          "preferred distance": "0~1500m",
+          "recent orders": [
+            {
+              "store": "Breakfast Master",
+              "product": "Soy Milk and Fried Dough Sticks Set"
+            },
+            {
+              "store": "Old Wang's Bun Shop",
+              "product": "6 Pork Buns"
+            },
+            {
+              "store": "Yang's Soy Milk",
+              "product": "Black Rice Porridge + Soup Dumplings"
+            }
+          ],
+          "search history": [
+            "breakfast",
+            "soy milk",
+            "buns",
+            "porridge",
+            "milk"
+          ]
+        },
+        "weekday lunch/dinner": {
+          "frequently purchased categories": [
+            "Quick Meals/Rice with Toppings (Average 22 yuan)",
+            "Quick Meals/Braised Chicken Rice (Average 25 yuan)",
+            "Quick Meals/Light Food (Average 30 yuan)"
+          ],
+          "cost per order": "20~35 yuan",
+          "preferred store rating": "4.2~4.7 points",
+          "preferred delivery time": "15~25 minutes",
+          "preferred distance": "0~2000m",
+          "recent orders": [
+            {
+              "store": "Braised Chicken Rice",
+              "product": "Mildly Spicy Braised Chicken Rice"
+            },
+            {
+              "store": "Salad Diary",
+              "product": "Chicken Breast Vegetable Salad"
+            },
+            {
+              "store": "Mr. Cafeteria",
+              "product": "Tomato and Egg Rice Bowl"
+            }
+          ],
+          "search history": [
+            "healthy meal",
+            "light food",
+            "braised chicken",
+            "rice with toppings",
+            "low oil"
+          ]
+        },
+        "weekend lunch/dinner": {
+          "frequently purchased categories": [
+            "Chinese Cuisine/Sichuan Cuisine (Average 45 yuan)",
+            "International Cuisine/Japanese Bento/Sushi (Average 60 yuan)"
+          ],
+          "cost per order": "40~70 yuan",
+          "preferred store rating": "4.5~4.9 points",
+          "preferred delivery time": "25~40 minutes",
+          "preferred distance": "0~3500m",
+          "recent orders": [
+            {
+              "store": "Sichuan Aroma Garden",
+              "product": "Boiled Fish Set (Mild Spicy)"
+            },
+            {
+              "store": "Sushi Story",
+              "product": "Salmon Sushi Platter"
+            },
+            {
+              "store": "Little Bear Sichuan Cuisine",
+              "product": "Kung Pao Chicken + Rice"
+            }
+          ],
+          "search history": [
+            "Sichuan cuisine",
+            "Japanese cuisine",
+            "sushi",
+            "healthy",
+            "non-spicy"
+          ]
+        },
+        "desserts/drinks/snacks": {
+          "frequently purchased categories": [
+            "Beverages and Desserts/Pure Tea/Herbal Tea (Average 15 yuan)",
+            "Beverages and Desserts/Fruit Salad (Average 22 yuan)"
+          ],
+          "cost per order": "15~25 yuan",
+          "preferred store rating": "4.4~4.8 points",
+          "preferred delivery time": "15~25 minutes",
+          "preferred distance": "0~2000m",
+          "recent orders": [
+            {
+              "store": "Fresh Fruit Mix",
+              "product": "Colorful Fruit Salad (Sugar-free)"
+            },
+            {
+              "store": "Tea Color View",
+              "product": "Oolong Tea (Low Sugar)"
+            },
+            {
+              "store": "Truly Fresh",
+              "product": "Strawberry Platter"
+            }
+          ],
+          "search history": [
+            "sugar-free drinks",
+            "fruit tea",
+            "fresh fruit",
+            "low sugar"
+          ]
+        },
+        "night snack": {
+          "frequently purchased categories": [
+            "Quick Meals/Rice Noodles/Rice Vermicelli (Average 25 yuan)",
+            "Quick Meals/Cold Noodles/Bean Jelly/Flat Noodles (Average 20 yuan)"
+          ],
+          "cost per order": "20~30 yuan",
+          "preferred store rating": "4.2~4.6 points",
+          "preferred delivery time": "20~35 minutes",
+          "preferred distance": "0~2500m",
+          "recent orders": [
+            {
+              "store": "Yunnan Crossing Bridge Rice Noodles",
+              "product": "Clear Broth Chicken Rice Noodles"
+            },
+            {
+              "store": "Qinzhen Cold Noodles",
+              "product": "Signature Cold Noodles (Mild Spicy)"
+            },
+            {
+              "store": "Guilin Rice Noodles",
+              "product": "Original Rice Noodles"
+            }
+          ],
+          "search history": [
+            "rice noodles",
+            "cold noodles",
+            "night snack",
+            "not greasy",
+            "light taste"
+          ]
+        }
+      },
+      "product delivery": {
+        "frequently purchased categories": [
+          "Fruits (30%)",
+          "Vegetables/Bean Products (25%)",
+          "Study/Office Supplies (20%)",
+          "Beverages/Nutritional Drinks (15%)",
+          "Others (10%)"
+        ],
+        "frequently visited stores": [
+          "MissFresh (35%)",
+          "Fresh Supermarket (30%)",
+          "FamilyMart (25%)",
+          "Other Stores (10%)"
+        ],
+        "cost per order by category": {
+          "Fruits": "15~40 yuan",
+          "Vegetables/Bean Products": "5~20 yuan",
+          "Study/Office Supplies": "5~30 yuan",
+          "Beverages/Nutritional Drinks": "10~25 yuan"
+        },
+        "preferred delivery time": "20~45 minutes",
+        "typical order time": "16~18:00 (40%), 13~15:00 (30%), 19~21:00 (20%)",
+        "recent orders": [
+          {
+            "store": "MissFresh",
+            "product": "4 Apples + 1 Bunch of Bananas"
+          },
+          {
+            "store": "Fresh Supermarket",
+            "product": "300g Tomatoes + 2 Cucumbers"
+          },
+          {
+            "store": "FamilyMart",
+            "product": "Notebook + Gel Pens"
+          }
+        ],
+        "search history": [
+          "apple",
+          "mineral water",
+          "notebook",
+          "vegetables",
+          "milk",
+          "fruit"
+        ]
+      }
+    },
+    "in-store consumption": {
+      "in-store dining": {
+        "fine-dining": {
+          "frequently purchased categories": [
+            "Hot Pot (Average 120 yuan)",
+            "Regional Cuisine/Sichuan Cuisine (Average 90 yuan)",
+            "Regional Cuisine/Specialty Dishes (Average 100 yuan)"
+          ],
+          "preferred average price per person": "80~130 yuan",
+          "preferred store rating": "4.0~4.8 stars",
+          "typical dining time": "18:30-20:30",
+          "preferred distance": "500~3000m",
+          "recent orders": [
+            {
+              "store": "Xiaolongkan Hot Pot (Shijiazhuang Wanda Branch)",
+              "product": "Split Pot Base + Beef Platter + Vegetable Platter"
+            },
+            {
+              "store": "Chuanxi Bazi (Zhonghua Street Branch)",
+              "product": "Boiled Fish + Dry-fried Green Beans + Rice"
+            },
+            {
+              "store": "Meizhou Dongpo Restaurant",
+              "product": "Dongpo Pork Knuckle + Twice-cooked Pork + Garlic Pork Slices"
+            }
+          ],
+          "search history": [
+            "spicy food lover",
+            "family gathering",
+            "authentic Sichuan cuisine",
+            "business dining"
+          ]
+        },
+        "light meal": {
+          "frequently purchased categories": [
+            "Snacks & Fast Food/Chinese Quick Meals (Average 30 yuan)",
+            "Snacks & Fast Food/Western Fast Food (Average 25 yuan)",
+            "Regional Cuisine/Northeastern Cuisine (Average 35 yuan)"
+          ],
+          "preferred average price per person": "20~40 yuan",
+          "preferred store rating": "3.5~4.3 stars",
+          "typical dining time": "11:30-13:00",
+          "preferred distance": "0~500m",
+          "recent orders": [
+            {
+              "store": "Old Ma's Noodle House (Bus Terminal Branch)",
+              "product": "Beef Noodle Soup + Cold Dish"
+            },
+            {
+              "store": "Shaxian Snacks (Xinhua Road Branch)",
+              "product": "Three Delicacies Steamed Dumplings + Seaweed Egg Drop Soup"
+            },
+            {
+              "store": "Braised Chicken Rice (North Zhonghua Street Branch)",
+              "product": "Braised Chicken Rice (Large Portion)"
+            }
+          ],
+          "search history": [
+            "fast food",
+            "work meal",
+            "affordable",
+            "non-spicy"
+          ]
+        },
+        "desserts/drinks/snacks": {
+          "frequently purchased categories": [
+            "Beverage Shops (Average 18 yuan)",
+            "Bread & Desserts (Average 25 yuan)",
+            "Other Dining/Fresh Fruits (Average 15 yuan)"
+          ],
+          "preferred average price per person": "15~30 yuan",
+          "preferred store rating": "3.8~4.5 stars",
+          "typical dining time": "15:00-16:30",
+          "preferred distance": "0~300m",
+          "recent orders": [
+            {
+              "store": "Yidiandian Milk Tea (Bus Terminal Branch)",
+              "product": "Four Seasons Green Tea (Sugar-free)"
+            },
+            {
+              "store": "85°C (Wanda Plaza Branch)",
+              "product": "Cheese Cake + Americano"
+            },
+            {
+              "store": "Fresh Cut Fruit (Xinhua District Branch)",
+              "product": "Fruit Platter (Small)"
+            }
+          ],
+          "search history": [
+            "low-sugar drinks",
+            "fruit",
+            "afternoon tea",
+            "coffee"
+          ]
+        }
+      },
+      "other in-store services": {
+        "frequently consumed categories": {
+          "Sports & Fitness/Ball Sports": "40%",
+          "Leisure & Entertainment/Massage/Foot Therapy": "35%",
+          "Beauty/Hair Styling": "15%",
+          "Parent-Child/Family Entertainment": "10%"
+        },
+        "cost per order by category": {
+          "Sports & Fitness/Ball Sports": "60~120 yuan",
+          "Leisure & Entertainment/Massage/Foot Therapy": "120~200 yuan",
+          "Beauty/Hair Styling": "50~100 yuan",
+          "Parent-Child/Family Entertainment": "80~150 yuan"
+        },
+        "preferred store rating": "3.8~4.6 stars",
+        "preferred service time": "19:00-21:30",
+        "preferred distance": "0~5000m",
+        "recent orders": [
+          {
+            "store": "Zushengtan Massage (Wanda Plaza Branch)",
+            "product": "Neck, Shoulder and Waist Massage Package (60 minutes)"
+          },
+          {
+            "store": "Shijiazhuang Badminton Court (Xinhua District Branch)",
+            "product": "Double Court (2 hours)"
+          },
+          {
+            "store": "Kids Playground (Wanda Branch)",
+            "product": "Parent-Child Entertainment Ticket (1 Adult 1 Child)"
+          }
+        ],
+        "search history": [
+          "massage",
+          "back pain",
+          "badminton court",
+          "weekend family activities",
+          "barber shop"
+        ]
+      }
+    },
+    "OTA": {
+      "visited scenes": {
+        "Natural Landscapes (Mountains/Lakes/Forests)": "35%",
+        "Tourist Attractions (Mountain/Seaside/Ecological Large Scenic Areas)": "25%",
+        "Theme Parks": "20%",
+        "Cultural Heritage Sites": "15%",
+        "Parks": "5%"
+      },
+      "cost per night on hotel": "300~500 yuan",
+      "visited hotels": {
+        "Home Inn": "30%",
+        "Hanting Hotel": "25%",
+        "7 Days Inn": "20%",
+        "Jinjiang Inn": "15%",
+        "GreenTree Inn": "10%"
+      },
+      "browsed hotels": {
+        "Three-Star Hotels": "45%",
+        "Budget Hotels": "40%",
+        "Comfort Hotels": "15%"
+      },
+      "historical travel plans": {
+        "Shijiazhuang-Beijing": {
+          "price range": "200-300 yuan",
+          "transportation mode": "High-speed Rail/EMU"
+        },
+        "Shijiazhuang-Qingdao": {
+          "price range": "350-450 yuan",
+          "transportation mode": "High-speed Rail/EMU"
+        },
+        "Shijiazhuang-Xi'an": {
+          "price range": "400-500 yuan",
+          "transportation mode": "High-speed Rail/EMU"
+        },
+        "Shijiazhuang-Taiyuan": {
+          "price range": "150-250 yuan",
+          "transportation mode": "Long-distance Bus"
+        },
+        "Shijiazhuang-Chengde": {
+          "price range": "200-300 yuan",
+          "transportation mode": "Self-driving"
+        },
+        "Shijiazhuang-Baoding": {
+          "price range": "100-150 yuan",
+          "transportation mode": "Self-driving"
+        },
+        "Beijing-Shijiazhuang": {
+          "price range": "200-300 yuan",
+          "transportation mode": "High-speed Rail/EMU"
+        },
+        "Qingdao-Shijiazhuang": {
+          "price range": "350-450 yuan",
+          "transportation mode": "High-speed Rail/EMU"
+        },
+        "Xi'an-Shijiazhuang": {
+          "price range": "400-500 yuan",
+          "transportation mode": "High-speed Rail/EMU"
+        }
+      }
+    }
+  },
+  "stores": {
+    "S17550802118058644_S00001": {
+      "name": "FamilyMart (Mianyang Wangfujing Branch)",
+      "store_id": "S17550802118058644_S00001",
+      "score": 4.7,
+      "location": {
+        "address": "FamilyMart, 1st Floor, Wangfujing Department Store, 66 East Linyuan Road, Fucheng District, Mianyang, Sichuan Province",
+        "latitude": 31.4675,
+        "longitude": 104.7415
+      },
+      "tags": [
+        "product delivery",
+        "Daily Necessities",
+        "Convenience Store",
+        "Daily Commodities",
+        "24-hour service"
+      ],
+      "store_type": "target",
+      "products": [
+        {
+          "name": "Vinda Face Series Facial Tissues",
+          "store_id": "S17550802118058644_S00001",
+          "store_name": "FamilyMart (Mianyang Wangfujing Branch)",
+          "price": 16.9,
+          "tags": [
+            "Face Washing Towel",
+            "Facial Cleansing",
+            "Disposable",
+            "Soft"
+          ],
+          "product_id": "S17550802118058644_P00001",
+          "attributes": [
+            "80 sheets/pack"
+          ],
+          "product_type": "target"
+        },
+        {
+          "name": "Breeze Pure Cotton Thickened Towel",
+          "store_id": "S17550802118058644_S00001",
+          "store_name": "FamilyMart (Mianyang Wangfujing Branch)",
+          "price": 24.9,
+          "tags": [
+            "Towel",
+            "Pure Cotton",
+            "Thickened",
+            "Absorbent"
+          ],
+          "product_id": "S17550802118058644_P00002",
+          "attributes": [
+            "White"
+          ],
+          "product_type": "target"
+        },
+        {
+          "name": "Grace Pure Cotton Towel × 2",
+          "store_id": "S17550802118058644_S00001",
+          "store_name": "FamilyMart (Mianyang Wangfujing Branch)",
+          "price": 39.8,
+          "tags": [
+            "Towel",
+            "Pure Cotton",
+            "Soft",
+            "Absorbent"
+          ],
+          "product_id": "S17550802118058644_P00003",
+          "attributes": [
+            "32×72cm",
+            "Blue"
+          ],
+          "product_type": "target"
+        },
+        {
+          "name": "Kleenex Wet Toilet Paper",
+          "store_id": "S17550802118058644_S00001",
+          "store_name": "FamilyMart (Mianyang Wangfujing Branch)",
+          "price": 13.9,
+          "tags": [
+            "Wet Toilet Paper",
+            "Cleaning",
+            "Portable",
+            "Hygiene"
+          ],
+          "product_id": "S17550802118058644_P00004",
+          "attributes": [
+            "40 sheets/pack"
+          ],
+          "product_type": "distraction"
+        },
+        {
+          "name": "ABC Sanitary Napkins",
+          "store_id": "S17550802118058644_S00001",
+          "store_name": "FamilyMart (Mianyang Wangfujing Branch)",
+          "price": 15.8,
+          "tags": [
+            "Sanitary Napkins",
+            "Women's Products",
+            "Daily Use",
+            "Care"
+          ],
+          "product_id": "S17550802118058644_P00005",
+          "attributes": [
+            "Daily Use",
+            "8 pcs/pack"
+          ],
+          "product_type": "distraction"
+        }
+      ]
+    },
+    "S17550802118058644_S00002": {
+      "name": "Watsons (Wangfujing Plaza Store)",
+      "store_id": "S17550802118058644_S00002",
+      "score": 4.8,
+      "location": {
+        "address": "Watsons, 2nd Floor, Wangfujing Department Store, 68 East Linyuan Road, Fucheng District, Mianyang, Sichuan Province",
+        "latitude": 31.468,
+        "longitude": 104.7418
+      },
+      "tags": [
+        "product delivery",
+        "Personal Care and Cleaning",
+        "Beauty Products",
+        "Cleansing and Care Products",
+        "Business Hours: 09:30-20:30"
+      ],
+      "store_type": "target",
+      "products": [
+        {
+          "name": "Grace Pure Cotton Towel",
+          "store_id": "S17550802118058644_S00002",
+          "store_name": "Watsons (Wangfujing Plaza Store)",
+          "price": 19.9,
+          "tags": [
+            "Towel",
+            "Pure Cotton",
+            "Absorbent",
+            "Soft",
+            "Daily Cleansing"
+          ],
+          "product_id": "S17550802118058644_P00006",
+          "attributes": [
+            "White",
+            "70x35cm"
+          ],
+          "product_type": "target"
+        },
+        {
+          "name": "Curel Face Washing Cloth",
+          "store_id": "S17550802118058644_S00002",
+          "store_name": "Watsons (Wangfujing Plaza Store)",
+          "price": 32.9,
+          "tags": [
+            "Face Washing Towel",
+            "Gentle",
+            "Disposable",
+            "Portable"
+          ],
+          "product_id": "S17550802118058644_P00007",
+          "attributes": [
+            "80 sheets/pack"
+          ],
+          "product_type": "target"
+        },
+        {
+          "name": "Nivea Men Shower Gel",
+          "store_id": "S17550802118058644_S00002",
+          "store_name": "Watsons (Wangfujing Plaza Store)",
+          "price": 49.9,
+          "tags": [
+            "Shower Gel",
+            "Men's",
+            "Refreshing",
+            "Oil Control"
+          ],
+          "product_id": "S17550802118058644_P00008",
+          "attributes": [
+            "250ml"
+          ],
+          "product_type": "distraction"
+        },
+        {
+          "name": "Luxury Bath Towel Set (Wedding Gift)",
+          "store_id": "S17550802118058644_S00002",
+          "store_name": "Watsons (Wangfujing Plaza Store)",
+          "price": 89.9,
+          "tags": [
+            "Bath Towel",
+            "Towel",
+            "Thickened",
+            "Gift Set"
+          ],
+          "product_id": "S17550802118058644_P00009",
+          "attributes": [
+            "140x70cm",
+            "2 pieces/set"
+          ],
+          "product_type": "distraction"
+        },
+        {
+          "name": "Watsons Baby Facial Wipes",
+          "store_id": "S17550802118058644_S00002",
+          "store_name": "Watsons (Wangfujing Plaza Store)",
+          "price": 25.9,
+          "tags": [
+            "Face Washing Towel",
+            "For Babies Only",
+            "Gentle",
+            "Non-irritating"
+          ],
+          "product_id": "S17550802118058644_P00010",
+          "attributes": [
+            "50 sheets/pack"
+          ],
+          "product_type": "distraction"
+        }
+      ]
+    },
+    "S17550802118058644_S00003": {
+      "name": "7-11 Convenience Store (Mianyang Linyuan Road Branch)",
+      "store_id": "S17550802118058644_S00003",
+      "score": 4.6,
+      "location": {
+        "address": "7-11 Convenience Store, 80 East Linyuan Road, Fucheng District, Mianyang, Sichuan Province",
+        "latitude": 31.4682,
+        "longitude": 104.743
+      },
+      "tags": [
+        "product delivery",
+        "Convenience Store",
+        "Snacks",
+        "Beverages"
+      ],
+      "store_type": "distraction",
+      "products": [
+        {
+          "name": "Grace Pure Cotton Towel",
+          "store_id": "S17550802118058644_S00003",
+          "store_name": "7-11 Convenience Store (Mianyang Linyuan Road Branch)",
+          "price": 19.9,
+          "tags": [
+            "Towel",
+            "Pure Cotton",
+            "Grace",
+            "Daily Necessities"
+          ],
+          "product_id": "S17550802118058644_P00011",
+          "attributes": [
+            "White",
+            "Blue"
+          ],
+          "product_type": "target"
+        },
+        {
+          "name": "Breeze Pure Cotton Thickened Towel",
+          "store_id": "S17550802118058644_S00003",
+          "store_name": "7-11 Convenience Store (Mianyang Linyuan Road Branch)",
+          "price": 24,
+          "tags": [
+            "Face Washing Towel",
+            "Disposable",
+            "Nepia",
+            "Facial Cleansing"
+          ],
+          "product_id": "S17550802118058644_P00012",
+          "attributes": [
+            "80 sheets/pack"
+          ],
+          "product_type": "target"
+        },
+        {
+          "name": "Colgate Toothbrush",
+          "store_id": "S17550802118058644_S00003",
+          "store_name": "7-11 Convenience Store (Mianyang Linyuan Road Branch)",
+          "price": 12.9,
+          "tags": [
+            "Toothbrush",
+            "Colgate",
+            "Daily Necessities"
+          ],
+          "product_id": "S17550802118058644_P00013",
+          "attributes": [
+            "Soft bristles",
+            "Medium bristles"
+          ],
+          "product_type": "distraction"
+        },
+        {
+          "name": "Safeguard Soap",
+          "store_id": "S17550802118058644_S00003",
+          "store_name": "7-11 Convenience Store (Mianyang Linyuan Road Branch)",
+          "price": 8.5,
+          "tags": [
+            "Soap",
+            "Safeguard",
+            "Cleansing and Care"
+          ],
+          "product_id": "S17550802118058644_P00014",
+          "attributes": [
+            "Fresh scent",
+            "Antibacterial"
+          ],
+          "product_type": "distraction"
+        },
+        {
+          "name": "Coca-Cola",
+          "store_id": "S17550802118058644_S00003",
+          "store_name": "7-11 Convenience Store (Mianyang Linyuan Road Branch)",
+          "price": 3.5,
+          "tags": [
+            "Beverages",
+            "Cola",
+            "Carbonated Drinks"
+          ],
+          "product_id": "S17550802118058644_P00015",
+          "attributes": [
+            "330ml",
+            "500ml"
+          ],
+          "product_type": "distraction"
+        }
+      ]
+    },
+    "S17550802118058644_S00004": {
+      "name": "BESTORE (Mianyang Wangfujing Branch)",
+      "store_id": "S17550802118058644_S00004",
+      "score": 4.5,
+      "location": {
+        "address": "MINISO, 1st Floor, Wangfujing Department Store, 68 East Linyuan Road, Fucheng District, Mianyang, Sichuan Province",
+        "latitude": 31.468,
+        "longitude": 104.7418
+      },
+      "tags": [
+        "product delivery",
+        "Snacks",
+        "Nuts",
+        "Snack Foods"
+      ],
+      "store_type": "distraction",
+      "products": [
+        {
+          "name": "BESTORE Mixed Nuts Gift Box",
+          "store_id": "S17550802118058644_S00004",
+          "store_name": "BESTORE (Mianyang Wangfujing Branch)",
+          "price": 89.9,
+          "tags": [
+            "Snacks",
+            "Nuts",
+            "Gift Box",
+            "Snack Foods",
+            "Family Size"
+          ],
+          "product_id": "S17550802118058644_P00016",
+          "attributes": [
+            "Original flavor",
+            "Small packaging",
+            "500g"
+          ],
+          "product_type": "distraction"
+        },
+        {
+          "name": "BESTORE Hand-torn Bread",
+          "store_id": "S17550802118058644_S00004",
+          "store_name": "BESTORE (Mianyang Wangfujing Branch)",
+          "price": 19.9,
+          "tags": [
+            "Bread",
+            "breakfast",
+            "Snack Foods",
+            "Children's Snacks"
+          ],
+          "product_id": "S17550802118058644_P00017",
+          "attributes": [
+            "Original flavor",
+            "Milk flavor",
+            "Chocolate flavor"
+          ],
+          "product_type": "distraction"
+        },
+        {
+          "name": "BESTORE Spicy Strips Gift Pack",
+          "store_id": "S17550802118058644_S00004",
+          "store_name": "BESTORE (Mianyang Wangfujing Branch)",
+          "price": 29.9,
+          "tags": [
+            "Snacks",
+            "Spicy Strips",
+            "Snack Foods",
+            "Children's Snacks"
+          ],
+          "product_id": "S17550802118058644_P00018",
+          "attributes": [
+            "Mildly spicy",
+            "Medium spicy",
+            "Spicy and numbing"
+          ],
+          "product_type": "distraction"
+        },
+        {
+          "name": "BESTORE Preserved Dried Fruits",
+          "store_id": "S17550802118058644_S00004",
+          "store_name": "BESTORE (Mianyang Wangfujing Branch)",
+          "price": 25.8,
+          "tags": [
+            "Snacks",
+            "Preserved Fruits",
+            "Dried Fruit",
+            "Snack Foods",
+            "Travel Size"
+          ],
+          "product_id": "S17550802118058644_P00019",
+          "attributes": [
+            "Sweet and sour",
+            "Honey flavor",
+            "200g"
+          ],
+          "product_type": "distraction"
+        },
+        {
+          "name": "BESTORE Crispy Seaweed",
+          "store_id": "S17550802118058644_S00004",
+          "store_name": "BESTORE (Mianyang Wangfujing Branch)",
+          "price": 15.9,
+          "tags": [
+            "Snacks",
+            "Seaweed",
+            "Snack Foods",
+            "Ready-to-Eat"
+          ],
+          "product_id": "S17550802118058644_P00020",
+          "attributes": [
+            "Original flavor",
+            "Wasabi flavor",
+            "BBQ flavor"
+          ],
+          "product_type": "distraction"
+        }
+      ]
+    }
+  },
+  "orders": {
+    "S17550802118058644_O00001": {
+      "order_id": "S17550802118058644_O00001",
+      "order_type": "delivery",
+      "user_id": "U311640",
+      "store_id": "S17550802118058644_S00002",
+      "total_price": 58.8,
+      "create_time": "2025-07-09 09:20:15",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17550802118058644_P00006",
+          "price": 29.9,
+          "quantity": 1
+        },
+        {
+          "product_id": "S17550802118058644_P00007",
+          "price": 32.9,
+          "quantity": 1
+        }
+      ],
+      "note": "Deliver to hotel between 8-9pm",
+      "location": {
+        "address": "JI Hotel, Next to Wangfujing Department Store, 68 East Linyuan Road, Fucheng District, Mianyang, Sichuan Province",
+        "longitude": 104.7418,
+        "latitude": 31.468
+      },
+      "dispatch_time": "2025-07-09 20:00:00",
+      "shipping_time": 15.0,
+      "delivery_time": "2025-07-09 20:15:00"
+    },
+    "S17550802118058644_O00002": {
+      "order_id": "S17550802118058644_O00002",
+      "order_type": "hotel",
+      "user_id": "U311640",
+      "store_id": "S17550802118058644_H00005",
+      "note": "Wedding trip, family of three staying",
+      "location": {
+        "address": "JI Hotel, Next to Wangfujing Department Store, 68 East Linyuan Road, Fucheng District, Mianyang, Sichuan Province",
+        "longitude": 104.7418,
+        "latitude": 31.468
+      },
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 1284.0,
+      "create_time": "2025-07-05 14:23:45",
+      "update_time": "2025-07-05 14:25:30",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17550802118058644_P00021",
+          "price": 328.0,
+          "quantity": 1,
+          "date": "2025-07-08",
+          "room_type": "Standard King Room"
+        },
+        {
+          "product_id": "S17550802118058644_P00021",
+          "price": 328.0,
+          "quantity": 1,
+          "date": "2025-07-09",
+          "room_type": "Standard King Room"
+        },
+        {
+          "product_id": "S17550802118058644_P00021",
+          "price": 328.0,
+          "quantity": 1,
+          "date": "2025-07-10",
+          "room_type": "Standard King Room"
+        },
+        {
+          "product_id": "S17550802118058644_P00021",
+          "price": 300.0,
+          "quantity": 1,
+          "date": "2025-07-11",
+          "room_type": "Standard King Room"
+        }
+      ]
+    },
+    "S17550802118058644_O00004": {
+      "order_id": "S17550802118058644_O00004",
+      "order_type": "train",
+      "user_id": "U311640",
+      "store_id": "T00001",
+      "note": "Family trip to Mianyang for a wedding",
+      "location": {
+        "address": "Shijiazhuang Railway Station, 118 West Zhongshan Road, Qiaoxi District, Shijiazhuang, Hebei Province",
+        "longitude": 114.4758,
+        "latitude": 38.0412
+      },
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 1260.0,
+      "create_time": "2025-05-24 09:30:15",
+      "update_time": "2025-05-24 09:32:40",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "T00001_P001",
+          "price": 420.0,
+          "quantity": 1,
+          "seat_type": "Second Class Seat",
+          "train_number": "G529",
+          "departure_station": "Shijiazhuang Railway Station",
+          "arrival_station": "Mianyang Railway Station",
+          "departure_time": "2025-07-08 08:30:00",
+          "arrival_time": "2025-07-08 15:45:00"
+        },
+        {
+          "product_id": "T00001_P002",
+          "price": 420.0,
+          "quantity": 2,
+          "seat_type": "Second Class Seat",
+          "train_number": "G529",
+          "departure_station": "Shijiazhuang Railway Station",
+          "arrival_station": "Mianyang Railway Station",
+          "departure_time": "2025-07-08 08:30:00",
+          "arrival_time": "2025-07-08 15:45:00"
+        }
+      ]
+    },
+    "S17550802118058644_O00005": {
+      "order_id": "S17550802118058644_O00005",
+      "order_type": "train",
+      "user_id": "U311640",
+      "store_id": "T00002",
+      "note": "Return journey",
+      "location": {
+        "address": "Mianyang Railway Station, 1 Railway Station Road, Fucheng District, Mianyang, Sichuan Province",
+        "longitude": 104.7358,
+        "latitude": 31.458
+      },
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 1260.0,
+      "create_time": "2025-05-25 14:20:35",
+      "update_time": "2025-05-25 14:22:10",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "T00002_P001",
+          "price": 420.0,
+          "quantity": 1,
+          "seat_type": "Second Class Seat",
+          "train_number": "G530",
+          "departure_station": "Mianyang Railway Station",
+          "arrival_station": "Shijiazhuang Railway Station",
+          "departure_time": "2025-07-12 14:20:00",
+          "arrival_time": "2025-07-12 21:35:00"
+        },
+        {
+          "product_id": "T00002_P002",
+          "price": 420.0,
+          "quantity": 2,
+          "seat_type": "Second Class Seat",
+          "train_number": "G530",
+          "departure_station": "Mianyang Railway Station",
+          "arrival_station": "Shijiazhuang Railway Station",
+          "departure_time": "2025-07-12 14:20:00",
+          "arrival_time": "2025-07-12 21:35:00"
+        }
+      ]
+    },
+    "S17550802118058644_O00006": {
+      "order_id": "S17550802118058644_O00006",
+      "order_type": "instore",
+      "user_id": "U311640",
+      "store_id": "S17550802118058644_I00010",
+      "total_price": 98.0,
+      "create_time": "2025-07-09 13:45:20",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17550802118058644_P00066",
+          "price": 98.0,
+          "quantity": 1
+        }
+      ],
+      "location": {
+        "address": "Future World VR Experience Center, 4th Floor, Wanda Plaza, 9 Garden Road, Fucheng District, Mianyang, Sichuan Province",
+        "longitude": 104.738,
+        "latitude": 31.473
+      }
+    }
+  }
+}

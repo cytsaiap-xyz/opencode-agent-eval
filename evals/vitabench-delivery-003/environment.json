@@ -1,0 +1,360 @@
+{
+  "task_id": "10714001",
+  "domain": "delivery",
+  "time": "2025-06-03 17:02:31",
+  "user_id": "U000016",
+  "weather": [
+    {
+      "city": "Suzhou City",
+      "category": "cloudy",
+      "datetime": "2025-06-03",
+      "temperature": [
+        21,
+        30
+      ],
+      "humidity": 78
+    }
+  ],
+  "location": [
+    {
+      "address": "Huchi Garden, No. 75 Huchi Road (180 meters walk from Baiyangwan Park Metro Station Exit 4), Gusu District, Suzhou City, Jiangsu Province",
+      "longitude": 120.558303,
+      "latitude": 31.340753
+    }
+  ],
+  "user_profile": {
+    "user id": "U000016",
+    "occupation": "Driver",
+    "gender": "male",
+    "age group": "35~40",
+    "residence": "Suzhou",
+    "home address": "Huchi Garden, No. 75 Huchi Road (180 meters walk from Baiyangwan Park Metro Station Exit 4), Gusu District, Suzhou City, Jiangsu Province",
+    "work address": "Suzhou North Plaza Bus Terminal, No. 1455 Suzhan Road, Gusu District, Suzhou City, Jiangsu Province",
+    "dietary restrictions": "No alcohol",
+    "family status": "Has children",
+    "personality": "Cold and concise in expression, lacks emotional communication and patience"
+  },
+  "user_historical_behaviors": {
+    "user id": "U000016",
+    "occupation": "Driver",
+    "gender": "male",
+    "age group": "35~40",
+    "residence": "Suzhou",
+    "home address": "Huchi Garden, No. 75 Huchi Road (180 meters walk from Baiyangwan Park Metro Station Exit 4), Gusu District, Suzhou City, Jiangsu Province",
+    "work address": "Suzhou North Plaza Bus Terminal, No. 1455 Suzhan Road, Gusu District, Suzhou City, Jiangsu Province",
+    "breakfast": {
+      "frequently purchased categories": [
+        "Quick Meals/Steamed Buns/Pan-fried Buns (Average ¥15)",
+        "Quick Meals/Fried Dough Sticks (Average ¥8)",
+        "Quick Meals/Jianbing/Wraps/Pancakes (Average ¥12)"
+      ],
+      "cost per order": "¥8~25",
+      "preferred store rating": "4.0~4.5 stars",
+      "preferred delivery time": "15~30 minutes",
+      "preferred distance": "0~2000m",
+      "recent orders": [
+        {
+          "store": "Old Zhu's Bun Shop",
+          "product": "Pork and Green Onion Buns + Soy Milk"
+        },
+        {
+          "store": "Tianjin Jianbing",
+          "product": "Original Jianbing"
+        },
+        {
+          "store": "Suzhou Breakfast House",
+          "product": "Fried Dough Sticks with Soy Milk + Tea Egg"
+        }
+      ],
+      "search history": [
+        "steamed buns",
+        "fried dough sticks",
+        "soy milk",
+        "pan-fried buns",
+        "breakfast",
+        "pancakes"
+      ]
+    },
+    "weekday lunch/dinner": {
+      "frequently purchased categories": [
+        "Quick Meals/Rice with Toppings (Average ¥25)",
+        "Quick Meals/Rice Noodles/Vermicelli (Average ¥22)",
+        "Chinese Cuisine/Crayfish (Average ¥75)"
+      ],
+      "cost per order": "¥20~75",
+      "preferred store rating": "4.2~4.8 stars",
+      "preferred delivery time": "20~40 minutes",
+      "preferred distance": "0~3000m",
+      "recent orders": [
+        {
+          "store": "Braised Pork Rice Hall",
+          "product": "Braised Pork Rice + Hot and Sour Soup"
+        },
+        {
+          "store": "Hunan Style Rice Noodles",
+          "product": "Beef Rice Noodles"
+        },
+        {
+          "store": "Stewed Chicken Rice",
+          "product": "Standard Stewed Chicken Rice"
+        }
+      ],
+      "search history": [
+        "rice with toppings",
+        "braised pork",
+        "rice noodles",
+        "fast food",
+        "lunch box",
+        "stewed chicken"
+      ]
+    },
+    "weekend lunch/dinner": {
+      "frequently purchased categories": [
+        "Chinese Cuisine/Northeastern Cuisine (Average ¥85)",
+        "Chinese Cuisine/Sichuan Cuisine (Average ¥90)",
+        "Hot Pot/Skewer Hot Pot (Average ¥120)"
+      ],
+      "cost per order": "¥80~150",
+      "preferred store rating": "4.5~4.9 stars",
+      "preferred delivery time": "30~60 minutes",
+      "preferred distance": "0~5000m",
+      "recent orders": [
+        {
+          "store": "Old Northeastern Restaurant",
+          "product": "Sweet and Sour Pork + Three Fresh Vegetables + Rice"
+        },
+        {
+          "store": "Sichuan Flavor Pavilion",
+          "product": "Boiled Fish + Twice-cooked Pork + Two Portions of Rice"
+        },
+        {
+          "store": "Bashu Skewer Hot Pot",
+          "product": "Set for Two (Tripe + Beef + Various Vegetables)"
+        }
+      ],
+      "search history": [
+        "northeastern cuisine",
+        "sweet and sour pork",
+        "sichuan cuisine",
+        "boiled fish in chili oil",
+        "skewer hot pot",
+        "family set meal"
+      ]
+    },
+    "desserts/drinks/snacks": {
+      "frequently purchased categories": [
+        "desserts/drinks/snacks/Milk Tea (Average ¥18)",
+        "desserts/drinks/snacks/Fruit Juice (Average ¥22)",
+        "desserts/drinks/snacks/Chinese Pastries (Average ¥30)"
+      ],
+      "cost per order": "¥15~40",
+      "preferred store rating": "4.3~4.8 stars",
+      "preferred delivery time": "15~30 minutes",
+      "preferred distance": "0~3000m",
+      "recent orders": [
+        {
+          "store": "One Dot",
+          "product": "Bubble Milk Tea"
+        },
+        {
+          "store": "Fresh Juice Bar",
+          "product": "Kiwi Banana Juice"
+        },
+        {
+          "store": "Suzhou Pastry Shop",
+          "product": "Osmanthus Cake"
+        }
+      ],
+      "search history": [
+        "milk tea",
+        "fruit juice",
+        "suzhou pastries",
+        "osmanthus cake",
+        "healthy beverages"
+      ]
+    },
+    "night snack": {
+      "frequently purchased categories": [
+        "BBQ/Grilled Skewers (Average ¥48)",
+        "Quick Meals/Rice Noodles/Vermicelli (Average ¥25)",
+        "Quick Meals/River Snail Rice Noodle (Average ¥28)"
+      ],
+      "cost per order": "¥20~50",
+      "preferred store rating": "4.0~4.6 stars",
+      "preferred delivery time": "25~45 minutes",
+      "preferred distance": "0~3500m",
+      "recent orders": [
+        {
+          "store": "Old Wang BBQ",
+          "product": "10 Lamb Skewers + Grilled Eggplant + Grilled Mantou Slices"
+        },
+        {
+          "store": "Liuzhou River Snail Rice Noodle",
+          "product": "Classic River Snail Rice Noodle + Braised Egg"
+        },
+        {
+          "store": "Lanzhou Noodle Night Shop",
+          "product": "Beef Noodle Soup"
+        }
+      ],
+      "search history": [
+        "BBQ",
+        "skewers",
+        "River Snail Rice Noodle",
+        "night snack",
+        "noodles",
+        "non-spicy night snacks"
+      ]
+    }
+  },
+  "stores": {
+    "S33761083328698190_S00450": {
+      "name": "LuoDaSi Liuzhou River Snail Rice Noodle (Xingguangyao Plaza Branch)",
+      "store_id": "S33761083328698190_S00450",
+      "score": 4.5,
+      "location": {
+        "address": "LuoDaSi Liuzhou River Snail Rice Noodle (Xingguangyao Branch), Room 118, Building 4, Xingguangyao Plaza, Baiyangwan Street, Gusu District, Suzhou City, Jiangsu Province",
+        "latitude": 31.353443,
+        "longitude": 120.545742
+      },
+      "tags": [
+        "Generous Serving",
+        "Clean and Hygienic",
+        "Soup and Noodles Packaged Separately"
+      ],
+      "products": [
+        {
+          "name": "[Internet Sensation] Viral Fried Egg River Snail Rice Noodle (Soup and Noodles Packaged Separately)",
+          "store_id": "S33761083328698190_S00450",
+          "store_name": "LuoDaSi Liuzhou River Snail Rice Noodle (Xingguangyao Plaza Branch)",
+          "price": 21.88,
+          "tags": [
+            "River Snail Rice Noodle",
+            "Sour, Spicy, Fresh and Refreshing"
+          ],
+          "product_id": "S14089696301034197_P31775",
+          "attributes": [
+            "Normal Spicy",
+            "Mild Spicy"
+          ],
+          "quantity": 9999
+        },
+        {
+          "name": "[Set Meal D] Liuzhou Rice Noodle + 2 Tiger Skin Chicken Feet + 1 Can of Cola",
+          "store_id": "S33761083328698190_S00450",
+          "store_name": "LuoDaSi Liuzhou River Snail Rice Noodle (Xingguangyao Plaza Branch)",
+          "price": 31.88,
+          "tags": [
+            "Adjustable Spice Level",
+            "Great Value"
+          ],
+          "product_id": "S14310443732096591_P04513",
+          "attributes": [
+            "Normal Spicy",
+            "Mild Spicy"
+          ],
+          "quantity": 9999
+        },
+        {
+          "name": "[Classic Original] 🥇 Liuzhou River Snail Rice Noodle (Soup and Noodles Packaged Separately)",
+          "product_id": "S18161124744611320_P37293",
+          "store_id": "S33761083328698190_S00450",
+          "store_name": "LuoDaSi Liuzhou River Snail Rice Noodle (Xingguangyao Plaza Branch)",
+          "price": 17.88,
+          "tags": [
+            "Classic",
+            "Generous Portion"
+          ],
+          "attributes": [
+            "Very Mild Spicy",
+            "Mild Spicy",
+            "Medium Spicy",
+            "Extra Spicy",
+            "Devil Spicy",
+            "No Spice"
+          ],
+          "quantity": 9999
+        }
+      ]
+    },
+    "S16639357497267606_S14937": {
+      "name": "RongLiu Big Iron Ox River Snail Rice Noodle (Xiyuan Temple Branch)",
+      "store_id": "S16639357497267606_S14937",
+      "score": 4.8,
+      "location": {
+        "address": "RongLiu Big Iron Ox River Snail Rice Noodle (Fengqiao Road Branch), No. 698-27-29 Fengqiao Road, Gusu District, Suzhou City, Jiangsu Province",
+        "latitude": 31.311866,
+        "longitude": 120.579334
+      },
+      "tags": [],
+      "products": [
+        {
+          "name": "Duck Web River Snail Rice Noodle with Skin",
+          "product_id": "S32018644337129649_P72785",
+          "store_id": "S16639357497267606_S14937",
+          "store_name": "RongLiu Big Iron Ox River Snail Rice Noodle (Xiyuan Temple Branch)",
+          "price": 21.98,
+          "tags": [],
+          "attributes": [
+            "No Spice",
+            "Very Mild Spicy",
+            "Mild Spicy",
+            "Medium Spicy",
+            "Extra Spicy",
+            "Extreme Spicy"
+          ],
+          "quantity": 9999
+        },
+        {
+          "name": "Stinky Tofu River Snail Rice Noodle (3 pieces)",
+          "product_id": "S14849221988058349_P80206",
+          "store_id": "S16639357497267606_S14937",
+          "store_name": "RongLiu Big Iron Ox River Snail Rice Noodle (Xiyuan Temple Branch)",
+          "price": 22.88,
+          "tags": [],
+          "attributes": [
+            "No Spice",
+            "Very Mild Spicy",
+            "Mild Spicy",
+            "Medium Spicy",
+            "Extra Spicy",
+            "Extreme Spicy"
+          ],
+          "quantity": 9999
+        }
+      ]
+    },
+    "S88919571844842179_S24094": {
+      "name": "LiuLuoHong River Snail Rice Noodle (Main Store)",
+      "store_id": "S88919571844842179_S24094",
+      "score": 4.8,
+      "location": {
+        "address": "Cross-Bridge Rice Noodles (Ganglong Branch), West of Suzhou Meijun Medical Beauty, Huqiu District, Suzhou City, Jiangsu Province",
+        "latitude": 31.309571,
+        "longitude": 120.55857
+      },
+      "tags": [],
+      "products": [
+        {
+          "name": "LiuLuoHong River Snail Rice Noodle + Guangxi Sausage",
+          "product_id": "S15569776463412114_P26956",
+          "store_id": "S88919571844842179_S24094",
+          "store_name": "LiuLuoHong River Snail Rice Noodle (Main Store)",
+          "price": 24.88,
+          "tags": [
+            "Authentic Taste"
+          ],
+          "attributes": [
+            "No Spice",
+            "Mild Spicy",
+            "Medium Spicy",
+            "Extra Spicy",
+            "Devil Spicy"
+          ],
+          "quantity": 9999
+        }
+      ]
+    }
+  },
+  "orders": {}
+}

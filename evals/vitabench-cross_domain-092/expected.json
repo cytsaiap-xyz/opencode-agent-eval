@@ -1,0 +1,125 @@
+{
+  "required_orders": [
+    {
+      "order_id": "S17550809870242807_O00002",
+      "order_type": "train",
+      "user_id": "U040131",
+      "store_id": "S17550809870242807_T00010",
+      "note": "",
+      "location": {
+        "address": "Nanjing Railway Station, No.1 Longpan Road, Xuanwu District, Nanjing, Jiangsu Province",
+        "longitude": 118.798,
+        "latitude": 32.086
+      },
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 2233,
+      "create_time": "2026-06-11 10:05:45",
+      "update_time": "2026-06-11 10:05:45",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17550809870242807_P00055",
+          "price": 1680,
+          "quantity": 1,
+          "date": "2026-06-21",
+          "seat_type": "Business class seat"
+        },
+        {
+          "product_id": "S17550809870242807_P00053",
+          "price": 553,
+          "quantity": 1,
+          "date": "2026-06-21",
+          "seat_type": "Second class seat"
+        }
+      ]
+    },
+    {
+      "order_id": "S17550809870242807_O00003",
+      "order_type": "hotel",
+      "user_id": "U040131",
+      "store_id": "S17550809870242807_H00008",
+      "note": "",
+      "location": {
+        "address": "Xiangtan Oriental Hotel, No.45 Renmin Road, Yuhu District, Xiangtan, Hunan Province",
+        "latitude": 27.8566,
+        "longitude": 112.9135
+      },
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 592,
+      "create_time": "2026-06-11 10:07:01",
+      "update_time": "2026-06-11 10:07:01",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17550809870242807_P00041",
+          "price": 168,
+          "quantity": 2,
+          "date": "2026-06-21",
+          "room_type": "Comfort single room"
+        },
+        {
+          "product_id": "S17550809870242807_P00042",
+          "price": 128,
+          "quantity": 2,
+          "date": "2026-06-22",
+          "room_type": "Business single room"
+        }
+      ]
+    },
+    {
+      "order_id": "OT960844b251",
+      "order_type": "delivery",
+      "user_id": "U040131",
+      "store_id": "S17550809870242807_S00003",
+      "note": "",
+      "location": {
+        "address": "Xiangtan Oriental Hotel, No.45 Renmin Road, Yuhu District, Xiangtan, Hunan Province",
+        "latitude": 27.8566,
+        "longitude": 112.9135
+      },
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 15.8,
+      "create_time": "2026-06-11 10:09:14",
+      "update_time": "2026-06-11 10:09:14",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17550809870242807_P00012",
+          "price": 15.8,
+          "quantity": 1,
+          "name": "KangJie travel toilet seat covers 10-piece pack",
+          "store_id": "S17550809870242807_S00003",
+          "store_name": "KangJie Bathroom Specialty Store",
+          "attributes": "",
+          "tags": [
+            "Hygiene",
+            "Extra thick",
+            "Waterproof"
+          ]
+        }
+      ]
+    }
+  ],
+  "rubrics": [
+    "The high-speed rail ticket must be dated June 21, 2026",
+    "The high-speed rail ticket must be for a train from Nanjing to Xiangtan",
+    "The high-speed rail ticket's departure time must be between 09:00-11:00",
+    "Need to check the shortest travel time from Nanjing to Xiangtan, which is 6 hours and 26 minutes, exceeding 5 hours, so the order should include 1 Business class seat and 1 Second class seat",
+    "The hotel must be located in Yuhu District, Xiangtan City, Hunan Province",
+    "The hotel rating should be greater than or equal to 4.5",
+    "The hotel room price should be less than or equal to 180 yuan",
+    "The number of hotel rooms should be 2",
+    "The hotel check-in date should be June 21, 2026",
+    "The hotel check-out date should be June 23, 2026",
+    "The food delivery order item should be disposable toilet seat covers",
+    "The number of disposable toilet seat covers should be greater than or equal to 4",
+    "The delivery address for the disposable toilet seat covers must be Xiangtan Oriental Hotel, No.45 Renmin Road, Yuhu District, Xiangtan, Hunan Province",
+    "The estimated delivery time for the disposable toilet seat covers should be between 19:00-20:00 on 2026-06-21"
+  ]
+}

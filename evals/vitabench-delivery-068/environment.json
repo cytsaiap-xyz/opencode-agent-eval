@@ -1,0 +1,368 @@
+{
+  "task_id": "E0716002",
+  "domain": "delivery",
+  "time": "2024-03-20 11:07:23",
+  "user_id": "U000053",
+  "weather": [
+    {
+      "city": "Hefei City",
+      "category": "sunny",
+      "datetime": "2024-03-20",
+      "temperature": [
+        7,
+        23
+      ],
+      "humidity": 45
+    }
+  ],
+  "location": [
+    {
+      "address": "No. 398 Feicui Road, Shushan District, Hefei, Anhui Province (430 meters walk from Exit 4 of Fanhua Avenue Metro Station), National Hefei Economic and Technological Development Zone",
+      "longitude": 117.207703,
+      "latitude": 31.77875
+    },
+    {
+      "address": "Baowen Garden, Changhuai Street, Yaohai District, Hefei, Anhui Province",
+      "longitude": 117.309816,
+      "latitude": 31.88562
+    }
+  ],
+  "user_profile": {
+    "user id": "U000053",
+    "occupation": "blue-collar worker",
+    "gender": "male",
+    "age group": "35~40",
+    "residence": "Hefei",
+    "home address": "Baowen Garden, Changhuai Street, Yaohai District, Hefei, Anhui Province",
+    "work address": "No. 398 Feicui Road, Shushan District, Hefei, Anhui Province (430 meters walk from Exit 4 of Fanhua Avenue Metro Station), National Hefei Economic and Technological Development Zone",
+    "dietary restrictions": "No alcohol",
+    "family status": "Has children",
+    "personality": "Tends to be controlling, not easily accepting of different opinions"
+  },
+  "user_historical_behaviors": {
+    "user id": "U000053",
+    "occupation": "Blue-collar worker",
+    "gender": "male",
+    "age group": "35~40",
+    "residence": "Hefei",
+    "home address": "Baowen Garden, Changhuai Street, Yaohai District, Hefei, Anhui Province",
+    "work address": "No. 398 Feicui Road, Shushan District, Hefei, Anhui Province (430 meters walk from Exit 4 of Fanhua Avenue Metro Station), National Hefei Economic and Technological Development Zone",
+    "breakfast": {
+      "frequently purchased categories": [
+        "Quick meals/Steamed buns/Pan-fried buns (average 8 yuan)",
+        "Quick meals/Pancakes/Wraps/Hand-held pancakes (average 10 yuan)",
+        "Quick meals/Fried dough sticks (average 8 yuan)"
+      ],
+      "cost per order": "8~15 yuan",
+      "preferred store rating": "4.2~4.6 stars",
+      "preferred delivery time": "15~30 minutes",
+      "preferred distance": "0~2500m",
+      "recent orders": [
+        {
+          "store": "Lao Qian's Bun Shop",
+          "product": "Pork and Green Onion Buns (6 pieces)"
+        },
+        {
+          "store": "Liu's Pancakes",
+          "product": "Egg Pancake Roll"
+        },
+        {
+          "store": "Soy Milk King",
+          "product": "Original Fried Dough Stick + Soy Milk Set"
+        }
+      ],
+      "search history": [
+        "steamed buns",
+        "pancake rolls",
+        "fried dough sticks",
+        "soy milk",
+        "quick breakfast"
+      ]
+    },
+    "weekday lunch/dinner": {
+      "frequently purchased categories": [
+        "Quick meals/Rice with toppings (average 28 yuan)",
+        "Quick meals/Braised chicken rice (average 25 yuan)",
+        "Quick meals/Rice noodles/Rice vermicelli (average 20 yuan)"
+      ],
+      "cost per order": "20~40 yuan",
+      "preferred store rating": "3.9~5.0 stars",
+      "preferred delivery time": "20~40 minutes",
+      "preferred distance": "0~3000m",
+      "recent orders": [
+        {
+          "store": "Braised Chicken Rice",
+          "product": "Large Portion Braised Chicken Rice"
+        },
+        {
+          "store": "Ba Bowl Rice (Hefei Shangze Metropolitan Branch)",
+          "product": "[Popular Item] Stir-fried Beef Rice Bowl"
+        },
+        {
+          "store": "Old Sichuan Rice Noodles",
+          "product": "Beef Rice Noodles with Extra Spice"
+        }
+      ],
+      "search history": [
+        "rice with toppings",
+        "cheap meal sets",
+        "work meals",
+        "rice noodles",
+        "fast food"
+      ]
+    },
+    "weekend lunch/dinner": {
+      "frequently purchased categories": [
+        "Traditional Chinese cuisine/Northeastern cuisine (average 75 yuan)",
+        "Traditional Chinese cuisine/Crayfish (average 110 yuan)",
+        "Hot pot/Spicy soup/Skewer hotpot (average 60 yuan)"
+      ],
+      "cost per order": "55~150 yuan",
+      "preferred store rating": "4.3~4.8 stars",
+      "preferred delivery time": "30~50 minutes",
+      "preferred distance": "0~4500m",
+      "recent orders": [
+        {
+          "store": "Old Zhang's Northeastern Restaurant",
+          "product": "Sweet and Sour Pork + Stir-fried Shredded Pork + Rice Set"
+        },
+        {
+          "store": "Sichuan Spicy Crayfish",
+          "product": "Spicy Crayfish 1.5 pounds"
+        },
+        {
+          "store": "Bashu Premium Spicy Hotpot",
+          "product": "Special Spicy Hotpot Large Portion"
+        }
+      ],
+      "search history": [
+        "northeastern cuisine",
+        "crayfish",
+        "family gathering meals",
+        "leisure food",
+        "spicy hotpot"
+      ]
+    },
+    "desserts/drinks/snacks": {
+      "frequently purchased categories": [
+        "Beverages & Desserts/Milk tea (average 13 yuan)",
+        "Beverages & Desserts/Coffee (average 15 yuan)",
+        "Beverages & Desserts/Chinese pastries (average 22 yuan)"
+      ],
+      "cost per order": "15~30 yuan",
+      "preferred store rating": "4.4~4.9 stars",
+      "preferred delivery time": "15~35 minutes",
+      "preferred distance": "0~3000m",
+      "recent orders": [
+        {
+          "store": "Yidiandian",
+          "product": "Pearl Milk Tea"
+        },
+        {
+          "store": "Luckin Coffee",
+          "product": "Latte"
+        },
+        {
+          "store": "Daoxiangcun",
+          "product": "Mung Bean Cake"
+        }
+      ],
+      "search history": [
+        "milk tea",
+        "coffee",
+        "pastries",
+        "afternoon tea",
+        "non-alcoholic drinks"
+      ]
+    },
+    "night snack": {
+      "frequently purchased categories": [
+        "BBQ & Fried Food/Barbecue (skewers) (average 45 yuan)",
+        "Quick meals/Rice noodles/Rice vermicelli (average 25 yuan)",
+        "Snacks & Marinated dishes/Marinated dishes (average 30 yuan)"
+      ],
+      "cost per order": "25~60 yuan",
+      "preferred store rating": "4.0~4.6 stars",
+      "preferred delivery time": "25~45 minutes",
+      "preferred distance": "0~3500m",
+      "recent orders": [
+        {
+          "store": "Old Wang's BBQ",
+          "product": "Assorted BBQ Platter (Smokeless Grilling)"
+        },
+        {
+          "store": "Guilin Rice Noodles",
+          "product": "Three Delicacies Rice Noodles"
+        },
+        {
+          "store": "Huizhou Marinated Dishes",
+          "product": "Signature Marinated Platter"
+        }
+      ],
+      "search history": [
+        "BBQ",
+        "rice noodles",
+        "marinated dishes",
+        "night snack set",
+        "smokeless BBQ"
+      ]
+    }
+  },
+  "stores": {
+    "S25539361674255185_S67204": {
+      "name": "Ba Bowl Rice (Hefei Shangze Metropolitan Branch)",
+      "store_id": "S25539361674255185_S67204",
+      "score": 5.0,
+      "location": {
+        "address": "Shangze Metropolitan, 200 meters south of the intersection of Fanhua Avenue and Lotus Road, Shushan District, Hefei, Anhui Province",
+        "latitude": 31.772592,
+        "longitude": 117.22938
+      },
+      "tags": [],
+      "products": [
+        {
+          "name": "Tender and Fragrant\" Stir-fried Bean Curd Skin with Meat Rice Bowl",
+          "store_id": "S25539361674255185_S67204",
+          "store_name": "Ba Bowl Rice (Hefei Shangze Metropolitan Branch)",
+          "price": 25.0,
+          "tags": [],
+          "product_id": "S71751813192280767_P89342",
+          "attributes": [],
+          "quantity": 9999
+        }
+      ]
+    },
+    "S18967463504826989_S43153": {
+      "name": "Ziyan Hundred-flavor Chicken (Linquan Branch)",
+      "store_id": "S18967463504826989_S43153",
+      "score": 4.4,
+      "location": {
+        "address": "No. 110 Jinyuan Commercial Building, South Side of Linquan Road, Yaohai District, Hefei",
+        "latitude": 31.884862,
+        "longitude": 117.302591
+      },
+      "tags": [],
+      "products": [
+        {
+          "name": "35 Years Famous\" Couple's Lung Slices + Vegetables + Rice",
+          "store_id": "S18967463504826989_S43153",
+          "store_name": "Ziyan Hundred-flavor Chicken (Linquan Branch)",
+          "price": 35.8,
+          "tags": [
+            "Beef",
+            "Beef Tripe",
+            "Thousand-layer Beef Tripe"
+          ],
+          "product_id": "S33950920453484028_P40840",
+          "attributes": [
+            "No cilantro",
+            "No dietary restrictions",
+            "No garlic"
+          ],
+          "quantity": 9999
+        },
+        {
+          "name": "Multi-million Dollar Brand\" Five-spice Pig Head Meat + Vegetables + Rice",
+          "store_id": "S18967463504826989_S43153",
+          "store_name": "Ziyan Hundred-flavor Chicken (Linquan Branch)",
+          "price": 32.8,
+          "tags": [
+            "Rich but not greasy"
+          ],
+          "product_id": "S88769413031839140_P82800",
+          "attributes": [],
+          "quantity": 9999
+        },
+        {
+          "name": "Ziyan® Couple's Lung Slices",
+          "store_id": "S18967463504826989_S43153",
+          "store_name": "Ziyan Hundred-flavor Chicken (Linquan Branch)",
+          "price": 39.8,
+          "tags": [
+            "Spicy and Numbing"
+          ],
+          "product_id": "S22743031346942366_P50262",
+          "attributes": [],
+          "quantity": 9999
+        },
+        {
+          "name": "Couple's Lung Slices [Tasting Portion]",
+          "store_id": "S18967463504826989_S43153",
+          "store_name": "Ziyan Hundred-flavor Chicken (Linquan Branch)",
+          "price": 32.9,
+          "tags": [],
+          "product_id": "S21208700910641632_P00870",
+          "attributes": [],
+          "quantity": 9999
+        },
+        {
+          "name": "Couple's Lung Slices 160g [Livestream Special]",
+          "store_id": "S18967463504826989_S43153",
+          "store_name": "Ziyan Hundred-flavor Chicken (Linquan Branch)",
+          "price": 51.9,
+          "tags": [],
+          "product_id": "S99311019692222811_P71217",
+          "attributes": [],
+          "quantity": 9999
+        },
+        {
+          "name": "Couple's Lung Slices + Pig Head Meat Set for Two [Livestream Special]",
+          "store_id": "S18967463504826989_S43153",
+          "store_name": "Ziyan Hundred-flavor Chicken (Linquan Branch)",
+          "price": 50.9,
+          "tags": [],
+          "product_id": "S17933263200644494_P36504",
+          "attributes": [],
+          "quantity": 9999
+        }
+      ]
+    },
+    "S30488026926582488_S65342": {
+      "name": "Longjiang Pork Knuckle Rice (Lvdu New Village Branch)",
+      "store_id": "S30488026926582488_S65342",
+      "score": 4.8,
+      "location": {
+        "address": "Room 117, Building 3, Lvdu New Village, Guzhen Road, Xinglin Street, Luyang District, Hefei, Anhui Province",
+        "latitude": 31.895778,
+        "longitude": 117.287365
+      },
+      "tags": [],
+      "products": [
+        {
+          "name": "Large Longjiang Pork Knuckle Rice",
+          "store_id": "S30488026926582488_S65342",
+          "store_name": "Longjiang Pork Knuckle Rice (Lvdu New Village Branch)",
+          "price": 23.8,
+          "tags": [],
+          "product_id": "S53536420214175419_P36001",
+          "attributes": [],
+          "quantity": 9999
+        }
+      ]
+    },
+    "S13411219461249911_S32180": {
+      "name": "Uncle Geng's Crushed Pepper Rice Bowl (Zhonghuan City Branch)",
+      "store_id": "S13411219461249911_S32180",
+      "score": 4.9,
+      "location": {
+        "address": "No. B-119c, Jinxing Commercial City Phase I, Intersection of Danxia Road and Shigu Road, Economic and Technological Development Zone, Hefei, Anhui Province",
+        "latitude": 31.775526,
+        "longitude": 117.203389
+      },
+      "tags": [],
+      "products": [
+        {
+          "name": "Bean Curd Skin with Stir-fried Meat Single Set Meal",
+          "store_id": "S13411219461249911_S32180",
+          "store_name": "Uncle Geng's Crushed Pepper Rice Bowl (Zhonghuan City Branch)",
+          "price": 40,
+          "tags": [],
+          "product_id": "S14166322565425715_P86735",
+          "attributes": [],
+          "quantity": 9999
+        }
+      ]
+    }
+  },
+  "orders": {}
+}

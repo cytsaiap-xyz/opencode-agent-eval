@@ -1,0 +1,350 @@
+{
+  "task_id": "H0716002",
+  "domain": "delivery",
+  "time": "2025-04-18 11:36:32",
+  "user_id": "U000052",
+  "weather": [
+    {
+      "city": "Taizhou City",
+      "category": "overcast ",
+      "datetime": "2025-04-18",
+      "temperature": [
+        16,
+        22
+      ],
+      "humidity": 54
+    }
+  ],
+  "location": [
+    {
+      "address": "Building 6, Student Apartment, Jiaojiang Campus of Taizhou University, Jiaojiang District, Taizhou City, Zhejiang Province",
+      "longitude": 121.388316,
+      "latitude": 28.650355
+    }
+  ],
+  "user_profile": {
+    "user id": "U000052",
+    "occupation": "Student",
+    "gender": "male",
+    "age group": "15~20",
+    "residence": "Taizhou",
+    "home address": "Building 6, Student Apartment, Jiaojiang Campus of Taizhou University, Jiaojiang District, Taizhou City, Zhejiang Province",
+    "work address": "E-commerce Park for College Students, Taizhou University (Jiaojiang Campus), Government Avenue, Jiaojiang District, Taizhou City, Zhejiang Province",
+    "dietary restrictions": "No Fried Food, No High Sugar",
+    "family status": "Unknown",
+    "personality": "Tends to be anxious and worried, needs repeated confirmation to feel at ease"
+  },
+  "user_historical_behaviors": {
+    "user id": "U000052",
+    "occupation": "Student",
+    "gender": "male",
+    "age group": "15~20",
+    "residence": "Taizhou",
+    "home address": "Building 6, Student Apartment, Jiaojiang Campus of Taizhou University, Jiaojiang District, Taizhou City, Zhejiang Province",
+    "work address": "E-commerce Park for College Students, Taizhou University (Jiaojiang Campus), Government Avenue, Jiaojiang District, Taizhou City, Zhejiang Province",
+    "breakfast": {
+      "frequently purchased categories": [
+        "Quick Meals/Steamed Buns (Average 15 yuan)",
+        "Quick Meals/Light Food (Average 25 yuan)",
+        "Quick Meals/Chinese Noodles (Average 20 yuan)"
+      ],
+      "cost per order": "10~30 yuan",
+      "preferred store rating": "4.3~4.7 stars",
+      "preferred delivery time": "15~25 minutes",
+      "preferred distance": "0~1500m",
+      "recent orders": [
+        {
+          "store": "Fresh Breakfast Shop",
+          "product": "Pork Bun + Soy Milk Combo"
+        },
+        {
+          "store": "Light Breakfast Bar",
+          "product": "Vegetable Sandwich + Oat Milk"
+        }
+      ],
+      "search history": [
+        "Low sugar breakfast",
+        "Steamed buns",
+        "Soy milk",
+        "Healthy breakfast"
+      ]
+    },
+    "weekday lunch/dinner": {
+      "frequently purchased categories": [
+        "Quick Meals/Rice with Toppings (Average 22 yuan)",
+        "Quick Meals/Rice Noodles (Average 25 yuan)",
+        "Chinese Cuisine/Northeastern Cuisine (Average 35 yuan)"
+      ],
+      "cost per order": "20~70 yuan",
+      "preferred store rating": "4.2~4.8 stars",
+      "preferred delivery time": "20~50 minutes",
+      "preferred distance": "0~5500m",
+      "recent orders": [
+        {
+          "store": "Cafeteria Flavors",
+          "product": "Steamed Fish + Rice"
+        },
+        {
+          "store": "Mi Axian Yunnan Beef Rice Noodles",
+          "product": "Spicy Beef Tripe Sauce Noodles"
+        }
+      ],
+      "search history": [
+        "Non-greasy lunch",
+        "Rice noodles",
+        "Home-style dishes",
+        "Student meal sets"
+      ]
+    },
+    "weekend lunch/dinner": {
+      "frequently purchased categories": [
+        "International Flavors/Stone Pot Rice/Teppanyaki Rice (Average 45 yuan)",
+        "Chinese Cuisine/Hunan Cuisine (Average 60 yuan)",
+        "Hot Pots/Individual Hot Pot (Average 55 yuan)"
+      ],
+      "cost per order": "45~70 yuan",
+      "preferred store rating": "4.5~4.9 stars",
+      "preferred delivery time": "25~45 minutes",
+      "preferred distance": "0~3500m",
+      "recent orders": [
+        {
+          "store": "Korean Cuisine House",
+          "product": "Stone Pot Bibimbap"
+        },
+        {
+          "store": "Happy Hot Pot",
+          "product": "Clear Broth Individual Hot Pot"
+        }
+      ],
+      "search history": [
+        "Specialty restaurants",
+        "Stone pot bibimbap",
+        "Clear broth hot pot"
+      ]
+    },
+    "desserts/drinks/snacks": {
+      "frequently purchased categories": [
+        "Beverages & Desserts/Plain Tea/Herbal Tea (Average 18 yuan)",
+        "Beverages & Desserts/Fruit Juice (Average 22 yuan)",
+        "Beverages & Desserts/Fruit Salad (Average 28 yuan)"
+      ],
+      "cost per order": "15~30 yuan",
+      "preferred store rating": "4.0~4.8 stars",
+      "preferred delivery time": "15~50 minutes",
+      "preferred distance": "0~3600m",
+      "recent orders": [
+        {
+          "store": "ShuYi Grass Jelly (Jiazhi Old Street Store)",
+          "product": "Orchid Oolong Pure Tea"
+        },
+        {
+          "store": "Cha Bai Dao (Jiaojiang Zhabridge Store)",
+          "product": "Jasmine Ice Tea"
+        }
+      ],
+      "search history": [
+        "Sugar-free drinks",
+        "Healthy fruit tea",
+        "Low-sugar desserts"
+      ]
+    },
+    "night snack": {
+      "frequently purchased categories": [
+        "Quick Meals/Small Dishes (Average 30 yuan)",
+        "Quick Meals/Rice Noodles (Average 25 yuan)",
+        "Quick Meals/Claypot Dishes (Average 35 yuan)"
+      ],
+      "cost per order": "20~40 yuan",
+      "preferred store rating": "4.2~4.7 stars",
+      "preferred delivery time": "20~35 minutes",
+      "preferred distance": "0~2500m",
+      "recent orders": [
+        {
+          "store": "Late Night Small Dishes",
+          "product": "Stir-fried Seasonal Vegetables"
+        },
+        {
+          "store": "Midnight Diner",
+          "product": "Hot and Sour Vermicelli"
+        },
+        {
+          "store": "Claypot Porridge Shop",
+          "product": "Preserved Egg and Lean Pork Porridge"
+        }
+      ],
+      "search history": [
+        "Healthy late night snacks",
+        "Non-fried night snacks",
+        "Claypot porridge",
+        "Small dishes"
+      ]
+    }
+  },
+  "stores": {
+    "S31362996935520633_S70024": {
+      "name": "Old Chengdu Mama's Pork Trotters (Jiaojiang Store)",
+      "store_id": "S31362996935520633_S70024",
+      "score": 4.4,
+      "location": {
+        "address": "No. 62 Xinda East Road, Baiyun Street, Jiaojiang District, Taizhou City, Zhejiang Province",
+        "latitude": 28.641677,
+        "longitude": 121.408763
+      },
+      "tags": [],
+      "products": [
+        {
+          "name": "Selected 🔥🔥🔥 Spicy Red Oil Pork Trotter + Rice + Coke",
+          "store_id": "S31362996935520633_S70024",
+          "store_name": "Old Chengdu Mama's Pork Trotters (Jiaojiang Store)",
+          "price": 58.8,
+          "tags": [],
+          "product_id": "S27262801368361992_P09650",
+          "attributes": [],
+          "quantity": 9999
+        },
+        {
+          "name": "🔥🔥🔥 Classic Spicy Red Oil Whole Pork Trotter (Rice Not Included)",
+          "store_id": "S31362996935520633_S70024",
+          "store_name": "Old Chengdu Mama's Pork Trotters (Jiaojiang Store)",
+          "price": 48.8,
+          "tags": [],
+          "product_id": "S27432638552003875_P09626",
+          "attributes": [],
+          "quantity": 9999
+        }
+      ]
+    },
+    "S26949391557525109_S37617": {
+      "name": "Lu Xiaoning Tea Drinks (Yaoda Pedestrian Street Store)",
+      "store_id": "S26949391557525109_S37617",
+      "score": 4.2,
+      "location": {
+        "address": "No. 106-3, Yaoda Road Pedestrian Street, Jiaojiang District, Taizhou City, Zhejiang Province",
+        "latitude": 28.651872,
+        "longitude": 121.414818
+      },
+      "tags": [],
+      "products": [
+        {
+          "name": "Winter Melon with Lime",
+          "store_id": "S26949391557525109_S37617",
+          "store_name": "Lu Xiaoning Tea Drinks (Yaoda Pedestrian Street Store)",
+          "price": 17.0,
+          "tags": [],
+          "product_id": "S17999679772584705_P19717",
+          "attributes": [
+            "No Ice",
+            "Less Ice",
+            "Normal Ice"
+          ],
+          "quantity": 9999
+        },
+        {
+          "name": "Lime Milk Tea",
+          "store_id": "S26949391557525109_S37617",
+          "store_name": "Lu Xiaoning Tea Drinks (Yaoda Pedestrian Street Store)",
+          "price": 17,
+          "tags": [
+            "Rich Milk Flavor"
+          ],
+          "product_id": "S54160222672762398_P94306",
+          "attributes": [],
+          "quantity": 9999
+        },
+        {
+          "name": "Pomelo Ice Lime",
+          "store_id": "S26949391557525109_S37617",
+          "store_name": "Lu Xiaoning Tea Drinks (Yaoda Pedestrian Street Store)",
+          "price": 18,
+          "tags": [
+            "Slightly Sweet, Sour and Bitter"
+          ],
+          "product_id": "S14438660256283358_P97325",
+          "attributes": [
+            "Normal Ice",
+            "Less Ice"
+          ],
+          "quantity": 9999
+        }
+      ]
+    },
+    "S77677443573225892_S65701": {
+      "name": "Yuan Ji Cloud Dumplings (Zhabridge Store)",
+      "store_id": "S77677443573225892_S65701",
+      "score": 4.5,
+      "location": {
+        "address": "Yuan Ji Cloud Dumplings (Zhabridge Store), Store No. 1 and 2 Northeast, Zhabridge Farmers Market, Jiaojiang District, Taizhou City, Zhejiang Province",
+        "latitude": 28.660257,
+        "longitude": 121.395497
+      },
+      "tags": [],
+      "products": [
+        {
+          "name": "Fresh Shrimp and Crab Roe Wonton",
+          "store_id": "S77677443573225892_S65701",
+          "store_name": "Yuan Ji Cloud Dumplings (Zhabridge Store)",
+          "price": 33.98,
+          "tags": [],
+          "product_id": "S78675090921581153_P42837",
+          "attributes": [
+            "Traditional Cantonese Soup",
+            "Red Oil Dry Mix",
+            "Sichuan Pepper Dry Mix",
+            "Chopped Chili Dry Mix (Extra Spicy)",
+            "Popular Mixed Sauce Dry Mix",
+            "Blanched (with Vinegar)",
+            "Extra Sour Extra Spicy",
+            "Delicious Pickled Vegetable Soup"
+          ],
+          "quantity": 9999
+        },
+        {
+          "name": "Fresh Shrimp and Crab Roe Wonton Noodles",
+          "store_id": "S77677443573225892_S65701",
+          "store_name": "Yuan Ji Cloud Dumplings (Zhabridge Store)",
+          "price": 27.98,
+          "tags": [
+            "Chewy Texture"
+          ],
+          "product_id": "S11265276386041154_P56972",
+          "attributes": [],
+          "quantity": 9999
+        },
+        {
+          "name": "[Fresh] Fresh Shrimp and Crab Roe Wonton",
+          "store_id": "S77677443573225892_S65701",
+          "store_name": "Yuan Ji Cloud Dumplings (Zhabridge Store)",
+          "price": 51.98,
+          "tags": [],
+          "product_id": "S18437241750045760_P73123",
+          "attributes": [],
+          "quantity": 9999
+        }
+      ]
+    },
+    "S56781751358545145_S38268": {
+      "name": "Yuan Ji Cloud Dumplings (Jiaojiang Wanda Plaza Store)",
+      "store_id": "S56781751358545145_S38268",
+      "score": 4.3,
+      "location": {
+        "address": "Yuan Ji Cloud Dumplings (Wanda Plaza Store), No. 710 Guangchang South Road, Jiaojiang District, Taizhou City, Zhejiang Province",
+        "latitude": 28.639833,
+        "longitude": 121.415639
+      },
+      "tags": [],
+      "products": [
+        {
+          "name": "Fresh Shrimp and Crab Roe Wonton",
+          "store_id": "S56781751358545145_S38268",
+          "store_name": "Yuan Ji Cloud Dumplings (Jiaojiang Wanda Plaza Store)",
+          "price": 33.98,
+          "tags": [],
+          "product_id": "S13774556647759079_P75031",
+          "attributes": [],
+          "quantity": 9999
+        }
+      ]
+    }
+  },
+  "orders": {}
+}

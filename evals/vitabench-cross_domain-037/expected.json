@@ -1,0 +1,90 @@
+{
+  "required_orders": [
+    {
+      "order_id": "A0807010T001",
+      "order_type": "delivery",
+      "user_id": "U010032",
+      "store_id": "S17550810619584205_S00001",
+      "note": "",
+      "location": {
+        "address": "Room 1506, Building 3, Plaza 66, 1266 West Nanjing Road, Jing'an District, Shanghai",
+        "longitude": 121.4552,
+        "latitude": 31.2291
+      },
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 128,
+      "create_time": "2025-09-06 09:31:27",
+      "update_time": "2025-09-06 09:31:27",
+      "status": "processed",
+      "products": [
+        {
+          "product_id": "S17550810619584205_P00001",
+          "price": 128,
+          "quantity": 1,
+          "name": "Exquisite Brunch Set for Two",
+          "store_id": "S17550810619584205_S00001",
+          "store_name": "Exquisite Breakfast Workshop",
+          "attributes": "",
+          "tags": [
+            "Elegant Packaging",
+            "Low Sodium",
+            "Nutritionally Balanced",
+            "Couples' First Choice"
+          ]
+        }
+      ]
+    },
+    {
+      "book_id": "A0807010T002",
+      "shop_id": "S17550810619584205_I00010",
+      "book_time": "2025-09-06 14:00:00",
+      "update_time": "2025-09-06 10:37:49",
+      "customer_id": "U010032",
+      "customer_count": 2,
+      "book_price": 50,
+      "status": "unconsumed"
+    },
+    {
+      "order_id": "OO29ffa4c68d",
+      "order_type": "flight",
+      "user_id": "U010032",
+      "store_id": "S17550943321994151_F00007",
+      "note": "",
+      "location": null,
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 3980,
+      "create_time": "2025-09-06 09:39:21",
+      "update_time": "2025-09-06 09:39:21",
+      "status": "unpaid",
+      "products": [
+        {
+          "product_id": "S17550810619584205_P00035",
+          "price": 3980,
+          "quantity": 1,
+          "date": "2025-09-07",
+          "seat_type": "First Class"
+        }
+      ]
+    }
+  ],
+  "rubrics": [
+    "The breakfast delivery order's address is Room 1506, Building 3, Plaza 66, 1266 West Nanjing Road, Jing'an District, Shanghai",
+    "The delivery time for the breakfast order is 2025-09-06 09:30:00-10:30:00",
+    "The breakfast delivery restaurant offers Dine-in Available",
+    "The ordered breakfast delivery items come with Elegant Packaging",
+    "The ordered breakfast delivery is a Set for Two",
+    "The café reservation time is 14:00:00 on 2025-09-06",
+    "The reserved café should have Window Seat",
+    "The reserved café should be suitable for Photo Check-in",
+    "The café reservation is for 2 people",
+    "The recommended cinema should be within 3km of the café, no movie tickets need to be ordered",
+    "The reserved flight should be the latest departure of the day, the query should be for CZ3703",
+    "The purchased air ticket date is for 2025-09-06",
+    "The purchased air ticket cannot be Economy Class seat",
+    "No need to cancel the 7 o'clock reservation at the western restaurant"
+  ]
+}

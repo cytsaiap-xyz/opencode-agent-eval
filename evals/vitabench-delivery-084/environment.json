@@ -1,0 +1,354 @@
+{
+  "task_id": "H0717002",
+  "domain": "delivery",
+  "time": "2024-12-28 17:38:04",
+  "user_id": "U000002",
+  "weather": [
+    {
+      "city": "Xi'an City",
+      "category": "sunny",
+      "datetime": "2024-12-28",
+      "temperature": [
+        -3,
+        6
+      ],
+      "humidity": 40
+    }
+  ],
+  "location": [
+    {
+      "address": "Ziwei City Garden near Bank of Communications (Xi'an Electronic City Branch), Yanta District, Xi'an, Shaanxi Province",
+      "longitude": 108.917964,
+      "latitude": 34.201373
+    }
+  ],
+  "user_profile": {
+    "user id": "U000002",
+    "occupation": "Cashier",
+    "gender": "female",
+    "age group": "25~30",
+    "residence": "Xi'an",
+    "home address": "Ziwei City Garden near Bank of Communications (Xi'an Electronic City Branch), Yanta District, Xi'an, Shaanxi Province",
+    "work address": "SAGA (Saige International Shopping Center Branch), 123 Chang'an Middle Road, Xiaozhai Street, Yanta District, Xi'an, Shaanxi Province",
+    "dietary restrictions": "Avoids very spicy food",
+    "family status": "In a relationship",
+    "personality": "Extremely detail-oriented, tends to be picky and easily dissatisfied"
+  },
+  "user_historical_behaviors": {
+    "user id": "U000002",
+    "occupation": "Cashier",
+    "gender": "female",
+    "age group": "25~30",
+    "residence": "Xi'an",
+    "home address": "Ziwei City Garden near Bank of Communications (Xi'an Electronic City Branch), Yanta District, Xi'an, Shaanxi Province",
+    "work address": "SAGA (Saige International Shopping Center Branch), 123 Chang'an Middle Road, Xiaozhai Street, Yanta District, Xi'an, Shaanxi Province",
+    "breakfast": {
+      "frequently purchased categories": [
+        "Quick Meals/Steamed Buns/Pan-fried Buns (Average 18 yuan)",
+        "Quick Meals/Fried Dough Sticks (Average 12 yuan)",
+        "Quick Meals/Sandwiches (Average 15 yuan)"
+      ],
+      "cost per order": "10~25 yuan",
+      "preferred store rating": "4.0~4.5 stars",
+      "preferred delivery time": "15~25 minutes",
+      "preferred distance": "0~1500m",
+      "recent orders": [
+        {
+          "store": "Bao Zhou Pu",
+          "product": "Soy Milk + Soup Dumplings"
+        },
+        {
+          "store": "Old Beijing Breakfast",
+          "product": "Egg Pancake + Soy Milk"
+        },
+        {
+          "store": "Jiahe Yipin",
+          "product": "Milk + Pork Floss Sandwich"
+        }
+      ],
+      "search history": [
+        "Low-sugar breakfast",
+        "Steamed buns",
+        "Soy milk",
+        "Sandwich",
+        "Light breakfast"
+      ]
+    },
+    "weekday lunch/dinner": {
+      "frequently purchased categories": [
+        "Quick Meals/Light Food (Average 35 yuan)",
+        "Quick Meals/Salads (Average 32 yuan)",
+        "Quick Meals/Healthy Meals (Average 40 yuan)"
+      ],
+      "cost per order": "25~45 yuan",
+      "preferred store rating": "4.2~4.8 stars",
+      "preferred delivery time": "20~35 minutes",
+      "preferred distance": "0~2500m",
+      "recent orders": [
+        {
+          "store": "Light Food Workshop",
+          "product": "Vegetable and Chicken Breast Light Meal Set"
+        },
+        {
+          "store": "Salad Story",
+          "product": "Poached Chicken Breast Salad"
+        },
+        {
+          "store": "Slender Vegetarian",
+          "product": "Low-fat Oatmeal Bowl + Freshly Squeezed Juice"
+        }
+      ],
+      "search history": [
+        "Low-fat lunch",
+        "Healthy meal",
+        "Light food",
+        "Non-spicy lunch",
+        "Salad"
+      ]
+    },
+    "weekend lunch/dinner": {
+      "frequently purchased categories": [
+        "Chinese Cuisine/Cantonese Cuisine (Average 85 yuan)",
+        "International Flavor/Japanese Bento/Sushi (Average 90 yuan)",
+        "Chinese Cuisine/Steamed Seafood (Average 100 yuan)"
+      ],
+      "cost per order": "60~120 yuan",
+      "preferred store rating": "4.5~4.9 stars",
+      "preferred delivery time": "30~45 minutes",
+      "preferred distance": "0~3500m",
+      "recent orders": [
+        {
+          "store": "Cantonese Home-style Cuisine",
+          "product": "White Cut Chicken + Steamed Bass + Seasonal Vegetables"
+        },
+        {
+          "store": "Sushi House",
+          "product": "Family Sushi Set (Serves 3-4)"
+        },
+        {
+          "store": "Daily Seafood",
+          "product": "Garlic Vermicelli Scallops (Mildly Spicy) + Corn"
+        }
+      ],
+      "search history": [
+        "Family meal with kids",
+        "Non-spicy family set",
+        "Cantonese cuisine",
+        "Japanese cuisine",
+        "Kid-friendly restaurant"
+      ]
+    },
+    "desserts/drinks/snacks": {
+      "frequently purchased categories": [
+        "Drinks & Desserts/Milk Tea/Herbal Tea (Average 18 yuan)",
+        "Drinks & Desserts/Fruit Mix (Average 25 yuan)",
+        "Drinks & Desserts/Cold Desserts (Average 22 yuan)"
+      ],
+      "cost per order": "15~30 yuan",
+      "preferred store rating": "4.7~5.0 stars",
+      "preferred delivery time": "20~30 minutes",
+      "preferred distance": "0~2000m",
+      "recent orders": [
+        {
+          "store": "Cha Bai Dao",
+          "product": "Oolong Tea (No Sugar)"
+        },
+        {
+          "store": "Fresh Fruit Mix",
+          "product": "Fruit Mix (Less Sugar)"
+        },
+        {
+          "store": "Meet Fresh",
+          "product": "Coconut Milk with Sago (Light Sugar)"
+        }
+      ],
+      "search history": [
+        "Low-sugar drinks",
+        "Fruit tea",
+        "Sugar-free tea",
+        "Healthy desserts",
+        "Fruit mix"
+      ]
+    },
+    "night snack": {
+      "frequently purchased categories": [
+        "Quick Meals/Clay Pot Soup (Average 28 yuan)",
+        "Quick Meals/Small Portion Dishes (Average 35 yuan)",
+        "Snacks & Braised Items/Braised Foods (Average 30 yuan)"
+      ],
+      "cost per order": "25~40 yuan",
+      "preferred store rating": "4.1~4.6 stars",
+      "preferred delivery time": "20~35 minutes",
+      "preferred distance": "0~2500m",
+      "recent orders": [
+        {
+          "store": "Nutritious Soup",
+          "product": "Mushroom Chicken Soup"
+        },
+        {
+          "store": "Small Portion Dishes",
+          "product": "Stir-fried Seasonal Vegetables + Brown Rice"
+        },
+        {
+          "store": "Mom's Braised Food",
+          "product": "Braised Chicken Wings + Braised Eggs (Mildly Spicy)"
+        }
+      ],
+      "search history": [
+        "Light night snack",
+        "Stomach-friendly soup",
+        "Small portion dishes",
+        "Non-spicy braised food",
+        "Healthy night snack"
+      ]
+    }
+  },
+  "stores": {
+    "S32395321317664020_S72918": {
+      "name": "Running! Shaanxi Cuisine (Xiaozhai Zhonghui Branch)",
+      "store_id": "S32395321317664020_S72918",
+      "score": 4.8,
+      "location": {
+        "address": "Running! Shaanxi Cuisine: Dream of Chang'an (Xiaozhai Zhonghui Branch), 2nd Floor, Xi'an International Trade Center, 196 Xiaozhai East Road, Yanta District, Xi'an, Shaanxi Province",
+        "latitude": 34.222381,
+        "longitude": 108.947424
+      },
+      "tags": [
+        "Authentic Shaanxi Cuisine",
+        "Well-packaged Takeout"
+      ],
+      "products": [
+        {
+          "name": "Old Chef's Braised Three Delicacies",
+          "store_id": "S32395321317664020_S72918",
+          "store_name": "Running! Shaanxi Cuisine (Xiaozhai Zhonghui Branch)",
+          "price": 39.9,
+          "tags": [
+            "Savory"
+          ],
+          "product_id": "S23369123308080764_P87732",
+          "attributes": [],
+          "quantity": 9999
+        },
+        {
+          "name": "Qinhuang Hotpot Ribs",
+          "store_id": "S32395321317664020_S72918",
+          "store_name": "Running! Shaanxi Cuisine (Xiaozhai Zhonghui Branch)",
+          "price": 88.0,
+          "tags": [],
+          "product_id": "S15417513347977519_P98691",
+          "attributes": [],
+          "quantity": 9999
+        },
+        {
+          "name": "Rice",
+          "store_id": "S32395321317664020_S72918",
+          "store_name": "Running! Shaanxi Cuisine (Xiaozhai Zhonghui Branch)",
+          "price": 3.0,
+          "tags": [],
+          "product_id": "S22177717874912125_P02570",
+          "attributes": [],
+          "quantity": 9999
+        },
+        {
+          "name": "Hand-torn Cabbage",
+          "store_id": "S32395321317664020_S72918",
+          "store_name": "Running! Shaanxi Cuisine (Xiaozhai Zhonghui Branch)",
+          "price": 18.0,
+          "tags": [
+            "Salty-sweet"
+          ],
+          "product_id": "S27191398078431397_P45736",
+          "attributes": [],
+          "quantity": 9999
+        },
+        {
+          "name": "Chive-flavored Tofu Fish",
+          "product_id": "S89280328166432386_P93584",
+          "store_id": "S32395321317664020_S72918",
+          "store_name": "Running! Shaanxi Cuisine (Xiaozhai Zhonghui Branch)",
+          "price": 58.9,
+          "tags": [
+            "Spicy"
+          ],
+          "attributes": [],
+          "quantity": 9999
+        }
+      ]
+    },
+    "S16734511409115022_S17734": {
+      "name": "Dongbei Restaurant Iron Pot Stew (Zhangba East Road Branch)",
+      "store_id": "S16734511409115022_S17734",
+      "score": 3.7,
+      "location": {
+        "address": "Dongbei Restaurant Iron Pot Stew (Shuangwei Huaxi Bay Branch), Shop 118, Northeast Entrance, Building 9, Huaxi, Zhangba East Road, Yanta District, Xi'an, Shaanxi Province",
+        "latitude": 34.197903,
+        "longitude": 108.917936
+      },
+      "tags": [],
+      "products": [
+        {
+          "name": "Northeast-style Shazhucai (Traditional Pork Feast)",
+          "product_id": "S32964808539943213_P48557",
+          "store_id": "S16734511409115022_S17734",
+          "store_name": "Dongbei Restaurant Iron Pot Stew (Zhangba East Road Branch)",
+          "price": 58,
+          "tags": [],
+          "attributes": [],
+          "quantity": 9999
+        }
+      ]
+    },
+    "S16501316380754495_S99545": {
+      "name": "Old Tongguan Roujiamo (Taibai Jinyuan Branch)",
+      "store_id": "S16501316380754495_S99545",
+      "score": 4.5,
+      "location": {
+        "address": "Old Tongguan Roujiamo (Taibai Jinyuan Branch), Shop 10114, Electronic Information Road, Yanta District, Xi'an, Shaanxi Province",
+        "latitude": 34.203324,
+        "longitude": 108.903811
+      },
+      "tags": [],
+      "products": [
+        {
+          "name": "[Xi'an Specialty] Signature Ganmianpi Noodles (Large Portion)",
+          "product_id": "S20271267836650294_P09899",
+          "store_id": "S16501316380754495_S99545",
+          "store_name": "Old Tongguan Roujiamo (Taibai Jinyuan Branch)",
+          "price": 14,
+          "tags": [
+            "Spicy and Fragrant"
+          ],
+          "attributes": [],
+          "quantity": 9999
+        }
+      ]
+    },
+    "S32689338281403092_S71804": {
+      "name": "South Beauty (Xi'an Gaoxin Chengyuan Branch)",
+      "store_id": "S32689338281403092_S71804",
+      "score": 4.8,
+      "location": {
+        "address": "South Beauty: Opera Culture Theme Restaurant (Xi'an Gaoxin Chengyuan Branch), 2nd Floor, Building 9, Gaoxin Chengyuan, Yannan 2nd Road Auxiliary Road, High-tech Zone, Yanta District, Xi'an, Shaanxi Province",
+        "latitude": 34.205374,
+        "longitude": 108.904931
+      },
+      "tags": [
+        "Well-packaged Takeout"
+      ],
+      "products": [
+        {
+          "name": "Sichuan-style Mapo Tofu",
+          "product_id": "S26190836896827229_P10162",
+          "store_id": "S32689338281403092_S71804",
+          "store_name": "South Beauty (Xi'an Gaoxin Chengyuan Branch)",
+          "price": 18.8,
+          "tags": [],
+          "attributes": [],
+          "quantity": 9999
+        }
+      ]
+    }
+  },
+  "orders": {}
+}

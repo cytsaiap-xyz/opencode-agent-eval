@@ -1,0 +1,337 @@
+{
+  "task_id": "H0717001",
+  "domain": "delivery",
+  "time": "2025-06-21 09:53:21",
+  "user_id": "U000041",
+  "weather": [
+    {
+      "city": "Nanchang City",
+      "category": "cloudy",
+      "datetime": "2025-06-21",
+      "temperature": [
+        20,
+        27
+      ],
+      "humidity": 80
+    }
+  ],
+  "location": [
+    {
+      "address": "Nanchang No. 2 Middle School (Supu Road Campus), No. 3 Supu Road, Dunzitang Street, Donghu District, Nanchang City, Jiangxi Province",
+      "longitude": 115.900423,
+      "latitude": 28.676482
+    }
+  ],
+  "user_profile": {
+    "user id": "U000041",
+    "occupation": "Teacher",
+    "gender": "female",
+    "age group": "35~40",
+    "residence": "Nanchang",
+    "home address": "Qingyuan Apartment, No. 118 Shanghai North Road, Qingshanhu District, Nanchang City, Jiangxi Province (150 meters walk from Xiejia Village Subway Station Exit 3)",
+    "work address": "Nanchang No. 2 Middle School (Supu Road Campus), No. 3 Supu Road, Dunzitang Street, Donghu District, Nanchang City, Jiangxi Province",
+    "dietary restrictions": "Avoid high salt, avoid caffeine",
+    "family status": "Has children",
+    "personality": "Cold and concise in expression, lacking emotional communication and patience"
+  },
+  "user_historical_behaviors": {
+    "user id": "U000041",
+    "occupation": "Teacher",
+    "gender": "female",
+    "age group": "35~40",
+    "residence": "Nanchang",
+    "home address": "Qingyuan Apartment, No. 118 Shanghai North Road, Qingshanhu District, Nanchang City, Jiangxi Province (150m walk from Exit 3 of Xiejiacun Metro Station)",
+    "work address": "Nanchang No. 2 Middle School (Supu Road Campus), No. 3 Supu Road, Dunzitang Street, Donghu District, Nanchang City, Jiangxi Province",
+    "breakfast": {
+      "frequently purchased categories": [
+        "Quick Meals/Steamed Buns/Pan-fried Buns (Average ¥15)",
+        "Quick Meals/Pancakes/Wraps/Flatbread (Average ¥12)",
+        "desserts/drinks/snacks/Pure Tea/Herbal Tea (Average ¥8)"
+      ],
+      "cost per order": "¥10~25",
+      "preferred store rating": "4.3~4.7 stars",
+      "preferred delivery time": "15~25 minutes",
+      "preferred distance": "0~1500m",
+      "recent orders": [
+        {
+          "store": "Mr. Breakfast",
+          "product": "Meat Bun + Soy Milk Set"
+        },
+        {
+          "store": "Old Beijing Pancake",
+          "product": "Whole Wheat Egg Pancake"
+        },
+        {
+          "store": "Quanzhou Harbor • Soy Milk, Fried Dough Sticks and Fresh Congee Market (Nanchang Main Store)",
+          "product": "Nutritious Century Egg and Lean Pork Congee (Signature)"
+        }
+      ],
+      "search history": [
+        "Low-sugar breakfast",
+        "Whole wheat bread",
+        "Healthy breakfast",
+        "Soy milk"
+      ]
+    },
+    "weekday lunch/dinner": {
+      "frequently purchased categories": [
+        "Quick Meals/Healthy Meals (Average ¥38)",
+        "Quick Meals/Salad (Average ¥32)",
+        "Chinese Cuisine/Cantonese Food (Average ¥45)"
+      ],
+      "cost per order": "¥25~50",
+      "preferred store rating": "4.5~4.8 stars",
+      "preferred delivery time": "20~35 minutes",
+      "preferred distance": "0~4500m",
+      "recent orders": [
+        {
+          "store": "Light Food Philosophy",
+          "product": "Chicken Breast with Quinoa Rice"
+        },
+        {
+          "store": "Salad Diary",
+          "product": "Low-fat Chicken Salad"
+        },
+        {
+          "store": "Cantonese Small Kitchen",
+          "product": "Steamed Fish + Vegetables"
+        }
+      ],
+      "search history": [
+        "Low-sodium dishes",
+        "Healthy lunch",
+        "Light diet",
+        "Weight loss meals"
+      ]
+    },
+    "weekend lunch/dinner": {
+      "frequently purchased categories": [
+        "Chinese Cuisine/Cantonese Food (Average ¥85)",
+        "International Cuisine/Stone Bowl Bibimbap/Teppanyaki Rice (Average ¥65)",
+        "International Cuisine/Japanese Bento/Sushi (Average ¥95)"
+      ],
+      "cost per order": "¥65~120",
+      "preferred store rating": "4.6~4.9 stars",
+      "preferred delivery time": "25~45 minutes",
+      "preferred distance": "0~3500m",
+      "recent orders": [
+        {
+          "store": "Cantonese Pavilion",
+          "product": "Family Set (White Cut Chicken + Stir-fried Seasonal Vegetables + Fish Soup)"
+        },
+        {
+          "store": "Stone Bowl House",
+          "product": "Vegetable Stone Bowl Bibimbap (Less Oil and Salt)"
+        },
+        {
+          "store": "Sushi Tale",
+          "product": "Salmon Sushi + Salad Set"
+        }
+      ],
+      "search history": [
+        "Kid-friendly meals",
+        "Family dinner",
+        "Healthy set meals",
+        "Japanese cuisine"
+      ]
+    },
+    "desserts/drinks/snacks": {
+      "frequently purchased categories": [
+        "desserts/drinks/snacks/Juice (Average ¥22)",
+        "desserts/drinks/snacks/Fruit Salad (Average ¥32)",
+        "desserts/drinks/snacks/Cold Desserts (Average ¥160)"
+      ],
+      "cost per order": "¥15~180",
+      "preferred store rating": "4.0~5.0 stars",
+      "preferred delivery time": "15~70 minutes",
+      "preferred distance": "0~6000m",
+      "recent orders": [
+        {
+          "store": "VC Fresh Juice (Parkson Mall A Store)",
+          "product": "Fresh Orange Juice"
+        },
+        {
+          "store": "Fruit NOW (Parkson Store)",
+          "product": "[Four Mix] Mango + Cantaloupe + Watermelon + Honeydew Melon.600g"
+        },
+        {
+          "store": "DQ • Cake • Ice Cream (Nanchang Wushang MALL Store)",
+          "product": "Vanilla Mochi Ice Cream"
+        }
+      ],
+      "search history": [
+        "Sugar-free drinks",
+        "Low-sugar desserts",
+        "Fresh fruits",
+        "Fruit tea"
+      ]
+    },
+    "night snack": {
+      "frequently purchased categories": [
+        "Quick Meals/Dumplings/Wonton (Average ¥30)",
+        "Quick Meals/Rice Noodles/Vermicelli (Average ¥25)"
+      ],
+      "cost per order": "¥20~40",
+      "preferred store rating": "4.3~4.7 stars",
+      "preferred delivery time": "20~35 minutes",
+      "preferred distance": "0~4200m",
+      "recent orders": [
+        {
+          "store": "Dumpling House",
+          "product": "Three Delicacies Dumplings (Less Salt)"
+        },
+        {
+          "store": "Yunnan Crossing Bridge Rice Noodles",
+          "product": "Clear Broth Rice Noodles"
+        },
+        {
+          "store": "Little Wonton Shop",
+          "product": "Shrimp Wonton (Clear Broth)"
+        }
+      ],
+      "search history": [
+        "Light night snacks",
+        "Less oil and salt",
+        "Light dinner",
+        "Dumplings"
+      ]
+    }
+  },
+  "stores": {
+    "S15949154785780736_S01374": {
+      "name": "VC Fresh Juice (Parkson Mall A Store)",
+      "store_id": "S15949154785780736_S01374",
+      "score": 4.7,
+      "location": {
+        "address": "Parkson Mall (Nanchang Zhongshan Store), No. 177 Zhongshan Road, Donghu District, Nanchang City, Jiangxi Province",
+        "latitude": 28.676476,
+        "longitude": 115.891407
+      },
+      "tags": [],
+      "products": [
+        {
+          "name": "Lychee Apple Snow Pear",
+          "store_id": "S15949154785780736_S01374",
+          "store_name": "VC Fresh Juice (Parkson Mall A Store)",
+          "price": 25,
+          "tags": [
+            "Fresh and Sweet"
+          ],
+          "product_id": "S27196852544252758_P93917",
+          "attributes": [
+            "Less Ice",
+            "Room Temperature",
+            "Regular Ice",
+            "Extra Ice"
+          ],
+          "quantity": 9999
+        },
+        {
+          "name": "Cantaloupe Juice",
+          "product_id": "S86927145801471102_P87717",
+          "store_id": "S15949154785780736_S01374",
+          "store_name": "VC Fresh Juice (Parkson Mall A Store)",
+          "price": 25,
+          "tags": [],
+          "attributes": [],
+          "quantity": 9999
+        },
+        {
+          "name": "Watermelon Juice",
+          "product_id": "S29334239648742074_P86471",
+          "store_id": "S15949154785780736_S01374",
+          "store_name": "VC Fresh Juice (Parkson Mall A Store)",
+          "price": 20,
+          "tags": [],
+          "attributes": [],
+          "quantity": 9999
+        }
+      ]
+    },
+    "S18899744937884355_S71840": {
+      "name": "Baxi Ice Cream Birthday Cake (Nanchang Flagship Store)",
+      "store_id": "S18899744937884355_S71840",
+      "score": 4.3,
+      "location": {
+        "address": "No. 170 Dieshan Road, Donghu District, Nanchang City, Jiangxi Province",
+        "latitude": 28.684609,
+        "longitude": 115.892147
+      },
+      "tags": [],
+      "products": [
+        {
+          "name": "Celebrity LinaBell Fresh Cream Birthday Cake",
+          "store_id": "S18899744937884355_S71840",
+          "store_name": "Baxi Ice Cream Birthday Cake (Nanchang Flagship Store)",
+          "price": 158.8,
+          "tags": [
+            "Fresh Cream",
+            "Girl's Style"
+          ],
+          "product_id": "S14045593901868448_P87353",
+          "attributes": [],
+          "quantity": 9999
+        },
+        {
+          "name": "Go For It Youth\" Fresh Cream Birthday Cake",
+          "product_id": "S11057154452395115_P31268",
+          "store_id": "S18899744937884355_S71840",
+          "store_name": "Baxi Ice Cream Birthday Cake (Nanchang Flagship Store)",
+          "price": 138.8,
+          "tags": [
+            "Boy's Style"
+          ],
+          "attributes": [],
+          "quantity": 9999
+        }
+      ]
+    },
+    "S15257458585503168_S24904": {
+      "name": "CoCo Milk Tea (Lanhai Store)",
+      "store_id": "S15257458585503168_S24904",
+      "score": 4.4,
+      "location": {
+        "address": "CoCo Milk Tea (Lanhai Store), Room B302 (1st Floor), Lantian Bishui Shopping Plaza, No. 118 Qingshan South Road, Donghu District, Nanchang City, Jiangxi Province",
+        "latitude": 28.692835,
+        "longitude": 115.904411
+      },
+      "tags": [],
+      "products": [
+        {
+          "name": "Fresh Lemon Tea",
+          "product_id": "S22259838793646600_P17803",
+          "store_id": "S15257458585503168_S24904",
+          "store_name": "CoCo Milk Tea (Lanhai Store)",
+          "price": 12,
+          "tags": [],
+          "attributes": [],
+          "quantity": 9999
+        }
+      ]
+    },
+    "S25058505555750836_S61804": {
+      "name": "Baxi Ice Cream Cake (Donghu Store)",
+      "store_id": "S25058505555750836_S61804",
+      "score": 4.9,
+      "location": {
+        "address": "Baxi Ice Cream Cake (Donghu Store), No. 35 Houqiang Road, Donghu District, Nanchang City, Jiangxi Province",
+        "latitude": 28.680049,
+        "longitude": 115.88936
+      },
+      "tags": [],
+      "products": [
+        {
+          "name": "[Girl's First Birthday Gift] Cute Little Princess Ice Cream/Fruit Birthday Cake",
+          "product_id": "S17397531382346559_P98152",
+          "store_id": "S25058505555750836_S61804",
+          "store_name": "Baxi Ice Cream Cake (Donghu Store)",
+          "price": 198,
+          "tags": [],
+          "attributes": [],
+          "quantity": 9999
+        }
+      ]
+    }
+  },
+  "orders": {}
+}

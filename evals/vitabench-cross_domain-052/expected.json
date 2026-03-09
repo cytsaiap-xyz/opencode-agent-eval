@@ -1,0 +1,120 @@
+{
+  "required_orders": [
+    {
+      "order_id": "OT960844b251",
+      "order_type": "delivery",
+      "user_id": "U010059",
+      "store_id": "S17550802121554326_S00001",
+      "note": "",
+      "location": {
+        "address": "Room 502, Unit 1, Building 13, Sunac Xingyao Wuzhou, 28 Youyi Road, Hexi District, Tianjin",
+        "longitude": 117.2164,
+        "latitude": 39.1042
+      },
+      "dispatch_time": "2026-04-22 18:23:51",
+      "shipping_time": 27,
+      "delivery_time": "2026-04-22 18:50:51",
+      "total_price": 268,
+      "create_time": "2026-04-22 18:16:12",
+      "update_time": "2026-04-22 18:16:12",
+      "status": "delivered",
+      "products": [
+        {
+          "product_id": "S17550802121554326_P00001",
+          "price": 268,
+          "quantity": 1,
+          "name": "French steak celebration set",
+          "store_id": "S17550802121554326_S00001",
+          "store_name": "Paris Garden French Restaurant",
+          "attributes": "Medium rare",
+          "tags": [
+            "High-end French cuisine"
+          ]
+        }
+      ]
+    },
+    {
+      "book_id": "A0807009T001",
+      "shop_id": "S17550802121554326_I00012",
+      "book_time": "2026-04-23 11:30:00",
+      "update_time": "2026-04-22 18:25:20",
+      "customer_id": "U010059",
+      "customer_count": 4,
+      "book_price": 50,
+      "status": "unconsumed"
+    },
+    {
+      "order_id": "A0807009T002",
+      "order_type": "instore",
+      "user_id": "U010059",
+      "store_id": "S17550802121554326_I00017",
+      "note": "",
+      "location": null,
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 268,
+      "create_time": "2026-04-22 18:27:30",
+      "update_time": "2026-04-22 18:27:30",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17550802121554326_P00088",
+          "name": "Celebration tea set (including Qihong tea)",
+          "price": 268,
+          "shop_id": "S17550802121554326_I00017",
+          "quantity": 1,
+          "tags": [
+            "Medium rare"
+          ],
+          "field": "High-end tea snacks"
+        }
+      ]
+    },
+    {
+      "order_id": "A0807009T003",
+      "order_type": "attraction",
+      "user_id": "U010059",
+      "store_id": "S17550802121554326_A00010",
+      "note": "",
+      "location": {
+        "address": "Xiaonan Mountain Scenic Area, Jinnan District, Tianjin",
+        "longitude": 117.3456,
+        "latitude": 39.0123
+      },
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 35,
+      "create_time": "2026-04-22 18:32:45",
+      "update_time": "2026-04-22 18:32:45",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17550802121554326_P00046",
+          "price": 35,
+          "quantity": 1,
+          "date": "2026-04-23",
+          "ticket_type": "Adult night climbing ticket"
+        }
+      ]
+    }
+  ],
+  "rubrics": [
+    "The delivery address for the takeout order is Room 502, Unit 1, Building 13, Sunac Xingyao Wuzhou, 28 Youyi Road, Hexi District, Tianjin",
+    "The estimated delivery time for the takeout order should be before 19:15:00 on 2026-04-22 (including 19:15:00)",
+    "The takeout order should be from a French or Italian restaurant",
+    "The dishes ordered in the takeout order should be high-end cuisine",
+    "The dishes ordered in the takeout order should avoid offal",
+    "The reserved restaurant should be a Hunan cuisine restaurant",
+    "The reservation is for 4 people",
+    "The restaurant reservation time is 11:30:00 on April 23, 2026",
+    "The reserved restaurant has an average cost of 200 yuan per person",
+    "The tea house in the order should be elegant",
+    "The set in the tea house order should be sufficient for four people",
+    "The set in the tea house order should include Qihong tea",
+    "The merchant in the tea house order should be within 3km of Xiang Yu Restaurant, 128 Nanjing Road, Heping District, Tianjin",
+    "The scenic spot ordered should be within 50km of Room 502, Unit 1, Building 13, Sunac Xingyao Wuzhou, 28 Youyi Road, Hexi District, Tianjin",
+    "The purchased scenic spot tickets should be valid for night use"
+  ]
+}

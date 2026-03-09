@@ -1,0 +1,116 @@
+{
+  "required_orders": [
+    {
+      "order_id": "S17550810646623020_O00004",
+      "order_type": "attraction",
+      "user_id": "U001095",
+      "store_id": "S17550810646623020_A00009",
+      "note": "",
+      "location": {
+        "address": "Wuzhen West Scenic Area, Tongxiang City, Jiaxing, Zhejiang Province",
+        "longitude": 120.4846,
+        "latitude": 30.7444
+      },
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 1200,
+      "create_time": "2024-06-24 15:33:00",
+      "update_time": "2024-06-24 15:33:00",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17550810646623020_P00052",
+          "price": 150,
+          "quantity": 8,
+          "date": "2024-06-30",
+          "ticket_type": "Adult Ticket (2-Hour Boat Tour Experience)"
+        }
+      ]
+    },
+    {
+      "order_id": "S17550810646623020_O00005",
+      "order_type": "attraction",
+      "user_id": "U001095",
+      "store_id": "S17550810646623020_A00010",
+      "note": "",
+      "location": {
+        "address": "Wood Carving Museum, West Scenic Area, Tongxiang City, Jiaxing, Zhejiang Province",
+        "longitude": 120.4851,
+        "latitude": 30.7446
+      },
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 480,
+      "create_time": "2024-06-24 15:35:40",
+      "update_time": "2024-06-24 15:35:40",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17550810646623020_P00062",
+          "price": 120,
+          "quantity": 4,
+          "date": "2024-06-30",
+          "ticket_type": "Wood Carving Experience Workshop Ticket"
+        }
+      ]
+    },
+    {
+      "book_id": "S17550810646623020_B00009",
+      "shop_id": "S17550810646623020_I00018",
+      "book_time": "2024-06-30 18:00:00",
+      "update_time": "2024-06-24 15:37:00",
+      "customer_id": "U001095",
+      "customer_count": 12,
+      "book_price": 100,
+      "status": "unconsumed"
+    },
+    {
+      "order_id": "S17550810646623020_O00007",
+      "order_type": "flight",
+      "user_id": "U001095",
+      "store_id": "S17550810646623020_F00014",
+      "note": "",
+      "location": {
+        "address": "Beijing Capital International Airport, Chaoyang District, Beijing",
+        "longitude": 116.5927,
+        "latitude": 40.0799
+      },
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 1960,
+      "create_time": "2024-06-24 15:40:00",
+      "update_time": "2024-06-24 15:40:00",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17550810646623020_P00089",
+          "price": 980,
+          "quantity": 2,
+          "date": "2024-06-30",
+          "seat_type": "Economy Class"
+        }
+      ]
+    }
+  ],
+  "rubrics": [
+    "The boat tour ticket should be used between 14:00-18:00",
+    "The boat tour ticket order should include 8 tickets",
+    "The boat tour ticket order date should be June 30, 2024",
+    "Other experience activities not involving water activities should be within Wuzhen West Scenic Area",
+    "Other experience activity tickets not involving water activities should be used between 14:00-18:00",
+    "The order for other experience activity tickets not involving water activities should include 4 tickets",
+    "The order date for other experience activity tickets not involving water activities should be June 30, 2024",
+    "The reserved restaurant should be no more than 800 meters from Wuzhen West Scenic Area",
+    "The reserved restaurant should have a Classical Ambiance",
+    "The reserved restaurant should have banquet set meals that can accommodate 12 people",
+    "The restaurant reservation time should be 18:00 on June 30, 2024",
+    "The reservation order should be for 12 people",
+    "The departure date of the flight order should be June 30, 2024",
+    "The take-off time of the flight should be at or after 07:00",
+    "To ensure members can arrive from Hangzhou Airport to Wuzhen for the 14:00 activity on the same day, considering it takes one and a half hours from Hangzhou to Wuzhen, the flight in the ticket order should arrive in Hangzhou at or before 12:30",
+    "The seat type in the flight ticket order should be Economy Class"
+  ]
+}

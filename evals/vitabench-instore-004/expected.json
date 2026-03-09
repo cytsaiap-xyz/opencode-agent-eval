@@ -1,0 +1,84 @@
+{
+  "required_orders": [
+    {
+      "order_id": "10826013T001",
+      "order_type": "instore",
+      "user_id": "U302175",
+      "store_id": "S17564420241411338_I00001",
+      "note": "",
+      "location": null,
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 1104,
+      "create_time": "2024-02-22 15:31:00",
+      "update_time": "2024-02-22 15:31:00",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17564420241411338_P00002",
+          "name": "Latin dance small class (basic introduction)",
+          "price": 138,
+          "quantity": 8
+        }
+      ]
+    },
+    {
+      "reservation_id": "10826013T002",
+      "shop_id": "S17564420241411338_I00001",
+      "reservation_time": "2025-02-27 16:00:00",
+      "update_time": "2024-02-22 15:33:00",
+      "customer_id": "U302175",
+      "customer_count": 8,
+      "status": "paid"
+    },
+    {
+      "order_id": "10826013T003",
+      "order_type": "instore",
+      "user_id": "U302175",
+      "store_id": "S17564420241411338_I00002",
+      "note": "",
+      "location": null,
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 490,
+      "create_time": "2024-02-22 15:35:00",
+      "update_time": "2024-02-22 15:35:00",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17564420241411338_P00006",
+          "name": "Female zone sauna 90 minutes",
+          "price": 98,
+          "quantity": 5
+        }
+      ]
+    },
+    {
+      "reservation_id": "10826013T004",
+      "shop_id": "S17564420241411338_I00002",
+      "reservation_time": "2024-02-27 18:00:00",
+      "update_time": "2024-02-22 15:36:00",
+      "customer_id": "U302175",
+      "customer_count": 5,
+      "status": "paid"
+    }
+  ],
+  "rubrics": [
+    "Latin dance studio merchants must be selected from Latin dance studios/services",
+    "The merchant rating for dance orders must be higher than 4.7 stars",
+    "The dance order package must provide course services with teacher guidance",
+    "The dance order package must be suitable for beginners to experience",
+    "Since the user doesn't want to be with strangers, it's necessary to screen for beginner courses with 6 people per class, which yields no results; therefore, small classes with 8 people per class should be selected, ordering 8 portions",
+    "The appointment time for dance classes must be Saturday at 4 PM (February 27, 2024, 16:00)",
+    "Since the user doesn't want to be with strangers, the number of people for the dance class appointment must be 8",
+    "The appointed dance class merchant should be Dancing Miracle Latin Dance Studio",
+    "The sauna room merchant needs to be within a 2km range of the Latin dance studio (Dancing Miracle Latin Dance Studio, 5th Floor, Building B3, Olympic City Commercial Plaza, Huayuan Industrial Park, Nankai District, Tianjin)",
+    "The sauna room order needs to reserve five single-person sauna items",
+    "The sauna room order package content must be steam bath",
+    "The number of people for the sauna room appointment should be 5",
+    "The appointment time for the sauna room should be half an hour after the Latin class ends; checking the Latin class order shows the Latin class duration is 90 minutes, therefore the sauna room appointment time should be February 27, 2024, 18:00",
+    "The appointed sauna room merchant should be Yuehuan Sauna Club"
+  ]
+}

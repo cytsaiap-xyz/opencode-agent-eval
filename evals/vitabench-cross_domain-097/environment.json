@@ -1,0 +1,986 @@
+{
+  "task_id": "A0807001",
+  "domain": "cross_domain",
+  "time": "2024-10-27 11:46:28",
+  "user_id": "U010067",
+  "weather": [
+    {
+      "city": "Linyi",
+      "category": "cloudy",
+      "datetime": "2024-10-27",
+      "temperature": [
+        15,
+        24
+      ],
+      "humidity": 65
+    },
+    {
+      "city": "Jinan",
+      "category": "sunny",
+      "datetime": "2024-10-27",
+      "temperature": [
+        14,
+        25
+      ],
+      "humidity": 60
+    }
+  ],
+  "location": [
+    {
+      "address": "Tianji Golden Waterfront, 180 meters north of the intersection of Yinqueshan Road and Binhe Road, Lanshan District, Linyi, Shandong Province",
+      "longitude": 118.341258,
+      "latitude": 35.052176
+    },
+    {
+      "address": "Linyi Commercial Center Exhibition Center, Intersection of Tongda Road and Jinqueshan Road, Lanshan District, Linyi, Shandong Province",
+      "longitude": 118.368541,
+      "latitude": 35.071238
+    }
+  ],
+  "user_profile": {
+    "user id": "U010067",
+    "occupation ": "Advertising Planner ",
+    "gender ": "female ",
+    "age group ": "25~30",
+    "residence ": "Linyi ",
+    "residence address ": "Tianji Golden Waterfront, 180 meters north of the intersection of Yinqueshan Road and Binhe Road, Lanshan District, Linyi, Shandong Province ",
+    "work address ": "Jinrun Business Building, 178 Liberation Road, Lanshan District, Linyi, Shandong Province ",
+    "dietary restrictions ": "Avoids heavy oil and spicy food ",
+    "family status ": "In a relationship ",
+    "personality": "Has scattered and jumpy thinking, easily distracted and prone to changing ideas"
+  },
+  "user_historical_behaviors": {
+    "user id": "U010067",
+    "occupation": "Advertising Planner",
+    "gender": "female",
+    "age group": "25~30",
+    "residence": "Linyi",
+    "Permanent address": "Tianji Golden Waterfront, 180 meters north of the intersection of Yinqueshan Road and Binhe Road, Lanshan District, Linyi, Shandong Province",
+    "work address": "Jinrun Business Building, 178 Liberation Road, Lanshan District, Linyi, Shandong Province",
+    "dietary restrictions": "Avoids heavy oil and spicy food",
+    "family status": "In a relationship",
+    "delivery": {
+      "food delivery": {
+        "breakfast": {
+          "frequently purchased categories": [
+            "Quick meals/Baozi/Shengjianbao (average 18 yuan)",
+            "Quick meals/Dumplings/Wonton (average 22 yuan)",
+            "Quick meals/Soy milk/Youtiao (average 12 yuan)"
+          ],
+          "cost per order": "12~35 yuan",
+          "preferred store rating": "4.3~4.8",
+          "preferred delivery time": "15~25 minutes",
+          "preferred distance": "0~1500m",
+          "recent orders": [
+            {
+              "store": "Breakfast Mister",
+              "product": "Signature Three Delicacies Wonton + Soy Milk Set"
+            },
+            {
+              "store": "Shen Da Cheng",
+              "product": "Soup-filled Xiaolongbao"
+            },
+            {
+              "store": "Yonghe Soy Milk",
+              "product": "Youtiao and Soy Milk Set"
+            }
+          ],
+          "search history": [
+            "Baozi",
+            "Wonton",
+            "Soy milk",
+            "Porridge",
+            "Breakfast set"
+          ]
+        },
+        "weekday lunch/dinner": {
+          "frequently purchased categories": [
+            "Quick meals/Rice with toppings (average 32 yuan)",
+            "Quick meals/Stewed chicken with rice (average 28 yuan)",
+            "Quick meals/Light food (average 42 yuan)"
+          ],
+          "cost per order": "25~60 yuan",
+          "preferred store rating": "4.5~4.9",
+          "preferred delivery time": "20~35 minutes",
+          "preferred distance": "0~3000m",
+          "recent orders": [
+            {
+              "store": "Light Food Salad",
+              "product": "Quinoa Chicken Breast Salad"
+            },
+            {
+              "store": "Stewed Chicken Rice",
+              "product": "Mild Spicy Stewed Chicken Rice"
+            },
+            {
+              "store": "Jixiang Wonton",
+              "product": "Three Delicacies Wonton + Side Dish"
+            }
+          ],
+          "search history": [
+            "Light food",
+            "Low-fat",
+            "Salad",
+            "Stewed chicken",
+            "Healthy meal"
+          ]
+        },
+        "weekend lunch/dinner": {
+          "frequently purchased categories": [
+            "Chinese cuisine/Sichuan Cuisine (average 88 yuan)",
+            "International cuisine/Korean cuisine (average 95 yuan)",
+            "Hot pots/Individual hot pot (average 78 yuan)"
+          ],
+          "cost per order": "60~180 yuan",
+          "preferred store rating": "4.6~5.0",
+          "preferred delivery time": "30~45 minutes",
+          "preferred distance": "0~5000m",
+          "recent orders": [
+            {
+              "store": "Mom's Pork Trotter Soup",
+              "product": "Signature Trotter Soup + Rice"
+            },
+            {
+              "store": "Korean Cuisine",
+              "product": "Stone Pot Bibimbap + Kimchi Soup"
+            },
+            {
+              "store": "Xiaolongkan Hot Pot",
+              "product": "Signature Beef Individual Hot Pot (Tomato Base)"
+            }
+          ],
+          "search history": [
+            "Sichuan Cuisine",
+            "Korean cuisine",
+            "Individual hot pot",
+            "Stone pot bibimbap"
+          ]
+        },
+        "desserts/drinks/snacks": {
+          "frequently purchased categories": [
+            "Drinks and desserts/Juice (average 23 yuan)",
+            "Drinks and desserts/Chinese pastries (average 32 yuan)",
+            "Drinks and desserts/Fruit desserts (average 38 yuan)"
+          ],
+          "cost per order": "15~45 yuan",
+          "preferred store rating": "4.4~4.9",
+          "preferred delivery time": "15~30 minutes",
+          "preferred distance": "0~2500m",
+          "recent orders": [
+            {
+              "store": "Fresh Juice Shop",
+              "product": "Mango Coconut Milk Smoothie"
+            },
+            {
+              "store": "Honeymoon Dessert",
+              "product": "Mango Pomelo Sago"
+            },
+            {
+              "store": "Fresh Fruit Bowl",
+              "product": "Colorful Fruit Mix"
+            }
+          ],
+          "search history": [
+            "Juice",
+            "Dessert",
+            "Fruit mix",
+            "Freshly squeezed"
+          ]
+        },
+        "night snack": {
+          "frequently purchased categories": [
+            "BBQ and fried food/Fried chicken/Fried items (average 45 yuan)",
+            "Quick meals/Dumplings/Wonton (average 32 yuan)",
+            "Hot pots/Spicy hot pot/Oden (average 28 yuan)"
+          ],
+          "cost per order": "20~55 yuan",
+          "preferred store rating": "4.2~4.8",
+          "preferred delivery time": "25~40 minutes",
+          "preferred distance": "0~3000m",
+          "recent orders": [
+            {
+              "store": "Zhengxin Chicken Steak",
+              "product": "Spicy Chicken Steak"
+            },
+            {
+              "store": "Dumpling House",
+              "product": "Three Delicacies Dumplings"
+            },
+            {
+              "store": "Yang Guofu Spicy Hot Pot",
+              "product": "Signature Spicy Hot Pot"
+            }
+          ],
+          "search history": [
+            "Chicken steak",
+            "Spicy Hot Pot",
+            "Dumplings",
+            "Night snack"
+          ]
+        }
+      },
+      "product delivery": {
+        "frequently purchased categories": [
+          "Vegetables/Bean products(30%)",
+          "Fruits(22%)",
+          "Household items(15%)",
+          "Raw meat/Poultry/Eggs(12%)",
+          "Flowers and gardening(10%)",
+          "Others(11%)"
+        ],
+        "frequently visited stores": [
+          "Linyi Wanjia Supermarket(38%)",
+          "Xiangxiang Fresh(27%)",
+          "Xianfeng Fruits(18%)",
+          "Other stores(17%)"
+        ],
+        "cost per order by category": {
+          "Vegetables/Bean products": "5~25 yuan",
+          "Fruits": "10~40 yuan",
+          "Household items": "15~50 yuan",
+          "Raw meat/Poultry/Eggs": "20~60 yuan",
+          "Flowers and gardening": "30~100 yuan"
+        },
+        "preferred delivery time": "30~60 minutes",
+        "typical order time": "18~20(35%), 10~12(25%), 14~16(20%)",
+        "recent orders": [
+          {
+            "store": "Linyi Wanjia Supermarket",
+            "product": "Organic Vegetable Set"
+          },
+          {
+            "store": "Xiangxiang Fresh",
+            "product": "Fresh Strawberries 500g"
+          },
+          {
+            "store": "Xianfeng Fruits",
+            "product": "Imported Avocados 3pcs"
+          }
+        ],
+        "search history": [
+          "Organic vegetables",
+          "Strawberries",
+          "Avocado",
+          "Laundry detergent",
+          "Succulents",
+          "Tofu"
+        ]
+      }
+    },
+    "in-store consumption": {
+      "in-store dining": {
+        "fine-dining": {
+          "frequently consumed categories": [
+            "Regional cuisine/Sichuan Cuisine (average 85 yuan)",
+            "Foreign cuisine/Japanese Cuisine (average 120 yuan)",
+            "Regional cuisine/Cantonese Cuisine (average 95 yuan)"
+          ],
+          "preferred average price per person": "80~120 yuan",
+          "preferred store rating": "4.2~4.8 stars",
+          "typical dining time": "18:30-20:30",
+          "preferred distance": "0~500m",
+          "recent orders": [
+            {
+              "store": "Hemu Japanese Cuisine",
+              "product": "Sushi Platter Set"
+            },
+            {
+              "store": "Tianfu Sichuan Cuisine",
+              "product": "Steamed Osmanthus Fish Set for Two"
+            },
+            {
+              "store": "Yue Zhen Xuan",
+              "product": "Fresh Shrimp Wonton Noodles"
+            }
+          ],
+          "search history": [
+            "Less oil and spice restaurant",
+            "Japanese Cuisine",
+            "Cantonese Cuisine",
+            "Healthy Sichuan dishes"
+          ]
+        },
+        "light meal": {
+          "frequently consumed categories": [
+            "Snacks and fast food/Chinese quick meals (average 35 yuan)",
+            "Snacks and fast food/Western fast food (average 42 yuan)"
+          ],
+          "preferred average price per person": "25~45 yuan",
+          "preferred store rating": "3.5~4.3 stars",
+          "typical dining time": "12:00-13:30",
+          "preferred distance": "0~600m",
+          "recent orders": [
+            {
+              "store": "Fresh Soup Wonton",
+              "product": "Signature Wonton Noodles"
+            },
+            {
+              "store": "Salad Story",
+              "product": "Light Food Salad Set"
+            },
+            {
+              "store": "Stewed Chicken Rice",
+              "product": "Mild Spicy Stewed Chicken"
+            }
+          ],
+          "search history": [
+            "Light food",
+            "Healthy quick meal",
+            "Low-oil fast food",
+            "Wonton noodles"
+          ]
+        },
+        "desserts/drinks/snacks": {
+          "frequently consumed categories": [
+            "Beverage shops (average 18 yuan)",
+            "Bread and desserts (average 25 yuan)"
+          ],
+          "preferred average price per person": "15~30 yuan",
+          "preferred store rating": "4.0~4.6 stars",
+          "typical dining time": "15:00-16:30",
+          "preferred distance": "0~800m",
+          "recent orders": [
+            {
+              "store": "Nayuki Tea",
+              "product": "Sugar-free Jasmine Tea"
+            },
+            {
+              "store": "Bread Talk",
+              "product": "Whole Wheat Bread"
+            },
+            {
+              "store": "Fresh Fruit Tea",
+              "product": "Honey Grapefruit Tea"
+            }
+          ],
+          "search history": [
+            "Sugar-free drinks",
+            "Low-sugar desserts",
+            "Whole wheat bread",
+            "Fruit tea"
+          ]
+        }
+      },
+      "other in-store services": {
+        "frequently consumed categories": {
+          "Beauty/Yoga": "40%",
+          "Sports and fitness/Fitness center": "35%",
+          "Leisure and entertainment/Massage/Foot therapy": "15%",
+          "Leisure and entertainment/Tea house": "10%"
+        },
+        "cost per order by category": {
+          "Beauty/Yoga": "120~200 yuan",
+          "Sports and fitness/Fitness center": "80~150 yuan",
+          "Leisure and entertainment/Massage/Foot therapy": "100~180 yuan",
+          "Leisure and entertainment/Tea house": "60~120 yuan"
+        },
+        "preferred store rating": "4.0~4.8 stars",
+        "preferred service time": "18:00-21:00",
+        "preferred distance": "0~3000m",
+        "recent orders": [
+          {
+            "store": "Yuexin Yoga",
+            "product": "Advanced Yoga Class for One"
+          },
+          {
+            "store": "Kangjian Fitness Center",
+            "product": "Monthly Fitness Package"
+          },
+          {
+            "store": "Elegant Tea House",
+            "product": "Organic Tea Set"
+          }
+        ],
+        "search history": [
+          "Yoga training",
+          "Women's fitness",
+          "Stress-relief massage",
+          "Organic tea house"
+        ]
+      }
+    },
+    "OTA": {
+      "visited scenes": {
+        "Cultural heritage sites": "35%",
+        "Natural landscapes (mountains/lakes/forests)": "25%",
+        "Exhibition halls (museums/art galleries)": "20%",
+        "Hot spring resorts": "15%",
+        "Special villages/Industrial tourism/Uncategorized projects": "5%"
+      },
+      "cost per night on hotel": "500~1000 yuan",
+      "visited hotels": {
+        "Atour": "40%",
+        "JI Hotel": "25%",
+        "Orange Hotel": "20%",
+        "Vienna Hotel": "15%"
+      },
+      "browsed hotels": {
+        "Four-star hotels": "30%",
+        "Three-star hotels": "25%",
+        "Comfort hotels": "35%",
+        "Economy hotels": "10%"
+      },
+      "historical travel plans": {
+        "Linyi-Beijing": {
+          "price range": "400-600 yuan",
+          "transportation": "High-Speed Rail"
+        },
+        "Linyi-Shanghai": {
+          "price range": "500-700 yuan",
+          "transportation": "High-Speed Rail"
+        },
+        "Linyi-Hangzhou": {
+          "price range": "600-800 yuan",
+          "transportation": "High-Speed Rail"
+        },
+        "Linyi-Qingdao": {
+          "price range": "150-250 yuan",
+          "transportation": "Long-distance bus"
+        },
+        "Linyi-Jinan": {
+          "price range": "100-200 yuan",
+          "transportation": "High-Speed Rail"
+        },
+        "Linyi-Suzhou": {
+          "price range": "500-700 yuan",
+          "transportation": "High-Speed Rail"
+        }
+      }
+    }
+  },
+  "stores": {
+    "S17550811928169174_S00005": {
+      "name": "Yue Cha Ge",
+      "store_id": "S17550811928169174_S00005",
+      "score": 4.7,
+      "location": {
+        "address": "Yue Cha Ge, 25 Yinqueshan Road, Lanshan District, Linyi, Shandong Province",
+        "latitude": 35.052356,
+        "longitude": 118.342158
+      },
+      "tags": [
+        "High-End Tea",
+        "Gift Box Packaging",
+        "Ideal Gift",
+        "Quality Guaranteed",
+        "Fast Delivery"
+      ],
+      "store_type": "target",
+      "products": [
+        {
+          "name": "High Mountain Tieguanyin Gift Box",
+          "store_id": "S17550811928169174_S00005",
+          "store_name": "Yue Cha Ge",
+          "price": 688,
+          "tags": [
+            "High-End Tea",
+            "Gift Box Set",
+            "Anxi Tieguanyin Tea",
+            "Excellent Gift Choice",
+            "Exquisite Packaging"
+          ],
+          "product_id": "S17550811928169174_P00021",
+          "attributes": [
+            "250g Package",
+            "Premium Grade",
+            "Light Fragrance Type"
+          ],
+          "product_type": "target"
+        },
+        {
+          "name": "Jin Jun Mei Sample Gift Box",
+          "store_id": "S17550811928169174_S00005",
+          "store_name": "Yue Cha Ge",
+          "price": 418,
+          "tags": [
+            "High-End Tea",
+            "Jin Jun Mei Tea",
+            "Exquisite Gift Box",
+            "Top Gift Choice",
+            "High-End Packaging"
+          ],
+          "product_id": "S17550811928169174_P00022",
+          "attributes": [
+            "200g Package",
+            "Premium Grade",
+            "Zhengshan Xiaozhong"
+          ],
+          "product_type": "target"
+        },
+        {
+          "name": "West Lake Longjing Gift Box",
+          "store_id": "S17550811928169174_S00005",
+          "store_name": "Yue Cha Ge",
+          "price": 698,
+          "tags": [
+            "High-End Tea",
+            "Pre-Qingming Longjing Tea",
+            "Elegant Gift Box",
+            "Ideal Gift",
+            "High-End Packaging"
+          ],
+          "product_id": "S17550811928169174_P00023",
+          "attributes": [
+            "200g Package",
+            "Premium Grade",
+            "Pre-Qingming"
+          ],
+          "product_type": "target"
+        },
+        {
+          "name": "Wuyi Da Hong Pao Gift Box",
+          "store_id": "S17550811928169174_S00005",
+          "store_name": "Yue Cha Ge",
+          "price": 688,
+          "tags": [
+            "High-End Tea",
+            "Wuyi Rock Tea",
+            "Da Hong Pao Tea",
+            "Luxury Gift Box",
+            "Business Gift-Giving"
+          ],
+          "product_id": "S17550811928169174_P00024",
+          "attributes": [
+            "200g Package",
+            "Premium Grade",
+            "Rock Flavor"
+          ],
+          "product_type": "target"
+        },
+        {
+          "name": "Pu'er Tea Cake Gift Box",
+          "store_id": "S17550811928169174_S00005",
+          "store_name": "Yue Cha Ge",
+          "price": 268,
+          "tags": [
+            "Pu'er Tea",
+            "Gift Box Set",
+            "Ripe Tea",
+            "Collection Value"
+          ],
+          "product_id": "S17550811928169174_P00025",
+          "attributes": [
+            "357g/cake",
+            "5 Years Aged"
+          ],
+          "product_type": "distraction"
+        },
+        {
+          "name": "Simple Package of Jasmine Tea",
+          "store_id": "S17550811928169174_S00005",
+          "store_name": "Yue Cha Ge",
+          "price": 158,
+          "tags": [
+            "Jasmine Tea",
+            "Light Fragrance Type",
+            "Daily Drinking"
+          ],
+          "product_id": "S17550811928169174_P00026",
+          "attributes": [
+            "200g Package",
+            "Premium Grade"
+          ],
+          "product_type": "distraction"
+        }
+      ]
+    },
+    "S17550811928169174_S00006": {
+      "name": "Yayun Tea House",
+      "store_id": "S17550811928169174_S00006",
+      "score": 4.8,
+      "location": {
+        "address": "Yayun Tea House, 156 Tongda Road, Lanshan District, Linyi, Shandong Province",
+        "latitude": 35.069853,
+        "longitude": 118.365741
+      },
+      "tags": [
+        "High-End Tea",
+        "Gift Box Packaging",
+        "Ideal Gift",
+        "Quality Guaranteed",
+        "Fast Delivery"
+      ],
+      "store_type": "target",
+      "products": [
+        {
+          "name": "Wuyi Mountain Jin Jun Mei Gift Box",
+          "store_id": "S17550811928169174_S00006",
+          "store_name": "Yayun Tea House",
+          "price": 498,
+          "tags": [
+            "High-End Tea",
+            "Ideal Gift",
+            "Authentic Wuyi Mountain",
+            "Elegant Packaging"
+          ],
+          "product_id": "S17550811928169174_P00027",
+          "attributes": [
+            "Premium Grade"
+          ],
+          "product_type": "target"
+        },
+        {
+          "name": "West Lake Longjing Deluxe Gift Box",
+          "store_id": "S17550811928169174_S00006",
+          "store_name": "Yayun Tea House",
+          "price": 688,
+          "tags": [
+            "High-End Tea",
+            "Pre-Qingming Longjing Tea",
+            "Gift Box Packaging",
+            "Ideal Gift",
+            "Elegant Design",
+            "National Gift Grade"
+          ],
+          "product_id": "S17550811928169174_P00028",
+          "attributes": [
+            "200g/box",
+            "Premium Grade"
+          ],
+          "product_type": "target"
+        },
+        {
+          "name": "Anxi Tieguanyin Premium Gift Box",
+          "store_id": "S17550811928169174_S00006",
+          "store_name": "Yayun Tea House",
+          "price": 688,
+          "tags": [
+            "High-End Tea",
+            "Gift Box Packaging",
+            "Ideal Gift",
+            "Tieguanyin Tea",
+            "Oolong Tea",
+            "Business Gift"
+          ],
+          "product_id": "S17550811928169174_P00029",
+          "attributes": [
+            "300g/box",
+            "Premium Grade"
+          ],
+          "product_type": "target"
+        },
+        {
+          "name": "Premium Purple Clay Tea Set",
+          "store_id": "S17550811928169174_S00006",
+          "store_name": "Yayun Tea House",
+          "price": 598,
+          "tags": [
+            "High-End",
+            "Gift Box Packaging",
+            "Ideal Gift",
+            "Collector's Grade"
+          ],
+          "product_id": "S17550811928169174_P00030",
+          "attributes": [],
+          "product_type": "distraction"
+        },
+        {
+          "name": "Simple Package of Jasmine Tea",
+          "store_id": "S17550811928169174_S00006",
+          "store_name": "Yayun Tea House",
+          "price": 128,
+          "tags": [
+            "Jasmine Tea",
+            "Light Fragrance Type",
+            "Daily Drinking",
+            "Gift-Giving"
+          ],
+          "product_id": "S17550811928169174_P00031",
+          "attributes": [
+            "150g/box",
+            "Premium Grade"
+          ],
+          "product_type": "distraction"
+        }
+      ]
+    },
+    "S17550811928169174_S00007": {
+      "name": "Pu'er Family",
+      "store_id": "S17550811928169174_S00007",
+      "score": 4.6,
+      "location": {
+        "address": "Pu'er Family, 220 Fengcheng Road, Lanshan District, Linyi, Shandong Province",
+        "latitude": 35.152176,
+        "longitude": 118.441258
+      },
+      "tags": [
+        "Pu'er Tea",
+        "Gift Box",
+        "Tea Set",
+        "Next-Day Delivery"
+      ],
+      "store_type": "distraction",
+      "products": [
+        {
+          "name": "Platinum Grade Pu'er Tea Gift Box",
+          "store_id": "S17550811928169174_S00007",
+          "store_name": "Pu'er Family",
+          "price": 688,
+          "tags": [
+            "High-End Gift Box",
+            "Exquisite Packaging",
+            "Ideal Gift",
+            "Pu'er Tea"
+          ],
+          "product_id": "S17550811928169174_P00032",
+          "attributes": [
+            "Ripe Tea",
+            "150g*2 cakes"
+          ],
+          "product_type": "target"
+        },
+        {
+          "name": "Premium Yunnan Pu'er Tea Gift Box",
+          "store_id": "S17550811928169174_S00007",
+          "store_name": "Pu'er Family",
+          "price": 498,
+          "tags": [
+            "High-End Gift Box",
+            "Elegant Packaging",
+            "Pu'er Tea",
+            "Business Gift"
+          ],
+          "product_id": "S17550811928169174_P00033",
+          "attributes": [
+            "Raw Tea",
+            "100g*2 cakes"
+          ],
+          "product_type": "target"
+        },
+        {
+          "name": "Imperial Pu'er Tea Gift Box",
+          "store_id": "S17550811928169174_S00007",
+          "store_name": "Pu'er Family",
+          "price": 899,
+          "tags": [
+            "High-End Tea",
+            "Luxury Gift Box",
+            "Collector's Grade",
+            "Pu'er Tea"
+          ],
+          "product_id": "S17550811928169174_P00034",
+          "attributes": [
+            "Ripe Tea",
+            "200g*2 cakes"
+          ],
+          "product_type": "distraction"
+        },
+        {
+          "name": "Pu'er Tea Tasting Set",
+          "store_id": "S17550811928169174_S00007",
+          "store_name": "Pu'er Family",
+          "price": 268,
+          "tags": [
+            "Tea Gift Box",
+            "Sample Set",
+            "Tasting Set",
+            "Pu'er Tea"
+          ],
+          "product_id": "S17550811928169174_P00035",
+          "attributes": [
+            "Raw Tea + Ripe Tea",
+            "50g*4 bags"
+          ],
+          "product_type": "distraction"
+        },
+        {
+          "name": "Traditional Purple Clay Tea Set",
+          "store_id": "S17550811928169174_S00007",
+          "store_name": "Pu'er Family",
+          "price": 588,
+          "tags": [
+            "Purple Clay Tea Set",
+            "Gift Box Set",
+            "Business Gift",
+            "Traditional Craftsmanship"
+          ],
+          "product_id": "S17550811928169174_P00036",
+          "attributes": [
+            "One pot four cups",
+            "Gift Box Set"
+          ],
+          "product_type": "distraction"
+        }
+      ]
+    }
+  },
+  "orders": {
+    "S17550811928169174_O00001": {
+      "order_id": "S17550811928169174_O00001",
+      "order_type": "delivery",
+      "user_id": "U010067",
+      "store_id": "S17550811928169174_S00001",
+      "total_price": 38.8,
+      "create_time": "2024-10-25 12:05:23",
+      "status": "delivered",
+      "products": [
+        {
+          "product_id": "S17550811928169174_P00003",
+          "price": 38.8,
+          "quantity": 1
+        }
+      ]
+    },
+    "S17550811928169174_O00002": {
+      "order_id": "S17550811928169174_O00002",
+      "order_type": "delivery",
+      "user_id": "U010067",
+      "store_id": "S17550811928169174_S00002",
+      "total_price": 38.0,
+      "create_time": "2024-10-23 12:15:35",
+      "status": "delivered",
+      "products": [
+        {
+          "product_id": "S17550811928169174_P00006",
+          "price": 38.0,
+          "quantity": 1
+        }
+      ]
+    },
+    "S17550811928169174_O00003": {
+      "order_id": "S17550811928169174_O00003",
+      "order_type": "delivery",
+      "user_id": "U010067",
+      "store_id": "S17550811928169174_S00002",
+      "total_price": 42.0,
+      "create_time": "2024-10-20 12:10:15",
+      "status": "delivered",
+      "products": [
+        {
+          "product_id": "S17550811928169174_P00007",
+          "price": 42.0,
+          "quantity": 1
+        }
+      ]
+    },
+    "S17550811928169174_O00004": {
+      "order_id": "S17550811928169174_O00004",
+      "order_type": "train",
+      "user_id": "U010067",
+      "store_id": "S17550811928169174_T00008",
+      "note": "Business Trip",
+      "location": {
+        "address": "Linyi Station, Yimeng Road, Lanshan District, Linyi, Shandong Province",
+        "longitude": 118.342187,
+        "latitude": 35.075632
+      },
+      "dispatch_time": "",
+      "shipping_time": 0.0,
+      "delivery_time": "",
+      "total_price": 142.0,
+      "create_time": "2024-10-15 09:25:18",
+      "update_time": "2024-10-15 09:25:18",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17550811928169174_P00037",
+          "price": 142.0,
+          "quantity": 1,
+          "seat_type": "Second Class Seat"
+        }
+      ]
+    },
+    "S17550811928169174_O00005": {
+      "order_id": "S17550811928169174_O00005",
+      "order_type": "train",
+      "user_id": "U010067",
+      "store_id": "S17550811928169174_T00009",
+      "note": "Return Trip",
+      "location": {
+        "address": "Jinan Station, Tianqiao District, Jinan, Shandong Province",
+        "longitude": 116.985412,
+        "latitude": 36.678215
+      },
+      "dispatch_time": "",
+      "shipping_time": 0.0,
+      "delivery_time": "",
+      "total_price": 185.0,
+      "create_time": "2024-10-01 14:32:45",
+      "update_time": "2024-10-01 14:32:45",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17550811928169174_P00043",
+          "price": 185.0,
+          "quantity": 1,
+          "seat_type": "Second Class Seat"
+        }
+      ]
+    },
+    "S17550811928169174_O00006": {
+      "order_id": "S17550811928169174_O00006",
+      "order_type": "train",
+      "user_id": "U010067",
+      "store_id": "S17550811928169174_T00008",
+      "note": "Business Trip to Qingdao",
+      "location": {
+        "address": "Linyi Station, Yimeng Road, Lanshan District, Linyi, Shandong Province",
+        "longitude": 118.342187,
+        "latitude": 35.075632
+      },
+      "dispatch_time": "",
+      "shipping_time": 0.0,
+      "delivery_time": "",
+      "total_price": 227.0,
+      "create_time": "2024-09-20 16:45:12",
+      "update_time": "2024-09-20 16:45:12",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17550811928169174_P00038",
+          "price": 227.0,
+          "quantity": 1,
+          "seat_type": "First Class Seat"
+        }
+      ]
+    },
+    "S17550811928169174_O00007": {
+      "order_id": "S17550811928169174_O00007",
+      "order_type": "instore",
+      "user_id": "U010067",
+      "store_id": "S17550811928169174_I00017",
+      "total_price": 128.0,
+      "create_time": "2024-10-26 19:15:32",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17550811928169174_P00086",
+          "price": 128.0,
+          "quantity": 1
+        }
+      ]
+    },
+    "S17550811928169174_O00008": {
+      "order_id": "S17550811928169174_O00008",
+      "order_type": "instore",
+      "user_id": "U010067",
+      "store_id": "S17550811928169174_I00014",
+      "total_price": 988.0,
+      "create_time": "2024-10-21 18:45:23",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17550811928169174_P00071",
+          "price": 988.0,
+          "quantity": 1
+        }
+      ]
+    },
+    "S17550811928169174_O00009": {
+      "order_id": "S17550811928169174_O00009",
+      "order_type": "instore",
+      "user_id": "U010067",
+      "store_id": "S17550811928169174_S00005",
+      "total_price": 498.0,
+      "create_time": "2024-10-17 15:30:45",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17550811928169174_P00023",
+          "price": 498.0,
+          "quantity": 1
+        }
+      ]
+    }
+  }
+}

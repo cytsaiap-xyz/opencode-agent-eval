@@ -1,0 +1,91 @@
+{
+  "required_orders": [
+    {
+      "order_id": "OO1eeb17d077",
+      "order_type": "attraction",
+      "user_id": "U084589",
+      "store_id": "S17550812240785286_A00005",
+      "note": "",
+      "location": null,
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 380,
+      "create_time": "2025-05-16 10:24:33",
+      "update_time": "2025-05-16 10:24:33",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17550812240785286_P00022",
+          "price": 380,
+          "quantity": 1,
+          "date": "2025-05-17",
+          "ticket_type": "Unlimited Pass for Two"
+        }
+      ]
+    },
+    {
+      "order_id": "A0811003T001",
+      "order_type": "delivery",
+      "user_id": "U084589",
+      "store_id": "S17550812240785286_S00002",
+      "note": "",
+      "location": {
+        "address": "Sichuan Provincial People's Hospital, 17 South Renmin Road Section 3, Wuhou District, Chengdu, Sichuan Province",
+        "longitude": 104.0688,
+        "latitude": 30.6339
+      },
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 26.9,
+      "create_time": "2025-05-16 10:25:41",
+      "update_time": "2025-05-16 10:25:41",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17550812240785286_P00006",
+          "name": "Mini USB Neck Fan",
+          "price": 26.9,
+          "quantity": 1,
+          "attributes": "White",
+          "tags": [
+            "USB Charging",
+            "Portable",
+            "Three-speed Fan",
+            "Silent Design"
+          ]
+        }
+      ]
+    },
+    {
+      "book_id": "A0811003T002",
+      "shop_id": "S17550812240785286_I00010",
+      "book_time": "2025-05-17 19:00:00",
+      "update_time": "2025-05-16 10:26:42",
+      "customer_id": "U084589",
+      "customer_count": 2,
+      "book_price": 0,
+      "status": "unpaid"
+    }
+  ],
+  "rubrics": [
+    "The purchased tickets allow unlimited access to all attractions",
+    "The purchased tickets are valid for two people",
+    "The purchased tickets are the most economical option, search results should be the Unlimited Pass for Two at Chengdu Happy Valley",
+    "The quantity of tickets in the Happy Valley order should be 1",
+    "The purchased tickets are for May 17, 2025",
+    "The purchased tickets are valid for the entire day",
+    "Search results show that two fans exceeding a total price of 50 yuan are unavailable, so the delivery order should include one fan",
+    "The product in the delivery order should be wearable around the neck",
+    "The product in the delivery order should be the lowest-priced item in its category, search results should show the Mini USB Neck Fan from Tech Lifestyle Store",
+    "The delivery address for the order should be Sichuan Provincial People's Hospital, 17 South Renmin Road Section 3, Wuhou District, Chengdu, Sichuan Province",
+    "The delivery time should be before 12:30:00 on May 16, 2025",
+    "The restaurant reservation should be for 19:00:00 on May 17, 2025",
+    "The restaurant reservation should be for 2 people",
+    "The reserved restaurant should offer fish and frog buffet sets",
+    "The buffet set at the reserved restaurant should include soup base",
+    "The buffet set at the reserved restaurant should not exceed 70 yuan per person",
+    "The reserved restaurant should have a rating of 4.2 or higher"
+  ]
+}

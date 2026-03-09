@@ -1,0 +1,72 @@
+{
+  "required_orders": [
+    {
+      "order_id": "10826234T001",
+      "order_type": "instore",
+      "user_id": "U809398",
+      "store_id": "S17567841558014419_I00001",
+      "note": "",
+      "location": null,
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 52,
+      "create_time": "2025-03-25 10:48:21",
+      "update_time": "2025-03-25 10:48:21",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17567841558014419_P00001",
+          "name": "Weekday individual package",
+          "price": 52,
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "book_id": "10826234T002",
+      "shop_id": "S17567841558014419_I00001",
+      "book_time": "2025-03-25 12:00:00",
+      "update_time": "2025-03-25 10:50:21",
+      "customer_id": "U809398",
+      "customer_count": 1,
+      "book_price": 10,
+      "status": "paid"
+    },
+    {
+      "order_id": "10826234T003",
+      "order_type": "instore",
+      "user_id": "U809398",
+      "store_id": "S17567841558014419_I00003",
+      "note": "",
+      "location": null,
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 46,
+      "create_time": "2025-03-25 10:52:21",
+      "update_time": "2025-03-25 10:52:21",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17567841558014419_P00019",
+          "name": "Shoulder and neck soothing massage (30 minutes)",
+          "price": 46,
+          "quantity": 1
+        }
+      ]
+    }
+  ],
+  "rubrics": [
+    "The restaurant ordered should be a Jiangxi cuisine restaurant",
+    "The distance from the ordered restaurant to Room 503, Lawyers Building of Shanxi Provincial Justice Department, No.9 Fuxi Street, Xinghualing District, Taiyuan City should be within 3km (including 3km)",
+    "The ordered items from the restaurant should be available on weekdays",
+    "The ordered items from the restaurant should be an individual package",
+    "The ordered items from the restaurant should include Main course, Side dish and Beverage",
+    "The reserved restaurant should be Gan Xiang Lou",
+    "The restaurant reservation time should be 2025-03-25 12:00:00",
+    "The number of people for the restaurant reservation should be 1",
+    "The ordered item from the massage shop should be a Shoulder and neck massage package",
+    "According to the query, the price of the restaurant ordered item is 52 yuan, so the price of the massage shop ordered item should be less than or equal to 48 yuan"
+  ]
+}

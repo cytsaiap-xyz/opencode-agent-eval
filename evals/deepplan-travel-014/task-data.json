@@ -1,0 +1,47 @@
+{
+  "task_id": "13",
+  "query": "I plan to travel from Guiyang to Guilin for a two-day trip on November 12, 2025, and return on November 13, 2025. Could you please help me plan the itinerary, including transportation, hotel, dining, and sightseeing arrangements? The total budget for this trip should be within 2600 yuan， please consider it in the plan.\n\nFirst, I’d like to take the earliest departing direct train to Guilin so I can arrive early and have more time. For accommodation, I’d prefer a comfortable stay—ideally a four-star hotel—and it must offer SPA services, as I want to relax during this trip. Regarding meals, there’s one place I definitely want to visit: I’ve heard that 'Asia Music Restaurant' is quite special, so please arrange one meal there for me. Also, I’d like to have a meal at the highest-rated restaurant near 'Impression Liu Sanjie'—I’ve heard there are many great dining options around there. Could you please check which one is the most worthwhile?\n\nThese are basically all my requirements. I believe I’ve provided sufficient information, so feel free to start planning the itinerary based on these conditions. Please work within this framework regarding budget and other details—no need to ask for further clarification. Thanks so much for your help! November 12, 2025 is Wednesday",
+  "meta_info": {
+    "org": "Guiyang",
+    "dest": [
+      "Guilin"
+    ],
+    "days": 2,
+    "depart_date": "2025-11-12",
+    "return_date": "2025-11-13",
+    "people_number": 1,
+    "room_number": 1
+  },
+  "hard_constraints": {
+    "train_earliest_departure_direct": {
+      "constraint_context": "Please help me choose the earliest departure direct train for the outbound journey",
+      "constraint_type": "superlative_earliest_departure",
+      "outbound_train_no": "D1851"
+    },
+    "hotel_star_service_required": {
+      "constraint_context": "Please select a 4-star hotel that offers SPA services for accommodation.",
+      "constraint_type": "superlative_star_service_required",
+      "hotel_name": "Guilin Two Rivers and Four Lakes Elephant Trunk Hill Atour Hotel",
+      "required_service": "SPA Service",
+      "hotel_star": 4,
+      "hotel_price": 333.0
+    },
+    "restaurant_must_eat_named": {
+      "constraint_context": "The itinerary must include one meal at 'Asia Music Restaurant'.",
+      "constraint_type": "superlative_must_eat_named",
+      "restaurant_name": "Asia Music Restaurant",
+      "restaurant_rating": 4.8
+    },
+    "restaurant_highest_rated": {
+      "constraint_context": "During the trip, please arrange a meal at the highest-rated restaurant near 'Impression Liu Sanjie'.",
+      "constraint_type": "superlative_highest_rated_restaurant",
+      "attraction_name": "Impression Liu Sanjie",
+      "restaurant_name": "Asia Music Restaurant",
+      "price_per_person": 83.0,
+      "restaurant_rating": 4.8
+    },
+    "budget_constraint": {
+      "max_budget": 2600
+    }
+  }
+}

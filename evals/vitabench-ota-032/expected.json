@@ -1,0 +1,98 @@
+{
+  "required_orders": [
+    {
+      "order_id": "D0812002T001",
+      "order_type": "train",
+      "user_id": "U010098",
+      "store_id": "S17557505488732992_T00010",
+      "note": "",
+      "location": null,
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 356,
+      "create_time": "2025-02-27 11:53:39",
+      "update_time": "2025-02-27 11:53:39",
+      "status": "unpaid",
+      "products": [
+        {
+          "product_id": "S17557505488732992_P00065",
+          "price": 178,
+          "quantity": 2,
+          "date": "2025-02-28",
+          "seat_type": "Second Class Seat"
+        }
+      ]
+    },
+    {
+      "order_id": "D0808012T002",
+      "order_type": "hotel",
+      "user_id": "U010098",
+      "store_id": "S17557505488732992_H00001",
+      "note": "",
+      "location": null,
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 1176,
+      "create_time": "2025-02-27 11:57:39",
+      "update_time": "2025-02-27 11:57:39",
+      "status": "unpaid",
+      "products": [
+        {
+          "product_id": "S17557505488732992_P00001",
+          "price": 588,
+          "quantity": 1,
+          "date": "2025-02-28",
+          "room_type": "Hakka Tulou Featured King Room"
+        },
+        {
+          "product_id": "S17557505488732992_P00002",
+          "price": 588,
+          "quantity": 1,
+          "date": "2025-03-01",
+          "room_type": "Hakka Tulou Featured King Room"
+        }
+      ]
+    },
+    {
+      "order_id": "D0808012T003",
+      "order_type": "attraction",
+      "user_id": "U010098",
+      "store_id": "S17557505488732992_A00006",
+      "note": "",
+      "location": null,
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 180,
+      "create_time": "2025-02-27 11:59:21",
+      "update_time": "2025-02-27 11:59:21",
+      "status": "unpaid",
+      "products": [
+        {
+          "product_id": "S17557505488732992_P00046",
+          "price": 90,
+          "quantity": 2,
+          "date": "2025-03-01",
+          "ticket_type": "Adult Ticket"
+        }
+      ]
+    }
+  ],
+  "rubrics": [
+    "The train ticket in the order is from Shenzhen to Nanjing (Fujian)",
+    "The departure time of the train in the ticket order is February 28, 2025",
+    "The train ticket purchased in the order is Second Class Seat",
+    "The quantity of tickets in the train order is 2",
+    "The booked hotel is within 3km of the Tianluokeng Tulou Cluster Scenic Area",
+    "The hotel booking dates should be February 28, 2025 and March 1, 2025",
+    "The booked hotel should have Hakka Features",
+    "The booked hotel should have Non-smoking Floor",
+    "The price of the hotel room should be around 600 yuan per night",
+    "Check the calendar to confirm the specific date of the Longtou Festival (February 2nd of lunar calendar 2025 is March 1st), the booking time for the scenic area tickets is March 1, 2025",
+    "The purchased tickets are for the Yunshui Yao Ancient Town Scenic Area",
+    "The purchased tickets are Adult Ticket",
+    "The quantity of tickets purchased is 2"
+  ]
+}

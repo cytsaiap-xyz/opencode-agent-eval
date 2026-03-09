@@ -1,0 +1,203 @@
+{
+  "task_id": "10826302",
+  "domain": "instore",
+  "time": "2024-08-09 15:30:00",
+  "user_id": "U889159",
+  "weather": [
+    {
+      "city": "Qingdao",
+      "category": "sunny",
+      "datetime": "2024-08-09",
+      "temperature": [
+        26,
+        33
+      ],
+      "humidity": 45
+    }
+  ],
+  "location": [
+    {
+      "address": "Room 1203, 12th Floor, Yuanyang Building, No.61 Hong Kong Middle Road, Shinan District, Qingdao",
+      "longitude": 120.3851,
+      "latitude": 36.0694
+    },
+    {
+      "address": "Qingdao Film Studio, No.1 Shilaoren Tourist Park, Laoshan District, Qingdao",
+      "longitude": 120.4682,
+      "latitude": 36.0988
+    },
+    {
+      "address": "Taidong Pedestrian Street, Shinan District, Qingdao",
+      "longitude": 120.3926,
+      "latitude": 36.0672
+    },
+    {
+      "address": "Taidong Night Market, Jinsong Third Road, Shibei District, Qingdao",
+      "longitude": 120.3855,
+      "latitude": 36.0763
+    },
+    {
+      "address": "Shilaoren Beach, Laoshan District, Qingdao",
+      "longitude": 120.4735,
+      "latitude": 36.0954
+    }
+  ],
+  "user_profile": {
+    "user id": "U889159",
+    "occupation": "Actor",
+    "gender": "female",
+    "age group": "25~30",
+    "residence": "Qingdao",
+    "home address": "Room 1203, Building 2, Yuanyang Residential Area, No.61 Hong Kong Middle Road, Shinan District, Qingdao",
+    "work address": "Qingdao Film Studio, No.1 Shilaoren Tourist Park, Laoshan District, Qingdao",
+    "dietary restrictions": "No high sugar, No alcohol",
+    "family status": "Living alone",
+    "personality": "Tends to be dominant and controlling, not easily accepting different opinions"
+  },
+  "user_historical_behaviors": {
+    "user id": "U889159",
+    "occupation": "Actress",
+    "gender": "female",
+    "age group": "25~30",
+    "residence": "Qingdao",
+    "home address": "Room 1203, Building 2, Yuanyang Residential Area, No.61 Hong Kong Middle Road, Shinan District, Qingdao",
+    "work address": "Qingdao Film Studio, No.1 Shilaoren Tourist Park, Laoshan District, Qingdao",
+    "in-store dining": {
+      "fine-dining": {
+        "frequently purchased categories": [
+          "International Cuisine/Western Food (Average 180 yuan)",
+          "Regional Cuisine/Cantonese Cuisine (Average 150 yuan)",
+          "International Cuisine/Japanese Food (Average 200 yuan)"
+        ],
+        "preferred average price per person": "150~200 yuan",
+        "preferred store rating": "4.3~4.9 stars",
+        "typical dining time": "19:00-21:00",
+        "preferred distance": "1000~3000m",
+        "recent orders": [
+          {
+            "store": "Mint Western Restaurant",
+            "product": "Low-sugar Steak Set"
+          },
+          {
+            "store": "Pearl of the Sea Cantonese Restaurant",
+            "product": "Steamed Sea Bass"
+          },
+          {
+            "store": "Zen Japanese Restaurant",
+            "product": "Sugar-Free Sashimi Platter"
+          }
+        ],
+        "search history": [
+          "Healthy Western Food",
+          "Sugar-Free Menu",
+          "High Protein Low Carb",
+          "Celebrity Restaurants"
+        ]
+      },
+      "light meal": {
+        "frequently purchased categories": [
+          "Fast Food/Chinese Quick Meals (Average 45 yuan)",
+          "Fast Food/Western Fast Food (Average 55 yuan)",
+          "Regional Cuisine/Special Dishes (Average 60 yuan)"
+        ],
+        "preferred average price per person": "40~60 yuan",
+        "preferred store rating": "3.8~4.5 stars",
+        "typical dining time": "12:00-13:30",
+        "preferred distance": "0~800m",
+        "recent orders": [
+          {
+            "store": "Light Food Philosophy",
+            "product": "Quinoa Chicken Breast Salad"
+          },
+          {
+            "store": "Fresh Vegetable Pavilion",
+            "product": "Low-Fat Vegetable Set"
+          },
+          {
+            "store": "Healthy Meal Selection",
+            "product": "Steamed Chicken Breast Bento"
+          }
+        ],
+        "search history": [
+          "Fast Food Near Film Set",
+          "Healthy Bento",
+          "Low-sugar Restaurants",
+          "Weight Loss Meals"
+        ]
+      },
+      "desserts/drinks/snacks": {
+        "frequently purchased categories": [
+          "Beverage Shops (Average 25 yuan)",
+          "Bakery & Desserts (Average 30 yuan)",
+          "Other Dining/Fresh Fruits (Average 35 yuan)"
+        ],
+        "preferred average price per person": "20~35 yuan",
+        "preferred store rating": "4.0~4.8 stars",
+        "typical dining time": "15:00-16:30",
+        "preferred distance": "0~500m",
+        "recent orders": [
+          {
+            "store": "Fresh Juice Bar",
+            "product": "Sugar-Free Celery Apple Juice"
+          },
+          {
+            "store": "Light Sweet Bakery",
+            "product": "Low-sugar Nut Cake"
+          },
+          {
+            "store": "Premium Fruits",
+            "product": "Fresh Fruit Platter"
+          }
+        ],
+        "search history": [
+          "Sugar-Free Drinks",
+          "Low-sugar Desserts",
+          "Healthy Juices",
+          "Coffee Near Film Set"
+        ]
+      }
+    },
+    "other in-store services": {
+      "frequently consumed categories": {
+        "Beauty/Hair Styling": "20%",
+        "Beauty/Yoga": "25%",
+        "Sports & Fitness/Fitness Centers": "30%",
+        "Leisure & Entertainment/Massage/Foot Therapy": "15%",
+        "Leisure & Entertainment/DIY Workshops": "10%"
+      },
+      "cost per order by category": {
+        "Beauty/Hair Styling": "300~800 yuan",
+        "Beauty/Yoga": "150~300 yuan/session",
+        "Sports & Fitness/Fitness Centers": "200~400 yuan/session",
+        "Leisure & Entertainment/Massage/Foot Therapy": "200~500 yuan",
+        "Leisure & Entertainment/DIY Workshops": "100~300 yuan"
+      },
+      "preferred store rating": "4.2~4.9 stars",
+      "preferred service time": "9:00-11:00 or 21:00-22:30",
+      "preferred distance": "0~5000m",
+      "recent orders": [
+        {
+          "store": "Starry Yoga",
+          "product": "Private Yoga Course"
+        },
+        {
+          "store": "Physique Fitness Center",
+          "product": "Celebrity Body Shaping Class"
+        },
+        {
+          "store": "Hollywood Hair Studio",
+          "product": "Theatrical Character Hair Design"
+        }
+      ],
+      "search history": [
+        "Actor Posture Training",
+        "Character Physique Modeling",
+        "Fitness Near Film Crew",
+        "Facial Relaxation Massage",
+        "Character Hairstyle Design"
+      ]
+    }
+  },
+  "stores": {},
+  "orders": {}
+}

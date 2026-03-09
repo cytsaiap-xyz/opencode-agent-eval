@@ -1,0 +1,46 @@
+{
+  "task_id": "39",
+  "query": "I'm planning to travel from Hangzhou to Nanchang for a two-day trip on November 12, 2025, and return on November 14, 2025. The total budget for this trip should be within 3000 yuan, By the way, I'd like to take the train both ways—could you please book first-class seats for me? I think it will be more comfortable.\n\nFor accommodation, nothing too fancy is needed. Please help me pick a three-star hotel in Nanchang, preferably the most affordable option available. I'll be traveling alone, so just one room is enough. Also, I've heard there's a place called \"Chengjie's Little Restaurant\" that's especially good—I definitely want to have one meal there this trip; it sounds worth trying. Oh right, there's also a scenic spot called \"Bayinshanren Memorial Hall.\" I've heard there are many great restaurants nearby—could you help me select the highest-rated one and arrange a meal there?\n\nThat's basically all I need. Please help me refine the itinerary and dining arrangements. I believe I've provided all the necessary information—feel free to start planning! November 12, 2025 is Wednesday",
+  "meta_info": {
+    "org": "Hangzhou",
+    "dest": [
+      "Nanchang"
+    ],
+    "days": 3,
+    "depart_date": "2025-11-12",
+    "return_date": "2025-11-14",
+    "people_number": 1,
+    "room_number": 1
+  },
+  "hard_constraints": {
+    "train_seat_class": {
+      "constraint_context": "Travel by train, and hope to choose first-class seats for both outbound and return journeys",
+      "outbound_train_no": "G1499",
+      "inbound_train_no": "G3068"
+    },
+    "hotel_cheapest_star": {
+      "constraint_context": "Please select the cheapest hotel among the 3-star hotels",
+      "constraint_type": "superlative_cheapest_star",
+      "hotel_name": "Lavande Hotel · Nanchang Tengwang Pavilion Wanshou Palace Metro Station Branch",
+      "hotel_star": 3,
+      "hotel_price": 220.0
+    },
+    "restaurant_must_eat_named": {
+      "constraint_context": "The itinerary must include one meal at 'Sister Cheng's Little Eatery'.",
+      "constraint_type": "superlative_must_eat_named",
+      "restaurant_name": "Sister Cheng's Little Eatery",
+      "restaurant_rating": 4.2
+    },
+    "restaurant_highest_rated": {
+      "constraint_context": "During the trip, please arrange a meal at the highest-rated restaurant near the 'Memorial Hall of Bada Shanren'",
+      "constraint_type": "superlative_highest_rated_restaurant",
+      "attraction_name": "Memorial Hall of Bada Shanren",
+      "restaurant_name": "Garden Bistro",
+      "price_per_person": 100.0,
+      "restaurant_rating": 4.5
+    },
+    "budget_constraint": {
+      "max_budget": 3000
+    }
+  }
+}

@@ -1,0 +1,1348 @@
+{
+  "task_id": "10807009",
+  "domain": "cross_domain",
+  "time": "2025-02-09 17:15:00",
+  "user_id": "U010040",
+  "weather": [
+    {
+      "city": "Changzhou",
+      "category": "cloudy",
+      "datetime": "2025-02-09",
+      "temperature": [
+        2,
+        8
+      ],
+      "humidity": 65
+    },
+    {
+      "city": "Hangzhou",
+      "category": "light rain",
+      "datetime": "2025-02-09",
+      "temperature": [
+        3,
+        9
+      ],
+      "humidity": 75
+    },
+    {
+      "city": "Hangzhou",
+      "category": "overcast",
+      "datetime": "2025-02-11",
+      "temperature": [
+        4,
+        10
+      ],
+      "humidity": 70
+    },
+    {
+      "city": "Hangzhou",
+      "category": "cloudy",
+      "datetime": "2025-02-12",
+      "temperature": [
+        5,
+        11
+      ],
+      "humidity": 65
+    },
+    {
+      "city": "Hangzhou",
+      "category": "sunny",
+      "datetime": "2025-02-13",
+      "temperature": [
+        5,
+        12
+      ],
+      "humidity": 60
+    },
+    {
+      "city": "Hangzhou",
+      "category": "sunny",
+      "datetime": "2025-02-14",
+      "temperature": [
+        6,
+        13
+      ],
+      "humidity": 55
+    },
+    {
+      "city": "Hangzhou",
+      "category": "cloudy",
+      "datetime": "2025-02-15",
+      "temperature": [
+        5,
+        11
+      ],
+      "humidity": 65
+    },
+    {
+      "city": "Chengdu",
+      "category": "light rain",
+      "datetime": "2025-02-14",
+      "temperature": [
+        8,
+        14
+      ],
+      "humidity": 80
+    }
+  ],
+  "location": [
+    {
+      "address": "Room 602, Building 12, Qingfengyuan Community, 88 Qingfeng Park Road, Tianning District, Changzhou",
+      "longitude": 119.9812,
+      "latitude": 31.7895
+    },
+    {
+      "address": "Room 1506, Building 3, Wuyue Plaza, Garden Street, Hutang Town, Wujin District, Changzhou",
+      "longitude": 119.9523,
+      "latitude": 31.7012
+    },
+    {
+      "address": "Hangzhou Sports Center, 3777 Moganshan Road, Gongshu District, Hangzhou",
+      "longitude": 120.1385,
+      "latitude": 30.3089
+    },
+    {
+      "address": "Hangzhou Atour Hotel (Sports Center Branch), 3800 Moganshan Road, Gongshu District, Hangzhou",
+      "latitude": 30.3095,
+      "longitude": 120.14
+    }
+  ],
+  "user_profile": {
+    "user id": "U010040",
+    "occupation": "E-sports Manager",
+    "gender": "female",
+    "age group": "25~30",
+    "residence": "Changzhou",
+    "home address": "Room 602, Building 12, Qingfengyuan Community, 88 Qingfeng Park Road, Tianning District, Changzhou",
+    "work address": "Room 1506, Building 3, Wuyue Plaza, Garden Street, Hutang Town, Wujin District, Changzhou",
+    "dietary restrictions": "Avoids heavy oil and spicy food, avoids alcohol",
+    "family status": "In a relationship",
+    "personality": "Tends to be controlling, not easily accepting of different opinions"
+  },
+  "user_historical_behaviors": {
+    "user id": "U010040",
+    "occupation": "E-sports Manager",
+    "gender": "female",
+    "age group": "25~30",
+    "residence": "Changzhou",
+    "home address": "Room 602, Building 12, Qingfengyuan Community, 88 Qingfeng Park Road, Tianning District, Changzhou",
+    "work address": "Room 1506, Building 3, Wuyue Plaza, Garden Street, Hutang Town, Wujin District, Changzhou",
+    "delivery": {
+      "food delivery": {
+        "breakfast": {
+          "frequently purchased categories": [
+            "Simple meals/fast food/buns/pan-fried buns (average 25 yuan)",
+            "Simple meals/fast food/jianbing/wraps/hand-grabbed pancakes (average 18 yuan)",
+            "Simple meals/fast food/duck blood vermicelli soup (average 22 yuan)"
+          ],
+          "cost per order": "15~35 yuan",
+          "preferred store rating": "4.2~4.7 points",
+          "preferred delivery time": "15~25 minutes",
+          "preferred distance": "0~2500m",
+          "recent orders": [
+            {
+              "store": "Wuxi Steamed Bun House",
+              "product": "Signature Xiaolongbao + Soy Milk"
+            },
+            {
+              "store": "Chaoyang Jianbing",
+              "product": "Original Jianbing"
+            },
+            {
+              "store": "Nanjing Famous Restaurant",
+              "product": "Classic Duck Blood Vermicelli Soup"
+            }
+          ],
+          "search history": [
+            "buns",
+            "pan-fried buns",
+            "soy milk",
+            "breakfast",
+            "duck blood vermicelli soup"
+          ]
+        },
+        "weekday lunch/dinner": {
+          "frequently purchased categories": [
+            "Simple meals/fast food/rice with toppings (average 32 yuan)",
+            "Simple meals/fast food/light food (average 45 yuan)",
+            "Chinese cuisine/Sichuan Cuisine (average 68 yuan)"
+          ],
+          "cost per order": "25~75 yuan",
+          "preferred store rating": "4.3~4.8 points",
+          "preferred delivery time": "20~35 minutes",
+          "preferred distance": "0~3500m",
+          "recent orders": [
+            {
+              "store": "Liangxi Light Food House",
+              "product": "Low-Fat Chicken Breast Salad"
+            },
+            {
+              "store": "Spicy Small Restaurant",
+              "product": "Boiled Beef Set Meal"
+            },
+            {
+              "store": "Premium Rice Bowl",
+              "product": "Black Pepper Beef Rice"
+            }
+          ],
+          "search history": [
+            "low fat",
+            "healthy meal",
+            "light food",
+            "rice with toppings",
+            "Sichuan Cuisine"
+          ]
+        },
+        "weekend lunch/dinner": {
+          "frequently purchased categories": [
+            "Foreign cuisine/Japanese bento/sushi (average 85 yuan)",
+            "Chinese cuisine/grilled fish (average 120 yuan)",
+            "Hot pot/individual hot pot (average 95 yuan)"
+          ],
+          "cost per order": "60~180 yuan",
+          "preferred store rating": "4.5~5.0 points",
+          "preferred delivery time": "25~45 minutes",
+          "preferred distance": "0~5000m",
+          "recent orders": [
+            {
+              "store": "Jingyi Sushi",
+              "product": "Deluxe Salmon Set"
+            },
+            {
+              "store": "Bashu Whole Grilled Fish",
+              "product": "Spicy Grilled Fish + Side Dish Set"
+            },
+            {
+              "store": "Small Hot Pot Workshop",
+              "product": "Tomato Beef Pot"
+            }
+          ],
+          "search history": [
+            "sushi",
+            "grilled fish",
+            "individual hot pot",
+            "Japanese cuisine",
+            "boneless",
+            "casual dining"
+          ]
+        },
+        "desserts/drinks/snacks": {
+          "frequently purchased categories": [
+            "Beverages and desserts/coffee (average 32 yuan)",
+            "Beverages and desserts/Chinese pastries (average 28 yuan)",
+            "Beverages and desserts/fruit salad (average 38 yuan)"
+          ],
+          "cost per order": "15~45 yuan",
+          "preferred store rating": "4.4~4.9 points",
+          "preferred delivery time": "15~30 minutes",
+          "preferred distance": "0~3000m",
+          "recent orders": [
+            {
+              "store": "Starbucks",
+              "product": "Americano"
+            },
+            {
+              "store": "Fresh Fruit Mix",
+              "product": "Signature Fruit Salad"
+            },
+            {
+              "store": "Taoli Pastries",
+              "product": "Wuxi Pastry Gift Box"
+            }
+          ],
+          "search history": [
+            "coffee",
+            "Americano",
+            "fruit salad",
+            "pastries",
+            "afternoon tea"
+          ]
+        },
+        "night snack": {
+          "frequently purchased categories": [
+            "Snacks/braised food (average 45 yuan)",
+            "Simple meals/fast food/river snail rice noodles (average 32 yuan)",
+            "Simple meals/fast food/dumplings/wonton (average 36 yuan)"
+          ],
+          "cost per order": "25~55 yuan",
+          "preferred store rating": "4.2~4.8 points",
+          "preferred delivery time": "20~35 minutes",
+          "preferred distance": "0~4000m",
+          "recent orders": [
+            {
+              "store": "Old Flavor Braised Food",
+              "product": "Braised Platter (No Organs)"
+            },
+            {
+              "store": "Liuzhou River Snail Rice Noodles",
+              "product": "Signature River Snail Rice Noodles"
+            },
+            {
+              "store": "Old Street Wonton",
+              "product": "Pork Wonton"
+            }
+          ],
+          "search history": [
+            "braised food",
+            "non-spicy",
+            "wonton",
+            "mild",
+            "no organs",
+            "night snack"
+          ]
+        }
+      },
+      "product delivery": {
+        "frequently purchased categories": [
+          "Vegetables/bean products(28%)",
+          "Fruits(22%)",
+          "Dairy/frozen products(15%)",
+          "Personal care(12%)",
+          "Household items(10%)",
+          "Grains/oils/seasonings/dried goods(8%)",
+          "Others(5%)"
+        ],
+        "frequently visited stores": [
+          "Shenyang China Resources Vanguard(38%)",
+          "Yonghui Supermarket(32%)",
+          "FamilyMart(18%)",
+          "Other stores(12%)"
+        ],
+        "cost per order by category": {
+          "Vegetables/bean products": "5~20 yuan",
+          "Fruits": "10~35 yuan",
+          "Dairy/frozen products": "15~45 yuan",
+          "Personal care": "50~200 yuan",
+          "Household items": "10~50 yuan",
+          "Grains/oils/seasonings/dried goods": "8~40 yuan"
+        },
+        "preferred delivery time": "30~60 minutes",
+        "typical order time": "9~11am(32%), 4~6pm(45%), 8~9pm(23%)",
+        "recent orders": [
+          {
+            "store": "China Resources Vanguard",
+            "product": "Organic Vegetable Gift Box"
+          },
+          {
+            "store": "Yonghui Supermarket",
+            "product": "Fresh Fruit"
+          },
+          {
+            "store": "FamilyMart",
+            "product": "Kitchen Tissues + Low-Fat Milk"
+          }
+        ],
+        "search history": [
+          "organic vegetables",
+          "facial cleanser",
+          "low-fat milk",
+          "toothbrush",
+          "kitchen supplies",
+          "fresh fruit"
+        ]
+      }
+    },
+    "in-store consumption": {
+      "in-store dining": {
+        "fine-dining": {
+          "frequently purchased categories": [
+            "Regional cuisine/Sichuan Cuisine (average 120 yuan)",
+            "Foreign cuisine/Western food (average 150 yuan)",
+            "Regional cuisine/Shanghai and Jiangsu-Zhejiang cuisine (average 110 yuan)"
+          ],
+          "preferred average price per person": "100~150 yuan",
+          "preferred store rating": "4.0~4.9 stars",
+          "typical dining time": "18:30-20:30",
+          "preferred distance": "500~3000m",
+          "recent orders": [
+            {
+              "store": "Xiaojungan Skewer Hot Pot (Changzhou Wanda Plaza)",
+              "product": "Beef Broth + Special Skewer Platter"
+            },
+            {
+              "store": "Pang Ge Liang Crab Pot (Changzhou Wuyue Plaza)",
+              "product": "Signature Crab Pot + Steamed Bass"
+            },
+            {
+              "store": "Red Restaurant (Longcheng Avenue)",
+              "product": "Business Set Menu B (with Steak)"
+            }
+          ],
+          "search history": [
+            "family gathering",
+            "business restaurant",
+            "non-alcoholic dishes",
+            "low purine",
+            "healthy restaurant"
+          ]
+        },
+        "light meal": {
+          "frequently purchased categories": [
+            "Snacks/fast food/Chinese simple meals (average 35 yuan)",
+            "Snacks/fast food/Western fast food (average 40 yuan)",
+            "Regional cuisine/Shanghai and Jiangsu-Zhejiang cuisine (average 45 yuan)"
+          ],
+          "preferred average price per person": "30~50 yuan",
+          "preferred store rating": "3.5~4.5 stars",
+          "typical dining time": "11:30-13:00",
+          "preferred distance": "0~800m",
+          "recent orders": [
+            {
+              "store": "Yonghe King (Software Park)",
+              "product": "Chicken Wrap + Soy Milk"
+            },
+            {
+              "store": "McDonald's (Zhonglou District)",
+              "product": "Value Lunch Set"
+            },
+            {
+              "store": "Shaxian Snacks (Xinbei District)",
+              "product": "Three Delicacies Fried Noodles + Steamed Buns"
+            }
+          ],
+          "search history": [
+            "work lunch",
+            "fast food",
+            "takeout",
+            "good value for money",
+            "boxed meal"
+          ]
+        },
+        "desserts/drinks/snacks": {
+          "frequently purchased categories": [
+            "Beverage shops (average 18 yuan)",
+            "Bread and desserts (average 25 yuan)",
+            "Other dining/fresh fruits (average 15 yuan)"
+          ],
+          "preferred average price per person": "15~30 yuan",
+          "preferred store rating": "3.8~4.6 stars",
+          "typical dining time": "15:00-16:30",
+          "preferred distance": "0~500m",
+          "recent orders": [
+            {
+              "store": "Tea Baidao (Software Park)",
+              "product": "Golden Phoenix Tea King + Pearls"
+            },
+            {
+              "store": "85°C (Changzhou Wanda)",
+              "product": "Mango Mousse + Americano"
+            },
+            {
+              "store": "Fresh Fruit Workshop (Huaide Middle Road)",
+              "product": "Fruit Salad"
+            }
+          ],
+          "search history": [
+            "afternoon tea",
+            "sugar-free beverages",
+            "healthy desserts",
+            "coffee",
+            "fruit"
+          ]
+        }
+      },
+      "other in-store services": {
+        "frequently consumed categories": {
+          "Sports fitness/fitness centers": "40%",
+          "Sports fitness/ball sports": "30%",
+          "Leisure entertainment/massage/foot massage": "15%",
+          "Parenting/children's play": "15%"
+        },
+        "cost per order by category": {
+          "Sports fitness/fitness centers": "80~200 yuan",
+          "Sports fitness/ball sports": "60~150 yuan",
+          "Leisure entertainment/massage/foot massage": "120~250 yuan",
+          "Parenting/children's play": "100~300 yuan"
+        },
+        "preferred store rating": "4.0~4.8 stars",
+        "preferred service time": "19:00-21:00",
+        "preferred distance": "0~5000m",
+        "recent orders": [
+          {
+            "store": "Super Gorilla Fitness (Zhonglou)",
+            "product": "Monthly Membership"
+          },
+          {
+            "store": "Changzhou Sports Center Badminton Court",
+            "product": "Double Court for 2 Hours"
+          },
+          {
+            "store": "Qile Children's Playground (Kyle International)",
+            "product": "Family Ticket (1 Adult, 1 Child)"
+          }
+        ],
+        "search history": [
+          "gym",
+          "badminton court",
+          "foot massage",
+          "children's play",
+          "weekend family activities"
+        ]
+      }
+    },
+    "OTA": {
+      "visited scenes": {
+        "Natural landscapes (mountains/lakes/forests)": "35%",
+        "Theme parks": "25%",
+        "Hot springs": "20%",
+        "Parks": "10%",
+        "Exhibition halls (museums/art galleries)": "10%"
+      },
+      "cost per night on hotel": "500~1000 yuan",
+      "visited hotels": {
+        "Atour": "35%",
+        "Ji Hotel": "30%",
+        "Vienna": "20%",
+        "Orange": "15%"
+      },
+      "browsed hotels": {
+        "Four-star hotels": "40%",
+        "Comfort hotels": "45%",
+        "Three-star hotels": "15%"
+      },
+      "historical travel plans": {
+        "Changzhou-Hangzhou": {
+          "price range": "150-250 yuan",
+          "transportation method": "High-Speed Rail/train"
+        },
+        "Changzhou-Shanghai": {
+          "price range": "80-150 yuan",
+          "transportation method": "High-Speed Rail/train"
+        },
+        "Changzhou-Nanjing": {
+          "price range": "50-100 yuan",
+          "transportation method": "High-Speed Rail/train"
+        },
+        "Changzhou-Huangshan": {
+          "price range": "250-400 yuan",
+          "transportation method": "High-Speed Rail/train"
+        },
+        "Changzhou-Suzhou": {
+          "price range": "60-120 yuan",
+          "transportation method": "High-Speed Rail/train"
+        },
+        "Changzhou-Xiamen": {
+          "price range": "800-1200 yuan",
+          "transportation method": "airplane"
+        },
+        "Changzhou-Wuhan": {
+          "price range": "400-600 yuan",
+          "transportation method": "High-Speed Rail/train"
+        }
+      }
+    }
+  },
+  "stores": {
+    "S17550802127823540_S00001": {
+      "name": "Light Food Nutrition House",
+      "store_id": "S17550802127823540_S00001",
+      "score": 4.7,
+      "location": {
+        "address": "Light Food Nutrition House (Sports Center Branch), 3655 Moganshan Road, Gongshu District, Hangzhou",
+        "latitude": 30.3075,
+        "longitude": 120.1362
+      },
+      "tags": [
+        "Light Food",
+        "Healthy Meal",
+        "Low Sodium",
+        "No Additives",
+        "Protein",
+        "No Night Delivery"
+      ],
+      "store_type": "target",
+      "products": [
+        {
+          "name": "Athlete's Low-Sodium Light Meal Package",
+          "store_id": "S17550802127823540_S00001",
+          "store_name": "Light Food Nutrition House",
+          "price": 48.8,
+          "tags": [
+            "Low Sodium",
+            "High Protein",
+            "Sports Nutrition",
+            "Individual Meal"
+          ],
+          "product_id": "S17550802127823540_P00001",
+          "attributes": [
+            "Standard Calorie",
+            "Non-spicy",
+            "Extra Vegetables",
+            "Reduced Carbs"
+          ],
+          "product_type": "target"
+        },
+        {
+          "name": "E-sports Special Energy Light Meal",
+          "store_id": "S17550802127823540_S00001",
+          "store_name": "Light Food Nutrition House",
+          "price": 52.5,
+          "tags": [
+            "Low Sodium",
+            "High Protein",
+            "E-sports Nutrition",
+            "night snack",
+            "Individual Meal"
+          ],
+          "product_id": "S17550802127823540_P00002",
+          "attributes": [
+            "Standard Calorie",
+            "Non-spicy",
+            "Extra Protein"
+          ],
+          "product_type": "target"
+        },
+        {
+          "name": "Spicy Chicken Breast Light Salad",
+          "store_id": "S17550802127823540_S00001",
+          "store_name": "Light Food Nutrition House",
+          "price": 42.5,
+          "tags": [
+            "High Protein",
+            "Healthy Salad",
+            "Chicken Breast",
+            "Individual Meal"
+          ],
+          "product_id": "S17550802127823540_P00004",
+          "attributes": [
+            "Medium Spicy",
+            "Extra Sauce",
+            "Standard Calorie"
+          ],
+          "product_type": "distraction"
+        },
+        {
+          "name": "Beer with Light Food Platter",
+          "store_id": "S17550802127823540_S00001",
+          "store_name": "Light Food Nutrition House",
+          "price": 78.8,
+          "tags": [
+            "High Protein",
+            "Group Dining",
+            "Platter",
+            "Beer Pairing"
+          ],
+          "product_id": "S17550802127823540_P00005",
+          "attributes": [
+            "Non-spicy",
+            "Standard Calorie",
+            "Extra Protein"
+          ],
+          "product_type": "distraction"
+        }
+      ]
+    },
+    "S17550802127823540_S00002": {
+      "name": "Energy Station",
+      "store_id": "S17550802127823540_S00002",
+      "score": 4.6,
+      "location": {
+        "address": "Energy Station (Gymnasium Branch), 3700 Moganshan Road, Gongshu District, Hangzhou",
+        "latitude": 30.3082,
+        "longitude": 120.1375
+      },
+      "tags": [
+        "Nutritional Meal",
+        "Low Fat",
+        "No Frying",
+        "Sports Meal",
+        "High Protein"
+      ],
+      "store_type": "target",
+      "products": [
+        {
+          "name": "Athlete's Light Late Night Snack Package",
+          "store_id": "S17550802127823540_S00002",
+          "store_name": "Energy Station",
+          "price": 48.9,
+          "tags": [
+            "Low Sodium",
+            "Light Food",
+            "High Protein",
+            "Individual Meal",
+            "Healthy Nutrition",
+            "night snack",
+            "E-sports Special"
+          ],
+          "product_id": "S17550802127823540_P00006",
+          "attributes": [
+            "Standard Calorie"
+          ],
+          "product_type": "target"
+        },
+        {
+          "name": "Exclusive Energy Meal for E-sports Players",
+          "store_id": "S17550802127823540_S00002",
+          "store_name": "Energy Station",
+          "price": 52.8,
+          "tags": [
+            "High Protein",
+            "Low Fat",
+            "Light Food",
+            "night snack",
+            "Sodium Replenishment"
+          ],
+          "product_id": "S17550802127823540_P00007",
+          "attributes": [
+            "No Chili"
+          ],
+          "product_type": "distraction"
+        },
+        {
+          "name": "Sour and Spicy Chicken Breast Light Meal",
+          "store_id": "S17550802127823540_S00002",
+          "store_name": "Energy Station",
+          "price": 42.5,
+          "tags": [
+            "High Protein",
+            "Light Food",
+            "Individual Meal",
+            "night snack",
+            "Mildly Spicy"
+          ],
+          "product_id": "S17550802127823540_P00009",
+          "attributes": [
+            "Mildly Spicy",
+            "Low Oil",
+            "Standard Salt"
+          ],
+          "product_type": "distraction"
+        },
+        {
+          "name": "Deep Sea Fish Oil DHA Enhancement Drink",
+          "store_id": "S17550802127823540_S00002",
+          "store_name": "Energy Station",
+          "price": 26.8,
+          "tags": [
+            "Beverages Only",
+            "Rich in DHA"
+          ],
+          "product_id": "S17550802127823540_P00010",
+          "attributes": [
+            "Standard Calorie"
+          ],
+          "product_type": "target"
+        }
+      ]
+    },
+    "S17550802127823540_S00003": {
+      "name": "Salad Institute",
+      "store_id": "S17550802127823540_S00003",
+      "score": 3.9,
+      "location": {
+        "address": "Salad Institute, 3800 Moganshan Road, Gongshu District, Hangzhou",
+        "latitude": 30.3095,
+        "longitude": 120.1395
+      },
+      "tags": [
+        "Salad",
+        "Light Food",
+        "Low Calorie",
+        "Fruit",
+        "Healthy"
+      ],
+      "store_type": "target",
+      "products": [
+        {
+          "name": "Low-Sodium Energy Fruit and Vegetable Salad",
+          "store_id": "S17550802127823540_S00003",
+          "store_name": "Salad Institute",
+          "price": 38.9,
+          "tags": [
+            "Low Sodium",
+            "Light Food",
+            "Healthy"
+          ],
+          "product_id": "S17550802127823540_P00011",
+          "attributes": [
+            "Standard Size",
+            "Separate Sauce"
+          ],
+          "product_type": "target"
+        },
+        {
+          "name": "Late Night Light Chicken Breast Salad",
+          "store_id": "S17550802127823540_S00003",
+          "store_name": "Salad Institute",
+          "price": 39.9,
+          "tags": [
+            "Low Sodium",
+            "High Protein",
+            "Light Food",
+            "Healthy",
+            "night snack",
+            "Non-Irritating"
+          ],
+          "product_id": "S17550802127823540_P00013",
+          "attributes": [
+            "Standard Size",
+            "Separate Sauce",
+            "Extra Chicken Breast"
+          ],
+          "product_type": "target"
+        },
+        {
+          "name": "Summer Refreshing Fruit Salad",
+          "store_id": "S17550802127823540_S00003",
+          "store_name": "Salad Institute",
+          "price": 35.9,
+          "tags": [
+            "Fruit",
+            "Sweet Food",
+            "Light Food",
+            "night snack"
+          ],
+          "product_id": "S17550802127823540_P00015",
+          "attributes": [
+            "Standard Size",
+            "Honey Sauce"
+          ],
+          "product_type": "distraction"
+        }
+      ]
+    },
+    "S17550802127823540_S00004": {
+      "name": "Spicy Small Restaurant",
+      "store_id": "S17550802127823540_S00004",
+      "score": 4.8,
+      "location": {
+        "address": "Spicy Small Restaurant, 3720 Moganshan Road, Gongshu District, Hangzhou",
+        "latitude": 30.3085,
+        "longitude": 120.138
+      },
+      "tags": [
+        "Sichuan Cuisine",
+        "Spicy",
+        "Heavy Oil",
+        "Spicy Flavor",
+        "night snack"
+      ],
+      "store_type": "distraction",
+      "products": [
+        {
+          "name": "Spicy Hot Pot Package",
+          "store_id": "S17550802127823540_S00004",
+          "store_name": "Spicy Small Restaurant",
+          "price": 48.8,
+          "tags": [
+            "Spicy",
+            "Sichuan Cuisine",
+            "night snack",
+            "Package"
+          ],
+          "product_id": "S17550802127823540_P00016",
+          "attributes": [
+            "Mildly Spicy",
+            "Medium Spicy",
+            "Extra Spicy",
+            "No Cilantro",
+            "No Green Onions"
+          ],
+          "product_type": "distraction"
+        },
+        {
+          "name": "Chopped Chili Fish Head",
+          "store_id": "S17550802127823540_S00004",
+          "store_name": "Spicy Small Restaurant",
+          "price": 68,
+          "tags": [
+            "Hunan Cuisine",
+            "Spicy Flavor",
+            "night snack",
+            "Fish Head"
+          ],
+          "product_id": "S17550802127823540_P00018",
+          "attributes": [
+            "Mildly Spicy",
+            "Medium Spicy",
+            "Extra Spicy"
+          ],
+          "product_type": "distraction"
+        },
+        {
+          "name": "E-sports Energy Drink (Alcoholic)",
+          "store_id": "S17550802127823540_S00004",
+          "store_name": "Spicy Small Restaurant",
+          "price": 28,
+          "tags": [
+            "Beverage",
+            "Refreshing",
+            "E-sports",
+            "Contains Alcohol"
+          ],
+          "product_id": "S17550802127823540_P00019",
+          "attributes": [
+            "With Ice",
+            "Room Temperature"
+          ],
+          "product_type": "distraction"
+        }
+      ]
+    },
+    "S17550802127823540_S00005": {
+      "name": "Late Night BBQ King",
+      "store_id": "S17550802127823540_S00005",
+      "score": 4.7,
+      "location": {
+        "address": "Late Night BBQ King, 3750 Moganshan Road, Gongshu District, Hangzhou",
+        "latitude": 30.309,
+        "longitude": 120.1385
+      },
+      "tags": [
+        "BBQ",
+        "Beer",
+        "night snack",
+        "Greasy",
+        "Spicy Flavor"
+      ],
+      "store_type": "distraction",
+      "products": [
+        {
+          "name": "Late Night Beer and BBQ Package",
+          "store_id": "S17550802127823540_S00005",
+          "store_name": "Late Night BBQ King",
+          "price": 88,
+          "tags": [
+            "Barbecued Meat",
+            "Beer",
+            "Package",
+            "Greasy",
+            "night snack"
+          ],
+          "product_id": "S17550802127823540_P00022",
+          "attributes": [
+            "500ml Beer",
+            "1000ml Beer",
+            "No Beer"
+          ],
+          "product_type": "distraction"
+        },
+        {
+          "name": "E-sports Late Night Snack Package",
+          "store_id": "S17550802127823540_S00005",
+          "store_name": "Late Night BBQ King",
+          "price": 59,
+          "tags": [
+            "Grilled Skewers",
+            "Fried",
+            "night snack",
+            "E-sports",
+            "Package"
+          ],
+          "product_id": "S17550802127823540_P00023",
+          "attributes": [
+            "Standard Spicy",
+            "No Spice"
+          ],
+          "product_type": "distraction"
+        },
+        {
+          "name": "Grilled Lamb Skewers (10 pieces)",
+          "store_id": "S17550802127823540_S00005",
+          "store_name": "Late Night BBQ King",
+          "price": 45,
+          "tags": [
+            "Grilled Skewers",
+            "Lamb",
+            "High Protein",
+            "Popular"
+          ],
+          "product_id": "S17550802127823540_P00024",
+          "attributes": [
+            "Mildly Spicy",
+            "No Spice",
+            "Cumin Flavor"
+          ],
+          "product_type": "distraction"
+        },
+        {
+          "name": "BBQ Vegetable Platter",
+          "store_id": "S17550802127823540_S00005",
+          "store_name": "Late Night BBQ King",
+          "price": 38,
+          "tags": [
+            "Grilled Vegetables",
+            "Low Fat",
+            "Healthy",
+            "Vegetarian"
+          ],
+          "product_id": "S17550802127823540_P00025",
+          "attributes": [
+            "Mildly Spicy",
+            "No Spice",
+            "Less Oil",
+            "Standard Oil"
+          ],
+          "product_type": "distraction"
+        }
+      ]
+    }
+  },
+  "orders": {
+    "S17550802127823540_O00001": {
+      "order_id": "S17550802127823540_O00001",
+      "order_type": "delivery",
+      "user_id": "U010040",
+      "store_id": "S17550802127823540_S00001",
+      "note": "Please ensure all meals are low sodium and non-spicy, with five portions individually packed",
+      "location": {
+        "address": "Hangzhou Sports Center, 3777 Moganshan Road, Gongshu District, Hangzhou",
+        "longitude": 120.1385,
+        "latitude": 30.3089
+      },
+      "dispatch_time": "2025-02-11 21:15:00",
+      "shipping_time": 20.0,
+      "delivery_time": "2025-02-11 21:35:00",
+      "total_price": 244.0,
+      "create_time": "2025-02-09 17:10:23",
+      "update_time": "2025-02-09 17:10:23",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17550802127823540_P00001",
+          "price": 48.8,
+          "quantity": 5,
+          "name": "Athlete's Low-Sodium Light Meal Package"
+        }
+      ]
+    },
+    "S17550802127823540_O00002": {
+      "order_id": "S17550802127823540_O00002",
+      "order_type": "delivery",
+      "user_id": "U010040",
+      "store_id": "S17550802127823540_S00002",
+      "note": "Please ensure no chili peppers in the food",
+      "location": {
+        "address": "Room 1506, Building 3, Wuyue Plaza, Garden Street, Hutang Town, Wujin District, Changzhou",
+        "longitude": 119.9523,
+        "latitude": 31.7012
+      },
+      "dispatch_time": "2025-02-07 20:05:00",
+      "shipping_time": 25.0,
+      "delivery_time": "2025-02-07 20:30:00",
+      "total_price": 91.8,
+      "create_time": "2025-02-07 19:40:12",
+      "update_time": "2025-02-07 20:35:10",
+      "status": "delivered",
+      "products": [
+        {
+          "product_id": "S17550802127823540_P00006",
+          "price": 48.9,
+          "quantity": 1,
+          "name": "Athlete's Light Late Night Snack Package"
+        },
+        {
+          "product_id": "S17550802127823540_P00008",
+          "price": 45.9,
+          "quantity": 1,
+          "name": "Cognitive Enhancement Light Meal Package"
+        }
+      ]
+    },
+    "S17550802127823540_O00003": {
+      "order_id": "S17550802127823540_O00003",
+      "order_type": "delivery",
+      "user_id": "U010040",
+      "store_id": "S17550802127823540_S00003",
+      "note": "No chili peppers or chili oil please",
+      "location": {
+        "address": "Room 602, Building 12, Qingfengyuan Community, 88 Qingfeng Park Road, Tianning District, Changzhou",
+        "longitude": 119.9812,
+        "latitude": 31.7895
+      },
+      "dispatch_time": "2025-02-05 15:10:00",
+      "shipping_time": 18.0,
+      "delivery_time": "2025-02-05 15:28:00",
+      "total_price": 81.4,
+      "create_time": "2025-02-05 14:50:32",
+      "update_time": "2025-02-05 15:30:05",
+      "status": "delivered",
+      "products": [
+        {
+          "product_id": "S17550802127823540_P00011",
+          "price": 38.9,
+          "quantity": 1,
+          "name": "Low-Sodium Energy Fruit and Vegetable Salad"
+        },
+        {
+          "product_id": "S17550802127823540_P00013",
+          "price": 39.9,
+          "quantity": 1,
+          "name": "Late Night Light Chicken Breast Salad"
+        }
+      ]
+    },
+    "S17550802127823540_O00004": {
+      "order_id": "S17550802127823540_O00004",
+      "order_type": "hotel",
+      "user_id": "U010040",
+      "store_id": "S17550802127823540_H00006",
+      "note": "Please arrange five adjacent rooms, need quiet environment for team members to rest",
+      "location": {
+        "address": "Hangzhou Atour Hotel (Sports Center Branch), 3800 Moganshan Road, Gongshu District, Hangzhou",
+        "longitude": 120.14,
+        "latitude": 30.3095
+      },
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 3600.0,
+      "create_time": "2025-02-08 14:25:36",
+      "update_time": "2025-02-08 14:25:36",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17550802127823540_P00029",
+          "price": 880,
+          "quantity": 1,
+          "date": "2025-02-11",
+          "room_type": "E-sports Themed Room"
+        },
+        {
+          "product_id": "S17550802127823540_P00027",
+          "price": 720,
+          "quantity": 4,
+          "date": "2025-02-11",
+          "room_type": "Business Twin Room"
+        }
+      ]
+    },
+    "S17550802127823540_O00005": {
+      "order_id": "S17550802127823540_O00005",
+      "order_type": "hotel",
+      "user_id": "U010040",
+      "store_id": "S17550802127823540_H00006",
+      "note": "Continue with the same rooms as before, keep rooms unchanged",
+      "location": {
+        "address": "Hangzhou Atour Hotel (Sports Center Branch), 3800 Moganshan Road, Gongshu District, Hangzhou",
+        "longitude": 120.14,
+        "latitude": 30.3095
+      },
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 3600.0,
+      "create_time": "2025-02-08 14:28:12",
+      "update_time": "2025-02-08 14:28:12",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17550802127823540_P00031",
+          "price": 720,
+          "quantity": 4,
+          "date": "2025-02-12",
+          "room_type": "Business Twin Room"
+        },
+        {
+          "product_id": "S17550802127823540_P00034",
+          "price": 680,
+          "quantity": 1,
+          "date": "2025-02-14",
+          "room_type": "Business King Room"
+        }
+      ]
+    },
+    "S17550802127823540_O00006": {
+      "order_id": "S17550802127823540_O00006",
+      "order_type": "hotel",
+      "user_id": "U010040",
+      "store_id": "S17550802127823540_H00006",
+      "note": "Continue with the same rooms as before, keep rooms unchanged",
+      "location": {
+        "address": "Hangzhou Atour Hotel (Sports Center Branch), 3800 Moganshan Road, Gongshu District, Hangzhou",
+        "longitude": 120.14,
+        "latitude": 30.3095
+      },
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 3600.0,
+      "create_time": "2025-02-08 14:30:45",
+      "update_time": "2025-02-08 14:30:45",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17550802127823540_P00033",
+          "price": 720,
+          "quantity": 3,
+          "date": "2025-02-13",
+          "room_type": "Business Twin Room"
+        },
+        {
+          "product_id": "S17550802127823540_P00032",
+          "price": 680,
+          "quantity": 2,
+          "date": "2025-02-13",
+          "room_type": "Business King Room"
+        }
+      ]
+    },
+    "S17550802127823540_O00007": {
+      "order_id": "S17550802127823540_O00007",
+      "order_type": "hotel",
+      "user_id": "U010040",
+      "store_id": "S17550802127823540_H00006",
+      "note": "Continue with the same rooms as before, keep rooms unchanged",
+      "location": {
+        "address": "Hangzhou Atour Hotel (Sports Center Branch), 3800 Moganshan Road, Gongshu District, Hangzhou",
+        "longitude": 120.14,
+        "latitude": 30.3095
+      },
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 3600.0,
+      "create_time": "2025-02-08 14:32:18",
+      "update_time": "2025-02-08 14:32:18",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17550802127823540_P00035",
+          "price": 720,
+          "quantity": 2,
+          "date": "2025-02-14",
+          "room_type": "Business Twin Room"
+        },
+        {
+          "product_id": "S17550802127823540_P00036",
+          "price": 680,
+          "quantity": 3,
+          "date": "2025-02-15",
+          "room_type": "Business King Room"
+        }
+      ]
+    },
+    "S17550802127823540_O00008": {
+      "order_id": "S17550802127823540_O00008",
+      "order_type": "flight",
+      "user_id": "U010040",
+      "store_id": "S17550802127823540_F00009",
+      "note": "Book round-trip tickets to Chengdu for MVP player, for Lantern Festival reunion",
+      "location": {
+        "address": "Hangzhou Xiaoshan International Airport, 353 Airport Avenue, Xiaoshan District, Hangzhou",
+        "longitude": 120.4344,
+        "latitude": 30.2365
+      },
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 1580.0,
+      "create_time": "2025-02-09 17:12:45",
+      "update_time": "2025-02-09 17:12:45",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17550802127823540_P00068",
+          "price": 1580.0,
+          "quantity": 1,
+          "seat_type": "Economy Class",
+          "flight_date": "2025-02-11",
+          "flight_number": "MU5403",
+          "departure_city": "Hangzhou",
+          "arrival_city": "Chengdu",
+          "departure_time": "07:15",
+          "arrival_time": "10:05"
+        }
+      ]
+    },
+    "S17550802127823540_O00009": {
+      "order_id": "S17550802127823540_O00009",
+      "order_type": "flight",
+      "user_id": "U010040",
+      "store_id": "S17550802127823540_F00010",
+      "note": "Book round-trip tickets to Chengdu for MVP player, for Lantern Festival reunion",
+      "location": {
+        "address": "Chengdu Shuangliu International Airport, Terminal West 1 Road, Shuangliu District, Chengdu",
+        "longitude": 103.9471,
+        "latitude": 30.5785
+      },
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 1150.0,
+      "create_time": "2025-02-09 17:13:28",
+      "update_time": "2025-02-09 17:13:28",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17550802127823540_P00072",
+          "price": 1150.0,
+          "quantity": 1,
+          "seat_type": "Economy Class",
+          "flight_date": "2025-02-11",
+          "flight_number": "CA4527",
+          "departure_city": "Chengdu",
+          "arrival_city": "Hangzhou",
+          "departure_time": "20:25",
+          "arrival_time": "23:10"
+        }
+      ]
+    },
+    "S17550802127823540_O00010": {
+      "order_id": "S17550802127823540_O00010",
+      "order_type": "train",
+      "user_id": "U010040",
+      "store_id": "S17550802127823540_T00013",
+      "note": "Book high-speed rail tickets from Changzhou to Hangzhou for the team",
+      "location": {
+        "address": "Changzhou Station, 1 Guanhe East Road, Tianning District, Changzhou",
+        "longitude": 119.9746,
+        "latitude": 31.7559
+      },
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 840.0,
+      "create_time": "2025-02-08 10:15:22",
+      "update_time": "2025-02-08 10:15:22",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17550802127823540_P00089",
+          "price": 168.0,
+          "quantity": 5,
+          "seat_type": "Second Class Seat",
+          "train_date": "2025-02-11",
+          "train_number": "G7522",
+          "departure_city": "Changzhou",
+          "arrival_city": "Hangzhou",
+          "departure_time": "09:12",
+          "arrival_time": "10:38"
+        }
+      ]
+    },
+    "S17550802127823540_O00011": {
+      "order_id": "S17550802127823540_O00011",
+      "order_type": "train",
+      "user_id": "U010040",
+      "store_id": "S17550802127823540_T00014",
+      "note": "Book high-speed rail tickets from Hangzhou back to Changzhou for the team",
+      "location": {
+        "address": "Hangzhou East Railway Station, 1 East Station Road, Jianggan District, Hangzhou",
+        "longitude": 120.2103,
+        "latitude": 30.2924
+      },
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 725.0,
+      "create_time": "2025-02-08 10:20:45",
+      "update_time": "2025-02-08 10:20:45",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17550802127823540_P00102",
+          "price": 145.0,
+          "quantity": 5,
+          "seat_type": "Second Class Seat",
+          "train_date": "2025-02-15",
+          "train_number": "G7561",
+          "departure_city": "Hangzhou",
+          "arrival_city": "Changzhou",
+          "departure_time": "19:40",
+          "arrival_time": "21:05"
+        }
+      ]
+    }
+  }
+}

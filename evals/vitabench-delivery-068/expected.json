@@ -1,0 +1,96 @@
+{
+  "required_orders": [
+    {
+      "order_id": "E0716002T01",
+      "order_type": "delivery",
+      "user_id": "U000053",
+      "store_id": "S25539361674255185_S67204",
+      "note": "",
+      "location": {
+        "address": "No. 398 Feicui Road, Shushan District, Hefei, Anhui Province (430 meters walk from Exit 4 of Fanhua Avenue Metro Station), National Hefei Economic and Technological Development Zone",
+        "longitude": 117.207703,
+        "latitude": 31.77875
+      },
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 25.0,
+      "create_time": "2024-03-20 11:11:00",
+      "update_time": "2024-03-20 11:11:00",
+      "status": "processed",
+      "products": [
+        {
+          "product_id": "S71751813192280767_P89342",
+          "price": 25.0,
+          "quantity": 1,
+          "attributes": ""
+        }
+      ]
+    },
+    {
+      "order_id": "E0716002T02",
+      "order_type": "delivery",
+      "user_id": "U000053",
+      "store_id": "S18967463504826989_S43153",
+      "note": "",
+      "location": {
+        "address": "Baowen Garden, Changhuai Street, Yaohai District, Hefei, Anhui Province",
+        "longitude": 117.309816,
+        "latitude": 31.88562
+      },
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 35.8,
+      "create_time": "2024-03-20 11:16:00",
+      "update_time": "2024-03-20 11:16:00",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S33950920453484028_P40840",
+          "price": 35.8,
+          "quantity": 1,
+          "attributes": "No cilantro"
+        }
+      ]
+    },
+    {
+      "order_id": "E0716002T03",
+      "order_type": "delivery",
+      "user_id": "U000053",
+      "store_id": "S30488026926582488_S65342",
+      "note": "",
+      "location": {
+        "address": "Baowen Garden, Changhuai Street, Yaohai District, Hefei, Anhui Province",
+        "longitude": 117.309816,
+        "latitude": 31.88562
+      },
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 23.8,
+      "create_time": "2024-03-20 11:19:00",
+      "update_time": "2024-03-20 11:19:00",
+      "status": "processed",
+      "products": [
+        {
+          "product_id": "S53536420214175419_P36001",
+          "price": 23.8,
+          "quantity": 1,
+          "attributes": ""
+        }
+      ]
+    }
+  ],
+  "rubrics": [
+    "The user's own lunch order delivery address should be the work address at No. 398 Feicui Road, Shushan District, Hefei, Anhui Province, National Hefei Economic and Technological Development Zone",
+    "The user's Bean Curd Skin with Stir-fried Meat Rice Bowl order should be scheduled for delivery around 12:00 on March 20, 2024, ensuring it can be finished before the mechanical maintenance work starts at 13:15",
+    "The daughter's lunch order delivery address should be the home address at Baowen Garden, Changhuai Street, Yaohai District, Hefei, Anhui Province",
+    "The daughter's Couple's Lung Slices set meal order should be scheduled for delivery around 12:00 on March 20, 2024",
+    "The daughter's Couple's Lung Slices set meal order should specify a preference for no cilantro",
+    "The daughter's lunch order should include Beef ingredients, in accordance with her dietary preferences",
+    "The son's lunch order delivery address should be the home address at Baowen Garden, Changhuai Street, Yaohai District, Hefei, Anhui Province",
+    "The son's Longjiang Pork Knuckle Rice order should be scheduled for delivery around 12:00 on March 20, 2024",
+    "The son's Longjiang Pork Knuckle Rice order should specify the large portion size to meet his increased appetite during his growth period"
+  ]
+}

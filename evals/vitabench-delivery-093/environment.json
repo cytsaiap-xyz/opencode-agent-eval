@@ -1,0 +1,337 @@
+{
+  "task_id": "I0721003",
+  "domain": "delivery",
+  "time": "2025-09-21 06:20:24",
+  "user_id": "U000059",
+  "weather": [
+    {
+      "city": "Suzhou City",
+      "category": "overcast",
+      "datetime": "2025-09-21",
+      "temperature": [
+        21,
+        28
+      ],
+      "humidity": 88
+    }
+  ],
+  "location": [
+    {
+      "address": "Yintai Garden, 1168 Ganjiang West Road (440m walk from Tongjing North Road Metro Station Exit 5), Gusu District, Suzhou, Jiangsu Province",
+      "longitude": 120.584891,
+      "latitude": 31.302862
+    }
+  ],
+  "user_profile": {
+    "user id": "U000059",
+    "occupation": "Driver",
+    "gender": "male",
+    "age group": "30~35",
+    "residence": "Suzhou",
+    "home address": "Yintai Garden, 1168 Ganjiang West Road (440m walk from Tongjing North Road Metro Station Exit 5), Gusu District, Suzhou, Jiangsu Province",
+    "work address": "Suzhou Nationalchip Technology Co., Ltd., Building 1, Shishan Headquarters Economic Industrial Park, 99 Fenhu Road, Huqiu District, Suzhou, Jiangsu Province",
+    "dietary restrictions": "No alcohol",
+    "family status": "Living with elderly",
+    "personality": "Cold and concise in expression, lacking emotional communication and patience"
+  },
+  "user_historical_behaviors": {
+    "user id": "U000059",
+    "occupation": "driver",
+    "gender": "male",
+    "age group": "30~35",
+    "residence": "Suzhou",
+    "home address": "Yintai Garden, 1168 Ganjiang West Road (440m walk from Tongjing North Road Metro Station Exit 5), Gusu District, Suzhou, Jiangsu Province",
+    "work address": "Suzhou Nationalchip Technology Co., Ltd., Building 1, Shishan Headquarters Economic Industrial Park, 99 Fenhu Road, Huqiu District, Suzhou, Jiangsu Province",
+    "breakfast": {
+      "frequently purchased categories": [
+        "Quick meals/Steamed buns/Pan-fried buns (average ¥15)",
+        "Quick meals/Fried dough sticks (average ¥8)",
+        "Quick meals/Soy milk (average ¥6)"
+      ],
+      "cost per order": "¥15~30",
+      "preferred store rating": "4.7~5.0 stars",
+      "preferred delivery time": "15~30 minutes",
+      "preferred distance": "0~2000m",
+      "recent orders": [
+        {
+          "store": "Xiaoyang Pan-fried Buns",
+          "product": "Signature Pan-fried Buns + Soy Milk"
+        },
+        {
+          "store": "Zhenyuan Pan-fried Buns (Sanyuan Branch)",
+          "product": "Pan-fried Pork Buns (4 pieces)"
+        },
+        {
+          "store": "Suzhou Special Breakfast Shop",
+          "product": "Scallion Pancake + Soy Milk"
+        }
+      ],
+      "search history": [
+        "breakfast",
+        "steamed buns",
+        "fried dough sticks",
+        "soy milk",
+        "pan-fried buns",
+        "porridge"
+      ]
+    },
+    "weekday lunch/dinner": {
+      "frequently purchased categories": [
+        "Quick meals/Rice with toppings (average ¥25)",
+        "Quick meals/Rice noodles (average ¥22)",
+        "Quick meals/Small dishes (average ¥28)"
+      ],
+      "cost per order": "¥20~40",
+      "preferred store rating": "4.0~4.5 stars",
+      "preferred delivery time": "20~35 minutes",
+      "preferred distance": "0~3000m",
+      "recent orders": [
+        {
+          "store": "Happy Canteen",
+          "product": "Shredded Pork with Garlic Sauce Rice"
+        },
+        {
+          "store": "Hunan Small Dishes",
+          "product": "Braised Pork Ribs + Stir-fried Seasonal Vegetables"
+        },
+        {
+          "store": "Granny's Rice Noodles",
+          "product": "Braised Meat Rice Noodles"
+        }
+      ],
+      "search history": [
+        "fast food",
+        "rice with toppings",
+        "rice noodles",
+        "small dishes",
+        "boxed meals"
+      ]
+    },
+    "weekend lunch/dinner": {
+      "frequently purchased categories": [
+        "Chinese cuisine/Northeastern cuisine (average ¥65)",
+        "Chinese cuisine/Stewed pot (average ¥70)",
+        "Hot pot/Clay pot porridge (average ¥55)"
+      ],
+      "cost per order": "¥50~80",
+      "preferred store rating": "4.3~4.8 stars",
+      "preferred delivery time": "30~45 minutes",
+      "preferred distance": "0~4000m",
+      "recent orders": [
+        {
+          "store": "Northeastern Brother's Restaurant",
+          "product": "Sweet and Sour Pork + Three Treasures from the Earth + Rice"
+        },
+        {
+          "store": "Old City Stewed Pot",
+          "product": "Pork Ribs Stewed Pot + Rice"
+        },
+        {
+          "store": "Clay Pot Porridge King",
+          "product": "Seafood Clay Pot Porridge + Side Dishes"
+        }
+      ],
+      "search history": [
+        "northeastern cuisine",
+        "stewed pot",
+        "clay pot",
+        "home-style cooking",
+        "stomach-friendly"
+      ]
+    },
+    "desserts/drinks/snacks": {
+      "frequently purchased categories": [
+        "Drinks and desserts/Fruit juice (average ¥18)",
+        "Drinks and desserts/Pure tea/Herbal tea (average ¥15)",
+        "Drinks and desserts/Chinese pastries (average ¥22)"
+      ],
+      "cost per order": "¥15~30",
+      "preferred store rating": "4.5~4.9 stars",
+      "preferred delivery time": "15~30 minutes",
+      "preferred distance": "0~2500m",
+      "recent orders": [
+        {
+          "store": "Fresh Fruit Workshop",
+          "product": "Fresh Watermelon Juice"
+        },
+        {
+          "store": "Cha Bai Dao",
+          "product": "Oolong Tea"
+        },
+        {
+          "store": "Suzhou Pastry House",
+          "product": "Osmanthus Cake"
+        }
+      ],
+      "search history": [
+        "fruit juice",
+        "oolong tea",
+        "sugar-free drinks",
+        "pastries",
+        "healthy drinks"
+      ]
+    },
+    "night snack": {
+      "frequently purchased categories": [
+        "Quick meals/Clay pot soup (average ¥32)",
+        "Quick meals/Clay pot dishes (average ¥35)",
+        "Snacks/Braised foods (average ¥28)"
+      ],
+      "cost per order": "¥25~40",
+      "preferred store rating": "4.2~4.6 stars",
+      "preferred delivery time": "20~35 minutes",
+      "preferred distance": "0~3000m",
+      "recent orders": [
+        {
+          "store": "Old Street Clay Pot Soup",
+          "product": "Pork Rib Clay Pot Soup"
+        },
+        {
+          "store": "Clay Pot House",
+          "product": "Chicken Soup Clay Pot"
+        },
+        {
+          "store": "Braised Flavor Family",
+          "product": "Braised Meat Platter"
+        }
+      ],
+      "search history": [
+        "clay pot soup",
+        "clay pot",
+        "braised food",
+        "warming food",
+        "non-spicy food"
+      ]
+    }
+  },
+  "stores": {
+    "S27136445248806510_S46408": {
+      "name": "Zhenyuan Pan-fried Buns (Sanyuan Branch)",
+      "store_id": "S27136445248806510_S46408",
+      "score": 5,
+      "location": {
+        "address": "No. 3, Sanyuan Second Village Farmers Market, Gusu District, Suzhou, Jiangsu Province",
+        "latitude": 31.303735,
+        "longitude": 120.57855
+      },
+      "tags": [],
+      "products": [
+        {
+          "name": "Pork Soup Dumplings (10 pieces)",
+          "store_id": "S27136445248806510_S46408",
+          "store_name": "Zhenyuan Pan-fried Buns (Sanyuan Branch)",
+          "price": 20.0,
+          "tags": [],
+          "product_id": "S48452361781906723_P25628",
+          "attributes": [],
+          "quantity": 9999
+        },
+        {
+          "name": "Pan-fried Pork Buns (4 pieces)",
+          "product_id": "S22321063784792597_P11775",
+          "store_id": "S27136445248806510_S46408",
+          "store_name": "Zhenyuan Pan-fried Buns (Sanyuan Branch)",
+          "price": 14,
+          "tags": [],
+          "attributes": [],
+          "quantity": 9999
+        },
+        {
+          "name": "Original Pork Wonton Soup",
+          "product_id": "S24075840598968774_P91078",
+          "store_id": "S27136445248806510_S46408",
+          "store_name": "Zhenyuan Pan-fried Buns (Sanyuan Branch)",
+          "price": 18,
+          "tags": [],
+          "attributes": [],
+          "quantity": 9999
+        }
+      ]
+    },
+    "S14435897382672475_S57358": {
+      "name": "Lao Shengxing Soup Dumpling Restaurant (Tongjing North Road Branch)",
+      "store_id": "S14435897382672475_S57358",
+      "score": 5,
+      "location": {
+        "address": "No. 11 Tongjing North Road, Jinchang Street (Right inside the hall), Gusu District, Suzhou, Jiangsu Province",
+        "latitude": 31.305516,
+        "longitude": 120.590711
+      },
+      "tags": [],
+      "products": [
+        {
+          "name": "[Rich Crab Flavor] Crab Roe Soup Dumplings",
+          "product_id": "S18159942745920079_P40910",
+          "store_id": "S14435897382672475_S57358",
+          "store_name": "Lao Shengxing Soup Dumpling Restaurant (Tongjing North Road Branch)",
+          "price": 22.8,
+          "tags": [],
+          "attributes": [],
+          "quantity": 9999
+        },
+        {
+          "name": "[Juicy] Pork Soup Dumplings",
+          "product_id": "S77717084873936866_P22839",
+          "store_id": "S14435897382672475_S57358",
+          "store_name": "Lao Shengxing Soup Dumpling Restaurant (Tongjing North Road Branch)",
+          "price": 13.8,
+          "tags": [],
+          "attributes": [],
+          "quantity": 9999
+        }
+      ]
+    },
+    "S18640875855785674_S87977": {
+      "name": "Zhenyuan Pan-fried Buns (Longxi Road Branch)",
+      "store_id": "S18640875855785674_S87977",
+      "score": 4.7,
+      "location": {
+        "address": "Zhenyuan Pan-fried Buns (Longxi Road Branch), 335-337 Longxi Road, Wuzhong District, Suzhou, Jiangsu Province",
+        "latitude": 31.274064,
+        "longitude": 120.616709
+      },
+      "tags": [],
+      "products": [
+        {
+          "name": "Pork Soup Dumplings (10 pieces)",
+          "product_id": "S60447479452393044_P27745",
+          "store_id": "S18640875855785674_S87977",
+          "store_name": "Zhenyuan Pan-fried Buns (Longxi Road Branch)",
+          "price": 24,
+          "tags": [],
+          "attributes": [],
+          "quantity": 9999
+        }
+      ]
+    }
+  },
+  "orders": {
+    "I0721003O01": {
+      "order_id": "I0721003O01",
+      "order_type": "delivery",
+      "user_id": "U000059",
+      "store_id": "S27136445248806510_S46408",
+      "note": "",
+      "location": {
+        "address": "Yintai Garden, 1168 Ganjiang West Road (440m walk from Tongjing North Road Metro Station Exit 5), Gusu District, Suzhou, Jiangsu Province",
+        "longitude": 120.584891,
+        "latitude": 31.302862
+      },
+      "dispatch_time": "2025-09-19 07:10:00",
+      "shipping_time": 25,
+      "delivery_time": "2025-09-19 07:35:00",
+      "total_price": 14,
+      "create_time": "2025-09-19 06:50:00",
+      "update_time": "2025-09-19 06:50:00",
+      "status": "delivered",
+      "products": [
+        {
+          "product_id": "S22321063784792597_P11775",
+          "price": 14,
+          "quantity": 1,
+          "attributes": ""
+        }
+      ]
+    }
+  }
+}

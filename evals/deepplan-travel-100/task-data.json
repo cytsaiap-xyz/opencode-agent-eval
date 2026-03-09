@@ -1,0 +1,56 @@
+{
+  "task_id": "99",
+  "query": "I plan to depart from Guangzhou to Quanzhou on November 12, 2025, and stay for 6 days, with my return trip on November 17, 2025. I'd like you to help me plan the entire itinerary, including transportation, accommodation, dining, and sightseeing arrangements.\n\nRegarding transportation, I’d like to take a train back. Could you please find me the cheapest available direct train? This way, I can save money while enjoying the scenery along the way.\n\nFor accommodation, a 3-star hotel is sufficient—clean and comfortable is all I need. By the way, parking is a must, as we’ll be driving there. The hotel must offer free parking service.\n\nAs for attractions, I really want to visit all the sites labeled with \"natural风光\". I’ve heard that Quanzhou’s natural scenery is amazing, so I definitely don’t want to miss those. Additionally, I’d like to visit the highest-rated \"leisure experience\" attraction to try out the most recommended local leisure activity.\n\nThat covers my main requirements—I believe I’ve provided all necessary information. Please go ahead and arrange a detailed itinerary for me without needing to ask for further details! November 12, 2025 is Wednesday",
+  "meta_info": {
+    "org": "Guangzhou",
+    "dest": [
+      "Quanzhou"
+    ],
+    "days": 6,
+    "depart_date": "2025-11-12",
+    "return_date": "2025-11-17",
+    "people_number": 2,
+    "room_number": 1
+  },
+  "hard_constraints": {
+    "train_cheapest_direct": {
+      "constraint_context": "For the return trip, I hope to choose a train, and need to select the cheapest direct train available",
+      "constraint_type": "superlative_cheapest_direct",
+      "inbound_train_no": "D3315"
+    },
+    "hotel_star_service_required": {
+      "constraint_context": "Please select a 3-star hotel that offers free parking.",
+      "constraint_type": "superlative_star_service_required",
+      "hotel_name": "Orange Hotel Quanzhou Jinjiang International Airport Yangguang Road",
+      "required_service": "Free Parking",
+      "hotel_star": 3,
+      "hotel_price": 282.0
+    },
+    "attraction_all_of_type": {
+      "constraint_context": "Must-visit attractions: Recommend all sites of type 'Natural Scenery' mentioned in the attraction recommendation tool",
+      "constraint_type": "superlative_all_of_type",
+      "attraction_names": [
+        "Shishi Golden Coast",
+        "West Lake Park"
+      ],
+      "attraction_type_cn": "自然风光",
+      "attraction_type": "Natural Scenery",
+      "attraction_ratings": [
+        4.7,
+        4.8
+      ]
+    },
+    "attraction_type_highest_rated": {
+      "constraint_context": "The itinerary must include the highest-rated attraction among those categorized as 'Leisure Experience'.",
+      "constraint_type": "superlative_type_highest_rated",
+      "attraction_names": [
+        "Quanfufu Xiaoxicheng"
+      ],
+      "attraction_type_cn": "休闲体验",
+      "attraction_type": "Leisure Experience",
+      "attraction_ratings": [
+        4.7
+      ]
+    }
+  }
+}

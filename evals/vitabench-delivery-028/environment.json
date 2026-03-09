@@ -1,0 +1,410 @@
+{
+  "task_id": "40721001",
+  "domain": "delivery",
+  "time": "2025-03-17 09:13:13",
+  "user_id": "U000081",
+  "weather": [
+    {
+      "city": "Baoding City",
+      "category": "cloudy",
+      "datetime": "2025-03-17",
+      "temperature": [
+        1,
+        14
+      ],
+      "humidity": 52
+    }
+  ],
+  "location": [
+    {
+      "address": "Taojie Law Office, Room 101, 396 Xiangyang Street, Jianshe South Road Subdistrict, Jingxiu District, Baoding, Hebei Province",
+      "longitude": 115.472165,
+      "latitude": 38.871248
+    }
+  ],
+  "user_profile": {
+    "user id": "U000081",
+    "occupation": "Lawyer",
+    "gender": "male",
+    "age group": "35~40",
+    "residence": "Baoding",
+    "home address": "Lekai Yisheng Community, 527 Dongfeng West Road, Dongfeng Subdistrict, Jingxiu District, Baoding, Hebei Province",
+    "work address": "Taojie Law Office, Room 101, 396 Xiangyang Street, Jianshe South Road Subdistrict, Jingxiu District, Baoding, Hebei Province",
+    "dietary restrictions": "No dairy products, no alcohol",
+    "family status": "Living with elderly parents",
+    "personality": "Tends to be dominant and controlling, not easily receptive to different opinions"
+  },
+  "user_historical_behaviors": {
+    "user id": "U000081",
+    "occupation": "Lawyer",
+    "gender": "male",
+    "age group": "35~40",
+    "residence": "Baoding",
+    "home address": "Lekai Yisheng Community, 527 Dongfeng West Road, Dongfeng Subdistrict, Jingxiu District, Baoding, Hebei Province",
+    "work address": "Taojie Law Office, Room 101, 396 Xiangyang Street, Jianshe South Road Subdistrict, Jingxiu District, Baoding, Hebei Province",
+    "breakfast": {
+      "frequently purchased categories": [
+        "Quick Meals/Baozi (average 18 yuan)",
+        "Quick Meals/Pancakes (average 22 yuan)",
+        "Quick Meals/Porridge (average 12 yuan)"
+      ],
+      "cost per order": "12~35 yuan",
+      "preferred store rating": "4.0~4.9 stars",
+      "preferred delivery time": "15~45 minutes",
+      "preferred distance": "0~5000m",
+      "recent orders": [
+        {
+          "store": "Shan Yao Yao Vegetable Pancakes",
+          "product": "Pure Peanut Oil Vegetable Pancake + Vegetables + Egg + Shredded Meat"
+        },
+        {
+          "store": "Chundejin Baozi (Garden Store)",
+          "product": "Braised Tea Egg, Fresh Meat Bun, Original Soy Milk"
+        }
+      ],
+      "search history": [
+        "Health porridge",
+        "Baozi",
+        "Breakfast items",
+        "Sugar-free soy milk"
+      ]
+    },
+    "weekday lunch/dinner": {
+      "frequently purchased categories": [
+        "Quick Meals/Whole Grain Rice (average 32 yuan)",
+        "Quick Meals/Light Food (average 45 yuan)",
+        "Chinese Cuisine/Shandong Cuisine (average 68 yuan)"
+      ],
+      "cost per order": "30~75 yuan",
+      "preferred store rating": "4.0~5.0 stars",
+      "preferred delivery time": "20~50 minutes",
+      "preferred distance": "0~5000m",
+      "recent orders": [
+        {
+          "store": "Steam Feast · Halal Healthy Meal · Henan Steamed Food · Chinese Light Food",
+          "product": "Energy Recovery Meal (3 vegetable dishes + 3 meat dishes)"
+        },
+        {
+          "store": "Fresh Delicious Whole Grain Rice",
+          "product": "Yi Style Beef Whole Grain Rice (Single Person Meal)"
+        }
+      ],
+      "search history": [
+        "Healthy lunch",
+        "Non-spicy",
+        "Low-fat meal",
+        "Beef"
+      ]
+    },
+    "weekend lunch/dinner": {
+      "frequently purchased categories": [
+        "Chinese Cuisine/Shandong Cuisine (average 120 yuan)",
+        "Chinese Cuisine/Northeastern Cuisine (average 110 yuan)",
+        "International Cuisine/Pasta (average 85 yuan)"
+      ],
+      "cost per order": "80~180 yuan",
+      "preferred store rating": "4.5~5.0 stars",
+      "preferred delivery time": "25~45 minutes",
+      "preferred distance": "0~5000m",
+      "recent orders": [
+        {
+          "store": "Lu Xiang Fu",
+          "product": "Scallion Stir-fried Lamb + Sweet and Sour Yellow River Carp + Tofu with Cilantro"
+        },
+        {
+          "store": "Northeastern Courtyard",
+          "product": "Northeastern Sweet and Sour Pork + Three Earthly Treasures + Chicken Stewed with Mushrooms"
+        },
+        {
+          "store": "George's Italian Restaurant",
+          "product": "Beef Mushroom Pasta + Caesar Salad"
+        }
+      ],
+      "search history": [
+        "Family meal",
+        "Shandong cuisine",
+        "Northeastern cuisine",
+        "Steamed fish"
+      ]
+    },
+    "desserts/drinks/snacks": {
+      "frequently purchased categories": [
+        "Beverages & Desserts/Pure Tea/Cold Tea (average 22 yuan)",
+        "Beverages & Desserts/Coffee (average 30 yuan)",
+        "Beverages & Desserts/Chinese Pastries (average 30 yuan)"
+      ],
+      "cost per order": "20~40 yuan",
+      "preferred store rating": "4.2~5.0 stars",
+      "preferred delivery time": "15~50 minutes",
+      "preferred distance": "0~5000m",
+      "recent orders": [
+        {
+          "store": "Old Beijing Thirteen Specialties · Traditional Chinese Pastries (Lianchi Store)",
+          "product": "Crispy Four-Piece Set [Nutritious & Not Too Sweet]"
+        }
+      ],
+      "search history": [
+        "Oolong tea",
+        "Sugar-free coffee",
+        "Traditional pastries",
+        "Health tea"
+      ]
+    },
+    "night snack": {
+      "frequently purchased categories": [
+        "Hot Pot/Clay Pot Porridge (average 40 yuan)",
+        "Quick Meals/Dumplings/Wonton (average 35 yuan)"
+      ],
+      "cost per order": "30~55 yuan",
+      "preferred store rating": "4.3~4.8 stars",
+      "preferred delivery time": "20~35 minutes",
+      "preferred distance": "0~2500m",
+      "recent orders": [
+        {
+          "store": "Grandma's Clay Pot Porridge",
+          "product": "Century Egg & Lean Meat Porridge + Side Dish"
+        },
+        {
+          "store": "Old Wang's Dumpling House",
+          "product": "Three Delicacies Dumplings"
+        },
+        {
+          "store": "Fu Lin Men Clay Pot",
+          "product": "Clear-stewed Beef Clay Pot"
+        }
+      ],
+      "search history": [
+        "Clay pot porridge",
+        "Stomach-friendly night snack",
+        "Dumplings",
+        "Mild flavor",
+        "Warming food"
+      ]
+    }
+  },
+  "stores": {
+    "S12527455866039387_S87262": {
+      "name": "Baoding Kitchen",
+      "store_id": "S12527455866039387_S87262",
+      "score": 4.9,
+      "location": {
+        "address": "Baoding Kitchen, 969 Chaoyang North Street (Opposite Baobai), Jingxiu District, Baoding, Hebei Province",
+        "latitude": 38.893028,
+        "longitude": 115.468779
+      },
+      "tags": [],
+      "products": [
+        {
+          "name": "【Health Maintenance Meal】Vinegar Stir-fried Shredded Potato + Pumpkin Millet Porridge + Fragrant Rice ",
+          "store_id": "S12527455866039387_S87262",
+          "store_name": "Baoding Kitchen",
+          "price": 29.9,
+          "tags": [
+            "Low Oil and Salt",
+            "No.1 Store Bestseller",
+            "No.1 Repurchase Item"
+          ],
+          "product_id": "S12944248077265433_P42501",
+          "attributes": [],
+          "quantity": 9999
+        },
+        {
+          "name": "【Appetizing Meal】Homestyle Stir-fried Pork + Pumpkin Millet Porridge + Fragrant Rice ",
+          "store_id": "S12527455866039387_S87262",
+          "store_name": "Baoding Kitchen",
+          "price": 47,
+          "tags": [
+            "Appetizing"
+          ],
+          "product_id": "S95890076693330472_P46979",
+          "attributes": [],
+          "quantity": 9999
+        },
+        {
+          "name": "【Premium Single Meal】Kung Pao Chicken + Pumpkin Millet Porridge + Fragrant Rice ",
+          "store_id": "S12527455866039387_S87262",
+          "store_name": "Baoding Kitchen",
+          "price": 29.9,
+          "tags": [
+            "Appetizing"
+          ],
+          "product_id": "S24207805708258830_P61796",
+          "attributes": [],
+          "quantity": 9999
+        }
+      ]
+    },
+    "S82494482631579347_S23157": {
+      "name": "Chundejin Baozi (Garden Store)",
+      "store_id": "S82494482631579347_S23157",
+      "score": 4.7,
+      "location": {
+        "address": "Chundejin Baozi (Xiangyang Street), Junyue Community, 625 Xiangyang Street, Jingxiu District, Baoding, Hebei Province",
+        "latitude": 38.863769,
+        "longitude": 115.460781
+      },
+      "tags": [],
+      "products": [
+        {
+          "name": "Braised Tea Egg",
+          "store_id": "S82494482631579347_S23157",
+          "store_name": "Chundejin Baozi (Garden Store)",
+          "price": 2.0,
+          "tags": [],
+          "product_id": "S30009099950619045_P99935",
+          "attributes": [],
+          "quantity": 9999
+        },
+        {
+          "name": "Fresh Meat Bun",
+          "store_id": "S82494482631579347_S23157",
+          "store_name": "Chundejin Baozi (Garden Store)",
+          "price": 10.0,
+          "tags": [],
+          "product_id": "S34002854115936253_P30287",
+          "attributes": [],
+          "quantity": 9999
+        },
+        {
+          "name": "Original Soy Milk",
+          "store_id": "S82494482631579347_S23157",
+          "store_name": "Chundejin Baozi (Garden Store)",
+          "price": 4.5,
+          "tags": [],
+          "product_id": "S11655027708875740_P71827",
+          "attributes": [],
+          "quantity": 9999
+        }
+      ]
+    },
+    "S69031706351719271_S47372": {
+      "name": "Small Happiness Sticky Bean Bun",
+      "store_id": "S69031706351719271_S47372",
+      "score": 5.0,
+      "location": {
+        "address": "Small Happiness Sticky Bean Bun, 859 Tianwei Middle Road, Jingxiu District, Lianchi District, Baoding, Hebei Province",
+        "latitude": 38.854694,
+        "longitude": 115.485892
+      },
+      "tags": [],
+      "products": [
+        {
+          "name": "Mixed Grain/1 Box/6 Pieces",
+          "store_id": "S69031706351719271_S47372",
+          "store_name": "Small Happiness Sticky Bean Bun",
+          "price": 20.0,
+          "tags": [
+            "Whole Grains",
+            "Low Sugar"
+          ],
+          "product_id": "S27469872835583751_P78504",
+          "attributes": [],
+          "quantity": 9999
+        }
+      ]
+    },
+    "S29690309827025277_S87452": {
+      "name": "Old Baoding",
+      "store_id": "S29690309827025277_S87452",
+      "score": 4.7,
+      "location": {
+        "address": "Old Baoding (Jianhua Street Store), 934 Jianhua Street, Lianchi District, Baoding, Hebei Province",
+        "latitude": 38.855909,
+        "longitude": 115.477621
+      },
+      "tags": [],
+      "products": [
+        {
+          "name": "Three Treasure Health Vegetables",
+          "store_id": "S29690309827025277_S87452",
+          "store_name": "Old Baoding",
+          "price": 28,
+          "tags": [
+            "Low Oil and Salt"
+          ],
+          "product_id": "S75564861890732229_P14756",
+          "attributes": [],
+          "quantity": 9999
+        }
+      ]
+    },
+    "S11704583820308489_S54105": {
+      "name": "Northeastern Iron Pot Stew and Stir-fry",
+      "store_id": "S11704583820308489_S54105",
+      "score": 4.7,
+      "location": {
+        "address": "Baoding Kitchen, 969 Chaoyang North Street (Opposite Baobai), Jingxiu District, Baoding, Hebei Province",
+        "latitude": 38.893028,
+        "longitude": 115.468779
+      },
+      "tags": [],
+      "products": [
+        {
+          "name": "Northeastern Sweet and Sour Pork ",
+          "store_id": "S11704583820308489_S54105",
+          "store_name": "Northeastern Iron Pot Stew and Stir-fry",
+          "price": 46.9,
+          "tags": [
+            "No.1 Store Bestseller, No.2 Repurchase Item"
+          ],
+          "product_id": "S19752530273974746_P63178",
+          "attributes": [],
+          "quantity": 9999
+        },
+        {
+          "name": "Pressure Pot Harvest Special ",
+          "store_id": "S11704583820308489_S54105",
+          "store_name": "Northeastern Iron Pot Stew and Stir-fry",
+          "price": 52.9,
+          "tags": [
+            "No.2 Store Bestseller, No.1 Repurchase Item"
+          ],
+          "product_id": "S20062171991343598_P29106",
+          "attributes": [],
+          "quantity": 9999
+        }
+      ]
+    }
+  },
+  "orders": {
+    "40711007O01": {
+      "order_id": "40711007O01",
+      "order_type": "delivery",
+      "user_id": "U000081",
+      "store_id": "S82494482631579347_S23157",
+      "note": "",
+      "location": {
+        "address": "Taojie Law Office, Room 101, 396 Xiangyang Street, Jianshe South Road Subdistrict, Jingxiu District, Baoding, Hebei Province",
+        "longitude": 115.472165,
+        "latitude": 38.871248
+      },
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 16.5,
+      "create_time": "2025-03-17 09:12:00",
+      "update_time": "2025-03-17 09:12:00",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S30009099950619045_P99935",
+          "price": 2.0,
+          "quantity": 1,
+          "attributes": ""
+        },
+        {
+          "product_id": "S34002854115936253_P30287",
+          "price": 10.0,
+          "quantity": 1,
+          "attributes": ""
+        },
+        {
+          "product_id": "S11655027708875740_P71827",
+          "price": 4.5,
+          "quantity": 1,
+          "attributes": ""
+        }
+      ]
+    }
+  }
+}

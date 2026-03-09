@@ -1,0 +1,112 @@
+{
+  "required_orders": [
+    {
+      "order_id": "OIb192a86a68",
+      "order_type": "instore",
+      "user_id": "U361678",
+      "store_id": "S17550802129001233_I00011",
+      "note": "",
+      "location": null,
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 258,
+      "create_time": "2025-02-27 14:32:00",
+      "update_time": "2025-02-27 13:32:00",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17550802129001233_P00057 ",
+          "price": 258,
+          "quantity": 1,
+          "name": "Family Fun Package (4 People)",
+          "shop_id": "S17550802129001233_I00011",
+          "tags": [
+            "Family Package",
+            "200 Tokens",
+            "Popcorn",
+            "Beverage",
+            "All-Access Pass"
+          ]
+        }
+      ]
+    },
+    {
+      "order_id": "OO24fd06922c",
+      "order_type": "train",
+      "user_id": "U361678",
+      "store_id": "S17550802129001233_T00001",
+      "note": "",
+      "location": null,
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 75.5,
+      "create_time": "2025-02-27 13:34:00",
+      "update_time": "2025-02-27 13:34:00",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17550802129001233_P00003",
+          "price": 75.5,
+          "quantity": 1,
+          "date": "2025-02-28",
+          "seat_type": "Second Class Seat"
+        }
+      ]
+    },
+    {
+      "order_id": "OT960844b251",
+      "order_type": "delivery",
+      "user_id": "U361678",
+      "store_id": "S17550848571848043_S00001",
+      "note": "",
+      "location": {
+        "address": "Unit 502, Building 3, Entrance 1, Longcheng Shangdu Community, 169 Qinxian North Street, Xiaodian District, Taiyuan, Shanxi Province",
+        "longitude": 112.565247,
+        "latitude": 37.812384
+      },
+      "dispatch_time": "2025-02-27 14:24:00",
+      "shipping_time": 26,
+      "delivery_time": "2025-02-27 14:50:00",
+      "total_price": 168,
+      "create_time": "2025-02-27 13:35:00",
+      "update_time": "2025-02-27 13:35:00",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17550848571848043_P00001",
+          "price": 168,
+          "quantity": 1,
+          "name": "Grilled Fish Family Feast Package",
+          "store_id": "S17550848571848043_S00001",
+          "store_name": "Yuyue Grilled Fish",
+          "attributes": "Five-Spice Flavor",
+          "tags": [
+            "For 4 People",
+            "Grass Carp",
+            "Family Package",
+            "Including 4 Side Dishes"
+          ]
+        }
+      ]
+    }
+  ],
+  "rubrics": [
+    "The grilled fish delivery restaurant should offer Dine-In Available",
+    "The grilled fish restaurant must have a rating of no less than 4.2",
+    "The grilled fish ordered must be Non-Spicy flavor [such as five-spice]",
+    "The grilled fish portion must be For 4 People",
+    "The ordered item must be Grilled Fish",
+    "The grilled fish order should be delivered to Unit 502, Building 3, Entrance 1, Longcheng Shangdu Community, 169 Qinxian North Street, Xiaodian District, Taiyuan, Shanxi Province",
+    "The grilled fish order must be delivered before 3 PM on February 27",
+    "The arcade ordered must have New Equipment",
+    "The arcade ordered must have Dance Machine",
+    "The arcade package should include Popcorn",
+    "The train booking should be for a train from Taiyuan to Linfen",
+    "The train ticket must be for a train departing around 2 PM [specifically, with departure time between 13:45 and 14:15 on February 28, 2025]",
+    "The train ticket must be Second Class Seat",
+    "Need to check all available options for the earliest arrival time, which is D2575, so the order should be for train D2575",
+    "The train ticket order date should be February 28, 2025"
+  ]
+}

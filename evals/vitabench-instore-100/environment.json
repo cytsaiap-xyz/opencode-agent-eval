@@ -1,0 +1,184 @@
+{
+  "task_id": "10826345",
+  "domain": "instore",
+  "time": "2025-08-29 16:23:00",
+  "user_id": "U695308",
+  "weather": [
+    {
+      "city": "Wuxi",
+      "category": "sunny",
+      "datetime": "2025-08-29",
+      "temperature": [
+        26,
+        34
+      ],
+      "humidity": 45
+    }
+  ],
+  "location": [
+    {
+      "address": "Room 1204, Building 3, Canal No.1 Apartment, 128 Xihui Road, Liangxi District, Wuxi",
+      "longitude": 120.301825,
+      "latitude": 31.585637
+    },
+    {
+      "address": "Super Orangutan Fitness Club, 4th Floor, Center 66, 5 Financial First Street, Taihu New City, Binhu District, Wuxi",
+      "longitude": 120.288435,
+      "latitude": 31.531256
+    }
+  ],
+  "user_profile": {
+    "user id": "U695308",
+    "occupation": "Fitness Coach",
+    "gender": "male",
+    "age group": "25~30",
+    "residence": "Wuxi",
+    "home address": "Room 1204, Building 3, Canal No.1 Apartment, 128 Xihui Road, Liangxi District, Wuxi",
+    "work address": "Super Orangutan Fitness Club, 4th Floor, Center 66, 5 Financial First Street, Taihu New City, Binhu District, Wuxi",
+    "dietary restrictions": "Avoids high sugar",
+    "family status": "In a relationship",
+    "personality": "Strong logical thinking, enjoys analysis and questioning, pursues accuracy"
+  },
+  "user_historical_behaviors": {
+    "user id": "U695308",
+    "occupation": "Fitness Coach",
+    "gender": "male",
+    "age group": "25~30",
+    "residence": "Wuxi",
+    "home address": "Room 1204, Building 3, Canal No.1 Apartment, 128 Xihui Road, Liangxi District, Wuxi",
+    "work address": "Super Orangutan Fitness Club, 4th Floor, Center 66, 5 Financial First Street, Taihu New City, Binhu District, Wuxi",
+    "in-store dining": {
+      "fine-dining": {
+        "frequently purchased categories": [
+          "International Cuisine/Western Food (Average 145 yuan)",
+          "Regional Cuisine/Seafood (Average 130 yuan)",
+          "Regional Cuisine/Specialty Dishes (Average 110 yuan)"
+        ],
+        "preferred average price per person": "110~150 yuan",
+        "preferred store rating": "4.2~4.8 stars",
+        "typical dining time": "19:00-21:00",
+        "preferred distance": "0~3000m",
+        "recent orders": [
+          {
+            "store": "Wuxi Taihu Fishing Port",
+            "product": "Taihu Three Whites Set Menu"
+          },
+          {
+            "store": "The Steak House",
+            "product": "Australian Steak Set (Low-Fat Version)"
+          },
+          {
+            "store": "Blue Mediterranean Restaurant",
+            "product": "High-Protein Salad + Grilled Salmon"
+          }
+        ],
+        "search history": [
+          "Fitness meals",
+          "High-protein low-fat",
+          "Best-rated Western restaurants in Wuxi",
+          "Couple date restaurants"
+        ]
+      },
+      "light meal": {
+        "frequently purchased categories": [
+          "Fast Food/Chinese Quick Meals (Average 35 yuan)",
+          "Fast Food/Western Quick Meals (Average 45 yuan)",
+          "Regional Cuisine/Local Jiangsu-Zhejiang Dishes (Average 40 yuan)"
+        ],
+        "preferred average price per person": "30~50 yuan",
+        "preferred store rating": "3.5~4.3 stars",
+        "typical dining time": "11:30-13:00",
+        "preferred distance": "0~3000m",
+        "recent orders": [
+          {
+            "store": "Light Food Philosophy",
+            "product": "Chicken Breast Quinoa Rice"
+          },
+          {
+            "store": "Wuxi Xiaolongbao",
+            "product": "Steamed Xiaolongbao + Stir-fried Seasonal Vegetables"
+          },
+          {
+            "store": "Salad Box",
+            "product": "Fitness Salad Set"
+          }
+        ],
+        "search history": [
+          "Fitness meals",
+          "Low calorie",
+          "High protein",
+          "Quick service"
+        ]
+      },
+      "desserts/drinks/snacks": {
+        "frequently purchased categories": [
+          "Beverage Shops (Average 22 yuan)",
+          "Other Dining/Fresh Fruits (Average 18 yuan)"
+        ],
+        "preferred average price per person": "15~25 yuan",
+        "preferred store rating": "3.9~4.6 stars",
+        "typical dining time": "15:00-16:30",
+        "preferred distance": "0~500m",
+        "recent orders": [
+          {
+            "store": "Yi Dian Dian",
+            "product": "Sugar-free Green Tea"
+          },
+          {
+            "store": "Fresh Fruit Workshop",
+            "product": "Fitness Protein Shake"
+          },
+          {
+            "store": "Miss Fresh",
+            "product": "Mixed Nuts Gift Box"
+          }
+        ],
+        "search history": [
+          "Sugar-free drinks",
+          "Protein shakes",
+          "Healthy snacks"
+        ]
+      }
+    },
+    "other in-store services": {
+      "frequently consumed categories": {
+        "Sports & Fitness/Fitness Centers": "65%",
+        "Sports & Fitness/Ball Sports": "20%",
+        "Beauty/Yoga": "10%",
+        "Entertainment/Massage/Foot Therapy": "5%"
+      },
+      "cost per order by category": {
+        "Sports & Fitness/Fitness Centers": "80~200 yuan",
+        "Sports & Fitness/Ball Sports": "50~120 yuan",
+        "Beauty/Yoga": "80~150 yuan",
+        "Entertainment/Massage/Foot Therapy": "120~180 yuan"
+      },
+      "preferred store rating": "4.0~4.9 stars",
+      "preferred service time": "17:00-21:00",
+      "preferred distance": "500~3000m",
+      "recent orders": [
+        {
+          "store": "Super Orangutan Fitness",
+          "product": "Personal Training Course"
+        },
+        {
+          "store": "Wuxi Sports Center",
+          "product": "Badminton Court Reservation"
+        },
+        {
+          "store": "Brahma Yoga",
+          "product": "Power Yoga Single Experience"
+        }
+      ],
+      "search history": [
+        "Fitness equipment",
+        "Protein powder",
+        "Sports recovery",
+        "Body conditioning",
+        "Fitness studio"
+      ]
+    }
+  },
+  "stores": {},
+  "orders": {}
+}

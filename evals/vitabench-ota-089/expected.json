@@ -1,0 +1,69 @@
+{
+  "required_orders": [
+    {
+      "order_id": "D0811009T001",
+      "order_type": "attraction",
+      "user_id": "U462418",
+      "store_id": "S17557513687523962_A00006",
+      "note": "",
+      "location": null,
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 60,
+      "create_time": "2024-11-05 22:21:56",
+      "update_time": "2024-11-05 22:21:56",
+      "status": "unpaid",
+      "products": [
+        {
+          "product_id": "S17557513687523962_P00037",
+          "price": 60,
+          "quantity": 1,
+          "date": "2024-11-07",
+          "ticket_type": "Adult Ticket"
+        }
+      ]
+    },
+    {
+      "order_id": "D0811009T002",
+      "order_type": "hotel",
+      "user_id": "U462418",
+      "store_id": "S17557513687523962_H00002",
+      "note": "",
+      "location": null,
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 296,
+      "create_time": "2024-11-05 22:24:21",
+      "update_time": "2024-11-05 22:24:21",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17557513687523962_P00008",
+          "price": 148,
+          "quantity": 1,
+          "date": "2024-11-06",
+          "room_type": "Economy King Room"
+        },
+        {
+          "product_id": "S17557513687523962_P00009",
+          "price": 148,
+          "quantity": 1,
+          "date": "2024-11-07",
+          "room_type": "Economy King Room"
+        }
+      ]
+    }
+  ],
+  "rubrics": [
+    "The attraction ordered should be of the type that interests the user most (which according to user profile is traditional village type)",
+    "The attraction ticket purchased should be for November 7, 2024",
+    "The attraction ticket purchased should be an Adult Ticket",
+    "According to the calendar, Wednesday (November 6, 2024) and Thursday (November 7, 2024) are not holidays, so the hotel booked should be within 5km of the attraction",
+    "The hotel should be booked for November 6, 2024 and November 7, 2024",
+    "The room type booked in the hotel order should be a king room",
+    "The total price spent on the hotel order should not exceed 300 yuan",
+    "The hotel booked should have Free Parking"
+  ]
+}

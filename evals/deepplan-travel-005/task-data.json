@@ -1,0 +1,50 @@
+{
+  "task_id": "4",
+  "query": "I plan to travel from Changchun to Dalian on November 12, 2025, and stay for two days, returning on the 13th. For this trip, I'd like to take the train both ways and prefer \"first-class seat\" since it's more comfortable. Please check what suitable train options are available and help me arrange them.\n\nFor accommodation, I’d like a three-star hotel with a gym—ideally somewhere I can exercise in the evening. By the way, there are three of us traveling together, so we’ll need two rooms. Just pick a comfortable place for us.\n\nDuring this trip to Dalian, I really want to experience some natural scenery. I’ve heard there are some great scenic spots—please arrange for us to visit the highest-rated one in the natural landscape category. Also, the area around \"Zhongshan Square\" seems quite lively, and I’ve heard there are many good restaurants nearby. Could you help me find the highest-rated restaurant in that area and arrange a meal there?\n\nThat covers all my requirements. Please go ahead and plan a detailed itinerary for me! November 12, 2025 is Wednesday",
+  "meta_info": {
+    "org": "Changchun",
+    "dest": [
+      "Dalian"
+    ],
+    "days": 2,
+    "depart_date": "2025-11-12",
+    "return_date": "2025-11-13",
+    "people_number": 3,
+    "room_number": 2
+  },
+  "hard_constraints": {
+    "train_seat_class": {
+      "constraint_context": "Traveling by train, and hoping to choose first-class seats for both the outbound and return journeys",
+      "outbound_train_no": "G724",
+      "inbound_train_no": "G49"
+    },
+    "hotel_star_service_required": {
+      "constraint_context": "Please select a 3-star hotel that offers a gym for accommodation.",
+      "constraint_type": "superlative_star_service_required",
+      "hotel_name": "Ji Hotel Dalian Qingniwa Commercial Street",
+      "required_service": "Gym",
+      "hotel_star": 3,
+      "hotel_price": 275.0
+    },
+    "attraction_type_highest_rated": {
+      "constraint_context": "The itinerary must include the highest-rated attraction in the 'Natural Scenery' category.",
+      "constraint_type": "superlative_type_highest_rated",
+      "attraction_names": [
+        "Binhai Road West Section Boardwalk"
+      ],
+      "attraction_type_cn": "自然风光",
+      "attraction_type": "Natural Scenery",
+      "attraction_ratings": [
+        4.9
+      ]
+    },
+    "restaurant_highest_rated": {
+      "constraint_context": "During the trip, please arrange a meal at the highest-rated restaurant near 'Zhongshan Square'.",
+      "constraint_type": "superlative_highest_rated_restaurant",
+      "attraction_name": "Zhongshan Square",
+      "restaurant_name": "Zhenghuangqi Seafood Barbecue Food Stall (Yan'an Road Main Branch)",
+      "price_per_person": 201.0,
+      "restaurant_rating": 4.7
+    }
+  }
+}

@@ -1,0 +1,879 @@
+{
+  "task_id": "10808006",
+  "domain": "cross_domain",
+  "time": "2025-09-21 11:45:21",
+  "user_id": "U261695",
+  "weather": [
+    {
+      "city": "Wuhan",
+      "category": "cloudy",
+      "datetime": "2025-09-21",
+      "temperature": [
+        22,
+        29
+      ],
+      "humidity": 65
+    }
+  ],
+  "location": [
+    {
+      "address": "Room 801, Unit 1, Building 3, Rongqiao Jincheng, 138 Zhuodaoquan South Road, Hongshan District, Wuhan, Hubei Province",
+      "longitude": 114.375689,
+      "latitude": 30.518742
+    },
+    {
+      "address": "15th Floor, New World International Trade Building, 568 Jianshe Avenue, Jianghan District, Wuhan, Hubei Province",
+      "longitude": 114.268752,
+      "latitude": 30.581963
+    }
+  ],
+  "user_profile": {
+    "user id": "U261695",
+    "occupation": "HR Manager",
+    "gender": "female",
+    "age group": "35~40",
+    "residence": "Wuhan",
+    "home address": "Room 801, Unit 1, Building 3, Rongqiao Jincheng, 138 Zhuodaoquan South Road, Hongshan District, Wuhan, Hubei Province",
+    "work address": "15th Floor, New World International Trade Building, 568 Jianshe Avenue, Jianghan District, Wuhan, Hubei Province",
+    "dietary restrictions": "No high sugar, No caffeine",
+    "family status": "In a relationship",
+    "personality": "Cold and concise in expression, lacking emotional communication and patience"
+  },
+  "user_historical_behaviors": {
+    "user id": "U261695",
+    "occupation": "HR Manager",
+    "gender": "female",
+    "age group": "35~40",
+    "residence": "Wuhan",
+    "home address": "Room 801, Unit 1, Building 3, Rongqiao Jincheng, 138 Zhuodaoquan South Road, Hongshan District, Wuhan, Hubei Province",
+    "work address": "15th Floor, New World International Trade Building, 568 Jianshe Avenue, Jianghan District, Wuhan, Hubei Province",
+    "delivery": {
+      "breakfast": {
+        "frequently purchased categories": [
+          "Quick Meals/Buns/Pan-fried Buns (Average ¥18)",
+          "Quick Meals/Hot Dry Noodles (Average ¥15)",
+          "Quick Meals/Light Food (Average ¥26)"
+        ],
+        "cost per order": "¥15~30",
+        "preferred store rating": "4.2~4.7 stars",
+        "preferred delivery time": "15~25 minutes",
+        "preferred distance": "0~1500m",
+        "recent orders": [
+          {
+            "store": "Wuhan Traditional Breakfast",
+            "product": "Hot Dry Noodles + Soy Milk Set"
+          },
+          {
+            "store": "Steamed Bun Shop",
+            "product": "Three Vegetable Buns + Millet Porridge"
+          },
+          {
+            "store": "Light Food Select",
+            "product": "Boiled Egg and Vegetable Sandwich + Yogurt"
+          }
+        ],
+        "search history": [
+          "Low Sugar breakfast",
+          "Hot dry noodles",
+          "Light breakfast",
+          "Healthy porridge"
+        ]
+      },
+      "weekday lunch/dinner": {
+        "frequently purchased categories": [
+          "Quick Meals/Healthy Meal (Average ¥42)",
+          "Chinese Formal Dining/Cantonese Cuisine (Average ¥55)",
+          "Foreign Cuisine/Stone Pot Rice/Teppanyaki (Average ¥38)"
+        ],
+        "cost per order": "¥35~60",
+        "preferred store rating": "4.3~4.8 stars",
+        "preferred delivery time": "20~35 minutes",
+        "preferred distance": "0~2500m",
+        "recent orders": [
+          {
+            "store": "Balanced Healthy Meals",
+            "product": "Chicken Breast Vegetable Salad + Quinoa Rice"
+          },
+          {
+            "store": "Cantonese Delights",
+            "product": "Steamed Sea Bass + Seasonal Vegetables"
+          },
+          {
+            "store": "Korean Cuisine House",
+            "product": "Stone Pot Bibimbap + Seaweed Soup"
+          }
+        ],
+        "search history": [
+          "Low Calorie lunch",
+          "Healthy Meal",
+          "Light Cantonese cuisine",
+          "Steamed dishes"
+        ]
+      },
+      "weekend lunch/dinner": {
+        "frequently purchased categories": [
+          "Chinese Formal Dining/Hunan Cuisine (Average ¥85)",
+          "Hot Pot/Individual Hot Pot (Average ¥98)",
+          "Foreign Cuisine/Thai Cuisine (Average ¥110)"
+        ],
+        "cost per order": "¥70~150",
+        "preferred store rating": "4.5~5.0 stars",
+        "preferred delivery time": "30~45 minutes",
+        "preferred distance": "0~4000m",
+        "recent orders": [
+          {
+            "store": "Hunan Encounter Restaurant",
+            "product": "Fish Head with Chopped Chili + Dry Pot Mushrooms"
+          },
+          {
+            "store": "Little Happiness Hot Pot",
+            "product": "Mushroom Soup Base + Beef Platter + Vegetable Platter"
+          },
+          {
+            "store": "Thai Flavors",
+            "product": "Tom Yum Soup + Thai Lemon Fish + Thai Fried Rice Noodles"
+          }
+        ],
+        "search history": [
+          "Special Hunan cuisine",
+          "Healthy hot pot",
+          "Thai food",
+          "Spicy food lovers"
+        ]
+      },
+      "desserts/drinks/snacks": {
+        "frequently purchased categories": [
+          "Beverages & Desserts/Juice (Average ¥28)",
+          "Beverages & Desserts/Pure Tea/Herbal Tea (Average ¥22)",
+          "Beverages & Desserts/Fruit Mix (Average ¥35)"
+        ],
+        "cost per order": "¥20~40",
+        "preferred store rating": "4.4~4.9 stars",
+        "preferred delivery time": "15~30 minutes",
+        "preferred distance": "0~2000m",
+        "recent orders": [
+          {
+            "store": "Fresh Juice Bar",
+            "product": "Freshly Squeezed Grapefruit Juice (Sugar-free)"
+          },
+          {
+            "store": "Tea Charm",
+            "product": "Oolong Tea (Low Sugar)"
+          },
+          {
+            "store": "Fresh Fruit Mix",
+            "product": "Fruit Salad (Syrup Substitute)"
+          }
+        ],
+        "search history": [
+          "Sugar-free drinks",
+          "Low Sugar desserts",
+          "Freshly squeezed juice",
+          "Healthy beverages"
+        ]
+      },
+      "night snack": {
+        "frequently purchased categories": [
+          "Quick Meals/Small Dishes/Small Portions (Average ¥45)",
+          "Snacks & Braised Foods/Braised Foods (Average ¥38)"
+        ],
+        "cost per order": "¥30~50",
+        "preferred store rating": "4.2~4.8 stars",
+        "preferred delivery time": "25~40 minutes",
+        "preferred distance": "0~2500m",
+        "recent orders": [
+          {
+            "store": "Small Bowl Dishes",
+            "product": "Stir-fried Seasonal Vegetables + Brown Rice"
+          },
+          {
+            "store": "Five-Spice Braised Food",
+            "product": "Braised Chicken Feet + Braised Tofu"
+          },
+          {
+            "store": "Healthy Porridge Shop",
+            "product": "Preserved Egg & Lean Pork Porridge + Side Dish"
+          }
+        ],
+        "search history": [
+          "Light night snacks",
+          "Healthy porridge",
+          "Braised foods",
+          "Non-spicy small dishes"
+        ]
+      }
+    },
+    "in-store consumption": {
+      "in-store dining": {
+        "fine-dining": {
+          "frequently purchased categories": [
+            "Foreign Cuisine/Western Food (Average ¥140)",
+            "Regional Cuisine/Fish Dishes (Average ¥120)",
+            "Regional Cuisine/Jiangsu & Zhejiang Cuisine (Average ¥95)"
+          ],
+          "preferred average price per person": "¥90~150",
+          "preferred store rating": "4.2~4.8 stars",
+          "typical dining time": "18:30-20:30",
+          "preferred distance": "500~3000m",
+          "recent orders": [
+            {
+              "store": "Steak Western (Wuhan Qunguang Plaza)",
+              "product": "Australian Grass-fed Sirloin Steak Set"
+            },
+            {
+              "store": "Shrimp Hot Pot (Wuhan K11)",
+              "product": "Signature Shrimp Hot Pot Set for Two"
+            },
+            {
+              "store": "Grandma's Home (Wuhan Tiandi)",
+              "product": "Hangzhou Flavor Set Menu"
+            }
+          ],
+          "search history": [
+            "Sugar-free desserts",
+            "Healthy Western food",
+            "Low Sugar dishes",
+            "Jiangsu & Zhejiang cuisine",
+            "High-end restaurants"
+          ]
+        },
+        "light meal": {
+          "frequently purchased categories": [
+            "Snacks & Fast Food/Chinese Quick Meals (Average ¥35)",
+            "Regional Cuisine/Hunan Cuisine (Average ¥45)",
+            "Regional Cuisine/Jiangsu & Zhejiang Cuisine (Average ¥40)"
+          ],
+          "preferred average price per person": "¥30~50",
+          "preferred store rating": "3.5~4.3 stars",
+          "typical dining time": "12:00-13:30",
+          "preferred distance": "0~500m",
+          "recent orders": [
+            {
+              "store": "Jixiang Wonton (New World International Trade Store)",
+              "product": "Pork Wonton + Braised Egg"
+            },
+            {
+              "store": "Yonghe King (Jianshe Avenue Store)",
+              "product": "Three Delicacies Soy Milk Set"
+            },
+            {
+              "store": "Hunan Flavor (Jianghan Road Pedestrian Street)",
+              "product": "Fish Head with Chopped Chili Rice"
+            }
+          ],
+          "search history": [
+            "Healthy quick meals",
+            "Low Sugar meals",
+            "Light Food",
+            "Fast food",
+            "Work meals"
+          ]
+        },
+        "desserts/drinks/snacks": {
+          "frequently purchased categories": [
+            "Bread & Desserts (Average ¥25)",
+            "Beverage Shops (Average ¥18)",
+            "Other Dining/Fresh Fruits (Average ¥15)"
+          ],
+          "preferred average price per person": "¥15~30",
+          "preferred store rating": "4.0~4.6 stars",
+          "typical dining time": "15:00-16:30",
+          "preferred distance": "0~300m",
+          "recent orders": [
+            {
+              "store": "Nayuki Tea (Wuhan Tiandi)",
+              "product": "Sugar-free Cheese Jasmine Tea"
+            },
+            {
+              "store": "Bread Talk (New World International Trade)",
+              "product": "Whole Wheat Walnut Bread"
+            },
+            {
+              "store": "Fresh Fruit (Jianshe Avenue)",
+              "product": "Seasonal Fruit Platter"
+            }
+          ],
+          "search history": [
+            "Sugar-free tea",
+            "Low Sugar desserts",
+            "Healthy beverages",
+            "Fruit",
+            "Whole wheat bread"
+          ]
+        }
+      },
+      "other in-store services": {
+        "frequently consumed categories": {
+          "Beauty/Haircare": "15%",
+          "Beauty/Yoga": "30%",
+          "Sports & Fitness/Fitness Centers": "40%",
+          "Leisure & Entertainment/Massage/Foot Therapy": "15%"
+        },
+        "cost per order by category": {
+          "Beauty/Haircare": "¥180~350",
+          "Beauty/Yoga": "¥120~200 per session",
+          "Sports & Fitness/Fitness Centers": "¥150~300 per month",
+          "Leisure & Entertainment/Massage/Foot Therapy": "¥160~280"
+        },
+        "preferred store rating": "4.0~4.8 stars",
+        "preferred service time": "18:00-21:00",
+        "preferred distance": "500~5000m",
+        "recent orders": [
+          {
+            "store": "Leke Fitness (Wuhan Optics Valley)",
+            "product": "Quarterly Fitness Card"
+          },
+          {
+            "store": "Yoga House (Wuhan K11)",
+            "product": "Private Yoga 10-Session Card"
+          },
+          {
+            "store": "Royal Foot Massage (Jianghan Road)",
+            "product": "Essential Oil Pressure Relief Massage Package"
+          }
+        ],
+        "search history": [
+          "Stress-relief yoga",
+          "Fitness Center",
+          "Women's fitness",
+          "Wellness massage",
+          "Stress relief"
+        ]
+      }
+    },
+    "OTA": {
+      "visited scenes": {
+        "Exhibitions (Museums/Art Galleries)": "35%",
+        "Natural Landscapes (Mountains/Lakes/Forests)": "25%",
+        "Hot Springs": "20%",
+        "Cultural Heritage Sites": "15%",
+        "Parks": "5%"
+      },
+      "cost per night on hotel": "¥500~1000",
+      "visited hotels": {
+        "Atour": "30%",
+        "Ji Hotel": "25%",
+        "Vienna": "20%",
+        "Orange": "15%",
+        "Huazhu": "10%"
+      },
+      "browsed hotels": {
+        "Four-star": "45%",
+        "Comfort": "35%",
+        "Three-star": "15%",
+        "Luxury": "5%"
+      },
+      "historical travel plans": {
+        "Wuhan-Shanghai": {
+          "price range": "¥400-600",
+          "transportation": "High-speed Rail/EMU"
+        },
+        "Wuhan-Beijing": {
+          "price range": "¥800-1200",
+          "transportation": "High-speed Rail/EMU"
+        },
+        "Wuhan-Hangzhou": {
+          "price range": "¥450-650",
+          "transportation": "High-speed Rail/EMU"
+        },
+        "Wuhan-Sanya": {
+          "price range": "¥1200-1800",
+          "transportation": "Airplane"
+        },
+        "Wuhan-Chengdu": {
+          "price range": "¥800-1300",
+          "transportation": "Airplane"
+        },
+        "Wuhan-Huangshan": {
+          "price range": "¥300-500",
+          "transportation": "High-speed Rail/EMU"
+        },
+        "Wuhan-Shenzhen": {
+          "price range": "¥700-900",
+          "transportation": "High-speed Rail/EMU"
+        }
+      }
+    }
+  },
+  "stores": {
+    "S17550806907653421_S00001": {
+      "name": "Balanced Healthy Meals",
+      "store_id": "S17550806907653421_S00001",
+      "score": 4.7,
+      "location": {
+        "address": "Balanced Healthy Meals, B1 Floor, Wuhan Plaza, 688 Jiefang Avenue, Jianghan District, Wuhan, Hubei Province",
+        "latitude": 30.580652,
+        "longitude": 114.270983
+      },
+      "tags": [
+        "Healthy Meal",
+        "Light Meal",
+        "Low Sugar",
+        "Low Calorie"
+      ],
+      "store_type": "target",
+      "products": [
+        {
+          "name": "Low-fat Beef with Brown Rice Set",
+          "store_id": "S17550806907653421_S00001",
+          "store_name": "Balanced Healthy Meals",
+          "price": 46.8,
+          "tags": [
+            "Light Meal",
+            "Fat Loss",
+            "High Protein",
+            "Low Fat",
+            "Low Sugar",
+            "Beef",
+            "Brown Rice"
+          ],
+          "product_id": "S17550806907653421_P00001",
+          "attributes": [
+            "Vinaigrette",
+            "Salad Dressing"
+          ],
+          "product_type": "target"
+        },
+        {
+          "name": "Black Pepper Beef with Quinoa",
+          "store_id": "S17550806907653421_S00001",
+          "store_name": "Balanced Healthy Meals",
+          "price": 48,
+          "tags": [
+            "Light Meal",
+            "High Protein",
+            "Quinoa",
+            "Beef",
+            "Low Calorie",
+            "Black Pepper"
+          ],
+          "product_id": "S17550806907653421_P00003",
+          "attributes": [
+            "Standard Spicy",
+            "Mild Spicy",
+            "No Spice"
+          ],
+          "product_type": "distraction"
+        },
+        {
+          "name": "Chicken Breast with Brown Rice and Vinaigrette",
+          "store_id": "S17550806907653421_S00001",
+          "store_name": "Balanced Healthy Meals",
+          "price": 42.5,
+          "tags": [
+            "Light Meal",
+            "High Protein",
+            "Low Fat",
+            "Chicken Breast",
+            "Brown Rice",
+            "Vinaigrette"
+          ],
+          "product_id": "S17550806907653421_P00004",
+          "attributes": [
+            "Standard Portion",
+            "Extra Protein"
+          ],
+          "product_type": "distraction"
+        },
+        {
+          "name": "Mocha Coffee Beef with Brown Rice",
+          "store_id": "S17550806907653421_S00001",
+          "store_name": "Balanced Healthy Meals",
+          "price": 49.8,
+          "tags": [
+            "Special",
+            "Beef",
+            "Brown Rice",
+            "Coffee Flavor",
+            "Low Sugar"
+          ],
+          "product_id": "S17550806907653421_P00005",
+          "attributes": [
+            "Standard Portion",
+            "Less Oil"
+          ],
+          "product_type": "distraction"
+        }
+      ]
+    },
+    "S17550806907653421_S00002": {
+      "name": "Light Food Select",
+      "store_id": "S17550806907653421_S00002",
+      "score": 4.5,
+      "location": {
+        "address": "Light Food Select, 1st Floor, Wuhan World Trade Plaza, 538 Jianshe Avenue, Jianghan District, Wuhan, Hubei Province",
+        "latitude": 30.582107,
+        "longitude": 114.267532
+      },
+      "tags": [
+        "Light Meal",
+        "Healthy",
+        "Low Calorie",
+        "Fat Loss Meal"
+      ],
+      "store_type": "target",
+      "products": [
+        {
+          "name": "Beef with Brown Rice Light Meal Box",
+          "store_id": "S17550806907653421_S00002",
+          "store_name": "Light Food Select",
+          "price": 42.5,
+          "tags": [
+            "Low Calorie",
+            "Healthy",
+            "Red Meat",
+            "Brown Rice"
+          ],
+          "product_id": "S17550806907653421_P00007",
+          "attributes": [
+            "Salad Dressing",
+            "Chili Powder"
+          ],
+          "product_type": "distraction"
+        },
+        {
+          "name": "Braised Beef with White Rice Set",
+          "store_id": "S17550806907653421_S00002",
+          "store_name": "Light Food Select",
+          "price": 39.9,
+          "tags": [
+            "Red Meat",
+            "Beef",
+            "Vinaigrette"
+          ],
+          "product_id": "S17550806907653421_P00008",
+          "attributes": [
+            "Mild Spicy",
+            "No Spice"
+          ],
+          "product_type": "distraction"
+        },
+        {
+          "name": "Boiled Egg and Vegetable Sandwich Set",
+          "store_id": "S17550806907653421_S00002",
+          "store_name": "Light Food Select",
+          "price": 26,
+          "tags": [
+            "Light Meal",
+            "Low Calorie",
+            "Healthy",
+            "Caffeine-free",
+            "Sugar-free"
+          ],
+          "product_id": "S17550806907653421_P00009",
+          "attributes": [],
+          "product_type": "distraction"
+        },
+        {
+          "name": "Chicken Breast Brown Rice Salad",
+          "store_id": "S17550806907653421_S00002",
+          "store_name": "Light Food Select",
+          "price": 38.5,
+          "tags": [
+            "Low Calorie",
+            "Healthy",
+            "Brown Rice",
+            "Vinaigrette",
+            "No Added Sugar"
+          ],
+          "product_id": "S17550806907653421_P00010",
+          "attributes": [
+            "Less Oil",
+            "Standard Oil"
+          ],
+          "product_type": "distraction"
+        }
+      ]
+    },
+    "S17550806907653421_S00003": {
+      "name": "Green Life Light Food",
+      "store_id": "S17550806907653421_S00003",
+      "score": 4.6,
+      "location": {
+        "address": "Green Life Light Food, B1 Floor, Wuhan International Plaza, 618 Jianshe Avenue, Jianghan District, Wuhan, Hubei Province",
+        "latitude": 30.581256,
+        "longitude": 114.271358
+      },
+      "tags": [
+        "Light Meal",
+        "Salad",
+        "Healthy Meal",
+        "Low Fat"
+      ],
+      "store_type": "target",
+      "products": [
+        {
+          "name": "Chicken Breast with Brown Rice Set",
+          "store_id": "S17550806907653421_S00003",
+          "store_name": "Green Life Light Food",
+          "price": 36.5,
+          "tags": [
+            "Healthy",
+            "Low Fat",
+            "High Protein",
+            "Brown Rice",
+            "Vinaigrette"
+          ],
+          "product_id": "S17550806907653421_P00013",
+          "attributes": [
+            "Standard Spicy",
+            "No Spice"
+          ],
+          "product_type": "distraction"
+        },
+        {
+          "name": "Beef and Vegetable Salad",
+          "store_id": "S17550806907653421_S00003",
+          "store_name": "Green Life Light Food",
+          "price": 39.9,
+          "tags": [
+            "Low Carb",
+            "High Protein",
+            "Beef",
+            "Salad",
+            "Vinaigrette"
+          ],
+          "product_id": "S17550806907653421_P00014",
+          "attributes": [
+            "Standard Portion",
+            "Extra Portion +6 Yuan"
+          ],
+          "product_type": "distraction"
+        },
+        {
+          "name": "Brown Sugar Beef with Brown Rice",
+          "store_id": "S17550806907653421_S00003",
+          "store_name": "Green Life Light Food",
+          "price": 41.5,
+          "tags": [
+            "Beef",
+            "Brown Rice",
+            "Brown Sugar Sauce",
+            "Healthy Diet"
+          ],
+          "product_id": "S17550806907653421_P00015",
+          "attributes": [
+            "Standard Spicy",
+            "No Spice"
+          ],
+          "product_type": "distraction"
+        }
+      ]
+    },
+    "S17550806907653421_S00004": {
+      "name": "Starbucks Coffee",
+      "store_id": "S17550806907653421_S00004",
+      "score": 4.8,
+      "location": {
+        "address": "Starbucks Coffee, 1st Floor, New World International Trade Building, 566 Jianshe Avenue, Jianghan District, Wuhan, Hubei Province",
+        "latitude": 30.581987,
+        "longitude": 114.268698
+      },
+      "tags": [
+        "Coffee",
+        "Dessert",
+        "Light Meal",
+        "Afternoon Tea"
+      ],
+      "store_type": "distraction",
+      "products": [
+        {
+          "name": "Bacon Avocado Sandwich",
+          "store_id": "S17550806907653421_S00004",
+          "store_name": "Starbucks Coffee",
+          "price": 38,
+          "tags": [
+            "Light Meal",
+            "Sandwich",
+            "Low Calorie",
+            "Healthy"
+          ],
+          "product_id": "S17550806907653421_P00016",
+          "attributes": [],
+          "product_type": "distraction"
+        },
+        {
+          "name": "Quinoa Chicken Salad",
+          "store_id": "S17550806907653421_S00004",
+          "store_name": "Starbucks Coffee",
+          "price": 42,
+          "tags": [
+            "Light Meal",
+            "Salad",
+            "Healthy",
+            "Low Fat",
+            "Weight Loss"
+          ],
+          "product_id": "S17550806907653421_P00017",
+          "attributes": [
+            "Original Vinaigrette",
+            "Italian Vinaigrette",
+            "No Sauce"
+          ],
+          "product_type": "distraction"
+        },
+        {
+          "name": "Black Pepper Beef Roll",
+          "store_id": "S17550806907653421_S00004",
+          "store_name": "Starbucks Coffee",
+          "price": 35,
+          "tags": [
+            "Light Meal",
+            "Beef",
+            "Low Carb",
+            "High Protein"
+          ],
+          "product_id": "S17550806907653421_P00018",
+          "attributes": [],
+          "product_type": "distraction"
+        },
+        {
+          "name": "Sugar-free Oat Milk Latte",
+          "store_id": "S17550806907653421_S00004",
+          "store_name": "Starbucks Coffee",
+          "price": 32,
+          "tags": [
+            "Beverage",
+            "Sugar-free",
+            "Plant-based Milk"
+          ],
+          "product_id": "S17550806907653421_P00019",
+          "attributes": [
+            "Hot",
+            "Iced"
+          ],
+          "product_type": "distraction"
+        },
+        {
+          "name": "Strawberry Fruit Cup",
+          "store_id": "S17550806907653421_S00004",
+          "store_name": "Starbucks Coffee",
+          "price": 28,
+          "tags": [
+            "Dessert",
+            "Fruit",
+            "Low Calorie",
+            "Healthy"
+          ],
+          "product_id": "S17550806907653421_P00020",
+          "attributes": [],
+          "product_type": "distraction"
+        }
+      ]
+    },
+    "S17550806907653421_S00005": {
+      "name": "Fresh Juice Bar",
+      "store_id": "S17550806907653421_S00005",
+      "score": 4.4,
+      "location": {
+        "address": "Fresh Juice Bar, 1st Floor, Wuhan World Trade Center, 588 Jianshe Avenue, Jianghan District, Wuhan, Hubei Province",
+        "latitude": 30.581752,
+        "longitude": 114.269823
+      },
+      "tags": [
+        "Juice",
+        "Beverage",
+        "Healthy",
+        "Sugar-free"
+      ],
+      "store_type": "distraction",
+      "products": [
+        {
+          "name": "Freshly Squeezed Grapefruit Juice (Sugar-free)",
+          "store_id": "S17550806907653421_S00005",
+          "store_name": "Fresh Juice Bar",
+          "price": 28,
+          "tags": [
+            "Sugar-free",
+            "Grapefruit",
+            "Vitamin C",
+            "Healthy"
+          ],
+          "product_id": "S17550806907653421_P00021",
+          "attributes": [
+            "Room Temperature",
+            "No Ice",
+            "With Ice"
+          ],
+          "product_type": "distraction"
+        },
+        {
+          "name": "Mango Coconut Milkshake",
+          "store_id": "S17550806907653421_S00005",
+          "store_name": "Fresh Juice Bar",
+          "price": 32,
+          "tags": [
+            "Mango",
+            "Coconut Milk",
+            "Milkshake",
+            "Dessert"
+          ],
+          "product_id": "S17550806907653421_P00022",
+          "attributes": [
+            "Less Ice",
+            "Normal Ice"
+          ],
+          "product_type": "distraction"
+        },
+        {
+          "name": "Freshly Squeezed Vegetable-Fruit Blend",
+          "store_id": "S17550806907653421_S00005",
+          "store_name": "Fresh Juice Bar",
+          "price": 35,
+          "tags": [
+            "Vegetables",
+            "Fruit",
+            "Detox",
+            "Healthy"
+          ],
+          "product_id": "S17550806907653421_P00023",
+          "attributes": [
+            "Room Temperature",
+            "No Ice",
+            "With Ice"
+          ],
+          "product_type": "distraction"
+        },
+        {
+          "name": "Mixed Nuts Energy Drink",
+          "store_id": "S17550806907653421_S00005",
+          "store_name": "Fresh Juice Bar",
+          "price": 42,
+          "tags": [
+            "Nuts",
+            "Energy",
+            "Protein",
+            "Healthy"
+          ],
+          "product_id": "S17550806907653421_P00024",
+          "attributes": [
+            "Room Temperature",
+            "No Ice",
+            "With Ice"
+          ],
+          "product_type": "distraction"
+        },
+        {
+          "name": "Green Tea with Lemon",
+          "store_id": "S17550806907653421_S00005",
+          "store_name": "Fresh Juice Bar",
+          "price": 26,
+          "tags": [
+            "Green Tea",
+            "Lemon",
+            "Refreshing",
+            "Low Sugar"
+          ],
+          "product_id": "S17550806907653421_P00025",
+          "attributes": [
+            "Less Ice",
+            "Normal Ice",
+            "Extra Ice"
+          ],
+          "product_type": "distraction"
+        }
+      ]
+    }
+  },
+  "orders": {}
+}

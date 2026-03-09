@@ -1,0 +1,45 @@
+{
+  "required_orders": [
+    {
+      "order_id": "D0717001T01",
+      "order_type": "delivery",
+      "user_id": "U000009",
+      "store_id": "S33426782440170597_S44844",
+      "note": "",
+      "location": {
+        "address": "East Building, Hubin, No. 33 Renmin West Road, Lucheng District, Wenzhou City, Zhejiang Province",
+        "longitude": 120.656838,
+        "latitude": 28.008008
+      },
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 79.6,
+      "create_time": "2025-03-08 10:24:00",
+      "update_time": "2025-03-08 10:24:00",
+      "status": "unpaid",
+      "products": [
+        {
+          "product_id": "S19129919838199477_P45960",
+          "price": 79.0,
+          "quantity": 1,
+          "attributes": ""
+        },
+        {
+          "product_id": "S24419034942875443_P68345",
+          "price": 0.3,
+          "quantity": 2,
+          "attributes": ""
+        }
+      ]
+    }
+  ],
+  "rubrics": [
+    "The delivery address for the Garlic and Vermicelli Shrimp lunch order should be East Building, Hubin, No. 33 Renmin West Road, Lucheng District, Wenzhou City, Zhejiang Province",
+    "The estimated delivery time for the Garlic and Vermicelli Shrimp lunch order should be between 11:00 and 12:00 on March 8, 2025",
+    "The Garlic and Vermicelli Shrimp lunch order should not include spicy or greasy items",
+    "The Garlic and Vermicelli Shrimp lunch order should include Garlic and Vermicelli Shrimp related items",
+    "The Garlic and Vermicelli Shrimp lunch order should be portioned for either a meal for two or two single-person meals",
+    "The total price of the Garlic and Vermicelli Shrimp lunch order should be kept within 80 yuan"
+  ]
+}

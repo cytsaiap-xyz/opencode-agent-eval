@@ -1,0 +1,1043 @@
+{
+  "task_id": "10807005",
+  "domain": "cross_domain",
+  "time": "2025-02-27 18:30:00",
+  "user_id": "U010028",
+  "weather": [
+    {
+      "city": "Ningde",
+      "category": "cloudy",
+      "datetime": "2025-02-27",
+      "temperature": [
+        15,
+        22
+      ],
+      "humidity": 65
+    },
+    {
+      "city": "Nanping",
+      "category": "sunny",
+      "datetime": "2025-03-01",
+      "temperature": [
+        14,
+        23
+      ],
+      "humidity": 60
+    },
+    {
+      "city": "Nanping",
+      "category": "cloudy",
+      "datetime": "2025-03-02",
+      "temperature": [
+        16,
+        24
+      ],
+      "humidity": 68
+    }
+  ],
+  "location": [
+    {
+      "address": "Donghu Shuguang City, Opposite to Dongqiao Management Committee, Dongqiao Development Zone, Jiaocheng District, Ningde, Fujian Province",
+      "longitude": 119.527,
+      "latitude": 26.665
+    },
+    {
+      "address": "Jianfa Building, 3 Tashan Road, Dongqiao Development Zone, Jiaocheng District, Ningde, Fujian Province",
+      "longitude": 119.534,
+      "latitude": 26.671
+    },
+    {
+      "address": "Fuxin Building, 60 meters northwest of the intersection of Laizhou Street and Binjiang Road, Yanping District, Nanping, Fujian Province",
+      "longitude": 118.178526,
+      "latitude": 26.635106
+    }
+  ],
+  "user_profile": {
+    "user id": "U010028",
+    "occupation": "Advertising Planner",
+    "gender": "female",
+    "age group": "25~30",
+    "residence": "Ningde",
+    "home address": "Donghu Shuguang City, Opposite to Dongqiao Management Committee, Dongqiao Development Zone, Jiaocheng District, Ningde, Fujian Province",
+    "work address": "Jianfa Building, 3 Tashan Road, Dongqiao Development Zone, Jiaocheng District, Ningde, Fujian Province",
+    "dietary restrictions": "No caffeine, low sugar",
+    "family status": "In a relationship",
+    "personality": "Mild-tempered with high cooperation, good at listening and understanding"
+  },
+  "user_historical_behaviors": {
+    "user id": "U010028",
+    "occupation": "Advertising Planner",
+    "gender": "female",
+    "age group": "25~30",
+    "residence": "Ningde",
+    "home address": "Donghu Shuguang City, Opposite to Dongqiao Management Committee, Dongqiao Development Zone, Jiaocheng District, Ningde, Fujian Province",
+    "work address": "Jianfa Building, 3 Tashan Road, Dongqiao Development Zone, Jiaocheng District, Ningde, Fujian Province",
+    "delivery": {
+      "food delivery": {
+        "breakfast": {
+          "frequently purchased categories": [
+            "Light Meals/Fast Food (Average 38 yuan)",
+            "Light Meals/Healthy Food (Average 35 yuan)",
+            "Light Meals/Salad (Average 32 yuan)"
+          ],
+          "cost per order": "25~40 yuan",
+          "preferred store rating": "4.5~4.9 stars",
+          "preferred delivery time": "15~25 minutes",
+          "preferred distance": "0~2500m",
+          "recent orders": [
+            {
+              "store": "Healthy Fitness Meals",
+              "product": "High-protein Salad + Chicken Breast Meal"
+            },
+            {
+              "store": "Energetic Breakfast",
+              "product": "Whole Wheat Sandwich + Sugar-free Soy Milk"
+            },
+            {
+              "store": "Healthy Food Era",
+              "product": "Low-fat Egg White Porridge + Boiled Vegetables"
+            }
+          ],
+          "search history": [
+            "Fitness breakfast",
+            "Low sugar",
+            "High protein",
+            "Light food",
+            "Sugar-free soy milk"
+          ]
+        },
+        "weekday lunch/dinner": {
+          "frequently purchased categories": [
+            "Light Meals/Healthy Food (Average 45 yuan)",
+            "Light Meals/Salad (Average 40 yuan)",
+            "Chinese Cuisine/Sichuan Food (Non-spicy version) (Average 55 yuan)"
+          ],
+          "cost per order": "40~60 yuan",
+          "preferred store rating": "4.6~4.9 stars",
+          "preferred delivery time": "20~35 minutes",
+          "preferred distance": "0~3000m",
+          "recent orders": [
+            {
+              "store": "Fitness Meal Factory",
+              "product": "Low-fat Chicken Breast Rice + Vegetables"
+            },
+            {
+              "store": "Light Food Salad",
+              "product": "Beef Quinoa Salad"
+            },
+            {
+              "store": "Steam Master",
+              "product": "Steamed Fish + Brown Rice"
+            }
+          ],
+          "search history": [
+            "Fitness meal",
+            "Low fat",
+            "Steamed food",
+            "Chicken breast",
+            "Boiled vegetables"
+          ]
+        },
+        "weekend lunch/dinner": {
+          "frequently purchased categories": [
+            "Chinese Cuisine/Shandong Cuisine (Average 75 yuan)",
+            "Chinese Cuisine/Cantonese Cuisine (Average 80 yuan)",
+            "International Cuisine/Steak (Average 120 yuan)"
+          ],
+          "cost per order": "70~150 yuan",
+          "preferred store rating": "4.7~5.0 stars",
+          "preferred delivery time": "30~45 minutes",
+          "preferred distance": "0~4000m",
+          "recent orders": [
+            {
+              "store": "Steak Workshop",
+              "product": "Australian Sirloin Steak (Medium) + Vegetable Salad"
+            },
+            {
+              "store": "Cantonese Kitchen",
+              "product": "Steamed Sea Bass + Blanched Seasonal Vegetables"
+            },
+            {
+              "store": "Shandong Cuisine Restaurant",
+              "product": "Braised Sea Cucumber with Scallions + Stir-fried Seasonal Vegetables"
+            }
+          ],
+          "search history": [
+            "High protein",
+            "Sugar-free",
+            "Steak",
+            "Steamed fish",
+            "Healthy set meal"
+          ]
+        },
+        "desserts/drinks/snacks": {
+          "frequently purchased categories": [
+            "Beverages & Desserts/Pure Tea/Herbal Tea (Average 18 yuan)",
+            "Beverages & Desserts/Coffee (Average 25 yuan)",
+            "Beverages & Desserts/Fruit Bowls (Average 30 yuan)"
+          ],
+          "cost per order": "15~35 yuan",
+          "preferred store rating": "4.5~4.8 stars",
+          "preferred delivery time": "15~30 minutes",
+          "preferred distance": "0~2500m",
+          "recent orders": [
+            {
+              "store": "COSTA Coffee",
+              "product": "Americano (Sugar-free)"
+            },
+            {
+              "store": "Fresh Cut Fruit Shop",
+              "product": "Fruit Platter (Sugar-free)"
+            },
+            {
+              "store": "Tea Yan Guan Se",
+              "product": "Oolong Tea (Sugar-free)"
+            }
+          ],
+          "search history": [
+            "Sugar-free coffee",
+            "Fruit",
+            "Fresh cut",
+            "Pure tea",
+            "Sugar-free beverages"
+          ]
+        },
+        "night snack": {
+          "frequently purchased categories": [
+            "BBQ & Fried Food/Charcoal Grilled Meat (Average 60 yuan)",
+            "Light Meals/Small Portion Dishes (Average 40 yuan)"
+          ],
+          "cost per order": "40~60 yuan",
+          "preferred store rating": "4.5~4.8 stars",
+          "preferred delivery time": "25~40 minutes",
+          "preferred distance": "0~3000m",
+          "recent orders": [
+            {
+              "store": "Charcoal Grill Workshop",
+              "product": "Fitness BBQ Platter (Chicken Breast + Beef)"
+            },
+            {
+              "store": "Late Night Diner",
+              "product": "Steamed Chicken Breast + Boiled Broccoli"
+            },
+            {
+              "store": "Light Food Night Snack",
+              "product": "Low-fat Chicken Breast Salad"
+            }
+          ],
+          "search history": [
+            "Fitness night snack",
+            "Low fat",
+            "Protein",
+            "Chicken breast",
+            "Grilled meat"
+          ]
+        }
+      },
+      "product delivery": {
+        "frequently purchased categories": [
+          "Vegetables/Bean Products(28%)",
+          "Beverages/Nutritional Supplements(22%)",
+          "Raw Meat/Poultry/Eggs(20%)",
+          "Fruits(15%)",
+          "Sports & Outdoors(10%)",
+          "Others(5%)"
+        ],
+        "frequently visited stores": [
+          "MissFresh(35%)",
+          "Dingdong Fresh(30%)",
+          "Hema Fresh(25%)",
+          "Other Stores(10%)"
+        ],
+        "cost per order by category": {
+          "Vegetables/Bean Products": "5~20 yuan",
+          "Beverages/Nutritional Supplements": "20~80 yuan",
+          "Raw Meat/Poultry/Eggs": "30~80 yuan",
+          "Fruits": "10~30 yuan",
+          "Sports & Outdoors": "50~200 yuan"
+        },
+        "preferred delivery time": "30~60 minutes",
+        "typical order time": "7~9 AM(35%), 5~7 PM(40%), 9~10 PM(25%)",
+        "recent orders": [
+          {
+            "store": "MissFresh",
+            "product": "Broccoli 500g, Chicken Breast 300g, Tofu 2 boxes"
+          },
+          {
+            "store": "Hema Fresh",
+            "product": "Protein Powder, Sugar-free Oatmeal, Avocados 3"
+          },
+          {
+            "store": "Dingdong Fresh",
+            "product": "Eggs 15, Chicken Breast 500g, Tomatoes 300g"
+          }
+        ],
+        "search history": [
+          "Protein powder",
+          "Chicken breast",
+          "Broccoli",
+          "Avocado",
+          "Sugar-free oatmeal",
+          "Hard-boiled eggs",
+          "Fitness ingredients"
+        ]
+      }
+    },
+    "in-store consumption": {
+      "in-store dining": {
+        "fine-dining": {
+          "frequently purchased categories": [
+            "Regional Cuisine/Sichuan Cuisine (Average 120 yuan)",
+            "International Cuisine/Japanese Food (Average 150 yuan)",
+            "Regional Cuisine/Cantonese Cuisine (Average 130 yuan)"
+          ],
+          "preferred average price per person": "100~150 yuan",
+          "preferred store rating": "4.2~4.8 stars",
+          "typical dining time": "18:30-20:30",
+          "preferred distance": "500~3000m",
+          "recent orders": [
+            {
+              "store": "Shu Jiang Hui",
+              "product": "Signature Boiled Fish"
+            },
+            {
+              "store": "He Lu Rotating Sushi",
+              "product": "Sashimi Platter Set"
+            },
+            {
+              "store": "Cantonese Tea Restaurant",
+              "product": "Macau Roasted Pork Belly"
+            }
+          ],
+          "search history": [
+            "Oil-free dishes",
+            "Healthy Japanese cuisine",
+            "Low-sugar Cantonese cuisine"
+          ]
+        },
+        "light meal": {
+          "frequently purchased categories": [
+            "Fast Food/Chinese Simple Meals (Average 35 yuan)",
+            "Fast Food/Western Quick Meals (Average 30 yuan)"
+          ],
+          "preferred average price per person": "25~40 yuan",
+          "preferred store rating": "3.5~4.3 stars",
+          "typical dining time": "12:00-13:30",
+          "preferred distance": "0~800m",
+          "recent orders": [
+            {
+              "store": "Light Food Salad",
+              "product": "Chicken Breast Quinoa Salad"
+            },
+            {
+              "store": "Sichuan Flavor Small Restaurant",
+              "product": "Healthy Steamed Food Set"
+            },
+            {
+              "store": "Mr. Rice",
+              "product": "Low-fat Chicken Rice"
+            }
+          ],
+          "search history": [
+            "Light food",
+            "Low-fat lunch",
+            "Healthy fast food"
+          ]
+        },
+        "desserts/drinks/snacks": {
+          "frequently purchased categories": [
+            "Beverage Shops (Average 18 yuan)",
+            "Bakery & Desserts (Average 22 yuan)"
+          ],
+          "preferred average price per person": "15~25 yuan",
+          "preferred store rating": "4.0~4.7 stars",
+          "typical dining time": "15:00-17:00",
+          "preferred distance": "0~500m",
+          "recent orders": [
+            {
+              "store": "HEYTEA",
+              "product": "Sugar-free Cheese Jasmine"
+            },
+            {
+              "store": "Bread New Language",
+              "product": "Whole Wheat Walnut Bread"
+            },
+            {
+              "store": "Deer Alley",
+              "product": "Low-sugar Milk Tea"
+            }
+          ],
+          "search history": [
+            "Sugar-free beverages",
+            "Low-calorie desserts",
+            "Artificial sweetener milk tea"
+          ]
+        }
+      },
+      "other in-store services": {
+        "frequently consumed categories": {
+          "Sports & Fitness/Fitness Centers": "40%",
+          "Beauty Services/Hair Styling": "25%",
+          "Beauty Services/Nail Art": "15%",
+          "Beauty Services/Yoga": "20%"
+        },
+        "cost per order by category": {
+          "Sports & Fitness/Fitness Centers": "150~300 yuan",
+          "Beauty Services/Hair Styling": "180~350 yuan",
+          "Beauty Services/Nail Art": "120~220 yuan",
+          "Beauty Services/Yoga": "80~150 yuan"
+        },
+        "preferred store rating": "4.0~4.9 stars",
+        "preferred service time": "18:30~21:00",
+        "preferred distance": "500~3000m",
+        "recent orders": [
+          {
+            "store": "Lululemon Yoga Studio",
+            "product": "Weekend Parent-Child Yoga Class"
+          },
+          {
+            "store": "U-POWER Fitness",
+            "product": "Monthly Membership"
+          },
+          {
+            "store": "Trendy Hair Salon",
+            "product": "Haircut + Treatment Package"
+          }
+        ],
+        "search history": [
+          "Parent-child yoga",
+          "Gym monthly card",
+          "Weekend hair styling"
+        ]
+      }
+    },
+    "OTA": {
+      "visited scenes": {
+        "Cultural Relics": "25%",
+        "Exhibition Halls (Museums/Art Galleries)": "20%",
+        "Natural Landscapes (Mountains/Lakes/Forests)": "30%",
+        "Hot Spring Scenic Areas": "15%",
+        "Special Villages/Industrial Tourism/Uncategorized": "10%"
+      },
+      "cost per night on hotel": "500~1000 yuan",
+      "visited hotels": {
+        "Atour": "35%",
+        "JI Hotel": "25%",
+        "Orange Hotel": "20%",
+        "Vienna Hotel": "15%",
+        "Huazhu Hotels": "5%"
+      },
+      "browsed hotels": {
+        "Four-star Hotels": "30%",
+        "Three-star Hotels": "15%",
+        "Comfort Hotels": "45%",
+        "Luxury Hotels": "10%"
+      },
+      "historical travel plans": {
+        "Fuzhou-Hangzhou": {
+          "price range": "400-600 yuan",
+          "transportation mode": "High-speed Rail"
+        },
+        "Ningde-Xiamen": {
+          "price range": "100-200 yuan",
+          "transportation mode": "High-speed Rail"
+        },
+        "Fuzhou-Shanghai": {
+          "price range": "600-1000 yuan",
+          "transportation mode": "High-speed Rail"
+        },
+        "Fuzhou-Beijing": {
+          "price range": "900-1500 yuan",
+          "transportation mode": "Airplane"
+        },
+        "Fuzhou-Sanya": {
+          "price range": "1200-2000 yuan",
+          "transportation mode": "Airplane"
+        },
+        "Ningde-Wuyishan": {
+          "price range": "200-300 yuan",
+          "transportation mode": "High-speed Rail"
+        }
+      }
+    }
+  },
+  "stores": {
+    "S17550802118465063_S00001": {
+      "name": "Nordic Living Home Decor",
+      "store_id": "S17550802118465063_S00001",
+      "score": 4.8,
+      "location": {
+        "address": "Nordic Living Home Flagship Store, Financial Center, Dongqiao Development Zone, Jiaocheng District, Ningde, Fujian Province",
+        "latitude": 26.668,
+        "longitude": 119.532
+      },
+      "tags": [
+        "Home Decor",
+        "Tableware",
+        "Minimalist Style",
+        "Nordic Style"
+      ],
+      "store_type": "target",
+      "products": [
+        {
+          "name": "Nordic Style Minimalist Tableware Set for Four",
+          "store_id": "S17550802118465063_S00001",
+          "store_name": "Nordic Living Home Decor",
+          "price": 299,
+          "tags": [
+            "Minimalist Style",
+            "Modern Design",
+            "Four-Person Set",
+            "Housewarming Gift",
+            "High Quality",
+            "Nordic Style"
+          ],
+          "product_id": "S17550802118465063_P00001",
+          "attributes": [],
+          "product_type": "target"
+        },
+        {
+          "name": "Morandi Color Scheme Single Person Ceramic Tableware Set",
+          "store_id": "S17550802118465063_S00001",
+          "store_name": "Nordic Living Home Decor",
+          "price": 329,
+          "tags": [
+            "Morandi Color Scheme",
+            "Modern Minimalist",
+            "Ceramic Material",
+            "Tableware Set",
+            "Housewarming Gift"
+          ],
+          "product_id": "S17550802118465063_P00002",
+          "attributes": [],
+          "product_type": "target"
+        },
+        {
+          "name": "Nordic Style Tea Set Five-Piece",
+          "store_id": "S17550802118465063_S00001",
+          "store_name": "Nordic Living Home Decor",
+          "price": 289,
+          "tags": [
+            "Nordic Design",
+            "Tea Set",
+            "Minimalist Style",
+            "Gift Wrapping"
+          ],
+          "product_id": "S17550802118465063_P00004",
+          "attributes": [],
+          "product_type": "distraction"
+        },
+        {
+          "name": "Minimalist Style Tableware Two-Piece Set",
+          "store_id": "S17550802118465063_S00001",
+          "store_name": "Nordic Living Home Decor",
+          "price": 199,
+          "tags": [
+            "Minimalist Design",
+            "Two-Piece Set",
+            "Small Apartment",
+            "Couple Set"
+          ],
+          "product_id": "S17550802118465063_P00005",
+          "attributes": [],
+          "product_type": "distraction"
+        }
+      ]
+    },
+    "S17550802118465063_S00002": {
+      "name": "Mu Jia Tableware Selection",
+      "store_id": "S17550802118465063_S00002",
+      "score": 4.7,
+      "location": {
+        "address": "Mu Jia Tableware Selection Store, Wanda Plaza, Dongqiao Development Zone, Jiaocheng District, Ningde, Fujian Province",
+        "latitude": 26.667,
+        "longitude": 119.536
+      },
+      "tags": [
+        "Tableware",
+        "Gift",
+        "Premium",
+        "Modern Minimalist"
+      ],
+      "store_type": "target",
+      "products": [
+        {
+          "name": "Nordic Minimalist Ceramic Tableware Set",
+          "store_id": "S17550802118465063_S00002",
+          "store_name": "Mu Jia Tableware Selection",
+          "price": 398,
+          "tags": [
+            "Minimalist Style",
+            "Modern Design",
+            "Ceramic Material",
+            "Premium Tableware",
+            "Housewarming Gift",
+            "Set"
+          ],
+          "product_id": "S17550802118465063_P00006",
+          "attributes": [
+            "28-piece white set"
+          ],
+          "product_type": "target"
+        },
+        {
+          "name": "White Porcelain Casserole Cookware Set",
+          "store_id": "S17550802118465063_S00002",
+          "store_name": "Mu Jia Tableware Selection",
+          "price": 458,
+          "tags": [
+            "Minimalist Style",
+            "Modern Design",
+            "Premium",
+            "Gift Box",
+            "Housewarming Gift",
+            "Set"
+          ],
+          "product_id": "S17550802118465063_P00007",
+          "attributes": [
+            "24-piece set",
+            "Gray and white color scheme",
+            "Matte texture"
+          ],
+          "product_type": "target"
+        },
+        {
+          "name": "Japanese Style Ceramic Tableware Set",
+          "store_id": "S17550802118465063_S00002",
+          "store_name": "Mu Jia Tableware Selection",
+          "price": 299,
+          "tags": [
+            "Japanese Style",
+            "Japanese Style Design",
+            "Ceramic Material",
+            "Gift Box",
+            "Housewarming Gift"
+          ],
+          "product_id": "S17550802118465063_P00008",
+          "attributes": [
+            "16-piece set",
+            "Blue and white pattern"
+          ],
+          "product_type": "distraction"
+        },
+        {
+          "name": "Nordic Style Dining Set for Two Gift Box",
+          "store_id": "S17550802118465063_S00002",
+          "store_name": "Mu Jia Tableware Selection",
+          "price": 258,
+          "tags": [
+            "Nordic Style",
+            "Minimalist Design",
+            "Gift Box",
+            "Housewarming Gift",
+            "Two-Person Set"
+          ],
+          "product_id": "S17550802118465063_P00009",
+          "attributes": [
+            "12-piece set",
+            "Off-white",
+            "Matte finish"
+          ],
+          "product_type": "distraction"
+        },
+        {
+          "name": "Modern Light Luxury Kitchen Family Set",
+          "store_id": "S17550802118465063_S00002",
+          "store_name": "Mu Jia Tableware Selection",
+          "price": 568,
+          "tags": [
+            "Light Luxury Style",
+            "Modern Design",
+            "Premium Cookware",
+            "Family Set",
+            "Housewarming Gift",
+            "Set"
+          ],
+          "product_id": "S17550802118465063_P00010",
+          "attributes": [
+            "36-piece set",
+            "Black, white and gray three colors",
+            "Matte texture"
+          ],
+          "product_type": "target"
+        }
+      ]
+    },
+    "S17550802118465063_S00003": {
+      "name": "IKEA Home Flash Sale",
+      "store_id": "S17550802118465063_S00003",
+      "score": 4.5,
+      "location": {
+        "address": "IKEA Home Flash Sale Store, Donghu Road, Dongqiao Development Zone, Jiaocheng District, Ningde, Fujian Province",
+        "latitude": 26.664,
+        "longitude": 119.528
+      },
+      "tags": [
+        "Home Decor",
+        "Tableware",
+        "Nordic Style",
+        "Affordable"
+      ],
+      "store_type": "distraction",
+      "products": [
+        {
+          "name": "Stockholm Minimalist Tableware Set (24 Pieces)",
+          "store_id": "S17550802118465063_S00003",
+          "store_name": "IKEA Home Flash Sale",
+          "price": 289,
+          "tags": [
+            "Tableware Set",
+            "Minimalist Style",
+            "Nordic Design",
+            "Gift",
+            "Housewarming Gift"
+          ],
+          "product_id": "S17550802118465063_P00011",
+          "attributes": [],
+          "product_type": "distraction"
+        },
+        {
+          "name": "Malmö Stainless Steel Knife, Fork and Spoon Set (20 Pieces)",
+          "store_id": "S17550802118465063_S00003",
+          "store_name": "IKEA Home Flash Sale",
+          "price": 199,
+          "tags": [
+            "Knife and Fork Set",
+            "Stainless Steel",
+            "Nordic Design",
+            "Minimalist",
+            "Gift"
+          ],
+          "product_id": "S17550802118465063_P00013",
+          "attributes": [],
+          "product_type": "distraction"
+        },
+        {
+          "name": "Helsinki Premium Bone China Soup Bowl, Pot and Spoon Gift Box (28 Pieces)",
+          "store_id": "S17550802118465063_S00003",
+          "store_name": "IKEA Home Flash Sale",
+          "price": 399,
+          "tags": [
+            "Bone China Tableware",
+            "High-end",
+            "Modern Minimalist",
+            "Gift Box",
+            "Housewarming Gift"
+          ],
+          "product_id": "S17550802118465063_P00014",
+          "attributes": [],
+          "product_type": "target"
+        },
+        {
+          "name": "Oslo Bamboo Storage Box Set",
+          "store_id": "S17550802118465063_S00003",
+          "store_name": "IKEA Home Flash Sale",
+          "price": 329,
+          "tags": [
+            "Storage Box",
+            "Bamboo",
+            "Environmentally Friendly",
+            "Nordic Style",
+            "Housewarming Gift"
+          ],
+          "product_id": "S17550802118465063_P00015",
+          "attributes": [],
+          "product_type": "distraction"
+        }
+      ]
+    },
+    "S17550802118465063_S00004": {
+      "name": "Premium Life Supermarket",
+      "store_id": "S17550802118465063_S00004",
+      "score": 4.3,
+      "location": {
+        "address": "Premium Life Supermarket (Dongqiao Store), Tashan Road, Dongqiao Development Zone, Jiaocheng District, Ningde, Fujian Province",
+        "latitude": 26.669,
+        "longitude": 119.533
+      },
+      "tags": [
+        "Daily Necessities",
+        "Supermarket",
+        "Daily Necessities"
+      ],
+      "store_type": "distraction",
+      "products": [
+        {
+          "name": "Nordic Minimalist Ceramic Tableware Four-Piece Set",
+          "store_id": "S17550802118465063_S00004",
+          "store_name": "Premium Life Supermarket",
+          "price": 199.9,
+          "tags": [
+            "Tableware Set",
+            "Ceramic",
+            "Minimalist Style",
+            "Everyday Tableware"
+          ],
+          "product_id": "S17550802118465063_P00016",
+          "attributes": [],
+          "product_type": "distraction"
+        },
+        {
+          "name": "Japanese Style Colorful Bowl and Plate Set",
+          "store_id": "S17550802118465063_S00004",
+          "store_name": "Premium Life Supermarket",
+          "price": 249.9,
+          "tags": [
+            "Tableware Set",
+            "Japanese Style",
+            "Multiple Colors Available",
+            "Household Tableware"
+          ],
+          "product_id": "S17550802118465063_P00017",
+          "attributes": [
+            "6-piece set",
+            "8-piece set"
+          ],
+          "product_type": "distraction"
+        },
+        {
+          "name": "Plastic Portable Cutlery Three-Piece Set",
+          "store_id": "S17550802118465063_S00004",
+          "store_name": "Premium Life Supermarket",
+          "price": 39.9,
+          "tags": [
+            "Portable Cutlery",
+            "Plastic Material",
+            "Travel Set",
+            "Lightweight"
+          ],
+          "product_id": "S17550802118465063_P00018",
+          "attributes": [
+            "Green",
+            "Pink",
+            "Blue"
+          ],
+          "product_type": "distraction"
+        },
+        {
+          "name": "Stainless Steel Cutlery Gift Set",
+          "store_id": "S17550802118465063_S00004",
+          "store_name": "Premium Life Supermarket",
+          "price": 299.9,
+          "tags": [
+            "Tableware Set",
+            "Stainless Steel",
+            "Gift Box",
+            "Household Tableware"
+          ],
+          "product_id": "S17550802118465063_P00019",
+          "attributes": [],
+          "product_type": "distraction"
+        },
+        {
+          "name": "Kitchen Storage Organization Set",
+          "store_id": "S17550802118465063_S00004",
+          "store_name": "Premium Life Supermarket",
+          "price": 329.9,
+          "tags": [
+            "Kitchen Supplies",
+            "Storage Box",
+            "Organization Tools",
+            "Practical"
+          ],
+          "product_id": "S17550802118465063_P00020",
+          "attributes": [
+            "3-piece set",
+            "5-piece set"
+          ],
+          "product_type": "distraction"
+        }
+      ]
+    },
+    "S17550802118465063_S00005": {
+      "name": "Oriental Charm Gift Shop",
+      "store_id": "S17550802118465063_S00005",
+      "score": 4.6,
+      "location": {
+        "address": "Oriental Charm Gift Shop, Central Plaza, Dongqiao Development Zone, Jiaocheng District, Ningde, Fujian Province",
+        "latitude": 26.67,
+        "longitude": 119.535
+      },
+      "tags": [
+        "Gift",
+        "Chinese Style",
+        "Traditional Craftsmanship"
+      ],
+      "store_type": "distraction",
+      "products": [
+        {
+          "name": "Purple Clay Tea Set",
+          "store_id": "S17550802118465063_S00005",
+          "store_name": "Oriental Charm Gift Shop",
+          "price": 368,
+          "tags": [
+            "Tea Set",
+            "Purple Clay",
+            "Chinese Style",
+            "Housewarming Gift",
+            "Ideal Gift"
+          ],
+          "product_id": "S17550802118465063_P00021",
+          "attributes": [],
+          "product_type": "distraction"
+        },
+        {
+          "name": "Jingdezhen Blue and White Porcelain Tableware Ten-Piece Set",
+          "store_id": "S17550802118465063_S00005",
+          "store_name": "Oriental Charm Gift Shop",
+          "price": 499,
+          "tags": [
+            "Tableware Set",
+            "Blue and White Porcelain",
+            "Jingdezhen",
+            "Chinese Style",
+            "Housewarming Gift"
+          ],
+          "product_id": "S17550802118465063_P00022",
+          "attributes": [],
+          "product_type": "distraction"
+        },
+        {
+          "name": "Rosewood Chopsticks Set Gift Box",
+          "store_id": "S17550802118465063_S00005",
+          "store_name": "Oriental Charm Gift Shop",
+          "price": 288,
+          "tags": [
+            "Chopsticks Set",
+            "Rosewood",
+            "Chinese Style",
+            "Housewarming Gift",
+            "Ideal Gift"
+          ],
+          "product_id": "S17550802118465063_P00023",
+          "attributes": [],
+          "product_type": "distraction"
+        },
+        {
+          "name": "\"Fu\" Character Embroidered Tablecloth Set",
+          "store_id": "S17550802118465063_S00005",
+          "store_name": "Oriental Charm Gift Shop",
+          "price": 328,
+          "tags": [
+            "Tablecloth",
+            "Embroidery",
+            "Chinese Style",
+            "Housewarming Gift",
+            "Ideal Gift"
+          ],
+          "product_id": "S17550802118465063_P00024",
+          "attributes": [
+            "1.5m×2.2m",
+            "1.8m×2.5m"
+          ],
+          "product_type": "distraction"
+        },
+        {
+          "name": "Traditional Lacquerware Bowl and Chopsticks Gift Set",
+          "store_id": "S17550802118465063_S00005",
+          "store_name": "Oriental Charm Gift Shop",
+          "price": 358,
+          "tags": [
+            "Bowl and Chopsticks Set",
+            "Lacquerware",
+            "Chinese Style",
+            "Housewarming Gift",
+            "Ideal Gift"
+          ],
+          "product_id": "S17550802118465063_P00025",
+          "attributes": [],
+          "product_type": "distraction"
+        }
+      ]
+    }
+  },
+  "orders": {
+    "S17550802118465063_O00001": {
+      "order_id": "S17550802118465063_O00001",
+      "order_type": "delivery",
+      "user_id": "U010028",
+      "store_id": "S17550802118465063_S00001",
+      "total_price": 399.0,
+      "create_time": "2025-02-27 14:25:36",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17550802118465063_P00001",
+          "price": 399.0,
+          "quantity": 1
+        }
+      ]
+    },
+    "S17550802118465063_O00002": {
+      "order_id": "S17550802118465063_O00002",
+      "order_type": "hotel",
+      "user_id": "U010028",
+      "store_id": "S17550802118465063_H00007",
+      "note": "Hope to arrange a quiet room",
+      "location": {
+        "address": "Atour Smart Hotel, 56 Bayi Road, Yanping District, Nanping, Fujian Province",
+        "longitude": 118.175,
+        "latitude": 26.643
+      },
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 298.0,
+      "create_time": "2025-02-27 16:42:18",
+      "update_time": "2025-02-27 16:42:18",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17550802118465063_P00032",
+          "price": 298.0,
+          "quantity": 1,
+          "date": "2025-03-01",
+          "room_type": "Smart Single Room"
+        }
+      ]
+    },
+    "S17550802118465063_O00003": {
+      "order_id": "S17550802118465063_O00003",
+      "order_type": "train",
+      "user_id": "U010028",
+      "store_id": "S17550802118465063_T00010",
+      "note": "",
+      "location": {
+        "address": "Ningde Station, Jiaocheng South Road, Jiaocheng District, Ningde, Fujian Province",
+        "longitude": 119.518,
+        "latitude": 26.656
+      },
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 89.0,
+      "create_time": "2025-02-27 17:05:42",
+      "update_time": "2025-02-27 17:05:42",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17550802118465063_P00046",
+          "price": 89.0,
+          "quantity": 1,
+          "seat_type": "Second Class Seat"
+        }
+      ]
+    },
+    "S17550802118465063_O00004": {
+      "order_id": "S17550802118465063_O00004",
+      "order_type": "instore",
+      "user_id": "U010028",
+      "store_id": "S17550802118465063_I00013",
+      "total_price": 268.0,
+      "create_time": "2025-02-27 17:23:15",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17550802118465063_P00063",
+          "price": 268.0,
+          "quantity": 1
+        }
+      ]
+    }
+  }
+}

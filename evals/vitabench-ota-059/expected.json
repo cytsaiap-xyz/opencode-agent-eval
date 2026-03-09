@@ -1,0 +1,104 @@
+{
+  "required_orders": [
+    {
+      "order_id": "D0808001T001",
+      "order_type": "attraction",
+      "user_id": "U010042",
+      "store_id": "S17557111228331195_A00008",
+      "note": "",
+      "location": null,
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 300,
+      "create_time": "2025-12-08 15:43:27",
+      "update_time": "2025-12-08 15:43:27",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17557111228331195_P00057",
+          "price": 200,
+          "quantity": 1,
+          "date": "2025-12-11",
+          "ticket_type": "Adult Ticket"
+        },
+        {
+          "product_id": "S17557111228331195_P00058",
+          "price": 100,
+          "quantity": 1,
+          "date": "2025-12-11",
+          "ticket_type": "Child Ticket"
+        }
+      ]
+    },
+    {
+      "order_id": "D0808001T004",
+      "order_type": "hotel",
+      "user_id": "U010042",
+      "store_id": "S17557111228331195_H00001",
+      "note": "",
+      "location": null,
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 796,
+      "create_time": "2025-12-08 15:45:27",
+      "update_time": "2025-12-08 15:45:27",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17557111228331195_P00002",
+          "price": 398,
+          "quantity": 1,
+          "date": "2025-12-11",
+          "room_type": "Comfort King Room"
+        },
+        {
+          "product_id": "S17557111228331195_P00003",
+          "price": 398,
+          "quantity": 1,
+          "date": "2025-12-10",
+          "room_type": "Comfort King Room"
+        }
+      ]
+    },
+    {
+      "order_id": "D0808001T002",
+      "order_type": "flight",
+      "user_id": "U010042",
+      "store_id": "S17557111228331195_F00011",
+      "note": "",
+      "location": null,
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 1780,
+      "create_time": "2025-12-08 15:47:27",
+      "update_time": "2025-12-08 15:47:27",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17557111228331195_P00086",
+          "price": 890,
+          "quantity": 2,
+          "date": "2025-12-12",
+          "seat_type": "Economy Class"
+        }
+      ]
+    }
+  ],
+  "rubrics": [
+    "The attraction ticket order should be for Harbin Ice and Snow World",
+    "The attraction ticket date should be December 11, 2025",
+    "The attraction ticket order should include 1 child ticket and 1 adult ticket",
+    "The hotel must be located within 500m of Harbin People's Square",
+    "The hotel must provide indoor hot spring facilities",
+    "The hotel room type must be a king room",
+    "The hotel check-in dates should be December 10 and December 11",
+    "Must check the nearest metro station to the hotel, which is People's Square Metro Station",
+    "Need to check direct train travel time from Harbin to Linyi, results show all exceed 12-hour limit, so flight tickets should be booked instead of train tickets",
+    "The flight departure time should be around 2:00 PM",
+    "The flight date should be Friday (December 12, 2025)",
+    "Transportation should be arranged for the user and the child only, so flight ticket quantity should be 2"
+  ]
+}

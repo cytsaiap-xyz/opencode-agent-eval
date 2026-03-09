@@ -1,0 +1,76 @@
+{
+  "required_orders": [
+    {
+      "order_id": "90716001T01",
+      "order_type": "delivery",
+      "user_id": "U000098",
+      "store_id": "S56072837632850697_S10550",
+      "note": "",
+      "location": {
+        "address": "Beijing Deheng (Wuxi) Law Firm, 801-808, 8th Floor, Ping An Wealth Center, 15 Financial First Street, Taihu New City, Binhu District, Wuxi City, Jiangsu Province",
+        "longitude": 120.30497,
+        "latitude": 31.488775
+      },
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 20.76,
+      "create_time": "2025-10-09 20:30:00",
+      "update_time": "2025-10-09 20:30:00",
+      "status": "unpaid",
+      "products": [
+        {
+          "product_id": "S56985501259963881_P30358",
+          "price": 10.88,
+          "quantity": 1,
+          "attributes": ""
+        },
+        {
+          "product_id": "S19234847935487179_P30931",
+          "price": 9.88,
+          "quantity": 1,
+          "attributes": ""
+        }
+      ]
+    },
+    {
+      "order_id": "90716001T02",
+      "order_type": "delivery",
+      "user_id": "U000098",
+      "store_id": "S73617965392470980_S24774",
+      "note": "",
+      "location": {
+        "address": "Beijing Deheng (Wuxi) Law Firm, 801-808, 8th Floor, Ping An Wealth Center, 15 Financial First Street, Taihu New City, Binhu District, Wuxi City, Jiangsu Province",
+        "longitude": 120.30497,
+        "latitude": 31.488775
+      },
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 42,
+      "create_time": "2025-10-09 20:30:00",
+      "update_time": "2025-10-09 20:30:00",
+      "status": "unpaid",
+      "products": [
+        {
+          "product_id": "S28860708888783648_P73224",
+          "price": 21,
+          "quantity": 2,
+          "attributes": "Warm"
+        }
+      ]
+    }
+  ],
+  "rubrics": [
+    "The breakfast order delivery address should be Beijing Deheng (Wuxi) Law Firm, 801-808, 8th Floor, Ping An Wealth Center, 15 Financial First Street, Taihu New City, Binhu District, Wuxi City, Jiangsu Province",
+    "The estimated delivery time for the breakfast order should be before 2025-10-10 10:00:00",
+    "The soup dumplings in the breakfast order should not contain meat",
+    "The breakfast order should include two items: soup dumplings and [Spleen-Strengthening and Stomach-Nourishing] Pumpkin Millet Porridge",
+    "The beverage order delivery address should be Beijing Deheng (Wuxi) Law Firm, 801-808, 8th Floor, Ping An Wealth Center, 15 Financial First Street, Taihu New City, Binhu District, Wuxi City, Jiangsu Province",
+    "The estimated delivery time for the beverage order should be around 2025-10-10 10:00:00",
+    "The beverage order should select warm drinks suitable for warming hands",
+    "The beverage order should not include coffee, but can include other beverages such as tea, juice, etc.",
+    "The beverage order should select drinks with no sugar or less sugar",
+    "The beverage order should include 2 servings of the same beverage item"
+  ]
+}

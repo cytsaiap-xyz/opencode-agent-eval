@@ -1,0 +1,202 @@
+{
+  "task_id": "10826283",
+  "domain": "instore",
+  "time": "2024-06-18 22:33:41",
+  "user_id": "U160318",
+  "weather": [
+    {
+      "city": "Beijing City",
+      "category": "cloudy",
+      "datetime": "2024-06-18",
+      "temperature": [
+        22,
+        32
+      ],
+      "humidity": 55
+    },
+    {
+      "city": "Beijing City",
+      "category": "sunny",
+      "datetime": "2024-06-24",
+      "temperature": [
+        24,
+        33
+      ],
+      "humidity": 45
+    }
+  ],
+  "location": [
+    {
+      "address": "Room 1507, Tower T1, Wangjing SOHO, Chaoyang District, Beijing",
+      "longitude": 116.4828,
+      "latitude": 39.9949
+    },
+    {
+      "address": "Room 602, Building A, Internet Innovation Center, Zhongguancun Software Park Phase 2, Haidian District, Beijing",
+      "longitude": 116.3188,
+      "latitude": 40.0509
+    },
+    {
+      "address": "Chuli Fusion French Restaurant (Wangjing Jinhui Branch)",
+      "longitude": 116.4785,
+      "latitude": 40.0012
+    }
+  ],
+  "user_profile": {
+    "user id": "U160318",
+    "occupation": "Product Manager",
+    "gender": "female",
+    "age group": "30~35",
+    "residence": "Beijing",
+    "home address": "Room 1507, Building 1, Wangjing Community, Chaoyang District, Beijing",
+    "work address": "Room 602, Building A, Internet Innovation Center, Zhongguancun Software Park Phase 2, Haidian District, Beijing",
+    "dietary restrictions": "No caffeine, avoid high sugar",
+    "family status": "Has pets",
+    "personality": "Extremely detail-oriented, tends to be picky and easily dissatisfied"
+  },
+  "user_historical_behaviors": {
+    "user id": "U160318",
+    "occupation": "Product Manager",
+    "gender": "female",
+    "age group": "30~35",
+    "residence": "Beijing",
+    "home address": "Room 1507, Building 1, Wangjing Community, Chaoyang District, Beijing",
+    "work address": "Room 602, Building A, Internet Innovation Center, Zhongguancun Software Park Phase 2, Haidian District, Beijing",
+    "in-store dining": {
+      "fine-dining": {
+        "frequently purchased categories": [
+          "International Cuisine/French (Average ¥120)",
+          "Regional Cuisine/Cantonese (Average ¥130)",
+          "Regional Cuisine/Shanghai & Jiangsu-Zhejiang Cuisine (Average ¥120)"
+        ],
+        "preferred average price per person": "¥80~230",
+        "preferred store rating": "4.2~4.9 stars",
+        "typical dining time": "19:00-21:00",
+        "preferred distance": "1000~3000m",
+        "recent orders": [
+          {
+            "store": "Chuli Fusion French Restaurant (Wangjing Jinhui Branch)",
+            "product": "[Peaceful Moment] Popular Lunch Single Set (Pasta | Risotto with Beverage)"
+          },
+          {
+            "store": "Yue Zhen Xuan (Joy City Chaoyang Branch)",
+            "product": "Steamed Shrimp Dumplings"
+          },
+          {
+            "store": "Grandma's Home (Zhongguancun Branch)",
+            "product": "West Lake Fish in Vinegar Sauce"
+          }
+        ],
+        "search history": [
+          "Sugar-Free Dessert",
+          "Japanese Cuisine",
+          "Cantonese Cuisine",
+          "Health-focused Restaurant",
+          "Low Caffeine"
+        ]
+      },
+      "light meal": {
+        "frequently purchased categories": [
+          "Fast Food/Chinese Quick Meals (Average ¥45)",
+          "Regional Cuisine/Specialty Dishes (Average ¥55)",
+          "International Cuisine/Southeast Asian (Average ¥60)"
+        ],
+        "preferred average price per person": "¥40~65",
+        "preferred store rating": "3.5~4.3 stars",
+        "typical dining time": "12:00-13:30",
+        "preferred distance": "0~500m",
+        "recent orders": [
+          {
+            "store": "Light Salad (Wangjing SOHO Branch)",
+            "product": "Chicken Breast Quinoa Salad"
+          },
+          {
+            "store": "Thai Coconut (Software Park Branch)",
+            "product": "Tom Yum Kung Rice Noodles"
+          },
+          {
+            "store": "Yonghe King (Zhongguancun Branch)",
+            "product": "Shredded Chicken Soy Milk Set"
+          }
+        ],
+        "search history": [
+          "Healthy Light Food",
+          "Low-calorie Lunch",
+          "Salad",
+          "Vegetarian"
+        ]
+      },
+      "desserts/drinks/snacks": {
+        "frequently purchased categories": [
+          "Bakery & Desserts (Average ¥35)",
+          "Beverage Shops (Average ¥25)",
+          "Other Dining/Fresh Fruits (Average ¥30)"
+        ],
+        "preferred average price per person": "¥20~40",
+        "preferred store rating": "4.0~4.8 stars",
+        "typical dining time": "15:00-16:30",
+        "preferred distance": "0~300m",
+        "recent orders": [
+          {
+            "store": "Nayuki (Wangjing Branch)",
+            "product": "Sugar-Free Cheese Jasmine Tea"
+          },
+          {
+            "store": "BreadTalk (SOHO Branch)",
+            "product": "Whole Wheat Nut Bread"
+          },
+          {
+            "store": "Xianfeng Fruits (Software Park Branch)",
+            "product": "Selected Fruit Platter"
+          }
+        ],
+        "search history": [
+          "Sugar-Free Beverages",
+          "Low-calorie Desserts",
+          "Freshly Squeezed Juice",
+          "Artificial Sweetener Desserts"
+        ]
+      }
+    },
+    "other in-store services": {
+      "frequently consumed categories": {
+        "Sports & Fitness/Fitness Centers": "40%",
+        "Beauty/Yoga": "30%",
+        "Pets/Pet Hospitals": "20%",
+        "Leisure Entertainment/Massage/Foot Therapy": "10%"
+      },
+      "cost per order by category": {
+        "Sports & Fitness/Fitness Centers": "¥150~300",
+        "Beauty/Yoga": "¥120~200",
+        "Pets/Pet Hospitals": "¥200~500",
+        "Leisure Entertainment/Massage/Foot Therapy": "¥180~280"
+      },
+      "preferred store rating": "4.0~4.8 stars",
+      "preferred service time": "18:00-21:00",
+      "preferred distance": "0~2500m",
+      "recent orders": [
+        {
+          "store": "Leke Fitness (Wangjing SOHO Branch)",
+          "product": "Private Yoga Course"
+        },
+        {
+          "store": "Love Pet Animal Hospital (Chaoyang Branch)",
+          "product": "Cat Grooming Package"
+        },
+        {
+          "store": "Fanyin Yoga (Zhongguancun Branch)",
+          "product": "Relaxing Yoga Monthly Card"
+        }
+      ],
+      "search history": [
+        "Stress-relief Yoga",
+        "Cat Grooming",
+        "Female-only Fitness",
+        "Work Stress Relief",
+        "Pet Hospital"
+      ]
+    }
+  },
+  "stores": {},
+  "orders": {}
+}

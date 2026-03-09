@@ -1,0 +1,140 @@
+{
+  "required_orders": [
+    {
+      "order_id": "70806001T001",
+      "order_type": "hotel",
+      "user_id": "U010007",
+      "store_id": "S17557512725123677_H00004",
+      "note": "",
+      "location": null,
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 894,
+      "create_time": "2024-11-02 13:21:53",
+      "update_time": "2024-11-09 21:34:13",
+      "status": "cancelled",
+      "products": [
+        {
+          "product_id": "S17557512725123677_P00037",
+          "price": 298,
+          "quantity": 1,
+          "date": "2024-11-14",
+          "room_type": "Standard king room"
+        },
+        {
+          "product_id": "S17557512725123677_P00038",
+          "price": 298,
+          "quantity": 1,
+          "date": "2024-11-15",
+          "room_type": "Standard king room"
+        },
+        {
+          "product_id": "S17557512725123677_P00039",
+          "price": 298,
+          "quantity": 1,
+          "date": "2024-11-16",
+          "room_type": "Standard king room"
+        }
+      ]
+    },
+    {
+      "order_id": "70806001T002",
+      "order_type": "attraction",
+      "user_id": "U010007",
+      "store_id": "S17557512725123677_A00008",
+      "note": "",
+      "location": null,
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 80,
+      "create_time": "2024-11-09 21:37:13",
+      "update_time": "2024-11-09 21:37:13",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17557512725123677_P00064",
+          "price": 80,
+          "quantity": 1,
+          "date": "2024-11-16",
+          "ticket_type": "Adult ticket (including professional commentary service) + Sightseeing bus"
+        }
+      ]
+    },
+    {
+      "order_id": "70806001T003",
+      "order_type": "attraction",
+      "user_id": "U010007",
+      "store_id": "S17557512725123677_A00006",
+      "note": "",
+      "location": null,
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 80,
+      "create_time": "2024-11-09 21:39:13",
+      "update_time": "2024-11-09 21:39:13",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17557512725123677_P00047",
+          "price": 80,
+          "quantity": 1,
+          "date": "2024-11-17",
+          "ticket_type": "Adult ticket (including professional guided tour)"
+        }
+      ]
+    },
+    {
+      "order_id": "70806001T004",
+      "order_type": "hotel",
+      "user_id": "U010007",
+      "store_id": "S17557512725123677_H00005",
+      "note": "",
+      "location": null,
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 1140,
+      "create_time": "2024-11-09 21:41:13",
+      "update_time": "2024-11-09 21:41:13",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17557512725123677_P00042",
+          "price": 380,
+          "quantity": 1,
+          "date": "2024-11-14",
+          "room_type": "Business king room"
+        },
+        {
+          "product_id": "S17557512725123677_P00043",
+          "price": 380,
+          "quantity": 1,
+          "date": "2024-11-15",
+          "room_type": "Business king room"
+        },
+        {
+          "product_id": "S17557512725123677_P00044",
+          "price": 380,
+          "quantity": 1,
+          "date": "2024-11-16",
+          "room_type": "Business king room"
+        }
+      ]
+    }
+  ],
+  "rubrics": [
+    "The order status of Jinjiang Inn Changsha Huanghua Airport Branch is cancelled",
+    "The usage date of Orange Isle tickets is November 16, 2024",
+    "The Orange Isle tickets should include sightseeing bus",
+    "The Orange Isle tickets should include professional commentary service",
+    "The usage date of Yuelu Academy tickets is November 17, 2024",
+    "The Yuelu Academy tickets should include professional guided tour",
+    "The hotel to be booked should be near Wuyi Square",
+    "The hotel price range should be 300-500 yuan per night",
+    "The hotel should provide a Fitness center",
+    "The hotel order should include rooms for 3 nights, specifically November 14, 2024, November 15, 2024, and November 16, 2024"
+  ]
+}

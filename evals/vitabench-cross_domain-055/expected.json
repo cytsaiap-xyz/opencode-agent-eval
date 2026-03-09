@@ -1,0 +1,106 @@
+{
+  "required_orders": [
+    {
+      "order_id": "OIb192a86a68",
+      "order_type": "instore",
+      "user_id": "U835115",
+      "store_id": "S17550802140416746_I00011",
+      "note": "",
+      "location": null,
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 188,
+      "create_time": "2025-11-07 16:46:26",
+      "update_time": "2025-11-07 16:46:26",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17550802140416746_P00052",
+          "price": 188,
+          "quantity": 1,
+          "name": "Beginner's archery experience package (including coach guidance)",
+          "shop_id": "S17550802140416746_I00011",
+          "tags": [
+            "Beginner-friendly",
+            "Coach guidance",
+            "1 hour"
+          ]
+        }
+      ]
+    },
+    {
+      "order_id": "OO29ffa4c68d",
+      "order_type": "flight",
+      "user_id": "U835115",
+      "store_id": "S17550802140416746_F00006",
+      "note": "",
+      "location": null,
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 1580,
+      "create_time": "2025-11-07 16:51:37",
+      "update_time": "2025-11-07 16:51:37",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17550802140416746_P00030",
+          "price": 1580,
+          "quantity": 1,
+          "date": "2025-11-11",
+          "seat_type": "Business class"
+        }
+      ]
+    },
+    {
+      "order_id": "10811011T001",
+      "order_type": "delivery",
+      "user_id": "U835115",
+      "store_id": "S17550802140416746_S00001",
+      "note": "Leave at front desk",
+      "location": {
+        "address": "Bowstring Archery Hall, Basement 1, Building A, National Financial Center, 1500 Kaiyun Street, Chaoyang District, Changchun, Jilin Province",
+        "longitude": 125.292854,
+        "latitude": 43.817854
+      },
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 159.9,
+      "create_time": "2025-11-07 16:48:33",
+      "update_time": "2025-11-07 16:52:35",
+      "status": "delivered",
+      "products": [
+        {
+          "product_id": "S17550802140416746_P00002",
+          "name": "Professional archery arm guard set",
+          "price": 159.9,
+          "quantity": 1,
+          "attributes": "Size L",
+          "tags": [
+            "Comprehensive protection",
+            "High elasticity",
+            "Fast delivery"
+          ]
+        }
+      ]
+    }
+  ],
+  "rubrics": [
+    "The archery hall ordered from should be newly opened",
+    "The package purchased at the archery hall should include coach guidance",
+    "The package purchased at the archery hall should be aimed at beginners",
+    "The flight ordered is from Changchun to Taiyuan",
+    "The date of the flight ticket is November 11, 2025",
+    "The flight departs in the morning",
+    "The flight ticket must be business class",
+    "The flight ordered is the last departure of the morning, the flight in the ticket order should be MU5231 (departing at 11:40)",
+    "The item in the delivery order should be archery protective gear",
+    "The archery protective gear in the order should be professional grade",
+    "Size L should be selected for the archery protective gear in the order",
+    "The delivery time for the archery protective gear order should be before or at 6:00 PM on November 7, 2025",
+    "The delivery address for the archery protective gear order should be Room 1203, Building B, Changchun International Financial Center, 1588 Kaiyun Street, Chaoyang District, Changchun, Jilin Province",
+    "The note for the archery protective gear order should be 'Leave at front desk'"
+  ]
+}

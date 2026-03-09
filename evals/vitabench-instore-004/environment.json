@@ -1,0 +1,192 @@
+{
+  "task_id": "10826013",
+  "domain": "instore",
+  "time": "2024-02-22 15:30:00",
+  "user_id": "U302175",
+  "weather": [
+    {
+      "city": "Tianjin",
+      "category": "cloudy",
+      "datetime": "2024-02-24",
+      "temperature": [
+        3,
+        12
+      ],
+      "humidity": 55
+    }
+  ],
+  "location": [
+    {
+      "address": "Room 402, K2-6, Haitai Green Industry Base, No.6 Haitai Huake 7th Road, Huayuan Industrial Park, Nankai District, Tianjin",
+      "longitude": 117.0526,
+      "latitude": 39.0724
+    },
+    {
+      "address": "Room 503, Building A, Binhai New Area Science and Technology Innovation Park, No.16 Third Avenue, Economic and Technological Development Zone, Binhai New Area, Tianjin",
+      "longitude": 117.7117,
+      "latitude": 39.0361
+    },
+    {
+      "address": "3rd Floor, Building C5, Olympic City Commercial Plaza, Huayuan Industrial Park, Nankai District, Tianjin",
+      "longitude": 117.0583,
+      "latitude": 39.0758
+    }
+  ],
+  "user_profile": {
+    "user id": "U302175",
+    "occupation": "Algorithm Engineer",
+    "gender": "female",
+    "age group": "25~30",
+    "residence": "Tianjin",
+    "home address": "Room 402, K2-6, Haitai Green Industry Base, No.6 Haitai Huake 7th Road, Huayuan Industrial Park, Nankai District, Tianjin",
+    "work address": "Room 503, Building A, Binhai New Area Science and Technology Innovation Park, No.16 Third Avenue, Economic and Technological Development Zone, Binhai New Area, Tianjin",
+    "dietary restrictions": "No caffeine, low sugar",
+    "family status": "In a relationship",
+    "personality": "Extremely detail-oriented, tends to be picky and easily dissatisfied"
+  },
+  "user_historical_behaviors": {
+    "user id": "U302175",
+    "occupation": "Algorithm Engineer",
+    "gender": "female",
+    "age group": "25~30",
+    "residence": "Tianjin",
+    "home address": "Room 402, K2-6, Haitai Green Industry Base, No.6 Haitai Huake 7th Road, Huayuan Industrial Park, Nankai District, Tianjin",
+    "work address": "Room 503, Building A, Binhai New Area Science and Technology Innovation Park, No.16 Third Avenue, Economic and Technological Development Zone, Binhai New Area, Tianjin",
+    "in-store dining": {
+      "fine-dining": {
+        "frequently purchased categories": [
+          "Regional Cuisine/Cantonese Cuisine (Average 120 yuan)",
+          "Foreign Cuisine/Japanese Cuisine (Average 150 yuan)",
+          "Hot Pot (Average 100 yuan)"
+        ],
+        "preferred average price per person": "100~150 yuan",
+        "preferred store rating": "4.0~4.8 stars",
+        "typical dining time": "18:30-20:30",
+        "preferred distance": "500~3000m",
+        "recent orders": [
+          {
+            "store": "Yu Fei Yu (Tianjin Binhai Branch)",
+            "product": "Signature Steamed Bass Fish Set Menu"
+          },
+          {
+            "store": "Hegreen Revolving Sushi (Huayuan Branch)",
+            "product": "Salmon Sashimi Platter"
+          },
+          {
+            "store": "Xiaolongkan Hot Pot (Nankai Branch)",
+            "product": "Mushroom Yuanyang Hot Pot (No Spice)"
+          }
+        ],
+        "search history": [
+          "Non-spicy hot pot",
+          "Japanese cuisine",
+          "Cantonese cuisine",
+          "Seafood",
+          "Low-sugar dishes"
+        ]
+      },
+      "light meal": {
+        "frequently purchased categories": [
+          "Snacks & Fast Food/Chinese Fast Food (Average 35 yuan)",
+          "Regional Cuisine/Northeast Cuisine (Average 45 yuan)",
+          "Regional Cuisine/Shanghai & Jiangsu-Zhejiang Cuisine (Average 40 yuan)"
+        ],
+        "preferred average price per person": "30~50 yuan",
+        "preferred store rating": "3.5~4.3 stars",
+        "typical dining time": "11:30-13:00",
+        "preferred distance": "0~800m",
+        "recent orders": [
+          {
+            "store": "Yonghe Soybean Milk (Huayuan Branch)",
+            "product": "Three Delicacies Tofu Soup + Side Dish Set"
+          },
+          {
+            "store": "Shaxian Snacks (Tech Park Branch)",
+            "product": "Steamed Dumplings + Seaweed Egg Drop Soup"
+          },
+          {
+            "store": "Northeast Home Cooking (Nankai District Branch)",
+            "product": "Moo Shu Pork + Rice"
+          }
+        ],
+        "search history": [
+          "Healthy meals",
+          "Low-sugar set meals",
+          "Light food",
+          "Fast food"
+        ]
+      },
+      "desserts/drinks/snacks": {
+        "frequently purchased categories": [
+          "Beverage Shops (Average 20 yuan)",
+          "Bakery & Desserts (Average 25 yuan)",
+          "Other Dining/Fresh Fruits (Average 15 yuan)"
+        ],
+        "preferred average price per person": "15~30 yuan",
+        "preferred store rating": "4.0~4.7 stars",
+        "typical dining time": "15:00-16:30",
+        "preferred distance": "0~500m",
+        "recent orders": [
+          {
+            "store": "HeyTea (Tianjin Tech Park Branch)",
+            "product": "Multi-fruit Grape Tea (Sugar-free)"
+          },
+          {
+            "store": "BreadTalk (Huayuan Branch)",
+            "product": "Whole Wheat Walnut Toast"
+          },
+          {
+            "store": "MissFresh (Self-pickup Point)",
+            "product": "Boxed Blueberries"
+          }
+        ],
+        "search history": [
+          "Sugar-free drinks",
+          "Whole wheat bread",
+          "Low-sugar desserts",
+          "Fruits"
+        ]
+      }
+    },
+    "other in-store services": {
+      "frequently consumed categories": {
+        "Sports & Fitness/Fitness Centers": "40%",
+        "Beauty/Yoga": "30%",
+        "Entertainment/Massage/Foot Therapy": "20%",
+        "Beauty/Hair Salon": "10%"
+      },
+      "cost per order by category": {
+        "Sports & Fitness/Fitness Centers": "80~150 yuan",
+        "Beauty/Yoga": "120~180 yuan",
+        "Entertainment/Massage/Foot Therapy": "150~250 yuan",
+        "Beauty/Hair Salon": "180~300 yuan"
+      },
+      "preferred store rating": "4.0~4.8 stars",
+      "preferred service time": "18:00-21:00",
+      "preferred distance": "0~3000m",
+      "recent orders": [
+        {
+          "store": "Leke Fitness (Huayuan Branch)",
+          "product": "Single Person Monthly Fitness Card"
+        },
+        {
+          "store": "Fanyin Yoga (Nankai Branch)",
+          "product": "Flow Yoga Single Experience Class"
+        },
+        {
+          "store": "Thai Love Massage SPA (Tianjin Branch)",
+          "product": "Neck and Shoulder Relief Package"
+        }
+      ],
+      "search history": [
+        "Gym",
+        "Yoga classes",
+        "Shoulder and neck massage",
+        "Women's fitness",
+        "Stress relief relaxation"
+      ]
+    }
+  },
+  "stores": {},
+  "orders": {}
+}

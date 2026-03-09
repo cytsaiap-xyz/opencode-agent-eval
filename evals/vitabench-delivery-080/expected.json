@@ -1,0 +1,61 @@
+{
+  "required_orders": [
+    {
+      "order_id": "G0721005O01",
+      "order_type": "delivery",
+      "user_id": "U000035",
+      "store_id": "S22484608426597067_S56693",
+      "note": "",
+      "location": {
+        "address": "Global Center, Building 1, No. 1700, North Section of Tianfu Avenue, Guixi Street, Wuhou District, Chengdu, Sichuan Province",
+        "longitude": 104.063402,
+        "latitude": 30.568744
+      },
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 25.68,
+      "create_time": "2025-11-19 11:00:00",
+      "update_time": "2025-11-19 11:02:00",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S12558460048992987_P18134",
+          "price": 25.68,
+          "quantity": 1,
+          "attributes": "Mild Spicy"
+        }
+      ]
+    },
+    {
+      "order_id": "G0721005T01",
+      "order_type": "delivery",
+      "user_id": "U000035",
+      "store_id": "S22484608426597067_S56693",
+      "note": "",
+      "location": {
+        "address": "Global Center, Building 1, No. 1700, North Section of Tianfu Avenue, Guixi Street, Wuhou District, Chengdu, Sichuan Province",
+        "longitude": 104.063402,
+        "latitude": 30.568744
+      },
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 25.68,
+      "create_time": "2025-11-19 11:02:00",
+      "update_time": "2025-11-19 11:02:00",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S12558460048992987_P18134",
+          "price": 25.68,
+          "quantity": 1,
+          "attributes": "Mild Spicy"
+        }
+      ]
+    }
+  ],
+  "rubrics": [
+    "Order the product from order G0721005O01 again"
+  ]
+}

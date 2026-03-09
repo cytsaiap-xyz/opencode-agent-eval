@@ -1,0 +1,88 @@
+{
+  "required_orders": [
+    {
+      "order_id": "D0811004T001",
+      "order_type": "train",
+      "user_id": "U010078",
+      "store_id": "S17557512073196111_T00011",
+      "note": "",
+      "location": null,
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 768,
+      "create_time": "2024-05-23 14:18:30",
+      "update_time": "2024-05-23 14:18:30",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17557512073196111_P00073",
+          "price": 768,
+          "quantity": 1,
+          "date": "2024-05-25",
+          "seat_type": "Soft sleeper (lower berth)"
+        }
+      ]
+    },
+    {
+      "order_id": "D0811004T002",
+      "order_type": "hotel",
+      "user_id": "U010078",
+      "store_id": "S17557512073196111_H00002",
+      "note": "",
+      "location": null,
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 658,
+      "create_time": "2024-05-23 14:19:30",
+      "update_time": "2024-05-23 14:19:30",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17557512073196111_P00013",
+          "price": 658,
+          "quantity": 1,
+          "date": "2024-05-27",
+          "room_type": "Comfortable king room"
+        }
+      ]
+    },
+    {
+      "order_id": "D0811004T003",
+      "order_type": "attraction",
+      "user_id": "U010078",
+      "store_id": "S17557111228331195_A00008",
+      "note": "",
+      "location": null,
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 300,
+      "create_time": "2024-05-23 14:20:30",
+      "update_time": "2024-05-23 14:20:30",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17557111228331195_P00057",
+          "price": 200,
+          "quantity": 1,
+          "date": "2025-12-11",
+          "ticket_type": "Adult ticket"
+        }
+      ]
+    }
+  ],
+  "rubrics": [
+    "The train ticket order's departure time is Saturday (May 25, 2024)",
+    "The train ticket order must be for a lower berth",
+    "The train ticket order should be for a Soft sleeper (lower berth)",
+    "The hotel check-in date should be the evening of arrival (May 27, 2024)",
+    "The hotel environment must be Tidy",
+    "The hotel must be located within 2km (inclusive) of Urumqi Railway Station",
+    "The hotel order price must be between 500-1000 yuan",
+    "The scenic spot in the ticket order must be Tianshan Grand Canyon",
+    "The date on the ticket order must be the first Saturday in June 2024, which is June 1",
+    "The ticket order must include 2 Adult tickets"
+  ]
+}

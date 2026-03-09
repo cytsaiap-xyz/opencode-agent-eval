@@ -1,0 +1,74 @@
+{
+  "required_orders": [
+    {
+      "order_id": "10826257T001",
+      "order_type": "instore",
+      "user_id": "U061728",
+      "store_id": "S17567842819486826_I00001",
+      "note": "",
+      "location": null,
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 68,
+      "create_time": "2024-07-19 12:37:09",
+      "update_time": "2024-07-19 12:37:09",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17567842819486826_P00001",
+          "name": "Classic Steam Pot Chicken Single-Person Package",
+          "price": 68,
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "reservation_id": "10826257T002",
+      "shop_id": "S17567842819486826_I00001",
+      "book_time": "2024-07-21 12:00:00",
+      "update_time": "2024-07-19 12:39:19",
+      "customer_id": "U061728",
+      "customer_count": 2,
+      "book_price": 10,
+      "status": "paid"
+    },
+    {
+      "order_id": "10826257T003",
+      "order_type": "instore",
+      "user_id": "U061728",
+      "store_id": "S17567842819486826_I00002",
+      "note": "",
+      "location": null,
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 158,
+      "create_time": "2024-07-19 12:42:23",
+      "update_time": "2024-07-19 12:42:23",
+      "status": "unpaid",
+      "products": [
+        {
+          "product_id": "S17567842819486826_P00010",
+          "name": "4-Hour Singing Package (with Fruit Platter)",
+          "price": 158,
+          "quantity": 1
+        }
+      ]
+    }
+  ],
+  "rubrics": [
+    "The restaurant ordered should be a Yunnan cuisine restaurant",
+    "The restaurant ordered should be an established restaurant with over ten years of history",
+    "The restaurant ordered should have free parking available",
+    "After checking, the restaurant offers a single-person meal that includes Steam Pot Chicken, so the ordered item should be a single-person meal with Steam Pot Chicken",
+    "The restaurant's ordered items should be available on weekends",
+    "The reserved restaurant should be Dian Xiang Ge Yunnan Cuisine",
+    "The restaurant reservation time should be 2024-07-21 12:00:00",
+    "The restaurant reservation should be for 2 people",
+    "The ordered KTV should be within 1km (including 1km) of Dian Xiang Ge Yunnan Cuisine at 128 Zhongzhou Middle Road, Xigong District, Luoyang",
+    "The KTV ordered item should include a Fruit Platter",
+    "The usage duration of the KTV ordered item should be 4 Hours",
+    "Since both the user and friend don't want to spend more than 80 yuan each for karaoke, the KTV ordered item should cost less than or equal to 160 yuan"
+  ]
+}

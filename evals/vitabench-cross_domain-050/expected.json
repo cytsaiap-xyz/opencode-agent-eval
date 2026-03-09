@@ -1,0 +1,82 @@
+{
+  "required_orders": [
+    {
+      "order_id": "S17550812145855949_O00004",
+      "order_type": "instore",
+      "user_id": "U084589",
+      "store_id": "S17550812145855949_I00013",
+      "note": "",
+      "location": null,
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 4188,
+      "create_time": "2024-07-26 15:49:02",
+      "update_time": "2024-07-26 15:49:02",
+      "status": "unconsumed",
+      "products": [
+        {
+          "product_id": "S17550812145855949_P00089",
+          "name": "\"Spring Breeze\" Emotional Script Individual Experience Package",
+          "price": 698,
+          "shop_id": "S17550812145855949_I00013",
+          "quantity": 6
+        }
+      ]
+    },
+    {
+      "order_id": "S17550812145855949_O00001",
+      "order_type": "train",
+      "user_id": "U084589",
+      "store_id": "S17550812145855949_T00007",
+      "note": "",
+      "location": {
+        "address": "Xipu Station, West Station Street, Jinniu District, Chengdu, Sichuan Province",
+        "longitude": 103.9641,
+        "latitude": 30.7524
+      },
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 72,
+      "create_time": "2024-07-26 15:51:32",
+      "update_time": "2024-07-26 15:51:32",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17550812145855949_P00048",
+          "price": 18,
+          "quantity": 4,
+          "seat_type": "Second Class Seat"
+        }
+      ]
+    },
+    {
+      "book_id": "S17550812145855949_B00005",
+      "shop_id": "S17550812145855949_I00017",
+      "book_time": "2024-08-04 12:30:00",
+      "update_time": "2024-07-26 15:53:21",
+      "customer_id": "U084589",
+      "customer_count": 6,
+      "book_price": 0,
+      "status": "unconsumed"
+    }
+  ],
+  "rubrics": [
+    "Murder Mystery Game venue should provide a two-day one-night murder mystery experience",
+    "The ordered script should be an Emotional Script",
+    "The ordered script should have Medium Difficulty Deduction",
+    "The ordered script should be a 6-Person Script",
+    "The ordered murder mystery package should include male and female Styling services",
+    "The ordered murder mystery package must include Dinner Included",
+    "The departure station of the ordered train should be Xipu Station",
+    "The arrival station of the ordered train should be Dujiangyan Station",
+    "The departure time of the ordered train should be between 10:00-12:00 on August 3, 2024",
+    "The quantity of ordered train tickets should be 4",
+    "The ordered restaurant should be within 3000m of Dujiangyan Station",
+    "The ordered restaurant package should include Wellness dishes and Snacks",
+    "The ordered restaurant package should be the Three-Person Package at Dujiangyan Sichuan Cuisine Restaurant, not three individual meals",
+    "Seats should be reserved at the ordered restaurant for 12:30:00 on August 4, 2024",
+    "The number of people for the restaurant reservation should be six"
+  ]
+}

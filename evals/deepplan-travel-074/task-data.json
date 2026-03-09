@@ -1,0 +1,44 @@
+{
+  "task_id": "73",
+  "query": "I'm planning a trip from Harbin to Dalian, departing on November 12, 2025, and returning on November 16, 2025. Could you please help me plan the entire itinerary? For transportation, I'd like to take a high-speed train for the outbound journey—please find me the cheapest direct train available, as that would offer good value and convenience.\n\nFor accommodation, comfort isn't a top priority—just help me book a three-star hotel, preferably the most affordable option. There are two of us traveling, so we only need one room.\n\nBy the way, I have two small dining requests—please arrange them accordingly. First, for one meal, I'd like to eat near 'Dalian Museum'—could you find me the restaurant with the lowest average spending per person? Just something simple will do. Second, I've heard there are many great food options in the 'Qingniwa Bridge Commercial District'—please pick the highest-rated restaurant there and include it in the plan, as I'd like to try some popular local cuisine.\n\nThat covers all my requirements—I've provided all the necessary details, so feel free to go ahead and create the full itinerary. Thanks so much! November 12, 2025 is Wednesday",
+  "meta_info": {
+    "org": "Harbin",
+    "dest": [
+      "Dalian"
+    ],
+    "days": 5,
+    "depart_date": "2025-11-12",
+    "return_date": "2025-11-16",
+    "people_number": 2,
+    "room_number": 1
+  },
+  "hard_constraints": {
+    "train_cheapest_train_type": {
+      "constraint_context": "Hope to take a train for the outbound journey, and need to select the cheapest direct train among the high-speed rail options",
+      "constraint_type": "superlative_cheapest_train_type",
+      "outbound_train_no": "G710"
+    },
+    "hotel_cheapest_star": {
+      "constraint_context": "Please select the cheapest hotel among the 3-star hotels",
+      "constraint_type": "superlative_cheapest_star",
+      "hotel_name": "Home Inn Selected - Dalian Kuiying Building Labor Park Branch",
+      "hotel_star": 3,
+      "hotel_price": 195.0
+    },
+    "restaurant_cheapest_nearby_attraction": {
+      "constraint_context": "During the trip, please arrange a meal at the cheapest restaurant near 'Dalian Museum' per person.",
+      "constraint_type": "superlative_cheapest_nearby_attraction",
+      "attraction_name": "Dalian Museum",
+      "restaurant_name": "Eat Well 15 Yuan Self-Service Fast Food Restaurant",
+      "price_per_person": 18.0
+    },
+    "restaurant_highest_rated": {
+      "constraint_context": "During the trip, please arrange a meal at the highest-rated restaurant near the 'Qingniwa Bridge Commercial District'.",
+      "constraint_type": "superlative_highest_rated_restaurant",
+      "attraction_name": "Qingniwa Bridge Commercial District",
+      "restaurant_name": "Hang Xiaodian Dim Sum & Scallion Oil Noodles (Parkland Store)",
+      "price_per_person": 65.0,
+      "restaurant_rating": 4.8
+    }
+  }
+}

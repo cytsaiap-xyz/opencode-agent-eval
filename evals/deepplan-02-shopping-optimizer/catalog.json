@@ -1,0 +1,103 @@
+{
+  "products": [
+    {
+      "id": "p1", "name": "Nike Air Max 90", "brand": "Nike", "category": "shoes",
+      "price": 130, "rating": 4.5, "color": "white", "size": "10",
+      "totalReviews": 3500, "fiveStarReviews": 2100, "oneStarReviews": 45,
+      "monthlySales": 450, "inStock": true
+    },
+    {
+      "id": "p2", "name": "Nike React Vision", "brand": "Nike", "category": "shoes",
+      "price": 160, "rating": 4.3, "color": "black", "size": "10",
+      "totalReviews": 1200, "fiveStarReviews": 700, "oneStarReviews": 30,
+      "monthlySales": 280, "inStock": true
+    },
+    {
+      "id": "p3", "name": "Adidas Ultraboost 22", "brand": "Adidas", "category": "shoes",
+      "price": 190, "rating": 4.7, "color": "white", "size": "10",
+      "totalReviews": 5000, "fiveStarReviews": 3800, "oneStarReviews": 25,
+      "monthlySales": 600, "inStock": true
+    },
+    {
+      "id": "p4", "name": "Adidas Stan Smith", "brand": "Adidas", "category": "shoes",
+      "price": 85, "rating": 4.4, "color": "white", "size": "9",
+      "totalReviews": 8000, "fiveStarReviews": 5200, "oneStarReviews": 100,
+      "monthlySales": 900, "inStock": true
+    },
+    {
+      "id": "p5", "name": "Puma RS-X", "brand": "Puma", "category": "shoes",
+      "price": 110, "rating": 4.2, "color": "white", "size": "10",
+      "totalReviews": 2000, "fiveStarReviews": 1100, "oneStarReviews": 60,
+      "monthlySales": 350, "inStock": true
+    },
+    {
+      "id": "p6", "name": "Nike Dri-FIT Tee", "brand": "Nike", "category": "tops",
+      "price": 35, "rating": 4.6, "color": "black", "size": "M",
+      "totalReviews": 6000, "fiveStarReviews": 4200, "oneStarReviews": 50,
+      "monthlySales": 1200, "inStock": true
+    },
+    {
+      "id": "p7", "name": "Adidas Trefoil Hoodie", "brand": "Adidas", "category": "tops",
+      "price": 65, "rating": 4.5, "color": "gray", "size": "L",
+      "totalReviews": 3200, "fiveStarReviews": 2000, "oneStarReviews": 40,
+      "monthlySales": 500, "inStock": true
+    },
+    {
+      "id": "p8", "name": "Puma Essential Tee", "brand": "Puma", "category": "tops",
+      "price": 25, "rating": 4.1, "color": "white", "size": "M",
+      "totalReviews": 4500, "fiveStarReviews": 2500, "oneStarReviews": 120,
+      "monthlySales": 800, "inStock": true
+    },
+    {
+      "id": "p9", "name": "Nike Sportswear Joggers", "brand": "Nike", "category": "bottoms",
+      "price": 60, "rating": 4.4, "color": "black", "size": "M",
+      "totalReviews": 2800, "fiveStarReviews": 1800, "oneStarReviews": 35,
+      "monthlySales": 420, "inStock": true
+    },
+    {
+      "id": "p10", "name": "Adidas Track Pants", "brand": "Adidas", "category": "bottoms",
+      "price": 55, "rating": 4.3, "color": "black", "size": "M",
+      "totalReviews": 3100, "fiveStarReviews": 1900, "oneStarReviews": 55,
+      "monthlySales": 380, "inStock": true
+    },
+    {
+      "id": "p11", "name": "Nike Air Force 1", "brand": "Nike", "category": "shoes",
+      "price": 100, "rating": 4.8, "color": "white", "size": "10",
+      "totalReviews": 12000, "fiveStarReviews": 9500, "oneStarReviews": 80,
+      "monthlySales": 2000, "inStock": true
+    },
+    {
+      "id": "p12", "name": "Puma Suede Classic", "brand": "Puma", "category": "shoes",
+      "price": 70, "rating": 4.3, "color": "blue", "size": "10",
+      "totalReviews": 4000, "fiveStarReviews": 2400, "oneStarReviews": 70,
+      "monthlySales": 500, "inStock": false
+    }
+  ],
+  "coupons": [
+    {
+      "id": "c1", "type": "cross-store", "name": "$20 off $200+",
+      "minSpend": 200, "discount": 20,
+      "applicableBrands": null
+    },
+    {
+      "id": "c2", "type": "same-brand", "name": "Nike $15 off $100+",
+      "minSpend": 100, "discount": 15,
+      "applicableBrands": ["Nike"]
+    },
+    {
+      "id": "c3", "type": "same-brand", "name": "Adidas $25 off $150+",
+      "minSpend": 150, "discount": 25,
+      "applicableBrands": ["Adidas"]
+    },
+    {
+      "id": "c4", "type": "cross-store", "name": "$50 off $400+",
+      "minSpend": 400, "discount": 50,
+      "applicableBrands": null
+    },
+    {
+      "id": "c5", "type": "same-brand", "name": "Puma $10 off $80+",
+      "minSpend": 80, "discount": 10,
+      "applicableBrands": ["Puma"]
+    }
+  ]
+}

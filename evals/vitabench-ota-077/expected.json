@@ -1,0 +1,62 @@
+{
+  "required_orders": [
+    {
+      "order_id": "D0807004T001",
+      "order_type": "attraction",
+      "user_id": "U010023",
+      "store_id": "S17557515627777726_A00005",
+      "note": "",
+      "location": null,
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 268,
+      "create_time": "2023-07-12 21:16:46",
+      "update_time": "2023-07-12 21:16:46",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17557515627777726_P00024",
+          "price": 268,
+          "quantity": 1,
+          "date": "2023-07-22",
+          "ticket_type": "Adult Ticket + Rafting Package"
+        }
+      ]
+    },
+    {
+      "order_id": "D0807004T002",
+      "order_type": "hotel",
+      "user_id": "U010023",
+      "store_id": "S17557515627777726_H00002",
+      "note": "",
+      "location": null,
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 380,
+      "create_time": "2023-07-12 21:18:46",
+      "update_time": "2023-07-12 21:18:46",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17557515627777726_P00008",
+          "price": 380,
+          "quantity": 1,
+          "date": "2023-07-22",
+          "room_type": "Hui-style Traditional King Room"
+        }
+      ]
+    }
+  ],
+  "rubrics": [
+    "Must provide information about Hongcun's main attractions (Hongcun Scenic Area, Moon Pond, South Lake)",
+    "Need to check Huangshan's weather for Saturday (July 22, 2023), which is sunny, 20-26℃. Since it won't rain on Saturday, the ticket order needs to include rafting",
+    "Need to compare the prices of separately purchasing Hongcun attraction tickets and rafting adult tickets, versus purchasing Adult Ticket + Rafting Package; the result shows the package is cheaper, so the ticket order type must be Adult Ticket + Rafting Package",
+    "The ticket order's date of use must be July 22, 2023",
+    "Must check the nearest railway station to Hongcun, with results showing Huangshan North Railway Station, approximately 24.5km away",
+    "Accommodation must be a Traditional Inn within Hongcun ancient village",
+    "The inn's checkout time must be after 14:00",
+    "The inn's check-in date must be July 22, 2023"
+  ]
+}

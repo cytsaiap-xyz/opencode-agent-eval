@@ -1,0 +1,1017 @@
+{
+  "task_id": "10808004",
+  "domain": "cross_domain",
+  "time": "2025-06-11 15:30:00",
+  "user_id": "U469686",
+  "weather": [
+    {
+      "city": "Shenyang",
+      "category": "sunny",
+      "datetime": "2025-06-11",
+      "temperature": [
+        22,
+        32
+      ],
+      "humidity": 45
+    },
+    {
+      "city": "Shenyang",
+      "category": "cloudy",
+      "datetime": "2025-06-12",
+      "temperature": [
+        24,
+        33
+      ],
+      "humidity": 50
+    }
+  ],
+  "location": [
+    {
+      "address": "Huafu World, 46 Nanjing South Street, Heping District, Shenyang",
+      "longitude": 123.4329,
+      "latitude": 41.7781
+    },
+    {
+      "address": "Shenyang North Railway Station, 118 Beizhan Road, Shenhe District, Shenyang",
+      "longitude": 123.4012,
+      "latitude": 41.8119
+    }
+  ],
+  "user_profile": {
+    "user id": "U469686",
+    "occupation": "Driver",
+    "gender": "male",
+    "age group": "30~35",
+    "residence": "Shenyang",
+    "home address": "Huafu World, 46 Nanjing South Street, Heping District, Shenyang",
+    "work address": "Shenyang North Railway Station, 118 Beizhan Road, Shenhe District, Shenyang",
+    "dietary restrictions": "No high salt, No caffeine",
+    "family status": "Has children",
+    "personality": "Strong logical thinking, enjoys analysis and questioning, pursues accuracy"
+  },
+  "user_historical_behaviors": {
+    "user id": "U469686",
+    "occupation": "driver",
+    "gender": "male",
+    "age group": "30~35",
+    "residence": "Shenyang",
+    "home address": "Huafu World, 46 Nanjing South Street, Heping District, Shenyang",
+    "work address": "Shenyang North Railway Station, 118 Beizhan Road, Shenhe District, Shenyang",
+    "food delivery": {
+      "breakfast": {
+        "frequently purchased categories": [
+          "Quick Meals/Steamed Buns/Pan-fried Buns (Average ¥18)",
+          "Quick Meals/Pancakes/Wraps/Hand-held Pancakes (Average ¥12)",
+          "Quick Meals/Dumplings/Wonton (Average ¥22)"
+        ],
+        "cost per order": "¥10~25",
+        "preferred store rating": "4.2~4.8",
+        "preferred delivery time": "15~25 minutes",
+        "preferred distance": "0~1500m",
+        "recent orders": [
+          {
+            "store": "Lao Li's Bun Shop",
+            "product": "Pork Bun + Soy Milk Set"
+          },
+          {
+            "store": "Tianjin Pancake",
+            "product": "Original Pancake"
+          },
+          {
+            "store": "Shenyang Old Dumpling",
+            "product": "Three Delicacies Dumplings"
+          }
+        ],
+        "search history": [
+          "buns",
+          "soy milk",
+          "pancake",
+          "breakfast",
+          "dumplings"
+        ]
+      },
+      "weekday lunch/dinner": {
+        "frequently purchased categories": [
+          "Quick Meals/Rice with Toppings (Average ¥28)",
+          "Quick Meals/Small Dishes (Average ¥32)",
+          "Quick Meals/Rice Noodles (Average ¥25)"
+        ],
+        "cost per order": "¥25~40",
+        "preferred store rating": "4.0~4.5",
+        "preferred delivery time": "20~35 minutes",
+        "preferred distance": "0~2500m",
+        "recent orders": [
+          {
+            "store": "Food Lover's Rice with Toppings",
+            "product": "Green Pepper and Shredded Pork Rice"
+          },
+          {
+            "store": "Small Dish Home Cooking",
+            "product": "Yu-Shiang Shredded Pork + Rice"
+          },
+          {
+            "store": "Yunnan Crossing Bridge Rice Noodles",
+            "product": "Classic Beef Rice Noodles"
+          }
+        ],
+        "search history": [
+          "rice with toppings",
+          "rice noodles",
+          "small dishes",
+          "fast food",
+          "home-style cooking"
+        ]
+      },
+      "weekend lunch/dinner": {
+        "frequently purchased categories": [
+          "Chinese Cuisine/Northeastern Cuisine (Average ¥68)",
+          "Hot Pot/Spicy Chicken Pot (Average ¥75)",
+          "Chinese Cuisine/Stewed Pot (Average ¥80)"
+        ],
+        "cost per order": "¥60~120",
+        "preferred store rating": "4.3~4.8",
+        "preferred delivery time": "25~45 minutes",
+        "preferred distance": "0~3500m",
+        "recent orders": [
+          {
+            "store": "Old Northeast Restaurant",
+            "product": "Guo Bao Rou (Sweet and Sour Pork) + Di San Xian (Sautéed Potatoes, Eggplant and Peppers) + Rice"
+          },
+          {
+            "store": "Chongqing Chicken Pot",
+            "product": "Signature Spicy Chicken Pot (Medium Spicy)"
+          },
+          {
+            "store": "Huizhou Stewed Pot",
+            "product": "Three Delicacies Stewed Pot + Staple Food"
+          }
+        ],
+        "search history": [
+          "Northeastern Cuisine",
+          "chicken pot",
+          "stewed pot",
+          "family meal",
+          "Children's Meal"
+        ]
+      },
+      "desserts/drinks/snacks": {
+        "frequently purchased categories": [
+          "Drinks & Desserts/Fruit Juice (Average ¥22)",
+          "Drinks & Desserts/Chinese Pastries (Average ¥28)",
+          "Drinks & Desserts/Fruit Salad (Average ¥35)"
+        ],
+        "cost per order": "¥20~40",
+        "preferred store rating": "4.5~4.9",
+        "preferred delivery time": "15~30 minutes",
+        "preferred distance": "0~2000m",
+        "recent orders": [
+          {
+            "store": "Fresh Juice Bar",
+            "product": "Freshly Squeezed Orange Juice"
+          },
+          {
+            "store": "Dao Xiang Cun",
+            "product": "Red Bean Glutinous Rice Cake"
+          },
+          {
+            "store": "Colorful Fruit Salad",
+            "product": "Signature Fruit Salad"
+          }
+        ],
+        "search history": [
+          "juice",
+          "pastries",
+          "fruit salad",
+          "red bean cake",
+          "caffeine-free drinks"
+        ]
+      },
+      "night snack": {
+        "frequently purchased categories": [
+          "Quick Meals/Clay Pot Dishes (Average ¥38)",
+          "Snacks & Braised Foods/Braised Foods (Average ¥32)",
+          "Quick Meals/Dumplings/Wonton (Average ¥28)"
+        ],
+        "cost per order": "¥25~45",
+        "preferred store rating": "4.0~4.6",
+        "preferred delivery time": "20~40 minutes",
+        "preferred distance": "0~2500m",
+        "recent orders": [
+          {
+            "store": "Old Street Clay Pot",
+            "product": "Clay Pot Tofu"
+          },
+          {
+            "store": "Five Spice Braised Food",
+            "product": "Braised Food Platter"
+          },
+          {
+            "store": "Old Northern Dumpling House",
+            "product": "Pork and Cabbage Wonton"
+          }
+        ],
+        "search history": [
+          "clay pot",
+          "braised food",
+          "wonton",
+          "night snack",
+          "non-spicy"
+        ]
+      }
+    },
+    "in-store consumption": {
+      "in-store dining": {
+        "fine-dining": {
+          "frequently purchased categories": [
+            "Regional Cuisine/Northeastern Cuisine (Average ¥120)",
+            "Regional Cuisine/Sichuan Cuisine (Average ¥90)",
+            "Hot Pot (Average ¥150)"
+          ],
+          "preferred average price per person": "¥90~150",
+          "preferred store rating": "4.0~4.8 stars",
+          "typical dining time": "18:00-20:00",
+          "preferred distance": "500~3000m",
+          "recent orders": [
+            {
+              "store": "Old Northeast Restaurant (Heping District)",
+              "product": "Guo Bao Rou (Sweet and Sour Pork) Set Meal"
+            },
+            {
+              "store": "Banu Tripe Hot Pot (Taiyuan Street)",
+              "product": "Tripe Split Pot"
+            },
+            {
+              "store": "Little Swan Sichuan Restaurant",
+              "product": "Boiled Fish in Chili Oil"
+            }
+          ],
+          "search history": [
+            "Northeastern Cuisine",
+            "caffeine-free drinks",
+            "Low-Sodium Dishes",
+            "Family Restaurant"
+          ]
+        },
+        "light meal": {
+          "frequently purchased categories": [
+            "Snacks & Fast Food/Chinese Quick Meals (Average ¥35)",
+            "Snacks & Fast Food/Western Fast Food (Average ¥40)"
+          ],
+          "preferred average price per person": "¥25~45",
+          "preferred store rating": "3.5~4.2 stars",
+          "typical dining time": "11:30-13:00",
+          "preferred distance": "0~1000m",
+          "recent orders": [
+            {
+              "store": "Yonghe King (North Station)",
+              "product": "Mushroom Chicken Porridge Set"
+            },
+            {
+              "store": "Sha County Snacks (Heping District)",
+              "product": "Three Delicacies Noodle Soup"
+            },
+            {
+              "store": "Yoshinoya (Taiyuan Street)",
+              "product": "Beef Bowl"
+            }
+          ],
+          "search history": [
+            "work meal",
+            "fast food",
+            "low-salt set meal",
+            "children's meal"
+          ]
+        },
+        "desserts/drinks/snacks": {
+          "frequently purchased categories": [
+            "Beverage Shops (Average ¥18)",
+            "Bread & Desserts (Average ¥25)"
+          ],
+          "preferred average price per person": "¥15~30",
+          "preferred store rating": "3.8~4.5 stars",
+          "typical dining time": "15:00-16:30",
+          "preferred distance": "0~800m",
+          "recent orders": [
+            {
+              "store": "A Little Tea (Zhongjie)",
+              "product": "Sugar-free Cheese Green Tea"
+            },
+            {
+              "store": "Bread Talk (Huafu World)",
+              "product": "Whole Wheat Toast"
+            },
+            {
+              "store": "Meet Fresh (Taiyuan Street)",
+              "product": "Taro Ball Dessert"
+            }
+          ],
+          "search history": [
+            "caffeine-free drinks",
+            "low-sugar desserts",
+            "children's desserts"
+          ]
+        }
+      },
+      "other in-store services": {
+        "frequently consumed categories": {
+          "Beauty/Hair Salon": "20%",
+          "Sports & Fitness/Fitness Centers": "30%",
+          "Leisure & Entertainment/Massage/Foot Therapy": "25%",
+          "Parent-Child/Children's Playground": "25%"
+        },
+        "cost per order by category": {
+          "Beauty/Hair Salon": "¥150~300",
+          "Sports & Fitness/Fitness Centers": "¥80~200",
+          "Leisure & Entertainment/Massage/Foot Therapy": "¥120~180",
+          "Parent-Child/Children's Playground": "¥100~250"
+        },
+        "preferred store rating": "4.0~4.8 stars",
+        "preferred service time": "17:00-20:00",
+        "preferred distance": "0~5000m",
+        "recent orders": [
+          {
+            "store": "Super Gorilla Fitness (Huafu World)",
+            "product": "Single Person Monthly Fitness Card"
+          },
+          {
+            "store": "Foot Blessing Hall (Heping District)",
+            "product": "Shoulder and Neck Treatment Package"
+          },
+          {
+            "store": "Qile Children's Playground (Taiyuan Street)",
+            "product": "Parent-Child Package Ticket"
+          }
+        ],
+        "search history": [
+          "children's playground",
+          "women-only fitness",
+          "foot therapy relaxation",
+          "parent-child activities"
+        ]
+      }
+    },
+    "OTA": {
+      "visited scenes": {
+        "Natural Landscapes (Mountains/Lakes/Forests)": "35%",
+        "Theme Parks": "30%",
+        "Zoos": "20%",
+        "Parks": "10%",
+        "Special Villages/Industrial Tourism/Uncategorized": "5%"
+      },
+      "cost per night on hotel": "¥300~500",
+      "visited hotels": {
+        "Home Inn": "40%",
+        "Hanting": "25%",
+        "7 Days": "15%",
+        "Jin Jiang Star": "10%",
+        "Ji Hotel": "10%"
+      },
+      "browsed hotels": {
+        "Three-Star Hotels": "45%",
+        "Comfort Hotels": "35%",
+        "Economy Hotels": "20%"
+      },
+      "historical travel plans": {
+        "Shenyang-Dalian": {
+          "Price range": "200-350 yuan",
+          "Transportation method": "High-speed train"
+        },
+        "Shenyang-Harbin": {
+          "Price range": "250-400 yuan",
+          "Transportation method": "High-speed train"
+        },
+        "Shenyang-Beijing": {
+          "Price range": "500-700 yuan",
+          "Transportation method": "High-speed train"
+        },
+        "Shenyang-Shanghai": {
+          "Price range": "800-1200 yuan",
+          "Transportation method": "Airplane"
+        },
+        "Shenyang-Changchun": {
+          "Price range": "150-250 yuan",
+          "Transportation method": "High-speed train"
+        },
+        "Shenyang-Dandong": {
+          "Price range": "150-250 yuan",
+          "Transportation method": "Self-driving"
+        }
+      }
+    }
+  },
+  "stores": {
+    "S17550802130783410_S00001": {
+      "name": "Beibei Family Products",
+      "store_id": "S17550802130783410_S00001",
+      "score": 4.8,
+      "location": {
+        "address": "Beibei Family Products, 58 Nanjing South Street, Heping District, Shenyang",
+        "latitude": 41.7785,
+        "longitude": 123.4335
+      },
+      "tags": [
+        "Children's Clothing",
+        "Parent-Child Clothing",
+        "Infant Clothing",
+        "Pure Cotton",
+        "Fast Delivery"
+      ],
+      "store_type": "target",
+      "products": [
+        {
+          "name": "Blue Pure Cotton Family Matching Four-Piece Set",
+          "store_id": "S17550802130783410_S00001",
+          "store_name": "Beibei Family Products",
+          "price": 299.9,
+          "tags": [
+            "Parent-Child Clothing",
+            "Four-Piece Set",
+            "Pure Cotton",
+            "Blue",
+            "Size L*1, Size M*1, 110cm Children's Size*2",
+            "Family Portrait",
+            "Comfortable Fabric"
+          ],
+          "product_id": "S17550802130783410_P00001",
+          "attributes": [],
+          "product_type": "target"
+        },
+        {
+          "name": "Ocean-Themed Pure Cotton Family Four-Piece Set",
+          "store_id": "S17550802130783410_S00001",
+          "store_name": "Beibei Family Products",
+          "price": 328,
+          "tags": [
+            "Parent-Child Clothing",
+            "Four-Piece Set (Parents + Toddler + Infant)",
+            "Pure Cotton",
+            "Navy Blue",
+            "Ocean Style",
+            "Parent-Child Outfit Set",
+            "Breathable Fabric"
+          ],
+          "product_id": "S17550802130783410_P00002",
+          "attributes": [
+            "White",
+            "Blue"
+          ],
+          "product_type": "target"
+        },
+        {
+          "name": "Pink Bear Family Four-Piece Set",
+          "store_id": "S17550802130783410_S00001",
+          "store_name": "Beibei Family Products",
+          "price": 289,
+          "tags": [
+            "Parent-Child Clothing",
+            "Four-Piece Set",
+            "Pure Cotton",
+            "Pink",
+            "Cartoon Pattern",
+            "Parent-Child Outfit Set"
+          ],
+          "product_id": "S17550802130783410_P00003",
+          "attributes": [
+            "Dad Size L",
+            "Mom Size M",
+            "Child 100cm",
+            "Infant 70cm"
+          ],
+          "product_type": "distraction"
+        },
+        {
+          "name": "Blue Striped Family Three-Piece Set",
+          "store_id": "S17550802130783410_S00001",
+          "store_name": "Beibei Family Products",
+          "price": 258,
+          "tags": [
+            "Parent-Child Clothing",
+            "Three-Piece Set",
+            "Pure Cotton",
+            "Blue",
+            "Stripes",
+            "Parent-Child Outfit Set"
+          ],
+          "product_id": "S17550802130783410_P00004",
+          "attributes": [
+            "Dad Size L",
+            "Mom Size M",
+            "Child 110cm"
+          ],
+          "product_type": "distraction"
+        },
+        {
+          "name": "Blue Starry Sky Family Four-Piece Set",
+          "store_id": "S17550802130783410_S00001",
+          "store_name": "Beibei Family Products",
+          "price": 319,
+          "tags": [
+            "Parent-Child Clothing",
+            "Four-Piece Set",
+            "Blended Fabric",
+            "Blue",
+            "Starry Sky Pattern",
+            "Parent-Child Outfit Set"
+          ],
+          "product_id": "S17550802130783410_P00005",
+          "attributes": [
+            "Dad Size XL",
+            "Mom Size L",
+            "Child 120cm",
+            "Infant 80cm"
+          ],
+          "product_type": "distraction"
+        }
+      ]
+    },
+    "S17550802130783410_S00002": {
+      "name": "Love Baby Children's Clothing",
+      "store_id": "S17550802130783410_S00002",
+      "score": 4.6,
+      "location": {
+        "address": "Love Baby Children's Clothing, 89 Taiyuan Street, Heping District, Shenyang",
+        "latitude": 41.7825,
+        "longitude": 123.4278
+      },
+      "tags": [
+        "Children's Clothing",
+        "Infant Clothing",
+        "Parent-Child Clothing",
+        "Fast Delivery"
+      ],
+      "store_type": "distraction",
+      "products": [
+        {
+          "name": "Children's Summer Short Sleeve T-shirt",
+          "store_id": "S17550802130783410_S00002",
+          "store_name": "Love Baby Children's Clothing",
+          "price": 59.9,
+          "tags": [
+            "Children's T-shirt",
+            "Short Sleeve",
+            "Summer",
+            "Pure Cotton"
+          ],
+          "product_id": "S17550802130783410_P00006",
+          "attributes": [
+            "Blue",
+            "90cm",
+            "100cm",
+            "110cm",
+            "120cm"
+          ],
+          "product_type": "distraction"
+        },
+        {
+          "name": "Family Parent-Child Outfit Set",
+          "store_id": "S17550802130783410_S00002",
+          "store_name": "Love Baby Children's Clothing",
+          "price": 299,
+          "tags": [
+            "Parent-Child Clothing",
+            "Family Portrait",
+            "Four-Piece Set",
+            "Pure Cotton"
+          ],
+          "product_id": "S17550802130783410_P00007",
+          "attributes": [
+            "Pink",
+            "Red",
+            "Yellow"
+          ],
+          "product_type": "distraction"
+        },
+        {
+          "name": "Infant Romper",
+          "store_id": "S17550802130783410_S00002",
+          "store_name": "Love Baby Children's Clothing",
+          "price": 89,
+          "tags": [
+            "Infant Clothing",
+            "Romper",
+            "Pure Cotton",
+            "Comfortable"
+          ],
+          "product_id": "S17550802130783410_P00008",
+          "attributes": [
+            "Blue",
+            "Pink",
+            "59cm",
+            "66cm",
+            "73cm"
+          ],
+          "product_type": "distraction"
+        },
+        {
+          "name": "Parent-Child Three-Piece Set",
+          "store_id": "S17550802130783410_S00002",
+          "store_name": "Love Baby Children's Clothing",
+          "price": 259,
+          "tags": [
+            "Parent-Child Clothing",
+            "Three-Piece Set",
+            "Blue",
+            "Polyester"
+          ],
+          "product_id": "S17550802130783410_P00009",
+          "attributes": [
+            "S",
+            "M",
+            "L",
+            "XL",
+            "Child 100cm",
+            "Child 110cm",
+            "Child 120cm"
+          ],
+          "product_type": "distraction"
+        },
+        {
+          "name": "Blue Family Matching Outfits",
+          "store_id": "S17550802130783410_S00002",
+          "store_name": "Love Baby Children's Clothing",
+          "price": 399,
+          "tags": [
+            "Parent-Child Clothing",
+            "Four-Piece Set",
+            "Blue",
+            "Polyester Blend"
+          ],
+          "product_id": "S17550802130783410_P00010",
+          "attributes": [
+            "Father's Item",
+            "Mother's Item",
+            "Child's Item",
+            "Infant's Item"
+          ],
+          "product_type": "distraction"
+        }
+      ]
+    },
+    "S17550802130783410_S00003": {
+      "name": "Pure Cotton Era",
+      "store_id": "S17550802130783410_S00003",
+      "score": 4.9,
+      "location": {
+        "address": "Pure Cotton Era, 125 Zhongjie Road, Heping District, Shenyang",
+        "latitude": 41.7869,
+        "longitude": 123.4401
+      },
+      "tags": [
+        "Pure Cotton",
+        "Infant Clothing",
+        "Parent-Child Clothing",
+        "Eco-Friendly Material"
+      ],
+      "store_type": "distraction",
+      "products": [
+        {
+          "name": "Infant Pure Cotton Romper",
+          "store_id": "S17550802130783410_S00003",
+          "store_name": "Pure Cotton Era",
+          "price": 129.9,
+          "tags": [
+            "Infant Clothing",
+            "Pure Cotton",
+            "Romper",
+            "Blue",
+            "Eco-Friendly Material"
+          ],
+          "product_id": "S17550802130783410_P00011",
+          "attributes": [
+            "3-6 months",
+            "6-12 months",
+            "12-18 months"
+          ],
+          "product_type": "distraction"
+        },
+        {
+          "name": "Children's Pure Cotton Pajama Set",
+          "store_id": "S17550802130783410_S00003",
+          "store_name": "Pure Cotton Era",
+          "price": 159,
+          "tags": [
+            "Children's Clothing",
+            "Pure Cotton",
+            "Pajamas",
+            "Blue",
+            "Comfortable and Breathable"
+          ],
+          "product_id": "S17550802130783410_P00012",
+          "attributes": [
+            "2-3 years",
+            "3-4 years",
+            "4-5 years",
+            "5-6 years"
+          ],
+          "product_type": "distraction"
+        },
+        {
+          "name": "Infant Pure Cotton Blue Gift Box",
+          "store_id": "S17550802130783410_S00003",
+          "store_name": "Pure Cotton Era",
+          "price": 299,
+          "tags": [
+            "Infant Clothing",
+            "Pure Cotton",
+            "Gift Box",
+            "Blue",
+            "First Month Gift"
+          ],
+          "product_id": "S17550802130783410_P00013",
+          "attributes": [
+            "0-3 months",
+            "3-6 months",
+            "6-12 months"
+          ],
+          "product_type": "distraction"
+        },
+        {
+          "name": "Parent-Child Clothing - Mother-Baby Outfits",
+          "store_id": "S17550802130783410_S00003",
+          "store_name": "Pure Cotton Era",
+          "price": 258,
+          "tags": [
+            "Parent-Child Clothing",
+            "Pure Cotton",
+            "Mother and Baby Clothing",
+            "Blue",
+            "Environmentally Friendly Fabric"
+          ],
+          "product_id": "S17550802130783410_P00014",
+          "attributes": [
+            "S",
+            "M",
+            "L",
+            "3-6 months",
+            "6-12 months"
+          ],
+          "product_type": "distraction"
+        },
+        {
+          "name": "Infant Pure Cotton Hypoallergenic Set",
+          "store_id": "S17550802130783410_S00003",
+          "store_name": "Pure Cotton Era",
+          "price": 199.9,
+          "tags": [
+            "Infant Clothing",
+            "Pure Cotton",
+            "Hypoallergenic",
+            "Blue",
+            "Newborn"
+          ],
+          "product_id": "S17550802130783410_P00015",
+          "attributes": [
+            "0-3 months",
+            "3-6 months",
+            "6-9 months"
+          ],
+          "product_type": "distraction"
+        }
+      ]
+    },
+    "S17550802130783410_S00004": {
+      "name": "Ocean Blue Family Clothing",
+      "store_id": "S17550802130783410_S00004",
+      "score": 4.7,
+      "location": {
+        "address": "Ocean Blue Family Clothing, 98 Beizhan Road, Shenhe District, Shenyang",
+        "latitude": 41.8105,
+        "longitude": 123.4028
+      },
+      "tags": [
+        "Parent-Child Clothing",
+        "Pure Cotton",
+        "Blue Series",
+        "Set"
+      ],
+      "store_type": "target",
+      "products": [
+        {
+          "name": "Blue Ocean Family Outfit - Three-Person Set",
+          "store_id": "S17550802130783410_S00004",
+          "store_name": "Ocean Blue Family Clothing",
+          "price": 259.9,
+          "tags": [
+            "Parent-Child Outfit Set",
+            "Three-Piece Set",
+            "Pure Cotton",
+            "Blue",
+            "Infant Clothing Not Included"
+          ],
+          "product_id": "S17550802130783410_P00017",
+          "attributes": [
+            "Father Size: XL",
+            "Mother Size: M",
+            "Child Size: 120cm"
+          ],
+          "product_type": "distraction"
+        },
+        {
+          "name": "Ocean Star Family Four-Piece Set - Pink",
+          "store_id": "S17550802130783410_S00004",
+          "store_name": "Ocean Blue Family Clothing",
+          "price": 329.9,
+          "tags": [
+            "Parent-Child Outfit Set",
+            "Four-Piece Set",
+            "Pure Cotton",
+            "Pink",
+            "Complete Set for Adults, Children, and Infants"
+          ],
+          "product_id": "S17550802130783410_P00018",
+          "attributes": [
+            "Father Size: XL",
+            "Mother Size: L",
+            "Child Size: 100cm",
+            "Infant Size: 73cm"
+          ],
+          "product_type": "distraction"
+        },
+        {
+          "name": "Sky Blue Family Four-Person Set - Blended Cotton Material",
+          "store_id": "S17550802130783410_S00004",
+          "store_name": "Ocean Blue Family Clothing",
+          "price": 269.9,
+          "tags": [
+            "Parent-Child Outfit Set",
+            "Four-Piece Set",
+            "Blended Cotton",
+            "Blue",
+            "Complete Set for Adults, Children, and Infants"
+          ],
+          "product_id": "S17550802130783410_P00019",
+          "attributes": [
+            "Father Size: L",
+            "Mother Size: S",
+            "Child Size: 120cm",
+            "Infant Size: 80cm"
+          ],
+          "product_type": "distraction"
+        }
+      ]
+    }
+  },
+  "orders": {
+    "S17550802130783410_O00001": {
+      "order_id": "S17550802130783410_O00001",
+      "order_type": "delivery",
+      "user_id": "U469686",
+      "store_id": "S17550802130783410_S00001",
+      "total_price": 299.9,
+      "create_time": "2025-06-09 14:30:15",
+      "status": "delivered",
+      "products": [
+        {
+          "product_id": "S17550802130783410_P00001",
+          "price": 299.9,
+          "quantity": 1
+        }
+      ]
+    },
+    "S17550802130783410_O00002": {
+      "order_id": "S17550802130783410_O00002",
+      "order_type": "delivery",
+      "user_id": "U469686",
+      "store_id": "S17550802130783410_S00004",
+      "total_price": 319.9,
+      "create_time": "2025-06-10 09:15:22",
+      "status": "delivered",
+      "products": [
+        {
+          "product_id": "S17550802130783410_P00020",
+          "price": 319.9,
+          "quantity": 1
+        }
+      ]
+    },
+    "S17550802130783410_O00003": {
+      "order_id": "S17550802130783410_O00003",
+      "order_type": "attraction",
+      "user_id": "U469686",
+      "store_id": "S17550802130783410_A00005",
+      "note": "Baby's First Month Celebration Event",
+      "location": {
+        "address": "Shenyang Happy Family Theme Park, 188 Taiyuan South Street, Heping District, Shenyang",
+        "longitude": 123.432,
+        "latitude": 41.775
+      },
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 498.0,
+      "create_time": "2025-06-10 16:43:28",
+      "update_time": "2025-06-10 16:43:28",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17550802130783410_P00021",
+          "price": 498.0,
+          "quantity": 1,
+          "ticket_type": "Family Ticket"
+        }
+      ]
+    },
+    "S17550802130783410_O00004": {
+      "order_id": "S17550802130783410_O00004",
+      "order_type": "attraction",
+      "user_id": "U469686",
+      "store_id": "S17550802130783410_A00007",
+      "note": "Eldest Child's Birthday Event",
+      "location": {
+        "address": "Shenyang Family Time Theme Park, 150 Nanjing South Street, Heping District, Shenyang",
+        "longitude": 123.435,
+        "latitude": 41.779
+      },
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 498.0,
+      "create_time": "2025-06-03 10:15:36",
+      "update_time": "2025-06-03 10:15:36",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17550802130783410_P00033",
+          "price": 498.0,
+          "quantity": 1,
+          "ticket_type": "Family Package Ticket"
+        }
+      ]
+    },
+    "S17550802130783410_O00005": {
+      "order_id": "S17550802130783410_O00005",
+      "order_type": "train",
+      "user_id": "U469686",
+      "store_id": "T00001",
+      "note": "Family Travel",
+      "location": {
+        "address": "Shenyang North Railway Station, 118 Beizhan Road, Shenhe District, Shenyang",
+        "longitude": 123.4012,
+        "latitude": 41.8119
+      },
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 600.0,
+      "create_time": "2025-05-05 09:23:45",
+      "update_time": "2025-05-05 09:23:45",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "T00001P001",
+          "price": 300.0,
+          "quantity": 2,
+          "seat_type": "Second Class Seat"
+        }
+      ]
+    },
+    "S17550802130783410_O00006": {
+      "order_id": "S17550802130783410_O00006",
+      "order_type": "instore",
+      "user_id": "U469686",
+      "store_id": "S17550802130783410_I00009",
+      "total_price": 2664.0,
+      "create_time": "2025-06-10 14:22:35",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17550802130783410_P00044",
+          "price": 888.0,
+          "quantity": 3
+        }
+      ]
+    },
+    "S17550802130783410_O00007": {
+      "order_id": "S17550802130783410_O00007",
+      "order_type": "instore",
+      "user_id": "U469686",
+      "store_id": "S17550802130783410_I00009",
+      "total_price": 168.0,
+      "create_time": "2025-06-10 14:28:12",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17550802130783410_P00046",
+          "price": 168.0,
+          "quantity": 1
+        }
+      ]
+    },
+    "S17550802130783410_O00008": {
+      "order_id": "S17550802130783410_O00008",
+      "order_type": "instore",
+      "user_id": "U469686",
+      "store_id": "S17550802130783410_I00013",
+      "total_price": 888.0,
+      "create_time": "2025-06-10 15:10:45",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17550802130783410_P00066",
+          "price": 888.0,
+          "quantity": 1
+        }
+      ]
+    }
+  }
+}

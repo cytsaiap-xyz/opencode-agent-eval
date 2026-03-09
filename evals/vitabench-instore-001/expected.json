@@ -1,0 +1,46 @@
+{
+  "required_orders": [
+    {
+      "order_id": "10826004T001",
+      "order_type": "instore",
+      "user_id": "U623530",
+      "store_id": "S17564420237542211_I00004",
+      "note": "",
+      "location": null,
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 88,
+      "create_time": "2025-11-06 14:33:00",
+      "update_time": "2025-11-06 14:33:00",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17564420237542211_P00015",
+          "name": "Single Body Shaping Personal Training Session Card",
+          "price": 88,
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "reservation_id": "10826004T002",
+      "shop_id": "S17564420237542211_I00004",
+      "reservation_time": "2025-11-07 17:30:00",
+      "update_time": "2025-11-06 14:37:00",
+      "customer_id": "U623530",
+      "customer_count": 1,
+      "status": "paid"
+    }
+  ],
+  "rubrics": [
+    "The gym should be Fully Equipped",
+    "The gym should be within 5000m range of Room 502, Unit 1, Building 3, Longcheng Shangdu, 136 Qinxian North Street, Xiaodian District, Taiyuan City",
+    "The gym should provide Swimming Pool",
+    "The gym should provide Swimming Class Single Experience Voucher and Body Shaping Class Single Experience Voucher",
+    "The weather in Taiyuan on 2025-11-07 will be overcast, Body Shaping class should be ordered",
+    "The gym reservation should be made at Kangti Swimming Fitness Club",
+    "The gym reservation time should be 2025-11-07 17:30:00",
+    "The number of people for the gym reservation should be 1"
+  ]
+}

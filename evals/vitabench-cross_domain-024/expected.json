@@ -1,0 +1,76 @@
+{
+  "required_orders": [
+    {
+      "order_id": "10808002T001",
+      "order_type": "delivery",
+      "user_id": "U587595",
+      "store_id": "S17550802145565647_S00001",
+      "note": "",
+      "location": {
+        "address": "Water Lane Apartment, 89 Pingjiang Road, Gusu District, Suzhou, Jiangsu Province",
+        "longitude": 120.6332,
+        "latitude": 31.3117
+      },
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 128,
+      "create_time": "2025-05-09 08:33:00",
+      "update_time": "2025-05-09 08:33:00",
+      "status": "unpaid",
+      "products": [
+        {
+          "product_id": "S17550802145565647_P00001",
+          "price": 128,
+          "quantity": 1,
+          "name": "Freshly Stewed Rock Sugar Bird's Nest Cup",
+          "attributes": ""
+        }
+      ]
+    },
+    {
+      "reservation_id": "10808002T002",
+      "shop_id": "S17550802145565647_I00011",
+      "reservation_time": "2025-05-11 15:00:00",
+      "update_time": "2025-05-09 08:35:00",
+      "customer_id": "U587595",
+      "customer_count": 2,
+      "status": "paid"
+    },
+    {
+      "order_id": "10808002T003",
+      "order_type": "instore",
+      "user_id": "U587595",
+      "store_id": "S17550802145565647_I00011",
+      "note": "",
+      "location": null,
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 228,
+      "create_time": "2025-05-09 08:37:00",
+      "update_time": "2025-05-09 08:37:00",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17550802145565647_P00055",
+          "name": "Mother-Daughter Flower Arrangement Experience Course",
+          "price": 228,
+          "quantity": 1
+        }
+      ]
+    }
+  ],
+  "rubrics": [
+    "The takeout item ordered for mom is Bird's Nest Cup",
+    "The price of the takeout item ordered for mom should be less than 150 yuan",
+    "The expected delivery time of the takeout item ordered for mom is around 09:00 on May 11, 2025 【which means the expected delivery time is within the 08:45-09:15 range】",
+    "The delivery address for mom's takeout order is Water Lane Apartment, 89 Pingjiang Road, Gusu District, Suzhou, Jiangsu Province",
+    "The flower arrangement appointment time is 15:00 on May 11, 2025",
+    "The number of people for the flower arrangement appointment is 2",
+    "The ordered flower arrangement studio should be Four Seasons Floral Fragrance Studio (S17550802145565647_I00011)",
+    "The flower arrangement package should include teaching service",
+    "The weather on May 11, 2025 is light rain",
+    "Should not purchase cruise tickets"
+  ]
+}

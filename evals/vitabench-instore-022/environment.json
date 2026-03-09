@@ -1,0 +1,195 @@
+{
+  "task_id": "10826006",
+  "domain": "instore",
+  "time": "2025-03-14 16:25:00",
+  "user_id": "U354723",
+  "weather": [
+    {
+      "city": "Guiyang",
+      "category": "cloudy",
+      "datetime": "2025-03-16",
+      "temperature": [
+        12,
+        22
+      ],
+      "humidity": 58
+    },
+    {
+      "city": "Guiyang",
+      "category": "sunny",
+      "datetime": "2025-03-17",
+      "temperature": [
+        14,
+        24
+      ],
+      "humidity": 45
+    }
+  ],
+  "location": [
+    {
+      "address": "Room 1201, Unit 2, Building 5, Ruijin North Garden, 156 Beijing Road, Yunyan District, Guiyang",
+      "longitude": 106.7234,
+      "latitude": 26.5782
+    },
+    {
+      "address": "18th Floor, T1 Building, Guiyang International Financial Center, 219 Jinyang North Road, Guanshanhu District, Guiyang",
+      "longitude": 106.6278,
+      "latitude": 26.6187
+    }
+  ],
+  "user_profile": {
+    "user id": "U354723",
+    "occupation": "Financial Manager",
+    "gender": "female",
+    "age group": "35~40",
+    "residence": "Guiyang",
+    "home address": "Room 1201, Unit 2, Building 5, Ruijin North Garden, 156 Beijing Road, Yunyan District, Guiyang",
+    "work address": "18th Floor, T1 Building, Guiyang International Financial Center, 219 Jinyang North Road, Guanshanhu District, Guiyang",
+    "dietary restrictions": "Avoid high purine foods (such as organ meats/Seafood Soup), avoid caffeine",
+    "family status": "Has children",
+    "personality": "Tends to be anxious and worried, needs repeated confirmation to feel at ease"
+  },
+  "user_historical_behaviors": {
+    "user id": "U354723",
+    "occupation": "Financial Manager",
+    "gender": "female",
+    "age group": "35~40",
+    "residence": "Guiyang",
+    "home address": "Room 1201, Unit 2, Building 5, Ruijin North Garden, 156 Beijing Road, Yunyan District, Guiyang",
+    "work address": "18th Floor, T1 Building, Guiyang International Financial Center, 219 Jinyang North Road, Guanshanhu District, Guiyang",
+    "To Dining": {
+      "fine-dining": {
+        "frequently purchased categories": [
+          "Regional Cuisine/Sichuan Cuisine (Average 125 yuan)",
+          "Foreign Cuisine/Western Food (Average 150 yuan)",
+          "Regional Cuisine/Guizhou Cuisine (Average 110 yuan)"
+        ],
+        "preferred average price per person": "100~160 yuan",
+        "preferred store rating": "4.2~4.9 stars",
+        "typical dining time": "18:30-20:30",
+        "preferred distance": "1000~5000m",
+        "recent orders": [
+          {
+            "store": "Hometown Guizhou Flavor",
+            "product": "Sour Soup Fish Package"
+          },
+          {
+            "store": "Paris Left Bank Restaurant",
+            "product": "Steak Set Menu"
+          },
+          {
+            "store": "Sichuan Flavor Garden",
+            "product": "Mapo Tofu, Boiled Fish Set Menu"
+          }
+        ],
+        "search history": [
+          "High-end restaurants in Guiyang",
+          "Business dining",
+          "Weekend family gathering",
+          "Purine-free dishes"
+        ]
+      },
+      "light meal": {
+        "frequently purchased categories": [
+          "Fast Food/Chinese Quick Meals (Average 35 yuan)",
+          "Fast Food/Western Fast Food (Average 40 yuan)",
+          "Regional Cuisine/Jiangzhe Cuisine (Average 45 yuan)"
+        ],
+        "preferred average price per person": "30~50 yuan",
+        "preferred store rating": "3.5~4.3 stars",
+        "typical dining time": "12:00-13:30",
+        "preferred distance": "0~500m",
+        "recent orders": [
+          {
+            "store": "Lucky Wonton",
+            "product": "Shrimp Wonton Set Meal"
+          },
+          {
+            "store": "Salad Diary",
+            "product": "Healthy Light Salad"
+          },
+          {
+            "store": "Qian Flavor Kitchen",
+            "product": "Guizhou Style Intestine Noodles"
+          }
+        ],
+        "search history": [
+          "Fast food near office",
+          "Healthy lunch",
+          "Low purine food"
+        ]
+      },
+      "desserts/drinks/snacks": {
+        "frequently purchased categories": [
+          "Beverage Shops (Average 22 yuan)",
+          "Bakery and Desserts (Average 35 yuan)",
+          "Other Dining/Fresh Fruits (Average 15 yuan)"
+        ],
+        "preferred average price per person": "15~40 yuan",
+        "preferred store rating": "4.0~4.8 stars",
+        "typical dining time": "15:00-16:30",
+        "preferred distance": "0~800m",
+        "recent orders": [
+          {
+            "store": "HEYTEA",
+            "product": "Succulent Bayberry Juice"
+          },
+          {
+            "store": "Bread Talk",
+            "product": "Whole Wheat Bread"
+          },
+          {
+            "store": "Fresh Fruit Workshop",
+            "product": "Fruit Platter"
+          }
+        ],
+        "search history": [
+          "Caffeine-free drinks",
+          "Low-sugar desserts",
+          "Healthy snacks"
+        ]
+      }
+    },
+    "other in-store services": {
+      "frequently consumed categories": {
+        "Beauty/Hair Salon": "20%",
+        "Beauty/Nail Salon": "15%",
+        "Sports & Fitness/Fitness Center": "30%",
+        "Leisure & Entertainment/Massage/Foot Bath": "20%",
+        "Parent-child/Family Entertainment": "15%"
+      },
+      "cost per order by category": {
+        "Beauty/Hair Salon": "200~350 yuan",
+        "Beauty/Nail Salon": "150~280 yuan",
+        "Sports & Fitness/Fitness Center": "80~150 yuan/session, 1800~3600 yuan/quarter",
+        "Leisure & Entertainment/Massage/Foot Bath": "180~300 yuan",
+        "Parent-child/Family Entertainment": "150~300 yuan"
+      },
+      "preferred store rating": "4.0~4.8 stars",
+      "preferred service time": "Monday to Friday 18:00-20:00, Weekend 10:00-16:00",
+      "preferred distance": "Family-related 0~3000m, Personal 0~1000m",
+      "recent orders": [
+        {
+          "store": "Guiyang Yoga Life Studio",
+          "product": "Single Yoga Class"
+        },
+        {
+          "store": "Yaxuan SPA Club",
+          "product": "Hydrotherapy Pressure Relief Massage 90 minutes"
+        },
+        {
+          "store": "Qile Children's World",
+          "product": "Family Package (1 Adult 1 Child)"
+        }
+      ],
+      "search history": [
+        "Guiyang gyms",
+        "Parent-child weekend activities",
+        "Stress relief for professional women",
+        "SPA Massage"
+      ]
+    }
+  },
+  "stores": {},
+  "orders": {}
+}

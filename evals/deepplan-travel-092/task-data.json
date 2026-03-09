@@ -1,0 +1,44 @@
+{
+  "task_id": "91",
+  "query": "I plan to travel from Sanya to Nanjing on November 12, 2025, staying until November 17. Could you please help me plan a rough itinerary, including arrangements for transportation, accommodation, meals, and sightseeing?\n\nFor transportation, I’d like to fly to Nanjing—could you help me find a direct flight with the lowest possible fare? The same goes for the return trip—just a direct flight with a budget-friendly price would be best.\n\nRegarding accommodation, I’m particularly fond of 'Hilton' hotels—their service and facilities are great. Could you please find and book the highest-rated 'Hilton' hotel in Nanjing? By the way, there are three of us traveling, so we’ll need two rooms.\n\nAs for dining, there are a few places I really want to try—please help me arrange them. First, I’ve heard that the environment at 'Eleven Scenic Terrace Bar (Confucius Temple Pedestrian Street Branch)' is amazing, and it’s a must-visit spot for me. Could you schedule one meal there? Also, we’re planning to visit the 'Yuhuatai Martyrs Cemetery'. If there’s a restaurant nearby offering birthday set meals, could you recommend and reserve one for us to try?\n\nThat’s about it—I believe all the necessary information is included. Please go ahead and create a detailed itinerary for me without needing to ask further questions about my preferences. Thank you! November 12, 2025 is Wednesday",
+  "meta_info": {
+    "org": "Sanya",
+    "dest": [
+      "Nanjing"
+    ],
+    "days": 6,
+    "depart_date": "2025-11-12",
+    "return_date": "2025-11-17",
+    "people_number": 3,
+    "room_number": 2
+  },
+  "hard_constraints": {
+    "flight_cheapest_direct": {
+      "constraint_context": "Prefer to take a flight for the outbound journey, and need to select the cheapest flight among direct flights",
+      "constraint_type": "superlative_cheapest_direct",
+      "outbound_flight_no": "HO1736"
+    },
+    "hotel_brand_highest_rated": {
+      "constraint_context": "For accommodation, please select the highest-rated hotel among Hilton brand properties",
+      "constraint_type": "superlative_brand_highest_rated",
+      "hotel_name": "Hampton by Hilton Nanjing Xianlin University Town",
+      "hotel_price": 624.0,
+      "hotel_score": 4.8
+    },
+    "restaurant_must_eat_named": {
+      "constraint_context": "The itinerary must include one meal at 'Eleven Scenic Terrace Bar (Confucius Temple Pedestrian Street Branch)'.",
+      "constraint_type": "superlative_must_eat_named",
+      "restaurant_name": "Eleven Scenic Terrace Bar (Confucius Temple Pedestrian Street Branch)",
+      "restaurant_rating": 4.3
+    },
+    "restaurant_specific_tag_nearby": {
+      "constraint_context": "Arrange a restaurant near 'Yuhuatai Martyrs Cemetery' during the trip, with birthday set menu service required",
+      "constraint_type": "superlative_specific_tag_nearby",
+      "attraction_name": "Yuhuatai Martyrs Cemetery",
+      "restaurant_name": "Silankapu Restaurant",
+      "required_tag": "Birthday Package",
+      "price_per_person": 100.0,
+      "restaurant_rating": 3.9
+    }
+  }
+}

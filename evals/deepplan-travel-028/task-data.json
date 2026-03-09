@@ -1,0 +1,47 @@
+{
+  "task_id": "27",
+  "query": "I plan to travel from Fuzhou to Hangzhou for a few days on November 16, 2025, and return on November 18. I'd appreciate your help in planning this trip, including arrangements for transportation, accommodation, meals, and sightseeing.\n\nRegarding transportation, I’d like to take a train for the outbound journey—earlier departure would be better. Please arrange a train departing between 6:00 AM and 10:00 AM. For accommodation, I’d like to stay at a four-star hotel that ideally has a swimming pool, as I enjoy swimming and don’t want to skip my workout during the trip. By the way, there are three of us, so we’ll need two rooms.\n\nFor dining, I must visit a restaurant called 'Changhua Yijia Ren Restaurant (Gongchengshan Community Branch)'—I’ve heard their food is very authentic, so please include it in the itinerary. As for attractions, I’m especially keen on visiting 'Jiuxi Yanshu'—I’ve heard the scenery there is absolutely beautiful. Also, we must go to the 'Zhejiang Provincial Museum (Gushan Branch)', which seems to have a strong cultural atmosphere.\n\nThese are basically all my requirements—I believe I’ve provided all necessary information. Please go ahead and plan the itinerary directly without asking for further details! November 16, 2025 is Sunday",
+  "meta_info": {
+    "org": "Fuzhou",
+    "dest": [
+      "Hangzhou"
+    ],
+    "days": 3,
+    "depart_date": "2025-11-16",
+    "return_date": "2025-11-18",
+    "people_number": 3,
+    "room_number": 2
+  },
+  "hard_constraints": {
+    "train_departure_time_range": {
+      "constraint_context": "The departure train must leave between 6:00 AM and 10:00 AM",
+      "outbound_train_no": "D3104"
+    },
+    "hotel_star_service_required": {
+      "constraint_context": "Please select a 4-star hotel that offers a swimming pool for accommodation.",
+      "constraint_type": "superlative_star_service_required",
+      "hotel_name": "Manju Hotel (Hangzhou Xindeng Fuchun Port Branch)",
+      "required_service": "Swimming Pool",
+      "hotel_star": 4,
+      "hotel_price": 278.0
+    },
+    "restaurant_must_eat_named": {
+      "constraint_context": "The itinerary must include one meal at 'Changhua Family Restaurant (Gongchen Mountain Community Branch)'.",
+      "constraint_type": "superlative_must_eat_named",
+      "restaurant_name": "Changhua Family Restaurant (Gongchen Mountain Community Branch)",
+      "restaurant_rating": 4.2
+    },
+    "attraction_must_visit_named": {
+      "constraint_context": "The itinerary must include visits to 'Nine Creeks and Misty Trees' and 'Zhejiang Provincial Museum (Gushan Branch)'.",
+      "constraint_type": "superlative_must_visit_named",
+      "attraction_names": [
+        "Nine Creeks and Misty Trees",
+        "Zhejiang Provincial Museum (Gushan Branch)"
+      ],
+      "attraction_ratings": [
+        4.8,
+        4.5
+      ]
+    }
+  }
+}

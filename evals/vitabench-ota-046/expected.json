@@ -1,0 +1,143 @@
+{
+  "required_orders": [
+    {
+      "order_id": "70808004T001",
+      "order_type": "train",
+      "user_id": "U010085",
+      "store_id": "S17557505486805216_T00012",
+      "note": "",
+      "location": null,
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 195,
+      "create_time": "2027-04-13 12:25:31",
+      "update_time": "2027-04-13 12:25:31",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17557505486805216_P00107",
+          "price": 65,
+          "quantity": 3,
+          "date": "2027-04-23",
+          "seat_type": "Second Class Seat"
+        }
+      ]
+    },
+    {
+      "order_id": "70808004T002",
+      "order_type": "train",
+      "user_id": "U010085",
+      "store_id": "S17557505486805216_T00013",
+      "note": "",
+      "location": null,
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 195,
+      "create_time": "2027-04-13 12:27:31",
+      "update_time": "2027-04-13 12:27:31",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17557505486805216_P00122",
+          "price": 65,
+          "quantity": 3,
+          "date": "2027-04-26",
+          "seat_type": "Second Class Seat"
+        }
+      ]
+    },
+    {
+      "order_id": "70808004T003",
+      "order_type": "hotel",
+      "user_id": "U010085",
+      "store_id": "S17557505486805216_H00005",
+      "note": "",
+      "location": null,
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 788,
+      "create_time": "2027-04-13 12:29:31",
+      "update_time": "2027-04-13 12:29:31",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17557505486805216_P00037",
+          "price": 788,
+          "quantity": 1,
+          "date": "2027-04-23",
+          "room_type": "Family Suite"
+        }
+      ]
+    },
+    {
+      "order_id": "70808004T004",
+      "order_type": "hotel",
+      "user_id": "U010085",
+      "store_id": "S17557505486805216_H00002",
+      "note": "",
+      "location": null,
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 688,
+      "create_time": "2027-04-13 12:33:31",
+      "update_time": "2027-04-13 12:33:31",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17557505486805216_P00016",
+          "price": 780,
+          "quantity": 1,
+          "date": "2027-04-24",
+          "room_type": "Family Suite"
+        }
+      ]
+    },
+    {
+      "order_id": "70808004T005",
+      "order_type": "hotel",
+      "user_id": "U010085",
+      "store_id": "S17557505486805216_H00003",
+      "note": "",
+      "location": null,
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 888,
+      "create_time": "2027-04-13 12:35:31",
+      "update_time": "2027-04-13 12:35:31",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17557505486805216_P00022",
+          "price": 888,
+          "quantity": 1,
+          "date": "2027-04-25",
+          "room_type": "Golden Summit Sunrise Viewing Family Suite"
+        }
+      ]
+    }
+  ],
+  "rubrics": [
+    "It will rain on Mount Emei on April 18 and 19, 2027, so travel should be postponed to the following weekend, with the departure train ticket date being April 23, 2027",
+    "The arrival time of the departure train ticket should be on the evening of April 23, 2027",
+    "The quantity of departure train tickets should be 3",
+    "The departure train ticket should be for a train from Chengdu to Mount Emei",
+    "The return train ticket date should be April 26, 2027",
+    "The departure time of the return train ticket should be noon on April 26, 2027",
+    "The quantity of return train tickets should be 3",
+    "The return train ticket should be for a train from Mount Emei to Chengdu",
+    "The check-in date for the first night's hotel should be April 23, 2027",
+    "The first night's hotel should be at the foot of Mount Emei",
+    "The room type for the first night's hotel should be Family Suite",
+    "The check-in date for the second night's hotel should be April 24, 2027",
+    "The second night's hotel should be at Leidongping",
+    "The room type for the second night's hotel should be Family Suite",
+    "The check-in date for the third night's hotel should be April 25, 2027",
+    "The third night's hotel should be at Golden Summit",
+    "The room type for the third night's hotel should be Family Suite"
+  ]
+}

@@ -1,0 +1,130 @@
+{
+  "required_orders": [
+    {
+      "order_id": "D0812009T001",
+      "order_type": "train",
+      "user_id": "U801044",
+      "store_id": "S17557505528573677_T00011",
+      "note": "",
+      "location": null,
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 596,
+      "create_time": "2025-06-21 19:46:58",
+      "update_time": "2025-06-21 19:46:58",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17557505528573677_P00087",
+          "price": 298,
+          "quantity": 2,
+          "date": "2025-07-04",
+          "seat_type": "First Class Seat"
+        }
+      ]
+    },
+    {
+      "order_id": "D0812009T002",
+      "order_type": "train",
+      "user_id": "U801044",
+      "store_id": "S17557505528573677_T00012",
+      "note": "",
+      "location": null,
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 596,
+      "create_time": "2025-06-21 19:47:58",
+      "update_time": "2025-06-21 19:47:58",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17557505528573677_P00094",
+          "price": 298,
+          "quantity": 2,
+          "date": "2025-07-07",
+          "seat_type": "First Class Seat"
+        }
+      ]
+    },
+    {
+      "order_id": "D0812009T003",
+      "order_type": "hotel",
+      "user_id": "U801044",
+      "store_id": "S17557505528573677_H00001",
+      "note": "",
+      "location": null,
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 2064,
+      "create_time": "2025-06-21 19:49:58",
+      "update_time": "2025-06-21 19:49:58",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17557505528573677_P00001",
+          "price": 688,
+          "quantity": 1,
+          "date": "2025-07-04",
+          "room_type": "Romantic King Room for Couples"
+        },
+        {
+          "product_id": "S17557505528573677_P00002",
+          "price": 688,
+          "quantity": 1,
+          "date": "2025-07-05",
+          "room_type": "Romantic King Room for Couples"
+        },
+        {
+          "product_id": "S17557505528573677_P00003",
+          "price": 688,
+          "quantity": 1,
+          "date": "2025-07-06",
+          "room_type": "Romantic King Room for Couples"
+        }
+      ]
+    },
+    {
+      "order_id": "D0812009T004",
+      "order_type": "attraction",
+      "user_id": "U801044",
+      "store_id": "S17557505528573677_A00005",
+      "note": "",
+      "location": null,
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 180,
+      "create_time": "2025-06-21 19:51:58",
+      "update_time": "2025-06-21 19:51:58",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17557505528573677_P00027",
+          "price": 180,
+          "quantity": 1,
+          "date": "2025-07-06",
+          "ticket_type": "Two-person Ticket (Single Cable Car + Single Slide)"
+        }
+      ]
+    }
+  ],
+  "rubrics": [
+    "The outbound train ticket order should be for a train from Chongqing to Xichang",
+    "The outbound train ticket order should be for July 4, 2025",
+    "The outbound train ticket must be First Class Seat",
+    "The outbound train should be a daytime train",
+    "The return train ticket order should be for a train from Xichang to Chongqing",
+    "The return train ticket order should be for July 7, 2025",
+    "The return train ticket order must be First Class Seat",
+    "The return train should be a daytime train",
+    "The hotel booked must have a good atmosphere",
+    "The hotel must be equipped with a Massage Room facility",
+    "The hotel location must be within 1km of Huoba Square",
+    "The hotel booking dates must be July 4, 2025, July 5, 2025, and July 6, 2025 respectively",
+    "Tickets for Lushan Scenic Area must be booked for July 6, 2025",
+    "The Lushan Scenic Area ticket order must be a Two-person Ticket (Single Cable Car + Single Slide) combination"
+  ]
+}

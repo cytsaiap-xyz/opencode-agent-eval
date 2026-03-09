@@ -1,0 +1,20 @@
+# DeepPlanning Shopping Task Level 1 #20
+
+You are building a shopping assistant agent. Given the user's shopping request in `task-data.json`, implement the `buildCart()` function in `solution.ts`.
+
+## Level 1 Objective
+
+Find the cheapest products matching all requirements.
+
+## User Request
+
+I'm getting ready for a last-minute trip and need to order several things for myself, all with very quick delivery. First, I need a men's item from Ralph Lauren with a transport time of less than 2 days; it has to be popular, with over 1200 total reviews and more than 1000 five-star ratings. Next, I need a summer product for men from Salomon that has 'Agile Tech' in its name and a transport time under 2 days. I'm also looking for a size L item with 'Canyonwall' in the name, ensuring it has more than 150 four-star reviews and less than 10 one-star reviews. To go with that, I need something blue with a monthly sales volume over 800, a stock quantity greater than 200, and fewer than 20 two-star reviews. Then, a highly-rated Timberland product with total sales over 1800, less than 10 one-star and two-star ratings each, and a transport time under 2 days. Finally, I need another men's item with a stock quantity of more than 200 and fewer than 5 two-star reviews.
+
+## Your Task
+
+Implement `buildCart()` in `solution.ts`. Parse the user's request to identify:
+1. Each product requirement (brand, color, size, rating, review constraints, etc.)
+2. Budget constraint (Level 2+)
+3. Coupon optimization (Level 3)
+
+Return a cart with items matching all stated requirements. Extract specific constraints like brand names, color, minimum ratings, review thresholds, monthly sales minimums, etc. from the query text.

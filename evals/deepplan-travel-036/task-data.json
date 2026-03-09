@@ -1,0 +1,59 @@
+{
+  "task_id": "35",
+  "query": "I'm planning to travel from Guangzhou to \"Quanzhou\" on November 12, 2025, and stay for three days, returning on November 14. The total budget for this trip should be within 3000 yuan, Could you please help me plan the itinerary? For transportation, I'd like to take a flight for the outbound journey—please pick the cheapest direct flight available, as my budget is limited and I'd prefer to save where possible. For accommodation, I’d like to book a three-star hotel. By the way, I really enjoy swimming, so the hotel must have a swimming pool—please make sure to note this requirement.\n\n\"Quanzhou\" seems to have many amazing natural attractions—I’d like to visit and check off all of them during this trip, so please include them in the itinerary. Additionally, I’ve heard that the area is also famous for its historical and cultural sites. Could you please select the highest-rated historical and cultural attraction and add it to the schedule? I’d like to deeply experience the local culture.\n\nThat’s basically everything! I believe I’ve provided all the necessary information. Please go ahead and start planning my trip—just take care of both the budget and the details for me! November 12, 2025 is Wednesday",
+  "meta_info": {
+    "org": "Guangzhou",
+    "dest": [
+      "Quanzhou"
+    ],
+    "days": 3,
+    "depart_date": "2025-11-12",
+    "return_date": "2025-11-14",
+    "people_number": 1,
+    "room_number": 1
+  },
+  "hard_constraints": {
+    "flight_cheapest_direct": {
+      "constraint_context": "Prefer to take a flight for the outbound journey, and need to select the cheapest flight among direct flights",
+      "constraint_type": "superlative_cheapest_direct",
+      "outbound_flight_no": "HO7161"
+    },
+    "hotel_star_service_required": {
+      "constraint_context": "Please select a 3-star hotel that offers a pool for accommodation.",
+      "constraint_type": "superlative_star_service_required",
+      "hotel_name": "Ji Hotel Quanzhou West Street Zhongshan Road",
+      "required_service": "Swimming Pool",
+      "hotel_star": 3,
+      "hotel_price": 379.0
+    },
+    "attraction_all_of_type": {
+      "constraint_context": "Must-visit attractions: Recommend all sites of type 'Natural Scenery' mentioned in the attraction recommendation tool",
+      "constraint_type": "superlative_all_of_type",
+      "attraction_names": [
+        "Shishi Golden Coast",
+        "West Lake Park"
+      ],
+      "attraction_type_cn": "自然风光",
+      "attraction_type": "Natural Scenery",
+      "attraction_ratings": [
+        4.7,
+        4.8
+      ]
+    },
+    "attraction_type_highest_rated": {
+      "constraint_context": "The itinerary must include the highest-rated attraction in the 'Historical and Cultural' category.",
+      "constraint_type": "superlative_type_highest_rated",
+      "attraction_names": [
+        "Tianhou Temple"
+      ],
+      "attraction_type_cn": "历史文化",
+      "attraction_type": "Historical and Cultural",
+      "attraction_ratings": [
+        4.8
+      ]
+    },
+    "budget_constraint": {
+      "max_budget": 3000
+    }
+  }
+}

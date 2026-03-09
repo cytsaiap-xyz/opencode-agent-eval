@@ -1,0 +1,128 @@
+{
+  "required_orders": [
+    {
+      "order_id": "10807001T001",
+      "order_type": "delivery",
+      "user_id": "U010019",
+      "store_id": "S17550802126834321_S00001",
+      "note": "",
+      "location": {
+        "address": "Room 304, Building 9, Baolong Residential Area Lane 2, Nanlian Community, Longgang Street (350 meters walk from Exit B of Longcheng Square Metro Station), Longgang District, Shenzhen, Guangdong Province",
+        "longitude": 114.2501,
+        "latitude": 22.7308
+      },
+      "dispatch_time": "2025-05-20 11:30:00",
+      "shipping_time": 26,
+      "delivery_time": "2025-05-20 11:56:00",
+      "total_price": 53,
+      "create_time": "2025-05-20 10:33:47",
+      "update_time": "2025-05-20 10:33:47",
+      "status": "delivered",
+      "products": [
+        {
+          "product_id": "S17550802126834321_P00006",
+          "price": 15,
+          "quantity": 1,
+          "name": "Birthday Party Decoration Package",
+          "store_id": "S17550802126834321_S00001",
+          "store_name": "Guoran Cake",
+          "attributes": "",
+          "tags": [
+            "Birthday Hat",
+            "Candle",
+            "Ribbons",
+            "Decorative Paper"
+          ]
+        },
+        {
+          "product_id": "S17550802126834321_P00004",
+          "price": 38,
+          "quantity": 1,
+          "name": "Forest Style Mini Cake",
+          "store_id": "S17550802126834321_S00001",
+          "store_name": "Guoran Cake",
+          "attributes": "4 inch",
+          "tags": [
+            "Mini Cake",
+            "Dairy Cream",
+            "Low Sugar",
+            "Personal Style"
+          ]
+        }
+      ]
+    },
+    {
+      "order_id": "10807001T002",
+      "order_type": "instore",
+      "user_id": "U010019",
+      "store_id": "S17550802126834321_I00011",
+      "note": "",
+      "location": null,
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 388,
+      "create_time": "2025-05-20 10:35:23",
+      "update_time": "2025-05-20 10:35:23",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17550802126834321_P00053",
+          "price": 388,
+          "quantity": 1,
+          "name": "Cantonese Birthday Package (2-3 people)",
+          "shop_id": "S17550802126834321_I00011",
+          "tags": [
+            "Birthday Special",
+            "Cantonese Cuisine",
+            "Low Sodium",
+            "Elegant Environment",
+            "Set Menu"
+          ]
+        }
+      ]
+    },
+    {
+      "order_id": "10807001T003",
+      "order_type": "hotel",
+      "user_id": "U010019",
+      "store_id": "S17550802126834321_H00007",
+      "note": "",
+      "location": null,
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 398,
+      "create_time": "2025-05-20 10:37:43",
+      "update_time": "2025-05-20 10:37:43",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17550802126834321_P00034",
+          "price": 398,
+          "quantity": 1,
+          "date": "2025-05-20",
+          "room_type": "Business Twin Room"
+        }
+      ]
+    }
+  ],
+  "rubrics": [
+    "Food delivery merchants need to have ratings of 4.4 or above",
+    "The ordered cake must be made with Dairy Cream",
+    "The price of the ordered cake should be between 20-80 yuan",
+    "The delivery order needs to include a cake",
+    "The delivery order needs to include birthday hats and ribbons",
+    "The cake, birthday hats, and ribbons in the order should be from the same store",
+    "The delivery address for the food delivery order is Room 304, Building 9, Baolong Residential Area Lane 2, Nanlian Community, Longgang Street (350 meters walk from Exit B of Longcheng Square Metro Station), Longgang District, Shenzhen, Guangdong Province",
+    "The ordered Chinese restaurant should have an Elegant Environment",
+    "A Birthday Package should be ordered at the Chinese restaurant",
+    "The restaurant order package should be suitable for three people",
+    "The ordered set menu dishes must comply with the user's dietary restrictions: Low Salt",
+    "The ordered set menu dishes should avoid Deep-fried foods",
+    "The ordered hotel should be within 1km or less from the restaurant",
+    "The ordered hotel room cannot be a King Room",
+    "The total price of the hotel order should not exceed 400 yuan",
+    "The booking date for the hotel order should be 2025-05-20"
+  ]
+}

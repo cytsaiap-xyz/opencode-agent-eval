@@ -1,0 +1,308 @@
+{
+  "task_id": "20715001",
+  "domain": "delivery",
+  "time": "2025-10-01 09:51:28",
+  "user_id": "U000093",
+  "weather": [
+    {
+      "city": "Shijiazhuang City",
+      "category": "sunny",
+      "datetime": "2025-10-01",
+      "temperature": [
+        14,
+        22
+      ],
+      "humidity": 22
+    }
+  ],
+  "location": [
+    {
+      "address": "Chengfatou Zhujian Yajun, Rongning Road, Sanlitun Street, Zhengding County, Shijiazhuang, Hebei Province",
+      "longitude": 114.60513,
+      "latitude": 38.136171
+    }
+  ],
+  "user_profile": {
+    "user id": "U000093",
+    "occupation": "Student",
+    "gender": "female",
+    "age group": "15~20",
+    "residence": "Baoding",
+    "home address": "Building 7, Hebei University Student Dormitory, 180 Wusi East Road, Dongguan Street, Lianchi District, Baoding, Hebei Province",
+    "work address": "Building 7, Hebei University Student Dormitory, 180 Wusi East Road, Dongguan Street, Lianchi District, Baoding, Hebei Province",
+    "dietary restrictions": "Avoids high sugar, avoids spicy food",
+    "family status": "Unknown",
+    "personality": "Strong logical thinking, enjoys analysis and questioning, pursues accuracy"
+  },
+  "user_historical_behaviors": {
+    "user id": "U000093",
+    "occupation": "student",
+    "gender": "female",
+    "age group": "15~20",
+    "residence": "Baoding",
+    "home address": "Building 7, Hebei University Student Dormitory, 180 Wusi East Road, Dongguan Street, Lianchi District, Baoding, Hebei Province",
+    "work address": "Building 7, Hebei University Student Dormitory, 180 Wusi East Road, Dongguan Street, Lianchi District, Baoding, Hebei Province",
+    "breakfast": {
+      "frequently purchased categories": [
+        "Quick meals/Steamed buns/Pan-fried buns (average ¥15)",
+        "Quick meals/Jianbing/Wraps/Shouzhuabing (average ¥12)",
+        "Quick meals/Light food (average ¥25)"
+      ],
+      "cost per order": "¥10~25",
+      "preferred store rating": "4.2~5.0",
+      "preferred delivery time": "15~25 minutes",
+      "preferred distance": "0~1500m",
+      "recent orders": [
+        {
+          "store": "Houfu Baozi Shop",
+          "product": "Vegetable Trio Buns + Red Bean Soy Milk"
+        },
+        {
+          "store": "Old Li's Breakfast",
+          "product": "Plain Shouzhuabing + Sugar-free Soy Milk"
+        },
+        {
+          "store": "Light Food Select",
+          "product": "Fruit Oatmeal Cup + Whole Wheat Sandwich"
+        }
+      ],
+      "search history": [
+        "Sugar-free breakfast",
+        "Low-fat breakfast",
+        "Soy milk",
+        "Oatmeal",
+        "Steamed buns"
+      ]
+    },
+    "weekday lunch/dinner": {
+      "frequently purchased categories": [
+        "Quick meals/Light food (average ¥30)",
+        "Quick meals/Salad (average ¥28)",
+        "Quick meals/Healthy meals (average ¥35)"
+      ],
+      "cost per order": "¥25~40",
+      "preferred store rating": "4.3~4.8",
+      "preferred delivery time": "20~30 minutes",
+      "preferred distance": "0~2500m",
+      "recent orders": [
+        {
+          "store": "Salad Mix",
+          "product": "Chicken Breast Vegetable Salad (No Dressing)"
+        },
+        {
+          "store": "One Meter Light Food",
+          "product": "Low-fat Chicken Rice"
+        },
+        {
+          "store": "Diet Optimized",
+          "product": "Steamed Fish + Brown Rice + Vegetables"
+        }
+      ],
+      "search history": [
+        "Healthy meals",
+        "Low Sugar",
+        "Light food",
+        "Weight loss meals",
+        "Salad"
+      ]
+    },
+    "weekend lunch/dinner": {
+      "frequently purchased categories": [
+        "Chinese cuisine/Cantonese cuisine (average ¥65)",
+        "International flavors/Korean cuisine (average ¥70)",
+        "Quick meals/Small dishes (average ¥50)"
+      ],
+      "cost per order": "¥50~80",
+      "preferred store rating": "4.5~4.9",
+      "preferred delivery time": "25~40 minutes",
+      "preferred distance": "0~3000m",
+      "recent orders": [
+        {
+          "store": "Cantonese Delight",
+          "product": "Steamed Shrimp Dumplings + Blanched Choy Sum"
+        },
+        {
+          "store": "Seoul Kitchen",
+          "product": "Stone Bowl Bibimbap (Not Spicy) + Seaweed Soup"
+        },
+        {
+          "store": "Small Dish Workshop",
+          "product": "Steamed Sea Bass + Cold Wood Ear Mushroom Salad"
+        }
+      ],
+      "search history": [
+        "Mild cuisine",
+        "Cantonese cuisine",
+        "Korean cuisine",
+        "Small portions",
+        "Non-spicy"
+      ]
+    },
+    "desserts/drinks/snacks": {
+      "frequently purchased categories": [
+        "Drinks & Desserts/Pure tea (average ¥15)",
+        "Drinks & Desserts/Fruit bowls (average ¥20)",
+        "Drinks & Desserts/Western pastries (average ¥22)"
+      ],
+      "cost per order": "¥15~25",
+      "preferred store rating": "4.4~4.9",
+      "preferred delivery time": "15~25 minutes",
+      "preferred distance": "0~2000m",
+      "recent orders": [
+        {
+          "store": "Tea Aesthetics",
+          "product": "Sugar-free Green Tea"
+        },
+        {
+          "store": "Starbucks",
+          "product": "Low-sugar Oat Milk Latte"
+        }
+      ],
+      "search history": [
+        "Sugar-free drinks",
+        "Low-sugar desserts",
+        "Fruit tea",
+        "Green tea",
+        "Fresh fruit bowls"
+      ]
+    },
+    "night snack": {
+      "frequently purchased categories": [
+        "Quick meals/Small dishes (average ¥40)",
+        "Quick meals/Clay pot porridge (average ¥25)",
+        "Snacks & Braised foods/Braised items (average ¥30)"
+      ],
+      "cost per order": "¥20~45",
+      "preferred store rating": "4.3~4.8",
+      "preferred delivery time": "20~35 minutes",
+      "preferred distance": "0~2500m",
+      "recent orders": [
+        {
+          "store": "Clay Pot King",
+          "product": "Mild Shrimp Porridge"
+        },
+        {
+          "store": "Braised Food House",
+          "product": "Five-Spice Dried Tofu + Braised Chicken Feet (Mildly Spicy)"
+        },
+        {
+          "store": "Small Dish Kitchen",
+          "product": "Steamed Tofu + Cold Cucumber Salad"
+        }
+      ],
+      "search history": [
+        "Mild night snacks",
+        "Low-fat night snacks",
+        "Clay pot porridge",
+        "Small dishes",
+        "Bean products"
+      ]
+    }
+  },
+  "stores": {
+    "S31217774473889900_S25934": {
+      "name": "Wellness Birthday Cake (Zhengding Store) Dairy Cream Ice Cream Cake",
+      "store_id": "S31217774473889900_S25934",
+      "score": 5,
+      "location": {
+        "address": "No. 26 Meishan East Road, Zhengding Town, Zhengding County, Shijiazhuang, Hebei Province",
+        "latitude": 38.148685,
+        "longitude": 114.57931
+      },
+      "tags": [
+        "Quality Ingredients",
+        "Visually Appealing"
+      ],
+      "products": [
+        {
+          "name": "[Reduced Sugar Light] Lantingxu Neo-Chinese Oriental Tea Cake",
+          "store_id": "S31217774473889900_S25934",
+          "store_name": "Wellness Birthday Cake (Zhengding Store) Dairy Cream Ice Cream Cake",
+          "price": 98,
+          "tags": [],
+          "product_id": "S39235400686545422_P17041",
+          "attributes": [
+            "4-inch"
+          ],
+          "quantity": 9999
+        },
+        {
+          "name": "Osmanthus Fragrance - Cold Brew Jasmine Cream Cake",
+          "product_id": "S71681911012156639_P82992",
+          "store_id": "S31217774473889900_S25934",
+          "store_name": "Wellness Birthday Cake (Zhengding Store) Dairy Cream Ice Cream Cake",
+          "price": 78,
+          "tags": [
+            "Dairy Cream"
+          ],
+          "attributes": [],
+          "quantity": 9999
+        }
+      ]
+    },
+    "S16528656371674080_S96888": {
+      "name": "Egg Yolk Bear Durian Crepe Cake (Zhengding Store)",
+      "store_id": "S16528656371674080_S96888",
+      "score": 4,
+      "location": {
+        "address": "Egg Yolk Bear Durian Crepe Cake (Zhengding Store), North Section of Pedestrian Street, Office Building 2, Baoneng Center, Zhengding County, Shijiazhuang, Hebei Province",
+        "latitude": 38.125258,
+        "longitude": 114.617926
+      },
+      "tags": [],
+      "products": [
+        {
+          "name": "Durian + Mango + Purple Glutinous Rice Triple Layered Crepe Cake",
+          "product_id": "S11220163780361991_P28600",
+          "store_id": "S16528656371674080_S96888",
+          "store_name": "Egg Yolk Bear Durian Crepe Cake (Zhengding Store)",
+          "price": 59.9,
+          "tags": [
+            "Rich Ingredients",
+            "One Bite Satisfaction"
+          ],
+          "attributes": [],
+          "quantity": 9999
+        }
+      ]
+    },
+    "S31249122278739687_S56157": {
+      "name": "Beimusi Birthday Cake Low Sugar Ice Cream Dairy Cream (Zhengding Store)",
+      "store_id": "S31249122278739687_S56157",
+      "score": 5,
+      "location": {
+        "address": "20 meters west of the east gate of Zhenghua Garden, Hengzhou North Street, Zhengding Town, Zhengding County, Shijiazhuang, Hebei Province",
+        "latitude": 38.162645,
+        "longitude": 114.564601
+      },
+      "tags": [],
+      "products": [
+        {
+          "name": "[Mango Tart] 4-inch Fresh Fruit Birthday Cake with Dairy Cream",
+          "product_id": "S42783831471246814_P19808",
+          "store_id": "S31249122278739687_S56157",
+          "store_name": "Beimusi Birthday Cake Low Sugar Ice Cream Dairy Cream (Zhengding Store)",
+          "price": 88,
+          "tags": [
+            "Low Sugar"
+          ],
+          "attributes": [],
+          "quantity": 9999
+        },
+        {
+          "name": "[Sweet Fruity] Low-Sugar Xylitol Birthday Cake (Strawberries are slightly sour outside strawberry season)",
+          "product_id": "S20086489419399131_P40088",
+          "store_id": "S31249122278739687_S56157",
+          "store_name": "Beimusi Birthday Cake Low Sugar Ice Cream Dairy Cream (Zhengding Store)",
+          "price": 188,
+          "tags": [],
+          "attributes": [
+            "8-inch"
+          ],
+          "quantity": 9999
+        }
+      ]
+    }
+  },
+  "orders": {}
+}

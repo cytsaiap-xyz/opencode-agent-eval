@@ -1,0 +1,46 @@
+{
+  "task_id": "22",
+  "query": "I'm planning a three-day trip from Wuhan to Hangzhou, departing on November 12, 2025, and returning on November 14. I'd like you to help me arrange the entire itinerary, including transportation, accommodation, meals, and sightseeing.\n\nFor transportation, the outbound flight should have a convenient departure time—nothing too early or too late. For the return journey, please schedule a flight that arrives in Wuhan between 7:00 PM and 11:00 PM, so I’ll have plenty of time and won’t need to rush.\n\nFor accommodation, I’d like to stay at a three-star hotel—comfortable but not overly luxurious. By the way, I really want to relax during this trip, so it would be great if the hotel has a swimming pool where I can swim to unwind. Also, there are three of us traveling together, so we’ll need to book two rooms.\n\nRegarding dining, please arrange one meal at the highest-rated restaurant near 'Lingyin Temple' so I can try the local specialties. Oh, and I’ve heard there are many great restaurants around 'Yanggong Causeway'—please pick one that offers online queue reservation and include it in the plan, so we won’t have to wait too long if it gets crowded.\n\nThat’s basically all I need—please incorporate these requirements into the itinerary, and feel free to adjust other details based on practical considerations! November 12, 2025 is Wednesday",
+  "meta_info": {
+    "org": "Wuhan",
+    "dest": [
+      "Hangzhou"
+    ],
+    "days": 3,
+    "depart_date": "2025-11-12",
+    "return_date": "2025-11-14",
+    "people_number": 3,
+    "room_number": 2
+  },
+  "hard_constraints": {
+    "flight_arrival_time_range": {
+      "constraint_context": "The return flight must arrive between 19:00 and 23:00.",
+      "inbound_flight_no": "GJ3420"
+    },
+    "hotel_star_service_required": {
+      "constraint_context": "Please select a 3-star hotel that offers a pool for accommodation.",
+      "constraint_type": "superlative_star_service_required",
+      "hotel_name": "Dehao Design Hotel (Linping Donghu International Commercial Center Branch)",
+      "required_service": "Swimming Pool",
+      "hotel_star": 3,
+      "hotel_price": 166.0
+    },
+    "restaurant_highest_rated": {
+      "constraint_context": "During the trip, please arrange a meal at the highest-rated restaurant near 'Lingyin Temple'.",
+      "constraint_type": "superlative_highest_rated_restaurant",
+      "attraction_name": "Lingyin Temple",
+      "restaurant_name": "Haihui Pavilion New Jiangnan Vegetarian Noodle Restaurant",
+      "price_per_person": 37.0,
+      "restaurant_rating": 4.8
+    },
+    "restaurant_specific_tag_nearby": {
+      "constraint_context": "Arrange a meal at a restaurant near 'Yang Gong Causeway' during the trip, with online number-taking and queueing service required",
+      "constraint_type": "superlative_specific_tag_nearby",
+      "attraction_name": "Yang Gong Causeway",
+      "restaurant_name": "Green Shade Restaurant",
+      "required_tag": "Online Queue",
+      "price_per_person": 100.0,
+      "restaurant_rating": 4.3
+    }
+  }
+}

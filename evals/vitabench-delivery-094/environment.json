@@ -1,0 +1,382 @@
+{
+  "task_id": "J0716001",
+  "domain": "delivery",
+  "time": "2024-05-18 11:56:18",
+  "user_id": "U000099",
+  "weather": [
+    {
+      "city": "Jinan City",
+      "category": "sunny",
+      "datetime": "2024-05-18",
+      "temperature": [
+        18,
+        27
+      ],
+      "humidity": 53
+    }
+  ],
+  "location": [
+    {
+      "address": "Shandong Drama Theater, 115 Liberation Road, Lixia District, Jinan, Shandong Province",
+      "longitude": 117.044643,
+      "latitude": 36.66697
+    }
+  ],
+  "user_profile": {
+    "user id": "U000099",
+    "occupation": "Actor",
+    "gender": "male",
+    "age group": "20~25",
+    "residence": "Jinan",
+    "home address": "Haier Greentown National Games Village Rose Garden, Baihe East Road, Lixia District, Jinan, Shandong Province",
+    "work address": "Shandong Drama Theater, 115 Liberation Road, Lixia District, Jinan, Shandong Province",
+    "dietary restrictions": "Avoid high purine foods (such as organ meats/seafood soup), no alcohol",
+    "family status": "Lives alone",
+    "personality": "Extremely detail-oriented, tends to be picky and easily dissatisfied"
+  },
+  "user_historical_behaviors": {
+    "user id": "U000099",
+    "occupation": "Actor",
+    "gender": "male",
+    "age group": "20~25",
+    "residence": "Jinan",
+    "home address": "Haier Greentown National Games Village, Rose Garden, Baihe East Road, Lixia District, Jinan, Shandong Province",
+    "work address": "Shandong Drama Theater, 115 Liberation Road, Lixia District, Jinan, Shandong Province",
+    "breakfast": {
+      "frequently purchased categories": [
+        "Quick Meals/Steamed Buns/Pan-fried Buns (Average 18 yuan)",
+        "Quick Meals/Fried Dough Sticks (Average 8 yuan)",
+        "Quick Meals/Light Food (Average 32 yuan)"
+      ],
+      "cost per order": "15~35 yuan",
+      "preferred store rating": "4.3~4.8 stars",
+      "preferred delivery time": "15~25 minutes",
+      "preferred distance": "0~1500m",
+      "recent orders": [
+        {
+          "store": "Xiang Ji Pan-fried Buns",
+          "product": "Pork Pan-fried Buns + Soy Milk"
+        },
+        {
+          "store": "Fresh Food Moment",
+          "product": "Avocado Chicken Breast Sandwich + Freshly Squeezed Orange Juice"
+        },
+        {
+          "store": "Old Beijing Breakfast Shop",
+          "product": "Soy Milk with Fried Dough Sticks + Soup Dumplings"
+        }
+      ],
+      "search history": [
+        "Low-fat breakfast",
+        "Stomach-friendly porridge",
+        "Soy milk",
+        "Light food",
+        "High-protein breakfast"
+      ]
+    },
+    "weekday lunch/dinner": {
+      "frequently purchased categories": [
+        "Quick Meals/Healthy Meals (Average 45 yuan)",
+        "Chinese Cuisine/Lu Cuisine (Average 68 yuan)",
+        "International Cuisine/Japanese Bento/Sushi (Average 60 yuan)"
+      ],
+      "cost per order": "15~75 yuan",
+      "preferred store rating": "4.0~4.9 stars",
+      "preferred delivery time": "20~50 minutes",
+      "preferred distance": "0~3000m",
+      "recent orders": [
+        {
+          "store": "Musang Forest Light Healthy Food (Liberation Road Store)",
+          "product": "Vegetarian 🥗 Vegan Seaweed Vegetable Salad Bowl"
+        },
+        {
+          "store": "Jinan Lu Cuisine House",
+          "product": "Stir-fried Lamb with Scallions + Garlic Pork Slices + Rice"
+        },
+        {
+          "store": "Helu Sushi",
+          "product": "Salmon Sashimi Bento"
+        }
+      ],
+      "search history": [
+        "Healthy meals",
+        "Low oil low fat",
+        "Protein",
+        "Lu cuisine",
+        "Non-alcoholic dishes"
+      ]
+    },
+    "weekend lunch/dinner": {
+      "frequently purchased categories": [
+        "Chinese Cuisine/Cantonese Cuisine (Average 120 yuan)",
+        "International Cuisine/Korean Food (Average 110 yuan)",
+        "International Cuisine/Pasta (Average 85 yuan)"
+      ],
+      "cost per order": "80~150 yuan",
+      "preferred store rating": "4.6~4.9 stars",
+      "preferred delivery time": "25~45 minutes",
+      "preferred distance": "0~3500m",
+      "recent orders": [
+        {
+          "store": "Cantonese Chef",
+          "product": "Poached Shrimp + Steamed Sea Bass + Garlic Broccoli"
+        },
+        {
+          "store": "Seoul Taste",
+          "product": "Bibimbap in Stone Pot + Kimchi Soup"
+        },
+        {
+          "store": "Taste Buds Italian Restaurant",
+          "product": "Black Truffle Beef Pasta + Caesar Salad"
+        }
+      ],
+      "search history": [
+        "Cantonese cuisine",
+        "Health-conscious meals",
+        "Gourmet cuisine",
+        "Korean bibimbap",
+        "Western food"
+      ]
+    },
+    "desserts/drinks/snacks": {
+      "frequently purchased categories": [
+        "Drinks & Desserts/Pure Tea/Herbal Tea (Average 22 yuan)",
+        "Drinks & Desserts/Fruit Bowls (Average 28 yuan)",
+        "Drinks & Desserts/Cold Desserts (Average 32 yuan)"
+      ],
+      "cost per order": "18~40 yuan",
+      "preferred store rating": "4.0~4.8 stars",
+      "preferred delivery time": "15~40 minutes",
+      "preferred distance": "0~3000m",
+      "recent orders": [
+        {
+          "store": "HEYTEA",
+          "product": "Oolong Tea + Coconut Jelly"
+        },
+        {
+          "store": "Fresh Cut Fruit Bowl",
+          "product": "Colorful Fruit Bowl + Coconut Milk"
+        },
+        {
+          "store": "Donggengdao Dim Sum (Jinan Garden Road Store)",
+          "product": "Tiramisu Cake (Five Pieces)"
+        }
+      ],
+      "search history": [
+        "Sugar-free drinks",
+        "Low-sugar tea",
+        "Fresh fruits",
+        "Healthy desserts",
+        "Non-alcoholic beverages"
+      ]
+    },
+    "night snack": {
+      "frequently purchased categories": [
+        "Quick Meals/Rice Noodles/Vermicelli (Average 32 yuan)",
+        "Quick Meals/Claypot Dishes (Average 45 yuan)",
+        "Snacks/Braised Flavors (Average 38 yuan)"
+      ],
+      "cost per order": "30~55 yuan",
+      "preferred store rating": "4.2~4.7 stars",
+      "preferred delivery time": "25~40 minutes",
+      "preferred distance": "0~2500m",
+      "recent orders": [
+        {
+          "store": "Yunnan Crossing Bridge Rice Noodles",
+          "product": "Classic Beef Rice Noodles"
+        },
+        {
+          "store": "Old Street Claypot",
+          "product": "Fresh Mushroom & Tofu Pot"
+        },
+        {
+          "store": "Tasty Braised Flavors",
+          "product": "Five-Spice Braised Chicken Leg + Braised Eggs + Braised Tofu"
+        }
+      ],
+      "search history": [
+        "Mild night snacks",
+        "Stomach-friendly late-night food",
+        "Purine-free food",
+        "Low-fat night snacks",
+        "Rice noodles"
+      ]
+    }
+  },
+  "stores": {
+    "S23393414851448293_S19853": {
+      "name": "Donggengdao Dim Sum (Jinan Garden Road Store)",
+      "store_id": "S23393414851448293_S19853",
+      "score": 4.5,
+      "location": {
+        "address": "Donggengdao Dim Sum (Garden Road Store), 257 Garden Road, Lixia District, Jinan, Shandong Province",
+        "latitude": 36.681025,
+        "longitude": 117.048373
+      },
+      "tags": [],
+      "products": [
+        {
+          "name": "Tiramisu Cake (Five Pieces)",
+          "store_id": "S23393414851448293_S19853",
+          "store_name": "Donggengdao Dim Sum (Jinan Garden Road Store)",
+          "price": 29.8,
+          "tags": [
+            "Chocolate Flavor"
+          ],
+          "product_id": "S19088751354434699_P64667",
+          "attributes": [],
+          "quantity": 9999
+        }
+      ]
+    },
+    "S18487338541407843_S28262": {
+      "name": "Musang Forest Light Healthy Food (Liberation Road Store)",
+      "store_id": "S18487338541407843_S28262",
+      "score": 4.6,
+      "location": {
+        "address": "Musang Forest Light Healthy Food, 80 meters west of the intersection of Jing'er Road and Yongsheng Street, Shizhong District, Jinan, Shandong Province",
+        "latitude": 36.665379,
+        "longitude": 117.003395
+      },
+      "tags": [],
+      "products": [
+        {
+          "name": "Vegetarian 🥗 Vegan Seaweed Vegetable Salad Bowl",
+          "store_id": "S18487338541407843_S28262",
+          "store_name": "Musang Forest Light Healthy Food (Liberation Road Store)",
+          "price": 21.8,
+          "tags": [
+            "Cherry Tomato",
+            "Broccoli",
+            "Carrot"
+          ],
+          "product_id": "S12791597665478343_P17264",
+          "attributes": [],
+          "quantity": 9999
+        }
+      ]
+    },
+    "S25404730601650268_S58462": {
+      "name": "Quancheng Impression Lu Cuisine Restaurant (Jinan Store)",
+      "store_id": "S25404730601650268_S58462",
+      "score": 4.2,
+      "location": {
+        "address": "Quancheng Impression Lu Cuisine Restaurant (Next to the East Gate of Dr. Oscar Bar, Guting Hotel, Daming Lake, Lixia District, Jinan, Shandong Province)",
+        "latitude": 36.674016,
+        "longitude": 117.038153
+      },
+      "tags": [],
+      "products": [
+        {
+          "name": "Sweet and Sour Yellow River Carp 🥇 [Famous Lu Cuisine Dish] With Separate Fish Sauce",
+          "store_id": "S25404730601650268_S58462",
+          "store_name": "Quancheng Impression Lu Cuisine Restaurant (Jinan Store)",
+          "price": 68.88,
+          "tags": [],
+          "product_id": "S52372295090028906_P76280",
+          "attributes": [],
+          "quantity": 9999
+        },
+        {
+          "name": "[Weishan Lake] 🌶️ Spicy Carp (Freshly Prepared Live Fish)",
+          "store_id": "S25404730601650268_S58462",
+          "store_name": "Quancheng Impression Lu Cuisine Restaurant (Jinan Store)",
+          "price": 71.8,
+          "tags": [],
+          "product_id": "S10320216691541560_P07997",
+          "attributes": [],
+          "quantity": 9999
+        }
+      ]
+    },
+    "S45751805145831886_S27288": {
+      "name": "Manwei Light Food·Salad·Healthy Meal (Yinzuo Store)",
+      "store_id": "S45751805145831886_S27288",
+      "score": 4.1,
+      "location": {
+        "address": "Bank of China Building, 22 Luoyuan Street, Lixia District, Jinan, Shandong Province",
+        "latitude": 36.659889,
+        "longitude": 117.034353
+      },
+      "tags": [],
+      "products": [
+        {
+          "name": "Seasonal Vegetable Pepper Chicken Breast Energy Salad",
+          "store_id": "S45751805145831886_S27288",
+          "store_name": "Manwei Light Food·Salad·Healthy Meal (Yinzuo Store)",
+          "price": 23.9,
+          "tags": [],
+          "product_id": "S20142534266709155_P39026",
+          "attributes": [
+            "Corn, chicken breast, egg, lettuce, broccoli"
+          ],
+          "quantity": 9999
+        },
+        {
+          "name": "Avocado Chicken Breast Energy Salad Bowl",
+          "store_id": "S45751805145831886_S27288",
+          "store_name": "Manwei Light Food·Salad·Healthy Meal (Yinzuo Store)",
+          "price": 26.9,
+          "tags": [
+            ""
+          ],
+          "product_id": "S69078299475805157_P55112",
+          "attributes": [
+            "Chicken breast, avocado, lettuce"
+          ],
+          "quantity": 9999
+        },
+        {
+          "name": "Tender Black Pepper Steak with Seasonal Vegetable Salad (Large Steak)",
+          "store_id": "S45751805145831886_S27288",
+          "store_name": "Manwei Light Food·Salad·Healthy Meal (Yinzuo Store)",
+          "price": 33.9,
+          "tags": [],
+          "product_id": "S17948703827991514_P17403",
+          "attributes": [
+            "Corn, lettuce, broccoli, steak"
+          ],
+          "quantity": 9999
+        }
+      ]
+    },
+    "S25309643210637884_S64669": {
+      "name": "Allison (Freshly Baked Bread·Cake·Shandong University Road Store)",
+      "store_id": "S25309643210637884_S64669",
+      "score": 4.3,
+      "location": {
+        "address": "Allison (Shandong University Road Store), 230 Shandong University Road, Lixia District, Jinan, Shandong Province",
+        "latitude": 36.661401,
+        "longitude": 117.056151
+      },
+      "tags": [],
+      "products": [
+        {
+          "name": "Labubu Chocolate Mousse Cake (Chocolate Flavor)",
+          "store_id": "S25309643210637884_S64669",
+          "store_name": "Allison (Freshly Baked Bread·Cake·Shandong University Road Store)",
+          "price": 39.9,
+          "tags": [
+            ""
+          ],
+          "product_id": "S58699851236660065_P00397",
+          "attributes": [],
+          "quantity": 9999
+        },
+        {
+          "name": "[Super Healing Dessert] Chocolate Air Cake Roll",
+          "store_id": "S25309643210637884_S64669",
+          "store_name": "Allison (Freshly Baked Bread·Cake·Shandong University Road Store)",
+          "price": 15.9,
+          "tags": [
+            ""
+          ],
+          "product_id": "S21249499193267079_P70309",
+          "attributes": [],
+          "quantity": 9999
+        }
+      ]
+    }
+  },
+  "orders": {}
+}

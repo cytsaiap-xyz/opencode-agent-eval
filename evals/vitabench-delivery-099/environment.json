@@ -1,0 +1,419 @@
+{
+  "task_id": "J0721002",
+  "domain": "delivery",
+  "time": "2024-09-20 11:55:00",
+  "user_id": "U000094",
+  "weather": [
+    {
+      "city": "Zhengzhou City",
+      "category": "sunny",
+      "datetime": "2024-09-20",
+      "temperature": [
+        15,
+        25
+      ],
+      "humidity": 57
+    }
+  ],
+  "location": [
+    {
+      "address": "Building D, Jianye Headquarters Harbor, Intersection of Dongfeng East Road and Ruyi West Road, Ruyi Lake Street, Jinshui District, Zhengzhou City, Henan Province",
+      "longitude": 113.730965,
+      "latitude": 34.785745
+    }
+  ],
+  "user_profile": {
+    "user id": "U000094",
+    "occupation": "Engineer",
+    "gender": "female",
+    "age group": "30~35",
+    "residence": "Zhengzhou",
+    "home address": "Zhengshang Bozuan, 500 meters south of the intersection of Jinshui East Road and Wenyuan South Road, Boxue Road Street, Jinshui District, Zhengzhou City, Henan Province",
+    "work address": "Building D, Jianye Headquarters Harbor, Intersection of Dongfeng East Road and Ruyi West Road, Ruyi Lake Street, Jinshui District, Zhengzhou City, Henan Province",
+    "dietary restrictions": "No alcohol",
+    "family status": "Has children",
+    "personality": "Mild-tempered with high cooperation, good at listening and understanding"
+  },
+  "user_historical_behaviors": {
+    "user id": "U000094",
+    "occupation": "Engineer",
+    "gender": "female",
+    "age group": "30~35",
+    "residence": "Zhengzhou",
+    "home address": "Zhengshang Bozuan, 500 meters south of the intersection of Jinshui East Road and Wenyuan South Road, Boxue Road Street, Jinshui District, Zhengzhou City, Henan Province",
+    "work address": "Building D, Jianye Headquarters Harbor, Intersection of Dongfeng East Road and Ruyi West Road, Ruyi Lake Street, Jinshui District, Zhengzhou City, Henan Province",
+    "breakfast": {
+      "frequently purchased categories": [
+        "Quick meals/Jianbing Guozi/Wraps/Hand-grabbed pancakes (average 15 yuan)",
+        "Quick meals/Baozi/Shengjianbao (average 12 yuan)",
+        "desserts/drinks/snacks/Coffee (average 25 yuan)"
+      ],
+      "cost per order": "12~30 yuan",
+      "preferred store rating": "4.3~4.8 stars",
+      "preferred delivery time": "15~25 minutes",
+      "preferred distance": "0~2000m",
+      "recent orders": [
+        {
+          "store": "Fresh Brewed Handmade Coffee",
+          "product": "Low-fat Latte"
+        },
+        {
+          "store": "Laojiekou Baozi Shop",
+          "product": "Meat Buns + Vegetable Buns"
+        },
+        {
+          "store": "Jianbing King",
+          "product": "Whole Wheat Jianbing Guozi"
+        }
+      ],
+      "search history": [
+        "Low-fat breakfast",
+        "Whole wheat bread",
+        "Light meal salad",
+        "Oatmeal",
+        "Fat-reducing breakfast"
+      ]
+    },
+    "weekday lunch/dinner": {
+      "frequently purchased categories": [
+        "Quick meals/Healthy meals (average 45 yuan)",
+        "Chinese cuisine/Cantonese cuisine (average 60 yuan)",
+        "International cuisine/Salads (average 38 yuan)"
+      ],
+      "cost per order": "25~70 yuan",
+      "preferred store rating": "4.2~5.0 stars",
+      "preferred delivery time": "20~50 minutes",
+      "preferred distance": "0~3000m",
+      "recent orders": [
+        {
+          "store": "Light Meal Notes",
+          "product": "Chicken Breast Vegetable Salad"
+        },
+        {
+          "store": "Cantonese Flavor Pavilion",
+          "product": "Steamed Bass + Seasonal Vegetables"
+        },
+        {
+          "store": "Salad Works",
+          "product": "Quinoa Chicken Salad"
+        }
+      ],
+      "search history": [
+        "Low-salt",
+        "Healthy meals",
+        "Light meal salad",
+        "Steamed fish",
+        "No frying"
+      ]
+    },
+    "weekend lunch/dinner": {
+      "frequently purchased categories": [
+        "Chinese cuisine/Cantonese cuisine (average 90 yuan)",
+        "Chinese cuisine/Sichuan cuisine (average 85 yuan)",
+        "International cuisine/Japanese bento/Sushi (average 110 yuan)"
+      ],
+      "cost per order": "70~160 yuan",
+      "preferred store rating": "4.6~5.0 stars",
+      "preferred delivery time": "25~45 minutes",
+      "preferred distance": "0~4500m",
+      "recent orders": [
+        {
+          "store": "Jinjiang Restaurant",
+          "product": "Shrimp Steamed Egg + Porridge + Home-style Dishes"
+        },
+        {
+          "store": "Sushi Lang",
+          "product": "Salmon Sashimi + Vegetable Roll"
+        },
+        {
+          "store": "Mom's Pork Trotter",
+          "product": "Slightly Spicy Pork Trotters + Cold Dishes + Stir-fried Pork"
+        }
+      ],
+      "search history": [
+        "Family set meal",
+        "Family gathering",
+        "Children's meal",
+        "Sushi",
+        "Steamed dishes"
+      ]
+    },
+    "desserts/drinks/snacks": {
+      "frequently purchased categories": [
+        "desserts/drinks/snacks/Fruit juice (average 28 yuan)",
+        "desserts/drinks/snacks/Fruit salad (average 32 yuan)",
+        "desserts/drinks/snacks/Chinese pastries (average 22 yuan)"
+      ],
+      "cost per order": "15~45 yuan",
+      "preferred store rating": "4.2~5.0 stars",
+      "preferred delivery time": "15~25 minutes",
+      "preferred distance": "0~5000m",
+      "recent orders": [
+        {
+          "store": "Liaodoodoo Fruit Salad (Fruit Salad)",
+          "product": "Iced Watermelon Juice 500ml"
+        },
+        {
+          "store": "Fruit Salad",
+          "product": "Low-sugar Fruit Salad"
+        },
+        {
+          "store": "Tao Li Bread",
+          "product": "Whole Wheat Red Bean Bun"
+        }
+      ],
+      "search history": [
+        "Low-sugar drinks",
+        "Additive-free juice",
+        "Fresh fruits",
+        "Children's desserts"
+      ]
+    },
+    "night snack": {
+      "frequently purchased categories": [
+        "Quick meals/Rice noodles/Rice vermicelli (average 32 yuan)",
+        "Quick meals/Casserole dishes (average 48 yuan)"
+      ],
+      "cost per order": "25~55 yuan",
+      "preferred store rating": "4.2~4.9 stars",
+      "preferred delivery time": "20~35 minutes",
+      "preferred distance": "0~3000m",
+      "recent orders": [
+        {
+          "store": "Old Guangzhou Casserole Porridge",
+          "product": "Mild Century Egg and Lean Meat Porridge + Side Dishes"
+        },
+        {
+          "store": "Yunnan Rice Noodles",
+          "product": "Clear Soup Rice Noodles"
+        },
+        {
+          "store": "Hunan Rice Noodles",
+          "product": "Slightly Spicy Beef Rice Noodles"
+        }
+      ],
+      "search history": [
+        "Low-fat night snacks",
+        "Porridge",
+        "Mild night snacks",
+        "Casserole",
+        "Porridge dishes"
+      ]
+    }
+  },
+  "stores": {
+    "S19728863776884431_S86002": {
+      "name": "Mi Cun Bibimbap (Xidi Harbor Shopping Center Store)",
+      "store_id": "S19728863776884431_S86002",
+      "score": 5,
+      "location": {
+        "address": "Mi Cun Bibimbap (Xidi Harbor Wangfujing Department Store), Shop B1-01, Basement 1, Wangfujing, Xidi Harbor Shopping Center, No.15 Agriculture East Road, Jinshui District, Zhengzhou City, Henan Province",
+        "latitude": 34.783804,
+        "longitude": 113.718222
+      },
+      "tags": [
+        "Good quality"
+      ],
+      "products": [
+        {
+          "name": "Tuna bibimbap",
+          "store_id": "S19728863776884431_S86002",
+          "store_name": "Mi Cun Bibimbap (Xidi Harbor Shopping Center Store)",
+          "price": 25.9,
+          "tags": [],
+          "product_id": "S78307369213340465_P29115",
+          "attributes": [
+            "Not spicy",
+            "Slightly spicy"
+          ],
+          "quantity": 9999
+        }
+      ]
+    },
+    "S30804956163842857_S55020": {
+      "name": "Guan Cha · Song Dynasty Oriental Tea (Zhengzhou Xidi Harbor Store)",
+      "store_id": "S30804956163842857_S55020",
+      "score": 5,
+      "location": {
+        "address": "1st Floor, Building 8, No.9 Agriculture East Road, Zhengdong New District, Jinshui District, Zhengzhou City, Henan Province",
+        "latitude": 34.784067,
+        "longitude": 113.729905
+      },
+      "tags": [],
+      "products": [
+        {
+          "name": "Ru Dai Ru Yan (Tieguanyin-Fresh Milk Tea)",
+          "store_id": "S30804956163842857_S55020",
+          "store_name": "Guan Cha · Song Dynasty Oriental Tea (Zhengzhou Xidi Harbor Store)",
+          "price": 18,
+          "tags": [
+            "Contains sugar",
+            "Contains caffeine"
+          ],
+          "product_id": "S95851429464568625_P06476",
+          "attributes": [
+            "Standard ice",
+            "Less ice",
+            "No ice",
+            "Hot",
+            "Warm"
+          ],
+          "quantity": 9999
+        },
+        {
+          "name": "Chiyu Iced Coffee (Watermelon Americano)",
+          "store_id": "S30804956163842857_S55020",
+          "store_name": "Guan Cha · Song Dynasty Oriental Tea (Zhengzhou Xidi Harbor Store)",
+          "price": 18,
+          "tags": [
+            "Energizing"
+          ],
+          "product_id": "S27520940695787940_P67022",
+          "attributes": [
+            "Extra ice",
+            "Standard ice",
+            "Less ice"
+          ],
+          "quantity": 9999
+        }
+      ]
+    },
+    "S33689769018838954_S40512": {
+      "name": "Zhongjing Life (Yanshou Street Store)",
+      "store_id": "S33689769018838954_S40512",
+      "score": 4.3,
+      "location": {
+        "address": "Courtyard No.7, Yanshou Road, 120 meters southeast of the intersection of Yanshou Street and Heizhuzhuang Road, Weilai Road Street, Jinshui District, Zhengzhou City, Henan Province",
+        "latitude": 34.765266,
+        "longitude": 113.712991
+      },
+      "tags": [],
+      "products": [
+        {
+          "name": "Thin crispy almond slices",
+          "store_id": "S33689769018838954_S40512",
+          "store_name": "Zhongjing Life (Yanshou Street Store)",
+          "price": 31.9,
+          "tags": [
+            "Large size"
+          ],
+          "product_id": "S24288445174253477_P93566",
+          "attributes": [],
+          "quantity": 9999
+        }
+      ]
+    },
+    "S26229800937106390_S76605": {
+      "name": "HeyTea (Zhengzhou Longhu Li Store)",
+      "store_id": "S26229800937106390_S76605",
+      "score": 4.8,
+      "location": {
+        "address": "HeyTea (Zhengzhou Longhu Li Store), Shop D103-2, 1st Floor, Zhongmeng Garden, Southwest corner of the intersection of Jiuru Road and Longhu Middle Ring Road, Zhengdong New District, Jinshui District, Zhengzhou City, Henan Province",
+        "latitude": 34.791351,
+        "longitude": 113.742157
+      },
+      "tags": [],
+      "products": [
+        {
+          "name": "Hot Roasted Brown Sugar Boba Milk (Original)",
+          "product_id": "S32738925780286053_P70478",
+          "store_id": "S26229800937106390_S76605",
+          "store_name": "HeyTea (Zhengzhou Longhu Li Store)",
+          "price": 21,
+          "tags": [
+            "Real cow's milk"
+          ],
+          "attributes": [
+            "Very hot",
+            "Warm"
+          ],
+          "quantity": 9999
+        }
+      ]
+    },
+    "S30278754161506523_S70557": {
+      "name": "Huai Xi Light Meals (Jincheng Times Square Store)",
+      "store_id": "S30278754161506523_S70557",
+      "score": 4.7,
+      "location": {
+        "address": "No.114, Building 13, Jincheng Times Square, 133-25 Yaozhai Road, Fengchan Road Street, Jinshui District, Zhengzhou City, Henan Province",
+        "latitude": 34.777293,
+        "longitude": 113.706117
+      },
+      "tags": [
+        "Light meal salad"
+      ],
+      "products": [
+        {
+          "name": "Almond slices",
+          "product_id": "S75250364251656995_P63216",
+          "store_id": "S30278754161506523_S70557",
+          "store_name": "Huai Xi Light Meals (Jincheng Times Square Store)",
+          "price": 3,
+          "tags": [
+            "Toppings"
+          ],
+          "attributes": [],
+          "quantity": 9999
+        }
+      ]
+    },
+    "S22784557420250778_S49501": {
+      "name": "Lu Xiaoge BBQ (Xidi Harbor Store)",
+      "store_id": "S22784557420250778_S49501",
+      "score": 5,
+      "location": {
+        "address": "Lu Xiaoge BBQ (Xidi Harbor Store), 4th Floor, CityOn Xidi Harbor Shopping Center, Agriculture East Road, Jinshui District, Zhengzhou City, Henan Province",
+        "latitude": 34.784734,
+        "longitude": 113.716477
+      },
+      "tags": [
+        "Delicious taste",
+        "Must-Try List 2025 Selected Restaurant"
+      ],
+      "products": [
+        {
+          "name": "Tuna and roe bibimbap set meal",
+          "product_id": "S23079146383786136_P49508",
+          "store_id": "S22784557420250778_S49501",
+          "store_name": "Lu Xiaoge BBQ (Xidi Harbor Store)",
+          "price": 29.8,
+          "tags": [
+            "Tuna and roe bibimbap + 1 cup of kumquat lemon drink"
+          ],
+          "attributes": [
+            "Kumquat lemon (iced)",
+            "Kumquat lemon (no ice)"
+          ],
+          "quantity": 9999
+        }
+      ]
+    },
+    "S60321882160853344_S88003": {
+      "name": "Uncle Park's Bibimbap (Zhengzhou Dennis 6 Paradise Store)",
+      "store_id": "S60321882160853344_S88003",
+      "score": 4.7,
+      "location": {
+        "address": "Uncle Park's Bibimbap (Dennis 6 Paradise Store), Dennis 6 Paradise Supermarket, Intersection of Business Inner Ring Road and Zhongyi Road, Zhengdong New District, Jinshui District, Zhengzhou City, Henan Province",
+        "latitude": 34.776731,
+        "longitude": 113.720839
+      },
+      "tags": [],
+      "products": [
+        {
+          "name": "Tuna bibimbap (with mayonnaise)",
+          "product_id": "S96553060618271890_P38496",
+          "store_id": "S60321882160853344_S88003",
+          "store_name": "Uncle Park's Bibimbap (Zhengzhou Dennis 6 Paradise Store)",
+          "price": 23.9,
+          "tags": [
+            "Sweet and salty"
+          ],
+          "attributes": [],
+          "quantity": 9999
+        }
+      ]
+    }
+  },
+  "orders": {}
+}

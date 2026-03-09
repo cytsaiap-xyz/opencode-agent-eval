@@ -1,0 +1,188 @@
+{
+  "task_id": "10826134",
+  "domain": "instore",
+  "time": "2025-07-19 10:30:00",
+  "user_id": "U199743",
+  "weather": [
+    {
+      "city": "Changzhou",
+      "category": "sunny",
+      "datetime": "2025-07-19",
+      "temperature": [
+        26,
+        34
+      ],
+      "humidity": 45
+    }
+  ],
+  "location": [
+    {
+      "address": "Room 1203, Building B, Wanda Plaza, 28 Taihu Middle Road, Xinbei District, Changzhou, Jiangsu Province",
+      "longitude": 119.9743,
+      "latitude": 31.7859
+    },
+    {
+      "address": "5th Floor, Building C, Changzhou Science and Technology Park, 88 Changhong East Road, Wujin District, Changzhou, Jiangsu Province",
+      "longitude": 119.9532,
+      "latitude": 31.7102
+    },
+    {
+      "address": "Wuyue Plaza, 288 Tongjiang Avenue, Xinbei District, Changzhou, Jiangsu Province",
+      "longitude": 119.9835,
+      "latitude": 31.8012
+    }
+  ],
+  "user_profile": {
+    "user id": "U199743",
+    "occupation": "Algorithm Engineer",
+    "gender": "male",
+    "age group": "30~35",
+    "residence": "Changzhou",
+    "home address": "Room 1203, Building B, Wanda Plaza, 28 Taihu Middle Road, Xinbei District, Changzhou, Jiangsu Province",
+    "work address": "5th Floor, Building C, Changzhou Science and Technology Park, 88 Changhong East Road, Wujin District, Changzhou, Jiangsu Province",
+    "dietary restrictions": "No caffeine, no high-fat offal",
+    "family status": "In a relationship",
+    "personality": "Cold and concise in expression, lacks emotional communication and patience"
+  },
+  "user_historical_behaviors": {
+    "user id": "U199743",
+    "occupation": "Algorithm Engineer",
+    "gender": "male",
+    "age group": "30~35",
+    "residence": "Changzhou",
+    "home address": "Room 1203, Building B, Wanda Plaza, 28 Taihu Middle Road, Xinbei District, Changzhou, Jiangsu Province",
+    "work address": "5th Floor, Building C, Changzhou Science and Technology Park, 88 Changhong East Road, Wujin District, Changzhou, Jiangsu Province",
+    "in-store dining": {
+      "fine-dining": {
+        "frequently purchased categories": [
+          "Regional Cuisine/Sichuan Cuisine (Average 95 yuan)",
+          "International Cuisine/Japanese Food (Average 120 yuan)",
+          "Hot Pot (Average 110 yuan)"
+        ],
+        "preferred average price per person": "90~550 yuan",
+        "preferred store rating": "4.2~5.0 stars",
+        "typical dining time": "18:30-20:30",
+        "preferred distance": "0~4000m",
+        "recent orders": [
+          {
+            "store": "Shu Xiang Yuan",
+            "product": "Boiled Fish + Twice-cooked Pork + Shredded Potato with Green Pepper"
+          },
+          {
+            "store": "Lugang Xiaozhen",
+            "product": "Taiwanese Braised Pork Rice Set"
+          },
+          {
+            "store": "Hua Yin Japanese Restaurant",
+            "product": "Sashimi Platter + Salmon Sushi"
+          }
+        ],
+        "search history": [
+          "Japanese food",
+          "Sichuan restaurant",
+          "Romantic restaurants for couples",
+          "Caffeine-free"
+        ]
+      },
+      "light meal": {
+        "frequently purchased categories": [
+          "Quick Meals/Chinese Simple Meals (Average 35 yuan)",
+          "Quick Meals/Western Fast Food (Average 40 yuan)",
+          "Regional Cuisine/Northeastern Cuisine (Average 45 yuan)"
+        ],
+        "preferred average price per person": "25~50 yuan",
+        "preferred store rating": "3.5~4.3 stars",
+        "typical dining time": "11:30-13:00",
+        "preferred distance": "0~500m",
+        "recent orders": [
+          {
+            "store": "Jixiang Wonton",
+            "product": "Three Delicacies Wonton + Braised Egg"
+          },
+          {
+            "store": "Shaxian Snacks",
+            "product": "Flat Meat Noodles + Soup Dumplings"
+          },
+          {
+            "store": "Lao Jie Fang Malatang",
+            "product": "Malatang Set Meal"
+          }
+        ],
+        "search history": [
+          "Fast food near workplace",
+          "Cheap lunch",
+          "Healthy quick meals"
+        ]
+      },
+      "desserts/drinks/snacks": {
+        "frequently purchased categories": [
+          "Beverage Shops (Average 18 yuan)",
+          "Bread and Desserts (Average 25 yuan)",
+          "Other Food/Fresh Fruits (Average 15 yuan)"
+        ],
+        "preferred average price per person": "15~30 yuan",
+        "preferred store rating": "3.8~4.5 stars",
+        "typical dining time": "15:00-16:30",
+        "preferred distance": "0~300m",
+        "recent orders": [
+          {
+            "store": "Yidiandian",
+            "product": "Cheese Berry Berry (Caffeine-free)"
+          },
+          {
+            "store": "Bread Talk",
+            "product": "Whole Wheat Toast + Fruit Tart"
+          },
+          {
+            "store": "Xian Feng Fruits",
+            "product": "Selected Fruit Platter"
+          }
+        ],
+        "search history": [
+          "Caffeine-free drinks",
+          "Low-sugar desserts",
+          "Healthy snacks"
+        ]
+      }
+    },
+    "other in-store services": {
+      "frequently consumed categories": {
+        "Sports Fitness/Fitness Center": "40%",
+        "Sports Fitness/Ball Sports": "35%",
+        "Leisure Entertainment/Murder Mystery Games": "15%",
+        "Leisure Entertainment/Massage/Foot Massage": "10%"
+      },
+      "cost per order by category": {
+        "Sports Fitness/Fitness Center": "80~150 yuan",
+        "Sports Fitness/Ball Sports": "40~80 yuan",
+        "Leisure Entertainment/Murder Mystery Games": "70~120 yuan",
+        "Leisure Entertainment/Massage/Foot Massage": "120~180 yuan"
+      },
+      "preferred store rating": "4.0~4.7 stars",
+      "preferred service time": "19:00-21:30",
+      "preferred distance": "0~3000m",
+      "recent orders": [
+        {
+          "store": "Yue Xia Cafe",
+          "product": "Americano + Snacks"
+        },
+        {
+          "store": "Yu Dong Badminton Court",
+          "product": "Two-person Court for 2 Hours"
+        },
+        {
+          "store": "Stress Relief Space Foot Massage",
+          "product": "Full Body Massage Package"
+        }
+      ],
+      "search history": [
+        "Tea house",
+        "Murder mystery games for couples",
+        "Badminton court",
+        "Nearby massage shops"
+      ]
+    }
+  },
+  "stores": {},
+  "orders": {}
+}

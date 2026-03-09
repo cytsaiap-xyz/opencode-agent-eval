@@ -1,0 +1,462 @@
+{
+  "task_id": "90721003",
+  "domain": "delivery",
+  "time": "2025-10-17 10:58:27",
+  "user_id": "U000100",
+  "weather": [
+    {
+      "city": "Chongqing City",
+      "category": "rainy",
+      "datetime": "2025-10-17",
+      "temperature": [
+        16,
+        22
+      ],
+      "humidity": 80
+    }
+  ],
+  "location": [
+    {
+      "address": "Chongqing Civil Affairs Bureau, No.489 Min'an Avenue, Yubei District, Chongqing City",
+      "longitude": 106.532068,
+      "latitude": 29.603527
+    },
+    {
+      "address": "Cuihu Paradise Walk Phase 2, 120 meters west of the intersection of Huasheng Road and Jiabo Road, Yuzhong District, Chongqing City",
+      "longitude": 106.512755,
+      "latitude": 29.551069
+    }
+  ],
+  "user_profile": {
+    "user id": "U000100",
+    "occupation": "Civil servant",
+    "gender": "female",
+    "age group": "45~50",
+    "residence": "Chongqing",
+    "home address": "Cuihu Paradise Walk Phase 2, 120 meters west of the intersection of Huasheng Road and Jiabo Road, Yuzhong District, Chongqing City",
+    "work address": "Chongqing Civil Affairs Bureau, No.489 Min'an Avenue, Yubei District, Chongqing City",
+    "dietary restrictions": "No fried food, no coffee",
+    "family status": "Has children",
+    "personality": "Impatient, frequently urges others, lacks patience to wait through processes"
+  },
+  "user_historical_behaviors": {
+    "user id": "U000100",
+    "occupation": "Civil servant",
+    "gender": "female",
+    "age group": "45~50",
+    "residence": "Chongqing",
+    "home address": "Cuihu Paradise Walk Phase 2, 120 meters west of the intersection of Huasheng Road and Jiabo Road, Yuzhong District, Chongqing City",
+    "work address": "Chongqing Civil Affairs Bureau, No.489 Min'an Avenue, Yubei District, Chongqing City",
+    "breakfast": {
+      "frequently purchased categories": [
+        "Quick meals/Steamed buns/Pan-fried buns (average 18 yuan)",
+        "Quick meals/Light food (average 28 yuan)",
+        "Quick meals/Porridge (average 20 yuan)"
+      ],
+      "cost per order": "15~35 yuan",
+      "preferred store rating": "4.2~4.8 stars",
+      "preferred delivery time": "15~30 minutes",
+      "preferred distance": "0~2500m",
+      "recent orders": [
+        {
+          "store": "Fresh Pan-fried Buns",
+          "product": "Traditional pork pan-fried buns + Eight-treasure health porridge"
+        },
+        {
+          "store": "Salad Diary",
+          "product": "Light fruit salad + Whole wheat bread"
+        },
+        {
+          "store": "Seven Early Eight Early",
+          "product": "Purple sweet potato rice paste + Longan and red date porridge"
+        }
+      ],
+      "search history": [
+        "Low-fat breakfast",
+        "Health porridge",
+        "Fruit salad",
+        "Oil-free breakfast",
+        "Whole wheat bread"
+      ]
+    },
+    "weekday lunch/dinner": {
+      "frequently purchased categories": [
+        "Quick meals/Small dishes/Small portions (average 35 yuan)",
+        "Chinese cuisine/Sichuan cuisine (average 50 yuan)",
+        "International flavors/Stone pot bibimbap (average 40 yuan)"
+      ],
+      "cost per order": "25~60 yuan",
+      "preferred store rating": "4.3~5.0 stars",
+      "preferred delivery time": "20~70 minutes",
+      "preferred distance": "0~7500m",
+      "recent orders": [
+        {
+          "store": "People's Commune Local Specialty",
+          "product": "Dry pot ribs + Two servings of rice + One portion of seasonal vegetables"
+        },
+        {
+          "store": "West Sichuan Basin",
+          "product": "Boiled fish fillets (mild spicy) + Garlic-flavored pork slices"
+        },
+        {
+          "store": "Korean Stone Pot Rice",
+          "product": "Healthy vegetable stone pot bibimbap + Seaweed soup"
+        }
+      ],
+      "search history": [
+        "Sichuan cuisine",
+        "Korean stone pot rice",
+        "Small portion dishes"
+      ]
+    },
+    "weekend lunch/dinner": {
+      "frequently purchased categories": [
+        "Chinese cuisine/Cantonese cuisine (average 90 yuan)",
+        "Hot pot/Individual hot pot (average 80 yuan)",
+        "International flavors/Pasta (average 75 yuan)"
+      ],
+      "cost per order": "60~150 yuan",
+      "preferred store rating": "4.5~5.0 stars",
+      "preferred delivery time": "25~45 minutes",
+      "preferred distance": "0~4500m",
+      "recent orders": [
+        {
+          "store": "Cantonese Flavor House",
+          "product": "White cut chicken + Steamed egg with shrimp + Choy sum + Jasmine rice"
+        },
+        {
+          "store": "Fine Time Beautiful Pot",
+          "product": "Tomato mushroom pot + Tofu + Duck blood + Fresh vegetable set"
+        },
+        {
+          "store": "Italian Walk",
+          "product": "Tomato mushroom pasta + Roasted vegetable salad"
+        }
+      ],
+      "search history": [
+        "Family-friendly restaurant",
+        "Family meal set",
+        "Healthy hot pot",
+        "Kids' meal set"
+      ]
+    },
+    "desserts/drinks/snacks": {
+      "frequently purchased categories": [
+        "Drinks and desserts/Juice (average 26 yuan)",
+        "Drinks and desserts/Pure tea/Herbal tea (average 22 yuan)",
+        "Drinks and desserts/Fruit bowl (average 35 yuan)"
+      ],
+      "cost per order": "15~45 yuan",
+      "preferred store rating": "4.4~5.0 stars",
+      "preferred delivery time": "15~70 minutes",
+      "preferred distance": "0~5000m",
+      "recent orders": [
+        {
+          "store": "First Tea Flower Moon (Darongcheng Branch)",
+          "product": "Osmanthus Oolong - Max version"
+        },
+        {
+          "store": "Tea Looks",
+          "product": "Jasmine tea + Rose tea"
+        },
+        {
+          "store": "Fruit Mix",
+          "product": "Colorful fruit mix + Yogurt"
+        }
+      ],
+      "search history": [
+        "Caffeine-free drinks",
+        "Herbal tea",
+        "Fruit tea",
+        "Low-sugar desserts"
+      ]
+    },
+    "night snack": {
+      "frequently purchased categories": [
+        "Quick meals/Rice noodles/Rice vermicelli (average 35 yuan)",
+        "Snacks and braised food/Braised items (average 40 yuan)",
+        "Hot pot/Clay pot porridge (average 38 yuan)"
+      ],
+      "cost per order": "20~50 yuan",
+      "preferred store rating": "4.2~4.8 stars",
+      "preferred delivery time": "20~40 minutes",
+      "preferred distance": "0~3000m",
+      "recent orders": [
+        {
+          "store": "Yunnan Crossing Bridge Rice Noodles",
+          "product": "Clear broth chicken rice noodles + Cucumber salad"
+        },
+        {
+          "store": "Old Street Braised Food",
+          "product": "Braised chicken wings + Braised tofu + Five-spice egg"
+        },
+        {
+          "store": "Health Clay Pot Porridge",
+          "product": "Preserved egg and lean pork porridge + Assorted small dishes"
+        }
+      ],
+      "search history": [
+        "Non-greasy night snack",
+        "Stomach-friendly porridge",
+        "Light night snack",
+        "No fried food",
+        "Clay pot porridge"
+      ]
+    }
+  },
+  "stores": {
+    "S30850685469731172_S36097": {
+      "name": "Ding Jia Po Potato National Flagship Store",
+      "store_id": "S30850685469731172_S36097",
+      "score": 4.8,
+      "location": {
+        "address": "Ding Jia Po Potato (Guanyinqiao Food Street Zone A Main Store), F3 Floor, Xing Tian Plaza, No.59 East Ring Road, Guanyinqiao, Jiangbei District, Chongqing City",
+        "latitude": 29.576128,
+        "longitude": 106.533624
+      },
+      "tags": [],
+      "products": [
+        {
+          "name": "Rich and Soft\" Mashed Potato (Small Portion)",
+          "product_id": "S21506093879054601_P76267",
+          "store_id": "S30850685469731172_S36097",
+          "store_name": "Ding Jia Po Potato National Flagship Store",
+          "price": 12.9,
+          "tags": [],
+          "attributes": [],
+          "quantity": 9999
+        },
+        {
+          "name": "Putao Well Cold Jelly",
+          "product_id": "S93547843667417090_P83816",
+          "store_id": "S30850685469731172_S36097",
+          "store_name": "Ding Jia Po Potato National Flagship Store",
+          "price": 7,
+          "tags": [
+            "Delicate Texture"
+          ],
+          "attributes": [],
+          "quantity": 9999
+        },
+        {
+          "name": "The jagged potatoes and potato slices are crispy, not raw!",
+          "product_id": "S26425446816165610_P76672",
+          "store_id": "S30850685469731172_S36097",
+          "store_name": "Ding Jia Po Potato National Flagship Store",
+          "price": 0,
+          "tags": [],
+          "attributes": [],
+          "quantity": 9999
+        },
+        {
+          "name": "Spicy and Crispy\" Iron Plate Jagged Potato (Small Portion)",
+          "product_id": "S69866243872481836_P07338",
+          "store_id": "S30850685469731172_S36097",
+          "store_name": "Ding Jia Po Potato National Flagship Store",
+          "price": 12.9,
+          "tags": [],
+          "attributes": [],
+          "quantity": 9999
+        }
+      ]
+    },
+    "S33996772983601674_S77584": {
+      "name": "Si Lian Rice Wrapper Roll (Chongqing Longhu Branch)",
+      "store_id": "S33996772983601674_S77584",
+      "score": 5,
+      "location": {
+        "address": "Si Lian Red Soup Rice Wrapper Roll (Longhu Chongqing Times Paradise Walk Hall C Branch), L4, Hall C, Longhu Times Paradise Walk, Yuzhong District, Chongqing City",
+        "latitude": 29.535678,
+        "longitude": 106.512733
+      },
+      "tags": [],
+      "products": [
+        {
+          "name": "Si Lian Classic Sour Soup Rice Wrapper Roll (Includes two layers of side dishes, wrapper, one serving of sour soup and condiments)",
+          "product_id": "S27620400204289599_P20660",
+          "store_id": "S33996772983601674_S77584",
+          "store_name": "Si Lian Rice Wrapper Roll (Chongqing Longhu Branch)",
+          "price": 22,
+          "tags": [
+            "Guizhou Specialty"
+          ],
+          "attributes": [],
+          "quantity": 9999
+        },
+        {
+          "name": "Bean Sprout and Crispy Pork Mince Fried Rice Solo Meal",
+          "product_id": "S28994832650068811_P61764",
+          "store_id": "S33996772983601674_S77584",
+          "store_name": "Si Lian Rice Wrapper Roll (Chongqing Longhu Branch)",
+          "price": 22.7,
+          "tags": [],
+          "attributes": [],
+          "quantity": 9999
+        }
+      ]
+    },
+    "S18153259721295821_S70391": {
+      "name": "No. 71 Bean Soup Rice (Chongqing Longhu Times Paradise Walk Branch)",
+      "store_id": "S18153259721295821_S70391",
+      "score": 5,
+      "location": {
+        "address": "No. 71 Bean Soup Rice • Chengdu Restaurant, Longhu Times Starry (430 meters walk from Shiyou Road Metro Station Exit 1B), Yuzhong District, Chongqing City",
+        "latitude": 29.537742,
+        "longitude": 106.511452
+      },
+      "tags": [],
+      "products": [
+        {
+          "name": "Clay Pot Crispy Pork with Three Fresh Ingredients Bean Soup Rice",
+          "product_id": "S17046537634653466_P30684",
+          "store_id": "S18153259721295821_S70391",
+          "store_name": "No. 71 Bean Soup Rice (Chongqing Longhu Times Paradise Walk Branch)",
+          "price": 17.9,
+          "tags": [],
+          "attributes": [],
+          "quantity": 9999
+        },
+        {
+          "name": "One Braised Egg",
+          "product_id": "S12674226154717622_P79085",
+          "store_id": "S18153259721295821_S70391",
+          "store_name": "No. 71 Bean Soup Rice (Chongqing Longhu Times Paradise Walk Branch)",
+          "price": 2.5,
+          "tags": [],
+          "attributes": [],
+          "quantity": 9999
+        },
+        {
+          "name": "Signature 🔥 Clay Pot Original Bean Soup Rice",
+          "product_id": "S19190075981589183_P50469",
+          "store_id": "S18153259721295821_S70391",
+          "store_name": "No. 71 Bean Soup Rice (Chongqing Longhu Times Paradise Walk Branch)",
+          "price": 15.9,
+          "tags": [],
+          "attributes": [],
+          "quantity": 9999
+        }
+      ]
+    },
+    "S14002442741273382_S35160": {
+      "name": "Si Lian Rice Wrapper Roll (Huaguoyuan Branch)",
+      "store_id": "S14002442741273382_S35160",
+      "score": 4.8,
+      "location": {
+        "address": "Si Lian Rice Wrapper Roll (Huaguoyuan Shopping Center Branch), 1st Floor Food Court, Huaguoyuan Shopping Center, No.1 Huaguoyuan Street, Nanming District, Guiyang City, Guizhou Province",
+        "latitude": 26.568752,
+        "longitude": 106.689193
+      },
+      "tags": [],
+      "products": [
+        {
+          "name": "Si Lian Classic Sour Soup Rice Wrapper Roll (Includes two layers of side dishes, wrapper, one serving of sour soup and condiments)",
+          "product_id": "S49740973426415524_P47523",
+          "store_id": "S14002442741273382_S35160",
+          "store_name": "Si Lian Rice Wrapper Roll (Huaguoyuan Branch)",
+          "price": 20,
+          "tags": [],
+          "attributes": [],
+          "quantity": 9999
+        }
+      ]
+    },
+    "S54227471541274247_S48219": {
+      "name": "Yungui Twelve Peaks Yunnan-Guizhou-Sichuan Cuisine Purchasing Service (Haiyun Mingdi Branch)",
+      "store_id": "S54227471541274247_S48219",
+      "score": 4.2,
+      "location": {
+        "address": "Next to the East Gate of Haiyun Mingdi, 60 meters southeast of the intersection of Yanghe Middle Road and Xinglong Road, Jiangbei District, Chongqing City",
+        "latitude": 29.582514,
+        "longitude": 106.540119
+      },
+      "tags": [],
+      "products": [
+        {
+          "name": "Black Triple Minced Toppings with Rice Wrapper Pancake",
+          "product_id": "S30787035030692850_P96865",
+          "store_id": "S54227471541274247_S48219",
+          "store_name": "Yungui Twelve Peaks Yunnan-Guizhou-Sichuan Cuisine Purchasing Service (Haiyun Mingdi Branch)",
+          "price": 46.4,
+          "tags": [],
+          "attributes": [],
+          "quantity": 9999
+        }
+      ]
+    },
+    "S10191085095725493_S13140": {
+      "name": "No. 71 Bean Soup Rice (Chongqing Caixin Yuzhong City Branch)",
+      "store_id": "S10191085095725493_S13140",
+      "score": 4.9,
+      "location": {
+        "address": "No. 71 Bean Soup Rice • Chengdu Restaurant (Chongqing Caixin Yuzhong City Branch), Unit 22, 2nd Floor, Building 2, Caixin Yuzhong City (Above Baoma Time), Yuzhong District, Chongqing City",
+        "latitude": 29.555972,
+        "longitude": 106.566373
+      },
+      "tags": [],
+      "products": [
+        {
+          "name": "Crispy Pork with Three Fresh Ingredients Original Bean Soup Rice",
+          "product_id": "S31329029041298549_P84616",
+          "store_id": "S10191085095725493_S13140",
+          "store_name": "No. 71 Bean Soup Rice (Chongqing Caixin Yuzhong City Branch)",
+          "price": 22.9,
+          "tags": [],
+          "attributes": [],
+          "quantity": 9999
+        },
+        {
+          "name": "Hot and Sour Tripe Strips with Golden Soup Rice",
+          "product_id": "S48126782096284052_P59634",
+          "store_id": "S10191085095725493_S13140",
+          "store_name": "No. 71 Bean Soup Rice (Chongqing Caixin Yuzhong City Branch)",
+          "price": 18.9,
+          "tags": [],
+          "attributes": [],
+          "quantity": 9999
+        }
+      ]
+    }
+  },
+  "orders": {
+    "90721003O01": {
+      "order_id": "90721003O01",
+      "order_type": "delivery",
+      "user_id": "U000100",
+      "store_id": "S30850685469731172_S36097",
+      "note": "",
+      "location": {
+        "address": "Chongqing Civil Affairs Bureau, No.489 Min'an Avenue, Yubei District, Chongqing City",
+        "longitude": 106.532068,
+        "latitude": 29.603527
+      },
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 19.9,
+      "create_time": "2025-10-17 10:55:00",
+      "update_time": "2025-10-17 10:55:00",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S26425446816165610_P76672",
+          "price": 0,
+          "quantity": 1,
+          "attributes": ""
+        },
+        {
+          "product_id": "S93547843667417090_P83816",
+          "price": 7,
+          "quantity": 1,
+          "attributes": ""
+        },
+        {
+          "product_id": "S21506093879054601_P76267",
+          "price": 12.9,
+          "quantity": 1,
+          "attributes": "with fish mint herb"
+        }
+      ]
+    }
+  }
+}

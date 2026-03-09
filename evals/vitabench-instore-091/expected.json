@@ -1,0 +1,61 @@
+{
+  "required_orders": [
+    {
+      "order_id": "10826310T001",
+      "order_type": "instore",
+      "user_id": "U996108",
+      "store_id": "S17567844803061272_I00001",
+      "note": "",
+      "location": null,
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 419,
+      "create_time": "2025-12-15 21:39:18",
+      "update_time": "2025-12-15 21:39:18",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17567844803061272_P00001",
+          "name": "Thai Classic Five-person Set (with Tom Yum Soup)",
+          "price": 419,
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "book_id": "10826310T002",
+      "shop_id": "S17567844803061272_I00001",
+      "book_time": "2025-12-16 19:00:00",
+      "update_time": "2025-12-15 21:41:28",
+      "customer_id": "U996108",
+      "customer_count": 5,
+      "book_price": 50,
+      "status": "paid"
+    },
+    {
+      "reservation_id": "10826310T003",
+      "shop_id": "S17567844803061272_I00006",
+      "reservation_time": "2025-12-16 22:00:00",
+      "update_time": "2025-12-15 21:43:52",
+      "customer_id": "U996108",
+      "customer_count": 5,
+      "status": "unpaid"
+    }
+  ],
+  "rubrics": [
+    "The price of items in the restaurant order should be within 450 yuan (inclusive)",
+    "The restaurant ordered from should be a Southeast Asian restaurant",
+    "The ordered restaurant must have a rating of 4.3 or above",
+    "The set menu in the restaurant order must include Tom Yum Soup",
+    "The order from the Southeast Asian restaurant should be a five-person meal, not multiple single-person sets",
+    "The reserved restaurant should be Thai Garden Restaurant",
+    "The restaurant reservation time should be 19:00:00 on 2025-12-16",
+    "The number of people for the restaurant reservation should be 5",
+    "The distance from the reserved bar to the Garden Night Market should be within 1km (inclusive)",
+    "The reserved bar should be a Music Bar",
+    "The reserved bar should specialize in Specialty Cocktail",
+    "Dinner ends at 8:30, followed by an hour and a half of street strolling, so the bar reservation time should be 22:00:00 on 2025-12-16",
+    "The number of people for the bar reservation should be 5"
+  ]
+}

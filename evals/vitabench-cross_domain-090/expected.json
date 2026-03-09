@@ -1,0 +1,104 @@
+{
+  "required_orders": [
+    {
+      "order_id": "S17550942219808099_O00001",
+      "order_type": "delivery",
+      "user_id": "U654077",
+      "store_id": "S17550942219808099_S00001",
+      "note": "",
+      "location": {
+        "address": "Unit 2201, Building 8, Sunshine 100 Community, 235 Xiaoxiang Middle Road, Yuelu District, Changsha, Hunan Province",
+        "longitude": 112.945214,
+        "latitude": 28.192436
+      },
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 42.8,
+      "create_time": "2026-05-14 09:35:12",
+      "update_time": "2026-05-14 09:35:12",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17550942219808099_P00001",
+          "price": 42.8,
+          "quantity": 1,
+          "attributes": "No staple food, more roasted fruits and vegetables"
+        }
+      ]
+    },
+    {
+      "order_id": "S17550942219808099_O00006",
+      "order_type": "hotel",
+      "user_id": "U654077",
+      "store_id": "S17550942219808099_H00007",
+      "note": "",
+      "location": {
+        "address": "Shanshui Resort Hotel, Moon Island, Wangcheng District, Changsha, Hunan Province",
+        "longitude": 112.789,
+        "latitude": 28.3625
+      },
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 880,
+      "create_time": "2026-05-14 09:39:15",
+      "update_time": "2026-05-14 09:39:15",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17550942219808099_P00048",
+          "price": 880,
+          "quantity": 1,
+          "date": "2026-06-13",
+          "room_type": "Deluxe SPA Suite (with Jacuzzi)"
+        }
+      ]
+    },
+    {
+      "order_id": "S17550942219808099_O00011",
+      "order_type": "instore",
+      "user_id": "U654077",
+      "store_id": "S17550942219808099_I00012",
+      "note": "",
+      "location": null,
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 398,
+      "create_time": "2026-05-14 09:45:10",
+      "update_time": "2026-05-14 09:45:10",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17550942219808099_P00083",
+          "name": "Single Person Buffet Special",
+          "price": 398,
+          "shop_id": "S17550942219808099_I00012",
+          "tags": [
+            "Available at Night",
+            "3-Hour Time Limit",
+            "200+ Dishes"
+          ],
+          "quantity": 1
+        }
+      ]
+    }
+  ],
+  "rubrics": [
+    "The food delivery should be healthy nutrition meals",
+    "The food delivery order for nutrition meals should be from restaurants with physical stores",
+    "The nutrition meal ordered should be Low Carb",
+    "The nutrition meal ordered should have High Satiety",
+    "The delivery address for the nutrition meal should be Unit 2201, Building 8, Sunshine 100 Community, 235 Xiaoxiang Middle Road, Yuelu District, Changsha, Hunan Province",
+    "The estimated delivery time for the nutrition meal should be around 2026-05-14 11:00 [meaning the delivery time should be between 10:45 and 11:15]",
+    "The hotel ordered should be more than 30 kilometers away from Unit 2201, Building 8, Sunshine 100 Community, 235 Xiaoxiang Middle Road, Yuelu District, Changsha, Hunan Province",
+    "The room ordered should be equipped with Jacuzzi",
+    "The hotel check-in date should be 2026-06-13",
+    "The in-store restaurant should be a BBQ restaurant",
+    "The in-store restaurant's rating should be greater than or equal to 4.2",
+    "The price of the ordered items at the in-store restaurant should be less than or equal to 400 yuan",
+    "The dishes ordered at the in-store restaurant should be diverse",
+    "The items ordered at the in-store restaurant should be Available at Night"
+  ]
+}

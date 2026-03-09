@@ -1,0 +1,103 @@
+{
+  "required_orders": [
+    {
+      "order_id": "70806004T001",
+      "order_type": "train",
+      "user_id": "U010016",
+      "store_id": "S17557512487369621_T00012",
+      "note": "",
+      "location": null,
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 832,
+      "create_time": "2025-03-16 09:14:26",
+      "update_time": "2025-03-16 09:14:26",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17557512487369621_P00086",
+          "price": 118,
+          "quantity": 2,
+          "date": "2025-03-22",
+          "seat_type": "Second-class seat"
+        },
+        {
+          "product_id": "S17557512487369621_P00090",
+          "price": 298,
+          "quantity": 2,
+          "date": "2025-03-22",
+          "seat_type": "Business-class seat"
+        }
+      ]
+    },
+    {
+      "order_id": "70806004T002",
+      "order_type": "attraction",
+      "user_id": "U010016",
+      "store_id": "S17557512487369621_A00005",
+      "note": "",
+      "location": null,
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 40,
+      "create_time": "2025-03-16 09:17:26",
+      "update_time": "2025-03-16 09:17:26",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17557512487369621_P00032",
+          "price": 10,
+          "quantity": 4,
+          "date": "2025-03-22",
+          "ticket_type": "Adult ticket"
+        }
+      ]
+    },
+    {
+      "order_id": "70806004T003",
+      "order_type": "attraction",
+      "user_id": "U010016",
+      "store_id": "S17557512487369621_A00006",
+      "note": "",
+      "location": null,
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 60,
+      "create_time": "2025-03-16 09:19:26",
+      "update_time": "2025-03-16 09:19:26",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17557512487369621_P00043",
+          "price": 20,
+          "quantity": 2,
+          "date": "2025-03-23",
+          "ticket_type": "Adult ticket"
+        },
+        {
+          "product_id": "S17557512487369621_P00045",
+          "price": 10,
+          "quantity": 2,
+          "date": "2025-03-23",
+          "ticket_type": "Senior ticket (60 years and above)"
+        }
+      ]
+    }
+  ],
+  "rubrics": [
+    "Train number should be D3115",
+    "Train departure date should be March 22, 2025",
+    "Train tickets should include 2 Second-class seats",
+    "Train tickets should include 2 Business-class seats",
+    "Day 1 attraction should be Pingtan Beach",
+    "Day 1 attraction ticket usage date should be March 22, 2025",
+    "Day 1 attraction ticket quantity should be 4",
+    "Day 2 attraction should be Three Lanes and Seven Alleys",
+    "Day 2 attraction ticket usage date should be March 23, 2025",
+    "Day 2 attraction tickets should include 2 Adult tickets",
+    "Day 2 attraction tickets should include 2 Senior tickets"
+  ]
+}

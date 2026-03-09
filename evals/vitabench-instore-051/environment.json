@@ -1,0 +1,207 @@
+{
+  "task_id": "10826131",
+  "domain": "instore",
+  "time": "2024-02-19 11:55:00",
+  "user_id": "U199743",
+  "weather": [
+    {
+      "city": "Changzhou",
+      "category": "cloudy",
+      "datetime": "2024-02-19",
+      "temperature": [
+        6,
+        12
+      ],
+      "humidity": 58
+    }
+  ],
+  "location": [
+    {
+      "address": "Room 1203, Building B, Wanda Plaza, 28 Taihu Middle Road, Xinbei District, Changzhou, Jiangsu Province",
+      "longitude": 119.974061,
+      "latitude": 31.815199
+    },
+    {
+      "address": "5th Floor, Building C, Changzhou Technology Park, 88 Changhong East Road, Wujin District, Changzhou, Jiangsu Province",
+      "longitude": 119.953634,
+      "latitude": 31.702321
+    }
+  ],
+  "user_profile": {
+    "user id": "U199743",
+    "occupation": "Algorithm Engineer",
+    "gender": "male",
+    "age group": "30~35",
+    "residence": "Changzhou",
+    "home address": "Room 1203, Building B, Wanda Plaza, 28 Taihu Middle Road, Xinbei District, Changzhou, Jiangsu Province",
+    "work address": "5th Floor, Building C, Changzhou Technology Park, 88 Changhong East Road, Wujin District, Changzhou, Jiangsu Province",
+    "dietary restrictions": "No caffeine, No high-fat offal",
+    "family status": "In a relationship",
+    "personality": "Impatient, frequently hurries things along, lacks patience for processes"
+  },
+  "user_historical_behaviors": {
+    "user id": "U199743",
+    "occupation": "Algorithm Engineer",
+    "gender": "male",
+    "age group": "30~35",
+    "residence": "Changzhou",
+    "home address": "Room 1203, Building B, Wanda Plaza, 28 Taihu Middle Road, Xinbei District, Changzhou, Jiangsu Province",
+    "work address": "5th Floor, Building C, Changzhou Technology Park, 88 Changhong East Road, Wujin District, Changzhou, Jiangsu Province",
+    "in-store dining": {
+      "fine-dining": {
+        "frequently purchased categories": [
+          "Regional Cuisine/Sichuan Cuisine (Average ¥95)",
+          "Foreign Cuisine/Japanese Food (Average ¥120)",
+          "Hot Pot (Average ¥110)"
+        ],
+        "preferred average price per person": "¥90~150",
+        "preferred store rating": "4.2~4.8 stars",
+        "typical dining time": "18:30-20:30",
+        "preferred distance": "500~2000m",
+        "recent orders": [
+          {
+            "store": "Shu Xiang Yuan",
+            "product": "Boiled Fish + Twice-Cooked Pork + Shredded Potato with Green Pepper"
+          },
+          {
+            "store": "Lugang Small Town",
+            "product": "Taiwanese Braised Pork Rice Set"
+          },
+          {
+            "store": "Hana Japanese Restaurant",
+            "product": "Sashimi Platter + Salmon Sushi"
+          }
+        ],
+        "search history": [
+          "Japanese food",
+          "Sichuan restaurant",
+          "Date night restaurant",
+          "Caffeine-free"
+        ]
+      },
+      "light meal": {
+        "frequently purchased categories": [
+          "Fast Food/Chinese Simple Meal (Average ¥35)",
+          "Fast Food/Western Fast Food (Average ¥40)",
+          "Regional Cuisine/Northeastern Cuisine (Average ¥45)"
+        ],
+        "preferred average price per person": "¥25~50",
+        "preferred store rating": "3.5~4.3 stars",
+        "typical dining time": "11:30-13:00",
+        "preferred distance": "0~500m",
+        "recent orders": [
+          {
+            "store": "Jixiang Wonton",
+            "product": "Mixed Wonton + Braised Egg"
+          },
+          {
+            "store": "Sha County Snacks",
+            "product": "Flat Meat Noodles + Steamed Buns"
+          },
+          {
+            "store": "Old Neighbor Spicy Hot Pot",
+            "product": "Spicy Hot Pot Set"
+          }
+        ],
+        "search history": [
+          "Fast food near work area",
+          "Cheap lunch",
+          "Healthy simple meal"
+        ]
+      },
+      "desserts/drinks/snacks": {
+        "frequently purchased categories": [
+          "Beverage Shops (Average ¥18)",
+          "Bread and Desserts (Average ¥25)",
+          "Other Dining/Fruits (Average ¥15)"
+        ],
+        "preferred average price per person": "¥15~30",
+        "preferred store rating": "3.8~4.5 stars",
+        "typical dining time": "15:00-16:30",
+        "preferred distance": "0~300m",
+        "recent orders": [
+          {
+            "store": "Yi Dian Dian",
+            "product": "Cheese Strawberry Tea (Caffeine-free)"
+          },
+          {
+            "store": "Bread Talk",
+            "product": "Whole wheat toast + Classic fruit tart"
+          },
+          {
+            "store": "Xianfeng Fruits",
+            "product": "Selected Fruit Platter"
+          }
+        ],
+        "search history": [
+          "Caffeine-free drinks",
+          "Low sugar desserts",
+          "Healthy snacks"
+        ]
+      }
+    },
+    "other in-store services": {
+      "frequently consumed categories": {
+        "Sports and Fitness/Fitness Center": "40%",
+        "Sports and Fitness/Ball Sports": "35%",
+        "Entertainment/Murder Mystery": "15%",
+        "Entertainment/Massage/Foot Massage": "10%"
+      },
+      "cost per order by category": {
+        "Sports and Fitness/Fitness Center": "¥80~150",
+        "Sports and Fitness/Ball Sports": "¥40~80",
+        "Entertainment/Murder Mystery": "¥70~120",
+        "Entertainment/Massage/Foot Massage": "¥120~180"
+      },
+      "preferred store rating": "4.0~4.7 stars",
+      "preferred service time": "19:00-21:30",
+      "preferred distance": "0~3000m",
+      "recent orders": [
+        {
+          "store": "Changzhou Fitness Factory",
+          "product": "Single-person Monthly Fitness Card"
+        },
+        {
+          "store": "Yudong Badminton Court",
+          "product": "Double Court 2 hours"
+        },
+        {
+          "store": "Decompression Space Foot Massage",
+          "product": "Full Body Massage Package"
+        }
+      ],
+      "search history": [
+        "Changzhou gym",
+        "Couples murder mystery",
+        "Badminton court",
+        "Nearby massage shop"
+      ]
+    }
+  },
+  "stores": {},
+  "orders": {
+    "10826131T001": {
+      "order_id": "10826131T001",
+      "order_type": "instore",
+      "user_id": "U199743",
+      "store_id": "S17567836572324193_I00002",
+      "note": "",
+      "location": null,
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 35,
+      "order_time": "2024-02-17 17:23:00",
+      "update_time": "2024-02-17 17:23:00",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17567836572324193_P00016",
+          "name": "Whole wheat toast + Classic fruit tart",
+          "price": 35,
+          "quantity": 1
+        }
+      ]
+    }
+  }
+}

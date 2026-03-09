@@ -1,0 +1,105 @@
+{
+  "required_orders": [
+    {
+      "order_id": "D0716002T01",
+      "order_type": "delivery",
+      "user_id": "U000050",
+      "store_id": "S19558514638634850_S98323",
+      "note": "",
+      "location": {
+        "address": "Building B, Modern Mansion, No. 288 Zhongxing Middle Road, Yuecheng District, Shaoxing City, Zhejiang Province",
+        "longitude": 120.587092,
+        "latitude": 30.00234
+      },
+      "dispatch_time": "2025-11-14 17:42:00",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 34.8,
+      "create_time": "2025-11-14 17:29:00",
+      "update_time": "2025-11-14 17:29:00",
+      "status": "in-progress",
+      "products": [
+        {
+          "product_id": "S16531267916494013_P41389",
+          "price": 34.8,
+          "quantity": 1,
+          "attributes": ""
+        }
+      ]
+    },
+    {
+      "order_id": "D0716002T02",
+      "order_type": "delivery",
+      "user_id": "U000050",
+      "store_id": "S27032620835559200_S43409",
+      "note": "No green onions and cilantro.",
+      "location": {
+        "address": "Longzhu Phase 2, 80 meters south of the intersection of Chaoyang Road and Jinghu Road, Yuecheng District, Shaoxing City, Zhejiang Province",
+        "longitude": 120.581902,
+        "latitude": 29.970817
+      },
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 91.84,
+      "create_time": "2025-11-14 17:30:00",
+      "update_time": "2025-11-14 17:30:00",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S43147040061896655_P35449",
+          "price": 23.04,
+          "quantity": 1,
+          "attributes": ""
+        },
+        {
+          "product_id": "S20719091317601263_P08018",
+          "price": 68.8,
+          "quantity": 1,
+          "attributes": ""
+        }
+      ]
+    },
+    {
+      "order_id": "D0716002T03",
+      "order_type": "delivery",
+      "user_id": "U000050",
+      "store_id": "S10109637620918345_S64872",
+      "note": "No green onions and cilantro.",
+      "location": {
+        "address": "Longzhu Phase 2, 80 meters south of the intersection of Chaoyang Road and Jinghu Road, Yuecheng District, Shaoxing City, Zhejiang Province",
+        "longitude": 120.581902,
+        "latitude": 29.970817
+      },
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 18.9,
+      "create_time": "2025-11-14 17:33:00",
+      "update_time": "2025-11-14 17:33:00",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S13165353078973956_P18769",
+          "price": 18.9,
+          "quantity": 1,
+          "attributes": ""
+        }
+      ]
+    }
+  ],
+  "rubrics": [
+    "The delivery address for personal dinner order of crab roe noodles should be Building B, Modern Mansion, No. 288 Zhongxing Middle Road, Yuecheng District, Shaoxing City, Zhejiang Province",
+    "The delivery time for personal dinner crab roe noodles order should be around 2025-11-14 18:00:00",
+    "When choosing crab roe noodles for personal dinner, avoid very spicy flavors, choose mildly spicy or non-spicy options",
+    "The delivery address for family dinner should be Longzhu Phase 2, 80 meters south of the intersection of Chaoyang Road and Jinghu Road, Yuecheng District, Shaoxing City, Zhejiang Province",
+    "The delivery time for family dinner order should be before 2025-11-14 19:30:00",
+    "When choosing pumpkin and duck dishes for family, select restaurants that support dine-in service",
+    "The pumpkin dish in the family dinner order should be stir-fried with eggs rather than just steamed",
+    "The duck dish in the family dinner order should be braised with Sichuan peppercorns and be a half portion",
+    "The delivery address for family glutinous rice staple food order should be Longzhu Phase 2, 80 meters south of the intersection of Chaoyang Road and Jinghu Road, Yuecheng District, Shaoxing City, Zhejiang Province",
+    "The delivery time for family glutinous rice staple food order should be before 2025-11-14 19:30:00",
+    "When choosing glutinous rice staple food for family, select restaurants that provide dine-in service",
+    "The family glutinous rice staple food order needs a note of 'no green onions and cilantro' to accommodate children's taste preferences"
+  ]
+}

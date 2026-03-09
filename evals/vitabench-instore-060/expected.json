@@ -1,0 +1,98 @@
+{
+  "required_orders": [
+    {
+      "order_id": "10826107T001",
+      "order_type": "instore",
+      "user_id": "U949465",
+      "store_id": "S17567836638657808_I00001",
+      "note": "",
+      "location": null,
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 128,
+      "create_time": "2024-06-14 10:17:00",
+      "update_time": "2024-06-14 10:17:00",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17567836638657808_P00001",
+          "name": "Youth Basketball Experience Course",
+          "price": 128,
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "reservation_id": "10826107T002",
+      "shop_id": "S17567836638657808_I00001",
+      "reservation_time": "2024-06-15 14:30:00",
+      "update_time": "2024-06-14 10:19:00",
+      "customer_id": "U949465",
+      "customer_count": 1,
+      "status": "paid"
+    },
+    {
+      "order_id": "10826107T003",
+      "order_type": "instore",
+      "user_id": "U949465",
+      "store_id": "S17567836638657808_I00006",
+      "note": "",
+      "location": null,
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 138,
+      "create_time": "2024-06-13 18:13:22",
+      "update_time": "2024-06-14 10:21:00",
+      "status": "cancelled",
+      "products": [
+        {
+          "product_id": "S17567836638657808_P00046",
+          "name": "Classic Two-person Hot Pot Set",
+          "price": 138,
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "order_id": "10826107T004",
+      "order_type": "instore",
+      "user_id": "U949465",
+      "store_id": "S17567836638657808_I00003",
+      "note": "",
+      "location": null,
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 168,
+      "create_time": "2024-06-14 10:23:00",
+      "update_time": "2024-06-14 10:23:00",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17567836638657808_P00019",
+          "name": "West Lake Vinegar Fish Four-person Set",
+          "price": 168,
+          "quantity": 1
+        }
+      ]
+    }
+  ],
+  "rubrics": [
+    "The basketball training center order is for courses targeting youth under 12 years old (including 12 years old)",
+    "The basketball training center order is coached by Retired Basketball Coach",
+    "The basketball training center order is for Trial Class",
+    "The basketball training center order price should be below 200 yuan (including 200 yuan)",
+    "The reserved basketball training center should be Xinghua Basketball Training Camp",
+    "The reservation time for the basketball training center is 2024-06-15 14:30:00",
+    "The number of people for the basketball training center reservation is 1",
+    "The hot pot restaurant order status should be cancelled",
+    "The ordered restaurant is within 1km (including 1km) from Xinghua Basketball Training Camp, B1 Floor, Xixi Intime City, 551 Wener West Road, West Lake District, Hangzhou",
+    "The ordered restaurant provides Free Parking",
+    "The ordered restaurant specializes in Jiangsu and Zhejiang Cuisine",
+    "The restaurant order is for a Four-person Meal, not four individual set meals",
+    "The restaurant order must include Fish dishes",
+    "The restaurant order price should be within 200 yuan (including 200 yuan)"
+  ]
+}

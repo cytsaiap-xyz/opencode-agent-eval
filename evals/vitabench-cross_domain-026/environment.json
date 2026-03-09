@@ -1,0 +1,871 @@
+{
+  "task_id": "10811017",
+  "domain": "cross_domain",
+  "time": "2025-08-15 19:45:00",
+  "user_id": "U939772",
+  "weather": [
+    {
+      "city": "Jinan",
+      "category": "cloudy",
+      "datetime": "2025-08-15",
+      "temperature": [
+        26,
+        35
+      ],
+      "humidity": 66
+    },
+    {
+      "city": "Weihai",
+      "category": "cloudy",
+      "datetime": "2025-08-16",
+      "temperature": [
+        24,
+        30
+      ],
+      "humidity": 65
+    },
+    {
+      "city": "Weihai",
+      "category": "light rain",
+      "datetime": "2025-08-17",
+      "temperature": [
+        22,
+        28
+      ],
+      "humidity": 80
+    }
+  ],
+  "location": [
+    {
+      "address": "Room 1201, Unit 2, Building 5, Olympic Garden Residential Area, No.1 Olympic Center West Road, Lixia District, Jinan",
+      "longitude": 117.126,
+      "latitude": 36.6512
+    },
+    {
+      "address": "Haiyue Holiday Hotel, No.12 Qingdao North Road, Huancui District, Weihai",
+      "longitude": 122.1204,
+      "latitude": 37.5126
+    }
+  ],
+  "user_profile": {
+    "user id": "U939772",
+    "occupation": "Lawyer",
+    "gender": "male",
+    "age group": "35~40",
+    "residence": "Jinan",
+    "home address": "Room 1201, Unit 2, Building 5, Olympic Garden Residential Area, No.1 Olympic Center West Road, Lixia District, Jinan",
+    "work address": "Shandong Justice Law Firm, Room 1506, Tower A, Harmony Plaza, No.14000 Jingshi Road, Lixia District, Jinan",
+    "dietary restrictions": "No high-fat organ meats, no alcohol",
+    "family status": "Has children",
+    "personality": "Emotionally volatile, expresses with strong emotional coloring"
+  },
+  "user_historical_behaviors": {
+    "user id": "U939772",
+    "occupation": "lawyer",
+    "gender": "male",
+    "age group": "35~40",
+    "residence": "Jinan",
+    "home address": "Room 1201, Unit 2, Building 5, Olympic Garden Residential Area, No.1 Olympic Center West Road, Lixia District, Jinan",
+    "work address": "Shandong Justice Law Firm, Room 1506, Tower A, Harmony Plaza, No.14000 Jingshi Road, Lixia District, Jinan",
+    "delivery": {
+      "food delivery": {
+        "breakfast": {
+          "frequently purchased categories": [
+            "Quick meals/Steamed buns/Pan-fried buns (Average ¥18)",
+            "Quick meals/Jianbing/Wraps/Hand-held pancakes (Average ¥15)",
+            "Quick meals/Soy milk/Fried dough sticks (Average ¥12)"
+          ],
+          "cost per order": "¥12~30",
+          "preferred store rating": "4.3~4.8",
+          "preferred delivery time": "15~25 minutes",
+          "preferred distance": "0~1500m",
+          "recent orders": [
+            {
+              "store": "Lao Qian's Bun Shop",
+              "product": "Meat Bun + Soy Milk Set"
+            },
+            {
+              "store": "Tianjin Jianbing",
+              "product": "Original Jianbing"
+            },
+            {
+              "store": "Yonghe Soy Milk",
+              "product": "Fried Dough Stick and Soy Milk Set"
+            }
+          ],
+          "search history": [
+            "Steamed buns",
+            "Jianbing",
+            "Soy milk",
+            "Breakfast set",
+            "Porridge"
+          ]
+        },
+        "weekday lunch/dinner": {
+          "frequently purchased categories": [
+            "Quick meals/Stewed chicken with rice (Average ¥28)",
+            "Quick meals/Rice with toppings (Average ¥26)",
+            "Chinese cuisine/Lu cuisine (Average ¥45)"
+          ],
+          "cost per order": "¥25~60",
+          "preferred store rating": "4.2~4.7",
+          "preferred delivery time": "20~35 minutes",
+          "preferred distance": "0~3000m",
+          "recent orders": [
+            {
+              "store": "Authentic Stewed Chicken",
+              "product": "Mildly Spicy Stewed Chicken with Rice"
+            },
+            {
+              "store": "Lu Xiang Ge",
+              "product": "Stir-fried Lamb with Scallions + Rice"
+            },
+            {
+              "store": "Quick Rice Bowls",
+              "product": "Yu Xiang Pork Rice Bowl"
+            }
+          ],
+          "search history": [
+            "Stewed chicken",
+            "Rice with toppings",
+            "Fast food",
+            "Lu cuisine",
+            "Healthy meals"
+          ]
+        },
+        "weekend lunch/dinner": {
+          "frequently purchased categories": [
+            "Chinese cuisine/Lu cuisine (Average ¥88)",
+            "Hot pot/Skewer hot pot (Average ¥120)",
+            "International cuisine/Pizza (Average ¥95)"
+          ],
+          "cost per order": "¥80~180",
+          "preferred store rating": "4.5~4.9",
+          "preferred delivery time": "30~45 minutes",
+          "preferred distance": "0~5000m",
+          "recent orders": [
+            {
+              "store": "Jinan Traditional Lu Cuisine Restaurant",
+              "product": "Nine-Turn Intestines + Sweet and Sour Pork + Rice"
+            },
+            {
+              "store": "Sichuan Skewer Hot Pot",
+              "product": "Set for Two (Spicy Soup Base)"
+            },
+            {
+              "store": "Papa John's",
+              "product": "Hawaiian Pizza Family Size"
+            }
+          ],
+          "search history": [
+            "Family set",
+            "Lu cuisine",
+            "Skewer hot pot",
+            "Pizza",
+            "Family meal"
+          ]
+        },
+        "desserts/drinks/snacks": {
+          "frequently purchased categories": [
+            "Beverages and desserts/Milk tea (Average ¥22)",
+            "Beverages and desserts/Coffee (Average ¥30)",
+            "Beverages and desserts/Fruit salad (Average ¥35)"
+          ],
+          "cost per order": "¥15~40",
+          "preferred store rating": "4.4~4.8",
+          "preferred delivery time": "15~30 minutes",
+          "preferred distance": "0~2500m",
+          "recent orders": [
+            {
+              "store": "A Little Tea",
+              "product": "Pearl Milk Tea"
+            },
+            {
+              "store": "Starbucks",
+              "product": "Americano"
+            },
+            {
+              "store": "Fresh Fruit Mix",
+              "product": "Colorful Fruit Salad"
+            }
+          ],
+          "search history": [
+            "Milk tea",
+            "Coffee",
+            "Fruit salad",
+            "Low-sugar beverages"
+          ]
+        },
+        "night snack": {
+          "frequently purchased categories": [
+            "BBQ/Grilled skewers (Average ¥45)",
+            "Quick meals/Dumplings/Wonton (Average ¥30)"
+          ],
+          "cost per order": "¥25~55",
+          "preferred store rating": "4.0~4.6",
+          "preferred delivery time": "25~40 minutes",
+          "preferred distance": "0~3000m",
+          "recent orders": [
+            {
+              "store": "Jinan BBQ King",
+              "product": "Grilled Chicken Wings + Grilled Chives + Grilled Lamb Skewers"
+            },
+            {
+              "store": "Old Wang's Dumpling House",
+              "product": "Three Delicacies Dumplings"
+            },
+            {
+              "store": "Night Stir-fry",
+              "product": "Garlic Crayfish"
+            }
+          ],
+          "search history": [
+            "BBQ",
+            "Dumplings",
+            "Crayfish",
+            "Night snack",
+            "Non-alcoholic"
+          ]
+        }
+      },
+      "product delivery": {
+        "frequently purchased categories": [
+          "Vegetables/Bean products (32%)",
+          "Raw meat/Poultry/Eggs (24%)",
+          "Grain/Oil/Seasonings/Dry goods (15%)",
+          "Household items (12%)",
+          "Mother and baby products (10%)",
+          "Others (7%)"
+        ],
+        "frequently visited stores": [
+          "Meituan Grocery (Jinan Lixia District Store) (45%)",
+          "AEON Supermarket (25%)",
+          "Jiajiayue Supermarket (20%)",
+          "Other stores (10%)"
+        ],
+        "cost per order by category": {
+          "Vegetables/Bean products": "¥5~20",
+          "Raw meat/Poultry/Eggs": "¥20~60",
+          "Grain/Oil/Seasonings/Dry goods": "¥10~40",
+          "Household items": "¥15~50",
+          "Mother and baby products": "¥30~100"
+        },
+        "preferred delivery time": "30~60 minutes",
+        "typical order time": "17:00-19:00 (38%), 9:00-11:00 (25%), 12:00-14:00 (15%)",
+        "recent orders": [
+          {
+            "store": "Meituan Grocery (Jinan Lixia District Store)",
+            "product": "Bok Choy + Carrots + Potatoes"
+          },
+          {
+            "store": "AEON Supermarket",
+            "product": "Boneless Chicken Breast 500g + Pork Tenderloin 300g"
+          },
+          {
+            "store": "Jiajiayue Supermarket",
+            "product": "Baby Wipes + Children's Toothpaste"
+          }
+        ],
+        "search history": [
+          "Fresh vegetables",
+          "Chicken breast",
+          "Rice",
+          "Laundry detergent",
+          "Children's snacks",
+          "Low-fat"
+        ]
+      }
+    },
+    "in-store consumption": {
+      "in-store dining": {
+        "fine-dining": {
+          "frequently purchased categories": [
+            "Regional cuisine/Fish (Average ¥138)",
+            "Regional cuisine/Sichuan cuisine (Average ¥95)",
+            "International cuisine/Japanese food (Average ¥162)"
+          ],
+          "preferred average price per person": "¥90~170",
+          "preferred store rating": "4.2~4.8 stars",
+          "typical dining time": "18:30-20:30",
+          "preferred distance": "1000~3000m",
+          "recent orders": [
+            {
+              "store": "Lu Wei Fang (Olympic Center Store)",
+              "product": "Jinan Stir-fried Chicken, Sweet and Sour Yellow River Carp"
+            },
+            {
+              "store": "Xiao Long Kan Hot Pot (Harmony Plaza Store)",
+              "product": "Dual-flavor hot pot base, Tripe, Throat meat (Non-alcoholic drinks)"
+            },
+            {
+              "store": "Heilu Rotating Sushi (Henglong Plaza Store)",
+              "product": "Salmon Sashimi Platter, Seared Beef Sushi"
+            }
+          ],
+          "search history": [
+            "Business dinner restaurants",
+            "Non-alcoholic menu",
+            "Japanese cuisine",
+            "High-end Sichuan cuisine",
+            "Family gathering"
+          ]
+        },
+        "light meal": {
+          "frequently purchased categories": [
+            "Snacks and quick meals/Chinese fast food (Average ¥35)",
+            "Snacks and quick meals/Western fast food (Average ¥42)",
+            "Regional cuisine/Northeastern cuisine (Average ¥48)"
+          ],
+          "preferred average price per person": "¥30~50",
+          "preferred store rating": "3.5~4.3 stars",
+          "typical dining time": "12:00-13:30",
+          "preferred distance": "0~800m",
+          "recent orders": [
+            {
+              "store": "Yonghe King (Harmony Plaza Store)",
+              "product": "Three Delicacies Soy Milk Set"
+            },
+            {
+              "store": "Yoshinoya (Jingshi Road Store)",
+              "product": "Beef Bowl Set"
+            },
+            {
+              "store": "Mom's Bibimbap (Shandong Justice Law Firm Store)",
+              "product": "Signature Stone Pot Bibimbap"
+            }
+          ],
+          "search history": [
+            "Weekday lunch",
+            "Fast food",
+            "Bento",
+            "Nearby takeout",
+            "Quick meal"
+          ]
+        },
+        "desserts/drinks/snacks": {
+          "frequently purchased categories": [
+            "Beverage shops (Average ¥22)",
+            "Bread and desserts (Average ¥36)",
+            "Other dining/Fresh fruits (Average ¥15)"
+          ],
+          "preferred average price per person": "¥15~40",
+          "preferred store rating": "4.0~4.7 stars",
+          "typical dining time": "15:00-16:30",
+          "preferred distance": "0~500m",
+          "recent orders": [
+            {
+              "store": "HEYTEA (Henglong Plaza Store)",
+              "product": "Pulpy Grape (Sugar-free)"
+            },
+            {
+              "store": "Starbucks (Harmony Plaza Store)",
+              "product": "Americano"
+            },
+            {
+              "store": "Bread Talk (Lixia Store)",
+              "product": "Whole Wheat Baguette, Cheesecake"
+            }
+          ],
+          "search history": [
+            "Sugar-free drinks",
+            "Low-sugar desserts",
+            "Healthy beverages",
+            "Coffee",
+            "Meeting refreshments"
+          ]
+        }
+      },
+      "other in-store services": {
+        "frequently consumed categories": {
+          "Sports and fitness/Fitness centers": "35%",
+          "Sports and fitness/Ball sports": "25%",
+          "Leisure and entertainment/Massage/Foot therapy": "20%",
+          "Parent-child/Family entertainment": "20%"
+        },
+        "cost per order by category": {
+          "Sports and fitness/Fitness centers": "¥120~250/time",
+          "Sports and fitness/Ball sports": "¥80~150/hour",
+          "Leisure and entertainment/Massage/Foot therapy": "¥180~300/time",
+          "Parent-child/Family entertainment": "¥150~280/time"
+        },
+        "preferred store rating": "4.0~4.8 stars",
+        "preferred service time": "18:00-21:00",
+        "preferred distance": "0~5000m",
+        "recent orders": [
+          {
+            "store": "Super Gorilla Fitness (Henglong Plaza Store)",
+            "product": "Private Training (Shoulder and Neck Rehabilitation)"
+          },
+          {
+            "store": "Jinan Olympic Center Tennis Court",
+            "product": "Double Court 2 Hours"
+          },
+          {
+            "store": "LEGO Discovery Center (Jinan Henglong Store)",
+            "product": "Family Package (1 Adult, 1 Child)"
+          }
+        ],
+        "search history": [
+          "Shoulder and neck therapy",
+          "Tennis court reservation",
+          "Weekend family activities",
+          "Fitness personal training",
+          "Swimming pool"
+        ]
+      }
+    },
+    "OTA": {
+      "visited scenes": {
+        "Cultural heritage sites": "35%",
+        "Exhibitions (Museums/Art galleries)": "30%",
+        "Landmark buildings": "15%",
+        "Tourist attractions (Mountains/Seaside/Ecological large-scale scenic spots)": "10%",
+        "Parks": "10%"
+      },
+      "cost per night on hotel": "¥500~1000",
+      "visited hotels": {
+        "Atour": "40%",
+        "Ji Hotel": "25%",
+        "Vienna Hotel": "20%",
+        "Orange Hotel": "15%"
+      },
+      "browsed hotels": {
+        "Four-star hotels": "45%",
+        "Comfort hotels": "35%",
+        "Three-star hotels": "15%",
+        "Luxury hotels": "5%"
+      },
+      "historical travel plans": {
+        "Jinan-Beijing": {
+          "price range": "¥350-550",
+          "transportation method": "High-Speed Rail"
+        },
+        "Jinan-Shanghai": {
+          "price range": "¥550-800",
+          "transportation method": "High-Speed Rail"
+        },
+        "Jinan-Hangzhou": {
+          "price range": "¥600-900",
+          "transportation method": "High-Speed Rail"
+        },
+        "Jinan-Xi'an": {
+          "price range": "¥700-1100",
+          "transportation method": "High-Speed Rail"
+        },
+        "Jinan-Guangzhou": {
+          "price range": "¥1200-1800",
+          "transportation method": "Airplane"
+        },
+        "Jinan-Chengdu": {
+          "price range": "¥1300-2000",
+          "transportation method": "Airplane"
+        },
+        "Jinan-Qingdao": {
+          "price range": "¥120-180",
+          "transportation method": "High-Speed Rail"
+        },
+        "Jinan-Mount Tai": {
+          "price range": "Approximately ¥100 for gas",
+          "transportation method": "Self-driving"
+        }
+      }
+    }
+  },
+  "stores": {
+    "S17550802154625724_S00001": {
+      "name": "Workwear Home",
+      "store_id": "S17550802154625724_S00001",
+      "score": 4.8,
+      "location": {
+        "address": "Workwear Home, 3rd Floor, Inzone Mall, No.8000 Jingshi Road, Lixia District, Jinan",
+        "latitude": 36.6582,
+        "longitude": 117.0933
+      },
+      "tags": [
+        "Work Uniform",
+        "Waterproof Clothing",
+        "Professional Workwear",
+        "Fast Delivery"
+      ],
+      "store_type": "target",
+      "products": [
+        {
+          "name": "Waterproof Work Apron - M Size",
+          "store_id": "S17550802154625724_S00001",
+          "store_name": "Workwear Home",
+          "price": 49.9,
+          "tags": [
+            "Waterproof Apron",
+            "M Size",
+            "Stain-Resistant",
+            "Suitable for Pottery",
+            "Lightweight and Durable"
+          ],
+          "product_id": "S17550802154625724_P00001",
+          "attributes": [
+            "Black",
+            "Adjustable neck strap",
+            "Front double pockets"
+          ],
+          "product_type": "target"
+        },
+        {
+          "name": "Waterproof Work Apron - XL Size",
+          "store_id": "S17550802154625724_S00001",
+          "store_name": "Workwear Home",
+          "price": 49.9,
+          "tags": [
+            "Waterproof Apron",
+            "XL Size",
+            "Stain-Resistant",
+            "Suitable for Pottery",
+            "Lightweight and Durable"
+          ],
+          "product_id": "S17550802154625724_P00002",
+          "attributes": [
+            "Black",
+            "Adjustable neck strap",
+            "Front double pockets"
+          ],
+          "product_type": "target"
+        },
+        {
+          "name": "Professional Pottery Waterproof Apron - L Size",
+          "store_id": "S17550802154625724_S00001",
+          "store_name": "Workwear Home",
+          "price": 58.8,
+          "tags": [
+            "Pottery Apron",
+            "L Size",
+            "Waterproof",
+            "Professional Grade",
+            "Thickened Material"
+          ],
+          "product_id": "S17550802154625724_P00003",
+          "attributes": [
+            "Navy blue",
+            "Extended design",
+            "Cross-back straps"
+          ],
+          "product_type": "distraction"
+        },
+        {
+          "name": "Children's Waterproof Painting Apron - S Size",
+          "store_id": "S17550802154625724_S00001",
+          "store_name": "Workwear Home",
+          "price": 35.9,
+          "tags": [
+            "Children's Apron",
+            "S Size",
+            "Waterproof",
+            "For Painting",
+            "Cute Pattern"
+          ],
+          "product_id": "S17550802154625724_P00004",
+          "attributes": [
+            "Colorful",
+            "Cartoon Pattern",
+            "Easy to put on and take off"
+          ],
+          "product_type": "distraction"
+        }
+      ]
+    },
+    "S17550802154625724_S00002": {
+      "name": "Safety Protection Equipment Specialty Store",
+      "store_id": "S17550802154625724_S00002",
+      "score": 4.6,
+      "location": {
+        "address": "Safety Protection Equipment Specialty Store, B1 Floor, Universe Mall, No.5 Olympic Center Middle Road, Lixia District, Jinan",
+        "latitude": 36.6523,
+        "longitude": 117.1287
+      },
+      "tags": [
+        "Protective Equipment",
+        "Work Uniform",
+        "Safety Equipment",
+        "Next-Day Delivery"
+      ],
+      "store_type": "target",
+      "products": [
+        {
+          "name": "Adult Waterproof Apron M Size",
+          "store_id": "S17550802154625724_S00002",
+          "store_name": "Safety Protection Equipment Specialty Store",
+          "price": 29.9,
+          "tags": [
+            "Waterproof Apron",
+            "M Size",
+            "Pottery Specialized",
+            "Stain-Resistant",
+            "Waterproof Material"
+          ],
+          "product_id": "S17550802154625724_P00006",
+          "attributes": [
+            "Blue",
+            "Gray",
+            "Black"
+          ],
+          "product_type": "target"
+        },
+        {
+          "name": "Adult Waterproof Apron XL Size",
+          "store_id": "S17550802154625724_S00002",
+          "store_name": "Safety Protection Equipment Specialty Store",
+          "price": 32.9,
+          "tags": [
+            "Waterproof Apron",
+            "XL Size",
+            "Pottery Specialized",
+            "Stain-Resistant",
+            "Waterproof Material"
+          ],
+          "product_id": "S17550802154625724_P00007",
+          "attributes": [
+            "Blue",
+            "Gray",
+            "Black"
+          ],
+          "product_type": "target"
+        },
+        {
+          "name": "Children's Waterproof Apron S Size",
+          "store_id": "S17550802154625724_S00002",
+          "store_name": "Safety Protection Equipment Specialty Store",
+          "price": 25.9,
+          "tags": [
+            "Waterproof Apron",
+            "Children",
+            "S Size",
+            "Stain-Resistant",
+            "Waterproof Material"
+          ],
+          "product_id": "S17550802154625724_P00008",
+          "attributes": [
+            "Blue",
+            "Pink",
+            "Yellow"
+          ],
+          "product_type": "distraction"
+        },
+        {
+          "name": "Pack of 10 Disposable Waterproof Aprons",
+          "store_id": "S17550802154625724_S00002",
+          "store_name": "Safety Protection Equipment Specialty Store",
+          "price": 19.9,
+          "tags": [
+            "Disposable Apron",
+            "Waterproof",
+            "Pack of 10",
+            "No-Wash"
+          ],
+          "product_id": "S17550802154625724_P00009",
+          "attributes": [],
+          "product_type": "distraction"
+        },
+        {
+          "name": "Waterproof Work Uniform Set M Size",
+          "store_id": "S17550802154625724_S00002",
+          "store_name": "Safety Protection Equipment Specialty Store",
+          "price": 89.9,
+          "tags": [
+            "Work Uniform Set",
+            "Waterproof",
+            "M Size",
+            "Two-Piece Set"
+          ],
+          "product_id": "S17550802154625724_P00010",
+          "attributes": [
+            "Navy blue",
+            "Gray"
+          ],
+          "product_type": "distraction"
+        }
+      ]
+    },
+    "S17550802154625724_S00003": {
+      "name": "Artists' Supply Store",
+      "store_id": "S17550802154625724_S00003",
+      "score": 4.3,
+      "location": {
+        "address": "Artists' Supply Store, No.157 Shandong University Road, Lixia District, Jinan",
+        "latitude": 36.6734,
+        "longitude": 117.0456
+      },
+      "tags": [
+        "Art Supplies",
+        "Painting Materials",
+        "Pottery Tools",
+        "Same-Day Delivery"
+      ],
+      "store_type": "distraction",
+      "products": [
+        {
+          "name": "Children's Pottery Apron Set",
+          "store_id": "S17550802154625724_S00003",
+          "store_name": "Artists' Supply Store",
+          "price": 49.9,
+          "tags": [
+            "Pottery Tools",
+            "Waterproof Apron",
+            "Children",
+            "Small Size"
+          ],
+          "product_id": "S17550802154625724_P00013",
+          "attributes": [
+            "Pink",
+            "Blue"
+          ],
+          "product_type": "distraction"
+        },
+        {
+          "name": "Professional Pottery Tool Set",
+          "store_id": "S17550802154625724_S00003",
+          "store_name": "Artists' Supply Store",
+          "price": 159,
+          "tags": [
+            "Pottery Tools",
+            "Carving Knife",
+            "Shaping Tools",
+            "Starter Kit"
+          ],
+          "product_id": "S17550802154625724_P00014",
+          "attributes": [],
+          "product_type": "distraction"
+        },
+        {
+          "name": "Premium Waterproof Painting Smock",
+          "store_id": "S17550802154625724_S00003",
+          "store_name": "Artists' Supply Store",
+          "price": 89,
+          "tags": [
+            "Painting Materials",
+            "Waterproof Smock",
+            "Painting Supplies",
+            "Stain-Resistant"
+          ],
+          "product_id": "S17550802154625724_P00015",
+          "attributes": [
+            "L Size",
+            "One Size"
+          ],
+          "product_type": "distraction"
+        }
+      ]
+    },
+    "S17550802154625724_S00004": {
+      "name": "Kitchen Supplies Supermarket",
+      "store_id": "S17550802154625724_S00004",
+      "score": 4.5,
+      "location": {
+        "address": "Kitchen Supplies Supermarket, No.62 Liberation Road, Lixia District, Jinan",
+        "latitude": 36.6612,
+        "longitude": 117.0245
+      },
+      "tags": [
+        "Kitchen Supplies",
+        "Cooking Tools",
+        "Apron"
+      ],
+      "store_type": "distraction",
+      "products": [
+        {
+          "name": "Waterproof Kitchen Apron (M Size)",
+          "store_id": "S17550802154625724_S00004",
+          "store_name": "Kitchen Supplies Supermarket",
+          "price": 39.9,
+          "tags": [
+            "Waterproof Apron",
+            "M Size",
+            "Kitchen Supplies",
+            "Stain and Oil Resistant"
+          ],
+          "product_id": "S17550802154625724_P00016",
+          "attributes": [
+            "Black",
+            "Solid color",
+            "Adjustable neck strap"
+          ],
+          "product_type": "distraction"
+        },
+        {
+          "name": "Waterproof Kitchen Apron (XL Size)",
+          "store_id": "S17550802154625724_S00004",
+          "store_name": "Kitchen Supplies Supermarket",
+          "price": 42.9,
+          "tags": [
+            "Waterproof Apron",
+            "XL Size",
+            "Kitchen Supplies",
+            "Stain and Oil Resistant"
+          ],
+          "product_id": "S17550802154625724_P00017",
+          "attributes": [
+            "Black",
+            "Solid color",
+            "Adjustable neck strap"
+          ],
+          "product_type": "distraction"
+        },
+        {
+          "name": "Colorful Apron Two-Piece Set (M+XL)",
+          "store_id": "S17550802154625724_S00004",
+          "store_name": "Kitchen Supplies Supermarket",
+          "price": 75.8,
+          "tags": [
+            "Apron Set",
+            "Different Sizes",
+            "Kitchen Cooking",
+            "Couples Style"
+          ],
+          "product_id": "S17550802154625724_P00018",
+          "attributes": [
+            "Multiple colors available",
+            "Cotton material",
+            "Front pocket"
+          ],
+          "product_type": "distraction"
+        },
+        {
+          "name": "Oil-Resistant Half Apron (One Size)",
+          "store_id": "S17550802154625724_S00004",
+          "store_name": "Kitchen Supplies Supermarket",
+          "price": 29.9,
+          "tags": [
+            "Half Apron",
+            "Oil-Resistant",
+            "Kitchen Cooking",
+            "Lightweight"
+          ],
+          "product_id": "S17550802154625724_P00019",
+          "attributes": [
+            "Black",
+            "White",
+            "Red"
+          ],
+          "product_type": "distraction"
+        },
+        {
+          "name": "Children's Fun Apron (S Size)",
+          "store_id": "S17550802154625724_S00004",
+          "store_name": "Kitchen Supplies Supermarket",
+          "price": 35.5,
+          "tags": [
+            "Children's Apron",
+            "Cartoon Pattern",
+            "Family Baking",
+            "Cute"
+          ],
+          "product_id": "S17550802154625724_P00020",
+          "attributes": [
+            "Dinosaur pattern",
+            "Rabbit pattern",
+            "Bear pattern"
+          ],
+          "product_type": "distraction"
+        }
+      ]
+    }
+  },
+  "orders": {}
+}

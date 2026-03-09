@@ -1,0 +1,197 @@
+{
+  "task_id": "10826026",
+  "domain": "instore",
+  "time": "2024-10-23 14:20:00",
+  "user_id": "U942885",
+  "weather": [
+    {
+      "city": "Weifang City",
+      "category": "sunny",
+      "datetime": "2024-10-23",
+      "temperature": [
+        16,
+        24
+      ],
+      "humidity": 45
+    },
+    {
+      "city": "Weifang City",
+      "category": "cloudy",
+      "datetime": "2024-10-26",
+      "temperature": [
+        14,
+        22
+      ],
+      "humidity": 55
+    }
+  ],
+  "location": [
+    {
+      "address": "Room 502, Unit 1, Building 3, Jinyu Huafu, 6789 Dongfeng East Street, Kuiwen District, Weifang, Shandong Province",
+      "longitude": 119.1672,
+      "latitude": 36.7089
+    },
+    {
+      "address": "Room 302, Building B5, Weifang Software Park, 1 Jinma Road, Xincheng Street, High-tech Zone, Weifang, Shandong Province",
+      "longitude": 119.1235,
+      "latitude": 36.6879
+    },
+    {
+      "address": "Northeast Corner of the Intersection of Yuhe Road and Dongfeng East Street, Kuiwen District, Weifang, Shandong Province",
+      "longitude": 119.1701,
+      "latitude": 36.7098
+    }
+  ],
+  "user_profile": {
+    "user id": "U942885",
+    "occupation": "Technical Staff",
+    "gender": "male",
+    "age group": "30~35",
+    "residence": "Weifang",
+    "home address": "Room 502, Unit 1, Building 3, Jinyu Huafu, 6789 Dongfeng East Street, Kuiwen District, Weifang, Shandong Province",
+    "work address": "Room 302, Building B5, Weifang Software Park, 1 Jinma Road, Xincheng Street, High-tech Zone, Weifang, Shandong Province",
+    "dietary restrictions": "No alcohol",
+    "family status": "Couples",
+    "personality": "Has scattered and jumping thoughts, easily distracted and changes mind frequently"
+  },
+  "user_historical_behaviors": {
+    "user id": "U942885",
+    "occupation": "Technical Staff",
+    "gender": "male",
+    "age group": "30~35",
+    "residence": "Weifang",
+    "home address": "Room 502, Unit 1, Building 3, Jinyu Huafu, 6789 Dongfeng East Street, Kuiwen District, Weifang, Shandong Province",
+    "work address": "Room 302, Building B5, Weifang Software Park, 1 Jinma Road, Xincheng Street, High-tech Zone, Weifang, Shandong Province",
+    "in-store dining": {
+      "fine-dining": {
+        "frequently purchased categories": [
+          "Regional Cuisine/Sichuan Cuisine (Average ¥95)",
+          "International Cuisine/Japanese Cuisine (Average ¥120)",
+          "Hot Pot (Average ¥88)"
+        ],
+        "preferred average price per person": "¥80~150",
+        "preferred store rating": "4.0~4.7 stars",
+        "typical dining time": "18:30-20:30",
+        "preferred distance": "500~2000m",
+        "recent orders": [
+          {
+            "store": "Shuxiangyuan Sichuan Restaurant",
+            "product": "Boiled Fish, Dry Pot Chicken"
+          },
+          {
+            "store": "Huayin Japanese Restaurant",
+            "product": "Sashimi Platter, Salmon Sushi"
+          },
+          {
+            "store": "Old Dock Hot Pot",
+            "product": "Clear Soup Base, Beef Platter"
+          }
+        ],
+        "search history": [
+          "Weifang High-end Sichuan Cuisine",
+          "Purine-free Hot Pot",
+          "Japanese Cuisine"
+        ]
+      },
+      "light meal": {
+        "frequently purchased categories": [
+          "Fast Food/Chinese Quick Meal (Average ¥35)",
+          "Regional Cuisine/Northeastern Cuisine (Average ¥42)",
+          "Fast Food/Western Quick Meal (Average ¥30)"
+        ],
+        "preferred average price per person": "¥25~45",
+        "preferred store rating": "3.5~4.2 stars",
+        "typical dining time": "12:00-13:00",
+        "preferred distance": "0~500m",
+        "recent orders": [
+          {
+            "store": "Northeastern Home-style Cuisine",
+            "product": "Sweet and Sour Pork, Three Shreds Set Meal"
+          },
+          {
+            "store": "McDonald's",
+            "product": "Grilled Chicken Burger Set"
+          },
+          {
+            "store": "Lanzhou Noodles",
+            "product": "Beef Noodles"
+          }
+        ],
+        "search history": [
+          "Quick Meals near Software Park",
+          "Northeastern Cuisine",
+          "Healthy Quick Meals"
+        ]
+      },
+      "desserts/drinks/snacks": {
+        "frequently purchased categories": [
+          "Beverage Shops (Average ¥18)",
+          "Bakery and Desserts (Average ¥25)",
+          "Other Dining/Fresh Fruits (Average ¥15)"
+        ],
+        "preferred average price per person": "¥15~30",
+        "preferred store rating": "3.8~4.5 stars",
+        "typical dining time": "15:00-16:30",
+        "preferred distance": "0~300m",
+        "recent orders": [
+          {
+            "store": "Chabaidao",
+            "product": "Cheese Jasmine Tea"
+          },
+          {
+            "store": "85°C",
+            "product": "Mango Mousse"
+          },
+          {
+            "store": "Fresh Fruit Workshop",
+            "product": "Fruit Platter"
+          }
+        ],
+        "search history": [
+          "Sugar-free Milk Tea",
+          "Low-calorie Desserts",
+          "Fresh Fruits"
+        ]
+      }
+    },
+    "other in-store services": {
+      "frequently consumed categories": {
+        "Sports and Fitness/Fitness Centers": "35%",
+        "Sports and Fitness/Ball Sports": "45%",
+        "Entertainment/Massage/Foot Massage": "15%",
+        "Entertainment/Murder Mystery Games": "5%"
+      },
+      "cost per order by category": {
+        "Sports and Fitness/Fitness Centers": "¥80~150",
+        "Sports and Fitness/Ball Sports": "¥40~70",
+        "Entertainment/Massage/Foot Massage": "¥120~180",
+        "Entertainment/Murder Mystery Games": "¥60~90"
+      },
+      "preferred store rating": "4.4~4.8 stars",
+      "preferred service time": "19:00-21:00",
+      "preferred distance": "0~1000m",
+      "recent orders": [
+        {
+          "store": "Zhiyun Tianxia Sauna House",
+          "product": "60-min Individual Sauna Experience"
+        },
+        {
+          "store": "Star Power Badminton Court",
+          "product": "Two-person Court for 2 Hours"
+        },
+        {
+          "store": "Zufutang",
+          "product": "90-min Full Body Relaxation Massage"
+        }
+      ],
+      "search history": [
+        "Sauna Houses",
+        "Badminton Courts",
+        "Professional Massage",
+        "Couples Murder Mystery Games"
+      ]
+    }
+  },
+  "stores": {},
+  "orders": {}
+}

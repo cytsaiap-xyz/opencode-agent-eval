@@ -1,0 +1,71 @@
+{
+  "required_orders": [
+    {
+      "order_id": "10826001T001",
+      "order_type": "instore",
+      "user_id": "U228667",
+      "store_id": "S17564420317678244_I00002",
+      "note": "",
+      "location": null,
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 168,
+      "create_time": "2025-09-24 20:33:24",
+      "update_time": "2025-09-24 20:33:24",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17564420317678244_P00006",
+          "name": "Full body massage package (60 minutes)",
+          "price": 168,
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "reservation_id": "10826001T002",
+      "shop_id": "S17564420317678244_I00002",
+      "reservation_time": "2025-09-25 21:00:00",
+      "update_time": "2025-09-24 20:35:24",
+      "customer_id": "U228667",
+      "customer_count": 1,
+      "status": "paid"
+    },
+    {
+      "order_id": "10826001T003",
+      "order_type": "instore",
+      "user_id": "U228667",
+      "store_id": "S17564421111385022_I00004",
+      "note": "",
+      "location": null,
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 32,
+      "create_time": "2025-09-24 20:37:24",
+      "update_time": "2025-09-24 20:37:24",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17564421111385022_P00014",
+          "name": "Signature pork knuckle rice",
+          "price": 32,
+          "quantity": 1
+        }
+      ]
+    }
+  ],
+  "rubrics": [
+    "Massage shop rating should be 4.0 or above",
+    "The massage shop should be within 2500m of Maker Space, 18th Floor, Shangmao Century Plaza, 49 Zhongshan South Road, Qinhuai District, Nanjing",
+    "On 2025-09-25, the weather in Nanjing will be cloudy turning to light rain, and the massage shop should have parking available",
+    "The ordered service at the massage shop should be a full body massage package",
+    "The massage duration should be around 60 minutes",
+    "The reserved massage shop should be Yu Zu Tang (Shangmao Century Plaza Branch)",
+    "The reservation time should be 2025-09-25 21:00:00",
+    "The reservation should be for 1 person",
+    "The restaurant order should be from Hong Kong Style Pork Knuckle Rice (Hanzhong Road Branch)",
+    "The ordered dish should be Pork knuckle rice"
+  ]
+}

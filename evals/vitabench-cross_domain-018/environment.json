@@ -1,0 +1,427 @@
+{
+  "task_id": "10807011",
+  "domain": "cross_domain",
+  "time": "2025-07-17 10:30:00",
+  "user_id": "U010047",
+  "weather": [
+    {
+      "city": "Xi'an",
+      "category": "sunny",
+      "datetime": "2025-07-17",
+      "temperature": [
+        26,
+        35
+      ],
+      "humidity": 45
+    }
+  ],
+  "location": [
+    {
+      "address": "Room 1803, Unit 2, Building 5, Maple New City, 58 Gaoxin Road, Yanta District, Xi'an, Shaanxi Province",
+      "longitude": 108.8924,
+      "latitude": 34.2245
+    },
+    {
+      "address": "Room 1506, Building B, Chang'an International Center, 88 Nanguan Street, Beilin District, Xi'an, Shaanxi Province",
+      "longitude": 108.9542,
+      "latitude": 34.2538
+    }
+  ],
+  "user_profile": {
+    "user id": "U010047",
+    "occupation": "lawyer",
+    "gender": "male",
+    "age group": "35~40",
+    "residence": "Xi'an",
+    "home address": "Room 1803, Unit 2, Building 5, Maple New City, 58 Gaoxin Road, Yanta District, Xi'an, Shaanxi Province",
+    "work address": "Room 1506, Building B, Chang'an International Center, 88 Nanguan Street, Beilin District, Xi'an, Shaanxi Province",
+    "dietary restrictions": "Avoids high purine (such as organ meats/seafood soup), avoids alcohol",
+    "family status": "Has children",
+    "personality": "Tends to take control, not easily accepting different opinions"
+  },
+  "user_historical_behaviors": {
+    "user id": "U010047",
+    "occupation": "lawyer",
+    "gender": "male",
+    "age group": "35~40",
+    "residence": "Xi'an",
+    "home address": "Room 1803, Unit 2, Building 5, Maple New City, 58 Gaoxin Road, Yanta District, Xi'an, Shaanxi Province",
+    "work address": "Room 1506, Building B, Chang'an International Center, 88 Nanguan Street, Beilin District, Xi'an, Shaanxi Province",
+    "delivery": {
+      "breakfast": {
+        "frequently purchased categories": [
+          "Quick meals/Buns/Pan-fried buns (average ¥15)",
+          "Quick meals/Light meals (average ¥32)",
+          "Quick meals/Salads (average ¥28)"
+        ],
+        "cost per order": "¥15~35",
+        "preferred store rating": "4.5~4.8 stars",
+        "preferred delivery time": "15~25 minutes",
+        "preferred distance": "0~1800m",
+        "recent orders": [
+          {
+            "store": "Light Meal Select",
+            "product": "Avocado Chicken Breast Salad"
+          },
+          {
+            "store": "Youthful Dots",
+            "product": "Fruit Cereal Cup"
+          },
+          {
+            "store": "Fresh Point Breakfast",
+            "product": "Vegetable Egg Sandwich"
+          }
+        ],
+        "search history": [
+          "Low-sugar breakfast",
+          "Healthy light meals",
+          "Salad",
+          "Yogurt",
+          "Whole wheat bread"
+        ]
+      },
+      "weekday lunch/dinner": {
+        "frequently purchased categories": [
+          "Quick meals/Healthy meals (average ¥45)",
+          "International cuisine/Japanese bento/Sushi (average ¥60)",
+          "Quick meals/Salads (average ¥35)"
+        ],
+        "cost per order": "¥35~65",
+        "preferred store rating": "4.6~4.9 stars",
+        "preferred delivery time": "20~35 minutes",
+        "preferred distance": "0~3000m",
+        "recent orders": [
+          {
+            "store": "Meal with Courtesy",
+            "product": "Steamed Chicken Breast Bento"
+          },
+          {
+            "store": "Japanese Cuisine House",
+            "product": "Salmon Avocado Sushi"
+          },
+          {
+            "store": "Vegetarian Ideology",
+            "product": "Light Quinoa Chicken Breast Salad"
+          }
+        ],
+        "search history": [
+          "Low-oil healthy meals",
+          "Japanese bento",
+          "Steamed cuisine",
+          "Chicken breast",
+          "Light meal sets"
+        ]
+      },
+      "weekend lunch/dinner": {
+        "frequently purchased categories": [
+          "Chinese cuisine/Cantonese cuisine (average ¥88)",
+          "International cuisine/Thai food (average ¥95)",
+          "International cuisine/Pasta (average ¥75)"
+        ],
+        "cost per order": "¥70~150",
+        "preferred store rating": "4.7~5.0 stars",
+        "preferred delivery time": "30~45 minutes",
+        "preferred distance": "0~5000m",
+        "recent orders": [
+          {
+            "store": "Cantonese Fresh Flavor",
+            "product": "Steamed Bass Set Meal"
+          },
+          {
+            "store": "Thai Rice Thai Cuisine",
+            "product": "Tom Yum Soup with Lemongrass Roasted Chicken"
+          },
+          {
+            "store": "Italian Style",
+            "product": "Tomato Seafood Pasta"
+          }
+        ],
+        "search history": [
+          "Cantonese cuisine",
+          "Thai cuisine",
+          "Healthy pasta",
+          "No chili",
+          "Seafood"
+        ]
+      },
+      "desserts/drinks/snacks": {
+        "frequently purchased categories": [
+          "Drinks & Desserts/Pure Tea/Herbal Tea (average ¥18)",
+          "Drinks & Desserts/Fruit Bowls (average ¥32)",
+          "Drinks & Desserts/Cold Desserts (average ¥26)"
+        ],
+        "cost per order": "¥15~35",
+        "preferred store rating": "4.5~4.9 stars",
+        "preferred delivery time": "15~30 minutes",
+        "preferred distance": "0~2500m",
+        "recent orders": [
+          {
+            "store": "Tea Time",
+            "product": "Sugar-free Oolong Tea"
+          },
+          {
+            "store": "Fresh Fruit Workshop",
+            "product": "Fruit Bowl (Less Sugar)"
+          },
+          {
+            "store": "Light Sweet Principle",
+            "product": "Sugar-free Yogurt Jelly"
+          }
+        ],
+        "search history": [
+          "Sugar-free drinks",
+          "Fresh fruit tea",
+          "Low-calorie desserts",
+          "Fruit bowls",
+          "Yogurt jelly"
+        ]
+      },
+      "night snack": {
+        "frequently purchased categories": [
+          "Chinese cuisine/Hunan cuisine (average ¥55)",
+          "Quick meals/Small bowls/Small portions (average ¥42)",
+          "Snacks & Braised foods/Cold skewers (average ¥38)"
+        ],
+        "cost per order": "¥35~60",
+        "preferred store rating": "4.5~4.8 stars",
+        "preferred delivery time": "25~40 minutes",
+        "preferred distance": "0~3000m",
+        "recent orders": [
+          {
+            "store": "Xiangxi Small Kitchen",
+            "product": "Stir-fried Seasonal Vegetables"
+          },
+          {
+            "store": "Small Portions Great Satisfaction",
+            "product": "Steamed Fish Slices"
+          },
+          {
+            "store": "Traditional Braised Flavors",
+            "product": "Braised Chicken Wings (Less Oil Less Salt)"
+          }
+        ],
+        "search history": [
+          "Light night snacks",
+          "Small portions",
+          "Non-spicy Hunan cuisine",
+          "Steamed dishes",
+          "Braised foods"
+        ]
+      }
+    },
+    "in-store consumption": {
+      "in-store dining": {
+        "fine-dining": {
+          "frequently purchased categories": [
+            "International cuisine/Japanese food (average ¥135)",
+            "Regional cuisine/Sichuan cuisine (average ¥90)",
+            "International cuisine/Western food (average ¥120)"
+          ],
+          "preferred average price per person": "¥90~140",
+          "preferred store rating": "4.2~4.9 stars",
+          "typical dining time": "19:00-21:00",
+          "preferred distance": "100~3000m",
+          "recent orders": [
+            {
+              "store": "Beef Taro Japanese BBQ (Wanda Plaza)",
+              "product": "BBQ Set for Two"
+            },
+            {
+              "store": "Bashu Impression (Global Center)",
+              "product": "Boiled Fish Set"
+            },
+            {
+              "store": "Fat Brothers Crab Pot (Yanta Road)",
+              "product": "Signature Crab Pot"
+            }
+          ],
+          "search history": [
+            "Non-fried Japanese food",
+            "Low-oil healthy meals",
+            "High-protein restaurants"
+          ]
+        },
+        "light meal": {
+          "frequently purchased categories": [
+            "Snacks & Fast food/Chinese quick meals (average ¥35)",
+            "Snacks & Fast food/Western fast food (average ¥30)",
+            "Regional cuisine/Northeastern cuisine (average ¥45)"
+          ],
+          "preferred average price per person": "¥25~50",
+          "preferred store rating": "3.5~4.3 stars",
+          "typical dining time": "12:00-13:30",
+          "preferred distance": "0~500m",
+          "recent orders": [
+            {
+              "store": "Small Alley Stir-fry (Global Center)",
+              "product": "Garlic Stem with Pork Set"
+            },
+            {
+              "store": "Shaxian Snacks (Yanta District)",
+              "product": "Three Treasures Set"
+            },
+            {
+              "store": "Northern Noodle House (Zhangba Road)",
+              "product": "Beef Noodles"
+            }
+          ],
+          "search history": [
+            "Healthy fast food",
+            "Non-greasy fast food",
+            "Low-fat meal sets"
+          ]
+        },
+        "desserts/drinks/snacks": {
+          "frequently purchased categories": [
+            "Beverage shops (average ¥18)",
+            "Bread and pastries (average ¥25)",
+            "Other dining/Fresh fruits (average ¥15)"
+          ],
+          "preferred average price per person": "¥15~30",
+          "preferred store rating": "4.0~4.8 stars",
+          "typical dining time": "15:00-17:00",
+          "preferred distance": "0~800m",
+          "recent orders": [
+            {
+              "store": "Cha Bai Dao (Wanda Plaza)",
+              "product": "Cheese Jasmine Tea (Caffeine-free)"
+            },
+            {
+              "store": "Fresh Fruit Station (Yanta District)",
+              "product": "Fruit Platter"
+            },
+            {
+              "store": "Bread Talk (Global Center)",
+              "product": "Whole Wheat Toast"
+            }
+          ],
+          "search history": [
+            "Caffeine-free beverages",
+            "Low-sugar drinks",
+            "Healthy light meals"
+          ]
+        }
+      },
+      "other in-store services": {
+        "frequently consumed categories": {
+          "Sports & Fitness/Fitness centers": "45%",
+          "Leisure & Entertainment/Massage/Foot therapy": "20%",
+          "Beauty/Hair care": "15%",
+          "Leisure & Entertainment/Game arcades": "20%"
+        },
+        "cost per order by category": {
+          "Sports & Fitness/Fitness centers": "¥150~300",
+          "Leisure & Entertainment/Massage/Foot therapy": "¥120~180",
+          "Beauty/Hair care": "¥200~350",
+          "Leisure & Entertainment/Game arcades": "¥80~150"
+        },
+        "preferred store rating": "4.0~4.8 stars",
+        "preferred service time": "20:00-22:30",
+        "preferred distance": "0~3000m",
+        "recent orders": [
+          {
+            "store": "Champion Fitness (Global Center)",
+            "product": "Single Workout + Personal Training Session"
+          },
+          {
+            "store": "Player One Gaming Center (Wanda Plaza)",
+            "product": "3-Hour Gaming Package for Two"
+          },
+          {
+            "store": "Wellness Hall Massage (Yanta District)",
+            "product": "Neck & Shoulder Relief Package"
+          }
+        ],
+        "search history": [
+          "High-end gyms",
+          "Gaming centers",
+          "Neck and shoulder massage",
+          "24-hour fitness"
+        ]
+      }
+    },
+    "OTA": {
+      "visited scenes": {
+        "Cultural heritage sites": "35%",
+        "Landmarks": "25%",
+        "Exhibition halls (museums/art galleries)": "20%",
+        "Parks": "10%",
+        "Natural landscapes (mountains/lakes/forests)": "10%"
+      },
+      "cost per night on hotel": "¥500~1000",
+      "visited hotels": {
+        "Atour": "30%",
+        "Ji Hotel": "25%",
+        "Vienna Hotel": "20%",
+        "Jinjiang Inn": "15%",
+        "Home Inn": "10%"
+      },
+      "browsed hotels": {
+        "Four-star hotels": "35%",
+        "Comfort hotels": "45%",
+        "Three-star hotels": "20%"
+      },
+      "historical travel plans": {
+        "Xi'an-Beijing": {
+          "price range": "¥600-1200",
+          "transportation mode": "High-speed rail/EMU"
+        },
+        "Xi'an-Shanghai": {
+          "price range": "¥800-1500",
+          "transportation mode": "Flight"
+        },
+        "Xi'an-Chengdu": {
+          "price range": "¥400-700",
+          "transportation mode": "High-speed rail/EMU"
+        },
+        "Xi'an-Hangzhou": {
+          "price range": "¥700-1300",
+          "transportation mode": "Flight"
+        },
+        "Xi'an-Luoyang": {
+          "price range": "¥200-350",
+          "transportation mode": "High-speed rail/EMU"
+        }
+      }
+    }
+  },
+  "stores": {},
+  "orders": {
+    "S17550802116123836_O00001": {
+      "order_id": "S17550802116123836_O00001",
+      "order_type": "instore",
+      "user_id": "U010047",
+      "store_id": "S17550802116123836_I00008",
+      "total_price": 6288.0,
+      "create_time": "2025-07-17 10:25:36",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17550802116123836_P00046",
+          "price": 3288.0,
+          "quantity": 1
+        },
+        {
+          "product_id": "S17550802116123836_P00048",
+          "price": 1000.0,
+          "quantity": 1
+        },
+        {
+          "product_id": "S17550802116123836_P00061",
+          "price": 50.0,
+          "quantity": 1
+        },
+        {
+          "product_id": "S17550802116123836_P00055",
+          "price": 12999.0,
+          "quantity": 1
+        },
+        {
+          "product_id": "S17550802116123836_P00060",
+          "price": 99.0,
+          "quantity": 1
+        }
+      ]
+    }
+  }
+}

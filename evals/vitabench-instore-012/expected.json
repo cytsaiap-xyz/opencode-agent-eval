@@ -1,0 +1,74 @@
+{
+  "required_orders": [
+    {
+      "order_id": "10826028T002",
+      "order_type": "instore",
+      "user_id": "U136362",
+      "store_id": "S17564420255503132_I00001",
+      "note": "",
+      "location": null,
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 120,
+      "create_time": "2024-07-03 19:46:00",
+      "update_time": "2024-07-03 19:46:00",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17564420255503132_P00001",
+          "name": "Badminton Court (2-6 PM)",
+          "price": 120,
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "reservation_id": "10826028T003",
+      "shop_id": "S17564420255503132_I00001",
+      "reservation_time": "2024-07-04 14:00:00",
+      "update_time": "2024-07-03 19:47:00",
+      "customer_id": "U136362",
+      "customer_count": 4,
+      "status": "paid"
+    },
+    {
+      "order_id": "10826028T004",
+      "order_type": "instore",
+      "user_id": "U136362",
+      "store_id": "S17564420255503132_I00003",
+      "note": "",
+      "location": null,
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 688,
+      "create_time": "2024-07-03 19:48:00",
+      "update_time": "2024-07-03 19:48:00",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17564420255503132_P00011",
+          "name": "Premium Whole Roasted Lamb Set for 5-6 People",
+          "price": 688,
+          "quantity": 1
+        }
+      ]
+    }
+  ],
+  "rubrics": [
+    "Should check if the highest temperature on July 4, 2024 exceeds 30 degrees. The result is no, so the sports venue order should be from a previously visited gymnasium",
+    "Need to check user's historical behavior to find previously visited gymnasiums. The result is Lexing Sports Center, so the sports venue order should be from Lexing Sports Center",
+    "The product ordered at the sports venue should be a Badminton Court usage voucher",
+    "The usage duration for the sports venue product should be 4 Hours",
+    "The quantity of sports venue product ordered should be 1",
+    "The reserved sports venue should be Lexing Sports Center",
+    "The sports venue reservation time should be 2024-07-04 14:00:00",
+    "The number of people for the sports venue reservation should be 4",
+    "The rating of the whole roasted lamb restaurant should be 4.2 or above",
+    "The whole roasted lamb restaurant's distance from Lexing Sports Center, 77 Sports Road, Yingze District, Taiyuan should not exceed 2km (including 2km)",
+    "The product ordered from the whole roasted lamb restaurant should be a set for 5-6 people",
+    "The quantity of product ordered from the whole roasted lamb restaurant should be 1",
+    "The set ordered from the whole roasted lamb restaurant should be non-alcoholic"
+  ]
+}

@@ -1,0 +1,96 @@
+{
+  "required_orders": [
+    {
+      "order_id": "10812007T003",
+      "order_type": "hotel",
+      "user_id": "U452925",
+      "store_id": "S17557505558052360_H00001",
+      "note": "",
+      "location": null,
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 2560,
+      "create_time": "2025-06-14 18:57:22",
+      "update_time": "2025-06-14 18:57:22",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17557505558052360_P00001",
+          "price": 1280,
+          "quantity": 1,
+          "date": "2025-06-20",
+          "room_type": "Deluxe King Room"
+        },
+        {
+          "product_id": "S17557505558052360_P00003",
+          "price": 1280,
+          "quantity": 1,
+          "date": "2025-06-21",
+          "room_type": "Deluxe King Room"
+        }
+      ]
+    },
+    {
+      "order_id": "10812007T004",
+      "order_type": "attraction",
+      "user_id": "U452925",
+      "store_id": "S17557505558052360_A00005",
+      "note": "",
+      "location": null,
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 140,
+      "create_time": "2025-06-14 18:58:22",
+      "update_time": "2025-06-14 18:58:22",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17557505558052360_P00020",
+          "price": 140,
+          "quantity": 1,
+          "date": "2025-06-21",
+          "ticket_type": "Double Ticket Package"
+        }
+      ],
+      "10812007T005": {
+        "order_id": "10812007T005",
+        "order_type": "flight",
+        "user_id": "U452925",
+        "store_id": "S17557505558052360_F00010",
+        "note": "",
+        "location": null,
+        "dispatch_time": "",
+        "shipping_time": null,
+        "delivery_time": "",
+        "total_price": 3360,
+        "create_time": "2025-06-14 18:59:22",
+        "update_time": "2025-06-14 18:59:22",
+        "status": "paid",
+        "products": [
+          {
+            "product_id": "S17557505558052360_P00049",
+            "price": 1680,
+            "quantity": 2,
+            "date": "2025-06-22",
+            "seat_type": "Business Class"
+          }
+        ]
+      }
+    }
+  ],
+  "rubrics": [
+    "Hotel reservation must be for 2 nights, on 2025-06-20 and 2025-06-21",
+    "Hotel must be located near Linfen High-speed Railway Station",
+    "Accommodation must be Atour brand",
+    "Accommodation must be a King Room",
+    "Attraction ticket must be for Xunzi Cultural Park",
+    "Xunzi Cultural Park visit must be scheduled for 2025-06-21",
+    "Must select Double Ticket Package for Xunzi Cultural Park",
+    "Must provide information about Xunzi-related attractions in Linfen suitable for 2-3 hour visits, with result being Xunzi Memorial Museum",
+    "Return flight must arrive around 8-9 PM",
+    "Return flight order must be for 2 tickets",
+    "Return flight must be Business Class"
+  ]
+}

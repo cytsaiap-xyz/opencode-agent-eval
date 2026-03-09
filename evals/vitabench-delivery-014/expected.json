@@ -1,0 +1,77 @@
+{
+  "required_orders": [
+    {
+      "order_id": "30711002O01",
+      "order_type": "delivery",
+      "user_id": "U000003",
+      "store_id": "S27620908423745403_S21237",
+      "note": "",
+      "location": {
+        "address": "Xiangzhang Garden, 168 Xiangzhang Road, Yuhua District, Changsha, Hunan Province",
+        "longitude": 113.007008,
+        "latitude": 28.134684
+      },
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 23.9,
+      "create_time": "2025-08-20 17:28:00",
+      "update_time": "2025-08-20 17:30:00",
+      "status": "cancelled",
+      "products": [
+        {
+          "product_id": "S68872193363872223_P23861",
+          "price": 23.9,
+          "quantity": 1,
+          "attributes": ""
+        }
+      ]
+    },
+    {
+      "order_id": "30711002T02",
+      "order_type": "delivery",
+      "user_id": "U000003",
+      "store_id": "S33414768862736242_S26758",
+      "note": "",
+      "location": {
+        "address": "Xiangzhang Garden, 168 Xiangzhang Road, Yuhua District, Changsha, Hunan Province",
+        "longitude": 113.007008,
+        "latitude": 28.134684
+      },
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 72.0,
+      "create_time": "2025-08-20 17:32:00",
+      "update_time": "2025-08-20 17:32:00",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S18330858245118659_P05003",
+          "price": 18.0,
+          "quantity": 1,
+          "attributes": ""
+        },
+        {
+          "product_id": "S10265457617021740_P85391",
+          "price": 38.0,
+          "quantity": 1,
+          "attributes": ""
+        },
+        {
+          "product_id": "S22921577738284123_P49736",
+          "price": 16.0,
+          "quantity": 1,
+          "attributes": ""
+        }
+      ]
+    }
+  ],
+  "rubrics": [
+    "Successfully cancelled the Clear Broth Beef Noodles order from Ma Changhe Northwest Beef Noodles (Desiqin Branch), the status of order with order_id 30711002O01 should be cancelled",
+    "The delivery address for the Xinjiang cuisine order should be Xiangzhang Garden, 168 Xiangzhang Road, Yuhua District, Changsha, Hunan Province",
+    "The estimated delivery time for the Xinjiang cuisine order should be around 19:00 on 2025-08-20",
+    "The Xinjiang cuisine order should include Stir-fried Cabbage with Naan, quantity of 1",
+    "The total number of items in the Xinjiang cuisine order should be 3"
+  ]
+}

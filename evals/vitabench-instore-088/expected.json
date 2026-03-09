@@ -1,0 +1,76 @@
+{
+  "required_orders": [
+    {
+      "order_id": "10826274T001",
+      "order_type": "instore",
+      "user_id": "U866628",
+      "store_id": "S17567843025861280_I00001",
+      "note": "",
+      "location": null,
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 588,
+      "create_time": "2024-10-08 19:32:41",
+      "update_time": "2024-10-08 19:32:41",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17567843025861280_P00001",
+          "name": "Double Ninth Festival Family Banquet (5-6 People)",
+          "price": 588,
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "book_id": "10826274T002",
+      "shop_id": "S17567843025861280_I00001",
+      "book_time": "2024-10-11 12:00:00",
+      "update_time": "2024-10-08 19:35:11",
+      "customer_id": "U866628",
+      "customer_count": 5,
+      "book_price": 0,
+      "status": "paid"
+    },
+    {
+      "order_id": "10826274T003",
+      "order_type": "instore",
+      "user_id": "U866628",
+      "store_id": "S17567843025861280_I00002",
+      "note": "",
+      "location": null,
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 888,
+      "create_time": "2024-10-08 19:39:02",
+      "update_time": "2024-10-08 19:39:02",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17567843025861280_P00010",
+          "name": "Reunion Banquet Package for 7 (Including White Cut Chicken + Stir-fried Seasonal Vegetables)",
+          "price": 888,
+          "quantity": 1
+        }
+      ]
+    }
+  ],
+  "rubrics": [
+    "The noon restaurant order must include a set meal for five people, not multiple individual meals",
+    "The restaurant for lunch must be within 2.5km (inclusive) of Oriental Pearl Garden, Wucheng District, Jinhua City, Zhejiang Province",
+    "The noon restaurant must serve Jiangsu and Zhejiang Cuisine",
+    "The noon restaurant must be listed on the Must-Try List",
+    "The user's total budget is 1600 yuan, but at least 100 yuan must remain, and lunch takes 40% of the budget. Since (1600-100)*40%=600, the price of items in the noon restaurant order cannot exceed 600 yuan (inclusive)",
+    "The reserved restaurant is Grandmother's Home (Oriental Pearl Branch)",
+    "The lunch reservation time is 12:00:00 on Double Ninth Festival (2024-10-11)",
+    "The lunch reservation is for 5 people",
+    "The evening restaurant order must include a set meal for 7 people, not multiple individual meals",
+    "The evening restaurant order must include a Cantonese Set Menu",
+    "The evening restaurant order must include White Cut Chicken",
+    "The evening restaurant order must include Stir-fried Seasonal Vegetables",
+    "The restaurant for dinner must be within 3km (inclusive) of Shengshi Huating, No.1399 Shuanglong South Street, Wucheng District, Jinhua City, Zhejiang Province",
+    "The user's total budget is 1600 yuan, but at least 100 yuan must remain, and dinner takes 60% of the budget. Since (1600-100)*60%=900, the price of items in the evening restaurant order cannot exceed 900 yuan (inclusive)"
+  ]
+}

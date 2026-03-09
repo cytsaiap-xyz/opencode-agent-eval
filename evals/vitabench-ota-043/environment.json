@@ -1,0 +1,279 @@
+{
+  "task_id": "70808002",
+  "domain": "ota",
+  "time": "2025-07-21 16:23:06",
+  "user_id": "U010030",
+  "weather": [
+    {
+      "city": "Dalian",
+      "category": "cloudy",
+      "datetime": "2025-07-21",
+      "temperature": [
+        22,
+        28
+      ],
+      "humidity": 65
+    },
+    {
+      "city": "Daocheng",
+      "category": "showers",
+      "datetime": "2025-08-08",
+      "temperature": [
+        8,
+        18
+      ],
+      "humidity": 78
+    },
+    {
+      "city": "Daocheng",
+      "category": "light rain",
+      "datetime": "2025-08-09",
+      "temperature": [
+        6,
+        16
+      ],
+      "humidity": 82
+    },
+    {
+      "city": "Daocheng",
+      "category": "cloudy",
+      "datetime": "2025-08-10",
+      "temperature": [
+        7,
+        19
+      ],
+      "humidity": 70
+    },
+    {
+      "city": "Daocheng",
+      "category": "sunny",
+      "datetime": "2025-08-11",
+      "temperature": [
+        9,
+        21
+      ],
+      "humidity": 58
+    },
+    {
+      "city": "Daocheng",
+      "category": "cloudy",
+      "datetime": "2025-08-12",
+      "temperature": [
+        8,
+        20
+      ],
+      "humidity": 65
+    }
+  ],
+  "location": [
+    {
+      "address": "Room 1204, Building A, Henglong Mansion, No. 517 Changjiang Road, Shahekou District, Dalian, Liaoning Province",
+      "longitude": 121.594563,
+      "latitude": 38.914003
+    },
+    {
+      "address": "Changbai Middle School, No. 38 Wusi Road, Changbai Street, Xigang District, Dalian, Liaoning Province",
+      "longitude": 121.611743,
+      "latitude": 38.921469
+    }
+  ],
+  "user_profile": {
+    "user id": "U010030",
+    "occupation": "Teacher",
+    "gender": "male",
+    "age group": "35~40",
+    "residence": "Dalian",
+    "home address": "Room 1204, Building A, Henglong Mansion, No. 517 Changjiang Road, Shahekou District, Dalian, Liaoning Province",
+    "work address": "Changbai Middle School, No. 38 Wusi Road, Changbai Street, Xigang District, Dalian, Liaoning Province",
+    "dietary restrictions": "Avoids greasy and spicy food, no alcohol",
+    "family status": "Lives with elderly family members",
+    "personality": "Cold and concise in expression, lacks emotional communication and patience"
+  },
+  "user_historical_behaviors": {
+    "user id": "U010030",
+    "occupation": "Teacher",
+    "gender": "male",
+    "age group": "35~40",
+    "residence": "Dalian",
+    "home address": "Room 1204, Building A, Henglong Mansion, No. 517 Changjiang Road, Shahekou District, Dalian, Liaoning Province",
+    "work address": "Changbai Middle School, No. 38 Wusi Road, Changbai Street, Xigang District, Dalian, Liaoning Province",
+    "visited scenes": {
+      "Historical Sites": "35%",
+      "Exhibition Halls (Museums/Art Galleries)": "30%",
+      "Natural Landscapes (Mountains/Lakes/Forests)": "20%",
+      "Parks": "10%",
+      "Featured Villages/Industrial Tourism/Uncategorized Projects": "5%"
+    },
+    "cost per night on hotel": "300~500 yuan",
+    "visited hotels": {
+      "Home Inn": "25%",
+      "Ji Hotel": "30%",
+      "Atour": "20%",
+      "Vienna Hotel": "15%",
+      "Jinjiang Inn": "10%"
+    },
+    "browsed hotels": {
+      "Three-star Hotels": "40%",
+      "Comfort Hotels": "45%",
+      "Economy Hotels": "15%"
+    },
+    "historical travel plans": {
+      "Dalian-Beijing": {
+        "Price Range": "800-1200 yuan",
+        "Transportation": "High-speed Rail"
+      },
+      "Dalian-Shanghai": {
+        "Price Range": "1200-1800 yuan",
+        "Transportation": "Airplane"
+      },
+      "Dalian-Harbin": {
+        "Price Range": "400-600 yuan",
+        "Transportation": "High-speed Rail"
+      },
+      "Dalian-Qingdao": {
+        "Price Range": "600-900 yuan",
+        "Transportation": "High-speed Rail"
+      },
+      "Dalian-Shenyang": {
+        "Price Range": "150-250 yuan",
+        "Transportation": "High-speed Rail"
+      }
+    }
+  },
+  "stores": {},
+  "orders": {
+    "S17557505566882089_O00001": {
+      "order_id": "S17557505566882089_O00001",
+      "order_type": "hotel",
+      "user_id": "U010030",
+      "store_id": "S17557505566882089_H00001",
+      "note": "10th wedding anniversary reservation, requesting room with Tibetan Characteristics",
+      "location": {
+        "address": "Daocheng Yading Kamba Culture Boutique Hotel, Shangri-La Town, Daocheng County, Garze Tibetan Autonomous Prefecture, Sichuan Province",
+        "longitude": 100.3669,
+        "latitude": 28.4277
+      },
+      "dispatch_time": "",
+      "shipping_time": 0.0,
+      "delivery_time": "",
+      "total_price": 2512.0,
+      "create_time": "2025-07-20 14:30:00",
+      "update_time": "2025-07-20 14:35:00",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17557505566882089_P00002",
+          "price": 628.0,
+          "quantity": 1,
+          "date": "2025-08-08",
+          "room_type": "Tibetan Style Cultural Suite"
+        },
+        {
+          "product_id": "S17557505566882089_P00010",
+          "price": 628.0,
+          "quantity": 1,
+          "date": "2025-08-09",
+          "room_type": "Tibetan Style Cultural Suite"
+        },
+        {
+          "product_id": "S17557505566882089_P00011",
+          "price": 628.0,
+          "quantity": 1,
+          "date": "2025-08-10",
+          "room_type": "Tibetan Style Cultural Suite"
+        },
+        {
+          "product_id": "S17557505566882089_P00012",
+          "price": 628.0,
+          "quantity": 1,
+          "date": "2025-08-11",
+          "room_type": "Tibetan Style Cultural Suite"
+        }
+      ]
+    },
+    "S17557505566882089_O00002": {
+      "order_id": "S17557505566882089_O00002",
+      "order_type": "attraction",
+      "user_id": "U010030",
+      "store_id": "S17557505566882089_A00005",
+      "note": "Daocheng Yading tickets, including oxygen cylinder and raincoat package",
+      "location": {
+        "address": "Daocheng Yading Scenic Area, Shangri-La Town, Daocheng County, Garze Tibetan Autonomous Prefecture, Sichuan Province",
+        "longitude": 100.35,
+        "latitude": 28.42
+      },
+      "dispatch_time": "",
+      "shipping_time": 0.0,
+      "delivery_time": "",
+      "total_price": 796.0,
+      "create_time": "2025-07-20 15:00:00",
+      "update_time": "2025-07-20 15:00:00",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17557505566882089_P00052",
+          "price": 398.0,
+          "quantity": 2,
+          "date": "2025-08-09",
+          "ticket_type": "Adult Ticket + Oxygen Cylinder + Raincoat Package"
+        }
+      ]
+    },
+    "S17557505566882089_O00003": {
+      "order_id": "S17557505566882089_O00003",
+      "order_type": "flight",
+      "user_id": "U010030",
+      "store_id": "S17557505566882089_F00008",
+      "note": "Round-trip tickets from Dalian to Daocheng Yading for wedding anniversary trip",
+      "location": {
+        "address": "Dalian Zhoushuizi International Airport, Ganjingzi District, Dalian, Liaoning Province",
+        "longitude": 121.5386,
+        "latitude": 38.9656
+      },
+      "dispatch_time": "",
+      "shipping_time": 0.0,
+      "delivery_time": "",
+      "total_price": 4360.0,
+      "create_time": "2025-07-20 16:00:00",
+      "update_time": "2025-07-20 16:00:00",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17557505566882089_P00081",
+          "price": 2180.0,
+          "quantity": 2,
+          "date": "2025-08-08",
+          "seat_type": "Economy Class"
+        }
+      ]
+    },
+    "S17557505566882089_O00004": {
+      "order_id": "S17557505566882089_O00004",
+      "order_type": "flight",
+      "user_id": "U010030",
+      "store_id": "S17557505566882089_F00009",
+      "note": "Return flight tickets",
+      "location": {
+        "address": "Daocheng Yading Airport, Garze Tibetan Autonomous Prefecture, Sichuan Province",
+        "longitude": 100.053,
+        "latitude": 29.3233
+      },
+      "dispatch_time": "",
+      "shipping_time": 0.0,
+      "delivery_time": "",
+      "total_price": 4760.0,
+      "create_time": "2025-07-20 16:10:00",
+      "update_time": "2025-07-20 16:10:00",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17557505566882089_P00086",
+          "price": 2380.0,
+          "quantity": 2,
+          "date": "2025-08-12",
+          "seat_type": "Economy Class"
+        }
+      ]
+    }
+  }
+}

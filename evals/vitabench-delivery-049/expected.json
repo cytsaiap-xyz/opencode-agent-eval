@@ -1,0 +1,74 @@
+{
+  "required_orders": [
+    {
+      "order_id": "90721001T01",
+      "order_type": "delivery",
+      "user_id": "U000078",
+      "store_id": "S29320856098611305_S14636",
+      "note": "",
+      "location": {
+        "address": "No.8, No.7 Tianxian Bridge North Road, Jinhai International Garden, Jinjiang District, Chengdu, Sichuan Province",
+        "longitude": 104.08656,
+        "latitude": 30.652442
+      },
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 18.8,
+      "create_time": "2025-10-30 11:00:00",
+      "update_time": "2025-10-30 11:00:00",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S33258850217936154_P51247",
+          "price": 14.9,
+          "quantity": 1,
+          "attributes": ""
+        },
+        {
+          "product_id": "S94741277271315699_P39700",
+          "price": 3.9,
+          "quantity": 1,
+          "attributes": ""
+        }
+      ]
+    },
+    {
+      "order_id": "90721001T02",
+      "order_type": "delivery",
+      "user_id": "U000078",
+      "store_id": "S23149193666334671_S55696",
+      "note": "",
+      "location": {
+        "address": "No.8, No.7 Tianxian Bridge North Road, Jinhai International Garden, Jinjiang District, Chengdu, Sichuan Province",
+        "longitude": 104.08656,
+        "latitude": 30.652442
+      },
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 30.0,
+      "create_time": "2025-10-30 11:02:00",
+      "update_time": "2025-10-30 11:02:00",
+      "status": "unpaid",
+      "products": [
+        {
+          "product_id": "S26406900254948404_P52292",
+          "price": 15.0,
+          "quantity": 2,
+          "attributes": "No Sugar (Recommended)"
+        }
+      ]
+    }
+  ],
+  "rubrics": [
+    "The afternoon delivery order after the audition should choose Steamed Tender Cuttlefish Slices and Whole Grain Corn Wowotou from Qingshuji store",
+    "The total number of items in the afternoon delivery order after the audition should be 2",
+    "The delivery address for the afternoon delivery order after the audition should be No.8, No.7 Tianxian Bridge North Road, Jinhai International Garden, Jinjiang District, Chengdu, Sichuan Province",
+    "The estimated delivery time for the afternoon delivery order after the audition should be around 2025-10-30 15:00:00",
+    "The sweetness option for Camellia Americano in the coffee order before the audition should be the no sugar option",
+    "The total number of items in the coffee order before the audition should be 2 cups",
+    "The delivery address for the coffee order before the audition should be No.8, No.7 Tianxian Bridge North Road, Jinhai International Garden, Jinjiang District, Chengdu, Sichuan Province",
+    "The estimated delivery time for the coffee order before the audition should be before 2025-10-30 12:00:00"
+  ]
+}

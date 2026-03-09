@@ -1,0 +1,387 @@
+{
+  "task_id": "I0716002",
+  "domain": "delivery",
+  "time": "2025-09-26 18:26:00",
+  "user_id": "U000061",
+  "weather": [
+    {
+      "city": "Hefei City",
+      "category": "overcast",
+      "datetime": "2025-09-26",
+      "temperature": [
+        23,
+        30
+      ],
+      "humidity": 73
+    }
+  ],
+  "location": [
+    {
+      "address": "Room 502, Building 3, Evergrande Oasis, Intersection of Richu Road and Binzhi Road, Feidong County, Hefei, Anhui Province",
+      "longitude": 117.477721,
+      "latitude": 31.851066
+    }
+  ],
+  "user_profile": {
+    "user id": "U000061",
+    "occupation": "Blue-collar worker",
+    "gender": "female",
+    "age group": "35~40",
+    "residence": "Hefei",
+    "home address": "Room 502, Building 3, Evergrande Oasis, Intersection of Richu Road and Binzhi Road, Feidong County, Hefei, Anhui Province",
+    "work address": "Wanpin Industrial Park, 280 meters southwest of the intersection of Longcheng Road and Guiwang Road, Feidong County, Hefei, Anhui Province",
+    "dietary restrictions": "No fried foods, low salt",
+    "family status": "Has children",
+    "personality": "Impatient, frequently hurries others, lacks patience for waiting"
+  },
+  "user_historical_behaviors": {
+    "user id": "U000061",
+    "occupation": "Blue-collar worker",
+    "gender": "female",
+    "age group": "35~40",
+    "residence": "Hefei",
+    "home address": "Room 502, Building 3, Evergrande Oasis, Intersection of Richu Road and Binzhi Road, Feidong County, Hefei, Anhui Province",
+    "work address": "Wanpin Industrial Park, 280 meters southwest of the intersection of Longcheng Road and Guiwang Road, Feidong County, Hefei, Anhui Province",
+    "breakfast": {
+      "frequently purchased categories": [
+        "Simple Meal Fast Food/Steamed Buns/Pan-fried Buns (Average 15 yuan)",
+        "Simple Meal Fast Food/Porridge (Average 12 yuan)",
+        "Simple Meal Fast Food/Pot Stickers/Pancake Rolls/Hand-grabbed Pancakes (Average 10 yuan)"
+      ],
+      "cost per order": "10~28 yuan",
+      "preferred store rating": "4.0~4.5 stars",
+      "preferred delivery time": "15~25 minutes",
+      "preferred distance": "0~1500m",
+      "recent orders": [
+        {
+          "store": "Huabu Steamed Bun Shop",
+          "product": "3 Pork Buns + 1 Cup of Soy Milk"
+        },
+        {
+          "store": "Laojie Fang Breakfast",
+          "product": "Preserved Egg & Lean Pork Porridge + Fried Dough Stick"
+        },
+        {
+          "store": "Feishu Pot Stickers",
+          "product": "[Special Deal] 15 Pot Stickers + Nutritious Sand Soup + Spring Water Tea Egg"
+        }
+      ],
+      "search history": [
+        "Low-fat breakfast",
+        "Steamed buns",
+        "Porridge",
+        "Soy milk",
+        "Hand-grabbed pancakes"
+      ]
+    },
+    "weekday lunch/dinner": {
+      "frequently purchased categories": [
+        "Simple Meal Fast Food/Small Portion Dishes (Average 25 yuan)",
+        "Simple Meal Fast Food/Healthy Meals (Average 32 yuan)",
+        "Chinese Formal Dining/Shandong Cuisine (Average 40 yuan)"
+      ],
+      "cost per order": "20~45 yuan",
+      "preferred store rating": "4.2~4.8 stars",
+      "preferred delivery time": "20~35 minutes",
+      "preferred distance": "0~2500m",
+      "recent orders": [
+        {
+          "store": "Yifan Bancai",
+          "product": "Garlic Broccoli + Steamed Fish + Rice"
+        },
+        {
+          "store": "Light Food Workshop",
+          "product": "Chicken Breast Salad + Whole Wheat Bread"
+        },
+        {
+          "store": "Shandong Flavor Restaurant",
+          "product": "Stewed Radish with Beef Brisket + White Rice"
+        }
+      ],
+      "search history": [
+        "Low-fat healthy meals",
+        "Steamed dishes",
+        "Light lunch",
+        "Not greasy"
+      ]
+    },
+    "weekend lunch/dinner": {
+      "frequently purchased categories": [
+        "Chinese Formal Dining/Northeastern Cuisine (Average 70 yuan)",
+        "Chinese Formal Dining/Hunan Cuisine (Average 65 yuan)",
+        "Hot Pot/Claypot Porridge (Average 55 yuan)"
+      ],
+      "cost per order": "50~90 yuan",
+      "preferred store rating": "4.5~4.9 stars",
+      "preferred delivery time": "30~45 minutes",
+      "preferred distance": "0~3500m",
+      "recent orders": [
+        {
+          "store": "Northeastern Family Restaurant",
+          "product": "Sauerkraut with Pork + Sweet and Sour Pork (Mild) + Corn Pancakes"
+        },
+        {
+          "store": "Hunan Flavor Kitchen",
+          "product": "Steamed Fish Head + Stir-fried Pork + Taro with Braised Pork"
+        },
+        {
+          "store": "Laojie Fang Claypot",
+          "product": "Preserved Egg & Lean Pork Porridge + Braised Beef"
+        }
+      ],
+      "search history": [
+        "Non-spicy Hunan cuisine",
+        "Claypot porridge",
+        "Home-style dishes",
+        "Northeastern cuisine"
+      ]
+    },
+    "desserts/drinks/snacks": {
+      "frequently purchased categories": [
+        "Beverages & Desserts/Pure Tea/Herbal Tea (Average 18 yuan)",
+        "Beverages & Desserts/Fruit Salad (Average 22 yuan)",
+        "Beverages & Desserts/Chinese Pastries (Average 16 yuan)"
+      ],
+      "cost per order": "15~25 yuan",
+      "preferred store rating": "4.3~4.9 stars",
+      "preferred delivery time": "10~20 minutes",
+      "preferred distance": "0~2000m",
+      "recent orders": [
+        {
+          "store": "Cha Bai Dao",
+          "product": "Oolong Tea (Sugar-free)"
+        },
+        {
+          "store": "Fresh Fruit Mix",
+          "product": "Mixed Fruit Salad (Less Sugar)"
+        },
+        {
+          "store": "Daoxiang Village",
+          "product": "Mung Bean Cake + Chinese Yam Cake"
+        }
+      ],
+      "search history": [
+        "Sugar-free drinks",
+        "Low-sugar desserts",
+        "Fruit salad",
+        "Traditional pastries"
+      ]
+    },
+    "night snack": {
+      "frequently purchased categories": [
+        "Simple Meal Fast Food/Small Portion Dishes (Average 30 yuan)",
+        "Simple Meal Fast Food/Rice Noodles (Average 22 yuan)",
+        "Hot Pot/Claypot Porridge (Average 25 yuan)"
+      ],
+      "cost per order": "20~35 yuan",
+      "preferred store rating": "4.1~4.6 stars",
+      "preferred delivery time": "20~35 minutes",
+      "preferred distance": "0~2500m",
+      "recent orders": [
+        {
+          "store": "Night Food Bistro",
+          "product": "Small Portion Steamed Tofu with Minced Meat + Small Portion Stir-fried Seasonal Vegetables"
+        },
+        {
+          "store": "Yunnan Rice Noodles",
+          "product": "Clear Soup Rice Noodles + Marinated Egg"
+        },
+        {
+          "store": "Old Street Claypot Porridge",
+          "product": "Stomach-friendly Claypot Porridge + Pickled Radish"
+        }
+      ],
+      "search history": [
+        "Light night snack",
+        "Claypot porridge",
+        "Stomach-friendly",
+        "Non-greasy night snack"
+      ]
+    }
+  },
+  "stores": {
+    "S30041269188859918_S18118": {
+      "name": "Xiao Cai Yuan New Hui Cuisine (Hefei Feidong Xingyue Branch)",
+      "store_id": "S30041269188859918_S18118",
+      "score": 5,
+      "location": {
+        "address": "Xiao Cai Yuan, 200 meters east of the intersection of Guihua Road and Shanlin Road, Feidong County, Hefei, Anhui Province",
+        "latitude": 31.857915,
+        "longitude": 117.49025
+      },
+      "tags": [
+        "Fast Food",
+        "Delicious Taste",
+        "Well Packaged"
+      ],
+      "products": [
+        {
+          "name": "Large Pickled Cabbage Fish with Rice Set",
+          "store_id": "S30041269188859918_S18118",
+          "store_name": "Xiao Cai Yuan New Hui Cuisine (Hefei Feidong Xingyue Branch)",
+          "price": 61,
+          "tags": [
+            "Sour Soup"
+          ],
+          "product_id": "S23785211641758589_P58323",
+          "attributes": [],
+          "quantity": 9999
+        },
+        {
+          "name": "Shuiyang Three Treasures",
+          "store_id": "S30041269188859918_S18118",
+          "store_name": "Xiao Cai Yuan New Hui Cuisine (Hefei Feidong Xingyue Branch)",
+          "price": 52,
+          "tags": [
+            "Includes Duck Intestines, Duck Wings, Duck Feet"
+          ],
+          "product_id": "S16307685929834239_P63079",
+          "attributes": [],
+          "quantity": 9999
+        },
+        {
+          "name": "Clay Pot Duck Soup",
+          "product_id": "S26600125639524068_P19360",
+          "store_id": "S30041269188859918_S18118",
+          "store_name": "Xiao Cai Yuan New Hui Cuisine (Hefei Feidong Xingyue Branch)",
+          "price": 59,
+          "tags": [
+            "Fragrant Stew",
+            "Whole Duck (Including Duck Head)"
+          ],
+          "attributes": [],
+          "quantity": 9999
+        },
+        {
+          "name": "Large Braised Pork with Rice Set",
+          "product_id": "S18587661079696325_P34593",
+          "store_id": "S30041269188859918_S18118",
+          "store_name": "Xiao Cai Yuan New Hui Cuisine (Hefei Feidong Xingyue Branch)",
+          "price": 68,
+          "tags": [
+            "Nutritious and Delicious"
+          ],
+          "attributes": [],
+          "quantity": 9999
+        }
+      ]
+    },
+    "S30083969521409190_S86523": {
+      "name": "Feishu Pot Stickers (Evergrande Oasis Branch)",
+      "store_id": "S30083969521409190_S86523",
+      "score": 4.9,
+      "location": {
+        "address": "Feishu Pot Stickers (Feidong Evergrande Oasis Branch), Shop A07-08, Runhe Shangpin Yibai Shopping Plaza, Zhannan Road, Dianbu Town, Feidong County, Hefei, Anhui Province",
+        "latitude": 31.852907,
+        "longitude": 117.475076
+      },
+      "tags": [
+        "Breakfast Fast Food"
+      ],
+      "products": [
+        {
+          "name": "15 Signature Pot Stickers",
+          "store_id": "S30083969521409190_S86523",
+          "store_name": "Feishu Pot Stickers (Evergrande Oasis Branch)",
+          "price": 12,
+          "tags": [],
+          "product_id": "S15458733652995175_P00321",
+          "attributes": [],
+          "quantity": 9999
+        },
+        {
+          "name": "[Special Deal] 15 Pot Stickers + Nutritious Sand Soup + Spring Water Tea Egg",
+          "store_id": "S30083969521409190_S86523",
+          "store_name": "Feishu Pot Stickers (Evergrande Oasis Branch)",
+          "price": 25.5,
+          "tags": [
+            "Simple Meal Fast Food"
+          ],
+          "product_id": "S31204419833700446_P30658",
+          "attributes": [],
+          "quantity": 9999
+        },
+        {
+          "name": "20 Signature Pot Stickers",
+          "product_id": "S89951280912603519_P03251",
+          "store_id": "S30083969521409190_S86523",
+          "store_name": "Feishu Pot Stickers (Evergrande Oasis Branch)",
+          "price": 16,
+          "tags": [
+            "Golden Crispy",
+            "Juicy Burst"
+          ],
+          "attributes": [],
+          "quantity": 9999
+        },
+        {
+          "name": "30 Signature Pot Stickers + 2 Sand Soups + Soy Milk + 2 Tea Eggs + Fried Egg + 2 Appetizers",
+          "product_id": "S37830767853701889_P70376",
+          "store_id": "S30083969521409190_S86523",
+          "store_name": "Feishu Pot Stickers (Evergrande Oasis Branch)",
+          "price": 58.8,
+          "tags": [],
+          "attributes": [],
+          "quantity": 9999
+        }
+      ]
+    },
+    "S17454024663975800_S65572": {
+      "name": "Agui Pot Stickers (Dijingwan Branch)",
+      "store_id": "S17454024663975800_S65572",
+      "score": 5,
+      "location": {
+        "address": "Agui Pot Stickers (Dijingwan Branch), Room 104, Building 2, Dijingwan Commercial Area, Shanshui Road, Dianbu Town, Feidong County, Hefei, Anhui Province",
+        "latitude": 31.856325,
+        "longitude": 117.493875
+      },
+      "tags": [
+        "Reservations Available"
+      ],
+      "products": [
+        {
+          "name": "30 Agui Pot Stickers",
+          "product_id": "S27596411941907818_P71379",
+          "store_id": "S17454024663975800_S65572",
+          "store_name": "Agui Pot Stickers (Dijingwan Branch)",
+          "price": 24,
+          "tags": [
+            "Crispy Golden",
+            "Lingering Flavor"
+          ],
+          "attributes": [],
+          "quantity": 9999
+        }
+      ]
+    }
+  },
+  "orders": {
+    "I0716002O01": {
+      "order_id": "I0716002O01",
+      "order_type": "delivery",
+      "user_id": "U000061",
+      "store_id": "S30083969521409190_S86523",
+      "note": "",
+      "location": {
+        "address": "Room 502, Building 3, Evergrande Oasis, Intersection of Richu Road and Binzhi Road, Feidong County, Hefei, Anhui Province",
+        "longitude": 117.477721,
+        "latitude": 31.851066
+      },
+      "dispatch_time": "2025-09-11 12:20:00",
+      "shipping_time": 35,
+      "delivery_time": "2025-09-11 12:55:00",
+      "total_price": 25.5,
+      "create_time": "2025-09-11 12:00:00",
+      "update_time": "2025-09-11 12:00:00",
+      "status": "delivered",
+      "products": [
+        {
+          "product_id": "S31204419833700446_P30658",
+          "price": 25.5,
+          "quantity": 1,
+          "attributes": ""
+        }
+      ]
+    }
+  }
+}

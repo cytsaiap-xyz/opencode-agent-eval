@@ -1,0 +1,368 @@
+{
+  "task_id": "J0721001",
+  "domain": "delivery",
+  "time": "2024-03-31 08:34:46",
+  "user_id": "U000089",
+  "weather": [
+    {
+      "city": "Shijiazhuang City",
+      "category": "sunny",
+      "datetime": "2024-03-31",
+      "temperature": [
+        12,
+        20
+      ],
+      "humidity": 65
+    }
+  ],
+  "location": [
+    {
+      "address": "Tianyuan Business Building, 3 Yuejin Road, Chang'an District, Shijiazhuang, Hebei Province",
+      "longitude": 114.535201,
+      "latitude": 38.049537
+    }
+  ],
+  "user_profile": {
+    "user id": "U000089",
+    "occupation": "Advertising Planner",
+    "gender": "female",
+    "age group": "30~35",
+    "residence": "Shijiazhuang",
+    "home address": "Unit 1, South Gaoying Community, 22 Xiangyang Street, Gaoying Town, Chang'an District, Shijiazhuang City, Hebei Province",
+    "work address": "Tianyuan Business Building, 3 Yuejin Road, Chang'an District, Shijiazhuang, Hebei Province",
+    "dietary restrictions": "Avoid high-fat internal organs",
+    "family status": "Has children",
+    "personality": "Tends to be dominant and controlling, not easily accepting different opinions"
+  },
+  "user_historical_behaviors": {
+    "user id": "U000089",
+    "occupation": "Advertising Planner",
+    "gender": "female",
+    "age group": "30~35",
+    "residence": "Shijiazhuang",
+    "home address": "Unit 1, South Gaoying Community, 22 Xiangyang Street, Gaoying Town, Chang'an District, Shijiazhuang City, Hebei Province",
+    "work address": "Tianyuan Business Building, 3 Yuejin Road, Chang'an District, Shijiazhuang, Hebei Province",
+    "breakfast": {
+      "frequently purchased categories": [
+        "Quick meals/Buns/Pan-fried buns (average 25 yuan)",
+        "Quick meals/Light food (average 32 yuan)",
+        "Quick meals/Salad (average 28 yuan)"
+      ],
+      "cost per order": "18~35 yuan",
+      "preferred store rating": "4.2~4.9 stars",
+      "preferred delivery time": "15~40 minutes",
+      "preferred distance": "0~3000m",
+      "recent orders": [
+        {
+          "store": "Fresh Morning Snack Shop",
+          "product": "Meat Buns + Soy Milk"
+        },
+        {
+          "store": "Light Food Select",
+          "product": "Fruit Cereal Cup + Low-fat Yogurt"
+        },
+        {
+          "store": "Salad Diary",
+          "product": "Fruit and Vegetable Salad + Whole Wheat Bread"
+        }
+      ],
+      "search history": [
+        "Healthy breakfast",
+        "Low-fat morning snacks",
+        "Light food",
+        "Fruit salad",
+        "Oatmeal"
+      ]
+    },
+    "weekday lunch/dinner": {
+      "frequently purchased categories": [
+        "Quick meals/Healthy meals (average 42 yuan)",
+        "Quick meals/Salad (average 35 yuan)",
+        "Chinese cuisine/Cantonese food (average 60 yuan)"
+      ],
+      "cost per order": "30~65 yuan",
+      "preferred store rating": "4.3~4.9 stars",
+      "preferred delivery time": "20~40 minutes",
+      "preferred distance": "0~3500m",
+      "recent orders": [
+        {
+          "store": "Nutritious Select",
+          "product": "Low-fat Chicken Breast Rice + Broccoli"
+        },
+        {
+          "store": "Cantonese Pavilion",
+          "product": "Steamed Fish + Seasonal Vegetables"
+        },
+        {
+          "store": "Light Food Philosophy",
+          "product": "Quinoa Chicken Salad"
+        }
+      ],
+      "search history": [
+        "Healthy lunch",
+        "Low oil",
+        "Light food",
+        "Steamed dishes",
+        "Cantonese steamed fish"
+      ]
+    },
+    "weekend lunch/dinner": {
+      "frequently purchased categories": [
+        "Chinese cuisine/Cantonese food (average 85 yuan)",
+        "Foreign cuisine/Korean food (average 98 yuan)",
+        "Chinese cuisine/Northeastern food (average 90 yuan)"
+      ],
+      "cost per order": "75~180 yuan",
+      "preferred store rating": "4.5~5.0 stars",
+      "preferred delivery time": "30~50 minutes",
+      "preferred distance": "0~5000m",
+      "recent orders": [
+        {
+          "store": "Yue Lai Yue Hao",
+          "product": "White Cut Chicken + Shrimp Dumplings + Steamed Ribs"
+        },
+        {
+          "store": "Seoul Small Restaurant",
+          "product": "Stone Pot Bibimbap + Seaweed Soup"
+        },
+        {
+          "store": "Hometown Northeastern Cuisine",
+          "product": "Sweet and Sour Pork + Northeastern Cold Noodles + Corn Pancakes"
+        }
+      ],
+      "search history": [
+        "Family-friendly restaurant",
+        "Kids' meal",
+        "Family gathering",
+        "Korean cuisine",
+        "Cantonese cuisine"
+      ]
+    },
+    "desserts/drinks/snacks": {
+      "frequently purchased categories": [
+        "Beverages and desserts/Juice (average 28 yuan)",
+        "Beverages and desserts/Pure tea/Herbal tea (average 22 yuan)",
+        "Beverages and desserts/Fruit mix (average 35 yuan)"
+      ],
+      "cost per order": "15~45 yuan",
+      "preferred store rating": "4.4~4.9 stars",
+      "preferred delivery time": "15~30 minutes",
+      "preferred distance": "0~3000m",
+      "recent orders": [
+        {
+          "store": "Fresh Juice Station",
+          "product": "Mango Kiwi Juice"
+        },
+        {
+          "store": "Fresh Fruit King",
+          "product": "Colorful Fruit Mix"
+        },
+        {
+          "store": "Tea Yan Yue Se",
+          "product": "Jasmine Green Tea"
+        }
+      ],
+      "search history": [
+        "Freshly squeezed juice",
+        "Low-sugar drinks",
+        "Fruit mix",
+        "Green tea",
+        "Fruit tea for kids"
+      ]
+    },
+    "night snack": {
+      "frequently purchased categories": [
+        "Hot pot/Chicken pot (average 48 yuan)",
+        "Snacks and marinades/Marinated food (average 38 yuan)"
+      ],
+      "cost per order": "30~60 yuan",
+      "preferred store rating": "4.2~4.8 stars",
+      "preferred delivery time": "25~45 minutes",
+      "preferred distance": "0~3500m",
+      "recent orders": [
+        {
+          "store": "Claypot No.1",
+          "product": "Home-style Tofu Pot"
+        },
+        {
+          "store": "Mom's Marinated Foods",
+          "product": "Marinated Chicken Wings + Marinated Tofu"
+        },
+        {
+          "store": "Warm Pot Family",
+          "product": "Mushroom Chicken Pot"
+        }
+      ],
+      "search history": [
+        "Warming pot",
+        "Non-spicy marinated food",
+        "Tofu pot",
+        "Light night snack",
+        "Claypot"
+      ]
+    }
+  },
+  "stores": {
+    "S59786818786582947_S57980": {
+      "name": "Lu Li · Prescription (Chinese Tea Beverage)",
+      "store_id": "S59786818786582947_S57980",
+      "score": 4.5,
+      "location": {
+        "address": "Youdian Vegetable Market, Building 4, Shimeiji, Chang'an District, Shijiazhuang, Hebei Province",
+        "latitude": 38.051425,
+        "longitude": 114.550025
+      },
+      "tags": [
+        "Traditional Recipe New Drink"
+      ],
+      "products": [
+        {
+          "name": "Osmanthus Pear Fragrance (Osmanthus Autumn Pear)",
+          "store_id": "S59786818786582947_S57980",
+          "store_name": "Lu Li · Prescription (Chinese Tea Beverage)",
+          "price": 24.9,
+          "tags": [],
+          "product_id": "S40851029391762274_P15308",
+          "attributes": [
+            "Regular Ice",
+            "Less Ice",
+            "Hot",
+            "No Ice"
+          ],
+          "quantity": 9999
+        }
+      ]
+    },
+    "S14300562617778145_S54361": {
+      "name": "Osaka Pork Bone Ramen (Wanda Store)",
+      "store_id": "S14300562617778145_S54361",
+      "score": 4.9,
+      "location": {
+        "address": "Stall No. 10, Shizhida Food Center, 512 Huaizhong Road, Yuhua District, Shijiazhuang, Hebei Province",
+        "latitude": 38.028851,
+        "longitude": 114.553959
+      },
+      "tags": [],
+      "products": [
+        {
+          "name": "[Signature] Osaka Beef and Pork Bone Ramen",
+          "store_id": "S14300562617778145_S54361",
+          "store_name": "Osaka Pork Bone Ramen (Wanda Store)",
+          "price": 29.8,
+          "tags": [],
+          "product_id": "S23532868960336657_P82546",
+          "attributes": [],
+          "quantity": 9999
+        },
+        {
+          "name": "Osaka Shrimp Ramen",
+          "product_id": "S22638594339878392_P56735",
+          "store_id": "S14300562617778145_S54361",
+          "store_name": "Osaka Pork Bone Ramen (Wanda Store)",
+          "price": 25.88,
+          "tags": [],
+          "attributes": [],
+          "quantity": 9999
+        }
+      ]
+    },
+    "S97118863472260364_S43256": {
+      "name": "Qinggu Ginseng Chicken Soup · Korean Bibimbap (Beiguo Mall Store)",
+      "store_id": "S97118863472260364_S43256",
+      "score": 4.7,
+      "location": {
+        "address": "Qinggu Ginseng Chicken Soup · Authentic Korean Food, 7th Floor, Beiguo Mall, 188 Zhongshan East Road, Qiaoxi District, Shijiazhuang, Hebei Province (Beiguo Mall Store)",
+        "latitude": 38.042395,
+        "longitude": 114.510162
+      },
+      "tags": [],
+      "products": [
+        {
+          "name": "[Special] Spicy Ramen with Stir-fried Rice Cake",
+          "product_id": "S23934176450100377_P46748",
+          "store_id": "S97118863472260364_S43256",
+          "store_name": "Qinggu Ginseng Chicken Soup · Korean Bibimbap (Beiguo Mall Store)",
+          "price": 33,
+          "tags": [
+            "Mildly Spicy"
+          ],
+          "attributes": [],
+          "quantity": 9999
+        }
+      ]
+    },
+    "S68878889977067399_S90346": {
+      "name": "ZOONANA Seoul Fried Chicken (Lotte Store)",
+      "store_id": "S68878889977067399_S90346",
+      "score": 4.4,
+      "location": {
+        "address": "SY-45, Chaowan Haichi Market, Basement Level 1, Beehive Shopping Center, 20 Jianshe North Street, Chang'an District, Shijiazhuang, Hebei Province",
+        "latitude": 38.043417,
+        "longitude": 114.51868
+      },
+      "tags": [],
+      "products": [
+        {
+          "name": "[Classic Super Spicy] Korean Extremely Spicy Fire Chicken Noodles",
+          "product_id": "S29298543946951176_P60651",
+          "store_id": "S68878889977067399_S90346",
+          "store_name": "ZOONANA Seoul Fried Chicken (Lotte Store)",
+          "price": 9.2,
+          "tags": [],
+          "attributes": [],
+          "quantity": 9999
+        }
+      ]
+    },
+    "S10270278510918162_S17262": {
+      "name": "A Shui Big Cup Tea (Lotte Store)",
+      "store_id": "S10270278510918162_S17262",
+      "score": 4.9,
+      "location": {
+        "address": "A Shui Big Cup Tea (Lotte Center Store), Lotte Center (500 meters walk from southwest exit C2 of Beiguo Mall Subway Station), Chang'an District, Shijiazhuang, Hebei Province",
+        "latitude": 38.044648,
+        "longitude": 114.50677
+      },
+      "tags": [],
+      "products": [
+        {
+          "name": "Ice Cream Milk Tea",
+          "product_id": "S29358179191928108_P10396",
+          "store_id": "S10270278510918162_S17262",
+          "store_name": "A Shui Big Cup Tea (Lotte Store)",
+          "price": 14,
+          "tags": [],
+          "attributes": [],
+          "quantity": 9999
+        }
+      ]
+    },
+    "S16288376471107605_S29776": {
+      "name": "Yifang Seasons · Herbal Fresh Milk Tea (Hebei Flagship Store)",
+      "store_id": "S16288376471107605_S29776",
+      "score": 5,
+      "location": {
+        "address": "First Shop, Physical Examination Building of Provincial Traditional Chinese Medicine Hospital, 389 Zhongshan East Road, Chang'an District, Shijiazhuang, Hebei Province",
+        "latitude": 38.044187,
+        "longitude": 114.537389
+      },
+      "tags": [],
+      "products": [
+        {
+          "name": "Good Digestive Tea (11 ingredients including ginseng, dried tangerine peel, polygonatum, etc.)",
+          "product_id": "S28247520574583056_P01266",
+          "store_id": "S16288376471107605_S29776",
+          "store_name": "Yifang Seasons · Herbal Fresh Milk Tea (Hebei Flagship Store)",
+          "price": 18,
+          "tags": [
+            "Nourishing Stomach",
+            "Strengthening Spleen"
+          ],
+          "attributes": [],
+          "quantity": 9999
+        }
+      ]
+    }
+  },
+  "orders": {}
+}

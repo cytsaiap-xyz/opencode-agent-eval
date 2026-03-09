@@ -1,0 +1,98 @@
+{
+  "required_orders": [
+    {
+      "order_id": "90716002T01",
+      "order_type": "delivery",
+      "user_id": "U000097",
+      "store_id": "S16887453931857079_S63694",
+      "note": "",
+      "location": {
+        "address": "International Trade Building, 69 Fuxi Street, Xinghualing District, Taiyuan, Shanxi Province",
+        "longitude": 112.557585,
+        "latitude": 37.874302
+      },
+      "dispatch_time": "2025-09-26 18:06:00 ",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 53.7,
+      "create_time": "2025-09-26 18:00:00",
+      "update_time": "2025-09-26 18:00:00",
+      "status": "in-progress",
+      "products": [
+        {
+          "product_id": "S33043175164707784_P19453",
+          "price": 17.9,
+          "quantity": 3,
+          "attributes": ""
+        }
+      ]
+    },
+    {
+      "order_id": "90716002T02",
+      "order_type": "delivery",
+      "user_id": "U000097",
+      "store_id": "S17075190379161118_S54665",
+      "note": "",
+      "location": {
+        "address": "Longcheng Shangdu, 800 meters east of Wucheng Intersection (No.11 Bus Terminal), Xiaodian District, Taiyuan, Shanxi Province",
+        "longitude": 112.60007,
+        "latitude": 37.780435
+      },
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 29.6,
+      "create_time": "2025-09-26 18:00:00",
+      "update_time": "2025-09-26 18:00:00",
+      "status": "unpaid",
+      "products": [
+        {
+          "product_id": "S95761118842118315_P53885",
+          "price": 14.8,
+          "quantity": 2,
+          "attributes": ""
+        }
+      ]
+    },
+    {
+      "order_id": "90716002T03",
+      "order_type": "delivery",
+      "user_id": "U000097",
+      "store_id": "S19713618878860452_S55950",
+      "note": "",
+      "location": {
+        "address": "International Trade Building, 69 Fuxi Street, Xinghualing District, Taiyuan, Shanxi Province",
+        "longitude": 112.557585,
+        "latitude": 37.874302
+      },
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 24.8,
+      "create_time": "2025-09-26 18:00:00",
+      "update_time": "2025-09-26 18:00:00",
+      "status": "processed",
+      "products": [
+        {
+          "product_id": "S29731354455150560_P41203",
+          "price": 24.8,
+          "quantity": 1,
+          "attributes": ""
+        }
+      ]
+    }
+  ],
+  "rubrics": [
+    "The delivery address for the Shanxi Specialty drink order prepared for the client should be International Trade Building, 69 Fuxi Street, Xinghualing District, Taiyuan, Shanxi Province",
+    "The delivery time for the Shanxi Specialty drink order prepared for the client should be before 2025-09-26 20:00:00, for use during the evening dinner party",
+    "The Shanxi Specialty drink prepared for the client should be innovative vinegar drink products with local Shanxi characteristics, such as Shanxi Aged Vinegar Cola",
+    "The delivery address for the clay pot soup order prepared for family should be Longcheng Shangdu, 800 meters east of Wucheng Intersection (No.11 Bus Terminal), Xiaodian District, Taiyuan, Shanxi Province",
+    "The delivery time for the clay pot soup order prepared for family should be between 2025-09-26 17:57:41 and 2025-09-26 19:57:41",
+    "The clay pot soup items prepared for family should have nourishing effects, suitable for the wife and daughter's health",
+    "The clay pot soup order prepared for family should have a total of 2 portions, one each for the wife and daughter",
+    "The delivery address for the personal lunch buckwheat cold noodles order should be International Trade Building, 69 Fuxi Street, Xinghualing District, Taiyuan, Shanxi Province",
+    "The delivery time for the personal lunch buckwheat cold noodles order should be between 2025-09-26 17:57:41 and 2025-09-26 19:57:41",
+    "The personal lunch buckwheat cold noodles should contain meat to meet non-vegetarian requirements",
+    "The personal lunch buckwheat cold noodles should not contain high-purine ingredients such as organ meats or seafood soup"
+  ]
+}

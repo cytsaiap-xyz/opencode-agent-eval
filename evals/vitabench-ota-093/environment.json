@@ -1,0 +1,124 @@
+{
+  "task_id": "D0807002",
+  "domain": "ota",
+  "time": "2024-09-11 13:15:21",
+  "user_id": "U010022",
+  "weather": [
+    {
+      "city": "Weifang",
+      "category": "cloudy",
+      "datetime": "2024-09-11",
+      "temperature": [
+        18,
+        26
+      ],
+      "humidity": 65
+    },
+    {
+      "city": "Haikou",
+      "category": "sunny",
+      "datetime": "2024-09-11",
+      "temperature": [
+        26,
+        32
+      ],
+      "humidity": 78
+    },
+    {
+      "city": "Jinan",
+      "category": "cloudy",
+      "datetime": "2024-09-11",
+      "temperature": [
+        19,
+        27
+      ],
+      "humidity": 62
+    }
+  ],
+  "location": [
+    {
+      "address": "East Area of Zuo'an Huating, 2526 Yuhe Road, Kuiwen District, Weifang, Shandong Province",
+      "longitude": 119.1625,
+      "latitude": 36.7069
+    },
+    {
+      "address": "Haikou Mingmen Plaza, Tower A, Mingmen Plaza, Guomao Avenue, Longhua District, Haikou, Hainan Province",
+      "latitude": 20.031,
+      "longitude": 110.3152
+    },
+    {
+      "address": "Genesis Fitness (Inzone Store), B1 Floor, Inzone Mall, 4000 Shengli East Street, Kuiwen District, Weifang, Shandong Province",
+      "longitude": 119.1583,
+      "latitude": 36.7045
+    }
+  ],
+  "user_profile": {
+    "user id": "U010022",
+    "occupation": "fitness instructor",
+    "gender": "female",
+    "age group": "25~30",
+    "residence": "Weifang",
+    "home address": "East Area of Zuo'an Huating, 2526 Yuhe Road, Kuiwen District, Weifang, Shandong Province",
+    "work address": "Genesis Fitness (Inzone Store), B1 Floor, Inzone Mall, 4000 Shengli East Street, Kuiwen District, Weifang, Shandong Province",
+    "dietary restrictions": "avoids high sugar, avoids fried food",
+    "family status": "in a relationship",
+    "personality": "expresses herself coldly and concisely, lacks emotional communication and patience"
+  },
+  "user_historical_behaviors": {
+    "user id": "U010022",
+    "occupation": "fitness coach",
+    "gender": "female",
+    "age group": "25~30",
+    "residence": "Weifang",
+    "home address": "East Area of Zuo'an Huating, 2526 Yuhe Road, Kuiwen District, Weifang, Shandong Province",
+    "work address": "Genesis Fitness (Inzone Store), B1 Floor, Inzone Mall, 4000 Shengli East Street, Kuiwen District, Weifang, Shandong Province",
+    "visited scenes": {
+      "Natural scenery (mountains/lakes/forests)": "40%",
+      "Hot spring resorts": "30%",
+      "Cultural and historical sites": "15%",
+      "Parks": "10%",
+      "Exhibition halls (museums/art galleries)": "5%"
+    },
+    "cost per night on hotel": "300~500 yuan",
+    "visited hotels": {
+      "Home Inn": "40%",
+      "Hanting": "25%",
+      "Ji Hotel": "15%",
+      "7 Days Inn": "10%",
+      "GreenTree Inn": "10%"
+    },
+    "browsed hotels": {
+      "Three-star hotels": "30%",
+      "Economy hotels": "55%",
+      "Comfort hotels": "15%"
+    },
+    "historical travel plans": {
+      "Weifang-Qingdao": {
+        "Price range": "80-150 yuan",
+        "Transportation": "high-speed rail"
+      },
+      "Weifang-Beijing": {
+        "Price range": "200-350 yuan",
+        "Transportation": "high-speed rail"
+      },
+      "Weifang-Mount Tai": {
+        "Price range": "150-200 yuan",
+        "Transportation": "self-driving"
+      },
+      "Weifang-Sanya": {
+        "Price range": "1200-2000 yuan",
+        "Transportation": "airplane"
+      },
+      "Weifang-Shanghai": {
+        "Price range": "500-800 yuan",
+        "Transportation": "high-speed rail"
+      },
+      "Weifang-Changbai Mountain": {
+        "Price range": "800-1500 yuan",
+        "Transportation": "airplane"
+      }
+    }
+  },
+  "stores": {},
+  "orders": {}
+}

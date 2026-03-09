@@ -1,0 +1,386 @@
+{
+  "task_id": "B0714001",
+  "domain": "delivery",
+  "time": "2025-05-08 21:54:57",
+  "user_id": "U000011",
+  "weather": [
+    {
+      "city": "Chengdu City",
+      "category": "sunny",
+      "datetime": "2025-05-08",
+      "temperature": [
+        16,
+        26
+      ],
+      "humidity": 60
+    }
+  ],
+  "location": [
+    {
+      "address": "Chengdu Exchange Building, South of Jinyun West Lane 1, Wuhou District, Chengdu, Sichuan Province",
+      "longitude": 104.071966,
+      "latitude": 30.584042
+    }
+  ],
+  "user_profile": {
+    "user id": "U000011",
+    "occupation": "Product Manager",
+    "gender": "male",
+    "age group": "30~35",
+    "residence": "Chengdu",
+    "home address": "Shudou Center Phase 1, Shudou Center (North Area), Guixi Street, Wuhou District, Chengdu, Sichuan Province",
+    "work address": "Chengdu Exchange Building, South of Jinyun West Lane 1, Wuhou District, Chengdu, Sichuan Province",
+    "dietary restrictions": "No high purine foods (such as offal/seafood soup), No caffeine",
+    "family status": "Has children",
+    "personality": "Expresses himself coldly and concisely, lacks emotional communication and patience"
+  },
+  "user_historical_behaviors": {
+    "user id": "U000011",
+    "occupation": "Product Manager",
+    "gender": "male",
+    "age group": "30~35",
+    "residence": "Chengdu",
+    "home address": "Shudou Center Phase 1, Shudou Center (North Area), Guixi Street, Wuhou District, Chengdu, Sichuan Province",
+    "work address": "Chengdu Exchange Building, South of Jinyun West Lane 1, Wuhou District, Chengdu, Sichuan Province",
+    "breakfast": {
+      "frequently purchased categories": [
+        "Quick Meals/Steamed Buns/Pan-fried Buns (Average 18 yuan)",
+        "Quick Meals/Pancakes/Wraps/Hand-grabbed Pancakes (Average 15 yuan)",
+        "Quick Meals/Dumplings/Wonton (Average 22 yuan)"
+      ],
+      "cost per order": "15~35 yuan",
+      "preferred store rating": "4.2~4.7 stars",
+      "preferred delivery time": "15~30 minutes",
+      "preferred distance": "0~2500m",
+      "recent orders": [
+        {
+          "store": "Meizhou Dongpo Bakery",
+          "product": "Soup-filled Pork Buns + Hot Soy Milk"
+        },
+        {
+          "store": "Jinjin Pancake Shop",
+          "product": "Original Pancake + Tea Egg"
+        },
+        {
+          "store": "Old Hu's Wonton",
+          "product": "Pork Wonton + Millet Porridge"
+        }
+      ],
+      "search history": [
+        "Caffeine-free drinks",
+        "Soup dumplings",
+        "Soy milk",
+        "Hand-grabbed pancakes"
+      ]
+    },
+    "weekday lunch/dinner": {
+      "frequently purchased categories": [
+        "Quick Meals/Rice with Toppings (Average 35 yuan)",
+        "Quick Meals/Stewed Chicken Rice (Average 32 yuan)",
+        "International Cuisine/Stone Pot Rice/Teppanyaki Rice (Average 38 yuan)"
+      ],
+      "cost per order": "30~55 yuan",
+      "preferred store rating": "4.3~4.8 stars",
+      "preferred delivery time": "20~35 minutes",
+      "preferred distance": "0~3000m",
+      "recent orders": [
+        {
+          "store": "Shike Stewed Chicken",
+          "product": "Stewed Chicken Rice + Bean Curd Skin + Vegetables"
+        },
+        {
+          "store": "LPPZ Bento Box",
+          "product": "Braised Pork Ribs Bento + Hot and Sour Soup"
+        },
+        {
+          "store": "Han-Du Stone Pot Rice",
+          "product": "Beef Stone Pot Rice + Kimchi"
+        }
+      ],
+      "search history": [
+        "Bento box",
+        "Fast food",
+        "Low purine",
+        "Stone pot rice",
+        "Diet meal"
+      ]
+    },
+    "weekend lunch/dinner": {
+      "frequently purchased categories": [
+        "Chinese Cuisine/Sichuan Cuisine (Average 85 yuan)",
+        "Hot Pot/Individual Hot Pot (Average 95 yuan)",
+        "International Cuisine/Japanese Bento/Sushi (Average 110 yuan)"
+      ],
+      "cost per order": "60~180 yuan",
+      "preferred store rating": "4.5~4.9 stars",
+      "preferred delivery time": "30~45 minutes",
+      "preferred distance": "0~5000m",
+      "recent orders": [
+        {
+          "store": "Chengdu Xiaoguan",
+          "product": "Boiled Fish + Twice-cooked Pork + Garlic Water Spinach + 2 portions of Rice"
+        },
+        {
+          "store": "Xiabu Xiabu",
+          "product": "Tomato Beef Individual Hot Pot + Beef Balls + Luncheon Meat + Tofu"
+        }
+      ],
+      "search history": [
+        "Family-friendly restaurants",
+        "Family meal sets",
+        "Purine-free hot pot",
+        "Japanese cuisine"
+      ]
+    },
+    "desserts/drinks/snacks": {
+      "frequently purchased categories": [
+        "Beverages & Desserts/Fruit Juice (Average 28 yuan)",
+        "Beverages & Desserts/Lemonade (Average 5 yuan)",
+        "Beverages & Desserts/Cold Desserts (Average 30 yuan)"
+      ],
+      "cost per order": "5~30 yuan",
+      "preferred store rating": "4.4~4.8 stars",
+      "preferred delivery time": "15~30 minutes",
+      "preferred distance": "0~3000m",
+      "recent orders": [
+        {
+          "store": "Fresh Fruit Workshop",
+          "product": "Fresh Strawberry Juice + Blueberry Juice"
+        },
+        {
+          "store": "Mixue Ice Cream",
+          "product": "Iced Fresh Lemonade"
+        },
+        {
+          "store": "Mr. Wildman",
+          "product": "Fruit Ice Cream + Coconut Jelly"
+        }
+      ],
+      "search history": [
+        "Caffeine-free drinks",
+        "Fruit tea",
+        "Lemonade",
+        "Ice cream",
+        "Kids' desserts"
+      ]
+    },
+    "night snack": {
+      "frequently purchased categories": [
+        "BBQ & Fried Food/Fried Chicken/Fried Items (Average 42 yuan)",
+        "Snacks & Marinated Food/Marinated Items (Average 38 yuan)",
+        "Quick Meals/Rice Noodles/Rice Vermicelli (Average 30 yuan)"
+      ],
+      "cost per order": "25~60 yuan",
+      "preferred store rating": "4.2~4.6 stars",
+      "preferred delivery time": "20~40 minutes",
+      "preferred distance": "0~4000m",
+      "recent orders": [
+        {
+          "store": "Juewei Duck Neck",
+          "product": "Mildly Spicy Duck Neck + Duck Wings + Dried Tofu"
+        },
+        {
+          "store": "Zhengxin Chicken Steak",
+          "product": "Spicy Chicken Steak + French Fries + Cola"
+        },
+        {
+          "store": "Dianwei Xuan",
+          "product": "Small Pot Rice Noodles + Marinated Egg"
+        }
+      ],
+      "search history": [
+        "Low purine night snacks",
+        "Marinated food",
+        "Chicken steak",
+        "Rice noodles",
+        "Night snack sets"
+      ]
+    }
+  },
+  "stores": {
+    "S24731824436022753_S28135": {
+      "name": "Ruxuan Seafood Clay Pot Porridge (CapitaLand Xinnan Branch)",
+      "store_id": "S24731824436022753_S28135",
+      "score": 4.8,
+      "location": {
+        "address": "Ruxuan Seafood Clay Pot Porridge (CapitaLand Xinnan Branch), CapitaLand Mall, No. 99 Shenghe First Road, Wuhou District, Chengdu, Sichuan Province",
+        "latitude": 30.601242,
+        "longitude": 104.062625
+      },
+      "tags": [],
+      "products": [
+        {
+          "name": "Vegetable and Lean Meat Porridge",
+          "store_id": "S24731824436022753_S28135",
+          "store_name": "Ruxuan Seafood Clay Pot Porridge (CapitaLand Xinnan Branch)",
+          "price": 23.0,
+          "tags": [
+            "Rich in Ingredients"
+          ],
+          "product_id": "S32773624016234062_P25950",
+          "attributes": [],
+          "quantity": 9999
+        },
+        {
+          "name": "Fresh Shrimp Porridge (per person)",
+          "product_id": "S20208222210220934_P10984",
+          "store_id": "S24731824436022753_S28135",
+          "store_name": "Ruxuan Seafood Clay Pot Porridge (CapitaLand Xinnan Branch)",
+          "price": 35,
+          "tags": [
+            "Savory and Fresh"
+          ],
+          "attributes": [],
+          "quantity": 9999
+        },
+        {
+          "name": "Milk, Papaya and Hasma Porridge (per person)",
+          "product_id": "S15456942990686984_P51486",
+          "store_id": "S24731824436022753_S28135",
+          "store_name": "Ruxuan Seafood Clay Pot Porridge (CapitaLand Xinnan Branch)",
+          "price": 32,
+          "tags": [
+            "Sweet"
+          ],
+          "attributes": [],
+          "quantity": 9999
+        }
+      ]
+    },
+    "S18748399810467268_S89485": {
+      "name": "Shuxia (Yufeng Li Branch)",
+      "store_id": "S18748399810467268_S89485",
+      "score": 4.8,
+      "location": {
+        "address": "No. 101, 1st Floor, Building 2, 500 Jiaozi Avenue, Chengdu High-tech Zone, Wuhou District, Chengdu, Sichuan Province, Shuxia (Yufeng Li Branch)",
+        "latitude": 30.582716,
+        "longitude": 104.051639
+      },
+      "tags": [],
+      "products": [
+        {
+          "name": "Mango Pomelo Sago",
+          "store_id": "S18748399810467268_S89485",
+          "store_name": "Shuxia (Yufeng Li Branch)",
+          "price": 20.0,
+          "tags": [
+            "Milk Base"
+          ],
+          "product_id": "S19705338573272683_P73363",
+          "attributes": [
+            "No Additional Sugar (Recommended)",
+            "Standard Sweetness"
+          ],
+          "quantity": 9999
+        }
+      ]
+    },
+    "S17424885920957026_S69394": {
+      "name": "Da Yueyan Chaoshan Pig Offal Porridge (Xinjing Li Branch)",
+      "store_id": "S17424885920957026_S69394",
+      "score": 4.8,
+      "location": {
+        "address": "No. 8, Basement 1, No. 185 Chenghan Middle Road, High-tech Zone, Chengdu, Sichuan Province",
+        "latitude": 30.592797,
+        "longitude": 104.055094
+      },
+      "tags": [],
+      "products": [
+        {
+          "name": "Signature Chaoshan Fresh Pig Offal Porridge",
+          "product_id": "S91264980613441611_P42643",
+          "store_id": "S17424885920957026_S69394",
+          "store_name": "Da Yueyan Chaoshan Pig Offal Porridge (Xinjing Li Branch)",
+          "price": 25.21,
+          "tags": [],
+          "attributes": [],
+          "quantity": 9999
+        }
+      ]
+    },
+    "S28727913625222390_S25928": {
+      "name": "Shuxia (UFUN Branch)",
+      "store_id": "S28727913625222390_S25928",
+      "score": 4.9,
+      "location": {
+        "address": "Shuxia (UFUN Shopping Center Branch), B1 UFUN Shopping Center, No. 300 Jiaozi Avenue, High-tech Zone, Chengdu, Sichuan Province",
+        "latitude": 30.582848,
+        "longitude": 104.058051
+      },
+      "tags": [],
+      "products": [
+        {
+          "name": "Mango Pomelo Sago",
+          "product_id": "S90231642102082244_P35917",
+          "store_id": "S28727913625222390_S25928",
+          "store_name": "Shuxia (UFUN Branch)",
+          "price": 20,
+          "tags": [],
+          "attributes": [
+            "No Additional Sugar (Recommended)",
+            "Standard Sweetness"
+          ],
+          "quantity": 9999
+        }
+      ]
+    },
+    "S22831428865614367_S92215": {
+      "name": "Plain Porridge with Side Dishes (Zijing South Road Branch)",
+      "store_id": "S22831428865614367_S92215",
+      "score": 4.6,
+      "location": {
+        "address": "1st Floor, No. 50-1 Zijing South Road, Wuhou District, Chengdu, Sichuan Province",
+        "latitude": 30.614415,
+        "longitude": 104.050817
+      },
+      "tags": [
+        "On-time Guarantee",
+        "Meituan Delivery"
+      ],
+      "products": [
+        {
+          "name": "Brown Sugar Osmanthus Red Date Porridge",
+          "product_id": "S32168755459186216_P17634",
+          "store_id": "S22831428865614367_S92215",
+          "store_name": "Plain Porridge with Side Dishes (Zijing South Road Branch)",
+          "price": 20,
+          "tags": [
+            "Slow-cooked in Clay Pot",
+            "Stomach-warming"
+          ],
+          "attributes": [],
+          "quantity": 9999
+        }
+      ]
+    }
+  },
+  "orders": {
+    "B0714001T02": {
+      "order_id": "B0714001T02",
+      "order_type": "delivery",
+      "user_id": "U000011",
+      "store_id": "S18748399810467268_S89485",
+      "note": "",
+      "location": {
+        "address": "Chengdu Exchange Building, South of Jinyun West Lane 1, Wuhou District, Chengdu, Sichuan Province",
+        "longitude": 104.071966,
+        "latitude": 30.584042
+      },
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 20,
+      "create_time": "2025-05-08 21:50:00",
+      "update_time": "2025-05-08 21:50:00",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S19705338573272683_P73363",
+          "price": 20,
+          "quantity": 1,
+          "attributes": "Standard Sugar"
+        }
+      ]
+    }
+  }
+}

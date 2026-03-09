@@ -1,0 +1,252 @@
+{
+  "task_id": "D0811012",
+  "domain": "ota",
+  "time": "2025-06-07 11:13:25",
+  "user_id": "U022832",
+  "weather": [
+    {
+      "city": "Guangzhou",
+      "category": "cloudy",
+      "datetime": "2025-06-07",
+      "temperature": [
+        26,
+        32
+      ],
+      "humidity": 75
+    },
+    {
+      "city": "Shaoguan",
+      "category": "sunny",
+      "datetime": "2025-06-07",
+      "temperature": [
+        24,
+        30
+      ],
+      "humidity": 68
+    }
+  ],
+  "location": [
+    {
+      "address": "Room 1204, Building 3, Taikoo Hui Apartments, 385 Tianhe Road, Tianhe District, Guangzhou, Guangdong Province",
+      "longitude": 113.331108,
+      "latitude": 23.132049
+    },
+    {
+      "address": "Super Monkey Gym, B1 Floor, Guangsheng International Building, 228 Tianhe Road, Tianhe District, Guangzhou, Guangdong Province",
+      "longitude": 113.329876,
+      "latitude": 23.130542
+    }
+  ],
+  "user_profile": {
+    "user id": "U022832",
+    "occupation": "Fitness Instructor",
+    "gender": "female",
+    "age group": "25~30",
+    "residence": "Guangzhou",
+    "home address": "Room 1204, Building 3, Taikoo Hui Apartments, 385 Tianhe Road, Tianhe District, Guangzhou, Guangdong Province",
+    "work address": "Super Monkey Gym, B1 Floor, Guangsheng International Building, 228 Tianhe Road, Tianhe District, Guangzhou, Guangdong Province",
+    "dietary restrictions": "No high sugar, No fried food",
+    "family status": "In a relationship",
+    "personality": "Scattered and jumpy thinking, easily distracted and prone to changing ideas"
+  },
+  "user_historical_behaviors": {
+    "user id": "U022832",
+    "occupation": "Fitness Instructor",
+    "gender": "female",
+    "age group": "25~30",
+    "residence": "Guangzhou",
+    "home address": "Room 1204, Building 3, Taikoo Hui Apartments, 385 Tianhe Road, Tianhe District, Guangzhou, Guangdong Province",
+    "work address": "Super Monkey Gym, B1 Floor, Guangsheng International Building, 228 Tianhe Road, Tianhe District, Guangzhou, Guangdong Province",
+    "visited scenes": {
+      "Natural Landscapes (Mountains/Lakes/Forests)": "35%",
+      "Hot Spring Scenic Areas": "25%",
+      "Parks": "15%",
+      "Exhibition Halls (Museums/Art Galleries)": "10%",
+      "Water Activities/Water Experiences": "15%"
+    },
+    "cost per night on hotel": "500~1000 yuan",
+    "visited hotels": {
+      "Atour": "40%",
+      "JI Hotel": "25%",
+      "Orange": "20%",
+      "Home Inn": "15%"
+    },
+    "browsed hotels": {
+      "Four-star Hotels": "30%",
+      "Comfort Hotels": "45%",
+      "Three-star Hotels": "20%",
+      "Luxury Hotels": "5%"
+    },
+    "historical travel plans": {
+      "Guangzhou-Sanya": {
+        "Price Range": "800-1200 yuan",
+        "Transportation": "Flight"
+      },
+      "Guangzhou-Huangshan": {
+        "Price Range": "600-900 yuan",
+        "Transportation": "High-Speed Rail/EMU Train (Electric Multiple Unit)"
+      },
+      "Guangzhou-Shenzhen": {
+        "Price Range": "80-120 yuan",
+        "Transportation": "High-Speed Rail/EMU Train (Electric Multiple Unit)"
+      },
+      "Guangzhou-Guilin": {
+        "Price Range": "400-600 yuan",
+        "Transportation": "High-Speed Rail/EMU Train (Electric Multiple Unit)"
+      },
+      "Guangzhou-Yangshuo": {
+        "Price Range": "450-650 yuan",
+        "Transportation": "High-Speed Rail/EMU Train (Electric Multiple Unit)"
+      },
+      "Guangzhou-Zhuhai": {
+        "Price Range": "150-250 yuan",
+        "Transportation": "Self-driving"
+      },
+      "Sanya-Guangzhou": {
+        "Price Range": "800-1200 yuan",
+        "Transportation": "Flight"
+      },
+      "Huangshan-Guangzhou": {
+        "Price Range": "600-900 yuan",
+        "Transportation": "High-Speed Rail/EMU Train (Electric Multiple Unit)"
+      }
+    }
+  },
+  "stores": {},
+  "orders": {
+    "S17557516207048450_O00001": {
+      "order_id": "S17557516207048450_O00001",
+      "order_type": "train",
+      "user_id": "U022832",
+      "store_id": "S17557516207048450_T00010",
+      "location": null,
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "note": "Business trip to Shaoguan",
+      "total_price": 85,
+      "create_time": "2025-05-10 14:20:00",
+      "update_time": "2025-05-10 14:20:00",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17557516207048450_P00096",
+          "price": 85,
+          "quantity": 1,
+          "date": "2025-05-13",
+          "seat_type": "Second Class Seat"
+        }
+      ]
+    },
+    "S17557516207048450_O00002": {
+      "order_id": "S17557516207048450_O00002",
+      "order_type": "train",
+      "user_id": "U022832",
+      "store_id": "S17557516207048450_T00012",
+      "location": {
+        "address": "Shaoguan Railway Station, Zhanqian Road, Zhenjiang District, Shaoguan City, Guangdong Province",
+        "longitude": 113.5918,
+        "latitude": 24.8138
+      },
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "note": "Return trip from last month's business in Shaoguan",
+      "total_price": 178,
+      "create_time": "2025-05-12 16:45:00",
+      "update_time": "2025-05-12 16:45:00",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17557516207048450_P10106",
+          "price": 89,
+          "quantity": 2,
+          "seat_type": "Second Class Seat"
+        }
+      ]
+    },
+    "S17557516207048450_O00003": {
+      "order_id": "S17557516207048450_O00003",
+      "order_type": "hotel",
+      "user_id": "U022832",
+      "store_id": "S17557516207048450_H00001",
+      "note": "Sanya vacation hotel",
+      "location": {
+        "address": "Atour Hotel, Yuya Boulevard, Dadonghai Tourist Area, Sanya City, Hainan Province",
+        "longitude": 109.5119,
+        "latitude": 18.2478
+      },
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 1376,
+      "create_time": "2025-04-15 09:30:00",
+      "update_time": "2025-04-15 09:30:00",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17557516207048450_P00001",
+          "price": 688,
+          "quantity": 2,
+          "date": "2025-04-20",
+          "room_type": "Deluxe King Room"
+        }
+      ]
+    },
+    "S17557516207048450_O00004": {
+      "order_id": "S17557516207048450_O00004",
+      "order_type": "attraction",
+      "user_id": "U022832",
+      "store_id": "S17557516207048450_A00005",
+      "note": "Huangshan Scenic Area tickets",
+      "location": {
+        "address": "Huangshan Scenic Area, Tangkou Town, Huangshan District, Huangshan City, Anhui Province",
+        "longitude": 118.1543,
+        "latitude": 30.1394
+      },
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 200,
+      "create_time": "2025-03-08 11:15:00",
+      "update_time": "2025-03-08 11:15:00",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17557516207048450_P00046",
+          "price": 100,
+          "quantity": 2,
+          "ticket_type": "Adult Ticket"
+        }
+      ]
+    },
+    "S17557516207048450_O00005": {
+      "order_id": "S17557516207048450_O00005",
+      "order_type": "hotel",
+      "user_id": "U022832",
+      "store_id": "S17557516207048450_H00002",
+      "note": "JI Hotel Guilin",
+      "location": {
+        "address": "JI Hotel, Zhongshan South Road, Xiangshan District, Guilin City, Guangxi Zhuang Autonomous Region",
+        "longitude": 110.29,
+        "latitude": 25.282
+      },
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 1176,
+      "create_time": "2025-02-20 16:22:00",
+      "update_time": "2025-02-20 16:22:00",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17557516207048450_P00013",
+          "price": 588,
+          "quantity": 2,
+          "date": "2025-02-28",
+          "room_type": "Business King Room"
+        }
+      ]
+    }
+  }
+}

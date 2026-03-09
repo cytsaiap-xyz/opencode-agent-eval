@@ -1,0 +1,38 @@
+{
+  "required_orders": [
+    {
+      "order_id": "H0721003T01",
+      "order_type": "delivery",
+      "user_id": "U000095",
+      "store_id": "S28238457757110038_S89746",
+      "note": "",
+      "location": {
+        "address": "Weifang Xinchen Tiandi, No.1588 Wenhua Road, Kuiwen District, Weifang City, Shandong Province",
+        "longitude": 119.142013,
+        "latitude": 36.730536
+      },
+      "dispatch_time": "2025-03-05 19:25:00",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 134.4,
+      "create_time": "2025-03-05 19:00:00",
+      "update_time": "2025-03-05 19:00:00",
+      "status": "in-progress",
+      "products": [
+        {
+          "product_id": "S21140841273620451_P81330",
+          "price": 26.88,
+          "quantity": 5,
+          "attributes": ""
+        }
+      ]
+    }
+  ],
+  "rubrics": [
+    "The delivery address for the Lemon Boneless Chicken Feet night snack order should be Weifang Xinchen Tiandi, No.1588 Wenhua Road, Kuiwen District, Weifang City, Shandong Province",
+    "The delivery time for the Lemon Boneless Chicken Feet night snack order should be between 2025-03-05 19:00:00 and 2025-03-05 20:00:00",
+    "When selecting Lemon Boneless Chicken Feet night snack products, the quantity should be sufficient for five people",
+    "When selecting night snack chicken feet products, boneless chicken feet should be chosen",
+    "When selecting night snack products, lemon flavored chicken feet should be chosen"
+  ]
+}

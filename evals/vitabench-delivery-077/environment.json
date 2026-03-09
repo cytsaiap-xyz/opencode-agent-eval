@@ -1,0 +1,448 @@
+{
+  "task_id": "G0716002",
+  "domain": "delivery",
+  "time": "2025-09-10 09:44:35",
+  "user_id": "U000058",
+  "weather": [
+    {
+      "city": "Xi'an City",
+      "category": "sunny",
+      "datetime": "2025-09-10",
+      "temperature": [
+        21,
+        30
+      ],
+      "humidity": 30
+    }
+  ],
+  "location": [
+    {
+      "address": "Main Hospital of the First Affiliated Hospital of Xi'an Jiaotong University, No.277 Yanta West Road, Yanta District, Xi'an, Shaanxi Province",
+      "longitude": 108.936741,
+      "latitude": 34.219569
+    }
+  ],
+  "user_profile": {
+    "user id": "U000058",
+    "occupation": "Doctor",
+    "gender": "male",
+    "age group": "35~40",
+    "residence": "Xi'an",
+    "home address": "Ziwei Garden, No. 249 Electronic First Road South, Yanta District, Xi'an, Shaanxi Province",
+    "work address": "Main Hospital of the First Affiliated Hospital of Xi'an Jiaotong University, No.277 Yanta West Road, Yanta District, Xi'an, Shaanxi Province",
+    "dietary restrictions": "No seafood, no alcohol",
+    "family status": "Has children",
+    "personality": "Has scattered and jumpy thinking, easily distracted and changes mind frequently"
+  },
+  "user_historical_behaviors": {
+    "user id": "U000058",
+    "occupation": "Doctor",
+    "gender": "male",
+    "age group": "35~40",
+    "residence": "Xi'an",
+    "home address": "Ziwei Garden, No.249 Electronics First Road, South City, Yanta District, Xi'an, Shaanxi Province",
+    "work address": "Main Hospital of the First Affiliated Hospital of Xi'an Jiaotong University, No.277 Yanta West Road, Yanta District, Xi'an, Shaanxi Province",
+    "breakfast": {
+      "frequently purchased categories": [
+        "Quick Meals/Steamed Buns/Pan-fried Buns (Average 22 yuan)",
+        "Quick Meals/Jianbing/Wraps/Hand Pancakes (Average 15 yuan)",
+        "desserts/drinks/snacks/Coffee (Average 28 yuan)"
+      ],
+      "cost per order": "15~50 yuan",
+      "preferred store rating": "4.3~4.9 stars",
+      "preferred delivery time": "15~30 minutes",
+      "preferred distance": "0~2500m",
+      "recent orders": [
+        {
+          "store": "Jiujiu Feng Steamed Bun Shop",
+          "product": "Eight Treasure Porridge + Meat Bun"
+        },
+        {
+          "store": "Starbucks",
+          "product": "Americano + Whole Wheat Sandwich"
+        },
+        {
+          "store": "Old Xi'an Hand Pancakes",
+          "product": "Original Hand Pancake + Soy Milk"
+        }
+      ],
+      "search history": [
+        "Low-sugar breakfast",
+        "Hand pancakes",
+        "Steamed buns",
+        "Coffee",
+        "Breakfast near Affiliated Hospital"
+      ]
+    },
+    "weekday lunch/dinner": {
+      "frequently purchased categories": [
+        "Quick Meals/Small Bowls/Small Portions (Average 45 yuan)",
+        "Quick Meals/Healthy Meals (Average 55 yuan)",
+        "Quick Meals/Rice Noodles/Rice Vermicelli (Average 32 yuan)"
+      ],
+      "cost per order": "30~60 yuan",
+      "preferred store rating": "4.2~4.8 stars",
+      "preferred delivery time": "20~35 minutes",
+      "preferred distance": "0~3000m",
+      "recent orders": [
+        {
+          "store": "Light Food Life",
+          "product": "Low-fat Chicken Breast Salad + Multigrain Rice"
+        },
+        {
+          "store": "Yunnan Crossing Bridge Rice Noodles",
+          "product": "Classic Beef Rice Noodles"
+        },
+        {
+          "store": "Nutritional Work Meals",
+          "product": "Steamed Fish + Seasonal Vegetables + Brown Rice"
+        }
+      ],
+      "search history": [
+        "Healthy work meals",
+        "Delivery near hospital",
+        "Low-calorie diet meals",
+        "Fast delivery food"
+      ]
+    },
+    "weekend lunch/dinner": {
+      "frequently purchased categories": [
+        "Chinese Cuisine/Cantonese Food (Average 120 yuan)",
+        "Chinese Cuisine/Sichuan Food (Average 95 yuan)",
+        "Foreign Cuisine/Japanese Bento/Sushi (Average 130 yuan)"
+      ],
+      "cost per order": "80~180 yuan",
+      "preferred store rating": "4.6~5.0 stars",
+      "preferred delivery time": "30~45 minutes",
+      "preferred distance": "0~5000m",
+      "recent orders": [
+        {
+          "store": "Cantonese Tea Restaurant",
+          "product": "Family Package: Roast Goose + Poached Shrimp + Steamed Fish + Vegetables"
+        },
+        {
+          "store": "Herve Revolving Sushi",
+          "product": "Salmon Set Meal + Tempura"
+        },
+        {
+          "store": "Bashu Impression",
+          "product": "Spicy Pork Blood Curd + Boiled Fish + Sautéed Pork + Rice"
+        }
+      ],
+      "search history": [
+        "Family-friendly restaurant",
+        "Family gathering",
+        "Healthy Cantonese cuisine",
+        "Japanese set meal"
+      ]
+    },
+    "desserts/drinks/snacks": {
+      "frequently purchased categories": [
+        "desserts/drinks/snacks/Coffee (Average 30 yuan)",
+        "desserts/drinks/snacks/Fruit Salad (Average 35 yuan)",
+        "desserts/drinks/snacks/Pure Tea/Herbal Tea (Average 22 yuan)"
+      ],
+      "cost per order": "15~40 yuan",
+      "preferred store rating": "4.4~4.9 stars",
+      "preferred delivery time": "15~25 minutes",
+      "preferred distance": "0~3000m",
+      "recent orders": [
+        {
+          "store": "Yidiandian",
+          "product": "Sugar-free Oolong Tea"
+        },
+        {
+          "store": "Fresh Fruit Workshop",
+          "product": "Fruit Salad Bowl"
+        },
+        {
+          "store": "Costa Coffee",
+          "product": "Low-sugar Latte"
+        }
+      ],
+      "search history": [
+        "Sugar-free drinks",
+        "Low-calorie afternoon tea",
+        "Fruit salad",
+        "Healthy desserts"
+      ]
+    },
+    "night snack": {
+      "frequently purchased categories": [
+        "Quick Meals/Clay Pot Dishes (Average 48 yuan)",
+        "Quick Meals/Rice Noodles/Rice Vermicelli (Average 32 yuan)",
+        "Snacks and Braised Foods/Braised Foods (Average 40 yuan)"
+      ],
+      "cost per order": "25~55 yuan",
+      "preferred store rating": "4.2~4.7 stars",
+      "preferred delivery time": "20~40 minutes",
+      "preferred distance": "0~3500m",
+      "recent orders": [
+        {
+          "store": "Five Grains Clay Pot Porridge",
+          "product": "Cordyceps Flower Chicken Soup Clay Pot + Seasonal Vegetables"
+        },
+        {
+          "store": "Guilin Rice Noodles",
+          "product": "Beef Rice Noodles"
+        },
+        {
+          "store": "Sichuan Style Braised Foods",
+          "product": "Braised Beef + Braised Tofu"
+        }
+      ],
+      "search history": [
+        "Gentle stomach-friendly night snacks",
+        "Non-greasy night snacks",
+        "Clay pot porridge",
+        "White-collar night snacks"
+      ]
+    }
+  },
+  "stores": {
+    "S62563191519991599_S81379": {
+      "name": "Yi Long Chang'an (Qujiang Branch)",
+      "store_id": "S62563191519991599_S81379",
+      "score": 4.9,
+      "location": {
+        "address": "Room 10103, Unit 1, Building 21, Qujiang No.6, Tanka Road, Qujiang New District, Xi'an, Shaanxi Province",
+        "latitude": 34.209244,
+        "longitude": 108.958334
+      },
+      "tags": [],
+      "products": [
+        {
+          "name": "Steamed Mutton Dumplings",
+          "store_id": "S62563191519991599_S81379",
+          "store_name": "Yi Long Chang'an (Qujiang Branch)",
+          "price": 28.8,
+          "tags": [],
+          "product_id": "S21069456156190794_P14314",
+          "attributes": [],
+          "quantity": 9999
+        }
+      ]
+    },
+    "S94923450644249735_S38024": {
+      "name": "Ji Ming Soup Dumplings (Qujiang Branch)",
+      "store_id": "S94923450644249735_S38024",
+      "score": 4.4,
+      "location": {
+        "address": "Shop A04-00099, 4F Floor, Building 1, Furong New World, Qujiang New District, Yanta District, Xi'an, Shaanxi Province",
+        "latitude": 34.208485,
+        "longitude": 108.973776
+      },
+      "tags": [
+        "Chain Store",
+        "Originated from Nanjing"
+      ],
+      "products": [
+        {
+          "name": "Nanjing Duck Blood Vermicelli Soup (Complete Set)",
+          "store_id": "S94923450644249735_S38024",
+          "store_name": "Ji Ming Soup Dumplings (Qujiang Branch)",
+          "price": 18.0,
+          "tags": [
+            "Nanjing Cuisine",
+            "Authentic"
+          ],
+          "product_id": "S87071804534303894_P59349",
+          "attributes": [],
+          "quantity": 9999
+        },
+        {
+          "name": "Chicken Soup Dumplings (8 pieces)",
+          "store_id": "S94923450644249735_S38024",
+          "store_name": "Ji Ming Soup Dumplings (Qujiang Branch)",
+          "price": 17.0,
+          "tags": [],
+          "product_id": "S58528214946920236_P00034",
+          "attributes": [],
+          "quantity": 9999
+        },
+        {
+          "name": "Crab Roe Soup Dumplings (8 pieces)",
+          "product_id": "S26966178414713811_P37457",
+          "store_id": "S94923450644249735_S38024",
+          "store_name": "Ji Ming Soup Dumplings (Qujiang Branch)",
+          "price": 35,
+          "tags": [],
+          "attributes": [],
+          "quantity": 9999
+        },
+        {
+          "name": "Chicken Soup Dumplings 8 Pieces (Semi-finished)",
+          "product_id": "S10866684836027872_P04027",
+          "store_id": "S94923450644249735_S38024",
+          "store_name": "Ji Ming Soup Dumplings (Qujiang Branch)",
+          "price": 16,
+          "tags": [],
+          "attributes": [],
+          "quantity": 9999
+        }
+      ]
+    },
+    "S22399110519747136_S91526": {
+      "name": "Cha Hua Nong (MOMOPARK First Branch)",
+      "store_id": "S22399110519747136_S91526",
+      "score": 4.7,
+      "location": {
+        "address": "F4-13, 4th Floor, Zhidi Times MOMOPARK Shopping Center, No.232 Xiaozhai West Road, Yanta District, Xi'an, Shaanxi Province",
+        "latitude": 34.222078,
+        "longitude": 108.933595
+      },
+      "tags": [],
+      "products": [
+        {
+          "name": "Gujin Mancang (Yellow Braised Fine Tea)",
+          "store_id": "S22399110519747136_S91526",
+          "store_name": "Cha Hua Nong (MOMOPARK First Branch)",
+          "price": 17,
+          "tags": [
+            "Yellow Tea"
+          ],
+          "product_id": "S14147194316063046_P67193",
+          "attributes": [
+            "Standard Sugar",
+            "70% Sugar",
+            "50% Sugar",
+            "30% Sugar",
+            "No Sugar (No Added Sugar)"
+          ],
+          "quantity": 9999
+        }
+      ]
+    },
+    "S57252870260717402_S10061": {
+      "name": "Chengcheng Water Basin Mutton (Guanghua Road Branch)",
+      "store_id": "S57252870260717402_S10061",
+      "score": 4.3,
+      "location": {
+        "address": "Chengcheng Laosun Water Basin Mutton (Guanghua Road Branch), No.3 Guanghua Road, Yanta District, Xi'an, Shaanxi Province",
+        "latitude": 34.227793,
+        "longitude": 108.921238
+      },
+      "tags": [
+        "Chain Store"
+      ],
+      "products": [
+        {
+          "name": "Mutton Dumplings",
+          "product_id": "S49189205071056409_P09705",
+          "store_id": "S57252870260717402_S10061",
+          "store_name": "Chengcheng Water Basin Mutton (Guanghua Road Branch)",
+          "price": 25,
+          "tags": [
+            "Boiled Dumplings"
+          ],
+          "attributes": [],
+          "quantity": 9999
+        }
+      ]
+    },
+    "S21663462730009685_S78773": {
+      "name": "Wu Ji Steamed Dumplings (Fangzhicheng Branch)",
+      "store_id": "S21663462730009685_S78773",
+      "score": 4.8,
+      "location": {
+        "address": "No.16 East Fangyi Road, Baqiao District, Xi'an, Shaanxi Province",
+        "latitude": 34.272348,
+        "longitude": 109.072027
+      },
+      "tags": [
+        "Non-chain Store",
+        "Meituan City-wide Delivery"
+      ],
+      "products": [
+        {
+          "name": "Steamed Mutton Dumplings",
+          "product_id": "S60832544309672046_P56168",
+          "store_id": "S21663462730009685_S78773",
+          "store_name": "Wu Ji Steamed Dumplings (Fangzhicheng Branch)",
+          "price": 29,
+          "tags": [],
+          "attributes": [],
+          "quantity": 9999
+        }
+      ]
+    },
+    "S17376398708523634_S96834": {
+      "name": "Su Xiang Yuan Nanjing Soup Dumplings (Zhongmao Plaza Branch)",
+      "store_id": "S17376398708523634_S96834",
+      "score": 4.9,
+      "location": {
+        "address": "Room 10106, 1st Floor, Building 4, Zhongmao Plaza, No.118 Chang'an North Road, Beilin District, Xi'an, Shaanxi Province",
+        "latitude": 34.242576,
+        "longitude": 108.945994
+      },
+      "tags": [
+        "Xi'an Chain Store"
+      ],
+      "products": [
+        {
+          "name": "[Must Try] Nanjing Triple Set: Soup Dumplings + Duck Blood Vermicelli Soup + Egg",
+          "product_id": "S30190305887696833_P29118",
+          "store_id": "S17376398708523634_S96834",
+          "store_name": "Su Xiang Yuan Nanjing Soup Dumplings (Zhongmao Plaza Branch)",
+          "price": 31.8,
+          "tags": [],
+          "attributes": [],
+          "quantity": 9999
+        }
+      ]
+    },
+    "S85130370807965000_P92621": {
+      "name": "Tea'stone (Xi'an Giant Wild Goose Pagoda Branch)",
+      "store_id": "S85130370807965000_S92621",
+      "score": 65,
+      "location": {
+        "address": "No.L1-25, 26, 1st Floor, Qujiang Joy City Shopping Center, No.777 Ci'en West Road, Qujiang New District, Yanta District, Xi'an, Shaanxi Province",
+        "latitude": 34.217031,
+        "longitude": 108.962337
+      },
+      "tags": [],
+      "products": [
+        {
+          "name": "Shuling Yellow Tea - Apricot Fragrance Yellow Tea",
+          "product_id": "S85130370807965000_P92621",
+          "store_id": "S85130370807965000_S92621",
+          "store_name": "Tea'stone (Xi'an Giant Wild Goose Pagoda Branch)",
+          "price": 65,
+          "tags": [
+            "Yellow Tea",
+            "Non-adjustable Sweetness"
+          ],
+          "attributes": [],
+          "quantity": 9999
+        }
+      ]
+    },
+    "S20444421371371604_S79073": {
+      "name": "Ji Ming Soup Dumplings (Shizi Bridge Branch)",
+      "store_id": "S20444421371371604_S79073",
+      "score": 4.6,
+      "location": {
+        "address": "Ji Ming Soup Dumplings (Shizi Bridge Branch), No.7 Shizi Bridge, Hunan Road, Gulou District, Nanjing, Jiangsu Province",
+        "latitude": 32.067134,
+        "longitude": 118.777855
+      },
+      "tags": [
+        "Chain Store",
+        "Originated from Nanjing"
+      ],
+      "products": [
+        {
+          "name": "Chicken Soup Dumplings (6 pieces)",
+          "product_id": "S25101866777585620_P19533",
+          "store_id": "S20444421371371604_S79073",
+          "store_name": "Ji Ming Soup Dumplings (Shizi Bridge Branch)",
+          "price": 19.8,
+          "tags": [],
+          "attributes": [],
+          "quantity": 9999
+        }
+      ]
+    }
+  },
+  "orders": {}
+}

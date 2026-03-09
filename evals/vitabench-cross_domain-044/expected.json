@@ -1,0 +1,93 @@
+{
+  "required_orders": [
+    {
+      "order_id": "A0805002T001",
+      "order_type": "attraction",
+      "user_id": "U010094",
+      "store_id": "S17550809188913229_A00006",
+      "note": "",
+      "location": null,
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 210,
+      "create_time": "2025-03-07 21:27:07",
+      "update_time": "2025-03-07 21:27:07",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17550809188913229_P00037",
+          "price": 210,
+          "quantity": 1,
+          "date": "2025-03-08",
+          "ticket_type": "Family Ticket (3-5 people)"
+        }
+      ]
+    },
+    {
+      "order_id": "A0805002T002",
+      "order_type": "delivery",
+      "user_id": "U010094",
+      "store_id": "S17550809188913229_S00002",
+      "note": "",
+      "location": {
+        "address": "Xujiaying Community, 220 meters north of the intersection of Xuesong Road and Xingye Road, Jianxi District, Luoyang, Henan Province",
+        "longitude": 112.3843,
+        "latitude": 34.6512
+      },
+      "dispatch_time": "2025-03-07 21:37:12",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 51.6,
+      "create_time": "2025-03-07 21:29:07",
+      "update_time": "2025-03-07 21:29:07",
+      "status": "in-progress",
+      "products": [
+        {
+          "product_id": "S17550809188913229_P00008",
+          "price": 15.9,
+          "quantity": 1,
+          "name": "European Soft Bread Combination Pack",
+          "attributes": ""
+        },
+        {
+          "product_id": "S17550809188913229_P00011",
+          "price": 12.8,
+          "quantity": 1,
+          "name": "Dried Cranberries",
+          "attributes": ""
+        },
+        {
+          "product_id": "S17550809188913229_P00013",
+          "price": 22.9,
+          "quantity": 1,
+          "name": "High-calcium Cheese Sticks",
+          "attributes": ""
+        }
+      ]
+    },
+    {
+      "book_id": "A0805002T003",
+      "shop_id": "S17550809188913229_I00011",
+      "book_time": "2025-03-08 12:00:00",
+      "update_time": "2025-03-07 21:41:07",
+      "customer_id": "U010094",
+      "customer_count": 4,
+      "book_price": 40,
+      "status": "paid"
+    }
+  ],
+  "rubrics": [
+    "Check tickets for Sui-Tang Luoyang Jiuzhou Pool on March 8, 2025",
+    "The tickets ordered for Sui-Tang Luoyang Jiuzhou Pool should be valid for use on March 8, 2025",
+    "The tickets ordered should be suitable for 4 people, and be the cheapest",
+    "Xiangxi Local Cuisine Restaurant (Luoyang Flagship Store) has suitable set meals with fish, no need to change restaurants",
+    "The final reservation should be for 4 people",
+    "The ordered delivery items should include bread",
+    "The ordered delivery items should include dried fruits and preserved fruits",
+    "The ordered delivery items should not include food with Strong Smell",
+    "The ordered delivery items should include at least three different products",
+    "The delivery address should be Xujiaying Community, 220 meters north of the intersection of Xuesong Road and Xingye Road, Jianxi District, Luoyang, Henan Province",
+    "The expected delivery time should be between 21:25-22:25 on March 7, 2025"
+  ]
+}

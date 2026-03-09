@@ -1,0 +1,358 @@
+{
+  "task_id": "80715003",
+  "domain": "delivery",
+  "time": "2025-10-10 10:50:19",
+  "user_id": "U000033",
+  "weather": [
+    {
+      "city": "Changsha City",
+      "category": "sunny",
+      "datetime": "2025-10-10",
+      "temperature": [
+        15,
+        26
+      ],
+      "humidity": 65
+    }
+  ],
+  "location": [
+    {
+      "address": "Jinqiu Residential Area, No. 368 Furong South Road, Tianxin District, Changsha, Hunan Province (180 meters from Railway Institute Metro Station Exit 2)",
+      "longitude": 112.985099,
+      "latitude": 28.134563
+    }
+  ],
+  "user_profile": {
+    "user id": "U000033",
+    "occupation": "actress",
+    "gender": "female",
+    "age group": "25~30",
+    "residence": "Changsha",
+    "home address": "Jinqiu Residential Area, No. 368 Furong South Road, Tianxin District, Changsha, Hunan Province (180 meters from Railway Institute Metro Station Exit 2)",
+    "work address": "Wanda Mansion, No. 529 Xiangjiang Middle Road, Tongtai Street, Kaifu District, Changsha, Hunan Province",
+    "dietary restrictions": "none",
+    "family status": "in a relationship",
+    "personality": "strong logical thinking, enjoys analysis and questioning, pursues accuracy"
+  },
+  "user_historical_behaviors": {
+    "user id": "U000033",
+    "occupation": "Actress",
+    "gender": "female",
+    "age group": "25~30",
+    "residence": "Changsha",
+    "home address": "Jinqiu Residential Area, No. 368 Furong South Road, Tianxin District, Changsha, Hunan Province (180 meters from Railway Institute Metro Station Exit 2)",
+    "work address": "Wanda Mansion, No. 529 Xiangjiang Middle Road, Tongtai Street, Kaifu District, Changsha, Hunan Province",
+    "breakfast": {
+      "frequently purchased categories": [
+        "Quick meals/Buns/Pan-fried buns (Average 15 yuan)",
+        "Quick meals/Light food (Average 32 yuan)",
+        "Quick meals/Salad (Average 28 yuan)"
+      ],
+      "cost per order": "15~35 yuan",
+      "preferred store rating": "4.5~4.8 points",
+      "preferred delivery time": "15~25 minutes",
+      "preferred distance": "0~1800m",
+      "recent orders": [
+        {
+          "store": "Light Food Selection",
+          "product": "Avocado Chicken Breast Salad"
+        },
+        {
+          "store": "Youth Dots",
+          "product": "Fruit Cereal Cup"
+        },
+        {
+          "store": "Fresh Breakfast",
+          "product": "Vegetable Egg Sandwich"
+        }
+      ],
+      "search history": [
+        "Low sugar breakfast",
+        "Healthy light food",
+        "Salad",
+        "Yogurt",
+        "Whole wheat bread"
+      ]
+    },
+    "weekday lunch/dinner": {
+      "frequently purchased categories": [
+        "Quick meals/Sashimi (Average 45 yuan)",
+        "International cuisine/Japanese bento/Sushi (Average 80 yuan)",
+        "Quick meals/Salad (Average 35 yuan)"
+      ],
+      "cost per order": "35~180 yuan",
+      "preferred store rating": "4.6~5.0 points",
+      "preferred delivery time": "20~45 minutes",
+      "preferred distance": "0~3000m",
+      "recent orders": [
+        {
+          "store": "Lansaifu Salmon (Changsha Tianxin Branch)",
+          "product": "[Maximum Satisfaction] Pure Salmon Meat Enjoyment, approx. 330g"
+        },
+        {
+          "store": "Japanese Cuisine House",
+          "product": "Salmon Avocado Sushi"
+        },
+        {
+          "store": "Vegetarianism",
+          "product": "Light Quinoa Chicken Breast Salad"
+        }
+      ],
+      "search history": [
+        "Low-oil healthy meals",
+        "Japanese bento",
+        "Steamed cuisine",
+        "Chicken breast",
+        "Light meal set"
+      ]
+    },
+    "weekend lunch/dinner": {
+      "frequently purchased categories": [
+        "Chinese cuisine/Cantonese dishes (Average 88 yuan)",
+        "International cuisine/Thai food (Average 95 yuan)",
+        "International cuisine/Pasta (Average 75 yuan)"
+      ],
+      "cost per order": "70~150 yuan",
+      "preferred store rating": "4.7~5.0 points",
+      "preferred delivery time": "30~45 minutes",
+      "preferred distance": "0~5000m",
+      "recent orders": [
+        {
+          "store": "Cantonese Fresh Flavors",
+          "product": "Steamed Bass Fish Set"
+        },
+        {
+          "store": "Thai-Mi Thai Cuisine",
+          "product": "Tom Yum Soup with Lemongrass Roasted Chicken"
+        },
+        {
+          "store": "Italian Flavors",
+          "product": "Tomato Seafood Pasta"
+        }
+      ],
+      "search history": [
+        "Cantonese cuisine",
+        "Thai cuisine",
+        "Healthy pasta",
+        "No chili",
+        "Seafood"
+      ]
+    },
+    "desserts/drinks/snacks": {
+      "frequently purchased categories": [
+        "Drinks and desserts/Lemon tea (Average 18 yuan)",
+        "Drinks and desserts/Fruit salad (Average 32 yuan)",
+        "Drinks and desserts/Cold desserts (Average 26 yuan)"
+      ],
+      "cost per order": "15~35 yuan",
+      "preferred store rating": "4.5~5.0 points",
+      "preferred delivery time": "15~30 minutes",
+      "preferred distance": "0~2500m",
+      "recent orders": [
+        {
+          "store": "LINLEE Hand-shaken Lemon Tea",
+          "product": "Signature Hand-shaken Lemon Tea"
+        },
+        {
+          "store": "Fresh Fruit Workshop",
+          "product": "Fruit Salad (Less Sugar)"
+        },
+        {
+          "store": "Light Sweetness Philosophy",
+          "product": "Sugar-free Yogurt Jelly"
+        }
+      ],
+      "search history": [
+        "Sugar-free drinks",
+        "Fresh fruit tea",
+        "Low-calorie desserts",
+        "Fruit salad",
+        "Yogurt jelly"
+      ]
+    },
+    "night snack": {
+      "frequently purchased categories": [
+        "Quick meals/Small portion dishes (Average 42 yuan)",
+        "Snacks and braised food/Cold skewers (Average 38 yuan)"
+      ],
+      "cost per order": "35~60 yuan",
+      "preferred store rating": "4.5~4.8 points",
+      "preferred delivery time": "25~40 minutes",
+      "preferred distance": "0~3000m",
+      "recent orders": [
+        {
+          "store": "Small Portions Big Satisfaction",
+          "product": "Steamed Fish Fillet"
+        },
+        {
+          "store": "Braised Flavor Heritage",
+          "product": "Braised Chicken Wings (Less Oil Less Salt)"
+        }
+      ],
+      "search history": [
+        "Light night snacks",
+        "Small portion dishes",
+        "Steamed dishes",
+        "Low-salt braised food"
+      ]
+    }
+  },
+  "stores": {
+    "S13964547993271611_S17164": {
+      "name": "LINLEE Hand-shaken Lemon Tea (Forestry University Branch)",
+      "store_id": "S13964547993271611_S17164",
+      "score": 4.9,
+      "location": {
+        "address": "Linlee Hand-shaken Lemon Tea (Forestry University Branch), Store No. 5, Qingyuan Phase 3, Central South University of Forestry and Technology, Wenyuan Street, Tianxin District, Changsha, Hunan Province",
+        "latitude": 28.131475,
+        "longitude": 112.994713
+      },
+      "tags": [],
+      "products": [
+        {
+          "name": "Signature Hand-shaken Lemon Tea",
+          "store_id": "S13964547993271611_S17164",
+          "store_name": "LINLEE Hand-shaken Lemon Tea (Forestry University Branch)",
+          "price": 19.0,
+          "tags": [
+            "Duck Toy Gift with Each Cup"
+          ],
+          "product_id": "S41033997512498734_P56142",
+          "attributes": [
+            "70% Sugar (Standard Sweetness)",
+            "50% Sugar",
+            "30% Sugar",
+            "No Added Sugar"
+          ],
+          "quantity": 9999
+        }
+      ]
+    },
+    "S13966425117690123_S02958": {
+      "name": "Lansaifu Salmon (Changsha Tianxin Branch)",
+      "store_id": "S13966425117690123_S02958",
+      "score": 5.0,
+      "location": {
+        "address": "Room 101, Building 1, Hengsheng Shijiacheng, No. 828 Shaoshan South Road, Qingyuan Street, Tianxin District, Changsha, Hunan Province",
+        "latitude": 28.127202,
+        "longitude": 113.002631
+      },
+      "tags": [],
+      "products": [
+        {
+          "name": "[Maximum Satisfaction] Pure Salmon Meat Enjoyment, approx. 330g",
+          "store_id": "S13966425117690123_S02958",
+          "store_name": "Lansaifu Salmon (Changsha Tianxin Branch)",
+          "price": 176.8,
+          "tags": [
+            "Fresh-cut Today"
+          ],
+          "product_id": "S23055183453475350_P16425",
+          "attributes": [],
+          "quantity": 9999
+        }
+      ]
+    },
+    "S31245677445432586_S78521": {
+      "name": "Guangzhe Salmon Sashimi (Yuhua District Branch)",
+      "store_id": "S31245677445432586_S78521",
+      "score": 5.0,
+      "location": {
+        "address": "Store No. 152, Basement, Jinshi Yayuan, No. 345 Wanjiali Middle Road Section 2, Guitan Street, Yuhua District, Changsha, Hunan Province",
+        "latitude": 28.144607,
+        "longitude": 113.034014
+      },
+      "tags": [],
+      "products": [
+        {
+          "name": "💯 Norwegian Salmon Fillet 500g",
+          "store_id": "S31245677445432586_S78521",
+          "store_name": "Guangzhe Salmon Sashimi (Yuhua District Branch)",
+          "price": 189,
+          "tags": [],
+          "product_id": "S14588934914569570_P85095",
+          "attributes": [],
+          "quantity": 9999
+        },
+        {
+          "name": "10 Slices of White Salmon Belly + 6 Pieces of Arctic Clam + 3 Pieces of Rose Foie Gras",
+          "store_id": "S31245677445432586_S78521",
+          "store_name": "Guangzhe Salmon Sashimi (Yuhua District Branch)",
+          "price": 128,
+          "tags": [],
+          "product_id": "S82439211838981764_P89878",
+          "attributes": [],
+          "quantity": 9999
+        },
+        {
+          "name": "💯 Marinated Sea Bream Slices (Medium Portion)",
+          "store_id": "S31245677445432586_S78521",
+          "store_name": "Guangzhe Salmon Sashimi (Yuhua District Branch)",
+          "price": 46,
+          "tags": [
+            "Freshly Cut"
+          ],
+          "product_id": "S41550937904049971_P70122",
+          "attributes": [],
+          "quantity": 9999
+        }
+      ]
+    },
+    "S25635977947321037_S39338": {
+      "name": "Ningji Hand-shaken Lemon Tea (Forestry University Branch)",
+      "store_id": "S25635977947321037_S39338",
+      "score": 4.9,
+      "location": {
+        "address": "Room 1008, Basement, Fudi Yayuan, No. 382 Qingyuan Road, Tianxin District, Changsha, Hunan Province",
+        "latitude": 28.132107,
+        "longitude": 112.993296
+      },
+      "tags": [],
+      "products": [
+        {
+          "name": "Extra Large Jasmine Hand-shaken Lemon Tea",
+          "store_id": "S25635977947321037_S39338",
+          "store_name": "Ningji Hand-shaken Lemon Tea (Forestry University Branch)",
+          "price": 24,
+          "tags": [],
+          "product_id": "S29677121991471028_P97282",
+          "attributes": [
+            "Standard Sweetness",
+            "Less Sweet",
+            "No Added Sugar"
+          ],
+          "quantity": 9999
+        }
+      ]
+    },
+    "S23603923068879925_S11593": {
+      "name": "LINLEE Hand-shaken Lemon Tea (Yuhua CapitaMall Branch)",
+      "store_id": "S23603923068879925_S11593",
+      "score": 4.8,
+      "location": {
+        "address": "No. 31, 4th Floor, CapitaMall Yuhuating, No. 421 Shaoshan Middle Road, Shazitang Street, Yuhua District, Changsha City",
+        "latitude": 28.15426,
+        "longitude": 112.995327
+      },
+      "tags": [],
+      "products": [
+        {
+          "name": "Signature Hand-shaken Lemon Tea",
+          "store_id": "S23603923068879925_S11593",
+          "store_name": "LINLEE Hand-shaken Lemon Tea (Yuhua CapitaMall Branch)",
+          "price": 19.0,
+          "tags": [],
+          "product_id": "S93255195880285852_P69506",
+          "attributes": [
+            "70% Sugar (Standard Sweetness)",
+            "50% Sugar",
+            "30% Sugar",
+            "No Added Sugar"
+          ],
+          "quantity": 9999
+        }
+      ]
+    }
+  },
+  "orders": {}
+}

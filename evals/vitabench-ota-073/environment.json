@@ -1,0 +1,283 @@
+{
+  "task_id": "D0807008",
+  "domain": "ota",
+  "time": "2024-12-23 08:38:17",
+  "user_id": "U010044",
+  "weather": [
+    {
+      "city": "Shanghai",
+      "category": "cloudy",
+      "datetime": "2024-12-23",
+      "temperature": [
+        8,
+        15
+      ],
+      "humidity": 65
+    },
+    {
+      "city": "Ho Chi Minh City",
+      "category": "sunny",
+      "datetime": "2024-12-23",
+      "temperature": [
+        26,
+        32
+      ],
+      "humidity": 78
+    }
+  ],
+  "location": [
+    {
+      "address": "Unit 302, Building 16, No. 1954 Huashan Road, Xuhui District, Shanghai",
+      "longitude": 121.4371,
+      "latitude": 31.2108
+    },
+    {
+      "address": "Shanghai No. 3 Girls' Middle School, Tianping Road (No. 400 Huashan Road), Xuhui District, Shanghai",
+      "longitude": 121.4352,
+      "latitude": 31.2089
+    }
+  ],
+  "user_profile": {
+    "user id": "U010044",
+    "occupation": "Teacher",
+    "gender": "female",
+    "age group": "35~40",
+    "residence": "Shanghai",
+    "home address": "Unit 302, Building 16, No. 1954 Huashan Road, Xuhui District, Shanghai",
+    "work address": "Shanghai No. 3 Girls' Middle School, Tianping Road (No. 400 Huashan Road), Xuhui District, Shanghai",
+    "dietary restrictions": "Avoids greasy spicy food, avoids high sodium",
+    "family status": "Has children",
+    "personality": "Expresses herself coldly and concisely, lacks emotional communication and patience"
+  },
+  "user_historical_behaviors": {
+    "user id": "U010044",
+    "occupation": "Teacher",
+    "gender": "female",
+    "age group": "35~40",
+    "residence": "Shanghai",
+    "home address": "Unit 302, Building 16, No. 1954 Huashan Road, Xuhui District, Shanghai",
+    "work address": "Shanghai No. 3 Girls' Middle School, Tianping Road (No. 400 Huashan Road), Xuhui District, Shanghai",
+    "visited scenes": {
+      "Historical Sites": "30%",
+      "Landmark Buildings": "15%",
+      "Exhibition Halls (Museums/Art Galleries)": "25%",
+      "Parks": "10%",
+      "Special Villages/Industrial Tourism/Uncategorized Projects": "5%",
+      "Theme Parks": "15%"
+    },
+    "cost per night on hotel": "500~1000 yuan",
+    "visited hotels": {
+      "JI Hotel": "35%",
+      "Atour": "25%",
+      "Vienna": "20%",
+      "Orange": "15%",
+      "Home Inn": "5%"
+    },
+    "browsed hotels": {
+      "Four-star Hotels": "25%",
+      "Three-star Hotels": "35%",
+      "Comfort Hotels": "40%"
+    },
+    "historical travel plans": {
+      "Shanghai-Hangzhou": {
+        "Price Range": "100-150 yuan",
+        "Transportation Method": "High-speed Rail/EMU"
+      },
+      "Shanghai-Beijing": {
+        "Price Range": "600-1000 yuan",
+        "Transportation Method": "High-speed Rail/EMU"
+      },
+      "Shanghai-Nanjing": {
+        "Price Range": "150-250 yuan",
+        "Transportation Method": "High-speed Rail/EMU"
+      },
+      "Shanghai-Xi'an": {
+        "Price Range": "800-1200 yuan",
+        "Transportation Method": "Airplane"
+      },
+      "Shanghai-Chengdu": {
+        "Price Range": "900-1500 yuan",
+        "Transportation Method": "Airplane"
+      },
+      "Shanghai-Huangshan": {
+        "Price Range": "300-400 yuan",
+        "Transportation Method": "High-speed Rail/EMU"
+      },
+      "Shanghai-Suzhou": {
+        "Price Range": "40-80 yuan",
+        "Transportation Method": "High-speed Rail/EMU"
+      }
+    }
+  },
+  "stores": {},
+  "orders": {
+    "S17557512531967139_O00001": {
+      "order_id": "S17557512531967139_O00001",
+      "order_type": "hotel",
+      "user_id": "U010044",
+      "store_id": "S17557512531967139_H00001",
+      "note": "High-end hotel accommodation with luxury services",
+      "location": {
+        "address": "Ho Chi Minh City Marriott Hotel, Nguyen Hue Boulevard, District 1, Ho Chi Minh City, Vietnam",
+        "longitude": 106.7017,
+        "latitude": 10.7769
+      },
+      "dispatch_time": "",
+      "shipping_time": 0.0,
+      "delivery_time": "",
+      "total_price": 850.0,
+      "create_time": "2024-12-22 14:30:00",
+      "update_time": "2024-12-22 14:30:00",
+      "status": "unpaid",
+      "products": [
+        {
+          "product_id": "S17557512531967139_P00001",
+          "price": 850.0,
+          "quantity": 1,
+          "date": "2024-12-30",
+          "room_type": "Deluxe Twin Room"
+        }
+      ]
+    },
+    "S17557512531967139_O00002": {
+      "order_id": "S17557512531967139_O00002",
+      "order_type": "hotel",
+      "user_id": "U010044",
+      "store_id": "S17557512531967139_H00002",
+      "note": "Experience local traditional boutique hotel",
+      "location": {
+        "address": "Saigon Boutique Traditional Hotel, Le Loi Boulevard, District 1, Ho Chi Minh City, Vietnam",
+        "longitude": 106.6947,
+        "latitude": 10.7756
+      },
+      "dispatch_time": "",
+      "shipping_time": 0.0,
+      "delivery_time": "",
+      "total_price": 580.0,
+      "create_time": "2024-12-22 15:15:00",
+      "update_time": "2024-12-22 15:15:00",
+      "status": "unpaid",
+      "products": [
+        {
+          "product_id": "S17557512531967139_P00017",
+          "price": 580.0,
+          "quantity": 1,
+          "date": "2024-12-31",
+          "room_type": "Traditional Twin Room"
+        }
+      ]
+    },
+    "S17557512531967139_O00003": {
+      "order_id": "S17557512531967139_O00003",
+      "order_type": "hotel",
+      "user_id": "U010044",
+      "store_id": "S17557512531967139_H00003",
+      "note": "Familiar JI Hotel brand, comfortable accommodation",
+      "location": {
+        "address": "JI Hotel Ho Chi Minh City Center, Dong Khoi Avenue, District 1, Ho Chi Minh City, Vietnam",
+        "longitude": 106.6998,
+        "latitude": 10.7812
+      },
+      "dispatch_time": "",
+      "shipping_time": 0.0,
+      "delivery_time": "",
+      "total_price": 750.0,
+      "create_time": "2024-12-22 16:00:00",
+      "update_time": "2024-12-22 16:00:00",
+      "status": "unpaid",
+      "products": [
+        {
+          "product_id": "S17557512531967139_P00030",
+          "price": 750.0,
+          "quantity": 1,
+          "date": "2025-01-01",
+          "room_type": "Deluxe Twin Room"
+        }
+      ]
+    },
+    "S17557512531967139_O00004": {
+      "order_id": "S17557512531967139_O00004",
+      "order_type": "attraction",
+      "user_id": "U010044",
+      "store_id": "S17557512531967139_A00005",
+      "note": "Visit Ho Chi Minh Fine Arts Museum on New Year's Day",
+      "location": {
+        "address": "Ho Chi Minh Fine Arts Museum, 97A Pho Duc Chinh Street, District 1, Ho Chi Minh City, Vietnam",
+        "longitude": 106.6927,
+        "latitude": 10.7695
+      },
+      "dispatch_time": "",
+      "shipping_time": 0.0,
+      "delivery_time": "",
+      "total_price": 75000.0,
+      "create_time": "2024-12-22 16:45:00",
+      "update_time": "2024-12-22 16:45:00",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17557512531967139_P00051",
+          "price": 75000.0,
+          "quantity": 1,
+          "date": "2025-01-01",
+          "ticket_type": "Family Package (2 Adults + 1 Child)"
+        }
+      ]
+    },
+    "S17557512531967139_O00005": {
+      "order_id": "S17557512531967139_O00005",
+      "order_type": "flight",
+      "user_id": "U010044",
+      "store_id": "S17557512531967139_F00010",
+      "note": "Round-trip flights between Shanghai and Ho Chi Minh City, most economical option",
+      "location": {
+        "address": "Shanghai Pudong International Airport, Airport Avenue, Pudong New District, Shanghai",
+        "longitude": 121.8057,
+        "latitude": 31.1443
+      },
+      "dispatch_time": "",
+      "shipping_time": 0.0,
+      "delivery_time": "",
+      "total_price": 3840.0,
+      "create_time": "2024-12-22 17:20:00",
+      "update_time": "2024-12-22 17:20:00",
+      "status": "unpaid",
+      "products": [
+        {
+          "product_id": "S17557512531967139_P00091",
+          "price": 1280.0,
+          "quantity": 3,
+          "date": "2024-12-30",
+          "seat_type": "Economy Class"
+        }
+      ]
+    },
+    "S17557512531967139_O00006": {
+      "order_id": "S17557512531967139_O00006",
+      "order_type": "flight",
+      "user_id": "U010044",
+      "store_id": "S17557512531967139_F00011",
+      "note": "Return flight, Ho Chi Minh City to Shanghai",
+      "location": {
+        "address": "Tan Son Nhat International Airport, Ho Chi Minh City, Vietnam",
+        "longitude": 106.6519,
+        "latitude": 10.8188
+      },
+      "dispatch_time": "",
+      "shipping_time": 0.0,
+      "delivery_time": "",
+      "total_price": 3540.0,
+      "create_time": "2024-12-22 17:25:00",
+      "update_time": "2024-12-22 17:25:00",
+      "status": "unpaid",
+      "products": [
+        {
+          "product_id": "S17557512531967139_P00103",
+          "price": 1180.0,
+          "quantity": 3,
+          "date": "2025-01-02",
+          "seat_type": "Economy Class"
+        }
+      ]
+    }
+  }
+}

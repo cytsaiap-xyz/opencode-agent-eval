@@ -1,0 +1,344 @@
+{
+  "task_id": "40711002",
+  "domain": "delivery",
+  "time": "2024-09-12 11:43:47",
+  "user_id": "U000004",
+  "weather": [
+    {
+      "city": "Shijiazhuang City",
+      "category": "sunny",
+      "datetime": "2024-09-12",
+      "temperature": [
+        25,
+        36
+      ],
+      "humidity": 88
+    }
+  ],
+  "location": [
+    {
+      "address": "Jinzheng Haiyue International",
+      "longitude": 114.474095,
+      "latitude": 38.034544
+    }
+  ],
+  "user_profile": {
+    "user id": "U000004",
+    "occupation": "Actor",
+    "gender": "male",
+    "age group": "30~35",
+    "residence": "Shijiazhuang",
+    "home address": "No. 100 Minzu Road Compound, opposite Huaqiang Plaza, Zhongshan Street, Qiaoxi District, Shijiazhuang, Hebei Province",
+    "work address": "Junchuang International Business Garden, 50 Zhonghua North Street, Xinhua District, Shijiazhuang, Hebei Province",
+    "dietary restrictions": "No high-oil, no high-salt",
+    "family status": "Has children",
+    "personality": "Cold and concise in expression, lacks emotional communication and patience"
+  },
+  "user_historical_behaviors": {
+    "user id": "U000004",
+    "occupation": "Actor",
+    "gender": "male",
+    "age group": "30~35",
+    "residence": "Shijiazhuang",
+    "home address": "No. 100 Minzu Road, opposite Huaqiang Plaza, Zhongshan Street, Qiaoxi District, Shijiazhuang, Hebei Province",
+    "work address": "Junchuang International Business Garden, 50 Zhonghua North Street, Xinhua District, Shijiazhuang, Hebei Province",
+    "breakfast": {
+      "frequently purchased categories": [
+        "Quick meals/Buns/Pan-fried buns (Average 20 yuan)",
+        "Quick meals/Light food (Average 32 yuan)"
+      ],
+      "cost per order": "15~35 yuan",
+      "preferred store rating": "4.3~4.8 stars",
+      "preferred delivery time": "15~25 minutes",
+      "preferred distance": "0~2500m",
+      "recent orders": [
+        {
+          "store": "Light Food Master",
+          "product": "Healthy Low-fat Sandwich Meal"
+        },
+        {
+          "store": "Laojiekou Bun Shop",
+          "product": "Vegetable Bun + Soy Milk"
+        },
+        {
+          "store": "Fresh Juice Bar",
+          "product": "Fresh Vegetable & Fruit Juice + Whole Wheat Bread"
+        }
+      ],
+      "search history": [
+        "Healthy breakfast",
+        "Low-fat breakfast",
+        "Fresh juice",
+        "Whole wheat bread"
+      ]
+    },
+    "weekday lunch/dinner": {
+      "frequently purchased categories": [
+        "Chinese cuisine/Cantonese/Sichuan (Average 80 yuan)",
+        "Quick meals/Healthy meals (Average 40 yuan)"
+      ],
+      "cost per order": "30~170 yuan",
+      "preferred store rating": "4.0~4.9 stars",
+      "preferred delivery time": "20~50 minutes",
+      "preferred distance": "0~5000m",
+      "recent orders": [
+        {
+          "store": "Cai Lan Dim Sum & Cantonese Cuisine (Shijiazhuang Wanxiang Mall)",
+          "product": "【Order as You Like】Set Menu for Two"
+        },
+        {
+          "store": "Yue Zhi Yue Hakka Cuisine (Youyi Street Branch)",
+          "product": "Black Pepper Beef with King Oyster Mushroom—Seasonal Vegetable Brown Rice Diet Meal"
+        },
+        {
+          "store": "Xiao Sichuan (Shifan Street Branch)",
+          "product": "Stir-fried Sweet Potato Leaves, Boiling Qingjiang Fish"
+        }
+      ],
+      "search history": [
+        "Low-salt diet",
+        "Healthy work meals",
+        "Cantonese cuisine",
+        "Boiled fish"
+      ]
+    },
+    "weekend lunch/dinner": {
+      "frequently purchased categories": [
+        "Chinese cuisine/Cantonese (Average 150 yuan)",
+        "International flavors/Japanese bento (Average 200 yuan)"
+      ],
+      "cost per order": "50~400 yuan",
+      "preferred store rating": "4.0~5.0 stars",
+      "preferred delivery time": "25~60 minutes",
+      "preferred distance": "0~7000m",
+      "recent orders": [
+        {
+          "store": "Matsukaze Japanese Restaurant",
+          "product": "Salmon, Shrimp and Avocado Salad"
+        },
+        {
+          "store": "Guangming Fishing Port (Zhonghua Branch)",
+          "product": "Steamed Turbot, Claypot Old Pumpkin with Spareribs, Hand-torn Cabbage"
+        }
+      ],
+      "search history": [
+        "Steamed dishes",
+        "Japanese cuisine",
+        "Healthy family meals"
+      ]
+    },
+    "desserts/drinks/snacks": {
+      "frequently purchased categories": [
+        "Beverages and desserts/Pure tea/Herbal tea (Average 22 yuan)",
+        "Beverages and desserts/Fruit mix (Average 35 yuan)"
+      ],
+      "cost per order": "20~40 yuan",
+      "preferred store rating": "4.4~4.9 stars",
+      "preferred delivery time": "15~30 minutes",
+      "preferred distance": "0~2500m",
+      "recent orders": [
+        {
+          "store": "Fresh Fruit Mix",
+          "product": "Colorful Fruit Platter"
+        },
+        {
+          "store": "Tea Language",
+          "product": "Sugar-free Oolong Tea"
+        },
+        {
+          "store": "Freshly Cut Fruit Shop",
+          "product": "Selected Mixed Fruit Box"
+        }
+      ],
+      "search history": [
+        "Sugar-free drinks",
+        "Healthy desserts",
+        "Fruit mix",
+        "Low-sugar tea"
+      ]
+    },
+    "night snack": {
+      "frequently purchased categories": [
+        "Snacks/Braised dishes (Average 40 yuan)",
+        "Quick meals/Clay pot porridge (Average 35 yuan)"
+      ],
+      "cost per order": "30~55 yuan",
+      "preferred store rating": "4.2~4.8 stars",
+      "preferred delivery time": "20~35 minutes",
+      "preferred distance": "0~3000m",
+      "recent orders": [
+        {
+          "store": "Porridge World",
+          "product": "Preserved Egg and Lean Meat Porridge (Low Salt)"
+        },
+        {
+          "store": "Selected Braised Dishes",
+          "product": "Braised Chicken Breast Platter"
+        },
+        {
+          "store": "Health Porridge House",
+          "product": "Five-grain Porridge"
+        }
+      ],
+      "search history": [
+        "Low-salt night snack",
+        "Healthy porridge",
+        "Braised dishes",
+        "Stomach-friendly night snack"
+      ]
+    }
+  },
+  "stores": {
+    "S30993599337981774_S34673": {
+      "name": "Xiao Sichuan (Shifan Street Branch)",
+      "store_id": "S30993599337981774_S34673",
+      "score": 4.9,
+      "location": {
+        "address": "Xiao Sichuan (Shifan Street Branch), Meiwei Garden, 100 meters north of the intersection of Yuhua Road and Shifan Street, Qiaoxi District, Shijiazhuang, Hebei Province",
+        "latitude": 38.037778,
+        "longitude": 114.466097
+      },
+      "tags": [],
+      "products": [
+        {
+          "name": "Garlic Water Spinach",
+          "store_id": "S30993599337981774_S34673",
+          "store_name": "Xiao Sichuan (Shifan Street Branch)",
+          "price": 28,
+          "tags": [],
+          "product_id": "S14292360609424463_P36400",
+          "attributes": [],
+          "quantity": 9999
+        },
+        {
+          "name": "Boiling Grass Carp",
+          "store_id": "S30993599337981774_S34673",
+          "store_name": "Xiao Sichuan (Shifan Street Branch)",
+          "price": 88,
+          "tags": [],
+          "product_id": "S31583341312882063_P22648",
+          "attributes": [],
+          "quantity": 9999
+        },
+        {
+          "name": "Stir-fried Sweet Potato Leaves",
+          "store_id": "S30993599337981774_S34673",
+          "store_name": "Xiao Sichuan (Shifan Street Branch)",
+          "price": 30,
+          "tags": [],
+          "product_id": "S13671089064121940_P96355",
+          "attributes": [],
+          "quantity": 9999
+        },
+        {
+          "name": "Dry-pot Cauliflower",
+          "store_id": "S30993599337981774_S34673",
+          "store_name": "Xiao Sichuan (Shifan Street Branch)",
+          "price": 28,
+          "tags": [],
+          "product_id": "S20506615463755475_P46343",
+          "attributes": [],
+          "quantity": 9999
+        },
+        {
+          "name": "Chongqing Spicy Chicken",
+          "store_id": "S30993599337981774_S34673",
+          "store_name": "Xiao Sichuan (Shifan Street Branch)",
+          "price": 55,
+          "tags": [],
+          "product_id": "S20390479026248992_P61745",
+          "attributes": [],
+          "quantity": 9999
+        },
+        {
+          "name": "Braised Hairtail Fish",
+          "store_id": "S30993599337981774_S34673",
+          "store_name": "Xiao Sichuan (Shifan Street Branch)",
+          "price": 48,
+          "tags": [
+            "Mildly Spicy"
+          ],
+          "product_id": "S21888759725683981_P39447",
+          "attributes": [],
+          "quantity": 9999
+        }
+      ]
+    },
+    "S17857824456573772_S92443": {
+      "name": "Lao Sichuan Restaurant (Lehui City Branch)",
+      "store_id": "S17857824456573772_S92443",
+      "score": 4.7,
+      "location": {
+        "address": "Lao Sichuan Restaurant (Lehui Branch), opposite Xinyuan International Fortune Center, Zhongshan East Road, Chang'an District, Shijiazhuang, Hebei Province",
+        "latitude": 38.04416,
+        "longitude": 114.499159
+      },
+      "tags": [
+        "Delicious Taste"
+      ],
+      "products": [
+        {
+          "name": "New-style Fish-flavored Shredded Pork",
+          "store_id": "S17857824456573772_S92443",
+          "store_name": "Lao Sichuan Restaurant (Lehui City Branch)",
+          "price": 39,
+          "tags": [
+            "Sweet and Salty"
+          ],
+          "product_id": "S29963037063648024_P77705",
+          "attributes": [],
+          "quantity": 9999
+        },
+        {
+          "name": "Luzhou Spicy Boiled Fish (Grass Carp)",
+          "store_id": "S17857824456573772_S92443",
+          "store_name": "Lao Sichuan Restaurant (Lehui City Branch)",
+          "price": 66,
+          "tags": [],
+          "product_id": "S12816212338632825_P83920",
+          "attributes": [],
+          "quantity": 9999
+        },
+        {
+          "name": "Rice/Box (No Delivery for Single Order)",
+          "store_id": "S17857824456573772_S92443",
+          "store_name": "Lao Sichuan Restaurant (Lehui City Branch)",
+          "price": 3,
+          "tags": [],
+          "product_id": "S81766250995033123_P90038",
+          "attributes": [],
+          "quantity": 9999
+        }
+      ]
+    }
+  },
+  "orders": {
+    "40711002O01": {
+      "order_id": "40711002O01",
+      "order_type": "delivery",
+      "user_id": "U000004",
+      "store_id": "S30993599337981774_S34673",
+      "note": "",
+      "location": {
+        "address": "Haiyue International Office Building, Tower A, Jinzheng Imperial City, Qiaoxi District, Shijiazhuang, Hebei Province",
+        "longitude": 114.474095,
+        "latitude": 38.034544
+      },
+      "dispatch_time": "2024-08-11 12:18:00",
+      "shipping_time": 20,
+      "delivery_time": "2024-08-11 12:38:00",
+      "total_price": 30.0,
+      "create_time": "2024-08-11 12:06:00",
+      "update_time": "2024-08-11 12:06:00",
+      "status": "delivered",
+      "products": [
+        {
+          "product_id": "S13671089064121940_P96355",
+          "price": 30.0,
+          "quantity": 1,
+          "attributes": ""
+        }
+      ]
+    }
+  }
+}

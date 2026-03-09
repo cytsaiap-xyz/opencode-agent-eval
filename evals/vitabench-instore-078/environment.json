@@ -1,0 +1,199 @@
+{
+  "task_id": "10826240",
+  "domain": "instore",
+  "time": "2024-05-24 10:30:00",
+  "user_id": "U127475",
+  "weather": [
+    {
+      "city": "Tianjin",
+      "category": "cloudy",
+      "datetime": "2024-05-24",
+      "temperature": [
+        18,
+        26
+      ],
+      "humidity": 55
+    },
+    {
+      "city": "Tianjin",
+      "category": "sunny",
+      "datetime": "2024-05-25",
+      "temperature": [
+        19,
+        28
+      ],
+      "humidity": 45
+    }
+  ],
+  "location": [
+    {
+      "address": "Room 503, Unit 2, Building 6, Henghua Garden, 28 Youyi Road, Hexi District, Tianjin",
+      "longitude": 117.2136,
+      "latitude": 39.1078
+    },
+    {
+      "address": "Tianjin No. 42 Middle School, 38 Wutong Road, Hexi District, Tianjin",
+      "longitude": 117.2231,
+      "latitude": 39.1025
+    },
+    {
+      "address": "Anxin Tea House at the intersection of Youyi North Road and Nanjing Road, Hexi District, Tianjin",
+      "longitude": 117.2167,
+      "latitude": 39.1156
+    }
+  ],
+  "user_profile": {
+    "user id": "U127475",
+    "occupation": "Teacher",
+    "gender": "male",
+    "age group": "35~40",
+    "residence": "Tianjin",
+    "home address": "Room 503, Unit 2, Building 6, Henghua Garden, 28 Youyi Road, Hexi District, Tianjin",
+    "work address": "Tianjin No. 42 Middle School, 38 Wutong Road, Hexi District, Tianjin",
+    "dietary restrictions": "Avoid high purine foods (such as organ meats/seafood soup), avoid caffeine",
+    "family status": "Living with elderly",
+    "personality": "Tends to be controlling, difficult to accept different opinions"
+  },
+  "user_historical_behaviors": {
+    "user id": "U127475",
+    "occupation": "teacher",
+    "gender": "male",
+    "age group": "35~40",
+    "residence": "Tianjin",
+    "home address": "Room 503, Unit 2, Building 6, Henghua Garden, 28 Youyi Road, Hexi District, Tianjin",
+    "work address": "Tianjin No. 42 Middle School, 38 Wutong Road, Hexi District, Tianjin",
+    "Meal service": {
+      "fine-dining": {
+        "frequently purchased categories": [
+          "Regional cuisine/Fish dishes (average 125 yuan)",
+          "Regional cuisine/Sichuan cuisine (average 95 yuan)",
+          "Regional cuisine/Cantonese cuisine (average 110 yuan)"
+        ],
+        "preferred average price per person": "90~300 yuan",
+        "preferred store rating": "4.0~5.0 stars",
+        "typical dining time": "11:30-19:30",
+        "preferred distance": "1000~8000m",
+        "recent orders": [
+          {
+            "store": "Tianjin Fish Head with Pancakes",
+            "product": "Signature fish head with pancakes + seasonal vegetables"
+          },
+          {
+            "store": "Sichuan Epic",
+            "product": "Boiled fish + spicy blood curd"
+          },
+          {
+            "store": "Cantonese Delight",
+            "product": "Steamed sea bass + blanched shrimp"
+          }
+        ],
+        "search history": [
+          "Family dinner",
+          "Caffeine-free",
+          "Low-purine restaurants",
+          "Healthy Sichuan cuisine"
+        ]
+      },
+      "light meal": {
+        "frequently purchased categories": [
+          "Snacks/Chinese quick meals (average 35 yuan)",
+          "Regional cuisine/Northeast cuisine (average 45 yuan)"
+        ],
+        "preferred average price per person": "30~50 yuan",
+        "preferred store rating": "3.5~4.2 stars",
+        "typical dining time": "11:30-13:00",
+        "preferred distance": "0~500m",
+        "recent orders": [
+          {
+            "store": "Braised Pork Rice King",
+            "product": "Taiwanese braised pork rice + side dish"
+          },
+          {
+            "store": "Northeast Dumpling House",
+            "product": "Three-delicacy dumplings + sauerkraut soup"
+          },
+          {
+            "store": "Old Street Noodle Shop",
+            "product": "Beef noodle soup"
+          }
+        ],
+        "search history": [
+          "Work lunch",
+          "Fast food near school",
+          "Healthy lunch box",
+          "Vegetarian quick meals"
+        ]
+      },
+      "desserts/drinks/snacks": {
+        "frequently purchased categories": [
+          "Beverage shops (average 18 yuan)",
+          "Bread and desserts (average 25 yuan)"
+        ],
+        "preferred average price per person": "15~30 yuan",
+        "preferred store rating": "4.0~4.5 stars",
+        "typical dining time": "15:00-16:30",
+        "preferred distance": "0~800m",
+        "recent orders": [
+          {
+            "store": "One More Cup",
+            "product": "Sugar-free Oolong tea"
+          },
+          {
+            "store": "Bread Talk",
+            "product": "Whole wheat toast + fruit tea"
+          },
+          {
+            "store": "Meet Fresh",
+            "product": "Taro balls with fresh milk"
+          }
+        ],
+        "search history": [
+          "Caffeine-free drinks",
+          "Low-sugar desserts",
+          "Healthy beverages",
+          "Fruit tea"
+        ]
+      }
+    },
+    "other in-store services": {
+      "frequently consumed categories": {
+        "Sports/Ball sports": "45%",
+        "Sports/Fitness centers": "30%",
+        "Entertainment/Massage/Foot therapy": "15%",
+        "Family/Children's recreation": "10%"
+      },
+      "cost per order by category": {
+        "Sports/Ball sports": "60~120 yuan",
+        "Sports/Fitness centers": "80~150 yuan",
+        "Entertainment/Massage/Foot therapy": "120~180 yuan",
+        "Family/Children's recreation": "150~250 yuan"
+      },
+      "preferred store rating": "3.8~4.6 stars",
+      "preferred service time": "17:00-20:00",
+      "preferred distance": "500~3000m",
+      "recent orders": [
+        {
+          "store": "Tianjin Sports Center",
+          "product": "Badminton court for 2 hours"
+        },
+        {
+          "store": "Fitness Factory",
+          "product": "Single fitness session"
+        },
+        {
+          "store": "Anxin Tea House",
+          "product": "A pot of Tieguanyin tea + snacks"
+        }
+      ],
+      "search history": [
+        "Badminton courts",
+        "Massage suitable for elderly",
+        "Family activities",
+        "Tea house",
+        "Weekend fitness"
+      ]
+    }
+  },
+  "stores": {},
+  "orders": {}
+}

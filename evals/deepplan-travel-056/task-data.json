@@ -1,0 +1,47 @@
+{
+  "task_id": "55",
+  "query": "I'm planning a trip from Kunming to Zhengzhou around November 12, 2025, and returning on November 15. Could you help me plan the entire itinerary? I need your assistance with transportation, accommodation, dining, and sightseeing arrangements.\n\nLet’s start with transportation. For the outbound journey, I’d like to book a direct flight with China Eastern Airlines—please pick the cheapest available fare. For the return trip, just arrange a suitable direct flight.\n\nFor accommodation, I’d like something comfortable. Please find me a three-star hotel that ideally offers SPA services, as I really want to relax on this trip.\n\nRegarding dining, there are two specific requests. Near 'Beilong Lake Wetland Park', could you check which restaurant offers birthday set menus? And near 'Chenghuang Temple', I’d like to try a halal restaurant—please recommend one with good reviews.\n\nThat covers my requirements—I believe I’ve provided all necessary details. Please go ahead and prepare a complete travel itinerary and budget for me without asking for further information. November 12, 2025 is Wednesday",
+  "meta_info": {
+    "org": "Kunming",
+    "dest": [
+      "Zhengzhou"
+    ],
+    "days": 4,
+    "depart_date": "2025-11-12",
+    "return_date": "2025-11-15",
+    "people_number": 1,
+    "room_number": 1
+  },
+  "hard_constraints": {
+    "flight_cheapest_airline_direct": {
+      "constraint_context": "For the outbound journey, please help me choose the cheapest direct flight from 'China Eastern Airlines'",
+      "constraint_type": "superlative_cheapest_airline",
+      "outbound_flight_no": "MU5576"
+    },
+    "hotel_star_service_required": {
+      "constraint_context": "Please select a 3-star hotel that offers \"SPA\" services for accommodation.",
+      "constraint_type": "superlative_star_service_required",
+      "hotel_name": "Zhongzhou Elegant Hotel Zhengzhou (Zhongmu Movie Town Branch)",
+      "required_service": "SPA Service",
+      "hotel_star": 3,
+      "hotel_price": 107.0
+    },
+    "restaurant_specific_tag_nearby": {
+      "constraint_context": "Arrange a meal at a restaurant near 'Beilong Lake Wetland Park' during the trip, with birthday set menu service required.",
+      "constraint_type": "superlative_specific_tag_nearby",
+      "attraction_name": "Beilong Lake Wetland Park",
+      "restaurant_name": "Shuangsheng Four Seasons Dessert Fusion Restaurant (Yaoqiao Community North Courtyard Branch)",
+      "required_tag": "Birthday Package",
+      "price_per_person": 27.0,
+      "restaurant_rating": 4.4
+    },
+    "restaurant_specific_cuisine_nearby": {
+      "constraint_context": "During the trip, please arrange a meal at a restaurant near 'Chenghuang Temple', serving cuisine from a halal restaurant.",
+      "constraint_type": "superlative_specific_cuisine_nearby",
+      "attraction_name": "Chenghuang Temple",
+      "restaurant_name": "Erguang Restaurant",
+      "price_per_person": 66.0,
+      "restaurant_rating": 4.4
+    }
+  }
+}

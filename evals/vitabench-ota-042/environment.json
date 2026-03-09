@@ -1,0 +1,141 @@
+{
+  "task_id": "70812002",
+  "domain": "ota",
+  "time": "2021-07-23 21:35:13",
+  "user_id": "U105243",
+  "weather": [
+    {
+      "city": "Chengdu",
+      "category": "cloudy",
+      "datetime": "2021-07-23",
+      "temperature": [
+        22,
+        28
+      ],
+      "humidity": 75
+    },
+    {
+      "city": "Guiyang",
+      "category": "showers",
+      "datetime": "2021-07-23",
+      "temperature": [
+        20,
+        26
+      ],
+      "humidity": 82
+    },
+    {
+      "city": "Libo",
+      "category": "moderate rain",
+      "datetime": "2021-07-23",
+      "temperature": [
+        19,
+        25
+      ],
+      "humidity": 88
+    }
+  ],
+  "location": [],
+  "user_profile": {
+    "user id": "U105243",
+    "occupation": "Delivery Personnel",
+    "gender": "female",
+    "age group": "25~30",
+    "residence": "Chengdu",
+    "home address": "Unit 501, Building 3, Entrance 2, Golden Home Complex, No. 968 Jinxiu Road, Cuqiao Street, Wuhou District, Chengdu, Sichuan Province",
+    "work address": "ZTO Express, No. 25 Yongfeng Road, Wuhou District, Chengdu, Sichuan Province",
+    "dietary restrictions": "Avoids greasy spicy food, dairy products",
+    "family status": "In a relationship",
+    "personality": "Easily anxious and worried, needs repeated confirmation to feel at ease"
+  },
+  "user_historical_behaviors": {
+    "user id": "U105243",
+    "occupation": "Courier",
+    "gender": "female",
+    "age group": "25~30",
+    "residence": "Chengdu",
+    "home address": "Unit 501, Building 3, Entrance 2, Golden Home Complex, No. 968 Jinxiu Road, Cuqiao Street, Wuhou District, Chengdu, Sichuan Province",
+    "work address": "ZTO Express, No. 25 Yongfeng Road, Wuhou District, Chengdu, Sichuan Province",
+    "visited scenes": {
+      "Natural Landscapes (Mountains/Lakes/Forests)": "35%",
+      "Parks": "25%",
+      "Special Villages/Industrial Tourism/Uncategorized": "20%",
+      "Theme Parks": "15%",
+      "Cultural Heritage Sites": "5%"
+    },
+    "cost per night on hotel": "300~500 yuan",
+    "visited hotels": {
+      "Home Inn": "30%",
+      "Hanting Hotel": "25%",
+      "7 Days Inn": "20%",
+      "Jinjiang Inn": "15%",
+      "Ji Hotel": "10%"
+    },
+    "browsed hotels": {
+      "Budget Hotels": "60%",
+      "Comfort Hotels": "30%",
+      "Three-star Hotels": "10%"
+    },
+    "historical travel plans": {
+      "Chengdu-Chongqing": {
+        "Price Range": "100-200 yuan",
+        "Transportation Mode": "Long-distance Bus"
+      },
+      "Chengdu-Leshan": {
+        "Price Range": "50-100 yuan",
+        "Transportation Mode": "Long-distance Bus"
+      },
+      "Chengdu-Dujiangyan": {
+        "Price Range": "30-50 yuan",
+        "Transportation Mode": "Long-distance Bus"
+      },
+      "Chengdu-Mount Emei": {
+        "Price Range": "80-150 yuan",
+        "Transportation Mode": "Long-distance Bus"
+      },
+      "Chengdu-Xi'an": {
+        "Price Range": "200-400 yuan",
+        "Transportation Mode": "High-Speed Rail"
+      },
+      "Chengdu-Kunming": {
+        "Price Range": "250-450 yuan",
+        "Transportation Mode": "High-Speed Rail"
+      },
+      "Xi'an-Chengdu": {
+        "Price Range": "200-400 yuan",
+        "Transportation Mode": "High-Speed Rail"
+      },
+      "Kunming-Chengdu": {
+        "Price Range": "250-450 yuan",
+        "Transportation Mode": "High-Speed Rail"
+      }
+    }
+  },
+  "stores": {},
+  "orders": {
+    "70812002T001": {
+      "order_id": "70812002T001",
+      "order_type": "train",
+      "user_id": "U105243",
+      "store_id": "S17557505541891707_T00012",
+      "note": "",
+      "location": null,
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 1659,
+      "create_time": "2021-07-18 11:23:14",
+      "update_time": "2021-07-18 11:23:14",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17557505541891707_P00093",
+          "price": 553,
+          "quantity": 3,
+          "date": "2021-07-31",
+          "seat_type": "Second Class Seat"
+        }
+      ]
+    }
+  }
+}

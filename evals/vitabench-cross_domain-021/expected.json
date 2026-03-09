@@ -1,0 +1,116 @@
+{
+  "required_orders": [
+    {
+      "order_id": "OT64e3047b69",
+      "order_type": "delivery",
+      "user_id": "U509028",
+      "store_id": "S17550802841788893_S00002",
+      "note": "",
+      "location": {
+        "address": "Room 602, Unit 1, Building 3, Greenland Colorful City, Intersection of Zhangba North Road and Technology 6th Road, Yanta District, Xi'an",
+        "longitude": 108.893513,
+        "latitude": 34.203252
+      },
+      "dispatch_time": "2025-05-13 15:49:17",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 499,
+      "create_time": "2025-05-13 15:38:12",
+      "update_time": "2025-05-13 15:38:12",
+      "status": "in-progress",
+      "products": [
+        {
+          "product_id": "S17550802841788893_P00006",
+          "price": 499,
+          "quantity": 1,
+          "name": "Huawei Band 8 Pro Smart Watch Heart Rate Blood Pressure Monitoring Health Management",
+          "store_id": "S17550802841788893_S00002",
+          "store_name": "Suning.com",
+          "attributes": "Black",
+          "tags": [
+            "Heart Rate Monitoring",
+            "Blood Pressure Monitoring",
+            "Health Management"
+          ]
+        }
+      ]
+    },
+    {
+      "order_id": "OIb192a86a68",
+      "order_type": "instore",
+      "user_id": "U509028",
+      "store_id": "S17550802841788893_I00010",
+      "note": "",
+      "location": null,
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 388,
+      "create_time": "2025-05-13 15:51:38",
+      "update_time": "2025-05-13 15:51:38",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17550802841788893_P00051",
+          "price": 388,
+          "quantity": 1,
+          "name": "Four-person Free-range Chicken Set (with Rice)",
+          "shop_id": "S17550802841788893_I00010",
+          "tags": [
+            "Free-range Chicken"
+          ]
+        }
+      ]
+    },
+    {
+      "book_id": "10808008T01",
+      "shop_id": "S17550802841788893_S00002",
+      "book_time": "2025-05-16 12:00:00",
+      "update_time": "2025-05-13 15:52:22",
+      "customer_id": "U509028",
+      "customer_count": 4,
+      "book_price": 30,
+      "status": "paid"
+    },
+    {
+      "order_id": "OOf68f197a3a",
+      "order_type": "attraction",
+      "user_id": "U509028",
+      "store_id": "S17550802841788893_A00005",
+      "note": "",
+      "location": null,
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 240,
+      "create_time": "2025-05-13 15:57:22",
+      "update_time": "2025-05-13 15:57:22",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17550802841788893_P00021",
+          "price": 120,
+          "quantity": 2,
+          "date": "2025-05-16",
+          "ticket_type": "Adult Ticket"
+        }
+      ]
+    }
+  ],
+  "rubrics": [
+    "The smart watch in the order cannot be white",
+    "The delivery address for the smart watch order is Room 602, Unit 1, Building 3, Greenland Colorful City, Intersection of Zhangba North Road and Technology 6th Road, Yanta District, Xi'an",
+    "The smart watch in the order must have heart rate monitoring function",
+    "The smart watch in the order must have blood pressure monitoring function",
+    "The restaurant ordered from should be a Shaanxi cuisine restaurant",
+    "The ordered Shaanxi cuisine set meal is for 4 people",
+    "The staple food in the Shaanxi cuisine set meal is not flatbread",
+    "The Shaanxi cuisine set meal should include free-range chicken",
+    "The reserved Shaanxi cuisine restaurant should be Lao Mi Jia Shaanxi Cuisine",
+    "The reservation at the Shaanxi cuisine restaurant is for 12:00 PM on May 16, 2025",
+    "The reservation at the Shaanxi cuisine restaurant is for 4 people",
+    "Since there is no special exhibition at Xi'an Museum, the selected attraction should be Shaanxi History Museum",
+    "The purchased museum tickets are for May 16, 2025",
+    "The number of museum tickets purchased is 2"
+  ]
+}

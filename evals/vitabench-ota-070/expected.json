@@ -1,0 +1,105 @@
+{
+  "required_orders": [
+    {
+      "order_id": "D0808010T003",
+      "order_type": "attraction",
+      "user_id": "U010071",
+      "store_id": "S17557512803333407_A00005",
+      "note": "",
+      "location": null,
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 960,
+      "create_time": "2025-02-05 16:42:27",
+      "update_time": "2025-02-05 16:42:27",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17557512803333407_P00037",
+          "price": 480,
+          "quantity": 2,
+          "date": "2025-02-10",
+          "ticket_type": "VIP express pass"
+        }
+      ]
+    },
+    {
+      "order_id": "D0808010T001",
+      "order_type": "train",
+      "user_id": "U010071",
+      "store_id": "S17557512803333407_T00012",
+      "note": "",
+      "location": null,
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 1762,
+      "create_time": "2025-02-05 16:44:27",
+      "update_time": "2025-02-05 16:44:27",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17557512803333407_P00095",
+          "price": 881,
+          "quantity": 2,
+          "date": "2025-02-09",
+          "seat_type": "First class seat"
+        }
+      ]
+    },
+    {
+      "order_id": "D0808010T002",
+      "order_type": "hotel",
+      "user_id": "U010071",
+      "store_id": "S17557512803333407_H00001",
+      "note": "",
+      "location": null,
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 1194,
+      "create_time": "2025-02-05 16:46:27",
+      "update_time": "2025-02-05 16:46:27",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17557512803333407_P00002",
+          "price": 398,
+          "quantity": 1,
+          "date": "2025-02-09",
+          "room_type": "Fantawild themed family room"
+        },
+        {
+          "product_id": "S17557512803333407_P00001",
+          "price": 398,
+          "quantity": 1,
+          "date": "2025-02-10",
+          "room_type": "Fantawild themed family room"
+        },
+        {
+          "product_id": "S17557512803333407_P00004",
+          "price": 398,
+          "quantity": 1,
+          "date": "2025-02-11",
+          "room_type": "Fantawild themed family room"
+        }
+      ]
+    }
+  ],
+  "rubrics": [
+    "The attraction ticket order must be for Fantawild Adventure Jiayuguan",
+    "The attraction ticket order must be for the second day after arriving in Jiayuguan (February 10, 2025)",
+    "The attraction ticket order must be suitable for 2 people (1 adult and 1 child)",
+    "The attraction ticket order must include express passes",
+    "The train order must be for an EMU (Electric Multiple Unit) train",
+    "The train tickets must be first class seats",
+    "The train arrival time must be before 4:00 PM",
+    "The train ticket order must be for travel from Xi'an to Jiayuguan",
+    "The train ticket order must include 2 tickets",
+    "The return journey must be scheduled for the morning of the Lantern Festival (February 12, 2025)",
+    "The hotel in the accommodation order must be Fantawild Theme Hotel Jiayuguan",
+    "The Lantern Festival date needs to be checked, which is February 12, 2025, so the hotel stay must be for February 09, 2025, February 10, 2025, and February 11, 2025",
+    "The hotel order must be suitable for 2 people (1 adult and 1 child)"
+  ]
+}

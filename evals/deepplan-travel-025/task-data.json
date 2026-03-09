@@ -1,0 +1,48 @@
+{
+  "task_id": "24",
+  "query": "I'm planning a three-day trip from Ningbo to Zhengzhou on November 12, 2025, returning on November 14. The total budget for this trip should be within 6500 yuan, I'd like you to help me arrange transportation, accommodation, meals, and sightseeing.\n\nRegarding transportation, I'd prefer to take a flight back, ideally the shortest-duration direct flight available, so as to save time. For accommodation, please book the cheapest available option within the 'Hanting' hotel chain—just one room is needed, as there are two of us traveling.\n\nBy the way, I have two small requests regarding meals. First, while visiting the 'Zhengzhou Museum (Songshan Road Branch)', I’d like to find a nearby restaurant where we can take a virtual queue number online to avoid waiting in line. Second, I remember there are many great dining options around 'Qianxi Square (Big Corn Tower)'—could you help me find a seafood restaurant there? We’d like to try some local seafood.\n\nThat's about it! I believe I've provided all necessary information—please go ahead and plan everything for me accordingly. November 12, 2025 is Wednesday",
+  "meta_info": {
+    "org": "Ningbo",
+    "dest": [
+      "Zhengzhou"
+    ],
+    "days": 3,
+    "depart_date": "2025-11-12",
+    "return_date": "2025-11-14",
+    "people_number": 2,
+    "room_number": 1
+  },
+  "hard_constraints": {
+    "flight_shortest_duration_direct": {
+      "constraint_context": "For the return trip, I hope to choose a flight and need to select the shortest-duration direct flight available.",
+      "constraint_type": "superlative_shortest_duration",
+      "inbound_flight_no": "G56803"
+    },
+    "hotel_cheapest_brand": {
+      "constraint_context": "For accommodation, please select the cheapest hotel among the \"Hanting\" brand options",
+      "constraint_type": "superlative_cheapest_brand",
+      "hotel_name": "Hanting Hotel Zhengzhou Hanghai East Road",
+      "hotel_price": 175.0
+    },
+    "restaurant_specific_tag_nearby": {
+      "constraint_context": "Schedule a meal at a restaurant near 'Zhengzhou Museum (Songshan Road Branch)' during the trip, with online number collection and queueing service required",
+      "constraint_type": "superlative_specific_tag_nearby",
+      "attraction_name": "Zhengzhou Museum (Songshan Road Branch)",
+      "restaurant_name": "Little Green Lotus Restaurant",
+      "required_tag": "Online Queue",
+      "price_per_person": 100.0,
+      "restaurant_rating": 3.9
+    },
+    "restaurant_specific_cuisine_nearby": {
+      "constraint_context": "During the trip, please arrange a meal at a restaurant near 'Qianxi Square (Big Corn Tower)', preferably a seafood restaurant.",
+      "constraint_type": "superlative_specific_cuisine_nearby",
+      "attraction_name": "Qianxi Square (Big Corn Tower)",
+      "restaurant_name": "Haiyu Premium Seafood Restaurant",
+      "price_per_person": 39.0,
+      "restaurant_rating": 3.8
+    },
+    "budget_constraint": {
+      "max_budget": 6500
+    }
+  }
+}

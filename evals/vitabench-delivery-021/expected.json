@@ -1,0 +1,96 @@
+{
+  "required_orders": [
+    {
+      "order_id": "30711009T03",
+      "order_type": "delivery",
+      "user_id": "U000046",
+      "store_id": "S11783747910046861_S82990",
+      "note": "No straw",
+      "location": {
+        "address": "Nanhu Garden, 15 Dongzhai Road, Wucheng District, Jinhua, Zhejiang Province",
+        "longitude": 119.646008,
+        "latitude": 29.072722
+      },
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 21,
+      "create_time": "2025-10-18 11:55:00",
+      "update_time": "2025-10-18 12:00:00",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S10167012764512840_P66561",
+          "price": 21,
+          "quantity": 1,
+          "attributes": ""
+        },
+        {
+          "order_id": "30711009O01",
+          "order_type": "delivery",
+          "user_id": "U000046",
+          "store_id": "S15473946966912517_S14062",
+          "note": "",
+          "location": {
+            "address": "Nanhu Garden, 15 Dongzhai Road, Wucheng District, Jinhua, Zhejiang Province",
+            "longitude": 119.646008,
+            "latitude": 29.072722
+          },
+          "dispatch_time": "2025-10-18 12:03:00",
+          "shipping_time": null,
+          "delivery_time": "",
+          "total_price": 26.84,
+          "create_time": "2025-10-18 11:55:00",
+          "update_time": "2025-10-18 12:03:00",
+          "status": "in-progress",
+          "products": [
+            {
+              "product_id": "S20241974580661731_P00012",
+              "price": 26.84,
+              "quantity": 1,
+              "attributes": ""
+            }
+          ]
+        },
+        {
+          "order_id": "30711009T02",
+          "order_type": "delivery",
+          "user_id": "U000046",
+          "store_id": "S37645482346373619_S68262",
+          "note": "",
+          "location": {
+            "address": "Nanhu Garden, 15 Dongzhai Road, Wucheng District, Jinhua, Zhejiang Province",
+            "longitude": 119.646008,
+            "latitude": 29.072722
+          },
+          "dispatch_time": "",
+          "shipping_time": null,
+          "delivery_time": "",
+          "total_price": 29,
+          "create_time": "2025-10-18 12:05:00",
+          "update_time": "2025-10-18 12:05:00",
+          "status": "paid",
+          "products": [
+            {
+              "product_id": "S89168558798971631_P07308",
+              "price": 29,
+              "quantity": 1,
+              "attributes": ""
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "rubrics": [
+    "Need to modify the note for order with order_id 30711009O01 to: No disposable tableware",
+    "The delivery address for the Sauce Bone Rice order should be Nanhu Garden, 15 Dongzhai Road, Wucheng District, Jinhua, Zhejiang Province",
+    "The delivery time for the Sauce Bone Rice order should be before 2025-10-18 12:43:29",
+    "The Sauce Bone Rice set meal should include vegetables",
+    "The Sauce Bone Rice order should note no disposable tableware",
+    "The delivery address for the Children's Set Meal order should be Nanhu Garden, 15 Dongzhai Road, Wucheng District, Jinhua, Zhejiang Province",
+    "The delivery time for the Children's Set Meal order should be before 2025-10-18 12:43:29",
+    "The Children's Set Meal should be selected from Ajisen Ramen",
+    "The Children's Set Meal order should note no disposable tableware"
+  ]
+}

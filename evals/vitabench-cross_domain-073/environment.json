@@ -1,0 +1,494 @@
+{
+  "task_id": "10811013",
+  "domain": "cross_domain",
+  "time": "2025-03-25 19:15:00",
+  "user_id": "U267041",
+  "weather": [
+    {
+      "city": "Suzhou",
+      "category": "sunny",
+      "datetime": "2025-03-25",
+      "temperature": [
+        18,
+        26
+      ],
+      "humidity": 65
+    },
+    {
+      "city": "Suzhou",
+      "category": "cloudy",
+      "datetime": "2025-03-29",
+      "temperature": [
+        16,
+        24
+      ],
+      "humidity": 70
+    }
+  ],
+  "location": [
+    {
+      "address": "Room 302, Building 12, Water Lane Community, 89 Pingjiang Road, Gusu District, Suzhou, Jiangsu Province",
+      "longitude": 120.63782,
+      "latitude": 31.31149
+    },
+    {
+      "address": "25th Floor, Suzhou International Financial Center, 9 Suzhou Avenue West, Industrial Park District, Suzhou, Jiangsu Province",
+      "longitude": 120.67131,
+      "latitude": 31.32585
+    }
+  ],
+  "user_profile": {
+    "user id": "U267041",
+    "occupation": "lawyer",
+    "gender": "female",
+    "age group": "30~35",
+    "residence": "Suzhou",
+    "work address": "25th Floor, Suzhou International Financial Center, 9 Suzhou Avenue West, Industrial Park District, Suzhou, Jiangsu Province",
+    "dietary restrictions": "No caffeine, Low salt",
+    "family status": "Has children",
+    "personality": "Cold and concise in expression, lacks emotional communication and patience"
+  },
+  "user_historical_behaviors": {
+    "user id": "U267041",
+    "occupation": "lawyer",
+    "gender": "female",
+    "age group": "30~35",
+    "residence": "Suzhou",
+    "Permanent address": "Room 302, Building 12, Water Lane Community, 89 Pingjiang Road, Gusu District, Suzhou, Jiangsu Province",
+    "work address": "25th Floor, Suzhou International Financial Center, 9 Suzhou Avenue West, Industrial Park District, Suzhou, Jiangsu Province",
+    "delivery": {
+      "food delivery": {
+        "breakfast": {
+          "frequently purchased categories": [
+            "Simple Meals/Light Food (Average 28 yuan)",
+            "Simple Meals/Pancakes/Wraps/Hand-held Pancakes (Average 15 yuan)",
+            "Beverages and Desserts/Juice (Average 22 yuan)"
+          ],
+          "cost per order": "15~35 yuan",
+          "preferred store rating": "4.5~4.8 points",
+          "preferred delivery time": "15~25 minutes",
+          "preferred distance": "0~1500m",
+          "recent orders": [
+            {
+              "store": "Salad House",
+              "product": "Fruit Light Salad Combo"
+            },
+            {
+              "store": "Fresh Juice Bar",
+              "product": "Fresh Vegetable and Fruit Juice"
+            },
+            {
+              "store": "Old Beijing Pancake",
+              "product": "Whole Wheat Pancake"
+            }
+          ],
+          "search history": [
+            "Healthy breakfast",
+            "Light salad",
+            "Fruit",
+            "Whole wheat food",
+            "Non-caffeinated drinks"
+          ]
+        },
+        "weekday lunch/dinner": {
+          "frequently purchased categories": [
+            "Simple Meals/Healthy Meal (Average 45 yuan)",
+            "Simple Meals/Salad (Average 38 yuan)",
+            "International Cuisine/Kimbap (Average 35 yuan)"
+          ],
+          "cost per order": "30~65 yuan",
+          "preferred store rating": "4.3~4.9 points",
+          "preferred delivery time": "20~35 minutes",
+          "preferred distance": "0~2500m",
+          "recent orders": [
+            {
+              "store": "Light Food Concept",
+              "product": "Chicken Breast Quinoa Rice"
+            },
+            {
+              "store": "Vegetable Workshop",
+              "product": "Avocado Salmon Salad"
+            },
+            {
+              "store": "Lucky Sushi House",
+              "product": "Vegetable Kimbap Set"
+            }
+          ],
+          "search history": [
+            "Low-oil healthy meals",
+            "Vegetable salad",
+            "Light food",
+            "Non-spicy cuisine"
+          ]
+        },
+        "weekend lunch/dinner": {
+          "frequently purchased categories": [
+            "Chinese Cuisine/Cantonese Cuisine (Average 85 yuan)",
+            "International Cuisine/Japanese Bento/Sushi (Average 110 yuan)",
+            "Chinese Cuisine/Grilled Fish (Average 120 yuan)"
+          ],
+          "cost per order": "75~150 yuan",
+          "preferred store rating": "4.6~5.0 points",
+          "preferred delivery time": "30~45 minutes",
+          "preferred distance": "0~3500m",
+          "recent orders": [
+            {
+              "store": "Hanada Japanese Cuisine",
+              "product": "Deluxe Sushi Platter"
+            },
+            {
+              "store": "Better Cantonese",
+              "product": "Steamed Bass Set"
+            },
+            {
+              "store": "Grilled Fish Legend",
+              "product": "Mildly Spicy Lemon Grilled Fish"
+            }
+          ],
+          "search history": [
+            "Non-spicy Japanese food",
+            "Cantonese cuisine",
+            "Steamed fish",
+            "Couple set meal",
+            "Mild grilled fish"
+          ]
+        },
+        "desserts/drinks/snacks": {
+          "frequently purchased categories": [
+            "Beverages and Desserts/Juice (Average 26 yuan)",
+            "Beverages and Desserts/Western Desserts (Average 32 yuan)",
+            "Beverages and Desserts/Fruit Salad (Average 35 yuan)"
+          ],
+          "cost per order": "20~45 yuan",
+          "preferred store rating": "4.5~4.9 points",
+          "preferred delivery time": "15~30 minutes",
+          "preferred distance": "0~2000m",
+          "recent orders": [
+            {
+              "store": "Fresh Fruit Workshop",
+              "product": "Mango Coconut Smoothie"
+            },
+            {
+              "store": "Paris Sweet Heart",
+              "product": "Matcha Tiramisu"
+            },
+            {
+              "store": "Fresh Cut Fruit",
+              "product": "Summer Fruit Salad"
+            }
+          ],
+          "search history": [
+            "Non-caffeinated desserts",
+            "Fresh juice",
+            "Fruit salad",
+            "Light sweet desserts"
+          ]
+        },
+        "night snack": {
+          "frequently purchased categories": [
+            "Simple Meals/Rice Noodles (Average 32 yuan)",
+            "Snacks/Marinated Foods (Average 40 yuan)",
+            "Simple Meals/Small Bowls/Small Portions (Average 45 yuan)"
+          ],
+          "cost per order": "25~50 yuan",
+          "preferred store rating": "4.2~4.8 points",
+          "preferred delivery time": "20~35 minutes",
+          "preferred distance": "0~2500m",
+          "recent orders": [
+            {
+              "store": "Yunnan Bridge Rice Noodles",
+              "product": "Clear Broth Chicken Rice Noodles"
+            },
+            {
+              "store": "Traditional Marinated Delicacies",
+              "product": "Five-Spice Marinated Platter"
+            },
+            {
+              "store": "Small Bowl Homestyle Restaurant",
+              "product": "Stir-fried Seasonal Vegetables Small Bowl"
+            }
+          ],
+          "search history": [
+            "Non-spicy rice noodles",
+            "Light night snacks",
+            "Small portion dishes",
+            "Mild marinated foods"
+          ]
+        }
+      },
+      "product delivery": {
+        "frequently purchased categories": [
+          "Fruit(28%)",
+          "Vegetables/Bean Products(22%)",
+          "Mother and Baby Products(18%)",
+          "Household Items(15%)",
+          "Grains, Oil, Seasonings and Dried Foods(10%)",
+          "Others(7%)"
+        ],
+        "frequently visited stores": [
+          "Little Elephant Fresh Supermarket(35%)",
+          "Special Product Selection(25%)",
+          "Duoduo Fresh Convenience Store(20%)",
+          "Yonghui Supermarket(15%)",
+          "Other Stores(5%)"
+        ],
+        "cost per order by category": {
+          "Fruit": "10~40 yuan",
+          "Vegetables/Bean Products": "5~20 yuan",
+          "Mother and Baby Products": "30~120 yuan",
+          "Household Items": "15~50 yuan",
+          "Grains, Oil, Seasonings and Dried Foods": "10~35 yuan"
+        },
+        "preferred delivery time": "30~60 minutes",
+        "typical order time": "9~11 AM(32%)，4~6 PM(45%)，7~9 PM(23%)",
+        "recent orders": [
+          {
+            "store": "Little Elephant Fresh Supermarket",
+            "product": "Yunnan Fuji Apples 4 pieces + Bananas 1 jin"
+          },
+          {
+            "store": "Duoduo Fresh Convenience Store",
+            "product": "Baby Wipes + Children's Toothpaste"
+          },
+          {
+            "store": "Little Elephant Fresh Supermarket",
+            "product": "Tomatoes 500g + Tofu 2 pieces + Bok Choy 1 bunch"
+          }
+        ],
+        "search history": [
+          "Fruit",
+          "Baby wipes",
+          "Tofu",
+          "Rice",
+          "Laundry detergent",
+          "Eggs"
+        ]
+      }
+    },
+    "in-store consumption": {
+      "in-store dining": {
+        "fine-dining": {
+          "frequently purchased categories": [
+            "Regional Cuisine/Local Jiangsu-Zhejiang Cuisine (Average 135 yuan)",
+            "International Cuisine/Japanese Food (Average 180 yuan)",
+            "Regional Cuisine/Cantonese Cuisine (Average 160 yuan)"
+          ],
+          "preferred average price per person": "130~190 yuan",
+          "preferred store rating": "4.2~4.8 stars",
+          "typical dining time": "18:30-20:30",
+          "preferred distance": "500~3000m",
+          "recent orders": [
+            {
+              "store": "Songhe Lou (Pingjiang Road Branch)",
+              "product": "Squirrel-shaped Mandarin Fish, Beggar's Chicken, Biluochun Shrimp"
+            },
+            {
+              "store": "Daiyo Teppanyaki (Yuanrong Branch)",
+              "product": "Wagyu Set, Wasabi Octopus"
+            },
+            {
+              "store": "Shunfeng (Jinji Lake Branch)",
+              "product": "Crispy Roast Goose, Steamed Grouper"
+            }
+          ],
+          "search history": [
+            "Non-caffeinated restaurant",
+            "Low-sodium menu",
+            "Suzhou high-end restaurants",
+            "Family-friendly restaurants"
+          ]
+        },
+        "light meal": {
+          "frequently purchased categories": [
+            "Snacks and Fast Food/Chinese Simple Meals (Average 45 yuan)",
+            "Snacks and Fast Food/Western Fast Food (Average 35 yuan)"
+          ],
+          "preferred average price per person": "30~60 yuan",
+          "preferred store rating": "3.5~4.3 stars",
+          "typical dining time": "12:00-13:30",
+          "preferred distance": "0~800m",
+          "recent orders": [
+            {
+              "store": "Gaima Rice (Financial Center Branch)",
+              "product": "Light Salad, Low-sodium Chicken Breast Rice"
+            },
+            {
+              "store": "Salad Perfect",
+              "product": "Light Chicken Salad, Vegetable Soup"
+            },
+            {
+              "store": "Real Kung Fu",
+              "product": "Low-sodium Steamed Fish Set"
+            }
+          ],
+          "search history": [
+            "Healthy meals near office building",
+            "Low-sodium lunch",
+            "Light food takeout",
+            "Quick lunch"
+          ]
+        },
+        "desserts/drinks/snacks": {
+          "frequently purchased categories": [
+            "Beverage Shops (Average 25 yuan)",
+            "Bread and Desserts (Average 35 yuan)"
+          ],
+          "preferred average price per person": "20~40 yuan",
+          "preferred store rating": "4.0~4.7 stars",
+          "typical dining time": "15:00-16:30",
+          "preferred distance": "0~500m",
+          "recent orders": [
+            {
+              "store": "Nayuki (Financial Center Branch)",
+              "product": "Non-caffeinated Tea, Light Sandwich"
+            },
+            {
+              "store": "BreadTalk",
+              "product": "Whole Wheat Bread, Sugar-free Pastry"
+            },
+            {
+              "store": "HeyTea",
+              "product": "Cheese Fruit Tea (No Sugar)"
+            }
+          ],
+          "search history": [
+            "Non-caffeinated drinks",
+            "Low-sugar desserts",
+            "Healthy tea drinks"
+          ]
+        }
+      },
+      "other in-store services": {
+        "frequently consumed categories": {
+          "Beauty/Hair Salon": "15%",
+          "Beauty/Yoga": "25%",
+          "Sports and Fitness/Fitness Center": "30%",
+          "Leisure Entertainment/Massage/Foot Massage": "10%",
+          "Parent-Child/Parent-Child Recreation": "20%"
+        },
+        "cost per order by category": {
+          "Beauty/Hair Salon": "280~450 yuan",
+          "Beauty/Yoga": "150~300 yuan/session",
+          "Sports and Fitness/Fitness Center": "200~350 yuan/month",
+          "Leisure Entertainment/Massage/Foot Massage": "180~280 yuan",
+          "Parent-Child/Parent-Child Recreation": "150~300 yuan"
+        },
+        "preferred store rating": "4.0~4.8 stars",
+        "preferred service time": "Weekends 10:00-16:00, Weekdays 18:00-20:00",
+        "preferred distance": "Near residence 0~2000m, Near workplace 0~1000m",
+        "recent orders": [
+          {
+            "store": "Calorie Fitness (Industrial Park Branch)",
+            "product": "Personal Training (Stress Relief)"
+          },
+          {
+            "store": "Wonderland Parent-Child Playground (Pingjiang Road Branch)",
+            "product": "Weekend Parent-Child Package"
+          },
+          {
+            "store": "Brahma Yoga (Jinji Lake Branch)",
+            "product": "Stress Relief Course 10-Session Card"
+          }
+        ],
+        "search history": [
+          "Workplace stress-relief yoga",
+          "Weekend parent-child activities",
+          "Family gym",
+          "Women-only fitness",
+          "Child-friendly restaurants"
+        ]
+      }
+    },
+    "OTA": {
+      "visited scenes": {
+        "Cultural Relics": "35%",
+        "Landmark Buildings": "15%",
+        "Exhibition Halls (Museums/Art Galleries)": "20%",
+        "Parks": "10%",
+        "Special Villages/Industrial Tourism/Uncategorized Projects": "5%",
+        "Hot Spring Scenic Areas": "15%"
+      },
+      "cost per night on hotel": "1000~2000 yuan",
+      "visited hotels": {
+        "Atour": "30%",
+        "Marriott": "25%",
+        "Shangri-La": "15%",
+        "Huazhu": "20%",
+        "Sheraton": "10%"
+      },
+      "browsed hotels": {
+        "Five-Star Hotels": "25%",
+        "Four-Star Hotels": "45%",
+        "Luxury Hotels": "20%",
+        "Comfort Hotels": "10%"
+      },
+      "historical travel plans": {
+        "Suzhou-Hangzhou": {
+          "Price range": "150-250 yuan",
+          "Transportation method": "High-Speed Rail/Bullet Train"
+        },
+        "Suzhou-Beijing": {
+          "Price range": "1200-1800 yuan",
+          "Transportation method": "Airplane"
+        },
+        "Suzhou-Shanghai": {
+          "Price range": "80-120 yuan",
+          "Transportation method": "High-Speed Rail/Bullet Train"
+        },
+        "Suzhou-Chengdu": {
+          "Price range": "1500-2000 yuan",
+          "Transportation method": "Airplane"
+        },
+        "Suzhou-Xiamen": {
+          "Price range": "800-1200 yuan",
+          "Transportation method": "Airplane"
+        },
+        "Suzhou-Nanjing": {
+          "Price range": "100-150 yuan",
+          "Transportation method": "High-Speed Rail/Bullet Train"
+        },
+        "Suzhou-Huangshan": {
+          "Price range": "300-400 yuan",
+          "Transportation method": "High-Speed Rail/Bullet Train"
+        },
+        "Suzhou-Sanya": {
+          "Price range": "2000-3000 yuan",
+          "Transportation method": "Airplane"
+        }
+      }
+    }
+  },
+  "stores": {},
+  "orders": {
+    "S17550802123065403_O00001": {
+      "order_id": "S17550802123065403_O00001",
+      "order_type": "delivery",
+      "user_id": "U267041",
+      "store_id": "S17550802123065403_S00001",
+      "total_price": 89.8,
+      "create_time": "2025-03-25 18:30:15",
+      "status": "in-progress",
+      "products": [
+        {
+          "product_id": "S17550802123065403_P00001",
+          "price": 39.9,
+          "quantity": 1
+        },
+        {
+          "product_id": "S17550802123065403_P00002",
+          "price": 49.9,
+          "quantity": 1
+        }
+      ],
+      "note": "Please don't send the Children's Sun Hat in pink, thank you!",
+      "location": {
+        "address": "Room 302, Building 12, Water Lane Community, 89 Pingjiang Road, Gusu District, Suzhou, Jiangsu Province",
+        "longitude": 120.63782,
+        "latitude": 31.31149
+      },
+      "dispatch_time": "2025-03-25 18:45:22",
+      "shipping_time": 25.0,
+      "delivery_time": "2025-03-25 19:10:22"
+    }
+  }
+}

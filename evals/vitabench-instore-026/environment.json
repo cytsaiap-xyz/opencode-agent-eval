@@ -1,0 +1,220 @@
+{
+  "task_id": "10826011",
+  "domain": "instore",
+  "time": "2025-03-15 17:30:00",
+  "user_id": "U091644",
+  "weather": [
+    {
+      "city": "Nanning",
+      "category": "cloudy",
+      "datetime": "2025-03-15",
+      "temperature": [
+        18,
+        26
+      ],
+      "humidity": 65
+    }
+  ],
+  "location": [
+    {
+      "address": "Room 1204, Building A, Sunshine 100 City Plaza, 166 Minzu Avenue, Qingxiu District, Nanning, Guangxi",
+      "longitude": 108.367,
+      "latitude": 22.8126
+    },
+    {
+      "address": "15th Floor, Building B, Hangyang International City, 131 Minzu Avenue, Qingxiu District, Nanning, Guangxi",
+      "longitude": 108.365,
+      "latitude": 22.8118
+    },
+    {
+      "address": "Night Market",
+      "longitude": 108.378,
+      "latitude": 22.8161
+    }
+  ],
+  "user_profile": {
+    "user id": "U091644",
+    "occupation": "White-collar worker",
+    "gender": "male",
+    "age group": "30~35",
+    "residence": "Nanning",
+    "home address": "Room 1204, Building A, Sunshine 100 City Plaza, 166 Minzu Avenue, Qingxiu District, Nanning, Guangxi",
+    "work address": "15th Floor, Building B, Hangyang International City, 131 Minzu Avenue, Qingxiu District, Nanning, Guangxi",
+    "dietary restrictions": "Avoid high purine foods (such as organ meats/seafood soups)",
+    "family status": "Has children",
+    "personality": "Experiences significant mood swings, expresses himself with strong emotional coloring"
+  },
+  "user_historical_behaviors": {
+    "user id": "U091644",
+    "occupation": "White-collar worker",
+    "gender": "male",
+    "age group": "30~35",
+    "residence": "Nanning",
+    "home address": "Room 1204, Building A, Sunshine 100 City Plaza, 166 Minzu Avenue, Qingxiu District, Nanning, Guangxi",
+    "work address": "15th Floor, Building B, Hangyang International City, 131 Minzu Avenue, Qingxiu District, Nanning, Guangxi",
+    "in-store dining": {
+      "fine-dining": {
+        "frequently purchased categories": [
+          "Regional Cuisine/Cantonese Cuisine (Average 120 yuan)",
+          "International Cuisine/Japanese Food (Average 150 yuan)",
+          "Hot Pot (Average 130 yuan)"
+        ],
+        "preferred average price per person": "100~150 yuan",
+        "preferred store rating": "4.0~4.8 stars",
+        "typical dining time": "18:30-20:30",
+        "preferred distance": "500~3000m",
+        "recent orders": [
+          {
+            "store": "Yuexi Japanese Restaurant",
+            "product": "Unlimited Sushi Set for Two"
+          },
+          {
+            "store": "Yuezhen Xuan",
+            "product": "Family Set (Fresh Shrimp Wonton + Roast Goose + Steamed Sea Bass)"
+          },
+          {
+            "store": "Shu Wei Xuan",
+            "product": "Tomato Beef Brisket Hot Pot (Non-alcoholic)"
+          }
+        ],
+        "search history": [
+          "Family-friendly restaurants",
+          "Non-alcoholic hot pot",
+          "Business dinner",
+          "Cantonese cuisine",
+          "Japanese cuisine"
+        ]
+      },
+      "light meal": {
+        "frequently purchased categories": [
+          "Fast Food/Chinese Quick Meals (Average 35 yuan)",
+          "Fast Food/Western Fast Food (Average 40 yuan)",
+          "Regional Cuisine/Sichuan Cuisine (Average 45 yuan)"
+        ],
+        "preferred average price per person": "30~50 yuan",
+        "preferred store rating": "3.5~4.3 stars",
+        "typical dining time": "12:00-13:30",
+        "preferred distance": "0~800m",
+        "recent orders": [
+          {
+            "store": "Chuanxi Bazi",
+            "product": "Boiled Fish Set"
+          },
+          {
+            "store": "Yonghe King",
+            "product": "Chicken Wrap + Soy Milk"
+          },
+          {
+            "store": "Yi Pin Xuan",
+            "product": "Braised Chicken Rice"
+          }
+        ],
+        "search history": [
+          "Weekday lunch",
+          "Fast food",
+          "Bento box",
+          "Rice meal set"
+        ]
+      },
+      "desserts/drinks/snacks": {
+        "frequently purchased categories": [
+          "Beverage Shops (Average 18 yuan)",
+          "Bakery and Desserts (Average 25 yuan)",
+          "Other Dining/Fresh Fruits (Average 30 yuan)"
+        ],
+        "preferred average price per person": "15~30 yuan",
+        "preferred store rating": "3.8~4.5 stars",
+        "typical dining time": "15:00-17:00",
+        "preferred distance": "0~500m",
+        "recent orders": [
+          {
+            "store": "Hey Tea",
+            "product": "Grape with Pulp (Sugar-free)"
+          },
+          {
+            "store": "85°C",
+            "product": "Mango Mousse"
+          },
+          {
+            "store": "Fresh Fruit Journal",
+            "product": "Fruit Platter"
+          }
+        ],
+        "search history": [
+          "Low-sugar drinks",
+          "Healthy desserts",
+          "Fruits",
+          "Afternoon tea"
+        ]
+      }
+    },
+    "other in-store services": {
+      "frequently consumed categories": {
+        "Sports & Fitness/Fitness Centers": "40%",
+        "Sports & Fitness/Ball Sports": "35%",
+        "Parent-Child/Children's Entertainment": "15%",
+        "Leisure Entertainment/Massage/Foot Therapy": "10%"
+      },
+      "cost per order by category": {
+        "Sports & Fitness/Fitness Centers": "80~200 yuan",
+        "Sports & Fitness/Ball Sports": "60~150 yuan",
+        "Parent-Child/Children's Entertainment": "100~250 yuan",
+        "Leisure Entertainment/Massage/Foot Therapy": "120~180 yuan"
+      },
+      "preferred store rating": "4.0~4.8 stars",
+      "preferred service time": "18:00-21:00",
+      "preferred distance": "0~1000m",
+      "recent orders": [
+        {
+          "store": "Kangti Fitness Center",
+          "product": "Monthly Fitness Package"
+        },
+        {
+          "store": "Star Motion Basketball Court",
+          "product": "Two-Person Basketball Court 2 Hours"
+        },
+        {
+          "store": "b216 (Lianfa Premium Store)",
+          "product": "3-4 Person Set|3 Specialty Cocktails + 2 Snack Portions"
+        }
+      ],
+      "search history": [
+        "Gym",
+        "Basketball court",
+        "Cocktail bar",
+        "Weekend activities",
+        "Massage"
+      ]
+    }
+  },
+  "stores": {},
+  "orders": {
+    "S17564420317165268_O00001": {
+      "order_id": "S17564420317165268_O00001",
+      "order_type": "instore",
+      "user_id": "U091644",
+      "store_id": "S17564420317165268_I00001",
+      "note": "Three-person gathering, need seats in Smoking Area",
+      "location": {
+        "address": "Blue Note Bar, 118 Minzu Avenue, Qingxiu District, Nanning, Guangxi",
+        "longitude": 108.366543,
+        "latitude": 22.817002
+      },
+      "dispatch_time": "",
+      "shipping_time": 0,
+      "delivery_time": "",
+      "total_price": 288,
+      "create_time": "2025-03-13 17:35:12",
+      "update_time": "2025-03-13 17:35:12",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17564420317165268_P00001",
+          "price": 288,
+          "quantity": 1,
+          "attributes": "Blue Note Specialty Set for Three (Including Snacks), arrive at 21:00"
+        }
+      ]
+    }
+  }
+}

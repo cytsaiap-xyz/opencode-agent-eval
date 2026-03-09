@@ -1,0 +1,816 @@
+{
+  "task_id": "10807007",
+  "domain": "cross_domain",
+  "time": "2025-04-29 15:30:00",
+  "user_id": "U010060",
+  "weather": [
+    {
+      "city": "Xining",
+      "category": "sunny",
+      "datetime": "2025-04-29",
+      "temperature": [
+        12,
+        22
+      ],
+      "humidity": 40
+    },
+    {
+      "city": "Xining",
+      "category": "sunny",
+      "datetime": "2025-05-01",
+      "temperature": [
+        10,
+        20
+      ],
+      "humidity": 45
+    },
+    {
+      "city": "Xining",
+      "category": "cloudy",
+      "datetime": "2025-05-02",
+      "temperature": [
+        9,
+        19
+      ],
+      "humidity": 50
+    },
+    {
+      "city": "Qinghai Lake",
+      "category": "partly cloudy",
+      "datetime": "2025-05-01",
+      "temperature": [
+        6,
+        15
+      ],
+      "humidity": 35
+    },
+    {
+      "city": "Qinghai Lake",
+      "category": "cloudy",
+      "datetime": "2025-05-02",
+      "temperature": [
+        7,
+        14
+      ],
+      "humidity": 40
+    },
+    {
+      "city": "Qinghai Lake",
+      "category": "sunny",
+      "datetime": "2025-05-03",
+      "temperature": [
+        6,
+        16
+      ],
+      "humidity": 30
+    },
+    {
+      "city": "Qinghai Lake",
+      "category": "sunny",
+      "datetime": "2025-05-04",
+      "temperature": [
+        8,
+        17
+      ],
+      "humidity": 35
+    },
+    {
+      "city": "Qinghai Lake",
+      "category": "cloudy",
+      "datetime": "2025-05-05",
+      "temperature": [
+        7,
+        15
+      ],
+      "humidity": 45
+    },
+    {
+      "city": "Qinghai Lake",
+      "category": "cloudy to light rain",
+      "datetime": "2025-05-06",
+      "temperature": [
+        4,
+        12
+      ],
+      "humidity": 60
+    },
+    {
+      "city": "Qinghai Lake",
+      "category": "light rain",
+      "datetime": "2025-05-07",
+      "temperature": [
+        4,
+        10
+      ],
+      "humidity": 70
+    },
+    {
+      "city": "Qinghai Lake",
+      "category": "cloudy",
+      "datetime": "2025-05-08",
+      "temperature": [
+        5,
+        14
+      ],
+      "humidity": 55
+    }
+  ],
+  "location": [],
+  "user_profile": {
+    "user id": "U010060",
+    "occupation": "Fitness Coach",
+    "gender": "female",
+    "age group": "25~30",
+    "residence": "Xi'an",
+    "Permanent address": "Room 1405, Building 3, Chengshi Apartment, No. 508 Zhangba North Road, Yanta District, Xi'an",
+    "work address": "Super Monkey Gym, 4th Floor, Mixc Mall, 50 Technology Road, Yanta District, Xi'an",
+    "dietary restrictions": "No High-sugar, Non-fried",
+    "family status": "In a relationship",
+    "personality": "Strong logical thinking, likes to analyze and question, pursues accuracy"
+  },
+  "user_historical_behaviors": {
+    "user id": "U010060",
+    "occupation": "fitness coach",
+    "gender": "female",
+    "age group": "25~30",
+    "residence": "Xi'an",
+    "home address": "Room 1405, Building 3, Orange Apartment, 508 Zhangba North Road, Yanta District, Xi'an",
+    "work address": "Super Monkey Gym, 4th Floor, Mixc Mall, 50 Technology Road, Yanta District, Xi'an",
+    "delivery": {
+      "food delivery": {
+        "breakfast": {
+          "frequently purchased categories": [
+            "Quick meals/Steamed buns/Pan-fried buns (Average 16 yuan)",
+            "Quick meals/Jianbing/Wraps/Hand-grabbed pancakes (Average 12 yuan)",
+            "Quick meals/Dumplings/Wonton (Average 18 yuan)"
+          ],
+          "cost per order": "10~25 yuan",
+          "preferred store rating": "4.3~4.8 points",
+          "preferred delivery time": "15~25 minutes",
+          "preferred distance": "0~1500m",
+          "recent orders": [
+            {
+              "store": "Lao Xu's Handmade Steamed Buns",
+              "product": "6 Meat Buns + 1 Cup of Soy Milk"
+            },
+            {
+              "store": "Daily Breakfast Shop",
+              "product": "Plain Hand-grabbed Pancake + Sauce Pancake + Soy Milk"
+            },
+            {
+              "store": "Wang's Dumplings",
+              "product": "15 Three Delicacies Dumplings + Millet Porridge"
+            }
+          ],
+          "search history": [
+            "Steamed buns",
+            "Soy milk",
+            "Pan-fried buns",
+            "Nutritious breakfast",
+            "Healthy breakfast"
+          ]
+        },
+        "weekday lunch/dinner": {
+          "frequently purchased categories": [
+            "Quick meals/Healthy meals (Average 42 yuan)",
+            "Quick meals/Light food (Average 38 yuan)",
+            "Chinese cuisine/Crayfish (Average 68 yuan)"
+          ],
+          "cost per order": "35~70 yuan",
+          "preferred store rating": "4.5~4.9 points",
+          "preferred delivery time": "20~35 minutes",
+          "preferred distance": "0~2500m",
+          "recent orders": [
+            {
+              "store": "Light Food Philosophy",
+              "product": "Quinoa Chicken Breast Salad + Avocado"
+            },
+            {
+              "store": "Health Steamed Food",
+              "product": "Low-fat Chicken Breast Bento + Black Rice"
+            },
+            {
+              "store": "Fresh Steamed Nutrition Workshop",
+              "product": "Steamed Fish Fillet + Seasonal Vegetables"
+            }
+          ],
+          "search history": [
+            "Low-fat Meals",
+            "Healthy Bento",
+            "Steamed Food",
+            "Chicken Breast",
+            "High-protein"
+          ]
+        },
+        "weekend lunch/dinner": {
+          "frequently purchased categories": [
+            "International Cuisine/Stone Pot Bibimbap/Teppanyaki Rice (Average 78 yuan)",
+            "International Cuisine/Japanese Bento/Sushi (Average 98 yuan)",
+            "Chinese Cuisine/Cantonese Cuisine (Average 120 yuan)"
+          ],
+          "cost per order": "70~150 yuan",
+          "preferred store rating": "4.7~5.0 points",
+          "preferred delivery time": "30~45 minutes",
+          "preferred distance": "0~3500m",
+          "recent orders": [
+            {
+              "store": "Kyoto Japanese Cuisine",
+              "product": "Deluxe Sushi Platter + Chawanmushi"
+            },
+            {
+              "store": "Hanjiang Stone Pot Cuisine",
+              "product": "Stone Pot Bibimbap + Kimchi Tofu Soup"
+            },
+            {
+              "store": "Better Cantonese",
+              "product": "White Cut Chicken + Steamed Fish + Seasonal Vegetables"
+            }
+          ],
+          "search history": [
+            "Japanese cuisine",
+            "Sushi",
+            "Cantonese cuisine",
+            "Stone pot bibimbap",
+            "Healthy gourmet food"
+          ]
+        },
+        "desserts/drinks/snacks": {
+          "frequently purchased categories": [
+            "Beverages & Desserts/Juice (Average 22 yuan)",
+            "Beverages & Desserts/Pure Tea/Herbal Tea (Average 18 yuan)",
+            "Beverages & Desserts/Chinese Pastries (Average 28 yuan)"
+          ],
+          "cost per order": "15~35 yuan",
+          "preferred store rating": "4.4~4.9 points",
+          "preferred delivery time": "15~30 minutes",
+          "preferred distance": "0~2000m",
+          "recent orders": [
+            {
+              "store": "Fresh Juice Bar",
+              "product": "Mango Coconut Juice + Dragon Fruit Juice"
+            },
+            {
+              "store": "Tea Language Pure Heart",
+              "product": "Chrysanthemum Tea + Rock Sugar Pear Tea"
+            },
+            {
+              "store": "Old Neighborhood Pastries",
+              "product": "Date Paste Cake + Osmanthus Cake"
+            }
+          ],
+          "search history": [
+            "Freshly squeezed juice",
+            "Sugar-free tea",
+            "Health tea",
+            "Traditional pastries",
+            "Fruit tea"
+          ]
+        },
+        "night snack": {
+          "frequently purchased categories": [
+            "Quick meals/Rice noodles/Rice vermicelli (Average 32 yuan)",
+            "Quick meals/Casserole dishes (Average 45 yuan)",
+            "Quick meals/Small bowl dishes/Small portion dishes (Average 38 yuan)"
+          ],
+          "cost per order": "25~50 yuan",
+          "preferred store rating": "4.2~4.7 points",
+          "preferred delivery time": "20~35 minutes",
+          "preferred distance": "0~2500m",
+          "recent orders": [
+            {
+              "store": "Bridge Crossing Rice Noodles",
+              "product": "Healthy Mushroom Rice Noodles + Cold Bean Sprouts"
+            },
+            {
+              "store": "Small Casserole Pot",
+              "product": "Nourishing Casserole + Two Side Dishes"
+            },
+            {
+              "store": "Homestyle Small Bowl Dishes",
+              "product": "Vinegar Stir-fried Cabbage + Saucy Eggplant"
+            }
+          ],
+          "search history": [
+            "Healthy late night snacks",
+            "Casserole",
+            "Rice noodles",
+            "Light night snacks",
+            "Small stir-fry dishes"
+          ]
+        }
+      },
+      "product delivery": {
+        "frequently purchased categories": [
+          "Fruits(32%)",
+          "Outdoor Sports(24%)",
+          "Vegetables/Bean Products(15%)",
+          "Household Items(12%)",
+          "Grains/Condiments/Dry Goods(10%)",
+          "Others(7%)"
+        ],
+        "frequently visited stores": [
+          "Hema Fresh(38%)",
+          "Yonghui Supermarket(27%)",
+          "Decathlon(21%)",
+          "Other stores(14%)"
+        ],
+        "cost per order by category": {
+          "Fruits": "10~45 yuan",
+          "Outdoor Sports": "50~500 yuan",
+          "Vegetables/Bean Products": "15~40 yuan",
+          "Household Items": "10~50 yuan",
+          "Grains/Condiments/Dry Goods": "35~90 yuan"
+        },
+        "preferred delivery time": "25~60 minutes",
+        "typical order time": "17~19:00(35%), 10~12:00(28%), 13~15:00(15%)",
+        "recent orders": [
+          {
+            "store": "Hema Fresh",
+            "product": "Organic Vegetable Gift Box"
+          },
+          {
+            "store": "Decathlon",
+            "product": "Sports Knee Pads"
+          },
+          {
+            "store": "Xi'an Local Fresh Food",
+            "product": "Sulfur-free Dried Bean Curd Sticks"
+          }
+        ],
+        "search history": [
+          "Organic vegetables",
+          "Avocado",
+          "Sugar-free food",
+          "Sports knee pads",
+          "Low-fat yogurt"
+        ]
+      }
+    },
+    "in-store consumption": {
+      "in-store dining": {
+        "fine-dining": {
+          "frequently purchased categories": [
+            "Regional Cuisine/Jiangsu-Zhejiang Cuisine (Average 120 yuan)",
+            "International Cuisine/Japanese Cuisine (Average 150 yuan)",
+            "Regional Cuisine/Specialty Dishes (Average 100 yuan)"
+          ],
+          "preferred average price per person": "100~150 yuan",
+          "preferred store rating": "4.0~4.8 stars",
+          "typical dining time": "18:30-20:30",
+          "preferred distance": "500~3000m",
+          "recent orders": [
+            {
+              "store": "Jiangnan Courtyard",
+              "product": "Preserved Vegetable Braised Pork + Dongpo Pork + West Lake Vinegar Fish"
+            },
+            {
+              "store": "Japanese Style Sushi",
+              "product": "Sashimi Platter + Salmon Sushi"
+            },
+            {
+              "store": "Taizhou Seafood Restaurant",
+              "product": "Steamed Bass"
+            }
+          ],
+          "search history": [
+            "Non-seafood restaurants",
+            "Japanese cuisine",
+            "Jiangsu-Zhejiang cuisine",
+            "Taizhou specialty dishes"
+          ]
+        },
+        "light meal": {
+          "frequently purchased categories": [
+            "Snacks & Fast Food/Chinese Simple Meals (Average 35 yuan)",
+            "Regional Cuisine/Jiangsu-Zhejiang Cuisine (Average 45 yuan)",
+            "Bread & Desserts (Average 25 yuan)"
+          ],
+          "preferred average price per person": "25~45 yuan",
+          "preferred store rating": "3.5~4.3 stars",
+          "typical dining time": "11:30-13:00",
+          "preferred distance": "0~500m",
+          "recent orders": [
+            {
+              "store": "Hospital Cafeteria",
+              "product": "Stir-fried Seasonal Vegetables + Rice"
+            },
+            {
+              "store": "Grandma's Noodle House",
+              "product": "Taizhou Small Noodles"
+            },
+            {
+              "store": "Country Fast Food",
+              "product": "Vegetable Set Meal"
+            }
+          ],
+          "search history": [
+            "Restaurants near hospital",
+            "Vegetarian food",
+            "Fast food",
+            "Noodle dishes"
+          ]
+        },
+        "desserts/drinks/snacks": {
+          "frequently purchased categories": [
+            "Beverage Shops (Average 18 yuan)",
+            "Bread & Desserts (Average 22 yuan)",
+            "Other Dining/Fruit & Fresh Food (Average 15 yuan)"
+          ],
+          "preferred average price per person": "15~25 yuan",
+          "preferred store rating": "3.8~4.5 stars",
+          "typical dining time": "15:00-17:00",
+          "preferred distance": "0~300m",
+          "recent orders": [
+            {
+              "store": "Yi Dian Dian",
+              "product": "Sugar-free Oolong Tea"
+            },
+            {
+              "store": "85°C",
+              "product": "Whole Wheat Bread"
+            },
+            {
+              "store": "Fresh Fruit Station",
+              "product": "Fruit Platter"
+            }
+          ],
+          "search history": [
+            "Sugar-free drinks",
+            "Whole wheat bread",
+            "Low-sugar desserts",
+            "Caffeine-free"
+          ]
+        }
+      },
+      "other in-store services": {
+        "frequently consumed categories": {
+          "Sports Fitness/Fitness Centers": "40%",
+          "Leisure Entertainment/Tea Houses": "20%",
+          "Leisure Entertainment/Massage/Foot Therapy": "25%",
+          "Beauty/Yoga": "15%"
+        },
+        "cost per order by category": {
+          "Sports Fitness/Fitness Centers": "100~200 yuan",
+          "Leisure Entertainment/Tea Houses": "40~80 yuan",
+          "Leisure Entertainment/Massage/Foot Therapy": "120~180 yuan",
+          "Beauty/Yoga": "80~120 yuan"
+        },
+        "preferred store rating": "4.0~4.7 stars",
+        "preferred service time": "19:00-21:00",
+        "preferred distance": "0~2000m",
+        "recent orders": [
+          {
+            "store": "Haosha Fitness Center",
+            "product": "Monthly Fitness Card"
+          },
+          {
+            "store": "Natural Foot Path",
+            "product": "Traditional Chinese Medicine Foot Therapy Relaxation Package"
+          },
+          {
+            "store": "Peaceful Yoga Studio",
+            "product": "Single Yoga Experience Class"
+          }
+        ],
+        "search history": [
+          "Jiaojiang District gyms",
+          "Stress reduction methods for nurses",
+          "Caffeine-free drinks",
+          "Foot massage therapy",
+          "Work pressure relief"
+        ]
+      }
+    },
+    "OTA": {
+      "visited scenes": {
+        "Natural Landscapes (Mountains/Lakes/Forests)": "35%",
+        "Hot Spring Scenic Areas": "25%",
+        "Exhibition Halls (Museums/Art Galleries)": "15%",
+        "Cultural Historical Sites": "15%",
+        "Parks": "10%"
+      },
+      "cost per night on hotel": "500~1000 yuan",
+      "visited hotels": {
+        "Atour": "45%",
+        "JI Hotel": "25%",
+        "Orange Hotel": "20%",
+        "Vienna Hotel": "10%"
+      },
+      "browsed hotels": {
+        "Four-star Hotels": "40%",
+        "Comfortable Hotels": "35%",
+        "Luxury Hotels": "15%",
+        "Three-star Hotels": "10%"
+      },
+      "historical travel plans": {
+        "Xi'an-Chengdu": {
+          "Price Range": "400-600 yuan",
+          "Transportation Mode": "High-speed Rail/EMU"
+        },
+        "Xi'an-Beijing": {
+          "Price Range": "800-1200 yuan",
+          "Transportation Mode": "Airplane"
+        },
+        "Xi'an-Hangzhou": {
+          "Price Range": "900-1300 yuan",
+          "Transportation Mode": "Airplane"
+        },
+        "Xi'an-Chongqing": {
+          "Price Range": "350-550 yuan",
+          "Transportation Mode": "High-speed Rail/EMU"
+        },
+        "Xi'an-Sanya": {
+          "Price Range": "1200-1800 yuan",
+          "Transportation Mode": "Airplane"
+        },
+        "Xi'an-Lijiang": {
+          "Price Range": "800-1200 yuan",
+          "Transportation Mode": "Airplane"
+        }
+      }
+    }
+  },
+  "stores": {
+    "S17550802115172544_S00001": {
+      "name": "Sports Nutrition Meal Delivery Center",
+      "store_id": "S17550802115172544_S00001",
+      "score": 4.8,
+      "location": {
+        "address": "Sports Nutrition Meal Delivery Center at Qinghai Lake Race Track Service Area, Shaliu River Town, Gangcha County, Haibei Tibetan Autonomous Prefecture, Qinghai Province",
+        "latitude": 37.0542,
+        "longitude": 100.2458
+      },
+      "tags": [
+        "Athletes Only",
+        "High-carb",
+        "Low-fat",
+        "Non-fried",
+        "No Added Sugar"
+      ],
+      "store_type": "target",
+      "products": [
+        {
+          "name": "Plateau Athlete-specific Meal",
+          "store_id": "S17550802115172544_S00001",
+          "store_name": "Sports Nutrition Meal Delivery Center",
+          "price": 88,
+          "tags": [
+            "High-protein",
+            "Non-fried",
+            "Plateau Adaptation"
+          ],
+          "product_id": "S17550802115172544_P00002",
+          "attributes": [
+            "Contains sweet potato",
+            "Contains oatmeal",
+            "Contains chicken breast"
+          ],
+          "product_type": "target"
+        },
+        {
+          "name": "Energy Bar Gift Box",
+          "store_id": "S17550802115172544_S00001",
+          "store_name": "Sports Nutrition Meal Delivery Center",
+          "price": 58,
+          "tags": [
+            "Portable",
+            "Energy Supplement",
+            "Race Supplies",
+            "With Honey",
+            "With Dried Fruits"
+          ],
+          "product_id": "S17550802115172544_P00004",
+          "attributes": [
+            "Original flavor",
+            "Chocolate flavor",
+            "Blueberry flavor"
+          ],
+          "product_type": "distraction"
+        },
+        {
+          "name": "Mountain Cycling Energy Drink",
+          "store_id": "S17550802115172544_S00001",
+          "store_name": "Sports Nutrition Meal Delivery Center",
+          "price": 45,
+          "tags": [
+            "Electrolyte Supplement",
+            "Vitamin",
+            "Fast Absorption",
+            "Sports Drink"
+          ],
+          "product_id": "S17550802115172544_P00005",
+          "attributes": [
+            "Lemon flavor",
+            "Lime flavor",
+            "Original flavor"
+          ],
+          "product_type": "distraction"
+        }
+      ]
+    },
+    "S17550802115172544_S00003": {
+      "name": "Plateau Energy Restaurant",
+      "store_id": "S17550802115172544_S00003",
+      "score": 4.5,
+      "location": {
+        "address": "Plateau Energy Restaurant at the Entrance of Qinghai Lake Scenic Area, Shaliu River Town, Gangcha County, Haibei Tibetan Autonomous Prefecture, Qinghai Province",
+        "latitude": 37.0489,
+        "longitude": 100.2378
+      },
+      "tags": [
+        "Plateau Adaptation",
+        "Energy Supplement",
+        "Local Specialty",
+        "High-protein"
+      ],
+      "store_type": "distraction",
+      "products": [
+        {
+          "name": "Qinghai-Tibet Plateau Special Yak Meat Set Meal",
+          "store_id": "S17550802115172544_S00003",
+          "store_name": "Plateau Energy Restaurant",
+          "price": 68,
+          "tags": [
+            "High-protein",
+            "Local Specialty",
+            "Yak Meat",
+            "Plateau Ingredients"
+          ],
+          "product_id": "S17550802115172544_P00013",
+          "attributes": [
+            "Mildly spicy",
+            "Non-spicy"
+          ],
+          "product_type": "distraction"
+        },
+        {
+          "name": "Plateau Vegetable Highland Barley Noodles",
+          "store_id": "S17550802115172544_S00003",
+          "store_name": "Plateau Energy Restaurant",
+          "price": 42,
+          "tags": [
+            "High-carb",
+            "Highland Barley",
+            "Local Specialty",
+            "Vegetarian"
+          ],
+          "product_id": "S17550802115172544_P00015",
+          "attributes": [
+            "Clear soup",
+            "Mildly spicy"
+          ],
+          "product_type": "distraction"
+        },
+        {
+          "name": "Qinghai Lake Special Fried Milk Tofu",
+          "store_id": "S17550802115172544_S00003",
+          "store_name": "Plateau Energy Restaurant",
+          "price": 38,
+          "tags": [
+            "Local Specialty",
+            "Dairy Products",
+            "Fried",
+            "High-protein"
+          ],
+          "product_id": "S17550802115172544_P00016",
+          "attributes": [
+            "Original flavor",
+            "With sugar"
+          ],
+          "product_type": "distraction"
+        },
+        {
+          "name": "Plateau Black Goji Berry Honey Tea",
+          "store_id": "S17550802115172544_S00003",
+          "store_name": "Plateau Energy Restaurant",
+          "price": 28,
+          "tags": [
+            "Plateau Adaptation",
+            "Energy Supplement",
+            "High-sugar",
+            "Warm Beverage"
+          ],
+          "product_id": "S17550802115172544_P00017",
+          "attributes": [
+            "Hot Drink",
+            "Room temperature"
+          ],
+          "product_type": "distraction"
+        }
+      ]
+    },
+    "S17550802115172544_S00004": {
+      "name": "Qinghai Lakeside Gourmet House",
+      "store_id": "S17550802115172544_S00004",
+      "score": 4.3,
+      "location": {
+        "address": "Qinghai Lakeside Gourmet House, Qinghai Lake Tourist Area, Shaliu River Town, Gangcha County, Haibei Tibetan Autonomous Prefecture, Qinghai Province",
+        "latitude": 36.9987,
+        "longitude": 100.2156
+      },
+      "tags": [
+        "Lake Fresh Food",
+        "Yak Meat",
+        "Tibetan Cuisine",
+        "Local Specialty"
+      ],
+      "store_type": "distraction",
+      "products": [
+        {
+          "name": "Yak Meat Hand-pulled Rice",
+          "store_id": "S17550802115172544_S00004",
+          "store_name": "Qinghai Lakeside Gourmet House",
+          "price": 48,
+          "tags": [
+            "Yak Meat",
+            "High-protein",
+            "Tibetan Cuisine",
+            "Popular"
+          ],
+          "product_id": "S17550802115172544_P00018",
+          "attributes": [
+            "Standard spiciness",
+            "Mildly spicy",
+            "Non-spicy"
+          ],
+          "product_type": "distraction"
+        },
+        {
+          "name": "Qinghai Lake Naked Carp Stew",
+          "store_id": "S17550802115172544_S00004",
+          "store_name": "Qinghai Lakeside Gourmet House",
+          "price": 68,
+          "tags": [
+            "Lake Fresh Food",
+            "High-protein",
+            "Specialty Soup"
+          ],
+          "product_id": "S17550802115172544_P00019",
+          "attributes": [
+            "With green onion",
+            "Without green onion",
+            "With cilantro",
+            "Without cilantro"
+          ],
+          "product_type": "distraction"
+        },
+        {
+          "name": "Tibetan Butter Tea",
+          "store_id": "S17550802115172544_S00004",
+          "store_name": "Qinghai Lakeside Gourmet House",
+          "price": 18,
+          "tags": [
+            "Hot Drink",
+            "Tibetan Specialty",
+            "High-fat",
+            "High Energy"
+          ],
+          "product_id": "S17550802115172544_P00020",
+          "attributes": [
+            "Slightly sweet",
+            "Standard",
+            "With salt"
+          ],
+          "product_type": "distraction"
+        },
+        {
+          "name": "Highland Barley Tsamba Set Meal",
+          "store_id": "S17550802115172544_S00004",
+          "store_name": "Qinghai Lakeside Gourmet House",
+          "price": 35,
+          "tags": [
+            "Tibetan Traditional",
+            "High-carb",
+            "Energy Supplement"
+          ],
+          "product_id": "S17550802115172544_P00021",
+          "attributes": [
+            "With butter",
+            "Without butter"
+          ],
+          "product_type": "distraction"
+        },
+        {
+          "name": "Plateau Roast Lamb Leg",
+          "store_id": "S17550802115172544_S00004",
+          "store_name": "Qinghai Lakeside Gourmet House",
+          "price": 128,
+          "tags": [
+            "Tibetan Barbecue",
+            "High-protein",
+            "Specialty Cuisine",
+            "Large Portion"
+          ],
+          "product_id": "S17550802115172544_P00022",
+          "attributes": [
+            "Mildly spicy",
+            "Medium spicy",
+            "Non-spicy"
+          ],
+          "product_type": "distraction"
+        }
+      ]
+    }
+  },
+  "orders": {}
+}

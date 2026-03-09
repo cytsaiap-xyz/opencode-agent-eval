@@ -1,0 +1,93 @@
+{
+  "required_orders": [
+    {
+      "order_id": "S17550811051817692_O00002",
+      "order_type": "delivery",
+      "user_id": "U001097",
+      "store_id": "S17550811051817692_S00001",
+      "note": "",
+      "location": null,
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 119.7,
+      "create_time": "2024-11-02 16:48:45",
+      "update_time": "2024-11-02 16:48:45",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17550811051817692_P00001",
+          "price": 39.9,
+          "quantity": 3,
+          "name": "Baiyuan Thick Plastic Storage Box Medium Size",
+          "store_id": "S17550811051817692_S00001",
+          "store_name": "JD Home Supermarket",
+          "attributes": [
+            "Gray"
+          ],
+          "tags": [
+            "Storage Container",
+            "Medium Size",
+            "Sturdy and Durable",
+            "Thickened"
+          ]
+        }
+      ]
+    },
+    {
+      "book_id": "S17550811051817692_B00010",
+      "shop_id": "S17550811051817692_I00010",
+      "book_time": "2024-11-02 19:45:00",
+      "update_time": "2024-11-02 16:51:45",
+      "customer_id": "U001097",
+      "customer_count": 5,
+      "book_price": 0,
+      "status": "unconsumed"
+    },
+    {
+      "order_id": "S17550811051817692_O00008",
+      "order_type": "instore",
+      "user_id": "U001097",
+      "store_id": "S17550811051817692_I00010",
+      "note": "",
+      "location": null,
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 588,
+      "create_time": "2024-11-02 16:53:45",
+      "update_time": "2024-11-02 16:53:45",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17550811051817692_P00057",
+          "price": 588,
+          "quantity": 1,
+          "name": "4-6 Person Premium Set Meal",
+          "shop_id": "S17550811051817692_I00010",
+          "tags": [
+            "Signature Set Meal",
+            "Fresh Beef Tripe"
+          ]
+        }
+      ]
+    }
+  ],
+  "rubrics": [
+    "The dine-in restaurant should be a hotpot restaurant",
+    "The hotpot restaurant should be within 500 meters of Zhongjian Cloud View",
+    "The hotpot restaurant's environment rating should be 4.2 or above",
+    "Need to make a reservation at the hotpot restaurant for around 19:45 on 2024-11-02 [meaning the reservation time should be between 19:30 and 20:00]",
+    "The reservation should be for 5 People",
+    "The hotpot restaurant's set meal should cost less than 150 yuan per person, with a total price under 750 yuan",
+    "The hotpot restaurant's set meal should not include seafood (fish/shrimp/crab) dishes",
+    "The delivery order should be for Medium Storage Box",
+    "The delivery order should be sturdy and durable, with labels such as Thickened, Extra Hard, PP Material, etc.",
+    "The storage box order should be delivered on November 2, 2024, and should be from the closest available merchant, which should be JD Home Supermarket",
+    "The delivery address for the storage box should be Room 1902, Unit 1, Building 9, Ronghui City, 2000 Olympic West Road, Lixia District, Jinan, Shandong Province",
+    "Need to check train schedules from Jinan to Zibo on 2024-11-03, should provide information on trains arriving around 11:30, G167 (11:05-11:35) or G171 (10:50-11:25)",
+    "Need to check train schedules from Jinan to Zibo North Railway Station on 2024-11-03 [result should be G167 or G169]",
+    "Agent needs to check train schedules from Zibo to Jinan on 2024-11-05, should provide information on trains departing between 17:00-18:00, result is G258 (17:15-17:45)",
+    "Agent should not book any train tickets"
+  ]
+}

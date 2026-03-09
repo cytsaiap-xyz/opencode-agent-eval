@@ -1,0 +1,119 @@
+{
+  "required_orders": [
+    {
+      "order_id": "OOe747e8a5f6",
+      "order_type": "train",
+      "user_id": "U386988",
+      "store_id": "S17550806479682269_T00008",
+      "note": "",
+      "location": null,
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 183,
+      "create_time": "2025-05-27 17:24:45",
+      "update_time": "2025-05-27 17:24:45",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17550806479682269_P00026",
+          "price": 183,
+          "quantity": 1,
+          "date": "2025-05-31",
+          "seat_type": "Second Class Seat"
+        }
+      ]
+    },
+    {
+      "order_id": "OT7a213d7f14",
+      "order_type": "delivery",
+      "user_id": "U386988",
+      "store_id": "S17550806479682269_S00001",
+      "note": "",
+      "location": {
+        "address": "Room 803, Unit 2, Jinshi International Apartment, 553 Zhongshan Road, Heishijiao Street, Shahekou District, Dalian",
+        "longitude": 121.5637,
+        "latitude": 38.8721
+      },
+      "dispatch_time": "2025-05-27 19:00:00",
+      "shipping_time": 66,
+      "delivery_time": "2025-05-27 20:06:00",
+      "total_price": 299.99,
+      "create_time": "2025-05-27 17:30:45",
+      "update_time": "2025-05-27 17:30:45",
+      "status": "delivered",
+      "products": [
+        {
+          "product_id": "S17550806479682269_P00001",
+          "price": 299.99,
+          "quantity": 1,
+          "name": "Romantic Whisper Moissanite Couple Rings",
+          "store_id": "S17550806479682269_S00001",
+          "store_name": "Zhen'ai Jewelry",
+          "attributes": "One male and one female",
+          "tags": [
+            "Couple Rings",
+            "Simulated Moissanite",
+            "Same-day Delivery",
+            "Deluxe Gift Box",
+            "Engagement Gift"
+          ]
+        }
+      ]
+    },
+    {
+      "order_id": "OIb192a86c72",
+      "order_type": "instore",
+      "user_id": "U386988",
+      "store_id": "S17550806479682269_I00010",
+      "note": "",
+      "location": null,
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 138,
+      "create_time": "2025-05-27 17:36:00",
+      "update_time": "2025-05-27 17:36:00",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17550806479682269_P00054",
+          "price": 138,
+          "quantity": 1,
+          "name": "Vintage Updo Wash and Blow Dry Package",
+          "shop_id": "S17550806479682269_I00010",
+          "tags": [
+            "Vintage Updo",
+            "Wash and Blow Dry",
+            "Traditional Hairstyle",
+            "Banquet Styling"
+          ]
+        }
+      ]
+    },
+    {
+      "reservation_id": "10808010_R0001",
+      "shop_id": "S17550806479682269_I00010",
+      "reservation_time": "2025-05-31 10:30:00",
+      "update_time": "2025-05-27 17:38:00",
+      "customer_id": "U386988",
+      "customer_count": 1,
+      "status": "unconsumed"
+    }
+  ],
+  "rubrics": [
+    "The query for Saturday is for 2025-05-31, so the train ticket order date should be May 31, 2025",
+    "The ordered train ticket must have a seat, not Standing Room Only",
+    "The ordered train should be the earliest one arriving in Shenyang among the available options",
+    "The train number in the train ticket order should be G8012",
+    "The ordered ring must be Couple Rings",
+    "The ordered ring must be made of Simulated Moissanite material, not Real Diamond material products",
+    "The ordered ring must have Same-day Delivery",
+    "The delivery address for the ring should be Room 803, Unit 2, Jinshi International Apartment, 553 Zhongshan Road, Heishijiao Street, Shahekou District, Dalian",
+    "The ordered hair salon must be located within 2.5km of Shenyang High-speed Rail Station",
+    "The ordered hair salon package must include Vintage Updo",
+    "The ordered hair salon package must be a Wash and Blow Dry Package",
+    "The appointed hair salon should be Fashion Hair Art",
+    "The hair salon appointment time must be scheduled after 10:26 on May 31"
+  ]
+}

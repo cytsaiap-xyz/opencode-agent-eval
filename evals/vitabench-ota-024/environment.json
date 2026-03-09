@@ -1,0 +1,119 @@
+{
+  "task_id": "D0812004",
+  "domain": "ota",
+  "time": "2023-06-03 17:17:55",
+  "user_id": "U256275",
+  "weather": [
+    {
+      "city": "Hefei",
+      "category": "cloudy",
+      "datetime": "2023-06-03",
+      "temperature": [
+        22,
+        28
+      ],
+      "humidity": 65
+    },
+    {
+      "city": "Taiyuan",
+      "category": "sunny",
+      "datetime": "2023-06-17",
+      "temperature": [
+        18,
+        30
+      ],
+      "humidity": 45
+    },
+    {
+      "city": "Fenyang",
+      "category": "sunny",
+      "datetime": "2023-06-22",
+      "temperature": [
+        20,
+        32
+      ],
+      "humidity": 50
+    }
+  ],
+  "location": [
+    {
+      "address": "Room 1203, Building B, Mingfa City Plaza, Intersection of Changjiang East Road and Victory Road, Yaohai District, Hefei, Anhui Province",
+      "longitude": 117.3285,
+      "latitude": 31.8739
+    },
+    {
+      "address": "Tower A, Binhu Times Square, Intersection of Ma'anshan Road and South First Ring Road, Baohe District, Hefei, Anhui Province",
+      "longitude": 117.3012,
+      "latitude": 31.8206
+    }
+  ],
+  "user_profile": {
+    "user id": "U256275",
+    "occupation": "Sales",
+    "gender": "male",
+    "age group": "35~40",
+    "residence": "Hefei",
+    "home address": "Room 1203, Building B, Mingfa City Plaza, Intersection of Changjiang East Road and Victory Road, Yaohai District, Hefei, Anhui Province",
+    "work address": "Tower A, Binhu Times Square, Intersection of Ma'anshan Road and South First Ring Road, Baohe District, Hefei, Anhui Province",
+    "dietary restrictions": "Avoid high purine foods (such as organ meats/seafood soup)",
+    "family status": "Has children",
+    "personality": "Extremely detail-oriented, tends to be picky and dissatisfied"
+  },
+  "user_historical_behaviors": {
+    "user id": "U256275",
+    "occupation": "sales",
+    "gender": "male",
+    "age group": "35~40",
+    "residence": "Hefei",
+    "home address": "Room 1203, Building B, Mingfa City Plaza, Intersection of Changjiang East Road and Victory Road, Yaohai District, Hefei, Anhui Province",
+    "work address": "Tower A, Binhu Times Square, Intersection of Ma'anshan Road and South First Ring Road, Baohe District, Hefei, Anhui Province",
+    "visited scenes": {
+      "Natural landscapes (mountains/lakes/forests)": "35%",
+      "Theme parks": "25%",
+      "Parks": "20%",
+      "Zoos": "15%",
+      "Cultural and historical sites": "5%"
+    },
+    "cost per night on hotel": "300~500 yuan",
+    "visited hotels": {
+      "Home Inn": "30%",
+      "Hanting Hotel": "25%",
+      "7 Days Inn": "20%",
+      "Jinjiang Inn": "15%",
+      "GreenTree Inn": "10%"
+    },
+    "browsed hotels": {
+      "Three-star hotels": "45%",
+      "Budget hotels": "35%",
+      "Comfort hotels": "20%"
+    },
+    "historical travel plans": {
+      "Hefei-Huangshan": {
+        "Price range": "150-250 yuan",
+        "Transportation": "Long-distance bus"
+      },
+      "Hefei-Beijing": {
+        "Price range": "500-700 yuan",
+        "Transportation": "High-speed train"
+      },
+      "Hefei-Shanghai": {
+        "Price range": "200-350 yuan",
+        "Transportation": "High-speed train"
+      },
+      "Hefei-Nanjing": {
+        "Price range": "100-150 yuan",
+        "Transportation": "High-speed train"
+      },
+      "Hefei-Hangzhou": {
+        "Price range": "250-400 yuan",
+        "Transportation": "High-speed train"
+      },
+      "Hefei-Jiuhua Mountain": {
+        "Price range": "100-200 yuan",
+        "Transportation": "Self-driving"
+      }
+    }
+  },
+  "stores": {},
+  "orders": {}
+}

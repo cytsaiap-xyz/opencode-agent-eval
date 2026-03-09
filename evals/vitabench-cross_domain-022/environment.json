@@ -1,0 +1,807 @@
+{
+  "task_id": "10811012",
+  "domain": "cross_domain",
+  "time": "2024-12-17 18:45:00",
+  "user_id": "U009941",
+  "weather": [
+    {
+      "city": "Changzhou",
+      "category": "cloudy",
+      "datetime": "2024-12-17",
+      "temperature": [
+        -2,
+        5
+      ],
+      "humidity": 65
+    },
+    {
+      "city": "Huai'an",
+      "category": "sunny",
+      "datetime": "2024-12-18",
+      "temperature": [
+        -3,
+        4
+      ],
+      "humidity": 60
+    }
+  ],
+  "location": [
+    {
+      "address": "Room 1203, Building B, Galaxy International Garden, 203 Huaide Middle Road, Zhonglou District, Changzhou, Jiangsu Province",
+      "longitude": 119.9542,
+      "latitude": 31.7736
+    },
+    {
+      "address": "5th Floor, Building D, Changzhou Software Park, 9 Taihu East Road, Xinbei District, Changzhou, Jiangsu Province",
+      "longitude": 119.9735,
+      "latitude": 31.8245
+    },
+    {
+      "address": "Changzhou Wanda Cinema, 4th Floor, Wanda Plaza, 123 Yanling West Road, Zhonglou District, Changzhou, Jiangsu Province",
+      "longitude": 119.9428,
+      "latitude": 31.7824
+    }
+  ],
+  "user_profile": {
+    "user id": "U009941",
+    "occupation": "Technical Staff",
+    "gender": "female",
+    "age group": "30~35",
+    "residence": "Changzhou",
+    "home address": "Room 1203, Building B, Galaxy International Garden, 203 Huaide Middle Road, Zhonglou District, Changzhou, Jiangsu Province",
+    "work address": "5th Floor, Building D, Changzhou Software Park, 9 Taihu East Road, Xinbei District, Changzhou, Jiangsu Province",
+    "dietary restrictions": "No fried food",
+    "family status": "Has children",
+    "personality": "Easily anxious and worried, needs repeated confirmation to feel at ease"
+  },
+  "user_historical_behaviors": {
+    "user id": "U009941",
+    "occupation": "technical staff",
+    "gender": "female",
+    "age group": "30~35",
+    "residence": "Changzhou",
+    "home address": "Room 1203, Building B, Galaxy International Garden, 203 Huaide Middle Road, Zhonglou District, Changzhou, Jiangsu Province",
+    "work address": "5th Floor, Building D, Changzhou Software Park, 9 Taihu East Road, Xinbei District, Changzhou, Jiangsu Province",
+    "delivery": {
+      "food delivery": {
+        "breakfast": {
+          "frequently purchased categories": [
+            "Simple Meal/Fast Food/Steamed Buns/Pan-fried Buns (Average 18 yuan)",
+            "Simple Meal/Fast Food/Soy Milk/Fried Dough Sticks (Average 12 yuan)",
+            "Simple Meal/Fast Food/Pancakes/Wraps/Hand-grabbed Pancakes (Average 15 yuan)"
+          ],
+          "cost per order": "10~25 yuan",
+          "preferred store rating": "4.3~4.8 points",
+          "preferred delivery time": "15~30 minutes",
+          "preferred distance": "0~2500m",
+          "recent orders": [
+            {
+              "store": "Hangzhou Breakfast King",
+              "product": "Meat Bun + Soy Milk Combo"
+            },
+            {
+              "store": "Old Neighbor's Handmade Pancakes",
+              "product": "Original Hand-grabbed Pancake"
+            },
+            {
+              "store": "Bean Fragrance Village",
+              "product": "Fried Dough Stick and Soy Milk Combo"
+            }
+          ],
+          "search history": [
+            "steamed buns",
+            "soy milk",
+            "hand-grabbed pancakes",
+            "breakfast combo",
+            "stomach-friendly breakfast"
+          ]
+        },
+        "weekday lunch/dinner": {
+          "frequently purchased categories": [
+            "Simple Meal/Fast Food/Rice with Toppings (Average 25 yuan)",
+            "Simple Meal/Fast Food/Rice Noodles/Rice Vermicelli (Average 22 yuan)",
+            "Simple Meal/Fast Food/Small Bowl Dishes/Small Portion Dishes (Average 28 yuan)"
+          ],
+          "cost per order": "20~40 yuan",
+          "preferred store rating": "4.2~4.6 points",
+          "preferred delivery time": "20~35 minutes",
+          "preferred distance": "0~3000m",
+          "recent orders": [
+            {
+              "store": "Food Lover's Fast Food",
+              "product": "Fish-flavored Shredded Pork Rice"
+            },
+            {
+              "store": "Yunnan Crossing Bridge Rice Noodles",
+              "product": "Signature Rice Noodles"
+            },
+            {
+              "store": "Small Vegetable Garden",
+              "product": "Green Pepper Shredded Potatoes + Braised Eggplant + Rice"
+            }
+          ],
+          "search history": [
+            "fast food",
+            "boxed meal",
+            "rice noodles",
+            "small portion dishes",
+            "low oil"
+          ]
+        },
+        "weekend lunch/dinner": {
+          "frequently purchased categories": [
+            "Chinese Cuisine/Sichuan Cuisine (Average 88 yuan)",
+            "Chinese Cuisine/Northeastern Cuisine (Average 78 yuan)",
+            "International Cuisine/Gimbap (Average 65 yuan)"
+          ],
+          "cost per order": "60~120 yuan",
+          "preferred store rating": "4.5~4.9 points",
+          "preferred delivery time": "30~45 minutes",
+          "preferred distance": "0~5000m",
+          "recent orders": [
+            {
+              "store": "Sichuan Flavor Pavilion",
+              "product": "Boiled Fish + Twice-cooked Pork + Shredded Potato with Green Pepper + Rice"
+            },
+            {
+              "store": "Old Northeastern Restaurant",
+              "product": "Sweet and Sour Pork + Three Delicacies of Earth + Rice"
+            },
+            {
+              "store": "Korean Food Notes",
+              "product": "Gimbap Combo"
+            }
+          ],
+          "search history": [
+            "Sichuan cuisine",
+            "home-style dishes",
+            "Northeastern cuisine",
+            "Korean cuisine",
+            "family meal"
+          ]
+        },
+        "desserts/drinks/snacks": {
+          "frequently purchased categories": [
+            "Beverages/Desserts/Fruit Juice (Average 18 yuan)",
+            "Beverages/Desserts/Fruit Salad (Average 32 yuan)",
+            "Beverages/Desserts/Chinese Pastries (Average 25 yuan)"
+          ],
+          "cost per order": "15~35 yuan",
+          "preferred store rating": "4.4~4.8 points",
+          "preferred delivery time": "15~30 minutes",
+          "preferred distance": "0~3000m",
+          "recent orders": [
+            {
+              "store": "Fresh Fruit Workshop",
+              "product": "Freshly Squeezed Orange Juice"
+            },
+            {
+              "store": "Fruit Salad Shop",
+              "product": "Colorful Fruit Salad"
+            },
+            {
+              "store": "Daoxiangcun",
+              "product": "Traditional Mung Bean Cake"
+            }
+          ],
+          "search history": [
+            "fruit tea",
+            "juice",
+            "fruit salad",
+            "pastries",
+            "caffeine-free beverages"
+          ]
+        },
+        "night snack": {
+          "frequently purchased categories": [
+            "Simple Meal/Fast Food/Dumplings/Wonton (Average 30 yuan)",
+            "Simple Meal/Fast Food/Clay Pot Porridge (Average 28 yuan)",
+            "Simple Meal/Fast Food/Casserole Soup (Average 32 yuan)"
+          ],
+          "cost per order": "25~40 yuan",
+          "preferred store rating": "4.2~4.7 points",
+          "preferred delivery time": "20~35 minutes",
+          "preferred distance": "0~3000m",
+          "recent orders": [
+            {
+              "store": "Old Wang's Dumpling House",
+              "product": "Three Delicacies Dumplings"
+            },
+            {
+              "store": "Porridge Way",
+              "product": "Preserved Egg and Lean Meat Porridge"
+            },
+            {
+              "store": "Soup Master",
+              "product": "Health Casserole Soup"
+            }
+          ],
+          "search history": [
+            "dumplings",
+            "porridge",
+            "soup",
+            "stomach-friendly",
+            "warming night snacks"
+          ]
+        }
+      },
+      "product delivery": {
+        "frequently purchased categories": [
+          "Vegetables/Bean Products(28%)",
+          "Raw Meat/Poultry/Eggs(22%)",
+          "Household Items(18%)",
+          "Fruits(15%)",
+          "Grain/Oil/Seasonings/Dried Goods(10%)",
+          "Others(7%)"
+        ],
+        "frequently visited stores": [
+          "Yonghui Supermarket(45%)",
+          "Dingdong Fresh(30%)",
+          "Tmall Store(15%)",
+          "Other Stores(10%)"
+        ],
+        "cost per order by category": {
+          "Vegetables/Bean Products": "5~25 yuan",
+          "Raw Meat/Poultry/Eggs": "20~60 yuan",
+          "Household Items": "10~45 yuan",
+          "Fruits": "10~40 yuan",
+          "Grain/Oil/Seasonings/Dried Goods": "8~35 yuan"
+        },
+        "preferred delivery time": "30~60 minutes",
+        "typical order time": "17~19 o'clock(38%), 9~11 o'clock(32%), 14~16 o'clock(20%)",
+        "recent orders": [
+          {
+            "store": "Yonghui Supermarket",
+            "product": "Organic Bok Choy + Pork Tenderloin + Eggs"
+          },
+          {
+            "store": "Dingdong Fresh",
+            "product": "Tomatoes + Cucumbers + Tofu + Ground Pork"
+          },
+          {
+            "store": "Yonghui Supermarket",
+            "product": "Laundry Detergent + Kitchen Paper Towels + Toilet Paper"
+          }
+        ],
+        "search history": [
+          "organic vegetables",
+          "pork",
+          "eggs",
+          "laundry detergent",
+          "fruits",
+          "tofu",
+          "rice"
+        ]
+      }
+    },
+    "in-store consumption": {
+      "in-store dining": {
+        "fine-dining": {
+          "frequently consumed categories": [
+            "Regional Cuisine/Local Jiangsu-Zhejiang Cuisine (Average 120 yuan)",
+            "Regional Cuisine/Sichuan Cuisine (Average 95 yuan)",
+            "International Cuisine/Japanese Food (Average 150 yuan)"
+          ],
+          "preferred average price per person": "80~150 yuan",
+          "preferred store rating": "4.0~4.8 stars",
+          "typical dining time": "18:30-20:30",
+          "preferred distance": "500~3000m",
+          "recent orders": [
+            {
+              "store": "Jiangnan Small Restaurant",
+              "product": "Dongpo Pork, Steamed Bass, Seasonal Vegetables"
+            },
+            {
+              "store": "Fujino Japanese Restaurant",
+              "product": "Sashimi Platter, Salmon Sushi"
+            },
+            {
+              "store": "Sichuan Fragrance Garden",
+              "product": "Boiled Fish, Twice-cooked Pork, Duck Blood in Chili Sauce"
+            }
+          ],
+          "search history": [
+            "Jiangsu-Zhejiang cuisine",
+            "non-spicy Japanese food",
+            "family gathering",
+            "business dinner",
+            "health-conscious dishes"
+          ]
+        },
+        "light meal": {
+          "frequently consumed categories": [
+            "Snacks/Fast Food/Chinese Simple Meals (Average 35 yuan)",
+            "Snacks/Fast Food/Western Fast Food (Average 40 yuan)",
+            "Regional Cuisine/Beijing Cuisine (Average 45 yuan)"
+          ],
+          "preferred average price per person": "25~50 yuan",
+          "preferred store rating": "3.5~4.3 stars",
+          "typical dining time": "12:00-13:30",
+          "preferred distance": "0~1000m",
+          "recent orders": [
+            {
+              "store": "Yonghe King",
+              "product": "Three Delicacies Tofu Pudding Set"
+            },
+            {
+              "store": "Shaanxi Snacks",
+              "product": "Steamed Dumplings, Seaweed Soup"
+            },
+            {
+              "store": "McDonald's",
+              "product": "Grilled Chicken Burger Set"
+            }
+          ],
+          "search history": [
+            "work meal",
+            "boxed meal",
+            "fast food",
+            "Low Fat",
+            "reduced salt"
+          ]
+        },
+        "desserts/drinks/snacks": {
+          "frequently consumed categories": [
+            "Beverage Shops (Average 18 yuan)",
+            "Bread and Desserts (Average 25 yuan)",
+            "Other Food/Fresh Fruits (Average 15 yuan)"
+          ],
+          "preferred average price per person": "15~30 yuan",
+          "preferred store rating": "3.8~4.5 stars",
+          "typical dining time": "15:00-16:30",
+          "preferred distance": "0~800m",
+          "recent orders": [
+            {
+              "store": "Starbucks",
+              "product": "Americano"
+            },
+            {
+              "store": "85°C",
+              "product": "Whole Wheat Bread"
+            },
+            {
+              "store": "Fresh Fruit Station",
+              "product": "Fruit Platter"
+            }
+          ],
+          "search history": [
+            "sugar-free coffee",
+            "Low Calorie desserts",
+            "healthy beverages",
+            "fruits"
+          ]
+        }
+      },
+      "other in-store services": {
+        "frequently consumed categories": {
+          "Sports/Fitness/Fitness Centers": "35%",
+          "Sports/Fitness/Ball Sports": "40%",
+          "Leisure Entertainment/Massage/Foot Therapy": "15%",
+          "Parent-Child/Family Entertainment": "10%"
+        },
+        "cost per order by category": {
+          "Sports/Fitness/Fitness Centers": "80~200 yuan",
+          "Sports/Fitness/Ball Sports": "50~120 yuan",
+          "Leisure Entertainment/Massage/Foot Therapy": "120~200 yuan",
+          "Parent-Child/Family Entertainment": "100~300 yuan"
+        },
+        "preferred store rating": "4.0~4.8 stars",
+        "preferred service time": "18:00-21:00",
+        "preferred distance": "0~5000m",
+        "recent orders": [
+          {
+            "store": "Changzhou Sports Center",
+            "product": "Badminton Court 2 Hours"
+          },
+          {
+            "store": "Rainbow Fitness",
+            "product": "Monthly Pass"
+          },
+          {
+            "store": "Happy Castle Children's Playground",
+            "product": "Parent-Child Package Ticket"
+          }
+        ],
+        "search history": [
+          "gym",
+          "badminton court",
+          "children's entertainment",
+          "foot massage",
+          "weekend activities"
+        ]
+      }
+    },
+    "OTA": {
+      "visited scenes": {
+        "Cultural Heritage Sites": "25%",
+        "Natural Landscapes (Mountains/Lakes/Forests)": "30%",
+        "Theme Parks": "20%",
+        "Parks": "15%",
+        "Exhibition Halls (Museums/Art Galleries)": "10%"
+      },
+      "cost per night on hotel": "500~1000 yuan",
+      "visited hotels": {
+        "Atour": "35%",
+        "JI Hotel": "25%",
+        "Vienna": "20%",
+        "Orange": "15%",
+        "Home Inn": "5%"
+      },
+      "browsed hotels": {
+        "Four-star Hotels": "30%",
+        "Three-star Hotels": "25%",
+        "Comfort Hotels": "35%",
+        "Budget Hotels": "10%"
+      },
+      "historical travel plans": {
+        "Changzhou-Hangzhou": {
+          "price range": "150-250 yuan",
+          "transportation": "High-Speed Rail"
+        },
+        "Changzhou-Shanghai": {
+          "price range": "80-120 yuan",
+          "transportation": "High-Speed Rail"
+        },
+        "Changzhou-Beijing": {
+          "price range": "600-900 yuan",
+          "transportation": "High-Speed Rail"
+        },
+        "Changzhou-Sanya": {
+          "price range": "1500-2500 yuan",
+          "transportation": "airplane"
+        },
+        "Changzhou-Huangshan": {
+          "price range": "400-600 yuan",
+          "transportation": "self-driving"
+        },
+        "Changzhou-Nanjing": {
+          "price range": "60-100 yuan",
+          "transportation": "High-Speed Rail"
+        },
+        "Hangzhou-Changzhou": {
+          "price range": "150-250 yuan",
+          "transportation": "High-Speed Rail"
+        },
+        "Shanghai-Changzhou": {
+          "price range": "80-120 yuan",
+          "transportation": "High-Speed Rail"
+        },
+        "Beijing-Changzhou": {
+          "price range": "600-900 yuan",
+          "transportation": "High-Speed Rail"
+        },
+        "Sanya-Changzhou": {
+          "price range": "1500-2500 yuan",
+          "transportation": "airplane"
+        },
+        "Nanjing-Changzhou": {
+          "price range": "60-100 yuan",
+          "transportation": "High-Speed Rail"
+        }
+      }
+    }
+  },
+  "stores": {
+    "S17550802145136245_S00001": {
+      "name": "Braised Chicken Rice",
+      "store_id": "S17550802145136245_S00001",
+      "score": 4.6,
+      "location": {
+        "address": "Braised Chicken Rice, No.23, Zone A, Commercial Street, 12 Taihu East Road, Xinbei District, Changzhou, Jiangsu Province",
+        "latitude": 31.8258,
+        "longitude": 119.9742
+      },
+      "tags": [
+        "Simple Meal/Fast Food",
+        "Chicken Soup Rice",
+        "Braised Chicken",
+        "Fast Delivery"
+      ],
+      "store_type": "target",
+      "products": [
+        {
+          "name": "Mildly Spicy Braised Chicken Rice",
+          "store_id": "S17550802145136245_S00001",
+          "store_name": "Braised Chicken Rice",
+          "price": 22.9,
+          "tags": [
+            "Chicken Soup Rice",
+            "Mildly Spicy",
+            "Signature",
+            "Low Fat",
+            "Carrot-Free"
+          ],
+          "product_id": "S17550802145136245_P00001",
+          "attributes": [],
+          "product_type": "target"
+        },
+        {
+          "name": "Braised Chicken Rice Package",
+          "store_id": "S17550802145136245_S00001",
+          "store_name": "Braised Chicken Rice",
+          "price": 27.9,
+          "tags": [
+            "Chicken Soup Rice",
+            "Combo/Package",
+            "Includes Drink",
+            "Value for Money"
+          ],
+          "product_id": "S17550802145136245_P00003",
+          "attributes": [
+            "Mildly Spicy",
+            "Medium Spicy",
+            "Non-Spicy"
+          ],
+          "product_type": "distraction"
+        },
+        {
+          "name": "Braised Chicken with Carrots and Potatoes",
+          "store_id": "S17550802145136245_S00001",
+          "store_name": "Braised Chicken Rice",
+          "price": 23.9,
+          "tags": [
+            "Chicken Soup Rice",
+            "Vegetables",
+            "Nutritionally Balanced"
+          ],
+          "product_id": "S17550802145136245_P00004",
+          "attributes": [
+            "Mildly Spicy",
+            "Medium Spicy",
+            "Non-Spicy"
+          ],
+          "product_type": "distraction"
+        },
+        {
+          "name": "Braised Chicken Soup Noodles",
+          "store_id": "S17550802145136245_S00001",
+          "store_name": "Braised Chicken Rice",
+          "price": 24.9,
+          "tags": [
+            "Noodles",
+            "Chicken Soup",
+            "Hot/Steamy",
+            "Carrot-Free"
+          ],
+          "product_id": "S17550802145136245_P00005",
+          "attributes": [
+            "Mildly Spicy",
+            "Non-Spicy",
+            "With Cilantro",
+            "Without Cilantro"
+          ],
+          "product_type": "distraction"
+        }
+      ]
+    },
+    "S17550802145136245_S00002": {
+      "name": "Old Chicken Soup Restaurant",
+      "store_id": "S17550802145136245_S00002",
+      "score": 4.5,
+      "location": {
+        "address": "Old Chicken Soup Restaurant, No.12, Zone C, Entrepreneurship Park, 28 Taihu East Road, Xinbei District, Changzhou, Jiangsu Province",
+        "latitude": 31.8262,
+        "longitude": 119.9756
+      },
+      "tags": [
+        "Simple Meal/Fast Food",
+        "Chicken Soup Rice",
+        "Nutrition Package",
+        "Special Soup"
+      ],
+      "store_type": "target",
+      "products": [
+        {
+          "name": "Classic Chicken Soup Rice",
+          "store_id": "S17550802145136245_S00002",
+          "store_name": "Old Chicken Soup Restaurant",
+          "price": 22.9,
+          "tags": [
+            "Signature",
+            "Chicken Soup",
+            "Rice",
+            "Nutritious",
+            "Carrot, Corn"
+          ],
+          "product_id": "S17550802145136245_P00006",
+          "attributes": [
+            "With Green Onion",
+            "Without Green Onion"
+          ],
+          "product_type": "target"
+        },
+        {
+          "name": "Clear Chicken Soup Rice Package",
+          "store_id": "S17550802145136245_S00002",
+          "store_name": "Old Chicken Soup Restaurant",
+          "price": 24.9,
+          "tags": [
+            "Combo/Package",
+            "Chicken Soup",
+            "Rice",
+            "White Radish"
+          ],
+          "product_id": "S17550802145136245_P00007",
+          "attributes": [
+            "With Greens",
+            "Without Greens"
+          ],
+          "product_type": "target"
+        },
+        {
+          "name": "Chicken Soup Rice with Carrots",
+          "store_id": "S17550802145136245_S00002",
+          "store_name": "Old Chicken Soup Restaurant",
+          "price": 21.9,
+          "tags": [
+            "Classic",
+            "Chicken Soup",
+            "Rice",
+            "Diced Carrot"
+          ],
+          "product_id": "S17550802145136245_P00008",
+          "attributes": [
+            "Mildly Spicy",
+            "Non-Spicy"
+          ],
+          "product_type": "distraction"
+        },
+        {
+          "name": "Deluxe Chicken Soup Package",
+          "store_id": "S17550802145136245_S00002",
+          "store_name": "Old Chicken Soup Restaurant",
+          "price": 29.9,
+          "tags": [
+            "Deluxe/Luxury",
+            "Chicken Soup",
+            "Rice",
+            "Side Dish",
+            "No Carrots"
+          ],
+          "product_id": "S17550802145136245_P00010",
+          "attributes": [
+            "With Greens",
+            "Without Greens"
+          ],
+          "product_type": "distraction"
+        },
+        {
+          "name": "Crispy Chicken Leg Rice",
+          "store_id": "S17550802145136245_S00002",
+          "store_name": "Old Chicken Soup Restaurant",
+          "price": 23.9,
+          "tags": [
+            "Special/Featured",
+            "Chicken Leg",
+            "Rice",
+            "Crispy Skin"
+          ],
+          "product_id": "S17550802145136245_P00011",
+          "attributes": [
+            "With Spice",
+            "Without Spice"
+          ],
+          "product_type": "distraction"
+        }
+      ]
+    },
+    "S17550802145136245_S00005": {
+      "name": "A Little Tea",
+      "store_id": "S17550802145136245_S00005",
+      "score": 4.8,
+      "location": {
+        "address": "A Little Tea, 1st Floor, Wanda Plaza, 123 Yanling West Road, Zhonglou District, Changzhou, Jiangsu Province",
+        "latitude": 31.7824,
+        "longitude": 119.9428
+      },
+      "tags": [
+        "Beverage",
+        "Milk Tea",
+        "Afternoon Tea"
+      ],
+      "store_type": "target",
+      "products": [
+        {
+          "name": "Pearl Milk Tea/Bubble Tea",
+          "store_id": "S17550802145136245_S00005",
+          "store_name": "A Little Tea",
+          "price": 18,
+          "tags": [
+            "Classic Milk Tea",
+            "With Pearls",
+            "Most Popular",
+            "Afternoon Tea"
+          ],
+          "product_id": "S17550802145136245_P00022",
+          "attributes": [
+            "Room Temperature",
+            "With Ice",
+            "Less Ice",
+            "No Ice",
+            "Regular Sugar",
+            "Less Sugar",
+            "Half Sugar",
+            "Light Sugar",
+            "No Sugar"
+          ],
+          "product_type": "target"
+        },
+        {
+          "name": "Four Seasons Spring Tea",
+          "store_id": "S17550802145136245_S00005",
+          "store_name": "A Little Tea",
+          "price": 15,
+          "tags": [
+            "Refreshing",
+            "Dairy-Free",
+            "Tea Beverage",
+            "Low Calorie"
+          ],
+          "product_id": "S17550802145136245_P00024",
+          "attributes": [
+            "Room Temperature",
+            "With Ice",
+            "Less Ice",
+            "No Ice",
+            "Regular Sugar",
+            "Less Sugar",
+            "Half Sugar",
+            "Light Sugar",
+            "No Sugar"
+          ],
+          "product_type": "distraction"
+        },
+        {
+          "name": "Taro Ball Milk Tea",
+          "store_id": "S17550802145136245_S00005",
+          "store_name": "A Little Tea",
+          "price": 22,
+          "tags": [
+            "Taro Balls",
+            "Milk Tea",
+            "Chewy/Bouncy",
+            "Afternoon Tea"
+          ],
+          "product_id": "S17550802145136245_P00025",
+          "attributes": [
+            "Room Temperature",
+            "With Ice",
+            "Less Ice",
+            "No Ice",
+            "Regular Sugar",
+            "Less Sugar",
+            "Half Sugar",
+            "Light Sugar",
+            "No Sugar"
+          ],
+          "product_type": "target"
+        },
+        {
+          "name": "Pulpy Grape",
+          "store_id": "S17550802145136245_S00005",
+          "store_name": "A Little Tea",
+          "price": 26,
+          "tags": [
+            "Fruit Tea",
+            "Grape",
+            "Succulent/Pulpy",
+            "Seasonal Limited"
+          ],
+          "product_id": "S17550802145136245_P00026",
+          "attributes": [
+            "With Ice",
+            "Less Ice",
+            "No Ice",
+            "Regular Sugar",
+            "Less Sugar",
+            "Half Sugar",
+            "Light Sugar",
+            "No Sugar"
+          ],
+          "product_type": "distraction"
+        }
+      ]
+    }
+  },
+  "orders": {}
+}

@@ -1,0 +1,104 @@
+{
+  "required_orders": [
+    {
+      "order_id": "H0721002O01",
+      "order_type": "delivery",
+      "user_id": "U000014",
+      "store_id": "S13425777444327930_S93304",
+      "note": "No Cilantro, Add Some Minced Garlic",
+      "location": {
+        "address": "Guixin Community, 1 Guixin Street, Nangang District, Harbin, Heilongjiang Province",
+        "longitude": 126.629389,
+        "latitude": 45.74059
+      },
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 60,
+      "create_time": "2025-04-19 17:00:00",
+      "update_time": "2025-04-19 17:02:00",
+      "status": "processed",
+      "products": [
+        {
+          "product_id": "S30275213393925044_P42440",
+          "price": 55,
+          "quantity": 1,
+          "attributes": ""
+        },
+        {
+          "product_id": "S79667605294087199_P22359",
+          "price": 2.5,
+          "quantity": 2,
+          "attributes": ""
+        }
+      ]
+    },
+    {
+      "order_id": "H0721002T02",
+      "order_type": "delivery",
+      "user_id": "U000014",
+      "store_id": "S24620395468234095_S79800",
+      "note": "",
+      "location": {
+        "address": "Guixin Community, 1 Guixin Street, Nangang District, Harbin, Heilongjiang Province",
+        "longitude": 126.629389,
+        "latitude": 45.74059
+      },
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 28,
+      "create_time": "2025-04-19 17:05:00",
+      "update_time": "2025-04-19 17:05:00",
+      "status": "processed",
+      "products": [
+        {
+          "product_id": "S31639431311084099_P91639",
+          "price": 14,
+          "quantity": 2,
+          "attributes": "Less Ice"
+        }
+      ]
+    },
+    {
+      "order_id": "H0721002T03",
+      "order_type": "delivery",
+      "user_id": "U000014",
+      "store_id": "S25726847335377968_S75768",
+      "note": "",
+      "location": {
+        "address": "Guixin Community, 1 Guixin Street, Nangang District, Harbin, Heilongjiang Province",
+        "longitude": 126.629389,
+        "latitude": 45.74059
+      },
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 35.8,
+      "create_time": "2025-04-19 17:08:00",
+      "update_time": "2025-04-19 17:08:00",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S33696416686604544_P21810",
+          "price": 35.8,
+          "quantity": 1,
+          "attributes": "Need Heating"
+        }
+      ]
+    }
+  ],
+  "rubrics": [
+    "Need to add a note to the Northeastern cuisine order with order_id H0721002O01: no Cilantro, add some garlic paste",
+    "The delivery address for the Lemon Wheat drink order should be Guixin Community, 1 Guixin Street, Nangang District, Harbin, Heilongjiang Province",
+    "The estimated delivery time for the Lemon Wheat drink order should be around 18:00 on April 19, 2025",
+    "The drink order should select Lemon Wheat type beverages",
+    "The Lemon Wheat drink order should choose less ice or much less ice",
+    "The Lemon Wheat drink order should select medium cup or standard size, not Large Cup Size or extra large cup",
+    "The delivery address for the smoked chicken order should be Guixin Community, 1 Guixin Street, Nangang District, Harbin, Heilongjiang Province",
+    "The estimated delivery time for the smoked chicken order should be around 18:00 on April 19, 2025",
+    "The smoked chicken order should select smoked chicken items",
+    "The smoked chicken order should select items without Cilantro",
+    "The smoked chicken order should select hot food or items that can be heated"
+  ]
+}

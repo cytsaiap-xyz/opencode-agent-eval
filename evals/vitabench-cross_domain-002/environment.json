@@ -1,0 +1,781 @@
+{
+  "task_id": "10811006",
+  "domain": "cross_domain",
+  "time": "2025-11-02 10:30:00",
+  "user_id": "U451179",
+  "weather": [
+    {
+      "city": "Jinhua",
+      "category": "cloudy",
+      "datetime": "2025-11-02",
+      "temperature": [
+        12,
+        18
+      ],
+      "humidity": 65
+    },
+    {
+      "city": "Hangzhou",
+      "category": "sunny",
+      "datetime": "2025-11-02",
+      "temperature": [
+        13,
+        19
+      ],
+      "humidity": 60
+    }
+  ],
+  "location": [],
+  "user_profile": {
+    "user id": "U451179",
+    "occupation": "Delivery Courier",
+    "gender": "male",
+    "age group": "25~30",
+    "residence": "Jinhua",
+    "home address": "Room 503, Building B, Jinhua Apartment, 128 Binhong Road, Wucheng District, Jinhua, Zhejiang Province",
+    "work address": "ZTO Express Jinhua Sorting Center, 458 North Bayi Street, Wucheng District, Jinhua, Zhejiang Province",
+    "dietary restrictions": "No fried food, low sodium",
+    "family status": "Has children",
+    "personality": "Tends to be anxious and worried, needs repeated confirmation to feel at ease"
+  },
+  "user_historical_behaviors": {
+    "user id": "U451179",
+    "occupation": "delivery person",
+    "gender": "male",
+    "age group": "25~30",
+    "residence": "Jinhua",
+    "home address": "Room 503, Building B, Jinhua Apartment, 128 Binhong Road, Wucheng District, Jinhua, Zhejiang Province",
+    "work address": "ZTO Express Jinhua Sorting Center, 458 North Bayi Street, Wucheng District, Jinhua, Zhejiang Province",
+    "delivery": {
+      "breakfast": {
+        "frequently purchased categories": [
+          "Quick meals/Steamed buns/Pan-fried buns (Average 15 yuan)",
+          "Quick meals/Fried dough sticks (Average 8 yuan)",
+          "Quick meals/Pancakes/Wraps/Hand-grabbed pancakes (Average 12 yuan)"
+        ],
+        "cost per order": "8~25 yuan",
+        "preferred store rating": "4.0~4.5 stars",
+        "preferred delivery time": "15~30 minutes",
+        "preferred distance": "0~2000m",
+        "recent orders": [
+          {
+            "store": "Breakfast Mister",
+            "product": "Soy milk and fried dough stick combo"
+          },
+          {
+            "store": "Old Street Corner Bun Shop",
+            "product": "6 pork buns"
+          },
+          {
+            "store": "Tianjin Pancake",
+            "product": "Original pancake"
+          }
+        ],
+        "search history": [
+          "Soy milk",
+          "Steamed buns",
+          "Breakfast combo",
+          "Hand-grabbed pancake"
+        ]
+      },
+      "weekday lunch/dinner": {
+        "frequently purchased categories": [
+          "Quick meals/Rice with toppings (Average 22 yuan)",
+          "Quick meals/Rice noodles (Average 18 yuan)",
+          "Quick meals/Small portion dishes (Average 25 yuan)"
+        ],
+        "cost per order": "15~35 yuan",
+        "preferred store rating": "4.0~4.5 stars",
+        "preferred delivery time": "20~35 minutes",
+        "preferred distance": "0~3000m",
+        "recent orders": [
+          {
+            "store": "Fast Food No.1",
+            "product": "Braised pork rice bowl"
+          },
+          {
+            "store": "Noodle Kitchen",
+            "product": "Tomato beef rice noodles"
+          },
+          {
+            "store": "Little Veggie Garden",
+            "product": "Three dishes and soup combo (Stir-fried green vegetables, scrambled eggs with tomatoes, steamed crucian carp, seaweed egg drop soup)"
+          }
+        ],
+        "search history": [
+          "Fast food",
+          "Rice bowl",
+          "Low oil",
+          "Rice noodles",
+          "Bento box"
+        ]
+      },
+      "weekend lunch/dinner": {
+        "frequently purchased categories": [
+          "Chinese cuisine/Crayfish (Average 75 yuan)",
+          "Chinese cuisine/Northeastern cuisine (Average 60 yuan)",
+          "Quick meals/Braised chicken rice (Average 35 yuan)"
+        ],
+        "cost per order": "35~80 yuan",
+        "preferred store rating": "4.3~4.8 stars",
+        "preferred delivery time": "25~45 minutes",
+        "preferred distance": "0~4000m",
+        "recent orders": [
+          {
+            "store": "Garlic Crayfish",
+            "product": "Medium garlic crayfish + potatoes + corn"
+          },
+          {
+            "store": "Northeastern Brother's Stew House",
+            "product": "Sweet and sour pork + Northeastern stew + white rice"
+          },
+          {
+            "store": "Braised Chicken Rice",
+            "product": "Signature braised chicken + tofu + mushrooms + rice"
+          }
+        ],
+        "search history": [
+          "Crayfish",
+          "Northeastern cuisine",
+          "Braised chicken",
+          "Family Package"
+        ]
+      },
+      "desserts/drinks/snacks": {
+        "frequently purchased categories": [
+          "Beverages and desserts/Milk Tea (Average 15 yuan)",
+          "Beverages and desserts/Fruit juice (Average 18 yuan)",
+          "Beverages and desserts/Fruit salad (Average 25 yuan)"
+        ],
+        "cost per order": "12~30 yuan",
+        "preferred store rating": "4.2~4.7 stars",
+        "preferred delivery time": "15~30 minutes",
+        "preferred distance": "0~2500m",
+        "recent orders": [
+          {
+            "store": "A Little Tea",
+            "product": "Pearl Milk Tea/Bubble Tea (less sugar)"
+          },
+          {
+            "store": "Fresh Fruit Workshop",
+            "product": "Fresh watermelon juice"
+          },
+          {
+            "store": "Colorful Fruit Time",
+            "product": "Colorful fruit salad (less sugar)"
+          }
+        ],
+        "search history": [
+          "Less sugar milk tea",
+          "Fresh fruit juice",
+          "Fruit salad",
+          "Low Sugar beverages"
+        ]
+      },
+      "night snack": {
+        "frequently purchased categories": [
+          "Snacks/Marinated foods (Average 30 yuan)",
+          "Quick meals/Snail rice noodles (Average 25 yuan)",
+          "Quick meals/Clay pot soup (Average 28 yuan)"
+        ],
+        "cost per order": "20~40 yuan",
+        "preferred store rating": "4.1~4.6 stars",
+        "preferred delivery time": "20~40 minutes",
+        "preferred distance": "0~3000m",
+        "recent orders": [
+          {
+            "store": "Old Master Marinade",
+            "product": "Marinated platter (duck neck + duck wings + tofu)"
+          },
+          {
+            "store": "Snail King Rice Noodles",
+            "product": "Signature snail rice noodles (mildly spicy)"
+          },
+          {
+            "store": "Old Street Clay Pot Soup",
+            "product": "Spare rib clay pot soup"
+          }
+        ],
+        "search history": [
+          "Marinated foods",
+          "Mildly spicy snail rice noodles",
+          "Clay pot soup",
+          "Non-spicy night snacks"
+        ]
+      }
+    },
+    "in-store consumption": {
+      "in-store dining": {
+        "fine-dining": {
+          "frequently purchased categories": [
+            "Regional cuisine/Sichuan cuisine (Average 85 yuan)",
+            "Regional cuisine/Fish dishes (Average 95 yuan)",
+            "Hot pot (Average 120 yuan)"
+          ],
+          "preferred average price per person": "80~120 yuan",
+          "preferred store rating": "4.0~4.5 stars",
+          "typical dining time": "18:30-20:00",
+          "preferred distance": "500~2000m",
+          "recent orders": [
+            {
+              "store": "Sichuan Spice Garden",
+              "product": "Boiled fish + Twice-cooked pork + Dry-fried green beans"
+            },
+            {
+              "store": "Fisherman's Joy",
+              "product": "Steamed bass + Shrimp with scrambled eggs"
+            },
+            {
+              "store": "De Zhuang Hot Pot",
+              "product": "Mildly spicy broth + luncheon meat + beef rolls + assorted vegetables"
+            }
+          ],
+          "search history": [
+            "Sichuan cuisine",
+            "Non-spicy fish",
+            "Low-oil hot pot",
+            "Family gathering"
+          ]
+        },
+        "light meal": {
+          "frequently purchased categories": [
+            "Snacks and fast food/Chinese quick meals (Average 25 yuan)",
+            "Snacks and fast food/Western fast food (Average 30 yuan)",
+            "Regional cuisine/Northeastern cuisine (Average 35 yuan)"
+          ],
+          "preferred average price per person": "20~40 yuan",
+          "preferred store rating": "3.5~4.2 stars",
+          "typical dining time": "11:30-12:30",
+          "preferred distance": "100~800m",
+          "recent orders": [
+            {
+              "store": "Old Northeastern Dumpling House",
+              "product": "Three-flavor dumplings + side dish"
+            },
+            {
+              "store": "Quick Chinese Fast Food",
+              "product": "Braised pork rice + Stir-fried seasonal vegetables"
+            },
+            {
+              "store": "McDonald's",
+              "product": "Grilled chicken burger meal"
+            }
+          ],
+          "search history": [
+            "Fast food",
+            "Cheap meal",
+            "Dumplings",
+            "Bento box"
+          ]
+        },
+        "desserts/drinks/snacks": {
+          "frequently purchased categories": [
+            "Beverage shops (Average 15 yuan)",
+            "Bread and desserts (Average 20 yuan)",
+            "Other dining/Fresh fruits (Average 12 yuan)"
+          ],
+          "preferred average price per person": "10~25 yuan",
+          "preferred store rating": "3.8~4.5 stars",
+          "typical dining time": "15:00-16:30",
+          "preferred distance": "0~500m",
+          "recent orders": [
+            {
+              "store": "A Little Tea",
+              "product": "Four Seasons Spring Green Tea (Sugar-Free)"
+            },
+            {
+              "store": "Fresh Fruit Station",
+              "product": "Fruit platter"
+            },
+            {
+              "store": "85°C",
+              "product": "Whole wheat bread"
+            }
+          ],
+          "search history": [
+            "Sugar-Free milk tea",
+            "Healthy fruits",
+            "Low Sugar desserts"
+          ]
+        }
+      },
+      "other in-store services": {
+        "frequently consumed categories": {
+          "Sports and fitness/Fitness centers": "30%",
+          "Sports and fitness/Ball sports": "45%",
+          "Leisure Entertainment/Massage/Foot therapy": "15%",
+          "Parent-child/Parent-child playgrounds": "10%"
+        },
+        "cost per order by category": {
+          "Sports and fitness/Fitness centers": "30~80 yuan",
+          "Sports and fitness/Ball sports": "40~100 yuan",
+          "Leisure Entertainment/Massage/Foot therapy": "80~150 yuan",
+          "Parent-child/Parent-child playgrounds": "100~200 yuan"
+        },
+        "preferred store rating": "3.9~4.6 stars",
+        "preferred service time": "19:00-21:00",
+        "preferred distance": "0~3000m",
+        "recent orders": [
+          {
+            "store": "Jinhua Sports Center",
+            "product": "Badminton court rental for 2 hours"
+          },
+          {
+            "store": "Fitness Factory",
+            "product": "Single workout session"
+          },
+          {
+            "store": "Happy Star Planet Parent-Child Playground",
+            "product": "Parent-child ticket package"
+          }
+        ],
+        "search history": [
+          "Nearby badminton courts",
+          "Affordable gyms",
+          "Weekend parent-child activities",
+          "Foot massage"
+        ]
+      }
+    },
+    "OTA": {
+      "visited scenes": {
+        "Cultural sites": "15%",
+        "Parks": "30%",
+        "Theme parks": "35%",
+        "Tourist attractions (mountains/beaches/ecological sites, etc.)": "10%",
+        "Special villages/Industrial tourism/Uncategorized items": "10%"
+      },
+      "cost per night on hotel": "100~300 yuan",
+      "visited hotels": {
+        "Home Inn": "35%",
+        "Hanting": "25%",
+        "7 Days Inn": "20%",
+        "Jinjiang Inn": "15%",
+        "GreenTree Inn": "5%"
+      },
+      "browsed hotels": {
+        "Three-star hotels": "25%",
+        "Budget hotels": "60%",
+        "Comfort hotels": "15%"
+      },
+      "historical travel plans": {
+        "Jinhua-Hangzhou": {
+          "Price range": "50-100 yuan",
+          "Transportation": "Long-distance bus"
+        },
+        "Jinhua-Shanghai": {
+          "Price range": "150-250 yuan",
+          "Transportation": "High-Speed Rail"
+        },
+        "Jinhua-Wenzhou": {
+          "Price range": "100-180 yuan",
+          "Transportation": "High-Speed Rail"
+        },
+        "Jinhua-Ningbo": {
+          "Price range": "120-200 yuan",
+          "Transportation": "High-Speed Rail"
+        },
+        "Hangzhou-Jinhua": {
+          "Price range": "50-100 yuan",
+          "Transportation": "Long-distance bus"
+        },
+        "Shanghai-Jinhua": {
+          "Price range": "150-250 yuan",
+          "Transportation": "High-Speed Rail"
+        },
+        "Jinhua-Yiwu": {
+          "Price range": "20-40 yuan",
+          "Transportation": "Long-distance bus"
+        }
+      }
+    }
+  },
+  "stores": {
+    "S17550802215964928_S00001": {
+      "name": "A Little Tea",
+      "store_id": "S17550802215964928_S00001",
+      "score": 4.7,
+      "location": {
+        "address": "A Little Tea Shop, 56 Binhong Road, Wucheng District, Jinhua, Zhejiang Province",
+        "latitude": 29.0748,
+        "longitude": 119.6488
+      },
+      "tags": [
+        "Milk Tea",
+        "Beverage",
+        "Low Sugar",
+        "Takeout"
+      ],
+      "store_type": "target",
+      "products": [
+        {
+          "name": "Mint Lemon Tea",
+          "store_id": "S17550802215964928_S00001",
+          "store_name": "A Little Tea",
+          "price": 18,
+          "tags": [
+            "Fresh",
+            "Lemon",
+            "Mint",
+            "Tea Beverage",
+            "Low Sugar"
+          ],
+          "product_id": "S17550802215964928_P00001",
+          "attributes": [
+            "Room Temperature",
+            "Ice",
+            "Less Ice",
+            "No Ice",
+            "Regular Sugar",
+            "70% Sugar",
+            "50% Sugar",
+            "30% Sugar",
+            "Sugar-Free"
+          ],
+          "product_type": "target"
+        },
+        {
+          "name": "Bitter Gourd Lemon Tea",
+          "store_id": "S17550802215964928_S00001",
+          "store_name": "A Little Tea",
+          "price": 19,
+          "tags": [
+            "Special",
+            "Bitter Gourd",
+            "Lemon",
+            "Tea Beverage",
+            "Healthy"
+          ],
+          "product_id": "S17550802215964928_P00002",
+          "attributes": [
+            "Room Temperature",
+            "Ice",
+            "Less Ice",
+            "No Ice",
+            "Regular Sugar",
+            "70% Sugar",
+            "50% Sugar",
+            "30% Sugar",
+            "Sugar-Free"
+          ],
+          "product_type": "distraction"
+        },
+        {
+          "name": "Four Seasons Spring Green Tea",
+          "store_id": "S17550802215964928_S00001",
+          "store_name": "A Little Tea",
+          "price": 15,
+          "tags": [
+            "Classic",
+            "Pure Tea",
+            "Four Seasons Spring Tea",
+            "Sugar-Free"
+          ],
+          "product_id": "S17550802215964928_P00003",
+          "attributes": [
+            "Room Temperature",
+            "Ice",
+            "Less Ice",
+            "No Ice",
+            "Regular Sugar",
+            "70% Sugar",
+            "50% Sugar",
+            "30% Sugar",
+            "Sugar-Free"
+          ],
+          "product_type": "distraction"
+        },
+        {
+          "name": "Pearl Milk Tea/Bubble Tea",
+          "store_id": "S17550802215964928_S00001",
+          "store_name": "A Little Tea",
+          "price": 16,
+          "tags": [
+            "Classic",
+            "Milk Tea",
+            "Pearls/Boba",
+            "Best-Selling"
+          ],
+          "product_id": "S17550802215964928_P00004",
+          "attributes": [
+            "Room Temperature",
+            "Hot",
+            "Ice",
+            "Less Ice",
+            "No Ice",
+            "Regular Sugar",
+            "70% Sugar",
+            "50% Sugar",
+            "30% Sugar",
+            "Sugar-Free"
+          ],
+          "product_type": "distraction"
+        },
+        {
+          "name": "Lemon Water",
+          "store_id": "S17550802215964928_S00001",
+          "store_name": "A Little Tea",
+          "price": 14,
+          "tags": [
+            "Fresh",
+            "Lemon",
+            "Fruit Juice",
+            "Low Sugar"
+          ],
+          "product_id": "S17550802215964928_P00005",
+          "attributes": [
+            "Room Temperature",
+            "Ice",
+            "Less Ice",
+            "No Ice",
+            "Regular Sugar",
+            "70% Sugar",
+            "50% Sugar",
+            "30% Sugar",
+            "Sugar-Free"
+          ],
+          "product_type": "distraction"
+        }
+      ]
+    },
+    "S17550802215964928_S00004": {
+      "name": "Mixue Ice Cream",
+      "store_id": "S17550802215964928_S00004",
+      "score": 4.3,
+      "location": {
+        "address": "Mixue Ice Cream, 200 Binhong Road, Wucheng District, Jinhua, Zhejiang Province",
+        "latitude": 29.0762,
+        "longitude": 119.6498
+      },
+      "tags": [
+        "Milk Tea",
+        "Ice Cream",
+        "Dessert",
+        "Takeout"
+      ],
+      "store_type": "distraction",
+      "products": [
+        {
+          "name": "Lemon Tea",
+          "store_id": "S17550802215964928_S00004",
+          "store_name": "Mixue Ice Cream",
+          "price": 9,
+          "tags": [
+            "Lemon Tea",
+            "Tea Beverage",
+            "Refreshing",
+            "Low Sugar"
+          ],
+          "product_id": "S17550802215964928_P00016",
+          "attributes": [
+            "Room Temperature",
+            "Add Ice",
+            "Less Ice",
+            "No Ice",
+            "Full Sugar",
+            "70% Sugar",
+            "50% Sugar",
+            "30% Sugar",
+            "Sugar-Free"
+          ],
+          "product_type": "distraction"
+        },
+        {
+          "name": "Kumquat Lemon Tea",
+          "store_id": "S17550802215964928_S00004",
+          "store_name": "Mixue Ice Cream",
+          "price": 10,
+          "tags": [
+            "Lemon Tea",
+            "Kumquat",
+            "Sweet and Sour",
+            "Vitamin C"
+          ],
+          "product_id": "S17550802215964928_P00017",
+          "attributes": [
+            "Room Temperature",
+            "Add Ice",
+            "Less Ice",
+            "No Ice",
+            "Full Sugar",
+            "70% Sugar",
+            "50% Sugar",
+            "30% Sugar",
+            "Sugar-Free"
+          ],
+          "product_type": "distraction"
+        },
+        {
+          "name": "Bitter Gourd Lemon Passion Fruit",
+          "store_id": "S17550802215964928_S00004",
+          "store_name": "Mixue Ice Cream",
+          "price": 11,
+          "tags": [
+            "Bitter Gourd",
+            "Lemon Tea",
+            "Heat-Clearing",
+            "Healthy",
+            "Specialty Tea Drinks"
+          ],
+          "product_id": "S17550802215964928_P00018",
+          "attributes": [
+            "Room Temperature",
+            "Add Ice",
+            "Less Ice",
+            "No Ice",
+            "Full Sugar",
+            "70% Sugar",
+            "50% Sugar",
+            "30% Sugar",
+            "Sugar-Free"
+          ],
+          "product_type": "distraction"
+        },
+        {
+          "name": "Mixue Ice Cream Milk Tea",
+          "store_id": "S17550802215964928_S00004",
+          "store_name": "Mixue Ice Cream",
+          "price": 7,
+          "tags": [
+            "Milk Tea",
+            "Signature",
+            "Popular",
+            "Classic"
+          ],
+          "product_id": "S17550802215964928_P00019",
+          "attributes": [
+            "Hot",
+            "Room Temperature",
+            "Add Ice",
+            "Less Ice",
+            "No Ice",
+            "Full Sugar",
+            "70% Sugar",
+            "50% Sugar",
+            "30% Sugar",
+            "Sugar-Free"
+          ],
+          "product_type": "distraction"
+        },
+        {
+          "name": "Double Passion Fruit Blast",
+          "store_id": "S17550802215964928_S00004",
+          "store_name": "Mixue Ice Cream",
+          "price": 12,
+          "tags": [
+            "Passion Fruit",
+            "Fruit Tea",
+            "Refreshing",
+            "Popular"
+          ],
+          "product_id": "S17550802215964928_P00020",
+          "attributes": [
+            "Room Temperature",
+            "Add Ice",
+            "Less Ice",
+            "No Ice",
+            "Full Sugar",
+            "70% Sugar",
+            "50% Sugar",
+            "30% Sugar",
+            "Sugar-Free"
+          ],
+          "product_type": "distraction"
+        }
+      ]
+    },
+    "S17550802215964928_S00005": {
+      "name": "Guming (Tea Brand)",
+      "store_id": "S17550802215964928_S00005",
+      "score": 4.6,
+      "location": {
+        "address": "Guming, 300 North Bayi Street, Wucheng District, Jinhua, Zhejiang Province",
+        "latitude": 29.0872,
+        "longitude": 119.6558
+      },
+      "tags": [
+        "Tea Beverage",
+        "Milk Tea",
+        "Fruit Tea",
+        "Takeout"
+      ],
+      "store_type": "distraction",
+      "products": [
+        {
+          "name": "Lemon Water",
+          "store_id": "S17550802215964928_S00005",
+          "store_name": "Guming (Tea Brand)",
+          "price": 15,
+          "tags": [
+            "Refreshing",
+            "Lemon",
+            "Fruit Drink",
+            "Takeout"
+          ],
+          "product_id": "S17550802215964928_P00023",
+          "attributes": [
+            "Room Temperature",
+            "Ice",
+            "Less Ice",
+            "No Ice",
+            "Regular Sugar",
+            "Less Sugar",
+            "Sugar-Free"
+          ],
+          "product_type": "distraction"
+        },
+        {
+          "name": "Mint Lemon Tea",
+          "store_id": "S17550802215964928_S00005",
+          "store_name": "Guming (Tea Brand)",
+          "price": 16,
+          "tags": [
+            "Refreshing",
+            "Mint",
+            "Green Tea",
+            "Tea Beverage",
+            "Takeout"
+          ],
+          "product_id": "S17550802215964928_P00024",
+          "attributes": [
+            "Room Temperature",
+            "Ice",
+            "Less Ice",
+            "No Ice",
+            "Regular Sugar",
+            "Less Sugar",
+            "Sugar-Free"
+          ],
+          "product_type": "distraction"
+        },
+        {
+          "name": "Signature Milk Tea",
+          "store_id": "S17550802215964928_S00005",
+          "store_name": "Guming (Tea Brand)",
+          "price": 14,
+          "tags": [
+            "Classic",
+            "Milk Tea",
+            "Best-Selling",
+            "Takeout"
+          ],
+          "product_id": "S17550802215964928_P00025",
+          "attributes": [
+            "Room Temperature",
+            "Hot",
+            "Ice",
+            "Less Ice",
+            "No Ice",
+            "Regular Sugar",
+            "Less Sugar",
+            "Sugar-Free",
+            "Pearls/Boba",
+            "Coconut Jelly"
+          ],
+          "product_type": "distraction"
+        }
+      ]
+    }
+  },
+  "orders": {}
+}

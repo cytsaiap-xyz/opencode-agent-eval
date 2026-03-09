@@ -1,0 +1,50 @@
+{
+  "task_id": "45",
+  "query": "I'm planning a trip from Shenyang to Nanjing on November 12, 2025, and will return on the 15th. I'd like you to help me plan this journey, including transportation, accommodation, food, and sightseeing arrangements. There are three of us in total, so please book two rooms.\n\nRegarding transportation, I think taking the high-speed train is quite convenient, so I won't choose a flight for the outbound trip—just arrange a high-speed train ticket for me, preferably a direct one with the lowest fare. Please follow the same arrangement for the return trip as well.\n\nAs for accommodation, I’d like to stay somewhere more comfortable this time. Could you check if there are any five-star hotels in Nanjing with exceptionally high ratings? Just go ahead and book the top-rated one. We’re three people needing two rooms.\n\nBy the way, for dining, I really want to have a meal near the 'Nanjing Eye Pedestrian Bridge'—I’ve heard there are quite a few good restaurants around there. I’d like to try Western cuisine, preferably a place offering a variety of international flavors. Please find me a highly rated restaurant and make arrangements.\n\nFor attractions, I’m especially fond of places with historical and cultural charm—must-visit classic landmarks. Just pick the highest-rated one and include it in the itinerary; I trust your recommendation!\n\nThat covers all my requirements—I believe I've provided all necessary details. Please go ahead and plan the full itinerary without asking for further information! November 12, 2025 is Wednesday",
+  "meta_info": {
+    "org": "Shenyang",
+    "dest": [
+      "Nanjing"
+    ],
+    "days": 4,
+    "depart_date": "2025-11-12",
+    "return_date": "2025-11-15",
+    "people_number": 3,
+    "room_number": 2
+  },
+  "hard_constraints": {
+    "train_cheapest_train_type": {
+      "constraint_context": "For the outbound journey, I hope to choose a train, and need to select the cheapest \"high-speed rail\" type direct train.",
+      "constraint_type": "superlative_cheapest_train_type",
+      "outbound_train_no": "G2644"
+    },
+    "hotel_star_highest_rated": {
+      "constraint_context": "For accommodation, please select the highest-rated hotel among 5-star hotels",
+      "constraint_type": "superlative_star_highest_rated",
+      "hotel_name": "Nanjing Central Hotel",
+      "hotel_star": 5,
+      "hotel_price": 528.0,
+      "hotel_score": 4.8
+    },
+    "restaurant_specific_cuisine_nearby": {
+      "constraint_context": "Please arrange a meal at a restaurant near the 'Nanjing Eye Pedestrian Bridge' during the trip, with a Western cuisine (fusion style) requirement.",
+      "constraint_type": "superlative_specific_cuisine_nearby",
+      "attraction_name": "Nanjing Eye Pedestrian Bridge",
+      "restaurant_name": "Xiang · All-Day Dining Restaurant",
+      "price_per_person": 158.0,
+      "restaurant_rating": 4.0
+    },
+    "attraction_type_highest_rated": {
+      "constraint_context": "The itinerary must include the highest-rated attraction in the 'Historical and Cultural' category.",
+      "constraint_type": "superlative_type_highest_rated",
+      "attraction_names": [
+        "Linggu Scenic Area"
+      ],
+      "attraction_type_cn": "历史文化",
+      "attraction_type": "Historical and Cultural",
+      "attraction_ratings": [
+        4.8
+      ]
+    }
+  }
+}

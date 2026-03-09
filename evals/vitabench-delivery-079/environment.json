@@ -1,0 +1,325 @@
+{
+  "task_id": "G0721004",
+  "domain": "delivery",
+  "time": "2025-11-07 10:59:26",
+  "user_id": "U000035",
+  "weather": [
+    {
+      "city": "Chengdu City",
+      "category": "cloudy",
+      "datetime": "2025-11-07",
+      "temperature": [
+        10,
+        17
+      ],
+      "humidity": 43
+    }
+  ],
+  "location": [
+    {
+      "address": "Global Center, Building 1, 1700 North Tianfu Avenue, Guixi Street, Wuhou District, Chengdu, Sichuan Province",
+      "longitude": 104.063402,
+      "latitude": 30.568744
+    }
+  ],
+  "user_profile": {
+    "user id": "U000035",
+    "occupation": "Product Manager",
+    "gender": "female",
+    "age group": "30~35",
+    "residence": "Chengdu",
+    "home address": "Zone B, Zongnan Section A, Yalan Garden, Yulin Street, Wuhou District, Chengdu, Sichuan Province",
+    "work address": "Global Center, Building 1, 1700 North Tianfu Avenue, Guixi Street, Wuhou District, Chengdu, Sichuan Province",
+    "dietary restrictions": "Avoids high sugar",
+    "family status": "In a relationship",
+    "personality": "Mild-tempered and highly cooperative, good at listening and understanding"
+  },
+  "user_historical_behaviors": {
+    "user id": "U000035",
+    "occupation": "Product Manager",
+    "gender": "female",
+    "age group": "30~35",
+    "residence": "Chengdu",
+    "home address": "Zone B, Zongnanjia Area, Yalan Garden, Yulin Street, Wuhou District, Chengdu, Sichuan Province",
+    "work address": "Global Center, Building 1, 1700 North Tianfu Avenue, Guixi Street, Wuhou District, Chengdu, Sichuan Province",
+    "breakfast": {
+      "frequently purchased categories": [
+        "Quick meals/Light food (average 23 yuan)",
+        "Quick meals/Steamed buns/Pan-fried buns (average 22 yuan)"
+      ],
+      "cost per order": "20~35 yuan",
+      "preferred store rating": "4.3~4.8 points",
+      "preferred delivery time": "15~30 minutes",
+      "preferred distance": "0~2500m",
+      "recent orders": [
+        {
+          "store": "Sichuan Famous Snacks",
+          "product": "Steamed Pork Buns + Soy Milk Combo"
+        },
+        {
+          "store": "Fresh Vegetable Light Food",
+          "product": "Whole Wheat Egg Sandwich"
+        }
+      ],
+      "search history": [
+        "Low-sugar breakfast",
+        "Healthy light food",
+        "Whole wheat bread",
+        "Sugar-free soy milk"
+      ]
+    },
+    "weekday lunch/dinner": {
+      "frequently purchased categories": [
+        "Quick meals/Work meals (average 35 yuan)",
+        "Chinese cuisine/Cantonese cuisine (average 55 yuan)"
+      ],
+      "cost per order": "30~70 yuan",
+      "preferred store rating": "4.5~5.0 points",
+      "preferred delivery time": "20~70 minutes",
+      "preferred distance": "0~6500m",
+      "recent orders": [
+        {
+          "store": "Chen Wonton (Jiaozi Avenue Branch)",
+          "product": "[Classic Signature] Traditional Spicy Wonton"
+        },
+        {
+          "store": "Qingxin Cantonese Restaurant",
+          "product": "Steamed Fresh Shrimp + Stir-fried Seasonal Vegetables Combo"
+        },
+        {
+          "store": "Fresh Salad Selection",
+          "product": "Avocado Chicken Quinoa Rice"
+        }
+      ],
+      "search history": [
+        "Work meals",
+        "Cantonese steamed dishes"
+      ]
+    },
+    "weekend lunch/dinner": {
+      "frequently purchased categories": [
+        "International cuisine/Japanese bento/Sushi (average 85 yuan)",
+        "Chinese cuisine/Crayfish (average 150 yuan)"
+      ],
+      "cost per order": "60~180 yuan",
+      "preferred store rating": "4.6~5.0 points",
+      "preferred delivery time": "30~60 minutes",
+      "preferred distance": "0~6000m",
+      "recent orders": [
+        {
+          "store": "Xianshen Sushi",
+          "product": "Salmon Sashimi Platter + Sushi Set"
+        },
+        {
+          "store": "Spicy Thirteen Flavors",
+          "product": "Spicy Crayfish (Mild)"
+        },
+        {
+          "store": "Thai Princess Restaurant",
+          "product": "Tom Yum Soup + Thai Lemon Shrimp"
+        }
+      ],
+      "search history": [
+        "Authentic Japanese cuisine",
+        "Sugar-free sauces",
+        "Thai food",
+        "Healthy seafood"
+      ]
+    },
+    "desserts/drinks/snacks": {
+      "frequently purchased categories": [
+        "Drinks and desserts/Pure tea/Herbal tea (average 25 yuan)",
+        "Drinks and desserts/Fruit salad (average 32 yuan)"
+      ],
+      "cost per order": "15~90 yuan",
+      "preferred store rating": "4.5~5.0 points",
+      "preferred delivery time": "15~75 minutes",
+      "preferred distance": "0~6000m",
+      "recent orders": [
+        {
+          "store": "One Yogurt Cow",
+          "product": "Low-sugar Plain Yogurt"
+        },
+        {
+          "store": "Tea Praise",
+          "product": "Sugar-free Green Tea"
+        }
+      ],
+      "search history": [
+        "Low-sugar drinks",
+        "Freshly squeezed juice no sugar",
+        "Yogurt",
+        "Fruit salad"
+      ]
+    },
+    "night snack": {
+      "frequently purchased categories": [
+        "Quick meals/Dumplings/Wonton (average 40 yuan)",
+        "Hot pot/Clay pot porridge (average 50 yuan)"
+      ],
+      "cost per order": "25~55 yuan",
+      "preferred store rating": "4.3~4.8 points",
+      "preferred delivery time": "20~35 minutes",
+      "preferred distance": "0~3500m",
+      "recent orders": [
+        {
+          "store": "Fresh Meat Wonton Shop",
+          "product": "Shrimp and Meat Wonton"
+        },
+        {
+          "store": "Porridge Time",
+          "product": "Century Egg and Lean Meat Porridge"
+        },
+        {
+          "store": "Seven Pot",
+          "product": "Clear Chicken Soup Pot"
+        }
+      ],
+      "search history": [
+        "Light night snack",
+        "Stomach-friendly porridge",
+        "Clear soup wonton",
+        "Soup pot"
+      ]
+    }
+  },
+  "stores": {
+    "S21738656403955999_S17120": {
+      "name": "Chen Wonton (Jiaozi Avenue Branch)",
+      "store_id": "S21738656403955999_S17120",
+      "score": 4.9,
+      "location": {
+        "address": "1st Floor, No. 115, 399 Jiaozi Avenue, Chengdu High-tech Zone, China (Sichuan) Pilot Free Trade Zone",
+        "latitude": 30.581147,
+        "longitude": 104.051579
+      },
+      "tags": [],
+      "products": [
+        {
+          "name": "[Classic Signature] Traditional Spicy Wonton",
+          "store_id": "S21738656403955999_S17120",
+          "store_name": "Chen Wonton (Jiaozi Avenue Branch)",
+          "price": 18,
+          "tags": [],
+          "product_id": "S24749432382521543_P05845",
+          "attributes": [
+            "Less Spicy",
+            "Regular Spicy",
+            "Mala Spicy",
+            "Non-spicy (Clear Soup)"
+          ],
+          "quantity": 9999
+        },
+        {
+          "name": "[Non-spicy Recommendation] Clear Soup Wonton",
+          "product_id": "S17615674632633116_P23216",
+          "store_id": "S21738656403955999_S17120",
+          "store_name": "Chen Wonton (Jiaozi Avenue Branch)",
+          "price": 18,
+          "tags": [],
+          "attributes": [],
+          "quantity": 9999
+        }
+      ]
+    },
+    "S20925321976048558_S44996": {
+      "name": "Jincheng Tea House (Renhe New City Branch)",
+      "store_id": "S20925321976048558_S44996",
+      "score": 4.9,
+      "location": {
+        "address": "4th Floor, No. 420 & 421, 505 West Fucheng Avenue, Chengdu High-tech Zone, China (Sichuan) Pilot Free Trade Zone",
+        "latitude": 30.587995,
+        "longitude": 104.05324
+      },
+      "tags": [],
+      "products": [
+        {
+          "name": "Sticky Rice Tibetan Tea · Fresh Milk Tea",
+          "store_id": "S20925321976048558_S44996",
+          "store_name": "Jincheng Tea House (Renhe New City Branch)",
+          "price": 20,
+          "tags": [],
+          "product_id": "S12535768828833281_P20402",
+          "attributes": [],
+          "quantity": 9999
+        }
+      ]
+    },
+    "S26786677196555447_S64007": {
+      "name": "Li Daxi Rice Noodle Pot (Ideal Center Branch)",
+      "store_id": "S26786677196555447_S64007",
+      "score": 4.8,
+      "location": {
+        "address": "1st Floor, No. 34 Tianyi North Lane, High-tech Zone, Chengdu, Sichuan Province",
+        "latitude": 30.595024,
+        "longitude": 104.062251
+      },
+      "tags": [],
+      "products": [
+        {
+          "name": "Sichuan Spicy Crispy Pork Rice Noodles with 8 Side Dishes",
+          "product_id": "S31443605699266537_P76697",
+          "store_id": "S26786677196555447_S64007",
+          "store_name": "Li Daxi Clay Pot Rice Noodles (Lixiang Center Branch)",
+          "price": 16,
+          "tags": [],
+          "attributes": [],
+          "quantity": 9999
+        },
+        {
+          "name": "Sauerkraut Spicy Wonton",
+          "product_id": "S13034546309761366_P52388",
+          "store_id": "S26786677196555447_S64007",
+          "store_name": "Li Daxi Clay Pot Rice Noodles (Lixiang Center Branch)",
+          "price": 16,
+          "tags": [
+            "Spicy"
+          ],
+          "attributes": [],
+          "quantity": 9999
+        },
+        {
+          "name": "Pickled Pepper Hot and Sour Wonton",
+          "product_id": "S16061773658329389_P64141",
+          "store_id": "S26786677196555447_S64007",
+          "store_name": "Li Daxi Clay Pot Rice Noodles (Lixiang Center Branch)",
+          "price": 16,
+          "tags": [
+            "Hot and Sour"
+          ],
+          "attributes": [],
+          "quantity": 9999
+        }
+      ]
+    }
+  },
+  "orders": {
+    "G0721004O01": {
+      "order_id": "G0721004O01",
+      "order_type": "delivery",
+      "user_id": "U000035",
+      "store_id": "S20925321976048558_S44996",
+      "note": "",
+      "location": {
+        "address": "Global Center, Building 1, 1700 North Tianfu Avenue, Guixi Street, Wuhou District, Chengdu, Sichuan Province",
+        "longitude": 104.063402,
+        "latitude": 30.568744
+      },
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 20,
+      "create_time": "2025-11-07 10:58:00",
+      "update_time": "2025-11-07 10:58:00",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S12535768828833281_P20402",
+          "price": 20,
+          "quantity": 1,
+          "attributes": ""
+        }
+      ]
+    }
+  }
+}

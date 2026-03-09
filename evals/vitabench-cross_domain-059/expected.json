@@ -1,0 +1,138 @@
+{
+  "required_orders": [
+    {
+      "order_id": "10811008T001",
+      "order_type": "delivery",
+      "user_id": "U204261",
+      "store_id": "S17550802110932959_S00001",
+      "note": "",
+      "location": {
+        "address": "Building B3, Luoyang Intelligent Manufacturing Industrial Park, No.96 Binhe North Road, High-tech Zone, Luoyang, Henan Province",
+        "longitude": 112.425,
+        "latitude": 34.678
+      },
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 186,
+      "create_time": "2024-07-17 22:07:01",
+      "update_time": "2024-07-17 22:11:01",
+      "status": "cancelled",
+      "products": [
+        {
+          "product_id": "S17550802110932959_P00001",
+          "price": 98,
+          "quantity": 1,
+          "name": "Spicy Crayfish",
+          "attributes": ""
+        },
+        {
+          "product_id": "S17550802110932959_P00002",
+          "price": 68,
+          "quantity": 1,
+          "name": "Oysters with Garlic Sauce",
+          "attributes": ""
+        },
+        {
+          "product_id": "S17550802110932959_P00005",
+          "price": 10,
+          "quantity": 2,
+          "name": "Snow Brave Journey Beer",
+          "attributes": ""
+        }
+      ]
+    },
+    {
+      "reservation_id": "10811008T002",
+      "shop_id": "S17550802110932959_I00011",
+      "reservation_time": "2024-07-18 05:00:00",
+      "update_time": "2024-07-17 22:09:01",
+      "customer_id": "U204261",
+      "customer_count": 2,
+      "status": "paid"
+    },
+    {
+      "order_id": "10811008T003",
+      "order_type": "train",
+      "user_id": "U204261",
+      "store_id": "S17550802110932959_T00006",
+      "note": "",
+      "location": null,
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 42,
+      "create_time": "2024-07-17 22:12:01",
+      "update_time": "2024-07-17 22:12:01",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17550802110932959_P00045",
+          "price": 42,
+          "quantity": 1,
+          "date": "2024-07-18",
+          "seat_type": "Hard Seat"
+        }
+      ]
+    },
+    {
+      "order_id": "10811008T004",
+      "order_type": "delivery",
+      "user_id": "U204261",
+      "store_id": "S17550802110932959_S00001",
+      "note": "",
+      "location": {
+        "address": "Building B3, Luoyang Intelligent Manufacturing Industrial Park, No.96 Binhe North Road, High-tech Zone, Luoyang, Henan Province",
+        "longitude": 112.425,
+        "latitude": 34.678
+      },
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 182,
+      "create_time": "2024-07-17 22:13:01",
+      "update_time": "2024-07-17 22:13:01",
+      "status": "unpaid",
+      "products": [
+        {
+          "product_id": "S17550802110932959_P00001",
+          "price": 98,
+          "quantity": 1,
+          "name": "Spicy Crayfish",
+          "attributes": ""
+        },
+        {
+          "product_id": "S17550802110932959_P00002",
+          "price": 68,
+          "quantity": 1,
+          "name": "Oysters with Garlic Sauce",
+          "attributes": ""
+        },
+        {
+          "product_id": "S17550802110932959_P00003",
+          "price": 8,
+          "quantity": 2,
+          "name": "Arctic Ocean Soda",
+          "attributes": ""
+        }
+      ]
+    }
+  ],
+  "rubrics": [
+    "The food delivery order containing Snow Brave Journey Beer has been canceled",
+    "The store for dine-in ordering needs to be Open 24 Hours",
+    "The store for dine-in ordering should be within 5km (inclusive) of Building B3, Luoyang Intelligent Manufacturing Industrial Park, No.96 Binhe North Road, High-tech Zone, Luoyang, Henan Province",
+    "The billiards hall reservation time is 5:00 on July 18, 2024",
+    "The number of people for the billiards hall reservation is 2",
+    "The train ticket should be for a train from Luoyang to Pingdingshan",
+    "The arrival time of the ordered train ticket should be before 18:00 (inclusive) on July 18, 2024",
+    "The ordered train ticket should be for train number K1236",
+    "The non-canceled food delivery order should include Crayfish",
+    "The non-canceled food delivery order should include Oysters",
+    "The non-canceled food delivery order should include Arctic Ocean Soda",
+    "The non-canceled food delivery order should include 2 Arctic Ocean Soda",
+    "The Crayfish, Oysters, and Arctic Ocean Soda in the non-canceled food delivery order should come from the same store",
+    "The delivery address for the non-canceled food delivery order should be Building B3, Luoyang Intelligent Manufacturing Industrial Park, No.96 Binhe North Road, High-tech Zone, Luoyang, Henan Province",
+    "The estimated delivery time for the non-canceled food delivery order should be 2:00 on July 18, 2024"
+  ]
+}

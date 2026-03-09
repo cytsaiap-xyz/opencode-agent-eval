@@ -1,0 +1,116 @@
+{
+  "required_orders": [
+    {
+      "order_id": "OIb192a86a68",
+      "order_type": "instore",
+      "user_id": "U010047",
+      "store_id": "S17550802116123836_I00008",
+      "note": "",
+      "location": null,
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 2988,
+      "create_time": "2025-07-17 10:35:00",
+      "update_time": "2025-07-17 10:35:00",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17550802116123836_P00044",
+          "price": 2988,
+          "quantity": 1,
+          "name": "\"Nebula\" Romantic Celebration Set for Two",
+          "shop_id": "S17550802116123836_I00008",
+          "tags": [
+            "Michelin Two Star",
+            "Creative Cuisine",
+            "Celebration",
+            "Romantic",
+            "Set for Two",
+            "Promotion Congratulations"
+          ]
+        }
+      ]
+    },
+    {
+      "order_id": "10807011T002",
+      "order_type": "delivery",
+      "user_id": "U010047",
+      "store_id": "S17550802091124808_S00001",
+      "note": "",
+      "location": {
+        "address": "Nebula, 100 Nanguan Street, Beilin District, Xi'an, Shaanxi Province",
+        "longitude": 108.9548,
+        "latitude": 34.253
+      },
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 13999,
+      "create_time": "2025-07-17 10:39:00",
+      "update_time": "2025-07-17 10:39:00",
+      "status": "unpaid",
+      "products": [
+        {
+          "product_id": "S17550848565247521_P00007",
+          "price": 13999,
+          "quantity": 1,
+          "name": "iPhone 16 Pro Max 1TB Blue",
+          "attributes": "Brand new, unopened"
+        }
+      ]
+    },
+    {
+      "order_id": "10807011T003",
+      "order_type": "attraction",
+      "user_id": "U010047",
+      "store_id": "S17550802116123836_A00001",
+      "note": "",
+      "location": null,
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 150,
+      "create_time": "2025-07-17 10:41:00",
+      "update_time": "2025-07-17 10:41:00",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17550802116123836_P00003",
+          "price": 75,
+          "quantity": 2,
+          "date": "2025-07-19",
+          "ticket_type": "Adult Ticket"
+        }
+      ]
+    },
+    {
+      "book_id": "OI98ab55e38b",
+      "shop_id": "S17550802116123836_I00008",
+      "book_time": "2025-07-18 19:00:00",
+      "update_time": "2025-07-17 10:35:00",
+      "customer_id": "U010047",
+      "customer_count": 2,
+      "book_price": 300,
+      "status": "paid"
+    }
+  ],
+  "rubrics": [
+    "The restaurant ordered must be a Michelin restaurant",
+    "Need to check the highest per capita Michelin set meal, the result is from Nebula, so the ordered set meal must be from Nebula",
+    "The ordered restaurant must provide a romantic and private dining environment",
+    "The set meal in the restaurant order must have auspicious meaning",
+    "The restaurant order set meal must avoid high purine foods (such as offal/seafood soup), and must avoid foods or drinks containing alcohol",
+    "The ordered phone must be the latest iPhone model",
+    "The ordered phone must have 1TB of storage",
+    "The phone should be in stock",
+    "The phone should be blue",
+    "The delivery address for the phone order must be Nebula, 100 Nanguan Street, Beilin District, Xi'an, Shaanxi Province",
+    "The delivery time for the phone order must be the evening of July 18, 2025",
+    "Must check the theme of Xi'an Art Museum's current exhibition, the result is that there are modern art related exhibitions",
+    "The number of tickets in the art museum order must be 2",
+    "Check the opening hours of Xi'an Art Museum, the result shows that it's open until 17:00, so the date of the art museum ticket must be on a weekend",
+    "The restaurant reservation time must be Friday evening (2025-07-18)",
+    "The reserved restaurant must be Nebula"
+  ]
+}

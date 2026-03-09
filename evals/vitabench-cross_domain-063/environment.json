@@ -1,0 +1,412 @@
+{
+  "task_id": "10808001",
+  "domain": "cross_domain",
+  "time": "2025-09-03 16:31:33",
+  "user_id": "U644395",
+  "weather": [
+    {
+      "city": "Nantong",
+      "category": "sunny",
+      "datetime": "2025-09-03",
+      "temperature": [
+        25,
+        32
+      ],
+      "humidity": 65
+    },
+    {
+      "city": "Nantong",
+      "category": "cloudy",
+      "datetime": "2025-09-04",
+      "temperature": [
+        24,
+        30
+      ],
+      "humidity": 70
+    },
+    {
+      "city": "Nantong",
+      "category": "cloudy to sunny",
+      "datetime": "2025-09-05",
+      "temperature": [
+        23,
+        29
+      ],
+      "humidity": 68
+    }
+  ],
+  "location": [
+    {
+      "address": "Room 503, Building 2, Zilang Garden, 28 Gongnong Road, Chongchuan District, Nantong",
+      "longitude": 120.864608,
+      "latitude": 32.010889
+    }
+  ],
+  "user_profile": {
+    "user id": "U644395",
+    "occupation": "Driver",
+    "gender": "female",
+    "age group": "40~45",
+    "residence": "Nantong",
+    "Permanent address": "Room 503, Building 2, Zilang Garden, 28 Gongnong Road, Chongchuan District, Nantong",
+    "work address": "Nantong Bus Terminal, 99 Tongjing Avenue, Chongchuan District, Nantong",
+    "dietary restrictions": "No high purine foods (such as organ meats/seafood soup), no caffeine",
+    "family status": "Has pets",
+    "personality": "Cold and concise in expression, lacking emotional communication and patience"
+  },
+  "user_historical_behaviors": {
+    "user id": "U644395",
+    "occupation": "Driver",
+    "gender": "female",
+    "age group": "40~45",
+    "residence": "Nantong",
+    "home address": "Room 503, Building 2, Zilang Garden, 28 Gongnong Road, Chongchuan District, Nantong",
+    "work address": "Nantong Bus Terminal, 99 Tongjing Avenue, Chongchuan District, Nantong",
+    "delivery": {
+      "breakfast": {
+        "frequently purchased categories": [
+          "Quick Meals/Steamed Buns/Pan-Fried Buns (Average 18 yuan)",
+          "Quick Meals/Fried Dough Sticks (Average 8 yuan)",
+          "Quick Meals/Light Foods (Average 25 yuan)"
+        ],
+        "cost per order": "15~30 yuan",
+        "preferred store rating": "4.3~4.8 stars",
+        "preferred delivery time": "15~25 minutes",
+        "preferred distance": "0~1500m",
+        "recent orders": [
+          {
+            "store": "Tianjin Goubuli Baozi",
+            "product": "Pork Buns + Soy Milk Combo"
+          },
+          {
+            "store": "Harbin Lao Yang's Soy Milk",
+            "product": "Fried Dough Sticks and Soy Milk Combo"
+          },
+          {
+            "store": "Light Food Select",
+            "product": "Whole Wheat Sandwich + Yogurt"
+          }
+        ],
+        "search history": [
+          "Low-sugar breakfast",
+          "Soy milk and fried dough sticks",
+          "Light food",
+          "Healthy breakfast"
+        ]
+      },
+      "weekday lunch/dinner": {
+        "frequently purchased categories": [
+          "Quick Meals/Healthy Meals (Average 42 yuan)",
+          "Quick Meals/Salad (Average 35 yuan)",
+          "International Cuisine/Japanese Bento/Sushi (Average 50 yuan)"
+        ],
+        "cost per order": "30~60 yuan",
+        "preferred store rating": "4.5~4.9 stars",
+        "preferred delivery time": "20~35 minutes",
+        "preferred distance": "0~2500m",
+        "recent orders": [
+          {
+            "store": "Light Food Salad Workshop",
+            "product": "Quinoa Chicken Breast Salad"
+          },
+          {
+            "store": "Diet Select",
+            "product": "Low-fat Chicken Breast Rice"
+          },
+          {
+            "store": "Yoshinoya",
+            "product": "Vegetable Beef Rice Bowl"
+          }
+        ],
+        "search history": [
+          "Low-calorie lunch",
+          "Healthy meal",
+          "Salad",
+          "Chicken breast rice",
+          "Light food"
+        ]
+      },
+      "weekend lunch/dinner": {
+        "frequently purchased categories": [
+          "Chinese Cuisine/Cantonese Cuisine (Average 85 yuan)",
+          "International Cuisine/Japanese Bento/Sushi (Average 90 yuan)",
+          "Chinese Cuisine/Northeastern Cuisine (Average 75 yuan)"
+        ],
+        "cost per order": "60~120 yuan",
+        "preferred store rating": "4.6~5.0 stars",
+        "preferred delivery time": "25~45 minutes",
+        "preferred distance": "0~3500m",
+        "recent orders": [
+          {
+            "store": "Cantonese Pavilion",
+            "product": "Steamed Sea Bass + Seasonal Vegetables"
+          },
+          {
+            "store": "Japanese Style Cuisine",
+            "product": "Salmon Sashimi Set"
+          },
+          {
+            "store": "Old Northeastern Restaurant",
+            "product": "Sweet and Sour Pork + Candied Sweet Potatoes"
+          }
+        ],
+        "search history": [
+          "Steamed fish",
+          "Japanese cuisine",
+          "Healthy Northeastern dishes",
+          "Non-spicy dishes"
+        ]
+      },
+      "desserts/drinks/snacks": {
+        "frequently purchased categories": [
+          "Beverages & Desserts/Pure Tea/Herbal Tea (Average 18 yuan)",
+          "Beverages & Desserts/Fruit Bowls (Average 28 yuan)",
+          "Beverages & Desserts/Coffee (Average 30 yuan)"
+        ],
+        "cost per order": "15~35 yuan",
+        "preferred store rating": "4.4~4.9 stars",
+        "preferred delivery time": "15~30 minutes",
+        "preferred distance": "0~2000m",
+        "recent orders": [
+          {
+            "store": "Fresh Fruit Workshop",
+            "product": "Fruit Bowl (Sugar-free Version)"
+          },
+          {
+            "store": "Starbucks",
+            "product": "Low-sugar Latte"
+          },
+          {
+            "store": "Cha Yan Yue Se",
+            "product": "Oolong Tea (Sugar-free)"
+          }
+        ],
+        "search history": [
+          "Sugar-free drinks",
+          "Low-sugar coffee",
+          "Fruit bowl",
+          "Healthy desserts"
+        ]
+      },
+      "night snack": {
+        "frequently purchased categories": [
+          "Quick Meals/Rice Noodles/Vermicelli (Average 32 yuan)",
+          "Snacks & Braised Foods/Braised Foods (Average 40 yuan)"
+        ],
+        "cost per order": "25~50 yuan",
+        "preferred store rating": "4.3~4.8 stars",
+        "preferred delivery time": "20~35 minutes",
+        "preferred distance": "0~2500m",
+        "recent orders": [
+          {
+            "store": "Yunnan Crossing Bridge Rice Noodles",
+            "product": "Original Rice Noodles (Mildly Spicy)"
+          },
+          {
+            "store": "Old Lu Men",
+            "product": "Braised Chicken Wings + Braised Tofu"
+          },
+          {
+            "store": "Night Food Note",
+            "product": "Cold Mixed Three Shreds"
+          }
+        ],
+        "search history": [
+          "Light night snacks",
+          "Non-spicy rice noodles",
+          "Braised foods",
+          "Low-oil night snacks"
+        ]
+      }
+    },
+    "in-store consumption": {
+      "in-store dining": {
+        "fine-dining": {
+          "frequently purchased categories": [
+            "Regional Cuisine/Jiangzhe Cuisine (Average 120 yuan)",
+            "Regional Cuisine/Seafood (Average 135 yuan)",
+            "International Cuisine/Japanese Food (Average 150 yuan)"
+          ],
+          "preferred average price per person": "100~150 yuan",
+          "preferred store rating": "4.2~4.8 stars",
+          "typical dining time": "18:30-20:30",
+          "preferred distance": "1000~5000m",
+          "recent orders": [
+            {
+              "store": "Songhe Restaurant (Chongchuan Road Branch)",
+              "product": "Squirrel-shaped Mandarin Fish + Dongpo Pork + Stir-fried Seasonal Vegetables"
+            },
+            {
+              "store": "Fisherman's Fish Restaurant (Nantong Flagship Store)",
+              "product": "Steamed Taihu White Fish + Preserved Vegetable Braised Pork + Shrimp Tofu"
+            },
+            {
+              "store": "Sushi Master (Nantong Central Store)",
+              "product": "Selected Sashimi Platter + Salmon Sushi Set"
+            }
+          ],
+          "search history": [
+            "Jiangzhe cuisine",
+            "Non-alcoholic Japanese food",
+            "Business dinner",
+            "Steamed fish",
+            "Nantong high-end restaurants"
+          ]
+        },
+        "light meal": {
+          "frequently purchased categories": [
+            "Fast Food/Chinese Quick Meals (Average 35 yuan)",
+            "Regional Cuisine/Noodles (Average 28 yuan)",
+            "Fast Food/Western Fast Food (Average 40 yuan)"
+          ],
+          "preferred average price per person": "25~45 yuan",
+          "preferred store rating": "3.5~4.3 stars",
+          "typical dining time": "12:00-13:30",
+          "preferred distance": "0~800m",
+          "recent orders": [
+            {
+              "store": "Old Shanghai Pork Chop Rice (Software Park Branch)",
+              "product": "Special Pork Chop Rice + Seaweed Egg Drop Soup"
+            },
+            {
+              "store": "Lanzhou Noodles (Tongsheng Avenue Branch)",
+              "product": "Beef Noodles + Braised Egg"
+            },
+            {
+              "store": "McDonald's (Nantong Software Park Branch)",
+              "product": "Double Beef Burger Meal"
+            }
+          ],
+          "search history": [
+            "Work meal",
+            "Fast food",
+            "Boxed meal",
+            "Noodles",
+            "Food near Software Park"
+          ]
+        },
+        "desserts/drinks/snacks": {
+          "frequently purchased categories": [
+            "Beverage Shops (Average 18 yuan)",
+            "Bread and Desserts (Average 25 yuan)",
+            "Other Food/Fresh Fruits (Average 15 yuan)"
+          ],
+          "preferred average price per person": "15~30 yuan",
+          "preferred store rating": "3.8~4.5 stars",
+          "typical dining time": "15:00-16:30",
+          "preferred distance": "0~500m",
+          "recent orders": [
+            {
+              "store": "Starbucks (Nantong Software Park Branch)",
+              "product": "Americano + Vanilla Muffin"
+            },
+            {
+              "store": "Fresh Fruit Station (Development Zone Branch)",
+              "product": "Fruit Platter"
+            },
+            {
+              "store": "85°C (Chongchuan District Branch)",
+              "product": "Mango Mousse Cake"
+            }
+          ],
+          "search history": [
+            "Afternoon Tea",
+            "Coffee",
+            "Low-sugar drinks",
+            "Fruit",
+            "Healthy desserts"
+          ]
+        }
+      },
+      "other in-store services": {
+        "frequently consumed categories": {
+          "Sports & Fitness/Fitness Centers": "35%",
+          "Sports & Fitness/Ball Sports": "40%",
+          "Pets/Pet Hospitals": "15%",
+          "Leisure & Entertainment/Massage/Foot Therapy": "10%"
+        },
+        "cost per order by category": {
+          "Sports & Fitness/Fitness Centers": "80~200 yuan",
+          "Sports & Fitness/Ball Sports": "50~120 yuan",
+          "Pets/Pet Hospitals": "100~300 yuan",
+          "Leisure & Entertainment/Massage/Foot Therapy": "150~250 yuan"
+        },
+        "preferred store rating": "4.0~4.8 stars",
+        "preferred service time": "19:00-21:00",
+        "preferred distance": "0~3000m",
+        "recent orders": [
+          {
+            "store": "Super Fitness (Nantong Flagship Store)",
+            "product": "Monthly Fitness Package"
+          },
+          {
+            "store": "Nantong Sports Center",
+            "product": "Badminton Court 2 Hours"
+          },
+          {
+            "store": "Pet Lovers Animal Hospital (Chongchuan Branch)",
+            "product": "Pet Grooming + Health Check Package"
+          }
+        ],
+        "search history": [
+          "Gym monthly card",
+          "Badminton court booking",
+          "Pet hospital",
+          "Weekend foot massage",
+          "Nantong Sports Center"
+        ]
+      }
+    },
+    "OTA": {
+      "visited scenes": {
+        "Historical Sites": "25%",
+        "Exhibition Halls (Museums/Art Galleries)": "30%",
+        "Natural Landscapes (Mountains/Lakes/Forests)": "20%",
+        "Parks": "15%",
+        "Special Villages/Industrial Tourism/Uncategorized": "10%"
+      },
+      "cost per night on hotel": "500~1000 yuan",
+      "visited hotels": {
+        "Atour": "35%",
+        "Ji Hotel": "25%",
+        "Orange Hotel": "20%",
+        "Vienna Hotel": "15%",
+        "Hanting Hotel": "5%"
+      },
+      "browsed hotels": {
+        "Four-Star Hotels": "30%",
+        "Three-Star Hotels": "25%",
+        "Comfort Hotels": "40%",
+        "Economy Hotels": "5%"
+      },
+      "historical travel plans": {
+        "Nantong-Shanghai": {
+          "Price Range": "50-100 yuan",
+          "Transportation Mode": "High-speed Rail/EMU Train"
+        },
+        "Nantong-Hangzhou": {
+          "Price Range": "150-250 yuan",
+          "Transportation Mode": "High-speed Rail/EMU Train"
+        },
+        "Nantong-Beijing": {
+          "Price Range": "600-900 yuan",
+          "Transportation Mode": "Airplane"
+        },
+        "Nantong-Suzhou": {
+          "Price Range": "50-80 yuan",
+          "Transportation Mode": "High-speed Rail/EMU Train"
+        },
+        "Nantong-Xi'an": {
+          "Price Range": "800-1200 yuan",
+          "Transportation Mode": "Airplane"
+        },
+        "Nantong-Nanjing": {
+          "Price Range": "100-150 yuan",
+          "Transportation Mode": "High-speed Rail/EMU Train"
+        }
+      }
+    }
+  },
+  "stores": {},
+  "orders": {}
+}

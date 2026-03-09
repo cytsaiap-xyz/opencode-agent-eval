@@ -1,0 +1,64 @@
+{
+  "required_orders": [
+    {
+      "order_id": "E0721004T01",
+      "order_type": "delivery",
+      "user_id": "U000067",
+      "store_id": "S31127199787566498_S75237",
+      "note": "",
+      "location": {
+        "address": "Chuangshi Mingdi, No. 1 Haiwang Road, Jiaojiang District, Taizhou City, Zhejiang Province",
+        "longitude": 121.538383,
+        "latitude": 28.59289
+      },
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 29.88,
+      "create_time": "2024-12-13 17:06:00",
+      "update_time": "2024-12-13 17:08:00",
+      "status": "cancelled",
+      "products": [
+        {
+          "product_id": "S25190868040778027_P13009",
+          "price": 29.88,
+          "quantity": 1,
+          "attributes": ""
+        }
+      ]
+    },
+    {
+      "order_id": "E0721004T02",
+      "order_type": "delivery",
+      "user_id": "U000067",
+      "store_id": "S31834913635855682_S09841",
+      "note": "",
+      "location": {
+        "address": "Zhejiang Hisun Pharmaceutical Co., Ltd., Binhai Industrial Zone, No. 56 Binhai Road, Jiaojiang District, Taizhou City, Zhejiang Province",
+        "longitude": 121.499469,
+        "latitude": 28.661968
+      },
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 26.88,
+      "create_time": "2024-12-13 17:11:00",
+      "update_time": "2024-12-13 17:11:00",
+      "status": "processed",
+      "products": [
+        {
+          "product_id": "S29104756795340843_P23967",
+          "price": 26.88,
+          "quantity": 1,
+          "attributes": ""
+        }
+      ]
+    }
+  ],
+  "rubrics": [
+    "Successfully canceled the user's Lemon Sour Soup Black Fish order from Xiaoyu Family Sauerkraut Fish, and the order status with order_id E0721004T01 has been updated to cancelled",
+    "The delivery address for the newly placed Soft Tofu Soup order should be Zhejiang Hisun Pharmaceutical Co., Ltd., Binhai Industrial Zone, No. 56 Binhai Road, Jiaojiang District, Taizhou City, Zhejiang Province",
+    "The estimated delivery time for the newly placed Soft Tofu Soup order should be around 18:00 on December 13, 2024, ensuring the user can finish eating by 18:30",
+    "The newly placed Soft Tofu Soup order must include staple food items"
+  ]
+}

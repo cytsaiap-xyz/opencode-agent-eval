@@ -1,0 +1,572 @@
+{
+  "task_id": "A0807002",
+  "domain": "cross_domain",
+  "time": "2024-07-11 09:30:00",
+  "user_id": "U010036",
+  "weather": [
+    {
+      "city": "Nanchang",
+      "category": "sunny",
+      "datetime": "2024-07-13",
+      "temperature": [
+        26,
+        34
+      ],
+      "humidity": 65
+    }
+  ],
+  "location": [
+    {
+      "address": "Hailiang Ocean Joy Plaza, 140 meters southeast of the intersection of Changjiang Road and Diezihudadao, Honggutan District, Nanchang, Jiangxi Province",
+      "longitude": 115.8573,
+      "latitude": 28.6895
+    }
+  ],
+  "user_profile": {
+    "user id": "U010036",
+    "occupation": "Network Engineer",
+    "gender": "male",
+    "age group": "30~35",
+    "residence": "Nanchang",
+    "home address": "Hailiang Ocean Joy Plaza, 140 meters southeast of the intersection of Changjiang Road and Diezihudadao, Honggutan District, Nanchang, Jiangxi Province",
+    "work address": "China Mobile, 1926 Fenghe Middle Avenue, Honggutan District, Nanchang, Jiangxi Province",
+    "dietary restrictions": "No high purine foods (such as organ meats/seafood soup), no alcohol",
+    "family status": "Has children",
+    "personality": "Scattered and jumpy thinking, easily distracted and changes mind"
+  },
+  "user_historical_behaviors": {
+    "user id": "U010036",
+    "occupation": "Network Engineer",
+    "gender": "male",
+    "age group": "30~35",
+    "residence": "Nanchang",
+    "Permanent address": "Hailiang Ocean Joy Plaza, 140 meters southeast of the intersection of Changjiang Road and Diezihudadao, Honggutan District, Nanchang, Jiangxi Province",
+    "work address": "China Mobile, 1926 Fenghe Middle Avenue, Honggutan District, Nanchang, Jiangxi Province",
+    "dietary restrictions": "Avoid high purine foods (such as organ meats/seafood soup), avoid alcohol",
+    "family status": "Has children",
+    "delivery": {
+      "food delivery": {
+        "breakfast": {
+          "frequently purchased categories": [
+            "Quick meals/Buns/Shengjianbao (Average 22 yuan)",
+            "Quick meals/Fried dough sticks (Average 12 yuan)",
+            "Quick meals/Soy milk (Average 8 yuan)"
+          ],
+          "cost per order": "15~35 yuan",
+          "preferred store rating": "4.2~4.8",
+          "preferred delivery time": "15~30 minutes",
+          "preferred distance": "0~2500m",
+          "recent orders": [
+            {
+              "store": "Old City South Bun Shop",
+              "product": "6 Meat buns + 1 cup of soy milk"
+            },
+            {
+              "store": "Breakfast Workshop",
+              "product": "2 Fried dough sticks + 1 cup of soy milk + 1 tea egg"
+            },
+            {
+              "store": "Gan Flavor Breakfast",
+              "product": "Nanchang rice noodles + 1 braised egg"
+            }
+          ],
+          "search history": [
+            "Buns",
+            "Fried dough sticks",
+            "Soy milk",
+            "Rice noodles",
+            "Breakfast set"
+          ]
+        },
+        "weekday lunch/dinner": {
+          "frequently purchased categories": [
+            "Chinese cuisine/Sichuan cuisine (Average 45 yuan)",
+            "Quick meals/Stewed chicken with rice (Average 32 yuan)",
+            "Quick meals/Rice with toppings (Average 28 yuan)"
+          ],
+          "cost per order": "25~60 yuan",
+          "preferred store rating": "4.3~4.8",
+          "preferred delivery time": "20~35 minutes",
+          "preferred distance": "0~3000m",
+          "recent orders": [
+            {
+              "store": "Stewed Chicken Rice",
+              "product": "Signature stewed chicken rice + cucumber salad"
+            },
+            {
+              "store": "Sichuan Flavor Garden",
+              "product": "Twice-cooked pork + rice"
+            },
+            {
+              "store": "Home-style Restaurant",
+              "product": "Braised pork ribs rice + seaweed egg drop soup"
+            }
+          ],
+          "search history": [
+            "Stewed chicken",
+            "Rice with toppings",
+            "Home-style dishes",
+            "Fast food",
+            "Pork rib rice"
+          ]
+        },
+        "weekend lunch/dinner": {
+          "frequently purchased categories": [
+            "Chinese cuisine/Crayfish (Average 120 yuan)",
+            "Chinese cuisine/Cantonese cuisine (Average 85 yuan)",
+            "Hot pot/Individual hot pot (Average 65 yuan)"
+          ],
+          "cost per order": "60~180 yuan",
+          "preferred store rating": "4.5~4.9",
+          "preferred delivery time": "30~50 minutes",
+          "preferred distance": "0~5000m",
+          "recent orders": [
+            {
+              "store": "Sichuan Flavor Crayfish",
+              "product": "Spicy crayfish 4 jin + tea tree mushrooms + beer"
+            },
+            {
+              "store": "Yue Lai Yue Hao",
+              "product": "White cut chicken + steamed egg with shrimp + steamed bass + broccoli with garlic"
+            },
+            {
+              "store": "Bashu Hot Pot",
+              "product": "Individual spicy hot pot base + beef slices + shrimp balls + vegetable platter"
+            }
+          ],
+          "search history": [
+            "Crayfish",
+            "Cantonese cuisine",
+            "Hot pot",
+            "Family meal set",
+            "Non-alcoholic beverages"
+          ]
+        },
+        "desserts/drinks/snacks": {
+          "frequently purchased categories": [
+            "Drinks/desserts/Milk tea (Average 22 yuan)",
+            "Drinks/desserts/Coffee (Average 28 yuan)",
+            "Drinks/desserts/Western pastries (Average 35 yuan)"
+          ],
+          "cost per order": "15~45 yuan",
+          "preferred store rating": "4.4~4.9",
+          "preferred delivery time": "15~30 minutes",
+          "preferred distance": "0~3000m",
+          "recent orders": [
+            {
+              "store": "HEYTEA",
+              "product": "Grape Pulp + Mango Cheese"
+            },
+            {
+              "store": "Starbucks",
+              "product": "Americano + Blueberry Muffin"
+            },
+            {
+              "store": "Bread Talk",
+              "product": "Tiramisu + Croissant"
+            }
+          ],
+          "search history": [
+            "Milk tea",
+            "Coffee",
+            "Bread",
+            "Cake",
+            "Desserts"
+          ]
+        },
+        "night snack": {
+          "frequently purchased categories": [
+            "BBQ/Fried food/Fried chicken (Average 45 yuan)",
+            "Snacks/Braised food (Average 38 yuan)",
+            "Quick meals/Dumplings/Wonton (Average 30 yuan)"
+          ],
+          "cost per order": "25~55 yuan",
+          "preferred store rating": "4.0~4.7",
+          "preferred delivery time": "20~40 minutes",
+          "preferred distance": "0~3500m",
+          "recent orders": [
+            {
+              "store": "Zhengxin Chicken Cutlet",
+              "product": "Large chicken cutlet + French fries"
+            },
+            {
+              "store": "Old Street Braised Foods",
+              "product": "Braised food platter + braised eggs + dried tofu"
+            },
+            {
+              "store": "Dumpling House",
+              "product": "20 Three-flavor dumplings + hot and sour soup"
+            }
+          ],
+          "search history": [
+            "Fried chicken",
+            "Braised food",
+            "Dumplings",
+            "Night snack set",
+            "Non-alcoholic beverages"
+          ]
+        }
+      },
+      "product delivery": {
+        "frequently purchased categories": [
+          "Vegetables/Bean products(28%)",
+          "Fresh meat/Poultry/Eggs(22%)",
+          "Grains/Oil/Seasonings/Dried goods(15%)",
+          "Household items(12%)",
+          "Beverages/Nutritional drinks(10%)",
+          "Others(13%)"
+        ],
+        "frequently visited stores": [
+          "Honggutan Fresh Supermarket(38%)",
+          "Yonghui Supermarket(Honggutan Store)(32%)",
+          "Daily Youxuan(Ocean Joy Plaza Store)(22%)",
+          "Other stores(8%)"
+        ],
+        "cost per order by category": {
+          "Vegetables/Bean products": "5~25 yuan",
+          "Fresh meat/Poultry/Eggs": "20~60 yuan",
+          "Grains/Oil/Seasonings/Dried goods": "10~40 yuan",
+          "Household items": "15~50 yuan",
+          "Beverages/Nutritional drinks": "10~30 yuan"
+        },
+        "preferred delivery time": "30~60 minutes",
+        "typical order time": "17~19(42%), 10~12(25%), 14~16(18%)",
+        "recent orders": [
+          {
+            "store": "Honggutan Fresh Supermarket",
+            "product": "One bunch of greens + 500g pork + one box of eggs"
+          },
+          {
+            "store": "Yonghui Supermarket(Honggutan Store)",
+            "product": "5kg rice + 1 bottle cooking oil + 1 bag salt"
+          },
+          {
+            "store": "Daily Youxuan(Ocean Joy Plaza Store)",
+            "product": "1 bottle laundry detergent + 3 packs tissues + 2 toothpastes"
+          }
+        ],
+        "search history": [
+          "Vegetables",
+          "Pork",
+          "Rice",
+          "Laundry detergent",
+          "Milk",
+          "Eggs",
+          "Fruit"
+        ]
+      }
+    },
+    "in-store consumption": {
+      "in-store dining": {
+        "fine-dining": {
+          "frequently purchased categories": [
+            "Local cuisine/Fish dishes (Average 120 yuan)",
+            "Local cuisine/Hunan cuisine (Average 90 yuan)",
+            "Local cuisine/Sichuan cuisine (Average 85 yuan)"
+          ],
+          "preferred average price per person": "85~120 yuan",
+          "preferred store rating": "4.0~4.8 stars",
+          "typical dining time": "18:30-20:30",
+          "preferred distance": "500~2000m",
+          "recent orders": [
+            {
+              "store": "Xiaolongkan Hot Pot (Greenland Center Branch)",
+              "product": "Set meal for four (excluding hot pot base)"
+            },
+            {
+              "store": "Hunan Village Restaurant (Qingyunpu Store)",
+              "product": "Chopped chili fish head set meal"
+            },
+            {
+              "store": "Wangjiangmen Sichuan Restaurant (Honggutan Store)",
+              "product": "Dry pot series + Spicy blood curd stew"
+            }
+          ],
+          "search history": [
+            "Sugar-free dishes",
+            "Low-oil Sichuan cuisine",
+            "Healthy Hunan cuisine",
+            "Family-Friendly Restaurant"
+          ]
+        },
+        "light meal": {
+          "frequently purchased categories": [
+            "Snacks/Quick meals/Chinese quick meals (Average 35 yuan)",
+            "Snacks/Quick meals/Western fast food (Average 30 yuan)",
+            "Local cuisine/Jiangsu and Zhejiang cuisine (Average 40 yuan)"
+          ],
+          "preferred average price per person": "25~45 yuan",
+          "preferred store rating": "3.5~4.2 stars",
+          "typical dining time": "11:30-13:00",
+          "preferred distance": "0~500m",
+          "recent orders": [
+            {
+              "store": "Yonghe King (T16 Branch)",
+              "product": "Signature soy milk + pan-fried buns"
+            },
+            {
+              "store": "Ajisen Ramen (T16 Branch)",
+              "product": "Signature pork bone ramen"
+            },
+            {
+              "store": "Sha County Snacks",
+              "product": "Three-flavor steamed dumplings + seaweed soup"
+            }
+          ],
+          "search history": [
+            "Weight-loss meals",
+            "Light food",
+            "Low-calorie fast food",
+            "Fast food near T16"
+          ]
+        },
+        "desserts/drinks/snacks": {
+          "frequently purchased categories": [
+            "Beverage shops (Average 18 yuan)",
+            "Bread and pastries (Average 25 yuan)"
+          ],
+          "preferred average price per person": "15~30 yuan",
+          "preferred store rating": "3.8~4.5 stars",
+          "typical dining time": "14:30-16:00",
+          "preferred distance": "0~300m",
+          "recent orders": [
+            {
+              "store": "HEYTEA (Greenland Center Branch)",
+              "product": "Grape Pulp (less sugar)"
+            },
+            {
+              "store": "Starbucks (Huizhan Road Branch)",
+              "product": "Americano (no sugar)"
+            },
+            {
+              "store": "Bread Talk (Qingyunpu Branch)",
+              "product": "Whole wheat bread"
+            }
+          ],
+          "search history": [
+            "Sugar-free beverages",
+            "Low-calorie desserts",
+            "Artificial sweetener milk tea",
+            "Zero-calorie drinks"
+          ]
+        }
+      },
+      "other in-store services": {
+        "frequently consumed categories": {
+          "Sports/Fitness centers": "40%",
+          "Beauty/Hair salons": "30%",
+          "Leisure/Massage/Foot therapy": "20%",
+          "Parent-Child/Children's entertainment": "10%"
+        },
+        "cost per order by category": {
+          "Sports/Fitness centers": "80~200 yuan",
+          "Beauty/Hair salons": "120~300 yuan",
+          "Leisure/Massage/Foot therapy": "150~280 yuan",
+          "Parent-Child/Children's entertainment": "100~200 yuan"
+        },
+        "preferred store rating": "4.0~4.8 stars",
+        "preferred service time": "18:00-21:00",
+        "preferred distance": "500~3000m",
+        "recent orders": [
+          {
+            "store": "Super Gorilla Fitness (Greenland Center Branch)",
+            "product": "Single group class"
+          },
+          {
+            "store": "Youmi Hair Salon (Qingyunpu Branch)",
+            "product": "Wash, cut and blow-dry package"
+          },
+          {
+            "store": "LEGO Family Playground (Honggutan Branch)",
+            "product": "Weekend parent-child ticket"
+          }
+        ],
+        "search history": [
+          "Fitness",
+          "Parent-Child Activity",
+          "Stress-relief massage",
+          "Children's entertainment"
+        ]
+      }
+    },
+    "OTA": {
+      "visited scenes": {
+        "Natural landscapes (mountains/lakes/forests)": "35%",
+        "Theme parks": "25%",
+        "Cultural heritage sites": "20%",
+        "Exhibition halls (museums/art galleries)": "15%",
+        "Parks": "5%"
+      },
+      "cost per night on hotel": "500~1000 yuan",
+      "visited hotels": {
+        "Ji Hotel": "30%",
+        "Atour": "25%",
+        "Vienna": "20%",
+        "Home Inn": "15%",
+        "Orange": "10%"
+      },
+      "browsed hotels": {
+        "Four-star hotels": "25%",
+        "Three-star hotels": "30%",
+        "Comfort hotels": "35%",
+        "Budget hotels": "10%"
+      },
+      "historical travel plans": {
+        "Nanchang-Hangzhou": {
+          "Price range": "400-600 yuan",
+          "Transportation method": "High-speed rail/Bullet train"
+        },
+        "Nanchang-Shanghai": {
+          "Price range": "500-700 yuan",
+          "Transportation method": "High-speed rail/Bullet train"
+        },
+        "Nanchang-Beijing": {
+          "Price range": "800-1200 yuan",
+          "Transportation method": "Flight"
+        },
+        "Nanchang-Huangshan": {
+          "Price range": "300-500 yuan",
+          "Transportation method": "High-speed rail/Bullet train"
+        },
+        "Nanchang-Xiamen": {
+          "Price range": "400-600 yuan",
+          "Transportation method": "High-speed rail/Bullet train"
+        },
+        "Nanchang-Jinggangshan": {
+          "Price range": "100-200 yuan",
+          "Transportation method": "Self-driving"
+        }
+      }
+    }
+  },
+  "stores": {
+    "S17550809486731413_I00007": {
+      "store_id": "S17550809486731413_I00007",
+      "name": "LEGO Flagship Store (Honggutan Wanda Plaza Branch)",
+      "score": 4.8,
+      "location": {
+        "address": "LEGO Flagship Store, 3rd Floor, Wanda Plaza, 1088 Fenghuang Middle Avenue, Honggutan District, Nanchang, Jiangxi Province",
+        "longitude": 115.8456,
+        "latitude": 28.6778
+      },
+      "tags": [
+        "Toy",
+        "Building Blocks",
+        "Educational",
+        "LEGO",
+        "Home Delivery"
+      ],
+      "products": [
+        {
+          "product_id": "S17550809486731413_P00036",
+          "name": "LEGO City Off-Road Racing Car 42138",
+          "price": 399,
+          "store_id": "S17550809486731413_I00007",
+          "store_name": "LEGO Flagship Store (Honggutan Wanda Plaza Branch)",
+          "tags": [
+            "Building Blocks",
+            "Toy Car",
+            "Off-Road Vehicle",
+            "Children's Gift",
+            "Home Delivery"
+          ],
+          "product_type": "target",
+          "attributes": []
+        },
+        {
+          "product_id": "S17550809486731413_P00037",
+          "name": "LEGO City Mobile Police Unit 60315",
+          "price": 589,
+          "store_id": "S17550809486731413_I00007",
+          "store_name": "LEGO Flagship Store (Honggutan Wanda Plaza Branch)",
+          "attributes": [],
+          "tags": [
+            "Building Blocks",
+            "Police Car",
+            "City Series",
+            "Children's Gift",
+            "Home Delivery"
+          ]
+        },
+        {
+          "product_id": "S17550809486731413_P00040",
+          "name": "LEGO Disney Frozen Castle 43197",
+          "price": 499,
+          "store_id": "S17550809486731413_I00007",
+          "tags": [
+            "Building Blocks",
+            "Princess Series",
+            "Castle",
+            "Children's Gift",
+            "Home Delivery"
+          ],
+          "store_name": "LEGO Flagship Store (Honggutan Wanda Plaza Branch)",
+          "attributes": []
+        }
+      ]
+    },
+    "S17550809486731413_I00008": {
+      "store_id": "S17550809486731413_I00008",
+      "name": "LEGO Store (T16 Branch)",
+      "score": 4.6,
+      "location": {
+        "address": "LEGO Store, 2nd Floor, T16 Shopping Center, 999 Huizhan Road, Honggutan District, Nanchang, Jiangxi Province",
+        "longitude": 115.8632,
+        "latitude": 28.6865
+      },
+      "tags": [
+        "Toy",
+        "Building Blocks",
+        "Educational",
+        "LEGO",
+        "Home Delivery"
+      ],
+      "products": [
+        {
+          "product_id": "S17550809486731413_P00042",
+          "name": "LEGO City Police Station 60316",
+          "price": 899,
+          "store_id": "S17550809486731413_I00008",
+          "tags": [
+            "Building Blocks",
+            "Scene",
+            "Educational",
+            "Children's Gift"
+          ],
+          "store_name": "LEGO Flagship Store (Honggutan Wanda Plaza Branch)",
+          "attributes": []
+        },
+        {
+          "product_id": "S17550809486731413_P00044",
+          "name": "LEGO Disney Mickey and Minnie's Space Rocket 10774",
+          "price": 179,
+          "store_id": "S17550809486731413_I00008",
+          "tags": [
+            "Building Blocks",
+            "Disney",
+            "Educational",
+            "Children's Gift"
+          ],
+          "store_name": "LEGO Flagship Store (Honggutan Wanda Plaza Branch)",
+          "attributes": []
+        },
+        {
+          "product_id": "S17550809486731413_P00045",
+          "name": "LEGO City Bulldozer 60252",
+          "price": 249,
+          "store_id": "S17550809486731413_I00008",
+          "tags": [
+            "Building Blocks",
+            "Toy Car",
+            "Construction Vehicle",
+            "Educational",
+            "Children's Gift"
+          ],
+          "store_name": "LEGO Flagship Store (Honggutan Wanda Plaza Branch)",
+          "attributes": []
+        }
+      ]
+    }
+  },
+  "orders": {}
+}

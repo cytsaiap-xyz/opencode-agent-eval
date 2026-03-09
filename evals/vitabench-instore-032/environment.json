@@ -1,0 +1,197 @@
+{
+  "task_id": "10826038",
+  "domain": "instore",
+  "time": "2025-08-15 18:45:00",
+  "user_id": "U704408",
+  "weather": [
+    {
+      "city": "Changchun City",
+      "category": "sunny",
+      "datetime": "2025-08-15",
+      "temperature": [
+        22,
+        31
+      ],
+      "humidity": 45
+    },
+    {
+      "city": "Changchun City",
+      "category": "cloudy",
+      "datetime": "2025-08-16",
+      "temperature": [
+        21,
+        29
+      ],
+      "humidity": 55
+    }
+  ],
+  "location": [
+    {
+      "address": "Room 403, Unit 2, Building 12, Zone B, CR Phoenix City, 2699 Qianjin Street, Chaoyang District, Changchun",
+      "longitude": 125.329428,
+      "latitude": 43.862034
+    },
+    {
+      "address": "Changchun No. 2 Experimental Middle School, 5688 Freedom Avenue, Chaoyang District, Changchun",
+      "longitude": 125.324756,
+      "latitude": 43.845792
+    },
+    {
+      "address": "Ouya Mall, 2399 Qianjin Street, Chaoyang District, Changchun",
+      "longitude": 125.325321,
+      "latitude": 43.859637
+    }
+  ],
+  "user_profile": {
+    "user id": "U704408",
+    "occupation": "Teacher",
+    "gender": "female",
+    "age group": "35~40",
+    "residence": "Changchun",
+    "home address": "Room 403, Unit 2, Building 12, Zone B, CR Phoenix City, 2699 Qianjin Street, Chaoyang District, Changchun",
+    "work address": "Changchun No. 2 Experimental Middle School, 5688 Freedom Avenue, Chaoyang District, Changchun",
+    "dietary restrictions": "No caffeine",
+    "family status": "Has children",
+    "personality": "Easily anxious and worried, needs repeated confirmation to feel at ease"
+  },
+  "user_historical_behaviors": {
+    "user id": "U704408",
+    "occupation": "Teacher",
+    "gender": "female",
+    "age group": "35~40",
+    "residence": "Changchun",
+    "home address": "Room 403, Unit 2, Building 12, Zone B, CR Phoenix City, 2699 Qianjin Street, Chaoyang District, Changchun",
+    "work address": "Changchun No. 2 Experimental Middle School, 5688 Freedom Avenue, Chaoyang District, Changchun",
+    "in-store dining": {
+      "fine-dining": {
+        "frequently purchased categories": [
+          "Regional Cuisine/Northeastern Cuisine (Average ¥125)",
+          "Regional Cuisine/Sichuan Cuisine (Average ¥95)",
+          "International Cuisine/Japanese Food (Average ¥150)"
+        ],
+        "preferred average price per person": "¥95~150",
+        "preferred store rating": "4.0~4.8 stars",
+        "typical dining time": "17:30-19:30",
+        "preferred distance": "0~1000m",
+        "recent orders": [
+          {
+            "store": "Lao Jie Fang Northeastern Cuisine",
+            "product": "Sweet and Sour Pork + Chicken with Mushroom Stew + Three Shredded Vegetables"
+          },
+          {
+            "store": "Helu Rotating Sushi",
+            "product": "Salmon Set"
+          },
+          {
+            "store": "Shuxiang Yuan Sichuan Restaurant",
+            "product": "Boiled Fish + Dry-fried String Beans"
+          }
+        ],
+        "search history": [
+          "Homestyle Northeastern cuisine",
+          "Non-spicy Japanese food",
+          "Healthy Sichuan cuisine"
+        ]
+      },
+      "light meal": {
+        "frequently purchased categories": [
+          "Fast Food/Chinese Quick Meal (Average ¥35)",
+          "Fast Food/Western Quick Meal (Average ¥30)",
+          "Regional Cuisine/Jiangsu-Zhejiang Cuisine (Average ¥45)"
+        ],
+        "preferred average price per person": "¥25~45",
+        "preferred store rating": "3.5~4.3 stars",
+        "typical dining time": "11:30-13:00",
+        "preferred distance": "0~800m",
+        "recent orders": [
+          {
+            "store": "Jixiang Wonton",
+            "product": "Pork Wonton + Side Dish"
+          },
+          {
+            "store": "Salad Diary",
+            "product": "Light Salad Set"
+          },
+          {
+            "store": "Yonghe King",
+            "product": "Soy Milk and Fried Dough Sticks Set"
+          }
+        ],
+        "search history": [
+          "Healthy quick meals",
+          "Non-spicy fast food",
+          "Light food near school"
+        ]
+      },
+      "desserts/drinks/snacks": {
+        "frequently purchased categories": [
+          "Bread and Pastries (Average ¥25)",
+          "Beverage Shops (Average ¥18)",
+          "Other Dining/Fresh Fruits (Average ¥15)"
+        ],
+        "preferred average price per person": "¥15~25",
+        "preferred store rating": "3.9~4.5 stars",
+        "typical dining time": "15:00-16:30",
+        "preferred distance": "0~500m",
+        "recent orders": [
+          {
+            "store": "Fruit Colorful",
+            "product": "Fruit Platter"
+          },
+          {
+            "store": "Bread Talk",
+            "product": "Whole Wheat Bread"
+          },
+          {
+            "store": "Yi Dian Dian",
+            "product": "Sugar-free Oolong Tea"
+          }
+        ],
+        "search history": [
+          "Low-sugar drinks",
+          "Healthy desserts",
+          "Fresh fruits"
+        ]
+      }
+    },
+    "other in-store services": {
+      "frequently consumed categories": {
+        "Beauty/Yoga": "30%",
+        "Sports & Fitness/Fitness Centers": "25%",
+        "Leisure & Entertainment/Massage/Foot Therapy": "20%",
+        "Parent-Child/Children's Playground": "25%"
+      },
+      "cost per order by category": {
+        "Beauty/Yoga": "¥80~150",
+        "Sports & Fitness/Fitness Centers": "¥60~120",
+        "Leisure & Entertainment/Massage/Foot Therapy": "¥120~180",
+        "Parent-Child/Children's Playground": "¥100~200"
+      },
+      "preferred store rating": "4.0~4.8 stars",
+      "preferred service time": "18:00-20:00",
+      "preferred distance": "500~5000m",
+      "recent orders": [
+        {
+          "store": "Yueti Yoga Studio",
+          "product": "Single Person Yoga Class"
+        },
+        {
+          "store": "Zhimei Nail and Eyelash Salon",
+          "product": "Single Person Solid Color Manicure"
+        },
+        {
+          "store": "Comfortable Hall Wellness Center",
+          "product": "Neck and Shoulder Relief Massage"
+        }
+      ],
+      "search history": [
+        "Manicure",
+        "Stress-relief yoga",
+        "Neck and shoulder massage",
+        "Children's playground"
+      ]
+    }
+  },
+  "stores": {},
+  "orders": {}
+}

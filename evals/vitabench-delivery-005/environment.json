@@ -1,0 +1,374 @@
+{
+  "task_id": "10721001",
+  "domain": "delivery",
+  "time": "2025-02-14 17:55:12",
+  "user_id": "U000086",
+  "weather": [
+    {
+      "city": "Zhuhai City",
+      "category": "overcast",
+      "datetime": "2025-02-14",
+      "temperature": [
+        11,
+        16
+      ],
+      "humidity": 55
+    }
+  ],
+  "location": [
+    {
+      "address": "Huixin Cultural Office, 1st Floor, Hengqin Innovation Way, No. 111 Tianyu Road, Xiangzhou District, Zhuhai City, Guangdong Province",
+      "longitude": 113.517995,
+      "latitude": 22.122866
+    },
+    {
+      "address": "Huafa Shoufu, South Side of Gang'ao Avenue, Xiangzhou District, Zhuhai City, Guangdong Province",
+      "longitude": 113.528684,
+      "latitude": 22.13711
+    }
+  ],
+  "user_profile": {
+    "user id": "U000086",
+    "occupation": "Algorithm Engineer",
+    "gender": "male",
+    "age group": "25~30",
+    "residence": "Zhuhai",
+    "home address": "Huafa Shoufu, South Side of Gang'ao Avenue, Xiangzhou District, Zhuhai City, Guangdong Province",
+    "work address": "Huixin Cultural Office, 1st Floor, Hengqin Innovation Way, No. 111 Tianyu Road, Xiangzhou District, Zhuhai City, Guangdong Province",
+    "dietary restrictions": "Avoids high sugar, Avoids caffeine",
+    "family status": "In a relationship",
+    "personality": "Overly dependent on others' guidance, lacks personal opinions and decisiveness"
+  },
+  "user_historical_behaviors": {
+    "user id": "U000086",
+    "occupation": "Algorithm Engineer",
+    "gender": "male",
+    "age group": "25~30",
+    "residence": "Zhuhai",
+    "home address": "Huafa Shoufu, South Side of Gang'ao Avenue, Xiangzhou District, Zhuhai City, Guangdong Province",
+    "work address": "Huixin Cultural Office, 1st Floor, Hengqin Innovation Way, No. 111 Tianyu Road, Xiangzhou District, Zhuhai City, Guangdong Province",
+    "breakfast": {
+      "frequently purchased categories": [
+        "Quick Meals/Buns/Pan-fried Buns (Average 15 yuan)",
+        "Quick Meals/Light Food (Average 25 yuan)"
+      ],
+      "cost per order": "15~30 yuan",
+      "preferred store rating": "4.3~4.8 stars",
+      "preferred delivery time": "15~25 minutes",
+      "preferred distance": "0~3500m",
+      "recent orders": [
+        {
+          "store": "Early Taste Pan-fried Buns",
+          "product": "Signature Pan-fried Buns"
+        },
+        {
+          "store": "Jiangnan Porridge Shop",
+          "product": "Soup Dumpling Set"
+        }
+      ],
+      "search history": [
+        "Healthy breakfast",
+        "Pan-fried buns",
+        "Low sugar"
+      ]
+    },
+    "weekday lunch/dinner": {
+      "frequently purchased categories": [
+        "Quick Meals/Healthy Meals (Average 38 yuan)",
+        "Quick Meals/Rice with Toppings (Average 28 yuan)",
+        "Chinese Cuisine/Cantonese Cuisine (Average 45 yuan)"
+      ],
+      "cost per order": "25~50 yuan",
+      "preferred store rating": "4.2~4.7 stars",
+      "preferred delivery time": "20~35 minutes",
+      "preferred distance": "0~2500m",
+      "recent orders": [
+        {
+          "store": "Green Canteen",
+          "product": "Low-fat Chicken Breast Rice"
+        },
+        {
+          "store": "Cantonese Small Kitchen",
+          "product": "Steamed Bass Fish Set"
+        },
+        {
+          "store": "Home-style Restaurant",
+          "product": "Wood Ear Mushroom with Pork Rice Bowl"
+        }
+      ],
+      "search history": [
+        "Healthy meals",
+        "Cantonese cuisine",
+        "Low fat",
+        "Rice bowls",
+        "Home cooking"
+      ]
+    },
+    "weekend lunch/dinner": {
+      "frequently purchased categories": [
+        "Chinese Cuisine/Cantonese Cuisine (Average 85 yuan)",
+        "International Cuisine/Japanese Bento/Sushi (Average 95 yuan)",
+        "Chinese Cuisine/Sichuan Cuisine (Average 80 yuan)"
+      ],
+      "cost per order": "70~120 yuan",
+      "preferred store rating": "4.5~4.9 stars",
+      "preferred delivery time": "25~45 minutes",
+      "preferred distance": "0~3500m",
+      "recent orders": [
+        {
+          "store": "Cantonese Delicacy House",
+          "product": "White Cut Chicken Platter"
+        },
+        {
+          "store": "Japanese Style Cuisine",
+          "product": "Salmon Sushi Set"
+        },
+        {
+          "store": "Sichuan Flavor Pavilion",
+          "product": "Boiled Fish Slices"
+        }
+      ],
+      "search history": [
+        "Cantonese cuisine",
+        "Japanese food",
+        "Sushi",
+        "Sichuan cuisine"
+      ]
+    },
+    "desserts/drinks/snacks": {
+      "frequently purchased categories": [
+        "Drinks & Desserts/Pure Tea (Average 22 yuan)",
+        "Drinks & Desserts/Desserts (Average 48 yuan)",
+        "Drinks & Desserts/Sparkling Water (Average 18 yuan)"
+      ],
+      "cost per order": "15~60 yuan",
+      "preferred store rating": "4.4~4.9 stars",
+      "preferred delivery time": "15~45 minutes",
+      "preferred distance": "0~5000m",
+      "recent orders": [
+        {
+          "store": "S01 American Beverages",
+          "product": "Lime Soda Sparkling Water"
+        },
+        {
+          "store": "Forest Isle Sweet Shop (Desserts·Light Food)",
+          "product": "Tapioca Sweet Soup (Soft and Sweet)"
+        }
+      ],
+      "search history": [
+        "Sugar-free sparkling water",
+        "Low-sugar drinks",
+        "Delicious desserts"
+      ]
+    },
+    "night snack": {
+      "frequently purchased categories": [
+        "Quick Meals/Rice Noodles/Vermicelli (Average 25 yuan)",
+        "Quick Meals/Small Bowls/Small Dishes (Average 30 yuan)",
+        "Snacks & Braised Food/Braised Items (Average 35 yuan)"
+      ],
+      "cost per order": "20~40 yuan",
+      "preferred store rating": "4.1~4.6 stars",
+      "preferred delivery time": "20~35 minutes",
+      "preferred distance": "0~2500m",
+      "recent orders": [
+        {
+          "store": "Yunnan Crossing Bridge Rice Noodles",
+          "product": "Classic Beef Rice Noodles"
+        },
+        {
+          "store": "Braised Food Shop",
+          "product": "Braised Duck Wing Platter"
+        },
+        {
+          "store": "Small Dishes Restaurant",
+          "product": "Dry-fried Green Beans"
+        }
+      ],
+      "search history": [
+        "Rice noodles",
+        "Small dishes",
+        "Braised food",
+        "Non-spicy",
+        "Healthy night snacks"
+      ]
+    }
+  },
+  "stores": {
+    "S25199488126977541_S02748": {
+      "name": "Niu Gun Gun Chaoshan Beef Rice Noodles",
+      "store_id": "S25199488126977541_S02748",
+      "score": 4.9,
+      "location": {
+        "address": "Shop 119, No. 66 Qinlang Road, Xiangzhou District, Zhuhai City, Guangdong Province",
+        "latitude": 22.13881,
+        "longitude": 113.533595
+      },
+      "tags": [
+        "Dine-in Available"
+      ],
+      "products": [
+        {
+          "name": "Hand-pounded Beef Ball Soup (5 pieces) + One Serving of Noodles",
+          "store_id": "S25199488126977541_S02748",
+          "store_name": "Niu Gun Gun Chaoshan Beef Rice Noodles",
+          "price": 30,
+          "tags": [
+            "Large Portion",
+            "Fresh Hand-pounded Beef Balls"
+          ],
+          "product_id": "S28500154039512110_P18362",
+          "attributes": [
+            "Rice Noodles",
+            "Rice Vermicelli",
+            "Noodles"
+          ],
+          "quantity": 9999
+        }
+      ]
+    },
+    "S65127841099095198_S44679": {
+      "name": "Zhao Ji Inheritance Chinese Desserts",
+      "store_id": "S65127841099095198_S44679",
+      "score": 5,
+      "location": {
+        "address": "Zhao Ji Inheritance, No. 77 Baoxing Road, Xiangzhou District, Zhuhai City, Guangdong Province (Hengqin Huanfa Hardware Wholesale Store)",
+        "latitude": 22.113616,
+        "longitude": 113.549866
+      },
+      "tags": [
+        "Chain Store",
+        "Dine-in Available",
+        "Authentic"
+      ],
+      "products": [
+        {
+          "name": "Hand-pounded Taro Paste Mochi",
+          "store_id": "S65127841099095198_S44679",
+          "store_name": "Zhao Ji Inheritance Chinese Desserts (Zhuhai Hengqin Baoxing Road Store)",
+          "price": 24.0,
+          "tags": [],
+          "product_id": "S85468248976555661_P76180",
+          "attributes": [
+            "Hot",
+            "Cold"
+          ],
+          "quantity": 9999
+        },
+        {
+          "name": "Taro Ball Coconut Milk Sago Dessert",
+          "product_id": "S33374408987843453_P12905",
+          "store_id": "S65127841099095198_S44679",
+          "store_name": "Zhao Ji Inheritance Chinese Desserts",
+          "price": 15,
+          "tags": [
+            "Rich Texture",
+            "Not House-made"
+          ],
+          "attributes": [
+            "Cold",
+            "Hot"
+          ],
+          "quantity": 9999
+        }
+      ]
+    },
+    "S29040815436117008_S43225": {
+      "name": "Chaoshan Beef Rice Noodle Soup",
+      "store_id": "S29040815436117008_S43225",
+      "score": 4.8,
+      "location": {
+        "address": "Chaoshan Beef Noodle Soup, Shop 103, No. 4 Shishan Village, Hengqin Town, Xiangzhou District, Zhuhai City, Guangdong Province",
+        "latitude": 22.12345,
+        "longitude": 113.535276
+      },
+      "tags": [],
+      "products": [
+        {
+          "name": "Signature Beef Ball Soup with Rice Noodles (8 pieces) with Fried Egg",
+          "product_id": "S21969963330943882_P42648",
+          "store_id": "S29040815436117008_S43225",
+          "store_name": "Chaoshan Beef Rice Noodle Soup",
+          "price": 29.88,
+          "tags": [],
+          "attributes": [
+            "Rice Noodles",
+            "Rice Vermicelli",
+            "Handmade Noodles",
+            "Guilin Rice Noodles"
+          ],
+          "quantity": 9999
+        },
+        {
+          "name": "Signature Beef Ball Soup with Rice Noodles (8 pieces)",
+          "product_id": "S19546949327523288_P18932",
+          "store_id": "S29040815436117008_S43225",
+          "store_name": "Chaoshan Beef Rice Noodle Soup",
+          "price": 26.88,
+          "tags": [],
+          "attributes": [
+            "Rice Noodles",
+            "Rice Vermicelli",
+            "Handmade Noodles",
+            "Guilin Rice Noodles"
+          ],
+          "quantity": 9999
+        }
+      ]
+    },
+    "S14299980773080206_S59996": {
+      "name": "Li's Chaoshan Beef Noodle Soup King (Chimelong Store)",
+      "store_id": "S14299980773080206_S59996",
+      "score": 5,
+      "location": {
+        "address": "Haihe Street, Xiangzhou District, Zhuhai City, Guangdong Province",
+        "latitude": 22.11191,
+        "longitude": 113.549677
+      },
+      "tags": [],
+      "products": [
+        {
+          "name": "Fresh Beef + Beef Tendon Ball Rice Noodles",
+          "product_id": "S33071046119845185_P54365",
+          "store_id": "S14299980773080206_S59996",
+          "store_name": "Li's Chaoshan Beef Noodle Soup King (Chimelong Store)",
+          "price": 29.8,
+          "tags": [],
+          "attributes": [
+            "Rice Noodles",
+            "Guilin Rice Noodles",
+            "Handmade Noodles"
+          ],
+          "quantity": 9999
+        }
+      ]
+    },
+    "S18822703848928699_S06645": {
+      "name": "Senyu Sweet Shop (Desserts & Light Food)",
+      "store_id": "S18822703848928699_S06645",
+      "score": 4.9,
+      "location": {
+        "address": "Xian Yu Tang, Shop 102, No. 58 Xiacun, Hengqin New Area, Xiangzhou District, Zhuhai City, Guangdong Province",
+        "latitude": 22.139375,
+        "longitude": 113.52625
+      },
+      "tags": [],
+      "products": [
+        {
+          "name": "Taro Ball Taro Paste Pudding",
+          "product_id": "S13163729482613847_P90912",
+          "store_id": "S18822703848928699_S06645",
+          "store_name": "Senyu Sweet Shop (Desserts & Light Food)",
+          "price": 19.9,
+          "tags": [],
+          "attributes": [
+            "Chilled",
+            "Warm"
+          ],
+          "quantity": 9999
+        }
+      ]
+    }
+  },
+  "orders": {}
+}

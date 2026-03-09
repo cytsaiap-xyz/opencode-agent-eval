@@ -1,0 +1,91 @@
+{
+  "required_orders": [
+    {
+      "order_id": "30711003T01",
+      "order_type": "delivery",
+      "user_id": "U000037",
+      "store_id": "S33363530436911954_S11799",
+      "note": "",
+      "location": {
+        "address": "Greentown Haitang Garden, No.1766 Bayi South Street, Wucheng District, Jinhua City, Zhejiang Province",
+        "longitude": 119.655095,
+        "latitude": 29.056885
+      },
+      "dispatch_time": "2025-11-27 18:27:00",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 155.3,
+      "create_time": "2025-11-27 18:12:00",
+      "update_time": "2025-11-27 18:12:00",
+      "status": "in-progress",
+      "products": [
+        {
+          "product_id": "S32177701011838614_P51657",
+          "price": 29.8,
+          "quantity": 1,
+          "attributes": ""
+        },
+        {
+          "product_id": "S70339754454127759_P72096",
+          "price": 13.9,
+          "quantity": 1,
+          "attributes": ""
+        },
+        {
+          "product_id": "S28954244699479487_P40371",
+          "price": 69.9,
+          "quantity": 1,
+          "attributes": ""
+        },
+        {
+          "product_id": "S15417577372637700_P35102",
+          "price": 28.9,
+          "quantity": 1,
+          "attributes": ""
+        },
+        {
+          "product_id": "S65948025828860154_P02991",
+          "price": 12.8,
+          "quantity": 1,
+          "attributes": ""
+        }
+      ]
+    },
+    {
+      "order_id": "30711003T02",
+      "order_type": "delivery",
+      "user_id": "U000037",
+      "store_id": "S19112477721572247_S00931",
+      "note": "",
+      "location": {
+        "address": "Greentown Haitang Garden, No.1766 Bayi South Street, Wucheng District, Jinhua City, Zhejiang Province",
+        "longitude": 119.655095,
+        "latitude": 29.056885
+      },
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 88.0,
+      "create_time": "2025-11-27 18:16:00",
+      "update_time": "2025-11-27 18:16:00",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S25891087943464915_P07860",
+          "price": 88.0,
+          "quantity": 1,
+          "attributes": ""
+        }
+      ]
+    }
+  ],
+  "rubrics": [
+    "The delivery address for Chinese cuisine dishes ordered for mother's birthday dinner should be Greentown Haitang Garden, No.1766 Bayi South Street, Wucheng District, Jinhua City, Zhejiang Province",
+    "The estimated delivery time for the Chinese cuisine order should be before 18:30 on November 28, 2025",
+    "The Chinese cuisine dishes selected for mother's birthday dinner should include both Light-Flavored dishes and authentic spicy Sichuan Cuisine",
+    "The five Chinese cuisine dishes selected for mother's birthday dinner should all be different, not ordering two portions of the same dish",
+    "The delivery address for the birthday cake order should be Greentown Haitang Garden, No.1766 Bayi South Street, Wucheng District, Jinhua City, Zhejiang Province",
+    "The estimated delivery time for the birthday cake order should be before 18:30 on November 28, 2025",
+    "The ordered Dairy Cream birthday cake should be sized for approximately two people, around 4-inch"
+  ]
+}

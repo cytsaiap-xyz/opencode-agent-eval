@@ -1,0 +1,50 @@
+{
+  "task_id": "88",
+  "query": "I'm planning to travel from Ürümqi to Shanghai on November 12, 2025, and return on November 17, 2025. Could you help me plan the entire trip? I’d appreciate your assistance with transportation, accommodation, meals, and sightseeing arrangements.\n\nFor transportation, I'd like to take a direct flight going there—no layovers, since connecting flights are too exhausting and hard to manage time-wise. Could you please find me the cheapest direct flight option? For the return journey, just arrange a suitable flight back from Shanghai to Ürümqi.\n\nRegarding accommodation, I want to stay somewhere comfortable, so please find me the highest-rated hotel in Shanghai—that way I can feel at ease. There are four of us in total, so booking two rooms will be sufficient.\n\nAs for attractions, there are two places I definitely want to visit: 'Liu Haisu Art Museum' and 'West Bund Museum'. I’ve heard both are excellent—please include them in the itinerary.\n\nBy the way, a friend recommended eating around 'Chengyi Square'—they said there are lots of great dining options. We’d like to have one meal there, preferably at a restaurant that supports online queuing or number reservation, so we don’t have to wait around upon arrival.\n\nThat’s pretty much everything—I believe I’ve provided all necessary information. Please go ahead and arrange the plan accordingly. Looking forward to your proposal! November 12, 2025 is Wednesday",
+  "meta_info": {
+    "org": "Urumqi",
+    "dest": [
+      "Shanghai"
+    ],
+    "days": 6,
+    "depart_date": "2025-11-12",
+    "return_date": "2025-11-17",
+    "people_number": 4,
+    "room_number": 2
+  },
+  "hard_constraints": {
+    "flight_cheapest_direct": {
+      "constraint_context": "Prefer to take a flight for the outbound journey, and need to select the cheapest flight among direct flights",
+      "constraint_type": "superlative_cheapest_direct",
+      "outbound_flight_no": "HU4505"
+    },
+    "hotel_highest_rated": {
+      "constraint_context": "For accommodation, please select the highest-rated hotel in this city",
+      "constraint_type": "superlative_highest_rated_hotel",
+      "hotel_name": "Hanting Hotel (Shanghai Zhuanqiao Guanghua Road)",
+      "hotel_price": 339.0,
+      "hotel_score": 4.9
+    },
+    "attraction_must_visit_named": {
+      "constraint_context": "The itinerary must include visits to 'Liu Haisu Art Museum' and 'West Bund Art Museum'.",
+      "constraint_type": "superlative_must_visit_named",
+      "attraction_names": [
+        "Liu Haisu Art Museum",
+        "West Bund Art Museum"
+      ],
+      "attraction_ratings": [
+        4.7,
+        4.8
+      ]
+    },
+    "restaurant_specific_tag_nearby": {
+      "constraint_context": "Arrange a meal at a restaurant near 'Super Brand Mall' during the trip, with online number-taking and queueing service required",
+      "constraint_type": "superlative_specific_tag_nearby",
+      "attraction_name": "Super Brand Mall",
+      "restaurant_name": "Yi Coffee Seafood Buffet Restaurant (Shanghai Pudong Shangri-La)",
+      "required_tag": "Online Queue",
+      "price_per_person": 233.0,
+      "restaurant_rating": 4.6
+    }
+  }
+}

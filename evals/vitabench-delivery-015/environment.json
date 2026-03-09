@@ -1,0 +1,380 @@
+{
+  "task_id": "30711003",
+  "domain": "delivery",
+  "time": "2025-11-27 18:04:41",
+  "user_id": "U000037",
+  "weather": [
+    {
+      "city": "Jinhua City",
+      "category": "sunny",
+      "datetime": "2025-11-27",
+      "temperature": [
+        7,
+        15
+      ],
+      "humidity": 60
+    }
+  ],
+  "location": [
+    {
+      "address": "Greentown Haitang Garden, No.1766 Bayi South Street, Wucheng District, Jinhua City, Zhejiang Province",
+      "longitude": 119.655095,
+      "latitude": 29.056885
+    }
+  ],
+  "user_profile": {
+    "user id": "U000037",
+    "occupation": "Doctor",
+    "gender": "female",
+    "age group": "35~40",
+    "residence": "Jinhua",
+    "home address": "Greentown Haitang Garden, No.1766 Bayi South Street, Wucheng District, Jinhua City, Zhejiang Province",
+    "work address": "Jinhua Central Hospital, No.365 Renmin East Road, Wucheng District, Jinhua City, Zhejiang Province",
+    "dietary restrictions": "No alcohol",
+    "family status": "Living with elderly",
+    "personality": "Overly dependent on others' guidance, lacking independence and decisiveness"
+  },
+  "user_historical_behaviors": {
+    "user id": "U000037",
+    "occupation": "Doctor",
+    "gender": "female",
+    "age group": "35~40",
+    "residence": "Jinhua",
+    "home address": "Greentown Haitang Garden, No.1766 Bayi South Street, Wucheng District, Jinhua City, Zhejiang Province",
+    "work address": "Jinhua Central Hospital, No.365 Renmin East Road, Wucheng District, Jinhua City, Zhejiang Province",
+    "breakfast": {
+      "frequently purchased categories": [
+        "Quick Meals/Steamed Buns/Pan-fried Buns (Average ¥18)",
+        "Quick Meals/Chinese Noodles (Average ¥23)",
+        "Quick Meals/Light Food (Average ¥28)"
+      ],
+      "cost per order": "¥15~35",
+      "preferred store rating": "4.2~4.7 stars",
+      "preferred delivery time": "20~25 minutes",
+      "preferred distance": "0~1500m",
+      "recent orders": [
+        {
+          "store": "Shandong Jianbing Guozi",
+          "product": "Plain Jianbing Guozi + Soy Milk"
+        },
+        {
+          "store": "Breakfast Light Food Selection",
+          "product": "Vegetable and Fruit Salad + Whole Wheat Toast"
+        },
+        {
+          "store": "Old Wang's Steamed Bun Shop",
+          "product": "Pork Buns + Millet Porridge"
+        }
+      ],
+      "search history": [
+        "Healthy breakfast",
+        "Low-fat breakfast",
+        "Soy milk",
+        "Steamed buns",
+        "Porridge"
+      ]
+    },
+    "weekday lunch/dinner": {
+      "frequently purchased categories": [
+        "Quick Meals/Small Dishes/Individual Portions (Average ¥32)",
+        "Quick Meals/Healthy Meals (Average ¥45)",
+        "Chinese Cuisine/Cantonese Cuisine (Average ¥50)"
+      ],
+      "cost per order": "¥20~100",
+      "preferred store rating": "4.2~5.0 stars",
+      "preferred delivery time": "15~50 minutes",
+      "preferred distance": "0~4500m",
+      "recent orders": [
+        {
+          "store": "Wei Shitang · Home-style Cuisine (Jiangnan Dishes)",
+          "product": "Beef Offal Pot + Sour and Spicy Shredded Potatoes + Rice Set"
+        },
+        {
+          "store": "Light Food Selection",
+          "product": "Quinoa Chicken Breast Salad + Freshly Squeezed Juice"
+        },
+        {
+          "store": "Nutritional Work Meals",
+          "product": "Steamed Chicken Breast + Brown Rice + Broccoli"
+        }
+      ],
+      "search history": [
+        "Low oil",
+        "Healthy meals",
+        "Cantonese cuisine",
+        "Light-Flavored diet",
+        "Takeout near hospital"
+      ]
+    },
+    "weekend lunch/dinner": {
+      "frequently purchased categories": [
+        "Chinese Cuisine/Healthy Meals (Average ¥35)",
+        "International Flavors/Japanese Bento/Sushi (Average ¥95)",
+        "International Flavors/Pasta (Average ¥78)"
+      ],
+      "cost per order": "¥30~150",
+      "preferred store rating": "4.2~5.0 stars",
+      "preferred delivery time": "25~55 minutes",
+      "preferred distance": "0~5000m",
+      "recent orders": [
+        {
+          "store": "Stomach-friendly Healthy Living · Fresh Soup and Tender Meat (Shimao Store)",
+          "product": "Fresh Soup | Loofah with Handmade Meatballs Soup with Vegetables + 1 Serving of Main Course"
+        },
+        {
+          "store": "Milan Western Restaurant",
+          "product": "Truffle Mushroom Pasta + Vegetable Salad"
+        },
+        {
+          "store": "Guangzhou Time-honored Brand",
+          "product": "White Cut Chicken + Steamed Fish + Baby Cabbage with Garlic"
+        }
+      ],
+      "search history": [
+        "Japanese cuisine",
+        "Healthy western food",
+        "Non-alcoholic Italian cuisine",
+        "Healthy Cantonese cuisine"
+      ]
+    },
+    "desserts/drinks/snacks": {
+      "frequently purchased categories": [
+        "Drinks and Desserts/Pure Tea/Herbal Tea (Average ¥20)",
+        "Drinks and Desserts/Fruit Salad (Average ¥32)",
+        "Drinks and Desserts/Cold Desserts (Average ¥80)"
+      ],
+      "cost per order": "¥15~100",
+      "preferred store rating": "4.4~5.0 stars",
+      "preferred delivery time": "10~60 minutes",
+      "preferred distance": "0~5000m",
+      "recent orders": [
+        {
+          "store": "MissBlue Birthday Cake (Jinhua Shimao City Plaza Store)",
+          "product": "Sweet Pink Fruit Joy | Dopamine-inducing Fruit Birthday Cake"
+        },
+        {
+          "store": "Tea Language",
+          "product": "Rock Sugar Chrysanthemum Tea"
+        },
+        {
+          "store": "Yogurt",
+          "product": "Low-sugar Yogurt Ice Cream"
+        }
+      ],
+      "search history": [
+        "Low-sugar drinks",
+        "Healthy desserts",
+        "Fresh fruits",
+        "Flower tea"
+      ]
+    },
+    "night snack": {
+      "frequently purchased categories": [
+        "Quick Meals/Clay Pot Dishes (Average ¥40)",
+        "Hot Pots/Clay Pot Porridge (Average ¥35)",
+        "Quick Meals/Rice Noodles (Average ¥28)"
+      ],
+      "cost per order": "¥25~50",
+      "preferred store rating": "4.2~4.7 stars",
+      "preferred delivery time": "20~35 minutes",
+      "preferred distance": "0~2500m",
+      "recent orders": [
+        {
+          "store": "Old Street Clay Pot",
+          "product": "Mushroom Chicken Soup Clay Pot"
+        },
+        {
+          "store": "Zhou Lai Xiang",
+          "product": "Preserved Egg and Lean Meat Porridge + Fried Dough Sticks"
+        },
+        {
+          "store": "Yunnan Crossing Bridge Rice Noodles",
+          "product": "Clear Soup Chicken Rice Noodles"
+        }
+      ],
+      "search history": [
+        "Stomach-friendly night snacks",
+        "Hot soup",
+        "Clay pot porridge",
+        "Light-flavored rice noodles"
+      ]
+    }
+  },
+  "stores": {
+    "S33363530436911954_S11799": {
+      "name": "City Fragrance Local Cuisine Restaurant (Jinhua Store)",
+      "store_id": "S33363530436911954_S11799",
+      "score": 4.5,
+      "location": {
+        "address": "City Fragrance Local Cuisine Restaurant (Jinhua Store), Two and Half Rooms from East to West, 1st Floor, No.45 Dannan Street, Siqianhuang Community, Sanjiang Street, Wucheng District, Jinhua City, Zhejiang Province",
+        "latitude": 29.074801,
+        "longitude": 119.651036
+      },
+      "tags": [],
+      "products": [
+        {
+          "name": "[Special Recommendation] Sichuan-Style Blood Curd Stew",
+          "store_id": "S33363530436911954_S11799",
+          "store_name": "City Fragrance Local Cuisine Restaurant (Jinhua Store)",
+          "price": 29.8,
+          "tags": [
+            "Sichuan Cuisine"
+          ],
+          "product_id": "S32177701011838614_P51657",
+          "attributes": [],
+          "quantity": 9999
+        },
+        {
+          "name": "Sautéed Water Spinach with Minced Garlic",
+          "store_id": "S33363530436911954_S11799",
+          "store_name": "City Fragrance Local Cuisine Restaurant (Jinhua Store)",
+          "price": 13.9,
+          "tags": [
+            "Light-Flavored"
+          ],
+          "product_id": "S70339754454127759_P72096",
+          "attributes": [],
+          "quantity": 9999
+        },
+        {
+          "name": "[Taste of Home] Braised Pork with Dried Vegetables",
+          "store_id": "S33363530436911954_S11799",
+          "store_name": "City Fragrance Local Cuisine Restaurant (Jinhua Store)",
+          "price": 28.9,
+          "tags": [
+            "Zhejiang Cuisine",
+            "Non-Spicy"
+          ],
+          "product_id": "S15417577372637700_P35102",
+          "attributes": [],
+          "quantity": 9999
+        },
+        {
+          "name": "[Five-Star Recommendation] Spicy Numbing Mouth-Watering Chicken",
+          "store_id": "S33363530436911954_S11799",
+          "store_name": "City Fragrance Local Cuisine Restaurant (Jinhua Store)",
+          "price": 12.8,
+          "tags": [
+            "Sichuan Cuisine"
+          ],
+          "product_id": "S65948025828860154_P02991",
+          "attributes": [],
+          "quantity": 9999
+        },
+        {
+          "name": "[Chef's Recommendation] Bullfrog and Chicken Feet Hot Pot",
+          "store_id": "S33363530436911954_S11799",
+          "store_name": "City Fragrance Local Cuisine Restaurant (Jinhua Store)",
+          "price": 69.9,
+          "tags": [
+            "Sichuan Cuisine"
+          ],
+          "product_id": "S28954244699479487_P40371",
+          "attributes": [],
+          "quantity": 9999
+        }
+      ]
+    },
+    "S19112477721572247_S00931": {
+      "name": "Spring Chun Birthday Cake · Dairy Cream · Ice Cream (Wucheng Store)",
+      "store_id": "S19112477721572247_S00931",
+      "score": 4.8,
+      "location": {
+        "address": "No.71 Jinheng Street, Xiguan Street, Wucheng District, Jinhua City, Zhejiang Province",
+        "latitude": 29.086114,
+        "longitude": 119.639759
+      },
+      "tags": [],
+      "products": [
+        {
+          "name": "[4-inch Dairy Cream] Early Summer First Taste of Sweet-Sour Bayberry Birthday Cake",
+          "store_id": "S19112477721572247_S00931",
+          "store_name": "Spring Chun Birthday Cake · Dairy Cream · Ice Cream (Wucheng Store)",
+          "price": 88.0,
+          "tags": [
+            "Dairy Cream"
+          ],
+          "product_id": "S25891087943464915_P07860",
+          "attributes": [],
+          "quantity": 9999
+        },
+        {
+          "name": "[6-inch Plant Cream] Cappuccino Rose Waterfall Birthday Cake",
+          "store_id": "S19112477721572247_S00931",
+          "store_name": "Spring Chun Birthday Cake · Dairy Cream · Ice Cream (Wucheng Store)",
+          "price": 118.0,
+          "tags": [
+            "Cake"
+          ],
+          "product_id": "S27624945682594018_P74696",
+          "attributes": [],
+          "quantity": 9999
+        }
+      ]
+    },
+    "S26980467071858237_S61291": {
+      "name": "Hometown Local Cuisine (Tangxi Local Dishes, Special Sichuan Cuisine)",
+      "store_id": "S26980467071858237_S61291",
+      "score": 4.8,
+      "location": {
+        "address": "No.109, 110, 111, 112, Building 12, Danxi Garden, Danxi Road, Sanjiang Street, Wucheng District, Jinhua City, Zhejiang Province (No.407-413 Lanxi Street)",
+        "latitude": 29.076151,
+        "longitude": 119.651351
+      },
+      "tags": [],
+      "products": [
+        {
+          "name": "Braised Abalone with Bull Penis Flower",
+          "store_id": "S26980467071858237_S61291",
+          "store_name": "Hometown Local Cuisine (Tangxi Local Dishes, Special Sichuan Cuisine)",
+          "price": 108.0,
+          "tags": [],
+          "product_id": "S22596325967221712_P38880",
+          "attributes": [],
+          "quantity": 9999
+        },
+        {
+          "name": "Dry-Pot Cabbage",
+          "store_id": "S26980467071858237_S61291",
+          "store_name": "Hometown Local Cuisine (Tangxi Local Dishes, Special Sichuan Cuisine)",
+          "price": 28.0,
+          "tags": [],
+          "product_id": "S26415624804277909_P35462",
+          "attributes": [],
+          "quantity": 9999
+        },
+        {
+          "name": "Braised Pork Intestines",
+          "store_id": "S26980467071858237_S61291",
+          "store_name": "Hometown Local Cuisine (Tangxi Local Dishes, Special Sichuan Cuisine)",
+          "price": 52.0,
+          "tags": [],
+          "product_id": "S18567338993014210_P09207",
+          "attributes": [],
+          "quantity": 9999
+        },
+        {
+          "name": "Big Plate Chicken",
+          "store_id": "S26980467071858237_S61291",
+          "store_name": "Hometown Local Cuisine (Tangxi Local Dishes, Special Sichuan Cuisine)",
+          "price": 68.0,
+          "tags": [],
+          "product_id": "S61050998172148224_P10091",
+          "attributes": [],
+          "quantity": 9999
+        },
+        {
+          "name": "Tofu with Crab Roe",
+          "store_id": "S26980467071858237_S61291",
+          "store_name": "Hometown Local Cuisine (Tangxi Local Dishes, Special Sichuan Cuisine)",
+          "price": 29.0,
+          "tags": [],
+          "product_id": "S84868533799221561_P66601",
+          "attributes": [],
+          "quantity": 9999
+        }
+      ]
+    }
+  },
+  "orders": {}
+}

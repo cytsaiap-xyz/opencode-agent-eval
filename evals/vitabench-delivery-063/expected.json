@@ -1,0 +1,109 @@
+{
+  "required_orders": [
+    {
+      "order_id": "D0721001T01",
+      "order_type": "delivery",
+      "user_id": "U000064",
+      "store_id": "S19116133029330985_S34157",
+      "note": "",
+      "location": {
+        "address": "Tower A, Huabang World Trade Center, No. 190 Qianshan Road (430m walk from Exit B of Government Affairs Center Metro Station), Shushan District, Hefei City, Anhui Province",
+        "longitude": 117.232705,
+        "latitude": 31.817541
+      },
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 38.49,
+      "create_time": "2024-09-30 17:41:00",
+      "update_time": "2024-09-30 17:43:00",
+      "status": "cancelled",
+      "products": [
+        {
+          "product_id": "S49904307817471643_P71858",
+          "price": 36.99,
+          "quantity": 1,
+          "attributes": ""
+        },
+        {
+          "product_id": "S27988113436607546_P31975",
+          "price": 1.5,
+          "quantity": 1,
+          "attributes": ""
+        }
+      ]
+    },
+    {
+      "order_id": "D0721001T02",
+      "order_type": "delivery",
+      "user_id": "U000064",
+      "store_id": "S24049974549772654_S37431",
+      "note": "",
+      "location": {
+        "address": "Phase One of Keyuan New Village, Wuhu Road Street, Baohe District, Hefei City, Anhui Province",
+        "longitude": 117.272627,
+        "latitude": 31.833208
+      },
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 25.0,
+      "create_time": "2024-09-30 17:52:00",
+      "update_time": "2024-09-30 17:52:00",
+      "status": "processed",
+      "products": [
+        {
+          "product_id": "S87687372548025370_P33636",
+          "price": 25.0,
+          "quantity": 1,
+          "attributes": "No Green Onion"
+        }
+      ]
+    },
+    {
+      "order_id": "D0721001T03",
+      "order_type": "delivery",
+      "user_id": "U000064",
+      "store_id": "S17738634835110948_S93470",
+      "note": "",
+      "location": {
+        "address": "Phase One of Keyuan New Village, Wuhu Road Street, Baohe District, Hefei City, Anhui Province",
+        "longitude": 117.272627,
+        "latitude": 31.833208
+      },
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 61.98,
+      "create_time": "2024-09-30 18:00:00",
+      "update_time": "2024-09-30 18:00:00",
+      "status": "processed",
+      "products": [
+        {
+          "product_id": "S96350112347326954_P11710",
+          "price": 46.98,
+          "quantity": 1,
+          "attributes": "Extra Spicy"
+        },
+        {
+          "product_id": "S29786269691079082_P68270",
+          "price": 15.0,
+          "quantity": 1,
+          "attributes": ""
+        }
+      ]
+    }
+  ],
+  "rubrics": [
+    "Successfully canceled the user's roast duck set meal order from Dalao Roast Duck (Qingyang Road Branch), the order status of order_id D0721001T01 has been updated to cancelled",
+    "The item in the chicken soup rice order for the child should be non-spicy flavor",
+    "The item in the chicken soup rice order for the child should include the option of no green onions",
+    "The chicken soup rice order for the child should be delivered around 19:00 on September 30, 2024",
+    "The delivery address for the chicken soup rice order for the child should be Phase One of Keyuan New Village, Wuhu Road Street, Baohe District, Hefei City, Anhui Province",
+    "The item in the spicy chicken order should be a portion for two people",
+    "The item in the spicy chicken order should select the extra spicy flavor option",
+    "The spicy chicken order should include noodle-type staple food items",
+    "The spicy chicken order should be delivered around 19:00 on September 30, 2024",
+    "The delivery address for the spicy chicken order should be Phase One of Keyuan New Village, Wuhu Road Street, Baohe District, Hefei City, Anhui Province"
+  ]
+}

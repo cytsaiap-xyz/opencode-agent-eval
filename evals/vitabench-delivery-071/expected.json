@@ -1,0 +1,69 @@
+{
+  "required_orders": [
+    {
+      "order_id": "E0717003T01",
+      "order_type": "delivery",
+      "user_id": "U000018",
+      "store_id": "S22380603448156647_S47133",
+      "note": "",
+      "location": {
+        "address": "Zhinong Li, Opposite to the North of Huaxin Garden, Xingfu South Road, Zhifu District, Yantai, Shandong Province",
+        "longitude": 121.366686,
+        "latitude": 37.563124
+      },
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 44.0,
+      "create_time": "2024-09-14 17:08:00",
+      "update_time": "2024-09-14 17:08:00",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S19752548911592184_P21735",
+          "price": 22.0,
+          "quantity": 2,
+          "attribute": "No Ice"
+        }
+      ]
+    },
+    {
+      "order_id": "E0717003T02",
+      "order_type": "delivery",
+      "user_id": "U000018",
+      "store_id": "S19264770908101694_S38950",
+      "note": "",
+      "location": {
+        "address": "Zhinong Li, Opposite to the North of Huaxin Garden, Xingfu South Road, Zhifu District, Yantai, Shandong Province",
+        "longitude": 121.366686,
+        "latitude": 37.563124
+      },
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 268.0,
+      "create_time": "2024-09-14 17:08:00",
+      "update_time": "2024-09-14 17:08:00",
+      "status": "processed",
+      "products": [
+        {
+          "product_id": "S32959546924972330_P56695",
+          "price": 268.0,
+          "quantity": 1,
+          "attribute": "Tomato Hot Pot sgg255-300"
+        }
+      ]
+    }
+  ],
+  "rubrics": [
+    "The delivery address for the fruit tea order should be Zhinong Li, Opposite to the North of Huaxin Garden, Xingfu South Road, Zhifu District, Yantai, Shandong Province",
+    "The estimated delivery time for the fruit tea order should be around 2024-09-14 18:00:00",
+    "The fruit tea order should select Auntie Shanghai Select Tea (Xingfu Middle Road Branch) as the store",
+    "The fruit tea order should select Extra Large Bucket of Fruit Tea as the product",
+    "The temperature attribute for the fruit tea order should be selected as No Ice",
+    "The delivery address for the hot pot order should be Zhinong Li, Opposite to the North of Huaxin Garden, Xingfu South Road, Zhifu District, Yantai, Shandong Province",
+    "The estimated delivery time for the hot pot order should be around 2024-09-14 18:00",
+    "The hot pot order should select a product with tomato flavor to cater to children's preferences",
+    "The hot pot order should select a set meal suitable for 2-3 people"
+  ]
+}

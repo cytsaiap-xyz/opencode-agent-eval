@@ -1,0 +1,356 @@
+{
+  "task_id": "D0717004",
+  "domain": "delivery",
+  "time": "2025-05-20 10:40:13",
+  "user_id": "U000030",
+  "weather": [
+    {
+      "city": "Nanning City",
+      "category": "rainy",
+      "datetime": "2025-05-20",
+      "temperature": [
+        26,
+        32
+      ],
+      "humidity": 82
+    }
+  ],
+  "location": [
+    {
+      "address": "Mingmen Tianjing, No. 157 Minzu Avenue, Qingxiu District, Nanning, Guangxi Zhuang Autonomous Region",
+      "longitude": 108.404406,
+      "latitude": 22.81481
+    },
+    {
+      "address": "Oasis Garden, No. 133 Minzu Avenue, Qingxiu District, Nanning, Guangxi Zhuang Autonomous Region",
+      "longitude": 108.387182,
+      "latitude": 22.814447
+    }
+  ],
+  "user_profile": {
+    "user id": "U000030",
+    "occupation": "Cashier",
+    "gender": "female",
+    "age group": "25~30",
+    "residence": "Nanning",
+    "home address": "Oasis Garden, No. 133 Minzu Avenue, Qingxiu District, Nanning, Guangxi Zhuang Autonomous Region",
+    "work address": "Mingmen Tianjing, No. 157 Minzu Avenue, Qingxiu District, Nanning, Guangxi Zhuang Autonomous Region",
+    "dietary restrictions": "Avoids raw and cold food, low sugar diet",
+    "family status": "In a relationship",
+    "personality": "Prone to anxiety and worry, needs repeated confirmation to feel at ease"
+  },
+  "user_historical_behaviors": {
+    "user id": "U000030",
+    "occupation": "Cashier",
+    "gender": "female",
+    "age group": "25~30",
+    "residence": "Nanning",
+    "home address": "Oasis Garden, No. 133 Minzu Avenue, Qingxiu District, Nanning, Guangxi Zhuang Autonomous Region",
+    "work address": "Mingmen Tianjing, No. 157 Minzu Avenue, Qingxiu District, Nanning, Guangxi Zhuang Autonomous Region",
+    "breakfast": {
+      "frequently purchased categories": [
+        "Quick meals/Steamed buns (average ¥12)",
+        "Quick meals/Rice noodle rolls (average ¥18)"
+      ],
+      "cost per order": "¥12~20",
+      "preferred store rating": "4.3~4.8 stars",
+      "preferred delivery time": "15~35 minutes",
+      "preferred distance": "0~1500m",
+      "recent orders": [
+        {
+          "store": "Aming Rice Noodle Roll (Chaoshan Rice Noodle Roll · Porridge)",
+          "product": "Beef and Egg Rice Noodle Roll"
+        },
+        {
+          "store": "Old South City Soy Milk",
+          "product": "Black rice porridge + Vegetable bun"
+        }
+      ],
+      "search history": [
+        "Low-sugar breakfast",
+        "Rice noodle roll",
+        "Oatmeal",
+        "Sugar-free soy milk"
+      ]
+    },
+    "weekday lunch/dinner": {
+      "frequently purchased categories": [
+        "Quick meals/Healthy meals (average ¥25)",
+        "Chinese cuisine/Cantonese food (average ¥30)",
+        "International cuisine/Japanese bento/Sushi (average ¥50)"
+      ],
+      "cost per order": "¥20~50",
+      "preferred store rating": "4.5~4.9 stars",
+      "preferred delivery time": "20~35 minutes",
+      "preferred distance": "0~2500m",
+      "recent orders": [
+        {
+          "store": "Vegetable Nutritional Work Meal",
+          "product": "Quinoa chicken breast rice + Seasonal vegetables"
+        },
+        {
+          "store": "Cantonese Stir-fry",
+          "product": "Stir-fried seasonal vegetables + Poached shrimp + Rice"
+        },
+        {
+          "store": "Kichi Japanese Food",
+          "product": "Eel bento"
+        }
+      ],
+      "search history": [
+        "Low-calorie lunch",
+        "Healthy work meal",
+        "Cantonese steamed dishes",
+        "Sugar-free meal"
+      ]
+    },
+    "weekend lunch/dinner": {
+      "frequently purchased categories": [
+        "Chinese cuisine/Cantonese food (average ¥20)",
+        "International cuisine/Guangxi cuisine (average ¥80)",
+        "Chinese cuisine/Grilled fish (average ¥110)"
+      ],
+      "cost per order": "¥20~150",
+      "preferred store rating": "4.6~5.0 stars",
+      "preferred delivery time": "20~45 minutes",
+      "preferred distance": "0~4000m",
+      "recent orders": [
+        {
+          "store": "Cantonese Flavor Pavilion",
+          "product": "White-cut chicken + Steamed sea bass + Vegetable combination"
+        },
+        {
+          "store": "Gui Xiao Chu Guangxi Cuisine (Hangyang Branch)",
+          "product": "Side Dish Set for Two (Small Portions)"
+        },
+        {
+          "store": "Riverside Grilled Fish",
+          "product": "Pickled vegetable grilled fish + Side dish combination (medium size)"
+        }
+      ],
+      "search history": [
+        "Health-preserving Cantonese cuisine",
+        "Couple's set meal",
+        "Non-spicy grilled fish",
+        "Low-sugar dishes"
+      ]
+    },
+    "desserts/drinks/snacks": {
+      "frequently purchased categories": [
+        "Drinks/desserts/Juice (average ¥20)",
+        "Drinks/desserts/Pure tea/Herbal tea (average ¥15)",
+        "Drinks/desserts/Cake (average ¥100)"
+      ],
+      "cost per order": "¥15~40",
+      "preferred store rating": "4.4~5.0 stars",
+      "preferred delivery time": "15~35 minutes",
+      "preferred distance": "0~2000m",
+      "recent orders": [
+        {
+          "store": "Fresh Juice Bar",
+          "product": "Fresh grapefruit juice (sugar-free)"
+        },
+        {
+          "store": "Tea Time",
+          "product": "Oolong tea (no ice, sugar-free)"
+        },
+        {
+          "store": "MOCKSUN Birthday Cake · Dairy Cream · Ice Cream (Qingxiu Branch)",
+          "product": "[We Are a Couple] Every Year Every Moment · Couple's Birthday Cake"
+        }
+      ],
+      "search history": [
+        "Sugar-free drinks",
+        "Pure fruit juice",
+        "Low-sugar desserts",
+        "Fruits"
+      ]
+    },
+    "night snack": {
+      "frequently purchased categories": [
+        "Quick meals/Clay pot dishes (average ¥45)",
+        "Snacks/Braised dishes (average ¥38)"
+      ],
+      "cost per order": "¥35~60",
+      "preferred store rating": "4.2~4.8 stars",
+      "preferred delivery time": "20~35 minutes",
+      "preferred distance": "0~2500m",
+      "recent orders": [
+        {
+          "store": "Cozy Clay Pot",
+          "product": "Health-preserving mushroom clay pot"
+        },
+        {
+          "store": "Mom's Braised Flavors",
+          "product": "Braised chicken feet + Braised tofu"
+        },
+        {
+          "store": "Small Wonton Shop",
+          "product": "Shrimp wonton (mildly spicy)"
+        }
+      ],
+      "search history": [
+        "Health-preserving clay pot",
+        "Low-fat night snack",
+        "Non-spicy braised dishes",
+        "Light night food"
+      ]
+    }
+  },
+  "stores": {
+    "S14869188927748166_S56333": {
+      "name": "MOCKSUN Birthday Cake · Dairy Cream · Ice Cream (Qingxiu Branch)",
+      "store_id": "S14869188927748166_S56333",
+      "score": 4.9,
+      "location": {
+        "address": "Shop 10-11, Building 10, Vienna Forest Residential Area, No. 69 Changhu Road, Qingxiu District, Nanning, Guangxi Zhuang Autonomous Region, MOCKSUN Birthday Cake · Dairy Cream · Ice Cream (Qingxiu Branch)",
+        "latitude": 22.821418,
+        "longitude": 108.393347
+      },
+      "tags": [
+        "Cost-effectiveness"
+      ],
+      "products": [
+        {
+          "name": "[We Are a Couple] Every Year Every Moment · Couple's Birthday Cake",
+          "product_id": "S11290194455544313_P61785",
+          "store_id": "S14869188927748166_S56333",
+          "store_name": "MOCKSUN Birthday Cake · Dairy Cream · Ice Cream (Qingxiu Branch)",
+          "price": 88,
+          "tags": [
+            "Anniversary"
+          ],
+          "attributes": [],
+          "quantity": 9999
+        },
+        {
+          "name": "[Engagement Cake] Creative Piping Hand-painted Happy Union Engagement Cake",
+          "product_id": "S95649126816613837_P80640",
+          "store_id": "S14869188927748166_S56333",
+          "store_name": "MOCKSUN Birthday Cake · Dairy Cream · Ice Cream (Qingxiu Branch)",
+          "price": 99,
+          "tags": [],
+          "attributes": [],
+          "quantity": 9999
+        }
+      ]
+    },
+    "S14913462339481426_S95816": {
+      "name": "Gui Xiao Chu Guangxi Cuisine (Hangyang Branch)",
+      "store_id": "S14913462339481426_S95816",
+      "score": 4.8,
+      "location": {
+        "address": "Shop L4-014, 4th Floor, Nanning Exhibition Center, Hangyang City Shopping Mall, No. 131 Minzu Avenue, Qingxiu District, Nanning, Guangxi Zhuang Autonomous Region, Gui Xiao Chu Guangxi Cuisine (Hangyang Branch)",
+        "latitude": 22.814119,
+        "longitude": 108.385612
+      },
+      "tags": [],
+      "products": [
+        {
+          "name": "Side Dish Set for Two (Small Portions)",
+          "product_id": "S82609394899889132_P42592",
+          "store_id": "S14913462339481426_S95816",
+          "store_name": "Gui Xiao Chu Guangxi Cuisine (Hangyang Branch)",
+          "price": 88,
+          "tags": [
+            "Appetizing",
+            "Cost-effectiveness"
+          ],
+          "attributes": [],
+          "quantity": 9999
+        },
+        {
+          "name": "Small Gathering Set for Two (Large Portions)",
+          "product_id": "S16159787844087313_P09102",
+          "store_id": "S14913462339481426_S95816",
+          "store_name": "Gui Xiao Chu Guangxi Cuisine (Hangyang Branch)",
+          "price": 138,
+          "tags": [
+            "Non-spicy"
+          ],
+          "attributes": [],
+          "quantity": 9999
+        },
+        {
+          "name": "Guilin · Sour Bamboo Shoots and Perilla Fried Beef (Small Portion) Single Set Meal",
+          "product_id": "S12498510180981414_P05948",
+          "store_id": "S14913462339481426_S95816",
+          "store_name": "Gui Xiao Chu Guangxi Cuisine (Hangyang Branch)",
+          "price": 35.9,
+          "tags": [
+            "Appetizing"
+          ],
+          "attributes": [],
+          "quantity": 9999
+        }
+      ]
+    },
+    "S31962114888131936_S05343": {
+      "name": "Aming Rice Noodle Roll (Chaoshan Rice Noodle Roll · Porridge)",
+      "store_id": "S31962114888131936_S05343",
+      "score": 4.8,
+      "location": {
+        "address": "No. 122, Saigon New Street, Vietnam Garden, No. 6 Zhujin Road, Qingxiu District, Nanning, Guangxi Zhuang Autonomous Region",
+        "latitude": 22.809903,
+        "longitude": 108.402178
+      },
+      "tags": [],
+      "products": [
+        {
+          "name": "Beef and Egg Rice Noodle Roll",
+          "product_id": "S52821417266607384_P33294",
+          "store_id": "S31962114888131936_S05343",
+          "store_name": "Aming Rice Noodle Roll (Chaoshan Rice Noodle Roll · Porridge)",
+          "price": 17.88,
+          "tags": [],
+          "attributes": [],
+          "quantity": 9999
+        },
+        {
+          "name": "Egg Rice Noodle Roll",
+          "product_id": "S14649615115671125_P87506",
+          "store_id": "S31962114888131936_S05343",
+          "store_name": "Aming Rice Noodle Roll (Chaoshan Rice Noodle Roll · Porridge)",
+          "price": 11,
+          "tags": [],
+          "attributes": [],
+          "quantity": 9999
+        },
+        {
+          "name": "[Delicious] Egg and Lean Pork Rice Noodle Roll",
+          "product_id": "S32177412206204232_P90551",
+          "store_id": "S31962114888131936_S05343",
+          "store_name": "Aming Rice Noodle Roll (Chaoshan Rice Noodle Roll · Porridge)",
+          "price": 13.88,
+          "tags": [],
+          "attributes": [],
+          "quantity": 9999
+        }
+      ]
+    },
+    "S11097145724465408_S92218": {
+      "name": "Baxi Ice Cream Cake (Qingxiu Branch)",
+      "store_id": "S11097145724465408_S92218",
+      "score": 5,
+      "location": {
+        "address": "Shop No. 21, Derui Garden, No. 143 Minzu Avenue, Qingxiu District, Nanning, Guangxi Zhuang Autonomous Region, Baxi Ice Cream Cake (Qingxiu Branch)",
+        "latitude": 22.813482,
+        "longitude": 108.394774
+      },
+      "tags": [],
+      "products": [
+        {
+          "name": "[Baxi Forever] Anniversary Ice Cream/Fruit Birthday Cake",
+          "product_id": "S52869554421648862_P36899",
+          "store_id": "S11097145724465408_S92218",
+          "store_name": "Baxi Ice Cream Cake (Qingxiu Branch)",
+          "price": 158,
+          "tags": [],
+          "attributes": [],
+          "quantity": 9999
+        }
+      ]
+    }
+  },
+  "orders": {}
+}

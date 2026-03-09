@@ -1,0 +1,115 @@
+{
+  "task_id": "D0811004",
+  "domain": "ota",
+  "time": "2024-05-23 14:17:30",
+  "user_id": "U010078",
+  "weather": [
+    {
+      "city": "Harbin",
+      "category": "cloudy",
+      "datetime": "2024-05-23",
+      "temperature": [
+        12,
+        22
+      ],
+      "humidity": 65
+    },
+    {
+      "city": "Beijing",
+      "category": "sunny",
+      "datetime": "2024-05-23",
+      "temperature": [
+        18,
+        28
+      ],
+      "humidity": 45
+    },
+    {
+      "city": "Urumqi",
+      "category": "showers",
+      "datetime": "2024-05-23",
+      "temperature": [
+        15,
+        25
+      ],
+      "humidity": 55
+    }
+  ],
+  "location": [
+    {
+      "address": "Room 502, Unit 3, Building 12, CR Central Park, 160 Haxi Street, Nangang District, Harbin, Heilongjiang Province",
+      "longitude": 126.534967,
+      "latitude": 45.756967
+    },
+    {
+      "address": "Harbin Institute of Technology, 92 Xi Da Zhi Street, Nangang District, Harbin, Heilongjiang Province (230 meters walk from Exit 2 of HIT Metro Station)",
+      "longitude": 126.622568,
+      "latitude": 45.741586
+    }
+  ],
+  "user_profile": {
+    "user id": "U010078",
+    "occupation": "University Professor",
+    "gender": "male",
+    "age group": "45~50",
+    "residence": "Harbin",
+    "home address": "Room 502, Unit 3, Building 12, CR Central Park, 160 Haxi Street, Nangang District, Harbin, Heilongjiang Province",
+    "work address": "Harbin Institute of Technology, 92 Xi Da Zhi Street, Nangang District, Harbin, Heilongjiang Province (230 meters walk from Exit 2 of HIT Metro Station)",
+    "dietary restrictions": "No sugar, no alcohol",
+    "family status": "Has pets",
+    "personality": "Overly dependent on others' guidance, lacks self-determination and decisiveness"
+  },
+  "user_historical_behaviors": {
+    "user id": "U010078",
+    "occupation": "University professor",
+    "gender": "male",
+    "age group": "45~50",
+    "residence": "Harbin",
+    "home address": "Room 502, Unit 3, Building 12, CR Central Park, 160 Haxi Street, Nangang District, Harbin, Heilongjiang Province",
+    "work address": "Harbin Institute of Technology, 92 Xi Da Zhi Street, Nangang District, Harbin, Heilongjiang Province (230 meters walk from Exit 2 of HIT Metro Station)",
+    "visited scenes": {
+      "Ski resorts": "35%",
+      "Natural landscapes (mountains/lakes/forests)": "30%",
+      "Parks": "20%",
+      "Theme parks": "10%",
+      "Exhibition venues (museums/art galleries)": "5%"
+    },
+    "cost per night on hotel": "500~1000 yuan",
+    "visited hotels": {
+      "Atour": "40%",
+      "Ji Hotel": "25%",
+      "Vienna": "20%",
+      "Home Inn": "15%"
+    },
+    "browsed hotels": {
+      "Comfort hotels": "55%",
+      "Four-star hotels": "25%",
+      "Budget hotels": "15%",
+      "Three-star hotels": "5%"
+    },
+    "historical travel plans": {
+      "Harbin-Beijing": {
+        "Price range": "800-1200 yuan",
+        "Transportation": "High-speed train"
+      },
+      "Harbin-Changchun": {
+        "Price range": "150-300 yuan",
+        "Transportation": "High-speed train"
+      },
+      "Harbin-Zhangjiakou": {
+        "Price range": "1200-1800 yuan",
+        "Transportation": "High-speed train"
+      },
+      "Harbin-Jilin": {
+        "Price range": "150-300 yuan",
+        "Transportation": "Long-distance bus"
+      },
+      "Harbin-Yabuli": {
+        "Price range": "100-200 yuan",
+        "Transportation": "Long-distance bus"
+      }
+    }
+  },
+  "stores": {},
+  "orders": {}
+}

@@ -1,0 +1,46 @@
+{
+  "task_id": "119",
+  "query": "I'm planning a trip from Zhuhai to Chengdu on November 12, 2025, staying until November 18, 2025, with the return journey also flying back from Chengdu. I'd like to ask you to help me plan the itinerary, including transportation, accommodation, meals, and sightseeing arrangements.\n\nRegarding transportation, for the outbound trip I'd prefer to take a flight, ideally the earliest direct departure available, so that I can have more time to explore upon arrival in Chengdu. For the return trip, please help me find a suitable flight option as well.\n\nFor accommodation, I’d like to book a three-star hotel—something that meets basic needs is fine. However, there’s one small requirement: the hotel must offer free parking service, as I may rent a car during the trip, and having on-site parking would be more convenient.\n\nFor dining, I have two specific requests. First, when visiting the 'Dujiangyan Scenic Area', could you recommend a restaurant with outdoor seating? I think it would be lovely to enjoy a meal there while taking in the scenery. Second, for a meal near the 'Chengdu Wuhou Shrine Museum', please suggest a restaurant that's as close as possible, ideally within walking distance, so I can go straight there after sightseeing without needing to travel far.\n\nThat's about it! Thank you for helping me organize everything—I've included all the necessary information, so please go ahead and prepare the full itinerary for me. November 12, 2025 is Wednesday",
+  "meta_info": {
+    "org": "Zhuhai",
+    "dest": [
+      "Chengdu"
+    ],
+    "days": 7,
+    "depart_date": "2025-11-12",
+    "return_date": "2025-11-18",
+    "people_number": 1,
+    "room_number": 1
+  },
+  "hard_constraints": {
+    "flight_earliest_departure_direct": {
+      "constraint_context": "Prefer to take a flight for the outbound journey, and need to select the earliest departing direct flight",
+      "constraint_type": "superlative_earliest_departure",
+      "outbound_flight_no": "SC7949"
+    },
+    "hotel_star_service_required": {
+      "constraint_context": "Please select a 3-star hotel that offers free parking.",
+      "constraint_type": "superlative_star_service_required",
+      "hotel_name": "Chengdu LOUIS Hotel",
+      "required_service": "Free Parking",
+      "hotel_star": 3,
+      "hotel_price": 262.0
+    },
+    "restaurant_specific_tag_nearby": {
+      "constraint_context": "Arrange a meal at a restaurant near the 'Dujiangyan Scenic Area' during the trip, with outdoor seating service required",
+      "constraint_type": "superlative_specific_tag_nearby",
+      "attraction_name": "Dujiangyan Scenic Area",
+      "restaurant_name": "Dujiangyan Junshoufu Restaurant",
+      "required_tag": "Outdoor Seating",
+      "price_per_person": 102.0,
+      "restaurant_rating": 4.4
+    },
+    "restaurant_closest_to_attraction": {
+      "constraint_context": "During the trip, please arrange a meal at the restaurant closest to 'Chengdu Wuhou Shrine Museum'.",
+      "constraint_type": "superlative_closest_to_attraction",
+      "attraction_name": "Chengdu Wuhou Shrine Museum",
+      "restaurant_name": "Vegetarian Impression Buffet Restaurant (Shuhan Street Community Branch)",
+      "price_per_person": 28.0
+    }
+  }
+}

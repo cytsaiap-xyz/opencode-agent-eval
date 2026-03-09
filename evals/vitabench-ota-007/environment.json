@@ -1,0 +1,258 @@
+{
+  "task_id": "D0812008",
+  "domain": "ota",
+  "time": "2025-02-06 00:56:41",
+  "user_id": "U650671",
+  "weather": [
+    {
+      "city": "Putian",
+      "category": "sunny",
+      "datetime": "2025-02-12",
+      "temperature": [
+        8,
+        16
+      ],
+      "humidity": 65
+    },
+    {
+      "city": "Putian",
+      "category": "cloudy",
+      "datetime": "2025-02-13",
+      "temperature": [
+        10,
+        18
+      ],
+      "humidity": 70
+    }
+  ],
+  "location": [
+    {
+      "address": "Room 502, Building 3, Huada Garden, No. 258 Wenling Road, Donghai Street, Fengze District, Quanzhou City, Fujian Province",
+      "longitude": 118.6754,
+      "latitude": 24.9139
+    },
+    {
+      "address": "ZTO Express Quanzhou Sorting Center, Quanxiu Road, Donghai Street, Fengze District, Quanzhou City, Fujian Province",
+      "longitude": 118.6892,
+      "latitude": 24.9056
+    }
+  ],
+  "user_profile": {
+    "user id": "U650671",
+    "occupation": "Courier",
+    "gender": "female",
+    "age group": "35~40",
+    "residence": "Quanzhou",
+    "home address": "Room 502, Building 3, Huada Garden, No. 258 Wenling Road, Donghai Street, Fengze District, Quanzhou City, Fujian Province",
+    "work address": "ZTO Express Quanzhou Sorting Center, Quanxiu Road, Donghai Street, Fengze District, Quanzhou City, Fujian Province",
+    "dietary restrictions": "Avoid greasy and spicy food, low salt diet",
+    "family status": "Has children",
+    "personality": "Scattered and jumpy thinking, easily distracted and changes mind frequently"
+  },
+  "user_historical_behaviors": {
+    "user id": "U650671",
+    "occupation": "Courier",
+    "gender": "female",
+    "age group": "35~40",
+    "residence": "Quanzhou",
+    "home address": "Room 502, Building 3, Huada Garden, No. 258 Wenling Road, Donghai Street, Fengze District, Quanzhou City, Fujian Province",
+    "work address": "ZTO Express Quanzhou Sorting Center, Quanxiu Road, Donghai Street, Fengze District, Quanzhou City, Fujian Province",
+    "visited scenes": {
+      "Natural Landscapes (Mountains/Lakes/Forests)": "35%",
+      "Theme Parks": "25%",
+      "Characteristic Villages/Industrial Tourism/Uncategorized Projects": "15%",
+      "Parks": "15%",
+      "Cultural Relics": "10%"
+    },
+    "cost per night on hotel": "300~500 yuan",
+    "visited hotels": {
+      "Home Inn": "35%",
+      "Hanting Hotel": "25%",
+      "7 Days Inn": "20%",
+      "GreenTree Inn": "10%",
+      "Ji Hotel": "10%"
+    },
+    "browsed hotels": {
+      "Three-star Hotels": "45%",
+      "Budget Hotels": "35%",
+      "Comfort Hotels": "20%"
+    },
+    "historical travel plans": {
+      "Quanzhou-Xiamen": {
+        "Price Range": "50-100 yuan",
+        "Transportation Method": "Long-distance Bus"
+      },
+      "Quanzhou-Fuzhou": {
+        "Price Range": "100-150 yuan",
+        "Transportation Method": "High-speed rail/EMU (Electric Multiple Unit) train"
+      },
+      "Quanzhou-Shanghai": {
+        "Price Range": "600-900 yuan",
+        "Transportation Method": "Airplane"
+      },
+      "Quanzhou-Wuyishan": {
+        "Price Range": "200-300 yuan",
+        "Transportation Method": "High-speed rail/EMU (Electric Multiple Unit) train"
+      },
+      "Quanzhou-Guangzhou": {
+        "Price Range": "300-400 yuan",
+        "Transportation Method": "High-speed rail/EMU (Electric Multiple Unit) train"
+      },
+      "Xiamen-Quanzhou": {
+        "Price Range": "50-100 yuan",
+        "Transportation Method": "Long-distance Bus"
+      },
+      "Fuzhou-Quanzhou": {
+        "Price Range": "100-150 yuan",
+        "Transportation Method": "High-speed rail/EMU (Electric Multiple Unit) train"
+      }
+    }
+  },
+  "stores": {},
+  "orders": {
+    "S17557505501187701_O00001": {
+      "order_id": "S17557505501187701_O00001",
+      "order_type": "hotel",
+      "user_id": "U650671",
+      "store_id": "S17557505501187701_H00001",
+      "note": "Staying with two children, extra bed service needed",
+      "location": {
+        "address": "Meizhou Island Sea View Resort Hotel, Xiuyu District, Putian City, Fujian Province",
+        "longitude": 119.1234,
+        "latitude": 25.0678
+      },
+      "dispatch_time": "",
+      "shipping_time": 0.0,
+      "delivery_time": "",
+      "total_price": 468.0,
+      "create_time": "2025-02-05 14:30:00",
+      "update_time": "2025-02-05 14:30:00",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17557505501187701_P00003",
+          "price": 468.0,
+          "quantity": 1,
+          "date": "2025-02-12",
+          "room_type": "Family-themed room"
+        }
+      ]
+    },
+    "S17557505501187701_O00002": {
+      "order_id": "S17557505501187701_O00002",
+      "order_type": "attraction",
+      "user_id": "U650671",
+      "store_id": "S17557505501187701_A00005",
+      "note": "Weather forecast shows sunny days during the Lantern Festival, purchasing two-day performance tickets",
+      "location": {
+        "address": "Meizhou Island Mazu Film and Television City, Xiuyu District, Putian City, Fujian Province",
+        "longitude": 119.1456,
+        "latitude": 25.0789
+      },
+      "dispatch_time": "",
+      "shipping_time": 0.0,
+      "delivery_time": "",
+      "total_price": 420.0,
+      "create_time": "2025-02-05 16:45:00",
+      "update_time": "2025-02-05 16:45:00",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17557505501187701_P00025",
+          "price": 180.0,
+          "quantity": 2,
+          "ticket_type": "Adult ticket (unlimited entry for two-day performances)"
+        },
+        {
+          "product_id": "S17557505501187701_P00026",
+          "price": 120.0,
+          "quantity": 1,
+          "ticket_type": "Child ticket (ages 6-12, unlimited entry for two-day performances)"
+        }
+      ]
+    },
+    "S17557505501187701_O00003": {
+      "order_id": "S17557505501187701_O00003",
+      "order_type": "attraction",
+      "user_id": "U650671",
+      "store_id": "S17557505501187701_A00007",
+      "note": "Took the kids to the Ocean World last time, they really enjoyed it",
+      "location": {
+        "address": "Ocean World, Siming District, Xiamen City, Fujian Province",
+        "longitude": 118.0934,
+        "latitude": 24.4798
+      },
+      "dispatch_time": "",
+      "shipping_time": 0.0,
+      "delivery_time": "",
+      "total_price": 260.0,
+      "create_time": "2025-01-28 09:20:00",
+      "update_time": "2025-01-28 09:20:00",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17557505501187701_P00058",
+          "price": 260.0,
+          "quantity": 1,
+          "ticket_type": "Family package (2 adults and 2 children)"
+        }
+      ]
+    },
+    "S17557505501187701_O00004": {
+      "order_id": "S17557505501187701_O00004",
+      "order_type": "hotel",
+      "user_id": "U650671",
+      "store_id": "S17557505501187701_H00002",
+      "note": "Family trip during Spring Festival",
+      "location": {
+        "address": "Home Inn, Siming District, Xiamen City, Fujian Province",
+        "longitude": 118.0823,
+        "latitude": 24.4456
+      },
+      "dispatch_time": "",
+      "shipping_time": 0.0,
+      "delivery_time": "",
+      "total_price": 420.0,
+      "create_time": "2025-01-12 20:15:00",
+      "update_time": "2025-01-12 20:15:00",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17557505501187701_P00012",
+          "price": 420.0,
+          "quantity": 1,
+          "date": "2025-01-20",
+          "room_type": "Business king room"
+        }
+      ]
+    },
+    "S17557505501187701_O00005": {
+      "order_id": "S17557505501187701_O00005",
+      "order_type": "hotel",
+      "user_id": "U650671",
+      "store_id": "S17557505501187701_H00004",
+      "note": "Traveling with children at year-end, choosing Hanting chain hotel",
+      "location": {
+        "address": "Hanting Hotel, Gulou District, Fuzhou City, Fujian Province",
+        "longitude": 119.2965,
+        "latitude": 26.0745
+      },
+      "dispatch_time": "",
+      "shipping_time": 0.0,
+      "delivery_time": "",
+      "total_price": 380.0,
+      "create_time": "2024-12-18 11:30:00",
+      "update_time": "2024-12-18 11:30:00",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17557505501187701_P00021",
+          "price": 380.0,
+          "quantity": 1,
+          "date": "2024-12-25",
+          "room_type": "Standard twin room"
+        }
+      ]
+    }
+  }
+}

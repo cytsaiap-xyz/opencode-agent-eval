@@ -1,0 +1,838 @@
+{
+  "task_id": "A0811001",
+  "domain": "cross_domain",
+  "time": "2025-04-15 22:10:07",
+  "user_id": "U081742",
+  "weather": [
+    {
+      "city": "Xuzhou",
+      "category": "cloudy",
+      "datetime": "2025-04-21",
+      "temperature": [
+        18,
+        27
+      ],
+      "humidity": 65
+    },
+    {
+      "city": "Zaozhuang",
+      "category": "sunny",
+      "datetime": "2025-04-23",
+      "temperature": [
+        19,
+        28
+      ],
+      "humidity": 60
+    }
+  ],
+  "location": [],
+  "user_profile": {
+    "user id": "U081742",
+    "occupation": "lawyer",
+    "gender": "female",
+    "age group": "25~30",
+    "residence": "Xuzhou",
+    "home address": "Room 1201, Building 5, Greenland Century City, No.169 Minzhu South Road, Yunlong District, Xuzhou, Jiangsu Province",
+    "work address": "Xuzhou Jinding Law Firm, 12th Floor, International Trade Building, No.59 Heping Road, Yunlong District, Xuzhou, Jiangsu Province",
+    "dietary restrictions": "No coffee",
+    "family status": "In a relationship",
+    "personality": "Overly reliant on others for guidance, lacks independence and decisiveness"
+  },
+  "user_historical_behaviors": {
+    "user id": "U081742",
+    "occupation": "lawyer",
+    "gender": "female",
+    "age group": "25~30",
+    "residence": "Xuzhou",
+    "home address": "Room 1201, Building 5, Greenland Century City, No.169 Minzhu South Road, Yunlong District, Xuzhou, Jiangsu Province",
+    "work address": "Xuzhou Jinding Law Firm, 12th Floor, International Trade Building, No.59 Heping Road, Yunlong District, Xuzhou, Jiangsu Province",
+    "delivery": {
+      "food delivery": {
+        "breakfast": {
+          "frequently purchased categories": [
+            "Quick meals/Light food (average 28 yuan)",
+            "Quick meals/Salad (average 32 yuan)",
+            "Quick meals/Healthy meals (average 35 yuan)"
+          ],
+          "cost per order": "25~40 yuan",
+          "preferred store rating": "4.5~5.0",
+          "preferred delivery time": "15~30 minutes",
+          "preferred distance": "0~2500m",
+          "recent orders": [
+            {
+              "store": "Light Food Philosophy",
+              "product": "Chicken breast quinoa light food bowl"
+            },
+            {
+              "store": "Salad Diary",
+              "product": "Fitness fruit and vegetable salad"
+            },
+            {
+              "store": "Wheat Workshop",
+              "product": "Whole wheat sandwich + sugar-free soy milk"
+            }
+          ],
+          "search history": [
+            "Light food",
+            "Low-fat breakfast",
+            "Fitness breakfast",
+            "Protein",
+            "Whole wheat bread"
+          ]
+        },
+        "weekday lunch/dinner": {
+          "frequently purchased categories": [
+            "Quick meals/Healthy meals (average 45 yuan)",
+            "Chinese cuisine/Hunan cuisine (average 55 yuan)",
+            "Quick meals/Salad (average 38 yuan)"
+          ],
+          "cost per order": "35~60 yuan",
+          "preferred store rating": "4.3~4.9",
+          "preferred delivery time": "20~35 minutes",
+          "preferred distance": "0~3000m",
+          "recent orders": [
+            {
+              "store": "Vitality Kitchen",
+              "product": "Grilled chicken breast with brown rice"
+            },
+            {
+              "store": "Hunan Flavor House",
+              "product": "Steamed fish + seasonal vegetables"
+            },
+            {
+              "store": "Vegetable Life",
+              "product": "Fresh shrimp and avocado salad"
+            }
+          ],
+          "search history": [
+            "Low-fat lunch",
+            "Fitness meal",
+            "Chicken breast",
+            "Steamed dishes",
+            "Fat-reduction meal set"
+          ]
+        },
+        "weekend lunch/dinner": {
+          "frequently purchased categories": [
+            "Chinese cuisine/Cantonese cuisine (average 85 yuan)",
+            "International cuisine/Japanese bento/sushi (average 98 yuan)",
+            "Chinese cuisine/Shandong cuisine (average 75 yuan)"
+          ],
+          "cost per order": "70~120 yuan",
+          "preferred store rating": "4.6~5.0",
+          "preferred delivery time": "30~45 minutes",
+          "preferred distance": "0~4000m",
+          "recent orders": [
+            {
+              "store": "Cantonese Pavilion",
+              "product": "Steamed sea bass + garlic broccoli"
+            },
+            {
+              "store": "Sushi Story",
+              "product": "Salmon sashimi platter"
+            },
+            {
+              "store": "Lu Xiang Fu",
+              "product": "Braised sea cucumber with scallions + stir-fried seasonal vegetables"
+            }
+          ],
+          "search history": [
+            "High protein",
+            "Cantonese cuisine",
+            "Seafood",
+            "Japanese cuisine",
+            "No fried food"
+          ]
+        },
+        "desserts/drinks/snacks": {
+          "frequently purchased categories": [
+            "Drinks and desserts/Juice (average 22 yuan)",
+            "Drinks and desserts/Pure tea/Herbal tea (average 18 yuan)",
+            "Drinks and desserts/Fruit salad (average 28 yuan)"
+          ],
+          "cost per order": "15~30 yuan",
+          "preferred store rating": "4.4~5.0",
+          "preferred delivery time": "15~25 minutes",
+          "preferred distance": "0~2000m",
+          "recent orders": [
+            {
+              "store": "Fresh Juice Workshop",
+              "product": "Fresh grapefruit juice (sugar-free)"
+            },
+            {
+              "store": "Tea Time",
+              "product": "Oolong tea (sugar-free)"
+            },
+            {
+              "store": "Fresh Fruit Bowl",
+              "product": "Original fruit salad (sugar-free)"
+            }
+          ],
+          "search history": [
+            "Sugar-free drinks",
+            "Fresh-squeezed juice",
+            "Low-calorie desserts",
+            "Fruit tea",
+            "Meal replacement"
+          ]
+        },
+        "night snack": {
+          "frequently purchased categories": [
+            "Quick meals/Omurice (average 35 yuan)",
+            "Quick meals/Salad (average 30 yuan)",
+            "Quick meals/Small dishes/Small portions (average 28 yuan)"
+          ],
+          "cost per order": "25~40 yuan",
+          "preferred store rating": "4.2~4.8",
+          "preferred delivery time": "20~35 minutes",
+          "preferred distance": "0~3000m",
+          "recent orders": [
+            {
+              "store": "Nutritious Kitchen",
+              "product": "Steamed chicken breast omurice (fat-reduction version)"
+            },
+            {
+              "store": "Night Food Records",
+              "product": "Low-fat chicken salad"
+            },
+            {
+              "store": "Fitness Meal Workshop",
+              "product": "Small portion steamed fish with vegetables"
+            }
+          ],
+          "search history": [
+            "Fitness night snack",
+            "Low-fat dinner",
+            "Protein meal",
+            "Light food",
+            "Meal replacement"
+          ]
+        }
+      },
+      "product delivery": {
+        "frequently purchased categories": [
+          "Vegetables/Bean products (32%)",
+          "Fruits (18%)",
+          "Raw meat/Poultry/Eggs (15%)",
+          "Sports and outdoors (12%)",
+          "Beverages/Nutritional supplements (10%)",
+          "Others (13%)"
+        ],
+        "frequently visited stores": [
+          "Xuzhou Green Life Supermarket (38%)",
+          "Hema Fresh (25%)",
+          "Premium Fruits (18%)",
+          "Other stores (19%)"
+        ],
+        "cost per order by category": {
+          "Vegetables/Bean products": "5~25 yuan",
+          "Fruits": "10~40 yuan",
+          "Raw meat/Poultry/Eggs": "20~60 yuan",
+          "Sports and outdoors": "50~200 yuan",
+          "Beverages/Nutritional supplements": "20~100 yuan"
+        },
+        "preferred delivery time": "25~60 minutes",
+        "typical order time": "7~9 AM (25%), 5~7 PM (35%), 9~10 PM (15%)",
+        "recent orders": [
+          {
+            "store": "Xuzhou Green Life Supermarket",
+            "product": "Broccoli 300g, Chicken breast 500g, Tofu 2 boxes"
+          },
+          {
+            "store": "Hema Fresh",
+            "product": "Salmon sashimi, 2 avocados"
+          },
+          {
+            "store": "Premium Fruits",
+            "product": "Boxed blueberries, 2 dragon fruits"
+          }
+        ],
+        "search history": [
+          "Chicken breast",
+          "Protein powder",
+          "Broccoli",
+          "Avocado",
+          "Sugar-free oatmeal",
+          "Tofu",
+          "Salmon",
+          "Fitness equipment"
+        ]
+      }
+    },
+    "in-store consumption": {
+      "in-store dining": {
+        "fine-dining": {
+          "frequently consumed categories": [
+            "International cuisine/Western food (average 180 yuan)",
+            "Regional cuisine/Cantonese cuisine (average 150 yuan)",
+            "International cuisine/Japanese cuisine (average 200 yuan)"
+          ],
+          "preferred average price per person": "150~200 yuan",
+          "preferred store rating": "4.2~4.8 stars",
+          "typical dining time": "18:30-21:00",
+          "preferred distance": "500~3000m",
+          "recent orders": [
+            {
+              "store": "Barcelona Western Restaurant",
+              "product": "Steak set meal"
+            },
+            {
+              "store": "Hechong Japanese Cuisine",
+              "product": "Sushi platter"
+            },
+            {
+              "store": "Yue Lai Yue Wang",
+              "product": "Abalone rice"
+            }
+          ],
+          "search history": [
+            "Premium Cantonese cuisine",
+            "Caffeine-free desserts",
+            "High-end Japanese cuisine",
+            "Couple dating restaurants"
+          ]
+        },
+        "light meal": {
+          "frequently consumed categories": [
+            "Fast food/Chinese quick meals (average 35 yuan)",
+            "Regional cuisine/Jiangzhe cuisine (average 45 yuan)"
+          ],
+          "preferred average price per person": "25~50 yuan",
+          "preferred store rating": "3.5~4.2 stars",
+          "typical dining time": "12:00-13:30",
+          "preferred distance": "0~500m",
+          "recent orders": [
+            {
+              "store": "Dicos",
+              "product": "Spicy chicken burger set"
+            },
+            {
+              "store": "Old Neighborhood Noodle House",
+              "product": "Plain noodles"
+            },
+            {
+              "store": "Jiahe Premium Porridge",
+              "product": "Century egg and lean meat porridge"
+            }
+          ],
+          "search history": [
+            "Nearby fast food",
+            "Weekday lunch",
+            "Quick simple meals"
+          ]
+        },
+        "desserts/drinks/snacks": {
+          "frequently consumed categories": [
+            "Beverage shops (average 20 yuan)",
+            "Bread and desserts (average 30 yuan)"
+          ],
+          "preferred average price per person": "15~35 yuan",
+          "preferred store rating": "3.9~4.5 stars",
+          "typical dining time": "15:00-17:00",
+          "preferred distance": "0~800m",
+          "recent orders": [
+            {
+              "store": "Nayuki",
+              "product": "Caffeine-free jasmine tea"
+            },
+            {
+              "store": "BreadTalk",
+              "product": "Matcha red bean cake"
+            },
+            {
+              "store": "Meet Fresh",
+              "product": "Taro ball fresh milk"
+            }
+          ],
+          "search history": [
+            "Caffeine-free drinks",
+            "Low-sugar desserts",
+            "Fruit tea"
+          ]
+        }
+      },
+      "other in-store services": {
+        "frequently consumed categories": {
+          "Beauty/Hair salon": "20%",
+          "Beauty/Nail salon": "15%",
+          "Sports and fitness/Yoga": "30%",
+          "Leisure and entertainment/Massage/Foot therapy": "20%",
+          "Leisure and entertainment/Murder mystery games": "15%"
+        },
+        "cost per order by category": {
+          "Beauty/Hair salon": "200~400 yuan",
+          "Beauty/Nail salon": "120~250 yuan",
+          "Sports and fitness/Yoga": "100~180 yuan/session",
+          "Leisure and entertainment/Massage/Foot therapy": "150~280 yuan",
+          "Leisure and entertainment/Murder mystery games": "80~120 yuan"
+        },
+        "preferred store rating": "4.0~4.8 stars",
+        "preferred service time": "18:00-21:00",
+        "preferred distance": "0~5000m",
+        "recent orders": [
+          {
+            "store": "Yuexin Yoga Club",
+            "product": "Single person yoga course"
+          },
+          {
+            "store": "Ballet on Fingertips Nail Studio",
+            "product": "Japanese luxury nail art package"
+          },
+          {
+            "store": "Zuo Ai Massage and Wellness Center",
+            "product": "Essential oil SPA package"
+          }
+        ],
+        "search history": [
+          "High-end nail salon",
+          "Couple SPA",
+          "Yoga relaxation course",
+          "Professional hairstyle design",
+          "Weekend murder mystery games"
+        ]
+      }
+    },
+    "OTA": {
+      "visited scenes": {
+        "Historical sites": "35%",
+        "Exhibition halls (museums/art galleries)": "30%",
+        "Landmark buildings": "15%",
+        "Natural landscapes (mountains/lakes/forests)": "12%",
+        "Hot spring resorts": "8%"
+      },
+      "cost per night on hotel": "500~1000 yuan",
+      "visited hotels": {
+        "Atour": "35%",
+        "Ji Hotel": "25%",
+        "Orange Hotel": "20%",
+        "Vienna Hotel": "15%",
+        "Huazhu": "5%"
+      },
+      "browsed hotels": {
+        "Four-star hotels": "45%",
+        "Comfort hotels": "30%",
+        "Three-star hotels": "15%",
+        "Luxury hotels": "10%"
+      },
+      "historical travel plans": {
+        "Xuzhou-Nanjing": {
+          "price range": "120-180 yuan",
+          "transportation": "high-speed rail"
+        },
+        "Xuzhou-Beijing": {
+          "price range": "550-700 yuan",
+          "transportation": "high-speed rail"
+        },
+        "Xuzhou-Shanghai": {
+          "price range": "230-320 yuan",
+          "transportation": "high-speed rail"
+        },
+        "Xuzhou-Hangzhou": {
+          "price range": "300-400 yuan",
+          "transportation": "high-speed rail"
+        },
+        "Xuzhou-Chengdu": {
+          "price range": "900-1500 yuan",
+          "transportation": "flight"
+        },
+        "Beijing-Xuzhou": {
+          "price range": "550-700 yuan",
+          "transportation": "high-speed rail"
+        },
+        "Shanghai-Xuzhou": {
+          "price range": "230-320 yuan",
+          "transportation": "high-speed rail"
+        },
+        "Xuzhou-Xi'an": {
+          "price range": "400-600 yuan",
+          "transportation": "high-speed rail"
+        }
+      }
+    }
+  },
+  "stores": {
+    "S17550812360469447_S00001": {
+      "name": "Neighbor Station",
+      "store_id": "S17550812360469447_S00001",
+      "score": 4.8,
+      "location": {
+        "address": "Neighbor Station, No.88 Wenhua Middle Road, Shizhong District, Zaozhuang, Shandong Province",
+        "latitude": 34.8642,
+        "longitude": 117.5571
+      },
+      "tags": [
+        "same-city delivery",
+        "Business hours: 14:00-22:00"
+      ],
+      "store_type": "target",
+      "products": [
+        {
+          "name": "Fujifilm instax mini blue background film (10-piece pack)",
+          "store_id": "S17550812360469447_S00001",
+          "store_name": "Neighbor Station",
+          "price": 88,
+          "tags": [
+            "instant film",
+            "blue background",
+            "instax",
+            "Fujifilm",
+            "instant photography"
+          ],
+          "product_id": "S17550812360469447_P00001",
+          "attributes": [],
+          "product_type": "target"
+        },
+        {
+          "name": "ZEBRA smooth black marker",
+          "store_id": "S17550812360469447_S00001",
+          "store_name": "Neighbor Station",
+          "price": 15.8,
+          "tags": [
+            "marker",
+            "smooth",
+            "black",
+            "writing instruments",
+            "drawing tools"
+          ],
+          "product_id": "S17550812360469447_P00002",
+          "attributes": [],
+          "product_type": "target"
+        },
+        {
+          "name": "Fujifilm instax mini color border film (10-piece pack)",
+          "store_id": "S17550812360469447_S00001",
+          "store_name": "Neighbor Station",
+          "price": 95,
+          "tags": [
+            "instant film",
+            "color border",
+            "instax",
+            "Fujifilm",
+            "instant photography"
+          ],
+          "product_id": "S17550812360469447_P00003",
+          "attributes": [],
+          "product_type": "distraction"
+        },
+        {
+          "name": "Mitsubishi uni-ball pen",
+          "store_id": "S17550812360469447_S00001",
+          "store_name": "Neighbor Station",
+          "price": 12.5,
+          "tags": [
+            "pen",
+            "black",
+            "writing instruments",
+            "office supplies"
+          ],
+          "product_id": "S17550812360469447_P00004",
+          "attributes": [],
+          "product_type": "distraction"
+        },
+        {
+          "name": "Fujifilm instax mini white background film (20-piece pack)",
+          "store_id": "S17550812360469447_S00001",
+          "store_name": "Neighbor Station",
+          "price": 128,
+          "tags": [
+            "instant film",
+            "white background",
+            "instax",
+            "Fujifilm",
+            "instant photography",
+            "two boxes"
+          ],
+          "product_id": "S17550812360469447_P00005",
+          "attributes": [],
+          "product_type": "distraction"
+        }
+      ]
+    },
+    "S17550812360469447_S00002": {
+      "name": "JD Home Delivery",
+      "store_id": "S17550812360469447_S00002",
+      "score": 4.7,
+      "location": {
+        "address": "JD Home Delivery Station, No.56 Zhenxing Road, Shizhong District, Zaozhuang, Shandong Province",
+        "latitude": 34.4659,
+        "longitude": 117.5593
+      },
+      "tags": [
+        "same-city delivery",
+        "Business hours: 11:00-22:00",
+        "office supplies"
+      ],
+      "store_type": "distraction",
+      "products": [
+        {
+          "name": "Fujifilm instax mini film green border 10-piece pack",
+          "store_id": "S17550812360469447_S00002",
+          "store_name": "JD Home Delivery",
+          "price": 79.9,
+          "tags": [
+            "instant film",
+            "green background",
+            "Fujifilm",
+            "instant photography"
+          ],
+          "product_id": "S17550812360469447_P00006",
+          "attributes": [],
+          "product_type": "target"
+        },
+        {
+          "name": "M&G black smooth marker",
+          "store_id": "S17550812360469447_S00002",
+          "store_name": "JD Home Delivery",
+          "price": 12.5,
+          "tags": [
+            "marker",
+            "smooth",
+            "black",
+            "office supplies"
+          ],
+          "product_id": "S17550812360469447_P00007",
+          "attributes": [
+            "0.5mm",
+            "1.0mm"
+          ],
+          "product_type": "target"
+        },
+        {
+          "name": "Fujifilm instax mini film color border 10-piece pack",
+          "store_id": "S17550812360469447_S00002",
+          "store_name": "JD Home Delivery",
+          "price": 89.9,
+          "tags": [
+            "instant film",
+            "color border",
+            "Fujifilm",
+            "instant photography"
+          ],
+          "product_id": "S17550812360469447_P00008",
+          "attributes": [],
+          "product_type": "distraction"
+        },
+        {
+          "name": "Deli highlighter pen set",
+          "store_id": "S17550812360469447_S00002",
+          "store_name": "JD Home Delivery",
+          "price": 19.9,
+          "tags": [
+            "highlighter",
+            "multi-color",
+            "office supplies"
+          ],
+          "product_id": "S17550812360469447_P00009",
+          "attributes": [
+            "5-color set",
+            "Single color"
+          ],
+          "product_type": "distraction"
+        },
+        {
+          "name": "Polaroid instant film with white border 20-piece pack",
+          "store_id": "S17550812360469447_S00002",
+          "store_name": "JD Home Delivery",
+          "price": 98,
+          "tags": [
+            "instant film",
+            "white background",
+            "Polaroid",
+            "two boxes"
+          ],
+          "product_id": "S17550812360469447_P00010",
+          "attributes": [],
+          "product_type": "distraction"
+        }
+      ]
+    },
+    "S17550812360469447_S00003": {
+      "name": "Shiguang Express Select",
+      "store_id": "S17550812360469447_S00003",
+      "score": 4.6,
+      "location": {
+        "address": "Shiguang Express Select, No.123 Guangming Avenue, Xuecheng District, Zaozhuang, Shandong Province",
+        "latitude": 34.7952,
+        "longitude": 117.2631
+      },
+      "tags": [
+        "same-city delivery",
+        "Business hours: 12:00-00:00",
+        "daily necessities"
+      ],
+      "store_type": "distraction",
+      "products": [
+        {
+          "name": "Fujifilm instant white background film (10-piece pack)",
+          "store_id": "S17550812360469447_S00003",
+          "store_name": "Shiguang Express Select",
+          "price": 69.9,
+          "tags": [
+            "instant film",
+            "white background",
+            "Fujifilm",
+            "instant photo",
+            "square"
+          ],
+          "product_id": "S17550812360469447_P00011",
+          "attributes": [],
+          "product_type": "distraction"
+        },
+        {
+          "name": "M&G smooth black marker",
+          "store_id": "S17550812360469447_S00003",
+          "store_name": "Shiguang Express Select",
+          "price": 12.5,
+          "tags": [
+            "stationery",
+            "marker",
+            "black",
+            "smooth",
+            "quick-drying"
+          ],
+          "product_id": "S17550812360469447_P00012",
+          "attributes": [
+            "0.5mm",
+            "1.0mm"
+          ],
+          "product_type": "distraction"
+        },
+        {
+          "name": "Polaroid instant white background film (20-piece pack)",
+          "store_id": "S17550812360469447_S00003",
+          "store_name": "Shiguang Express Select",
+          "price": 108,
+          "tags": [
+            "instant film",
+            "white background",
+            "Polaroid",
+            "high-definition imaging",
+            "square"
+          ],
+          "product_id": "S17550812360469447_P00013",
+          "attributes": [],
+          "product_type": "distraction"
+        },
+        {
+          "name": "ZEBRA color marker set",
+          "store_id": "S17550812360469447_S00003",
+          "store_name": "Shiguang Express Select",
+          "price": 45.8,
+          "tags": [
+            "stationery",
+            "marker",
+            "colorful",
+            "set",
+            "smooth"
+          ],
+          "product_id": "S17550812360469447_P00014",
+          "attributes": [
+            "12 colors",
+            "24 colors"
+          ],
+          "product_type": "distraction"
+        }
+      ]
+    },
+    "S17550812360469447_S00004": {
+      "name": "Seven Grocery Store",
+      "store_id": "S17550812360469447_S00004",
+      "score": 4.7,
+      "location": {
+        "address": "Seven Grocery Store Delivery Point, No.120 Wenhua Middle Road, Shizhong District, Zaozhuang, Shandong Province",
+        "latitude": 34.8651,
+        "longitude": 117.5585
+      },
+      "tags": [
+        "product delivery",
+        "Business hours: 11:00-22:00",
+        "stationery"
+      ],
+      "store_type": "target",
+      "products": [
+        {
+          "name": "Fujifilm instax mini instant film (white background)",
+          "store_id": "S17550812360469447_S00004",
+          "store_name": "Seven Grocery Store",
+          "price": 59.9,
+          "tags": [
+            "instant film",
+            "Fujifilm",
+            "white background",
+            "10-piece pack"
+          ],
+          "product_id": "S17550812360469447_P00015",
+          "attributes": [],
+          "product_type": "target"
+        },
+        {
+          "name": "ZEBRA JJ15 black marker",
+          "store_id": "S17550812360469447_S00004",
+          "store_name": "Seven Grocery Store",
+          "price": 12.8,
+          "tags": [
+            "marker",
+            "smooth",
+            "black",
+            "stationery"
+          ],
+          "product_id": "S17550812360469447_P00016",
+          "attributes": [],
+          "product_type": "target"
+        },
+        {
+          "name": "Fujifilm instax mini instant film (color border)",
+          "store_id": "S17550812360469447_S00004",
+          "store_name": "Seven Grocery Store",
+          "price": 89.9,
+          "tags": [
+            "instant film",
+            "Fujifilm",
+            "color border",
+            "10-piece pack"
+          ],
+          "product_id": "S17550812360469447_P00017",
+          "attributes": [
+            "Pink border",
+            "Blue border",
+            "Yellow border"
+          ],
+          "product_type": "distraction"
+        },
+        {
+          "name": "M&G AGPA1701 black pen",
+          "store_id": "S17550812360469447_S00004",
+          "store_name": "Seven Grocery Store",
+          "price": 8.5,
+          "tags": [
+            "pen",
+            "black",
+            "stationery"
+          ],
+          "product_id": "S17550812360469447_P00018",
+          "attributes": [
+            "0.5mm",
+            "0.7mm"
+          ],
+          "product_type": "distraction"
+        },
+        {
+          "name": "Fujifilm instax mini instant film double pack (white background)",
+          "store_id": "S17550812360469447_S00004",
+          "store_name": "Seven Grocery Store",
+          "price": 109.9,
+          "tags": [
+            "instant film",
+            "Fujifilm",
+            "white background",
+            "20-piece pack/two boxes"
+          ],
+          "product_id": "S17550812360469447_P00019",
+          "attributes": [],
+          "product_type": "distraction"
+        }
+      ]
+    }
+  },
+  "orders": {}
+}

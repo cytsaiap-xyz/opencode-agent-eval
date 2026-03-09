@@ -1,0 +1,57 @@
+{
+  "task_id": "33",
+  "query": "I'd like to arrange a trip from Fuzhou to Suzhou, departing on November 12, 2025, and returning on November 14, with a total of three people traveling together. We plan to take the train both ways, so please help me select suitable train services and arrange the seats accordingly.\n\nFor accommodation, I’d like to book a hotel under the Hilton brand. Since our budget is limited, please just pick the most affordable option within their chain. We’ll need two rooms—kindly help us check availability and make the booking.\n\nDuring this trip to Suzhou, I especially want to visit the 'Retreat and Reflection Garden' and 'Shiquan Street'—these two locations must be included in the itinerary. Additionally, I’ve heard that Suzhou has many highly-rated attractions. Could you please select the top three highest-rated ones from the recommended list and include them as well? I’d love to experience more of the local highlights.\n\nThat covers the basics. Please go ahead and plan the full itinerary and arrangements for me—no need to ask for further details! November 12, 2025 is Wednesday",
+  "meta_info": {
+    "org": "Fuzhou",
+    "dest": [
+      "Suzhou"
+    ],
+    "days": 3,
+    "depart_date": "2025-11-12",
+    "return_date": "2025-11-14",
+    "people_number": 3,
+    "room_number": 2
+  },
+  "hard_constraints": {
+    "train_seat_status": {
+      "constraint_context": "3 travelers, choosing to travel by train, need to select a train with sufficient remaining tickets (this sentence does not need to be reflected in the query, but should be inferred by the user)",
+      "people_number": 3,
+      "outbound_train_no": "G1412",
+      "inbound_train_no": "D3205",
+      "outbound_seat_status": "6",
+      "inbound_seat_status": "7"
+    },
+    "hotel_cheapest_brand": {
+      "constraint_context": "For accommodation, please select the cheapest hotel among the Hilton brand",
+      "constraint_type": "superlative_cheapest_brand",
+      "hotel_name": "Hilton Garden Inn Suzhou Kunshan",
+      "hotel_price": 466.0
+    },
+    "attraction_must_visit_named": {
+      "constraint_context": "The itinerary must include visits to 'Retreat and Reflection Garden' and 'Shiquan Street'.",
+      "constraint_type": "superlative_must_visit_named",
+      "attraction_names": [
+        "Retreat and Reflection Garden",
+        "Shiquan Street"
+      ],
+      "attraction_ratings": [
+        4.8,
+        4.9
+      ]
+    },
+    "attraction_top_rated_must_visit": {
+      "constraint_context": "The itinerary must include the three highest-rated attractions recommended by the attraction recommendation tool.",
+      "constraint_type": "superlative_top_rated_must_visit",
+      "attraction_names": [
+        "Pingjiang Road Historical and Cultural District",
+        "Shiquan Street",
+        "Yi Garden"
+      ],
+      "attraction_ratings": [
+        4.9,
+        4.9,
+        4.8
+      ]
+    }
+  }
+}

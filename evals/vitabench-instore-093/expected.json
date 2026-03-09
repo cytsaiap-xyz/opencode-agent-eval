@@ -1,0 +1,89 @@
+{
+  "required_orders": [
+    {
+      "order_id": "10826296T001",
+      "order_type": "instore",
+      "user_id": "U594252",
+      "store_id": "S17567843825839468_I00001",
+      "note": "",
+      "location": null,
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 588,
+      "create_time": "2025-03-15 19:33:51",
+      "update_time": "2025-03-15 19:33:51",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17567843825839468_P00001",
+          "name": "Classic six-person package (signature home-style dishes)",
+          "price": 588,
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "order_id": "10826296T002",
+      "order_type": "instore",
+      "user_id": "U594252",
+      "store_id": "S17567843825839468_I00002",
+      "note": "",
+      "location": null,
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 168,
+      "create_time": "2025-03-15 19:35:32",
+      "update_time": "2025-03-15 19:35:32",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17567843825839468_P00019",
+          "name": "Werewolf game individual ticket (2 hours)",
+          "price": 28,
+          "quantity": 6
+        }
+      ]
+    },
+    {
+      "order_id": "10826296T003",
+      "order_type": "instore",
+      "user_id": "U594252",
+      "store_id": "S17567843825839468_I00003",
+      "note": "",
+      "location": null,
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 288,
+      "create_time": "2025-03-15 19:37:12",
+      "update_time": "2025-03-15 19:37:12",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17567843825839468_P00021",
+          "name": "Passionate red rose bouquet (33 roses)",
+          "price": 288,
+          "quantity": 1
+        }
+      ]
+    }
+  ],
+  "rubrics": [
+    "The Chinese restaurant should be within 5000m (inclusive) of Shanxi Medical University",
+    "The Chinese restaurant should have retro decoration style",
+    "The ordered item at the Chinese restaurant should be a six-person package",
+    "The ordered item at the Chinese restaurant should include drinks",
+    "The ordered item at the Chinese restaurant should be available on weekends",
+    "The board game club should be within 3000m (inclusive) of Laozhaimen Private Cuisine, 500m east of Shanxi Medical University, Qinxian North Street, Xiaodian District, Taiyuan City",
+    "The ordered item at the board game club should be Werewolf game tickets",
+    "The ordered item at the board game club should be Individual ticket",
+    "The quantity of ordered items at the board game club should be 6",
+    "The ordered flower shop should be within 2000m (inclusive) of Room 1203, Building A, Longcheng Garden, No.100 South Inner Ring Street, Yingze District, Taiyuan City",
+    "The ordered flower shop should be open until 23:00",
+    "Should check if the flower shop has white rose bouquet vouchers, result is no, therefore the ordered item at the flower shop should be red rose",
+    "The ordered item at the flower shop should be a bouquet",
+    "The ordered item at the flower shop cannot be a discounted item"
+  ]
+}

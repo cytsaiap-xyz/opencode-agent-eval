@@ -1,0 +1,72 @@
+{
+  "required_orders": [
+    {
+      "order_id": "20715003T01",
+      "order_type": "delivery",
+      "user_id": "U000047",
+      "store_id": "S22593193942613919_S60598",
+      "note": "",
+      "location": {
+        "address": "Greenland Joy City, West Station Street, Honggutan District, Nanchang, Jiangxi Province",
+        "longitude": 115.811184,
+        "latitude": 28.621999
+      },
+      "dispatch_time": "2025-03-16 12:10:00",
+      "shipping_time": 38,
+      "delivery_time": "2025-03-16 12:48:00",
+      "total_price": 39.6,
+      "create_time": "2025-03-16 10:33:00",
+      "update_time": "2025-03-16 10:33:00",
+      "status": "delivered",
+      "products": [
+        {
+          "product_id": "S20458653256242573_P48003",
+          "price": 19.8,
+          "quantity": 1,
+          "attributes": ""
+        },
+        {
+          "product_id": "S13595797233262438_P27624",
+          "price": 19.8,
+          "quantity": 1,
+          "attributes": ""
+        }
+      ]
+    },
+    {
+      "order_id": "20715003T02",
+      "order_type": "delivery",
+      "user_id": "U000047",
+      "store_id": "S26858710382003715_S84441",
+      "note": "",
+      "location": {
+        "address": "Greenland Joy City, West Station Street, Honggutan District, Nanchang, Jiangxi Province",
+        "longitude": 115.811184,
+        "latitude": 28.621999
+      },
+      "dispatch_time": "2025-03-16 11:01:00",
+      "shipping_time": 58,
+      "delivery_time": "2025-03-16 12:59:00",
+      "total_price": 92,
+      "create_time": "2025-03-16 10:35:00",
+      "update_time": "2025-03-16 10:35:00",
+      "status": "delivered",
+      "products": [
+        {
+          "product_id": "S79237675029607579_P61616",
+          "price": 92,
+          "quantity": 1,
+          "attributes": ""
+        }
+      ]
+    }
+  ],
+  "rubrics": [
+    "The delivery address for the Snow Ice order should be Greenland Joy City, West Station Street, Honggutan District, Nanchang, Jiangxi Province",
+    "The estimated delivery time for the Snow Ice order should be after 11:00:00 on March 16, 2025",
+    "The Snow Ice order should include 2 Snow Ice items, specifically Mango Red Bean flavor and Taro Paste Taro Ball flavor, to satisfy the needs of the user and her friend, one for each",
+    "The delivery address for the Lamb Spine Hot Pot order should be Greenland Joy City, West Station Street, Honggutan District, Nanchang, Jiangxi Province",
+    "The estimated delivery time for the Lamb Spine Hot Pot order should be after 11:00:00 on March 16, 2025",
+    "The Lamb Spine Hot Pot order should include Lamb Spine items weighing 2 Jin"
+  ]
+}

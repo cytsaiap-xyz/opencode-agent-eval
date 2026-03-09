@@ -1,0 +1,1015 @@
+{
+  "task_id": "A0807006",
+  "domain": "cross_domain",
+  "time": "2024-06-16 17:10:00",
+  "user_id": "U010062",
+  "weather": [
+    {
+      "city": "Jiaxing",
+      "category": "cloudy",
+      "datetime": "2024-06-16",
+      "temperature": [
+        24,
+        32
+      ],
+      "humidity": 65
+    }
+  ],
+  "location": [
+    {
+      "address": "Room 403, Building 8, Jiaxing College Student Apartments, 1288 Hexing South Road, Nanhu District, Jiaxing, Zhejiang Province",
+      "longitude": 120.7532,
+      "latitude": 30.7651
+    }
+  ],
+  "user_profile": {
+    "user id": "U010062",
+    "occupation": "Student",
+    "gender": "female",
+    "age group": "20~25",
+    "residence": "Jiaxing",
+    "Permanent address": "Room 403, Building 8, Jiaxing College Student Apartments, 1288 Hexing South Road, Nanhu District, Jiaxing, Zhejiang Province",
+    "work address": "Teaching Building B, Jiaxing College Main Campus (1288 Hexing South Road), Nanhu District, Jiaxing, Zhejiang Province",
+    "dietary restrictions": "No cilantro",
+    "family status": "Unknown",
+    "personality": "Gentle personality with high cooperation, good at listening and understanding"
+  },
+  "user_historical_behaviors": {
+    "user id": "U010062",
+    "occupation": "Student",
+    "gender": "female",
+    "age group": "20~25",
+    "residence": "Jiaxing",
+    "Permanent address": "Room 403, Building 8, Student Dormitory of Jiaxing University, 1288 Hexing South Road, Nanhu District, Jiaxing, Zhejiang Province",
+    "work address": "Teaching Building B, Main Campus of Jiaxing University (1288 Hexing South Road), Nanhu District, Jiaxing, Zhejiang Province",
+    "delivery": {
+      "food delivery": {
+        "breakfast": {
+          "frequently purchased categories": [
+            "Simple Meals/Jianbing Guozi/Wraps/Flatbreads (Average 15 yuan)",
+            "Simple Meals/Baozi/Pan-fried Buns (Average 12 yuan)",
+            "Simple Meals/Soy Milk (Average 8 yuan)"
+          ],
+          "cost per order": "10~25 yuan",
+          "preferred store rating": "4.5~4.8 points",
+          "preferred delivery time": "15~25 minutes",
+          "preferred distance": "0~1500m",
+          "recent orders": [
+            {
+              "store": "Tianjin Lao Zhang Jianbing Guozi",
+              "product": "Original Jianbing Guozi + Soy Milk"
+            },
+            {
+              "store": "Shen Dacheng Pan-fried Buns",
+              "product": "Signature Pork Pan-fried Buns (6 pieces)"
+            },
+            {
+              "store": "Yonghe Soy Milk",
+              "product": "Fried Dough Sticks + Soy Milk Combo"
+            }
+          ],
+          "search history": [
+            "Jianbing Guozi",
+            "Pan-fried Buns",
+            "Soy Milk",
+            "Nutritious Breakfast",
+            "Congee"
+          ]
+        },
+        "weekday lunch/dinner": {
+          "frequently purchased categories": [
+            "Simple Meals/Small Bowl Dishes/Small Portion Dishes (Average 32 yuan)",
+            "Simple Meals/Rice Noodles/Vermicelli (Average 28 yuan)",
+            "Simple Meals/Light Food (Average 35 yuan)"
+          ],
+          "cost per order": "25~45 yuan",
+          "preferred store rating": "4.3~4.7 points",
+          "preferred delivery time": "20~35 minutes",
+          "preferred distance": "0~2500m",
+          "recent orders": [
+            {
+              "store": "A Bowl of Good Rice",
+              "product": "Steamed Bass Rice + Seasonal Vegetables"
+            },
+            {
+              "store": "Yunnan Crossing Bridge Rice Noodles",
+              "product": "Signature Crossing Bridge Rice Noodles (Mild Spicy)"
+            },
+            {
+              "store": "Light Meal Salad Expert",
+              "product": "Quinoa Chicken Breast Salad + Fruit Tea"
+            }
+          ],
+          "search history": [
+            "Low-fat Meals",
+            "Rice Noodles",
+            "Healthy Meals",
+            "Salad",
+            "Non-spicy Dishes"
+          ]
+        },
+        "weekend lunch/dinner": {
+          "frequently purchased categories": [
+            "Chinese Cuisine/Cantonese Cuisine (Average 85 yuan)",
+            "International Cuisine/Japanese Bento/Sushi (Average 95 yuan)",
+            "Chinese Cuisine/Crayfish (Average 120 yuan)"
+          ],
+          "cost per order": "70~150 yuan",
+          "preferred store rating": "4.6~5.0 points",
+          "preferred delivery time": "30~45 minutes",
+          "preferred distance": "0~3500m",
+          "recent orders": [
+            {
+              "store": "Cantonese Roast Expert",
+              "product": "Roast Goose Rice + Char Siu + Seasonal Vegetables"
+            },
+            {
+              "store": "Sushi Story",
+              "product": "Salmon Sashimi Platter + Signature Sushi 12 pieces"
+            },
+            {
+              "store": "Garlic Crayfish",
+              "product": "Garlic Crayfish 4 jin + Clams 1 jin"
+            }
+          ],
+          "search history": [
+            "Cantonese Cuisine",
+            "Japanese Food",
+            "Crayfish",
+            "High-rated Restaurants",
+            "Couple Set Meal"
+          ]
+        },
+        "desserts/drinks/snacks": {
+          "frequently purchased categories": [
+            "Beverages & Desserts/Juice (Average 22 yuan)",
+            "Beverages & Desserts/Fruit Bowls (Average 32 yuan)",
+            "Beverages & Desserts/Chinese Pastries (Average 25 yuan)"
+          ],
+          "cost per order": "15~40 yuan",
+          "preferred store rating": "4.5~4.9 points",
+          "preferred delivery time": "15~30 minutes",
+          "preferred distance": "0~2000m",
+          "recent orders": [
+            {
+              "store": "Fresh Juice Bar",
+              "product": "Fresh Watermelon Juice"
+            },
+            {
+              "store": "Honeymoon Dessert",
+              "product": "Mango Fruit Bowl"
+            },
+            {
+              "store": "Daoxiangcun",
+              "product": "Mung Bean Cake 6-piece Pack"
+            }
+          ],
+          "search history": [
+            "Juice",
+            "Fruit Bowl",
+            "Mung Bean Cake",
+            "Caffeine-free Beverages",
+            "Healthy Desserts"
+          ]
+        },
+        "night snack": {
+          "frequently purchased categories": [
+            "Snacks/Braised Flavors (Average 38 yuan)",
+            "Hot Pots/Clay Pot Congee (Average 42 yuan)"
+          ],
+          "cost per order": "30~55 yuan",
+          "preferred store rating": "4.2~4.8 points",
+          "preferred delivery time": "25~40 minutes",
+          "preferred distance": "0~2500m",
+          "recent orders": [
+            {
+              "store": "Lao Chen Braised Flavors",
+              "product": "Signature Braised Platter (Non-spicy)"
+            },
+            {
+              "store": "Congee Fragrance House",
+              "product": "Century Egg & Lean Meat Congee + Mushroom Fried Dough"
+            },
+            {
+              "store": "Night Snack Bistro",
+              "product": "Stomach-soothing Clay Pot Congee + Small Braised Platter"
+            }
+          ],
+          "search history": [
+            "Braised Flavors",
+            "Clay Pot Congee",
+            "Stomach-friendly Night Snacks",
+            "Non-greasy",
+            "Small Platter"
+          ]
+        }
+      },
+      "product delivery": {
+        "frequently purchased categories": [
+          "Vegetables/Bean Products (28%)",
+          "Fruits (22%)",
+          "Grains/Seasonings/Dry Goods (15%)",
+          "Home Daily Necessities (12%)",
+          "Flowers & Gardening (10%)",
+          "Others (13%)"
+        ],
+        "frequently visited stores": [
+          "Jiaxing Fresh Supermarket (39%)",
+          "Hema Fresh (25%)",
+          "Family Mart (18%)",
+          "Other Stores (18%)"
+        ],
+        "cost per order by category": {
+          "Vegetables/Bean Products": "5~30 yuan",
+          "Fruits": "10~45 yuan",
+          "Grains/Seasonings/Dry Goods": "15~60 yuan",
+          "Home Daily Necessities": "20~80 yuan",
+          "Flowers & Gardening": "30~120 yuan"
+        },
+        "preferred delivery time": "30~60 minutes",
+        "typical order time": "18~20 (35%), 10~12 (25%), 16~18 (20%)",
+        "recent orders": [
+          {
+            "store": "Jiaxing Fresh Supermarket",
+            "product": "Organic Vegetable Package"
+          },
+          {
+            "store": "Hema Fresh",
+            "product": "Imported Cherries 500g"
+          },
+          {
+            "store": "Jiaxing Fresh Supermarket",
+            "product": "Succulent Plants 3-pot Set"
+          }
+        ],
+        "search history": [
+          "Organic Vegetables",
+          "Cherries",
+          "Succulent Plants",
+          "Laundry Detergent",
+          "Rice",
+          "Kitchen Paper Towels"
+        ]
+      }
+    },
+    "in-store consumption": {
+      "in-store dining": {
+        "fine-dining": {
+          "frequently purchased categories": [
+            "Regional Cuisine/Jiangzhe Cuisine (Average 120 yuan)",
+            "International Cuisine/Japanese Food (Average 150 yuan)",
+            "Regional Cuisine/Specialty Dishes (Average 100 yuan)"
+          ],
+          "preferred average price per person": "80~150 yuan",
+          "preferred store rating": "4.2~4.8 stars",
+          "typical dining time": "19:00-21:00",
+          "preferred distance": "0~500m",
+          "recent orders": [
+            {
+              "store": "Jiangnan Small Kitchen",
+              "product": "Dongpo Pork, West Lake Fish in Vinegar, Dragon Well Shrimp"
+            },
+            {
+              "store": "Sakura Sushi Restaurant",
+              "product": "Sashimi Platter, Salmon Sushi"
+            },
+            {
+              "store": "South Lake House",
+              "product": "Jiaxing Zongzi Feast, Salted Pork and Fresh Meat Soup"
+            }
+          ],
+          "search history": [
+            "Low-fat Restaurant",
+            "Healthy Jiangzhe Cuisine",
+            "Exquisite Cuisine"
+          ]
+        },
+        "light meal": {
+          "frequently purchased categories": [
+            "Snacks & Fast Food/Chinese Simple Meals (Average 40 yuan)",
+            "International Cuisine/Southeast Asian Food (Average 55 yuan)",
+            "Regional Cuisine/Fish Dishes (Average 60 yuan)"
+          ],
+          "preferred average price per person": "35~60 yuan",
+          "preferred store rating": "3.5~4.3 stars",
+          "typical dining time": "11:30-13:00",
+          "preferred distance": "0~1000m",
+          "recent orders": [
+            {
+              "store": "One and Half Private Kitchen",
+              "product": "Steamed Bass Set Meal"
+            },
+            {
+              "store": "Thai Pavilion",
+              "product": "Tom Yum Kung Soup, Thai Lemon Fish"
+            },
+            {
+              "store": "Yue Mi Healthy Meals",
+              "product": "Quinoa Chicken Breast Salad"
+            }
+          ],
+          "search history": [
+            "Healthy Simple Meals",
+            "Low-calorie Light Food",
+            "Weekday Lunch",
+            "Quick Service"
+          ]
+        },
+        "desserts/drinks/snacks": {
+          "frequently purchased categories": [
+            "Beverage Shops (Average 25 yuan)",
+            "Bread & Desserts (Average 30 yuan)",
+            "Other Dining/Fresh Fruits (Average 20 yuan)"
+          ],
+          "preferred average price per person": "15~35 yuan",
+          "preferred store rating": "4.0~4.7 stars",
+          "typical dining time": "15:00-16:30",
+          "preferred distance": "0~800m",
+          "recent orders": [
+            {
+              "store": "HEYTEA",
+              "product": "Very Grape (Less Sugar, No Ice)"
+            },
+            {
+              "store": "LELECHA",
+              "product": "Brown Sugar Boba Milk Tea (Low Sugar)"
+            },
+            {
+              "store": "Paris Sweet Heart",
+              "product": "Sugar-free Matcha Mille Crepe"
+            }
+          ],
+          "search history": [
+            "Low-sugar Milk Tea",
+            "Sugar-free Desserts",
+            "Healthy Beverages",
+            "Freshly Squeezed Juice"
+          ]
+        }
+      },
+      "other in-store services": {
+        "frequently consumed categories": {
+          "Beauty/Yoga": "35%",
+          "Beauty/Hair Styling": "25%",
+          "Sports & Fitness/Fitness Centers": "25%",
+          "Leisure & Entertainment/Massage/Foot Therapy": "15%"
+        },
+        "cost per order by category": {
+          "Beauty/Yoga": "150~300 yuan",
+          "Beauty/Hair Styling": "200~500 yuan",
+          "Sports & Fitness/Fitness Centers": "100~200 yuan",
+          "Leisure & Entertainment/Massage/Foot Therapy": "150~280 yuan"
+        },
+        "preferred store rating": "4.0~4.8 stars",
+        "preferred service time": "9:00-11:00",
+        "preferred distance": "0~5000m",
+        "recent orders": [
+          {
+            "store": "YOYI Yoga Lifestyle Studio",
+            "product": "Private Yoga Course"
+          },
+          {
+            "store": "Trend HAIR Styling",
+            "product": "Celebrity Customized Hair Treatment"
+          },
+          {
+            "store": "Bodhi Massage SPA",
+            "product": "Relaxing Full Body Massage"
+          }
+        ],
+        "search history": [
+          "Celebrity Hairstyle",
+          "Stress-relief Yoga",
+          "Wellness SPA",
+          "Fitness Courses",
+          "Posture Adjustment"
+        ]
+      }
+    },
+    "OTA": {
+      "visited scenes": {
+        "Exhibitions (Museums/Art Galleries)": "35%",
+        "Parks": "25%",
+        "Theme Parks": "20%",
+        "Cultural Heritage Sites": "15%",
+        "Special Villages/Industrial Tourism/Uncategorized Projects": "5%"
+      },
+      "cost per night on hotel": "100~300 yuan",
+      "visited hotels": {
+        "Home Inn": "35%",
+        "Hanting": "30%",
+        "7 Days Inn": "20%",
+        "Jin Jiang Star": "10%",
+        "GreenTree Inn": "5%"
+      },
+      "browsed hotels": {
+        "Economy Hotels": "70%",
+        "Comfort Hotels": "25%",
+        "Three-star Hotels": "5%"
+      },
+      "historical travel plans": {
+        "Jiaxing-Hangzhou": {
+          "Price Range": "20-40 yuan",
+          "Transportation Mode": "Long-distance Bus"
+        },
+        "Jiaxing-Shanghai": {
+          "Price Range": "40-60 yuan",
+          "Transportation Mode": "High-speed Rail/EMU"
+        },
+        "Jiaxing-Suzhou": {
+          "Price Range": "30-50 yuan",
+          "Transportation Mode": "High-speed Rail/EMU"
+        },
+        "Jiaxing-Nanjing": {
+          "Price Range": "80-120 yuan",
+          "Transportation Mode": "High-speed Rail/EMU"
+        },
+        "Jiaxing-Wuzhen": {
+          "Price Range": "15-25 yuan",
+          "Transportation Mode": "Long-distance Bus"
+        }
+      }
+    }
+  },
+  "stores": {
+    "S17550809576747589_S00001": {
+      "name": "Digital Technology Electronics Store",
+      "store_id": "S17550809576747589_S00001",
+      "score": 4.8,
+      "location": {
+        "address": "Digital Technology Electronics Store, 1366 Hexing South Road, Nanhu District, Jiaxing, Zhejiang Province",
+        "latitude": 30.7672,
+        "longitude": 120.7545
+      },
+      "tags": [
+        "Digital",
+        "Camera",
+        "Electronic Products"
+      ],
+      "store_type": "target",
+      "products": [
+        {
+          "name": "Fujifilm Instax Mini 11 Instant Camera",
+          "store_id": "S17550809576747589_S00001",
+          "store_name": "Digital Technology Electronics Store",
+          "price": 699,
+          "tags": [
+            "Instant Camera",
+            "Fujifilm",
+            "Student Favorite",
+            "Party Essential",
+            "Popular for Graduation Season",
+            "2-hour express delivery"
+          ],
+          "product_id": "S17550809576747589_P00001",
+          "attributes": [
+            "Ice Crystal Blue"
+          ],
+          "product_type": "target"
+        },
+        {
+          "name": "Polaroid Now Instant Camera",
+          "store_id": "S17550809576747589_S00001",
+          "store_name": "Digital Technology Electronics Store",
+          "price": 899,
+          "tags": [
+            "Instant Camera",
+            "Polaroid",
+            "HD Imaging",
+            "Vintage Style",
+            "Graduation Gift"
+          ],
+          "product_id": "S17550809576747589_P00002",
+          "attributes": [
+            "White"
+          ],
+          "product_type": "distraction"
+        },
+        {
+          "name": "Fujifilm Instax Mini 9 Instant Camera",
+          "store_id": "S17550809576747589_S00001",
+          "store_name": "Digital Technology Electronics Store",
+          "price": 699,
+          "tags": [
+            "Instant Camera",
+            "Fujifilm",
+            "Entry-Level Model",
+            "Student Economy Option",
+            "Party Photography",
+            "Instant Photography",
+            "1-hour express delivery"
+          ],
+          "product_id": "S17550809576747589_P00003",
+          "attributes": [
+            "Cherry Blossom Pink"
+          ],
+          "product_type": "target"
+        },
+        {
+          "name": "Canon EOS M50 Mark II Mirrorless Camera",
+          "store_id": "S17550809576747589_S00001",
+          "store_name": "Digital Technology Electronics Store",
+          "price": 4299,
+          "tags": [
+            "Mirrorless Camera",
+            "Canon",
+            "HD Photography",
+            "Graduation Photography",
+            "Professional Photography"
+          ],
+          "product_id": "S17550809576747589_P00004",
+          "attributes": [
+            "Black",
+            "15-45mm Lens Kit"
+          ],
+          "product_type": "distraction"
+        },
+        {
+          "name": "Fujifilm Instax Mini Link Smartphone Photo Printer",
+          "store_id": "S17550809576747589_S00001",
+          "store_name": "Digital Technology Electronics Store",
+          "price": 799,
+          "tags": [
+            "Photo Printer",
+            "Fujifilm",
+            "Mobile Photo Printing",
+            "Party Essential",
+            "Instant Printing"
+          ],
+          "product_id": "S17550809576747589_P00005",
+          "attributes": [
+            "Gray"
+          ],
+          "product_type": "distraction"
+        }
+      ]
+    },
+    "S17550809576747589_S00002": {
+      "name": "Express Image Equipment Store",
+      "store_id": "S17550809576747589_S00002",
+      "score": 4.7,
+      "location": {
+        "address": "Express Image Equipment Store, 325 Xiuzhou Road, Nanhu District, Jiaxing, Zhejiang Province",
+        "latitude": 30.7598,
+        "longitude": 120.7489
+      },
+      "tags": [
+        "Camera",
+        "Instant Camera",
+        "Photography Equipment"
+      ],
+      "store_type": "target",
+      "products": [
+        {
+          "name": "Fujifilm Instax Mini 12 Instant Camera",
+          "store_id": "S17550809576747589_S00002",
+          "store_name": "Express Image Equipment Store",
+          "price": 699,
+          "tags": [
+            "Instant Camera",
+            "Fujifilm",
+            "Instant Imaging",
+            "Beginner Level",
+            "Popular with Students",
+            "Same-day Delivery"
+          ],
+          "product_id": "S17550809576747589_P00006",
+          "attributes": [
+            "Mint Green"
+          ],
+          "product_type": "target"
+        },
+        {
+          "name": "Fujifilm Instax Mini 9 Instant Camera",
+          "store_id": "S17550809576747589_S00002",
+          "store_name": "Express Image Equipment Store",
+          "price": 699,
+          "tags": [
+            "Instant Camera",
+            "Fujifilm",
+            "Instant Imaging",
+            "Beginner Level",
+            "Popular with Students",
+            "Same-day Delivery"
+          ],
+          "product_id": "S17550809576747589_P00007",
+          "attributes": [
+            "Smoky White"
+          ],
+          "product_type": "target"
+        },
+        {
+          "name": "Polaroid Go Instant Camera",
+          "store_id": "S17550809576747589_S00002",
+          "store_name": "Express Image Equipment Store",
+          "price": 899,
+          "tags": [
+            "Instant Camera",
+            "Polaroid",
+            "Instant Imaging",
+            "Lightweight and Compact",
+            "Same-day Delivery"
+          ],
+          "product_id": "S17550809576747589_P00008",
+          "attributes": [
+            "Black"
+          ],
+          "product_type": "distraction"
+        },
+        {
+          "name": "Fujifilm Instax Mini LiPlay Instant Camera",
+          "store_id": "S17550809576747589_S00002",
+          "store_name": "Express Image Equipment Store",
+          "price": 1299,
+          "tags": [
+            "Instant Camera",
+            "Fujifilm",
+            "Digital Hybrid",
+            "Premium Model",
+            "Bluetooth Printing",
+            "Same-day Delivery"
+          ],
+          "product_id": "S17550809576747589_P00009",
+          "attributes": [
+            "Elegant Black"
+          ],
+          "product_type": "distraction"
+        },
+        {
+          "name": "Instant Camera Film Refill (20 sheets)",
+          "store_id": "S17550809576747589_S00002",
+          "store_name": "Express Image Equipment Store",
+          "price": 129,
+          "tags": [
+            "Photo Paper",
+            "Fujifilm",
+            "Instax Mini Compatible",
+            "Same-day Delivery"
+          ],
+          "product_id": "S17550809576747589_P00010",
+          "attributes": [
+            "White Border Style"
+          ],
+          "product_type": "distraction"
+        }
+      ]
+    },
+    "S17550809576747589_S00003": {
+      "name": "Kechuang Digital Flagship Store",
+      "store_id": "S17550809576747589_S00003",
+      "score": 4.6,
+      "location": {
+        "address": "Kechuang Digital Flagship Store, 568 Zhongshan East Road, Nanhu District, Jiaxing, Zhejiang Province",
+        "latitude": 30.7725,
+        "longitude": 120.7598
+      },
+      "tags": [
+        "Digital",
+        "Photography",
+        "Camera"
+      ],
+      "store_type": "distraction",
+      "products": [
+        {
+          "name": "Fujifilm Instax Mini 11 Instant Camera",
+          "store_id": "S17550809576747589_S00003",
+          "store_name": "Kechuang Digital Flagship Store",
+          "price": 699,
+          "tags": [
+            "Instant Camera",
+            "Camera",
+            "Graduation Party",
+            "Keepsake",
+            "Fujifilm",
+            "Beginner Level"
+          ],
+          "product_id": "S17550809576747589_P00011",
+          "attributes": [],
+          "product_type": "distraction"
+        },
+        {
+          "name": "Fujifilm Instax Mini LiPlay Instant Camera",
+          "store_id": "S17550809576747589_S00003",
+          "store_name": "Kechuang Digital Flagship Store",
+          "price": 1299,
+          "tags": [
+            "Instant Camera",
+            "Camera",
+            "HD (High Definition)",
+            "Bluetooth Printing",
+            "Fujifilm",
+            "High-end"
+          ],
+          "product_id": "S17550809576747589_P00012",
+          "attributes": [],
+          "product_type": "distraction"
+        },
+        {
+          "name": "Polaroid Now Instant Camera",
+          "store_id": "S17550809576747589_S00003",
+          "store_name": "Kechuang Digital Flagship Store",
+          "price": 899,
+          "tags": [
+            "Instant Camera",
+            "Camera",
+            "Retro",
+            "Polaroid",
+            "HD Imaging"
+          ],
+          "product_id": "S17550809576747589_P00013",
+          "attributes": [],
+          "product_type": "distraction"
+        },
+        {
+          "name": "Kodak C210 Instant Camera",
+          "store_id": "S17550809576747589_S00003",
+          "store_name": "Kechuang Digital Flagship Store",
+          "price": 699,
+          "tags": [
+            "Instant Camera",
+            "Camera",
+            "Graduation Season",
+            "Kodak",
+            "Portable"
+          ],
+          "product_id": "S17550809576747589_P00014",
+          "attributes": [],
+          "product_type": "distraction"
+        },
+        {
+          "name": "Instant Camera Film - Children's Day Limited Edition",
+          "store_id": "S17550809576747589_S00003",
+          "store_name": "Kechuang Digital Flagship Store",
+          "price": 119,
+          "tags": [
+            "Photo Paper",
+            "Instant Camera Accessories",
+            "Fujifilm Photo Paper",
+            "10-piece pack"
+          ],
+          "product_id": "S17550809576747589_P00015",
+          "attributes": [],
+          "product_type": "distraction"
+        }
+      ]
+    },
+    "S17550809576747589_S00004": {
+      "name": "Paipai Digital Supermarket",
+      "store_id": "S17550809576747589_S00004",
+      "score": 4.5,
+      "location": {
+        "address": "Paipai Digital Supermarket, 1200 Jiefang East Road, Nanhu District, Jiaxing, Zhejiang Province",
+        "latitude": 30.7701,
+        "longitude": 120.7612
+      },
+      "tags": [
+        "Digital",
+        "Camera",
+        "Electronic Products"
+      ],
+      "store_type": "distraction",
+      "products": [
+        {
+          "name": "Fujifilm Instax Mini 11 Instant Camera",
+          "store_id": "S17550809576747589_S00004",
+          "store_name": "Paipai Digital Supermarket",
+          "price": 899,
+          "tags": [
+            "Instant Camera",
+            "Camera",
+            "Graduation Gift",
+            "Party Photography",
+            "Fujifilm"
+          ],
+          "product_id": "S17550809576747589_P00016",
+          "attributes": [],
+          "product_type": "distraction"
+        },
+        {
+          "name": "Polaroid Go Instant Camera",
+          "store_id": "S17550809576747589_S00004",
+          "store_name": "Paipai Digital Supermarket",
+          "price": 998,
+          "tags": [
+            "Instant Camera",
+            "Camera",
+            "Party Photography",
+            "Polaroid",
+            "Compact and Portable"
+          ],
+          "product_id": "S17550809576747589_P00017",
+          "attributes": [],
+          "product_type": "distraction"
+        },
+        {
+          "name": "Fujifilm Instax Mini 9 Instant Camera",
+          "store_id": "S17550809576747589_S00004",
+          "store_name": "Paipai Digital Supermarket",
+          "price": 699,
+          "tags": [
+            "Instant Camera",
+            "Camera",
+            "Graduation Gift",
+            "Party Photography",
+            "Fujifilm"
+          ],
+          "product_id": "S17550809576747589_P00018",
+          "attributes": [],
+          "product_type": "target"
+        },
+        {
+          "name": "Instant Camera Film 20-pack",
+          "store_id": "S17550809576747589_S00004",
+          "store_name": "Paipai Digital Supermarket",
+          "price": 139,
+          "tags": [
+            "Instant Camera",
+            "Photo Paper",
+            "Fujifilm",
+            "Accessories"
+          ],
+          "product_id": "S17550809576747589_P00019",
+          "attributes": [],
+          "product_type": "distraction"
+        },
+        {
+          "name": "Xiaomi Handheld Gimbal Stabilizer",
+          "store_id": "S17550809576747589_S00004",
+          "store_name": "Paipai Digital Supermarket",
+          "price": 599,
+          "tags": [
+            "Mobile Photography",
+            "Stabilizer",
+            "Party Photography",
+            "Xiaomi"
+          ],
+          "product_id": "S17550809576747589_P00020",
+          "attributes": [],
+          "product_type": "distraction"
+        }
+      ]
+    }
+  },
+  "orders": {
+    "S17550809576747589_O00001": {
+      "order_id": "S17550809576747589_O00001",
+      "order_type": "delivery",
+      "user_id": "U010062",
+      "store_id": "S17550809576747589_S00001",
+      "total_price": 499.0,
+      "create_time": "2024-06-10 15:30:25",
+      "status": "delivered",
+      "products": [
+        {
+          "product_id": "S17550809576747589_P00003",
+          "price": 499.0,
+          "quantity": 1
+        }
+      ]
+    },
+    "S17550809576747589_O00002": {
+      "order_id": "S17550809576747589_O00002",
+      "order_type": "attraction",
+      "user_id": "U010062",
+      "store_id": "S17550809576747589_A00005",
+      "note": "Visiting with roommates for graduation season",
+      "location": {
+        "address": "Jiaxing Happy World Theme Park, 1888 Jiaxing Avenue, Nanhu District, Jiaxing, Zhejiang Province",
+        "longitude": 120.7812,
+        "latitude": 30.7801
+      },
+      "dispatch_time": "",
+      "shipping_time": 0.0,
+      "delivery_time": "",
+      "total_price": 720.0,
+      "create_time": "2024-06-15 20:35:12",
+      "update_time": "2024-06-15 20:35:12",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17550809576747589_P00022",
+          "price": 180.0,
+          "quantity": 4,
+          "ticket_type": "Student Ticket"
+        }
+      ]
+    },
+    "S17550809576747589_O00003": {
+      "order_id": "S17550809576747589_O00003",
+      "order_type": "attraction",
+      "user_id": "U010062",
+      "store_id": "S17550809576747589_A00007",
+      "note": "Outing for roommate's birthday",
+      "location": {
+        "address": "Jiaxing Fantasy Park, 1688 Jiaxing Avenue North Road, Xiuzhou District, Jiaxing, Zhejiang Province",
+        "longitude": 120.7732,
+        "latitude": 30.8012
+      },
+      "dispatch_time": "",
+      "shipping_time": 0.0,
+      "delivery_time": "",
+      "total_price": 480.0,
+      "create_time": "2024-06-03 09:15:32",
+      "update_time": "2024-06-03 09:15:32",
+      "status": "consumed",
+      "products": [
+        {
+          "product_id": "S17550809576747589_P00036",
+          "price": 120.0,
+          "quantity": 4,
+          "ticket_type": "Student Ticket"
+        }
+      ]
+    },
+    "S17550809576747589_O00004": {
+      "order_id": "S17550809576747589_O00004",
+      "order_type": "train",
+      "user_id": "U010062",
+      "store_id": "T00001",
+      "note": "Short trip to Hangzhou with roommates",
+      "location": {
+        "address": "Jiaxing Railway Station, 1888 Zhonghuan East Road, Xiuzhou District, Jiaxing, Zhejiang Province",
+        "longitude": 120.7689,
+        "latitude": 30.7532
+      },
+      "dispatch_time": "",
+      "shipping_time": 0.0,
+      "delivery_time": "",
+      "total_price": 120.0,
+      "create_time": "2024-05-21 16:25:42",
+      "update_time": "2024-05-21 16:25:42",
+      "status": "consumed",
+      "products": [
+        {
+          "product_id": "T00001_P001",
+          "price": 30.0,
+          "quantity": 4,
+          "seat_type": "Second Class Seat"
+        }
+      ]
+    },
+    "S17550809576747589_O00005": {
+      "order_id": "S17550809576747589_O00005",
+      "order_type": "instore",
+      "user_id": "U010062",
+      "store_id": "S17550809576747589_I00009",
+      "total_price": 442.0,
+      "create_time": "2024-06-16 18:15:32",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17550809576747589_P00047",
+          "price": 168.0,
+          "quantity": 1
+        },
+        {
+          "product_id": "S17550809576747589_P00049",
+          "price": 88.0,
+          "quantity": 1
+        },
+        {
+          "product_id": "S17550809576747589_P00050",
+          "price": 128.0,
+          "quantity": 1
+        },
+        {
+          "product_id": "S17550809576747589_P00051",
+          "price": 58.0,
+          "quantity": 1
+        }
+      ]
+    },
+    "S17550809576747589_O00006": {
+      "order_id": "S17550809576747589_O00006",
+      "order_type": "instore",
+      "user_id": "U010062",
+      "store_id": "S17550809576747589_I00012",
+      "total_price": 198.0,
+      "create_time": "2024-06-16 20:45:18",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17550809576747589_P00068",
+          "price": 198.0,
+          "quantity": 1
+        }
+      ]
+    },
+    "S17550809576747589_O00007": {
+      "order_id": "S17550809576747589_O00007",
+      "order_type": "instore",
+      "user_id": "U010062",
+      "store_id": "S17550809576747589_I00010",
+      "total_price": 298.0,
+      "create_time": "2024-06-05 19:25:42",
+      "status": "consumed",
+      "products": [
+        {
+          "product_id": "S17550809576747589_P00056",
+          "price": 298.0,
+          "quantity": 1
+        }
+      ]
+    }
+  }
+}

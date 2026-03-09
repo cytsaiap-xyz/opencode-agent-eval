@@ -1,0 +1,71 @@
+{
+  "required_orders": [
+    {
+      "order_id": "10826005T001",
+      "order_type": "instore",
+      "user_id": "U293812",
+      "store_id": "S17564420251842877_I00001",
+      "note": "",
+      "location": null,
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 35,
+      "create_time": "2025-09-10 14:36:11",
+      "update_time": "2025-09-10 14:36:11",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17564420251842877_P00001",
+          "price": 118,
+          "quantity": 1,
+          "name": "The Ring Horror Script + Tea Set",
+          "shop_id": "S17564420251842877_I00001",
+          "tags": [
+            "Horror Theme",
+            "Carpooling Service"
+          ]
+        }
+      ]
+    },
+    {
+      "order_id": "10826005T002",
+      "order_type": "instore",
+      "user_id": "U293812",
+      "store_id": "S17564420251842877_I00002",
+      "note": "",
+      "location": null,
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 35,
+      "create_time": "2025-09-10 14:41:27",
+      "update_time": "2025-09-10 14:41:27",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17564420251842877_P00007",
+          "price": 35,
+          "quantity": 1,
+          "name": "Beef Korean Cold Noodles",
+          "shop_id": "S17564420251842877_I00002",
+          "tags": [
+            "Authentic",
+            "Takeaway Available",
+            "Without Apple Strips"
+          ]
+        }
+      ]
+    }
+  ],
+  "rubrics": [
+    "The ordered murder mystery game set must include carpooling service",
+    "The ordered murder mystery game set must include a script",
+    "The ordered murder mystery game set must include script and tea",
+    "The ordered murder mystery game must be horror themed",
+    "The query shows that Friday (2025-09-12) has a high temperature of 32 degrees, exceeding 30 degrees, so the order should be placed at a cold noodle restaurant",
+    "The ordered cold noodle restaurant is within 500m of home",
+    "The ordered cold noodles must not contain apple strips",
+    "The ordered cold noodles must be available for takeaway"
+  ]
+}

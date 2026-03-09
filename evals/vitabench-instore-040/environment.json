@@ -1,0 +1,190 @@
+{
+  "task_id": "10826032",
+  "domain": "instore",
+  "time": "2025-05-08 11:45:00",
+  "user_id": "U945459",
+  "weather": [
+    {
+      "city": "Shaoxing",
+      "category": "cloudy",
+      "datetime": "2025-05-08",
+      "temperature": [
+        21,
+        28
+      ],
+      "humidity": 55
+    }
+  ],
+  "location": [
+    {
+      "address": "Room 502, Unit 3, Building 12, Zhongnan Apartments, 568 Didang Lake Road, Yuecheng District, Shaoxing, Zhejiang Province",
+      "longitude": 120.58765,
+      "latitude": 30.01432
+    },
+    {
+      "address": "Room 801, 8th Floor, Shaoxing Chamber of Commerce Building, 365 Victory East Road, Yuecheng District, Shaoxing, Zhejiang Province",
+      "longitude": 120.58234,
+      "latitude": 30.00897
+    },
+    {
+      "address": "Yuecheng Plaza, 380 Victory East Road, Yuecheng District, Shaoxing, Zhejiang Province",
+      "longitude": 120.58301,
+      "latitude": 30.00921
+    }
+  ],
+  "user_profile": {
+    "user id": "U945459",
+    "occupation": "Sales",
+    "gender": "male",
+    "age group": "30~35",
+    "residence": "Shaoxing",
+    "home address": "Room 502, Unit 3, Building 12, Zhongnan Apartments, 568 Didang Lake Road, Yuecheng District, Shaoxing, Zhejiang Province",
+    "work address": "Room 801, 8th Floor, Shaoxing Chamber of Commerce Building, 365 Victory East Road, Yuecheng District, Shaoxing, Zhejiang Province",
+    "dietary restrictions": "Avoid high purine foods (such as organ meats/seafood soup), avoid alcohol",
+    "family status": "In a relationship",
+    "personality": "Strong logical thinking, likes to analyze and question, pursues accuracy"
+  },
+  "user_historical_behaviors": {
+    "user id": "U945459",
+    "occupation": "Sales",
+    "gender": "male",
+    "age group": "30~35",
+    "residence": "Shaoxing",
+    "home address": "Unit 502, Building 12, Entrance 3, Zhongnan Apartment, No. 568 Didang Lake Road, Yuecheng District, Shaoxing City, Zhejiang Province",
+    "work address": "Room 801, 8th Floor, Shaoxing Chamber of Commerce Building, No. 365 Shengli East Road, Yuecheng District, Shaoxing City, Zhejiang Province",
+    "in-store dining": {
+      "fine-dining": {
+        "frequently purchased categories": [
+          "Local Cuisine/Jiangzhe Cuisine (Average 125 yuan)",
+          "Local Cuisine/Seafood (Average 140 yuan)",
+          "Foreign Cuisine/Japanese Food (Average 160 yuan)"
+        ],
+        "preferred average price per person": "120~160 yuan",
+        "preferred store rating": "4.0~4.8 stars",
+        "typical dining time": "18:30-20:30",
+        "preferred distance": "500~3000m",
+        "recent orders": [
+          {
+            "store": "Jiangnan Kitchen",
+            "product": "Dongpo Pork, West Lake Fish in Vinegar Sauce, Dragon Well Tea Shrimp"
+          },
+          {
+            "store": "Fish Joy Pavilion",
+            "product": "Steamed Sea Bass, Ginger and Scallion Crab"
+          },
+          {
+            "store": "Matsumoto Sushi",
+            "product": "Special Sashimi Platter, Salmon Sushi"
+          }
+        ],
+        "search history": [
+          "Shaoxing High-end Restaurants",
+          "Japanese Cuisine",
+          "Local Cuisine",
+          "Non-alcoholic Beverages"
+        ]
+      },
+      "light meal": {
+        "frequently purchased categories": [
+          "Fast Food/Chinese Quick Meal (Average 35 yuan)",
+          "Fast Food/Western Fast Food (Average 40 yuan)",
+          "Local Cuisine/Sichuan Cuisine (Average 45 yuan)"
+        ],
+        "preferred average price per person": "30~50 yuan",
+        "preferred store rating": "3.5~4.3 stars",
+        "typical dining time": "12:00-13:30",
+        "preferred distance": "0~800m",
+        "recent orders": [
+          {
+            "store": "Green Tea Restaurant",
+            "product": "Grandma's Braised Pork Rice, Sour Plum Soup"
+          },
+          {
+            "store": "West Sichuan Basin",
+            "product": "Mapo Tofu Set Meal, Cucumber Salad"
+          },
+          {
+            "store": "Yoshinoya",
+            "product": "Beef Bowl, Miso Soup"
+          }
+        ],
+        "search history": [
+          "Staff Meal",
+          "Fast Food",
+          "Restaurants near Chamber of Commerce Building",
+          "Bento"
+        ]
+      },
+      "desserts/drinks/snacks": {
+        "frequently purchased categories": [
+          "Beverage Shops (Average 18 yuan)",
+          "Bakery and Desserts (Average 25 yuan)",
+          "Other Dining/Fresh Fruits (Average 15 yuan)"
+        ],
+        "preferred average price per person": "15~30 yuan",
+        "preferred store rating": "3.8~4.5 stars",
+        "typical dining time": "15:00-16:30",
+        "preferred distance": "0~500m",
+        "recent orders": [
+          {
+            "store": "HeyTea",
+            "product": "Grape Pulp Tea"
+          },
+          {
+            "store": "BreadTalk",
+            "product": "Cheese Cake"
+          },
+          {
+            "store": "Xianfeng Fruits",
+            "product": "Pre-cut Fruit Platter"
+          }
+        ],
+        "search history": [
+          "Sugar-free Drinks",
+          "Afternoon Tea",
+          "Low Purine Foods",
+          "Healthy Snacks"
+        ]
+      }
+    },
+    "other in-store services": {
+      "frequently consumed categories": {
+        "Sports & Fitness/Fitness Centers": "40%",
+        "Sports & Fitness/Ball Sports": "35%",
+        "Leisure & Entertainment/Massage/Foot Therapy": "15%",
+        "Beauty Services/Hair Salon": "10%"
+      },
+      "cost per order by category": {
+        "Sports & Fitness/Fitness Centers": "80~150 yuan",
+        "Sports & Fitness/Ball Sports": "60~120 yuan",
+        "Leisure & Entertainment/Massage/Foot Therapy": "120~200 yuan",
+        "Beauty Services/Hair Salon": "80~150 yuan"
+      },
+      "preferred store rating": "4.0~4.8 stars",
+      "preferred service time": "19:00-21:00",
+      "preferred distance": "0~5000m",
+      "recent orders": [
+        {
+          "store": "Super Gorilla Fitness",
+          "product": "Single Group Class"
+        },
+        {
+          "store": "Shaoxing Badminton Court",
+          "product": "Two-Person Court for 2 Hours"
+        },
+        {
+          "store": "Zusheng Tang",
+          "product": "90-Minute Meridian Soothing Foot Therapy"
+        }
+      ],
+      "search history": [
+        "Gym Monthly Pass",
+        "Badminton Courts",
+        "Couples Massage",
+        "Hair Salon"
+      ]
+    }
+  },
+  "stores": {},
+  "orders": {}
+}

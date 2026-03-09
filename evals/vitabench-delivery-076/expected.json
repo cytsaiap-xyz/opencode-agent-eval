@@ -1,0 +1,66 @@
+{
+  "required_orders": [
+    {
+      "order_id": "G0716001T01",
+      "order_type": "delivery",
+      "user_id": "U000057",
+      "store_id": "S19315672627329167_S12289",
+      "note": "",
+      "location": {
+        "address": "Greenland Yuansheng International, Intersection of Jinshui East Road and Dongfeng South Road, Zhengdong New District, Jinshui District, Zhengzhou City, Henan Province",
+        "longitude": 113.768792,
+        "latitude": 34.767286
+      },
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 21,
+      "create_time": "2025-08-16 11:05:00",
+      "update_time": "2025-08-16 11:05:00",
+      "status": "processed",
+      "products": [
+        {
+          "product_id": "S21294793049651694_P89343",
+          "price": 21,
+          "quantity": 1,
+          "attributes": "no tea base"
+        }
+      ]
+    },
+    {
+      "order_id": "G0716001T02",
+      "order_type": "delivery",
+      "user_id": "U000057",
+      "store_id": "S12623390759490947_S33169",
+      "note": "",
+      "location": {
+        "address": "Greenland Yuansheng International, Intersection of Jinshui East Road and Dongfeng South Road, Zhengdong New District, Jinshui District, Zhengzhou City, Henan Province",
+        "longitude": 113.768792,
+        "latitude": 34.767286
+      },
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 38.9,
+      "create_time": "2025-08-16 11:05:00",
+      "update_time": "2025-08-16 11:05:00",
+      "status": "processed",
+      "products": [
+        {
+          "product_id": "S27724810072617102_P48906",
+          "price": 77.8,
+          "quantity": 2,
+          "attributes": ""
+        }
+      ]
+    }
+  ],
+  "rubrics": [
+    "The delivery address for LELECHA Tea order should be Greenland Yuansheng International, Intersection of Jinshui East Road and Dongfeng South Road, Zhengdong New District, Jinshui District, Zhengzhou City, Henan Province",
+    "The estimated delivery time for LELECHA Tea order should be before 12:00 on August 16, 2025",
+    "When choosing LELECHA Tea drinks, select products with no tea base to avoid caffeine",
+    "The delivery address for Xiabu Xiabu Hot Pot order should be Greenland Yuansheng International, Intersection of Jinshui East Road and Dongfeng South Road, Zhengdong New District, Jinshui District, Zhengzhou City, Henan Province",
+    "The estimated delivery time for Xiabu Xiabu Hot Pot order should be before 12:00 on August 16, 2025",
+    "When choosing Xiabu Xiabu Hot Pot set, select non-spicy savory flavor, avoiding mild spicy or spicy flavors"
+  ]
+}

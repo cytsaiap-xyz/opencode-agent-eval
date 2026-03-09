@@ -1,0 +1,183 @@
+{
+  "task_id": "D0812007",
+  "domain": "ota",
+  "time": "2024-09-11 23:17:45",
+  "user_id": "U758433",
+  "weather": [
+    {
+      "city": "Yinchuan",
+      "category": "sunny",
+      "datetime": "2024-09-20",
+      "temperature": [
+        18,
+        32
+      ],
+      "humidity": 45
+    },
+    {
+      "city": "Yinchuan",
+      "category": "cloudy",
+      "datetime": "2024-09-21",
+      "temperature": [
+        16,
+        28
+      ],
+      "humidity": 52
+    },
+    {
+      "city": "Yinchuan",
+      "category": "sunny",
+      "datetime": "2024-09-22",
+      "temperature": [
+        20,
+        35
+      ],
+      "humidity": 38
+    },
+    {
+      "city": "Kunming",
+      "category": "light rain",
+      "datetime": "2024-09-20",
+      "temperature": [
+        15,
+        23
+      ],
+      "humidity": 78
+    }
+  ],
+  "location": [
+    {
+      "address": "Room 1803, Building B, Rongcheng Youjun Complex, 7 Cuihu North Road, Wuhua District, Kunming, Yunnan Province",
+      "longitude": 102.7123,
+      "latitude": 25.0389
+    },
+    {
+      "address": "Room 1505, Building 3, SOHO Junyuan, Intersection of Beijing Road and Baiyun Road, Panlong District, Kunming, Yunnan Province",
+      "longitude": 102.7456,
+      "latitude": 25.0612
+    }
+  ],
+  "user_profile": {
+    "user id": "U758433",
+    "occupation": "Designer",
+    "gender": "male",
+    "age group": "30~35",
+    "residence": "Kunming",
+    "home address": "Room 1803, Building B, Rongcheng Youjun Complex, 7 Cuihu North Road, Wuhua District, Kunming, Yunnan Province",
+    "work address": "Room 1505, Building 3, SOHO Junyuan, Intersection of Beijing Road and Baiyun Road, Panlong District, Kunming, Yunnan Province",
+    "dietary restrictions": "Avoids caffeine, avoids fried food",
+    "family status": "In a relationship",
+    "personality": "Extremely detail-oriented, tends to be picky and easily dissatisfied"
+  },
+  "user_historical_behaviors": {
+    "user id": "U758433",
+    "occupation": "Designer",
+    "gender": "male",
+    "age group": "30~35",
+    "residence": "Kunming",
+    "home address": "Room 1803, Building B, Rongcheng Youjun Complex, 7 Cuihu North Road, Wuhua District, Kunming, Yunnan Province",
+    "work address": "Room 1505, Building 3, SOHO Junyuan, Intersection of Beijing Road and Baiyun Road, Panlong District, Kunming, Yunnan Province",
+    "visited scenes": {
+      "Natural Landscapes (Mountains/Lakes/Forests)": "35%",
+      "Historical and Cultural Sites": "20%",
+      "Exhibition Halls (Museums/Art Galleries)": "25%",
+      "Feature Villages/Industrial Tourism/Uncategorized Projects": "10%",
+      "Hot Spring Scenic Areas": "10%"
+    },
+    "cost per night on hotel": "500~1000 yuan",
+    "visited hotels": {
+      "Atour": "30%",
+      "Ji Hotel": "25%",
+      "Orange Hotel": "20%",
+      "Vienna Hotel": "15%",
+      "Shangri-La Hotel": "10%"
+    },
+    "browsed hotels": {
+      "Four-star Hotels": "40%",
+      "Comfort Hotels": "35%",
+      "Luxury Hotels": "15%",
+      "Five-star Hotels": "10%"
+    },
+    "historical travel plans": {
+      "Kunming-Dali": {
+        "Price Range": "200-350 yuan",
+        "Transportation Mode": "High-Speed Rail"
+      },
+      "Kunming-Lijiang": {
+        "Price Range": "300-450 yuan",
+        "Transportation Mode": "High-Speed Rail"
+      },
+      "Kunming-Beijing": {
+        "Price Range": "1000-1800 yuan",
+        "Transportation Mode": "Airplane"
+      },
+      "Kunming-Shanghai": {
+        "Price Range": "1200-2000 yuan",
+        "Transportation Mode": "Airplane"
+      },
+      "Kunming-Xishuangbanna": {
+        "Price Range": "600-900 yuan",
+        "Transportation Mode": "Airplane"
+      },
+      "Kunming-Shangri-La": {
+        "Price Range": "400-700 yuan",
+        "Transportation Mode": "Long-distance Bus"
+      },
+      "Kunming-Tengchong": {
+        "Price Range": "800-1200 yuan",
+        "Transportation Mode": "Airplane"
+      }
+    }
+  },
+  "stores": {},
+  "orders": {
+    "S17557073973233365_O00001": {
+      "order_id": "S17557073973233365_O00001",
+      "order_type": "train",
+      "user_id": "U758433",
+      "store_id": "S17557073973233365_T00014",
+      "note": "",
+      "location": null,
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 112,
+      "create_time": "2024-09-11 20:45:00",
+      "update_time": "2024-09-11 20:45:00",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17557073973233365_P00112",
+          "price": 56,
+          "quantity": 2,
+          "date": "2024-09-20",
+          "seat_type": "Second Class Seat"
+        }
+      ]
+    },
+    "S17557073973233365_O00002": {
+      "order_id": "S17557073973233365_O00002",
+      "order_type": "train",
+      "user_id": "U758433",
+      "store_id": "S17557073973233365_T00015",
+      "note": "",
+      "location": null,
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 130,
+      "create_time": "2024-09-11 20:52:00",
+      "update_time": "2024-09-11 20:52:00",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17557073973233365_P00122",
+          "price": 65,
+          "quantity": 2,
+          "date": "2024-09-22",
+          "seat_type": "Second Class Seat"
+        }
+      ]
+    }
+  }
+}

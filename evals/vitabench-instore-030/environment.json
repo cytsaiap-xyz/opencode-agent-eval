@@ -1,0 +1,231 @@
+{
+  "task_id": "10826054",
+  "domain": "instore",
+  "time": "2025-03-20 17:30:00",
+  "user_id": "U439032",
+  "weather": [
+    {
+      "city": "Qingdao",
+      "category": "cloudy",
+      "datetime": "2025-03-20",
+      "temperature": [
+        9,
+        16
+      ],
+      "humidity": 55
+    },
+    {
+      "city": "Qingdao",
+      "category": "sunny",
+      "datetime": "2025-03-22",
+      "temperature": [
+        10,
+        18
+      ],
+      "humidity": 45
+    }
+  ],
+  "location": [
+    {
+      "address": "Room 1204, Building B, World Trade Center, No. 6 Hong Kong Middle Road, Shinan District, Qingdao",
+      "longitude": 120.38583,
+      "latitude": 36.07256
+    },
+    {
+      "address": "Room 305, Building D, Qingdao Creative Industry Park, No. 17 Liaoyang West Road, Shibei District, Qingdao",
+      "longitude": 120.37452,
+      "latitude": 36.10238
+    },
+    {
+      "address": "Paris Spring French Restaurant, No. 30 Hong Kong Middle Road, Shinan District, Qingdao",
+      "longitude": 120.38762,
+      "latitude": 36.07349
+    }
+  ],
+  "user_profile": {
+    "user id": "U439032",
+    "occupation": "Advertising Planner",
+    "gender": "female",
+    "age group": "25~30",
+    "residence": "Qingdao",
+    "home address": "Room 1204, Building B, World Trade Center, No. 6 Hong Kong Middle Road, Shinan District, Qingdao",
+    "work address": "Room 305, Building D, Qingdao Creative Industry Park, No. 17 Liaoyang West Road, Shibei District, Qingdao",
+    "dietary restrictions": "No caffeine, Low sugar",
+    "family status": "In a relationship",
+    "personality": "Strong logical thinking, likes to analyze and question, pursues accuracy"
+  },
+  "user_historical_behaviors": {
+    "user id": "U439032",
+    "occupation": "Advertising Planner",
+    "gender": "female",
+    "age group": "25~30",
+    "residence": "Qingdao",
+    "home address": "Room 1204, Building B, World Trade Center, No. 6 Hong Kong Middle Road, Shinan District, Qingdao",
+    "work address": "Room 305, Building D, Qingdao Creative Industry Park, No. 17 Liaoyang West Road, Shibei District, Qingdao",
+    "in-store dining": {
+      "fine-dining": {
+        "frequently purchased categories": [
+          "International Cuisine/Western Food (Average 120 yuan)",
+          "Regional Cuisine/Cantonese Food (Average 150 yuan)",
+          "International Cuisine/Japanese Food (Average 180 yuan)"
+        ],
+        "preferred average price per person": "120~180 yuan",
+        "preferred store rating": "4.2~4.9 stars",
+        "typical dining time": "19:00-21:00",
+        "preferred distance": "500~3000m",
+        "recent orders": [
+          {
+            "store": "Paris Spring French Restaurant",
+            "product": "Classic foie gras with truffle sauce"
+          },
+          {
+            "store": "Xian Shang Xian Seafood Restaurant",
+            "product": "Smokeless Grilled Oysters"
+          },
+          {
+            "store": "Yue Xuan Cantonese Restaurant",
+            "product": "Poached Shrimp"
+          }
+        ],
+        "search history": [
+          "Low sugar cuisine",
+          "Exquisite dinner",
+          "Date restaurants",
+          "Caffeine-free beverages"
+        ]
+      },
+      "light meal": {
+        "frequently purchased categories": [
+          "Fast Food/Chinese Simple Meals (Average 35 yuan)",
+          "Fast Food/Western Fast Food (Average 40 yuan)",
+          "Regional Cuisine/Northeastern Food (Average 45 yuan)"
+        ],
+        "preferred average price per person": "30~50 yuan",
+        "preferred store rating": "3.5~4.3 stars",
+        "typical dining time": "12:00-13:30",
+        "preferred distance": "0~500m",
+        "recent orders": [
+          {
+            "store": "Xiao Chu Niang Fast Food",
+            "product": "Chicken breast salad"
+          },
+          {
+            "store": "Light Meal Philosophy",
+            "product": "Quinoa Chicken Rice"
+          },
+          {
+            "store": "Northeastern Small Kitchen",
+            "product": "Vegetable Dumplings"
+          }
+        ],
+        "search history": [
+          "Healthy low sugar meals",
+          "Light meal",
+          "Fast food",
+          "Weekday lunch"
+        ]
+      },
+      "desserts/drinks/snacks": {
+        "frequently purchased categories": [
+          "Beverage Shops (Average 25 yuan)",
+          "Bread and Desserts (Average 30 yuan)",
+          "Other Food/Fresh Fruits (Average 20 yuan)"
+        ],
+        "preferred average price per person": "20~35 yuan",
+        "preferred store rating": "4.0~4.8 stars",
+        "typical dining time": "15:00-17:00",
+        "preferred distance": "0~800m",
+        "recent orders": [
+          {
+            "store": "ChaYanYueSe",
+            "product": "Sugar-free Jasmine Green Tea"
+          },
+          {
+            "store": "LeLe Tea",
+            "product": "Fruit Tea with Sugar Substitute"
+          },
+          {
+            "store": "Bread Talk",
+            "product": "Low-sugar Whole Wheat Bread"
+          }
+        ],
+        "search history": [
+          "Sugar-free drinks",
+          "Low-sugar desserts",
+          "Healthy beverages",
+          "Fruit tea"
+        ]
+      }
+    },
+    "other in-store services": {
+      "frequently consumed categories": {
+        "Beauty/Hair Salon": "15%",
+        "Beauty/Yoga": "30%",
+        "Sports & Fitness/Fitness Centers": "35%",
+        "Leisure & Entertainment/DIY Workshops": "20%"
+      },
+      "cost per order by category": {
+        "Beauty/Hair Salon": "200~350 yuan",
+        "Beauty/Yoga": "80~150 yuan/session",
+        "Sports & Fitness/Fitness Centers": "100~200 yuan/session",
+        "Leisure & Entertainment/DIY Workshops": "150~300 yuan/session"
+      },
+      "preferred store rating": "4.0~4.8 stars",
+      "preferred service time": "18:00-20:00",
+      "preferred distance": "0~5000m",
+      "recent orders": [
+        {
+          "store": "Qingdao Yoga Life Studio",
+          "product": "Single Person Yoga Class"
+        },
+        {
+          "store": "Qingdao Photosynthesis Fitness Center",
+          "product": "Personal Training Fitness Course"
+        },
+        {
+          "store": "Creative Handicraft Workshop",
+          "product": "Pottery DIY Experience"
+        }
+      ],
+      "search history": [
+        "Women's fitness",
+        "Yoga studio",
+        "DIY handicraft",
+        "Couple DIY experience",
+        "Personal fitness training"
+      ]
+    }
+  },
+  "stores": {},
+  "orders": {
+    "10826035S001": {
+      "order_id": "10826054S001",
+      "order_type": "instore",
+      "user_id": "U439032",
+      "store_id": "S17564425886875082_I00002",
+      "note": "",
+      "location": {
+        "address": "Paris Spring French Restaurant, No. 30 Hong Kong Middle Road, Shinan District, Qingdao",
+        "longitude": 120.38762,
+        "latitude": 36.07349
+      },
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 298,
+      "create_time": "2025-01-19 17:15:32",
+      "update_time": "2025-01-19 17:15:32",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17564425886875082_P00006",
+          "name": "Classic foie gras with truffle sauce",
+          "price": 298,
+          "shop_id": "S17564425886875082_I00002",
+          "quantity": 8,
+          "product_type": "target"
+        }
+      ]
+    }
+  }
+}

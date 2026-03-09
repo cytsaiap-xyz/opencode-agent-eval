@@ -1,0 +1,56 @@
+{
+  "task_id": "46",
+  "query": "I'm planning a trip from Jinan to Hangzhou on November 12, 2025, and will return on November 15. Could you please help me plan this trip? Since I don't want to get up too early or leave too late on the departure day, could you arrange a train departing between 10:00 AM and 2:00 PM? For the return journey, there are no special requirements—just pick a suitable time.\n\nFor accommodation, I'd like to stay in a newer hotel, preferably one that has been recently renovated in 2025, as it would be more comfortable. By the way, there are two of us traveling, so just one room is needed.\n\nAs for sightseeing, there are two places I really want to visit: the \"China Knife, Scissors, and Sword Museum\" and the \"West Lake Musical Fountain\"—please make sure both are included in the itinerary. Also, I've heard that Hangzhou has many relaxing spots, such as those offering \"leisure experiences.\" Could you include your recommended spots of this type? I’d prefer a relaxed and unhurried pace throughout the trip.\n\nRegarding meals, please suggest some good local restaurants along the way—ideally ones featuring authentic local cuisine. That covers all my requirements. I believe I’ve provided enough information; please go ahead and create the full itinerary for me. Thanks so much! November 12, 2025 is Wednesday",
+  "meta_info": {
+    "org": "Jinan",
+    "dest": [
+      "Hangzhou"
+    ],
+    "days": 4,
+    "depart_date": "2025-11-12",
+    "return_date": "2025-11-15",
+    "people_number": 2,
+    "room_number": 1
+  },
+  "hard_constraints": {
+    "train_departure_time_range": {
+      "constraint_context": "The outbound train must depart between 10:00 AM and 2:00 PM",
+      "outbound_train_no": "G179"
+    },
+    "hotel_newest_decoration": {
+      "constraint_context": "For accommodation, please select hotels with renovations completed in 2025 or later",
+      "constraint_type": "superlative_newest_decoration",
+      "hotel_name": "Jinjiang Inn (Hangzhou Huafeng Road Metro Station Branch)",
+      "hotel_price": 235.0,
+      "hotel_score": 4.7,
+      "decoration_time": 2025,
+      "year_threshold": 2025
+    },
+    "attraction_must_visit_named": {
+      "constraint_context": "The itinerary must include visits to the 'China Knife, Scissors, and Sword Museum' and the 'West Lake Music Fountain'.",
+      "constraint_type": "superlative_must_visit_named",
+      "attraction_names": [
+        "China Knife, Scissors, and Sword Museum",
+        "West Lake Music Fountain"
+      ],
+      "attraction_ratings": [
+        4.7,
+        4.7
+      ]
+    },
+    "attraction_all_of_type": {
+      "constraint_context": "Must-visit attractions: all sites of type 'Leisure Experience' mentioned in the recommended attractions tool",
+      "constraint_type": "superlative_all_of_type",
+      "attraction_names": [
+        "Hangzhou Hubin Intime in77 Zone A",
+        "West Lake Music Fountain"
+      ],
+      "attraction_type_cn": "休闲体验",
+      "attraction_type": "Leisure Experience",
+      "attraction_ratings": [
+        4.8,
+        4.7
+      ]
+    }
+  }
+}

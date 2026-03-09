@@ -1,0 +1,220 @@
+{
+  "task_id": "10826236",
+  "domain": "instore",
+  "time": "2024-08-08 16:30:00",
+  "user_id": "U546050",
+  "weather": [
+    {
+      "city": "Zhengzhou",
+      "category": "Heavy Rain",
+      "datetime": "2024-08-08",
+      "temperature": [
+        25,
+        27
+      ],
+      "humidity": 95
+    },
+    {
+      "city": "Zhengzhou",
+      "category": "sunny",
+      "datetime": "2024-08-10",
+      "temperature": [
+        26,
+        29
+      ],
+      "humidity": 65
+    }
+  ],
+  "location": [
+    {
+      "address": "Room 1803, Building 2, English Association Plaza, No. 97 Wenhua Road, Jinshui District, Zhengzhou, Henan Province",
+      "longitude": 113.675,
+      "latitude": 34.762
+    },
+    {
+      "address": "Café, Building B, Wanda Plaza, No. 22 Nongye Road, Jinshui District, Zhengzhou, Henan Province",
+      "longitude": 113.676,
+      "latitude": 34.765
+    }
+  ],
+  "user_profile": {
+    "user id": "U546050",
+    "occupation": "Freelancer",
+    "gender": "male",
+    "age group": "30~35",
+    "residence": "Zhengzhou",
+    "home address": "Room 1803, Building 2, English Association Plaza, No. 97 Wenhua Road, Jinshui District, Zhengzhou, Henan Province",
+    "work address": "Café, Building B, Wanda Plaza, No. 22 Nongye Road, Jinshui District, Zhengzhou, Henan Province",
+    "dietary restrictions": "No organ meats",
+    "family status": "In a relationship",
+    "personality": "Cold and concise in expression, lacks emotional communication and patience"
+  },
+  "user_historical_behaviors": {
+    "user id": "U546050",
+    "occupation": "Freelancer",
+    "gender": "male",
+    "age group": "30~35",
+    "residence": "Zhengzhou",
+    "home address": "Room 1803, Building 2, English Association Plaza, No. 97 Wenhua Road, Jinshui District, Zhengzhou, Henan Province",
+    "work address": "Café, Building B, Wanda Plaza, No. 22 Nongye Road, Jinshui District, Zhengzhou, Henan Province",
+    "in-store dining": {
+      "fine-dining": {
+        "frequently purchased categories": [
+          "Local Cuisine/Sichuan Cuisine (Average 120 yuan)",
+          "International Cuisine/Japanese Food (Average 160 yuan)",
+          "Local Cuisine/Fish Delicacies (Average 140 yuan)"
+        ],
+        "preferred average price per person": "100~180 yuan",
+        "preferred store rating": "4.2~4.8 stars",
+        "typical dining time": "19:00-21:00",
+        "preferred distance": "500~3000m",
+        "recent orders": [
+          {
+            "store": "Shu Xiang Yuan Sichuan Restaurant",
+            "product": "Boiled Fish + Dry Pot Bullfrog"
+          },
+          {
+            "store": "Helu Rotating Sushi",
+            "product": "Salmon Sashimi Platter + Sushi Set B"
+          },
+          {
+            "store": "Yule Xiang River",
+            "product": "Steamed Bass + Sour Soup Fish"
+          }
+        ],
+        "search history": [
+          "Non-alcoholic Sichuan cuisine",
+          "Japanese cuisine",
+          "Healthy fish dishes",
+          "Dating Restaurant"
+        ]
+      },
+      "light meal": {
+        "frequently purchased categories": [
+          "Fast Food/Chinese Quick Meal (Average 35 yuan)",
+          "International Cuisine/Southeast Asian Food (Average 45 yuan)",
+          "Fast Food/Western Quick Meal (Average 30 yuan)"
+        ],
+        "preferred average price per person": "25~50 yuan",
+        "preferred store rating": "3.5~4.3 stars",
+        "typical dining time": "11:30-13:00",
+        "preferred distance": "0~800m",
+        "recent orders": [
+          {
+            "store": "Duck Blood Vermicelli Soup",
+            "product": "Signature Duck Blood Vermicelli Soup + Braised Duck"
+          },
+          {
+            "store": "Vietnamese Rice Noodles",
+            "product": "Beef Pho"
+          },
+          {
+            "store": "McDonald's",
+            "product": "Spicy Chicken Burger Meal"
+          }
+        ],
+        "search history": [
+          "Low-fat quick meal",
+          "Fast food",
+          "Healthy lunch",
+          "Work meal"
+        ]
+      },
+      "desserts/drinks/snacks": {
+        "frequently purchased categories": [
+          "Beverage Shops (Average 18 yuan)",
+          "Bakery and Desserts (Average 25 yuan)",
+          "Other Dining/Fresh Fruits (Average 15 yuan)"
+        ],
+        "preferred average price per person": "15~30 yuan",
+        "preferred store rating": "4.0~4.7 stars",
+        "typical dining time": "15:00-17:00",
+        "preferred distance": "0~500m",
+        "recent orders": [
+          {
+            "store": "HeyTea",
+            "product": "Pulpy Grape + Cheezo Mango"
+          },
+          {
+            "store": "BreadTalk",
+            "product": "Whole Wheat Toast + Low-sugar Cake"
+          },
+          {
+            "store": "Fresh Fruit Workshop",
+            "product": "Fruit Platter"
+          }
+        ],
+        "search history": [
+          "Low-sugar drinks",
+          "Healthy desserts",
+          "Freshly squeezed juice",
+          "Non-alcoholic beverages"
+        ]
+      }
+    },
+    "other in-store services": {
+      "frequently consumed categories": {
+        "Sports & Fitness/Fitness Centers": "40%",
+        "Entertainment/Massage/Foot Therapy": "30%",
+        "Beauty/Yoga": "20%",
+        "Entertainment/Tea Houses": "10%"
+      },
+      "cost per order by category": {
+        "Sports & Fitness/Fitness Centers": "80~200 yuan",
+        "Entertainment/Massage/Foot Therapy": "120~280 yuan",
+        "Beauty/Yoga": "100~180 yuan",
+        "Entertainment/Tea Houses": "60~120 yuan"
+      },
+      "preferred store rating": "4.0~4.8 stars",
+      "preferred service time": "17:00-20:00",
+      "preferred distance": "0~2500m",
+      "recent orders": [
+        {
+          "store": "Qinghe Fitness",
+          "product": "Personal Training + Fitness Experience"
+        },
+        {
+          "store": "Taihe Foot Massage",
+          "product": "Full Body Massage + Foot Therapy Package"
+        },
+        {
+          "store": "Youxin Yoga",
+          "product": "Single Yoga Class"
+        }
+      ],
+      "search history": [
+        "Gym",
+        "Spine massage",
+        "Couple Yoga",
+        "Health tea house",
+        "Stress relief relaxation"
+      ]
+    }
+  },
+  "stores": {},
+  "orders": {
+    "10826236T003": {
+      "order_id": "10826236T003",
+      "order_type": "instore",
+      "user_id": "U546050",
+      "store_id": "S17567842071582031_I00003",
+      "note": "",
+      "location": null,
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 288,
+      "order_time": "2024-08-07 13:23:00",
+      "update_time": "2024-08-07 13:23:00",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17567842071582031_P00020",
+          "name": "Qixi Festival Special Couple Yoga Package",
+          "price": 288,
+          "quantity": 1
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,97 @@
+{
+  "required_orders": [
+    {
+      "order_id": "10826012T001",
+      "order_type": "instore",
+      "user_id": "U216378",
+      "store_id": "S17564420247526245_I00001",
+      "note": "",
+      "location": null,
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 1580,
+      "create_time": "2025-05-09 07:32:21",
+      "update_time": "2025-05-09 07:32:21",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17564420247526245_P00001",
+          "name": "Mother-Daughter Anti-aging SPA Package",
+          "price": 1580,
+          "shop_id": "S17564420247526245_I00001",
+          "tags": [
+            "Facial Treatment",
+            "Body Treatment"
+          ],
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "reservation_id": "10826012T002",
+      "shop_id": "S17564420247526245_I00001",
+      "reservation_time": "2025-05-11 09:00:00",
+      "update_time": "2025-05-09 07:33:59",
+      "customer_id": "U216378",
+      "customer_count": 2,
+      "status": "unconsumed"
+    },
+    {
+      "order_id": "10826012T003",
+      "order_type": "instore",
+      "user_id": "U216378",
+      "store_id": "S17564420247526245_I00002",
+      "note": "",
+      "location": null,
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 416,
+      "create_time": "2025-05-09 07:37:21",
+      "update_time": "2025-05-09 07:37:21",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17564420247526245_P00007",
+          "name": "Poached Premium Squab",
+          "price": 288,
+          "shop_id": "S17564420247526245_I00002",
+          "tags": [
+            "Cantonese Cuisine",
+            "Signature Dish",
+            "Premium Products"
+          ],
+          "quantity": 1
+        },
+        {
+          "product_id": "S17564420247526245_P00009",
+          "name": "Health Tonic Soup Set for Two",
+          "price": 128,
+          "shop_id": "S17564420247526245_I00002",
+          "tags": [
+            "Health Tonic Soup",
+            "Stomach Warming",
+            "Non-photosensitive Ingredients"
+          ],
+          "quantity": 1
+        }
+      ]
+    }
+  ],
+  "rubrics": [
+    "The beauty salon order is from a chain brand",
+    "The package purchased in the beauty salon order is a mother-daughter package",
+    "The package purchased in the beauty salon order is for anti-aging",
+    "Check the specific date of Mother's Day (2025-05-11), and the appointment date at the beauty salon should be 2025-05-11 at 09:00:00",
+    "The number of people for the appointment is 2",
+    "The appointed merchant is Yuerong SPA Beauty Center",
+    "The restaurant ordered should be a Cantonese Tea Restaurant",
+    "The restaurant should be within 3km (including 3km) of Yuerong SPA Beauty Center, B1 Floor, CapitaMall, Wuyi Square, Furong District, Changsha",
+    "The restaurant order should include a Health Nourishing Soup Set",
+    "The Health Nourishing Soup Set purchased should not be chicken soup",
+    "The Health Nourishing Soup Set purchased should not contain photosensitive ingredients",
+    "After checking, if the restaurant's set menu does not include squab, a Premium Squab set meal should be purchased in the restaurant order",
+    "The total cost of all orders should not exceed 2000 yuan"
+  ]
+}

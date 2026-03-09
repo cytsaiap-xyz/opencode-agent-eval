@@ -1,0 +1,791 @@
+{
+  "task_id": "A0811011",
+  "domain": "cross_domain",
+  "time": "2025-11-19 10:30:00",
+  "user_id": "U254331",
+  "weather": [
+    {
+      "city": "Jinjiang",
+      "category": "cloudy",
+      "datetime": "2025-11-19",
+      "temperature": [
+        16,
+        24
+      ],
+      "humidity": 65
+    },
+    {
+      "city": "Fuzhou",
+      "category": "sunny",
+      "datetime": "2025-11-19",
+      "temperature": [
+        18,
+        26
+      ],
+      "humidity": 60
+    }
+  ],
+  "location": [],
+  "user_profile": {
+    "user id": "U254331",
+    "occupation": "Project Manager",
+    "gender": "female",
+    "age group": "30~35",
+    "residence": "Fuzhou",
+    "home address": "Room 1203, Building 4, Zhonggeng City, No. 272 Pushang Avenue, Jinshan Street, Cangshan District, Fuzhou City, Fujian Province",
+    "work address": "3rd Floor, Zone C, Cross-Strait International Convention and Exhibition Center, No. 100 Jiangbin West Avenue, Taijiang District, Fuzhou City, Fujian Province",
+    "dietary restrictions": "Avoids greasy and spicy food, avoids caffeine",
+    "family status": "In a relationship",
+    "personality": "Overly dependent on others for guidance, lacks personal opinions and decisiveness"
+  },
+  "user_historical_behaviors": {
+    "user id": "U254331",
+    "occupation": "Project Manager",
+    "gender": "female",
+    "age group": "30~35",
+    "residence": "Fuzhou",
+    "home address": " Room 1203, Building 4, Zhonggeng City, No. 272 Pushang Avenue, Jinshan Street, Cangshan District, Fuzhou City, Fujian Province",
+    "work address": " 3rd Floor, Zone C, Cross-Strait International Convention and Exhibition Center, No. 100 Jiangbin West Avenue, Taijiang District, Fuzhou City, Fujian Province",
+    "delivery": {
+      "food delivery": {
+        "breakfast": {
+          "frequently purchased categories": [
+            "Quick meals/Buns/Pan-fried buns (average 15 yuan)",
+            "Quick meals/Fried dough sticks (average 8 yuan)",
+            "Quick meals/Rice noodles (average 18 yuan)"
+          ],
+          "cost per order": "10~25 yuan",
+          "preferred store rating": "4.3~4.8 points",
+          "preferred delivery time": "15~25 minutes",
+          "preferred distance": "0~1500m",
+          "recent orders": [
+            {
+              "store": "Yonghe Soybean Milk",
+              "product": "Fried dough stick and soybean milk set"
+            },
+            {
+              "store": "Sha County Snacks",
+              "product": "Meat wonton soup + Steamed buns"
+            },
+            {
+              "store": "Old Fuzhou Breakfast Shop",
+              "product": "Fish ball rice noodles"
+            }
+          ],
+          "search history": [
+            "Soybean milk",
+            "Steamed buns",
+            "Rice noodles",
+            "Light breakfast"
+          ]
+        },
+        "weekday lunch/dinner": {
+          "frequently purchased categories": [
+            "Quick meals/Rice with toppings (average 22 yuan)",
+            "Quick meals/Light food (average 28 yuan)",
+            "Quick meals/Salad (average 25 yuan)"
+          ],
+          "cost per order": "20~35 yuan",
+          "preferred store rating": "4.2~4.7 points",
+          "preferred delivery time": "20~35 minutes",
+          "preferred distance": "0~2500m",
+          "recent orders": [
+            {
+              "store": "Light Cuisine Restaurant",
+              "product": "Steamed fish set"
+            },
+            {
+              "store": "Light Food Philosophy",
+              "product": "Chicken breast salad"
+            },
+            {
+              "store": "Whole Grain King",
+              "product": "Five-grain rice"
+            }
+          ],
+          "search history": [
+            "Low-fat",
+            "Healthy meal",
+            "Weight loss meal",
+            "Light taste"
+          ]
+        },
+        "weekend lunch/dinner": {
+          "frequently purchased categories": [
+            "Chinese cuisine/Cantonese cuisine (average 65 yuan)",
+            "Chinese cuisine/Stewed pot (average 70 yuan)",
+            "International cuisine/Stone pot rice/Teppanyaki rice (average 55 yuan)"
+          ],
+          "cost per order": "55~90 yuan",
+          "preferred store rating": "4.5~4.9 points",
+          "preferred delivery time": "30~45 minutes",
+          "preferred distance": "0~3500m",
+          "recent orders": [
+            {
+              "store": "Cantonese Pavilion",
+              "product": "Steamed fish + Seasonal vegetables"
+            },
+            {
+              "store": "Korean Cuisine",
+              "product": "Stone pot bibimbap"
+            },
+            {
+              "store": "Fuzhou Stewed Pot",
+              "product": "Chicken and mushroom stewed pot"
+            }
+          ],
+          "search history": [
+            "Cantonese cuisine",
+            "No deep-frying",
+            "Healthy",
+            "Stone pot rice"
+          ]
+        },
+        "desserts/drinks/snacks": {
+          "frequently purchased categories": [
+            "Drinks and desserts/Pure tea/Herbal tea (average 18 yuan)",
+            "Drinks and desserts/Fruit bowl (average 22 yuan)"
+          ],
+          "cost per order": "15~25 yuan",
+          "preferred store rating": "4.4~4.8 points",
+          "preferred delivery time": "15~30 minutes",
+          "preferred distance": "0~2000m",
+          "recent orders": [
+            {
+              "store": "Fresh Fruit Tea",
+              "product": "Sugar-free jasmine tea"
+            },
+            {
+              "store": "Fruit Bowl Bowl",
+              "product": "Yogurt fruit bowl"
+            },
+            {
+              "store": "Cha Bai Dao",
+              "product": "Oolong tea"
+            }
+          ],
+          "search history": [
+            "Sugar-free drinks",
+            "Fruit bowl",
+            "Low-calorie desserts",
+            "Tea drinks"
+          ]
+        },
+        "night snack": {
+          "frequently purchased categories": [
+            "Quick meals/Small dishes (average 35 yuan)",
+            "Snacks and braised foods/Braised foods (average 30 yuan)"
+          ],
+          "cost per order": "25~40 yuan",
+          "preferred store rating": "4.3~4.7 points",
+          "preferred delivery time": "20~35 minutes",
+          "preferred distance": "0~2500m",
+          "recent orders": [
+            {
+              "store": "Braised Food Kitchen",
+              "product": "Braised assorted platter"
+            },
+            {
+              "store": "Small Dish Restaurant",
+              "product": "Steamed chicken pieces"
+            },
+            {
+              "store": "Night Food Hall",
+              "product": "Braised beef"
+            }
+          ],
+          "search history": [
+            "Braised food",
+            "Small dishes",
+            "Low-fat night snack",
+            "Braised beef"
+          ]
+        }
+      },
+      "product delivery": {
+        "frequently purchased categories": [
+          "Fruits (28%)",
+          "Vegetables/Bean products (25%)",
+          "Dairy/Ice products (15%)",
+          "Household items (12%)",
+          "Grains/Condiments/Dried goods (10%)",
+          "Others (10%)"
+        ],
+        "frequently visited stores": [
+          "Yonghui Supermarket Taijiang Store (45%)",
+          "Yonghui Life (28%)",
+          "Fuzhou Fruit and Vegetable Fresh (15%)",
+          "Other stores (12%)"
+        ],
+        "cost per order by category": {
+          "Fruits": "10~30 yuan",
+          "Vegetables/Bean products": "5~15 yuan",
+          "Dairy/Ice products": "15~35 yuan",
+          "Household items": "10~40 yuan",
+          "Grains/Condiments/Dried goods": "8~25 yuan"
+        },
+        "preferred delivery time": "25~60 minutes",
+        "typical order time": "17~19 o'clock (35%), 10~12 o'clock (25%), 14~16 o'clock (20%)",
+        "recent orders": [
+          {
+            "store": "Yonghui Supermarket Taijiang Store",
+            "product": "4 apples, 2 broccoli, low-fat yogurt"
+          },
+          {
+            "store": "Yonghui Life",
+            "product": "Oatmeal, tofu, shiitake mushrooms"
+          },
+          {
+            "store": "Fuzhou Fruit and Vegetable Fresh",
+            "product": "Kiwi, spinach, eggs"
+          }
+        ],
+        "search history": [
+          "Low-fat yogurt",
+          "Tofu",
+          "Fruits",
+          "Oatmeal",
+          "Whole wheat bread"
+        ]
+      }
+    },
+    "in-store consumption": {
+      "in-store dining": {
+        "fine-dining": {
+          "frequently purchased categories": [
+            "Regional cuisine/Jiangzhe cuisine (average 120 yuan)",
+            "International cuisine/Japanese food (average 150 yuan)",
+            "Regional cuisine/Cantonese cuisine (average 130 yuan)"
+          ],
+          "preferred average price per person": "100~150 yuan",
+          "preferred store rating": "4.3~4.9 stars",
+          "typical dining time": "18:30-20:30",
+          "preferred distance": "500~3000m",
+          "recent orders": [
+            {
+              "store": "Jiangnan Small Kitchen",
+              "product": "Steamed bass + West Lake fish in vinegar sauce + Dragon Well shrimp"
+            },
+            {
+              "store": "Herolu Rotating Sushi",
+              "product": "Salmon sashimi + Tempura set"
+            },
+            {
+              "store": "Cantonese Mansion Tea Restaurant",
+              "product": "Roast goose rice + Fresh shrimp wonton"
+            }
+          ],
+          "search history": [
+            "Non-spicy Japanese food",
+            "Light Jiangzhe cuisine",
+            "Recommended Cantonese cuisine",
+            "Health-focused restaurant"
+          ]
+        },
+        "light meal": {
+          "frequently purchased categories": [
+            "Snacks and quick meals/Chinese simple meals (average 35 yuan)",
+            "International cuisine/Southeast Asian food (average 45 yuan)",
+            "Snacks and quick meals/Western fast food (average 30 yuan)"
+          ],
+          "preferred average price per person": "25~50 yuan",
+          "preferred store rating": "3.5~4.3 stars",
+          "typical dining time": "12:00-13:30",
+          "preferred distance": "0~500m",
+          "recent orders": [
+            {
+              "store": "Yonghe King",
+              "product": "Three-ingredient fried rice + Small wonton"
+            },
+            {
+              "store": "Thai Addiction",
+              "product": "Tom Yum Kung noodle soup"
+            },
+            {
+              "store": "Salad Diary",
+              "product": "Light food salad + Fresh juice"
+            }
+          ],
+          "search history": [
+            "Light simple meal",
+            "Non-spicy fast food",
+            "Salad",
+            "Healthy lunch box"
+          ]
+        },
+        "desserts/drinks/snacks": {
+          "frequently purchased categories": [
+            "Bread and desserts (average 25 yuan)",
+            "Beverage shops (average 18 yuan)",
+            "Other dining/Fresh fruits (average 15 yuan)"
+          ],
+          "preferred average price per person": "15~30 yuan",
+          "preferred store rating": "4.0~4.8 stars",
+          "typical dining time": "15:00-17:00",
+          "preferred distance": "0~800m",
+          "recent orders": [
+            {
+              "store": "HEYTEA",
+              "product": "Cheese fruit tea (less sugar, no caffeine)"
+            },
+            {
+              "store": "Bread Talk",
+              "product": "Whole wheat walnut bread + Fruit yogurt"
+            },
+            {
+              "store": "Xianfeng Fruits",
+              "product": "Selected fruit platter"
+            }
+          ],
+          "search history": [
+            "Caffeine-free drinks",
+            "Low-sugar desserts",
+            "Healthy bread",
+            "Fresh fruits"
+          ]
+        }
+      },
+      "other in-store services": {
+        "frequently consumed categories": {
+          "Beauty/Yoga": "40%",
+          "Sports and fitness/Fitness center": "30%",
+          "Leisure and entertainment/Massage/Foot therapy": "15%",
+          "Beauty/Hairdressing": "10%",
+          "Leisure and entertainment/DIY workshop": "5%"
+        },
+        "cost per order by category": {
+          "Beauty/Yoga": "80~150 yuan/time",
+          "Sports and fitness/Fitness center": "60~120 yuan/time",
+          "Leisure and entertainment/Massage/Foot therapy": "120~200 yuan/time",
+          "Beauty/Hairdressing": "150~300 yuan/time",
+          "Leisure and entertainment/DIY workshop": "100~200 yuan/time"
+        },
+        "preferred store rating": "4.0~4.8 stars",
+        "preferred service time": "18:00-21:00",
+        "preferred distance": "0~2500m",
+        "recent orders": [
+          {
+            "store": "Joyful Heart Yoga",
+            "product": "Beginner yoga course + Stretching relaxation"
+          },
+          {
+            "store": "Relaxing Time Fitness Center",
+            "product": "One-on-one private coaching session"
+          },
+          {
+            "store": "Zen Ease Foot Therapy",
+            "product": "Neck and shoulder relaxation massage"
+          }
+        ],
+        "search history": [
+          "Gentle yoga",
+          "Women's fitness",
+          "Neck massage",
+          "Stress relief relaxation",
+          "DIY handcraft"
+        ]
+      }
+    },
+    "OTA": {
+      "visited scenes": {
+        "Cultural heritage sites": "25%",
+        "Exhibition halls (museums/art galleries)": "20%",
+        "Natural landscapes (mountains/lakes/forests)": "30%",
+        "Hot spring areas": "15%",
+        "Tourist attractions (mountain/seaside/ecological large-scale scenic areas)": "10%"
+      },
+      "cost per night on hotel": "500~1000 yuan",
+      "visited hotels": {
+        "Atour": "35%",
+        "Ji Hotel": "25%",
+        "Vienna": "20%",
+        "Orange": "15%",
+        "Huazhu": "5%"
+      },
+      "browsed hotels": {
+        "Four-star hotels": "30%",
+        "Three-star hotels": "15%",
+        "Comfort hotels": "45%",
+        "Luxury hotels": "10%"
+      },
+      "historical travel plans": {
+        "Fuzhou-Xiamen": {
+          "price range": "80-150 yuan",
+          "transportation": "High-speed train"
+        },
+        "Fuzhou-Shanghai": {
+          "price range": "600-1000 yuan",
+          "transportation": "Airplane"
+        },
+        "Fuzhou-Beijing": {
+          "price range": "1200-2000 yuan",
+          "transportation": "Airplane"
+        },
+        "Fuzhou-Hangzhou": {
+          "price range": "300-500 yuan",
+          "transportation": "High-speed train"
+        },
+        "Fuzhou-Wuyishan": {
+          "price range": "150-300 yuan",
+          "transportation": "High-speed train"
+        },
+        "Xiamen-Fuzhou": {
+          "price range": "80-150 yuan",
+          "transportation": "High-speed train"
+        },
+        "Shanghai-Fuzhou": {
+          "price range": "600-1000 yuan",
+          "transportation": "Airplane"
+        },
+        "Fuzhou-Jiuzhaigou": {
+          "price range": "1500-2500 yuan",
+          "transportation": "Airplane"
+        },
+        "Fuzhou-Sanya": {
+          "price range": "1000-1800 yuan",
+          "transportation": "Airplane"
+        }
+      }
+    }
+  },
+  "stores": {
+    "S17550807829797634_S00001": {
+      "name": "Yanfulin Bird's Nest Gift Specialty Store",
+      "store_id": "S17550807829797634_S00001",
+      "score": 4.8,
+      "location": {
+        "address": "Yanfulin Bird's Nest Gift Specialty Store, No. 193 Industrial Road, Taijiang District, Fuzhou City, Fujian Province",
+        "latitude": 26.0621,
+        "longitude": 119.3023
+      },
+      "tags": [
+        "Bird's nest",
+        "Tonic products",
+        "Gift box",
+        "Flash delivery"
+      ],
+      "store_type": "target",
+      "products": [
+        {
+          "name": "Premium bird's nest gift box (6-bottle pack)",
+          "store_id": "S17550807829797634_S00001",
+          "store_name": "Yanfulin Bird's Nest Gift Specialty Store",
+          "price": 698,
+          "tags": [
+            "Bird's nest gift box",
+            "High-end gift",
+            "Excellent gift choice",
+            "Delicate packaging",
+            "Immediate delivery"
+          ],
+          "product_id": "S17550807829797634_P00001",
+          "attributes": [
+            "Ready-to-eat bird's nest",
+            "Exquisite gift box",
+            "Gift bag included"
+          ],
+          "product_type": "target"
+        },
+        {
+          "name": "Bird's nest single bottle package",
+          "store_id": "S17550807829797634_S00001",
+          "store_name": "Yanfulin Bird's Nest Gift Specialty Store",
+          "price": 128,
+          "tags": [
+            "Single bottle bird's nest",
+            "Trial package",
+            "Tonic products",
+            "Ready-to-eat bird's nest",
+            "Without gift box"
+          ],
+          "product_id": "S17550807829797634_P00004",
+          "attributes": [
+            "Ready-to-eat bird's nest",
+            "Simple packaging"
+          ],
+          "product_type": "distraction"
+        },
+        {
+          "name": "Bird's nest (4-bottle pack)",
+          "store_id": "S17550807829797634_S00001",
+          "store_name": "Yanfulin Bird's Nest Gift Specialty Store",
+          "price": 498,
+          "tags": [
+            "Entry-level bird's nest",
+            "Without gift box",
+            "Simple packaging"
+          ],
+          "product_id": "S17550807829797634_P00005",
+          "attributes": [
+            "Ready-to-eat bird's nest",
+            "Gift box packaging"
+          ],
+          "product_type": "distraction"
+        }
+      ]
+    },
+    "S17550807829797634_S00002": {
+      "name": "Premium Liquor Collection Specialty Store",
+      "store_id": "S17550807829797634_S00002",
+      "score": 4.7,
+      "location": {
+        "address": "Premium Liquor Collection Specialty Store, No. 128 Wusi Road, Gulou District, Fuzhou City, Fujian Province",
+        "latitude": 26.0854,
+        "longitude": 119.3065
+      },
+      "tags": [
+        "Moutai",
+        "Premium liquor",
+        "Gift box packaging",
+        "Flash delivery"
+      ],
+      "store_type": "target",
+      "products": [
+        {
+          "name": "Flying Fairy Moutai 53% vol (500ml)",
+          "store_id": "S17550807829797634_S00002",
+          "store_name": "Premium Liquor Collection Specialty Store",
+          "price": 2899,
+          "tags": [
+            "Moutai",
+            "Kweichow Moutai",
+            "Ideal gift",
+            "Premium baijiu",
+            "National liquor"
+          ],
+          "product_id": "S17550807829797634_P00006",
+          "attributes": [],
+          "product_type": "target"
+        },
+        {
+          "name": "Wuliangye 52% vol (500ml Classic Edition)",
+          "store_id": "S17550807829797634_S00002",
+          "store_name": "Premium Liquor Collection Specialty Store",
+          "price": 1299,
+          "tags": [
+            "Wuliangye",
+            "Strong-aroma type",
+            "Premium baijiu",
+            "Gift giving"
+          ],
+          "product_id": "S17550807829797634_P00010",
+          "attributes": [],
+          "product_type": "distraction"
+        }
+      ]
+    },
+    "S17550807829797634_S00003": {
+      "name": "Fuzhou Specialty Gift Shop",
+      "store_id": "S17550807829797634_S00003",
+      "score": 4.5,
+      "location": {
+        "address": "Fuzhou Specialty Gift Shop, No. 1 Wuyi South Road, Taijiang District, Fuzhou City, Fujian Province",
+        "latitude": 26.0547,
+        "longitude": 119.3101
+      },
+      "tags": [
+        "Local specialty",
+        "Tea",
+        "Souvenir gift",
+        "Flash delivery"
+      ],
+      "store_type": "distraction",
+      "products": [
+        {
+          "name": "Fuzhou jasmine tea gift box",
+          "store_id": "S17550807829797634_S00003",
+          "store_name": "Fuzhou Specialty Gift Shop",
+          "price": 128,
+          "tags": [
+            "Jasmine tea",
+            "Gift box set",
+            "Fuzhou specialty",
+            "Ideal gift"
+          ],
+          "product_id": "S17550807829797634_P00011",
+          "attributes": [
+            "Premium grade",
+            "First grade",
+            "Second grade"
+          ],
+          "product_type": "distraction"
+        },
+        {
+          "name": "Fuzhou soft candy souvenir gift box",
+          "store_id": "S17550807829797634_S00003",
+          "store_name": "Fuzhou Specialty Gift Shop",
+          "price": 88,
+          "tags": [
+            "Fuzhou specialty",
+            "Soft candy",
+            "Souvenir gift",
+            "Gift box set"
+          ],
+          "product_id": "S17550807829797634_P00012",
+          "attributes": [
+            "Small box",
+            "Medium box",
+            "Large box"
+          ],
+          "product_type": "distraction"
+        },
+        {
+          "name": "Fuzhou Gushan tea premium gift box",
+          "store_id": "S17550807829797634_S00003",
+          "store_name": "Fuzhou Specialty Gift Shop",
+          "price": 298,
+          "tags": [
+            "Gushan tea",
+            "Premium gift box",
+            "Fuzhou specialty",
+            "Gift for elders"
+          ],
+          "product_id": "S17550807829797634_P00013",
+          "attributes": [
+            "100g",
+            "200g",
+            "300g"
+          ],
+          "product_type": "distraction"
+        },
+        {
+          "name": "Shoushan stone seal gift box",
+          "store_id": "S17550807829797634_S00003",
+          "store_name": "Fuzhou Specialty Gift Shop",
+          "price": 580,
+          "tags": [
+            "Shoushan stone",
+            "Seal",
+            "Fuzhou specialty",
+            "Traditional craftsmanship"
+          ],
+          "product_id": "S17550807829797634_P00014",
+          "attributes": [
+            "Single seal",
+            "Double seal set"
+          ],
+          "product_type": "distraction"
+        },
+        {
+          "name": "Fuzhou lacquerware gift set",
+          "store_id": "S17550807829797634_S00003",
+          "store_name": "Fuzhou Specialty Gift Shop",
+          "price": 468,
+          "tags": [
+            "Lacquerware",
+            "Fuzhou specialty",
+            "Traditional craftsmanship",
+            "Exquisite gift box"
+          ],
+          "product_id": "S17550807829797634_P00015",
+          "attributes": [
+            "Small set",
+            "Medium set",
+            "Deluxe set"
+          ],
+          "product_type": "distraction"
+        }
+      ]
+    },
+    "S17550807829797634_S00004": {
+      "name": "Shoukang Hall Health Products Store",
+      "store_id": "S17550807829797634_S00004",
+      "score": 4.3,
+      "location": {
+        "address": "Shoukang Hall Health Products Store, No. 8 Jinrong South Road, Cangshan District, Fuzhou City, Fujian Province",
+        "latitude": 26.0212,
+        "longitude": 119.3232
+      },
+      "tags": [
+        "Health products",
+        "Tonic products",
+        "Gift box",
+        "Flash delivery"
+      ],
+      "store_type": "distraction",
+      "products": [
+        {
+          "name": "Ready-to-eat bird's nest single bottle",
+          "store_id": "S17550807829797634_S00004",
+          "store_name": "Shoukang Hall Health Products Store",
+          "price": 128,
+          "tags": [
+            "Bird's nest",
+            "Tonic products",
+            "Single bottle",
+            "Ready-to-eat",
+            "Without gift box"
+          ],
+          "product_id": "S17550807829797634_P00017",
+          "attributes": [
+            "Ready-to-eat",
+            "70ml"
+          ],
+          "product_type": "distraction"
+        },
+        {
+          "name": "Ginseng tonic gift box",
+          "store_id": "S17550807829797634_S00004",
+          "store_name": "Shoukang Hall Health Products Store",
+          "price": 388,
+          "tags": [
+            "Ginseng",
+            "Tonic products",
+            "Gift box",
+            "Ideal gift"
+          ],
+          "product_id": "S17550807829797634_P00018",
+          "attributes": [
+            "Premium gift box",
+            "5-year root"
+          ],
+          "product_type": "distraction"
+        },
+        {
+          "name": "Ejiao cake gift box",
+          "store_id": "S17550807829797634_S00004",
+          "store_name": "Shoukang Hall Health Products Store",
+          "price": 268,
+          "tags": [
+            "Ejiao",
+            "Tonic products",
+            "Gift box",
+            "Gift giving"
+          ],
+          "product_id": "S17550807829797634_P00020",
+          "attributes": [
+            "500g",
+            "Exquisite gift box"
+          ],
+          "product_type": "distraction"
+        }
+      ]
+    }
+  },
+  "orders": {
+    "A0811011T005": {
+      "order_id": "A0811011T005",
+      "order_type": "train",
+      "user_id": "U254331",
+      "store_id": "S17550807829797634_T00005",
+      "note": "",
+      "location": null,
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 126,
+      "create_time": "2025-11-17 11:24:00",
+      "update_time": "2025-11-17 11:24:00",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17550807829797634_P00021",
+          "price": 126,
+          "quantity": 1,
+          "date": "2025-11-19",
+          "seat_type": "Second-class seat"
+        }
+      ]
+    }
+  }
+}

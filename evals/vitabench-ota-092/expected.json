@@ -1,0 +1,93 @@
+{
+  "required_orders": [
+    {
+      "order_id": "D0811008T001",
+      "order_type": "hotel",
+      "user_id": "U010087",
+      "store_id": "S17557518247339297_H00001",
+      "note": "",
+      "location": null,
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 888,
+      "create_time": "2024-03-17 11:58:49",
+      "update_time": "2024-03-17 11:58:49",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17557518247339297_P00003",
+          "price": 888,
+          "quantity": 1,
+          "date": "2024-03-17",
+          "room_type": "Deluxe Hot Spring King Room"
+        }
+      ]
+    },
+    {
+      "order_id": "D0811008T002",
+      "order_type": "train",
+      "user_id": "U010087",
+      "store_id": "S17557518247339297_T00011",
+      "note": "",
+      "location": null,
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 144,
+      "create_time": "2024-03-17 12:00:00",
+      "update_time": "2024-03-17 12:00:00",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17557518247339297_P00057",
+          "price": 72,
+          "quantity": 2,
+          "date": "2024-03-18",
+          "seat_type": "First Class Seat"
+        }
+      ]
+    },
+    {
+      "order_id": "D0811008T003",
+      "order_type": "attraction",
+      "user_id": "U010087",
+      "store_id": "S17557518247339297_A00005",
+      "note": "",
+      "location": null,
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 560,
+      "create_time": "2024-03-17 12:02:00",
+      "update_time": "2024-03-17 12:02:00",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17557518247339297_P00023",
+          "price": 280,
+          "quantity": 2,
+          "date": "2024-03-18",
+          "ticket_type": "Adult All-Inclusive Package"
+        }
+      ]
+    }
+  ],
+  "rubrics": [
+    "The hotel booked should be a four-star hotel",
+    "The hotel booked should be a hot spring hotel",
+    "The hotel booked should have a First Floor Sauna Room",
+    "The room type in the hotel order should include hot spring service",
+    "The room type in the hotel order should be a king room",
+    "The date in the hotel order should be 2024-03-17",
+    "The departure date of the train ticket should be 2024-03-18",
+    "The arrival time of the train ticket should be before 12:00 (including 12:00)",
+    "The seat type of the train ticket should be First Class Seat or Business Class Seat",
+    "The train journey should be the shortest among the available options, which is D7625 (10:20-11:35, duration 75 minutes)",
+    "The quantity of the train ticket order should be 2",
+    "The attraction booked should be Benxi Grand Canyon",
+    "Need to check the weather in Benxi on 2024-03-18, which is sunny, so the attraction tickets should be for the package with more activities (Benxi Grand Canyon All-Inclusive Package)",
+    "The quantity in the attraction order should be 2",
+    "The date in the attraction order should be 2024-03-18"
+  ]
+}

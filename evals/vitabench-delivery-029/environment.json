@@ -1,0 +1,360 @@
+{
+  "task_id": "40721002",
+  "domain": "delivery",
+  "time": "2026-06-24 11:22:28",
+  "user_id": "U000092",
+  "weather": [
+    {
+      "city": "Luoyang City",
+      "category": "sunny",
+      "datetime": "2026-06-24",
+      "temperature": [
+        23,
+        32
+      ],
+      "humidity": 41
+    }
+  ],
+  "location": [
+    {
+      "address": "ZTO Express Xigong Branch 3, No. 3 Jiankang East Road, Xigong District, Luoyang, Henan Province",
+      "longitude": 112.44004,
+      "latitude": 34.676322
+    }
+  ],
+  "user_profile": {
+    "user id": "U000092",
+    "occupation": "Delivery Person",
+    "gender": "male",
+    "age group": "25~30",
+    "residence": "Luoyang",
+    "home address": "Hexie Garden, 340 meters northwest of the intersection of Xindong Road and Fuchang Road, Yiyang County, Luoyang, Henan Province",
+    "work address": "ZTO Express Xigong Branch 3, No. 3 Jiankang East Road, Xigong District, Luoyang, Henan Province",
+    "dietary restrictions": "None",
+    "family status": "Has pets",
+    "personality": "Mild-tempered with high cooperation, good at listening and understanding"
+  },
+  "user_historical_behaviors": {
+    "user id": "U000092",
+    "occupation": "courier",
+    "gender": "male",
+    "age group": "25~30",
+    "residence": "Luoyang",
+    "home address": "Hexie Garden, 340 meters northwest of the intersection of Xindong Road and Fuchang Road, Yiyang County, Luoyang, Henan Province",
+    "work address": "ZTO Express Xigong Branch 3, No. 3 Jiankang East Road, Xigong District, Luoyang, Henan Province",
+    "breakfast": {
+      "frequently purchased categories": [
+        "Quick meals/Steamed buns/Pan-fried buns (average ¥15)",
+        "Quick meals/Jianbing/Wraps/Hand-grabbed pancakes (average ¥12)"
+      ],
+      "cost per order": "¥10~25",
+      "preferred store rating": "4.2~4.7 stars",
+      "preferred delivery time": "10~35 minutes",
+      "preferred distance": "0~3000m",
+      "recent orders": [
+        {
+          "store": "Breakfast King",
+          "product": "Pork and Green Onion Buns + Spicy Soup"
+        },
+        {
+          "store": "Lao Wang's Hand-grabbed Pancakes",
+          "product": "Bacon and Egg Hand-grabbed Pancake"
+        }
+      ],
+      "search history": [
+        "steamed buns",
+        "hand-grabbed pancakes",
+        "quick breakfast",
+        "fried dough sticks"
+      ]
+    },
+    "weekday lunch/dinner": {
+      "frequently purchased categories": [
+        "Quick meals/Fried rice (average ¥22)",
+        "Quick meals/Set meals (average ¥25)",
+        "Quick meals/Rice noodles (average ¥20)"
+      ],
+      "cost per order": "¥15~35",
+      "preferred store rating": "3.8~5.0 stars",
+      "preferred delivery time": "15~40 minutes",
+      "preferred distance": "0~5000m",
+      "recent orders": [
+        {
+          "store": "Chushan Beef Fried Rice Shop (Luoyang Xigong Branch)",
+          "product": "Green Pepper and Shredded Pork Egg Fried Rice"
+        },
+        {
+          "store": "Hunan Beef Noodles (Beef Noodle Soup)",
+          "product": "Braised Beef Offal Noodles (Soup Separate)"
+        },
+        {
+          "store": "Spicy Xiaodu (Handmade Spicy Strips, Old Town Store)",
+          "product": "Cold Beef Strips (Spicy), Spicy Lotus Root Dices"
+        }
+      ],
+      "search history": [
+        "cheap meals",
+        "fried rice",
+        "rice noodles",
+        "pork rib rice",
+        "fast delivery"
+      ]
+    },
+    "weekend lunch/dinner": {
+      "frequently purchased categories": [
+        "Chinese cuisine/Sichuan cuisine (average ¥45)",
+        "Quick meals/Small dishes (average ¥40)",
+        "Chinese cuisine/Hunan cuisine (average ¥50)"
+      ],
+      "cost per order": "¥35~70",
+      "preferred store rating": "4.3~4.8 stars",
+      "preferred delivery time": "20~40 minutes",
+      "preferred distance": "0~3500m",
+      "recent orders": [
+        {
+          "store": "Sichuan Flavor Garden",
+          "product": "Boiled Sliced Pork + Garlic Pork Slices + Rice"
+        },
+        {
+          "store": "Authentic Hunan Taste",
+          "product": "Fish Head with Chopped Chili + Stir-fried Pork + Rice"
+        },
+        {
+          "store": "Home-style Restaurant",
+          "product": "Twice-cooked Pork + Green Pepper and Shredded Potato + Rice"
+        }
+      ],
+      "search history": [
+        "boiled pork slices",
+        "home-style dishes",
+        "Sichuan cuisine",
+        "cheap and tasty",
+        "Hunan cuisine"
+      ]
+    },
+    "desserts/drinks/snacks": {
+      "frequently purchased categories": [
+        "Desserts/drinks/Milk tea (average ¥18)",
+        "Desserts/drinks/Fruit juice (average ¥15)",
+        "Desserts/drinks/Chinese pastries (average ¥20)"
+      ],
+      "cost per order": "¥12~25",
+      "preferred store rating": "4.0~4.8 stars",
+      "preferred delivery time": "15~30 minutes",
+      "preferred distance": "0~4500m",
+      "recent orders": [
+        {
+          "store": "Mixue Ice Cream",
+          "product": "Iced Fresh Lemon Water"
+        },
+        {
+          "store": "Fresh Fruit Workshop",
+          "product": "Fresh Watermelon Juice"
+        },
+        {
+          "store": "Old Neighborhood Pastry",
+          "product": "Red Bean Paste Bun"
+        }
+      ],
+      "search history": [
+        "cheap milk tea",
+        "Mixue Ice Cream",
+        "fruit juice",
+        "thirst-quenching drinks",
+        "pastries"
+      ]
+    },
+    "night snack": {
+      "frequently purchased categories": [
+        "Quick meals/Hui noodles (average ¥20)",
+        "Quick meals/Clay pot soup (average ¥18)",
+        "Quick meals/Spicy soup (average ¥12)"
+      ],
+      "cost per order": "¥15~30",
+      "preferred store rating": "4.0~4.8 stars",
+      "preferred delivery time": "15~35 minutes",
+      "preferred distance": "0~3000m",
+      "recent orders": [
+        {
+          "store": "Old Street Hui Noodles",
+          "product": "Beef Hui Noodles"
+        },
+        {
+          "store": "Night Snack Spicy Soup",
+          "product": "Signature Spicy Soup + Steamed Buns"
+        },
+        {
+          "store": "Luoyang Clay Pot Soup",
+          "product": "Bone Broth Clay Pot"
+        }
+      ],
+      "search history": [
+        "hui noodles",
+        "spicy soup",
+        "clay pot soup",
+        "night snack"
+      ]
+    }
+  },
+  "stores": {
+    "S14430480741096540_S15798": {
+      "name": "Sanqin Rice Skin Noodles (Cinema Street Direct Store)",
+      "store_id": "S14430480741096540_S15798",
+      "score": 4.8,
+      "location": {
+        "address": "Sanqin Rice Skin Noodles (Cinema Street Store), Storefront of No. 5 Courtyard, Middle Section of Cinema Street, Xigong District, Luoyang, Henan Province",
+        "latitude": 34.675484,
+        "longitude": 112.447074
+      },
+      "tags": [
+        "Meituan Delivery"
+      ],
+      "products": [
+        {
+          "name": "Sanqin Rice Skin Noodles + Lean-Fat Pork Sandwich + Tiger Skin Eggs + Nongfu Spring Water",
+          "product_id": "S26182418190845124_P94217",
+          "store_id": "S14430480741096540_S15798",
+          "store_name": "Sanqin Rice Skin Noodles (Cinema Street Direct Store)",
+          "price": 26.9,
+          "tags": [],
+          "attributes": [],
+          "quantity": 9999
+        },
+        {
+          "name": "Rolled Noodle Sheet + Lean-Fat Pork Sandwich + Nongfu Spring Water",
+          "product_id": "S31265978896888903_P71817",
+          "store_id": "S14430480741096540_S15798",
+          "store_name": "Sanqin Rice Skin Noodles (Cinema Street Direct Store)",
+          "price": 23.9,
+          "tags": [],
+          "attributes": [],
+          "quantity": 9999
+        }
+      ]
+    },
+    "S23597952404471978_S32268": {
+      "name": "Spicy Xiaodu (Handmade Spicy Strips, Old Town Store)",
+      "store_id": "S23597952404471978_S32268",
+      "score": 5,
+      "location": {
+        "address": "No. 18-4 Wan'an Street, Old Town District, Luoyang, Henan Province (300m walk from Exit B of Lijingmen Subway Station) Spicy Xiaodu Handmade Spicy Strips (Old Town Store)",
+        "latitude": 34.680203,
+        "longitude": 112.468817
+      },
+      "tags": [],
+      "products": [
+        {
+          "name": "Cold Beef Strips (Spicy)",
+          "product_id": "S26405762812607500_P84518",
+          "store_id": "S23597952404471978_S32268",
+          "store_name": "Spicy Xiaodu (Handmade Spicy Strips, Old Town Store)",
+          "price": 12.8,
+          "tags": [],
+          "attributes": [],
+          "quantity": 9999
+        },
+        {
+          "name": "Five-Spice Spicy Strips",
+          "product_id": "S31379212894739768_P71880",
+          "store_id": "S23597952404471978_S32268",
+          "store_name": "Spicy Xiaodu (Handmade Spicy Strips, Old Town Store)",
+          "price": 6.8,
+          "tags": [],
+          "attributes": [],
+          "quantity": 9999
+        }
+      ]
+    },
+    "S16010614353825061_S68706": {
+      "name": "Sanqin Rice Skin Noodles (Old Town Store)",
+      "store_id": "S16010614353825061_S68706",
+      "score": 4.9,
+      "location": {
+        "address": "No. 2 Zhongzhou West Road, Jianxi District, Luoyang, Henan Province",
+        "latitude": 34.662351,
+        "longitude": 112.416605
+      },
+      "tags": [],
+      "products": [
+        {
+          "name": "Selected Single Meal: Shaanxi Sanqin Handmade Rice Skin Noodles + Lean-Fat Pork Sandwich + Soda",
+          "product_id": "S18691194880252263_P06389",
+          "store_id": "S16010614353825061_S68706",
+          "store_name": "Sanqin Rice Skin Noodles (Old Town Store)",
+          "price": 26,
+          "tags": [],
+          "attributes": [],
+          "quantity": 9999
+        }
+      ]
+    },
+    "S10297868986614440_S95457": {
+      "name": "Xi'an Famous Food (July 1st Road Store)",
+      "store_id": "S10297868986614440_S95457",
+      "score": 4.6,
+      "location": {
+        "address": "No. 106, 1st Floor, July 1st Apartments, July 1st North Road, Xigong District, Luoyang, Henan Province",
+        "latitude": 34.667378,
+        "longitude": 112.450457
+      },
+      "tags": [],
+      "products": [
+        {
+          "name": "Cold Rice Noodles",
+          "product_id": "S49324040188329559_P19418",
+          "store_id": "S10297868986614440_S95457",
+          "store_name": "Xi'an Famous Food (July 1st Road Store)",
+          "price": 9,
+          "tags": [],
+          "attributes": [],
+          "quantity": 9999
+        },
+        {
+          "name": "Premium Pork Sandwich",
+          "product_id": "S93100139976968236_P66760",
+          "store_id": "S10297868986614440_S95457",
+          "store_name": "Xi'an Famous Food (July 1st Road Store)",
+          "price": 13,
+          "tags": [],
+          "attributes": [],
+          "quantity": 9999
+        }
+      ]
+    }
+  },
+  "orders": {
+    "40711008O01": {
+      "order_id": "40711008O01",
+      "order_type": "delivery",
+      "user_id": "U000092",
+      "store_id": "S23597952404471978_S32268",
+      "note": "",
+      "location": {
+        "address": "ZTO Express Xigong Branch 3, No. 3 Jiankang East Road, Xigong District, Luoyang, Henan Province",
+        "longitude": 112.44004,
+        "latitude": 34.676322
+      },
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 19.6,
+      "create_time": "2026-06-24 11:19:00",
+      "update_time": "2026-06-24 11:19:00",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S26405762812607500_P84518",
+          "price": 12.8,
+          "quantity": 1,
+          "attributes": ""
+        },
+        {
+          "product_id": "S31379212894739768_P71880",
+          "price": 6.8,
+          "quantity": 1,
+          "attributes": ""
+        }
+      ]
+    }
+  }
+}

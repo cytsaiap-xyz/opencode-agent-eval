@@ -1,0 +1,840 @@
+{
+  "task_id": "10807008",
+  "domain": "cross_domain",
+  "time": "2025-07-25 10:30:00",
+  "user_id": "U010038",
+  "weather": [
+    {
+      "city": "Dalian",
+      "category": "sunny",
+      "datetime": "2025-07-25",
+      "temperature": [
+        24,
+        32
+      ],
+      "humidity": 65
+    },
+    {
+      "city": "Dalian",
+      "category": "cloudy",
+      "datetime": "2025-07-26",
+      "temperature": [
+        25,
+        33
+      ],
+      "humidity": 70
+    },
+    {
+      "city": "Dalian",
+      "category": "sunny",
+      "datetime": "2025-07-27",
+      "temperature": [
+        26,
+        34
+      ],
+      "humidity": 68
+    },
+    {
+      "city": "Beijing",
+      "category": "cloudy",
+      "datetime": "2025-07-26",
+      "temperature": [
+        25,
+        35
+      ],
+      "humidity": 60
+    },
+    {
+      "city": "Beijing",
+      "category": "sunny",
+      "datetime": "2025-07-27",
+      "temperature": [
+        26,
+        36
+      ],
+      "humidity": 55
+    }
+  ],
+  "location": [
+    {
+      "address": "Dalian Port, 41 Changjiang Road, Zhongshan District, Dalian, Liaoning Province",
+      "longitude": 121.650595,
+      "latitude": 38.92656
+    }
+  ],
+  "user_profile": {
+    "user id": "U010038",
+    "occupation": "Blue-collar worker",
+    "gender": "male",
+    "age group": "30~35",
+    "residence": "Harbin",
+    "Permanent address": "Apartment 502, Building 3, Riverside Home Complex, 89 East Straight Road, Daowai District, Harbin, Heilongjiang Province",
+    "work address": "Zone C, Harbin New District Equipment Manufacturing Industrial Park, 1299 Innovation First Road, Songbei District, Harbin, Heilongjiang Province",
+    "dietary restrictions": "Avoids high purine foods (such as organ meats/seafood soup), avoids deep-fried foods",
+    "family status": "Has children",
+    "personality": "Expresses himself in a cold and concise manner, lacks emotional communication and patience"
+  },
+  "user_historical_behaviors": {
+    "user id": "U010038",
+    "occupation": "Blue-collar worker",
+    "gender": "male",
+    "age group": "30~35",
+    "residence": "Harbin",
+    "Permanent address": "Room 502, Building 3, Jiangpan Jiayuan, 89 Dongzhi Road, Daowai District, Harbin, Heilongjiang Province",
+    "work address": "Zone C, Harbin New District Equipment Manufacturing Industrial Park, 1299 Innovation First Road, Songbei District, Harbin, Heilongjiang Province",
+    "food delivery": {
+      "Takeout food": {
+        "breakfast": {
+          "frequently purchased categories": [
+            "Quick meals/Steamed buns/Pan-fried buns (Average 18 yuan)",
+            "Quick meals/Spicy soup (Average 12 yuan)",
+            "Quick meals/Fried dough sticks (Average 8 yuan)"
+          ],
+          "cost per order": "15~30 yuan",
+          "preferred store rating": "4.3~4.8 points",
+          "preferred delivery time": "15~25 minutes",
+          "preferred distance": "0~2000m",
+          "recent orders": [
+            {
+              "store": "Old Luoyang Spicy Soup",
+              "product": "Signature spicy soup + Soup dumplings"
+            },
+            {
+              "store": "Wang's Breakfast Shop",
+              "product": "Soy milk + Fried dough sticks + Meat bun"
+            },
+            {
+              "store": "Henan Stew Noodle Restaurant",
+              "product": "Beef stew noodles"
+            }
+          ],
+          "search history": [
+            "Spicy soup",
+            "Steamed buns",
+            "Stew noodles",
+            "Breakfast set"
+          ]
+        },
+        "weekday lunch/dinner": {
+          "frequently purchased categories": [
+            "Quick meals/Braised chicken rice (Average 28 yuan)",
+            "Chinese cuisine/Sichuan cuisine (Average 45 yuan)",
+            "Quick meals/Stew noodles (Average 22 yuan)"
+          ],
+          "cost per order": "25~55 yuan",
+          "preferred store rating": "4.2~4.7 points",
+          "preferred delivery time": "20~35 minutes",
+          "preferred distance": "0~3500m",
+          "recent orders": [
+            {
+              "store": "Braised Chicken Rice",
+              "product": "Mild spicy braised chicken + Rice + Braised egg"
+            },
+            {
+              "store": "Chuanxi Bazi",
+              "product": "Twice-cooked pork + Rice + Boiled vegetables"
+            },
+            {
+              "store": "Luoyang Water Banquet",
+              "product": "Luoyang beef soup + Steamed bun"
+            }
+          ],
+          "search history": [
+            "Braised chicken",
+            "Sichuan cuisine",
+            "Beef soup",
+            "Fast food",
+            "Single meal set"
+          ]
+        },
+        "weekend lunch/dinner": {
+          "frequently purchased categories": [
+            "Chinese cuisine/Crayfish (Average 88 yuan)",
+            "Hot pot/Lamb spine hot pot (Average 128 yuan)",
+            "Chinese cuisine/Grilled fish (Average 98 yuan)"
+          ],
+          "cost per order": "80~150 yuan",
+          "preferred store rating": "4.5~4.9 points",
+          "preferred delivery time": "30~45 minutes",
+          "preferred distance": "0~5000m",
+          "recent orders": [
+            {
+              "store": "Sichuan Crayfish",
+              "product": "Spicy crayfish 4 pounds + Potatoes + Crown daisy"
+            },
+            {
+              "store": "Deshunzhai Lamb Spine",
+              "product": "Lamb spine hot pot + Steamed buns + Meatballs"
+            },
+            {
+              "store": "Bashu Grilled Fish",
+              "product": "Spicy grilled fish + Rice + Bean sprouts"
+            }
+          ],
+          "search history": [
+            "Crayfish",
+            "Lamb spine",
+            "Grilled fish",
+            "Family Package"
+          ]
+        },
+        "desserts/drinks/snacks": {
+          "frequently purchased categories": [
+            "Beverages and desserts/Milk tea (Average 22 yuan)",
+            "Beverages and desserts/Chinese pastries (Average 18 yuan)",
+            "Beverages and desserts/Fruit salad (Average 32 yuan)"
+          ],
+          "cost per order": "18~40 yuan",
+          "preferred store rating": "4.4~4.8 points",
+          "preferred delivery time": "15~30 minutes",
+          "preferred distance": "0~3000m",
+          "recent orders": [
+            {
+              "store": "HEYTEA",
+              "product": "Grape with pulp"
+            },
+            {
+              "store": "Nayuki",
+              "product": "Berry Berry Cheese + Croissant"
+            },
+            {
+              "store": "Fresh Fruit Salad",
+              "product": "Mango pomelo sago fruit salad"
+            }
+          ],
+          "search history": [
+            "Milk tea",
+            "Dessert",
+            "Fruit salad",
+            "Cake"
+          ]
+        },
+        "night snack": {
+          "frequently purchased categories": [
+            "Snacks/Braised foods (Average 35 yuan)",
+            "Quick meals/Snail rice noodles (Average 28 yuan)",
+            "Quick meals/Rice noodles/Rice vermicelli (Average 25 yuan)"
+          ],
+          "cost per order": "25~45 yuan",
+          "preferred store rating": "4.0~4.6 points",
+          "preferred delivery time": "20~35 minutes",
+          "preferred distance": "0~3000m",
+          "recent orders": [
+            {
+              "store": "Old Street Braised Foods",
+              "product": "Signature braised food platter"
+            },
+            {
+              "store": "Noodle King",
+              "product": "Signature snail rice noodles + Braised egg"
+            },
+            {
+              "store": "Yunnan Crossing Bridge Rice Noodles",
+              "product": "Beef rice noodles"
+            }
+          ],
+          "search history": [
+            "Braised foods",
+            "Snail rice noodles",
+            "Rice noodles",
+            "Night snack set"
+          ]
+        }
+      },
+      "product delivery": {
+        "frequently purchased categories": [
+          "Vegetables/Bean products(30%)",
+          "Fresh meat/Poultry/Eggs(25%)",
+          "Grains/Oil/Seasonings/Dry goods(15%)",
+          "Household items(12%)",
+          "Beverages/Nutritional drinks(10%)",
+          "Others(8%)"
+        ],
+        "Frequently visited store": [
+          "Yonghui Supermarket(45%)",
+          "Hema Fresh(30%)",
+          "Lawson(15%)",
+          "Other stores(10%)"
+        ],
+        "cost per order by category": {
+          "Vegetables/Bean products": "5~25 yuan",
+          "Fresh meat/Poultry/Eggs": "20~60 yuan",
+          "Grains/Oil/Seasonings/Dry goods": "10~40 yuan",
+          "Household items": "15~50 yuan",
+          "Beverages/Nutritional drinks": "10~35 yuan"
+        },
+        "preferred delivery time": "25~45 minutes",
+        "typical order time": "17~19:00(45%), 9~11:00(30%), 12~14:00(15%)",
+        "recent orders": [
+          {
+            "store": "Yonghui Supermarket",
+            "product": "One portion of greens, 500g of ground pork, one box of eggs"
+          },
+          {
+            "store": "Hema Fresh",
+            "product": "300g beef, 2 carrots, one bottle of laundry detergent"
+          },
+          {
+            "store": "BFresh",
+            "product": "One case of mineral water, 4 packs of instant noodles"
+          }
+        ],
+        "search history": [
+          "Pork",
+          "Greens",
+          "Eggs",
+          "Laundry detergent",
+          "Rice",
+          "Cooking oil"
+        ]
+      }
+    },
+    "in-store consumption": {
+      "in-store dining": {
+        "fine-dining": {
+          "frequently purchased categories": [
+            "Regional cuisine/Northeastern Chinese Cuisine (Average 125 yuan)",
+            "Hot pot (Average 140 yuan)",
+            "Regional cuisine/Fish dishes (Average 130 yuan)"
+          ],
+          "preferred average price per person": "100~150 yuan",
+          "preferred store rating": "4.0~4.5 stars",
+          "typical dining time": "18:30-20:30",
+          "preferred distance": "0~3000m",
+          "recent orders": [
+            {
+              "store": "Old Northeast Restaurant",
+              "product": "Sweet and Sour Pork + Stir-fried pork strips + Corn pancakes"
+            },
+            {
+              "store": "Hexiang Pavilion",
+              "product": "Sauerkraut fish + Chicken with mushroom stew"
+            },
+            {
+              "store": "Laochang Hot Pot",
+              "product": "Clear broth hot pot + Premium pork belly + Fresh-cut beef"
+            }
+          ],
+          "search history": [
+            "Northeastern Chinese Cuisine",
+            "Non-Spicy hot pot",
+            "Low Sodium dishes",
+            "Home-Style Dishes"
+          ]
+        },
+        "light meal": {
+          "frequently purchased categories": [
+            "Snacks and fast food/Chinese quick meals (Average 30 yuan)",
+            "Regional cuisine/Northeastern Chinese Cuisine (Average 45 yuan)",
+            "Snacks and fast food/Western fast food (Average 35 yuan)"
+          ],
+          "preferred average price per person": "25~50 yuan",
+          "preferred store rating": "3.5~4.2 stars",
+          "typical dining time": "11:30-13:00",
+          "preferred distance": "0~800m",
+          "recent orders": [
+            {
+              "store": "Harbin Dumpling House",
+              "product": "Three delicacies dumplings + Seaweed soup"
+            },
+            {
+              "store": "Eastern Dumpling King",
+              "product": "Pork and Cabbage Dumplings + Side dish"
+            },
+            {
+              "store": "Fuke Fast Food",
+              "product": "Chicken leg fried rice + Vegetable soup"
+            }
+          ],
+          "search history": [
+            "Dumplings",
+            "Rice with toppings",
+            "Fast food",
+            "Low oil"
+          ]
+        },
+        "Beverages, desserts, and snacks": {
+          "frequently purchased categories": [
+            "Beverage shops (Average 15 yuan)",
+            "Bread and desserts (Average 20 yuan)",
+            "Other dining/Fresh fruits (Average 25 yuan)"
+          ],
+          "preferred average price per person": "10~25 yuan",
+          "preferred store rating": "3.8~4.5 stars",
+          "typical dining time": "15:00-16:30",
+          "preferred distance": "0~500m",
+          "recent orders": [
+            {
+              "store": "HEYTEA",
+              "product": "Fruit tea (less sugar)"
+            },
+            {
+              "store": "Bread Talk",
+              "product": "Whole wheat bread"
+            },
+            {
+              "store": "Fresh Fruit Station",
+              "product": "Fruit platter"
+            }
+          ],
+          "search history": [
+            "Low-sugar beverages",
+            "Whole wheat bread",
+            "Fruits"
+          ]
+        }
+      },
+      "other in-store services": {
+        "frequently consumed categories": {
+          "Sports & Fitness/Fitness centers": "40%",
+          "Sports & Fitness/Ball sports": "35%",
+          "Leisure & Entertainment/Massage/Foot massage": "15%",
+          "Pets/Pet hospitals": "10%"
+        },
+        "cost per order by category": {
+          "Sports & Fitness/Fitness centers": "80~150 yuan",
+          "Sports & Fitness/Ball sports": "40~80 yuan",
+          "Leisure & Entertainment/Massage/Foot massage": "100~180 yuan",
+          "Pets/Pet hospitals": "150~300 yuan"
+        },
+        "preferred store rating": "3.9~4.6 stars",
+        "preferred service time": "19:00-21:00",
+        "preferred distance": "0~5000m",
+        "recent orders": [
+          {
+            "store": "Harbin Fitness Factory",
+            "product": "Monthly fitness card package"
+          },
+          {
+            "store": "City Stadium Basketball Court",
+            "product": "Basketball court rental 2 hours"
+          },
+          {
+            "store": "Love Pet Hospital",
+            "product": "Pet health check package"
+          }
+        ],
+        "search history": [
+          "Gym",
+          "Basketball court",
+          "Pet hospital",
+          "Foot massage"
+        ]
+      }
+    },
+    "OTA": {
+      "visited scenes": {
+        "Ski resorts": "45%",
+        "Natural landscapes (Mountains/Lakes/Forests)": "25%",
+        "Parks": "15%",
+        "Tourist attractions (Mountain/Seaside/Ecological large-scale scenic areas)": "10%",
+        "Cultural and historical sites": "5%"
+      },
+      "cost per night on hotel": "300~500 yuan",
+      "visited hotels": {
+        "Home Inn": "35%",
+        "Hanting Hotel": "25%",
+        "7 Days Inn": "20%",
+        "Jinjiang Inn": "15%",
+        "Ji Hotel": "5%"
+      },
+      "browsed hotels": {
+        "Budget hotels": "65%",
+        "Three-star hotels": "25%",
+        "Comfort hotels": "10%"
+      },
+      "historical travel plans": {
+        "Harbin-Changchun": {
+          "Price range": "100-200 yuan",
+          "Transportation method": "Long-distance bus"
+        },
+        "Harbin-Beijing": {
+          "Price range": "500-800 yuan",
+          "Transportation method": "High-Speed Rail"
+        },
+        "Harbin-Dalian": {
+          "Price range": "300-600 yuan",
+          "Transportation method": "Regular train"
+        },
+        "Harbin-Mudanjiang": {
+          "Price range": "80-150 yuan",
+          "Transportation method": "Long-distance bus"
+        },
+        "Harbin-Harbin surroundings": {
+          "Price range": "50-200 yuan",
+          "Transportation method": "Self-driving"
+        }
+      }
+    }
+  },
+  "stores": {
+    "S17550802111542162_S00001": {
+      "name": "Yulong Select",
+      "store_id": "S17550802111542162_S00001",
+      "score": 4.7,
+      "location": {
+        "address": "Yulong Select, No.12 Harbor Square, Zhongshan District, Dalian, Liaoning Province",
+        "latitude": 38.868534,
+        "longitude": 121.644325
+      },
+      "tags": [
+        "Medical & Healthcare",
+        "Elderly Products",
+        "Daily Necessities"
+      ],
+      "store_type": "target",
+      "products": [
+        {
+          "name": "Anti-Slip Adjustable Walking Stick for Elderly",
+          "store_id": "S17550802111542162_S00001",
+          "store_name": "Yulong Select",
+          "price": 89.9,
+          "tags": [
+            "Elderly Products",
+            "Travel Essential",
+            "Anti-Slip Design",
+            "Foldable",
+            "Lightweight"
+          ],
+          "product_id": "S17550802111542162_P00001",
+          "attributes": [
+            "Black",
+            "Silver"
+          ],
+          "product_type": "target"
+        },
+        {
+          "name": "Adult Diapers L Size",
+          "store_id": "S17550802111542162_S00001",
+          "store_name": "Yulong Select",
+          "price": 108,
+          "tags": [
+            "Elderly Products",
+            "Travel Essential",
+            "Breathable",
+            "Leak-Proof"
+          ],
+          "product_id": "S17550802111542162_P00002",
+          "attributes": [
+            "10-Pack"
+          ],
+          "product_type": "target"
+        },
+        {
+          "name": "Elderly Travel Medicine Box",
+          "store_id": "S17550802111542162_S00001",
+          "store_name": "Yulong Select",
+          "price": 45.9,
+          "tags": [
+            "Elderly Products",
+            "Travel Portable",
+            "Weekly Dispenser Pack",
+            "Moisture-Proof"
+          ],
+          "product_id": "S17550802111542162_P00004",
+          "attributes": [
+            "Blue",
+            "Pink"
+          ],
+          "product_type": "distraction"
+        },
+        {
+          "name": "Baby Diapers XL Size",
+          "store_id": "S17550802111542162_S00001",
+          "store_name": "Yulong Select",
+          "price": 89.9,
+          "tags": [
+            "Baby Products",
+            "Breathable",
+            "Leak-Proof"
+          ],
+          "product_id": "S17550802111542162_P00005",
+          "attributes": [
+            "30-Pack",
+            "60-Pack"
+          ],
+          "product_type": "distraction"
+        }
+      ]
+    },
+    "S17550802111542162_S00002": {
+      "name": "Harbor Convenience 24-Hour Store",
+      "store_id": "S17550802111542162_S00002",
+      "score": 4.5,
+      "location": {
+        "address": "Harbor Convenience 24-Hour Store, No.8 Harbor Square, Zhongshan District, Dalian, Liaoning Province",
+        "latitude": 38.868234,
+        "longitude": 121.644125
+      },
+      "tags": [
+        "Daily Necessities",
+        "Snacks",
+        "Beverages"
+      ],
+      "store_type": "target",
+      "products": [
+        {
+          "name": "Adult Diapers L Size",
+          "store_id": "S17550802111542162_S00002",
+          "store_name": "Harbor Convenience 24-Hour Store",
+          "price": 68,
+          "tags": [
+            "Elderly Products",
+            "Travel Essential",
+            "Breathable",
+            "Leak-Proof"
+          ],
+          "product_id": "S17550802111542162_P00007",
+          "attributes": [
+            "10-Pack",
+            "Ultra-Thin"
+          ],
+          "product_type": "target"
+        },
+        {
+          "name": "Children's Sunscreen",
+          "store_id": "S17550802111542162_S00002",
+          "store_name": "Harbor Convenience 24-Hour Store",
+          "price": 59.9,
+          "tags": [
+            "Children's Products",
+            "Travel Essential",
+            "SPF50+",
+            "Gentle Formula"
+          ],
+          "product_id": "S17550802111542162_P00008",
+          "attributes": [
+            "50ml",
+            "Fragrance-Free"
+          ],
+          "product_type": "distraction"
+        },
+        {
+          "name": "Portable Elderly Massage Device",
+          "store_id": "S17550802111542162_S00002",
+          "store_name": "Harbor Convenience 24-Hour Store",
+          "price": 129,
+          "tags": [
+            "Elderly Products",
+            "Relieve Fatigue",
+            "Portable",
+            "USB Charging"
+          ],
+          "product_id": "S17550802111542162_P00009",
+          "attributes": [
+            "3 Levels",
+            "White"
+          ],
+          "product_type": "distraction"
+        },
+        {
+          "name": "Travel Size Motion Sickness Medicine",
+          "store_id": "S17550802111542162_S00002",
+          "store_name": "Harbor Convenience 24-Hour Store",
+          "price": 32.5,
+          "tags": [
+            "Travel Medications",
+            "Cruise Essentials",
+            "Motion Sickness Relief",
+            "Fast-Acting"
+          ],
+          "product_id": "S17550802111542162_P00010",
+          "attributes": [
+            "12-Pack"
+          ],
+          "product_type": "distraction"
+        }
+      ]
+    },
+    "S17550802111542162_S00003": {
+      "name": "Ashou Select",
+      "store_id": "S17550802111542162_S00003",
+      "score": 4.6,
+      "location": {
+        "address": "Ashou Select, 56 Youhao Road, Zhongshan District, Dalian, Liaoning Province",
+        "latitude": 38.869876,
+        "longitude": 121.639874
+      },
+      "tags": [
+        "Medical & Healthcare",
+        "Elderly Products",
+        "Health Supplements",
+        "Daily Necessities"
+      ],
+      "store_type": "distraction",
+      "products": [
+        {
+          "name": "Anti-Slip Walking Stick for Elderly",
+          "store_id": "S17550802111542162_S00003",
+          "store_name": "Ashou Select",
+          "price": 89.9,
+          "tags": [
+            "Elderly Products",
+            "Travel Assistance",
+            "Anti-Slip Design",
+            "Adjustable Height"
+          ],
+          "product_id": "S17550802111542162_P00011",
+          "attributes": [
+            "Black",
+            "Aluminum Material",
+            "T-shaped Handle"
+          ],
+          "product_type": "distraction"
+        },
+        {
+          "name": "Multi-functional Foldable Quad Cane",
+          "store_id": "S17550802111542162_S00003",
+          "store_name": "Ashou Select",
+          "price": 129.9,
+          "tags": [
+            "Elderly Products",
+            "Travel Assistance",
+            "Stable Support",
+            "Foldable"
+          ],
+          "product_id": "S17550802111542162_P00013",
+          "attributes": [
+            "Silver",
+            "Aluminum Material",
+            "With LED Light"
+          ],
+          "product_type": "distraction"
+        },
+        {
+          "name": "Portable Commode Chair for Elderly",
+          "store_id": "S17550802111542162_S00003",
+          "store_name": "Ashou Select",
+          "price": 199,
+          "tags": [
+            "Elderly Products",
+            "Toilet Assistance",
+            "Foldable",
+            "Weight Capacity 150kg"
+          ],
+          "product_id": "S17550802111542162_P00015",
+          "attributes": [
+            "Gray",
+            "Stainless Steel Material",
+            "With Commode"
+          ],
+          "product_type": "distraction"
+        }
+      ]
+    },
+    "S17550802111542162_S00004": {
+      "name": "FamilyMart (Port Store)",
+      "store_id": "S17550802111542162_S00004",
+      "score": 4.3,
+      "location": {
+        "address": "FamilyMart (Port Store), No.3 Harbor Square, Zhongshan District, Dalian, Liaoning Province",
+        "latitude": 38.867934,
+        "longitude": 121.643825
+      },
+      "tags": [
+        "Daily Necessities",
+        "Snacks",
+        "Beverages"
+      ],
+      "store_type": "distraction",
+      "products": [
+        {
+          "name": "Mineral Water 500ml",
+          "store_id": "S17550802111542162_S00004",
+          "store_name": "FamilyMart (Port Store)",
+          "price": 3.5,
+          "tags": [
+            "Drinking Water",
+            "Travel Size",
+            "Thirst-Quenching",
+            "Travel Essential"
+          ],
+          "product_id": "S17550802111542162_P00016",
+          "attributes": [],
+          "product_type": "distraction"
+        },
+        {
+          "name": "Bread Roll (Cream Flavor)",
+          "store_id": "S17550802111542162_S00004",
+          "store_name": "FamilyMart (Port Store)",
+          "price": 8.5,
+          "tags": [
+            "Bread",
+            "breakfast",
+            "Dim Sum",
+            "Cream Flavor"
+          ],
+          "product_id": "S17550802111542162_P00017",
+          "attributes": [],
+          "product_type": "distraction"
+        },
+        {
+          "name": "Wet Wipes (20-Pack)",
+          "store_id": "S17550802111542162_S00004",
+          "store_name": "FamilyMart (Port Store)",
+          "price": 9.9,
+          "tags": [
+            "Wet Wipes",
+            "Portable",
+            "Cleaning Supplies",
+            "Travel Size"
+          ],
+          "product_id": "S17550802111542162_P00018",
+          "attributes": [],
+          "product_type": "distraction"
+        },
+        {
+          "name": "Disposable Face Masks (5-Pack)",
+          "store_id": "S17550802111542162_S00004",
+          "store_name": "FamilyMart (Port Store)",
+          "price": 12.5,
+          "tags": [
+            "Face Mask",
+            "Protective",
+            "Travel Essential",
+            "Disposable"
+          ],
+          "product_id": "S17550802111542162_P00019",
+          "attributes": [],
+          "product_type": "distraction"
+        },
+        {
+          "name": "Quick-Dry Towel (Small)",
+          "store_id": "S17550802111542162_S00004",
+          "store_name": "FamilyMart (Port Store)",
+          "price": 15.8,
+          "tags": [
+            "Towel",
+            "Quick-Dry",
+            "Travel Supplies",
+            "Portable"
+          ],
+          "product_id": "S17550802111542162_P00020",
+          "attributes": [
+            "Blue",
+            "Pink"
+          ],
+          "product_type": "distraction"
+        }
+      ]
+    }
+  },
+  "orders": {
+    "S17550802111542162_O00003": {
+      "order_id": "S17550802111542162_O00003",
+      "order_type": "instore",
+      "user_id": "U010038",
+      "store_id": "S17550802111542162_I00011",
+      "total_price": 688.0,
+      "create_time": "2025-07-25 12:05:38",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17550802111542162_P00060",
+          "price": 688.0,
+          "quantity": 1
+        }
+      ]
+    }
+  }
+}

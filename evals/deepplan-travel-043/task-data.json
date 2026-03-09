@@ -1,0 +1,44 @@
+{
+  "task_id": "42",
+  "query": "I'm planning a trip from Urumqi to Shanghai, departing on November 12, 2025, and returning on November 15, 2025. Could you help me plan the entire itinerary, including transportation, accommodation, meals, and sightseeing?\n\nFor transportation, I have a small request: my return flight should ideally arrive between 2:00 PM and 6:00 PM, as this timing works perfectly and won’t feel too rushed. Regarding accommodation, I do care about comfort—I’d like to stay at the highest-rated two-star hotel available. Could you please help me find a suitable option? By the way, there are four of us traveling, so we’ll need to book two rooms.\n\nFor dining, there are two must-include meals. First, I really want to have a meal at 'Gong Li Restaurant (Zhengda Store)'—a friend recommended it highly, saying the food is exceptional, so I definitely want to try it. Second, could you arrange another meal near 'St. Ignatius Cathedral of Shanghai (Xujiahui Catholic Diocese)'? Ideally, it should be at one of the Top 10 must-try restaurants in that area, so I can experience the most authentic and distinctive Shanghainese cuisine.\n\nThat’s pretty much everything! If there are other interesting places worth visiting—especially iconic or representative attractions—feel free to include them in the itinerary. I’ve provided all the details clearly, so please go ahead and create a complete travel plan for me! November 12, 2025 is Wednesday",
+  "meta_info": {
+    "org": "Urumqi",
+    "dest": [
+      "Shanghai"
+    ],
+    "days": 4,
+    "depart_date": "2025-11-12",
+    "return_date": "2025-11-15",
+    "people_number": 4,
+    "room_number": 2
+  },
+  "hard_constraints": {
+    "flight_arrival_time_range": {
+      "constraint_context": "The return flight must arrive between 14:00 and 18:00.",
+      "inbound_flight_no": "HO1255"
+    },
+    "hotel_star_highest_rated": {
+      "constraint_context": "For accommodation, please select the highest-rated hotel among 2-star hotels.",
+      "constraint_type": "superlative_star_highest_rated",
+      "hotel_name": "Jinjiang Inn (Shanghai Fengxian Jinhui Longhu Tianjie Branch)",
+      "hotel_star": 2,
+      "hotel_price": 267.0,
+      "hotel_score": 4.7
+    },
+    "restaurant_specific_tag_nearby": {
+      "constraint_context": "Arrange a meal at a restaurant near 'St. Ignatius Cathedral of Shanghai (Xujiahui Catholic Diocese)' during the trip, preferably one ranked in the Top 10 on the Must-Eat List with excellent service.",
+      "constraint_type": "superlative_specific_tag_nearby",
+      "attraction_name": "St. Ignatius Cathedral of Shanghai (Xujiahui Catholic Diocese)",
+      "restaurant_name": "Minre Restaurant (Saint Love Building Branch)",
+      "required_tag": "Must-Eat Top 10",
+      "price_per_person": 100.0,
+      "restaurant_rating": 3.6
+    },
+    "restaurant_must_eat_named": {
+      "constraint_context": "The itinerary must include one meal at 'Gong Li Restaurant (Zhengda Store)'.",
+      "constraint_type": "superlative_must_eat_named",
+      "restaurant_name": "Gong Li Restaurant (Zhengda Store)",
+      "restaurant_rating": 4.5
+    }
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "task_id": "62",
+  "query": "I plan to travel from Harbin to Beijing on November 12, 2025, and stay until November 16, 2025. Could you please help me design the entire itinerary, including transportation, accommodation, meals, and sightseeing arrangements?\n\nRegarding transportation, I’d like to take a flight for the outbound journey. Could you help me choose a direct flight operated by an Airbus-made aircraft? Just the cheapest fare option would be fine. For the return trip, feel free to arrange any suitable flight as long as the timing is reasonable.\n\nFor accommodation, please book me the highest-rated three-star hotel in Beijing—comfort is quite important to me. By the way, there are three of us traveling, so we’ll need two rooms.\n\nAs for dining, I have a few small requests. First, I’ve heard great things about a place called 'pebbles卵石庭院墨西哥餐厅'—I’d really like to try it this time, so could you arrange one meal there? Also, when we visit 'Beihai Park', could you find a nearby restaurant that offers private room service? That way, we can relax a bit more during our meal.\n\nThat’s pretty much everything—I’ve clarified all the information I have. Please go ahead and plan it out for me directly; no need to ask me further questions about specific preferences. Thank you! November 12, 2025 is Wednesday",
+  "meta_info": {
+    "org": "Harbin",
+    "dest": [
+      "Beijing"
+    ],
+    "days": 5,
+    "depart_date": "2025-11-12",
+    "return_date": "2025-11-16",
+    "people_number": 3,
+    "room_number": 2
+  },
+  "hard_constraints": {
+    "flight_cheapest_manufacturer_direct": {
+      "constraint_context": "Prefer to take a flight for the outbound journey, and need to select the cheapest direct flight available on an Airbus-manufactured aircraft",
+      "constraint_type": "superlative_cheapest_manufacturer",
+      "outbound_flight_no": "CZ6217"
+    },
+    "hotel_star_highest_rated": {
+      "constraint_context": "For accommodation, please select the highest-rated hotel among 3-star hotels",
+      "constraint_type": "superlative_star_highest_rated",
+      "hotel_name": "Orange Hotel Beijing South Railway Station",
+      "hotel_star": 3,
+      "hotel_price": 560.0,
+      "hotel_score": 4.9
+    },
+    "restaurant_must_eat_named": {
+      "constraint_context": "The itinerary must include one meal at 'Pebbles Courtyard Mexican Restaurant'.",
+      "constraint_type": "superlative_must_eat_named",
+      "restaurant_name": "Pebbles Courtyard Mexican Restaurant",
+      "restaurant_rating": 4.5
+    },
+    "restaurant_specific_tag_nearby": {
+      "constraint_context": "Arrange a meal at a restaurant near 'Beihai Park' during the trip, with private room service required",
+      "constraint_type": "superlative_specific_tag_nearby",
+      "attraction_name": "Beihai Park",
+      "restaurant_name": "Chengdu Beijing Office Restaurant (Shudu Hotel Branch)",
+      "required_tag": "Private Room",
+      "price_per_person": 100.0,
+      "restaurant_rating": 4.4
+    }
+  }
+}

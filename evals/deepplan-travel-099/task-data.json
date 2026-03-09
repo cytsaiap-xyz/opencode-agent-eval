@@ -1,0 +1,54 @@
+{
+  "task_id": "98",
+  "query": "I plan to travel from Sanya to Nanjing for a few days on November 12, 2025, and return on November 17, 2025. Could you please help me arrange this trip?\n\nFor transportation, I’d like to take a flight for the outbound journey—let’s go with China Eastern Airlines. Please check their cheapest direct flight option.\n\nFor accommodation, I’d like to book a three-star hotel that ideally has a swimming pool, so I can relax there in the evenings after coming back.\n\nThere are already a few attractions in Nanjing that I’m particularly interested in visiting: 'Music Stage at Sun Yat-sen Mausoleum Scenic Area in Zhongshan Scenic Area' and 'Yuhuatai Martyrs Cemetery'—please make sure both are included in the itinerary. Additionally, I’m very interested in historical and cultural sites, so if you could find the highest-rated ones and add them to the plan as well, that would be great.\n\nThese are basically all my requirements—I believe I’ve covered everything clearly. Please go ahead and prepare the full itinerary for me! November 12, 2025 is Wednesday",
+  "meta_info": {
+    "org": "Sanya",
+    "dest": [
+      "Nanjing"
+    ],
+    "days": 6,
+    "depart_date": "2025-11-12",
+    "return_date": "2025-11-17",
+    "people_number": 3,
+    "room_number": 2
+  },
+  "hard_constraints": {
+    "flight_cheapest_airline_direct": {
+      "constraint_context": "For the outbound journey, please help me select the cheapest direct flight from 'China Eastern Airlines'",
+      "constraint_type": "superlative_cheapest_airline",
+      "outbound_flight_no": "MU2728"
+    },
+    "hotel_star_service_required": {
+      "constraint_context": "Please select a 3-star hotel that offers a swimming pool for accommodation.",
+      "constraint_type": "superlative_star_service_required",
+      "hotel_name": "Lavande Hotel Nanjing Confucius Temple Guanghua Gate Metro Station Branch",
+      "required_service": "Swimming Pool",
+      "hotel_star": 3,
+      "hotel_price": 265.0
+    },
+    "attraction_must_visit_named": {
+      "constraint_context": "The itinerary must include visits to the 'Music Stage at Sun Yat-sen Mausoleum Scenic Area in Zhongshan Scenic Area' and the 'Yuhuatai Martyrs Cemetery'.",
+      "constraint_type": "superlative_must_visit_named",
+      "attraction_names": [
+        "Music Stage at Sun Yat-sen Mausoleum Scenic Area in Zhongshan Scenic Area",
+        "Yuhuatai Martyrs Cemetery"
+      ],
+      "attraction_ratings": [
+        4.8,
+        4.8
+      ]
+    },
+    "attraction_type_highest_rated": {
+      "constraint_context": "The itinerary must include the highest-rated attraction in the 'Historical and Cultural' category.",
+      "constraint_type": "superlative_type_highest_rated",
+      "attraction_names": [
+        "Sun Yat-sen Mausoleum Scenic Area"
+      ],
+      "attraction_type_cn": "历史文化",
+      "attraction_type": "Historical and Cultural",
+      "attraction_ratings": [
+        4.9
+      ]
+    }
+  }
+}

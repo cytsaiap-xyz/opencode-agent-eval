@@ -1,0 +1,387 @@
+{
+  "task_id": "D0716002",
+  "domain": "delivery",
+  "time": "2025-11-14 17:25:37",
+  "user_id": "U000050",
+  "weather": [
+    {
+      "city": "Shaoxing City",
+      "category": "cloudy",
+      "datetime": "2025-11-14",
+      "temperature": [
+        9,
+        18
+      ],
+      "humidity": 68
+    }
+  ],
+  "location": [
+    {
+      "address": "Building B, Modern Mansion, No. 288 Zhongxing Middle Road, Yuecheng District, Shaoxing City, Zhejiang Province",
+      "longitude": 120.587092,
+      "latitude": 30.00234
+    },
+    {
+      "address": "Longzhu Phase 2, 80 meters south of the intersection of Chaoyang Road and Jinghu Road, Yuecheng District, Shaoxing City, Zhejiang Province",
+      "longitude": 120.581902,
+      "latitude": 29.970817
+    }
+  ],
+  "user_profile": {
+    "user id": "U000050",
+    "occupation": "Algorithm Engineer",
+    "gender": "male",
+    "age group": "30~35",
+    "residence": "Shaoxing",
+    "home address": "Longzhu Phase 2, 80 meters south of the intersection of Chaoyang Road and Jinghu Road, Yuecheng District, Shaoxing City, Zhejiang Province",
+    "work address": "Building B, Modern Mansion, No. 288 Zhongxing Middle Road, Yuecheng District, Shaoxing City, Zhejiang Province",
+    "dietary restrictions": "Avoid caffeine, avoid spicy food",
+    "family status": "Has children",
+    "personality": "Tends to be controlling, not easily accepting different opinions"
+  },
+  "user_historical_behaviors": {
+    "user id": "U000050",
+    "occupation": "Algorithm Engineer",
+    "gender": "male",
+    "age group": "30~35",
+    "residence": "Shaoxing",
+    "home address": "Longzhu Phase 2, 80 meters south of the intersection of Chaoyang Road and Jinghu Road, Yuecheng District, Shaoxing City, Zhejiang Province",
+    "work address": "Building B, Modern Mansion, No. 288 Zhongxing Middle Road, Yuecheng District, Shaoxing City, Zhejiang Province",
+    "breakfast": {
+      "frequently purchased categories": [
+        "Quick Meals/Steamed Buns/Pan-fried Buns (Average 18 yuan)",
+        "Quick Meals/Dumplings/Wontons (Average 22 yuan)",
+        "Quick Meals/Fried Dough Sticks (Average 12 yuan)"
+      ],
+      "cost per order": "12~30 yuan",
+      "preferred store rating": "4.3~4.8 stars",
+      "preferred delivery time": "15~25 minutes",
+      "preferred distance": "0~1500m",
+      "recent orders": [
+        {
+          "store": "Lao Zhu's Wonton Shop",
+          "product": "Pork Wontons + Soup Dumplings"
+        },
+        {
+          "store": "Yonghe Soy Milk",
+          "product": "Fried Dough Stick + Hot Soy Milk"
+        },
+        {
+          "store": "Shen Da Cheng Pan-fried Buns",
+          "product": "Pork Pan-fried Buns"
+        }
+      ],
+      "search history": [
+        "Pan-fried buns",
+        "Soy milk",
+        "Wontons",
+        "Breakfast buns",
+        "Tofu pudding"
+      ]
+    },
+    "weekday lunch/dinner": {
+      "frequently purchased categories": [
+        "Quick Meals/Crab Roe Rice (Average 25 yuan)",
+        "Quick Meals/Small Dishes/Half Portions (Average 32 yuan)",
+        "Quick Meals/Braised Chicken Rice (Average 29 yuan)"
+      ],
+      "cost per order": "20~32 yuan",
+      "preferred store rating": "3.8~4.9 stars",
+      "preferred delivery time": "20~45 minutes",
+      "preferred distance": "0~4500m",
+      "recent orders": [
+        {
+          "store": "Braised Chicken Rice",
+          "product": "Mildly Spicy Braised Chicken + Extra Egg"
+        },
+        {
+          "store": "Full Yellow Strike, Crab Roe Rice (Yuecheng Branch)",
+          "product": "[Manager's Recommendation] Crab Roe and Shredded Crab Mixed Rice/Noodles"
+        },
+        {
+          "store": "Wu Yiming's Meatballs and Glutinous Rice",
+          "product": "Wenzhou Glutinous Rice"
+        }
+      ],
+      "search history": [
+        "Fast food",
+        "Crab roe rice",
+        "Braised chicken",
+        "Rice with toppings",
+        "Bento box"
+      ]
+    },
+    "weekend lunch/dinner": {
+      "frequently purchased categories": [
+        "Chinese Cuisine/Cantonese Cuisine (Average 85 yuan)",
+        "Chinese Cuisine/Zhejiang Cuisine (Average 100 yuan)",
+        "Hot Pot/Two-person Hot Pot (Average 150 yuan)"
+      ],
+      "cost per order": "60~200 yuan",
+      "preferred store rating": "4.5~4.9 stars",
+      "preferred delivery time": "20~50 minutes",
+      "preferred distance": "0~5000m",
+      "recent orders": [
+        {
+          "store": "Zhuji Old Restaurant",
+          "product": "Pumpkin with Egg Yolk + Sichuan Peppercorn Duck + Rice"
+        },
+        {
+          "store": "Xiao Long Kan Hot Pot",
+          "product": "Two-person Tomato Pot + Beef + Tofu"
+        }
+      ],
+      "search history": [
+        "Cantonese cuisine",
+        "Two-person hot pot",
+        "Boiled fish",
+        "Family meal set"
+      ]
+    },
+    "desserts/drinks/snacks": {
+      "frequently purchased categories": [
+        "Beverages & Desserts/Fruit Juice (Average 28 yuan)",
+        "Beverages & Desserts/Pure Tea/Herbal Tea (Average 22 yuan)",
+        "Beverages & Desserts/Chinese Pastries (Average 30 yuan)"
+      ],
+      "cost per order": "18~38 yuan",
+      "preferred store rating": "4.4~4.8 stars",
+      "preferred delivery time": "10~25 minutes",
+      "preferred distance": "0~2000m",
+      "recent orders": [
+        {
+          "store": "Guming",
+          "product": "Oolong Tea"
+        },
+        {
+          "store": "Daoxiangcun",
+          "product": "Mung Bean Cake"
+        }
+      ],
+      "search history": [
+        "Fruit juice",
+        "Green tea",
+        "Traditional pastries",
+        "Low-sugar drinks",
+        "Red bean cake"
+      ]
+    },
+    "night snack": {
+      "frequently purchased categories": [
+        "Quick Meals/Rice Noodles/Rice Vermicelli (Average 28 yuan)",
+        "Quick Meals/Duck Blood Vermicelli Soup (Average 32 yuan)",
+        "Quick Meals/Jianbing/Wraps/Pancakes (Average 25 yuan)"
+      ],
+      "cost per order": "20~45 yuan",
+      "preferred store rating": "4.0~4.6 stars",
+      "preferred delivery time": "25~40 minutes",
+      "preferred distance": "0~2800m",
+      "recent orders": [
+        {
+          "store": "Guilin Rice Noodles",
+          "product": "Braised Meat Rice Noodles"
+        },
+        {
+          "store": "Nanjing Famous Restaurant",
+          "product": "Signature Duck Blood Vermicelli Soup"
+        }
+      ],
+      "search history": [
+        "Rice noodles",
+        "Vermicelli soup",
+        "Non-spicy night snack",
+        "Light night snack"
+      ]
+    }
+  },
+  "stores": {
+    "S19558514638634850_S98323": {
+      "name": "Full Yellow Strike, Crab Roe Rice (Yuecheng Branch)",
+      "store_id": "S19558514638634850_S98323",
+      "score": 4.6,
+      "location": {
+        "address": "Cockfighting Arena, Didang Street, Yuecheng District, Shaoxing City, Zhejiang Province",
+        "latitude": 29.960762,
+        "longitude": 120.61627
+      },
+      "tags": [],
+      "products": [
+        {
+          "name": "Shrimp, Lobster and Crab Roe Mixed Noodles",
+          "product_id": "S16531267916494013_P41389",
+          "store_id": "S19558514638634850_S98323",
+          "store_name": "Full Yellow Strike, Crab Roe Rice (Yuecheng Branch)",
+          "price": 34.8,
+          "tags": [
+            "Non-spicy"
+          ],
+          "attributes": [],
+          "quantity": 9999
+        },
+        {
+          "name": "Shrimp and Crab Roe Noodles",
+          "product_id": "S85635286019263552_P92677",
+          "store_id": "S19558514638634850_S98323",
+          "store_name": "Full Yellow Strike, Crab Roe Rice (Yuecheng Branch)",
+          "price": 29.8,
+          "tags": [],
+          "attributes": [],
+          "quantity": 9999
+        },
+        {
+          "name": "Crab Roe, Shrimp and Crayfish Combo Rice",
+          "product_id": "S43777803098693927_P48976",
+          "store_id": "S19558514638634850_S98323",
+          "store_name": "Full Yellow Strike, Crab Roe Rice (Yuecheng Branch)",
+          "price": 32.8,
+          "tags": [],
+          "attributes": [],
+          "quantity": 9999
+        }
+      ]
+    },
+    "S27032620835559200_S43409": {
+      "name": "Zhuji Old Restaurant (Shaoxing Cuisine)",
+      "store_id": "S27032620835559200_S43409",
+      "score": 4.6,
+      "location": {
+        "address": "Zhuji Old Restaurant, No. 347-1-3, West End of Dongjie Market, Yuecheng District, Shaoxing City, Zhejiang Province",
+        "latitude": 29.998705,
+        "longitude": 120.588761
+      },
+      "tags": [],
+      "products": [
+        {
+          "name": "Pumpkin with Egg Yolk",
+          "product_id": "S43147040061896655_P35449",
+          "store_id": "S27032620835559200_S43409",
+          "store_name": "Zhuji Old Restaurant (Shaoxing Cuisine)",
+          "price": 23.04,
+          "tags": [],
+          "attributes": [],
+          "quantity": 9999
+        },
+        {
+          "name": "Half Sichuan Peppercorn Duck",
+          "product_id": "S20719091317601263_P08018",
+          "store_id": "S27032620835559200_S43409",
+          "store_name": "Zhuji Old Restaurant (Shaoxing Cuisine)",
+          "price": 68.8,
+          "tags": [],
+          "attributes": [],
+          "quantity": 9999
+        },
+        {
+          "name": "Rice",
+          "product_id": "S40181049557801794_P62406",
+          "store_id": "S27032620835559200_S43409",
+          "store_name": "Zhuji Old Restaurant (Shaoxing Cuisine)",
+          "price": 2,
+          "tags": [],
+          "attributes": [],
+          "quantity": 9999
+        },
+        {
+          "name": "Pumpkin with Dried Shrimp",
+          "product_id": "S21292438807436970_P49252",
+          "store_id": "S27032620835559200_S43409",
+          "store_name": "Zhuji Old Restaurant (Shaoxing Cuisine)",
+          "price": 23.04,
+          "tags": [],
+          "attributes": [],
+          "quantity": 9999
+        }
+      ]
+    },
+    "S10109637620918345_S64872": {
+      "name": "Wenzhou Flavors, Glutinous Rice, Lean Meat Balls, Stir-fried Rice Noodles",
+      "store_id": "S10109637620918345_S64872",
+      "score": 4.9,
+      "location": {
+        "address": "Room 1015, Building 3, No. 7 Jishan Road, Fushan Street, Yuecheng District, Shaoxing City, Zhejiang Province",
+        "latitude": 29.989046,
+        "longitude": 120.593859
+      },
+      "tags": [],
+      "products": [
+        {
+          "name": "Wenzhou Sauced Glutinous Rice",
+          "product_id": "S13165353078973956_P18769",
+          "store_id": "S10109637620918345_S64872",
+          "store_name": "Wenzhou Flavors, Glutinous Rice, Lean Meat Balls, Stir-fried Rice Noodles",
+          "price": 18.9,
+          "tags": [],
+          "attributes": [],
+          "quantity": 9999
+        },
+        {
+          "name": "Wenzhou Stir-fried Glutinous Rice",
+          "product_id": "S15778188626163194_P19706",
+          "store_id": "S10109637620918345_S64872",
+          "store_name": "Wenzhou Flavors, Glutinous Rice, Lean Meat Balls, Stir-fried Rice Noodles",
+          "price": 18.9,
+          "tags": [],
+          "attributes": [],
+          "quantity": 9999
+        }
+      ]
+    },
+    "S44626711174177137_S44255": {
+      "name": "Crab Farmer's Crab Roe Noodles",
+      "store_id": "S44626711174177137_S44255",
+      "score": 4.6,
+      "location": {
+        "address": "Room 105, No. 257 Shengli West Road, Fushan Street, Yuecheng District, Shaoxing City, Zhejiang Province (Inside Shaoxing Shangyu Business Hotel Co., Ltd.)",
+        "latitude": 30.004438,
+        "longitude": 120.576021
+      },
+      "tags": [],
+      "products": [
+        {
+          "name": "[Owner's Recommendation] Crab Roe and Meat Lobster Noodles (Mildly Spicy)",
+          "product_id": "S15320356525484862_P52362",
+          "store_id": "S44626711174177137_S44255",
+          "store_name": "Crab Farmer's Crab Roe Noodles",
+          "price": 27.8,
+          "tags": [],
+          "attributes": [],
+          "quantity": 9999
+        }
+      ]
+    },
+    "S12401054497993236_S72322": {
+      "name": "Mingyang Restaurant (Jiangzhe Cuisine, Freshly Stir-fried Dishes)",
+      "store_id": "S12401054497993236_S72322",
+      "score": 4.2,
+      "location": {
+        "address": "Mingyang Restaurant, 1st Floor, No. 680-2 Yangming North Road, Yuecheng District, Shaoxing City, Zhejiang Province",
+        "latitude": 29.983205,
+        "longitude": 120.61826
+      },
+      "tags": [],
+      "products": [
+        {
+          "name": "Sichuan Peppercorn Duck",
+          "product_id": "S19549221775514267_P36654",
+          "store_id": "S12401054497993236_S72322",
+          "store_name": "Mingyang Restaurant (Jiangzhe Cuisine, Freshly Stir-fried Dishes)",
+          "price": 23.9,
+          "tags": [],
+          "attributes": [],
+          "quantity": 9999
+        },
+        {
+          "name": "Steamed Egg with Minced Meat",
+          "product_id": "S24284187149146245_P76881",
+          "store_id": "S12401054497993236_S72322",
+          "store_name": "Mingyang Restaurant (Jiangzhe Cuisine, Freshly Stir-fried Dishes)",
+          "price": 19.9,
+          "tags": [],
+          "attributes": [],
+          "quantity": 9999
+        }
+      ]
+    }
+  },
+  "orders": {}
+}

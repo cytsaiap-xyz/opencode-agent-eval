@@ -1,0 +1,52 @@
+{
+  "required_orders": [
+    {
+      "order_id": "60711002T01",
+      "order_type": "delivery",
+      "user_id": "U000026",
+      "store_id": "S29386890567258847_S23083",
+      "note": "",
+      "location": {
+        "address": "China Life Building, No.999 Financial Street (340m walking distance from Yayuan Road Metro Station Exit 5), Honggutan District, Nanchang City, Jiangxi Province",
+        "longitude": 115.853712,
+        "latitude": 28.691058
+      },
+      "dispatch_time": "2025-09-17 12:52:00",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 214.0,
+      "create_time": "2025-09-17 12:00:00",
+      "update_time": "2025-09-17 12:00:00",
+      "status": "in-progress",
+      "products": [
+        {
+          "product_id": "S14144998050103373_P17811",
+          "price": 17.0,
+          "quantity": 5,
+          "attributes": ""
+        },
+        {
+          "product_id": "S32520890639184337_P77818",
+          "price": 17.0,
+          "quantity": 2,
+          "attributes": ""
+        },
+        {
+          "product_id": "S24967465012009756_P93923",
+          "price": 19.0,
+          "quantity": 5,
+          "attributes": ""
+        }
+      ]
+    }
+  ],
+  "rubrics": [
+    "When ordering milk tea for department refreshments, the product brand should be Bawang Tea Princess",
+    "The delivery address for the department milk tea order should be China Life Building, No.999 Financial Street, Honggutan District, Nanchang City, Jiangxi Province",
+    "The estimated delivery time for the department milk tea order should be between 2025-09-17 12:00:00 and 14:00:00",
+    "The total number of items in the department milk tea order should be 12 cups",
+    "The flavors of products in the department milk tea order should not include any Gardenia-related flavors",
+    "The department milk tea order needs to include Dairy-free products suitable for lactose-intolerant colleagues, with a quantity of 2 cups",
+    "The department milk tea order needs to include two different flavors of products, with 5 cups of each"
+  ]
+}

@@ -1,0 +1,385 @@
+{
+  "task_id": "90716002",
+  "domain": "delivery",
+  "time": "2025-09-26 17:57:41",
+  "user_id": "U000097",
+  "weather": [
+    {
+      "city": "Taiyuan City",
+      "category": "cloudy",
+      "datetime": "2025-09-26",
+      "temperature": [
+        9,
+        22
+      ],
+      "humidity": 60
+    }
+  ],
+  "location": [
+    {
+      "address": "International Trade Building, 69 Fuxi Street, Xinghualing District, Taiyuan, Shanxi Province",
+      "longitude": 112.557585,
+      "latitude": 37.874302
+    },
+    {
+      "address": "Longcheng Shangdu, 800 meters east of Wucheng Intersection (No.11 Bus Terminal), Xiaodian District, Taiyuan, Shanxi Province",
+      "longitude": 112.60007,
+      "latitude": 37.780435
+    }
+  ],
+  "user_profile": {
+    "user id": "U000097",
+    "occupation": "Sales",
+    "gender": "male",
+    "age group": "30~35",
+    "residence": "Taiyuan",
+    "home address": "Longcheng Shangdu, 800 meters east of Wucheng Intersection (No.11 Bus Terminal), Xiaodian District, Taiyuan, Shanxi Province",
+    "work address": "International Trade Building, 69 Fuxi Street, Xinghualing District, Taiyuan, Shanxi Province",
+    "dietary restrictions": "Avoid high purine foods (such as organ meats/seafood soups)",
+    "family status": "Has children",
+    "personality": "Tends to be controlling, not easily accepting different opinions"
+  },
+  "user_historical_behaviors": {
+    "user id": "U000097",
+    "occupation": "Sales",
+    "gender": "male",
+    "age group": "30~35",
+    "residence": "Taiyuan",
+    "home address": "Longcheng Shangdu, 800 meters east of Wucheng Intersection (No.11 Bus Terminal), Xiaodian District, Taiyuan, Shanxi Province",
+    "work address": "International Trade Building, 69 Fuxi Street, Xinghualing District, Taiyuan, Shanxi Province",
+    "breakfast": {
+      "frequently purchased categories": [
+        "Quick Meals/Steamed Buns/Pan-fried Buns (Average 28 yuan)",
+        "Quick Meals/Jianbing/Wraps/Hand-held Pancakes (Average 16 yuan)",
+        "Quick Meals/Fried Dough Sticks (Average 12 yuan)"
+      ],
+      "cost per order": "12~35 yuan",
+      "preferred store rating": "4.2~4.6 stars",
+      "preferred delivery time": "15~25 minutes",
+      "preferred distance": "500~1800m",
+      "recent orders": [
+        {
+          "store": "Old Taiyuan Baozi Shop",
+          "product": "Pork and Green Onion Steamed Buns + Soy Milk"
+        },
+        {
+          "store": "Shanxi Traditional Noodle House",
+          "product": "Knife-cut Noodles Breakfast Set"
+        }
+      ],
+      "search history": [
+        "Roujiamo",
+        "Soy Milk",
+        "Steamed Buns",
+        "Breakfast",
+        "Stomach-friendly Porridge"
+      ]
+    },
+    "weekday lunch/dinner": {
+      "frequently purchased categories": [
+        "Quick Meals/Rice with Toppings (Average 35 yuan)",
+        "Quick Meals/Braised Chicken Rice (Average 38 yuan)",
+        "Chinese Cuisine/Sichuan Food (Average 65 yuan)"
+      ],
+      "cost per order": "30~75 yuan",
+      "preferred store rating": "4.3~4.8 stars",
+      "preferred delivery time": "15~35 minutes",
+      "preferred distance": "0~3500m",
+      "recent orders": [
+        {
+          "store": "Yang Mingyu Braised Chicken Rice",
+          "product": "Mildly Spicy Braised Chicken Rice + Bean Sprouts"
+        },
+        {
+          "store": "Xiao Long Kan Hot Pot",
+          "product": "Single Person Spicy Hot Pot Set"
+        },
+        {
+          "store": "Fish with You Sauerkraut Fish",
+          "product": "Signature Sauerkraut Fish Rice"
+        }
+      ],
+      "search history": [
+        "Sauerkraut Fish",
+        "Fast Food",
+        "Healthy Meal",
+        "Low-fat Set Meal"
+      ]
+    },
+    "weekend lunch/dinner": {
+      "frequently purchased categories": [
+        "Chinese Cuisine/Northeastern Food (Average 88 yuan)",
+        "Chinese Cuisine/Stewed Pot (Average 110 yuan)",
+        "Hot Pot/Hot Pot (Average 95 yuan)"
+      ],
+      "cost per order": "70~160 yuan",
+      "preferred store rating": "4.5~5.0 stars",
+      "preferred delivery time": "30~45 minutes",
+      "preferred distance": "0~3500m",
+      "recent orders": [
+        {
+          "store": "Li's Stewed Pot",
+          "product": "Family Set for Three Stewed Pot Meal"
+        },
+        {
+          "store": "Sichuan Origin Maocai",
+          "product": "Set for Two + Beef + Luncheon Meat"
+        },
+        {
+          "store": "Northeastern Farm Cuisine",
+          "product": "Sweet and Sour Pork + Three Fresh Vegetables + Northeastern Rice"
+        }
+      ],
+      "search history": [
+        "Family Set Meal",
+        "Kids Meal",
+        "Suitable for Family",
+        "Mildly Spicy Hot Pot",
+        "Northeastern Cuisine"
+      ]
+    },
+    "desserts/drinks/snacks": {
+      "frequently purchased categories": [
+        "Beverages and Desserts/Milk Tea (Average 22 yuan)",
+        "Beverages and Desserts/Fruit Mix (Average 33 yuan)",
+        "Beverages and Desserts/Coffee (Average 30 yuan)"
+      ],
+      "cost per order": "15~40 yuan",
+      "preferred store rating": "4.4~5.0 stars",
+      "preferred delivery time": "15~25 minutes",
+      "preferred distance": "0~2500m",
+      "recent orders": [
+        {
+          "store": "HeyTea",
+          "product": "Full Cup Red Pomelo"
+        },
+        {
+          "store": "CoCo",
+          "product": "Three Brothers Milk Tea"
+        },
+        {
+          "store": "Starbucks",
+          "product": "Americano"
+        }
+      ],
+      "search history": [
+        "Milk Tea",
+        "Sugar-free Coffee",
+        "Low-sugar Drinks",
+        "Tea"
+      ]
+    },
+    "night snack": {
+      "frequently purchased categories": [
+        "BBQ and Fried Food/BBQ Skewers (Average 58 yuan)",
+        "Quick Meals/Clay Pot Soup (Average 40 yuan)",
+        "Snacks and Braised Food/Braised Items (Average 45 yuan)"
+      ],
+      "cost per order": "25~60 yuan",
+      "preferred store rating": "4.1~4.7 stars",
+      "preferred delivery time": "25~40 minutes",
+      "preferred distance": "500~3000m",
+      "recent orders": [
+        {
+          "store": "Han's Charcoal Grilled Meat",
+          "product": "Grilled Pork Belly + Grilled Beef + Grilled Vegetables"
+        },
+        {
+          "store": "Old Taiyuan Braised Flavors",
+          "product": "Braised Pig Trotters + Braised Tofu + Braised Eggs"
+        },
+        {
+          "store": "Sha County Snacks",
+          "product": "Clay Pot Soup + Pan-fried Dumplings"
+        }
+      ],
+      "search history": [
+        "Grilled Meat",
+        "Heat-reducing Soup",
+        "Braised Food",
+        "Stomach-friendly Night Snack"
+      ]
+    }
+  },
+  "stores": {
+    "S19713618878860452_S55950": {
+      "name": "Pu Xiao Pu Mixed Rice · Cold Noodles · Soup Rice (International Trade Branch)",
+      "store_id": "S19713618878860452_S55950",
+      "score": 4.8,
+      "location": {
+        "address": "Sanqiao Convenience Market, 39 Sanqiao Street (350 meters walk from Jihuying Metro Station Exit B), Xinghualing District, Taiyuan, Shanxi Province",
+        "latitude": 37.876736,
+        "longitude": 112.558394
+      },
+      "tags": [],
+      "products": [
+        {
+          "name": "Sweet and Sour Buckwheat Cold Noodles + Red Sausage + 1 Sunny Side Up Egg (Ice Cold)",
+          "store_id": "S19713618878860452_S55950",
+          "store_name": "Pu Xiao Pu Mixed Rice · Cold Noodles · Soup Rice (International Trade Branch)",
+          "price": 24.8,
+          "tags": [
+            "Chewy"
+          ],
+          "product_id": "S29731354455150560_P41203",
+          "attributes": [],
+          "quantity": 9999
+        },
+        {
+          "name": "Vegetarian Korean Cold Noodles",
+          "product_id": "S12127758510635325_P48109",
+          "store_id": "S19713618878860452_S55950",
+          "store_name": "Pu Xiao Pu Mixed Rice · Cold Noodles · Soup Rice (International Trade Branch)",
+          "price": 23.8,
+          "tags": [],
+          "attributes": [],
+          "quantity": 9999
+        }
+      ]
+    },
+    "S16887453931857079_S63694": {
+      "name": "Vinegar Love · Freshly Made Vinegar Drinks (Food Street Branch)",
+      "store_id": "S16887453931857079_S63694",
+      "score": 5,
+      "location": {
+        "address": "Food Street, 129 Zhonglou Street (290 meters walk from Fuxi Street Metro Station Exit D), Yingze District, Taiyuan, Shanxi Province",
+        "latitude": 37.870023,
+        "longitude": 112.562197
+      },
+      "tags": [],
+      "products": [
+        {
+          "name": "Jin Shuang · Shanxi Aged Vinegar Cola",
+          "store_id": "S16887453931857079_S63694",
+          "store_name": "Vinegar Love · Freshly Made Vinegar Drinks (Food Street Branch)",
+          "price": 17.9,
+          "tags": [
+            "Shanxi Specialty"
+          ],
+          "product_id": "S33043175164707784_P19453",
+          "attributes": [],
+          "quantity": 9999
+        },
+        {
+          "name": "One Bite Soul · Original Black Gold",
+          "product_id": "S27124738552709052_P25937",
+          "store_id": "S16887453931857079_S63694",
+          "store_name": "Vinegar Love · Freshly Made Vinegar Drinks (Food Street Branch)",
+          "price": 19.71,
+          "tags": [
+            "Classic Must-Try Drink",
+            "Green Tea"
+          ],
+          "attributes": [],
+          "quantity": 9999
+        }
+      ]
+    },
+    "S17075190379161118_S54665": {
+      "name": "Nanchang Mixed Rice Noodles & Clay Pot Soup (Wucheng Branch)",
+      "store_id": "S17075190379161118_S54665",
+      "score": 4.8,
+      "location": {
+        "address": "Caihe Market, 198 South Middle Ring Street, Wucheng Street, Xiaodian District, Taiyuan, Shanxi Province",
+        "latitude": 37.790775,
+        "longitude": 112.578022
+      },
+      "tags": [],
+      "products": [
+        {
+          "name": "Cordyceps Flower Black Chicken Soup",
+          "store_id": "S17075190379161118_S54665",
+          "store_name": "Nanchang Mixed Rice Noodles & Clay Pot Soup (Wucheng Branch)",
+          "price": 14.8,
+          "tags": [
+            "Cordyceps Flower",
+            "Replenish Qi and Nourish Yin",
+            "Enhance Immunity"
+          ],
+          "product_id": "S95761118842118315_P53885",
+          "attributes": [],
+          "quantity": 9999
+        },
+        {
+          "name": "Shiitake Mushroom Meat Patty Soup",
+          "product_id": "S29578045351840619_P53086",
+          "store_id": "S17075190379161118_S54665",
+          "store_name": "Nanchang Mixed Rice Noodles & Clay Pot Soup (Wucheng Branch)",
+          "price": 12.8,
+          "tags": [
+            "Slow-cooked"
+          ],
+          "attributes": [],
+          "quantity": 9999
+        },
+        {
+          "name": "Century Egg Meat Patty Soup",
+          "product_id": "S24480737745861976_P68934",
+          "store_id": "S17075190379161118_S54665",
+          "store_name": "Nanchang Mixed Rice Noodles & Clay Pot Soup (Wucheng Branch)",
+          "price": 12.8,
+          "tags": [],
+          "attributes": [],
+          "quantity": 9999
+        }
+      ]
+    },
+    "S27280128159942038_S63428": {
+      "name": "Oh MO Oh MO Korean Cuisine",
+      "store_id": "S27280128159942038_S63428",
+      "score": 4.5,
+      "location": {
+        "address": "Oh MO Oh MO Korean Cuisine, 14 Haizibianxi Street (50 meters north of Wenying Park West Gate), Yingze District, Taiyuan, Shanxi Province",
+        "latitude": 37.864806,
+        "longitude": 112.568549
+      },
+      "tags": [],
+      "products": [
+        {
+          "name": "Korean Buckwheat Cold Noodles + Boneless Fried Chicken Sweet Spicy Flavor",
+          "product_id": "S17829958671490378_P96032",
+          "store_id": "S27280128159942038_S63428",
+          "store_name": "Oh MO Oh MO Korean Cuisine",
+          "price": 34.99,
+          "tags": [],
+          "attributes": [],
+          "quantity": 9999
+        },
+        {
+          "name": "Small Portion of Korean Buckwheat Cold Noodles",
+          "product_id": "S32727011270701885_P42368",
+          "store_id": "S27280128159942038_S63428",
+          "store_name": "Oh MO Oh MO Korean Cuisine",
+          "price": 19.99,
+          "tags": [],
+          "attributes": [],
+          "quantity": 9999
+        }
+      ]
+    },
+    "S88546401691782977_S20639": {
+      "name": "Old Taiyuan Restaurant · Traditional Shanxi Cuisine (Zhonglou Street Branch)",
+      "store_id": "S88546401691782977_S20639",
+      "score": 4.7,
+      "location": {
+        "address": "Old Taiyuan Restaurant (Zhonglou Street Branch), 1 Zhonglou Pedestrian Street, Liuxiang Street, Yingze District, Taiyuan, Shanxi Province",
+        "latitude": 37.868094,
+        "longitude": 112.567413
+      },
+      "tags": [],
+      "products": [
+        {
+          "name": "Cola",
+          "product_id": "S19285979921389019_P13760",
+          "store_id": "S88546401691782977_S20639",
+          "store_name": "Old Taiyuan Restaurant · Traditional Shanxi Cuisine (Zhonglou Street Branch)",
+          "price": 6,
+          "tags": [],
+          "attributes": [],
+          "quantity": 9999
+        }
+      ]
+    }
+  },
+  "orders": {}
+}

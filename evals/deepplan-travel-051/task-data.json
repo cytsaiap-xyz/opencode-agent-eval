@@ -1,0 +1,50 @@
+{
+  "task_id": "50",
+  "query": "I plan to travel from Zhuhai to Shanghai on November 12, 2025, and return to Zhuhai on November 15, 2025. The total budget for this trip should be within 14000 yuan, There will be four of us in total, and we intend to take trains for the entire journey—could you please help us check suitable train schedules?\n\nFor accommodation, we’d like something comfortable. Please arrange for us the highest-rated hotel in downtown Shanghai. We’ll need two rooms for four people, so kindly pay attention to the room types.\n\nRegarding dining, I have two specific requests that I’d appreciate your help incorporating into the plan. For our first meal, I’d like to dine at 'Panlu Western Restaurant at Pullman Shanghai Jing'an Hotel (Pullman Shanghai Jing'an Hotel)'—I’ve heard the ambiance and food there are exceptional and would love to experience it. Additionally, we’d like to have one meal at a restaurant near 'Liu Haisu Art Museum' with outdoor seating. Could you please recommend a well-reviewed option?\n\nThat covers the basic requirements for our itinerary. Please go ahead and plan out the transportation, accommodation, dining, and sightseeing arrangements accordingly—no need to ask for further details. Thank you! November 12, 2025 is Wednesday",
+  "meta_info": {
+    "org": "Zhuhai",
+    "dest": [
+      "Shanghai"
+    ],
+    "days": 4,
+    "depart_date": "2025-11-12",
+    "return_date": "2025-11-15",
+    "people_number": 4,
+    "room_number": 2
+  },
+  "hard_constraints": {
+    "train_seat_status": {
+      "constraint_context": "4 travelers, choosing to travel by train, need to select trains with sufficient remaining tickets (this sentence does not need to be included in the query, but should be inferred by the user).",
+      "people_number": 4,
+      "outbound_train_no": "G1302",
+      "inbound_train_no": "G1301",
+      "outbound_seat_status": "7",
+      "inbound_seat_status": "8"
+    },
+    "hotel_highest_rated": {
+      "constraint_context": "For accommodation, please select the highest-rated hotel in this city",
+      "constraint_type": "superlative_highest_rated_hotel",
+      "hotel_name": "Hanting Hotel Shanghai Jiaotong University Jiangchuan Road Metro Station New Branch",
+      "hotel_price": 275.0,
+      "hotel_score": 5.0
+    },
+    "restaurant_specific_tag_nearby": {
+      "constraint_context": "Arrange a meal at a restaurant near the 'Liu Haisu Art Museum' during the trip, with outdoor seating service required",
+      "constraint_type": "superlative_specific_tag_nearby",
+      "attraction_name": "Liu Haisu Art Museum",
+      "restaurant_name": "Xianqi Half Step Tipsy Bistro (Dingxi Road Branch)",
+      "required_tag": "Outdoor Seating",
+      "price_per_person": 99.0,
+      "restaurant_rating": 4.4
+    },
+    "restaurant_must_eat_named": {
+      "constraint_context": "The itinerary must include one meal at 'Panlu Western Restaurant at Pullman Shanghai Jing'an Hotel (Pullman Shanghai Jing'an Hotel)'.",
+      "constraint_type": "superlative_must_eat_named",
+      "restaurant_name": "Panlu Western Restaurant at Pullman Shanghai Jing'an Hotel (Pullman Shanghai Jing'an Hotel)",
+      "restaurant_rating": 4.1
+    },
+    "budget_constraint": {
+      "max_budget": 14000
+    }
+  }
+}

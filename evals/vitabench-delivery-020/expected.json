@@ -1,0 +1,70 @@
+{
+  "required_orders": [
+    {
+      "order_id": "30711008T02",
+      "order_type": "delivery",
+      "user_id": "U000037",
+      "store_id": "S97537355154593224_S10282",
+      "note": "",
+      "location": {
+        "address": "Greentown Begonia Garden, No. 1766 Bayi South Street, Wucheng District, Jinhua City, Zhejiang Province",
+        "longitude": 119.655095,
+        "latitude": 29.056885
+      },
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 27.8,
+      "create_time": "2025-11-22 12:08:00",
+      "update_time": "2025-11-22 12:10:00",
+      "status": "cancelled",
+      "products": [
+        {
+          "product_id": "S30020602686844963_P19861",
+          "price": 16.8,
+          "quantity": 1,
+          "attributes": ""
+        },
+        {
+          "product_id": "S11612563883050070_P50866",
+          "price": 11.0,
+          "quantity": 1,
+          "attributes": ""
+        }
+      ]
+    },
+    {
+      "order_id": "30711008O01",
+      "order_type": "delivery",
+      "user_id": "U000037",
+      "store_id": "S22026835984229219_S49422",
+      "note": "",
+      "location": {
+        "address": "Greentown Begonia Garden, No. 1766 Bayi South Street, Wucheng District, Jinhua City, Zhejiang Province",
+        "longitude": 119.655095,
+        "latitude": 29.056885
+      },
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 25.8,
+      "create_time": "2025-11-22 12:12:00",
+      "update_time": "2025-11-22 12:12:00",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S28196571056007770_P75509",
+          "price": 25.8,
+          "quantity": 1,
+          "attributes": ""
+        }
+      ]
+    }
+  ],
+  "rubrics": [
+    "Successfully canceled the Old Shanghai Pork Rib with Rice Cake store order that the user no longer needs due to indigestion, the order status with order_id 30711008O01 has been changed to cancelled",
+    "The delivery address for the newly ordered winter melon meat soup should be Greentown Begonia Garden, No. 1766 Bayi South Street, Wucheng District, Jinhua City, Zhejiang Province",
+    "The delivery time for the newly ordered winter melon meat soup should be before 13:00 on November 22, 2025, to meet the user's afternoon shift needs",
+    "The newly ordered product for the user with indigestion should contain both winter melon and meat, suitable for stomach care needs"
+  ]
+}

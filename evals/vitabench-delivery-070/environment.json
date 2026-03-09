@@ -1,0 +1,291 @@
+{
+  "task_id": "E0717002",
+  "domain": "delivery",
+  "time": "2025-06-12 10:11:54",
+  "user_id": "U000006",
+  "weather": [
+    {
+      "city": "Guangzhou City",
+      "category": "showers",
+      "datetime": "2025-06-12",
+      "temperature": [
+        25,
+        32
+      ],
+      "humidity": 63
+    }
+  ],
+  "location": [
+    {
+      "address": "No.1-1 Nanyuan New Village, Qianjin Road, Haizhu District, Guangzhou, Guangdong Province (Near Wanfeng Garden), Haizhu District Traditional Chinese Medicine Hospital",
+      "longitude": 113.275276,
+      "latitude": 23.101274
+    }
+  ],
+  "user_profile": {
+    "user id": "U000006",
+    "occupation": "Doctor",
+    "gender": "male",
+    "age group": "50~55",
+    "residence": "Guangzhou",
+    "home address": "Longkou Apartment Complex, No. 58 Longkou West Road, Tianhe District, Guangzhou Province, Guangdong",
+    "work address": "No.1-1 Nanyuan New Village, Qianjin Road, Haizhu District, Guangzhou, Guangdong Province (Near Wanfeng Garden), Haizhu District Traditional Chinese Medicine Hospital",
+    "dietary restrictions": "No high salt, no caffeine",
+    "family status": "Has children",
+    "personality": "Strong logical thinking, likes to analyze and question, pursues accuracy"
+  },
+  "user_historical_behaviors": {
+    "user id": "U000006",
+    "occupation": "Doctor",
+    "gender": "male",
+    "age group": "50~55",
+    "residence": "Guangzhou",
+    "home address": "Longkou Community, No. 58 Longkou West Road, Tianhe District, Guangzhou, Guangdong Province",
+    "work address": "No.1-1 Nanyuan New Village, Qianjin Road, Haizhu District, Guangzhou, Guangdong Province (Near Wanfeng Garden), Haizhu District Traditional Chinese Medicine Hospital",
+    "breakfast": {
+      "frequently purchased categories": [
+        "Quick meals/Steamed buns/Pan-fried buns (Average 13 yuan)",
+        "Quick meals/Light food (Average 32 yuan)",
+        "Quick meals/Pancakes/Wraps/Hand-held pancakes (Average 15 yuan)"
+      ],
+      "cost per order": "13~35 yuan",
+      "preferred store rating": "4.3~4.8 stars",
+      "preferred delivery time": "15~30 minutes",
+      "preferred distance": "0~2500m",
+      "recent orders": [
+        {
+          "store": "Fresh Grain Breakfast",
+          "product": "Low-salt whole wheat bread + Yogurt"
+        },
+        {
+          "store": "Shunyi Breakfast",
+          "product": "Fresh meat pan-fried bun + Soy milk"
+        },
+        {
+          "store": "Yiyang Light Food",
+          "product": "Vegetable and fruit light salad"
+        }
+      ],
+      "search history": [
+        "Low-salt breakfast",
+        "Healthy breakfast",
+        "Fruit salad",
+        "Whole wheat bread",
+        "Sugar-free soy milk"
+      ]
+    },
+    "weekday lunch/dinner": {
+      "frequently purchased categories": [
+        "Quick meals/Healthy meals (Average 45 yuan)",
+        "Foreign cuisine/Stone pot bibimbap (Average 38 yuan)",
+        "Chinese cuisine/Cantonese cuisine (Average 60 yuan)"
+      ],
+      "cost per order": "30~65 yuan",
+      "preferred store rating": "4.3~4.9 stars",
+      "preferred delivery time": "20~45 minutes",
+      "preferred distance": "0~3000m",
+      "recent orders": [
+        {
+          "store": "Zhanjiang White Cut Chicken (Gongyuanqian Branch)",
+          "product": "Local white cut chicken leg rice"
+        },
+        {
+          "store": "Zhanjiang Wuchuan Ranwei Cuisine (Zhanjiang Chicken)",
+          "product": "High-quality fresh white cut beef brisket rice + Vegetables + Rice"
+        }
+      ],
+      "search history": [
+        "Low-sodium meals",
+        "Healthy work meals",
+        "Steamed dishes",
+        "White cut chicken rice set"
+      ]
+    },
+    "weekend lunch/dinner": {
+      "frequently purchased categories": [
+        "Foreign cuisine/Japanese and Korean bento (Average 85 yuan)",
+        "Chinese cuisine/Cantonese cuisine (Average 120 yuan)",
+        "Foreign cuisine/Western cuisine (Average 95 yuan)"
+      ],
+      "cost per order": "70~150 yuan",
+      "preferred store rating": "4.7~5.0 stars",
+      "preferred delivery time": "25~45 minutes",
+      "preferred distance": "0~4500m",
+      "recent orders": [
+        {
+          "store": "Yuehuxuan Cantonese Cuisine",
+          "product": "Poached shrimp + Steamed sea bass + Vegetable salad"
+        },
+        {
+          "store": "Korean Flavor Pavilion",
+          "product": "Stone pot bibimbap + Seafood soup"
+        }
+      ],
+      "search history": [
+        "Fresh seafood",
+        "Cantonese family meal",
+        "Healthy cuisine"
+      ]
+    },
+    "desserts/drinks/snacks": {
+      "frequently purchased categories": [
+        "Drinks and desserts/Pure tea/Herbal tea (Average 22 yuan)",
+        "Drinks and desserts/Fruit mix (Average 32 yuan)",
+        "Drinks and desserts/Chinese pastries (Average 28 yuan)"
+      ],
+      "cost per order": "15~40 yuan",
+      "preferred store rating": "4.4~4.9 stars",
+      "preferred delivery time": "15~30 minutes",
+      "preferred distance": "0~2500m",
+      "recent orders": [
+        {
+          "store": "Royal Fruit Pavilion",
+          "product": "Fresh fruit platter"
+        },
+        {
+          "store": "Taoli Chinese Pastries",
+          "product": "Low-sugar red bean cake"
+        }
+      ],
+      "search history": [
+        "Sugar-free drinks",
+        "Fruit platter",
+        "Low-sugar desserts",
+        "Healthy snacks"
+      ]
+    },
+    "night snack": {
+      "frequently purchased categories": [
+        "Quick meals/Small dishes/Small portions (Average 42 yuan)",
+        "Quick meals/Casserole dishes (Average 48 yuan)",
+        "Chinese cuisine/Cantonese cuisine (Average 55 yuan)"
+      ],
+      "cost per order": "35~60 yuan",
+      "preferred store rating": "4.5~4.8 stars",
+      "preferred delivery time": "25~40 minutes",
+      "preferred distance": "0~3500m",
+      "recent orders": [
+        {
+          "store": "Qiuzhan Casserole Porridge",
+          "product": "Nourishing chicken porridge + Vegetable platter"
+        },
+        {
+          "store": "Cantonese Small Kitchen",
+          "product": "Low-salt choy sum + Fresh shrimp stir-fry"
+        },
+        {
+          "store": "Zhenwei Small Restaurant",
+          "product": "Clear-stewed beef soup"
+        }
+      ],
+      "search history": [
+        "Light night snacks",
+        "Nourishing porridge",
+        "Low-salt stir-fry",
+        "Stomach-friendly soup",
+        "Non-spicy stewed dishes"
+      ]
+    }
+  },
+  "stores": {
+    "S14548244109695231_S21998": {
+      "name": "Jintangpu Stew House (Jiangnan West Branch)",
+      "store_id": "S14548244109695231_S21998",
+      "score": 4.9,
+      "location": {
+        "address": "Jintangpu Stew House (Jiangnan West Branch), Kanglong Garden, 280-284 Baoye Road, Haizhu District, Guangzhou, Guangdong Province",
+        "latitude": 23.093683,
+        "longitude": 113.265077
+      },
+      "tags": [],
+      "products": [
+        {
+          "name": "Steamed Broccoli 🥦 Healthy Low-fat + Soy Sauce",
+          "store_id": "S14548244109695231_S21998",
+          "store_name": "Jintangpu Stew House (Jiangnan West Branch)",
+          "price": 6.8,
+          "tags": [],
+          "product_id": "S23180414711515603_P47194",
+          "attributes": [],
+          "quantity": 9999
+        },
+        {
+          "name": "Fragrant Rice (A Bowl of Intriguing Rice)",
+          "store_id": "S14548244109695231_S21998",
+          "store_name": "Jintangpu Stew House (Jiangnan West Branch)",
+          "price": 1.99,
+          "tags": [],
+          "product_id": "S33104164931719383_P20825",
+          "attributes": [],
+          "quantity": 9999
+        },
+        {
+          "name": "Original Hainan Coconut Chicken Soup (100% Pure Coconut Water)",
+          "store_id": "S14548244109695231_S21998",
+          "store_name": "Jintangpu Stew House (Jiangnan West Branch)",
+          "price": 32.8,
+          "tags": [],
+          "product_id": "S29868429459190442_P12525",
+          "attributes": [],
+          "quantity": 9999
+        },
+        {
+          "name": "Bamboo Fungus, Water Chestnut and Coconut Chicken Stew",
+          "store_id": "S14548244109695231_S21998",
+          "store_name": "Jintangpu Stew House (Jiangnan West Branch)",
+          "price": 32.8,
+          "tags": [
+            "Salty Flavor"
+          ],
+          "product_id": "S25195517658010426_P47980",
+          "attributes": [],
+          "quantity": 9999
+        },
+        {
+          "name": "Cordyceps Flower and Sea Coconut Lung-Nourishing Soup",
+          "store_id": "S14548244109695231_S21998",
+          "store_name": "Jintangpu Stew House (Jiangnan West Branch)",
+          "price": 29.8,
+          "tags": [],
+          "product_id": "S16129920421713866_P95662",
+          "attributes": [],
+          "quantity": 9999
+        },
+        {
+          "name": "Mature Coconut Meat and Fig Chicken Soup (Sweet and Nourishing, Helps Relieve Cough)",
+          "store_id": "S14548244109695231_S21998",
+          "store_name": "Jintangpu Stew House (Jiangnan West Branch)",
+          "price": 39.8,
+          "tags": [],
+          "product_id": "S33754971313111766_P57011",
+          "attributes": [],
+          "quantity": 9999
+        }
+      ]
+    },
+    "S40900368796725095_S52807": {
+      "name": "Grandpa Soup (Fresh Pig Brain Soup, Chicken Soup, Spare Rib Soup, Stall A07)",
+      "store_id": "S40900368796725095_S52807",
+      "score": 4.7,
+      "location": {
+        "address": "Room 260, No. 148 Qianjin Road, Haizhu District, Guangzhou City",
+        "latitude": 23.099506,
+        "longitude": 113.281073
+      },
+      "tags": [],
+      "products": [
+        {
+          "name": "Coconut Black Chicken Soup + Rice",
+          "store_id": "S40900368796725095_S52807",
+          "store_name": "Grandpa Soup (Fresh Pig Brain Soup, Chicken Soup, Spare Rib Soup, Stall A07)",
+          "price": 25.8,
+          "tags": [],
+          "product_id": "S29099831038884479_P04570",
+          "attributes": [],
+          "quantity": 9999
+        }
+      ]
+    }
+  },
+  "orders": {}
+}

@@ -1,0 +1,129 @@
+{
+  "required_orders": [
+    {
+      "order_id": "OT64e3047b69",
+      "order_type": "delivery",
+      "user_id": "U822163",
+      "store_id": "S17550802169908940_S00001",
+      "note": "",
+      "location": {
+        "address": "Room 501, Unit 2, Building 1, Vanke City Light, No.239 Qingyang North Road, Tianning District, Changzhou City, Jiangsu Province",
+        "longitude": 119.974031,
+        "latitude": 31.789542
+      },
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 68,
+      "create_time": "2026-04-12 08:16:00",
+      "update_time": "2026-04-12 08:16:00",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17550802169908940_P00001",
+          "price": 68,
+          "quantity": 1,
+          "name": "Family Breakfast Set for Three",
+          "store_id": "S17550802169908940_S00001",
+          "store_name": "Healthy Breakfast Workshop",
+          "attributes": "",
+          "tags": [
+            "breakfast",
+            "Nutritious Set Meal",
+            "Dine-in Restaurant",
+            "Health Food",
+            "Senior-friendly"
+          ]
+        }
+      ]
+    },
+    {
+      "order_id": "10808007T001",
+      "order_type": "instore",
+      "user_id": "U822163",
+      "store_id": "S17550802169908940_I00012",
+      "note": "",
+      "location": null,
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 1688,
+      "create_time": "2026-04-12 08:19:00",
+      "update_time": "2026-04-12 08:19:00",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17550802169908940_P00067",
+          "name": "Neo-Chinese Two-person Artistic Photography Package",
+          "price": 1688,
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "reservation_id": "10808007T003",
+      "shop_id": "S17550802169908940_I00012",
+      "reservation_time": "2026-04-12 10:00:00",
+      "update_time": "2026-04-12 08:21:00",
+      "customer_id": "U822163",
+      "customer_count": 2,
+      "status": "paid"
+    },
+    {
+      "order_id": "10808007T002",
+      "order_type": "attraction",
+      "user_id": "U822163",
+      "store_id": "S17550802169908940_A00007",
+      "note": "",
+      "location": null,
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 25,
+      "create_time": "2026-04-12 08:20:00",
+      "update_time": "2026-04-12 08:20:00",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17550802169908940_P00034",
+          "price": 5,
+          "quantity": 2,
+          "date": "2025-04-28",
+          "ticket_type": "Senior Ticket"
+        },
+        {
+          "product_id": "S17550802169908940_P00035",
+          "price": 15,
+          "quantity": 1,
+          "date": "2025-04-28",
+          "ticket_type": "Adult Ticket"
+        }
+      ]
+    }
+  ],
+  "rubrics": [
+    "The breakfast order items should be nutritionally rich",
+    "The breakfast order items must be Three-person Portion",
+    "The breakfast order items must come from a Dine-in Restaurant",
+    "The breakfast order items must not contain high Purine foods (such as organ meats/seafood soup)",
+    "The breakfast order items must not contain caffeine",
+    "The delivery address for the breakfast order should be Room 501, Unit 2, Building 1, Vanke City Light, No.239 Qingyang North Road, Tianning District, Changzhou City, Jiangsu Province",
+    "The studio in the photo studio order should have an Elegant Environment",
+    "The items in the photo studio order should be Neo-Chinese Style",
+    "The items in the photo studio order should be Two-person Artistic Photography",
+    "The package in the photo studio order must include Makeup and Styling Included services",
+    "The package in the photo studio order must include photos and photo frames",
+    "The photo studio appointment should be at Elegant Rhythm Photography Art Gallery",
+    "The appointment time for the photo studio should be 10:00 on 2026-04-12",
+    "The number of people for the photo studio appointment should be 2",
+    "The tourist attraction ordered should be suitable for elderly people",
+    "The tourist attraction ordered must not require climbing too many slopes",
+    "The tourist attraction ordered must have fresh air",
+    "The scenic spot order should include Senior Ticket",
+    "The scenic spot order should include Adult Ticket",
+    "The scenic spot order should include 2 Senior Tickets",
+    "The scenic spot order should include 1 Adult Ticket",
+    "The ticket date for the scenic spot order should be 2026-04-12",
+    "Need to inquire whether there are wigs suitable for elderly people, the result shows that Health Preservation Wig Specialty Store offers Middle-aged and Elderly Men's Real Hair Toupee, Lightweight Breathable Wig Set for Elderly and other products"
+  ]
+}

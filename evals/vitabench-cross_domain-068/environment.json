@@ -1,0 +1,960 @@
+{
+  "task_id": "10807010",
+  "domain": "cross_domain",
+  "time": "2025-12-20 09:30:00",
+  "user_id": "U010097",
+  "weather": [
+    {
+      "city": "Shaoxing",
+      "category": "sunny",
+      "datetime": "2025-12-23",
+      "temperature": [
+        2,
+        8
+      ],
+      "humidity": 65
+    }
+  ],
+  "location": [
+    {
+      "address": "Room 502, Building 3, Zhongxing Mingyuan, 328 Didang Lake Road, Yuecheng District, Shaoxing, Zhejiang Province",
+      "longitude": 120.586,
+      "latitude": 30.002
+    }
+  ],
+  "user_profile": {
+    "user id": "U010097",
+    "occupation": "Nurse",
+    "gender": "female",
+    "age group": "25~30",
+    "residence": "Shaoxing",
+    "Permanent address": "Room 502, Building 3, Zhongxing Mingyuan, 328 Didang Lake Road, Yuecheng District, Shaoxing, Zhejiang Province",
+    "work address": "Shaoxing People's Hospital, 501 Zhongxing North Road, Yuecheng District, Shaoxing, Zhejiang Province",
+    "dietary restrictions": "Avoids greasy spicy food, avoids cold raw food",
+    "family status": "Has children",
+    "personality": "Tends to be controlling, not easily accepting different opinions"
+  },
+  "user_historical_behaviors": {
+    "user id": "U010097",
+    "occupation": "nurse",
+    "gender": "female",
+    "age group": "25~30",
+    "residence": "Shaoxing",
+    "home address": "Room 502, Building 3, Zhongxing Mingyuan, 328 Didang Lake Road, Yuecheng District, Shaoxing, Zhejiang Province",
+    "work address": "Shaoxing People's Hospital, 501 Zhongxing North Road, Yuecheng District, Shaoxing, Zhejiang Province",
+    "Takeout scenario": {
+      "food delivery": {
+        "breakfast": {
+          "frequently purchased categories": [
+            "Quick Meals/Steamed Buns/Pan-fried Buns (Average 15 yuan)",
+            "Quick Meals/Fried Dough Sticks (Average 8 yuan)",
+            "Quick Meals/Porridge (Average 12 yuan)"
+          ],
+          "cost per order": "10~25 yuan",
+          "preferred store rating": "4.2~4.8 points",
+          "preferred delivery time": "15~25 minutes",
+          "preferred distance": "0~1500m",
+          "recent orders": [
+            {
+              "store": "Mr. Breakfast",
+              "product": "Soy Milk and Fried Dough Stick Set"
+            },
+            {
+              "store": "Old Neighborhood Bun Shop",
+              "product": "6 Pork Buns + Century Egg and Lean Meat Porridge"
+            },
+            {
+              "store": "Porridge Way",
+              "product": "Century Egg and Lean Meat Porridge + Side Dish"
+            }
+          ],
+          "search history": [
+            "Soy milk",
+            "Steamed buns",
+            "Porridge",
+            "Stomach-friendly breakfast"
+          ]
+        },
+        "weekday lunch/dinner": {
+          "frequently purchased categories": [
+            "Quick Meals/Rice with Toppings (Average 22 yuan)",
+            "Quick Meals/Small Bowls/Small Portions (Average 25 yuan)",
+            "Quick Meals/Rice Noodles/Rice Vermicelli (Average 18 yuan)"
+          ],
+          "cost per order": "18~35 yuan",
+          "preferred store rating": "4.0~4.5 points",
+          "preferred delivery time": "20~30 minutes",
+          "preferred distance": "0~2500m",
+          "recent orders": [
+            {
+              "store": "Mr. Big Bowl",
+              "product": "Mild Chicken Rice"
+            },
+            {
+              "store": "Small Bowl Home-style Dishes",
+              "product": "Stir-fried Vegetables + Steamed Chicken Set"
+            },
+            {
+              "store": "Yunnan Crossing Bridge Rice Noodles",
+              "product": "Original Rice Noodles + Braised Egg"
+            }
+          ],
+          "search history": [
+            "Mild meals",
+            "Non-spicy set meals",
+            "Fast food",
+            "Home-style Dishes"
+          ]
+        },
+        "weekend lunch/dinner": {
+          "frequently purchased categories": [
+            "Chinese Cuisine/Cantonese Cuisine (Average 65 yuan)",
+            "Hot Pot/Clay Pot Porridge (Average 48 yuan)",
+            "Chinese Cuisine/Shandong Cuisine (Average 60 yuan)"
+          ],
+          "cost per order": "45~80 yuan",
+          "preferred store rating": "4.3~4.8 points",
+          "preferred delivery time": "30~45 minutes",
+          "preferred distance": "0~3000m",
+          "recent orders": [
+            {
+              "store": "Cantonese Garden",
+              "product": "Poached Chicken + Steamed Fish + Seasonal Vegetables Set"
+            },
+            {
+              "store": "Old Guangzhou Soups",
+              "product": "Nourishing Clay Pot Porridge + Assorted Side Dishes"
+            },
+            {
+              "store": "Shandong Cuisine No.1",
+              "product": "Sweet and Sour Pork + Braised Sea Cucumber with Green Onion + Rice"
+            }
+          ],
+          "search history": [
+            "Nutritious meals",
+            "Family set meals",
+            "Nourishing soups",
+            "Children's meals"
+          ]
+        },
+        "desserts/drinks/snacks": {
+          "frequently purchased categories": [
+            "Drinks and Desserts/Fruit Juice (Average 18 yuan)",
+            "Drinks and Desserts/Chinese Pastries (Average 22 yuan)"
+          ],
+          "cost per order": "15~30 yuan",
+          "preferred store rating": "4.4~4.9 points",
+          "preferred delivery time": "15~25 minutes",
+          "preferred distance": "0~2000m",
+          "recent orders": [
+            {
+              "store": "Fresh Fruit Juice",
+              "product": "Freshly Squeezed Apple Juice"
+            },
+            {
+              "store": "Traditional Pastry Shop",
+              "product": "Red Bean Cake + Osmanthus Cake"
+            },
+            {
+              "store": "Fresh Juice Bar",
+              "product": "Strawberry Banana Juice"
+            }
+          ],
+          "search history": [
+            "Fruit juice",
+            "Stomach-friendly desserts",
+            "Sugar-free drinks",
+            "Healthy snacks"
+          ]
+        },
+        "night snack": {
+          "frequently purchased categories": [
+            "Quick Meals/Dumplings/Wonton (Average 28 yuan)",
+            "Snacks and Braised Foods/Braised Items (Average 25 yuan)"
+          ],
+          "cost per order": "20~35 yuan",
+          "preferred store rating": "4.0~4.6 points",
+          "preferred delivery time": "20~35 minutes",
+          "preferred distance": "0~2500m",
+          "recent orders": [
+            {
+              "store": "Dumpling House",
+              "product": "Three Delicacies Dumplings + Side Dish"
+            },
+            {
+              "store": "Old Braised Shop",
+              "product": "Braised Chicken Wings + Braised Eggs + Vegetable Platter"
+            },
+            {
+              "store": "Night Snack House",
+              "product": "Clear Broth Wonton"
+            }
+          ],
+          "search history": [
+            "Mild night snacks",
+            "Dumplings",
+            "Non-spicy braised foods",
+            "Stomach-friendly night snacks"
+          ]
+        }
+      },
+      "product delivery": {
+        "frequently purchased categories": [
+          "Vegetables/Bean Products(32%)",
+          "Raw Meat/Poultry/Eggs(25%)",
+          "Grains/Oil/Seasonings/Dry Goods(18%)",
+          "Mother and Baby Products(15%)",
+          "Household Items(7%)",
+          "Others(3%)"
+        ],
+        "frequently visited stores": [
+          "Shaoxing Fresh Food Supermarket(45%)",
+          "Zhongxing People's Livelihood Supermarket(30%)",
+          "Family Mart - Zhongxing Mingyuan Branch(15%)",
+          "Other Stores(10%)"
+        ],
+        "cost per order by category": {
+          "Vegetables/Bean Products": "5~20 yuan",
+          "Raw Meat/Poultry/Eggs": "20~60 yuan",
+          "Grains/Oil/Seasonings/Dry Goods": "10~30 yuan",
+          "Mother and Baby Products": "30~100 yuan",
+          "Household Items": "15~40 yuan"
+        },
+        "preferred delivery time": "30~60 minutes",
+        "typical order time": "9~10 AM(35%), 5~7 PM(40%), 9~10 PM(25%)",
+        "recent orders": [
+          {
+            "store": "Shaoxing Fresh Food Supermarket",
+            "product": "Organic Vegetable Set + Eggs"
+          },
+          {
+            "store": "Zhongxing People's Livelihood Supermarket",
+            "product": "Boneless Chicken Breast + Tofu + Green Vegetables"
+          },
+          {
+            "store": "Family Mart - Zhongxing Mingyuan Branch",
+            "product": "Baby Wipes + Kitchen Paper Towels"
+          }
+        ],
+        "search history": [
+          "Organic vegetables",
+          "Chicken breast",
+          "Baby complementary food",
+          "Tofu",
+          "Non-spicy seasonings"
+        ]
+      }
+    },
+    "In-store scenario": {
+      "in-store dining": {
+        "fine-dining": {
+          "frequently consumed categories": [
+            "Regional Cuisine/Shanghai and Jiangsu-Zhejiang Cuisine (Average 85 yuan)",
+            "Regional Cuisine/Fish Dishes (Average 95 yuan)",
+            "Regional Cuisine/Sichuan Cuisine (Average 75 yuan)"
+          ],
+          "preferred average price per person": "75~95 yuan",
+          "preferred store rating": "4.0~4.5 stars",
+          "typical dining time": "18:30-20:00",
+          "preferred distance": "500~2000m",
+          "recent orders": [
+            {
+              "store": "Shaoxing Fish Restaurant",
+              "product": "Steamed Yellow Croaker"
+            },
+            {
+              "store": "Jiangnan Restaurant",
+              "product": "Dongpo Pork"
+            },
+            {
+              "store": "Chuan Xiang Pavilion",
+              "product": "Boiled Fish Slices (Mildly Spicy)"
+            }
+          ],
+          "search history": [
+            "Oil-free dishes",
+            "Low-sodium restaurants",
+            "Jiangsu and Zhejiang Cuisine",
+            "Family-friendly restaurants"
+          ]
+        },
+        "light meal": {
+          "frequently consumed categories": [
+            "Snacks and Fast Food/Chinese Quick Meals (Average 35 yuan)",
+            "Snacks and Fast Food/Western Fast Food (Average 30 yuan)",
+            "Regional Cuisine/Shanghai and Jiangsu-Zhejiang Cuisine (Average 40 yuan)"
+          ],
+          "preferred average price per person": "25~40 yuan",
+          "preferred store rating": "3.5~4.2 stars",
+          "typical dining time": "11:30-13:00",
+          "preferred distance": "100~500m",
+          "recent orders": [
+            {
+              "store": "Shaxian Snacks",
+              "product": "Steamed Dumplings + Noodles with Shredded Pork"
+            },
+            {
+              "store": "Green Tea Restaurant",
+              "product": "Stir-fried Seasonal Vegetables Set (Low Oil)"
+            },
+            {
+              "store": "Yonghe Soy Milk",
+              "product": "Vegetable Bun + Soy Milk"
+            }
+          ],
+          "search history": [
+            "Fast food",
+            "Bento",
+            "Light food",
+            "Healthy quick meals",
+            "Weekday lunch"
+          ]
+        },
+        "desserts/drinks/snacks": {
+          "frequently consumed categories": [
+            "Beverage Shops (Average 18 yuan)",
+            "Bread and Desserts (Average 25 yuan)",
+            "Other Dining/Fresh Fruits (Average 15 yuan)"
+          ],
+          "preferred average price per person": "15~25 yuan",
+          "preferred store rating": "3.7~4.5 stars",
+          "typical dining time": "15:00-17:00",
+          "preferred distance": "0~300m",
+          "recent orders": [
+            {
+              "store": "OneZo",
+              "product": "Sugar-free Green Tea"
+            },
+            {
+              "store": "85°C",
+              "product": "Whole Wheat Bread"
+            },
+            {
+              "store": "Fruit Mix",
+              "product": "Seasonal Fruit Box"
+            }
+          ],
+          "search history": [
+            "Sugar-free drinks",
+            "Healthy desserts",
+            "Low-calorie options",
+            "Fruit shops"
+          ]
+        }
+      },
+      "other in-store services": {
+        "frequently consumed categories": {
+          "Beauty/Yoga": "40%",
+          "Sports and Fitness/Fitness Centers": "35%",
+          "Parent-Child/Children's Playgrounds": "25%"
+        },
+        "cost per order by category": {
+          "Beauty/Yoga": "80~150 yuan",
+          "Sports and Fitness/Fitness Centers": "50~100 yuan",
+          "Parent-Child/Children's Playgrounds": "100~200 yuan"
+        },
+        "preferred store rating": "4.0~4.8 stars",
+        "preferred service time": "19:30~21:00",
+        "preferred distance": "500~3000m",
+        "recent orders": [
+          {
+            "store": "Green Field Yoga Studio",
+            "product": "Single Yoga Class"
+          },
+          {
+            "store": "Leap Fitness",
+            "product": "Weekend Fitness Package"
+          },
+          {
+            "store": "Qiqi Playground",
+            "product": "Parent-Child Ticket (1 Adult 1 Child)"
+          }
+        ],
+        "search history": [
+          "Weekday evening yoga",
+          "Parent-child activities",
+          "Weekend fitness",
+          "Stress-relieving exercises"
+        ]
+      }
+    },
+    "OTA": {
+      "visited scenes": {
+        "Cultural Heritage Sites": "35%",
+        "Exhibition Halls (Museums/Art Galleries)": "15%",
+        "Natural Landscapes (Mountains/Lakes/Forests)": "20%",
+        "Parks": "15%",
+        "Tourist Attractions (Mountain/Seaside/Ecological Scenic Areas)": "10%",
+        "Hot Spring Resorts": "5%"
+      },
+      "cost per night on hotel": "300~500 yuan",
+      "visited hotels": {
+        "Home Inn": "30%",
+        "Hanting Hotel": "25%",
+        "Ji Hotel": "20%",
+        "Atour": "15%",
+        "Vienna Hotel": "10%"
+      },
+      "browsed hotels": {
+        "Three-star Hotels": "45%",
+        "Comfortable Hotels": "40%",
+        "Budget Hotels": "15%"
+      },
+      "historical travel plans": {
+        "Shaoxing-Hangzhou": {
+          "Price Range": "50-100 yuan",
+          "Transportation Mode": "High-speed Rail/EMU"
+        },
+        "Shaoxing-Shanghai": {
+          "Price Range": "100-200 yuan",
+          "Transportation Mode": "High-speed Rail/EMU"
+        },
+        "Shaoxing-Beijing": {
+          "Price Range": "600-1000 yuan",
+          "Transportation Mode": "High-speed Rail/EMU"
+        },
+        "Shaoxing-Huangshan": {
+          "Price Range": "200-350 yuan",
+          "Transportation Mode": "Long-distance Bus"
+        },
+        "Hangzhou-Chengdu": {
+          "Price Range": "600-900 yuan",
+          "Transportation Mode": "Airplane"
+        }
+      }
+    }
+  },
+  "stores": {
+    "S17550802180171503_S00001": {
+      "name": "Chayun Pavilion Flash Sale",
+      "store_id": "S17550802180171503_S00001",
+      "score": 4.7,
+      "location": {
+        "address": "Chayun Pavilion, 45 East Street, Fushan Street, Yuecheng District, Shaoxing, Zhejiang Province",
+        "latitude": 30.003,
+        "longitude": 120.581
+      },
+      "tags": [
+        "Tea Set",
+        "Tea Art",
+        "Tea Culture",
+        "Premium Flash Sale"
+      ],
+      "store_type": "target",
+      "products": [
+        {
+          "name": "Purple Clay Tea Pet - Complete Fortune and Longevity",
+          "store_id": "S17550802180171503_S00001",
+          "store_name": "Chayun Pavilion Flash Sale",
+          "price": 198,
+          "tags": [
+            "Purple Clay Material",
+            "Longevity Peach Shape",
+            "Purple Clay Tea Set Matching",
+            "Birthday Blessing Present",
+            "Prolonging Life and Health"
+          ],
+          "product_id": "S17550802180171503_P00002",
+          "attributes": [],
+          "product_type": "target"
+        },
+        {
+          "name": "Rosewood Tea Pet - Pine and Crane Longevity",
+          "store_id": "S17550802180171503_S00001",
+          "store_name": "Chayun Pavilion Flash Sale",
+          "price": 358,
+          "tags": [
+            "High-end Rosewood",
+            "Crane Shape Design",
+            "Symbol of Longevity",
+            "Traditional Craftsmanship",
+            "Gift for Elderly"
+          ],
+          "product_id": "S17550802180171503_P00003",
+          "attributes": [],
+          "product_type": "distraction"
+        },
+        {
+          "name": "Purple Clay Tea Pet - Lotus Flower and Seedpod",
+          "store_id": "S17550802180171503_S00001",
+          "store_name": "Chayun Pavilion Flash Sale",
+          "price": 128,
+          "tags": [
+            "Fresh and Elegant - Symbolizing Indifference to Fame and Fortune",
+            "Lotus Flower Shape",
+            "Water-raised Tea Pet",
+            "Ideal Gift"
+          ],
+          "product_id": "S17550802180171503_P00004",
+          "attributes": [],
+          "product_type": "distraction"
+        },
+        {
+          "name": "Bronze Tea Pet - Three Stars of Fortune, Prosperity, and Longevity",
+          "store_id": "S17550802180171503_S00001",
+          "store_name": "Chayun Pavilion Flash Sale",
+          "price": 288,
+          "tags": [
+            "Bronze Tea Pet",
+            "Fu Lu Shou (Good Fortune, Prosperity, and Longevity)",
+            "Auspicious Longevity",
+            "Traditional Culture",
+            "Birthday Blessing Present"
+          ],
+          "product_id": "S17550802180171503_P00005",
+          "attributes": [],
+          "product_type": "distraction"
+        }
+      ]
+    },
+    "S17550802180171503_S00004": {
+      "name": "Bianlifeng Convenience Store",
+      "store_id": "S17550802180171503_S00004",
+      "score": 4.3,
+      "location": {
+        "address": "Bianlifeng Convenience Store, 330 Didang Lake Road, Yuecheng District, Shaoxing, Zhejiang Province",
+        "latitude": 30.002,
+        "longitude": 120.586
+      },
+      "tags": [
+        "Convenience Store",
+        "Daily Necessities",
+        "Snacks",
+        "product delivery"
+      ],
+      "store_type": "distraction",
+      "products": [
+        {
+          "name": "Imitation Purple Clay Tea Set - Fortune Turtle",
+          "store_id": "S17550802180171503_S00004",
+          "store_name": "Bianlifeng Convenience Store",
+          "price": 68,
+          "tags": [
+            "Children's Food Toys",
+            "Imitation Purple Clay",
+            "Dragon Turtle",
+            "Prolonging Life and Health",
+            "Tea Set Accessories"
+          ],
+          "product_id": "S17550802180171503_P00016",
+          "attributes": [],
+          "product_type": "distraction"
+        },
+        {
+          "name": "Ceramic Monkey Tea Pet",
+          "store_id": "S17550802180171503_S00004",
+          "store_name": "Bianlifeng Convenience Store",
+          "price": 39.9,
+          "tags": [
+            "Tea Pet",
+            "Ceramic",
+            "Monkey",
+            "Tea Toy",
+            "Desktop Ornament"
+          ],
+          "product_id": "S17550802180171503_P00017",
+          "attributes": [],
+          "product_type": "distraction"
+        },
+        {
+          "name": "Botanical Garden Senior Discount Ticket Guide",
+          "store_id": "S17550802180171503_S00004",
+          "store_name": "Bianlifeng Convenience Store",
+          "price": 5,
+          "tags": [
+            "Travel Guide",
+            "Ticket Information",
+            "Senior Discount",
+            "Botanical Garden"
+          ],
+          "product_id": "S17550802180171503_P00018",
+          "attributes": [],
+          "product_type": "distraction"
+        },
+        {
+          "name": "Portable Thermos Cup",
+          "store_id": "S17550802180171503_S00004",
+          "store_name": "Bianlifeng Convenience Store",
+          "price": 49.9,
+          "tags": [
+            "Thermos Cup",
+            "Portable",
+            "Tea Cup",
+            "Gift for Elderly"
+          ],
+          "product_id": "S17550802180171503_P00019",
+          "attributes": [
+            "350ml",
+            "Stainless steel"
+          ],
+          "product_type": "distraction"
+        },
+        {
+          "name": "God of Longevity Pendant",
+          "store_id": "S17550802180171503_S00004",
+          "store_name": "Bianlifeng Convenience Store",
+          "price": 25.8,
+          "tags": [
+            "Pendant",
+            "Birthday Honoree",
+            "Birthday Blessing",
+            "Gift",
+            "Gift for Elders"
+          ],
+          "product_id": "S17550802180171503_P00020",
+          "attributes": [],
+          "product_type": "distraction"
+        }
+      ]
+    },
+    "S17550802180171503_S00005": {
+      "name": "Huayi Xuan Flower Shop",
+      "store_id": "S17550802180171503_S00005",
+      "score": 4.6,
+      "location": {
+        "address": "Huayi Xuan Flower Shop, 78 Jiefang South Road, Yuecheng District, Shaoxing, Zhejiang Province",
+        "latitude": 29.998,
+        "longitude": 120.579
+      },
+      "tags": [
+        "Fresh Flowers",
+        "Floral Art",
+        "Gift",
+        "product delivery"
+      ],
+      "store_type": "distraction",
+      "products": [
+        {
+          "name": "Fortune and Longevity Camellia Potted Plant",
+          "store_id": "S17550802180171503_S00005",
+          "store_name": "Huayi Xuan Flower Shop",
+          "price": 128,
+          "tags": [
+            "Camellia",
+            "Potted Plant",
+            "Kalanchoe",
+            "Birthday Blessing",
+            "Gift for Elders"
+          ],
+          "product_id": "S17550802180171503_P00021",
+          "attributes": [
+            "Includes elegant flower pot",
+            "With greeting card"
+          ],
+          "product_type": "distraction"
+        },
+        {
+          "name": "Purple Auspicious Orchid Gift Box",
+          "store_id": "S17550802180171503_S00005",
+          "store_name": "Huayi Xuan Flower Shop",
+          "price": 198,
+          "tags": [
+            "Orchid",
+            "Purple",
+            "Premium Gift Box",
+            "Birthday Blessing",
+            "Traditional"
+          ],
+          "product_id": "S17550802180171503_P00022",
+          "attributes": [
+            "Exquisite gift box packaging",
+            "With longevity greeting card"
+          ],
+          "product_type": "distraction"
+        },
+        {
+          "name": "Pine and Crane Longevity Flower Basket",
+          "store_id": "S17550802180171503_S00005",
+          "store_name": "Huayi Xuan Flower Shop",
+          "price": 288,
+          "tags": [
+            "Birthday Blessing Flower Basket",
+            "Pine and Crane Pattern",
+            "Kalanchoe",
+            "Birthday Banquet Special",
+            "90th Birthday Celebration"
+          ],
+          "product_id": "S17550802180171503_P00023",
+          "attributes": [
+            "Includes greeting card",
+            "Free delivery"
+          ],
+          "product_type": "distraction"
+        },
+        {
+          "name": "Marigold Bouquet",
+          "store_id": "S17550802180171503_S00005",
+          "store_name": "Huayi Xuan Flower Shop",
+          "price": 89,
+          "tags": [
+            "Marigold",
+            "Birthday Banquet",
+            "Yellow",
+            "Kalanchoe",
+            "Fresh Flowers"
+          ],
+          "product_id": "S17550802180171503_P00024",
+          "attributes": [
+            "10 stems",
+            "Elegant packaging"
+          ],
+          "product_type": "distraction"
+        },
+        {
+          "name": "Birthday Honoree Floral Arrangement",
+          "store_id": "S17550802180171503_S00005",
+          "store_name": "Huayi Xuan Flower Shop",
+          "price": 168,
+          "tags": [
+            "Dried Flowers",
+            "Preserved Flowers",
+            "Birthday Honoree",
+            "Ornament",
+            "Birthday Blessing"
+          ],
+          "product_id": "S17550802180171503_P00025",
+          "attributes": [
+            "Everlasting",
+            "Includes stand"
+          ],
+          "product_type": "distraction"
+        }
+      ]
+    }
+  },
+  "orders": {
+    "S17550802180171503_O00001": {
+      "order_id": "S17550802180171503_O00001",
+      "order_type": "delivery",
+      "user_id": "U010097",
+      "store_id": "S17550802180171503_S00002",
+      "total_price": 168.0,
+      "create_time": "2025-06-15 10:30:45",
+      "status": "delivered",
+      "products": [
+        {
+          "product_id": "S17550802180171503_P00007",
+          "price": 168.0,
+          "quantity": 1
+        }
+      ]
+    },
+    "S17550802180171503_O00002": {
+      "order_id": "S17550802180171503_O00002",
+      "order_type": "delivery",
+      "user_id": "U010097",
+      "store_id": "S17550802180171503_S00001",
+      "total_price": 198.0,
+      "create_time": "2025-08-23 15:45:22",
+      "status": "delivered",
+      "products": [
+        {
+          "product_id": "S17550802180171503_P00002",
+          "price": 198.0,
+          "quantity": 1
+        }
+      ]
+    },
+    "S17550802180171503_O00003": {
+      "order_id": "S17550802180171503_O00003",
+      "order_type": "attraction",
+      "user_id": "U010097",
+      "store_id": "S17550802180171503_A00006",
+      "note": "Taking parents to see flowers",
+      "location": {
+        "address": "Shaoxing Botanical Garden, 198 Donghu Road, Donghu Street, Yuecheng District, Shaoxing, Zhejiang Province",
+        "longitude": 120.595,
+        "latitude": 30.015
+      },
+      "dispatch_time": "",
+      "shipping_time": 0.0,
+      "delivery_time": "",
+      "total_price": 75.0,
+      "create_time": "2025-04-15 09:10:33",
+      "update_time": "2025-04-15 09:10:33",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17550802180171503_P00026",
+          "price": 30.0,
+          "quantity": 1,
+          "ticket_type": "Adult Ticket"
+        },
+        {
+          "product_id": "S17550802180171503_P00027",
+          "price": 15.0,
+          "quantity": 3,
+          "ticket_type": "Senior Ticket"
+        }
+      ]
+    },
+    "S17550802180171503_O00004": {
+      "order_id": "S17550802180171503_O00004",
+      "order_type": "attraction",
+      "user_id": "U010097",
+      "store_id": "S17550802180171503_A00008",
+      "note": "Weekend family activity",
+      "location": {
+        "address": "Lanting Park, 1 Lanting Road, Lanting Town, Yuecheng District, Shaoxing, Zhejiang Province",
+        "longitude": 120.631,
+        "latitude": 30.031
+      },
+      "dispatch_time": "",
+      "shipping_time": 0.0,
+      "delivery_time": "",
+      "total_price": 100.0,
+      "create_time": "2025-09-10 16:20:15",
+      "update_time": "2025-09-10 16:20:15",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17550802180171503_P00039",
+          "price": 40.0,
+          "quantity": 2,
+          "ticket_type": "Adult Ticket"
+        },
+        {
+          "product_id": "S17550802180171503_P00041",
+          "price": 55.0,
+          "quantity": 1,
+          "ticket_type": "Parent-Child Ticket (1 Adult 1 Child)"
+        }
+      ]
+    },
+    "S17550802180171503_O00005": {
+      "order_id": "S17550802180171503_O00005",
+      "order_type": "train",
+      "user_id": "U010097",
+      "store_id": "T00001",
+      "note": "Hospital meeting",
+      "location": {
+        "address": "Shaoxing Railway Station, 1 Zhanqian Road, Yuecheng District, Shaoxing, Zhejiang Province",
+        "longitude": 120.578,
+        "latitude": 30.012
+      },
+      "dispatch_time": "",
+      "shipping_time": 0.0,
+      "delivery_time": "",
+      "total_price": 158.0,
+      "create_time": "2025-05-20 08:15:40",
+      "update_time": "2025-05-20 08:15:40",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "T2505023P01",
+          "price": 79.0,
+          "quantity": 2,
+          "seat_type": "Second Class Seat",
+          "departure": "Shaoxing",
+          "arrival": "Hangzhou",
+          "departure_time": "2025-05-23 08:30:00",
+          "arrival_time": "2025-05-23 09:10:00"
+        }
+      ]
+    },
+    "S17550802180171503_O00006": {
+      "order_id": "S17550802180171503_O00006",
+      "order_type": "flight",
+      "user_id": "U010097",
+      "store_id": "F00001",
+      "note": "Vacation travel",
+      "location": {
+        "address": "Hangzhou Xiaoshan International Airport, Airport Avenue, Xiaoshan District, Hangzhou, Zhejiang Province",
+        "longitude": 120.434,
+        "latitude": 30.236
+      },
+      "dispatch_time": "",
+      "shipping_time": 0.0,
+      "delivery_time": "",
+      "total_price": 1480.0,
+      "create_time": "2025-06-20 10:25:33",
+      "update_time": "2025-06-20 10:25:33",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "F2507015P01",
+          "price": 740.0,
+          "quantity": 2,
+          "seat_type": "Economy Class",
+          "departure": "Hangzhou",
+          "arrival": "Chengdu",
+          "departure_time": "2025-07-15 09:30:00",
+          "arrival_time": "2025-07-15 12:15:00"
+        }
+      ]
+    },
+    "S17550802180171503_O00007": {
+      "order_id": "S17550802180171503_O00007",
+      "order_type": "instore",
+      "user_id": "U010097",
+      "store_id": "S17550802180171503_I00010",
+      "total_price": 214.0,
+      "create_time": "2025-11-30 19:15:22",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17550802180171503_P00049",
+          "price": 88.0,
+          "quantity": 1
+        },
+        {
+          "product_id": "S17550802180171503_P00050",
+          "price": 58.0,
+          "quantity": 1
+        },
+        {
+          "product_id": "S17550802180171503_P00055",
+          "price": 98.0,
+          "quantity": 0.7
+        }
+      ]
+    },
+    "S17550802180171503_O00008": {
+      "order_id": "S17550802180171503_O00008",
+      "order_type": "instore",
+      "user_id": "U010097",
+      "store_id": "S17550802180171503_I00011",
+      "total_price": 264.0,
+      "create_time": "2025-10-15 12:30:45",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17550802180171503_P00057",
+          "price": 128.0,
+          "quantity": 1
+        },
+        {
+          "product_id": "S17550802180171503_P00058",
+          "price": 68.0,
+          "quantity": 2
+        }
+      ]
+    },
+    "S17550802180171503_O00009": {
+      "order_id": "S17550802180171503_O00009",
+      "order_type": "instore",
+      "user_id": "U010097",
+      "store_id": "S17550802180171503_I00012",
+      "total_price": 194.0,
+      "create_time": "2025-09-25 18:45:10",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17550802180171503_P00064",
+          "price": 78.0,
+          "quantity": 1
+        },
+        {
+          "product_id": "S17550802180171503_P00066",
+          "price": 88.0,
+          "quantity": 1
+        },
+        {
+          "product_id": "S17550802180171503_P00068",
+          "price": 38.0,
+          "quantity": 0.5
+        }
+      ]
+    }
+  }
+}

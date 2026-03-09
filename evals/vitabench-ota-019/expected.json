@@ -1,0 +1,95 @@
+{
+  "required_orders": [
+    {
+      "order_id": "S17557071544947545_O00001",
+      "order_type": "train",
+      "user_id": "U498921",
+      "store_id": "S17557071544947545_T00010",
+      "note": "",
+      "location": null,
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 570,
+      "create_time": "2023-06-22 15:56:02",
+      "update_time": "2023-06-22 15:56:02",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17557071544947545_P00079",
+          "price": 285,
+          "quantity": 2,
+          "date": "2023-06-24",
+          "seat_type": "Second Class Seat"
+        }
+      ]
+    },
+    {
+      "order_id": "S17557071544947545_O00002",
+      "order_type": "attraction",
+      "user_id": "U498921",
+      "store_id": "S17557071544947545_A00005",
+      "note": "",
+      "location": null,
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 186,
+      "create_time": "2023-06-22 15:58:02",
+      "update_time": "2023-06-22 15:58:02",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17557071544947545_P00039",
+          "price": 58,
+          "quantity": 2,
+          "date": "2023-06-24",
+          "ticket_type": "Adult Ticket"
+        },
+        {
+          "product_id": "S17557071544947545_P00041",
+          "price": 35,
+          "quantity": 2,
+          "date": "2023-06-24",
+          "ticket_type": "Senior Ticket"
+        }
+      ]
+    },
+    {
+      "order_id": "S17557071544947545_O00003",
+      "order_type": "attraction",
+      "user_id": "U498921",
+      "store_id": "S17557071544947545_A00006",
+      "note": "",
+      "location": null,
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 120,
+      "create_time": "2023-06-22 16:00:21",
+      "update_time": "2023-06-22 16:00:21",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17557071544947545_P00052",
+          "price": 60,
+          "quantity": 2,
+          "date": "2023-06-25",
+          "ticket_type": "Adult Ticket"
+        }
+      ]
+    }
+  ],
+  "rubrics": [
+    "The departure date of the ordered train ticket should be June 24, 2023",
+    "The departure time of the ordered train ticket should be around 10:00",
+    "The ordered train ticket must be Second Class Seat",
+    "The quantity in the train ticket order should be 2",
+    "Must search for the name and information of the famous Chinese-style immersive experience park in Hebi, which is Hebi Guling Mountain Scenic Area, a Chinese-style immersive experience park with Han and Tang dynasty culture as its theme",
+    "The ticket date in the order for the Chinese-style immersive experience park should be June 24, 2023",
+    "For the Chinese-style immersive experience park, must choose the most economical/cheapest ticket type, and the order should include 2 Adult Ticket (58*2) and 2 Senior Ticket (35*2)",
+    "The scenic spot in the order with ticket date of June 25, 2023 should be Yunmeng Mountain",
+    "Must check the weather in Hebi on 2023-06-25, which is moderate rain. Girlfriend's parents will not participate in the hiking activity, so the quantity of tickets in the Yunmeng Mountain order should be 2",
+    "The ticket date in the Yunmeng Mountain order should be June 25, 2023"
+  ]
+}

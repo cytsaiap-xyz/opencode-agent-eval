@@ -1,0 +1,82 @@
+{
+  "required_orders": [
+    {
+      "order_id": "10826038T001",
+      "order_type": "instore",
+      "user_id": "U704408",
+      "store_id": "S17564425272419512_I00001",
+      "note": "",
+      "location": null,
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 296,
+      "create_time": "2025-08-15 18:47:00",
+      "update_time": "2025-08-15 18:47:00",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17564425272419512_P00001",
+          "name": "Solid Color Manicure Set",
+          "price": 128,
+          "quantity": 1
+        },
+        {
+          "product_id": "S17564425272419512_P00002",
+          "name": "Professional Eyelash Extension Set",
+          "price": 168,
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "reservation_id": "10826038T002",
+      "shop_id": "S17564425272419512_I00001",
+      "reservation_time": "2025-08-16 10:00:00",
+      "update_time": "2025-08-15 18:49:00",
+      "customer_id": "U704408",
+      "customer_count": 1,
+      "status": "paid"
+    },
+    {
+      "order_id": "10826038T003",
+      "order_type": "instore",
+      "user_id": "U704408",
+      "store_id": "S17564425272419512_I00002",
+      "note": "",
+      "location": null,
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 198,
+      "create_time": "2025-08-15 18:51:00",
+      "update_time": "2025-08-15 18:51:00",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17564425272419512_P00006",
+          "name": "Three-Person Yin-Yang Hotpot Set",
+          "price": 198,
+          "quantity": 1
+        }
+      ]
+    }
+  ],
+  "rubrics": [
+    "The nail salon to order from should be Japanese style",
+    "The nail salon must provide One Customer One Disinfection service",
+    "The nail salon should be within 3km (inclusive) of Room 403, Unit 2, Building 12, Zone B, CR Phoenix City, 2699 Qianjin Street, Chaoyang District, Changchun",
+    "The nail salon order should include a manicure set",
+    "The nail salon order's manicure set should be solid color",
+    "The nail salon order's manicure set should include free nail removal service",
+    "The nail salon order should include an eyelash extension set",
+    "The manicure set and eyelash extension set should be from the same nail salon",
+    "The appointment should be made at Sakura Japanese Nail and Eyelash Salon",
+    "The number of people for the nail salon appointment is 1",
+    "The nail salon appointment time is 2025-08-16 10:00:00",
+    "The hotpot restaurant should be within 1km (inclusive) of Room 403, Unit 2, Building 12, Zone B, CR Phoenix City, 2699 Qianjin Street, Chaoyang District, Changchun",
+    "The hotpot restaurant rating should be 4 stars or above",
+    "The hotpot restaurant order should be a Yin-Yang Hotpot",
+    "The hotpot restaurant order requires prioritizing a three-person meal; if not available, order a two-person meal. Since the hotpot restaurant has a three-person meal, the ordered item should be a three-person meal"
+  ]
+}

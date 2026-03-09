@@ -1,0 +1,104 @@
+{
+  "required_orders": [
+    {
+      "order_id": "I0716001T01",
+      "order_type": "delivery",
+      "user_id": "U000060",
+      "store_id": "S43240302180045417_S14076",
+      "note": "",
+      "location": {
+        "address": "Taoyuan Residential Complex, No. 51 Taoyuan Road, Qingxiu District, Nanning City, Guangxi Zhuang Autonomous Region",
+        "longitude": 108.333324,
+        "latitude": 22.80215
+      },
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 252.6,
+      "create_time": "2025-09-25 16:05:00",
+      "update_time": "2025-09-25 16:05:00",
+      "status": "processed",
+      "products": [
+        {
+          "product_id": "S19159328161115696_P29699",
+          "price": 15.9,
+          "quantity": 4,
+          "attributes": "Single Portion"
+        },
+        {
+          "product_id": "S39067932885983771_P89154",
+          "price": 23,
+          "quantity": 1,
+          "attributes": ""
+        },
+        {
+          "product_id": "S18928897898954556_P47912",
+          "price": 3,
+          "quantity": 4,
+          "attributes": ""
+        },
+        {
+          "product_id": "S23960545841735513_P82884",
+          "price": 79,
+          "quantity": 1,
+          "attributes": ""
+        },
+        {
+          "product_id": "S14445001259369926_P29929",
+          "price": 49,
+          "quantity": 1,
+          "attributes": ""
+        },
+        {
+          "product_id": "S28863166591108673_P17688",
+          "price": 26,
+          "quantity": 1,
+          "attributes": ""
+        }
+      ]
+    },
+    {
+      "order_id": "I0716001T02",
+      "order_type": "delivery",
+      "user_id": "U000060",
+      "store_id": "S68441396243055633_S66153",
+      "note": "",
+      "location": {
+        "address": "Taoyuan Residential Complex, No. 51 Taoyuan Road, Qingxiu District, Nanning City, Guangxi Zhuang Autonomous Region",
+        "longitude": 108.333324,
+        "latitude": 22.80215
+      },
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 21,
+      "create_time": "2025-09-25 16:05:00",
+      "update_time": "2025-09-25 16:05:00",
+      "status": "processed",
+      "products": [
+        {
+          "product_id": "S11705981851273565_P59996",
+          "price": 14,
+          "quantity": 1,
+          "attributes": ""
+        },
+        {
+          "product_id": "S20734804318993088_P33304",
+          "price": 7,
+          "quantity": 1,
+          "attributes": ""
+        }
+      ]
+    }
+  ],
+  "rubrics": [
+    "The birthday dinner order must be from Yao Palace",
+    "The birthday dinner order needs to include 4 dishes, 4 servings of soup, and 4 servings of rice, with at least one non-spicy dish",
+    "The delivery address for the birthday dinner order should be Building 3, Unit 1, Taoyuan Residential Complex, No. 51 Taoyuan Road, Qingxiu District, Nanning City, Guangxi Zhuang Autonomous Region",
+    "The estimated delivery time for the birthday dinner order should be before 18:45 on September 25, 2025",
+    "The mother's special request order must be from Tianfuxiang Fresh Ingredients Laoyou Main Branch (the store where the user previously ordered E-Fu noodles)",
+    "The mother's special request order should include one serving each of Fresh Soup Pork Offal Rice Noodles and Sweet Potato Dessert Soup",
+    "The delivery address for the mother's special request order should be Building 3, Unit 1, Taoyuan Residential Complex, No. 51 Taoyuan Road, Qingxiu District, Nanning City, Guangxi Zhuang Autonomous Region",
+    "The estimated delivery time for the mother's special request order should be before 18:45 on September 25, 2025"
+  ]
+}

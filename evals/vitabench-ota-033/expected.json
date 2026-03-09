@@ -1,0 +1,155 @@
+{
+  "required_orders": [
+    {
+      "order_id": "D0812005T001",
+      "order_type": "hotel",
+      "user_id": "U906506",
+      "store_id": "S17557505485381345_H00001",
+      "note": "",
+      "location": null,
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 1376,
+      "create_time": "2027-06-27 14:25:12",
+      "update_time": "2027-06-27 14:25:12",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17557505485381345_P00001",
+          "price": 688,
+          "quantity": 1,
+          "date": "2027-07-02",
+          "room_type": "Scenic View King Room"
+        },
+        {
+          "product_id": "S17557505485381345_P00002",
+          "price": 688,
+          "quantity": 1,
+          "date": "2027-07-03",
+          "room_type": "Scenic View King Room"
+        }
+      ]
+    },
+    {
+      "order_id": "D0812005T002",
+      "order_type": "hotel",
+      "user_id": "U906506",
+      "store_id": "S17557505485381345_H00004",
+      "note": "",
+      "location": null,
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 1760,
+      "create_time": "2027-06-27 14:27:22",
+      "update_time": "2027-06-27 14:27:22",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17557505485381345_P00023",
+          "price": 880,
+          "quantity": 1,
+          "date": "2027-07-04",
+          "room_type": "Mountain View King Room"
+        },
+        {
+          "product_id": "S17557505485381345_P00024",
+          "price": 880,
+          "quantity": 1,
+          "date": "2027-07-05",
+          "room_type": "Mountain View King Room"
+        }
+      ]
+    },
+    {
+      "order_id": "D0812005T003",
+      "order_type": "attraction",
+      "user_id": "U906506",
+      "store_id": "S17557505485381345_A00007",
+      "note": "",
+      "location": null,
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 80,
+      "create_time": "2027-06-27 14:31:22",
+      "update_time": "2027-06-27 14:31:22",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17557505485381345_P00042",
+          "price": 40,
+          "quantity": 2,
+          "date": "2027-07-03",
+          "ticket_type": "Adult Ticket"
+        }
+      ]
+    },
+    {
+      "order_id": "D0812005T004",
+      "order_type": "attraction",
+      "user_id": "U906506",
+      "store_id": "S17557505485381345_A00010",
+      "note": "",
+      "location": null,
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 220,
+      "create_time": "2027-06-27 14:40:00",
+      "update_time": "2027-06-27 14:40:00",
+      "status": "unpaid",
+      "products": [
+        {
+          "product_id": "S17557505485381345_P00073",
+          "price": 110,
+          "quantity": 2,
+          "date": "2027-07-05",
+          "ticket_type": "Adult Ticket"
+        }
+      ]
+    },
+    {
+      "order_id": "D0812005T005",
+      "order_type": "attraction",
+      "user_id": "U906506",
+      "store_id": "S17557505485381345_A00011",
+      "note": "",
+      "location": null,
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 138,
+      "create_time": "2027-06-27 14:42:00",
+      "update_time": "2027-06-27 14:42:00",
+      "status": "unpaid",
+      "products": [
+        {
+          "product_id": "S17557505485381345_P00082",
+          "price": 138,
+          "quantity": 1,
+          "ticket_type": "Couple Package"
+        }
+      ]
+    }
+  ],
+  "rubrics": [
+    "The booking dates for Mangshi hotel are July 2, 2025 and July 3, 2025",
+    "The Mangshi hotel should have good views, a Scenic View Room should be booked",
+    "The price of the Mangshi hotel must be within the range of 500-1000 yuan",
+    "Check the weather in Mangshi on July 2, 2025 and July 3, 2025 (sunny and cloudy respectively) and the weather in Tengchong on July 4, 2025 and July 5, 2025 (overcast and showers respectively), so the hotel booked in Tengchong should have a swimming pool",
+    "The swimming pool in the Tengchong hotel should be outdoor",
+    "The Tengchong hotel should have good views, a Mountain View Room should be booked",
+    "The booking dates for Tengchong hotel are July 4, 2025 and July 5, 2025",
+    "The price of the Tengchong hotel must be within the range of 500-1000 yuan",
+    "The booking date for tickets to Menghuan Golden Pagoda is July 3, 2025",
+    "The number of tickets booked in the Menghuan Golden Pagoda order is 2",
+    "The tickets booked in the Menghuan Golden Pagoda order are Adult Ticket",
+    "The booking date for tickets to Tengchong Beihai Wetland is July 5, 2025",
+    "The number of tickets booked in the Tengchong Beihai Wetland order is 2",
+    "The tickets booked in the Tengchong Beihai Wetland order are Adult Ticket",
+    "The booking date for tickets to Tengchong Hot Sea Park is July 5, 2025",
+    "The tickets booked in the Tengchong Hot Sea Park order are Couple Package"
+  ]
+}

@@ -1,0 +1,310 @@
+{
+  "task_id": "D0721002",
+  "domain": "delivery",
+  "time": "2026-04-11 14:27:04",
+  "user_id": "U000072",
+  "weather": [
+    {
+      "city": "Shijiazhuang City",
+      "category": "cloudy",
+      "datetime": "2026-04-11",
+      "temperature": [
+        16,
+        21
+      ],
+      "humidity": 53
+    }
+  ],
+  "location": [
+    {
+      "address": "Evergrande Oasis, No. 15 Alishan Street, Shijiazhuang Economic and Technological Development Zone, Gaocheng District, Shijiazhuang, Hebei Province",
+      "longitude": 114.672494,
+      "latitude": 38.021183
+    }
+  ],
+  "user_profile": {
+    "user id": "U000072",
+    "occupation": "Network Engineer",
+    "gender": "female",
+    "age group": "25~30",
+    "residence": "Shijiazhuang",
+    "home address": "Evergrande Oasis, No. 15 Alishan Street, Shijiazhuang Economic and Technological Development Zone, Gaocheng District, Shijiazhuang, Hebei Province",
+    "work address": "Hebei Huazheng Information Engineering Co., Ltd., 260 meters walking from Exit D Northwest of Jianheqiao Metro Station, Chang'an District, Shijiazhuang, Hebei Province",
+    "dietary restrictions": "No spicy food, No coffee",
+    "family status": "Has pets",
+    "personality": "Extremely detail-oriented, tends to be picky and easily dissatisfied"
+  },
+  "user_historical_behaviors": {
+    "user id": "U000072",
+    "occupation": "Network Engineer",
+    "gender": "female",
+    "age group": "25~30",
+    "residence": "Shijiazhuang",
+    "home address": "Evergrande Oasis, No. 15 Alishan Street, Shijiazhuang Economic and Technological Development Zone, Gaocheng District, Shijiazhuang, Hebei Province",
+    "work address": "Hebei Huazheng Information Engineering Co., Ltd., 260 meters walking from Exit D Northwest of Jianheqiao Metro Station, Chang'an District, Shijiazhuang, Hebei Province",
+    "breakfast": {
+      "frequently purchased categories": [
+        "Quick meals/Steamed buns/Pan-fried buns (Average ¥16)",
+        "Quick meals/Light food (Average ¥25)",
+        "Quick meals/Salad (Average ¥22)"
+      ],
+      "cost per order": "¥15~30",
+      "preferred store rating": "4.2~4.7 stars",
+      "preferred delivery time": "15~25 minutes",
+      "preferred distance": "0~1500m",
+      "recent orders": [
+        {
+          "store": "Fresh Salad Specialty Store",
+          "product": "Low-sugar Vegetable and Fruit Energy Salad"
+        },
+        {
+          "store": "Grain Workshop",
+          "product": "Whole Wheat Chicken Sandwich Set"
+        },
+        {
+          "store": "European Bakery",
+          "product": "Whole Wheat Bread"
+        }
+      ],
+      "search history": [
+        "Low-sugar breakfast",
+        "Healthy light food",
+        "Whole wheat bread",
+        "Fruit salad",
+        "Oatmeal"
+      ]
+    },
+    "weekday lunch/dinner": {
+      "frequently purchased categories": [
+        "Quick meals/Healthy meals (Average ¥35)",
+        "Chinese cuisine/Shandong cuisine (Average ¥50)",
+        "Quick meals/Salad (Average ¥28)"
+      ],
+      "cost per order": "¥25~60",
+      "preferred store rating": "4.3~4.8 stars",
+      "preferred delivery time": "20~30 minutes",
+      "preferred distance": "0~2500m",
+      "recent orders": [
+        {
+          "store": "Yue Xian Light Food",
+          "product": "Vegetable and Chicken Breast Bento"
+        },
+        {
+          "store": "Shandong Home Cooking",
+          "product": "Stir-fried Lamb with Green Onion"
+        },
+        {
+          "store": "Vegetable and Fruit Salad House",
+          "product": "Chicken Breast Quinoa Salad"
+        }
+      ],
+      "search history": [
+        "Healthy meals",
+        "Low-calorie",
+        "Protein meals",
+        "Light lunch"
+      ]
+    },
+    "weekend lunch/dinner": {
+      "frequently purchased categories": [
+        "Chinese cuisine/Cantonese cuisine (Average ¥85)",
+        "International flavors/Korean cuisine (Average ¥90)",
+        "Chinese cuisine/Crayfish (Average ¥110)"
+      ],
+      "cost per order": "¥70~150",
+      "preferred store rating": "4.5~4.9 stars",
+      "preferred delivery time": "30~45 minutes",
+      "preferred distance": "0~3500m",
+      "recent orders": [
+        {
+          "store": "Cantonese Delights",
+          "product": "White Cut Chicken Set"
+        },
+        {
+          "store": "Seoul Small Restaurant",
+          "product": "Stone Pot Bibimbap"
+        },
+        {
+          "store": "Crayfish Master",
+          "product": "Thirteen-Spice Crayfish"
+        }
+      ],
+      "search history": [
+        "Cantonese cuisine",
+        "Korean cuisine",
+        "Crayfish",
+        "No added sugar",
+        "Low-sugar dishes"
+      ]
+    },
+    "desserts/drinks/snacks": {
+      "frequently purchased categories": [
+        "Drinks and desserts/Pure tea/Herbal tea (Average ¥18)",
+        "Drinks and desserts/Fruit bowls (Average ¥25)",
+        "Drinks and desserts/Stir-fried Yogurt (Average ¥30)"
+      ],
+      "cost per order": "¥15~35",
+      "preferred store rating": "4.4~4.9 stars",
+      "preferred delivery time": "15~70 minutes",
+      "preferred distance": "0~7000m",
+      "recent orders": [
+        {
+          "store": "Xian Ming Tea House",
+          "product": "Sugar-free Oolong Tea"
+        },
+        {
+          "store": "Fresh Fruit Bowl",
+          "product": "Pure Fruit Platter"
+        },
+        {
+          "store": "Xishi Candied Haws & Stir-fried Yogurt",
+          "product": "Classic Strawberry Stir-fried Yogurt"
+        }
+      ],
+      "search history": [
+        "Sugar-free tea drinks",
+        "Fruit bowls",
+        "Low-sugar desserts",
+        "Zero-sugar beverages"
+      ]
+    },
+    "night snack": {
+      "frequently purchased categories": [
+        "Quick meals/Rice noodles (Average ¥28)",
+        "Snacks/Boboji chicken (Average ¥35)",
+        "Quick meals/Dumplings/Wonton (Average ¥30)"
+      ],
+      "cost per order": "¥25~45",
+      "preferred store rating": "4.2~4.7 stars",
+      "preferred delivery time": "20~35 minutes",
+      "preferred distance": "0~2500m",
+      "recent orders": [
+        {
+          "store": "Yunnan Rice Noodles",
+          "product": "Clear Soup Chicken Rice Noodles"
+        },
+        {
+          "store": "Sichuan Boboji Chicken",
+          "product": "Mildly Spicy Boboji Chicken Platter"
+        },
+        {
+          "store": "Old Northern Dumpling House",
+          "product": "Three Delicacies Dumplings"
+        }
+      ],
+      "search history": [
+        "Rice noodles",
+        "Light night snacks",
+        "Non-spicy Boboji chicken",
+        "Low-calorie night snacks"
+      ]
+    }
+  },
+  "stores": {
+    "S35929114096228378_S65169": {
+      "name": "Xishi Candied Haws & Stir-fried Yogurt (Shijiazhuang Gaoxin InJoy Mall Branch)",
+      "store_id": "S35929114096228378_S65169",
+      "score": 4.5,
+      "location": {
+        "address": "Xishi Candied Haws & Stir-fried Yogurt (Gaoxin InJoy Mall Branch), 3rd Floor, Gaoxin InJoy Mall, No. 311 Yuhua East Road, Yuhua District, Shijiazhuang, Hebei Province",
+        "latitude": 38.038696,
+        "longitude": 114.625059
+      },
+      "tags": [],
+      "products": [
+        {
+          "name": "Rich Strawberry Stir-fried Yogurt",
+          "store_id": "S35929114096228378_S65169",
+          "store_name": "Xishi Candied Haws & Stir-fried Yogurt (Shijiazhuang Gaoxin InJoy Mall Branch)",
+          "price": 26.0,
+          "tags": [],
+          "product_id": "S30277200266115114_P79333",
+          "attributes": [],
+          "quantity": 9999
+        },
+        {
+          "name": "Classic Strawberry Stir-fried Yogurt",
+          "store_id": "S35929114096228378_S65169",
+          "store_name": "Xishi Candied Haws & Stir-fried Yogurt (Shijiazhuang Gaoxin InJoy Mall Branch)",
+          "price": 23.0,
+          "tags": [],
+          "product_id": "S16199126667594769_P66532",
+          "attributes": [],
+          "quantity": 9999
+        },
+        {
+          "name": "Classic Oreo Stir-fried Yogurt",
+          "store_id": "S35929114096228378_S65169",
+          "store_name": "Xishi Candied Haws & Stir-fried Yogurt (Shijiazhuang Gaoxin InJoy Mall Branch)",
+          "price": 18,
+          "tags": [],
+          "product_id": "S26507524464003739_P16288",
+          "attributes": [],
+          "quantity": 9999
+        },
+        {
+          "name": "Rich Yellow Peach Stir-fried Yogurt",
+          "store_id": "S35929114096228378_S65169",
+          "store_name": "Xishi Candied Haws & Stir-fried Yogurt (Shijiazhuang Gaoxin InJoy Mall Branch)",
+          "price": 20.8,
+          "tags": [],
+          "product_id": "S19486612141343278_P57336",
+          "attributes": [],
+          "quantity": 9999
+        }
+      ]
+    },
+    "S26826755618437027_S90261": {
+      "name": "Texas Fried Chicken Burger (Korean Fried Chicken Evergrande Oasis Branch)",
+      "store_id": "S26826755618437027_S90261",
+      "score": 4.4,
+      "location": {
+        "address": "Texas (Evergrande Oasis Branch), Shop 111, Building 12, Evergrande Oasis Community, Alishan Street, Gaocheng District, Shijiazhuang, Hebei Province",
+        "latitude": 38.018628,
+        "longitude": 114.671762
+      },
+      "tags": [],
+      "products": [
+        {
+          "name": "Oreo Stir-fried Yogurt A",
+          "store_id": "S26826755618437027_S90261",
+          "store_name": "Texas Fried Chicken Burger (Korean Fried Chicken Evergrande Oasis Branch)",
+          "price": 16.8,
+          "tags": [],
+          "product_id": "S55079527559936527_P79270",
+          "attributes": [],
+          "quantity": 9999
+        }
+      ]
+    }
+  },
+  "orders": {
+    "D0721002O01": {
+      "order_id": "D0721002O01",
+      "order_type": "delivery",
+      "user_id": "U000072",
+      "store_id": "S35929114096228378_S65169",
+      "note": "",
+      "location": {
+        "address": "Evergrande Oasis, No. 15 Alishan Street, Shijiazhuang Economic and Technological Development Zone, Gaocheng District, Shijiazhuang, Hebei Province",
+        "longitude": 114.672494,
+        "latitude": 38.021183
+      },
+      "dispatch_time": "2026-04-05 17:21:00",
+      "shipping_time": 49,
+      "delivery_time": "2026-04-05 18:10:00",
+      "total_price": 23.0,
+      "create_time": "2026-04-05 17:05:00",
+      "update_time": "2026-04-05 17:05:00",
+      "status": "delivered",
+      "products": [
+        {
+          "product_id": "S16199126667594769_P66532",
+          "price": 23.0,
+          "quantity": 1,
+          "attributes": ""
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,144 @@
+{
+  "required_orders": [
+    {
+      "order_id": "10806002T001",
+      "order_type": "delivery",
+      "user_id": "U001001",
+      "store_id": "S17550802129832489_S00001",
+      "note": "",
+      "location": {
+        "address": "Room 502, Unit 1, Building 3, Rongcheng Youjun, Yanjiadi Urban Village Reconstruction Project (420 meters walk from Exit B of Yanjiadi Metro Station), Xishan District, Kunming City, Yunnan Province",
+        "longitude": 102.694395,
+        "latitude": 25.021839
+      },
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 149.9,
+      "create_time": "2025-05-21 20:16:30",
+      "update_time": "2025-05-21 20:16:30",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17550802129832489_P00002",
+          "price": 149.9,
+          "quantity": 1,
+          "name": "Home Fitness Beginner Dumbbells (3kg*2)",
+          "attributes": "",
+          "tags": [
+            "Basic Training",
+            "Home Workout",
+            "Anti-slip Design"
+          ]
+        }
+      ]
+    },
+    {
+      "order_id": "10806002T004",
+      "order_type": "delivery",
+      "user_id": "U001001",
+      "store_id": "S17550802129832489_S00003",
+      "note": "",
+      "location": {
+        "address": "Tutu Guitu Boutique Homestay, No. 114 Baicao Village, Guanyinshan Community, Biji Street Office, Xishan District, Kunming City, Yunnan Province",
+        "longitude": 102.65345,
+        "latitude": 24.828063
+      },
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 16.8,
+      "create_time": "2025-05-21 20:16:52",
+      "update_time": "2025-05-21 20:16:52",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17550802129832489_P00015",
+          "price": 16.8,
+          "quantity": 1,
+          "name": "Handmade Fragrant Sachets (Set of 2)",
+          "attributes": "",
+          "tags": [
+            "Yunnan Specialties",
+            "Handicrafts",
+            "Souvenir",
+            "Ethnic Features",
+            "Elegant Packaging"
+          ]
+        }
+      ]
+    },
+    {
+      "order_id": "10806002T002",
+      "order_type": "flight",
+      "user_id": "U001001",
+      "store_id": "S17550802129832489_F00008",
+      "note": "",
+      "location": {
+        "address": "Kunming Changshui International Airport, Guandu District, Kunming City, Yunnan Province",
+        "longitude": 102.935835,
+        "latitude": 25.099565
+      },
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 580,
+      "create_time": "2025-05-21 20:17:32",
+      "update_time": "2025-05-21 20:17:32",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17550802129832489_P00045",
+          "price": 580,
+          "quantity": 1,
+          "date": "2025-06-05",
+          "seat_type": "Economy Class (V Class)"
+        }
+      ]
+    },
+    {
+      "order_id": "10806002T003",
+      "order_type": "instore",
+      "user_id": "U001001",
+      "store_id": "S17550802129832489_I00012",
+      "note": "",
+      "location": null,
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 288,
+      "create_time": "2025-05-21 20:20:15",
+      "update_time": "2025-05-21 20:20:15",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17550802129832489_P00066",
+          "name": "S17550802129832489_P00066 Couple's Special Package (Light Flavor Version)",
+          "price": 288,
+          "shop_id": "S17550802129832489_I00012",
+          "tag": [
+            "Yunnan Style",
+            "Including Beverages",
+            "Couple's Set Meal"
+          ]
+        }
+      ]
+    }
+  ],
+  "rubrics": [
+    "The dumbbells in the order should be suitable for beginners",
+    "The delivery address for the dumbbells order is Room 502, Unit 1, Building 3, Rongcheng Youjun, Yanjiadi Urban Village Reconstruction Project (420 meters walk from Exit B of Yanjiadi Metro Station), Xishan District, Kunming City, Yunnan Province",
+    "To ensure check-in at 11 PM, a flight arriving two and a half hours earlier should be chosen, with the ordered flight's arrival time being before 8:30 PM on June 5, 2025",
+    "The price of the ordered flight should not exceed 600",
+    "The ordered flight is from Wuxi to Kunming",
+    "The welcome gift order should include items with Kunming specialty",
+    "The price of the welcome gift should not exceed 20 yuan",
+    "The delivery time for the welcome gift should be the morning of June 5, 2025",
+    "The delivery address for the welcome gift is Tutu Guitu Boutique Homestay, No. 114 Baicao Village, Guanyinshan Community, Biji Street Office, Xishan District, Kunming City, Yunnan Province",
+    "The restaurant ordered should be beautifully decorated",
+    "The ordered restaurant should have a rating of 4.0 or above",
+    "The dishes in the restaurant set meal order should not be too spicy",
+    "The set meal in the restaurant order should include beverages",
+    "The dishes in the restaurant set meal order should avoid high-purine foods such as Seafood Master"
+  ]
+}

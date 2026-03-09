@@ -1,0 +1,1184 @@
+{
+  "task_id": "A0807005",
+  "domain": "cross_domain",
+  "time": "2024-04-12 17:30:00",
+  "user_id": "U001040",
+  "weather": [
+    {
+      "city": "Wenzhou",
+      "category": "sunny",
+      "datetime": "2024-04-12",
+      "temperature": [
+        18,
+        25
+      ],
+      "humidity": 65
+    }
+  ],
+  "location": [
+    {
+      "address": "Wenzhou Smart Industrial Park, 326 Haitong Road, Longwan District, Wenzhou, Zhejiang Province",
+      "longitude": 120.750823,
+      "latitude": 27.932546
+    }
+  ],
+  "user_profile": {
+    "user id": "U001040",
+    "occupation": "Engineer",
+    "gender": "female",
+    "age group": "25~30",
+    "residence": "Wenzhou",
+    "home address": "Room 502, Unit 2, Building 3, Lijing Garden, 18 Nanpu Road, Lucheng District, Wenzhou, Zhejiang Province",
+    "work address": "Wenzhou Smart Industrial Park, 326 Haitong Road, Longwan District, Wenzhou, Zhejiang Province",
+    "dietary restrictions": "Avoids coriander",
+    "family status": "Unknown",
+    "personality": "Tends to be controlling, difficult to accept different opinions"
+  },
+  "user_historical_behaviors": {
+    "user id": "U001040",
+    "occupation": "engineer",
+    "gender": "female",
+    "age group": "25~30",
+    "residence": "Wenzhou",
+    "home address": "Room 502, Unit 2, Building 3, Lijing Garden, 18 Nanpu Road, Lucheng District, Wenzhou, Zhejiang Province",
+    "work address": "Wenzhou Smart Industrial Park, 326 Haitong Road, Longwan District, Wenzhou, Zhejiang Province",
+    "delivery": {
+      "food delivery": {
+        "breakfast": {
+          "frequently purchased categories": [
+            "Quick meals/Baozi/Shengjianbao (Average 18 yuan)",
+            "Quick meals/Porridge (Average 15 yuan)",
+            "Quick meals/Soy milk and fried dough sticks (Average 12 yuan)"
+          ],
+          "cost per order": "12~25 yuan",
+          "preferred store rating": "4.3~4.8 points",
+          "preferred delivery time": "15~25 minutes",
+          "preferred distance": "0~1500m",
+          "recent orders": [
+            {
+              "store": "Lao Zhu's Baozi Shop",
+              "product": "Meat Bun + Soy Milk Set"
+            },
+            {
+              "store": "Yonghe Soy Milk",
+              "product": "Fried Dough Sticks with Soy Milk + Xiaolongbao"
+            },
+            {
+              "store": "Porridge Cube",
+              "product": "Century Egg & Lean Pork Porridge + Fried Dough Sticks"
+            }
+          ],
+          "search history": [
+            "baozi",
+            "soy milk",
+            "shengjianbao",
+            "century egg porridge",
+            "breakfast set"
+          ]
+        },
+        "weekday lunch/dinner": {
+          "frequently purchased categories": [
+            "Quick meals/Stewed chicken rice (Average 28 yuan)",
+            "Quick meals/Chinese noodles (Average 25 yuan)",
+            "Quick meals/Rice with toppings (Average 30 yuan)"
+          ],
+          "cost per order": "25~45 yuan",
+          "preferred store rating": "4.2~4.7 points",
+          "preferred delivery time": "20~35 minutes",
+          "preferred distance": "0~2500m",
+          "recent orders": [
+            {
+              "store": "Stewed Chicken Rice",
+              "product": "Signature Stewed Chicken + Rice + Cola"
+            },
+            {
+              "store": "Lanzhou Noodles",
+              "product": "Beef Noodles + Meat Sandwich"
+            },
+            {
+              "store": "Cafeteria Fast Food",
+              "product": "Braised Pork Ribs Rice"
+            }
+          ],
+          "search history": [
+            "fast food",
+            "noodles",
+            "stewed chicken",
+            "rice with toppings",
+            "bento"
+          ]
+        },
+        "weekend lunch/dinner": {
+          "frequently purchased categories": [
+            "Chinese cuisine/Sichuan cuisine (Average 88 yuan)",
+            "Hot pot/Individual hot pot (Average 75 yuan)",
+            "Foreign cuisine/Pasta (Average 65 yuan)"
+          ],
+          "cost per order": "60~120 yuan",
+          "preferred store rating": "4.5~4.9 points",
+          "preferred delivery time": "30~45 minutes",
+          "preferred distance": "0~3500m",
+          "recent orders": [
+            {
+              "store": "Sichuan Flavor Restaurant",
+              "product": "Boiled Fish + Twice-Cooked Pork + Rice"
+            },
+            {
+              "store": "Little Sheep Hot Pot",
+              "product": "Individual Hot Pot Set"
+            },
+            {
+              "store": "Italian Flavor",
+              "product": "Beef Pasta + Salad"
+            }
+          ],
+          "search history": [
+            "Sichuan cuisine",
+            "hot pot",
+            "pasta"
+          ]
+        },
+        "desserts/drinks/snacks": {
+          "frequently purchased categories": [
+            "Drinks and desserts/Juice (Average 22 yuan)",
+            "Drinks and desserts/Chinese pastry (Average 18 yuan)",
+            "Drinks and desserts/Fruit salad (Average 32 yuan)"
+          ],
+          "cost per order": "15~35 yuan",
+          "preferred store rating": "4.4~4.8 points",
+          "preferred delivery time": "15~30 minutes",
+          "preferred distance": "0~2000m",
+          "recent orders": [
+            {
+              "store": "Fresh Juice Station",
+              "product": "Fresh Watermelon Juice"
+            },
+            {
+              "store": "Pastry Shop",
+              "product": "Mung Bean Cake 6-piece Set"
+            },
+            {
+              "store": "Fresh Fruit Salad",
+              "product": "Signature Fruit Salad"
+            }
+          ],
+          "search history": [
+            "juice",
+            "mung bean cake",
+            "fruit salad",
+            "herbal tea",
+            "caffeine-free"
+          ]
+        },
+        "night snack": {
+          "frequently purchased categories": [
+            "Snacks and marinated food/Marinated dishes (Average 45 yuan)",
+            "Quick meals/Dumplings/Wonton (Average 35 yuan)"
+          ],
+          "cost per order": "30~55 yuan",
+          "preferred store rating": "4.2~4.6 points",
+          "preferred delivery time": "25~40 minutes",
+          "preferred distance": "0~2500m",
+          "recent orders": [
+            {
+              "store": "Lao Wang Marinated Food",
+              "product": "Marinated Food Platter"
+            },
+            {
+              "store": "Dumpling House",
+              "product": "Three Delicacies Dumplings 20 pieces"
+            },
+            {
+              "store": "Wonton King",
+              "product": "Signature Wonton + Marinated Egg"
+            }
+          ],
+          "search history": [
+            "marinated food",
+            "dumplings",
+            "wonton",
+            "night snack"
+          ]
+        }
+      },
+      "product delivery": {
+        "frequently purchased categories": [
+          "Vegetables/Bean products(28%)",
+          "Raw meat/Poultry/Eggs(22%)",
+          "Grains, oils, seasonings, dried goods(15%)",
+          "Household necessities(12%)",
+          "Fruits(10%)",
+          "Others(13%)"
+        ],
+        "frequently visited stores": [
+          "Wenzhou Citizen Life Supermarket(38%)",
+          "Yonghui Supermarket(Wenzhou Store)(25%)",
+          "Lucheng Convenience Store(18%)",
+          "Other stores(19%)"
+        ],
+        "cost per order by category": {
+          "Vegetables/Bean products": "5~20 yuan",
+          "Raw meat/Poultry/Eggs": "20~60 yuan",
+          "Grains, oils, seasonings, dried goods": "10~40 yuan",
+          "Household necessities": "15~50 yuan",
+          "Fruits": "10~30 yuan"
+        },
+        "preferred delivery time": "25~60 minutes",
+        "typical order time": "17~19 o'clock(35%), 9~11 o'clock(25%), 13~15 o'clock(15%)",
+        "recent orders": [
+          {
+            "store": "Wenzhou Citizen Life Supermarket",
+            "product": "One bundle of greens, two boxes of tofu, one box of eggs"
+          },
+          {
+            "store": "Yonghui Supermarket(Wenzhou Store)",
+            "product": "Pork tenderloin 500g, rice 5kg"
+          },
+          {
+            "store": "Lucheng Convenience Store",
+            "product": "Toilet paper, hand soap, fluoride toothpaste"
+          }
+        ],
+        "search history": [
+          "vegetables",
+          "chicken breast",
+          "rice",
+          "fluoride toothpaste",
+          "tofu",
+          "low purine foods"
+        ]
+      }
+    },
+    "in-store consumption": {
+      "in-store dining": {
+        "fine-dining": {
+          "frequently purchased categories": [
+            "Regional cuisine/Jiangzhe cuisine (Average 120 yuan)",
+            "Foreign cuisine/Japanese cuisine (Average 150 yuan)",
+            "Regional cuisine/Cantonese cuisine (Average 130 yuan)"
+          ],
+          "preferred average price per person": "100~150 yuan",
+          "preferred store rating": "4.2~4.8 stars",
+          "typical dining time": "18:30-20:30",
+          "preferred distance": "2000~5000m",
+          "recent orders": [
+            {
+              "store": "Hefeng Japanese Restaurant",
+              "product": "Deluxe Sashimi Platter"
+            },
+            {
+              "store": "Greenyard Cantonese Restaurant",
+              "product": "Steamed Star Garoupa"
+            },
+            {
+              "store": "Zhiweiguan",
+              "product": "West Lake Vinegar Fish Set"
+            }
+          ],
+          "search history": [
+            "high-end restaurants",
+            "Japanese cuisine",
+            "family dinner"
+          ]
+        },
+        "light meal": {
+          "frequently purchased categories": [
+            "Snacks and fast food/Chinese quick meals (Average 35 yuan)",
+            "Regional cuisine/Special dishes (Average 45 yuan)"
+          ],
+          "preferred average price per person": "30~50 yuan",
+          "preferred store rating": "3.5~4.2 stars",
+          "typical dining time": "12:00-13:00",
+          "preferred distance": "0~500m",
+          "recent orders": [
+            {
+              "store": "Lao Niangiu",
+              "product": "Signature Braised Pork Rice"
+            },
+            {
+              "store": "Jiayou Noodle House",
+              "product": "Chicken Soup Noodles"
+            },
+            {
+              "store": "Yonghe King",
+              "product": "Century Egg and Lean Pork Porridge"
+            }
+          ],
+          "search history": [
+            "work meal",
+            "fast food",
+            "bento",
+            "nearby snacks"
+          ]
+        },
+        "desserts/drinks/snacks": {
+          "frequently purchased categories": [
+            "Bread and desserts (Average 25 yuan)",
+            "Beverage shops (Average 18 yuan)",
+            "Other dining/Fresh fruits (Average 30 yuan)"
+          ],
+          "preferred average price per person": "15~30 yuan",
+          "preferred store rating": "4.0~4.6 stars",
+          "typical dining time": "15:00-16:30",
+          "preferred distance": "0~800m",
+          "recent orders": [
+            {
+              "store": "HeyTea",
+              "product": "Grape with Cheese Foam"
+            },
+            {
+              "store": "Bread Talk",
+              "product": "Whole Wheat Toast"
+            },
+            {
+              "store": "Fruit Indeed",
+              "product": "Fruit Platter"
+            }
+          ],
+          "search history": [
+            "healthy desserts",
+            "low sugar",
+            "fruits"
+          ]
+        }
+      },
+      "other in-store services": {
+        "frequently consumed categories": {
+          "Sports and fitness/Fitness center": "35%",
+          "Beauty/Yoga": "40%",
+          "Entertainment/DIY workshop": "25%"
+        },
+        "cost per order by category": {
+          "Sports and fitness/Fitness center": "100~200 yuan",
+          "Beauty/Yoga": "80~150 yuan",
+          "Entertainment/DIY workshop": "120~200 yuan"
+        },
+        "preferred store rating": "4.0~4.8 stars",
+        "preferred service time": "Weekends 10:00-16:00, Weekdays 18:00-20:00",
+        "preferred distance": "0~3000m",
+        "recent orders": [
+          {
+            "store": "Wenzhou Lucheng District Yukang Yoga Studio",
+            "product": "Single Person Yoga Course"
+          },
+          {
+            "store": "Joy Heart · DIY Workshop",
+            "product": "Coaster Weaving Set"
+          },
+          {
+            "store": "Charm Fitness (Smart Manufacturing Park Store)",
+            "product": "Monthly Membership"
+          }
+        ],
+        "search history": [
+          "stress relief yoga",
+          "women's fitness",
+          "gym near workplace",
+          "DIY crafts"
+        ]
+      }
+    },
+    "OTA": {
+      "visited scenes": {
+        "Exhibition halls (museums/art galleries)": "35%",
+        "Natural landscapes (mountains/lakes/forests)": "28%",
+        "Hot spring resorts": "18%",
+        "Tourist attractions (mountains/seaside/ecological large scenic areas)": "12%",
+        "Cultural heritage sites": "7%"
+      },
+      "cost per night on hotel": "500~1000 yuan",
+      "visited hotels": {
+        "Atour": "32%",
+        "Ji Hotel": "25%",
+        "Vienna": "18%",
+        "Orange": "15%",
+        "Huazhu": "10%"
+      },
+      "browsed hotels": {
+        "Four-star hotels": "45%",
+        "Comfort hotels": "35%",
+        "Three-star hotels": "15%",
+        "Five-star hotels": "5%"
+      },
+      "historical travel plans": {
+        "Wenzhou-Hangzhou": {
+          "price range": "150-250 yuan",
+          "transportation": "High-speed rail/EMU train"
+        },
+        "Wenzhou-Shanghai": {
+          "price range": "200-350 yuan",
+          "transportation": "High-speed rail/EMU train"
+        },
+        "Wenzhou-Beijing": {
+          "price range": "800-1500 yuan",
+          "transportation": "Flight"
+        },
+        "Wenzhou-Huangshan": {
+          "price range": "400-600 yuan",
+          "transportation": "High-speed rail/EMU train"
+        },
+        "Wenzhou-Sanya": {
+          "price range": "1200-2000 yuan",
+          "transportation": "Flight"
+        },
+        "Wenzhou-Xiamen": {
+          "price range": "300-500 yuan",
+          "transportation": "High-speed rail/EMU train"
+        }
+      }
+    }
+  },
+  "stores": {
+    "S17550812080452641_S00001": {
+      "name": "Wenzhou Time-Honored Specialty Store",
+      "store_id": "S17550812080452641_S00001",
+      "score": 4.8,
+      "location": {
+        "address": "Wenzhou Time-Honored Specialty Store, 128 Fuqian Street, Wuma Street, Lucheng District, Wenzhou, Zhejiang Province",
+        "latitude": 27.993401,
+        "longitude": 120.699599
+      },
+      "tags": [
+        "Wenzhou Specialties",
+        "Gift Box",
+        "Packaging Bag"
+      ],
+      "store_type": "target",
+      "products": [
+        {
+          "name": "Wenzhou Fish Cake Gift Box",
+          "store_id": "S17550812080452641_S00001",
+          "store_name": "Wenzhou Time-Honored Specialty Store",
+          "price": 88,
+          "tags": [
+            "Wenzhou Specialties",
+            "Fish Cake",
+            "Perfect Gift"
+          ],
+          "product_id": "S17550812080452641_P00001",
+          "attributes": [],
+          "product_type": "target"
+        },
+        {
+          "name": "Ou Mandarin Preserved Fruit Gift Box",
+          "store_id": "S17550812080452641_S00001",
+          "store_name": "Wenzhou Time-Honored Specialty Store",
+          "price": 68,
+          "tags": [
+            "Wenzhou Specialties",
+            "Ou Mandarin",
+            "Preserved Fruit",
+            "Gift Box Package"
+          ],
+          "product_id": "S17550812080452641_P00003",
+          "attributes": [],
+          "product_type": "target"
+        },
+        {
+          "name": "Chinese-Style Red Packaging Bag",
+          "store_id": "S17550812080452641_S00001",
+          "store_name": "Wenzhou Time-Honored Specialty Store",
+          "price": 12,
+          "tags": [
+            "Chinese Style",
+            "Packaging Bag",
+            "Red",
+            "Gift Bag",
+            "Eco-Friendly Material"
+          ],
+          "product_id": "S17550812080452641_P00004",
+          "attributes": [
+            "Large",
+            "Medium",
+            "Small"
+          ],
+          "product_type": "target"
+        },
+        {
+          "name": "Ou-Style Pastry Gift Box",
+          "store_id": "S17550812080452641_S00001",
+          "store_name": "Wenzhou Time-Honored Specialty Store",
+          "price": 98,
+          "tags": [
+            "Wenzhou Specialties",
+            "Pastry",
+            "Gift Box",
+            "Traditional Cuisine"
+          ],
+          "product_id": "S17550812080452641_P00005",
+          "attributes": [],
+          "product_type": "distraction"
+        }
+      ]
+    },
+    "S17550812080452641_S00002": {
+      "name": "Ouyue Style Specialty Center",
+      "store_id": "S17550812080452641_S00002",
+      "score": 4.7,
+      "location": {
+        "address": "Ouyue Style Specialty Center, Next to National Highway 104, Wutian Street, Lucheng District, Wenzhou, Zhejiang Province",
+        "latitude": 28.001256,
+        "longitude": 120.665478
+      },
+      "tags": [
+        "Wenzhou Specialties",
+        "Gift Box",
+        "Fast Delivery"
+      ],
+      "store_type": "target",
+      "products": [
+        {
+          "name": "Ou Fish Cake Gift Box",
+          "store_id": "S17550812080452641_S00002",
+          "store_name": "Ouyue Style Specialty Center",
+          "price": 88,
+          "tags": [
+            "Wenzhou Specialties",
+            "Fish Cake",
+            "Gift Box Package"
+          ],
+          "product_id": "S17550812080452641_P00006",
+          "attributes": [],
+          "product_type": "target"
+        },
+        {
+          "name": "Wenzhou Yellow Soup Dried Eel Gift Box",
+          "store_id": "S17550812080452641_S00002",
+          "store_name": "Ouyue Style Specialty Center",
+          "price": 128,
+          "tags": [
+            "Wenzhou Specialties",
+            "Dried Eel",
+            "Gift Box Package"
+          ],
+          "product_id": "S17550812080452641_P00007",
+          "attributes": [],
+          "product_type": "target"
+        },
+        {
+          "name": "Ouyue Bridge Pier Cake Gift Box",
+          "store_id": "S17550812080452641_S00002",
+          "store_name": "Ouyue Style Specialty Center",
+          "price": 68,
+          "tags": [
+            "Wenzhou Specialties",
+            "Pastry",
+            "Gift Box Package"
+          ],
+          "product_id": "S17550812080452641_P00008",
+          "attributes": [],
+          "product_type": "target"
+        },
+        {
+          "name": "Wenzhou Special Coriander Cake",
+          "store_id": "S17550812080452641_S00002",
+          "store_name": "Ouyue Style Specialty Center",
+          "price": 45,
+          "tags": [
+            "Wenzhou Specialties",
+            "Coriander Cake",
+            "Traditional Snacks",
+            "4.5-Star Rating"
+          ],
+          "product_id": "S17550812080452641_P00010",
+          "attributes": [],
+          "product_type": "distraction"
+        },
+        {
+          "name": "Ouyue Premium Gift Box Set",
+          "store_id": "S17550812080452641_S00002",
+          "store_name": "Ouyue Style Specialty Center",
+          "price": 298,
+          "tags": [
+            "Wenzhou Specialties",
+            "Assorted Gift Box",
+            "Premium Gift"
+          ],
+          "product_id": "S17550812080452641_P00011",
+          "attributes": [],
+          "product_type": "distraction"
+        }
+      ]
+    },
+    "S17550812080452641_S00003": {
+      "name": "Wenzhou Handicraft Workshop",
+      "store_id": "S17550812080452641_S00003",
+      "score": 4.3,
+      "location": {
+        "address": "Wenzhou Handicraft Workshop, 56 Jinxiu Road, Louqiao Street, Ouhai District, Wenzhou, Zhejiang Province",
+        "latitude": 27.966834,
+        "longitude": 120.637892
+      },
+      "tags": [
+        "Wenzhou Specialties",
+        "Handcrafted Items",
+        "Packaging Bag"
+      ],
+      "store_type": "distraction",
+      "products": [
+        {
+          "name": "Chinese-Style Gift Tote Bag",
+          "store_id": "S17550812080452641_S00003",
+          "store_name": "Wenzhou Handicraft Workshop",
+          "price": 15.9,
+          "tags": [
+            "Chinese Style",
+            "Tote Bag",
+            "Gift Packaging",
+            "Festive Red",
+            "Traditional Pattern"
+          ],
+          "product_id": "S17550812080452641_P00013",
+          "attributes": [
+            "Small",
+            "Medium",
+            "Large"
+          ],
+          "product_type": "target"
+        },
+        {
+          "name": "Red Peony Embroidered Gift Bag",
+          "store_id": "S17550812080452641_S00003",
+          "store_name": "Wenzhou Handicraft Workshop",
+          "price": 22.5,
+          "tags": [
+            "Chinese Style",
+            "Embroidery",
+            "Peony Pattern",
+            "High-End Gift Bag",
+            "Handmade"
+          ],
+          "product_id": "S17550812080452641_P00014",
+          "attributes": [
+            "Single Pack",
+            "Double Pack"
+          ],
+          "product_type": "target"
+        },
+        {
+          "name": "Wenzhou Handmade Fish Cake Gift Box Packaging Bag",
+          "store_id": "S17550812080452641_S00003",
+          "store_name": "Wenzhou Handicraft Workshop",
+          "price": 18.8,
+          "tags": [
+            "Special Packaging",
+            "Fish Cake Gift Box",
+            "Wenzhou Special Features",
+            "Handle Design",
+            "Waterproof Material"
+          ],
+          "product_id": "S17550812080452641_P00015",
+          "attributes": [
+            "Standard Size",
+            "Large Size"
+          ],
+          "product_type": "target"
+        },
+        {
+          "name": "Classical Chinese Silk Gift Package",
+          "store_id": "S17550812080452641_S00003",
+          "store_name": "Wenzhou Handicraft Workshop",
+          "price": 36.9,
+          "tags": [
+            "Silk Material",
+            "Premium Packaging",
+            "Exquisite Embroidery",
+            "Classical Chinese Design",
+            "Perfect Gift"
+          ],
+          "product_id": "S17550812080452641_P00016",
+          "attributes": [
+            "Blue",
+            "Red",
+            "Gold"
+          ],
+          "product_type": "distraction"
+        },
+        {
+          "name": "Wenzhou Special Handmade Leather Bag",
+          "store_id": "S17550812080452641_S00003",
+          "store_name": "Wenzhou Handicraft Workshop",
+          "price": 129,
+          "tags": [
+            "Wenzhou Leather",
+            "Handmade",
+            "Traditional Craftsmanship",
+            "Gift",
+            "Collectibles"
+          ],
+          "product_id": "S17550812080452641_P00017",
+          "attributes": [
+            "Brown",
+            "Black"
+          ],
+          "product_type": "distraction"
+        }
+      ]
+    },
+    "S17550812080452641_S00004": {
+      "name": "Ouyue Flavor House",
+      "store_id": "S17550812080452641_S00004",
+      "score": 4.6,
+      "location": {
+        "address": "Ouyue Flavor House, 1238 Ouhai Avenue, Yongzhong Street, Longwan District, Wenzhou, Zhejiang Province",
+        "latitude": 27.942567,
+        "longitude": 120.732145
+      },
+      "tags": [
+        "Wenzhou Specialties",
+        "Gift Box"
+      ],
+      "store_type": "distraction",
+      "products": [
+        {
+          "name": "Wenzhou Fish Cake Gift Box",
+          "store_id": "S17550812080452641_S00004",
+          "store_name": "Ouyue Flavor House",
+          "price": 68,
+          "tags": [
+            "Wenzhou Specialties",
+            "Traditional Snacks",
+            "Gift Box Package",
+            "Perfect Gift"
+          ],
+          "product_id": "S17550812080452641_P00018",
+          "attributes": [],
+          "product_type": "distraction"
+        },
+        {
+          "name": "Wenzhou Glutinous Rice Ball Gift Box",
+          "store_id": "S17550812080452641_S00004",
+          "store_name": "Ouyue Flavor House",
+          "price": 58,
+          "tags": [
+            "Wenzhou Specialties",
+            "Traditional Cuisine",
+            "Gift Box Package"
+          ],
+          "product_id": "S17550812080452641_P00019",
+          "attributes": [],
+          "product_type": "distraction"
+        },
+        {
+          "name": "Wenzhou Yellow Soup Goose Gift Box",
+          "store_id": "S17550812080452641_S00004",
+          "store_name": "Ouyue Flavor House",
+          "price": 128,
+          "tags": [
+            "Wenzhou Special Features",
+            "Exquisite Packaging",
+            "Perfect Gift"
+          ],
+          "product_id": "S17550812080452641_P00020",
+          "attributes": [],
+          "product_type": "distraction"
+        },
+        {
+          "name": "Chinese-Style Gift Packaging Bag",
+          "store_id": "S17550812080452641_S00004",
+          "store_name": "Ouyue Flavor House",
+          "price": 12,
+          "tags": [
+            "Chinese Style",
+            "Gift Packaging",
+            "Elegant Design",
+            "Eco-Friendly Material"
+          ],
+          "product_id": "S17550812080452641_P00021",
+          "attributes": [
+            "Large",
+            "Medium",
+            "Small"
+          ],
+          "product_type": "distraction"
+        },
+        {
+          "name": "Wenzhou Specialty Assorted Gift Box",
+          "store_id": "S17550812080452641_S00004",
+          "store_name": "Ouyue Flavor House",
+          "price": 128,
+          "tags": [
+            "Wenzhou Specialties",
+            "Combination Package",
+            "Gift Box",
+            "Various Flavors",
+            "With Fish Cake"
+          ],
+          "product_id": "S17550812080452641_P00022",
+          "attributes": [],
+          "product_type": "distraction"
+        }
+      ]
+    },
+    "S17550812080452641_S00005": {
+      "name": "Oujiang Gift Specialty Store",
+      "store_id": "S17550812080452641_S00005",
+      "score": 4.6,
+      "location": {
+        "address": "Oujiang Gift Specialty Store, 89 Oujiang Road, Zhuangyuan Street, Longwan District, Wenzhou, Zhejiang Province",
+        "latitude": 27.935621,
+        "longitude": 120.745632
+      },
+      "tags": [
+        "Gift",
+        "Packaging Bag"
+      ],
+      "store_type": "target",
+      "products": [
+        {
+          "name": "Traditional Chinese-Style Gift Packaging Bag",
+          "store_id": "S17550812080452641_S00005",
+          "store_name": "Oujiang Gift Specialty Store",
+          "price": 15.9,
+          "tags": [
+            "Chinese Style",
+            "Gift Bag",
+            "High-End",
+            "Festive Red",
+            "Essential Gift"
+          ],
+          "product_id": "S17550812080452641_P00023",
+          "attributes": [
+            "Large",
+            "Medium",
+            "Small",
+            "Red",
+            "Blue"
+          ],
+          "product_type": "target"
+        },
+        {
+          "name": "Ouyue Style Silk Packaging Bag",
+          "store_id": "S17550812080452641_S00005",
+          "store_name": "Oujiang Gift Specialty Store",
+          "price": 18.8,
+          "tags": [
+            "Chinese Style",
+            "Silk Material",
+            "Wenzhou Special Features",
+            "Exquisite Packaging"
+          ],
+          "product_id": "S17550812080452641_P00024",
+          "attributes": [
+            "Large",
+            "Medium",
+            "Small"
+          ],
+          "product_type": "target"
+        },
+        {
+          "name": "Wenzhou Specialty Gift Box Packaging Bag",
+          "store_id": "S17550812080452641_S00005",
+          "store_name": "Oujiang Gift Specialty Store",
+          "price": 12.9,
+          "tags": [
+            "Gift Box Exclusive",
+            "Thickened Material",
+            "Chinese Style",
+            "Essential Gift"
+          ],
+          "product_id": "S17550812080452641_P00025",
+          "attributes": [
+            "Large",
+            "Medium"
+          ],
+          "product_type": "target"
+        },
+        {
+          "name": "Minimalist Style Paper Gift Bag",
+          "store_id": "S17550812080452641_S00005",
+          "store_name": "Oujiang Gift Specialty Store",
+          "price": 8.5,
+          "tags": [
+            "Minimalist Design",
+            "Eco-Friendly Material",
+            "Lightweight",
+            "Everyday Gifting"
+          ],
+          "product_id": "S17550812080452641_P00026",
+          "attributes": [
+            "Large",
+            "Medium",
+            "Small"
+          ],
+          "product_type": "distraction"
+        },
+        {
+          "name": "Western-Style Holiday Gift Bag",
+          "store_id": "S17550812080452641_S00005",
+          "store_name": "Oujiang Gift Specialty Store",
+          "price": 16.8,
+          "tags": [
+            "Western Style",
+            "Christmas",
+            "New Year",
+            "Holiday Gift"
+          ],
+          "product_id": "S17550812080452641_P00027",
+          "attributes": [
+            "Large",
+            "Medium"
+          ],
+          "product_type": "distraction"
+        }
+      ]
+    }
+  },
+  "orders": {
+    "S17550812080452641_O00001": {
+      "order_id": "S17550812080452641_O00001",
+      "order_type": "delivery",
+      "user_id": "U001040",
+      "store_id": "S17550812080452641_S00001",
+      "total_price": 168.0,
+      "create_time": "2024-04-05 16:45:23",
+      "status": "delivered",
+      "products": [
+        {
+          "product_id": "S17550812080452641_P00001",
+          "price": 88.0,
+          "quantity": 1
+        },
+        {
+          "product_id": "S17550812080452641_P00003",
+          "price": 68.0,
+          "quantity": 1
+        },
+        {
+          "product_id": "S17550812080452641_P00004",
+          "price": 12.0,
+          "quantity": 1
+        }
+      ]
+    },
+    "S17550812080452641_O00002": {
+      "order_id": "S17550812080452641_O00002",
+      "order_type": "delivery",
+      "user_id": "U001040",
+      "store_id": "S17550812080452641_S00002",
+      "total_price": 103.0,
+      "create_time": "2024-03-28 15:30:12",
+      "status": "delivered",
+      "products": [
+        {
+          "product_id": "S17550812080452641_P00008",
+          "price": 68.0,
+          "quantity": 1
+        },
+        {
+          "product_id": "S17550812080452641_P00009",
+          "price": 15.0,
+          "quantity": 1
+        }
+      ]
+    },
+    "S17550812080452641_O00003": {
+      "order_id": "S17550812080452641_O00003",
+      "order_type": "delivery",
+      "user_id": "U001040",
+      "store_id": "S17550812080452641_S00005",
+      "total_price": 31.8,
+      "create_time": "2024-03-12 17:15:45",
+      "status": "delivered",
+      "products": [
+        {
+          "product_id": "S17550812080452641_P00023",
+          "price": 15.9,
+          "quantity": 2
+        }
+      ]
+    },
+    "S17550812080452641_O00004": {
+      "order_id": "S17550812080452641_O00004",
+      "order_type": "attraction",
+      "user_id": "U001040",
+      "store_id": "S17550812080452641_A00009",
+      "note": "Weekend leisure experience",
+      "location": {
+        "address": "Wenzhou Ou Kiln Site Museum, Zeya Town, Ouhai District, Wenzhou, Zhejiang Province",
+        "longitude": 120.591234,
+        "latitude": 28.032456
+      },
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 128.0,
+      "create_time": "2024-04-01 10:23:45",
+      "update_time": "2024-04-01 10:23:45",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17550812080452641_P00050",
+          "price": 40.0,
+          "quantity": 2,
+          "ticket_type": "Adult Ticket"
+        },
+        {
+          "product_id": "S17550812080452641_P00051",
+          "price": 88.0,
+          "quantity": 1,
+          "ticket_type": "Experience Ticket"
+        }
+      ]
+    },
+    "S17550812080452641_O00005": {
+      "order_id": "S17550812080452641_O00005",
+      "order_type": "attraction",
+      "user_id": "U001040",
+      "store_id": "S17550812080452641_A00006",
+      "note": "Weekend trip with girlfriends",
+      "location": {
+        "address": "Wenzhou Jiangxin Island Scenic Area, Jiangxin Island, Lucheng District, Wenzhou, Zhejiang Province",
+        "longitude": 120.658901,
+        "latitude": 27.995678
+      },
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 300.0,
+      "create_time": "2024-03-23 09:15:32",
+      "update_time": "2024-03-23 09:15:32",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17550812080452641_P00030",
+          "price": 120.0,
+          "quantity": 2,
+          "ticket_type": "Adult Ticket + Island Cruise"
+        }
+      ]
+    },
+    "S17550812080452641_O00006": {
+      "order_id": "S17550812080452641_O00006",
+      "order_type": "train",
+      "user_id": "U001040",
+      "store_id": "T00001",
+      "note": "Business trip",
+      "location": {
+        "address": "Wenzhou Station, Lucheng District, Wenzhou, Zhejiang Province",
+        "longitude": 120.672345,
+        "latitude": 28.015678
+      },
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 183.5,
+      "create_time": "2024-02-25 14:23:56",
+      "update_time": "2024-02-25 14:23:56",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "T2024022500001",
+          "price": 183.5,
+          "quantity": 1,
+          "seat_type": "Second Class Seat",
+          "departure_time": "2024-02-28 08:30:00",
+          "arrival_time": "2024-02-28 10:15:00",
+          "from_station": "Wenzhou Station",
+          "to_station": "Hangzhou East Station"
+        }
+      ]
+    },
+    "S17550812080452641_O00007": {
+      "order_id": "S17550812080452641_O00007",
+      "order_type": "hotel",
+      "user_id": "U001040",
+      "store_id": "H00001",
+      "note": "Business trip",
+      "location": {
+        "address": "Atour Hotel Hangzhou West Lake, 122 Shuguang Road, West Lake District, Hangzhou, Zhejiang Province",
+        "longitude": 120.156789,
+        "latitude": 30.265432
+      },
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 1256.0,
+      "create_time": "2024-02-13 16:45:23",
+      "update_time": "2024-02-13 16:45:23",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "H2024021300001",
+          "price": 628.0,
+          "quantity": 2,
+          "date": "2024-02-28",
+          "room_type": "Smart King-Size Room"
+        }
+      ]
+    },
+    "S17550812080452641_O00008": {
+      "order_id": "S17550812080452641_O00008",
+      "order_type": "flight",
+      "user_id": "U001040",
+      "store_id": "F00001",
+      "note": "Annual vacation",
+      "location": {
+        "address": "Sanya Phoenix International Airport, Phoenix Airport Road, Sanya, Hainan Province",
+        "longitude": 109.412345,
+        "latitude": 18.302345
+      },
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 3456.0,
+      "create_time": "2024-01-09 10:34:56",
+      "update_time": "2024-01-09 10:34:56",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "F2024010900001",
+          "price": 1728.0,
+          "quantity": 1,
+          "seat_type": "Economy Class",
+          "departure_time": "2024-01-20 08:45:00",
+          "arrival_time": "2024-01-20 11:30:00",
+          "from_airport": "Wenzhou Longwan International Airport",
+          "to_airport": "Sanya Phoenix International Airport"
+        },
+        {
+          "product_id": "F2024010900002",
+          "price": 1728.0,
+          "quantity": 1,
+          "seat_type": "Economy Class",
+          "departure_time": "2024-01-25 19:20:00",
+          "arrival_time": "2024-01-25 22:05:00",
+          "from_airport": "Sanya Phoenix International Airport",
+          "to_airport": "Wenzhou Longwan International Airport"
+        }
+      ]
+    },
+    "S17550812080452641_O00009": {
+      "order_id": "S17550812080452641_O00009",
+      "order_type": "instore",
+      "user_id": "U001040",
+      "store_id": "S17550812080452641_I00011",
+      "total_price": 98.0,
+      "create_time": "2024-04-09 16:35:12",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17550812080452641_P00067",
+          "price": 98.0,
+          "quantity": 1
+        }
+      ]
+    },
+    "S17550812080452641_O00010": {
+      "order_id": "S17550812080452641_O00010",
+      "order_type": "instore",
+      "user_id": "U001040",
+      "store_id": "S17550812080452641_I00014",
+      "total_price": 88.0,
+      "create_time": "2024-03-28 19:45:23",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17550812080452641_P00083",
+          "price": 88.0,
+          "quantity": 1
+        }
+      ]
+    }
+  }
+}

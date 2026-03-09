@@ -1,0 +1,1016 @@
+{
+  "task_id": "10807006",
+  "domain": "cross_domain",
+  "time": "2025-06-21 19:14:45",
+  "user_id": "U010031",
+  "weather": [
+    {
+      "city": "Nanning",
+      "category": "cloudy",
+      "datetime": "2025-06-21",
+      "temperature": [
+        26,
+        34
+      ],
+      "humidity": 78
+    },
+    {
+      "city": "Beihai",
+      "category": "sunny",
+      "datetime": "2025-06-29",
+      "temperature": [
+        25,
+        33
+      ],
+      "humidity": 72
+    }
+  ],
+  "location": [
+    {
+      "address": "Nanning Mixc, No.136 Minzu Avenue, Qingxiu District, Nanning City, Guangxi Zhuang Autonomous Region",
+      "longitude": 108.370636,
+      "latitude": 22.817382
+    }
+  ],
+  "user_profile": {
+    "user id": "U010031",
+    "occupation": "Sales clerk",
+    "gender": "female",
+    "age group": "25~30",
+    "residence": "Nanning",
+    "Permanent address": "Champs-Élysées Garden, No. 2 Fengxiang Road, Qingxiu District, Nanning City, Guangxi Zhuang Autonomous Region (340 meters walk from Exhibition Center Metro Station Exit D)",
+    "work address": "Nanning Mixc, No.136 Minzu Avenue, Qingxiu District, Nanning City, Guangxi Zhuang Autonomous Region",
+    "dietary restrictions": "Avoids greasy and spicy food, avoids high sugar",
+    "family status": "Has pets",
+    "personality": "Easily anxious and worried, needs repeated confirmation to feel reassured"
+  },
+  "user_historical_behaviors": {
+    "user id": "U010031",
+    "occupation": "salesperson",
+    "gender": "female",
+    "age group": "25~30",
+    "residence": "Nanning",
+    "home address": "Xiangxieli Garden, No.2 Fengxiang Road, Qingxiu District, Nanning City, Guangxi Zhuang Autonomous Region (340 meters walk from Exhibition Center Subway Station Exit D)",
+    "work address": "Nanning Mixc, No.136 Minzu Avenue, Qingxiu District, Nanning City, Guangxi Zhuang Autonomous Region",
+    "Takeout scenario": {
+      "food delivery": {
+        "breakfast": {
+          "frequently purchased categories": [
+            "Quick meals/Steamed buns/Pan-fried buns (Average 18 yuan)",
+            "Quick meals/Light meals (Average 25 yuan)",
+            "Quick meals/Rice noodles (Average 20 yuan)"
+          ],
+          "cost per order": "15~30 yuan",
+          "preferred store rating": "4.2~4.7 stars",
+          "preferred delivery time": "10~20 minutes",
+          "preferred distance": "0~1500m",
+          "recent orders": [
+            {
+              "store": "Grandma's Bun Shop",
+              "product": "Mushroom vegetable bun + Soy milk"
+            },
+            {
+              "store": "Nanning Light Meal Workshop",
+              "product": "Vegetable and egg sandwich set"
+            },
+            {
+              "store": "Chaozhou Rice Noodle Roll",
+              "product": "Original rice noodle roll + Herbal sweet soup"
+            }
+          ],
+          "search history": [
+            "Healthy breakfast",
+            "Soy milk",
+            "Health-preserving porridge",
+            "Low-oil breakfast"
+          ]
+        },
+        "weekday lunch/dinner": {
+          "frequently purchased categories": [
+            "Quick meals/Healthy meals (Average 38 yuan)",
+            "Quick meals/Salad (Average 32 yuan)",
+            "Chinese cuisine/Cantonese cuisine (Average 45 yuan)"
+          ],
+          "cost per order": "30~60 yuan",
+          "preferred store rating": "4.3~4.8 stars",
+          "preferred delivery time": "15~30 minutes",
+          "preferred distance": "0~2500m",
+          "recent orders": [
+            {
+              "store": "Whole Grain Health Meals",
+              "product": "Steamed chicken breast with brown rice + Seasonal vegetables"
+            },
+            {
+              "store": "Joy Fresh Salad",
+              "product": "Quinoa chicken breast salad"
+            },
+            {
+              "store": "Cantonese Pavilion",
+              "product": "Steamed fish + Blanched vegetables"
+            }
+          ],
+          "search history": [
+            "Low-fat meal",
+            "Healthy work meal",
+            "Cantonese steamed dishes",
+            "Boiled vegetables"
+          ]
+        },
+        "weekend lunch/dinner": {
+          "frequently purchased categories": [
+            "Chinese cuisine/Cantonese cuisine (Average 85 yuan)",
+            "International cuisine/Stone pot rice/Iron plate rice (Average 65 yuan)",
+            "International cuisine/Vietnamese cuisine (Average 70 yuan)"
+          ],
+          "cost per order": "60~120 yuan",
+          "preferred store rating": "4.5~4.9 stars",
+          "preferred delivery time": "25~45 minutes",
+          "preferred distance": "0~3500m",
+          "recent orders": [
+            {
+              "store": "Guangzhou Time-honored Brand",
+              "product": "Steamed sea bass + Vegetable combination"
+            },
+            {
+              "store": "Korean Cuisine Restaurant",
+              "product": "Stone pot bibimbap family set"
+            },
+            {
+              "store": "Saigon Vietnamese Restaurant",
+              "product": "Vietnamese pho + Spring rolls"
+            }
+          ],
+          "search history": [
+            "Parent-child meal set",
+            "Family gathering",
+            "Healthy cuisine",
+            "Low-oil cuisine"
+          ]
+        },
+        "desserts/drinks/snacks": {
+          "frequently purchased categories": [
+            "Drinks and desserts/Fruit juice (Average 22 yuan)",
+            "Drinks and desserts/Plain tea/Herbal tea (Average 18 yuan)",
+            "Drinks and desserts/Fruit salad (Average 30 yuan)"
+          ],
+          "cost per order": "15~40 yuan",
+          "preferred store rating": "4.4~4.8 stars",
+          "preferred delivery time": "15~25 minutes",
+          "preferred distance": "0~2000m",
+          "recent orders": [
+            {
+              "store": "Fresh Juice Bar",
+              "product": "Fresh watermelon juice"
+            },
+            {
+              "store": "Tea Wind",
+              "product": "Chrysanthemum Pu'er tea"
+            },
+            {
+              "store": "Fresh Fruit Party",
+              "product": "Colorful fruit salad"
+            }
+          ],
+          "search history": [
+            "Freshly squeezed juice",
+            "Sugar-free tea",
+            "Healthy drinks",
+            "Fruit salad"
+          ]
+        },
+        "night snack": {
+          "frequently purchased categories": [
+            "Quick meals/Rice noodles (Average 28 yuan)",
+            "Quick meals/Clay pot dishes (Average 35 yuan)",
+            "Quick meals/Small bowls/Small portion dishes (Average 30 yuan)"
+          ],
+          "cost per order": "25~45 yuan",
+          "preferred store rating": "4.2~4.6 stars",
+          "preferred delivery time": "20~35 minutes",
+          "preferred distance": "0~2500m",
+          "recent orders": [
+            {
+              "store": "Guilin Rice Noodles",
+              "product": "Original rice noodles"
+            },
+            {
+              "store": "Clay Pot Porridge Shop",
+              "product": "Century egg and lean meat porridge + Side dish"
+            },
+            {
+              "store": "Homestyle Small Bowl Dishes",
+              "product": "Stir-fried seasonal vegetables + Steamed egg"
+            }
+          ],
+          "search history": [
+            "Stomach-friendly late night snack",
+            "Light clay pot dishes",
+            "Late night rice noodles",
+            "Small portion dishes"
+          ]
+        }
+      },
+      "product delivery": {
+        "frequently purchased categories": [
+          "Vegetables/Bean products(28%)",
+          "Fruits(22%)",
+          "Flowers and gardening(18%)",
+          "Household supplies(15%)",
+          "Pet supplies(10%)",
+          "Others(7%)"
+        ],
+        "frequently visited stores": [
+          "China Resources Vanguard(Nanning Qingxiu District Store)(45%)",
+          "Yonghui Supermarket(Xiangxieli Garden Store)(32%)",
+          "One-Meter Fresh(15%)",
+          "Other stores(8%)"
+        ],
+        "cost per order by category": {
+          "Vegetables/Bean products": "5~25 yuan",
+          "Fruits": "10~40 yuan",
+          "Flowers and gardening": "35~120 yuan",
+          "Household supplies": "15~60 yuan",
+          "Pet supplies": "20~150 yuan"
+        },
+        "preferred delivery time": "25~60 minutes",
+        "typical order time": "18~20:00(38%)，10~12:00(25%)，14~16:00(18%)",
+        "recent orders": [
+          {
+            "store": "China Resources Vanguard(Nanning Qingxiu District Store)",
+            "product": "Organic vegetable set"
+          },
+          {
+            "store": "Yonghui Supermarket(Xiangxieli Garden Store)",
+            "product": "Fresh fruit gift box"
+          },
+          {
+            "store": "One-Meter Fresh",
+            "product": "Money plant with nutrition soil"
+          }
+        ],
+        "search history": [
+          "Organic vegetables",
+          "Fresh fruits",
+          "Green plants",
+          "Hand soap",
+          "Kitchen paper",
+          "Pet toys"
+        ]
+      }
+    },
+    "In-store scenario": {
+      "in-store dining": {
+        "fine-dining": {
+          "frequently purchased categories": [
+            "Regional cuisine/Sichuan cuisine (Average 120 yuan)",
+            "Regional cuisine/Cantonese cuisine (Average 150 yuan)",
+            "International cuisine/Japanese cuisine (Average 180 yuan)"
+          ],
+          "preferred average price per person": "120~180 yuan",
+          "preferred store rating": "4.2~4.8 stars",
+          "typical dining time": "18:30-20:30",
+          "preferred distance": "500~3000m",
+          "recent orders": [
+            {
+              "store": "Shu Xiang Pavilion Sichuan Restaurant",
+              "product": "Boiled fish set"
+            },
+            {
+              "store": "Cantonese Pavilion",
+              "product": "Steamed sea bass"
+            },
+            {
+              "store": "Helv Revolving Sushi",
+              "product": "Premium sashimi platter"
+            }
+          ],
+          "search history": [
+            "Non-spicy Sichuan cuisine",
+            "Cantonese restaurant",
+            "Japanese cuisine",
+            "Steamed fish"
+          ]
+        },
+        "light meal": {
+          "frequently purchased categories": [
+            "Snacks and fast food/Chinese quick meals (Average 35 yuan)",
+            "Snacks and fast food/Western fast food (Average 40 yuan)",
+            "Regional cuisine/Jiangsu-Zhejiang cuisine (Average 45 yuan)"
+          ],
+          "preferred average price per person": "30~50 yuan",
+          "preferred store rating": "3.5~4.2 stars",
+          "typical dining time": "11:30-13:00",
+          "preferred distance": "0~500m",
+          "recent orders": [
+            {
+              "store": "Lao Niang Jiu",
+              "product": "Braised pork rice set"
+            },
+            {
+              "store": "Real Kung Fu",
+              "product": "Teriyaki chicken cutlet rice"
+            },
+            {
+              "store": "Jiangnan Small Kitchen",
+              "product": "Preserved vegetable pork rice"
+            }
+          ],
+          "search history": [
+            "Work meal",
+            "Fast food",
+            "Bento",
+            "Set meal"
+          ]
+        },
+        "desserts/drinks/snacks": {
+          "frequently purchased categories": [
+            "Beverage shops (Average 18 yuan)",
+            "Bread and desserts (Average 25 yuan)"
+          ],
+          "preferred average price per person": "15~30 yuan",
+          "preferred store rating": "3.8~4.5 stars",
+          "typical dining time": "15:00-16:30",
+          "preferred distance": "0~300m",
+          "recent orders": [
+            {
+              "store": "Cha Bai Dao",
+              "product": "Oolong milk tea (Less sugar, no ice)"
+            },
+            {
+              "store": "Bread Talk",
+              "product": "Whole wheat baguette"
+            },
+            {
+              "store": "Meet Fresh",
+              "product": "Taro with sago (Sugar-free)"
+            }
+          ],
+          "search history": [
+            "Sugar-free drinks",
+            "Low-sugar desserts",
+            "Healthy tea beverages"
+          ]
+        }
+      },
+      "other in-store services": {
+        "frequently consumed categories": {
+          "Sports and fitness/Fitness centers": "40%",
+          "Sports and fitness/Ball sports": "35%",
+          "Leisure and entertainment/Massage/Foot therapy": "15%",
+          "Beauty/Hair salon": "10%"
+        },
+        "cost per order by category": {
+          "Sports and fitness/Fitness centers": "80~150 yuan",
+          "Sports and fitness/Ball sports": "60~120 yuan",
+          "Leisure and entertainment/Massage/Foot therapy": "120~200 yuan",
+          "Beauty/Hair salon": "80~150 yuan"
+        },
+        "preferred store rating": "4.0~4.8 stars",
+        "preferred service time": "18:00-20:00",
+        "preferred distance": "500~3000m",
+        "recent orders": [
+          {
+            "store": "Lijian Fitness Club",
+            "product": "Monthly fitness package"
+          },
+          {
+            "store": "Qingxiu District Sports Center",
+            "product": "Badminton court 2 hours"
+          },
+          {
+            "store": "Footprint Wellness Center",
+            "product": "Shoulder and neck treatment package"
+          }
+        ],
+        "search history": [
+          "Gym",
+          "Badminton court",
+          "Massage",
+          "Shoulder and neck treatment"
+        ]
+      }
+    },
+    "OTA": {
+      "visited scenes": {
+        "Natural landscapes (Mountains/Lakes/Forests)": "45%",
+        "Parks": "25%",
+        "Exhibition halls (Museums/Art galleries)": "15%",
+        "Characteristic villages/Industrial tourism/Uncategorized items": "10%",
+        "Cultural and historical sites": "5%"
+      },
+      "cost per night on hotel": "300~500 yuan",
+      "visited hotels": {
+        "Home Inn": "35%",
+        "Hanting": "25%",
+        "7 Days Inn": "15%",
+        "Jinjiang Inn": "15%",
+        "Ji Hotel": "10%"
+      },
+      "browsed hotels": {
+        "Three-star hotels": "30%",
+        "Budget hotels": "45%",
+        "Comfort hotels": "25%"
+      },
+      "historical travel plans": {
+        "Nanning-Guilin": {
+          "Price range": "150-250 yuan",
+          "Transportation mode": "Long-distance bus"
+        },
+        "Nanning-Beihai": {
+          "Price range": "100-200 yuan",
+          "Transportation mode": "High-speed train"
+        },
+        "Nanning-Liuzhou": {
+          "Price range": "80-150 yuan",
+          "Transportation mode": "High-speed train"
+        },
+        "Nanning-Yangshuo": {
+          "Price range": "200-350 yuan",
+          "Transportation mode": "Long-distance bus"
+        },
+        "Nanning-Chengdu": {
+          "Price range": "500-800 yuan",
+          "Transportation mode": "Airplane"
+        },
+        "Nanning-Guangzhou": {
+          "Price range": "300-450 yuan",
+          "Transportation mode": "High-speed train"
+        }
+      }
+    }
+  },
+  "stores": {
+    "S17550802130322823_S00001": {
+      "name": "Wheat Fragrance Cake House",
+      "store_id": "S17550802130322823_S00001",
+      "score": 4.7,
+      "location": {
+        "address": "Wheat Fragrance Cake House, No.98 Minzu Avenue, Qingxiu District, Nanning City, Guangxi Zhuang Autonomous Region",
+        "latitude": 22.816524,
+        "longitude": 108.368742
+      },
+      "tags": [
+        "Cake",
+        "Dessert",
+        "Low sugar",
+        "Birthday cake",
+        "Customized"
+      ],
+      "store_type": "target",
+      "products": [
+        {
+          "name": "Ink Fragrance Bamboo Rhythm Multi-layer Cake",
+          "store_id": "S17550802130322823_S00001",
+          "store_name": "Wheat Fragrance Cake House",
+          "price": 698,
+          "tags": [
+            "Matcha flavor",
+            "Dignified and elegant",
+            "Gathering",
+            "Low sugar",
+            "Serving for 24 people"
+          ],
+          "product_id": "S17550802130322823_P00001",
+          "attributes": [
+            "Low sugar formula"
+          ],
+          "product_type": "target"
+        },
+        {
+          "name": "Longevity Peach Birthday Cake (serving 20 people)",
+          "store_id": "S17550802130322823_S00001",
+          "store_name": "Wheat Fragrance Cake House",
+          "price": 668,
+          "tags": [
+            "Longevity peach cake",
+            "Birthday celebration for the elderly",
+            "Large gathering",
+            "Longevity celebration",
+            "Serving for 20 people"
+          ],
+          "product_id": "S17550802130322823_P00003",
+          "attributes": [
+            "Standard sweetness",
+            "Card available",
+            "Customizable greeting"
+          ],
+          "product_type": "distraction"
+        },
+        {
+          "name": "Baroque Princess Castle Multi-layer Cake (serving 20 people)",
+          "store_id": "S17550802130322823_S00001",
+          "store_name": "Wheat Fragrance Cake House",
+          "price": 898,
+          "tags": [
+            "Internet celebrity style",
+            "Instagram style",
+            "Multi-layer cake",
+            "Gathering",
+            "Serving for 20 people",
+            "Visually appealing"
+          ],
+          "product_id": "S17550802130322823_P00004",
+          "attributes": [
+            "Standard sweetness",
+            "Card available",
+            "Customizable greeting"
+          ],
+          "product_type": "distraction"
+        },
+        {
+          "name": "Classic Fruit Multi-layer Cake",
+          "store_id": "S17550802130322823_S00001",
+          "store_name": "Wheat Fragrance Cake House",
+          "price": 398,
+          "tags": [
+            "Fruit cake",
+            "Classic style",
+            "Multi-layer cake",
+            "Serving for 18 people",
+            "Low sugar"
+          ],
+          "product_id": "S17550802130322823_P00005",
+          "attributes": [
+            "Low sugar formula",
+            "Card available",
+            "Customizable greeting"
+          ],
+          "product_type": "distraction"
+        }
+      ]
+    },
+    "S17550802130322823_S00002": {
+      "name": "Sweet Time Cake Shop",
+      "store_id": "S17550802130322823_S00002",
+      "score": 4.6,
+      "location": {
+        "address": "Sweet Time Cake Shop, No.156 Minzu Avenue, Qingxiu District, Nanning City, Guangxi Zhuang Autonomous Region",
+        "latitude": 22.818236,
+        "longitude": 108.371542
+      },
+      "tags": [
+        "Cake",
+        "Dessert",
+        "Internet celebrity",
+        "Customized"
+      ],
+      "store_type": "distraction",
+      "products": [
+        {
+          "name": "Internet Celebrity Instagram-style Multi-layer Cake (serving 20 people)",
+          "store_id": "S17550802130322823_S00002",
+          "store_name": "Sweet Time Cake Shop",
+          "price": 728,
+          "tags": [
+            "Internet celebrity style",
+            "Instagram style",
+            "Multi-layer",
+            "Large gathering",
+            "Creative cake"
+          ],
+          "product_id": "S17550802130322823_P00008",
+          "attributes": [
+            "Three layers",
+            "Trendy element decoration",
+            "Standard sugar content",
+            "Small gift included"
+          ],
+          "product_type": "distraction"
+        },
+        {
+          "name": "Academic Success Longevity Peach Cake (serving 20 people)",
+          "store_id": "S17550802130322823_S00002",
+          "store_name": "Sweet Time Cake Shop",
+          "price": 688,
+          "tags": [
+            "Longevity peach cake",
+            "Multi-layer",
+            "Birthday celebration for the elderly",
+            "Traditional style",
+            "Large gathering"
+          ],
+          "product_id": "S17550802130322823_P00009",
+          "attributes": [
+            "Three layers",
+            "Longevity peach decoration",
+            "Standard sugar content",
+            "Card included"
+          ],
+          "product_type": "distraction"
+        },
+        {
+          "name": "Premium Custom Chocolate Multi-layer Cake (serving 20 people)",
+          "store_id": "S17550802130322823_S00002",
+          "store_name": "Sweet Time Cake Shop",
+          "price": 998,
+          "tags": [
+            "Chocolate",
+            "Premium customization",
+            "Multi-layer",
+            "Large gathering",
+            "Luxurious decoration"
+          ],
+          "product_id": "S17550802130322823_P00010",
+          "attributes": [
+            "Four layers",
+            "Chocolate decoration",
+            "Standard sugar content",
+            "Elegant gift box included"
+          ],
+          "product_type": "distraction"
+        }
+      ]
+    },
+    "S17550802130322823_S00003": {
+      "name": "Shoufu Bakery",
+      "store_id": "S17550802130322823_S00003",
+      "score": 4.5,
+      "location": {
+        "address": "Shoufu Bakery, No.15 Xinghu Road, Qingxiu District, Nanning City, Guangxi Zhuang Autonomous Region",
+        "latitude": 22.815872,
+        "longitude": 108.369854
+      },
+      "tags": [
+        "Cake",
+        "Longevity peach",
+        "Birthday celebration for the elderly",
+        "Customized"
+      ],
+      "store_type": "distraction",
+      "products": [
+        {
+          "name": "Prosperity and Longevity Peach Cake",
+          "store_id": "S17550802130322823_S00003",
+          "store_name": "Shoufu Bakery",
+          "price": 399,
+          "tags": [
+            "Longevity peach cake",
+            "Birthday celebration for the elderly",
+            "Large cake",
+            "For 20 people consumption",
+            "Traditional style"
+          ],
+          "product_id": "S17550802130322823_P00011",
+          "attributes": [
+            "Three layers",
+            "Red color",
+            "Standard sweetness"
+          ],
+          "product_type": "distraction"
+        },
+        {
+          "name": "Evergreen Pine and Cypress Birthday Cake",
+          "store_id": "S17550802130322823_S00003",
+          "store_name": "Shoufu Bakery",
+          "price": 468,
+          "tags": [
+            "Longevity celebration cake",
+            "Large-sized",
+            "Three layers",
+            "For 20 people consumption",
+            "Traditional style"
+          ],
+          "product_id": "S17550802130322823_P00012",
+          "attributes": [
+            "Three layers",
+            "Golden color",
+            "Standard sweetness"
+          ],
+          "product_type": "distraction"
+        },
+        {
+          "name": "Fortune Like East Sea Multi-layer Longevity Cake",
+          "store_id": "S17550802130322823_S00003",
+          "store_name": "Shoufu Bakery",
+          "price": 588,
+          "tags": [
+            "Longevity celebration cake",
+            "Large-sized",
+            "Four layers",
+            "For 25-30 people consumption",
+            "High-end style"
+          ],
+          "product_id": "S17550802130322823_P00013",
+          "attributes": [
+            "Four layers",
+            "Gold and red color",
+            "Standard sweetness",
+            "Customizable greeting"
+          ],
+          "product_type": "distraction"
+        },
+        {
+          "name": "Health and Happiness Low-Sugar Cake",
+          "store_id": "S17550802130322823_S00003",
+          "store_name": "Shoufu Bakery",
+          "price": 458,
+          "tags": [
+            "Longevity celebration cake",
+            "Low sugar",
+            "Three layers",
+            "For 20 people consumption"
+          ],
+          "product_id": "S17550802130322823_P00014",
+          "attributes": [
+            "Three layers",
+            "Traditional red color",
+            "Low sugar formula",
+            "Customizable greeting"
+          ],
+          "product_type": "distraction"
+        },
+        {
+          "name": "Luxurious Birthday Star Cake",
+          "store_id": "S17550802130322823_S00003",
+          "store_name": "Shoufu Bakery",
+          "price": 699,
+          "tags": [
+            "Longevity celebration cake",
+            "Luxurious",
+            "Four layers",
+            "For 30 people consumption",
+            "High-end customization"
+          ],
+          "product_id": "S17550802130322823_P00015",
+          "attributes": [
+            "Four layers",
+            "Golden theme",
+            "Standard sweetness",
+            "Birthday hat gift"
+          ],
+          "product_type": "distraction"
+        }
+      ]
+    },
+    "S17550802130322823_S00004": {
+      "name": "European Style Pastry House",
+      "store_id": "S17550802130322823_S00004",
+      "score": 4.8,
+      "location": {
+        "address": "European Style Pastry House, No.120 Minzu Avenue, Qingxiu District, Nanning City, Guangxi Zhuang Autonomous Region",
+        "latitude": 22.816982,
+        "longitude": 108.370125
+      },
+      "tags": [
+        "Cake",
+        "Pastry",
+        "Low sugar",
+        "Multi-layer cake",
+        "Customized"
+      ],
+      "store_type": "target",
+      "products": [
+        {
+          "name": "Glory Moment Animal Cream Cake (serving 20 people)",
+          "store_id": "S17550802130322823_S00004",
+          "store_name": "European Style Pastry House",
+          "price": 668,
+          "tags": [
+            "Multi-layer cake",
+            "Complex elegant decoration",
+            "Large gathering",
+            "Serving for 20 people"
+          ],
+          "product_id": "S17550802130322823_P00018",
+          "attributes": [
+            "Three layers",
+            "Standard sugar content",
+            "Longevity peach decoration",
+            "Red theme"
+          ],
+          "product_type": "distraction"
+        },
+        {
+          "name": "Internet Celebrity Instagram-style Multi-layer Cake (serving 20 people)",
+          "store_id": "S17550802130322823_S00004",
+          "store_name": "European Style Pastry House",
+          "price": 728,
+          "tags": [
+            "Multi-layer cake",
+            "Instagram style",
+            "Internet celebrity style",
+            "Large gathering",
+            "Fashionable",
+            "Serving for 20 people"
+          ],
+          "product_id": "S17550802130322823_P00019",
+          "attributes": [
+            "Three layers",
+            "Low sugar optional",
+            "Drip cake",
+            "Gold foil decoration"
+          ],
+          "product_type": "distraction"
+        },
+        {
+          "name": "Classic Chocolate Multi-layer Cake (serving 20 people)",
+          "store_id": "S17550802130322823_S00004",
+          "store_name": "European Style Pastry House",
+          "price": 658,
+          "tags": [
+            "Multi-layer cake",
+            "Chocolate",
+            "Large gathering",
+            "Serving for 20 people",
+            "High sugar"
+          ],
+          "product_id": "S17550802130322823_P00020",
+          "attributes": [
+            "Three layers",
+            "Standard sugar content",
+            "Chocolate decoration",
+            "Customizable text"
+          ],
+          "product_type": "distraction"
+        }
+      ]
+    },
+    "S17550802130322823_S00005": {
+      "name": "Fresh Fruit Party",
+      "store_id": "S17550802130322823_S00005",
+      "score": 4.4,
+      "location": {
+        "address": "Fresh Fruit Party, No.28 Xinghu Road, Qingxiu District, Nanning City, Guangxi Zhuang Autonomous Region",
+        "latitude": 22.814562,
+        "longitude": 108.368532
+      },
+      "tags": [
+        "Cake",
+        "Fruit",
+        "Light meal",
+        "Customized"
+      ],
+      "store_type": "distraction",
+      "products": [
+        {
+          "name": "Colorful fruit salad",
+          "store_id": "S17550802130322823_S00005",
+          "store_name": "Fresh Fruit Party",
+          "price": 30,
+          "tags": [
+            "Fruit salad",
+            "Signature",
+            "Low sugar",
+            "Fresh"
+          ],
+          "product_id": "S17550802130322823_P00021",
+          "attributes": [
+            "Standard sugar",
+            "Low sugar",
+            "No sugar"
+          ],
+          "product_type": "distraction"
+        },
+        {
+          "name": "Rainbow Fruit Flavored Cake (8 inches)",
+          "store_id": "S17550802130322823_S00005",
+          "store_name": "Fresh Fruit Party",
+          "price": 168,
+          "tags": [
+            "Cake",
+            "Rainbow",
+            "Fruit",
+            "Internet celebrity style"
+          ],
+          "product_id": "S17550802130322823_P00022",
+          "attributes": [
+            "Standard sugar",
+            "Low sugar"
+          ],
+          "product_type": "distraction"
+        },
+        {
+          "name": "Multi-layer fruit-flavored cake (3 layers 14 inches)",
+          "store_id": "S17550802130322823_S00005",
+          "store_name": "Fresh Fruit Party",
+          "price": 598,
+          "tags": [
+            "Multi-layer cake",
+            "Fruit",
+            "Large-sized",
+            "Gathering",
+            "Party"
+          ],
+          "product_id": "S17550802130322823_P00023",
+          "attributes": [
+            "Standard sugar",
+            "Low sugar"
+          ],
+          "product_type": "distraction"
+        },
+        {
+          "name": "Forest-style Fruit Cake (3 layers 12 inches)",
+          "store_id": "S17550802130322823_S00005",
+          "store_name": "Fresh Fruit Party",
+          "price": 528,
+          "tags": [
+            "Multi-layer cake",
+            "Fruit",
+            "Forest style",
+            "Fresh"
+          ],
+          "product_id": "S17550802130322823_P00024",
+          "attributes": [
+            "Standard sugar",
+            "Low sugar"
+          ],
+          "product_type": "distraction"
+        },
+        {
+          "name": "Light Meal Salad Set (serving 2 people)",
+          "store_id": "S17550802130322823_S00005",
+          "store_name": "Fresh Fruit Party",
+          "price": 88,
+          "tags": [
+            "Light meal",
+            "Salad",
+            "Healthy",
+            "Low fat"
+          ],
+          "product_id": "S17550802130322823_P00025",
+          "attributes": [
+            "Standard portion",
+            "Large portion"
+          ],
+          "product_type": "distraction"
+        }
+      ]
+    }
+  },
+  "orders": {
+    "S17550802130322823_O00001": {
+      "order_id": "S17550802130322823_O00001",
+      "order_type": "delivery",
+      "user_id": "U010031",
+      "store_id": "S17550802130322823_S00004",
+      "total_price": 688.0,
+      "create_time": "2025-06-20 15:30:22",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17550802130322823_P00016",
+          "price": 688.0,
+          "quantity": 1
+        }
+      ],
+      "delivery_address": "Xiangxieli Garden, No. 2 Fengxiang Road, Qingxiu District, Nanning City, Guangxi Zhuang Autonomous Region",
+      "delivery_time": "2025-06-20 16:15:45",
+      "note": "Retirement cake for teacher, please write 'Students all over the world, your influence spreads far and wide', deliver at 3 PM"
+    },
+    "S17550802130322823_O00002": {
+      "order_id": "S17550802130322823_O00002",
+      "order_type": "train",
+      "user_id": "U010031",
+      "store_id": "S17550802130322823_T00007",
+      "note": "Train tickets for teacher's retirement trip, please arrange adjacent seats",
+      "location": {
+        "address": "Nanning East Station, Zhangian Road, Jiangnan District, Nanning City, Guangxi Zhuang Autonomous Region",
+        "longitude": 108.407325,
+        "latitude": 22.833246
+      },
+      "dispatch_time": "",
+      "shipping_time": 0.0,
+      "delivery_time": "",
+      "total_price": 600.0,
+      "create_time": "2025-06-20 16:45:32",
+      "update_time": "2025-06-20 16:45:32",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17550802130322823_P00033",
+          "price": 300.0,
+          "quantity": 2,
+          "date": "2025-06-22",
+          "seat_type": "Business class seat"
+        }
+      ]
+    },
+    "S17550802130322823_O00003": {
+      "order_id": "S17550802130322823_O00003",
+      "order_type": "instore",
+      "user_id": "U010031",
+      "store_id": "S17550802130322823_I00012",
+      "total_price": 2940.0,
+      "create_time": "2025-06-20 14:28:15",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17550802130322823_P00061",
+          "price": 600.0,
+          "quantity": 1
+        },
+        {
+          "product_id": "S17550802130322823_P00062",
+          "price": 1600.0,
+          "quantity": 1
+        },
+        {
+          "product_id": "S17550802130322823_P00067",
+          "price": 860.0,
+          "quantity": 1
+        }
+      ],
+      "note": "High school 10th anniversary reunion + teacher retirement gathering, need a 20-person large private room"
+    }
+  }
+}

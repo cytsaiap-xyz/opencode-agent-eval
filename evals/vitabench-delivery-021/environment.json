@@ -1,0 +1,401 @@
+{
+  "task_id": "30711009",
+  "domain": "delivery",
+  "time": "2025-10-18 11:58:29",
+  "user_id": "U000046",
+  "weather": [
+    {
+      "city": "Jinhua City",
+      "category": "rainy",
+      "datetime": "2025-10-18",
+      "temperature": [
+        15,
+        24
+      ],
+      "humidity": 90
+    }
+  ],
+  "location": [
+    {
+      "address": "Nanhu Garden, 15 Dongzhai Road, Wucheng District, Jinhua, Zhejiang Province",
+      "longitude": 119.646008,
+      "latitude": 29.072722
+    }
+  ],
+  "user_profile": {
+    "user id": "U000046",
+    "occupation": "doctor",
+    "gender": "male",
+    "age group": "35~40",
+    "residence": "Jinhua",
+    "home address": "Nanhu Garden, 15 Dongzhai Road, Wucheng District, Jinhua, Zhejiang Province",
+    "work address": "Jinhua Central Hospital, 365 People's East Road, Wucheng District, Jinhua, Zhejiang Province",
+    "dietary restrictions": "Avoid high purine foods (such as organ meats/seafood soups)",
+    "family status": "Has children",
+    "personality": "Impatient, frequently urges others to hurry, lacks patience for processes"
+  },
+  "user_historical_behaviors": {
+    "user id": "U000046",
+    "occupation": "doctor",
+    "gender": "male",
+    "age group": "35~40",
+    "residence": "Jinhua",
+    "home address": "Nanhu Garden, 15 Dongzhai Road, Wucheng District, Jinhua, Zhejiang Province",
+    "work address": "Jinhua Central Hospital, 365 People's East Road, Wucheng District, Jinhua, Zhejiang Province",
+    "breakfast": {
+      "frequently purchased categories": [
+        "Fast Food/Buns/Pan-fried Buns (Average ¥18)",
+        "Fast Food/Light Meals (Average ¥25)",
+        "Fast Food/Healthy Meals (Average ¥32)"
+      ],
+      "cost per order": "¥15~35",
+      "preferred store rating": "4.3~4.8 stars",
+      "preferred delivery time": "15~25 minutes",
+      "preferred distance": "0~1500m",
+      "recent orders": [
+        {
+          "store": "Hangzhou Soy Milk and Fried Dough",
+          "product": "Premium Breakfast Set (Soy Milk + Pan-fried Buns)"
+        },
+        {
+          "store": "Salad Light Food Workshop",
+          "product": "Boiled Egg Avocado Salad"
+        },
+        {
+          "store": "Jin Flavor Breakfast",
+          "product": "Eight Treasures Porridge with Soup Dumplings"
+        }
+      ],
+      "search history": [
+        "Low-fat breakfast",
+        "Stomach-friendly porridge",
+        "Boiled eggs",
+        "Sugar-free soy milk",
+        "Healthy breakfast"
+      ]
+    },
+    "weekday lunch/dinner": {
+      "frequently purchased categories": [
+        "Fast Food/Rice Noodles/Vermicelli (Average ¥20)",
+        "Chinese Cuisine/Sichuan Food (Average ¥25)",
+        "Foreign Cuisine/Japanese Bento/Sushi (Average ¥38)"
+      ],
+      "cost per order": "¥15~30",
+      "preferred store rating": "4.5~4.9 stars",
+      "preferred delivery time": "20~40 minutes",
+      "preferred distance": "0~2500m",
+      "recent orders": [
+        {
+          "store": "Sichuan-Chongqing Noodle Shop (Sour and Spicy Noodles • Dumplings • Rice Noodles)",
+          "product": "Chongqing Pea Noodles with Sour and Spicy Soup + Golden Beans + Pickled Green Beans + Peanuts + Side Dishes"
+        },
+        {
+          "store": "Balanced Nutrition Healthy Meals",
+          "product": "Chicken Breast Vegetable Salad with Brown Rice"
+        }
+      ],
+      "search history": [
+        "Sour and spicy noodles",
+        "Pea noodles",
+        "Chicken breast",
+        "Healthy bento",
+        "Fat-reducing meal sets"
+      ]
+    },
+    "weekend lunch/dinner": {
+      "frequently purchased categories": [
+        "Chinese Cuisine/Cantonese Food (Average ¥70)",
+        "Foreign Cuisine/Stone Pot Rice/Teppanyaki Rice (Average ¥45)",
+        "Hot Pots/Chaoshan Hot Pot (Average ¥150)"
+      ],
+      "cost per order": "¥80~180",
+      "preferred store rating": "4.6~5.0 stars",
+      "preferred delivery time": "30~45 minutes",
+      "preferred distance": "0~3500m",
+      "recent orders": [
+        {
+          "store": "Yue Lai Shun",
+          "product": "Family Set (White Cut Chicken + Garlic Vegetables + Shrimp Steamed Egg)"
+        },
+        {
+          "store": "Korean Palace",
+          "product": "Stone Pot Bibimbap Set (Beef)"
+        },
+        {
+          "store": "Fresh Beef Chaoshan Hot Pot",
+          "product": "Selected Beef Set (No Offal)"
+        }
+      ],
+      "search history": [
+        "Family meal set",
+        "Alcohol-free",
+        "Health-preserving hot pot",
+        "Steamed fish"
+      ]
+    },
+    "desserts/drinks/snacks": {
+      "frequently purchased categories": [
+        "Drinks & Desserts/Pure Tea/Herbal Tea (Average ¥18)",
+        "Drinks & Desserts/Coffee (Average ¥23)",
+        "Drinks & Desserts/Fruit Salad (Average ¥35)"
+      ],
+      "cost per order": "¥15~40",
+      "preferred store rating": "4.4~5.0 stars",
+      "preferred delivery time": "15~60 minutes",
+      "preferred distance": "0~5000m",
+      "recent orders": [
+        {
+          "store": "Clear Mind Tea Room",
+          "product": "Sugar-free Green Tea"
+        },
+        {
+          "store": "Yee3 Coconut (Jinhua World Trade City Plaza Branch)",
+          "product": "Pistachio Coconut Candy"
+        },
+        {
+          "store": "Fresh Fruit Workshop",
+          "product": "Seasonal Fruit Platter"
+        }
+      ],
+      "search history": [
+        "Sugar-free tea",
+        "Low-sugar coffee",
+        "Fresh fruits",
+        "Office tea snacks",
+        "Afternoon tea"
+      ]
+    },
+    "night snack": {
+      "frequently purchased categories": [
+        "Fast Food/Rice Noodles/Vermicelli (Average ¥22)",
+        "Fast Food/Casserole (Average ¥35)",
+        "Fast Food/Hot Dry Noodles (Average ¥15)"
+      ],
+      "cost per order": "¥25~50",
+      "preferred store rating": "4.2~4.8 stars",
+      "preferred delivery time": "25~40 minutes",
+      "preferred distance": "0~2500m",
+      "recent orders": [
+        {
+          "store": "Yunnan Crossing Bridge Rice Noodles",
+          "product": "Clear Soup Chicken Rice Noodles"
+        },
+        {
+          "store": "Wuhan Hot Dry Noodles",
+          "product": "Classic Hot Dry Noodles (Mild Version)"
+        }
+      ],
+      "search history": [
+        "Light night snacks",
+        "Hot soup noodles",
+        "Stomach-friendly porridge",
+        "Non-spicy rice noodles",
+        "Easy-to-digest late night meals"
+      ]
+    }
+  },
+  "stores": {
+    "S15473946966912517_S14062": {
+      "name": "Northeastern Special Snacks (Sauce Bone Rice • Fried Rice • Dumplings)",
+      "store_id": "S15473946966912517_S14062",
+      "score": 5.0,
+      "location": {
+        "address": "Room 101, No. 31 Duijiafan Road, Wanda Community, Sanjiang Street, Wucheng District, Jinhua, Zhejiang Province",
+        "latitude": 29.080803,
+        "longitude": 119.662684
+      },
+      "tags": [],
+      "products": [
+        {
+          "name": "🔥 Classic Sauce Bone | Sauce-flavored Backbone Rice (Half Jin) + Northeastern Rice + Seasonal Vegetables + Side Dish",
+          "store_id": "S15473946966912517_S14062",
+          "store_name": "Northeastern Special Snacks (Sauce Bone Rice • Fried Rice • Dumplings)",
+          "price": 26.84,
+          "tags": [
+            "Authentic Northeastern Cuisine"
+          ],
+          "product_id": "S20241974580661731_P00012",
+          "attributes": [],
+          "quantity": 9999
+        }
+      ]
+    },
+    "S11783747910046861_S82990": {
+      "name": "Yee3 Coconut (Jinhua World Trade City Plaza Branch)",
+      "store_id": "S11783747910046861_S82990",
+      "score": 5.0,
+      "location": {
+        "address": "Yee3 Coconut, Basement 1, World Trade Plaza, Wucheng District, Jinhua, Zhejiang Province",
+        "latitude": 29.081623,
+        "longitude": 119.649721
+      },
+      "tags": [],
+      "products": [
+        {
+          "name": "Iced Coconut White Pomelo",
+          "store_id": "S11783747910046861_S82990",
+          "store_name": "Yee3 Coconut (Jinhua World Trade City Plaza Branch)",
+          "price": 21.0,
+          "tags": [],
+          "product_id": "S10167012764512840_P66561",
+          "attributes": [],
+          "quantity": 9999
+        }
+      ]
+    },
+    "S37645482346373619_S68262": {
+      "name": "Ajisen Ramen (Jinhua Wanda Branch)",
+      "store_id": "S37645482346373619_S68262",
+      "score": 4.6,
+      "location": {
+        "address": "No. 3007A, 3007BB, 3F, Wanda Plaza, 300 Liyu East Road, Duohu Street, Jindong District, Jinhua City, Zhejiang Province",
+        "latitude": 29.090858,
+        "longitude": 119.676563
+      },
+      "tags": [],
+      "products": [
+        {
+          "name": "Ajisen Children's Set Meal C",
+          "store_id": "S37645482346373619_S68262",
+          "store_name": "Ajisen Ramen (Jinhua Wanda Branch)",
+          "price": 29.0,
+          "tags": [],
+          "product_id": "S89168558798971631_P07308",
+          "attributes": [],
+          "quantity": 9999
+        },
+        {
+          "name": "Pepper Bone Soup Ramen Individual Meal",
+          "product_id": "S54556952236435505_P31355",
+          "store_id": "S37645482346373619_S68262",
+          "store_name": "Ajisen Ramen (Jinhua Wanda Branch)",
+          "price": 49,
+          "tags": [],
+          "attributes": [],
+          "quantity": 9999
+        }
+      ]
+    },
+    "S43707755105725069_S99747": {
+      "name": "Sauce Bone Rice (Binhong Plaza Branch)",
+      "store_id": "S43707755105725069_S99747",
+      "score": 4.8,
+      "location": {
+        "address": "Building DY, Unit 131A, Binhong Plaza, Houjie, Chengzhong Street, Wucheng District, Jinhua, Zhejiang Province",
+        "latitude": 29.102417,
+        "longitude": 119.655049
+      },
+      "tags": [],
+      "products": [
+        {
+          "name": "🇨🇳 Secret Recipe: Three Pieces of Sauce Bones with Chicken Feet and Braised Egg Rice",
+          "product_id": "S32701306894214139_P06364",
+          "store_id": "S43707755105725069_S99747",
+          "store_name": "Sauce Bone Rice (Binhong Plaza Branch)",
+          "price": 28.99,
+          "tags": [],
+          "attributes": [],
+          "quantity": 9999
+        }
+      ]
+    },
+    "S11852270082944515_S70711": {
+      "name": "Duoweibu Burger & Whole Chicken (Jinhua Branch)",
+      "store_id": "S11852270082944515_S70711",
+      "score": 4.9,
+      "location": {
+        "address": "Duoweibu, 56 Citangqian Road, Zhujitou Community, Wucheng District, Jinhua, Zhejiang Province",
+        "latitude": 29.069978,
+        "longitude": 119.616709
+      },
+      "tags": [],
+      "products": [
+        {
+          "name": "Duoweibu Burger & Whole Chicken (Jinhua Branch)",
+          "product_id": "S90197851331331936_P40736",
+          "store_id": "S11852270082944515_S70711",
+          "store_name": "Duoweibu Burger & Whole Chicken (Jinhua Branch)",
+          "price": 27.9,
+          "tags": [],
+          "attributes": [],
+          "quantity": 9999
+        }
+      ]
+    },
+    "S14215901671465920_S23438": {
+      "name": "Houfu Butter Mixed Rice (Jiangnan Master Branch)",
+      "store_id": "S14215901671465920_S23438",
+      "score": 4.9,
+      "location": {
+        "address": "Houfu Butter Mixed Rice (Jiangnan Master Branch), 50 meters west of East Gate 2, East Area of Yindu Garden, Wucheng District, Jinhua, Zhejiang Province",
+        "latitude": 29.072993,
+        "longitude": 119.652558
+      },
+      "tags": [],
+      "products": [
+        {
+          "name": "Vegetable Butter Mixed Rice [Healthy Green Version]",
+          "product_id": "S39412259359942558_P60066",
+          "store_id": "S14215901671465920_S23438",
+          "store_name": "Houfu Butter Mixed Rice (Jiangnan Master Branch)",
+          "price": 22.9,
+          "tags": [],
+          "attributes": [],
+          "quantity": 9999
+        }
+      ]
+    },
+    "S25701161633181449_S90525": {
+      "name": "Ajisen Ramen (Yiwu Wanda Branch)",
+      "store_id": "S25701161633181449_S90525",
+      "score": 4.7,
+      "location": {
+        "address": "Ajisen Ramen (Yiwu Second Branch), F3, Yiwu Wanda Plaza, 9 Xinke Road, Yiwu, Jinhua, Zhejiang Province",
+        "latitude": 29.277604,
+        "longitude": 120.044822
+      },
+      "tags": [],
+      "products": [
+        {
+          "name": "Ajisen Children's Set Meal C",
+          "product_id": "S16879490283517784_P36036",
+          "store_id": "S25701161633181449_S90525",
+          "store_name": "Ajisen Ramen (Yiwu Wanda Branch)",
+          "price": 39,
+          "tags": [],
+          "attributes": [],
+          "quantity": 9999
+        }
+      ]
+    }
+  },
+  "orders": {
+    "30711009O01": {
+      "order_id": "30711009O01",
+      "order_type": "delivery",
+      "user_id": "U000046",
+      "store_id": "S11783747910046861_S82990",
+      "note": "",
+      "location": {
+        "address": "Nanhu Garden, 15 Dongzhai Road, Wucheng District, Jinhua, Zhejiang Province",
+        "longitude": 119.646008,
+        "latitude": 29.072722
+      },
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 21.0,
+      "create_time": "2025-10-18 11:55:00",
+      "update_time": "2025-10-18 11:55:00",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S10167012764512840_P66561",
+          "price": 21.0,
+          "quantity": 1,
+          "attribute": ""
+        }
+      ]
+    }
+  }
+}

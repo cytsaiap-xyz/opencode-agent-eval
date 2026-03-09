@@ -1,0 +1,95 @@
+{
+  "required_orders": [
+    {
+      "order_id": "A0808004T01",
+      "order_type": "instore",
+      "user_id": "U036783",
+      "store_id": "S17550810471449910_I00010",
+      "note": "",
+      "location": {
+        "address": "Traditional Style Tea House, 158 Chaoyang Street, Zhifu District, Yantai, Shandong Province",
+        "longitude": 121.379623,
+        "latitude": 37.540923
+      },
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 576,
+      "create_time": "2024-05-18 10:31:18",
+      "update_time": "2024-05-18 10:31:18",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17550810471449910_P00058",
+          "name": "Traditional Tea Ceremony Performance Experience for One",
+          "price": 288,
+          "shop_id": "S17550810471449910_I00010",
+          "quantity": 2,
+          "tags": [
+            "Tea Art Performance",
+            "Cultural Experience",
+            "Package",
+            "3-4 Types of Famous Tea Tasting"
+          ]
+        }
+      ]
+    },
+    {
+      "book_id": "OI98ab55e38b",
+      "shop_id": "S17550810471449910_I00010",
+      "book_time": "2024-05-18 14:00:00",
+      "update_time": "2024-05-18 10:32:18",
+      "customer_id": "U036783",
+      "customer_count": 2,
+      "book_price": 60,
+      "status": "paid"
+    },
+    {
+      "order_id": "OT960844b251",
+      "order_type": "delivery",
+      "user_id": "U036783",
+      "store_id": "S17550810471449910_S00001",
+      "note": "",
+      "location": {
+        "address": "Room 1201, Building B, Hengji Garden near Hisense Plaza, 158 South Street, Zhifu District, Yantai, Shandong Province",
+        "longitude": 121.383926,
+        "latitude": 37.545421
+      },
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 498,
+      "create_time": "2024-10-27 10:33:18",
+      "update_time": "2024-10-27 10:33:18",
+      "status": "paid",
+      "products": [
+        {
+          "name": "Purple Clay Tea Set - Ink Rhythm",
+          "quantity": 1,
+          "store_id": "S17550810471449910_S00001",
+          "store_name": "Yayun Tea Set Specialty Store",
+          "price": 499,
+          "tags": [
+            "Purple Clay Tea Set",
+            "Exquisite Set",
+            "Traditional Craftsmanship",
+            "Ideal Gift"
+          ]
+        }
+      ]
+    }
+  ],
+  "rubrics": [
+    "The tea house ordered should have profound cultural heritage",
+    "The tea house ordered should provide on-site tea master performance services",
+    "The tea house ordered should provide various famous tea tasting services",
+    "The package ordered at the tea house should include in-depth tea culture experience",
+    "The per person budget for the tea house package should be around 200 yuan",
+    "The reservation time for the tea house should be May 19, 2024 at 14:00",
+    "The number of people for the reservation should be 2",
+    "The price of the tea set ordered should be around 500 yuan",
+    "The tea set ordered should be exquisite",
+    "The expected delivery time for the tea set order should be before May 18, 2024 at 11:00",
+    "The delivery address for the tea set order should be Room 1201, Building B, Hengji Garden near Hisense Plaza, 158 South Street, Zhifu District, Yantai, Shandong Province"
+  ]
+}

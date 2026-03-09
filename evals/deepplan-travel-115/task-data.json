@@ -1,0 +1,51 @@
+{
+  "task_id": "114",
+  "query": "I plan to travel from Hefei to \"Zhengzhou Shang Dynasty Ruins\" on November 12, 2025, and return on November 18th. Could you please help me plan the itinerary? For transportation, I'd like to take a train for the outbound journey, preferably departing between 4:00 PM and 8:00 PM, so I can have the morning free for packing and keep things relaxed. For the return trip, any time is fine—no need to be particular about the schedule.\n\nFor accommodation, I’d like to stay in a four-star hotel, mainly hoping for comfortable service and environment. By the way, we are three people and will need two rooms. Also, it would be great if the rooms have screen-mirroring functionality on the TV—I usually like to watch shows or movies at night.\n\nFor sightseeing, I’d like to focus on the must-see highlights. I heard that the recommended tools list highly-rated attractions; could you just pick the top three highest-rated ones and include them in the plan? I trust that popular spots won’t disappoint!\n\nOne small request: I remember there are quite a few restaurants near the \"Zhengzhou Shang Dynasty Ruins\". After visiting that area, I’d like to have a meal at a well-rated halal restaurant. Could you please recommend and include one with good ratings?\n\nThat’s basically all. I’ve provided all the information needed—please go ahead and prepare the full itinerary and budget plan for me without asking for further details! November 12, 2025 is Wednesday",
+  "meta_info": {
+    "org": "Hefei",
+    "dest": [
+      "Zhengzhou"
+    ],
+    "days": 7,
+    "depart_date": "2025-11-12",
+    "return_date": "2025-11-18",
+    "people_number": 3,
+    "room_number": 2
+  },
+  "hard_constraints": {
+    "train_departure_time_range": {
+      "constraint_context": "The departure train must leave between 4:00 PM and 8:00 PM",
+      "outbound_train_no": "G3128"
+    },
+    "hotel_star_service_required": {
+      "constraint_context": "For accommodation, please select a 4-star hotel that provides TVs with screen mirroring capability",
+      "constraint_type": "superlative_star_service_required",
+      "hotel_name": "Xinmi Huangdigong Imperial Hot Spring Resort Hotel",
+      "required_service": "TV Casting",
+      "hotel_star": 4,
+      "hotel_price": 616.0
+    },
+    "attraction_top_rated_must_visit": {
+      "constraint_context": "The itinerary must include the top three highest-rated attractions recommended by the attraction recommendation tool.",
+      "constraint_type": "superlative_top_rated_must_visit",
+      "attraction_names": [
+        "Erqi Square",
+        "Henan Museum",
+        "Ruyi Lake Scenic Area"
+      ],
+      "attraction_ratings": [
+        4.9,
+        4.9,
+        4.8
+      ]
+    },
+    "restaurant_specific_cuisine_nearby": {
+      "constraint_context": "During the trip, please arrange a meal at a restaurant near 'Zhengzhou Shang Dynasty Ruins', serving cuisine from a halal restaurant.",
+      "constraint_type": "superlative_specific_cuisine_nearby",
+      "attraction_name": "Zhengzhou Shang Dynasty Ruins",
+      "restaurant_name": "Heji (Old Street Snack Street Branch)",
+      "price_per_person": 100.0,
+      "restaurant_rating": 4.4
+    }
+  }
+}

@@ -1,0 +1,96 @@
+{
+  "required_orders": [
+    {
+      "order_id": "70812005T001",
+      "order_type": "train",
+      "user_id": "U971394",
+      "store_id": "S17557505486313958_T00011",
+      "note": "",
+      "location": null,
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 148,
+      "create_time": "2023-09-16 22:55:13",
+      "update_time": "2023-09-16 22:55:13",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17557505486313958_P00076",
+          "price": 148,
+          "quantity": 1,
+          "date": "2023-09-26",
+          "seat_type": "Second class seat"
+        }
+      ]
+    },
+    {
+      "order_id": "70812005T002",
+      "order_type": "train",
+      "user_id": "U971394",
+      "store_id": "S17557505486313958_T00013",
+      "note": "",
+      "location": null,
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 89,
+      "create_time": "2023-09-16 22:57:13",
+      "update_time": "2023-09-16 22:57:13",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17557505486313958_P00093",
+          "price": 89,
+          "quantity": 1,
+          "date": "2023-09-28",
+          "seat_type": "Second class seat"
+        }
+      ]
+    },
+    {
+      "order_id": "70812005T003",
+      "order_type": "hotel",
+      "user_id": "U971394",
+      "store_id": "S17557505486313958_H00002",
+      "note": "",
+      "location": null,
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 656,
+      "create_time": "2023-09-16 22:59:13",
+      "update_time": "2023-09-16 22:59:13",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17557505486313958_P00015",
+          "price": 328,
+          "quantity": 1,
+          "date": "2023-09-26",
+          "room_type": "Standard king room"
+        },
+        {
+          "product_id": "S17557505486313958_P00016",
+          "price": 328,
+          "quantity": 1,
+          "date": "2023-09-27",
+          "room_type": "Standard king room"
+        }
+      ]
+    }
+  ],
+  "rubrics": [
+    "The 2023 Mid-Autumn Festival is on September 29, and the user needs to return the day before the Mid-Autumn Festival, with the return date being September 28, 2023. Therefore, the departure train ticket date is September 26, 2023",
+    "The outbound train ticket should be from Xiamen to Chaoshan",
+    "The outbound train departure time should be relatively early (D2286)",
+    "The user needs 1.5 hours to get from the station to school, and the dormitory building closes at 23:00, so the return train arrival time should be before 21:30 on September 28, 2023",
+    "The return train ticket should be from Chaoshan to Xiamen",
+    "The hotel should be within 1km of Paifang Street",
+    "The booked hotel should be a chain hotel",
+    "The opening or renovation date of the booked hotel should be between September 2021 and September 2023",
+    "Based on price, the booked hotel should be the Hanting Hotel Chaozhou Ancient City Branch",
+    "The hotel booking should include two nights, on September 26, 2023, and September 27, 2023",
+    "The booked hotel is Hanting Hotel Chaozhou Ancient City Branch, with a hospital (Chaozhou People's Hospital) about 3 kilometers away"
+  ]
+}

@@ -1,0 +1,111 @@
+{
+  "task_id": "D0805001",
+  "domain": "ota",
+  "time": "2025-05-24 09:42:55",
+  "user_id": "U010003",
+  "weather": [
+    {
+      "city": "Chengdu",
+      "category": "cloudy",
+      "datetime": "2025-05-24",
+      "temperature": [
+        18,
+        26
+      ],
+      "humidity": 65
+    },
+    {
+      "city": "Zigong",
+      "category": "sunny",
+      "datetime": "2025-05-24",
+      "temperature": [
+        20,
+        28
+      ],
+      "humidity": 58
+    }
+  ],
+  "location": [
+    {
+      "address": "South Garden Zone B, 56 Jinyue West Road, Wuhou District, Chengdu, Sichuan Province",
+      "longitude": 104.043915,
+      "latitude": 30.641002
+    },
+    {
+      "address": "IFS Tower 1, L1 Floor, 1 Section 3 Hongxing Road, Jinjiang District, Chengdu, Sichuan Province",
+      "longitude": 104.080745,
+      "latitude": 30.657739
+    }
+  ],
+  "user_profile": {
+    "user id": "U010003",
+    "occupation": "Sales",
+    "gender": "female",
+    "age group": "25~30",
+    "residence": "Chengdu",
+    "home address": "South Garden Zone B, 56 Jinyue West Road, Wuhou District, Chengdu, Sichuan Province",
+    "work address": "IFS Tower 1, L1 Floor, 1 Section 3 Hongxing Road, Jinjiang District, Chengdu, Sichuan Province",
+    "dietary restrictions": "Avoids greasy and spicy food, avoids caffeine",
+    "family status": "Has children",
+    "personality": "Cold and concise expression, lacks emotional communication and patience"
+  },
+  "user_historical_behaviors": {
+    "user id": "U010003",
+    "occupation": "Sales",
+    "gender": "female",
+    "age group": "25~30",
+    "residence": "Chengdu",
+    "home address": "South Garden Zone B, 56 Jinyue West Road, Wuhou District, Chengdu, Sichuan Province",
+    "work address": "IFS Tower 1, L1 Floor, 1 Section 3 Hongxing Road, Jinjiang District, Chengdu, Sichuan Province",
+    "visited scenes": {
+      "Theme Parks": "35%",
+      "Natural Landscapes (Mountains/Lakes/Forests)": "25%",
+      "Cultural Heritage Sites": "15%",
+      "Hot Springs": "10%",
+      "Parks": "10%",
+      "Exhibition Halls (Museums/Art Galleries)": "5%"
+    },
+    "cost per night on hotel": "500~1000 yuan",
+    "visited hotels": {
+      "Atour": "30%",
+      "JI Hotel": "25%",
+      "Vienna": "20%",
+      "Home Inn": "15%",
+      "Huazhu": "10%"
+    },
+    "browsed hotels": {
+      "Comfort Hotels": "55%",
+      "Four-star Hotels": "25%",
+      "Budget Hotels": "15%",
+      "Three-star Hotels": "5%"
+    },
+    "historical travel plans": {
+      "Chengdu-Chongqing": {
+        "Price Range": "200-350 yuan",
+        "Transportation Method": "high-speed rail"
+      },
+      "Chengdu-Beijing": {
+        "Price Range": "800-1500 yuan",
+        "Transportation Method": "Airplane"
+      },
+      "Chengdu-Sanya": {
+        "Price Range": "1000-2000 yuan",
+        "Transportation Method": "Airplane"
+      },
+      "Chengdu-Xi'an": {
+        "Price Range": "300-500 yuan",
+        "Transportation Method": "high-speed rail"
+      },
+      "Chengdu-Jiuzhaigou": {
+        "Price Range": "400-600 yuan",
+        "Transportation Method": "Long-distance Bus"
+      },
+      "Chengdu-Leshan": {
+        "Price Range": "100-200 yuan",
+        "Transportation Method": "Self-driving"
+      }
+    }
+  },
+  "stores": {},
+  "orders": {}
+}

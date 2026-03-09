@@ -1,0 +1,204 @@
+{
+  "task_id": "10826073",
+  "domain": "instore",
+  "time": "2024-10-22 15:30:00",
+  "user_id": "U839973",
+  "weather": [
+    {
+      "city": "Shanghai",
+      "category": "cloudy",
+      "datetime": "2024-10-22",
+      "temperature": [
+        17,
+        24
+      ],
+      "humidity": 58
+    },
+    {
+      "city": "Shanghai",
+      "category": "sunny",
+      "datetime": "2024-10-26",
+      "temperature": [
+        16,
+        25
+      ],
+      "humidity": 45
+    },
+    {
+      "city": "Shanghai",
+      "category": "sunny",
+      "datetime": "2024-10-27",
+      "temperature": [
+        17,
+        26
+      ],
+      "humidity": 42
+    }
+  ],
+  "location": [
+    {
+      "address": "Room 601, No. 2 Boyun Road, Zhangjiang Hi-Tech Park, Pudong New District, Shanghai",
+      "longitude": 121.607246,
+      "latitude": 31.203719
+    },
+    {
+      "address": "Binjiang Building Parking Lot, 99 East Nanjing Road, Huangpu District, Shanghai",
+      "longitude": 121.484412,
+      "latitude": 31.243618
+    }
+  ],
+  "user_profile": {
+    "user id": "U839973",
+    "occupation": "Driver",
+    "gender": "male",
+    "age group": "35~40",
+    "residence": "Shanghai",
+    "home address": "Room 601, No. 2 Boyun Road, Zhangjiang Hi-Tech Park, Pudong New District, Shanghai",
+    "work address": "Binjiang Building Parking Lot, 99 East Nanjing Road, Huangpu District, Shanghai",
+    "dietary restrictions": "No alcohol",
+    "family status": "Has children",
+    "personality": "Emotionally volatile, expresses with strong emotional overtones"
+  },
+  "user_historical_behaviors": {
+    "user id": "U839973",
+    "occupation": "Driver",
+    "gender": "male",
+    "age group": "35~40",
+    "residence": "Shanghai",
+    "home address": "Room 601, No. 2 Boyun Road, Zhangjiang Hi-Tech Park, Pudong New District, Shanghai",
+    "work address": "Binjiang Building Parking Lot, 99 East Nanjing Road, Huangpu District, Shanghai",
+    "in-store dining": {
+      "fine-dining": {
+        "frequently purchased categories": [
+          "Regional Cuisine/Fish Seafood (Average 130 yuan)",
+          "Regional Cuisine/Sichuan Cuisine (Average 95 yuan)",
+          "Regional Cuisine/Northeastern Cuisine (Average 110 yuan)"
+        ],
+        "preferred average price per person": "90~330 yuan",
+        "preferred store rating": "4.0~5.0 stars",
+        "typical dining time": "11:00-21:00",
+        "preferred distance": "1000~10000m",
+        "recent orders": [
+          {
+            "store": "Old Fisherman's Grilled Fish",
+            "product": "Signature Spicy Grilled Fish + Tea"
+          },
+          {
+            "store": "Sichuan Western Dam",
+            "product": "Spicy Blood Curd + Twice-Cooked Pork + Fish Fillets in Chili Soup"
+          },
+          {
+            "store": "Northeastern Family",
+            "product": "Iron Pot Stewed Fish + Sweet and Sour Pork + Cold Noodles"
+          }
+        ],
+        "search history": [
+          "Purine-free dishes",
+          "Family Dinner",
+          "Non-Alcoholic Options",
+          "Child-Friendly restaurants"
+        ]
+      },
+      "light meal": {
+        "frequently purchased categories": [
+          "Snacks/Fast Food/Chinese Quick Meals (Average 35 yuan)",
+          "Snacks/Fast Food/Western Fast Food (Average 30 yuan)",
+          "Regional Cuisine/Shanghai and Jiangsu-Zhejiang Cuisine (Average 45 yuan)"
+        ],
+        "preferred average price per person": "25~45 yuan",
+        "preferred store rating": "3.5~4.2 stars",
+        "typical dining time": "11:30-13:00",
+        "preferred distance": "0~500m",
+        "recent orders": [
+          {
+            "store": "Old Mother Jiu Fast Food",
+            "product": "Braised Pork Rice Bowl + Tomato Egg Soup"
+          },
+          {
+            "store": "KFC",
+            "product": "Original Chicken Burger + French Fries + Coke"
+          },
+          {
+            "store": "Sha County Snacks",
+            "product": "Three Delicacies Soup Noodles + Steamed Dumplings"
+          }
+        ],
+        "search history": [
+          "Weekday lunch",
+          "Fast food",
+          "Boxed meals",
+          "Restaurants near parking lot"
+        ]
+      },
+      "desserts/drinks/snacks": {
+        "frequently purchased categories": [
+          "Beverage Shops (Average 18 yuan)",
+          "Bread and Pastries (Average 25 yuan)",
+          "Other Food/Fresh Fruits (Average 15 yuan)"
+        ],
+        "preferred average price per person": "15~25 yuan",
+        "preferred store rating": "3.8~4.5 stars",
+        "typical dining time": "15:00-16:30",
+        "preferred distance": "0~300m",
+        "recent orders": [
+          {
+            "store": "HEYTEA",
+            "product": "Grape Pulp Tea (Sugar-free)"
+          },
+          {
+            "store": "85°C",
+            "product": "Tiramisu + Americano"
+          },
+          {
+            "store": "Fresh Fruit Station",
+            "product": "Fruit Platter"
+          }
+        ],
+        "search history": [
+          "Low-sugar drinks",
+          "Healthy fruits",
+          "Afternoon tea",
+          "Coffee"
+        ]
+      }
+    },
+    "other in-store services": {
+      "frequently consumed categories": {
+        "Sports Fitness/Ball Sports": "45%",
+        "Leisure Entertainment/Massage/Foot Therapy": "30%",
+        "Parent-Child/Family Entertainment": "25%"
+      },
+      "cost per order by category": {
+        "Sports Fitness/Ball Sports": "60~120 yuan",
+        "Leisure Entertainment/Massage/Foot Therapy": "120~200 yuan",
+        "Parent-Child/Family Entertainment": "150~300 yuan"
+      },
+      "preferred store rating": "4.0~5.0 stars",
+      "preferred service time": "18:00-21:00",
+      "preferred distance": "500~10000m",
+      "recent orders": [
+        {
+          "store": "Star Power Badminton Court",
+          "product": "Double Court for 2 hours"
+        },
+        {
+          "store": "Foot Blessing Hall",
+          "product": "Full Body Massage 90 minutes"
+        },
+        {
+          "store": "Fascinating Playground",
+          "product": "Family Package (One Adult and One Child)"
+        }
+      ],
+      "search history": [
+        "Weekend Family Activities",
+        "Badminton courts",
+        "Massage",
+        "Lumbar massage",
+        "Children's entertainment"
+      ]
+    }
+  },
+  "stores": {},
+  "orders": {}
+}

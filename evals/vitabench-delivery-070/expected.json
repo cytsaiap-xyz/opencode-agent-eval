@@ -1,0 +1,50 @@
+{
+  "required_orders": [
+    {
+      "order_id": "E0717002T01",
+      "order_type": "delivery",
+      "user_id": "U000006",
+      "store_id": "S14548244109695231_S21998",
+      "note": "",
+      "location": {
+        "address": "No.1-1 Nanyuan New Village, Qianjin Road, Haizhu District, Guangzhou, Guangdong Province (Near Wanfeng Garden), Haizhu District Traditional Chinese Medicine Hospital",
+        "longitude": 113.275276,
+        "latitude": 23.101274
+      },
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 41.59,
+      "create_time": "2025-06-12 10:17:00",
+      "update_time": "2025-06-12 10:17:00",
+      "status": "processed",
+      "products": [
+        {
+          "product_id": "S29868429459190442_P12525",
+          "price": 32.8,
+          "quantity": 1,
+          "attributes": ""
+        },
+        {
+          "product_id": "S23180414711515603_P47194",
+          "price": 6.8,
+          "quantity": 1,
+          "attributes": ""
+        },
+        {
+          "product_id": "S33104164931719383_P20825",
+          "price": 1.99,
+          "quantity": 1,
+          "attributes": ""
+        }
+      ]
+    }
+  ],
+  "rubrics": [
+    "The delivery address for the doctor's meal during work hours should be No.1-1 Nanyuan New Village, Qianjin Road, Haizhu District, Guangzhou, Guangdong Province (Near Wanfeng Garden), Haizhu District Traditional Chinese Medicine Hospital",
+    "The delivery time for the doctor's meal during work hours should be around 2025-06-12 12:00:00, ensuring meal completion before acupuncture treatment",
+    "The restaurant rating for the doctor's meal order during work hours should be greater than or equal to 4.3",
+    "The chicken soup in the order should be pure coconut-based, containing no other main ingredients besides coconut and chicken",
+    "The total number of items in the doctor's meal order during work hours should be 3, including chicken soup, rice, and steamed broccoli"
+  ]
+}

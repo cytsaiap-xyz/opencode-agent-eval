@@ -1,0 +1,99 @@
+{
+  "required_orders": [
+    {
+      "order_id": "D0808011T001",
+      "order_type": "attraction",
+      "user_id": "U010046",
+      "store_id": "S17557515241963642_A00005",
+      "note": "",
+      "location": null,
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 280,
+      "create_time": "2025-07-11 13:42:00",
+      "update_time": "2025-07-11 13:42:00",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17557515241963642_P00026",
+          "price": 60,
+          "quantity": 2,
+          "date": "2025-07-15",
+          "ticket_type": "Student Ticket"
+        },
+        {
+          "product_id": "S17557515241963642_P00027",
+          "price": 80,
+          "quantity": 2,
+          "date": "2025-07-15",
+          "ticket_type": "Rock Climbing Experience Ticket (Entrance Fee Not Included)"
+        }
+      ]
+    },
+    {
+      "order_id": "D0808011T002",
+      "order_type": "train",
+      "user_id": "U010046",
+      "store_id": "S17557515241963642_T00011",
+      "note": "",
+      "location": null,
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 1106,
+      "create_time": "2025-07-11 13:44:50",
+      "update_time": "2025-07-11 13:44:50",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17557515241963642_P00067",
+          "price": 553,
+          "quantity": 2,
+          "date": "2025-07-14",
+          "seat_type": "Second Class Seat"
+        }
+      ]
+    },
+    {
+      "order_id": "D0808011T003",
+      "order_type": "hotel",
+      "user_id": "U010046",
+      "store_id": "S17557515241963642_H00004",
+      "note": "",
+      "location": null,
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 420,
+      "create_time": "2025-07-11 13:47:15",
+      "update_time": "2025-07-11 13:47:15",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17557515241963642_P00018",
+          "price": 420,
+          "quantity": 1,
+          "date": "2025-07-14",
+          "room_type": "Mountain View King Room"
+        }
+      ]
+    }
+  ],
+  "rubrics": [
+    "The scenic spot to be booked should be Yuntai Mountain Scenic Area",
+    "Need to check the earliest entry time for Yuntai Mountain Scenic Area, which is 06:30",
+    "Need to check the ticket price information for Yuntai Mountain Scenic Area, which is Student Ticket 60 yuan each (half-price discount)",
+    "The date in the scenic spot order should be 2025-07-15",
+    "Need to check the weather conditions for Jiaozuo Yuntai Mountain Scenic Area on July 15, 2025, which shows a maximum temperature of 28 degrees, not exceeding 30 degrees, so the scenic spot order should include two Student Tickets and two rock climbing tickets",
+    "Need to calculate the distance between Yuntai Mountain Scenic Area, Yuntai Mountain Town, Xiuwu County, Jiaozuo, Henan Province and Zhengzhou Railway Station, Erqi District, Zhengzhou, Henan Province; Luoyang Longmen Railway Station, Luolong District, Luoyang, Henan Province; and Jiaozuo Railway Station, Jiefang District, Jiaozuo, Henan Province, and compare which railway station is closest to Yuntai Mountain Scenic Area. The result is Jiaozuo Railway Station (distance 25.58km), so the destination in the train ticket order should be Jiaozuo Railway Station",
+    "The date in the train ticket order should be 2025-07-14",
+    "The quantity in the train ticket order should be 2",
+    "The seat type in the train ticket order should be Second Class Seat",
+    "The hotel to be booked should be within 3 kilometers of Yuntai Mountain Scenic Area, Yuntai Mountain Town, Xiuwu County, Jiaozuo, Henan Province",
+    "The room type in the hotel order should be a scenic view room",
+    "The room type in the hotel order should be a king room",
+    "The date in the hotel order should be 2025-07-14",
+    "The price in the hotel order should be less than or equal to 500"
+  ]
+}

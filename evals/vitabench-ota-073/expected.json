@@ -1,0 +1,188 @@
+{
+  "required_orders": [
+    {
+      "order_id": "D0807008T001",
+      "order_type": "flight",
+      "user_id": "U010044",
+      "store_id": "S17557512531967139_F00010",
+      "note": "",
+      "location": null,
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 3840,
+      "create_time": "2024-12-23 08:39:17",
+      "update_time": "2024-12-23 08:39:17",
+      "status": "unpaid",
+      "products": [
+        {
+          "product_id": "S17557512531967139_P00091",
+          "price": 1280,
+          "quantity": 3,
+          "date": "2024-12-30",
+          "seat_type": "Economy Class"
+        }
+      ]
+    },
+    {
+      "order_id": "D0807008T002",
+      "order_type": "flight",
+      "user_id": "U010044",
+      "store_id": "S17557512531967139_F00011",
+      "note": "",
+      "location": null,
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 3540,
+      "create_time": "2024-12-23 08:42:00",
+      "update_time": "2024-12-23 08:42:00",
+      "status": "unpaid",
+      "products": [
+        {
+          "product_id": "S17557512531967139_P00103",
+          "price": 1180,
+          "quantity": 3,
+          "date": "2025-01-02",
+          "seat_type": "Economy Class"
+        }
+      ]
+    },
+    {
+      "order_id": "D0807008T003",
+      "order_type": "hotel",
+      "user_id": "U010044",
+      "store_id": "S17557512531967139_H00001",
+      "note": "",
+      "location": null,
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 850,
+      "create_time": "2024-12-23 08:46:41",
+      "update_time": "2024-12-23 08:46:41",
+      "status": "unpaid",
+      "products": [
+        {
+          "product_id": "S17557512531967139_P00001",
+          "price": 850,
+          "quantity": 1,
+          "date": "2024-12-30",
+          "room_type": "Deluxe Twin Room"
+        }
+      ]
+    },
+    {
+      "order_id": "D0807008T004",
+      "order_type": "hotel",
+      "user_id": "U010044",
+      "store_id": "S17557512531967139_H00002",
+      "note": "",
+      "location": null,
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 1200,
+      "create_time": "2024-12-23 08:47:04",
+      "update_time": "2024-12-23 08:47:04",
+      "status": "unpaid",
+      "products": [
+        {
+          "product_id": "S17557512531967139_P00017",
+          "price": 580,
+          "quantity": 1,
+          "date": "2024-12-31",
+          "room_type": "Traditional Twin Room"
+        },
+        {
+          "product_id": "S17557512531967139_P00018",
+          "price": 620,
+          "quantity": 1,
+          "date": "2025-01-01",
+          "room_type": "Traditional Twin Room"
+        }
+      ]
+    },
+    {
+      "order_id": "D0807008T005",
+      "order_type": "attraction",
+      "user_id": "U010044",
+      "store_id": "S17557512531967139_A00006",
+      "note": "",
+      "location": null,
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 23,
+      "create_time": "2024-12-23 08:54:18",
+      "update_time": "2024-12-23 08:54:18",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17557512531967139_P00065",
+          "price": 15,
+          "quantity": 1,
+          "date": "2024-12-31",
+          "ticket_type": "Adult Ticket"
+        },
+        {
+          "product_id": "S17557512531967139_P00064",
+          "price": 8,
+          "quantity": 1,
+          "date": "2024-12-31",
+          "ticket_type": "Child Ticket"
+        }
+      ]
+    },
+    {
+      "order_id": "D0807008T006",
+      "order_type": "attraction",
+      "user_id": "U010044",
+      "store_id": "S17557512531967139_A00005",
+      "note": "",
+      "location": null,
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 18,
+      "create_time": "2024-12-23 08:56:25",
+      "update_time": "2024-12-23 08:56:25",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17557512531967139_P00051",
+          "price": 18,
+          "quantity": 1,
+          "date": "2025-01-01",
+          "ticket_type": "Family Package (2 Adults + 1 Child)"
+        }
+      ]
+    }
+  ],
+  "rubrics": [
+    "Compare different dates for round-trip flights between Shanghai and Ho Chi Minh City and choose the cheapest option, while ensuring a 4-day stay in Ho Chi Minh City. Calculations show that the departure flight date should be 2024-12-30",
+    "The departure flight should be Economy Class",
+    "The number of departure flight tickets to purchase is 3",
+    "The departure flight is from Shanghai to Ho Chi Minh City",
+    "Compare different dates for round-trip flights between Shanghai and Ho Chi Minh City and choose the cheapest option, while ensuring a 4-day stay in Ho Chi Minh City. Calculations show that the return flight date should be 2025-01-02",
+    "The return flight should be Economy Class",
+    "The number of return flight tickets to purchase is 3",
+    "The return flight is from Ho Chi Minh City to Shanghai",
+    "The hotel for the first night should be five-star",
+    "The hotel for the first night should include spa services",
+    "The hotel booking for the first night should be for December 30, 2024",
+    "The room type for the first night hotel booking should be a Twin Room",
+    "The nightly rate for the first night hotel room should not exceed 1000 yuan",
+    "The hotel for the next two nights should have Local Features",
+    "The hotel bookings for the next two nights should be for December 31, 2024 and January 01, 2025",
+    "The room type for the next two nights hotel booking should be a Twin Room",
+    "The nightly rate for the next two nights hotel room should not exceed 1000 yuan",
+    "The Independence Palace attraction booking date should be December 31, 2024",
+    "The Independence Palace attraction booking should include Adult Ticket",
+    "The number of Adult Tickets for the Independence Palace attraction should be 1",
+    "The Independence Palace attraction booking should include Child Ticket",
+    "The number of Child Tickets for the Independence Palace attraction should be 1",
+    "The Ho Chi Minh Fine Arts Museum booking date should be January 01, 2025",
+    "The tickets purchased for the Ho Chi Minh Fine Arts Museum should be Family Package (2 Adults + 1 Child)"
+  ]
+}

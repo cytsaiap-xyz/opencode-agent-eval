@@ -1,0 +1,999 @@
+{
+  "task_id": "10811001",
+  "domain": "cross_domain",
+  "time": "2025-06-22 13:14:22",
+  "user_id": "U855836",
+  "weather": [
+    {
+      "city": "Shanghai",
+      "category": "cloudy",
+      "datetime": "2025-06-22",
+      "temperature": [
+        24,
+        31
+      ],
+      "humidity": 68
+    },
+    {
+      "city": "Shanghai",
+      "category": "light rain",
+      "datetime": "2025-06-28",
+      "temperature": [
+        25,
+        32
+      ],
+      "humidity": 85
+    },
+    {
+      "city": "Shanghai",
+      "category": "sunny",
+      "datetime": "2025-06-29",
+      "temperature": [
+        26,
+        33
+      ],
+      "humidity": 63
+    }
+  ],
+  "location": [
+    {
+      "address": "Room 1204, Building B2, No. 700 Yishan Road, Xuhui District, Shanghai",
+      "longitude": 121.422,
+      "latitude": 31.176
+    },
+    {
+      "address": "No. 49 Zhongshan East 1st Road, The Bund, Huangpu District, Shanghai",
+      "longitude": 121.492127,
+      "latitude": 31.233516
+    }
+  ],
+  "user_profile": {
+    "user id": "U855836",
+    "occupation": "Teacher",
+    "gender": "female",
+    "age group": "35~40",
+    "residence": "Shanghai",
+    "home address": "Room 1204, Building B2, No. 700 Yishan Road, Xuhui District, Shanghai",
+    "work address": "No. 1954 Huashan Road, Xuhui District, Shanghai Jiao Tong University Xuhui Campus, Shanghai",
+    "dietary restrictions": "Avoids heavy oil spicy food, avoids caffeine",
+    "family status": "Has children",
+    "personality": "Expresses coldly and concisely, lacks emotional communication and patience"
+  },
+  "user_historical_behaviors": {
+    "user id": "U855836",
+    "occupation": "teacher",
+    "gender": "female",
+    "age group": "35~40",
+    "residence": "Shanghai",
+    "home address": "Room 1204, Building B2, No. 700 Yishan Road, Xuhui District, Shanghai",
+    "work address": "No. 1954 Huashan Road, Shanghai Jiao Tong University Xuhui Campus, Shanghai",
+    "delivery": {
+      "food delivery": {
+        "breakfast": {
+          "frequently purchased categories": [
+            "Quick Meals/Steamed Buns/Pan-fried Buns (Average 22 Yuan)",
+            "Quick Meals/Light Food (Average 28 Yuan)",
+            "Quick Meals/Salad (Average 32 Yuan)"
+          ],
+          "cost per order": "15~35 Yuan",
+          "preferred store rating": "4.3~4.8",
+          "preferred delivery time": "15~25 minutes",
+          "preferred distance": "0~1500m",
+          "recent orders": [
+            {
+              "store": "Wu's Pan-fried Buns",
+              "product": "Pork Pan-fried Buns + Soy Milk"
+            },
+            {
+              "store": "Light Food Select",
+              "product": "Whole Wheat Sandwich + Yogurt"
+            },
+            {
+              "store": "Fresh Vegetable Salad",
+              "product": "Fruit Salad Bowl + Low-fat Yogurt"
+            }
+          ],
+          "search history": [
+            "Low-fat breakfast",
+            "Whole wheat bread",
+            "Yogurt",
+            "Pan-fried buns",
+            "Stomach-friendly breakfast"
+          ]
+        },
+        "weekday lunch/dinner": {
+          "frequently purchased categories": [
+            "Quick Meals/Healthy Meals (Average 42 Yuan)",
+            "Quick Meals/Small Portion Dishes (Average 35 Yuan)",
+            "Chinese Cuisine/Cantonese Cuisine (Average 60 Yuan)"
+          ],
+          "cost per order": "30~65 Yuan",
+          "preferred store rating": "4.2~4.7",
+          "preferred delivery time": "20~35 minutes",
+          "preferred distance": "0~2500m",
+          "recent orders": [
+            {
+              "store": "Balanced Diet",
+              "product": "Chicken Breast Quinoa Rice + Seasonal Vegetables"
+            },
+            {
+              "store": "Small Veggie Garden",
+              "product": "Steamed Sea Bass + Vegetables + Rice"
+            },
+            {
+              "store": "Cantonese Pavilion",
+              "product": "White Cut Chicken + Stir-fried Seasonal Vegetables + Rice"
+            }
+          ],
+          "search history": [
+            "Low Oil",
+            "Light lunch",
+            "Healthy meal",
+            "Cantonese Cuisine",
+            "Small portion dishes"
+          ]
+        },
+        "weekend lunch/dinner": {
+          "frequently purchased categories": [
+            "Chinese Cuisine/Cantonese Cuisine (Average 85 Yuan)",
+            "Foreign Cuisine/Pasta (Average 75 Yuan)",
+            "Chinese Cuisine/Stew Pot (Average 110 Yuan)"
+          ],
+          "cost per order": "70~150 Yuan",
+          "preferred store rating": "4.5~4.9",
+          "preferred delivery time": "30~45 minutes",
+          "preferred distance": "0~3500m",
+          "recent orders": [
+            {
+              "store": "Guangzhou Restaurant",
+              "product": "Family Set (Shrimp Dumplings + Rice Noodle Rolls + Char Siu Buns)"
+            },
+            {
+              "store": "Italian Flavor House",
+              "product": "Tomato Seafood Pasta + Salad + Bread"
+            },
+            {
+              "store": "Xinpin Stew Pot",
+              "product": "Set for Three (Chicken Stew Pot + Vegetable Platter + Staple Food)"
+            }
+          ],
+          "search history": [
+            "Family-friendly restaurant",
+            "Family set meal",
+            "Kids' meal",
+            "Healthy stew pot",
+            "Cantonese dim sum"
+          ]
+        },
+        "desserts/drinks/snacks": {
+          "frequently purchased categories": [
+            "Drinks & Desserts/Juice (Average 25 Yuan)",
+            "Drinks & Desserts/Pure Tea/Herbal Tea (Average 22 Yuan)",
+            "Drinks & Desserts/Chinese Pastries (Average 30 Yuan)"
+          ],
+          "cost per order": "15~40 Yuan",
+          "preferred store rating": "4.4~4.8",
+          "preferred delivery time": "15~30 minutes",
+          "preferred distance": "0~2000m",
+          "recent orders": [
+            {
+              "store": "Fresh Juice Garden",
+              "product": "Freshly Squeezed Orange Juice + Fruit Platter"
+            },
+            {
+              "store": "Tea Fragrance",
+              "product": "Chrysanthemum Tea + Jasmine Tea"
+            },
+            {
+              "store": "Traditional Pastry Shop",
+              "product": "Osmanthus Cake + Mung Bean Cake"
+            }
+          ],
+          "search history": [
+            "Sugar-free drinks",
+            "Freshly squeezed juice",
+            "Flower tea",
+            "Traditional pastries",
+            "Afternoon tea"
+          ]
+        },
+        "night snack": {
+          "frequently purchased categories": [
+            "Quick Meals/Rice Noodles (Average 32 Yuan)",
+            "Quick Meals/Casserole (Average 45 Yuan)"
+          ],
+          "cost per order": "25~50 Yuan",
+          "preferred store rating": "4.0~4.6",
+          "preferred delivery time": "20~35 minutes",
+          "preferred distance": "0~2500m",
+          "recent orders": [
+            {
+              "store": "Yunnan Rice Noodles",
+              "product": "Clear Soup Rice Noodles + Braised Egg"
+            },
+            {
+              "store": "Warm Heart Casserole",
+              "product": "Stomach-friendly Casserole Porridge"
+            },
+            {
+              "store": "Night Light Food",
+              "product": "Vegetable Soup Noodles + Braised Egg"
+            }
+          ],
+          "search history": [
+            "Stomach-friendly night snack",
+            "Casserole porridge",
+            "Light rice noodles",
+            "Not greasy"
+          ]
+        }
+      },
+      "product delivery": {
+        "frequently purchased categories": [
+          "Vegetables/Bean Products (30%)",
+          "Fruits (25%)",
+          "Household Items (15%)",
+          "Grains, Oil, Seasonings & Dry Goods (12%)",
+          "Flowers & Gardening (10%)",
+          "Others (8%)"
+        ],
+        "frequently visited stores": [
+          "Hema Fresh (35%)",
+          "Dingdong Grocery (30%)",
+          "Ole Premium Supermarket (20%)",
+          "Other stores (15%)"
+        ],
+        "cost per order by category": {
+          "Vegetables/Bean Products": "5~20 Yuan",
+          "Fruits": "10~40 Yuan",
+          "Household Items": "15~60 Yuan",
+          "Grains, Oil, Seasonings & Dry Goods": "10~30 Yuan",
+          "Flowers & Gardening": "50~150 Yuan"
+        },
+        "preferred delivery time": "30~60 minutes",
+        "typical order time": "17~19 (40%), 9~11 (30%), 13~15 (20%)",
+        "recent orders": [
+          {
+            "store": "Hema Fresh",
+            "product": "Organic Vegetable Set"
+          },
+          {
+            "store": "Ole Premium Supermarket",
+            "product": "Imported Low-sodium Salt"
+          },
+          {
+            "store": "Dingdong Grocery",
+            "product": "Fresh Fruit Gift Box"
+          }
+        ],
+        "search history": [
+          "Organic vegetables",
+          "Low-sodium salt",
+          "Indoor plants",
+          "Children's snacks",
+          "Sugar-free food"
+        ]
+      }
+    },
+    "in-store consumption": {
+      "in-store dining": {
+        "fine-dining": {
+          "frequently purchased categories": [
+            "Regional Cuisine/Shanghai and Jiangsu-Zhejiang Cuisine (Average 120 Yuan)",
+            "Foreign Cuisine/Japanese Cuisine (Average 150 Yuan)",
+            "Regional Cuisine/Cantonese Cuisine (Average 135 Yuan)"
+          ],
+          "preferred average price per person": "100~150 Yuan",
+          "preferred store rating": "4.2~4.8 stars",
+          "typical dining time": "18:30-20:30",
+          "preferred distance": "500~3000m",
+          "recent orders": [
+            {
+              "store": "Song He Lou (Nanjing East Road)",
+              "product": "Shanghai-style Braised Pork, Stir-fried Seasonal Vegetables"
+            },
+            {
+              "store": "Sushi Master (Xuhui)",
+              "product": "Exquisite Sushi Platter, Chawanmushi"
+            },
+            {
+              "store": "Lao Zheng Xing Restaurant",
+              "product": "Braised Pork Trotter, Eight Treasure Rice"
+            }
+          ],
+          "search history": [
+            "Healthy restaurant",
+            "Non-spicy dishes",
+            "Family-friendly restaurant",
+            "Shanghai Cuisine",
+            "Japanese cuisine"
+          ]
+        },
+        "light meal": {
+          "frequently purchased categories": [
+            "Snacks & Fast Food/Chinese Quick Meals (Average 35 Yuan)",
+            "Regional Cuisine/Shanghai and Jiangsu-Zhejiang Cuisine (Average 45 Yuan)",
+            "Foreign Cuisine/Southeast Asian Cuisine (Average 50 Yuan)"
+          ],
+          "preferred average price per person": "30~55 Yuan",
+          "preferred store rating": "3.5~4.3 stars",
+          "typical dining time": "11:30-13:00",
+          "preferred distance": "0~800m",
+          "recent orders": [
+            {
+              "store": "Yonghe King (Jiaotong University)",
+              "product": "Century Egg & Lean Pork Porridge, Small Dish"
+            },
+            {
+              "store": "Yi Pin Xiaolongbao (Yishan Road)",
+              "product": "Crab Roe Xiaolongbao, Scallion Oil Noodles"
+            },
+            {
+              "store": "Thai Princess (Xujiahui)",
+              "product": "Tom Yum Soup, Thai Fried Rice Noodles"
+            }
+          ],
+          "search history": [
+            "Healthy lunch",
+            "Shanghai snacks",
+            "Bento",
+            "Light food",
+            "Xiaolongbao"
+          ]
+        },
+        "desserts/drinks/snacks": {
+          "frequently purchased categories": [
+            "Bread & Desserts (Average 25 Yuan)",
+            "Beverage Shops (Average 18 Yuan)",
+            "Other Dining/Fresh Fruits (Average 15 Yuan)"
+          ],
+          "preferred average price per person": "15~30 Yuan",
+          "preferred store rating": "4.0~4.7 stars",
+          "typical dining time": "15:00-16:30",
+          "preferred distance": "0~500m",
+          "recent orders": [
+            {
+              "store": "HeyTea (Xujiahui)",
+              "product": "Grape with Cheese Foam (No Sugar)"
+            },
+            {
+              "store": "BreadTalk (Yishan Road)",
+              "product": "Whole Wheat European Bread, Fruit Tart"
+            },
+            {
+              "store": "Fresh Fruit (Jiaotong University)",
+              "product": "Selected Fruit Platter"
+            }
+          ],
+          "search history": [
+            "Low-sugar drinks",
+            "Healthy desserts",
+            "Fruit tea",
+            "Whole wheat bread",
+            "Caffeine-free"
+          ]
+        }
+      },
+      "other in-store services": {
+        "frequently consumed categories": {
+          "Beauty/Yoga": "35%",
+          "Sports & Fitness/Fitness Center": "25%",
+          "Leisure Entertainment/Massage/Foot Therapy": "20%",
+          "Parent-Child/Parent-Child Playground": "20%"
+        },
+        "cost per order by category": {
+          "Beauty/Yoga": "80~150 Yuan",
+          "Sports & Fitness/Fitness Center": "60~120 Yuan",
+          "Leisure Entertainment/Massage/Foot Therapy": "120~200 Yuan",
+          "Parent-Child/Parent-Child Playground": "100~250 Yuan"
+        },
+        "preferred store rating": "4.0~4.8 stars",
+        "preferred service time": "17:00~20:00",
+        "preferred distance": "0~3000m",
+        "recent orders": [
+          {
+            "store": "Brahma Yoga (Xuhui)",
+            "product": "Single Person Yoga Class"
+          },
+          {
+            "store": "Leke Fitness (Yishan Road)",
+            "product": "Single Fitness Experience"
+          },
+          {
+            "store": "Children's Paradise Parent-Child Center (Xujiahui)",
+            "product": "Weekend Parent-Child Activity Ticket"
+          }
+        ],
+        "search history": [
+          "Parent-child yoga",
+          "Children's playground",
+          "Gentle massage",
+          "Women's fitness",
+          "Parent-Child Activity"
+        ]
+      }
+    },
+    "OTA": {
+      "visited scenes": {
+        "Exhibitions (Museums/Art Galleries)": "45%",
+        "Parks": "20%",
+        "Cultural Heritage Sites": "15%",
+        "Theme Parks": "15%",
+        "Special Villages/Industrial Tourism/Uncategorized Projects": "5%"
+      },
+      "cost per night on hotel": "500~1000 Yuan",
+      "visited hotels": {
+        "Atour Hotel": "35%",
+        "JI Hotel": "25%",
+        "Vienna Hotel": "20%",
+        "Orange Hotel": "15%",
+        "Home Inn": "5%"
+      },
+      "browsed hotels": {
+        "Four-star Hotels": "30%",
+        "Comfort Hotels": "45%",
+        "Three-star Hotels": "20%",
+        "Five-star Hotels": "5%"
+      },
+      "historical travel plans": {
+        "Shanghai-Hangzhou": {
+          "price range": "100-200 Yuan",
+          "transportation mode": "High-speed Rail/EMU"
+        },
+        "Shanghai-Beijing": {
+          "price range": "700-1200 Yuan",
+          "transportation mode": "Airplane"
+        },
+        "Shanghai-Suzhou": {
+          "price range": "40-80 Yuan",
+          "transportation mode": "High-speed Rail/EMU"
+        },
+        "Shanghai-Huangshan": {
+          "price range": "200-300 Yuan",
+          "transportation mode": "High-speed Rail/EMU"
+        },
+        "Shanghai-Nanjing": {
+          "price range": "150-250 Yuan",
+          "transportation mode": "High-speed Rail/EMU"
+        },
+        "Hangzhou-Shanghai": {
+          "price range": "100-200 Yuan",
+          "transportation mode": "High-speed Rail/EMU"
+        },
+        "Beijing-Shanghai": {
+          "price range": "700-1200 Yuan",
+          "transportation mode": "Airplane"
+        },
+        "Shanghai-Chengdu": {
+          "price range": "800-1500 Yuan",
+          "transportation mode": "Airplane"
+        },
+        "Chengdu-Shanghai": {
+          "price range": "800-1500 Yuan",
+          "transportation mode": "Airplane"
+        }
+      }
+    }
+  },
+  "stores": {
+    "S17550802128064414_S00001": {
+      "name": "Yi Pin Xuan High-end Chinese Restaurant",
+      "store_id": "S17550802128064414_S00001",
+      "score": 4.7,
+      "location": {
+        "address": "No. 200 Fuzhou Road, Yi Pin Xuan High-end Chinese Restaurant, Huangpu District, Shanghai",
+        "latitude": 31.235,
+        "longitude": 121.478
+      },
+      "tags": [
+        "High-end Chinese Cuisine",
+        "Premium Takeout",
+        "Cantonese Cuisine",
+        "Shanghai Cuisine",
+        "Average Spending: 200 Yuan Per Person"
+      ],
+      "store_type": "target",
+      "products": [
+        {
+          "name": "Sichuan-style Spicy Lobster",
+          "store_id": "S17550802128064414_S00001",
+          "store_name": "Yi Pin Xuan High-end Chinese Restaurant",
+          "price": 168,
+          "tags": [
+            "Sichuan Cuisine",
+            "Seafood",
+            "Heavy Oil Spicy",
+            "Signature Dish"
+          ],
+          "product_id": "S17550802128064414_P00005",
+          "attributes": [
+            "Extra Spicy",
+            "Medium Spicy",
+            "Mildly Spicy"
+          ],
+          "product_type": "distraction"
+        },
+        {
+          "name": "Rich Coffee Flavored Ribs",
+          "store_id": "S17550802128064414_S00001",
+          "store_name": "Yi Pin Xuan High-end Chinese Restaurant",
+          "price": 98,
+          "tags": [
+            "Creative Dishes",
+            "Coffee Flavor",
+            "Special",
+            "Main Course"
+          ],
+          "product_id": "S17550802128064414_P00007",
+          "attributes": [
+            "Standard Portion"
+          ],
+          "product_type": "distraction"
+        },
+        {
+          "name": "Exquisite Five-Grain Rice",
+          "store_id": "S17550802128064414_S00001",
+          "store_name": "Yi Pin Xuan High-end Chinese Restaurant",
+          "price": 28,
+          "tags": [
+            "Staple Food",
+            "Healthy",
+            "Health Preservation",
+            "Five Grains"
+          ],
+          "product_id": "S17550802128064414_P00009",
+          "attributes": [
+            "Standard Portion",
+            "Small Portion"
+          ],
+          "product_type": "target"
+        }
+      ]
+    },
+    "S17550802128064414_S00002": {
+      "name": "Gourmet Private Kitchen",
+      "store_id": "S17550802128064414_S00002",
+      "score": 4.6,
+      "location": {
+        "address": "No. 1200 Huaihai Middle Road, Gourmet Private Kitchen, Xuhui District, Shanghai",
+        "latitude": 31.216,
+        "longitude": 121.455
+      },
+      "tags": [
+        "High-end Chinese Cuisine",
+        "Private Kitchen Cuisine",
+        "Jiangsu and Zhejiang Cuisine",
+        "Non-Spicy",
+        "Average Spending: 200 Yuan Per Person"
+      ],
+      "store_type": "target",
+      "products": [
+        {
+          "name": "Matsutake Mushroom with Abalone",
+          "store_id": "S17550802128064414_S00002",
+          "store_name": "Gourmet Private Kitchen",
+          "price": 238,
+          "tags": [
+            "High-end Chinese Cuisine",
+            "Set Menu",
+            "Matsutake Mushroom",
+            "Abalone",
+            "Exquisite",
+            "Nutritious",
+            "Light-Flavored"
+          ],
+          "product_id": "S17550802128064414_P00011",
+          "attributes": [
+            "Standard Portion",
+            "Free Dessert"
+          ],
+          "product_type": "target"
+        },
+        {
+          "name": "Crab Roe Lion's Head Meatball",
+          "store_id": "S17550802128064414_S00002",
+          "store_name": "Gourmet Private Kitchen",
+          "price": 138,
+          "tags": [
+            "Jiangsu and Zhejiang Cuisine",
+            "Crab Roe",
+            "Meatball",
+            "Private Kitchen Cuisine",
+            "Traditional"
+          ],
+          "product_id": "S17550802128064414_P00014",
+          "attributes": [
+            "Standard Portion",
+            "Less Oil"
+          ],
+          "product_type": "target"
+        },
+        {
+          "name": "Pearl Rice",
+          "store_id": "S17550802128064414_S00002",
+          "store_name": "Gourmet Private Kitchen",
+          "price": 15,
+          "tags": [
+            "Staple Food",
+            "Rice",
+            "Selected",
+            "Northeast Rice"
+          ],
+          "product_id": "S17550802128064414_P00015",
+          "attributes": [
+            "Small Portion",
+            "Standard Portion",
+            "Large Portion"
+          ],
+          "product_type": "target"
+        },
+        {
+          "name": "Spicy Lobster",
+          "store_id": "S17550802128064414_S00002",
+          "store_name": "Gourmet Private Kitchen",
+          "price": 268,
+          "tags": [
+            "Signature Dish",
+            "Spicy and Numbing",
+            "Seafood",
+            "Lobster",
+            "Strong Flavor"
+          ],
+          "product_id": "S17550802128064414_P00017",
+          "attributes": [
+            "Mildly Spicy",
+            "Medium Spicy",
+            "Extra Spicy"
+          ],
+          "product_type": "distraction"
+        },
+        {
+          "name": "Coffee Tiramisu",
+          "store_id": "S17550802128064414_S00002",
+          "store_name": "Gourmet Private Kitchen",
+          "price": 48,
+          "tags": [
+            "Dessert",
+            "Coffee",
+            "Italian-Style",
+            "Exquisite"
+          ],
+          "product_id": "S17550802128064414_P00018",
+          "attributes": [
+            "Standard Portion"
+          ],
+          "product_type": "distraction"
+        },
+        {
+          "name": "Deluxe Banquet for Ten",
+          "store_id": "S17550802128064414_S00002",
+          "store_name": "Gourmet Private Kitchen",
+          "price": 1688,
+          "tags": [
+            "Banquet",
+            "Large Gathering Meal",
+            "For Ten People",
+            "Deluxe",
+            "Multiple Dishes"
+          ],
+          "product_id": "S17550802128064414_P00019",
+          "attributes": [
+            "Advance Reservation Required"
+          ],
+          "product_type": "distraction"
+        }
+      ]
+    },
+    "S17550802128064414_S00003": {
+      "name": "Rongcheng Impression Sichuan Restaurant",
+      "store_id": "S17550802128064414_S00003",
+      "score": 4.8,
+      "location": {
+        "address": "No. 800 Yishan Road, Rongcheng Impression Sichuan Restaurant, Xuhui District, Shanghai",
+        "latitude": 31.178,
+        "longitude": 121.423
+      },
+      "tags": [
+        "Sichuan Cuisine",
+        "Specialty Dish",
+        "Heavy Oil Spicy",
+        "Premium Takeout",
+        "Average Spending: 200 Yuan Per Person"
+      ],
+      "store_type": "distraction",
+      "products": [
+        {
+          "name": "Specialty Mapo Tofu",
+          "store_id": "S17550802128064414_S00003",
+          "store_name": "Rongcheng Impression Sichuan Restaurant",
+          "price": 58,
+          "tags": [
+            "Signature Dish",
+            "Sichuan Cuisine",
+            "Heavy Oil Spicy",
+            "Tofu"
+          ],
+          "product_id": "S17550802128064414_P00020",
+          "attributes": [
+            "Mildly Spicy",
+            "Medium Spicy",
+            "Extra Spicy",
+            "No Sichuan Pepper",
+            "No Chili"
+          ],
+          "product_type": "distraction"
+        },
+        {
+          "name": "Boiled Fish Slices",
+          "store_id": "S17550802128064414_S00003",
+          "store_name": "Rongcheng Impression Sichuan Restaurant",
+          "price": 108,
+          "tags": [
+            "Signature Dish",
+            "Sichuan Cuisine",
+            "Heavy Oil Spicy",
+            "Fish Slices",
+            "High Protein"
+          ],
+          "product_id": "S17550802128064414_P00021",
+          "attributes": [
+            "Mildly Spicy",
+            "Medium Spicy",
+            "Extra Spicy",
+            "No Sichuan Pepper",
+            "No Chili"
+          ],
+          "product_type": "distraction"
+        },
+        {
+          "name": "Steamed Sea Bass",
+          "store_id": "S17550802128064414_S00003",
+          "store_name": "Rongcheng Impression Sichuan Restaurant",
+          "price": 138,
+          "tags": [
+            "Refined Dishes",
+            "Light-Flavored",
+            "High Protein",
+            "Fish",
+            "Non-Spicy"
+          ],
+          "product_id": "S17550802128064414_P00022",
+          "attributes": [
+            "Add Ginger",
+            "No Green Onion",
+            "No Garlic"
+          ],
+          "product_type": "target"
+        },
+        {
+          "name": "Gold Medal Twice-Cooked Pork",
+          "store_id": "S17550802128064414_S00003",
+          "store_name": "Rongcheng Impression Sichuan Restaurant",
+          "price": 88,
+          "tags": [
+            "Signature Dish",
+            "Sichuan Cuisine",
+            "Pork",
+            "Heavy Oil",
+            "Mildly Spicy"
+          ],
+          "product_id": "S17550802128064414_P00024",
+          "attributes": [
+            "Mildly Spicy",
+            "Non-Spicy",
+            "Add Green Pepper",
+            "No Green Pepper"
+          ],
+          "product_type": "distraction"
+        },
+        {
+          "name": "Fragrant Rice",
+          "store_id": "S17550802128064414_S00003",
+          "store_name": "Rongcheng Impression Sichuan Restaurant",
+          "price": 8,
+          "tags": [
+            "Staple Food",
+            "Rice",
+            "For One Person"
+          ],
+          "product_id": "S17550802128064414_P00026",
+          "attributes": [],
+          "product_type": "target"
+        },
+        {
+          "name": "Delicate Couple Set Menu",
+          "store_id": "S17550802128064414_S00003",
+          "store_name": "Rongcheng Impression Sichuan Restaurant",
+          "price": 398,
+          "tags": [
+            "Set Menu",
+            "For Two People",
+            "Exquisite",
+            "Anniversary",
+            "Heavy Oil Spicy"
+          ],
+          "product_id": "S17550802128064414_P00027",
+          "attributes": [
+            "Mildly Spicy",
+            "Non-Spicy"
+          ],
+          "product_type": "distraction"
+        }
+      ]
+    },
+    "S17550802128064414_S00004": {
+      "name": "Fu Lin Men Restaurant",
+      "store_id": "S17550802128064414_S00004",
+      "score": 4.5,
+      "location": {
+        "address": "No. 128 Nanjing West Road, Fu Lin Men Restaurant, Jing'an District, Shanghai",
+        "latitude": 31.231,
+        "longitude": 121.459
+      },
+      "tags": [
+        "Cantonese Cuisine",
+        "Classic Cantonese Cuisine",
+        "Premium Takeout",
+        "Family Feast",
+        "Average Spending: 100 Yuan Per Person"
+      ],
+      "store_type": "target",
+      "products": [
+        {
+          "name": "Classic Cantonese Set Menu for Two",
+          "store_id": "S17550802128064414_S00004",
+          "store_name": "Fu Lin Men Restaurant",
+          "price": 398,
+          "tags": [
+            "Cantonese Set Menu",
+            "Meal for Two",
+            "Premium Takeout",
+            "High-end Chinese Cuisine",
+            "Anniversary Package"
+          ],
+          "product_id": "S17550802128064414_P00028",
+          "attributes": [
+            "Light-Flavored",
+            "Non-Spicy"
+          ],
+          "product_type": "target"
+        },
+        {
+          "name": "White Cut Chicken Platter",
+          "store_id": "S17550802128064414_S00004",
+          "store_name": "Fu Lin Men Restaurant",
+          "price": 128,
+          "tags": [
+            "Classic Cantonese Cuisine",
+            "Protein",
+            "Light-Flavored",
+            "Signature Dish"
+          ],
+          "product_id": "S17550802128064414_P00029",
+          "attributes": [
+            "Standard Portion",
+            "With Ginger Scallion Sauce"
+          ],
+          "product_type": "target"
+        },
+        {
+          "name": "Steamed Sea Bass",
+          "store_id": "S17550802128064414_S00004",
+          "store_name": "Fu Lin Men Restaurant",
+          "price": 168,
+          "tags": [
+            "Fresh Fish",
+            "Steamed",
+            "Low Oil",
+            "Family Feast Recommendation"
+          ],
+          "product_id": "S17550802128064414_P00030",
+          "attributes": [
+            "Standard Portion",
+            "Steamed with Ginger and Scallion"
+          ],
+          "product_type": "target"
+        },
+        {
+          "name": "Selected Seasonal Vegetables",
+          "store_id": "S17550802128064414_S00004",
+          "store_name": "Fu Lin Men Restaurant",
+          "price": 68,
+          "tags": [
+            "Seasonal Vegetables",
+            "Stir-fried",
+            "Healthy",
+            "Nutritious"
+          ],
+          "product_id": "S17550802128064414_P00031",
+          "attributes": [
+            "Light-Flavored",
+            "Less Oil"
+          ],
+          "product_type": "target"
+        },
+        {
+          "name": "Premium Fragrant Rice",
+          "store_id": "S17550802128064414_S00004",
+          "store_name": "Fu Lin Men Restaurant",
+          "price": 15,
+          "tags": [
+            "Staple Food",
+            "Rice",
+            "For One Person"
+          ],
+          "product_id": "S17550802128064414_P00032",
+          "attributes": [],
+          "product_type": "target"
+        },
+        {
+          "name": "Classic Char Siu Rice",
+          "store_id": "S17550802128064414_S00004",
+          "store_name": "Fu Lin Men Restaurant",
+          "price": 48,
+          "tags": [
+            "Staple Food",
+            "Cantonese Style",
+            "Char Siu"
+          ],
+          "product_id": "S17550802128064414_P00033",
+          "attributes": [
+            "Standard Portion"
+          ],
+          "product_type": "target"
+        },
+        {
+          "name": "Spicy Hot Pot Set Menu",
+          "store_id": "S17550802128064414_S00004",
+          "store_name": "Fu Lin Men Restaurant",
+          "price": 188,
+          "tags": [
+            "Sichuan Cuisine",
+            "Spicy Flavor",
+            "Specialty Dish"
+          ],
+          "product_id": "S17550802128064414_P00034",
+          "attributes": [
+            "Extra Spicy",
+            "Medium Spicy",
+            "Mildly Spicy"
+          ],
+          "product_type": "distraction"
+        },
+        {
+          "name": "Coffee Caramel Ribs",
+          "store_id": "S17550802128064414_S00004",
+          "store_name": "Fu Lin Men Restaurant",
+          "price": 158,
+          "tags": [
+            "Creative Dishes",
+            "Coffee Flavor",
+            "Sweet and Salty Flavor"
+          ],
+          "product_id": "S17550802128064414_P00035",
+          "attributes": [
+            "Standard Portion"
+          ],
+          "product_type": "distraction"
+        },
+        {
+          "name": "Premium Cantonese Family Feast",
+          "store_id": "S17550802128064414_S00004",
+          "store_name": "Fu Lin Men Restaurant",
+          "price": 698,
+          "tags": [
+            "Deluxe Package",
+            "Sharing for Multiple People",
+            "High-end Banquet"
+          ],
+          "product_id": "S17550802128064414_P00036",
+          "attributes": [
+            "For 4-6 People"
+          ],
+          "product_type": "distraction"
+        }
+      ]
+    }
+  },
+  "orders": {}
+}

@@ -1,0 +1,133 @@
+{
+  "required_orders": [
+    {
+      "order_id": "S17550812360469447_O00002",
+      "order_type": "train",
+      "user_id": "U081742",
+      "store_id": "S17550812360469447_T00005",
+      "note": "",
+      "location": {
+        "address": "Xuzhou East Railway Station, Yunlong District, Xuzhou, Jiangsu Province",
+        "longitude": 117.2882,
+        "latitude": 34.2802
+      },
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 84,
+      "create_time": "2025-04-15 22:13:15",
+      "update_time": "2025-04-15 22:13:15",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17550812360469447_P00020",
+          "price": 42,
+          "quantity": 2,
+          "seat_type": "second-class seat",
+          "date": "2025-04-26"
+        }
+      ]
+    },
+    {
+      "order_id": "S17550812360469447_O00008",
+      "order_type": "instore",
+      "user_id": "U081742",
+      "store_id": "S17550812360469447_I00013",
+      "note": "",
+      "location": null,
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 398,
+      "create_time": "2025-04-15 22:15:15",
+      "update_time": "2025-04-15 22:15:15",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17550812360469447_P00072",
+          "price": 398,
+          "quantity": 1,
+          "name": "exquisite couple rings DIY package",
+          "shop_id": "S17550812360469447_I00013",
+          "tags": [
+            "relief design",
+            "fingerprint imprinting",
+            "couple rings",
+            "DIY experience",
+            "commemorative meaning"
+          ]
+        }
+      ]
+    },
+    {
+      "order_id": "OT3d0a72c3a1",
+      "order_type": "delivery",
+      "user_id": "U081742",
+      "store_id": "S17550812360469447_S00004",
+      "note": "",
+      "location": {
+        "address": "Heartfelt DIY Workshop, No.89 Jianshe Road, Shizhong District, Zaozhuang, Shandong Province",
+        "longitude": 117.5575,
+        "latitude": 34.864
+      },
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 72.7,
+      "create_time": "2025-04-15 22:17:00",
+      "update_time": "2025-04-15 22:17:00",
+      "status": "unpaid",
+      "products": [
+        {
+          "product_id": "S17550812360469447_P00015",
+          "price": 59.9,
+          "quantity": 1,
+          "name": "Fujifilm instax mini instant film (white background)",
+          "store_id": "S17550812360469447_S00004",
+          "store_name": "Seven Grocery Store",
+          "attributes": "",
+          "tags": [
+            "instant film",
+            "Fujifilm",
+            "white background",
+            "10-piece pack",
+            "flash delivery",
+            "1-hour delivery"
+          ]
+        },
+        {
+          "product_id": "S17550812360469447_P00016",
+          "price": 12.8,
+          "quantity": 1,
+          "name": "ZEBRA JJ15 black marker",
+          "store_id": "S17550812360469447_S00004",
+          "store_name": "Seven Grocery Store",
+          "attributes": "",
+          "tags": [
+            "marker",
+            "smooth",
+            "black",
+            "stationery",
+            "flash delivery"
+          ]
+        }
+      ]
+    }
+  ],
+  "rubrics": [
+    "The departure station of the ordered train should be Xuzhou",
+    "The arrival station of the ordered train should be Zaozhuang",
+    "Check whether Labor Day this year falls on a weekend, the result shows that May 1, 2025 is a Thursday, not on a weekend, so the train ticket should be for April 26, 2025",
+    "The departure time of the train ticket should be April 26, 2025, 9:00-10:00",
+    "The train ticket should be second-class seat",
+    "The quantity of train tickets should be 2",
+    "The distance between the workshop store and Zaozhuang Station should be within 5000m",
+    "The workshop order package should be couple rings DIY experience",
+    "The couple rings in the workshop order package should have relief design",
+    "The couple rings in the workshop order package should have fingerprint imprinting",
+    "The instant film should be white background",
+    "The instant film and marker should come from the same store",
+    "The delivery address for the instant film and marker must be Heartfelt DIY Workshop, No.89 Jianshe Road, Shizhong District, Zaozhuang, Shandong Province",
+    "The estimated delivery time for the instant film and marker should be between 10:30-11:30 on April 26, 2025"
+  ]
+}

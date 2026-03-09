@@ -1,0 +1,45 @@
+{
+  "task_id": "115",
+  "query": "I'm planning a trip from Changchun to Dalian on November 12, 2025, returning on November 18, so I'll be there for several days. Could you help me plan the itinerary, including transportation, accommodation, meals, and sightseeing arrangements?\n\nFor the outbound journey, I'd like to take a high-speed train. Please check if there's the most affordable direct train option available—high-speed rail is fast and comfortable, which suits this trip well. As for accommodation, I think '全季' hotels are quite good with great value for money. Just help me find the cheapest room they offer. By the way, I'm traveling alone, so booking one room will be sufficient.\n\nRegarding dining, there are two specific meal plans I’d like to arrange. One day, I want to have a meal near 'Dalian North Station'—ideally at a restaurant where I can take a virtual queue online, as that would save me quite a bit of waiting time. The other is tied to my visit to the 'Dalian Jinshitan Life Mystery Museum'. I’ve heard there are many great food options around there; could you help me pick the highest-rated restaurant nearby for one meal and recommend some local specialties?\n\nThat covers all my requirements—I've provided all the necessary details. Please go ahead and prepare the full travel plan for me. Thanks so much for your help! November 12, 2025 is Wednesday",
+  "meta_info": {
+    "org": "Changchun",
+    "dest": [
+      "Dalian"
+    ],
+    "days": 7,
+    "depart_date": "2025-11-12",
+    "return_date": "2025-11-18",
+    "people_number": 1,
+    "room_number": 1
+  },
+  "hard_constraints": {
+    "train_cheapest_train_type": {
+      "constraint_context": "Hope to take a train for the outbound journey, and need to select the cheapest direct train among the high-speed rail options",
+      "constraint_type": "superlative_cheapest_train_type",
+      "outbound_train_no": "G720"
+    },
+    "hotel_cheapest_brand": {
+      "constraint_context": "For accommodation, please select the cheapest hotel among the \"全季\" brand.",
+      "constraint_type": "superlative_cheapest_brand",
+      "hotel_name": "Ji Hotel Dalian Qingniwa Commercial Street",
+      "hotel_price": 275.0
+    },
+    "restaurant_specific_tag_nearby": {
+      "constraint_context": "Arrange a meal at a restaurant near 'Dalian North Station' during the trip, with online number-taking and queuing service required.",
+      "constraint_type": "superlative_specific_tag_nearby",
+      "attraction_name": "Dalian North Station",
+      "restaurant_name": "Legendary Seafood Old Cuisine Restaurant (Nanguanling Branch)",
+      "required_tag": "Online Queue",
+      "price_per_person": 73.0,
+      "restaurant_rating": 4.1
+    },
+    "restaurant_highest_rated": {
+      "constraint_context": "During the trip, please arrange a meal at the highest-rated restaurant near 'Dalian Jinshitan Life Mystery Museum'.",
+      "constraint_type": "superlative_highest_rated_restaurant",
+      "attraction_name": "Dalian Jinshitan Life Mystery Museum",
+      "restaurant_name": "Susan Western Restaurant",
+      "price_per_person": 51.0,
+      "restaurant_rating": 4.8
+    }
+  }
+}

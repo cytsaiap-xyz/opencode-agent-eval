@@ -1,0 +1,154 @@
+{
+  "task_id": "D0808007",
+  "domain": "ota",
+  "time": "2024-06-09 17:27:42",
+  "user_id": "U010099",
+  "weather": [
+    {
+      "city": "Beijing",
+      "category": "sunny",
+      "datetime": "2024-06-09",
+      "temperature": [
+        18,
+        28
+      ],
+      "humidity": 45
+    },
+    {
+      "city": "Lhasa",
+      "category": "cloudy",
+      "datetime": "2024-06-09",
+      "temperature": [
+        8,
+        22
+      ],
+      "humidity": 35
+    },
+    {
+      "city": "Shigatse",
+      "category": "sunny",
+      "datetime": "2024-06-09",
+      "temperature": [
+        5,
+        18
+      ],
+      "humidity": 40
+    },
+    {
+      "city": "Coqen",
+      "category": "overcast",
+      "datetime": "2024-06-09",
+      "temperature": [
+        2,
+        15
+      ],
+      "humidity": 50
+    },
+    {
+      "city": "Nyima",
+      "category": "light rain",
+      "datetime": "2024-06-09",
+      "temperature": [
+        0,
+        12
+      ],
+      "humidity": 65
+    }
+  ],
+  "location": [],
+  "user_profile": {
+    "user id": "U010099",
+    "occupation": "Teacher",
+    "gender": "male",
+    "age group": "35~40",
+    "residence": "Beijing",
+    "home address": "Room 502, Building 3, Teacher Apartments of Beijing University Affiliated Middle School, 16 Tsinghua East Road, Haidian District, Beijing",
+    "work address": "Beijing University Affiliated Middle School, 5 Yiheyuan Road, Haidian District, Beijing",
+    "dietary restrictions": "Avoid high purine foods (such as organ meats/seafood soups), no alcohol",
+    "family status": "Has children",
+    "personality": "Impatient, frequently rushes things, lacks patience for waiting"
+  },
+  "user_historical_behaviors": {
+    "user id": "U010099",
+    "occupation": "Teacher",
+    "gender": "male",
+    "age group": "35~40",
+    "residence": "Beijing",
+    "home address": "Room 502, Building 3, Faculty Apartment, Beijing University Affiliated Middle School, 16 Tsinghua East Road, Haidian District, Beijing",
+    "work address": "Beijing University Affiliated Middle School, 5 Yiheyuan Road, Haidian District, Beijing",
+    "visited scenes": {
+      "Cultural & Historical Sites": "25%",
+      "Exhibition Venues (Museums/Art Galleries)": "30%",
+      "Natural Landscapes (Mountains/Lakes/Forests)": "15%",
+      "Parks": "10%",
+      "Theme Parks": "15%",
+      "Featured Villages/Industrial Tourism/Uncategorized": "5%"
+    },
+    "cost per night on hotel": "500~1000 yuan",
+    "visited hotels": {
+      "JI Hotel": "35%",
+      "Atour": "25%",
+      "Vienna": "20%",
+      "Huazhu": "10%",
+      "Home Inn": "10%"
+    },
+    "browsed hotels": {
+      "Four-star Hotels": "30%",
+      "Three-star Hotels": "40%",
+      "Comfort Hotels": "30%"
+    },
+    "historical travel plans": {
+      "Beijing-Xi'an": {
+        "Price Range": "600-800 yuan",
+        "Transportation": "High-speed Rail/Bullet Train"
+      },
+      "Beijing-Hangzhou": {
+        "Price Range": "800-1200 yuan",
+        "Transportation": "High-speed Rail/Bullet Train"
+      },
+      "Beijing-Chengdu": {
+        "Price Range": "1200-1800 yuan",
+        "Transportation": "Airplane"
+      },
+      "Beijing-Nanjing": {
+        "Price Range": "600-900 yuan",
+        "Transportation": "High-speed Rail/Bullet Train"
+      },
+      "Beijing-Shanghai": {
+        "Price Range": "550-750 yuan",
+        "Transportation": "High-speed Rail/Bullet Train"
+      },
+      "Beijing-Huangshan": {
+        "Price Range": "750-950 yuan",
+        "Transportation": "High-speed Rail/Bullet Train"
+      }
+    }
+  },
+  "stores": {},
+  "orders": {
+    "S17557512385846899_O00001": {
+      "order_id": "S17557512385846899_O00001",
+      "order_type": "flight",
+      "user_id": "U010099",
+      "store_id": "S17557512385846899_F00013",
+      "note": "",
+      "location": null,
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 6900,
+      "create_time": "2024-05-24 14:30:00",
+      "update_time": "2024-05-24 14:30:00",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17557512385846899_P00101",
+          "price": 1380,
+          "quantity": 5,
+          "date": "2024-06-12",
+          "seat_type": "Economy Class"
+        }
+      ]
+    }
+  }
+}

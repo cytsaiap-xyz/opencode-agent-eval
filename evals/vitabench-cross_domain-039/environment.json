@@ -1,0 +1,951 @@
+{
+  "task_id": "A0811010",
+  "domain": "cross_domain",
+  "time": "2024-02-23 18:15:00",
+  "user_id": "U564137",
+  "weather": [
+    {
+      "city": "Zhuhai",
+      "category": "cloudy",
+      "datetime": "2024-02-23",
+      "temperature": [
+        15,
+        22
+      ],
+      "humidity": 75
+    },
+    {
+      "city": "Zhongshan",
+      "category": "light rain",
+      "datetime": "2024-02-24",
+      "temperature": [
+        14,
+        20
+      ],
+      "humidity": 85
+    }
+  ],
+  "location": [],
+  "user_profile": {
+    "user id": "U564137",
+    "occupation": "Freelancer",
+    "gender": "male",
+    "age group": "30~35",
+    "residence": "Zhuhai",
+    "home address": " 62 Phoenix North Road, Huafa Fengtop, Xiangzhou District, Zhuhai City, Guangdong Province",
+    "work address": " 2023 Jiuzhou Avenue Central, Yuhai Global Financial Center, Xiangzhou District, Zhuhai City, Guangdong Province",
+    "dietary restrictions": "No alcohol, no high-fat internal organs",
+    "family status": "Has children",
+    "personality": "Mild-tempered with high cooperativeness, good at listening and understanding"
+  },
+  "user_historical_behaviors": {
+    "user id": "U564137",
+    "occupation": "freelancer",
+    "gender": "male",
+    "age group": "30~35",
+    "residence": "Zhuhai",
+    "home address": " 62 Phoenix North Road, Huafa Fengtop, Xiangzhou District, Zhuhai City, Guangdong Province",
+    "work address": " 2023 Jiuzhou Avenue Central, Yuhai Global Financial Center, Xiangzhou District, Zhuhai City, Guangdong Province",
+    "delivery": {
+      "food delivery": {
+        "breakfast": {
+          "frequently purchased categories": [
+            "Quick Meals/Buns/Pan-fried Buns (Average ¥25)",
+            "Quick Meals/Dumplings/Wonton (Average ¥28)",
+            "Quick Meals/Porridge (Average ¥22)"
+          ],
+          "cost per order": "¥15~35",
+          "preferred store rating": "4.2~4.8",
+          "preferred delivery time": "15~25 minutes",
+          "preferred distance": "0~1500m",
+          "recent orders": [
+            {
+              "store": "Wanchai Ferry (Xiangzhou Branch)",
+              "product": "Pork Wonton + Black Sesame Paste"
+            },
+            {
+              "store": "Yonghe Soy Milk (Jiuzhou Avenue Branch)",
+              "product": "Fried Dough Sticks + Millet Porridge + Tea Egg"
+            },
+            {
+              "store": "Real Kung Fu (Xiangzhou Plaza Branch)",
+              "product": "Century Egg & Lean Pork Porridge + Side Dishes"
+            }
+          ],
+          "search history": [
+            "breakfast porridge",
+            "soy milk",
+            "buns",
+            "wonton",
+            "pan-fried buns"
+          ]
+        },
+        "weekday lunch/dinner": {
+          "frequently purchased categories": [
+            "Quick Meals/Light Meals (Average ¥45)",
+            "Quick Meals/Healthy Meals (Average ¥52)",
+            "Chinese Cuisine/Cantonese Cuisine (Average ¥68)"
+          ],
+          "cost per order": "¥30~75",
+          "preferred store rating": "4.3~4.9",
+          "preferred delivery time": "20~35 minutes",
+          "preferred distance": "0~3000m",
+          "recent orders": [
+            {
+              "store": "Salad Diary (Zhongda Fifth Hospital Branch)",
+              "product": "Chicken Breast Vegetable Salad + Quinoa Rice"
+            },
+            {
+              "store": "Cantonese Cuisine (Xiangzhou Branch)",
+              "product": "White Cut Chicken + Stir-fried Vegetables + Brown Rice"
+            },
+            {
+              "store": "Healthy Light Meal Workshop",
+              "product": "Low-fat Beef Rice + Corn Soup"
+            }
+          ],
+          "search history": [
+            "low-fat",
+            "healthy meals",
+            "Cantonese cuisine",
+            "salad",
+            "light meals"
+          ]
+        },
+        "weekend lunch/dinner": {
+          "frequently purchased categories": [
+            "Chinese Cuisine/Cantonese Cuisine (Average ¥120)",
+            "International Cuisine/Japanese Bento/Sushi (Average ¥135)",
+            "International Cuisine/Pasta (Average ¥85)"
+          ],
+          "cost per order": "¥80~180",
+          "preferred store rating": "4.5~5.0",
+          "preferred delivery time": "30~45 minutes",
+          "preferred distance": "0~5000m",
+          "recent orders": [
+            {
+              "store": "Hegreen Rotating Sushi (Gongbei Branch)",
+              "product": "Salmon Sashimi Platter + Tempura Set"
+            },
+            {
+              "store": "Sicily Italian Restaurant",
+              "product": "Seafood Pasta + Avocado Salad + Fresh Juice"
+            },
+            {
+              "store": "Taotaoju (Zhuhai Branch)",
+              "product": "Steamed Chicken Feet + Char Siu Bao + Shrimp Dumplings + Rice Noodle Roll + Lychee Wood Osmanthus Cake"
+            }
+          ],
+          "search history": [
+            "Cantonese cuisine",
+            "Japanese cuisine",
+            "sushi",
+            "pasta",
+            "dim sum"
+          ]
+        },
+        "desserts/drinks/snacks": {
+          "frequently purchased categories": [
+            "Drinks & Desserts/Coffee (Average ¥32)",
+            "Drinks & Desserts/Fruit Salad (Average ¥38)",
+            "Drinks & Desserts/Chinese Pastries (Average ¥28)"
+          ],
+          "cost per order": "¥20~45",
+          "preferred store rating": "4.4~4.9",
+          "preferred delivery time": "15~30 minutes",
+          "preferred distance": "0~2500m",
+          "recent orders": [
+            {
+              "store": "Starbucks (Huafa Capital Branch)",
+              "product": "Americano + Vanilla Scone"
+            },
+            {
+              "store": "Fresh Fruit (Xiangzhou Branch)",
+              "product": "Colorful Fruit Salad + Yogurt"
+            },
+            {
+              "store": "Honeymoon Dessert (Gongbei Branch)",
+              "product": "Mango Glutinous Rice Balls + Mango Pomelo Sago"
+            }
+          ],
+          "search history": [
+            "coffee",
+            "fruit salad",
+            "desserts",
+            "glutinous rice balls",
+            "yogurt"
+          ]
+        },
+        "night snack": {
+          "frequently purchased categories": [
+            "Quick Meals/Rice Noodles (Average ¥35)",
+            "Quick Meals/Clay Pot Dishes (Average ¥42)"
+          ],
+          "cost per order": "¥25~55",
+          "preferred store rating": "4.0~4.6",
+          "preferred delivery time": "20~40 minutes",
+          "preferred distance": "0~2800m",
+          "recent orders": [
+            {
+              "store": "Guilin Rice Noodles (Xiangzhou Branch)",
+              "product": "Beef Rice Noodles + Braised Egg"
+            },
+            {
+              "store": "Clay Pot Porridge (Jiuzhou Avenue Branch)",
+              "product": "Century Egg & Lean Pork Clay Pot Porridge + Fried Dough Sticks"
+            },
+            {
+              "store": "Chaoshan Beef Hot Pot (Single Small Portion)",
+              "product": "Selected Beef Small Hot Pot + Seasonal Vegetables"
+            }
+          ],
+          "search history": [
+            "rice noodles",
+            "clay pot porridge",
+            "night snack",
+            "single-person hot pot",
+            "stomach-friendly"
+          ]
+        }
+      },
+      "product delivery": {
+        "frequently purchased categories": [
+          "Fresh Vegetables/Bean Products (28%)",
+          "Fruits (22%)",
+          "Household Items (16%)",
+          "Grains, Oil, Seasonings & Dried Goods (14%)",
+          "Raw Meat/Raw Poultry/Raw Eggs (12%)",
+          "Others (8%)"
+        ],
+        "frequently visited stores": [
+          "AEON Supermarket (Xiangzhou Branch) (35%)",
+          "MissFresh (Huafa Capital Branch) (30%)",
+          "Walmart (Gongbei Branch) (20%)",
+          "Other Stores (15%)"
+        ],
+        "cost per order by category": {
+          "Fresh Vegetables/Bean Products": "¥5~30",
+          "Fruits": "¥15~60",
+          "Household Items": "¥10~50",
+          "Grains, Oil, Seasonings & Dried Goods": "¥8~45",
+          "Raw Meat/Raw Poultry/Raw Eggs": "¥20~80"
+        },
+        "preferred delivery time": "30~60 minutes",
+        "typical order time": "17~19:00 (38%), 9~11:00 (25%), 13~15:00 (18%)",
+        "recent orders": [
+          {
+            "store": "AEON Supermarket (Xiangzhou Branch)",
+            "product": "Organic Vegetable Set + Eggs + Tofu"
+          },
+          {
+            "store": "MissFresh (Huafa Capital Branch)",
+            "product": "Imported Milk + Whole Wheat Bread + Oranges"
+          },
+          {
+            "store": "Walmart (Gongbei Branch)",
+            "product": "Chicken Breast + Broccoli + Brown Rice + Shampoo"
+          }
+        ],
+        "search history": [
+          "organic vegetables",
+          "low-fat milk",
+          "whole wheat bread",
+          "chicken breast",
+          "olive oil",
+          "fruits"
+        ]
+      }
+    },
+    "in-store consumption": {
+      "in-store dining": {
+        "fine-dining": {
+          "frequently purchased categories": [
+            "Regional Cuisine/Cantonese Cuisine (Average ¥120)",
+            "International Cuisine/Japanese Cuisine (Average ¥150)",
+            "Regional Cuisine/Fish Specialties (Average ¥180)"
+          ],
+          "preferred average price per person": "¥120~180",
+          "preferred store rating": "4.2~4.8 stars",
+          "typical dining time": "18:30-20:30",
+          "preferred distance": "500~3000m",
+          "recent orders": [
+            {
+              "store": "Zhuhai Fishing Port Seafood Restaurant",
+              "product": "Steamed Turbot Fish + Boiled Prawns"
+            },
+            {
+              "store": "Dajianghu Japanese Restaurant",
+              "product": "Assorted Sashimi + Salmon Sushi"
+            },
+            {
+              "store": "Taotaoju",
+              "product": "Honey-glazed BBQ Pork + Premium Shrimp Dumplings"
+            }
+          ],
+          "search history": [
+            "oil-free healthy restaurants",
+            "family-friendly restaurants",
+            "Japanese cuisine",
+            "Cantonese cuisine",
+            "seafood"
+          ]
+        },
+        "light meal": {
+          "frequently purchased categories": [
+            "Snacks & Fast Food/Chinese Quick Meals (Average ¥35)",
+            "Snacks & Fast Food/Western Fast Food (Average ¥45)",
+            "Regional Cuisine/Jiangzhe Cuisine (Average ¥55)"
+          ],
+          "preferred average price per person": "¥30~60",
+          "preferred store rating": "3.5~4.3 stars",
+          "typical dining time": "12:00-13:30",
+          "preferred distance": "0~1000m",
+          "recent orders": [
+            {
+              "store": "Real Kung Fu",
+              "product": "Teriyaki Chicken Leg Rice + Seasonal Vegetables"
+            },
+            {
+              "store": "Grandma's Home",
+              "product": "Grandma's Braised Pork + West Lake Vinegar Fish"
+            },
+            {
+              "store": "Yung Ho King",
+              "product": "Century Egg & Lean Pork Porridge + Side Dishes"
+            }
+          ],
+          "search history": [
+            "work meals",
+            "bento",
+            "fast food",
+            "healthy light meals",
+            "oil-free"
+          ]
+        },
+        "desserts/drinks/snacks": {
+          "frequently purchased categories": [
+            "Beverage Shops (Average ¥18)",
+            "Bread & Desserts (Average ¥25)",
+            "Other Dining/Fresh Fruits (Average ¥30)"
+          ],
+          "preferred average price per person": "¥15~30",
+          "preferred store rating": "3.8~4.5 stars",
+          "typical dining time": "15:00-17:00",
+          "preferred distance": "0~800m",
+          "recent orders": [
+            {
+              "store": "Nayuki Tea",
+              "product": "Cheese Jasmine Tea + Fresh Cheese Bread"
+            },
+            {
+              "store": "Fresh Fruit Station",
+              "product": "Assorted Fruit Platter"
+            },
+            {
+              "store": "Bread Talk",
+              "product": "Whole Wheat Bread + Sugar-free Cake"
+            }
+          ],
+          "search history": [
+            "low-sugar drinks",
+            "healthy desserts",
+            "fresh fruits",
+            "sugar-free bread"
+          ]
+        }
+      },
+      "other in-store services": {
+        "frequently consumed categories": {
+          "Sports & Fitness/Fitness Centers": "40%",
+          "Sports & Fitness/Ball Sports": "30%",
+          "Parent-Child/Family Entertainment": "20%",
+          "Leisure & Entertainment/Massage/Foot Therapy": "10%"
+        },
+        "cost per order by category": {
+          "Sports & Fitness/Fitness Centers": "¥80~200",
+          "Sports & Fitness/Ball Sports": "¥100~180",
+          "Parent-Child/Family Entertainment": "¥150~300",
+          "Leisure & Entertainment/Massage/Foot Therapy": "¥120~200"
+        },
+        "preferred store rating": "4.0~4.8 stars",
+        "preferred service time": "18:00-21:00",
+        "preferred distance": "0~5000m",
+        "recent orders": [
+          {
+            "store": "Wales Fitness Club",
+            "product": "Single Fitness Session + Swimming"
+          },
+          {
+            "store": "Zhuhai Sports Center",
+            "product": "Badminton Court 2 Hours"
+          },
+          {
+            "store": "Wonderful Kingdom Family Park",
+            "product": "Family Package (1 Adult + 1 Child)"
+          }
+        ],
+        "search history": [
+          "gym",
+          "parent-child activities",
+          "badminton courts",
+          "family entertainment",
+          "children's swimming"
+        ]
+      }
+    },
+    "OTA": {
+      "visited scenes": {
+        "Natural Landscapes (Mountains/Lakes/Forests)": "35%",
+        "Theme Parks": "30%",
+        "Cultural & Historical Sites": "15%",
+        "Parks": "15%",
+        "Tourist Facilities (Toilets/Cable Cars/Visitor Centers/Ticket Offices)": "5%"
+      },
+      "cost per night on hotel": "¥500~1000",
+      "visited hotels": {
+        "Atour": "30%",
+        "Ji Hotel": "25%",
+        "Vienna Hotel": "20%",
+        "Home Inn": "15%",
+        "7 Days Inn": "10%"
+      },
+      "browsed hotels": {
+        "Four-star Hotels": "25%",
+        "Comfort Hotels": "45%",
+        "Three-star Hotels": "20%",
+        "Economy Hotels": "10%"
+      },
+      "historical travel plans": {
+        "Zhuhai-Guangzhou": {
+          "price range": "¥100-150",
+          "transportation": "High-speed Rail/EMU"
+        },
+        "Zhuhai-Shenzhen": {
+          "price range": "¥80-120",
+          "transportation": "High-speed Rail/EMU"
+        },
+        "Zhuhai-Hong Kong": {
+          "price range": "¥200-300",
+          "transportation": "Long-distance Bus"
+        },
+        "Zhuhai-Beijing": {
+          "price range": "¥1000-1500",
+          "transportation": "Airplane"
+        },
+        "Zhuhai-Shanghai": {
+          "price range": "¥800-1200",
+          "transportation": "Airplane"
+        },
+        "Zhuhai-Hangzhou": {
+          "price range": "¥700-1000",
+          "transportation": "Airplane"
+        },
+        "Zhuhai-Chengdu": {
+          "price range": "¥800-1200",
+          "transportation": "Airplane"
+        },
+        "Zhuhai-Sanya": {
+          "price range": "¥600-900",
+          "transportation": "Airplane"
+        },
+        "Zhuhai-Zhuhai Surroundings": {
+          "price range": "¥50-200",
+          "transportation": "Self-driving"
+        }
+      }
+    }
+  },
+  "stores": {
+    "S17550810556939211_S00001": {
+      "name": "ChaBaiDao",
+      "store_id": "S17550810556939211_S00001",
+      "score": 4.6,
+      "location": {
+        "address": "ChaBaiDao, 1st Floor, Central Department Store Building, 1115 Yingbin South Road, Xiangzhou District, Zhuhai City, Guangdong Province",
+        "latitude": 22.272,
+        "longitude": 113.534
+      },
+      "tags": [
+        "Milk Tea",
+        "Fruit Tea",
+        "Internet Celebrity Favorite"
+      ],
+      "store_type": "target",
+      "products": [
+        {
+          "name": "Succulent Grape Tea",
+          "store_id": "S17550810556939211_S00001",
+          "store_name": "ChaBaiDao",
+          "price": 20,
+          "tags": [
+            "Fruit Tea",
+            "Refreshing",
+            "Succulent Series",
+            "Caffeine-Free"
+          ],
+          "product_id": "S17550810556939211_P00006",
+          "attributes": [
+            "Iced",
+            "Room Temperature",
+            "Light Sugar",
+            "Half Sugar",
+            "Full Sugar"
+          ],
+          "product_type": "distraction"
+        },
+        {
+          "name": "Cheese Cream Tea",
+          "store_id": "S17550810556939211_S00001",
+          "store_name": "ChaBaiDao",
+          "price": 21,
+          "tags": [
+            "Cheese",
+            "Cheese Foam",
+            "Tea Drink",
+            "Caffeine-Free"
+          ],
+          "product_id": "S17550810556939211_P00007",
+          "attributes": [
+            "Iced",
+            "Room Temperature",
+            "Light Sugar",
+            "Half Sugar",
+            "Full Sugar"
+          ],
+          "product_type": "distraction"
+        }
+      ]
+    },
+    "S17550810556939211_S00002": {
+      "name": "Nayuki Tea",
+      "store_id": "S17550810556939211_S00002",
+      "score": 4.8,
+      "location": {
+        "address": "Nayuki Tea, 1st Floor, Lions Gate Commercial Plaza, 1977 Jiuzhou Avenue Central, Xiangzhou District, Zhuhai City, Guangdong Province",
+        "latitude": 22.271,
+        "longitude": 113.532
+      },
+      "tags": [
+        "Tea Drink",
+        "Soft European Bread",
+        "Premium Tea"
+      ],
+      "store_type": "target",
+      "products": [
+        {
+          "name": "Coffee Jelly Lemon Tea",
+          "store_id": "S17550810556939211_S00002",
+          "store_name": "Nayuki Tea",
+          "price": 29,
+          "tags": [
+            "Contains Caffeine",
+            "Refreshing",
+            "Refreshing",
+            "Popular Drinks"
+          ],
+          "product_id": "S17550810556939211_P00010",
+          "attributes": [
+            "Coconut Jelly",
+            "Pearls",
+            "No Toppings"
+          ],
+          "product_type": "target"
+        },
+        {
+          "name": "Cheese Coffee Jelly",
+          "store_id": "S17550810556939211_S00002",
+          "store_name": "Nayuki Tea",
+          "price": 32,
+          "tags": [
+            "Contains Caffeine",
+            "Refreshing",
+            "Cheese",
+            "Non-Alcoholic"
+          ],
+          "product_id": "S17550810556939211_P00011",
+          "attributes": [
+            "Coffee Jelly Required"
+          ],
+          "product_type": "distraction"
+        }
+      ]
+    },
+    "S17550810556939211_S00003": {
+      "name": "CoCo Tea",
+      "store_id": "S17550810556939211_S00003",
+      "score": 4.5,
+      "location": {
+        "address": "CoCo Tea, 1st Floor, New Youth Plaza, 2021 Jiuzhou Avenue Central, Xiangzhou District, Zhuhai City, Guangdong Province",
+        "latitude": 22.263,
+        "longitude": 113.644
+      },
+      "tags": [
+        "Milk Tea",
+        "Fruit Tea",
+        "Coffee",
+        "Affordable Drinks"
+      ],
+      "store_type": "distraction",
+      "products": [
+        {
+          "name": "Americano",
+          "store_id": "S17550810556939211_S00003",
+          "store_name": "CoCo Tea",
+          "price": 16,
+          "tags": [
+            "Coffee",
+            "Contains Caffeine",
+            "Refreshing",
+            "Hot Drinks"
+          ],
+          "product_id": "S17550810556939211_P00015",
+          "attributes": [
+            "Hot",
+            "Iced",
+            "With Sugar",
+            "No Sugar"
+          ],
+          "product_type": "distraction"
+        },
+        {
+          "name": "Latte Coffee",
+          "store_id": "S17550810556939211_S00003",
+          "store_name": "CoCo Tea",
+          "price": 19,
+          "tags": [
+            "Coffee",
+            "Contains Caffeine",
+            "Milk Flavor",
+            "Refreshing"
+          ],
+          "product_id": "S17550810556939211_P00016",
+          "attributes": [
+            "Hot",
+            "Iced",
+            "With Sugar",
+            "No Sugar"
+          ],
+          "product_type": "distraction"
+        },
+        {
+          "name": "Cocoa Milk Tea",
+          "store_id": "S17550810556939211_S00003",
+          "store_name": "CoCo Tea",
+          "price": 18,
+          "tags": [
+            "Milk Tea",
+            "Cocoa",
+            "Refreshing",
+            "Contains Caffeine"
+          ],
+          "product_id": "S17550810556939211_P00017",
+          "attributes": [
+            "Room Temperature",
+            "Hot",
+            "Iced",
+            "Less Ice",
+            "70% Sugar",
+            "50% Sugar",
+            "30% Sugar"
+          ],
+          "product_type": "distraction"
+        },
+        {
+          "name": "Caramel Macchiato",
+          "store_id": "S17550810556939211_S00003",
+          "store_name": "CoCo Tea",
+          "price": 22,
+          "tags": [
+            "Coffee",
+            "Contains Caffeine",
+            "Caramel",
+            "Milk Foam",
+            "Refreshing"
+          ],
+          "product_id": "S17550810556939211_P00018",
+          "attributes": [
+            "Hot",
+            "Iced",
+            "With Sugar",
+            "No Sugar"
+          ],
+          "product_type": "distraction"
+        },
+        {
+          "name": "Matcha Latte",
+          "store_id": "S17550810556939211_S00003",
+          "store_name": "CoCo Tea",
+          "price": 20,
+          "tags": [
+            "Coffee",
+            "Matcha",
+            "Contains Caffeine",
+            "Refreshing"
+          ],
+          "product_id": "S17550810556939211_P00019",
+          "attributes": [
+            "Hot",
+            "Iced",
+            "70% Sugar",
+            "50% Sugar",
+            "30% Sugar"
+          ],
+          "product_type": "distraction"
+        }
+      ]
+    },
+    "S17550810556939211_S00004": {
+      "name": "HeyTea",
+      "store_id": "S17550810556939211_S00004",
+      "score": 4.7,
+      "location": {
+        "address": "HeyTea, 1st Floor, Zhuhai Department Store Plaza, 1039 Yingbin South Road, Xiangzhou District, Zhuhai City, Guangdong Province",
+        "latitude": 22.274,
+        "longitude": 113.531
+      },
+      "tags": [
+        "Tea Drink",
+        "Cheese",
+        "Fruit Tea",
+        "High-End Tea Drink"
+      ],
+      "store_type": "distraction",
+      "products": [
+        {
+          "name": "Succulent Grape",
+          "store_id": "S17550810556939211_S00004",
+          "store_name": "HeyTea",
+          "price": 32,
+          "tags": [
+            "Fruit Tea",
+            "Grape",
+            "Popular",
+            "Caffeine-Free"
+          ],
+          "product_id": "S17550810556939211_P00020",
+          "attributes": [
+            "Regular Ice",
+            "Less Ice",
+            "No Ice",
+            "Room Temperature",
+            "Hot Drinks",
+            "Full Sugar",
+            "70% Sugar",
+            "50% Sugar",
+            "30% Sugar",
+            "No Added Sugar"
+          ],
+          "product_type": "distraction"
+        },
+        {
+          "name": "Cheezo Berry",
+          "store_id": "S17550810556939211_S00004",
+          "store_name": "HeyTea",
+          "price": 36,
+          "tags": [
+            "Cheese",
+            "Fruit Tea",
+            "Strawberry",
+            "Caffeine-Free"
+          ],
+          "product_id": "S17550810556939211_P00021",
+          "attributes": [
+            "Regular Ice",
+            "Less Ice",
+            "No Ice",
+            "Full Sugar",
+            "70% Sugar",
+            "50% Sugar",
+            "30% Sugar",
+            "No Added Sugar"
+          ],
+          "product_type": "distraction"
+        },
+        {
+          "name": "Cheezo Green Tea",
+          "store_id": "S17550810556939211_S00004",
+          "store_name": "HeyTea",
+          "price": 29,
+          "tags": [
+            "Cheese",
+            "Green Tea",
+            "Jasmine",
+            "Low Caffeine"
+          ],
+          "product_id": "S17550810556939211_P00022",
+          "attributes": [
+            "Toppings Required"
+          ],
+          "product_type": "distraction"
+        },
+        {
+          "name": "Full Cup of Red Grapefruit",
+          "store_id": "S17550810556939211_S00004",
+          "store_name": "HeyTea",
+          "price": 30,
+          "tags": [
+            "Fruit Tea",
+            "Grapefruit",
+            "Refreshing",
+            "Caffeine-Free"
+          ],
+          "product_id": "S17550810556939211_P00023",
+          "attributes": [
+            "Regular Ice",
+            "Less Ice",
+            "No Ice",
+            "Full Sugar",
+            "70% Sugar",
+            "50% Sugar",
+            "30% Sugar",
+            "No Added Sugar"
+          ],
+          "product_type": "distraction"
+        }
+      ]
+    },
+    "S17550810556939211_S00005": {
+      "name": "Starbucks",
+      "store_id": "S17550810556939211_S00005",
+      "score": 4.7,
+      "location": {
+        "address": "Starbucks, 1st Floor, Huafa Mall, 78 Phoenix North Road, Xiangzhou District, Zhuhai City, Guangdong Province",
+        "latitude": 22.274,
+        "longitude": 113.525
+      },
+      "tags": [
+        "Coffee",
+        "Cake",
+        "Light Meal",
+        "Premium Coffee",
+        "No Delivery"
+      ],
+      "store_type": "distraction",
+      "products": [
+        {
+          "name": "Americano",
+          "store_id": "S17550810556939211_S00005",
+          "store_name": "Starbucks",
+          "price": 30,
+          "tags": [
+            "Coffee",
+            "Refreshing",
+            "Contains Caffeine",
+            "Classic Style"
+          ],
+          "product_id": "S17550810556939211_P00025",
+          "attributes": [
+            "Hot",
+            "Iced"
+          ],
+          "product_type": "distraction"
+        },
+        {
+          "name": "Espresso",
+          "store_id": "S17550810556939211_S00005",
+          "store_name": "Starbucks",
+          "price": 25,
+          "tags": [
+            "Coffee",
+            "Refreshing",
+            "Contains Caffeine",
+            "Rich Flavor"
+          ],
+          "product_id": "S17550810556939211_P00026",
+          "attributes": [
+            "Single Shot",
+            "Double Shot"
+          ],
+          "product_type": "distraction"
+        },
+        {
+          "name": "Cold Brew Coffee",
+          "store_id": "S17550810556939211_S00005",
+          "store_name": "Starbucks",
+          "price": 38,
+          "tags": [
+            "Coffee",
+            "Refreshing",
+            "Contains Caffeine",
+            "Cold Brew Process"
+          ],
+          "product_id": "S17550810556939211_P00027",
+          "attributes": [
+            "Medium",
+            "Large"
+          ],
+          "product_type": "distraction"
+        },
+        {
+          "name": "Caramel Macchiato",
+          "store_id": "S17550810556939211_S00005",
+          "store_name": "Starbucks",
+          "price": 36,
+          "tags": [
+            "Coffee",
+            "Refreshing",
+            "Contains Caffeine",
+            "Milk Flavor"
+          ],
+          "product_id": "S17550810556939211_P00028",
+          "attributes": [
+            "Hot",
+            "Iced",
+            "Medium",
+            "Large"
+          ],
+          "product_type": "distraction"
+        },
+        {
+          "name": "Frappuccino",
+          "store_id": "S17550810556939211_S00005",
+          "store_name": "Starbucks",
+          "price": 42,
+          "tags": [
+            "Coffee",
+            "Refreshing",
+            "Contains Caffeine",
+            "Smoothie"
+          ],
+          "product_id": "S17550810556939211_P00029",
+          "attributes": [
+            "Mocha Flavor",
+            "Vanilla Flavor",
+            "Caramel Flavor"
+          ],
+          "product_type": "distraction"
+        }
+      ]
+    }
+  },
+  "orders": {
+    "S17550810556939211_O00004": {
+      "order_id": "S17550810556939211_O00004",
+      "order_type": "train",
+      "user_id": "U564137",
+      "store_id": "S17550810556939211_T00006",
+      "note": "",
+      "location": {
+        "address": "Zhuhai Station, 1001 Yingbin South Road, Xiangzhou District, Zhuhai City, Guangdong Province",
+        "longitude": 113.553,
+        "latitude": 22.215
+      },
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 19.5,
+      "create_time": "2024-02-22 10:25:43",
+      "update_time": "2024-02-22 10:25:43",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17550810556939211_P00030",
+          "price": 19.5,
+          "quantity": 1,
+          "date": "2024-02-24",
+          "seat_type": "Second Class Seat"
+        }
+      ]
+    }
+  }
+}

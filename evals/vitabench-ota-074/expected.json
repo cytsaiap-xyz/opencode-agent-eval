@@ -1,0 +1,148 @@
+{
+  "required_orders": [
+    {
+      "order_id": "D0807013T001",
+      "order_type": "train",
+      "user_id": "U010066",
+      "store_id": "S17557512511049624_T00014",
+      "note": "",
+      "location": null,
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 268,
+      "create_time": "2025-03-21 11:19:32",
+      "update_time": "2025-03-21 11:19:32",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17557512511049624_P00091",
+          "price": 268,
+          "quantity": 1,
+          "date": "2025-03-21",
+          "seat_type": "Business seat"
+        }
+      ]
+    },
+    {
+      "order_id": "D0807013T002",
+      "order_type": "train",
+      "user_id": "U010066",
+      "store_id": "S17557512511049624_T00017",
+      "note": "",
+      "location": null,
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 142,
+      "create_time": "2025-03-21 11:22:32",
+      "update_time": "2025-03-21 11:22:32",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17557512511049624_P00105",
+          "price": 142,
+          "quantity": 1,
+          "date": "2025-03-23",
+          "seat_type": "First class seat"
+        }
+      ]
+    },
+    {
+      "order_id": "D0807013T003",
+      "order_type": "hotel",
+      "user_id": "U010066",
+      "store_id": "S17557512511049624_H00001",
+      "note": "",
+      "location": null,
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 436,
+      "create_time": "2025-03-21 11:25:00",
+      "update_time": "2025-03-21 11:25:00",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17557512511049624_P00003",
+          "price": 218,
+          "quantity": 1,
+          "date": "2025-03-21",
+          "room_type": "Traditional courtyard king room"
+        },
+        {
+          "product_id": "S17557512511049624_P00004",
+          "price": 218,
+          "quantity": 1,
+          "date": "2025-03-22",
+          "room_type": "Traditional courtyard king room"
+        }
+      ]
+    },
+    {
+      "order_id": "S17557512511049624_O00001",
+      "order_type": "flight",
+      "user_id": "U010066",
+      "store_id": "S17557512511049624_F00011",
+      "location": null,
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "note": "",
+      "total_price": 1220,
+      "create_time": "2025-03-18 14:20:00",
+      "update_time": "2025-03-21 11:27:00",
+      "status": "cancelled",
+      "products": [
+        {
+          "product_id": "S17557512511049624_P00079",
+          "price": 1220,
+          "quantity": 1,
+          "date": "2025-03-21",
+          "seat_type": "Economy class"
+        }
+      ]
+    },
+    {
+      "order_id": "D0807013T004",
+      "order_type": "flight",
+      "user_id": "U010066",
+      "store_id": "S17557512511049624_F00012",
+      "note": "",
+      "location": null,
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 1280,
+      "create_time": "2025-03-21 11:29:00",
+      "update_time": "2025-03-21 11:29:00",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17557512511049624_P00080",
+          "price": 1280,
+          "quantity": 1,
+          "date": "2025-03-23",
+          "seat_type": "Economy class"
+        }
+      ]
+    }
+  ],
+  "rubrics": [
+    "The departure location of the outbound train should be Chengdu",
+    "The destination of the outbound train should be Langzhong",
+    "Need to check if there are high-speed train tickets from Chengdu to Langzhong after 20:00 (including 20:00) on 2025-03-21, and the result is yes (Train D5181 departing at 20:35 on 2025-03-21), the date in the outbound train ticket order should be 2025-03-21",
+    "The departure location of the return train should be Langzhong",
+    "The destination of the return train should be Chengdu",
+    "The departure date of the return train should be 2025-03-23",
+    "The departure time of the return train should be around 12:00",
+    "The seat type in the return train order should be first class seat",
+    "The hotel ordered should be located within the Langzhong Ancient City",
+    "The price of the hotel ordered should be around 200 yuan",
+    "The hotel order should include rooms for two nights, which must be 2025-03-21 and 2025-03-22 respectively",
+    "The status of the order with order ID S17557512511049624_O00001 should be cancelled",
+    "The departure date of the flight ordered should be 2025-03-23",
+    "The takeoff time of the flight ordered should be between 17:00-18:00",
+    "The seat type in the flight ticket order should be economy class"
+  ]
+}

@@ -1,0 +1,98 @@
+{
+  "required_orders": [
+    {
+      "order_id": "OIb192a86a68",
+      "order_type": "instore",
+      "user_id": "U010067",
+      "store_id": "S17550811928169174_I00014",
+      "note": "",
+      "location": null,
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 2188,
+      "create_time": "2024-10-27 11:49:58",
+      "update_time": "2024-10-27 11:49:58",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17550811928169174_P00070",
+          "price": 2188,
+          "quantity": 1,
+          "name": "Business Set Meal for 6-8 People",
+          "shop_id": "S17550811928169174_I00014",
+          "tags": [
+            "Business Banquet",
+            "Cantonese Cuisine",
+            "High-End"
+          ]
+        }
+      ]
+    },
+    {
+      "book_id": "OI98ab55e38b",
+      "shop_id": "S17550811928169174_I00014",
+      "book_time": "2024-10-27 18:00:00",
+      "update_time": "2024-10-27 11:48:28",
+      "customer_id": "U010067",
+      "customer_count": 8,
+      "book_price": 60,
+      "status": "paid"
+    },
+    {
+      "order_id": "OT960844b251",
+      "order_type": "delivery",
+      "user_id": "U010067",
+      "store_id": "S17550811928169174_S00006",
+      "note": "Place at the community property management center",
+      "location": {
+        "address": "Tianji Golden Waterfront, 180 meters north of the intersection of Yinqueshan Road and Binhe Road, Lanshan District, Linyi, Shandong Province",
+        "longitude": 118.341258,
+        "latitude": 35.052176
+      },
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 498,
+      "create_time": "2024-10-27 11:53:18",
+      "update_time": "2024-10-27 11:53:18",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17550811928169174_P00027",
+          "price": 498,
+          "quantity": 1,
+          "name": "Wuyi Mountain Jin Jun Mei Gift Box",
+          "store_id": "S17550811928169174_S00006",
+          "store_name": "Yayun Tea House",
+          "attributes": "Premium grade",
+          "tags": [
+            "High-End Tea",
+            "Ideal Gift",
+            "Authentic Wuyi Mountain",
+            "Elegant Packaging"
+          ]
+        }
+      ]
+    }
+  ],
+  "rubrics": [
+    "The restaurant ordered should be a high-end business restaurant",
+    "The ordered restaurant should be within 500 meters (including 500 meters) from Linyi Commercial Center Exhibition Center",
+    "The restaurant reservation time should be October 27, 2024 at 18:00",
+    "The restaurant reservation should be for 6-8 people",
+    "The restaurant for purchasing the set meal order should be Yu Pin Xuan",
+    "The restaurant set meal order should include one Business Set Meal for 6-8 People",
+    "The tea should have elegant packaging",
+    "The tea should be in standard packaging",
+    "The unit price of the tea should be between 400-600 yuan",
+    "The delivery location for the tea must be Tianji Golden Waterfront, 180 meters north of the intersection of Yinqueshan Road and Binhe Road, Lanshan District, Linyi, Shandong Province",
+    "The estimated delivery time for the tea should be before 22:00 on October 27, 2024 (including 22:00)",
+    "The tea order should include the note 'Leave at community property management center'",
+    "The departure station for the train ticket should be Linyi",
+    "The arrival station for the train ticket should be Jinan",
+    "The departure date for the train ticket should be October 28, 2024",
+    "The departure time for the train ticket should be between 09:00-11:00",
+    "Need to check for the fastest train from Linyi to Jinan on October 28, 2024, between 09:00-11:00, with the result being train G1234 (travel time: 1 hour and 20 minutes)"
+  ]
+}

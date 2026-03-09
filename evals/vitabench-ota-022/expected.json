@@ -1,0 +1,87 @@
+{
+  "required_orders": [
+    {
+      "order_id": "70812001T001",
+      "order_type": "train",
+      "user_id": "U634247",
+      "store_id": "S17557505501603486_T00013",
+      "note": "",
+      "location": null,
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 553,
+      "create_time": "2026-08-23 11:24:53",
+      "update_time": "2026-08-23 11:24:53",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17557505501603486_P00096",
+          "price": 553,
+          "quantity": 1,
+          "date": "2026-08-26",
+          "seat_type": "Second Class Seat"
+        }
+      ]
+    },
+    {
+      "order_id": "70812001T002",
+      "order_type": "flight",
+      "user_id": "U634247",
+      "store_id": "S17557505501603486_F00011",
+      "note": "",
+      "location": null,
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 790,
+      "create_time": "2026-08-23 11:27:53",
+      "update_time": "2026-08-23 11:27:53",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17557505501603486_P00085",
+          "price": 790,
+          "quantity": 1,
+          "date": "2026-08-30",
+          "seat_type": "Economy Class"
+        }
+      ]
+    },
+    {
+      "order_id": "70812001T003",
+      "order_type": "attraction",
+      "user_id": "U634247",
+      "store_id": "S17557505501603486_A00006",
+      "note": "",
+      "location": null,
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 80,
+      "create_time": "2026-08-23 11:29:53",
+      "update_time": "2026-08-23 11:29:53",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17557505501603486_P00055",
+          "price": 80,
+          "quantity": 1,
+          "date": "2026-08-29",
+          "ticket_type": "Adult Ticket"
+        }
+      ]
+    }
+  ],
+  "rubrics": [
+    "Outbound travel date is August 26, 2026, when Hefei weather will be thundershowers, so train transportation should be chosen, requiring train ticket purchase",
+    "Outbound train journey should not exceed 5 hours",
+    "Outbound train ticket should be from Xiamen to Hefei",
+    "Return date should be August 30, 2026",
+    "Train tickets departing from Hefei and arriving in Xiamen around 17:00 on August 30, 2026 are sold out, so air tickets should be purchased for the return journey",
+    "Return flight arrival time should be around 17:00 on August 30, 2026",
+    "Return flight should be from Hefei to Xiamen",
+    "Attraction order should be for Sanhe Ancient Town tickets",
+    "Attraction tickets should be used on August 29, 2026"
+  ]
+}

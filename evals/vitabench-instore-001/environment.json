@@ -1,0 +1,186 @@
+{
+  "task_id": "10826004",
+  "domain": "instore",
+  "time": "2025-11-06 14:30:00",
+  "user_id": "U623530",
+  "weather": [
+    {
+      "city": "Taiyuan City",
+      "category": "sunny",
+      "datetime": "2025-11-06",
+      "temperature": [
+        5,
+        13
+      ],
+      "humidity": 40
+    },
+    {
+      "city": "Taiyuan City",
+      "category": "overcast",
+      "datetime": "2025-11-07",
+      "temperature": [
+        3,
+        10
+      ],
+      "humidity": 55
+    }
+  ],
+  "location": [
+    {
+      "address": "Room 502, Unit 1, Building 3, Longcheng Shangdu, 136 Qinxian North Street, Xiaodian District, Taiyuan City",
+      "longitude": 112.5723,
+      "latitude": 37.7789
+    }
+  ],
+  "user_profile": {
+    "user id": "U623530",
+    "occupation": "Freelancer",
+    "gender": "male",
+    "age group": "30~35",
+    "residence": "Taiyuan",
+    "home address": "Room 502, Unit 1, Building 3, Longcheng Shangdu, 136 Qinxian North Street, Xiaodian District, Taiyuan City",
+    "work address": "No. 4, 1st Floor, Building 2, 328 Changzhi Road, Xiaodian District, Taiyuan City",
+    "dietary restrictions": "No alcohol, no high-fat organ meats",
+    "family status": "Has children",
+    "personality": "Impatient, frequently rushes things, lacks patience to wait for processes"
+  },
+  "user_historical_behaviors": {
+    "user id": "U623530",
+    "occupation": "Freelancer",
+    "gender": "male",
+    "age group": "30~35",
+    "residence": "Taiyuan",
+    "home address": "Room 502, Unit 1, Building 3, Longcheng Shangdu, 136 Qinxian North Street, Xiaodian District, Taiyuan City",
+    "work address": "No. 4, 1st Floor, Building 2, 328 Changzhi Road, Xiaodian District, Taiyuan City",
+    "in-store dining": {
+      "fine-dining": {
+        "frequently purchased categories": [
+          "Regional Cuisine/Sichuan Cuisine (Average ¥95)",
+          "Regional Cuisine/Fish Dishes (Average ¥120)",
+          "Hot Pot (Average ¥135)"
+        ],
+        "preferred average price per person": "¥85~240",
+        "preferred store rating": "4.2~4.8 stars",
+        "typical dining time": "11:30-20:30",
+        "preferred distance": "500~5000m",
+        "recent orders": [
+          {
+            "store": "Shu Xiang Ge Sichuan Restaurant",
+            "product": "Boiled Fish + Dry-fried String Beans + Twice-cooked Pork"
+          },
+          {
+            "store": "Yu Le Wan",
+            "product": "Steamed Sea Bass + Sour Soup Fish"
+          },
+          {
+            "store": "Xiao Long Kan Hot Pot (Qinxian Branch)",
+            "product": "Set Meal for Three Group Purchase"
+          }
+        ],
+        "search history": [
+          "Best Sichuan restaurants in Taiyuan",
+          "Family-friendly restaurants",
+          "Non-spicy hot pot"
+        ]
+      },
+      "light meal": {
+        "frequently purchased categories": [
+          "Quick Meals/Chinese Simple Meals (Average ¥35)",
+          "Quick Meals/Western Fast Food (Average ¥45)",
+          "Regional Cuisine/Special Dishes (Average ¥55)"
+        ],
+        "preferred average price per person": "¥25~60",
+        "preferred store rating": "3.5~4.3 stars",
+        "typical dining time": "11:30-13:00",
+        "preferred distance": "0~1000m",
+        "recent orders": [
+          {
+            "store": "Yonghe King",
+            "product": "Signature Soy Milk + Meat Floss Cake"
+          },
+          {
+            "store": "Sha County Snacks",
+            "product": "Three Delicacies Soup + Steamed Dumplings"
+          },
+          {
+            "store": "McDonald's (Xiaodian District Qinxian Street Branch)",
+            "product": "Big Mac Combo"
+          }
+        ],
+        "search history": [
+          "Fast food near work",
+          "Cheap and delicious lunch",
+          "Kids meal"
+        ]
+      },
+      "desserts/drinks/snacks": {
+        "frequently purchased categories": [
+          "Beverage Shops (Average ¥18)",
+          "Bread and Desserts (Average ¥25)",
+          "Other Dining/Fresh Fruits (Average ¥15)"
+        ],
+        "preferred average price per person": "¥15~30",
+        "preferred store rating": "3.8~4.5 stars",
+        "typical dining time": "15:00-16:30",
+        "preferred distance": "0~800m",
+        "recent orders": [
+          {
+            "store": "COCO",
+            "product": "Mango Slush"
+          },
+          {
+            "store": "85°C",
+            "product": "Cheesecake + Americano"
+          },
+          {
+            "store": "Fresh Fruit Station",
+            "product": "Fruit Platter"
+          }
+        ],
+        "search history": [
+          "Low sugar drinks",
+          "Desserts for kids",
+          "Healthy fruits"
+        ]
+      }
+    },
+    "other in-store services": {
+      "frequently consumed categories": {
+        "Sports Fitness/Ball Sports": "45%",
+        "Leisure Entertainment/Massage/Foot Therapy": "30%",
+        "Parent-Child/Family Entertainment": "25%"
+      },
+      "cost per order by category": {
+        "Sports Fitness/Ball Sports": "¥60~120",
+        "Leisure Entertainment/Massage/Foot Therapy": "¥120~200",
+        "Parent-Child/Family Entertainment": "¥80~160",
+        "Beauty/Haircut": "¥80~150"
+      },
+      "preferred store rating": "4.0~4.7 stars",
+      "preferred service time": "19~21 o'clock",
+      "preferred distance": "0~5000m",
+      "recent orders": [
+        {
+          "store": "Power Space Basketball Court",
+          "product": "Two-person 2-hour Court Rental"
+        },
+        {
+          "store": "Zufutang Wellness Center",
+          "product": "Full Body Massage Package"
+        },
+        {
+          "store": "Miracle Fitness",
+          "product": "Single Entry Card"
+        }
+      ],
+      "search history": [
+        "Parent-child activities in Taiyuan",
+        "Weekend basketball court",
+        "Men's massage",
+        "Gym Single Entry Card"
+      ]
+    }
+  },
+  "stores": {},
+  "orders": {}
+}

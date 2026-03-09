@@ -1,0 +1,946 @@
+{
+  "task_id": "10806002",
+  "domain": "cross_domain",
+  "time": "2025-05-21 20:15:00",
+  "user_id": "U001001",
+  "weather": [
+    {
+      "city": "Kunming",
+      "category": "cloudy",
+      "datetime": "2025-05-29",
+      "temperature": [
+        18,
+        28
+      ],
+      "humidity": 65
+    },
+    {
+      "city": "Wuxi",
+      "category": "showers",
+      "datetime": "2025-05-29",
+      "temperature": [
+        21,
+        29
+      ],
+      "humidity": 75
+    }
+  ],
+  "location": [
+    {
+      "address": "Room 502, Unit 1, Building 3, Rongcheng Youjun, Yanjiadi Urban Village Reconstruction Project (420 meters walk from Exit B of Yanjiadi Metro Station), Xishan District, Kunming City, Yunnan Province",
+      "longitude": 102.694395,
+      "latitude": 25.021839
+    },
+    {
+      "address": "Tutu Guitu Boutique Homestay, No. 114 Baicao Village, Guanyinshan Community, Biji Street Office, Xishan District, Kunming City, Yunnan Province",
+      "longitude": 102.65345,
+      "latitude": 24.828063
+    },
+    {
+      "address": "Kunming Changshui International Airport, Changshui Community, Dabanqiao Street, Guandu District, Kunming City, Yunnan Province",
+      "longitude": 102.935835,
+      "latitude": 25.099565
+    }
+  ],
+  "user_profile": {
+    "user id": "U001001",
+    "occupation": "Freelancer",
+    "gender": "male",
+    "age group": "25~30",
+    "residence": "Kunming",
+    "home address": "Room 502, Unit 1, Building 3, Rongcheng Youjun, Yanjiadi Urban Village Reconstruction Project (420 meters walk from Exit B of Yanjiadi Metro Station), Xishan District, Kunming City, Yunnan Province",
+    "work address": "5th Floor, Maker Space, No. 23 Longxiang Street, Shuncheng Street, Wuhua District, Kunming",
+    "dietary restrictions": "No high purine foods (such as organ meats/seafood soups), No caffeine",
+    "family status": "Has pets",
+    "personality": "Extremely demanding about details, tends to be picky and dissatisfied"
+  },
+  "user_historical_behaviors": {
+    "user id": "U001001",
+    "occupation": "self-employed",
+    "gender": "male",
+    "age group": "25~30",
+    "residence": "Kunming",
+    "home address": "Room 502, Unit 1, Building 3, Rongcheng Youjun, Yanjiadi Urban Village Reconstruction Project (420 meters walk from Exit B of Yanjiadi Metro Station), Xishan District, Kunming City, Yunnan Province",
+    "work address": "5th Floor, Maker Space, No. 23 Longxiang Street, Shuncheng Street, Wuhua District, Kunming",
+    "Takeout scenario": {
+      "food delivery": {
+        "breakfast": {
+          "frequently purchased categories": [
+            "Quick Meals/Steamed Buns/Pan-fried Buns (Average ¥18)",
+            "Quick Meals/Light Food (Average ¥32)",
+            "Beverages & Desserts/Coffee (Average ¥25)"
+          ],
+          "cost per order": "¥15~35",
+          "preferred store rating": "4.3~4.8",
+          "preferred delivery time": "15~30 minutes",
+          "preferred distance": "0~2500m",
+          "recent orders": [
+            {
+              "store": "Fresh Meat Bun King",
+              "product": "Crab Roe Soup Dumplings + Soy Milk"
+            },
+            {
+              "store": "Three-Minute Light Food",
+              "product": "Vegetable Chicken Breast Sandwich + Black Coffee"
+            },
+            {
+              "store": "Starbucks",
+              "product": "Americano + Whole Wheat Toast"
+            }
+          ],
+          "search history": [
+            "Low-sugar breakfast",
+            "Light food",
+            "Coffee",
+            "Protein breakfast",
+            "Pan-fried buns"
+          ]
+        },
+        "weekday lunch/dinner": {
+          "frequently purchased categories": [
+            "Quick Meals/Healthy Meals (Average ¥45)",
+            "International Cuisine/Stone Pot Rice/Teppanyaki Rice (Average ¥38)",
+            "Chinese Cuisine/Grilled Fish (Average ¥60)"
+          ],
+          "cost per order": "¥35~65",
+          "preferred store rating": "4.5~4.9",
+          "preferred delivery time": "20~40 minutes",
+          "preferred distance": "0~3500m",
+          "recent orders": [
+            {
+              "store": "Light Food Salad Workshop",
+              "product": "Quinoa Chicken Breast Salad + Avocado"
+            },
+            {
+              "store": "Little Lin's Korean Cuisine",
+              "product": "Stone Pot Bibimbap (Mildly Spicy)"
+            },
+            {
+              "store": "Fish Rendezvous Grilled Fish",
+              "product": "Steamed Black Fish Set (Less Oil Less Salt)"
+            }
+          ],
+          "search history": [
+            "Healthy lunch",
+            "Low-fat dinner",
+            "Steamed dishes",
+            "Korean bibimbap",
+            "Non-spicy grilled fish"
+          ]
+        },
+        "weekend lunch/dinner": {
+          "frequently purchased categories": [
+            "International Cuisine/Japanese Bento/Sushi (Average ¥88)",
+            "International Cuisine/Thai Food (Average ¥120)",
+            "Chinese Cuisine/Cantonese Food (Average ¥150)"
+          ],
+          "cost per order": "¥80~180",
+          "preferred store rating": "4.6~5.0",
+          "preferred delivery time": "30~45 minutes",
+          "preferred distance": "0~5000m",
+          "recent orders": [
+            {
+              "store": "Xian Shen Sushi",
+              "product": "Salmon Sashimi Set + Chawanmushi"
+            },
+            {
+              "store": "Thai Style",
+              "product": "Tom Yum Soup + Thai Lemon Fish (Mildly Spicy)"
+            },
+            {
+              "store": "Yue Lai Yue Hao",
+              "product": "Steamed Sea Bass + Garlic Baby Cabbage"
+            }
+          ],
+          "search history": [
+            "Wuxi high-end restaurants",
+            "Japanese cuisine",
+            "Healthy Cantonese food",
+            "Thai food",
+            "Seafood"
+          ]
+        },
+        "desserts/drinks/snacks": {
+          "frequently purchased categories": [
+            "Beverages & Desserts/Pure Tea/Herbal Tea (Average ¥22)",
+            "Beverages & Desserts/Fruit Salad (Average ¥32)",
+            "Beverages & Desserts/Coffee (Average ¥30)"
+          ],
+          "cost per order": "¥20~40",
+          "preferred store rating": "4.7~5.0",
+          "preferred delivery time": "15~30 minutes",
+          "preferred distance": "0~3000m",
+          "recent orders": [
+            {
+              "store": "Cha Yan Yue Se",
+              "product": "Oolong Tea (Sugar-free)"
+            },
+            {
+              "store": "Fresh Cut Fruit Salad",
+              "product": "Fruit Salad (No Sugar Added)"
+            },
+            {
+              "store": "Premium Coffee Shop",
+              "product": "Cold Brew Coffee"
+            }
+          ],
+          "search history": [
+            "Sugar-free beverages",
+            "Low-sugar desserts",
+            "Fruit",
+            "Healthy drinks",
+            "Cold brew tea"
+          ]
+        },
+        "night snack": {
+          "frequently purchased categories": [
+            "Quick Meals/Small Bowls/Small Dishes (Average ¥35)",
+            "Snacks & Braised Food/Braised Items (Average ¥28)",
+            "Quick Meals/Rice Noodles (Average ¥25)"
+          ],
+          "cost per order": "¥20~45",
+          "preferred store rating": "4.3~4.8",
+          "preferred delivery time": "20~35 minutes",
+          "preferred distance": "0~3500m",
+          "recent orders": [
+            {
+              "store": "Homestyle Small Dishes",
+              "product": "Steamed Fresh Fish + Stir-fried Seasonal Vegetables"
+            },
+            {
+              "store": "Time-honored Braised Food",
+              "product": "Braised Chicken Wings (Mildly Spicy) + Braised Tofu"
+            },
+            {
+              "store": "Yunnan Crossing Bridge Rice Noodles",
+              "product": "Clear Broth Rice Noodles + Fresh Mushrooms"
+            }
+          ],
+          "search history": [
+            "Post-livestream midnight snack",
+            "Low-fat night snack",
+            "Non-spicy braised food",
+            "Stomach-friendly night snack",
+            "Light dishes"
+          ]
+        }
+      },
+      "product delivery": {
+        "frequently purchased categories": [
+          "Pet Supplies (30%)",
+          "Snack Foods (22%)",
+          "Vegetables/Bean Products (18%)",
+          "Raw Meat/Poultry/Eggs (15%)",
+          "Household Items (10%)",
+          "Others (5%)"
+        ],
+        "frequently visited stores": [
+          "Seven Fresh Supermarket (38%)",
+          "FamilyMart Convenience Store (25%)",
+          "Love For Life Pet Store (18%)",
+          "Other Stores (19%)"
+        ],
+        "cost per order by category": {
+          "Pet Supplies": "¥30~150",
+          "Snack Foods": "¥10~40",
+          "Vegetables/Bean Products": "¥5~25",
+          "Raw Meat/Poultry/Eggs": "¥20~60",
+          "Household Items": "¥15~50"
+        },
+        "preferred delivery time": "30~60 minutes",
+        "typical order time": "18~20 (35%), 12~14 (25%), 20~22 (20%)",
+        "recent orders": [
+          {
+            "store": "Love For Life Pet Store",
+            "product": "Cat Food Cans"
+          },
+          {
+            "store": "Seven Fresh Supermarket",
+            "product": "Pork Belly 500g"
+          },
+          {
+            "store": "FamilyMart Convenience Store",
+            "product": "Potato Chips + Mineral Water"
+          }
+        ],
+        "search history": [
+          "Cat food",
+          "Cat litter",
+          "Pork belly",
+          "Potato chips",
+          "Dishwashing liquid",
+          "Tofu"
+        ]
+      }
+    },
+    "In-store scenario": {
+      "in-store dining": {
+        "fine-dining": {
+          "frequently consumed categories": [
+            "Regional Cuisine/Sichuan Cuisine (Average ¥120)",
+            "International Cuisine/Japanese Food (Average ¥150)",
+            "Regional Cuisine/Yunnan Cuisine (Average ¥95)"
+          ],
+          "preferred average price per person": "¥90~150",
+          "preferred store rating": "4.0~4.8 stars",
+          "typical dining time": "18:30-20:30",
+          "preferred distance": "500~3000m",
+          "recent orders": [
+            {
+              "store": "Dian Wei Xuan (Shuncheng Branch)",
+              "product": "Steamed Pot Chicken Package"
+            },
+            {
+              "store": "Ippudo (Kunming Joy City Branch)",
+              "product": "Signature Red Maruten Tonkotsu Ramen"
+            },
+            {
+              "store": "Chuan Xi Ba Zi (South Asia Branch)",
+              "product": "Spicy Blood Curd Stew + Dry Pot Bullfrog"
+            }
+          ],
+          "search history": [
+            "Spicy food lover",
+            "Japanese cuisine",
+            "Yunnan Special Feature",
+            "Restaurants with good ambiance"
+          ]
+        },
+        "light meal": {
+          "frequently consumed categories": [
+            "Snacks & Fast Food/Chinese Quick Meals (Average ¥35)",
+            "Regional Cuisine/Special Dishes (Average ¥45)",
+            "Snacks & Fast Food/Western Fast Food (Average ¥30)"
+          ],
+          "preferred average price per person": "¥25~50",
+          "preferred store rating": "3.5~4.2 stars",
+          "typical dining time": "11:30-13:00",
+          "preferred distance": "0~800m",
+          "recent orders": [
+            {
+              "store": "Yunnan Crossing Bridge Rice Noodles (Maker Space Branch)",
+              "product": "Special Small Pot Rice Noodles"
+            },
+            {
+              "store": "Salad Fashion (Baita Road Branch)",
+              "product": "Quinoa Chicken Breast Salad"
+            },
+            {
+              "store": "Stewed Yellow Chicken Rice (Shuncheng Commercial District Branch)",
+              "product": "Mildly Spicy Yellow Stewed Chicken with Rice"
+            }
+          ],
+          "search history": [
+            "Healthy lunch",
+            "Rice noodles",
+            "Bento",
+            "Fast service"
+          ]
+        },
+        "desserts/drinks/snacks": {
+          "frequently consumed categories": [
+            "Beverage Shops (Average ¥18)",
+            "Bakery & Desserts (Average ¥25)"
+          ],
+          "preferred average price per person": "¥15~30",
+          "preferred store rating": "3.7~4.5 stars",
+          "typical dining time": "15:00-16:30",
+          "preferred distance": "0~600m",
+          "recent orders": [
+            {
+              "store": "Cha Yan Yue Se (Kunming Branch)",
+              "product": "Cheese Frost Jade Phoenix (Decaffeinated)"
+            },
+            {
+              "store": "Fresh Green Tea (Maker Space Branch)",
+              "product": "Sugar-free Green Tea"
+            },
+            {
+              "store": "85°C (Rongcheng Branch)",
+              "product": "Nut Cheesecake"
+            }
+          ],
+          "search history": [
+            "Low-sugar beverages",
+            "Caffeine-free",
+            "Afternoon Tea",
+            "Fruit tea"
+          ]
+        }
+      },
+      "other in-store services": {
+        "frequently consumed categories": {
+          "Pets/Pet Hospitals": "30%",
+          "Sports & Fitness/Fitness Centers": "40%",
+          "Sports & Fitness/Sports Venues": "20%",
+          "Entertainment/Massage/Foot Therapy": "10%"
+        },
+        "cost per order by category": {
+          "Pets/Pet Hospitals": "¥80~300",
+          "Sports & Fitness/Fitness Centers": "¥100~200 per visit",
+          "Sports & Fitness/Sports Venues": "¥50~120 per visit",
+          "Entertainment/Massage/Foot Therapy": "¥120~180"
+        },
+        "preferred store rating": "4.0~4.8 stars",
+        "preferred service time": "18:00-21:00",
+        "preferred distance": "0~3000m",
+        "recent orders": [
+          {
+            "store": "Love Pet Animal Hospital (Panlong District Branch)",
+            "product": "Pet Physical Examination Package"
+          },
+          {
+            "store": "Super Gorilla Fitness (Kunming Branch)",
+            "product": "Single Training Session"
+          },
+          {
+            "store": "Kunming Sports Center",
+            "product": "Badminton Court 2 Hours"
+          }
+        ],
+        "search history": [
+          "Pet hospital",
+          "Gym",
+          "Badminton court",
+          "Group sports",
+          "Pet boarding"
+        ]
+      }
+    },
+    "OTA": {
+      "visited scenes": {
+        "Cultural Heritage Sites": "35%",
+        "Exhibition Halls (Museums/Art Galleries)": "25%",
+        "Natural Landscapes (Mountains/Lakes/Forests)": "20%",
+        "Theme Parks": "15%",
+        "Hot Spring Scenic Areas": "5%"
+      },
+      "cost per night on hotel": "¥1000~2000",
+      "visited hotels": {
+        "Atour": "30%",
+        "Marriott": "25%",
+        "Huazhu": "20%",
+        "Shangri-La": "15%",
+        "Vienna": "10%"
+      },
+      "browsed hotels": {
+        "Four-star Hotels": "45%",
+        "Five-star Hotels": "30%",
+        "Luxury Hotels": "15%",
+        "Comfortable Hotels": "10%"
+      },
+      "historical travel plans": {
+        "Kunming-Beijing": {
+          "price range": "¥1500-3000",
+          "transportation": "Flight"
+        },
+        "Kunming-Shanghai": {
+          "price range": "¥1800-3200",
+          "transportation": "Flight"
+        },
+        "Kunming-Dali": {
+          "price range": "¥120-200",
+          "transportation": "High-speed Train/EMU"
+        },
+        "Kunming-Lijiang": {
+          "price range": "¥150-250",
+          "transportation": "High-speed Train/EMU"
+        },
+        "Kunming-Xishuangbanna": {
+          "price range": "¥800-1200",
+          "transportation": "Flight"
+        },
+        "Kunming-Shangri-La": {
+          "price range": "¥400-600",
+          "transportation": "Long-distance Bus"
+        }
+      }
+    }
+  },
+  "stores": {
+    "S17550802129832489_S00001": {
+      "name": "Fitness Pioneer Sports Equipment Store",
+      "store_id": "S17550802129832489_S00001",
+      "score": 4.7,
+      "location": {
+        "address": "Fitness Pioneer Sports Equipment Store, No. 162 Dongfeng West Road, Wuhua District, Kunming",
+        "latitude": 25.042,
+        "longitude": 102.705
+      },
+      "tags": [
+        "Sports Equipment",
+        "Fitness Equipment",
+        "Fast Delivery"
+      ],
+      "store_type": "target",
+      "products": [
+        {
+          "name": "Beginner's Adjustable Dumbbell Set (2kg*2)",
+          "store_id": "S17550802129832489_S00001",
+          "store_name": "Fitness Pioneer Sports Equipment Store",
+          "price": 129.9,
+          "tags": [
+            "Home Exercise",
+            "Lightweight"
+          ],
+          "product_id": "S17550802129832489_P00001",
+          "attributes": [],
+          "product_type": "target"
+        },
+        {
+          "name": "Home Fitness Beginner Dumbbells (3kg*2)",
+          "store_id": "S17550802129832489_S00001",
+          "store_name": "Fitness Pioneer Sports Equipment Store",
+          "price": 149.9,
+          "tags": [
+            "Basic Training",
+            "Home Workout",
+            "Anti-slip Design"
+          ],
+          "product_id": "S17550802129832489_P00002",
+          "attributes": [],
+          "product_type": "target"
+        },
+        {
+          "name": "Beginner's Fitness Dumbbells (5kg*2)",
+          "store_id": "S17550802129832489_S00001",
+          "store_name": "Fitness Pioneer Sports Equipment Store",
+          "price": 189.9,
+          "tags": [
+            "Suitable for Beginners",
+            "Home Exercise",
+            "Rubber Edge",
+            "Non-slip Grip"
+          ],
+          "product_id": "S17550802129832489_P00003",
+          "attributes": [],
+          "product_type": "distraction"
+        },
+        {
+          "name": "Professional Fitness Dumbbell Set (8kg*2)",
+          "store_id": "S17550802129832489_S00001",
+          "store_name": "Fitness Pioneer Sports Equipment Store",
+          "price": 259.9,
+          "tags": [
+            "Advanced Training",
+            "Professional Grade",
+            "Durable Material",
+            "High-Intensity Training"
+          ],
+          "product_id": "S17550802129832489_P00004",
+          "attributes": [],
+          "product_type": "distraction"
+        },
+        {
+          "name": "Multi-functional Fitness Equipment Set",
+          "store_id": "S17550802129832489_S00001",
+          "store_name": "Fitness Pioneer Sports Equipment Store",
+          "price": 499.9,
+          "tags": [
+            "Comprehensive Training",
+            "Multi-functional",
+            "Home Gym",
+            "Full Body Workout"
+          ],
+          "product_id": "S17550802129832489_P00005",
+          "attributes": [],
+          "product_type": "distraction"
+        }
+      ]
+    },
+    "S17550802129832489_S00002": {
+      "name": "Power Fitness Equipment Specialty Store",
+      "store_id": "S17550802129832489_S00002",
+      "score": 4.5,
+      "location": {
+        "address": "Power Fitness Equipment Specialty Store, No. 668 Huancheng South Road, Xishan District, Kunming",
+        "latitude": 25.023,
+        "longitude": 102.682
+      },
+      "tags": [
+        "Fitness Equipment",
+        "Professional Equipment",
+        "Quality Guarantee"
+      ],
+      "store_type": "target",
+      "products": [
+        {
+          "name": "Basic Training Dumbbell Set (2kg*2)",
+          "store_id": "S17550802129832489_S00002",
+          "store_name": "Power Fitness Equipment Specialty Store",
+          "price": 89.9,
+          "tags": [
+            "Entry-Level",
+            "Home Fitness",
+            "Lightweight"
+          ],
+          "product_id": "S17550802129832489_P00006",
+          "attributes": [
+            "Black",
+            "Rubber Edge",
+            "Non-slip Grip"
+          ],
+          "product_type": "target"
+        },
+        {
+          "name": "Adjustable Dumbbells (2-10kg)",
+          "store_id": "S17550802129832489_S00002",
+          "store_name": "Power Fitness Equipment Specialty Store",
+          "price": 299,
+          "tags": [
+            "Adjustable Weight",
+            "Multi-functional",
+            "Space-Saving",
+            "Advanced Training"
+          ],
+          "product_id": "S17550802129832489_P00007",
+          "attributes": [
+            "Gray",
+            "Quick Adjustment Knob",
+            "Non-slip Grip"
+          ],
+          "product_type": "distraction"
+        },
+        {
+          "name": "Beginner Fitness Dumbbell Set (3kg*2)",
+          "store_id": "S17550802129832489_S00002",
+          "store_name": "Power Fitness Equipment Specialty Store",
+          "price": 119,
+          "tags": [
+            "Home Fitness",
+            "Basic Training"
+          ],
+          "product_id": "S17550802129832489_P00008",
+          "attributes": [
+            "Blue",
+            "Non-slip Grip",
+            "Rubber Edge"
+          ],
+          "product_type": "target"
+        },
+        {
+          "name": "Professional Bodybuilding Dumbbells (15kg*2)",
+          "store_id": "S17550802129832489_S00002",
+          "store_name": "Power Fitness Equipment Specialty Store",
+          "price": 399,
+          "tags": [
+            "Professional Grade",
+            "Weight Training",
+            "Bodybuilding and Shaping",
+            "High-Intensity Workout"
+          ],
+          "product_id": "S17550802129832489_P00009",
+          "attributes": [
+            "Black",
+            "Steel Material",
+            "Non-slip Grip"
+          ],
+          "product_type": "distraction"
+        }
+      ]
+    },
+    "S17550802129832489_S00003": {
+      "name": "Yunnan Specialty Gift Shop",
+      "store_id": "S17550802129832489_S00003",
+      "score": 4.8,
+      "location": {
+        "address": "Yunnan Specialty Gift Shop, No. 532 Beijing Road, Panlong District, Kunming",
+        "latitude": 25.056,
+        "longitude": 102.725
+      },
+      "tags": [
+        "Yunnan Specialties",
+        "Souvenir",
+        "Gift Wrapping"
+      ],
+      "store_type": "target",
+      "products": [
+        {
+          "name": "Yunnan Rose Flower Cake Gift Box (10 pieces)",
+          "store_id": "S17550802129832489_S00003",
+          "store_name": "Yunnan Specialty Gift Shop",
+          "price": 21.9,
+          "tags": [
+            "Yunnan Specialties",
+            "Souvenir",
+            "Kunming Specialty",
+            "Elegant Packaging"
+          ],
+          "product_id": "S17550802129832489_P00011",
+          "attributes": [
+            "Standard Size",
+            "Elegant Gift Box"
+          ],
+          "product_type": "target"
+        },
+        {
+          "name": "Yunnan Specialty Dian Hong Black Tea Gift Box (50g)",
+          "store_id": "S17550802129832489_S00003",
+          "store_name": "Yunnan Specialty Gift Shop",
+          "price": 38.8,
+          "tags": [
+            "Yunnan Specialties",
+            "Dian Hong Black Tea",
+            "Souvenir",
+            "Kunming Specialty",
+            "Elegant Packaging"
+          ],
+          "product_id": "S17550802129832489_P00013",
+          "attributes": [
+            "Standard Size",
+            "Elegant Gift Box"
+          ],
+          "product_type": "target"
+        },
+        {
+          "name": "Yunnan Dendrobium Gift Box (100g)",
+          "store_id": "S17550802129832489_S00003",
+          "store_name": "Yunnan Specialty Gift Shop",
+          "price": 39.9,
+          "tags": [
+            "Yunnan Specialties",
+            "Dendrobium",
+            "Souvenir",
+            "Health Preservation",
+            "Elegant Packaging"
+          ],
+          "product_id": "S17550802129832489_P00014",
+          "attributes": [
+            "Standard Size",
+            "Elegant Gift Box"
+          ],
+          "product_type": "distraction"
+        },
+        {
+          "name": "Handmade Fragrant Sachets (Set of 2)",
+          "store_id": "S17550802129832489_S00003",
+          "store_name": "Yunnan Specialty Gift Shop",
+          "price": 16.8,
+          "tags": [
+            "Yunnan Specialties",
+            "Handicrafts",
+            "Souvenir",
+            "Ethnic Features",
+            "Elegant Packaging"
+          ],
+          "product_id": "S17550802129832489_P00015",
+          "attributes": [
+            "Standard Size",
+            "Elegant Gift Box"
+          ],
+          "product_type": "target"
+        }
+      ]
+    },
+    "S17550802129832489_S00005": {
+      "name": "Premium Sports Goods Store",
+      "store_id": "S17550802129832489_S00005",
+      "score": 4.3,
+      "location": {
+        "address": "Premium Sports Goods Store, No. 99 Xiyuan Road, Xishan District, Kunming",
+        "latitude": 25.019,
+        "longitude": 102.665
+      },
+      "tags": [
+        "Sports Equipment",
+        "Leisure Products",
+        "Brand Agent"
+      ],
+      "store_type": "distraction",
+      "products": [
+        {
+          "name": "Basic Fitness Dumbbell Set (2kg*2)",
+          "store_id": "S17550802129832489_S00005",
+          "store_name": "Premium Sports Goods Store",
+          "price": 299,
+          "tags": [
+            "Basic Fitness",
+            "Dumbbells",
+            "Suitable for Beginners",
+            "Home Fitness",
+            "2kg"
+          ],
+          "product_id": "S17550802129832489_P00021",
+          "attributes": [],
+          "product_type": "distraction"
+        },
+        {
+          "name": "Nike Professional Adjustable Dumbbells (1-10kg)",
+          "store_id": "S17550802129832489_S00005",
+          "store_name": "Premium Sports Goods Store",
+          "price": 899,
+          "tags": [
+            "Nike",
+            "Brand",
+            "Adjustable",
+            "Dumbbells",
+            "Professional Grade"
+          ],
+          "product_id": "S17550802129832489_P00022",
+          "attributes": [
+            "1-10kg Adjustable"
+          ],
+          "product_type": "distraction"
+        },
+        {
+          "name": "Under Armour Fitness Tracker (with Training APP)",
+          "store_id": "S17550802129832489_S00005",
+          "store_name": "Premium Sports Goods Store",
+          "price": 459,
+          "tags": [
+            "Under Armour",
+            "Fitness Tracker",
+            "Smart Devices",
+            "Training Aid"
+          ],
+          "product_id": "S17550802129832489_P00023",
+          "attributes": [
+            "Black",
+            "Waterproof"
+          ],
+          "product_type": "distraction"
+        },
+        {
+          "name": "Adidas Professional Training Dumbbells (5kg*2)",
+          "store_id": "S17550802129832489_S00005",
+          "store_name": "Premium Sports Goods Store",
+          "price": 599,
+          "tags": [
+            "Adidas",
+            "Professional Training",
+            "Dumbbells",
+            "Fitness Equipment"
+          ],
+          "product_id": "S17550802129832489_P00024",
+          "attributes": [
+            "5kg"
+          ],
+          "product_type": "distraction"
+        },
+        {
+          "name": "Li-Ning Fitness Mat Yoga Set",
+          "store_id": "S17550802129832489_S00005",
+          "store_name": "Premium Sports Goods Store",
+          "price": 199,
+          "tags": [
+            "Li-Ning",
+            "Exercise Mat",
+            "Yoga",
+            "Home Fitness"
+          ],
+          "product_id": "S17550802129832489_P00025",
+          "attributes": [
+            "Thickened",
+            "Non-slip"
+          ],
+          "product_type": "distraction"
+        }
+      ]
+    }
+  },
+  "orders": {
+    "S17550802129832489_O00001": {
+      "order_id": "S17550802129832489_O00001",
+      "order_type": "delivery",
+      "user_id": "U001001",
+      "store_id": "S17550802129832489_S00001",
+      "total_price": 129.9,
+      "create_time": "2025-05-29 19:45:30",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17550802129832489_P00001",
+          "price": 129.9,
+          "quantity": 1
+        }
+      ]
+    },
+    "S17550802129832489_O00002": {
+      "order_id": "S17550802129832489_O00002",
+      "order_type": "delivery",
+      "user_id": "U001001",
+      "store_id": "S17550802129832489_S00003",
+      "total_price": 19.9,
+      "create_time": "2025-05-29 20:10:15",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17550802129832489_P00011",
+          "price": 19.9,
+          "quantity": 1
+        }
+      ]
+    },
+    "S17550802129832489_O00003": {
+      "order_id": "S17550802129832489_O00003",
+      "order_type": "flight",
+      "user_id": "U001001",
+      "store_id": "S17550802129832489_F00008",
+      "note": "Wuxi to Kunming flight",
+      "location": {
+        "address": "Kunming Changshui International Airport, Guandu District, Kunming City, Yunnan Province",
+        "longitude": 102.937,
+        "latitude": 25.102
+      },
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 580.0,
+      "create_time": "2025-05-20 10:15:30",
+      "update_time": "2025-05-20 10:15:30",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17550802129832489_P00045",
+          "price": 580.0,
+          "quantity": 1,
+          "seat_type": "Economy Class"
+        }
+      ]
+    },
+    "S17550802129832489_O00004": {
+      "order_id": "S17550802129832489_O00004",
+      "order_type": "hotel",
+      "user_id": "U001001",
+      "store_id": "S17550802129832489_H00006",
+      "note": "Girlfriend check-in",
+      "location": {
+        "address": "Dianchi Lakeside Sunshine Homestay, No. 1688 Dianchi Road, Xishan District, Kunming City, Yunnan Province",
+        "longitude": 102.675,
+        "latitude": 24.965
+      },
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 468.0,
+      "create_time": "2025-05-20 11:30:45",
+      "update_time": "2025-05-20 11:30:45",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17550802129832489_P00027",
+          "price": 468.0,
+          "quantity": 1,
+          "date": "2025-06-05",
+          "room_type": "Comfortable King Room"
+        }
+      ]
+    },
+    "S17550802129832489_O00005": {
+      "order_id": "S17550802129832489_O00005",
+      "order_type": "instore",
+      "user_id": "U001001",
+      "store_id": "S17550802129832489_I00012",
+      "total_price": 288.0,
+      "create_time": "2025-05-28 14:20:15",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17550802129832489_P00066",
+          "price": 288.0,
+          "quantity": 1
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,80 @@
+{
+  "required_orders": [
+    {
+      "order_id": "10807004T001",
+      "order_type": "delivery",
+      "user_id": "U010086",
+      "store_id": "S17550802114659560_S00001",
+      "note": "",
+      "location": {
+        "address": "Jiazi Village, 663 East Huacheng Avenue, Tianhe District, Guangzhou, Guangdong Province",
+        "longitude": 113.3352,
+        "latitude": 23.1248
+      },
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 129.9,
+      "create_time": "2025-10-27 08:18:00",
+      "update_time": "2025-10-27 08:18:00",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17550802114659560_P00002",
+          "price": 129.9,
+          "quantity": 1,
+          "name": "Multi-functional Waist Massager for the Elderly",
+          "attributes": ""
+        }
+      ]
+    },
+    {
+      "book_id": "10807004T002",
+      "shop_id": "S17550802114659560_I00010",
+      "book_time": "2025-10-29 09:30:00",
+      "update_time": "2025-10-27 08:23:00",
+      "customer_id": "U010086",
+      "customer_count": 2,
+      "book_price": 0,
+      "status": "unpaid"
+    },
+    {
+      "order_id": "10807004T003",
+      "order_type": "attraction",
+      "user_id": "U010086",
+      "store_id": "S17550802114659560_A00005",
+      "note": "",
+      "location": null,
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 130,
+      "create_time": "2025-10-27 08:25:00",
+      "update_time": "2025-10-27 08:25:00",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17550802114659560_P00023",
+          "price": 65,
+          "quantity": 2,
+          "date": "2025-10-29",
+          "ticket_type": "Double Ninth Festival Special Ticket"
+        }
+      ]
+    }
+  ],
+  "rubrics": [
+    "The delivery order should be for a waist massager",
+    "The delivery address should be Jiazi Village, 663 East Huacheng Avenue, Tianhe District, Guangzhou, Guangdong Province",
+    "The estimated delivery time should be October 27, 2025, 08:15-09:15",
+    "The reserved restaurant should be a teahouse serving Traditional Cantonese Cuisine",
+    "The reserved restaurant should offer Morning Tea sets",
+    "The Morning Tea set ordered at the restaurant should not include tea fee",
+    "The restaurant reservation should be for 2 people",
+    "The restaurant reservation time should be October 29, 2025, 09:30",
+    "The Double Ninth Chrysanthemum Exhibition at Guangzhou Liuhua Lake Park for 2025 Double Ninth Festival will feature over 300 varieties of chrysanthemums, including traditional chrysanthemums, tall chrysanthemums, cliff chrysanthemums, and sculptural chrysanthemums, as well as intangible cultural heritage chrysanthemum tea tasting activities",
+    "The ticket price for the Double Ninth Chrysanthemum Exhibition at Guangzhou Liuhua Lake Park is 65 yuan per person",
+    "The date of use for the ordered attraction tickets should be October 29, 2025",
+    "The number of attraction tickets ordered should be 2"
+  ]
+}

@@ -1,0 +1,331 @@
+{
+  "task_id": "30711001",
+  "domain": "delivery",
+  "time": "2025-09-05 19:34:29",
+  "user_id": "U000003",
+  "weather": [
+    {
+      "city": "Changsha City",
+      "category": "showers",
+      "datetime": "2025-09-05",
+      "temperature": [
+        25,
+        33
+      ],
+      "humidity": 75
+    }
+  ],
+  "location": [
+    {
+      "address": "Xiangzhang Garden, 168 Xiangzhang Road, Yuhua District, Changsha, Hunan Province",
+      "longitude": 113.007008,
+      "latitude": 28.134684
+    }
+  ],
+  "user_profile": {
+    "user id": "U000003",
+    "occupation": "Delivery Person",
+    "gender": "female",
+    "age group": "40~45",
+    "residence": "Changsha",
+    "home address": "Xiangzhang Garden, 168 Xiangzhang Road, Yuhua District, Changsha, Hunan Province",
+    "work address": "Lewo Smart Valley, 120 meters south of 188 Environmental Protection Middle Road, Economic Development Zone, Yuhua District, Changsha, Hunan Province",
+    "dietary restrictions": "No alcohol",
+    "family status": "Living alone",
+    "personality": "Cold and concise in expression, lacking emotional communication and patience"
+  },
+  "user_historical_behaviors": {
+    "user id": "U000003",
+    "occupation": "Delivery Courier",
+    "gender": "female",
+    "age group": "40~45",
+    "residence": "Changsha",
+    "home address": "Xiangzhang Garden, 168 Xiangzhang Road, Yuhua District, Changsha, Hunan Province",
+    "work address": "Lewo Smart Valley, 120 meters south of 188 Environmental Protection Middle Road, Economic Development Zone, Yuhua District, Changsha, Hunan Province",
+    "breakfast": {
+      "frequently purchased categories": [
+        "Quick meals/Steamed buns/Pan-fried buns (average 15 yuan)",
+        "Quick meals/Fried dough sticks (average 6 yuan)",
+        "Quick meals/Jianbing/Wraps/Shouzhuabing (average 12 yuan)"
+      ],
+      "cost per order": "8~15 yuan",
+      "preferred store rating": "4.2~4.6 stars",
+      "preferred delivery time": "15~25 minutes",
+      "preferred distance": "0~1500m",
+      "recent orders": [
+        {
+          "store": "Lao Yang's Soy Milk Shop",
+          "product": "Fried dough stick + soy milk set"
+        },
+        {
+          "store": "Four Seasons Bun Shop",
+          "product": "4 pork buns"
+        },
+        {
+          "store": "Daily Breakfast House",
+          "product": "Shouzhuabing + soy milk"
+        }
+      ],
+      "search history": [
+        "steamed buns",
+        "soy milk",
+        "shouzhuabing",
+        "cheap breakfast",
+        "quick breakfast"
+      ]
+    },
+    "weekday lunch/dinner": {
+      "frequently purchased categories": [
+        "Quick meals/Small dishes/Small portions (average 25 yuan)",
+        "Quick meals/Rice noodles (average 18 yuan)",
+        "Quick meals/Rice with toppings (average 22 yuan)"
+      ],
+      "cost per order": "18~35 yuan",
+      "preferred store rating": "4.0~4.9 stars",
+      "preferred delivery time": "20~35 minutes",
+      "preferred distance": "0~2500m",
+      "recent orders": [
+        {
+          "store": "Zhijiang Duck Noodle House (Soup Noodles • Soup Rice Noodles • Yuhua Branch)",
+          "product": "Original duck soup rice noodles"
+        },
+        {
+          "store": "Fast Food No.1",
+          "product": "Shredded pork with garlic sauce over rice"
+        }
+      ],
+      "search history": [
+        "fast food",
+        "rice bowls",
+        "small dishes",
+        "boxed meals",
+        "quick lunch"
+      ]
+    },
+    "weekend lunch/dinner": {
+      "frequently purchased categories": [
+        "Chinese cuisine/Hunan cuisine (average 45 yuan)",
+        "Quick meals/Light food (average 25 yuan)",
+        "Chinese cuisine/Dry pot (average 50 yuan)"
+      ],
+      "cost per order": "25~50 yuan",
+      "preferred store rating": "4.3~5.0 stars",
+      "preferred delivery time": "30~55 minutes",
+      "preferred distance": "0~5000m",
+      "recent orders": [
+        {
+          "store": "Bell Oil-splashed Noodles (Meat in Bread)",
+          "product": "Signature minced meat oil-splashed noodles"
+        },
+        {
+          "store": "Light Food Salad",
+          "product": "Chicken breast salad set"
+        },
+        {
+          "store": "Spicy Dry Pot",
+          "product": "Dry pot potato slices"
+        }
+      ],
+      "search history": [
+        "non-spicy Hunan cuisine",
+        "healthy diet",
+        "light food"
+      ]
+    },
+    "desserts/drinks/snacks": {
+      "frequently purchased categories": [
+        "Beverages and desserts/Fruit juice (average 15 yuan)",
+        "Beverages and desserts/Fruit salad (average 20 yuan)",
+        "Beverages and desserts/Bread and pastries (average 35 yuan)"
+      ],
+      "cost per order": "10~20 yuan",
+      "preferred store rating": "4.4~5.0 stars",
+      "preferred delivery time": "15~60 minutes",
+      "preferred distance": "0~5000m",
+      "recent orders": [
+        {
+          "store": "Molecular Fresh Bread (Forestry University Store)",
+          "product": "Garden Pumpkin"
+        },
+        {
+          "store": "Colorful Fruit Salad",
+          "product": "Mixed fruit salad"
+        },
+        {
+          "store": "Cool Summer",
+          "product": "Yogurt ice cream"
+        }
+      ],
+      "search history": [
+        "fruit salad",
+        "juice",
+        "low-sugar drinks",
+        "healthy beverages"
+      ]
+    },
+    "night snack": {
+      "frequently purchased categories": [
+        "Quick meals/Clay pot dishes (average 25 yuan)",
+        "Hot pot/Malatang/Oden (average 20 yuan)",
+        "Snacks and braised food/Braised items (average 30 yuan)"
+      ],
+      "cost per order": "25~30 yuan",
+      "preferred store rating": "4.0~4.5 stars",
+      "preferred delivery time": "25~40 minutes",
+      "preferred distance": "0~2500m",
+      "recent orders": [
+        {
+          "store": "Clay Pot Porridge Shop",
+          "product": "Century egg and lean meat porridge"
+        },
+        {
+          "store": "Old Street Oden",
+          "product": "Signature oden"
+        },
+        {
+          "store": "Dewei Braised Food",
+          "product": "Braised duck neck + braised egg"
+        }
+      ],
+      "search history": [
+        "non-spicy night snacks",
+        "warming foods",
+        "clay pot porridge",
+        "braised food",
+        "night meal set"
+      ]
+    }
+  },
+  "stores": {
+    "S26270993369029575_S81541": {
+      "name": "Molecular Fresh Bread (Forestry University Store)",
+      "store_id": "S26270993369029575_S81541",
+      "score": 4.9,
+      "location": {
+        "address": "Molecular Fresh Bread (Forestry University Store), 557 Linda Road, Tianxin District, Changsha, Hunan Province",
+        "latitude": 28.126324,
+        "longitude": 112.997363
+      },
+      "tags": [],
+      "products": [
+        {
+          "name": "Whole Wheat Walnut Raisin Toast",
+          "store_id": "S26270993369029575_S81541",
+          "store_name": "Molecular Fresh Bread (Forestry University Store)",
+          "price": 18.0,
+          "tags": [],
+          "product_id": "S69062526404922496_P75737",
+          "attributes": [],
+          "quantity": 9999
+        },
+        {
+          "name": "Whole Wheat Purple Rice Drum Bread",
+          "store_id": "S26270993369029575_S81541",
+          "store_name": "Molecular Fresh Bread (Forestry University Store)",
+          "price": 8.0,
+          "tags": [],
+          "product_id": "S13295447731942135_P11967",
+          "attributes": [],
+          "quantity": 9999
+        },
+        {
+          "name": "Garlic Cheese",
+          "product_id": "S21835007332154131_P42796",
+          "store_id": "S26270993369029575_S81541",
+          "store_name": "Molecular Fresh Bread (Forestry University Store)",
+          "price": 17.8,
+          "tags": [],
+          "attributes": [],
+          "quantity": 9999
+        },
+        {
+          "name": "Garden Pumpkin",
+          "product_id": "S79313673283678899_P74902",
+          "store_id": "S26270993369029575_S81541",
+          "store_name": "Molecular Fresh Bread (Forestry University Store)",
+          "price": 20.8,
+          "tags": [
+            "White Bread"
+          ],
+          "attributes": [],
+          "quantity": 9999
+        }
+      ]
+    },
+    "S18272651444013385_S01566": {
+      "name": "Jihe Coffee & Pasta (Changsha Main Store)",
+      "store_id": "S18272651444013385_S01566",
+      "score": 4.9,
+      "location": {
+        "address": "Jihe Coffee & Pasta (Changsha Main Store), 67 Shuguang South Road (Chihuang Road Bus Stop), Yuhua District, Changsha, Hunan Province",
+        "latitude": 28.160688,
+        "longitude": 113.002241
+      },
+      "tags": [],
+      "products": [
+        {
+          "name": "Whole Wheat Bread (one)",
+          "product_id": "S33591300962627279_P00657",
+          "store_id": "S18272651444013385_S01566",
+          "store_name": "Jihe Coffee & Pasta (Changsha Main Store)",
+          "price": 10,
+          "tags": [],
+          "attributes": [],
+          "quantity": 9999
+        }
+      ]
+    },
+    "S56359389829074363_S35337": {
+      "name": "Molecular Fresh Bread (Shawan Park Store)",
+      "store_id": "S56359389829074363_S35337",
+      "score": 3.8,
+      "location": {
+        "address": "Molecular Fresh Bread (Shawan Park Store), 244 East Labor Road, Yuhua District, Changsha, Hunan Province",
+        "latitude": 28.156929,
+        "longitude": 113.038512
+      },
+      "tags": [],
+      "products": [
+        {
+          "name": "Tangzhong Whole Wheat Toast",
+          "product_id": "S27962983970147032_P32251",
+          "store_id": "S56359389829074363_S35337",
+          "store_name": "Molecular Fresh Bread (Shawan Park Store)",
+          "price": 16,
+          "tags": [],
+          "attributes": [],
+          "quantity": 9999
+        }
+      ]
+    }
+  },
+  "orders": {
+    "30711001O01": {
+      "order_id": "30711001O01",
+      "order_type": "delivery",
+      "user_id": "U000003",
+      "store_id": "S26270993369029575_S81541",
+      "note": "",
+      "location": {
+        "address": "Xiangzhang Garden, 168 Xiangzhang Road, Yuhua District, Changsha, Hunan Province",
+        "longitude": 113.007008,
+        "latitude": 28.134684
+      },
+      "dispatch_time": "2025-09-02 12:15:00",
+      "shipping_time": 27,
+      "delivery_time": "2025-09-02 12:42:00",
+      "total_price": 20.8,
+      "create_time": "2025-09-02 12:00:00",
+      "update_time": "2025-09-02 12:00:00",
+      "status": "delivered",
+      "products": [
+        {
+          "product_id": "S79313673283678899_P74902",
+          "price": 20.8,
+          "quantity": 1,
+          "attributes": ""
+        }
+      ]
+    }
+  }
+}

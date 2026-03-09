@@ -1,0 +1,144 @@
+{
+  "required_orders": [
+    {
+      "order_id": "OIb192a86a68",
+      "order_type": "instore",
+      "user_id": "U791958",
+      "store_id": "S17550148871188176_I00008",
+      "note": "",
+      "location": null,
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 198,
+      "create_time": "2026-01-04 14:33:10",
+      "update_time": "2026-01-04 14:33:10",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17550148871188176_P00083",
+          "price": 198,
+          "quantity": 1,
+          "name": "600 Game Tokens Package",
+          "shop_id": "S17550148871188176_I00008",
+          "tags": [
+            "Game Token Package",
+            "Premium Package",
+            "Special Offer",
+            "Weekend Promotion"
+          ]
+        }
+      ]
+    },
+    {
+      "book_id": "A0812001T001",
+      "shop_id": "S17550148871188176_I00013",
+      "book_time": "2026-01-04 18:00:00",
+      "update_time": "2026-01-04 14:35:00",
+      "customer_id": "U791958",
+      "customer_count": 2,
+      "book_price": 0,
+      "status": "paid"
+    },
+    {
+      "order_id": "A0812001T002",
+      "order_type": "instore",
+      "user_id": "U791958",
+      "store_id": "S17550148871188176_I00013",
+      "note": "",
+      "location": null,
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 298,
+      "create_time": "2026-01-04 14:37:10",
+      "update_time": "2026-01-04 14:37:10",
+      "status": "unconsumed",
+      "products": [
+        {
+          "product_id": "S17550148871188176_P00140",
+          "price": 298,
+          "quantity": 1,
+          "name": "Sakura Special Set for Two (Including 1 Pot of Plum Wine)",
+          "shop_id": "S17550148871188176_I00013",
+          "tags": [
+            "Gathering Package",
+            "Plum Wine",
+            "Japanese Snacks"
+          ]
+        }
+      ]
+    },
+    {
+      "order_id": "S17550148871188176_O00001",
+      "order_type": "train",
+      "user_id": "U791958",
+      "store_id": "S17550148871188176_T00003",
+      "note": "",
+      "location": {
+        "address": "Puyang Railway Station, Tiexi Road, Hualong District, Puyang, Henan Province",
+        "longitude": 115.0356,
+        "latitude": 35.7645
+      },
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 82,
+      "create_time": "2026-01-02 15:45:23",
+      "update_time": "2026-01-02 15:45:23",
+      "status": "cancelled",
+      "products": [
+        {
+          "product_id": "S17550148871188176_P00038",
+          "price": 82,
+          "quantity": 1,
+          "date": "2026-01-05",
+          "seat_type": "Hard Seat"
+        }
+      ]
+    },
+    {
+      "order_id": "A0812001T003",
+      "order_type": "train",
+      "user_id": "U791958",
+      "store_id": "S17550148871188176_T00003",
+      "note": "",
+      "location": {
+        "address": "Puyang Railway Station, Tiexi Road, Hualong District, Puyang, Henan Province",
+        "longitude": 115.0356,
+        "latitude": 35.7645
+      },
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 82,
+      "create_time": "2026-01-04 14:47:23",
+      "update_time": "2026-01-04 14:47:23",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17550148871188176_P00042",
+          "price": 82,
+          "quantity": 1,
+          "date": "2026-01-07",
+          "seat_type": "Hard Seat"
+        }
+      ]
+    }
+  ],
+  "rubrics": [
+    "Need to compare game token package prices at different arcades in Puyang, choose the most cost-effective one; Super Player Arcade's 600 Game Tokens Package at ¥198 offers the best value",
+    "Due to game token prices exceeding budget, cannot purchase any drinks from Mixue Ice Cream or elsewhere",
+    "The reserved izakaya should be within 600m of Super Player Arcade",
+    "The reserved izakaya should be suitable for photo check-ins",
+    "The izakaya reservation time should be 2026-01-04 18:00",
+    "The izakaya reservation should be for 2 people",
+    "The izakaya order should be placed at Sakura Izakaya",
+    "The izakaya set menu ordered should be priced between ¥280-320",
+    "The izakaya set menu ordered should include Plum Wine",
+    "Need to cancel the order with order number S17550148871188176_O00001",
+    "The departure station of the train ticket order should be Puyang Station",
+    "The arrival station of the train ticket order should be Luoyang Station",
+    "The train ticket ordered should be for a train departing between 19:00-20:00 on 2026-01-07"
+  ]
+}

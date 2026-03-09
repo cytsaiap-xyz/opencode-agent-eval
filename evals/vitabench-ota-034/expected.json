@@ -1,0 +1,166 @@
+{
+  "required_orders": [
+    {
+      "order_id": "70807003T001",
+      "order_type": "train",
+      "user_id": "U010057",
+      "store_id": "S17557505553262664_T00013",
+      "note": "",
+      "location": null,
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 168,
+      "create_time": "2023-06-20 11:23:08",
+      "update_time": "2023-06-20 11:23:08",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17557505553262664_P00095",
+          "price": 168,
+          "quantity": 1,
+          "date": "2023-06-24",
+          "seat_type": "second-class seat"
+        }
+      ]
+    },
+    {
+      "order_id": "70807003T002",
+      "order_type": "train",
+      "user_id": "U010057",
+      "store_id": "S17557505553262664_T00014",
+      "note": "",
+      "location": null,
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 134,
+      "create_time": "2023-06-20 11:25:08",
+      "update_time": "2023-06-20 11:25:08",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17557505553262664_P00104",
+          "price": 134,
+          "quantity": 1,
+          "date": "2023-06-25",
+          "seat_type": "second-class seat"
+        }
+      ]
+    },
+    {
+      "order_id": "70807003T003",
+      "order_type": "hotel",
+      "user_id": "U010057",
+      "store_id": "S17557505553262664_H00003",
+      "note": "",
+      "location": null,
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 458,
+      "create_time": "2023-06-20 11:28:08",
+      "update_time": "2023-06-20 11:28:08",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17557505553262664_P00018",
+          "price": 458,
+          "quantity": 1,
+          "date": "2023-06-24",
+          "room_type": "standard king room"
+        }
+      ]
+    },
+    {
+      "order_id": "70807003T004",
+      "order_type": "attraction",
+      "user_id": "U010057",
+      "store_id": "S17557505553262664_A00005",
+      "note": "",
+      "location": null,
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 190,
+      "create_time": "2023-06-20 11:31:08",
+      "update_time": "2023-06-20 11:31:08",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17557505553262664_P00036",
+          "price": 190,
+          "quantity": 1,
+          "date": "2023-06-25",
+          "ticket_type": "adult ticket"
+        }
+      ]
+    },
+    {
+      "order_id": "70807003T005",
+      "order_type": "attraction",
+      "user_id": "U010057",
+      "store_id": "S17557505553262664_A00006",
+      "note": "",
+      "location": null,
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 80,
+      "create_time": "2023-06-20 11:34:08",
+      "update_time": "2023-06-20 11:34:08",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17557505553262664_P00051",
+          "price": 80,
+          "quantity": 1,
+          "date": "2023-06-25",
+          "ticket_type": "adult ticket (upward direction)"
+        }
+      ]
+    },
+    {
+      "order_id": "70807003T006",
+      "order_type": "attraction",
+      "user_id": "U010057",
+      "store_id": "S17557505553262664_A00007",
+      "note": "",
+      "location": null,
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 90,
+      "create_time": "2023-06-20 11:37:08",
+      "update_time": "2023-06-20 11:37:08",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17557505553262664_P00063",
+          "price": 90,
+          "quantity": 1,
+          "date": "2023-06-25",
+          "ticket_type": "adult ticket (downward direction)"
+        }
+      ]
+    }
+  ],
+  "rubrics": [
+    "The departure date should be June 24, 2023",
+    "The departure train should arrive at around 7 PM on June 24, 2023",
+    "The departure train ticket should be for a train from Hefei to Huangshan",
+    "The return date should be June 25, 2023",
+    "The return train departure time should be after 4 PM on June 25, 2023",
+    "The return train should be from Huangshan to Hefei",
+    "The hotel brand should be Atour/Ji Hotel/Vienna/Orange or any brand under Huazhu Group",
+    "The hotel price should be less than 500 yuan",
+    "The hotel should provide luggage storage service",
+    "The hotel order should include a room for June 24, 2023",
+    "The Huangshan Scenic Area ticket should be used on June 25, 2023",
+    "The Huangshan Scenic Area ticket should be an adult ticket",
+    "The Huangshan Yungu Cable Car ticket should be for upward direction",
+    "The Huangshan Yungu Cable Car ticket should be used on June 25, 2023",
+    "The Huangshan Yuping Cable Car ticket should be for downward direction",
+    "The Huangshan Yuping Cable Car ticket should be used on June 25, 2023"
+  ]
+}

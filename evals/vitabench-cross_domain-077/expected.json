@@ -1,0 +1,91 @@
+{
+  "required_orders": [
+    {
+      "order_id": "A0807002T001",
+      "order_type": "attraction",
+      "user_id": "U010036",
+      "store_id": "S17550809486731413_A00003",
+      "note": "",
+      "location": null,
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 120,
+      "create_time": "2024-07-11 09:33:00",
+      "update_time": "2024-07-11 09:33:00",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17550809486731413_P00013",
+          "price": 80,
+          "quantity": 1,
+          "date": "2024-07-13",
+          "ticket_type": "Adult Ticket"
+        },
+        {
+          "product_id": "S17550809486731413_P00014",
+          "price": 40,
+          "quantity": 1,
+          "date": "2024-07-13",
+          "ticket_type": "Child Ticket"
+        }
+      ]
+    },
+    {
+      "book_id": "A0807002T002",
+      "shop_id": "S17550809486731413_I00005",
+      "book_time": "2024-07-13 12:00:00",
+      "update_time": "2024-07-11 09:35:00",
+      "customer_id": "U010036",
+      "customer_count": 2,
+      "book_price": 0,
+      "status": "unconsumed"
+    },
+    {
+      "order_id": "A0807002T003",
+      "order_type": "delivery",
+      "user_id": "U010036",
+      "store_id": "S17550809486731413_I00008",
+      "note": "",
+      "location": {
+        "address": "Hailiang Ocean Joy Plaza, 140 meters southeast of the intersection of Changjiang Road and Diezihudadao, Honggutan District, Nanchang, Jiangxi Province",
+        "longitude": 115.8573,
+        "latitude": 28.6895
+      },
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 249,
+      "create_time": "2024-07-11 09:39:00",
+      "update_time": "2024-07-11 09:39:00",
+      "status": "unpaid",
+      "products": [
+        {
+          "product_id": "S17550809486731413_P00045",
+          "price": 249,
+          "quantity": 1,
+          "name": "LEGO City Bulldozer 60252",
+          "attributes": ""
+        }
+      ]
+    }
+  ],
+  "rubrics": [
+    "The attraction ordered should be a science museum",
+    "The attraction ordered should have interactive devices",
+    "The ticket date for the ticket order should be July 13, 2024",
+    "The ticket order should include one Adult Ticket",
+    "The ticket order should include one Child Ticket",
+    "The reserved restaurant should be a Family-Friendly Restaurant",
+    "The reserved restaurant should have Children's Entertainment facilities",
+    "The reserved restaurant should offer Children's Set Meal",
+    "The reserved restaurant should provide buffet with No Seafood",
+    "The restaurant reservation time should be 12:00 on July 13, 2024",
+    "The restaurant reservation should be for 2 people",
+    "The delivery order item should be LEGO toy",
+    "The delivery order item should be Toy Car",
+    "The delivery order item should not be Off-Road Racing Car",
+    "The delivery address should be Hailiang Ocean Joy Plaza, 140 meters southeast of the intersection of Changjiang Road and Diezihudadao, Honggutan District, Nanchang, Jiangxi Province",
+    "The expected delivery time should be before 18:00 on July 13, 2024"
+  ]
+}

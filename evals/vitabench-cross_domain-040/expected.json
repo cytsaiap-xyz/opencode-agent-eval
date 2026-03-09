@@ -1,0 +1,92 @@
+{
+  "required_orders": [
+    {
+      "order_id": "A0806004T003",
+      "order_type": "delivery",
+      "user_id": "U010027",
+      "store_id": "S17550810625406958_S00003",
+      "note": "",
+      "location": {
+        "address": "Yue Xiang Lou, 88 Zhonghua North Road, Yunyan District, Guiyang, Guizhou Province",
+        "longitude": 106.7185,
+        "latitude": 26.5842
+      },
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 65,
+      "create_time": "2024-08-02 13:37:00",
+      "update_time": "2024-08-02 13:37:00",
+      "status": "unpaid",
+      "products": [
+        {
+          "product_id": "S17550810625406958_P00013",
+          "price": 65,
+          "quantity": 1,
+          "name": "Rye Walnut Pastry Gift Box",
+          "attributes": ""
+        }
+      ]
+    },
+    {
+      "order_id": "A0806004T004",
+      "order_type": "flight",
+      "user_id": "U010027",
+      "store_id": "S17550810625406958_F00005",
+      "note": "",
+      "location": null,
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 780,
+      "create_time": "2024-08-02 13:41:08",
+      "update_time": "2024-08-02 13:41:08",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17550810625406958_P00021",
+          "price": 780,
+          "quantity": 1,
+          "date": "2024-08-10",
+          "seat_type": "Economy Class"
+        }
+      ]
+    },
+    {
+      "order_id": "A0806004T005",
+      "order_type": "flight",
+      "user_id": "U010027",
+      "store_id": "S17550810625406958_F00008",
+      "note": "",
+      "location": null,
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 820,
+      "create_time": "2024-08-02 13:43:08",
+      "update_time": "2024-08-02 13:43:08",
+      "status": "unpaid",
+      "products": [
+        {
+          "product_id": "S17550810625406958_P00054",
+          "price": 820,
+          "quantity": 1,
+          "date": "2024-08-15",
+          "seat_type": "Economy Class"
+        }
+      ]
+    }
+  ],
+  "rubrics": [
+    "Restaurant reservation time is August 2, 2024 at 7:00 PM",
+    "The ordered item in the delivery order is Rye Walnut Pastry Gift Box from Yue Xiang Lou",
+    "The delivery address for the takeout order is Yue Xiang Lou, 88 Zhonghua North Road, Yunyan District, Guiyang, Guizhou Province",
+    "The estimated delivery time for the takeout order is August 2, 2024 at 7:00 PM",
+    "The flight order should include round-trip flights",
+    "The departure flight date is August 10, 2024",
+    "The return flight date is August 15, 2024",
+    "The departure flight in the ticket order should be CZ3707",
+    "The return flight in the ticket order should be CZ3708",
+    "The total price of the flight order should be less than 2000 yuan"
+  ]
+}

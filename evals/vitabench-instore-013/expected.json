@@ -1,0 +1,85 @@
+{
+  "required_orders": [
+    {
+      "order_id": "10826027T001",
+      "order_type": "instore",
+      "user_id": "U210673",
+      "store_id": "S17564420268579665_I00001",
+      "note": "",
+      "location": null,
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 116,
+      "create_time": "2025-07-10 18:17:31",
+      "update_time": "2025-07-10 18:17:31",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17564420268579665_P00003",
+          "price": 58,
+          "quantity": 2,
+          "name": "Yoga trial class (single session)",
+          "shop_id": "S17564420268579665_I00001",
+          "tags": [
+            "Beginner",
+            "Basic poses"
+          ]
+        }
+      ]
+    },
+    {
+      "reservation_id": "10826027T002",
+      "shop_id": "S17564420268579665_I00001",
+      "reservation_time": "2025-07-11 19:30:00",
+      "update_time": "2025-07-10 18:19:12",
+      "customer_id": "U210673",
+      "customer_count": 2,
+      "status": "unconsumed"
+    },
+    {
+      "order_id": "10826027T002",
+      "order_type": "instore",
+      "user_id": "U210673",
+      "store_id": "S17564420268579665_I00004",
+      "note": "",
+      "location": null,
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 218,
+      "create_time": "2025-07-10 18:23:00",
+      "update_time": "2025-07-10 18:23:00",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17564420268579665_P00015",
+          "price": 218,
+          "quantity": 1,
+          "name": "Singing-only package (3 hours without drinks)",
+          "shop_id": "S17564420268579665_I00004",
+          "tags": [
+            "Medium-sized room"
+          ]
+        }
+      ]
+    }
+  ],
+  "rubrics": [
+    "The ordered yoga studio cannot be Taiyuan Yushe Yoga Club",
+    "The ordered yoga studio must be within 3km (including 3km) of the user's home",
+    "The ordered yoga studio must have an elegant environment",
+    "The ordered yoga studio must have professional teachers",
+    "The ordered yoga studio must have classes scheduled on weekdays (Monday to Friday)",
+    "The ordered yoga studio must be recently opened",
+    "The purchased yoga package must be suitable for beginners",
+    "The purchased yoga package must include basic pose instruction",
+    "The quantity of yoga packages purchased must be 2",
+    "The booked merchant should be Qingya Yoga Life Studio",
+    "The number of people in the yoga studio reservation should be 2 people",
+    "The time in the yoga studio reservation should be 19:30:00 on 2025-07-11",
+    "The ordered KTV must be within 3km of the user's home",
+    "The ordered KTV package should be a singing-only package",
+    "The usage duration of the ordered KTV package should be 3 hours"
+  ]
+}

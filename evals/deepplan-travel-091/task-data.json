@@ -1,0 +1,54 @@
+{
+  "task_id": "90",
+  "query": "My two friends and I are planning a trip from Jinan to Chongqing on November 12, 2025. We’ll stay for five days, with our return scheduled for November 17, 2025. For transportation, we’d like to take flights—please check if there are suitable direct flight options available for both legs of the journey and go ahead and book them for us.\n\nFor accommodation, I’d prefer a four-star hotel. Also, we’ll have a car, so the hotel must provide free parking service. As for rooms, we’ll need two rooms for the three of us.\n\nDuring this trip, I really want to visit the 'Shancheng Alley Traditional Style Area' and 'Chongqing Chaotianmen Square'—these two spots must be included in the itinerary. By the way, I heard there are some great restaurants near the 'Mountain City Trail - Jianxingpo Grand Stairway'. Could you help us pick one where we can join the queue online, and schedule a meal there? I think that would be quite convenient.\n\nThese are all my requirements—I believe I’ve covered everything. Please go ahead and plan the detailed itinerary for me directly, without needing to ask for further details. Thank you! November 12, 2025 is Wednesday",
+  "meta_info": {
+    "org": "Jinan",
+    "dest": [
+      "Chongqing"
+    ],
+    "days": 6,
+    "depart_date": "2025-11-12",
+    "return_date": "2025-11-17",
+    "people_number": 3,
+    "room_number": 2
+  },
+  "hard_constraints": {
+    "flight_seat_status": {
+      "constraint_context": "3 travelers, choosing to travel by plane, need to select a flight with sufficient remaining tickets (this sentence does not need to be included in the query, but should be inferred by the user)",
+      "people_number": 3,
+      "outbound_seat_status": "6",
+      "inbound_seat_status": "7",
+      "outbound_flight_no": "CA4945",
+      "inbound_flight_no": "CA4946"
+    },
+    "hotel_star_service_required": {
+      "constraint_context": "Please select a 4-star hotel that offers free parking.",
+      "constraint_type": "superlative_star_service_required",
+      "hotel_name": "Fairfield by Marriott Chongqing Yongchuan",
+      "required_service": "Free Parking",
+      "hotel_star": 4,
+      "hotel_price": 269.0
+    },
+    "attraction_must_visit_named": {
+      "constraint_context": "The itinerary must include visits to 'Shancheng Alley Traditional Style Area' and 'Chongqing Chaotianmen Square'.",
+      "constraint_type": "superlative_must_visit_named",
+      "attraction_names": [
+        "Shancheng Alley Traditional Style Area",
+        "Chongqing Chaotianmen Square"
+      ],
+      "attraction_ratings": [
+        4.8,
+        4.8
+      ]
+    },
+    "restaurant_specific_tag_nearby": {
+      "constraint_context": "Arrange a meal at a restaurant near the 'Mountain City Trail - Jianxingpo Grand Stairway' during the trip, with online number-taking and queuing service required.",
+      "constraint_type": "superlative_specific_tag_nearby",
+      "attraction_name": "Mountain City Trail - Jianxingpo Grand Stairway",
+      "restaurant_name": "Joyful Restaurant (Changjiang First Road)",
+      "required_tag": "Online Queue",
+      "price_per_person": 21.0,
+      "restaurant_rating": 4.0
+    }
+  }
+}

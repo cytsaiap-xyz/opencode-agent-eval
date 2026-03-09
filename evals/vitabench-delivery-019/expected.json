@@ -1,0 +1,67 @@
+{
+  "required_orders": [
+    {
+      "order_id": "30711007T02",
+      "order_type": "delivery",
+      "user_id": "U000087",
+      "store_id": "S30220756126333890_S12490",
+      "note": "",
+      "location": {
+        "address": "Weifang Government Service Center, No. 3396 Dongfang Road, Kuiwen District, Weifang City, Shandong Province",
+        "longitude": 119.166379,
+        "latitude": 36.711436
+      },
+      "dispatch_time": "2026-03-25 12:13:00",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 21.88,
+      "create_time": "2026-03-25 12:00:00",
+      "update_time": "2026-03-25 12:00:00",
+      "status": "in-progress",
+      "products": [
+        {
+          "product_id": "S52281857932585112_P12793",
+          "price": 21.88,
+          "quantity": 1,
+          "attributes": ""
+        }
+      ]
+    },
+    {
+      "order_id": "30711007T01",
+      "order_type": "delivery",
+      "user_id": "U000087",
+      "store_id": "S44013828441542373_S74498",
+      "note": "",
+      "location": {
+        "address": "Weifang Government Service Center, No. 3396 Dongfang Road, Kuiwen District, Weifang City, Shandong Province",
+        "longitude": 119.166379,
+        "latitude": 36.711436
+      },
+      "dispatch_time": "2026-03-25 12:11:00",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 49.8,
+      "create_time": "2026-03-25 12:03:00",
+      "update_time": "2026-03-25 12:03:00",
+      "status": "in-progress",
+      "products": [
+        {
+          "product_id": "S19699521858967727_P19744",
+          "price": 49.8,
+          "quantity": 1,
+          "attributes": ""
+        }
+      ]
+    }
+  ],
+  "rubrics": [
+    "The delivery address for the user's potato noodle order should be Weifang Government Service Center, No. 3396 Dongfang Road, Kuiwen District, Weifang City, Shandong Province",
+    "The estimated delivery time for the potato noodle order should be before 1 PM on March 25, 2026",
+    "The potato noodle order should select Xu Youdao Potato Noodles (Weifang Xinhua Branch) as the merchant",
+    "The potato noodle order should include products with sesame sauce flavor",
+    "The delivery address for the mixed rice order should be Weifang Government Service Center, No. 3396 Dongfang Road, Kuiwen District, Weifang City, Shandong Province",
+    "The estimated delivery time for the mixed rice order should be before 1 PM on March 25, 2026",
+    "The mixed rice order should include seafood products"
+  ]
+}

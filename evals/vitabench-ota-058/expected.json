@@ -1,0 +1,98 @@
+{
+  "required_orders": [
+    {
+      "order_id": "D0808009T002",
+      "order_type": "train",
+      "user_id": "U010090",
+      "store_id": "S17557112364479019_T00012",
+      "note": "",
+      "location": null,
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 796,
+      "create_time": "2024-12-21 21:33:49",
+      "update_time": "2024-12-21 21:33:49",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17557112364479019_P00065",
+          "price": 398,
+          "quantity": 2,
+          "date": "2024-12-31",
+          "seat_type": "first-class seat"
+        }
+      ]
+    },
+    {
+      "order_id": "D0808009T004",
+      "order_type": "hotel",
+      "user_id": "U010090",
+      "store_id": "S17557112364479019_H00001",
+      "note": "",
+      "location": null,
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 1416,
+      "create_time": "2024-12-21 21:35:49",
+      "update_time": "2024-12-21 21:35:49",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17557112364479019_P00003",
+          "price": 688,
+          "quantity": 1,
+          "date": "2024-12-31",
+          "room_type": "comfort twin room"
+        },
+        {
+          "product_id": "S17557112364479019_P00004",
+          "price": 728,
+          "quantity": 1,
+          "date": "2025-01-01",
+          "room_type": "comfort twin room"
+        }
+      ]
+    },
+    {
+      "order_id": "D0808009T001",
+      "order_type": "attraction",
+      "user_id": "U010090",
+      "store_id": "S17557072491807785_A00005",
+      "note": "",
+      "location": null,
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 300,
+      "create_time": "2024-12-21 21:38:49",
+      "update_time": "2024-12-21 21:38:49",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17557112364479019_P00025",
+          "price": 150,
+          "quantity": 2,
+          "date": "2025-01-01",
+          "ticket_type": "adult ticket (including battery car)"
+        }
+      ]
+    }
+  ],
+  "rubrics": [
+    "Need to check the weather in Xi'an and Datong on December 31, 2024. The result is Xi'an: cloudy, 0 to 10 degrees Celsius; Datong: cloudy, -6 to 4 degrees Celsius, so the departure time of the train ticket is December 31",
+    "The train ticket must be first-class seat",
+    "The train arrival time cannot exceed 9:00 PM on December 31, 2024",
+    "The quantity of tickets in the train ticket order should be 2",
+    "The hotel must be located within 3 kilometers of the Yungang Grottoes scenic spot",
+    "The hotel must provide luggage storage service",
+    "The hotel booking duration must be 2 nights (check-in on December 31 and January 1)",
+    "The hotel order must be for consecutive stays, i.e., the same hotel and same room type",
+    "The scenic spot tickets date must be January 1, 2025 (the second day after arrival)",
+    "The scenic spot tickets must include battery car service",
+    "The scenic spot tickets must be adult tickets",
+    "The ticket order should be for Yungang Grottoes scenic spot",
+    "The number of tickets in the order should be 2"
+  ]
+}

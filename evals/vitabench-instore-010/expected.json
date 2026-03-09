@@ -1,0 +1,79 @@
+{
+  "required_orders": [
+    {
+      "order_id": "10826003T001",
+      "order_type": "instore",
+      "user_id": "U431786",
+      "store_id": "S17564420267442732_I00001",
+      "note": "",
+      "location": null,
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 388,
+      "create_time": "2024-03-16 20:18:24",
+      "update_time": "2024-03-16 20:18:24",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17564420267442732_P00001",
+          "price": 388,
+          "quantity": 1,
+          "name": "Gulang Minwei four-person package",
+          "shop_id": "S17564420267442732_I00001",
+          "tags": [
+            "Including restaurant's signature dishes",
+            "Family gathering"
+          ]
+        }
+      ]
+    },
+    {
+      "book_id": "10826003T002",
+      "shop_id": "S17564420267442732_I00001",
+      "book_time": "2024-03-17 12:00:00",
+      "update_time": "2024-03-16 20:20:00",
+      "customer_id": "U431786",
+      "customer_count": 4,
+      "book_price": 50,
+      "status": "paid"
+    },
+    {
+      "order_id": "10826003T003",
+      "order_type": "instore",
+      "user_id": "U431786",
+      "store_id": "S17564420267442732_I00002",
+      "note": "",
+      "location": null,
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 120,
+      "create_time": "2024-03-16 20:24:32",
+      "update_time": "2024-03-16 20:24:32",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17564420267442732_P00006",
+          "price": 120,
+          "quantity": 1,
+          "name": "2-hour badminton court group package",
+          "shop_id": "S17564420267442732_I00002",
+          "tags": []
+        }
+      ]
+    }
+  ],
+  "rubrics": [
+    "The merchant in the package order is a local cuisine restaurant (Minnan cuisine)",
+    "The purchased package must include the restaurant's signature dishes",
+    "The purchased package is a four-person meal, not four individual packages",
+    "The reserved restaurant is Gulang Minwei",
+    "The number of people for the restaurant reservation is 4",
+    "The restaurant reservation time is 12:00:00 on 2024-03-17",
+    "Check tomorrow's (2024-03-18) weather forecast, with the highest temperature being 28 degrees, not exceeding 30 degrees, therefore purchasing a badminton package",
+    "The merchant in the badminton package order should be the one the user frequently visits (Software Park Badminton Hall)",
+    "The purchased badminton package should be for two hours",
+    "The purchased badminton package should be a court package"
+  ]
+}

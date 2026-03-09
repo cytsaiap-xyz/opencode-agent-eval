@@ -1,0 +1,66 @@
+{
+  "required_orders": [
+    {
+      "order_id": "30711005T01",
+      "order_type": "delivery",
+      "user_id": "U000074",
+      "store_id": "S18559624638967307_S15514",
+      "note": "",
+      "location": {
+        "address": "Wanda Plaza, No. 130 Ma'anshan Road, Baohe District, Hefei, Anhui Province (Hefei Baohe Branch)",
+        "longitude": 117.302741,
+        "latitude": 31.857032
+      },
+      "dispatch_time": "2025-09-13 11:03:00",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": "21.00",
+      "create_time": "2025-09-13 10:50:00",
+      "update_time": "2025-09-13 10:50:00",
+      "status": "in-progress",
+      "products": [
+        {
+          "product_id": "S18619197879317469_P91776",
+          "price": "21.00",
+          "quantity": 1,
+          "attribute": ""
+        }
+      ]
+    },
+    {
+      "order_id": "30711005T02",
+      "order_type": "delivery",
+      "user_id": "U000074",
+      "store_id": "S10578855038572520_S10983",
+      "note": "",
+      "location": {
+        "address": "Triumphal Arch Phase I, Intersection of Jiahe Road and Qianshan Road, Shushan District, Hefei, Anhui Province",
+        "longitude": 117.230632,
+        "latitude": 31.80228
+      },
+      "dispatch_time": "2025-09-13 12:00:00",
+      "shipping_time": 43,
+      "delivery_time": "2025-09-13 12:43:00",
+      "total_price": "39.00",
+      "create_time": "2025-09-13 10:51:00",
+      "update_time": "2025-09-13 10:51:00",
+      "status": "delivered",
+      "products": [
+        {
+          "product_id": "S57131084038540049_P83923",
+          "price": "39.00",
+          "quantity": 1,
+          "attribute": ""
+        }
+      ]
+    }
+  ],
+  "rubrics": [
+    "The delivery address for the Milk Tea order should be Wanda Plaza, No. 130 Ma'anshan Road, Baohe District, Hefei, Anhui Province (Hefei Baohe Branch)",
+    "The expected delivery time for the Milk Tea order should be before 12:00 on September 13, 2025",
+    "The ordered Milk Tea should be Gardenia flavored",
+    "The delivery address for the Mango Sticky Rice should be Triumphal Arch Phase I, Intersection of Jiahe Road and Qianshan Road, Shushan District, Hefei, Anhui Province",
+    "The expected delivery time for the noon Mango Sticky Rice order should be before 14:00 on September 13, 2025",
+    "The Mango Sticky Rice should be iced"
+  ]
+}

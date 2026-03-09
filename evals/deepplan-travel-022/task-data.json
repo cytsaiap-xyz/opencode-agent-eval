@@ -1,0 +1,55 @@
+{
+  "task_id": "21",
+  "query": "I'm planning a three-day trip from Guangzhou to Quanzhou departing on November 12, 2025, and returning on November 14. Could you help me plan the entire itinerary, including transportation, accommodation, meals, and attractions?\n\nRegarding transportation, I'd like to take flights both ways. First class would be more comfortable, so please help me find suitable flight options. As for accommodation, I don't have any special requirements—just book a three-star hotel. Preferably, the room should support screen mirroring, so we can relax and watch a movie at night. Also, there are four of us traveling, so we'll need two rooms—please make sure to reserve them accordingly.\n\nI'm really looking forward to Quanzhou. I've heard it has many great attractions. Since time is limited, please select the top three highest-rated spots and include them in the itinerary—I only want to visit the most worthwhile places. By the way, I heard there are lots of good eats around 'Anping Bridge'. Could you check if there are any fast-food restaurants nearby and arrange one casual meal there for us? Nothing fancy—just something simple and quick.\n\nThat should be everything. I've provided all the necessary details—please go ahead and prepare a complete itinerary for me! Oh, the total budget for this trip should be within 17000 yuan, please consider it in the plan. November 12, 2025 is Wednesday",
+  "meta_info": {
+    "org": "Guangzhou",
+    "dest": [
+      "Quanzhou"
+    ],
+    "days": 3,
+    "depart_date": "2025-11-12",
+    "return_date": "2025-11-14",
+    "people_number": 4,
+    "room_number": 2
+  },
+  "hard_constraints": {
+    "flight_seat_class": {
+      "constraint_context": "Hope to choose air travel, and both outbound and return journeys need to be in first class",
+      "outbound_flight_no": "HO7161",
+      "inbound_flight_no": "NS8385"
+    },
+    "hotel_star_service_required": {
+      "constraint_context": "Please select a 3-star hotel that offers TVs with screen mirroring capability",
+      "constraint_type": "superlative_star_service_required",
+      "hotel_name": "Ji Hotel Quanzhou Wanda",
+      "required_service": "TV Casting",
+      "hotel_star": 3,
+      "hotel_price": 296.0
+    },
+    "attraction_top_rated_must_visit": {
+      "constraint_context": "The itinerary must include the top three highest-rated attractions recommended by the attraction recommendation tool.",
+      "constraint_type": "superlative_top_rated_must_visit",
+      "attraction_names": [
+        "Tianhou Temple",
+        "West Lake Park",
+        "Quanzhou Kaiyuan Temple"
+      ],
+      "attraction_ratings": [
+        4.8,
+        4.8,
+        4.8
+      ]
+    },
+    "restaurant_specific_cuisine_nearby": {
+      "constraint_context": "Please arrange a meal at a restaurant near 'Anping Bridge' during the trip, with the cuisine type being fast food.",
+      "constraint_type": "superlative_specific_cuisine_nearby",
+      "attraction_name": "Anping Bridge",
+      "restaurant_name": "Thumbs Up Fast Food Restaurant (Anping Branch)",
+      "price_per_person": 24.0,
+      "restaurant_rating": 4.1
+    },
+    "budget_constraint": {
+      "max_budget": 17000
+    }
+  }
+}

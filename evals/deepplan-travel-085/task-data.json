@@ -1,0 +1,46 @@
+{
+  "task_id": "84",
+  "query": "I plan to travel from Chengdu to Nanchang on November 12, 2025, and stay until November 17 before returning. Could you please help me plan the detailed itinerary, including transportation, accommodation, meals, and sightseeing arrangements? I'd like to take a flight there—could you find me the cheapest direct flight operated with a Boeing aircraft? My budget is limited, but a direct flight would be more convenient.\n\nI don't have high requirements for accommodation—a three-star hotel will suffice. However, I’d really like to experience a hotel that offers robot room service if possible; that would be even better, as long as it's convenient. I only need to book one room since there are just two of us traveling.\n\nRegarding meals, I have two small requests. First, upon arrival, I’d like to have a meal near 'Tianfu Airport'—preferably at a restaurant that supports online queuing so we can save time. Second, I really want to visit 'Aixi Lake Forest Wetland Park', and after touring around, we’ll likely be hungry. Could you help me find the nearest restaurant to 'Aixi Lake Forest Wetland Park' and arrange a meal there?\n\nThat covers most of my needs. I believe I’ve provided all necessary information—please go ahead and start planning the itinerary! November 12, 2025 is Wednesday",
+  "meta_info": {
+    "org": "Chengdu",
+    "dest": [
+      "Nanchang"
+    ],
+    "days": 6,
+    "depart_date": "2025-11-12",
+    "return_date": "2025-11-17",
+    "people_number": 2,
+    "room_number": 1
+  },
+  "hard_constraints": {
+    "flight_cheapest_manufacturer_direct": {
+      "constraint_context": "Prefer to take a flight for the outbound journey, and need to select the cheapest direct flight available on a Boeing-manufactured aircraft",
+      "constraint_type": "superlative_cheapest_manufacturer",
+      "outbound_flight_no": "RY6680"
+    },
+    "hotel_star_service_required": {
+      "constraint_context": "For accommodation, please select a 3-star hotel that provides \"robot room service\"",
+      "constraint_type": "superlative_star_service_required",
+      "hotel_name": "Pris S Hotel (Nanchang Honggutan Wanda Plaza Branch)",
+      "required_service": "Robot Service",
+      "hotel_star": 3,
+      "hotel_price": 199.0
+    },
+    "restaurant_specific_tag_nearby": {
+      "constraint_context": "Arrange a meal at a restaurant near 'Tianfu Airport' during the trip, with online number-taking and queuing service required",
+      "constraint_type": "superlative_specific_tag_nearby",
+      "attraction_name": "Tianfu Airport",
+      "restaurant_name": "Tianfu Airport Cloud Enjoy Hotel · Buffet Restaurant",
+      "required_tag": "Online Queue",
+      "price_per_person": 100.0,
+      "restaurant_rating": 4.0
+    },
+    "restaurant_closest_to_attraction": {
+      "constraint_context": "During the trip, please arrange a meal at the restaurant closest to 'Aixi Lake Forest Wetland Park'.",
+      "constraint_type": "superlative_closest_to_attraction",
+      "attraction_name": "Aixi Lake Forest Wetland Park",
+      "restaurant_name": "Holiday Inn Express Hotel Restaurant",
+      "price_per_person": 100.0
+    }
+  }
+}

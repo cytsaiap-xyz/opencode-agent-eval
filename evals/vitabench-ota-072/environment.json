@@ -1,0 +1,135 @@
+{
+  "task_id": "70806004",
+  "domain": "ota",
+  "time": "2025-03-16 09:12:26",
+  "user_id": "U010016",
+  "weather": [
+    {
+      "city": "Wenzhou",
+      "category": "cloudy",
+      "datetime": "2025-03-16",
+      "temperature": [
+        12,
+        18
+      ],
+      "humidity": 65
+    },
+    {
+      "city": "Fuzhou",
+      "category": "sunny",
+      "datetime": "2025-03-16",
+      "temperature": [
+        15,
+        22
+      ],
+      "humidity": 58
+    }
+  ],
+  "location": [
+    {
+      "address": "Zhoujiaqiao Community, No. 87 Zhouhong Road, Rui'an, Wenzhou, Zhejiang Province",
+      "longitude": 120.6562,
+      "latitude": 27.7731
+    },
+    {
+      "address": "Wenzhou Jijia Network Technology Co., Ltd., Headquarters Economic Building, Rui'an Economic Development Zone, Rui'an, Wenzhou, Zhejiang Province",
+      "longitude": 120.6789,
+      "latitude": 27.7892
+    }
+  ],
+  "user_profile": {
+    "user id": "U010016",
+    "occupation": "Algorithm Engineer",
+    "gender": "female",
+    "age group": "25~30",
+    "residence": "Wenzhou",
+    "home address": "Zhoujiaqiao Community, No. 87 Zhouhong Road, Rui'an, Wenzhou, Zhejiang Province",
+    "work address": "Wenzhou Jijia Network Technology Co., Ltd., Headquarters Economic Building, Rui'an Economic Development Zone, Rui'an, Wenzhou, Zhejiang Province",
+    "dietary restrictions": "Avoid high sugar",
+    "family status": "In a relationship",
+    "personality": "Anxious and worrisome, needs repeated confirmation to feel at ease"
+  },
+  "user_historical_behaviors": {
+    "user id": "U010016",
+    "occupation": "Algorithm Engineer",
+    "gender": "female",
+    "age group": "25~30",
+    "residence": "Wenzhou",
+    "home address": "Zhoujiaqiao Community, No. 87 Zhouhong Road, Rui'an, Wenzhou, Zhejiang Province",
+    "work address": "Wenzhou Jijia Network Technology Co., Ltd., Headquarters Economic Building, Rui'an Economic Development Zone, Rui'an, Wenzhou, Zhejiang Province",
+    "visited scenes": {
+      "Historical Sites": "25%",
+      "Exhibition Halls (Museums/Art Galleries)": "30%",
+      "Natural Landscapes (Mountains/Lakes/Forests)": "20%",
+      "Hot Spring Resorts": "15%",
+      "Featured Villages/Industrial Tourism/Uncategorized Projects": "10%"
+    },
+    "cost per night on hotel": "500~1000 yuan",
+    "visited hotels": {
+      "Atour": "35%",
+      "Ji Hotel": "25%",
+      "Orange Hotel": "20%",
+      "Vienna Hotel": "15%",
+      "Huazhu": "5%"
+    },
+    "browsed hotels": {
+      "Four-star Hotels": "40%",
+      "Comfort Hotels": "45%",
+      "Luxury Hotels": "10%",
+      "Three-star Hotels": "5%"
+    },
+    "historical travel plans": {
+      "Wenzhou-Shanghai": {
+        "Price Range": "200-400 yuan",
+        "Transportation Method": "High-speed train"
+      },
+      "Wenzhou-Hangzhou": {
+        "Price Range": "150-300 yuan",
+        "Transportation Method": "High-speed train"
+      },
+      "Wenzhou-Beijing": {
+        "Price Range": "800-1500 yuan",
+        "Transportation Method": "Airplane"
+      },
+      "Wenzhou-Fuzhou": {
+        "Price Range": "100-200 yuan",
+        "Transportation Method": "High-speed train"
+      },
+      "Wenzhou-Xiamen": {
+        "Price Range": "400-700 yuan",
+        "Transportation Method": "High-speed train"
+      },
+      "Wenzhou-Chengdu": {
+        "Price Range": "1000-1800 yuan",
+        "Transportation Method": "Airplane"
+      }
+    }
+  },
+  "stores": {},
+  "orders": {
+    "70806004T004": {
+      "order_id": "70806004T004",
+      "order_type": "train",
+      "user_id": "U010016",
+      "store_id": "S17557512487369621_T00012",
+      "note": "",
+      "location": null,
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 118,
+      "create_time": "2025-01-13 12:23:16",
+      "update_time": "2025-01-13 12:23:16",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17557512487369621_P00094",
+          "price": 118,
+          "quantity": 1,
+          "date": "2025-01-16",
+          "seat_type": "Second-class seat"
+        }
+      ]
+    }
+  }
+}

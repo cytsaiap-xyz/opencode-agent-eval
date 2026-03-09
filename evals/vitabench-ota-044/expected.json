@@ -1,0 +1,198 @@
+{
+  "required_orders": [
+    {
+      "order_id": "S17557073973233365_O00001",
+      "order_type": "train",
+      "user_id": "U758433",
+      "store_id": "S17557073973233365_T00014",
+      "note": "",
+      "location": null,
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 112,
+      "create_time": "2024-09-11 20:45:00",
+      "update_time": "2024-09-11 23:22:26",
+      "status": "cancelled",
+      "products": [
+        {
+          "product_id": "S17557073973233365_P00112",
+          "price": 56,
+          "quantity": 2,
+          "date": "2024-09-20",
+          "seat_type": "Second Class Seat"
+        }
+      ]
+    },
+    {
+      "order_id": "S17557073973233365_O00002",
+      "order_type": "train",
+      "user_id": "U758433",
+      "store_id": "S17557073973233365_T00015",
+      "note": "",
+      "location": null,
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 130,
+      "create_time": "2024-09-11 20:52:00",
+      "update_time": "2024-09-11 23:27:56",
+      "status": "cancelled",
+      "products": [
+        {
+          "product_id": "S17557073973233365_P00122",
+          "price": 65,
+          "quantity": 2,
+          "date": "2024-09-22",
+          "seat_type": "Second Class Seat"
+        }
+      ]
+    },
+    {
+      "order_id": "D0812007T001",
+      "order_type": "flight",
+      "user_id": "U758433",
+      "store_id": "S17557073973233365_F00010",
+      "note": "",
+      "location": null,
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 2560,
+      "create_time": "2024-09-11 23:31:02",
+      "update_time": "2024-09-11 23:31:02",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17557073973233365_P00091",
+          "price": 1280,
+          "quantity": 2,
+          "date": "2024-09-20",
+          "seat_type": "Economy Class"
+        }
+      ]
+    },
+    {
+      "order_id": "D0812007T002",
+      "order_type": "flight",
+      "user_id": "U758433",
+      "store_id": "S17557073973233365_F00011",
+      "note": "",
+      "location": null,
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 2560,
+      "create_time": "2024-09-11 23:33:35",
+      "update_time": "2024-09-11 23:33:35",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17557073973233365_P00096",
+          "price": 1280,
+          "quantity": 2,
+          "date": "2024-09-22",
+          "seat_type": "Economy Class"
+        }
+      ]
+    },
+    {
+      "order_id": "D0812007T003",
+      "order_type": "hotel",
+      "user_id": "U758433",
+      "store_id": "S17557073973233365_H00001",
+      "note": "",
+      "location": null,
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 688,
+      "create_time": "2024-09-11 23:35:42",
+      "update_time": "2024-09-11 23:35:42",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17557073973233365_P00001",
+          "price": 688,
+          "quantity": 1,
+          "date": "2024-09-20",
+          "room_type": "Deluxe King Room"
+        }
+      ]
+    },
+    {
+      "order_id": "D0812007T004",
+      "order_type": "hotel",
+      "user_id": "U758433",
+      "store_id": "S17557073973233365_H00004",
+      "note": "",
+      "location": null,
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 880,
+      "create_time": "2024-09-11 23:38:21",
+      "update_time": "2024-09-11 23:38:21",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17557073973233365_P00026",
+          "price": 880,
+          "quantity": 1,
+          "date": "2024-09-22",
+          "room_type": "Starry Sky Tent Room"
+        }
+      ]
+    },
+    {
+      "order_id": "D0812007T005",
+      "order_type": "attraction",
+      "user_id": "U758433",
+      "store_id": "S17557073973233365_A00006",
+      "note": "",
+      "location": null,
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 200,
+      "create_time": "2024-09-11 23:41:32",
+      "update_time": "2024-09-11 23:41:32",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17557073973233365_P00043",
+          "price": 100,
+          "quantity": 2,
+          "date": "2024-09-21",
+          "ticket_type": "Adult Ticket"
+        }
+      ]
+    }
+  ],
+  "rubrics": [
+    "The status of the train ticket order for train number G2926 is cancelled",
+    "The status of the train ticket order for train number G2927 is cancelled",
+    "The flight in the outbound air ticket order is from Kunming to Ningxia",
+    "The flight in the outbound air ticket order is operated by Sichuan Airlines",
+    "The flight in the outbound air ticket order departs in the morning",
+    "The date of the outbound air ticket order is September 20, 2024",
+    "The number of tickets in the outbound air ticket order is 2",
+    "The flight in the return air ticket order is from Ningxia to Kunming",
+    "The flight in the return air ticket order is operated by Sichuan Airlines",
+    "The flight in the return air ticket order departs in the afternoon",
+    "The date of the return air ticket order is September 22, 2024",
+    "The number of tickets in the return air ticket order is 2",
+    "The booking date for the first night hotel order is September 20, 2024",
+    "The hotel in the first night hotel order should be in Jinfeng District",
+    "The hotel in the first night hotel order should be near a subway station",
+    "The room type in the first night hotel order should be a king room",
+    "The booking date for the second night hotel order is September 22, 2024",
+    "The hotel in the second night hotel order should be in Shapotou",
+    "The hotel in the second night hotel order should have starry tents",
+    "The room type in the second night hotel order should be a king room",
+    "Query which day has the lowest temperature in Yinchuan, Ningxia from September 20, 2024 to September 22, 2024 (the result is September 21, 2024), so the date of the admission tickets is September 21, 2024",
+    "The type of admission tickets purchased is Adult Ticket",
+    "The number of Adult Tickets in the scenic spot order is 2",
+    "The scenic spot ordered is the Western Film Studio"
+  ]
+}

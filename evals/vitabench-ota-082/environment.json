@@ -1,0 +1,338 @@
+{
+  "task_id": "70807002",
+  "domain": "ota",
+  "time": "2024-08-22 19:53:27",
+  "user_id": "U010020",
+  "weather": [
+    {
+      "city": "Linyi",
+      "category": "cloudy",
+      "datetime": "2024-08-22",
+      "temperature": [
+        22,
+        31
+      ],
+      "humidity": 65
+    },
+    {
+      "city": "Xi'an",
+      "category": "sunny",
+      "datetime": "2024-08-22",
+      "temperature": [
+        24,
+        35
+      ],
+      "humidity": 58
+    }
+  ],
+  "location": [],
+  "user_profile": {
+    "user id": "U010020",
+    "occupation": "Advertising Planner",
+    "gender": "male",
+    "age group": "30~35",
+    "residence": "Linyi",
+    "home address": "Wulibao Community, Kaiyang Road, Lanshan District, Linyi, Shandong Province",
+    "work address": "United Business Building, 175 Ping'an Road, Lanshan District, Linyi, Shandong Province",
+    "dietary restrictions": "No alcohol",
+    "family status": "In a relationship",
+    "personality": "Tends to be anxious and worried, needs repeated confirmation to feel at ease"
+  },
+  "user_historical_behaviors": {
+    "user id": "U010020",
+    "occupation": "Advertising Planner",
+    "gender": "male",
+    "age group": "30~35",
+    "residence": "Linyi",
+    "home address": "Wulibao Community, Kaiyang Road, Lanshan District, Linyi, Shandong Province",
+    "work address": "United Business Building, 175 Ping'an Road, Lanshan District, Linyi, Shandong Province",
+    "visited scenes": {
+      "Historical Sites": "35%",
+      "Exhibition Halls (Museums/Art Galleries)": "25%",
+      "Natural Landscapes (Mountains/Lakes/Forests)": "20%",
+      "Featured Villages/Industrial Tourism/Uncategorized Projects": "15%",
+      "Theme Parks": "5%"
+    },
+    "cost per night on hotel": "500~1000 yuan",
+    "visited hotels": {
+      "Atour": "30%",
+      "JI Hotel": "25%",
+      "Vienna": "20%",
+      "Orange": "15%",
+      "Home Inn": "10%"
+    },
+    "browsed hotels": {
+      "Four-star Hotels": "40%",
+      "Comfort Hotels": "35%",
+      "Three-star Hotels": "15%",
+      "Luxury Hotels": "10%"
+    },
+    "historical travel plans": {
+      "Linyi-Beijing": {
+        "Price Range": "400-600 yuan",
+        "Transportation": "High-Speed Rail/EMU (Electric Multiple Unit)"
+      },
+      "Linyi-Shanghai": {
+        "Price Range": "500-700 yuan",
+        "Transportation": "High-Speed Rail/EMU (Electric Multiple Unit)"
+      },
+      "Linyi-Qingdao": {
+        "Price Range": "150-250 yuan",
+        "Transportation": "High-Speed Rail/EMU (Electric Multiple Unit)"
+      },
+      "Linyi-Hangzhou": {
+        "Price Range": "600-900 yuan",
+        "Transportation": "High-Speed Rail/EMU (Electric Multiple Unit)"
+      },
+      "Linyi-Jinan": {
+        "Price Range": "100-150 yuan",
+        "Transportation": "High-Speed Rail/EMU (Electric Multiple Unit)"
+      },
+      "Linyi-Nanjing": {
+        "Price Range": "300-450 yuan",
+        "Transportation": "High-Speed Rail/EMU (Electric Multiple Unit)"
+      }
+    }
+  },
+  "stores": {},
+  "orders": {
+    "S17557511177488640_O00001": {
+      "order_id": "S17557511177488640_O00001",
+      "order_type": "train",
+      "user_id": "U010020",
+      "store_id": "T00015",
+      "note": "Regular Train experience, 2 Hard Sleeper Lower Berths",
+      "location": {
+        "address": "Linyi Railway Station, Lanshan District, Linyi, Shandong Province",
+        "longitude": 118.326443,
+        "latitude": 35.061792
+      },
+      "dispatch_time": "",
+      "shipping_time": 0.0,
+      "delivery_time": "",
+      "total_price": 596.0,
+      "create_time": "2024-08-20 14:25:00",
+      "update_time": "2024-08-20 14:25:00",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17557511177488640_P00147",
+          "price": 298.0,
+          "quantity": 2,
+          "date": "2024-09-13",
+          "seat_type": "Hard Sleeper Lower Berth"
+        }
+      ]
+    },
+    "S17557511177488640_O00002": {
+      "order_id": "S17557511177488640_O00002",
+      "order_type": "attraction",
+      "user_id": "U010020",
+      "store_id": "A00006",
+      "note": "Terracotta Army tickets, must-visit attraction on the first day",
+      "location": {
+        "address": "Emperor Qin Shi Huang's Mausoleum Site Museum, Lintong District, Xi'an, Shaanxi Province",
+        "longitude": 109.273067,
+        "latitude": 34.384437
+      },
+      "dispatch_time": "",
+      "shipping_time": 0.0,
+      "delivery_time": "",
+      "total_price": 240.0,
+      "create_time": "2024-08-20 15:10:00",
+      "update_time": "2024-08-20 15:10:00",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17557511177488640_P00066",
+          "price": 120.0,
+          "quantity": 2,
+          "date": "2024-09-14",
+          "ticket_type": "Adult Ticket"
+        }
+      ]
+    },
+    "S17557511177488640_O00003": {
+      "order_id": "S17557511177488640_O00003",
+      "order_type": "attraction",
+      "user_id": "U010020",
+      "store_id": "A00007",
+      "note": "Mausoleum of the First Qin Emperor tickets, to visit together with the Terracotta Army",
+      "location": {
+        "address": "Mausoleum of the First Qin Emperor, Lintong District, Xi'an, Shaanxi Province",
+        "longitude": 109.258536,
+        "latitude": 34.372778
+      },
+      "dispatch_time": "",
+      "shipping_time": 0.0,
+      "delivery_time": "",
+      "total_price": 240.0,
+      "create_time": "2024-08-20 15:15:00",
+      "update_time": "2024-08-20 15:15:00",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17557511177488640_P00078",
+          "price": 120.0,
+          "quantity": 2,
+          "date": "2024-09-16",
+          "ticket_type": "Adult Ticket"
+        }
+      ]
+    },
+    "S17557511177488640_O00004": {
+      "order_id": "S17557511177488640_O00004",
+      "order_type": "attraction",
+      "user_id": "U010020",
+      "store_id": "A00008",
+      "note": "See pandas, scheduled for the second day",
+      "location": {
+        "address": "Xi'an Qinling Wildlife Park, Chang'an District, Xi'an, Shaanxi Province",
+        "longitude": 108.832146,
+        "latitude": 34.072084
+      },
+      "dispatch_time": "",
+      "shipping_time": 0.0,
+      "delivery_time": "",
+      "total_price": 200.0,
+      "create_time": "2024-08-20 15:30:00",
+      "update_time": "2024-08-20 15:30:00",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17557511177488640_P00085",
+          "price": 100.0,
+          "quantity": 2,
+          "date": "2024-09-15",
+          "ticket_type": "Adult Ticket"
+        }
+      ]
+    },
+    "S17557511177488640_O00005": {
+      "order_id": "S17557511177488640_O00005",
+      "order_type": "attraction",
+      "user_id": "U010020",
+      "store_id": "A00009",
+      "note": "Tang Paradise Hanfu experience package, night tour and photo taking on the third day",
+      "location": {
+        "address": "Tang Paradise, Yanta District, Xi'an, Shaanxi Province",
+        "longitude": 108.973616,
+        "latitude": 34.234776
+      },
+      "dispatch_time": "",
+      "shipping_time": 0.0,
+      "delivery_time": "",
+      "total_price": 400.0,
+      "create_time": "2024-08-20 16:00:00",
+      "update_time": "2024-08-20 16:00:00",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17557511177488640_P00106",
+          "price": 200.0,
+          "quantity": 2,
+          "date": "2024-09-15",
+          "ticket_type": "Hanfu Experience Ticket (Includes Admission + Hanfu Rental)"
+        }
+      ]
+    },
+    "S17557511177488640_O00006": {
+      "order_id": "S17557511177488640_O00006",
+      "order_type": "attraction",
+      "user_id": "U010020",
+      "store_id": "A00010",
+      "note": "Shaanxi History Museum, visit on the last day",
+      "location": {
+        "address": "Shaanxi History Museum, Yanta District, Xi'an, Shaanxi Province",
+        "longitude": 108.964542,
+        "latitude": 34.236776
+      },
+      "dispatch_time": "",
+      "shipping_time": 0.0,
+      "delivery_time": "",
+      "total_price": 60.0,
+      "create_time": "2024-08-20 16:15:00",
+      "update_time": "2024-08-20 16:15:00",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17557511177488640_P00107",
+          "price": 30.0,
+          "quantity": 2,
+          "date": "2024-09-16",
+          "ticket_type": "Adult Ticket"
+        }
+      ]
+    },
+    "S17557511177488640_O00007": {
+      "order_id": "S17557511177488640_O00007",
+      "order_type": "hotel",
+      "user_id": "U010020",
+      "store_id": "H00001",
+      "note": "Xi'an accommodation, centrally located for convenient access to attractions",
+      "location": {
+        "address": "Atour Hotel Bell Tower Xi'an, Beilin District, Xi'an, Shaanxi Province",
+        "longitude": 108.948024,
+        "latitude": 34.263161
+      },
+      "dispatch_time": "",
+      "shipping_time": 0.0,
+      "delivery_time": "",
+      "total_price": 2064.0,
+      "create_time": "2024-08-21 09:30:00",
+      "update_time": "2024-08-21 09:30:00",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17557511177488640_P00001",
+          "price": 688.0,
+          "quantity": 1,
+          "date": "2024-09-14",
+          "room_type": "Luxury King Room"
+        },
+        {
+          "product_id": "S17557511177488640_P00002",
+          "price": 688.0,
+          "quantity": 1,
+          "date": "2024-09-15",
+          "room_type": "Luxury King Room"
+        },
+        {
+          "product_id": "S17557511177488640_P00003",
+          "price": 688.0,
+          "quantity": 1,
+          "date": "2024-09-16",
+          "room_type": "Luxury King Room"
+        }
+      ]
+    },
+    "S17557511177488640_O00008": {
+      "order_id": "S17557511177488640_O00008",
+      "order_type": "train",
+      "user_id": "U010020",
+      "store_id": "T00017",
+      "note": "Return high-speed rail tickets, 2 Second Class Seats",
+      "location": {
+        "address": "Xi'an Railway Station, Xincheng District, Xi'an, Shaanxi Province",
+        "longitude": 108.953098,
+        "latitude": 34.266034
+      },
+      "dispatch_time": "",
+      "shipping_time": 0.0,
+      "delivery_time": "",
+      "total_price": 1106.0,
+      "create_time": "2024-08-21 10:15:00",
+      "update_time": "2024-08-21 10:15:00",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17557511177488640_P00168",
+          "price": 553.0,
+          "quantity": 2,
+          "date": "2024-09-18",
+          "seat_type": "Second Class Seat"
+        }
+      ]
+    }
+  }
+}

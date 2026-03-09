@@ -1,0 +1,200 @@
+{
+  "task_id": "10826019",
+  "domain": "instore",
+  "time": "2025-06-16 14:23:00",
+  "user_id": "U061728",
+  "weather": [
+    {
+      "city": "Luoyang",
+      "category": "cloudy",
+      "datetime": "2025-06-17",
+      "temperature": [
+        22,
+        32
+      ],
+      "humidity": 55
+    }
+  ],
+  "location": [
+    {
+      "address": "Room 502, Unit 1, Building 3, Greenland Century City at the Intersection of Wangcheng Avenue and Triumph East Road, Xigong District, Luoyang",
+      "longitude": 112.434536,
+      "latitude": 34.663823
+    },
+    {
+      "address": "12th Floor, Building B, Luoyang Innovation Plaza, 96 Binhe North Road, High-tech District, Luoyang",
+      "longitude": 112.454782,
+      "latitude": 34.678945
+    },
+    {
+      "address": "North Gate of Wangcheng Park, Xigong District, Luoyang",
+      "longitude": 112.438762,
+      "latitude": 34.669541
+    },
+    {
+      "address": "Triumph Plaza in the Central Business District, Xigong District, Luoyang",
+      "longitude": 112.436892,
+      "latitude": 34.665734
+    },
+    {
+      "address": "Intersection of Stadium Road and Zhongzhou Middle Road, Xigong District, Luoyang",
+      "longitude": 112.442175,
+      "latitude": 34.667328
+    }
+  ],
+  "user_profile": {
+    "user id": "U061728",
+    "occupation": "Technical Staff",
+    "gender": "female",
+    "age group": "25~30",
+    "residence": "Luoyang",
+    "home address": "Room 502, Unit 1, Building 3, Greenland Century City at the Intersection of Wangcheng Avenue and Triumph East Road, Xigong District, Luoyang",
+    "work address": "12th Floor, Building B, Luoyang Innovation Plaza, 96 Binhe North Road, High-tech District, Luoyang",
+    "dietary restrictions": "No coffee drinks, No high sugar",
+    "family status": "Has pets",
+    "personality": "Tends to be controlling, not open to different opinions"
+  },
+  "user_historical_behaviors": {
+    "user id": "U061728",
+    "occupation": "Technical Staff",
+    "gender": "female",
+    "age group": "25~30",
+    "residence": "Luoyang",
+    "home address": "Room 502, Unit 1, Building 3, Greenland Century City at the Intersection of Wangcheng Avenue and Triumph East Road, Xigong District, Luoyang",
+    "work address": "12th Floor, Building B, Luoyang Innovation Plaza, 96 Binhe North Road, High-tech District, Luoyang",
+    "in-store dining": {
+      "fine-dining": {
+        "frequently purchased categories": [
+          "Regional Cuisine/Sichuan Cuisine (Average 88 yuan)",
+          "International Cuisine/Japanese Food (Average 120 yuan)",
+          "Hot Pot (Average 95 yuan)"
+        ],
+        "preferred average price per person": "80~120 yuan",
+        "preferred store rating": "4.0~4.8 stars",
+        "typical dining time": "18:30-20:30",
+        "preferred distance": "500~3000m",
+        "recent orders": [
+          {
+            "store": "Sichuan Fragrance Garden",
+            "product": "Boiled Fish + Twice-Cooked Pork Set"
+          },
+          {
+            "store": "Hana Japanese Restaurant",
+            "product": "Sashimi Platter + Sushi Set"
+          },
+          {
+            "store": "Bashu Impression",
+            "product": "Spicy Pork Blood Curd + Dry Pot Chicken"
+          }
+        ],
+        "search history": [
+          "Spicy Food Lover",
+          "Japanese Cuisine",
+          "Healthy Hot Pot",
+          "Sichuan Restaurant"
+        ]
+      },
+      "light meal": {
+        "frequently purchased categories": [
+          "Fast Food/Chinese Quick Meals (Average 35 yuan)",
+          "Fast Food/Western Quick Meals (Average 28 yuan)",
+          "Regional Cuisine/Northeastern Cuisine (Average 45 yuan)"
+        ],
+        "preferred average price per person": "25~50 yuan",
+        "preferred store rating": "3.5~4.3 stars",
+        "typical dining time": "12:00-13:30",
+        "preferred distance": "0~800m",
+        "recent orders": [
+          {
+            "store": "Old Neighborhood Northeastern Cuisine",
+            "product": "Sweet and Sour Pork + Rice"
+          },
+          {
+            "store": "Salad Diary",
+            "product": "Light Salad + Low-Sugar Drink"
+          },
+          {
+            "store": "Whole Grain King",
+            "product": "Mixed Grain Meal Set"
+          }
+        ],
+        "search history": [
+          "Healthy Quick Meal",
+          "Work Meal",
+          "Low Sugar",
+          "Fast Food"
+        ]
+      },
+      "desserts/drinks/snacks": {
+        "frequently purchased categories": [
+          "Beverage Shops (Average 18 yuan)",
+          "Bread and Desserts (Average 25 yuan)",
+          "Other Dining/Fresh Fruits (Average 15 yuan)"
+        ],
+        "preferred average price per person": "15~30 yuan",
+        "preferred store rating": "3.8~4.5 stars",
+        "typical dining time": "15:00-17:00",
+        "preferred distance": "0~500m",
+        "recent orders": [
+          {
+            "store": "Yidiandian",
+            "product": "Sugar-free Oolong Tea"
+          },
+          {
+            "store": "Daily Fresh",
+            "product": "Seasonal Fruit Platter"
+          },
+          {
+            "store": "Bread Talk",
+            "product": "Whole Wheat Bread"
+          }
+        ],
+        "search history": [
+          "Sugar-free Drinks",
+          "Low-calorie Desserts",
+          "Healthy Snacks",
+          "Fruits"
+        ]
+      }
+    },
+    "other in-store services": {
+      "frequently consumed categories": {
+        "Sports & Fitness/Yoga": "40%",
+        "Pets/Pet Hospital": "30%",
+        "Beauty/Hair Salon": "20%",
+        "Entertainment/DIY Workshop": "10%"
+      },
+      "cost per order by category": {
+        "Sports & Fitness/Yoga": "80~150 yuan",
+        "Pets/Pet Hospital": "100~300 yuan",
+        "Beauty/Hair Salon": "150~300 yuan",
+        "Entertainment/DIY Workshop": "100~200 yuan"
+      },
+      "preferred store rating": "4.0~4.8 stars",
+      "preferred service time": "18:00-21:00",
+      "preferred distance": "0~5000m",
+      "recent orders": [
+        {
+          "store": "Youyou Yoga Studio",
+          "product": "Single Yoga Class"
+        },
+        {
+          "store": "Love Pet Animal Hospital",
+          "product": "Routine Cat Examination"
+        },
+        {
+          "store": "Artisan Hair Salon",
+          "product": "Wash, Cut and Style Package"
+        }
+      ],
+      "search history": [
+        "Pet Hospital",
+        "Yoga Studio",
+        "DIY Workshop",
+        "Cat Grooming"
+      ]
+    }
+  },
+  "stores": {},
+  "orders": {}
+}

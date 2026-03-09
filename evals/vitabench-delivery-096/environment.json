@@ -1,0 +1,379 @@
+{
+  "task_id": "J0717002",
+  "domain": "delivery",
+  "time": "2024-05-18 18:40:12",
+  "user_id": "U000010",
+  "weather": [
+    {
+      "city": "Chongqing City",
+      "category": "sunny",
+      "datetime": "2024-05-18",
+      "temperature": [
+        21,
+        27
+      ],
+      "humidity": 25
+    }
+  ],
+  "location": [
+    {
+      "address": "No.25, No.2 Shuangfengshan Road, Yunmanting Zone C, Nan'an District, Chongqing",
+      "longitude": 106.554969,
+      "latitude": 29.532933
+    }
+  ],
+  "user_profile": {
+    "user id": "U000010",
+    "occupation": "Technical Staff",
+    "gender": "male",
+    "age group": "40~45",
+    "residence": "Chongqing",
+    "home address": "No.25, No.2 Shuangfengshan Road, Yunmanting Zone C, Nan'an District, Chongqing",
+    "work address": "No.1 Guangfu Avenue, Tianwen Street, Nan'an District People's Government, Chongqing",
+    "dietary restrictions": "No alcohol",
+    "family status": "Has children",
+    "personality": "Experiences significant emotional fluctuations, expresses himself with strong emotional coloring"
+  },
+  "user_historical_behaviors": {
+    "user id": "U000010",
+    "occupation": "Technical Personnel",
+    "gender": "male",
+    "age group": "40~45",
+    "residence": "Chongqing",
+    "home address": "No.25, No.2 Shuangfengshan Road, Yunmanting Zone C, Nan'an District, Chongqing",
+    "work address": "No.1 Guangfu Avenue, Tianwen Street, Nan'an District People's Government, Chongqing",
+    "breakfast": {
+      "frequently purchased categories": [
+        "Quick Meals/Steamed Buns/Pan-fried Buns (Average ¥10)",
+        "Quick Meals/Jianbing/Pancakes/Hand-grabbed Pancakes (Average ¥12)",
+        "Quick Meals/Chongqing Noodles (Average ¥18)"
+      ],
+      "cost per order": "¥10~25",
+      "preferred store rating": "4.2~4.9 stars",
+      "preferred delivery time": "15~30 minutes",
+      "preferred distance": "0~1500m",
+      "recent orders": [
+        {
+          "store": "Laojiekou Breakfast",
+          "product": "Meat Bun + Soy Milk Combo"
+        },
+        {
+          "store": "Yang's Chongqing Noodles",
+          "product": "Beef Noodles"
+        },
+        {
+          "store": "Tiantian Hand-grabbed Pancakes",
+          "product": "Egg Hand-grabbed Pancake"
+        }
+      ],
+      "search history": [
+        "steamed buns",
+        "noodles",
+        "hand-grabbed pancakes",
+        "quick breakfast",
+        "nearby breakfast"
+      ]
+    },
+    "weekday lunch/dinner": {
+      "frequently purchased categories": [
+        "Quick Meals/Rice with Toppings (Average ¥25)",
+        "Quick Meals/Braised Chicken Rice (Average ¥28)",
+        "Chinese Cuisine/Sichuan Cuisine (Average ¥45)"
+      ],
+      "cost per order": "¥20~50",
+      "preferred store rating": "4.0~5.0 stars",
+      "preferred delivery time": "25~50 minutes",
+      "preferred distance": "0~3000m",
+      "recent orders": [
+        {
+          "store": "Braised Chicken Rice",
+          "product": "Signature Braised Chicken"
+        },
+        {
+          "store": "Mom's Sichuan Restaurant",
+          "product": "Twice-cooked Pork Set Meal"
+        },
+        {
+          "store": "Dicos",
+          "product": "Crispy Fried Chicken Set"
+        }
+      ],
+      "search history": [
+        "fast food",
+        "rice bowl",
+        "braised chicken",
+        "non-spicy dishes",
+        "cheap lunch"
+      ]
+    },
+    "weekend lunch/dinner": {
+      "frequently purchased categories": [
+        "Chinese Cuisine/Sichuan Cuisine (Average ¥80)",
+        "Hot Pot/Skewer Hot Pot (Average ¥95)",
+        "Chinese Cuisine/Grilled Fish (Average ¥110)"
+      ],
+      "cost per order": "¥60~150",
+      "preferred store rating": "4.5~5.0 stars",
+      "preferred delivery time": "30~50 minutes",
+      "preferred distance": "0~5000m",
+      "recent orders": [
+        {
+          "store": "Mom's Stomach-friendly Cuisine · No Pre-made Dishes (Nanping Store)",
+          "product": "Sweet Potato Strips with Twice-cooked Pork"
+        },
+        {
+          "store": "Willing to Bite Grilled Fish • BBQ (Nanping Store)",
+          "product": "Grilled Fish, Crucian Carp + 4 Side Dishes (for 2-3 people)"
+        }
+      ],
+      "search history": [
+        "skewer hot pot",
+        "delicious grilled fish",
+        "Sichuan restaurant",
+        "family dinner"
+      ]
+    },
+    "desserts/drinks/snacks": {
+      "frequently purchased categories": [
+        "Drinks & Desserts/Coffee (Average ¥22)",
+        "Drinks & Desserts/Milk Tea (Average ¥18)",
+        "Drinks & Desserts/Fruit Salad (Average ¥32)"
+      ],
+      "cost per order": "¥15~40",
+      "preferred store rating": "4.3~4.9 stars",
+      "preferred delivery time": "15~30 minutes",
+      "preferred distance": "0~2500m",
+      "recent orders": [
+        {
+          "store": "Starbucks",
+          "product": "Americano"
+        },
+        {
+          "store": "HeyTea",
+          "product": "Very Grape Fruit Tea"
+        },
+        {
+          "store": "Fresh Fruit Salad",
+          "product": "Colorful Fruit Salad"
+        }
+      ],
+      "search history": [
+        "coffee",
+        "low-sugar milk tea",
+        "healthy drinks",
+        "fruit salad"
+      ]
+    },
+    "night snack": {
+      "frequently purchased categories": [
+        "BBQ & Fried Food/BBQ (Skewers) (Average ¥45)",
+        "Quick Meals/Rice Noodles (Average ¥30)",
+        "Snacks & Braised Food/Braised Food (Average ¥28)"
+      ],
+      "cost per order": "¥25~55",
+      "preferred store rating": "4.0~4.9 stars",
+      "preferred delivery time": "25~45 minutes",
+      "preferred distance": "0~3000m",
+      "recent orders": [
+        {
+          "store": "Xiaojungan Skewer Hot Pot",
+          "product": "Signature BBQ Skewer Platter"
+        },
+        {
+          "store": "Chongqing Sweet Potato Noodle King",
+          "product": "Beef Sweet Potato Noodles"
+        },
+        {
+          "store": "Old Dock Braised Food",
+          "product": "Braised Food Platter"
+        }
+      ],
+      "search history": [
+        "BBQ skewers",
+        "rice noodles",
+        "braised food",
+        "late night meal sets"
+      ]
+    }
+  },
+  "stores": {
+    "S33764608762858787_S11690": {
+      "name": "Steam Fresh · Garlic Vermicelli Pot",
+      "store_id": "S33764608762858787_S11690",
+      "score": 5.0,
+      "location": {
+        "address": "1st Floor, Building C, No.3 Yanghe Second Village, Jiangbei District, Chongqing (Self-numbered No.10) (Dasheng Catering)",
+        "latitude": 29.582909,
+        "longitude": 106.531474
+      },
+      "tags": [],
+      "products": [
+        {
+          "name": "🏆Really Delicious\" Garlic Vermicelli Tender Meat Pot + 1 Rice",
+          "product_id": "S10915355094844256_P90588",
+          "store_id": "S19620956699455731_S94365",
+          "store_name": "Steam Fresh · Garlic Vermicelli Pot",
+          "price": 28.71,
+          "tags": [],
+          "attributes": [
+            "Original",
+            "Mild Spicy",
+            "Medium Spicy",
+            "Extra Spicy"
+          ],
+          "quantity": 9999
+        }
+      ]
+    },
+    "S29509549137012996_S47439": {
+      "name": "Sweet Fit Greek Yogurt · Meal Replacement · Diet Meal",
+      "store_id": "S29509549137012996_S47439",
+      "score": 4.9,
+      "location": {
+        "address": "No.15, No.10 Garden Third Village, Garden Road Street, Nan'an District, Chongqing",
+        "latitude": 29.525305,
+        "longitude": 106.556947
+      },
+      "tags": [
+        "Health"
+      ],
+      "products": [
+        {
+          "name": "Zao Blue Protein DIY Customized Greek Strained Thick Yogurt Bowl",
+          "store_id": "S29509549137012996_S47439",
+          "store_name": "Sweet Fit Greek Yogurt · Meal Replacement · Diet Meal",
+          "price": 39.9,
+          "tags": [],
+          "product_id": "S31507710680622253_P20902",
+          "attributes": [],
+          "quantity": 9999
+        }
+      ]
+    },
+    "S19620956699455731_S94365": {
+      "name": "Steam Badao Garlic Vermicelli Pot (Nanping Store)",
+      "store_id": "S19620956699455731_S94365",
+      "score": 5.0,
+      "location": {
+        "address": "Steam Badao Garlic Vermicelli Pot, 60 meters southwest of the intersection of Hubin Road and Wanshou Road, Nan'an District, Chongqing",
+        "latitude": 29.527025,
+        "longitude": 106.561075
+      },
+      "tags": [],
+      "products": [
+        {
+          "name": "🏆Really Delicious\" Garlic Vermicelli Tender Meat Pot + 1 Rice",
+          "store_id": "S19620956699455731_S94365",
+          "store_name": "Steam Badao Garlic Vermicelli Pot (Nanping Store)",
+          "price": 25.8,
+          "tags": [],
+          "product_id": "S94518215443597645_P43486",
+          "attributes": [
+            "Mild Spicy",
+            "Medium Spicy"
+          ],
+          "quantity": 9999
+        }
+      ]
+    },
+    "S97166713090221518_S90660": {
+      "name": "Fan Sha'er Authentic Sichuan Restaurant (Daping Store)",
+      "store_id": "S97166713090221518_S90660",
+      "score": 4.8,
+      "location": {
+        "address": "No.3-64, No.18 Times Avenue, Shiyou Road Street, Yuzhong District, Chongqing (Times Hub Building 7, Back Street 3-64)",
+        "latitude": 29.537969,
+        "longitude": 106.510537
+      },
+      "tags": [],
+      "products": [
+        {
+          "name": "Pickled Cabbage Vermicelli Meat Soup (Family Favorite)",
+          "product_id": "S91683784268693002_P95624",
+          "store_id": "S97166713090221518_S90660",
+          "store_name": "Fan Sha'er Authentic Sichuan Restaurant (Daping Store)",
+          "price": 28,
+          "tags": [],
+          "attributes": [
+            "Non-spicy",
+            "Mild Spicy",
+            "Medium Spicy"
+          ],
+          "quantity": 9999
+        }
+      ]
+    },
+    "S32508409269749890_S80895": {
+      "name": "Gong Stir-fry (Zoo Store)",
+      "store_id": "S32508409269749890_S80895",
+      "score": 4.8,
+      "location": {
+        "address": "No.30 Xijiao Road, Jiulongpo District, Chongqing (Local Authentic Sichuan Cuisine) Gong Stir-fry (Zoo Store)",
+        "latitude": 29.499918,
+        "longitude": 106.508468
+      },
+      "tags": [],
+      "products": [
+        {
+          "name": "Garlic Vermicelli Shrimp (Non-spicy)",
+          "product_id": "S21550450633000795_P74574",
+          "store_id": "S32508409269749890_S80895",
+          "store_name": "Gong Stir-fry (Zoo Store)",
+          "price": 42,
+          "tags": [],
+          "attributes": [],
+          "quantity": 9999
+        }
+      ]
+    },
+    "S47972616510004808_S29744": {
+      "name": "Guo Nainai · Cold Brew Greek Yogurt Bowl · Weight Loss Health (Nanping Store)",
+      "store_id": "S47972616510004808_S29744",
+      "score": 4.9,
+      "location": {
+        "address": "No.3, 1st Floor, Building C1, No.28 Nancheng Avenue, Nan'an District, Chongqing, Guo Nainai · Cold Brew Greek Yogurt Bowl (Nanping Store)",
+        "latitude": 29.52339,
+        "longitude": 106.566118
+      },
+      "tags": [],
+      "products": [
+        {
+          "name": "Low-calorie Low-fat Cold Brew Thick Yogurt Cup [Choose Your Flavor]",
+          "product_id": "S18547886541190881_P76500",
+          "store_id": "S47972616510004808_S29744",
+          "store_name": "Guo Nainai · Cold Brew Greek Yogurt Bowl · Weight Loss Health (Nanping Store)",
+          "price": 24.8,
+          "tags": [
+            "Strained Yogurt"
+          ],
+          "attributes": [],
+          "quantity": 9999
+        }
+      ]
+    },
+    "S95239914943656344_S27016": {
+      "name": "Yuanyu Desserts · Sweet Treats · Fruit Salad · Snacks (Nanping Coral Road Store)",
+      "store_id": "S95239914943656344_S27016",
+      "score": 4.6,
+      "location": {
+        "address": "No.9, 1st Floor, Building 2, No.8 Coral Road, Nanping Street, Nan'an District, Chongqing",
+        "latitude": 29.526775,
+        "longitude": 106.565925
+      },
+      "tags": [],
+      "products": [
+        {
+          "name": "Mango Pomelo Sago Yogurt Bowl [Single Cup Yogurt Fermented for 8 Hours]",
+          "product_id": "S12181609175013483_P89619",
+          "store_id": "S95239914943656344_S27016",
+          "store_name": "Yuanyu Desserts · Sweet Treats · Fruit Salad · Snacks (Nanping Coral Road Store)",
+          "price": 22.8,
+          "tags": [],
+          "attributes": [],
+          "quantity": 9999
+        }
+      ]
+    }
+  },
+  "orders": {}
+}

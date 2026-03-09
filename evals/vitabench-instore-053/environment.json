@@ -1,0 +1,195 @@
+{
+  "task_id": "10826067",
+  "domain": "instore",
+  "time": "2024-07-15 18:24:34",
+  "user_id": "U499750",
+  "weather": [
+    {
+      "city": "Dalian",
+      "category": "cloudy",
+      "datetime": "2024-07-15",
+      "temperature": [
+        24,
+        30
+      ],
+      "humidity": 65
+    },
+    {
+      "city": "Dalian",
+      "category": "sunny",
+      "datetime": "2024-07-20",
+      "temperature": [
+        25,
+        32
+      ],
+      "humidity": 60
+    }
+  ],
+  "location": [
+    {
+      "address": "Room 1201, Unit 1, Building A3, Xinghai Square, Shahekou District, Dalian",
+      "longitude": 121.586432,
+      "latitude": 38.878765
+    },
+    {
+      "address": "15th Floor, No.5 Victory International Building, Harbor Square, Zhongshan District, Dalian",
+      "longitude": 121.644521,
+      "latitude": 38.918634
+    },
+    {
+      "address": "No.1 Shopping Center, Harbor Square, Zhongshan District, Dalian",
+      "longitude": 121.64523,
+      "latitude": 38.919124
+    }
+  ],
+  "user_profile": {
+    "user id": "U499750",
+    "occupation": "Advertising Planner",
+    "gender": "female",
+    "age group": "25~30",
+    "residence": "Dalian",
+    "home address": "Room 1201, Unit 1, Building A3, Xinghai Square, Shahekou District, Dalian",
+    "work address": "15th Floor, No.5 Victory International Building, Harbor Square, Zhongshan District, Dalian",
+    "dietary restrictions": "No caffeine, Low-sugar",
+    "family status": "In a relationship",
+    "personality": "Expresses herself coldly and concisely, lacks emotional communication and patience"
+  },
+  "user_historical_behaviors": {
+    "user id": "U499750",
+    "occupation": "Advertising Planner",
+    "gender": "female",
+    "age group": "25~30",
+    "residence": "Dalian",
+    "home address": "Room 1201, Unit 1, Building A3, Xinghai Square, Shahekou District, Dalian",
+    "work address": "15th Floor, No.5 Victory International Building, Harbor Square, Zhongshan District, Dalian",
+    "in-store dining": {
+      "fine-dining": {
+        "frequently purchased categories": [
+          "Foreign Cuisine/Western Food (Average 135 Yuan)",
+          "Foreign Cuisine/Japanese Food (Average 160 Yuan)",
+          "Regional Cuisine/Cantonese Food (Average 120 Yuan)"
+        ],
+        "preferred average price per person": "120~160 Yuan",
+        "preferred store rating": "4.2~4.9 stars",
+        "typical dining time": "19:00-21:00",
+        "preferred distance": "1000~3000m",
+        "recent orders": [
+          {
+            "store": "Dalian Waterfront Restaurant",
+            "product": "Low-sugar Steak Set"
+          },
+          {
+            "store": "Sushi Master",
+            "product": "Premium Sashimi Platter"
+          },
+          {
+            "store": "Yue Lai Shun",
+            "product": "Steamed Sea Bass"
+          }
+        ],
+        "search history": [
+          "Sugar-free Western Food",
+          "Healthy Japanese Cuisine",
+          "High-end Restaurants near Xinghai Square"
+        ]
+      },
+      "light meal": {
+        "frequently purchased categories": [
+          "Fast Food/Chinese Quick Meals (Average 35 Yuan)",
+          "Fast Food/Western Quick Meals (Average 45 Yuan)",
+          "Regional Cuisine/Northeastern Food (Average 50 Yuan)"
+        ],
+        "preferred average price per person": "30~50 Yuan",
+        "preferred store rating": "3.5~4.3 stars",
+        "typical dining time": "12:00-13:30",
+        "preferred distance": "0~500m",
+        "recent orders": [
+          {
+            "store": "Northeastern Chef",
+            "product": "Sweet and Sour Pork Set (Less Sugar)"
+          },
+          {
+            "store": "Mr. Salad",
+            "product": "Light Chicken Breast Salad"
+          },
+          {
+            "store": "Fresh Porridge Way",
+            "product": "Preserved Egg and Lean Pork Porridge"
+          }
+        ],
+        "search history": [
+          "Fast Food near Office Building",
+          "Low-sugar Lunch",
+          "Healthy Quick Meals"
+        ]
+      },
+      "desserts/drinks/snacks": {
+        "frequently purchased categories": [
+          "Beverage Shops (Average 25 Yuan)",
+          "Bread and Desserts (Average 30 Yuan)"
+        ],
+        "preferred average price per person": "20~35 Yuan",
+        "preferred store rating": "4.0~4.8 stars",
+        "typical dining time": "15:00-16:30",
+        "preferred distance": "0~800m",
+        "recent orders": [
+          {
+            "store": "HeyTea",
+            "product": "Succulent Grape (Sugar-free)"
+          },
+          {
+            "store": "Bread Talk",
+            "product": "Sugar-free Whole Wheat Bread"
+          },
+          {
+            "store": "The Alley",
+            "product": "Jasmine Green Tea (Slightly Sweet)"
+          }
+        ],
+        "search history": [
+          "Sugar-free Drink",
+          "Low-calorie Desserts",
+          "Healthy Afternoon Tea"
+        ]
+      }
+    },
+    "other in-store services": {
+      "frequently consumed categories": {
+        "Beauty/Yoga": "35%",
+        "Sports and Fitness/Fitness Centers": "30%",
+        "Beauty/Hair Salons": "20%",
+        "Entertainment/DIY Workshops": "15%"
+      },
+      "cost per order by category": {
+        "Beauty/Yoga": "120~200 Yuan",
+        "Sports and Fitness/Fitness Centers": "80~150 Yuan",
+        "Beauty/Hair Salons": "200~350 Yuan",
+        "Entertainment/DIY Workshops": "150~250 Yuan"
+      },
+      "preferred store rating": "4.0~4.8 stars",
+      "preferred service time": "18:00-21:00",
+      "preferred distance": "0~2500m",
+      "recent orders": [
+        {
+          "store": "Starlight Yoga",
+          "product": "Private Lessons (5 Sessions)"
+        },
+        {
+          "store": "Easy Fitness",
+          "product": "Monthly Pass"
+        },
+        {
+          "store": "Creative Workshop",
+          "product": "Couples Pottery DIY Experience"
+        }
+      ],
+      "search history": [
+        "Yoga near Xinghai Square",
+        "Couple DIY Activities",
+        "Professional Women's Gym"
+      ]
+    }
+  },
+  "stores": {},
+  "orders": {}
+}

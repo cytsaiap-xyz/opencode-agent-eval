@@ -1,0 +1,48 @@
+{
+  "task_id": "41",
+  "query": "I plan to fly from Xi'an to Beijing on November 12, 2025, and stay until November 15, 2025. I'd like you to help me arrange this trip, including transportation, accommodation, meals, and places to visit. For the outbound flight, I’d like to arrive in Beijing as early as possible—could you please choose the earliest departing direct flight available with 'Eastern Airlines'? That way, I’ll have most of the day left to explore after arrival.\n\nI'm not too particular about where I stay, but I've always found 'Home Inn' to be great value for money. I'd like to stay at one of their properties again this time—please just find me the highest-rated 'Home Inn' hotel. Since I’m traveling alone, I only need one room.\n\nAs for sightseeing, I’m especially interested in 'Historical and Cultural' attractions. I’ve heard Beijing has many such sites—could you please include the top-rated 'Historical and Cultural' attractions in my itinerary? It would feel like a wasted trip to go to Beijing without seeing them.\n\nOh, and by the way—dining! I’ve heard there are quite a few restaurants near 'Beijing Zoo'. I’d like to have one meal in that area. Could you please recommend a well-reviewed restaurant nearby and include it in the plan?\n\nThat covers all my requirements—I believe I’ve provided enough information. Please go ahead and plan my full itinerary accordingly. Thank you! November 12, 2025 is Wednesday",
+  "meta_info": {
+    "org": "Xi'an",
+    "dest": [
+      "Beijing"
+    ],
+    "days": 4,
+    "depart_date": "2025-11-12",
+    "return_date": "2025-11-15",
+    "people_number": 1,
+    "room_number": 1
+  },
+  "hard_constraints": {
+    "flight_earliest_airline_direct": {
+      "constraint_context": "For the outbound journey, please help me select the earliest departure direct flight from China Eastern Airlines",
+      "constraint_type": "superlative_earliest_airline",
+      "outbound_flight_no": "MU2111"
+    },
+    "hotel_brand_highest_rated": {
+      "constraint_context": "For accommodation, please select the highest-rated hotel among \"Home Inn\" brand hotels",
+      "constraint_type": "superlative_brand_highest_rated",
+      "hotel_name": "Home Inn - Beijing Yansha Xinyuanli Branch",
+      "hotel_price": 235.0,
+      "hotel_score": 4.6
+    },
+    "attraction_type_highest_rated": {
+      "constraint_context": "The itinerary must include the highest-rated attraction in the 'Historical and Cultural' category.",
+      "constraint_type": "superlative_type_highest_rated",
+      "attraction_names": [
+        "Beihai Park"
+      ],
+      "attraction_type_cn": "历史文化",
+      "attraction_type": "Historical and Cultural",
+      "attraction_ratings": [
+        4.9
+      ]
+    },
+    "restaurant_closest_to_attraction": {
+      "constraint_context": "During the trip, please arrange a meal at the restaurant closest to 'Beijing Zoo'.",
+      "constraint_type": "superlative_closest_to_attraction",
+      "attraction_name": "Beijing Zoo",
+      "restaurant_name": "Bamboo Grove Town Theme Restaurant",
+      "price_per_person": 39.0
+    }
+  }
+}

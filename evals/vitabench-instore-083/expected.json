@@ -1,0 +1,98 @@
+{
+  "required_orders": [
+    {
+      "order_id": "10826236T001",
+      "order_type": "instore",
+      "user_id": "U546050",
+      "store_id": "S17567842071582031_I00001",
+      "note": "",
+      "location": null,
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 688,
+      "create_time": "2024-08-08 16:31:00",
+      "update_time": "2024-08-08 16:31:00",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17567842071582031_P00001",
+          "name": "Qixi Festival Romantic Couple Package",
+          "price": 688,
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "book_id": "10826236T002",
+      "shop_id": "S17567842071582031_I00001",
+      "book_time": "2024-08-10 18:00:00",
+      "update_time": "2024-08-08 16:32:00",
+      "customer_id": "U546050",
+      "customer_count": 2,
+      "book_price": 80,
+      "status": "paid"
+    },
+    {
+      "order_id": "10826236T003",
+      "order_type": "instore",
+      "user_id": "U546050",
+      "store_id": "S17567842071582031_I00003",
+      "note": "",
+      "location": null,
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 288,
+      "create_time": "2024-08-07 13:23:00",
+      "update_time": "2024-08-08 16:33:00",
+      "status": "cancelled",
+      "products": [
+        {
+          "product_id": "S17567842071582031_P00020",
+          "name": "Qixi Festival Special Couple Yoga Package",
+          "price": 288,
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "order_id": "10826236T004",
+      "order_type": "instore",
+      "user_id": "U546050",
+      "store_id": "S17567842071582031_I00007",
+      "note": "",
+      "location": null,
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 688,
+      "create_time": "2024-08-08 16:35:00",
+      "update_time": "2024-08-08 16:35:00",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17567842071582031_P00056",
+          "name": "Qixi Festival Special Couple Hot Spring Suite Package",
+          "price": 688,
+          "quantity": 1
+        }
+      ]
+    }
+  ],
+  "rubrics": [
+    "The restaurant ordered should be a French restaurant",
+    "The restaurant order should be a set meal for two, not two individual set meals",
+    "The restaurant set meal should include candlelight, champagne, appetizer, main course and dessert",
+    "The restaurant set meal should not include high-fat offal",
+    "The restaurant set meal price should be 1500 yuan or less",
+    "The restaurant should accept reservations",
+    "The reserved western restaurant should be Paris Impression French Restaurant",
+    "The restaurant reservation time should be 2024-08-10 18:00:00",
+    "The restaurant reservation should be for 2 people",
+    "The yoga course order status should be cancelled",
+    "The hot spring should be within 10km (including 10km) of Paris Impression French Restaurant, 5th Floor, Triumph Plaza, No. 128 Huayuan Road, Jinshui District, Zhengzhou, Henan Province",
+    "The hot spring order should be a Couple Package",
+    "With a total budget of 1500 yuan, the western restaurant order totals 688 yuan, and can exceed the budget by at most 200 yuan, therefore the hot spring order total should not exceed 1012 yuan (including 1012 yuan)"
+  ]
+}

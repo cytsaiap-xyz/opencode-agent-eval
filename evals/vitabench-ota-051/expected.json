@@ -1,0 +1,176 @@
+{
+  "required_orders": [
+    {
+      "order_id": "S17557512471457512_O00001",
+      "order_type": "train",
+      "user_id": "U010034",
+      "store_id": "S17557512471457512_T00011",
+      "note": "",
+      "location": null,
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 90,
+      "create_time": "2023-03-22 17:29:42",
+      "update_time": "2023-03-22 17:29:42",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17557512471457512_P00068",
+          "price": 45,
+          "quantity": 2,
+          "date": "2023-04-05",
+          "seat_type": "Second-class seat"
+        }
+      ]
+    },
+    {
+      "order_id": "S17557512471457512_O00002",
+      "order_type": "train",
+      "user_id": "U010034",
+      "store_id": "S17557512471457512_T00012",
+      "note": "",
+      "location": null,
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 108,
+      "create_time": "2023-03-22 17:31:00",
+      "update_time": "2023-03-22 17:31:00",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17557512471457512_P00078",
+          "price": 54,
+          "quantity": 2,
+          "date": "2023-04-06",
+          "seat_type": "Second-class seat"
+        }
+      ]
+    },
+    {
+      "order_id": "S17557512471457512_O00003",
+      "order_type": "attraction",
+      "user_id": "U010034",
+      "store_id": "S17557512471457512_A00005",
+      "note": "",
+      "location": null,
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 336,
+      "create_time": "2023-03-22 17:33:00",
+      "update_time": "2023-03-22 17:33:00",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17557512471457512_P00035",
+          "price": 168,
+          "quantity": 2,
+          "date": "2023-04-05",
+          "ticket_type": "Adult ticket + Hanfu photo package"
+        }
+      ]
+    },
+    {
+      "order_id": "S17557512471457512_O00004",
+      "order_type": "attraction",
+      "user_id": "U010034",
+      "store_id": "S17557512471457512_A00006",
+      "note": "",
+      "location": null,
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 84,
+      "create_time": "2023-03-22 17:34:00",
+      "update_time": "2023-03-22 17:34:00",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17557512471457512_P00042",
+          "price": 42,
+          "quantity": 2,
+          "date": "2023-04-05",
+          "ticket_type": "Adult ticket"
+        }
+      ]
+    },
+    {
+      "order_id": "S17557512471457512_O00005",
+      "order_type": "attraction",
+      "user_id": "U010034",
+      "store_id": "S17557512471457512_A00007",
+      "note": "",
+      "location": null,
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 90,
+      "create_time": "2023-03-22 17:35:48",
+      "update_time": "2023-03-22 17:35:48",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17557512471457512_P00051",
+          "price": 45,
+          "quantity": 2,
+          "date": "2023-04-06",
+          "ticket_type": "Adult ticket"
+        }
+      ]
+    },
+    {
+      "order_id": "S17557512471457512_O00006",
+      "order_type": "hotel",
+      "user_id": "U010034",
+      "store_id": "S17557512471457512_H00001",
+      "note": "",
+      "location": null,
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 688,
+      "create_time": "2023-03-22 17:39:00",
+      "update_time": "2023-03-22 17:39:00",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17557512471457512_P00001",
+          "price": 688,
+          "quantity": 1,
+          "date": "2023-04-05",
+          "room_type": "Boutique King Room"
+        }
+      ]
+    }
+  ],
+  "rubrics": [
+    "The departure location of the outbound ticket should be Nanjing, and the destination should be Yangzhou",
+    "The departure date of the outbound ticket should be April 5, 2023",
+    "The arrival time of the outbound ticket should be around 08:00",
+    "The seat type in the outbound ticket order should be Second-class seat",
+    "The quantity in the outbound ticket order should be 2",
+    "The departure location of the return ticket should be Yangzhou, and the destination should be Nanjing",
+    "The departure date of the return ticket should be April 6, 2023",
+    "The arrival time of the return ticket should be around 20:00",
+    "The seat type in the return ticket order should be Second-class seat",
+    "The quantity in the return ticket order should be 2",
+    "The scenic spot order should include Slender West Lake",
+    "Need to check the weather in Yangzhou on 2023-04-05, the result is sunny, and the tickets in the Slender West Lake scenic spot order should include a Hanfu photo package",
+    "The number of tickets in the Slender West Lake scenic spot order should be 2",
+    "The ticket date in the Slender West Lake scenic spot order should be 2023-04-05",
+    "The scenic spot order should include Ge Garden",
+    "The number of tickets in the Ge Garden scenic spot order should be 2",
+    "The ticket date in the Ge Garden scenic spot order should be 2023-04-05",
+    "The ticket type in the Ge Garden scenic spot order should be Adult ticket",
+    "The scenic spot order should include Daming Temple",
+    "The number of tickets in the Daming Temple scenic spot order should be 2",
+    "The ticket date in the Daming Temple scenic spot order should be 2023-04-06",
+    "The ticket type in the Daming Temple scenic spot order should be Adult ticket",
+    "The hotel brand to be ordered should be Atour",
+    "The distance between the ordered hotel and Yangzhou Commercial Center, 666 Wenchang Middle Road, Guangling District, Yangzhou, Jiangsu Province should be less than or equal to 3 kilometers",
+    "The room type in the hotel order should be King Room",
+    "The check-in date of the hotel order should be April 5, 2023"
+  ]
+}

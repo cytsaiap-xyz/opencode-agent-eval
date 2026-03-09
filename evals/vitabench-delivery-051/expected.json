@@ -1,0 +1,113 @@
+{
+  "required_orders": [
+    {
+      "order_id": "90721003T01",
+      "order_type": "delivery",
+      "user_id": "U000100",
+      "store_id": "S30850685469731172_S36097",
+      "note": "",
+      "location": {
+        "address": "Chongqing Civil Affairs Bureau, No.489 Min'an Avenue, Yubei District, Chongqing City",
+        "longitude": 106.532068,
+        "latitude": 29.603527
+      },
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 19.9,
+      "create_time": "2025-10-17 10:55:00",
+      "update_time": "2025-10-17 11:00:00",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S21506093879054601_P76267",
+          "price": 12.9,
+          "quantity": 1,
+          "attributes": "No fish mint"
+        },
+        {
+          "product_id": "S93547843667417090_P83816",
+          "price": 7,
+          "quantity": 1,
+          "attributes": "No fish mint"
+        },
+        {
+          "product_id": "S26425446816165610_P76672",
+          "price": 0,
+          "quantity": 1,
+          "attributes": "No fish mint"
+        }
+      ]
+    },
+    {
+      "order_id": "90721003T02",
+      "order_type": "delivery",
+      "user_id": "U000100",
+      "store_id": "S33996772983601674_S77584",
+      "note": "",
+      "location": {
+        "address": "Chongqing Civil Affairs Bureau, No.489 Min'an Avenue, Yubei District, Chongqing City",
+        "longitude": 106.532068,
+        "latitude": 29.603527
+      },
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "2025-10-17 11:00:00",
+      "total_price": 22,
+      "create_time": "2025-10-17 11:04:00",
+      "update_time": "2025-10-17 11:04:00",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S27620400204289599_P20660",
+          "price": 22,
+          "quantity": 1,
+          "attributes": ""
+        }
+      ]
+    },
+    {
+      "order_id": "90721003T03",
+      "order_type": "delivery",
+      "user_id": "U000100",
+      "store_id": "S18153259721295821_S70391",
+      "note": "",
+      "location": {
+        "address": "Chongqing Civil Affairs Bureau, No.489 Min'an Avenue, Yubei District, Chongqing City",
+        "longitude": 106.532068,
+        "latitude": 29.603527
+      },
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 20.4,
+      "create_time": "2025-10-17 11:08:00",
+      "update_time": "2025-10-17 11:08:00",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17046537634653466_P30684",
+          "price": 17.9,
+          "quantity": 1,
+          "attributes": ""
+        },
+        {
+          "product_id": "S12674226154717622_P79085",
+          "price": 2.5,
+          "quantity": 1,
+          "attributes": ""
+        }
+      ]
+    }
+  ],
+  "rubrics": [
+    "Need to cancel the order with order_id 90721003O01",
+    "The delivery address for the rice wrapper roll ordered for daughter should be Cuihu Paradise Walk Phase 2, 120 meters west of the intersection of Huasheng Road and Jiabo Road, Yuzhong District, Chongqing City",
+    "The delivery time for the rice wrapper roll order should be between 2025-10-17 10:43:27 and 2025-10-17 12:43:27",
+    "When choosing a rice wrapper roll restaurant, priority should be given to chain stores that originated from Guizhou",
+    "The delivery address for the bean soup rice ordered for daughter should be Cuihu Paradise Walk Phase 2, 120 meters west of the intersection of Huasheng Road and Jiabo Road, Yuzhong District, Chongqing City",
+    "The delivery time for the bean soup rice order should be between 2025-10-17 10:43:27 and 2025-10-17 12:43:27",
+    "When choosing a bean soup rice restaurant, it should be the highest-rated No. 71 Bean Soup Rice restaurant",
+    "Considering the daughter's health condition of high cholesterol, the bean soup rice items should not contain offal or other high-cholesterol ingredients"
+  ]
+}

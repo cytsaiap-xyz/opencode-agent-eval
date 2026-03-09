@@ -1,0 +1,80 @@
+{
+  "required_orders": [
+    {
+      "order_id": "10826016T001",
+      "order_type": "instore",
+      "user_id": "U636210",
+      "store_id": "S17564420293324227_I00001",
+      "note": "",
+      "location": null,
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 428,
+      "create_time": "2025-03-20 09:19:57",
+      "update_time": "2025-03-20 09:19:57",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17564420293324227_P00001",
+          "price": 428,
+          "quantity": 1,
+          "name": "Scalp Massage + Protein Care Combo Package",
+          "shop_id": "S17564420293324227_I00001",
+          "tags": [
+            "Scalp Massage",
+            "Protein Correction",
+            "Hair Repair"
+          ]
+        }
+      ]
+    },
+    {
+      "reservation_id": "10826016T002",
+      "shop_id": "S17564420293324227_I00001",
+      "reservation_time": "2025-03-22 10:00:00",
+      "update_time": "2025-03-20 09:20:06",
+      "customer_id": "U636210",
+      "customer_count": 1,
+      "status": "unconsumed"
+    },
+    {
+      "order_id": "10826016T003",
+      "order_type": "instore",
+      "user_id": "U636210",
+      "store_id": "S17564420293324227_I00002",
+      "note": "",
+      "location": null,
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 158,
+      "create_time": "2025-03-20 09:25:00",
+      "update_time": "2025-03-20 09:25:00",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17564420293324227_P00006",
+          "price": 158,
+          "quantity": 1,
+          "name": "Customized Advanced Yoga Single Experience Class",
+          "shop_id": "S17564420293324227_I00002",
+          "tags": []
+        }
+      ]
+    }
+  ],
+  "rubrics": [
+    "The hair salon must be within 1km of the company address (28F, Shanghai Plaza Office Building, 138 Middle Huaihai Road, Huangpu District, Shanghai)",
+    "The haircut package must include scalp massage",
+    "The haircut package must include scalp massage",
+    "The reserved hair salon should be Yunzi Hair Care Salon",
+    "The appointment time in the reservation should be 10:00:00 on 2025-03-22",
+    "The number of people in the reservation should be 1",
+    "The yoga studio should be within 2km of Yunzi Hair Care Salon, 2F, Jin Mao Tower, 218 Middle Huaihai Road, Huangpu District, Shanghai",
+    "The yoga class ordered should be a private training",
+    "The yoga class ordered should be a single class",
+    "The yoga class ordered should be an advanced class",
+    "The total cost for both the haircut and yoga services must be kept under 600 yuan"
+  ]
+}

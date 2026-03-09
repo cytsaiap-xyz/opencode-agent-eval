@@ -1,0 +1,101 @@
+{
+  "required_orders": [
+    {
+      "order_id": "10826308T001",
+      "order_type": "instore",
+      "user_id": "U580078",
+      "store_id": "S17567844712785574_I00001",
+      "note": "",
+      "location": null,
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 298,
+      "create_time": "2026-04-09 15:35:37",
+      "update_time": "2026-04-09 15:35:37",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17567844712785574_P00001",
+          "name": "Single Person Exquisite Kaiseki Cuisine Package",
+          "price": 298,
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "book_id": "10826308T002",
+      "shop_id": "S17567844712785574_I00001",
+      "book_time": "2026-04-11 12:00:00",
+      "update_time": "2026-04-09 15:36:07",
+      "customer_id": "U580078",
+      "customer_count": 1,
+      "book_price": 10,
+      "status": "unconsumed"
+    },
+    {
+      "order_id": "10826308T003",
+      "order_type": "instore",
+      "user_id": "U580078",
+      "store_id": "S17567844712785574_I00002",
+      "note": "",
+      "location": null,
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 88,
+      "create_time": "2026-04-09 15:37:07",
+      "update_time": "2026-04-09 15:37:07",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17567844712785574_P00010",
+          "name": "Pottery Wheel Experience Package",
+          "price": 88,
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "order_id": "10826308T004",
+      "order_type": "instore",
+      "user_id": "U580078",
+      "store_id": "S17567844712785574_I00010",
+      "note": "",
+      "location": null,
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 180,
+      "create_time": "2026-04-09 15:38:07",
+      "update_time": "2026-04-09 15:38:07",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17567844712785574_P00082",
+          "name": "Pilates Private Course (New Customer Special)",
+          "price": 180,
+          "quantity": 1
+        }
+      ]
+    }
+  ],
+  "rubrics": [
+    "Japanese restaurant orders should have a pleasant environment",
+    "Japanese restaurant orders should include Tatami",
+    "Japanese restaurant orders should include Kimono experience",
+    "Japanese restaurant orders must be Kaiseki Cuisine",
+    "Japanese restaurant orders must be for a single person",
+    "The reserved Japanese restaurant should be Cherry Blossom Japanese Cuisine",
+    "The Japanese restaurant reservation time is 2026-04-11 12:00:00",
+    "The number of people in the Japanese restaurant reservation is 1",
+    "Pottery workshop orders must be intangible heritage experience packages",
+    "Pottery workshop orders must be for single person packages",
+    "The price of pottery workshop order should be less than or equal to 100 yuan",
+    "Based on user historic orders and behavior, the yoga studio selected should not be Zen Yoga Lifestyle Center or Zen Joy Yoga Studio",
+    "The items ordered at the yoga studio should be Pilates courses",
+    "The items ordered at the yoga studio should be private lessons",
+    "The items ordered at the yoga studio should be new customer discounts",
+    "Since a suitable pottery workshop can be found, there should not be orders from foot therapy centers"
+  ]
+}

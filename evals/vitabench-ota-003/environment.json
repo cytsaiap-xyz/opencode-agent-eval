@@ -1,0 +1,219 @@
+{
+  "task_id": "70812007",
+  "domain": "ota",
+  "time": "2023-06-09 15:17:53",
+  "user_id": "U759409",
+  "weather": [
+    {
+      "city": "Zhuhai",
+      "category": "cloudy",
+      "datetime": "2023-06-24",
+      "temperature": [
+        26,
+        32
+      ],
+      "humidity": 75
+    },
+    {
+      "city": "Yangjiang",
+      "category": "sunny",
+      "datetime": "2023-06-24",
+      "temperature": [
+        28,
+        34
+      ],
+      "humidity": 68
+    }
+  ],
+  "location": [],
+  "user_profile": {
+    "user id": "U759409",
+    "occupation": "Engineer",
+    "gender": "female",
+    "age group": "30~35",
+    "residence": "Zhuhai",
+    "home address": "Room 1204, Building 3, Huafa Four Seasons Residence, 2023 Jiuzhou Avenue Central, Xiangzhou District, Zhuhai, Guangdong Province",
+    "work address": "Building B3, Innovation Coast Technology Park, Tangjia Bay Town, High-tech Zone, Zhuhai, Guangdong Province",
+    "dietary restrictions": "No high purine foods (such as organ meats/seafood soup), no caffeine",
+    "family status": "Has children",
+    "personality": "Cold and concise in expression, lacks emotional communication and patience"
+  },
+  "user_historical_behaviors": {
+    "user id": "U759409",
+    "occupation": "Engineer",
+    "gender": "female",
+    "age group": "30~35",
+    "residence": "Zhuhai",
+    "home address": "Room 1204, Building 3, Huafa Four Seasons Residence, 2023 Jiuzhou Avenue Central, Xiangzhou District, Zhuhai, Guangdong Province",
+    "work address": "Building B3, Innovation Coast Technology Park, Tangjia Bay Town, High-tech Zone, Zhuhai, Guangdong Province",
+    "visited scenes": {
+      "Theme Parks": "35%",
+      "Tourist Attractions (Mountain/Seaside/Ecological Large-scale Scenic Areas)": "25%",
+      "Natural Landscapes (Mountains/Lakes/Forests)": "20%",
+      "Exhibition Halls (Museums/Art Galleries)": "15%",
+      "Hot Spring Resorts": "5%"
+    },
+    "cost per night on hotel": "RMB 500~1000",
+    "visited hotels": {
+      "Atour": "30%",
+      "Ji Hotel": "25%",
+      "Vienna": "20%",
+      "Huazhu": "15%",
+      "Home Inn": "10%"
+    },
+    "browsed hotels": {
+      "Four-star Hotels": "40%",
+      "Comfort Hotels": "35%",
+      "Three-star Hotels": "15%",
+      "Luxury Hotels": "10%"
+    },
+    "historical travel plans": {
+      "Zhuhai-Guangzhou": {
+        "Price Range": "RMB 80-120",
+        "Transportation": "High-speed Train"
+      },
+      "Zhuhai-Shenzhen": {
+        "Price Range": "RMB 70-100",
+        "Transportation": "High-speed Train"
+      },
+      "Zhuhai-Shanghai": {
+        "Price Range": "RMB 800-1200",
+        "Transportation": "Flight"
+      },
+      "Zhuhai-Beijing": {
+        "Price Range": "RMB 1200-1800",
+        "Transportation": "Flight"
+      },
+      "Zhuhai-Hangzhou": {
+        "Price Range": "RMB 700-1100",
+        "Transportation": "Flight"
+      },
+      "Zhuhai-Chengdu": {
+        "Price Range": "RMB 900-1300",
+        "Transportation": "Flight"
+      },
+      "Zhuhai-Zhuhai Surroundings": {
+        "Price Range": "RMB 200-500",
+        "Transportation": "Self-driving"
+      }
+    }
+  },
+  "stores": {},
+  "orders": {
+    "S17557505495911209_O00001": {
+      "order_id": "S17557505495911209_O00001",
+      "order_type": "hotel",
+      "user_id": "U759409",
+      "store_id": "S17557505495911209_H00001",
+      "note": "Celebrating my cousin's graduation from college entrance exam with a trip, need a twin room",
+      "location": {
+        "address": "Crowne Plaza Poly Yangjiang Hailing Island, Dajiao Bay Scenic Area, Zhapo Town, Hailing Island, Yangjiang, Guangdong Province",
+        "longitude": 111.8756,
+        "latitude": 21.6298
+      },
+      "dispatch_time": "",
+      "shipping_time": 0.0,
+      "delivery_time": "",
+      "total_price": 1288.0,
+      "create_time": "2023-06-08 14:30:00",
+      "update_time": "2023-06-08 14:30:00",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17557505495911209_P00001",
+          "price": 1288.0,
+          "quantity": 1,
+          "date": "2023-06-24",
+          "room_type": "Deluxe Sea View Twin Room"
+        }
+      ]
+    },
+    "S17557505495911209_O00002": {
+      "order_id": "S17557505495911209_O00002",
+      "order_type": "attraction",
+      "user_id": "U759409",
+      "store_id": "S17557505495911209_A00005",
+      "note": "College Entrance Exam Graduate Discount Package, including parasailing and jet ski experience",
+      "location": {
+        "address": "Hailing Island Dajiao Bay Water Sports Center",
+        "longitude": 111.8789,
+        "latitude": 21.6312
+      },
+      "dispatch_time": "",
+      "shipping_time": 0.0,
+      "delivery_time": "",
+      "total_price": 668.0,
+      "create_time": "2023-06-08 15:45:00",
+      "update_time": "2023-06-08 15:45:00",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17557505495911209_P00033",
+          "price": 388.0,
+          "quantity": 1,
+          "ticket_type": "College Entrance Exam Student Special Sea Package (Including Parasailing + Jet Ski)"
+        },
+        {
+          "product_id": "S17557505495911209_P00023",
+          "price": 280.0,
+          "quantity": 1,
+          "ticket_type": "Parasailing Adult Ticket"
+        }
+      ]
+    },
+    "S17557505495911209_O00003": {
+      "order_id": "S17557505495911209_O00003",
+      "order_type": "train",
+      "user_id": "U759409",
+      "store_id": "S17557505495911209_T00010",
+      "note": "Round-trip high-speed train tickets from Zhuhai to Yangjiang, departing early Saturday",
+      "location": {
+        "address": "Zhuhai Station, Gongbei, Xiangzhou District, Zhuhai, Guangdong Province",
+        "longitude": 113.5678,
+        "latitude": 22.2234
+      },
+      "dispatch_time": "",
+      "shipping_time": 0.0,
+      "delivery_time": "",
+      "total_price": 178.0,
+      "create_time": "2023-06-07 09:20:00",
+      "update_time": "2023-06-07 09:20:00",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17557505495911209_P00067",
+          "price": 89.0,
+          "quantity": 2,
+          "seat_type": "Second Class Seat"
+        }
+      ]
+    },
+    "S17557505495911209_O00004": {
+      "order_id": "S17557505495911209_O00004",
+      "order_type": "train",
+      "user_id": "U759409",
+      "store_id": "S17557505495911209_T00012",
+      "note": "Return tickets, back to Zhuhai on Sunday evening",
+      "location": {
+        "address": "Yangjiang Station, Yangjiang, Guangdong Province",
+        "longitude": 111.9823,
+        "latitude": 21.8567
+      },
+      "dispatch_time": "",
+      "shipping_time": 0.0,
+      "delivery_time": "",
+      "total_price": 178.0,
+      "create_time": "2023-06-07 09:25:00",
+      "update_time": "2023-06-07 09:25:00",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17557505495911209_P00077",
+          "price": 89.0,
+          "quantity": 2,
+          "seat_type": "Second Class Seat"
+        }
+      ]
+    }
+  }
+}

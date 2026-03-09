@@ -1,0 +1,75 @@
+{
+  "required_orders": [
+    {
+      "order_id": "10826129T001",
+      "order_type": "instore",
+      "user_id": "U199743",
+      "store_id": "S17567836568972451_I00001",
+      "note": "",
+      "location": null,
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 468,
+      "create_time": "2025-08-26 22:32:00",
+      "update_time": "2025-08-26 22:32:00",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17567836568972451_P00001",
+          "name": "Romantic Tomahawk Steak Set for Two",
+          "price": 468,
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "reservation_id": "10826129T002",
+      "shop_id": "S17567836568972451_I00001",
+      "book_time": "2025-08-29 17:30:00",
+      "update_time": "2025-08-26 22:34:00",
+      "customer_id": "U199743",
+      "customer_count": 2,
+      "book_price": 50,
+      "status": "paid"
+    },
+    {
+      "order_id": "10826129T003",
+      "order_type": "instore",
+      "user_id": "U199743",
+      "store_id": "S17567836568972451_I00003",
+      "note": "",
+      "location": null,
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 88,
+      "create_time": "2025-08-26 22:36:00",
+      "update_time": "2025-08-26 22:36:00",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17567836568972451_P00019",
+          "name": "Tranquil Tea House Set Menu",
+          "price": 88,
+          "quantity": 1
+        }
+      ]
+    }
+  ],
+  "rubrics": [
+    "User should prioritize Western restaurants within 5km (inclusive) of Room 1203, Building B, Wanda Plaza, 28 Taihu Middle Road, Xinbei District, Changzhou, Jiangsu Province. If none available, select a Japanese restaurant from user's history. As there are results, the restaurant ordered should be a Western restaurant",
+    "The Western restaurant ordered should be a Listed Restaurant",
+    "The Western restaurant's environment should be romantic and suitable for a proposal",
+    "The Western restaurant order should include Tomahawk Steak and Red Wine",
+    "The Western restaurant order should be a Set Menu for Two",
+    "The reserved Western restaurant should be Romantic Starry Sky Western Restaurant",
+    "The Western restaurant reservation time should be 2025-08-29 17:30:00",
+    "The Western restaurant reservation should be for 2 people",
+    "The tea house ordered should have a Quiet Environment",
+    "The tea house should be within 500m (inclusive) of Room 1203, Building B, Wanda Plaza, 28 Taihu Middle Road, Xinbei District, Changzhou, Jiangsu Province",
+    "The tea house order price should be within 100 yuan (inclusive)",
+    "The tea house order should include Tea Snacks",
+    "The tea house order should be a Set Menu for Two"
+  ]
+}

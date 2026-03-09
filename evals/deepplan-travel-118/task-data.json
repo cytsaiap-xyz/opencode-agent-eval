@@ -1,0 +1,54 @@
+{
+  "task_id": "117",
+  "query": "I plan to travel from Chongqing to Zhengzhou on November 12, 2025, and return on November 18, 2025. Could you please help me plan the entire trip, including transportation, accommodation, dining, and sightseeing arrangements?\n\nRegarding transportation, I’d like to take a train when going—preferably departing between 7:00 AM and 11:00 AM, so that I’ll still have time to explore upon arrival in Zhengzhou. For the return journey, feel free to arrange it at any time; there are no specific requirements.\n\nFor accommodation, I’d like to stay at ‘如家’. I’m used to their service and find it comfortable, but this time I hope for a better experience—please help me book the highest-rated hotel under the ‘如家’ brand. We are a group of three people, so we’ll need two rooms.\n\nFor sightseeing, I’d like to make the most of my visit. I’ve heard Zhengzhou has many great attractions—please directly select the top three highest-rated ones from your recommendation tools and include them in the itinerary. Additionally, I especially enjoy natural scenery such as mountains and lakes—please add one more top-rated attraction in the ‘自然风光’ category to the plan.\n\nAs for dining, I don’t have any particular requests at the moment. You can simply recommend some local specialty restaurants along the way based on the itinerary. I’d like to experience Zhengzhou’s local cuisine—please arrange it accordingly.\n\nThese are basically all my requirements, and I believe I’ve provided sufficient information. Please go ahead and start planning a detailed itinerary for me! November 12, 2025 is Wednesday",
+  "meta_info": {
+    "org": "Chongqing",
+    "dest": [
+      "Zhengzhou"
+    ],
+    "days": 7,
+    "depart_date": "2025-11-12",
+    "return_date": "2025-11-18",
+    "people_number": 3,
+    "room_number": 2
+  },
+  "hard_constraints": {
+    "train_departure_time_range": {
+      "constraint_context": "The departure train must leave between 7:00 AM and 11:00 AM",
+      "outbound_train_no": "G3404"
+    },
+    "hotel_brand_highest_rated": {
+      "constraint_context": "Please select the highest-rated hotel among \"Home Inn\" brand accommodations.",
+      "constraint_type": "superlative_brand_highest_rated",
+      "hotel_name": "Ruibai Yun Hotel by Home Inn - Zhengzhou Xinzheng International Airport",
+      "hotel_price": 137.0,
+      "hotel_score": 4.9
+    },
+    "attraction_top_rated_must_visit": {
+      "constraint_context": "The itinerary must include the three highest-rated attractions recommended by the attraction recommendation tool.",
+      "constraint_type": "superlative_top_rated_must_visit",
+      "attraction_names": [
+        "Erqi Square",
+        "Ruyi Lake Scenic Area",
+        "Zijing Mountain Park"
+      ],
+      "attraction_ratings": [
+        4.9,
+        4.8,
+        4.8
+      ]
+    },
+    "attraction_type_highest_rated": {
+      "constraint_context": "The itinerary must include the highest-rated attraction in the 'Natural Scenery' category.",
+      "constraint_type": "superlative_type_highest_rated",
+      "attraction_names": [
+        "Zijing Mountain Park"
+      ],
+      "attraction_type_cn": "自然风光",
+      "attraction_type": "Natural Scenery",
+      "attraction_ratings": [
+        4.8
+      ]
+    }
+  }
+}

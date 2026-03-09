@@ -1,0 +1,105 @@
+{
+  "required_orders": [
+    {
+      "order_id": "C0715001T01",
+      "order_type": "delivery",
+      "user_id": "U000035",
+      "store_id": "S16600900215255434_S25486",
+      "note": "",
+      "location": {
+        "address": "Zone B, South A Zone, Yalan Garden, Yulin Street, Wuhou District, Chengdu, Sichuan Province",
+        "longitude": 104.073492,
+        "latitude": 30.623383
+      },
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 63.6,
+      "create_time": "2025-12-27 11:00:00",
+      "update_time": "2025-12-27 11:00:00",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S23633206553145211_P14654",
+          "price": 29.8,
+          "quantity": 1,
+          "attributes": ""
+        },
+        {
+          "product_id": "S21446171170312259_P41213",
+          "price": 33.8,
+          "quantity": 1,
+          "attributes": ""
+        }
+      ]
+    },
+    {
+      "order_id": "C0715001T02",
+      "order_type": "delivery",
+      "user_id": "U000035",
+      "store_id": "S10186695543471431_S58464",
+      "note": "",
+      "location": {
+        "address": "Anlije (Chengdu) Toyota Automobile Sales and Service Co., Ltd., No. 881 West Road of South Railway Station (Inner Side of Third Ring Road Lantian Overpass), Wuhou District, Chengdu, Sichuan Province",
+        "longitude": 104.044851,
+        "latitude": 30.600121
+      },
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 28.8,
+      "create_time": "2025-12-27 11:04:00",
+      "update_time": "2025-12-27 11:04:00",
+      "status": "processed",
+      "products": [
+        {
+          "product_id": "S26124060913222562_P13131",
+          "price": 28.8,
+          "quantity": 1,
+          "attributes": ""
+        }
+      ]
+    },
+    {
+      "order_id": "C0715001T03",
+      "order_type": "delivery",
+      "user_id": "U000035",
+      "store_id": "S16384697043876564_S20200",
+      "note": "",
+      "location": {
+        "address": "La Terre (Renhe New City Branch), 2nd Floor, Renhe Spring International Plaza, No. 505 West Section of Fucheng Avenue, Wuhou District, Chengdu, Sichuan Province",
+        "longitude": 104.050938,
+        "latitude": 30.587856
+      },
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 38,
+      "create_time": "2025-12-27 11:10:00",
+      "update_time": "2025-12-27 11:10:00",
+      "status": "processed",
+      "products": [
+        {
+          "product_id": "S90462241601970634_P69999",
+          "price": 19,
+          "quantity": 2,
+          "attributes": "No additional sugar (not recommended)"
+        }
+      ]
+    }
+  ],
+  "rubrics": [
+    "The delivery address for the lunch Sichuan cuisine order should be Zone B, South A Zone, Yalan Garden, Yulin Street, Wuhou District, Chengdu, Sichuan Province",
+    "The delivery time for the lunch Sichuan cuisine order should be around 12:00 on December 27, 2025, no later than 14:00",
+    "The selected restaurant for the lunch Sichuan cuisine order should have a rating of 4.5 or above",
+    "The items in the lunch Sichuan cuisine order should be freshly made dishes, not pre-made dishes",
+    "The lunch Sichuan cuisine order should include 2 dishes, for two people to share",
+    "The delivery address for the thank-you dessert order should be Toyota Car Dealership",
+    "The delivery time for the thank-you dessert order should be before 14:00 on December 27, 2025",
+    "The items in the thank-you dessert order should not contain caffeine",
+    "The delivery address for the evening beverage order should be La Terre (Renhe New City Branch) restaurant (the complete address is 2nd Floor, Renhe Spring International Plaza, No. 505 West Section of Fucheng Avenue, Wuhou District, Chengdu, Sichuan Province, but it's acceptable as long as the restaurant name is correct)",
+    "The delivery time for the evening beverage order should be after 18:00 on December 27, 2025",
+    "All beverages in the evening beverage order should be selected with no sugar or no additional sugar",
+    "The evening beverage order should include 2 drinks, for two people to consume"
+  ]
+}

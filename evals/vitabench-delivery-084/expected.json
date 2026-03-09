@@ -1,0 +1,58 @@
+{
+  "required_orders": [
+    {
+      "order_id": "H0717002T01",
+      "order_type": "delivery",
+      "user_id": "U000002",
+      "store_id": "S32395321317664020_S72918",
+      "note": "",
+      "location": {
+        "address": "Ziwei City Garden near Bank of Communications (Xi'an Electronic City Branch), Yanta District, Xi'an, Shaanxi Province",
+        "longitude": 108.917964,
+        "latitude": 34.201373
+      },
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 151.9,
+      "create_time": "2024-12-28 17:44:00",
+      "update_time": "2024-12-28 17:44:00",
+      "status": "processed",
+      "products": [
+        {
+          "product_id": "S23369123308080764_P87732",
+          "price": 39.9,
+          "quantity": 1,
+          "attributes": ""
+        },
+        {
+          "product_id": "S15417513347977519_P98691",
+          "price": 88.0,
+          "quantity": 1,
+          "attributes": ""
+        },
+        {
+          "product_id": "S27191398078431397_P45736",
+          "price": 18.0,
+          "quantity": 1,
+          "attributes": ""
+        },
+        {
+          "product_id": "S22177717874912125_P02570",
+          "price": 3.0,
+          "quantity": 2,
+          "attributes": ""
+        }
+      ]
+    }
+  ],
+  "rubrics": [
+    "The restaurant ordered from must be an authentic Shaanxi cuisine restaurant, such as Running! Shaanxi Cuisine or other restaurants specializing in Shaanxi local dishes",
+    "The celebration order must include a balance of two meat dishes and one vegetable dish",
+    "The celebration order must include staple food items sufficient for two people's dining needs",
+    "The ordered dishes must avoid extremely spicy flavors",
+    "The restaurant should provide quality takeout packaging to avoid issues such as oil leakage",
+    "The delivery address for the celebration order should be Ziwei City Garden near Bank of Communications (Xi'an Electronic City Branch), Yanta District, Xi'an, Shaanxi Province",
+    "The estimated delivery time for the celebration order should be completed before 19:00 on December 28, 2024"
+  ]
+}

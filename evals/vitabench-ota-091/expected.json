@@ -1,0 +1,162 @@
+{
+  "required_orders": [
+    {
+      "order_id": "D0807003T001",
+      "order_type": "attraction",
+      "user_id": "U010023",
+      "store_id": "S17557515354675422_A00006",
+      "note": "",
+      "location": null,
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 238,
+      "create_time": "2026-10-12 16:39:22",
+      "update_time": "2026-10-12 16:39:22",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17557515354675422_P00045",
+          "price": 48,
+          "quantity": 1,
+          "date": "2026-10-18",
+          "ticket_type": "Child ticket (7 years and below)"
+        },
+        {
+          "product_id": "S17557515354675422_P00046",
+          "price": 95,
+          "quantity": 2,
+          "date": "2026-10-18",
+          "ticket_type": "Adult ticket"
+        }
+      ]
+    },
+    {
+      "order_id": "D0807003T002",
+      "order_type": "attraction",
+      "user_id": "U010023",
+      "store_id": "S17557515354675422_A00007",
+      "note": "",
+      "location": null,
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 295,
+      "create_time": "2026-10-12 16:41:22",
+      "update_time": "2026-10-12 16:41:22",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17557515354675422_P00053",
+          "price": 59,
+          "quantity": 1,
+          "date": "2026-10-19",
+          "ticket_type": "Child ticket (7 years and below)"
+        },
+        {
+          "product_id": "S17557515354675422_P00058",
+          "price": 118,
+          "quantity": 2,
+          "date": "2026-10-19",
+          "ticket_type": "Adult ticket"
+        }
+      ]
+    },
+    {
+      "order_id": "D0807003T003",
+      "order_type": "attraction",
+      "user_id": "U010023",
+      "store_id": "S17557515354675422_A00008",
+      "note": "",
+      "location": null,
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 30,
+      "create_time": "2026-10-12 16:44:22",
+      "update_time": "2026-10-12 16:44:22",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17557515354675422_P00068",
+          "price": 10,
+          "quantity": 3,
+          "date": "2026-10-20",
+          "ticket_type": "Sightseeing ticket"
+        }
+      ]
+    },
+    {
+      "order_id": "D0807003T004",
+      "order_type": "hotel",
+      "user_id": "U010023",
+      "store_id": "S17557515354675422_H00001",
+      "note": "",
+      "location": null,
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 716,
+      "create_time": "2026-10-12 16:47:22",
+      "update_time": "2026-10-12 16:47:22",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17557515354675422_P00005",
+          "price": 358,
+          "quantity": 1,
+          "date": "2026-10-18",
+          "room_type": "Standard twin room"
+        },
+        {
+          "product_id": "S17557515354675422_P00001",
+          "price": 358,
+          "quantity": 1,
+          "date": "2026-10-19",
+          "room_type": "Standard twin room"
+        }
+      ]
+    },
+    {
+      "order_id": "D0807003T005",
+      "order_type": "hotel",
+      "user_id": "U010023",
+      "store_id": "S17557515354675422_H00003",
+      "note": "",
+      "location": null,
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 498,
+      "create_time": "2026-10-12 16:49:22",
+      "update_time": "2026-10-12 16:49:22",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17557515354675422_P00025",
+          "price": 498,
+          "quantity": 1,
+          "date": "2026-10-20",
+          "room_type": "Sea view family suite"
+        }
+      ]
+    }
+  ],
+  "rubrics": [
+    "It won't rain in Guilin on October 18 and 19, 2026, and it won't rain in Beihai on October 20 and 21, 2026, which meets the travel plan requirement of four days without rain, so the date for using Longji Rice Terraces tickets is October 18, 2026",
+    "Longji Rice Terraces tickets should include 2 adult tickets",
+    "Longji Rice Terraces tickets should include 1 child ticket (7 years and below)",
+    "Xingping Ancient Town Li River cruise tickets are for use on October 19, 2026",
+    "Xingping Ancient Town Li River cruise tickets should include 2 adult tickets",
+    "Xingping Ancient Town Li River cruise tickets should include 1 child ticket (7 years and below)",
+    "Weizhou Island Dishui Danping Scenic Area tickets are for use on October 20, 2026",
+    "The number of Weizhou Island Dishui Danping Scenic Area tickets should be 3",
+    "The hotel brand for staying in Guilin should be Home Inn",
+    "The hotel order in Guilin should include rooms for 2 nights, on October 18 and 19, 2026 respectively",
+    "The budget for the hotel in Guilin is 300-500 yuan per night",
+    "The room type for the hotel in Guilin should be a twin room",
+    "The hotel on Weizhou Island should be booked for October 20, 2026",
+    "The budget for the hotel on Weizhou Island is 300-500 yuan per night",
+    "The room type for the hotel on Weizhou Island should be a family suite"
+  ]
+}

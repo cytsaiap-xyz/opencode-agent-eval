@@ -1,0 +1,222 @@
+{
+  "task_id": "70807007",
+  "domain": "ota",
+  "time": "2025-04-06 10:35:43",
+  "user_id": "U010088",
+  "weather": [
+    {
+      "city": "Nanchang",
+      "category": "cloudy",
+      "datetime": "2025-04-06",
+      "temperature": [
+        18,
+        26
+      ],
+      "humidity": 65
+    },
+    {
+      "city": "Wuyi Mountain",
+      "category": "sunny",
+      "datetime": "2025-04-06",
+      "temperature": [
+        16,
+        24
+      ],
+      "humidity": 58
+    }
+  ],
+  "location": [],
+  "user_profile": {
+    "user id": "U010088",
+    "occupation": "Product Manager",
+    "gender": "female",
+    "age group": "30~35",
+    "residence": "Nanchang",
+    "home address": "Building B, Red Valley Century Garden, 799 Luyin Road (170 meters from Exit 2 of Luyin Road Metro Station), Honggutan District, Nanchang, Jiangxi Province",
+    "work address": "Zhongyang Building, 926 Phoenix Avenue, Honggutan District, Nanchang, Jiangxi Province",
+    "dietary restrictions": "No fried food, no caffeine",
+    "family status": "Has children",
+    "personality": "Strong logical thinking, likes to analyze and question, pursues accuracy"
+  },
+  "user_historical_behaviors": {
+    "user id": "U010088",
+    "occupation": "Product Manager",
+    "gender": "female",
+    "age group": "30~35",
+    "residence": "Nanchang",
+    "home address": "Red Valley Century Garden, Zone B, 799 Luyin Road (170 meters walk from Exit 2 of Luyin Road Subway Station), Honggutan District, Nanchang, Jiangxi Province",
+    "work address": "Zhongyang Building, 926 Phoenix Avenue, Honggutan District, Nanchang, Jiangxi Province",
+    "visited scenes": {
+      "Historical Sites": "25%",
+      "Exhibition Halls (Museums/Art Galleries)": "20%",
+      "Natural Landscapes (Mountains/Lakes/Forests)": "30%",
+      "Theme Parks": "15%",
+      "Special Villages/Industrial Tourism/Uncategorized Projects": "10%"
+    },
+    "cost per night on hotel": "500~1000 yuan",
+    "visited hotels": {
+      "Atour": "35%",
+      "JI Hotel": "25%",
+      "Vienna": "20%",
+      "Orange": "15%",
+      "Huazhu": "5%"
+    },
+    "browsed hotels": {
+      "Four-star Hotels": "45%",
+      "Comfort Hotels": "40%",
+      "Three-star Hotels": "15%"
+    },
+    "historical travel plans": {
+      "Nanchang-Hangzhou": {
+        "Price Range": "350-550 yuan",
+        "Transportation": "High-Speed Train/EMU (Electric Multiple Unit) Train"
+      },
+      "Nanchang-Shanghai": {
+        "Price Range": "450-650 yuan",
+        "Transportation": "High-Speed Train/EMU (Electric Multiple Unit) Train"
+      },
+      "Nanchang-Beijing": {
+        "Price Range": "800-1200 yuan",
+        "Transportation": "Airplane"
+      },
+      "Nanchang-Xiamen": {
+        "Price Range": "400-600 yuan",
+        "Transportation": "High-Speed Train/EMU (Electric Multiple Unit) Train"
+      },
+      "Nanchang-Huangshan": {
+        "Price Range": "300-450 yuan",
+        "Transportation": "High-Speed Train/EMU (Electric Multiple Unit) Train"
+      },
+      "Nanchang-Jiujiang": {
+        "Price Range": "80-120 yuan",
+        "Transportation": "High-Speed Train/EMU (Electric Multiple Unit) Train"
+      },
+      "Nanchang-Sanqingshan": {
+        "Price Range": "200-350 yuan",
+        "Transportation": "Long-distance Bus"
+      }
+    }
+  },
+  "stores": {},
+  "orders": {
+    "S17557506430524719_O00001": {
+      "order_id": "S17557506430524719_O00001",
+      "order_type": "train",
+      "user_id": "U010088",
+      "store_id": "S17557506430524719_T00012",
+      "note": "Taking my daughter to see the tea gardens in Wuyi Mountain",
+      "location": {
+        "address": "Nanchang West Railway Station, West Station Road, Honggutan District, Nanchang, Jiangxi Province",
+        "longitude": 115.8581,
+        "latitude": 28.6292
+      },
+      "dispatch_time": "",
+      "shipping_time": 0.0,
+      "delivery_time": "",
+      "total_price": 336.0,
+      "create_time": "2025-04-05 15:20:00",
+      "update_time": "2025-04-05 15:20:00",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17557506430524719_P00090",
+          "price": 168.0,
+          "quantity": 2,
+          "date": "2025-04-12",
+          "seat_type": "Second Class Seat"
+        }
+      ]
+    },
+    "S17557506430524719_O00002": {
+      "order_id": "S17557506430524719_O00002",
+      "order_type": "train",
+      "user_id": "U010088",
+      "store_id": "S17557506430524719_T00014",
+      "note": "Return tickets, not too late to affect my daughter's school",
+      "location": {
+        "address": "Wuyi Mountain East Railway Station, Wuyishan City, Nanping, Fujian Province",
+        "longitude": 118.0342,
+        "latitude": 27.7563
+      },
+      "dispatch_time": "",
+      "shipping_time": 0.0,
+      "delivery_time": "",
+      "total_price": 350.0,
+      "create_time": "2025-04-05 15:25:00",
+      "update_time": "2025-04-05 15:25:00",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17557506430524719_P00102",
+          "price": 175.0,
+          "quantity": 2,
+          "date": "2025-04-13",
+          "seat_type": "Second Class Seat"
+        }
+      ]
+    },
+    "S17557506430524719_O00003": {
+      "order_id": "S17557506430524719_O00003",
+      "order_type": "hotel",
+      "user_id": "U010088",
+      "store_id": "S17557506430524719_H00001",
+      "note": "Hotel with tea culture features, hope to have Robot Food Delivery service",
+      "location": {
+        "address": "Wuyi Mountain Rock Tea Culture Theme Hotel, Ring Road, Resort Area, Wuyishan City, Nanping, Fujian Province",
+        "longitude": 118.0156,
+        "latitude": 27.7421
+      },
+      "dispatch_time": "",
+      "shipping_time": 0.0,
+      "delivery_time": "",
+      "total_price": 768.0,
+      "create_time": "2025-04-05 16:10:00",
+      "update_time": "2025-04-05 16:45:00",
+      "status": "cancelled",
+      "products": [
+        {
+          "product_id": "S17557506430524719_P00003",
+          "price": 768.0,
+          "quantity": 1,
+          "date": "2025-04-12",
+          "room_type": "Yanyu Family Room"
+        }
+      ]
+    },
+    "S17557506430524719_O00004": {
+      "order_id": "S17557506430524719_O00004",
+      "order_type": "attraction",
+      "user_id": "U010088",
+      "store_id": "S17557506430524719_A00005",
+      "note": "Want to experience the tea-making workshop, learn about tea culture with my daughter",
+      "location": {
+        "address": "Wuyi Mountain Ecological Tea Garden, Tea Expo Park, Xingcun Town, Wuyishan City, Nanping, Fujian Province",
+        "longitude": 118.0234,
+        "latitude": 27.7389
+      },
+      "dispatch_time": "",
+      "shipping_time": 0.0,
+      "delivery_time": "",
+      "total_price": 300.0,
+      "create_time": "2025-04-06 10:20:00",
+      "update_time": "2025-04-06 10:20:00",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17557506430524719_P00036",
+          "price": 180.0,
+          "quantity": 1,
+          "date": "2025-04-13",
+          "ticket_type": "Adult Ticket + Tea-Making Experience Package"
+        },
+        {
+          "product_id": "S17557506430524719_P00037",
+          "price": 120.0,
+          "quantity": 1,
+          "date": "2025-04-13",
+          "ticket_type": "Child Ticket + Tea-Making Experience Package"
+        }
+      ]
+    }
+  }
+}

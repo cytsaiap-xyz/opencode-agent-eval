@@ -1,0 +1,746 @@
+{
+  "task_id": "10807014",
+  "domain": "cross_domain",
+  "time": "2025-04-28 10:30:00",
+  "user_id": "U010074",
+  "weather": [
+    {
+      "city": "Ningbo",
+      "category": "sunny",
+      "datetime": "2025-04-28",
+      "temperature": [
+        18,
+        26
+      ],
+      "humidity": 65
+    }
+  ],
+  "location": [
+    {
+      "address": "Wanda Residence East Zone, 888 Maocheng Middle Road, Yinzhou District, Ningbo, Zhejiang Province (470m walk from Siming Middle Road Metro Station Exit A1)",
+      "longitude": 121.56789,
+      "latitude": 29.876543
+    }
+  ],
+  "user_profile": {
+    "user id": "U010074",
+    "occupation": "Network Engineer",
+    "gender": "male",
+    "age group": "30~35",
+    "residence": "Ningbo",
+    "home address": "China Telecom Ningbo Branch, 96 Heyi Road, Haishu District, Ningbo, Zhejiang Province (480m walk from Gulou Metro Station Exit A)",
+    "work address": "China Telecom Ningbo Branch, 96 Heyi Road, Haishu District, Ningbo, Zhejiang Province (480m walk from Gulou Metro Station Exit A)",
+    "dietary restrictions": "Avoids high purine foods (such as organ meats/seafood soups), Avoids alcohol",
+    "family status": "In a relationship",
+    "personality": "Extremely detail-oriented, tends to be picky and easily dissatisfied"
+  },
+  "user_historical_behaviors": {
+    "user id": "U010074",
+    "occupation": "Network Engineer",
+    "gender": "male",
+    "age group": "30~35",
+    "residence": "Ningbo",
+    "home address": "Wanda Residence East Zone, 888 Maocheng Middle Road, Yinzhou District, Ningbo, Zhejiang Province (470m walk from Siming Middle Road Metro Station Exit A1)",
+    "work address": "China Telecom Ningbo Branch, 96 Heyi Road, Haishu District, Ningbo, Zhejiang Province (480m walk from Gulou Metro Station Exit A)",
+    "delivery": {
+      "food delivery": {
+        "breakfast": {
+          "frequently purchased categories": [
+            "Quick meals/Buns/Pan-fried buns (Average 18 yuan)",
+            "Quick meals/Fried dough sticks (Average 12 yuan)",
+            "Quick meals/Chinese noodles (Average 25 yuan)"
+          ],
+          "cost per order": "12~35 yuan",
+          "preferred store rating": "4.3~4.8 points",
+          "preferred delivery time": "15~30 minutes",
+          "preferred distance": "0~2500m",
+          "recent orders": [
+            {
+              "store": "Lao Yang Pan-fried Buns",
+              "product": "Pork Pan-fried Buns + Soy Milk"
+            },
+            {
+              "store": "Changzhou Breakfast Shop",
+              "product": "Fried Dough Stick + Soy Milk + Tea Egg"
+            },
+            {
+              "store": "Zhang's Beef Noodles",
+              "product": "Beef Noodles"
+            }
+          ],
+          "search history": [
+            "Pan-fried buns",
+            "Breakfast set",
+            "Soy milk",
+            "Beef noodles"
+          ]
+        },
+        "weekday lunch/dinner": {
+          "frequently purchased categories": [
+            "Quick meals/Braised Chicken Rice (Average 35 yuan)",
+            "Quick meals/Rice with toppings (Average 32 yuan)",
+            "International cuisine/Japanese bento/Sushi (Average 45 yuan)"
+          ],
+          "cost per order": "25~60 yuan",
+          "preferred store rating": "4.2~4.7 points",
+          "preferred delivery time": "20~35 minutes",
+          "preferred distance": "0~3000m",
+          "recent orders": [
+            {
+              "store": "Braised Chicken Rice",
+              "product": "Mildly Spicy Braised Chicken Rice + Tofu"
+            },
+            {
+              "store": "Jiangnan Stir-fry",
+              "product": "Twice-cooked Pork Rice Bowl"
+            },
+            {
+              "store": "Sushi House",
+              "product": "Salmon Sushi Set"
+            }
+          ],
+          "search history": [
+            "Rice with toppings",
+            "Braised chicken",
+            "Bento Box",
+            "Fast food",
+            "Healthy meal"
+          ]
+        },
+        "weekend lunch/dinner": {
+          "frequently purchased categories": [
+            "Chinese cuisine/Sichuan cuisine (Average 88 yuan)",
+            "International cuisine/Pasta (Average 75 yuan)",
+            "Hot pot/Individual hot pot (Average 95 yuan)"
+          ],
+          "cost per order": "60~180 yuan",
+          "preferred store rating": "4.5~4.9 points",
+          "preferred delivery time": "30~45 minutes",
+          "preferred distance": "0~4500m",
+          "recent orders": [
+            {
+              "store": "Sichuan Flavor House",
+              "product": "Boiled Fish + Twice-cooked Pork + Rice"
+            },
+            {
+              "store": "Victoria Western Restaurant",
+              "product": "Beef Pasta + Salad + Cheese Baked Rice"
+            },
+            {
+              "store": "Fish Joy Hot Pot",
+              "product": "Individual Fresh Fish Pot + Beef Slices + Vegetable Platter"
+            }
+          ],
+          "search history": [
+            "Sichuan cuisine",
+            "Italian pasta",
+            "Hot pot",
+            "Family meal",
+            "Family set meal"
+          ]
+        },
+        "desserts/drinks/snacks": {
+          "frequently purchased categories": [
+            "Beverages and desserts/Milk tea (Average 22 yuan)",
+            "Beverages and desserts/Coffee (Average 30 yuan)",
+            "Beverages and desserts/Fruit bowl (Average 35 yuan)"
+          ],
+          "cost per order": "15~45 yuan",
+          "preferred store rating": "4.4~4.8 points",
+          "preferred delivery time": "15~30 minutes",
+          "preferred distance": "0~2500m",
+          "recent orders": [
+            {
+              "store": "One Dot Tea",
+              "product": "Pearl Milk Tea + Taro Bubble Milk Tea"
+            },
+            {
+              "store": "Starbucks",
+              "product": "Iced Americano"
+            },
+            {
+              "store": "Fresh Fruit Bowl",
+              "product": "Colorful Fruit Bowl + Yogurt"
+            }
+          ],
+          "search history": [
+            "Milk tea",
+            "Coffee",
+            "Fruit",
+            "Afternoon Tea"
+          ]
+        },
+        "night snack": {
+          "frequently purchased categories": [
+            "Quick meals/Rice noodles (Average 32 yuan)",
+            "Quick meals/Clay pot dishes (Average 40 yuan)",
+            "Snacks/Braised food (Average 45 yuan)"
+          ],
+          "cost per order": "25~55 yuan",
+          "preferred store rating": "4.2~4.6 points",
+          "preferred delivery time": "20~40 minutes",
+          "preferred distance": "0~3500m",
+          "recent orders": [
+            {
+              "store": "Crossing Bridge Rice Noodles",
+              "product": "Signature Beef Rice Noodles"
+            },
+            {
+              "store": "Old Street Clay Pot",
+              "product": "Clay Pot Tofu"
+            },
+            {
+              "store": "Li's Braised Food",
+              "product": "Braised Food Platter (No offal)"
+            }
+          ],
+          "search history": [
+            "Rice noodles",
+            "Clay pot",
+            "Braised food",
+            "Night snack",
+            "Non-greasy night snack"
+          ]
+        }
+      },
+      "product delivery": {
+        "frequently purchased categories": [
+          "Vegetables/Tofu products(28%)",
+          "Raw meat/Poultry/Eggs(22%)",
+          "Household items(17%)",
+          "Grains/Oil/Seasonings/Dried goods(15%)",
+          "Fruits(10%)",
+          "Others(8%)"
+        ],
+        "frequently visited stores": [
+          "Yonghui Supermarket(45%)",
+          "RT-Mart(25%)",
+          "Carrefour Convenience Store(20%)",
+          "Other stores(10%)"
+        ],
+        "cost per order by category": {
+          "Vegetables/Tofu products": "5~20 yuan",
+          "Raw meat/Poultry/Eggs": "20~60 yuan",
+          "Household items": "15~45 yuan",
+          "Grains/Oil/Seasonings/Dried goods": "10~35 yuan",
+          "Fruits": "8~30 yuan"
+        },
+        "preferred delivery time": "30~60 minutes",
+        "typical order time": "18~20(35%), 10~12(25%), 16~18(20%)",
+        "recent orders": [
+          {
+            "store": "Yonghui Supermarket",
+            "product": "One bundle of greens, two boxes of tofu"
+          },
+          {
+            "store": "RT-Mart",
+            "product": "300g chicken breast, one box of eggs"
+          },
+          {
+            "store": "Yonghui Supermarket",
+            "product": "Kitchen paper towels, dish soap"
+          }
+        ],
+        "search history": [
+          "Tofu",
+          "Chicken breast",
+          "Dish soap",
+          "Rice",
+          "Tomato",
+          "Leafy greens"
+        ]
+      }
+    },
+    "in-store consumption": {
+      "in-store dining": {
+        "fine-dining": {
+          "frequently consumed categories": [
+            "Regional cuisine/Local Jiangzhe cuisine (Average 135 yuan)",
+            "Regional cuisine/Sichuan cuisine (Average 90 yuan)",
+            "Regional cuisine/Special cuisine (Average 110 yuan)"
+          ],
+          "preferred average price per person": "90~150 yuan",
+          "preferred store rating": "4.0~4.8 stars",
+          "typical dining time": "18:30-20:30",
+          "preferred distance": "100~2000m",
+          "recent orders": [
+            {
+              "store": "Zhiweiguan",
+              "product": "West Lake Vinegar Fish Set"
+            },
+            {
+              "store": "Sichuan Flavor House",
+              "product": "Mapo Tofu, Kung Pao Chicken, Boiled Fish Set"
+            },
+            {
+              "store": "Ningbo Restaurant",
+              "product": "Jinhua Ham Braised Pork Knuckle"
+            }
+          ],
+          "search history": [
+            "Non-spicy local cuisine",
+            "Low-sodium Sichuan food",
+            "Ningbo specialties",
+            "Authentic Jiangzhe cuisine"
+          ]
+        },
+        "light meal": {
+          "frequently consumed categories": [
+            "Snacks/Chinese quick meals (Average 35 yuan)",
+            "Snacks/Western fast food (Average 40 yuan)",
+            "Bread and desserts (Average 25 yuan)"
+          ],
+          "preferred average price per person": "25~45 yuan",
+          "preferred store rating": "3.5~4.2 stars",
+          "typical dining time": "12:00-13:30",
+          "preferred distance": "0~500m",
+          "recent orders": [
+            {
+              "store": "McDonald's",
+              "product": "Low-sodium Chicken Wrap Set"
+            },
+            {
+              "store": "Real Kung Fu",
+              "product": "Teriyaki Chicken Cutlet Rice (Low salt)"
+            },
+            {
+              "store": "Yung Ho King",
+              "product": "Soy Milk and Fried Dough Stick Set"
+            }
+          ],
+          "search history": [
+            "Fast food near office",
+            "Healthy quick meal",
+            "Low-sodium fast food",
+            "Weekday lunch"
+          ]
+        },
+        "desserts/drinks/snacks": {
+          "frequently consumed categories": [
+            "Beverage shops (Average 18 yuan)",
+            "Bread and desserts (Average 22 yuan)",
+            "Other dining/Fresh fruits (Average 15 yuan)"
+          ],
+          "preferred average price per person": "15~25 yuan",
+          "preferred store rating": "3.8~4.5 stars",
+          "typical dining time": "15:00-17:00",
+          "preferred distance": "0~300m",
+          "recent orders": [
+            {
+              "store": "Cha Bai Dao",
+              "product": "Lemon Water (Sugar-free)"
+            },
+            {
+              "store": "Fresh Fruit More",
+              "product": "Fruit Platter"
+            },
+            {
+              "store": "Bread Talk",
+              "product": "Whole Wheat Bread"
+            }
+          ],
+          "search history": [
+            "Caffeine-free beverages",
+            "Healthy desserts",
+            "Low-sugar drinks",
+            "Fresh fruits"
+          ]
+        }
+      },
+      "other in-store services": {
+        "frequently consumed categories": {
+          "Sports and fitness/Fitness centers": "40%",
+          "Sports and fitness/Sports venues": "30%",
+          "Leisure and entertainment/Massage/Foot therapy": "15%",
+          "Sports and fitness/Ball sports": "15%"
+        },
+        "cost per order by category": {
+          "Sports and fitness/Fitness centers": "150~300 yuan",
+          "Sports and fitness/Sports venues": "80~150 yuan",
+          "Leisure and entertainment/Massage/Foot therapy": "120~200 yuan",
+          "Sports and fitness/Ball sports": "60~100 yuan"
+        },
+        "preferred store rating": "4.0~4.8 stars",
+        "preferred service time": "19:00-21:00",
+        "preferred distance": "0~3000m",
+        "recent orders": [
+          {
+            "store": "Ningbo Sports Center",
+            "product": "Badminton Court Reservation (Doubles)"
+          },
+          {
+            "store": "Super Fitness (World Trade Center Branch)",
+            "product": "Monthly Fitness Package"
+          },
+          {
+            "store": "Rehabilitation Therapy Center",
+            "product": "Shoulder and Neck Relaxation Treatment"
+          }
+        ],
+        "search history": [
+          "Weekend fitness",
+          "Ningbo badminton courts",
+          "Neck massage for programmers",
+          "Nearby gym"
+        ]
+      }
+    },
+    "OTA": {
+      "visited scenes": {
+        "Cultural heritage sites": "30%",
+        "Exhibition halls (museums/art galleries)": "25%",
+        "Natural landscapes (mountains/lakes/forests)": "20%",
+        "Special villages/Industrial tourism/Uncategorized projects": "15%",
+        "Parks": "10%"
+      },
+      "cost per night on hotel": "500~1000 yuan",
+      "visited hotels": {
+        "Atour": "35%",
+        "Ji Hotel": "25%",
+        "Orange Hotel": "20%",
+        "Vienna Hotel": "15%",
+        "Home Inn": "5%"
+      },
+      "browsed hotels": {
+        "Four-star hotels": "40%",
+        "Comfort hotels": "35%",
+        "Three-star hotels": "15%",
+        "Budget hotels": "10%"
+      },
+      "historical travel plans": {
+        "Ningbo-Hangzhou": {
+          "Price range": "50-100 yuan",
+          "Transportation mode": "High-speed rail/EMU train"
+        },
+        "Ningbo-Shanghai": {
+          "Price range": "150-250 yuan",
+          "Transportation mode": "High-speed rail/EMU train"
+        },
+        "Ningbo-Beijing": {
+          "Price range": "800-1200 yuan",
+          "Transportation mode": "Airplane"
+        },
+        "Ningbo-Shenzhen": {
+          "Price range": "700-1000 yuan",
+          "Transportation mode": "Airplane"
+        },
+        "Ningbo-Nanjing": {
+          "Price range": "200-350 yuan",
+          "Transportation mode": "High-speed rail/EMU train"
+        },
+        "Ningbo-Wuyi": {
+          "Price range": "30-50 yuan",
+          "Transportation mode": "Long-distance bus"
+        }
+      }
+    }
+  },
+  "stores": {
+    "S17550802091124808_S00001": {
+      "name": "FamilyMart (Wanda Plaza Branch)",
+      "store_id": "S17550802091124808_S00001",
+      "score": 4.7,
+      "location": {
+        "address": "FamilyMart, 1st Floor, Wanda Plaza, 999 Siming Middle Road, Zhonghe Street, Yinzhou District, Ningbo, Zhejiang Province",
+        "latitude": 29.877654,
+        "longitude": 121.568765
+      },
+      "tags": [
+        "Convenience Store",
+        "Daily Necessities",
+        "Daily Necessities"
+      ],
+      "store_type": "target",
+      "products": [
+        {
+          "name": "Breeze Pocket Tissues 6-pack",
+          "store_id": "S17550802091124808_S00001",
+          "store_name": "FamilyMart (Wanda Plaza Branch)",
+          "price": 12.9,
+          "tags": [
+            "Pocket Tissues",
+            "Tissue",
+            "Portable Pack",
+            "10-pack",
+            "Daily Necessities"
+          ],
+          "product_id": "S17550802091124808_P00001",
+          "attributes": [],
+          "product_type": "target"
+        },
+        {
+          "name": "Kleenex Disinfectant Wipes 12-pack",
+          "store_id": "S17550802091124808_S00001",
+          "store_name": "FamilyMart (Wanda Plaza Branch)",
+          "price": 9.9,
+          "tags": [
+            "Wet Wipes",
+            "Disinfectant Wipes",
+            "Portable Pack",
+            "Hygiene Products",
+            "Daily Necessities"
+          ],
+          "product_id": "S17550802091124808_P00002",
+          "attributes": [],
+          "product_type": "target"
+        },
+        {
+          "name": "Vinda Pocket Tissues 8-pack",
+          "store_id": "S17550802091124808_S00001",
+          "store_name": "FamilyMart (Wanda Plaza Branch)",
+          "price": 9.9,
+          "tags": [
+            "Pocket Tissues",
+            "Tissue",
+            "Portable Pack",
+            "8-pack",
+            "Daily Necessities"
+          ],
+          "product_id": "S17550802091124808_P00003",
+          "attributes": [],
+          "product_type": "distraction"
+        },
+        {
+          "name": "Blue Moon No-rinse Hand Sanitizer Travel Size 60ml",
+          "store_id": "S17550802091124808_S00001",
+          "store_name": "FamilyMart (Wanda Plaza Branch)",
+          "price": 15.9,
+          "tags": [
+            "Hand Sanitizer",
+            "No-rinse",
+            "Portable",
+            "Hygiene Products",
+            "Daily Necessities"
+          ],
+          "product_id": "S17550802091124808_P00004",
+          "attributes": [],
+          "product_type": "distraction"
+        },
+        {
+          "name": "Tempo Pocket Tissues 12-pack",
+          "store_id": "S17550802091124808_S00001",
+          "store_name": "FamilyMart (Wanda Plaza Branch)",
+          "price": 15.9,
+          "tags": [
+            "Pocket Tissues",
+            "Tissue",
+            "Portable Pack",
+            "12-pack",
+            "Daily Necessities"
+          ],
+          "product_id": "S17550802091124808_P00005",
+          "attributes": [],
+          "product_type": "target"
+        }
+      ]
+    },
+    "S17550802091124808_S00002": {
+      "name": "Watsons (Wanda Branch)",
+      "store_id": "S17550802091124808_S00002",
+      "score": 4.6,
+      "location": {
+        "address": "Watsons, 2nd Floor, Wanda Plaza, 999 Siming Middle Road, Zhonghe Street, Yinzhou District, Ningbo, Zhejiang Province",
+        "latitude": 29.877432,
+        "longitude": 121.568876
+      },
+      "tags": [
+        "Personal Care",
+        "Cleaning Supplies",
+        "Beauty"
+      ],
+      "store_type": "target",
+      "products": [
+        {
+          "name": "Watsons Soft Cotton Pocket Tissues 8-pack",
+          "store_id": "S17550802091124808_S00002",
+          "store_name": "Watsons (Wanda Branch)",
+          "price": 9.9,
+          "tags": [
+            "Pocket Tissues",
+            "Portable Pack",
+            "Daily Essentials",
+            "10-pack",
+            "Soft and Gentle on Skin"
+          ],
+          "product_id": "S17550802091124808_P00007",
+          "attributes": [],
+          "product_type": "target"
+        },
+        {
+          "name": "Watsons Soft Cotton Pocket Tissues 6-pack",
+          "store_id": "S17550802091124808_S00002",
+          "store_name": "Watsons (Wanda Branch)",
+          "price": 6.9,
+          "tags": [
+            "Pocket Tissues",
+            "Portable Pack",
+            "Daily Essentials",
+            "6-pack",
+            "Soft and Gentle on Skin"
+          ],
+          "product_id": "S17550802091124808_P00008",
+          "attributes": [],
+          "product_type": "distraction"
+        },
+        {
+          "name": "Watsons Antibacterial Disinfecting Wipes 20-pack",
+          "store_id": "S17550802091124808_S00002",
+          "store_name": "Watsons (Wanda Branch)",
+          "price": 12.9,
+          "tags": [
+            "Wet Wipes",
+            "Disinfection",
+            "Antibacterial",
+            "Portable",
+            "Alcohol-free"
+          ],
+          "product_id": "S17550802091124808_P00009",
+          "attributes": [],
+          "product_type": "target"
+        },
+        {
+          "name": "Watsons Alcohol Disinfectant Wipes 12-pack",
+          "store_id": "S17550802091124808_S00002",
+          "store_name": "Watsons (Wanda Branch)",
+          "price": 9.9,
+          "tags": [
+            "Wet Wipes",
+            "Disinfection",
+            "Antibacterial",
+            "Portable",
+            "Contains Alcohol"
+          ],
+          "product_id": "S17550802091124808_P00010",
+          "attributes": [],
+          "product_type": "distraction"
+        },
+        {
+          "name": "Watsons Deep Cleansing Disinfectant Wipes 30-pack",
+          "store_id": "S17550802091124808_S00002",
+          "store_name": "Watsons (Wanda Branch)",
+          "price": 16.9,
+          "tags": [
+            "Wet Wipes",
+            "Disinfection",
+            "Deep Cleansing",
+            "Alcohol-free",
+            "Large Pack"
+          ],
+          "product_id": "S17550802091124808_P00012",
+          "attributes": [],
+          "product_type": "target"
+        },
+        {
+          "name": "Watsons Portable Disinfectant Wipes 8-pack",
+          "store_id": "S17550802091124808_S00002",
+          "store_name": "Watsons (Wanda Branch)",
+          "price": 5.9,
+          "tags": [
+            "Wet Wipes",
+            "Disinfection",
+            "Portable Pack",
+            "Alcohol-free",
+            "Small Pack"
+          ],
+          "product_id": "S17550802091124808_P00013",
+          "attributes": [],
+          "product_type": "distraction"
+        }
+      ]
+    },
+    "S17550802091124808_S00003": {
+      "name": "7-11 Convenience Store (Siming Road Branch)",
+      "store_id": "S17550802091124808_S00003",
+      "score": 4.5,
+      "location": {
+        "address": "7-11 Convenience Store, 800 Siming Middle Road, Zhonghe Street, Yinzhou District, Ningbo, Zhejiang Province",
+        "latitude": 29.876123,
+        "longitude": 121.567234
+      },
+      "tags": [
+        "Convenience Store",
+        "Daily Necessities",
+        "Snack"
+      ],
+      "store_type": "distraction",
+      "products": [
+        {
+          "name": "Kleenex Pocket Tissues (10-pack)",
+          "store_id": "S17550802091124808_S00003",
+          "store_name": "7-11 Convenience Store (Siming Road Branch)",
+          "price": 15.9,
+          "tags": [
+            "Pocket Tissues",
+            "Portable Pack",
+            "Multi-pack",
+            "Daily Necessities"
+          ],
+          "product_id": "S17550802091124808_P00014",
+          "attributes": [],
+          "product_type": "target"
+        },
+        {
+          "name": "Kleenex Pocket Tissues (5-pack)",
+          "store_id": "S17550802091124808_S00003",
+          "store_name": "7-11 Convenience Store (Siming Road Branch)",
+          "price": 8.9,
+          "tags": [
+            "Pocket Tissues",
+            "Portable Pack",
+            "Daily Necessities"
+          ],
+          "product_id": "S17550802091124808_P00015",
+          "attributes": [],
+          "product_type": "distraction"
+        },
+        {
+          "name": "Coca-Cola (330ml)",
+          "store_id": "S17550802091124808_S00003",
+          "store_name": "7-11 Convenience Store (Siming Road Branch)",
+          "price": 3.5,
+          "tags": [
+            "Carbonated Drink",
+            "Beverage",
+            "Snack"
+          ],
+          "product_id": "S17550802091124808_P00017",
+          "attributes": [
+            "Chilled"
+          ],
+          "product_type": "distraction"
+        },
+        {
+          "name": "Vinda Pocket Tissues (12-pack)",
+          "store_id": "S17550802091124808_S00003",
+          "store_name": "7-11 Convenience Store (Siming Road Branch)",
+          "price": 16.9,
+          "tags": [
+            "Pocket Tissues",
+            "Portable Pack",
+            "Multi-pack",
+            "Daily Necessities"
+          ],
+          "product_id": "S17550802091124808_P00019",
+          "attributes": [],
+          "product_type": "target"
+        },
+        {
+          "name": "Sandwich (Ham and Cheese)",
+          "store_id": "S17550802091124808_S00003",
+          "store_name": "7-11 Convenience Store (Siming Road Branch)",
+          "price": 12,
+          "tags": [
+            "Sandwich",
+            "breakfast",
+            "Bento Box",
+            "Ready-to-eat"
+          ],
+          "product_id": "S17550802091124808_P00020",
+          "attributes": [],
+          "product_type": "distraction"
+        }
+      ]
+    }
+  },
+  "orders": {}
+}

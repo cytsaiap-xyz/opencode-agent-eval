@@ -1,0 +1,101 @@
+{
+  "sessions": [
+    {
+      "id": "s1", "title": "Keynote: Future of AI",
+      "speaker": "Dr. Smith", "durationMinutes": 60,
+      "track": "ai", "priority": "required",
+      "requiredEquipment": ["projector", "microphone"],
+      "preferredTimeSlot": "morning"
+    },
+    {
+      "id": "s2", "title": "Intro to Machine Learning",
+      "speaker": "Prof. Johnson", "durationMinutes": 45,
+      "track": "ai", "priority": "high",
+      "requiredEquipment": ["projector"],
+      "preferredTimeSlot": "morning"
+    },
+    {
+      "id": "s3", "title": "Web Performance Workshop",
+      "speaker": "Jane Doe", "durationMinutes": 90,
+      "track": "web", "priority": "high",
+      "requiredEquipment": ["projector", "whiteboard"],
+      "preferredTimeSlot": "afternoon"
+    },
+    {
+      "id": "s4", "title": "Cloud Architecture Patterns",
+      "speaker": "Bob Wilson", "durationMinutes": 45,
+      "track": "cloud", "priority": "medium",
+      "requiredEquipment": ["projector"],
+      "preferredTimeSlot": "morning"
+    },
+    {
+      "id": "s5", "title": "Panel: Ethics in Tech",
+      "speaker": "Multiple", "durationMinutes": 60,
+      "track": "general", "priority": "required",
+      "requiredEquipment": ["microphone"],
+      "preferredTimeSlot": "afternoon"
+    },
+    {
+      "id": "s6", "title": "Deep Learning Advanced",
+      "speaker": "Prof. Johnson", "durationMinutes": 60,
+      "track": "ai", "priority": "medium",
+      "requiredEquipment": ["projector"],
+      "preferredTimeSlot": "afternoon"
+    },
+    {
+      "id": "s7", "title": "React Best Practices",
+      "speaker": "Jane Doe", "durationMinutes": 45,
+      "track": "web", "priority": "high",
+      "requiredEquipment": ["projector"],
+      "preferredTimeSlot": "morning"
+    },
+    {
+      "id": "s8", "title": "Kubernetes Workshop",
+      "speaker": "Bob Wilson", "durationMinutes": 90,
+      "track": "cloud", "priority": "high",
+      "requiredEquipment": ["projector", "whiteboard"],
+      "preferredTimeSlot": "afternoon"
+    },
+    {
+      "id": "s9", "title": "Lightning Talks",
+      "speaker": "Various", "durationMinutes": 30,
+      "track": "general", "priority": "low",
+      "requiredEquipment": ["microphone"],
+      "preferredTimeSlot": "afternoon"
+    },
+    {
+      "id": "s10", "title": "Closing Remarks",
+      "speaker": "Dr. Smith", "durationMinutes": 30,
+      "track": "general", "priority": "required",
+      "requiredEquipment": ["microphone"],
+      "preferredTimeSlot": "afternoon"
+    }
+  ],
+  "rooms": [
+    {
+      "id": "main", "name": "Main Hall", "capacity": 500,
+      "equipment": ["projector", "microphone", "whiteboard"]
+    },
+    {
+      "id": "a", "name": "Room A", "capacity": 100,
+      "equipment": ["projector", "whiteboard"]
+    },
+    {
+      "id": "b", "name": "Room B", "capacity": 80,
+      "equipment": ["projector", "microphone"]
+    },
+    {
+      "id": "c", "name": "Room C", "capacity": 50,
+      "equipment": ["projector"]
+    }
+  ],
+  "timeSlots": [
+    { "id": "slot1", "start": "09:00", "end": "10:00", "period": "morning" },
+    { "id": "slot2", "start": "10:15", "end": "11:15", "period": "morning" },
+    { "id": "slot3", "start": "11:30", "end": "12:30", "period": "morning" },
+    { "id": "slot4", "start": "13:30", "end": "14:30", "period": "afternoon" },
+    { "id": "slot5", "start": "14:45", "end": "15:45", "period": "afternoon" },
+    { "id": "slot6", "start": "16:00", "end": "17:00", "period": "afternoon" },
+    { "id": "slot7", "start": "17:15", "end": "18:15", "period": "afternoon" }
+  ]
+}

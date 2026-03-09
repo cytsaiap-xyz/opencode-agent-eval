@@ -1,0 +1,98 @@
+{
+  "required_orders": [
+    {
+      "order_id": "D0717004T01",
+      "order_type": "delivery",
+      "user_id": "U000030",
+      "store_id": "S14869188927748166_S56333",
+      "note": "",
+      "location": {
+        "address": "Oasis Garden, No. 133 Minzu Avenue, Qingxiu District, Nanning, Guangxi Zhuang Autonomous Region",
+        "longitude": 108.387182,
+        "latitude": 22.814447
+      },
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 88.0,
+      "create_time": "2025-05-20 10:42:00",
+      "update_time": "2025-05-20 10:42:00",
+      "status": "unpaid",
+      "products": [
+        {
+          "product_id": "S11290194455544313_P61785",
+          "price": 88.0,
+          "quantity": 1,
+          "attributes": ""
+        }
+      ]
+    },
+    {
+      "order_id": "D0717004T02",
+      "order_type": "delivery",
+      "user_id": "U000030",
+      "store_id": "S14913462339481426_S95816",
+      "note": "",
+      "location": {
+        "address": "Oasis Garden, No. 133 Minzu Avenue, Qingxiu District, Nanning, Guangxi Zhuang Autonomous Region",
+        "longitude": 108.387182,
+        "latitude": 22.814447
+      },
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 88.0,
+      "create_time": "2025-05-20 10:42:00",
+      "update_time": "2025-05-20 10:42:00",
+      "status": "unpaid",
+      "products": [
+        {
+          "product_id": "S82609394899889132_P42592",
+          "price": 88.0,
+          "quantity": 1,
+          "attributes": ""
+        }
+      ]
+    },
+    {
+      "order_id": "D0717004T03",
+      "order_type": "delivery",
+      "user_id": "U000030",
+      "store_id": "S31962114888131936_S05343",
+      "note": "Less sauce",
+      "location": {
+        "address": "Mingmen Tianjing, No. 157 Minzu Avenue, Qingxiu District, Nanning, Guangxi Zhuang Autonomous Region",
+        "longitude": 108.404406,
+        "latitude": 22.81481
+      },
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 17.88,
+      "create_time": "2025-05-20 10:47:00",
+      "update_time": "2025-05-20 10:47:00",
+      "status": "processed",
+      "products": [
+        {
+          "product_id": "S52821417266607384_P33294",
+          "price": 17.88,
+          "quantity": 1,
+          "attributes": ""
+        }
+      ]
+    }
+  ],
+  "rubrics": [
+    "The anniversary cake order should select products with high cost-effectiveness",
+    "The delivery time for the anniversary cake order should be before 18:00:00 on May 20, 2025",
+    "The delivery address for the anniversary cake order should be Oasis Garden, No. 133 Minzu Avenue, Qingxiu District, Nanning, Guangxi Zhuang Autonomous Region",
+    "The products in the dinner set meal order should have appetizing effects",
+    "The products in the dinner set meal order should be small portions",
+    "The delivery time for the dinner set meal order should be before 18:00:00 on May 20, 2025",
+    "The delivery address for the dinner set meal order should be Oasis Garden, No. 133 Minzu Avenue, Qingxiu District, Nanning, Guangxi Zhuang Autonomous Region",
+    "The lunch rice noodle roll order should note 'less sauce'",
+    "The lunch rice noodle roll should be of beef and egg flavor",
+    "The delivery time for the lunch rice noodle roll order should be within 11:00:00-12:00:00 on May 20, 2025",
+    "The delivery address for the lunch rice noodle roll order should be Mingmen Tianjing, No. 157 Minzu Avenue, Qingxiu District, Nanning, Guangxi Zhuang Autonomous Region"
+  ]
+}

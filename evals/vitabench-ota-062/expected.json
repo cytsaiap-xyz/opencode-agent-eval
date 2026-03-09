@@ -1,0 +1,98 @@
+{
+  "required_orders": [
+    {
+      "order_id": "D0808003T001",
+      "order_type": "train",
+      "user_id": "U010061",
+      "store_id": "S17557513687109603_T00010",
+      "note": "",
+      "location": null,
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 1106,
+      "create_time": "2023-09-09 08:35:23",
+      "update_time": "2023-09-09 08:35:23",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17557513687109603_P00063",
+          "price": 553,
+          "quantity": 2,
+          "date": "2023-09-13",
+          "seat_type": "Second Class Seat (Accessible Carriage)"
+        }
+      ]
+    },
+    {
+      "order_id": "D0808003T002",
+      "order_type": "hotel",
+      "user_id": "U010061",
+      "store_id": "S17557513687109603_H00001",
+      "note": "",
+      "location": null,
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 1360,
+      "create_time": "2023-09-09 08:39:23",
+      "update_time": "2023-09-09 08:39:23",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17557513687109603_P00001",
+          "price": 680,
+          "quantity": 1,
+          "date": "2023-09-13",
+          "room_type": "Deluxe Twin Room"
+        },
+        {
+          "product_id": "S17557513687109603_P00002",
+          "price": 680,
+          "quantity": 1,
+          "date": "2023-09-14",
+          "room_type": "Deluxe Twin Room"
+        }
+      ]
+    },
+    {
+      "order_id": "D0808003T003",
+      "order_type": "attraction",
+      "user_id": "U010061",
+      "store_id": "S17557513687109603_A00005",
+      "note": "",
+      "location": null,
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 0,
+      "create_time": "2023-09-09 08:41:23",
+      "update_time": "2023-09-09 08:41:23",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17557513687109603_P00030",
+          "price": 0,
+          "quantity": 2,
+          "date": "2023-09-14",
+          "ticket_type": "Adult Ticket"
+        }
+      ]
+    }
+  ],
+  "rubrics": [
+    "The ordered train should include accessible carriage",
+    "The ordered train should have wheelchair-accessible seat",
+    "The number of train tickets ordered should be 2",
+    "The train in the order should be from Dalian to Beijing",
+    "The departure time of the train tickets in the order should be September 13, 2023",
+    "The hotel should be within 3km (inclusive) of the Chinese PLA General Hospital at 28 Fuxing Road, Haidian District, Beijing",
+    "The ordered hotel should have an Elevator",
+    "The hotel booking dates should be 2023-09-13 and 2023-09-14",
+    "The room booked in the hotel order should be a twin room",
+    "Check the weather in Beijing on 2023-09-14 (showers), the attraction ordered should be indoor",
+    "The booking date for the attraction should be September 14, 2023",
+    "The ordered attraction should be wheelchair accessible",
+    "The number of attraction tickets ordered should be 2"
+  ]
+}

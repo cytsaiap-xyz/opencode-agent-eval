@@ -1,0 +1,73 @@
+{
+  "required_orders": [
+    {
+      "order_id": "10826345T001",
+      "order_type": "instore",
+      "user_id": "U695308",
+      "store_id": "S17567847828372521_I00001",
+      "note": "",
+      "location": null,
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 388,
+      "create_time": "2025-08-29 16:26:11",
+      "update_time": "2025-08-29 16:26:11",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17567847828372521_P00001",
+          "name": "Chinese Valentine's Day Romantic Package for Two",
+          "price": 388,
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "book_id": "10826345T002",
+      "shop_id": "S17567847828372521_I00001",
+      "book_time": "2025-08-29 18:00:00",
+      "update_time": "2025-08-29 16:24:03",
+      "customer_id": "U695308",
+      "customer_count": 2,
+      "book_price": 0,
+      "status": "paid"
+    },
+    {
+      "order_id": "10826345T003",
+      "order_type": "instore",
+      "user_id": "U695308",
+      "store_id": "S17567847828372521_I00002",
+      "note": "",
+      "location": null,
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 30,
+      "create_time": "2025-08-29 16:28:50",
+      "update_time": "2025-08-29 16:28:50",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17567847828372521_P00010",
+          "name": "Cat Cuddling Package for One (Drinks Not Included)",
+          "price": 30,
+          "quantity": 1
+        }
+      ]
+    }
+  ],
+  "rubrics": [
+    "The Western restaurant ordered should have a romantic atmosphere",
+    "The distance from the Western restaurant to Room 1204, Building 3, Canal No.1 Apartment, 128 Xihui Road, Liangxi District, Wuxi should be within 3km (inclusive)",
+    "The Western restaurant order should be a meal for two people, not multiple single-person meals",
+    "The Western restaurant order should include champagne",
+    "The Western restaurant order should be available at 18:00",
+    "The reserved Western restaurant should be Azure Coast Western Restaurant",
+    "The Western restaurant reservation time should be 2025-08-29 18:00:00",
+    "The number of people for the Western restaurant reservation should be 2",
+    "The distance from the cat cafe to Azure Coast Western Restaurant should be within 2km (inclusive)",
+    "The package ordered at the cat cafe should be a single-person meal",
+    "The package ordered at the cat cafe should not include drinks"
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "required_orders": [
+    {
+      "order_id": "D0812008T001",
+      "order_type": "attraction",
+      "user_id": "U650671",
+      "store_id": "S17557505501187701_A00005",
+      "note": "",
+      "location": null,
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 480,
+      "create_time": "2025-02-06 00:59:45",
+      "update_time": "2025-02-06 00:59:45",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17557505501187701_P00025",
+          "price": 180,
+          "quantity": 2,
+          "ticket_type": "Adult ticket (unlimited entry for two-day performances)"
+        },
+        {
+          "product_id": "S17557505501187701_P00026",
+          "price": 120,
+          "quantity": 1,
+          "ticket_type": "Child ticket (ages 6-12, unlimited entry for two-day performances)"
+        }
+      ]
+    },
+    {
+      "order_id": "D0812008T002",
+      "order_type": "hotel",
+      "user_id": "U650671",
+      "store_id": "S17557505501187701_H00001",
+      "note": "",
+      "location": null,
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 398,
+      "create_time": "2025-02-06 01:08:23",
+      "update_time": "2025-02-06 01:08:23",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17557505501187701_P00005",
+          "price": 398,
+          "quantity": 1,
+          "date": "2025-02-12",
+          "room_type": "Sea view twin room"
+        }
+      ]
+    }
+  ],
+  "rubrics": [
+    "Check the Lantern Festival date, which is 2025-02-12, so the ticket purchase date is 2025-02-12",
+    "The ticket order needs to include a child ticket (the older brother is 11 years old, and he needs to purchase child ticket for ages 6-12)",
+    "Check the weather for February 12 and 13, 2025 (sunny and cloudy respectively), the weather conditions are good, so the children ticket in the order should be for two days",
+    "The younger sister is only 5 years old (children under 6 don't need tickets), so no ticket is purchased for her",
+    "The ticket order needs to include adult tickets",
+    "The quantity of adult tickets in the order is 2",
+    "Check the weather for February 12 and 13, 2025 (sunny and cloudy respectively), the weather conditions are good, so the adult tickets in the order should be for two days",
+    "Check the Lantern Festival date, which is 2025-02-12, so the hotel booking date is 2025-02-12",
+    "The hotel must include a parking lot",
+    "The hotel must include a private beach",
+    "The hotel must offer extra bed service",
+    "The room type booked in the hotel order is a twin room"
+  ]
+}

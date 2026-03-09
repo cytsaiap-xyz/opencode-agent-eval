@@ -1,0 +1,65 @@
+{
+  "required_orders": [
+    {
+      "order_id": "70714001T02",
+      "order_type": "delivery",
+      "user_id": "U000010",
+      "store_id": "S29509549137012996_S47439",
+      "note": "",
+      "location": {
+        "address": "No.25, No.2 Shuangfengshan Road, Yunmanting Zone C, Nan'an District, Chongqing",
+        "longitude": 106.554969,
+        "latitude": 29.532933
+      },
+      "dispatch_time": "2024-05-18 18:45:00",
+      "shipping_time": 35,
+      "delivery_time": "2024-05-18 19:20:00",
+      "total_price": 39.9,
+      "create_time": "2024-05-18 18:40:00",
+      "update_time": "2024-05-18 18:40:00",
+      "status": "delivered",
+      "products": [
+        {
+          "product_id": "S31507710680622253_P20902",
+          "price": 39.9,
+          "quantity": 1,
+          "attributes": ""
+        }
+      ]
+    },
+    {
+      "order_id": "70714001T01",
+      "order_type": "delivery",
+      "user_id": "U000010",
+      "store_id": "S33764608762858787_S11690",
+      "note": "",
+      "location": {
+        "address": "No.25, No.2 Shuangfengshan Road, Yunmanting Zone C, Nan'an District, Chongqing",
+        "longitude": 106.554969,
+        "latitude": 29.532933
+      },
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 28.71,
+      "create_time": "2024-05-18 18:42:00",
+      "update_time": "2024-05-18 18:42:00",
+      "status": "processed",
+      "products": [
+        {
+          "product_id": "S10915355094844256_P90588",
+          "price": 28.71,
+          "quantity": 1,
+          "attributes": "Original flavor"
+        }
+      ]
+    }
+  ],
+  "rubrics": [
+    "The delivery address for the Garlic Vermicelli Meat Slice order for wife should be No.25, No.2 Shuangfengshan Road, Yunmanting Zone C, Nan'an District, Chongqing",
+    "The estimated delivery time for the Garlic Vermicelli Meat Slice order for wife should be around 2024-05-18 21:00",
+    "The Garlic Vermicelli Meat Slice order for wife should be non-spicy flavor, avoiding stimulating seasonings",
+    "The delivery address for the Strained Yogurt Bowl order for daughter should be No.25, No.2 Shuangfengshan Road, Yunmanting Zone C, Nan'an District, Chongqing",
+    "The estimated delivery time for the Strained Yogurt Bowl order for daughter should be before 2024-05-18 19:30"
+  ]
+}

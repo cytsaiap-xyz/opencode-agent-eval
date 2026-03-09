@@ -1,0 +1,356 @@
+{
+  "task_id": "D0721004",
+  "domain": "delivery",
+  "time": "2026-01-30 18:19:29",
+  "user_id": "U000038",
+  "weather": [
+    {
+      "city": "Shijiazhuang City",
+      "category": "snowy",
+      "datetime": "2026-01-30",
+      "temperature": [
+        -6,
+        3
+      ],
+      "humidity": 79
+    }
+  ],
+  "location": [
+    {
+      "address": "Faculty Building, No.62 West Second Ring North Road, Qiaoxi District, Shijiazhuang City, Hebei Province",
+      "longitude": 114.435532,
+      "latitude": 38.047407
+    }
+  ],
+  "user_profile": {
+    "user id": "U000038",
+    "occupation": "Student",
+    "gender": "male",
+    "age group": "15~20",
+    "residence": "Shijiazhuang",
+    "home address": "Faculty Building, No.62 West Second Ring North Road, Qiaoxi District, Shijiazhuang City, Hebei Province",
+    "work address": "Shijiazhuang No.18 Middle School, 438 Hezuo Road, Xinhua District, Shijiazhuang City, Hebei Province",
+    "dietary restrictions": "Seafood (fish/shrimp/crab)",
+    "family status": "Living with elderly",
+    "personality": "Emotionally volatile, expresses with strong emotional color"
+  },
+  "user_historical_behaviors": {
+    "user id": "U000038",
+    "occupation": "Student",
+    "gender": "male",
+    "age group": "15~20",
+    "residence": "Shijiazhuang",
+    "home address": "Faculty Building, No.62 West Second Ring North Road, Qiaoxi District, Shijiazhuang City, Hebei Province",
+    "work address": "Shijiazhuang No.18 Middle School, 438 Hezuo Road, Xinhua District, Shijiazhuang City, Hebei Province",
+    "breakfast": {
+      "frequently purchased categories": [
+        "Fast Food/Buns/Pan-fried Buns (average ¥12)",
+        "Fast Food/Fried Dough Sticks (average ¥8)",
+        "Fast Food/Dumplings/Wontons (average ¥15)"
+      ],
+      "cost per order": "¥8~20",
+      "preferred store rating": "4.2~4.7 stars",
+      "preferred delivery time": "15~25 minutes",
+      "preferred distance": "0~1500m",
+      "recent orders": [
+        {
+          "store": "Shen's Bun Shop",
+          "product": "Vegetable Three-Flavor Buns (6 pieces)"
+        },
+        {
+          "store": "Breakfast Street",
+          "product": "Fried Dough Sticks and Soy Milk Set"
+        },
+        {
+          "store": "Shimen Dumplings",
+          "product": "Chive and Egg Dumplings (15 pieces)"
+        }
+      ],
+      "search history": [
+        "buns",
+        "soy milk",
+        "vegetable three-flavor",
+        "campus breakfast",
+        "cheap breakfast"
+      ]
+    },
+    "weekday lunch/dinner": {
+      "frequently purchased categories": [
+        "Fast Food/Rice with Toppings (average ¥25)",
+        "Fast Food/Rice Noodles/Vermicelli (average ¥12)",
+        "Fast Food/Dumplings (average ¥18)"
+      ],
+      "cost per order": "¥12~25",
+      "preferred store rating": "4.0~4.8 stars",
+      "preferred delivery time": "20~50 minutes",
+      "preferred distance": "0~5500m",
+      "recent orders": [
+        {
+          "store": "Ji Liuji Shrimp Dumplings (Haiyue Branch)",
+          "product": "Pork and Cabbage Dumplings"
+        },
+        {
+          "store": "Old Tan's Rice Noodles",
+          "product": "Signature Beef Rice Noodles"
+        },
+        {
+          "store": "Lanzhou Noodles",
+          "product": "Clear Soup Beef Noodles"
+        }
+      ],
+      "search history": [
+        "restaurants near school",
+        "cheap lunch",
+        "healthy not greasy",
+        "rice with toppings"
+      ]
+    },
+    "weekend lunch/dinner": {
+      "frequently purchased categories": [
+        "Fast Food/Braised Chicken with Rice (average ¥20)",
+        "Chinese Cuisine/Northeastern Dishes (average ¥35)",
+        "Fast Food/Dumpling Soup (average ¥22)"
+      ],
+      "cost per order": "¥20~35",
+      "preferred store rating": "4.5~4.9 stars",
+      "preferred delivery time": "25~60 minutes",
+      "preferred distance": "0~5500m",
+      "recent orders": [
+        {
+          "store": "Braised Chicken Rice",
+          "product": "Mildly Spicy Braised Chicken Rice + Vegetables"
+        },
+        {
+          "store": "Northeast Auntie's Restaurant",
+          "product": "Sweet and Sour Pork + Rice"
+        },
+        {
+          "store": "Lv's Dumpling Soup",
+          "product": "Small Seafood Dumpling Soup"
+        }
+      ],
+      "search history": [
+        "healthy diet",
+        "non-greasy lunch",
+        "braised chicken",
+        "Northeastern cuisine"
+      ]
+    },
+    "desserts/drinks/snacks": {
+      "frequently purchased categories": [
+        "Beverages & Desserts/Fruit Juice (average ¥18)",
+        "Beverages & Desserts/Pure Tea/Herbal Tea (average ¥16)",
+        "Beverages & Desserts/Chinese Pastries (average ¥25)"
+      ],
+      "cost per order": "¥15~30",
+      "preferred store rating": "4.3~4.8 stars",
+      "preferred delivery time": "15~30 minutes",
+      "preferred distance": "0~2000m",
+      "recent orders": [
+        {
+          "store": "Fresh Juice Garden",
+          "product": "Watermelon Juice"
+        },
+        {
+          "store": "Tea Time",
+          "product": "Green Tea (Sugar-free)"
+        },
+        {
+          "store": "Daoxiangcun",
+          "product": "Red Bean Cake"
+        }
+      ],
+      "search history": [
+        "healthy drinks",
+        "sugar-free tea",
+        "fruit tea",
+        "Chinese pastries"
+      ]
+    },
+    "night snack": {
+      "frequently purchased categories": [
+        "Fast Food/Small Dishes/Small Portions (average ¥32)",
+        "Fast Food/Hot Dry Noodles (average ¥18)"
+      ],
+      "cost per order": "¥15~35",
+      "preferred store rating": "4.0~4.6 stars",
+      "preferred delivery time": "20~40 minutes",
+      "preferred distance": "0~2500m",
+      "recent orders": [
+        {
+          "store": "Small Dish Restaurant",
+          "product": "Shredded Potatoes + Scrambled Eggs with Tomatoes + Rice"
+        },
+        {
+          "store": "Wuhan Hot Dry Noodles",
+          "product": "Original Hot Dry Noodles"
+        },
+        {
+          "store": "Wonton Shop",
+          "product": "Handmade Fresh Pork Wonton"
+        }
+      ],
+      "search history": [
+        "late night food",
+        "hot dry noodles",
+        "small dishes",
+        "non-greasy night snack",
+        "midnight snack"
+      ]
+    }
+  },
+  "stores": {
+    "S24717473813710342_S37435": {
+      "name": "Ji Liuji Shrimp Dumplings (Haiyue Branch)",
+      "store_id": "S24717473813710342_S37435",
+      "score": 4.8,
+      "location": {
+        "address": "Liuji Dumpling Restaurant (Hong Kong Street), Shop No. 1077, Hong Kong Street, 255 Gongnong Road, Qiaoxi District, Shijiazhuang City, Hebei Province",
+        "latitude": 38.033891,
+        "longitude": 114.472593
+      },
+      "tags": [
+        "Dine-in Available"
+      ],
+      "products": [
+        {
+          "name": "Pork and Cabbage Dumplings",
+          "product_id": "S12037763664481505_P73894",
+          "store_id": "S24717473813710342_S37435",
+          "store_name": "Ji Liuji Shrimp Dumplings (Haiyue Branch)",
+          "price": 17.9,
+          "tags": [],
+          "attributes": [],
+          "quantity": 9999
+        },
+        {
+          "name": "Chive and Pork Dumplings",
+          "product_id": "S24974964641440294_P63720",
+          "store_id": "S24717473813710342_S37435",
+          "store_name": "Ji Liuji Shrimp Dumplings (Haiyue Branch)",
+          "price": 17.9,
+          "tags": [],
+          "attributes": [],
+          "quantity": 9999
+        }
+      ]
+    },
+    "S16740267212964910_S79387": {
+      "name": "Lv's Dumpling Soup (Shijiazhuang Mixc Store)",
+      "store_id": "S16740267212964910_S79387",
+      "score": 4.7,
+      "location": {
+        "address": "Lv's Dumpling Soup Express Kitchen (Mixc Store), 6th Floor, Mixc Mall, 77 Zhongshan West Road, Qiaoxi District, Shijiazhuang City, Hebei Province",
+        "latitude": 38.041229,
+        "longitude": 114.478069
+      },
+      "tags": [
+        "Dine-in Available"
+      ],
+      "products": [
+        {
+          "name": "Small Seafood Dumpling Soup",
+          "product_id": "S29570288274735276_P40070",
+          "store_id": "S16740267212964910_S79387",
+          "store_name": "Lv's Dumpling Soup (Shijiazhuang Mixc Store)",
+          "price": 24,
+          "tags": [],
+          "attributes": [],
+          "quantity": 9999
+        },
+        {
+          "name": "Small Vegetable Dumpling Soup",
+          "product_id": "S29259926050146016_P15308",
+          "store_id": "S16740267212964910_S79387",
+          "store_name": "Lv's Dumpling Soup (Shijiazhuang Mixc Store)",
+          "price": 13,
+          "tags": [],
+          "attributes": [],
+          "quantity": 9999
+        }
+      ]
+    },
+    "S30558535576430241_S96311": {
+      "name": "Guanzhong Famous Buns (Roujiamo·Liangpi·Gedatang)",
+      "store_id": "S30558535576430241_S96311",
+      "score": 5,
+      "location": {
+        "address": "Shop No. 62, Triangle Area East of Shitong Road, South of Xinshi North Road, West of Dajie Road, Qiaoxi District, Shijiazhuang City, Hebei Province",
+        "latitude": 38.018696,
+        "longitude": 114.455107
+      },
+      "tags": [],
+      "products": [
+        {
+          "name": "Tomato Shrimp Dumpling Soup",
+          "product_id": "S87559909371176126_P09334",
+          "store_id": "S30558535576430241_S96311",
+          "store_name": "Guanzhong Famous Buns (Roujiamo·Liangpi·Gedatang)",
+          "price": 25,
+          "tags": [
+            "Delicious"
+          ],
+          "attributes": [],
+          "quantity": 9999
+        },
+        {
+          "name": "Handmade Fresh Pork Wonton",
+          "product_id": "S13504238051470784_P34488",
+          "store_id": "S30558535576430241_S96311",
+          "store_name": "Guanzhong Famous Buns (Roujiamo·Liangpi·Gedatang)",
+          "price": 10.9,
+          "tags": [],
+          "attributes": [],
+          "quantity": 9999
+        }
+      ]
+    },
+    "S10560883819623379_S88258": {
+      "name": "Lao Chu Handmade Dumplings",
+      "store_id": "S10560883819623379_S88258",
+      "score": 5,
+      "location": {
+        "address": "Shop No. 1077, Hong Kong Street, 255 Gongnong Road, Qiaoxi District, Shijiazhuang City, Hebei Province",
+        "latitude": 38.034175,
+        "longitude": 114.473875
+      },
+      "tags": [],
+      "products": [
+        {
+          "name": "Pork and Green Onion Dumplings (20 pieces) approx. 360g",
+          "product_id": "S29993343705175221_P21375",
+          "store_id": "S10560883819623379_S88258",
+          "store_name": "Lao Chu Handmade Dumplings",
+          "price": 17.9,
+          "tags": [],
+          "attributes": [],
+          "quantity": 9999
+        }
+      ]
+    },
+    "S23109413346631713_S23297": {
+      "name": "Sangu Dumplings (Yuanxi Street Branch)",
+      "store_id": "S23109413346631713_S23297",
+      "score": 4.1,
+      "location": {
+        "address": "Shop 2-S03-104-1, Datan Garden, No.2 Yuanxi Street, Qiaoxi District, Shijiazhuang City, Hebei Province",
+        "latitude": 38.036984,
+        "longitude": 114.410828
+      },
+      "tags": [],
+      "products": [
+        {
+          "name": "Cabbage and Pork Dumplings",
+          "product_id": "S15892769273361596_P67861",
+          "store_id": "S23109413346631713_S23297",
+          "store_name": "Sangu Dumplings (Yuanxi Street Branch)",
+          "price": 21.8,
+          "tags": [],
+          "attributes": [],
+          "quantity": 9999
+        }
+      ]
+    }
+  },
+  "orders": {}
+}

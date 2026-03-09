@@ -1,0 +1,118 @@
+{
+  "required_orders": [
+    {
+      "order_id": "D0807010T001",
+      "order_type": "attraction",
+      "user_id": "U010063",
+      "store_id": "S17557512278455908_A00005",
+      "note": "",
+      "location": null,
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 560,
+      "create_time": "2023-06-09 16:52:17",
+      "update_time": "2023-06-09 16:52:17",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17557512278455908_P00023",
+          "price": 280,
+          "quantity": 2,
+          "date": "2023-06-23",
+          "ticket_type": "Adult ticket + Sightseeing bus combo"
+        }
+      ]
+    },
+    {
+      "order_id": "D0807010T002",
+      "order_type": "flight",
+      "user_id": "U010063",
+      "store_id": "S17557512278455908_F00008",
+      "note": "",
+      "location": null,
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 2680,
+      "create_time": "2023-06-09 16:55:15",
+      "update_time": "2023-06-09 16:55:15",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17557512278455908_P00043",
+          "price": 2680,
+          "quantity": 1,
+          "date": "2023-06-22",
+          "seat_type": "Business class cabin"
+        }
+      ]
+    },
+    {
+      "order_id": "D0807010T003",
+      "order_type": "train",
+      "user_id": "U010063",
+      "store_id": "S17557512278455908_T00013",
+      "note": "",
+      "location": null,
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 134,
+      "create_time": "2023-06-09 16:56:43",
+      "update_time": "2023-06-09 16:56:43",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17557512278455908_P00067",
+          "price": 67,
+          "quantity": 2,
+          "date": "2023-06-23",
+          "seat_type": "First class seat"
+        }
+      ]
+    },
+    {
+      "order_id": "D0807010T004",
+      "order_type": "hotel",
+      "user_id": "U010063",
+      "store_id": "S17557512278455908_H00001",
+      "note": "",
+      "location": null,
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 888,
+      "create_time": "2023-06-09 17:01:43",
+      "update_time": "2023-06-09 17:01:43",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17557512278455908_P00001",
+          "price": 888,
+          "quantity": 1,
+          "date": "2023-06-23",
+          "room_type": "Waterfall View King Room"
+        }
+      ]
+    }
+  ],
+  "rubrics": [
+    "Check the specific date of the Dragon Boat Festival in 2023 (June 22, 2023), and the scenic area ticket date must be June 23, 2023 (the second day of the Dragon Boat Festival)",
+    "Check and provide ticket price information for Huangguoshu Waterfall Scenic Area (Adult ticket 240 yuan, Scenic area shuttle bus ticket 50 yuan, Adult ticket + Sightseeing bus combo 280 yuan), the purchased ticket should be Adult ticket + Sightseeing bus combo",
+    "The number of tickets purchased should be 2",
+    "The date of the flight reservation should be 2023-06-22",
+    "The departure time of the flight in the order should be in the morning",
+    "The reserved flight should be Business class cabin",
+    "Check the weather conditions for Guiyang and Anshun on 2023-06-23, which are showers and sunny respectively; if one of them is rainy, then purchase train tickets from Guiyang to Anshun",
+    "The train tickets purchased should be High-speed rail",
+    "The seats for the train tickets should be First class seat",
+    "The number of train tickets purchased should be 2",
+    "The hotel reservation date should be June 23, 2023",
+    "The reserved hotel should have Ethnic feature",
+    "The reserved hotel should have a Waterfall view",
+    "The reserved hotel should be within 10km of Huangguoshu",
+    "The reserved hotel should have a rating of 4.0 or above",
+    "The room type in the hotel order should be a King Room"
+  ]
+}

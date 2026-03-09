@@ -1,0 +1,238 @@
+{
+  "task_id": "10711001",
+  "domain": "delivery",
+  "time": "2025-06-21 11:20:00",
+  "user_id": "U000001",
+  "weather": [
+    {
+      "city": "Kunming City",
+      "category": "rainy",
+      "datetime": "2025-06-21",
+      "temperature": [
+        17,
+        25
+      ],
+      "humidity": 84
+    }
+  ],
+  "location": [
+    {
+      "address": "Yunnan University Affiliated Hospital, 160 meters southeast of the intersection of Xinmin Lane and Pingzheng Street, Wuhua District, Kunming, Yunnan Province",
+      "longitude": 102.713518,
+      "latitude": 25.048244
+    }
+  ],
+  "user_profile": {
+    "user id": "U000001",
+    "occupation": "Doctor",
+    "gender": "male",
+    "age group": "35~40",
+    "residence": "Kunming",
+    "home address": "North Area of Fengning Community, No. 28 Fengning Road, Fengning Street, Wuhua District, Kunming, Yunnan Province",
+    "work address": "Yunnan University Affiliated Hospital, 160 meters southeast of the intersection of Xinmin Lane and Pingzheng Street, Wuhua District, Kunming, Yunnan Province",
+    "dietary restrictions": "Avoid high purine foods (such as organ meats/seafood soup), avoid fried foods",
+    "family status": "Has children",
+    "personality": "Impatient, frequently rushes things, lacks patience for waiting"
+  },
+  "user_historical_behaviors": {
+    "user id": "U000001",
+    "occupation": "Doctor",
+    "gender": "male",
+    "age group": "35~40",
+    "residence": "Kunming",
+    "home address": "North Area of Fengning Community, No. 28 Fengning Road, Fengning Street, Wuhua District, Kunming, Yunnan Province",
+    "work address": "Yunnan University Affiliated Hospital, 160 meters southeast of the intersection of Xinmin Lane and Pingzheng Street, Wuhua District, Kunming, Yunnan Province",
+    "breakfast": {
+      "frequently purchased categories": [
+        "Quick meals/Steamed buns/Pan-fried buns (average 15 yuan)",
+        "Quick meals/Light food (average 28 yuan)",
+        "Quick meals/Soy milk (average 8 yuan)"
+      ],
+      "cost per order": "15~35 yuan",
+      "preferred store rating": "4.3~4.8 stars",
+      "preferred delivery time": "15~25 minutes",
+      "preferred distance": "0~2500m",
+      "recent orders": [
+        {
+          "store": "Fresh Grain Breakfast",
+          "product": "Soy milk and steamed buns combo"
+        },
+        {
+          "store": "Maixuan Light Food",
+          "product": "Whole wheat sandwich set"
+        },
+        {
+          "store": "Pumpkin Porridge Shop",
+          "product": "Stomach-friendly porridge with soup dumplings"
+        }
+      ],
+      "search history": [
+        "Low-fat breakfast",
+        "Stomach-friendly porridge",
+        "Whole wheat bread",
+        "Porridge",
+        "Eight treasure porridge",
+        "Soy milk"
+      ]
+    },
+    "weekday lunch/dinner": {
+      "frequently purchased categories": [
+        "Quick meals/Healthy meals (average 20 yuan)",
+        "Chinese cuisine/Cantonese food (average 35 yuan)",
+        "Quick meals/Rice noodles (average 25 yuan)"
+      ],
+      "cost per order": "15~40 yuan",
+      "preferred store rating": "4.5~4.9 stars",
+      "preferred delivery time": "20~35 minutes",
+      "preferred distance": "0~3000m",
+      "recent orders": [
+        {
+          "store": "Cantonese Restaurant",
+          "product": "Steamed sea bass set meal"
+        },
+        {
+          "store": "Diet Meal Workshop",
+          "product": "Chicken breast vegetable salad"
+        },
+        {
+          "store": "Yiliang Special Pork Feet Rice Noodles (Kejin Road Store)",
+          "product": "Golden soup pork feet rice noodles"
+        }
+      ],
+      "search history": [
+        "Low-fat",
+        "Healthy meal",
+        "Steamed fish",
+        "Light diet",
+        "Cantonese cuisine",
+        "Chicken breast",
+        "Rice noodles"
+      ]
+    },
+    "weekend lunch/dinner": {
+      "frequently purchased categories": [
+        "Chinese cuisine/Cantonese food (average 120 yuan)",
+        "Foreign cuisine/Japanese bento/Sushi (average 85 yuan)",
+        "Chinese cuisine/Grilled fish (average 110 yuan)"
+      ],
+      "cost per order": "80~180 yuan",
+      "preferred store rating": "4.6~5.0 stars",
+      "preferred delivery time": "25~45 minutes",
+      "preferred distance": "0~5000m",
+      "recent orders": [
+        {
+          "store": "Pinweixuan Cantonese Restaurant",
+          "product": "Family set meal (White cut chicken + Garlic steamed shrimp + Choy sum)"
+        },
+        {
+          "store": "Sakura Sushi",
+          "product": "Salmon sashimi platter"
+        }
+      ],
+      "search history": [
+        "Family-friendly meal",
+        "Family set meal",
+        "Japanese cuisine",
+        "Kids meal",
+        "Sushi"
+      ]
+    },
+    "desserts/drinks/snacks": {
+      "frequently purchased categories": [
+        "Drinks and desserts/Coffee (average 28 yuan)",
+        "Drinks and desserts/Pure tea/Herbal tea (average 22 yuan)",
+        "Drinks and desserts/Fruit salad (average 32 yuan)"
+      ],
+      "cost per order": "20~40 yuan",
+      "preferred store rating": "4.4~4.9 stars",
+      "preferred delivery time": "15~30 minutes",
+      "preferred distance": "0~3000m",
+      "recent orders": [
+        {
+          "store": "Starbucks",
+          "product": "Americano"
+        },
+        {
+          "store": "HEYTEA",
+          "product": "Oolong tea"
+        },
+        {
+          "store": "Fresh Fruit More",
+          "product": "Mango pomelo sago"
+        }
+      ],
+      "search history": [
+        "Sugar-free coffee",
+        "Oolong tea",
+        "Fruit salad",
+        "Low-sugar drinks",
+        "Coffee"
+      ]
+    },
+    "night snack": {
+      "frequently purchased categories": [
+        "Quick meals/Small dishes (average 42 yuan)",
+        "Hot pot/Clay pot porridge (average 38 yuan)",
+        "Foreign cuisine/Pasta (average 35 yuan)"
+      ],
+      "cost per order": "30~50 yuan",
+      "preferred store rating": "4.2~4.8 stars",
+      "preferred delivery time": "20~40 minutes",
+      "preferred distance": "0~4000m",
+      "recent orders": [
+        {
+          "store": "Yang's Pasta House",
+          "product": "Tomato and egg pasta"
+        },
+        {
+          "store": "Porridge Fragrance House",
+          "product": "Century egg and lean pork porridge"
+        },
+        {
+          "store": "Small Dish Restaurant",
+          "product": "Cold shredded chicken + Wood ear mushroom"
+        }
+      ],
+      "search history": [
+        "Light night snack",
+        "Stomach-friendly porridge",
+        "Small dishes",
+        "Pasta",
+        "Non-spicy",
+        "Easily digestible"
+      ]
+    }
+  },
+  "stores": {
+    "S85277471199200385_S98778": {
+      "name": "Jintugo Bean Sprout Crossing Bridge Rice Noodles",
+      "store_id": "S85277471199200385_S98778",
+      "score": 5,
+      "location": {
+        "address": "No. 46 Yuanxi Road, Wuhua District, Kunming, Yunnan Province, Jintugo Bean Sprout Crossing Bridge Rice Noodle Restaurant",
+        "latitude": 25.055897,
+        "longitude": 102.70636
+      },
+      "tags": [
+        "Dine-in available",
+        "Quick service"
+      ],
+      "products": [
+        {
+          "name": "Free-range chicken crossing bridge rice noodles (clear soup)",
+          "store_id": "S85277471199200385_S98778",
+          "store_name": "Jintugo Bean Sprout Crossing Bridge Rice Noodles",
+          "price": 25,
+          "tags": [
+            "Easily digestible",
+            "Mild"
+          ],
+          "product_id": "S26110520013660896_P88296",
+          "attributes": [],
+          "quantity": 9999
+        }
+      ]
+    }
+  },
+  "orders": {}
+}

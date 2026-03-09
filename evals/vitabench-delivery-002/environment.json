@@ -1,0 +1,324 @@
+{
+  "task_id": "10711002",
+  "domain": "delivery",
+  "time": "2024-05-12 16:19:36",
+  "user_id": "U000001",
+  "weather": [
+    {
+      "city": "Kunming City",
+      "category": "showers",
+      "datetime": "2024-05-12",
+      "temperature": [
+        15,
+        21
+      ],
+      "humidity": 76
+    }
+  ],
+  "location": [
+    {
+      "address": "North Area of Fengning Residential Complex, No. 10 Fengning Road, Wuhua District, Kunming, Yunnan Province",
+      "longitude": 102.673321,
+      "latitude": 25.050946
+    }
+  ],
+  "user_profile": {
+    "user id": "U000001",
+    "occupation": "Doctor",
+    "gender": "male",
+    "age group": "35~40",
+    "residence": "Kunming",
+    "home address": "North Area of Fengning Residential Complex, No. 10 Fengning Road, Wuhua District, Kunming, Yunnan Province",
+    "work address": "Yunnan University Affiliated Hospital, Xinmin Lane, Huguo Street, Wuhua District, Kunming, Yunnan Province",
+    "dietary restrictions": "Avoid high purine foods (such as organ meats/seafood soups), avoid fried foods",
+    "family status": "Has children",
+    "personality": "Tends to be anxious and worried, needs repeated confirmation to feel at ease"
+  },
+  "user_historical_behaviors": {
+    "user id": "U000001",
+    "occupation": "Doctor",
+    "gender": "male",
+    "age group": "35~40",
+    "residence": "Kunming",
+    "home address": "North Area of Fengning Residential Complex, No. 10 Fengning Road, Wuhua Street, Wuhua District, Kunming, Yunnan Province",
+    "work address": "Yunnan University Affiliated Hospital, Xinmin Lane, Huguo Street, Wuhua District, Kunming, Yunnan Province",
+    "breakfast": {
+      "frequently purchased categories": [
+        "Quick meals/Steamed buns/Pan-fried buns (Average 15 yuan)",
+        "Quick meals/Light food (Average 28 yuan)",
+        "Quick meals/Soy milk (Average 8 yuan)"
+      ],
+      "cost per order": "15~35 yuan",
+      "preferred store rating": "4.3~4.8 stars",
+      "preferred delivery time": "15~25 minutes",
+      "preferred distance": "0~2500m",
+      "recent orders": [
+        {
+          "store": "Xian Liang Fang Breakfast",
+          "product": "Soy milk and steamed bun combo"
+        },
+        {
+          "store": "Mai Xuan Light Food",
+          "product": "Whole wheat sandwich combo"
+        },
+        {
+          "store": "Pumpkin Porridge Shop",
+          "product": "Stomach-friendly porridge with small steamed buns"
+        }
+      ],
+      "search history": [
+        "Low-fat breakfast",
+        "Stomach-friendly porridge",
+        "Whole wheat bread",
+        "Porridge",
+        "Eight treasure porridge",
+        "Soy milk"
+      ]
+    },
+    "weekday lunch/dinner": {
+      "frequently purchased categories": [
+        "Quick meals/Healthy meals (Average 20 yuan)",
+        "Chinese cuisine/Cantonese food (Average 35 yuan)",
+        "Quick meals/Rice noodles (Average 25 yuan)"
+      ],
+      "cost per order": "15~40 yuan",
+      "preferred store rating": "4.5~4.9 stars",
+      "preferred delivery time": "20~35 minutes",
+      "preferred distance": "0~3000m",
+      "recent orders": [
+        {
+          "store": "Yue Shan Fang",
+          "product": "Steamed sea bass meal set"
+        },
+        {
+          "store": "Slim Meal Workshop",
+          "product": "Chicken breast vegetable salad"
+        },
+        {
+          "store": "Yiliang Special Pork Hock Rice Noodles (Kejin Road Branch)",
+          "product": "Golden soup pork hock rice noodles"
+        }
+      ],
+      "search history": [
+        "Low fat",
+        "Healthy meals",
+        "Steamed fish",
+        "Mild flavor",
+        "Cantonese cuisine",
+        "Chicken breast",
+        "Rice noodles"
+      ]
+    },
+    "weekend lunch/dinner": {
+      "frequently purchased categories": [
+        "Chinese cuisine/Cantonese food (Average 120 yuan)",
+        "International cuisine/Japanese bento/Sushi (Average 85 yuan)",
+        "Chinese cuisine/Grilled fish (Average 110 yuan)"
+      ],
+      "cost per order": "80~180 yuan",
+      "preferred store rating": "4.6~5.0 stars",
+      "preferred delivery time": "25~45 minutes",
+      "preferred distance": "0~5000m",
+      "recent orders": [
+        {
+          "store": "Pin Wei Xuan Cantonese Restaurant",
+          "product": "Family set meal (White cut chicken + Garlic steamed shrimp + Vegetable hearts)"
+        },
+        {
+          "store": "Bashu Grilled Fish",
+          "product": "Mildly spicy lemon grilled fish"
+        }
+      ],
+      "search history": [
+        "Parent-child meals",
+        "Family set meals",
+        "Non-spicy grilled fish",
+        "Children's meals"
+      ]
+    },
+    "desserts/drinks/snacks": {
+      "frequently purchased categories": [
+        "Beverages/desserts/Coffee (Average 28 yuan)",
+        "Beverages/desserts/Pure tea/Herbal tea (Average 22 yuan)",
+        "Beverages/desserts/Fruit salad (Average 32 yuan)"
+      ],
+      "cost per order": "20~40 yuan",
+      "preferred store rating": "4.4~4.9 stars",
+      "preferred delivery time": "15~30 minutes",
+      "preferred distance": "0~3000m",
+      "recent orders": [
+        {
+          "store": "Starbucks",
+          "product": "Americano"
+        },
+        {
+          "store": "ChaYanYueSe",
+          "product": "Oolong tea"
+        },
+        {
+          "store": "Fresh Fruit More",
+          "product": "Mango Pomelo Sago"
+        }
+      ],
+      "search history": [
+        "Sugar-free coffee",
+        "Oolong tea",
+        "Fruit salad",
+        "Low-sugar beverages",
+        "Coffee"
+      ]
+    },
+    "night snack": {
+      "frequently purchased categories": [
+        "Quick meals/Small dishes (Average 42 yuan)",
+        "Hot pots/Clay pot porridge (Average 38 yuan)",
+        "International cuisine/Pasta (Average 35 yuan)"
+      ],
+      "cost per order": "30~50 yuan",
+      "preferred store rating": "4.2~4.8 stars",
+      "preferred delivery time": "20~40 minutes",
+      "preferred distance": "0~4000m",
+      "recent orders": [
+        {
+          "store": "Yang's Pasta House",
+          "product": "Tomato shrimp pasta"
+        },
+        {
+          "store": "Porridge Fragrance House",
+          "product": "Century egg and lean pork porridge"
+        },
+        {
+          "store": "Small Dish Restaurant",
+          "product": "Cold shredded chicken + Black fungus"
+        }
+      ],
+      "search history": [
+        "Mild flavor night snacks",
+        "Stomach-friendly porridge",
+        "Small dishes",
+        "Pasta",
+        "Non-spicy",
+        "Easy to digest"
+      ]
+    }
+  },
+  "stores": {
+    "S17432753848082089_S35082": {
+      "name": "Gangyu Seafood Restaurant (BBQ, Crayfish, High-tech Zone Branch)",
+      "store_id": "S17432753848082089_S35082",
+      "score": 4.6,
+      "location": {
+        "address": "Gangyu Seafood Restaurant, 100 meters northeast of the intersection of Kegao Road and Ketai Road, Wuhua District, Kunming, Yunnan Province",
+        "latitude": 25.067591,
+        "longitude": 102.665602
+      },
+      "tags": [
+        "Well Packaged",
+        "Fresh Ingredients"
+      ],
+      "products": [
+        {
+          "name": "Gangyu Special Offer🔥49 Yuan for 2 Jin (1kg) of 345 Crayfish (Guaranteed Fresh Live Crayfish) with Random Side Dishes",
+          "store_id": "S17432753848082089_S35082",
+          "store_name": "Gangyu Seafood Restaurant (BBQ, Crayfish, High-tech Zone Branch)",
+          "price": 49,
+          "tags": [
+            "For Two People"
+          ],
+          "product_id": "S33329865254216168_P09168",
+          "attributes": [
+            "Garlic Crayfish",
+            "Spicy Crayfish"
+          ],
+          "quantity": 9999
+        },
+        {
+          "name": "Signature Spicy Shrimp Tails (About 45 Pieces)",
+          "product_id": "S29678442097828950_P62554",
+          "store_id": "S17432753848082089_S35082",
+          "store_name": "Gangyu Seafood Restaurant (BBQ, Crayfish, High-tech Zone Branch)",
+          "price": 47,
+          "tags": [
+            "For Two People"
+          ],
+          "attributes": [],
+          "quantity": 9999
+        }
+      ]
+    },
+    "S20098167805480110_S46390": {
+      "name": "Spring City Crayfish Tail with Noodles or Rice",
+      "store_id": "S20098167805480110_S46390",
+      "score": 4.9,
+      "location": {
+        "address": "No. 12 Keye Road, Hongyuan Community, Fengning Street, Wuhua District, Kunming, Yunnan Province",
+        "latitude": 25.057496,
+        "longitude": 102.675168
+      },
+      "tags": [],
+      "products": [
+        {
+          "name": "89 Yuan for 5 Jin (2.5kg) Golden Soup Garlic Crayfish",
+          "product_id": "S12189346773281587_P83056",
+          "store_id": "S20098167805480110_S46390",
+          "store_name": "Spring City Crayfish Tail with Noodles or Rice",
+          "price": 94,
+          "tags": [
+            "Non-spicy"
+          ],
+          "attributes": [],
+          "quantity": 9999
+        }
+      ]
+    },
+    "S19764515618962251_S38867": {
+      "name": "Yuefengxiang Seafood Congee Pot (Rice Noodles, Hong Kong Dim Sum, Kunming Branch)",
+      "store_id": "S19764515618962251_S38867",
+      "score": 4.8,
+      "location": {
+        "address": "Yuefengxiang Seafood Congee Pot (Kunming Corridor Branch), F2 Floor, No. 17 Renmin Middle Road, Wuhua District, Kunming, Yunnan Province",
+        "latitude": 25.04098,
+        "longitude": 102.713495
+      },
+      "tags": [],
+      "products": [
+        {
+          "name": "Poached Prawns (Half Jin/250g)",
+          "product_id": "S23764557175526628_P68520",
+          "store_id": "S19764515618962251_S38867",
+          "store_name": "Yuefengxiang Seafood Congee Pot (Rice Noodles, Hong Kong Dim Sum, Kunming Branch)",
+          "price": 49,
+          "tags": [
+            "Mild Flavor"
+          ],
+          "attributes": [],
+          "quantity": 9999
+        }
+      ]
+    },
+    "S15169490240919056_S47133": {
+      "name": "Haili Jiali - Salmon, Raw Marinated Dishes and Seafood (Xishan District Branch)",
+      "store_id": "S15169490240919056_S47133",
+      "score": 4.9,
+      "location": {
+        "address": "Shop 2S-7, 1st Floor, Building 22-2, Phase 4-B, Shenggao City, Xishan District, Kunming, Yunnan Province",
+        "latitude": 25.012658,
+        "longitude": 102.703805
+      },
+      "tags": [],
+      "products": [
+        {
+          "name": "Signature Raw Marinated Shrimp Trio",
+          "product_id": "S27497425735161457_P61085",
+          "store_id": "S15169490240919056_S47133",
+          "store_name": "Haili Jiali - Salmon, Raw Marinated Dishes and Seafood (Xishan District Branch)",
+          "price": 58,
+          "tags": [],
+          "attributes": [],
+          "quantity": 9999
+        }
+      ]
+    }
+  },
+  "orders": {}
+}

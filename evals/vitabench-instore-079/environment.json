@@ -1,0 +1,223 @@
+{
+  "task_id": "10826076",
+  "domain": "instore",
+  "time": "2024-10-11 15:30:00",
+  "user_id": "U669983",
+  "weather": [
+    {
+      "city": "Jinan",
+      "category": "cloudy",
+      "datetime": "2024-10-11",
+      "temperature": [
+        18,
+        26
+      ],
+      "humidity": 55
+    },
+    {
+      "city": "Jinan",
+      "category": "sunny",
+      "datetime": "2024-10-12",
+      "temperature": [
+        17,
+        27
+      ],
+      "humidity": 45
+    }
+  ],
+  "location": [
+    {
+      "address": "Room 1803, Unit 1, Building 2, Lushang Olympic City, 14677 Jingshi Road, Lixia District, Jinan",
+      "longitude": 117.086615,
+      "latitude": 36.651216
+    },
+    {
+      "address": "12th Floor, Building 6, Shuntai Plaza, 2000 Shunhua Road, High-tech Zone, Jinan",
+      "longitude": 117.129178,
+      "latitude": 36.662345
+    },
+    {
+      "address": "Xiushentang Massage, 3rd Floor, Building A, Quancheng Plaza, 188 Quancheng Road, Lixia District, Jinan",
+      "longitude": 117.021456,
+      "latitude": 36.661234
+    },
+    {
+      "address": "Jinan Magic Association Training Center, 28 Shungeng Road, Lixia District, Jinan",
+      "longitude": 117.024567,
+      "latitude": 36.658912
+    }
+  ],
+  "user_profile": {
+    "user id": "U669983",
+    "occupation": "HR Manager",
+    "gender": "male",
+    "age group": "35~40",
+    "residence": "Jinan",
+    "home address": "Room 1803, Unit 1, Building 2, Lushang Olympic City, 14677 Jingshi Road, Lixia District, Jinan",
+    "work address": "12th Floor, Building 6, Shuntai Plaza, 2000 Shunhua Road, High-tech Zone, Jinan",
+    "dietary restrictions": "No alcohol, no high-fat internal organs",
+    "family status": "In a relationship",
+    "personality": "Mild-tempered with high cooperation, good at listening and understanding"
+  },
+  "user_historical_behaviors": {
+    "user id": "U669983",
+    "occupation": "HR Manager",
+    "gender": "male",
+    "age group": "35~40",
+    "residence": "Jinan",
+    "home address": "Room 1803, Unit 1, Building 2, Lushang Olympic City, 14677 Jingshi Road, Lixia District, Jinan",
+    "work address": "12th Floor, Building 6, Shuntai Plaza, 2000 Shunhua Road, High-tech Zone, Jinan",
+    "in-store dining": {
+      "fine-dining": {
+        "frequently purchased categories": [
+          "Local Cuisine/Seafood (Average ¥135)",
+          "Local Cuisine/Sichuan Food (Average ¥98)",
+          "International Cuisine/Western Food (Average ¥120)"
+        ],
+        "preferred average price per person": "¥90~150",
+        "preferred store rating": "4.0~4.8 stars",
+        "typical dining time": "18:30-20:30",
+        "preferred distance": "1000~5000m",
+        "recent orders": [
+          {
+            "store": "Dayu Haitang on Victory Road",
+            "product": "Signature Stone Pot Fish"
+          },
+          {
+            "store": "Yanyu Sichuan Restaurant on Shunhua Road",
+            "product": "Boiled Fish Set"
+          },
+          {
+            "store": "Italian Restaurant at Quancheng Plaza",
+            "product": "Steak Set Menu"
+          }
+        ],
+        "search history": [
+          "High-end Sichuan restaurants in Jinan",
+          "Business dinner restaurants",
+          "Alcohol-free menu"
+        ]
+      },
+      "light meal": {
+        "frequently purchased categories": [
+          "Fast Food/Chinese Quick Meals (Average ¥35)",
+          "Fast Food/Western Quick Meals (Average ¥45)",
+          "Local Cuisine/Northeastern Food (Average ¥40)"
+        ],
+        "preferred average price per person": "¥30~50",
+        "preferred store rating": "3.5~4.3 stars",
+        "typical dining time": "11:30-13:00",
+        "preferred distance": "0~800m",
+        "recent orders": [
+          {
+            "store": "Shuntai Plaza Cafeteria",
+            "product": "Low-fat Chicken Breast Meal"
+          },
+          {
+            "store": "Lushang Olympic City Salad & Light Food",
+            "product": "Quinoa Chicken Breast Salad"
+          },
+          {
+            "store": "Northeastern Restaurant next to Hualian Supermarket",
+            "product": "Sweet and Sour Pork Rice Bowl"
+          }
+        ],
+        "search history": [
+          "Lunch near Shuntai Plaza",
+          "Healthy low-fat meals",
+          "Quick lunch"
+        ]
+      },
+      "desserts/drinks/snacks": {
+        "frequently purchased categories": [
+          "Beverage Shops (Average ¥20)",
+          "Bakery and Desserts (Average ¥28)"
+        ],
+        "preferred average price per person": "¥15~30",
+        "preferred store rating": "3.8~4.5 stars",
+        "typical dining time": "15:00-16:30",
+        "preferred distance": "0~500m",
+        "recent orders": [
+          {
+            "store": "Starbucks at Shuntai Plaza",
+            "product": "Americano (Sugar-free)"
+          },
+          {
+            "store": "85°C at Lushang Olympic City",
+            "product": "Whole Wheat Bread"
+          },
+          {
+            "store": "Gong Cha in Lixia District",
+            "product": "Oolong Tea (No Ice)"
+          }
+        ],
+        "search history": [
+          "Low-sugar beverages",
+          "Healthy tea drinks",
+          "Lactose-free desserts"
+        ]
+      }
+    },
+    "other in-store services": {
+      "frequently consumed categories": {
+        "Sports & Fitness/Fitness Centers": "45%",
+        "Sports & Fitness/Ball Sports": "35%",
+        "Leisure & Entertainment/Massage/Foot Therapy": "20%"
+      },
+      "cost per order by category": {
+        "Sports & Fitness/Fitness Centers": "¥80~200",
+        "Sports & Fitness/Ball Sports": "¥60~120",
+        "Leisure & Entertainment/Massage/Foot Therapy": "¥150~280"
+      },
+      "preferred store rating": "4.0~4.8 stars",
+      "preferred service time": "19:00-21:00",
+      "preferred distance": "0~3000m",
+      "recent orders": [
+        {
+          "store": "Super Gorilla Fitness at Shuntai Plaza",
+          "product": "Single Training Session"
+        },
+        {
+          "store": "Quancheng Badminton Court in Lixia District",
+          "product": "2-hour Court for Two"
+        },
+        {
+          "store": "Xiushentang at Lushang Olympic City",
+          "product": "Shoulder and neck massage 60 minutes"
+        }
+      ],
+      "search history": [
+        "Personal trainer",
+        "Badminton court reservation",
+        "Shoulder and neck massage",
+        "Monthly gym membership in Jinan"
+      ]
+    }
+  },
+  "stores": {},
+  "orders": {
+    "10826076T003": {
+      "order_id": "10826076T003",
+      "order_type": "instore",
+      "user_id": "U669983",
+      "store_id": "S17567836604989753_I00002",
+      "note": "",
+      "location": null,
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 158,
+      "order_time": "2024-10-04 14:22:15",
+      "update_time": "2024-10-04 14:22:15",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17567836604989753_P00013",
+          "name": "Foot therapy wellness package 90 minutes",
+          "price": 158,
+          "quantity": 1
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,759 @@
+{
+  "task_id": "10808012",
+  "domain": "cross_domain",
+  "time": "2025-01-25 16:10:00",
+  "user_id": "U421256",
+  "weather": [
+    {
+      "city": "Harbin",
+      "category": "sunny",
+      "datetime": "2025-01-25",
+      "temperature": [
+        -20,
+        -10
+      ],
+      "humidity": 45
+    },
+    {
+      "city": "Haikou",
+      "category": "cloudy",
+      "datetime": "2025-01-25",
+      "temperature": [
+        18,
+        25
+      ],
+      "humidity": 75
+    }
+  ],
+  "location": [
+    {
+      "address": "Room 502, Unit 2, Building 3, Kangda Community, No. 74 Xuefu Road, Nangang District, Harbin",
+      "longitude": 126.629372,
+      "latitude": 45.720357
+    }
+  ],
+  "user_profile": {
+    "user id": "U421256",
+    "occupation": "Driver",
+    "gender": "male",
+    "age group": "35~40",
+    "residence": "Harbin",
+    "Permanent address": "Room 502, Unit 2, Building 3, Kangda Community, No. 74 Xuefu Road, Nangang District, Harbin",
+    "work address": "Harbin Passenger Station, No. 26 Jingwei Street, Daoli District, Harbin",
+    "dietary restrictions": "No alcohol, no high purine foods (such as organ meats/seafood soup)",
+    "family status": "Living with elderly",
+    "personality": "Tends to be controlling, not easily accepting of different opinions"
+  },
+  "user_historical_behaviors": {
+    "user id": "U421256",
+    "occupation": "Driver",
+    "gender": "male",
+    "age group": "35~40",
+    "residence": "Harbin",
+    "Permanent address": "Room 502, Unit 2, Building 3, Kangda Community, No. 74 Xuefu Road, Nangang District, Harbin",
+    "work address": "Harbin Passenger Station, No. 26 Jingwei Street, Daoli District, Harbin",
+    "delivery": {
+      "food delivery": {
+        "breakfast": {
+          "frequently purchased categories": [
+            "Quick meals/Steamed buns/Pan-fried buns (Average 15 yuan)",
+            "Quick meals/Fried dough sticks (Average 8 yuan)",
+            "Quick meals/Jianbing/Wraps/Hand-grabbed pancakes (Average 12 yuan)"
+          ],
+          "cost per order": "8~25 yuan",
+          "preferred store rating": "4.2~4.8 points",
+          "preferred delivery time": "15~25 minutes",
+          "preferred distance": "0~2500m",
+          "recent orders": [
+            {
+              "store": "Northeast Traditional Steamed Bun Shop",
+              "product": "Pork bun + Soy milk"
+            },
+            {
+              "store": "Old Wang's Jianbing",
+              "product": "Original Jianbing"
+            },
+            {
+              "store": "Breakfast Quick Meal Shop",
+              "product": "Fried dough stick + Tofu pudding"
+            }
+          ],
+          "search history": [
+            "Steamed buns",
+            "Soy milk",
+            "Jianbing",
+            "Breakfast",
+            "Tofu pudding"
+          ]
+        },
+        "weekday lunch/dinner": {
+          "frequently purchased categories": [
+            "Quick meals/Rice with toppings (Average 22 yuan)",
+            "Quick meals/Northeastern cuisine (Average 35 yuan)",
+            "Chinese cuisine/Northeastern cuisine (Average 45 yuan)"
+          ],
+          "cost per order": "20~50 yuan",
+          "preferred store rating": "4.0~4.5 points",
+          "preferred delivery time": "20~35 minutes",
+          "preferred distance": "0~3000m",
+          "recent orders": [
+            {
+              "store": "Northeast Home-style Cuisine",
+              "product": "Sweet and sour pork + Rice"
+            },
+            {
+              "store": "Old Ha's Quick Meal",
+              "product": "Braised pork ribs with rice"
+            },
+            {
+              "store": "Sichuan-Hunan Stir-fry",
+              "product": "Twice-cooked pork set meal"
+            }
+          ],
+          "search history": [
+            "Rice with toppings",
+            "Fast food",
+            "Northeastern cuisine",
+            "Pork rib rice",
+            "Light meal"
+          ]
+        },
+        "weekend lunch/dinner": {
+          "frequently purchased categories": [
+            "Chinese cuisine/Northeastern cuisine (Average 85 yuan per person)",
+            "Hot pot/Old Beijing hot pot (Average 120 yuan)",
+            "Chinese cuisine/Grilled fish (Average 95 yuan)"
+          ],
+          "cost per order": "60~150 yuan",
+          "preferred store rating": "4.5~4.8 points",
+          "preferred delivery time": "30~45 minutes",
+          "preferred distance": "0~5000m",
+          "recent orders": [
+            {
+              "store": "Old Northeast Iron Pot Stew",
+              "product": "Pork belly with sauerkraut stew + Pork and cabbage dumplings"
+            },
+            {
+              "store": "Beijing Hot Pot",
+              "product": "Beef hot pot set meal (Alcohol-free)"
+            },
+            {
+              "store": "Sichuan Grilled Fish",
+              "product": "Spicy grilled fish set meal"
+            }
+          ],
+          "search history": [
+            "Northeastern cuisine",
+            "Stewed dishes",
+            "Hot pot set meal",
+            "Grilled fish",
+            "Iron pot stew"
+          ]
+        },
+        "desserts/drinks/snacks": {
+          "frequently purchased categories": [
+            "Drinks and desserts/Juice (Average 18 yuan)",
+            "Drinks and desserts/Chinese pastries (Average 22 yuan)",
+            "Drinks and desserts/Cold desserts (Average 25 yuan)"
+          ],
+          "cost per order": "15~35 yuan",
+          "preferred store rating": "4.3~4.7 points",
+          "preferred delivery time": "15~30 minutes",
+          "preferred distance": "0~2500m",
+          "recent orders": [
+            {
+              "store": "Fresh Juice Shop",
+              "product": "Fresh orange juice"
+            },
+            {
+              "store": "Ice Snow Desserts",
+              "product": "Red bean double-skin milk pudding"
+            },
+            {
+              "store": "Old Beijing Pastries",
+              "product": "Donkey rolling + Red bean bun"
+            }
+          ],
+          "search history": [
+            "Juice",
+            "Ice cream",
+            "Traditional pastries",
+            "Desserts"
+          ]
+        },
+        "night snack": {
+          "frequently purchased categories": [
+            "Quick meals/Dumplings/Wonton (Average 30 yuan)",
+            "Snacks/Braised food (Average 35 yuan)",
+            "Quick meals/Clay pot dishes (Average 40 yuan)"
+          ],
+          "cost per order": "25~50 yuan",
+          "preferred store rating": "4.0~4.6 points",
+          "preferred delivery time": "20~40 minutes",
+          "preferred distance": "0~3000m",
+          "recent orders": [
+            {
+              "store": "Northeast Dumpling House",
+              "product": "Three-delicacies dumplings"
+            },
+            {
+              "store": "Old Street Braised Food",
+              "product": "Braised platter (Chicken feet + Eggs + Dried tofu)"
+            },
+            {
+              "store": "Clay Pot Rice Noodles",
+              "product": "Beef clay pot rice noodles"
+            }
+          ],
+          "search history": [
+            "Dumplings",
+            "Braised food",
+            "Clay pot",
+            "Night snack",
+            "Rice noodles"
+          ]
+        }
+      },
+      "product delivery": {
+        "frequently purchased categories": [
+          "Vegetables/Bean products(28%)",
+          "Raw meat/Poultry/Eggs(22%)",
+          "Grains/Oil/Seasonings/Dried goods(15%)",
+          "Fruits(12%)",
+          "Dairy/Ice cream(10%)",
+          "Household items(8%)",
+          "Others(5%)"
+        ],
+        "frequently visited stores": [
+          "Harbin Yonghui Supermarket (Nangang Store)(35%)",
+          "CR Vanguard (Passenger Station Store)(25%)",
+          "Convenience Bee (Xuefu Road Store)(20%)",
+          "Elephant Fresh Supermarket(15%)",
+          "Other stores(5%)"
+        ],
+        "cost per order by category": {
+          "Vegetables/Bean products": "5~25 yuan",
+          "Raw meat/Poultry/Eggs": "20~60 yuan",
+          "Grains/Oil/Seasonings/Dried goods": "10~40 yuan",
+          "Fruits": "10~50 yuan",
+          "Dairy/Ice cream": "15~45 yuan",
+          "Household items": "10~80 yuan"
+        },
+        "preferred delivery time": "30~60 minutes",
+        "typical order time": "18~20:00(42%), 10~12:00(25%), 16~18:00(18%)",
+        "recent orders": [
+          {
+            "store": "Harbin Yonghui Supermarket (Nangang Store)",
+            "product": "Northeast Chinese cabbage, pork tenderloin, Wuchang rice"
+          },
+          {
+            "store": "CR Vanguard (Passenger Station Store)",
+            "product": "Low-sugar milk, eggs, carrots"
+          },
+          {
+            "store": "Convenience Bee (Xuefu Road Store)",
+            "product": "Kitchen paper towels, hand soap"
+          }
+        ],
+        "search history": [
+          "Wuchang rice",
+          "Low-sugar milk",
+          "Eggs",
+          "Fresh vegetables",
+          "High-calcium milk",
+          "Sugar-free food"
+        ]
+      }
+    },
+    "in-store consumption": {
+      "in-store dining": {
+        "fine-dining": {
+          "frequently purchased categories": [
+            "Regional cuisine/Northeastern cuisine (Average 120 yuan)",
+            "Regional cuisine/Fish specialties (Average 135 yuan)",
+            "Hot pot (Average 95 yuan)"
+          ],
+          "preferred average price per person": "90~140 yuan",
+          "preferred store rating": "4.0~4.7 stars",
+          "typical dining time": "18:30-20:30",
+          "preferred distance": "500~3000m",
+          "recent orders": [
+            {
+              "store": "Old Northeast Restaurant",
+              "product": "Sweet and sour pork + Northeast hodgepodge stew + Pork with sauerkraut and vermicelli stew"
+            },
+            {
+              "store": "Fish Blessing",
+              "product": "Songhua River fish hot pot + Sauerkraut fish"
+            },
+            {
+              "store": "Banu Tripe Hot Pot",
+              "product": "Half-and-half pot base + Tripe + Shrimp paste + Duck blood"
+            }
+          ],
+          "search history": [
+            "Northeastern cuisine",
+            "Alcohol-free hot pot",
+            "Home-style dishes",
+            "Restaurants suitable for elderly"
+          ]
+        },
+        "light meal": {
+          "frequently purchased categories": [
+            "Snacks/Chinese light meals (Average 35 yuan)",
+            "Snacks/Western fast food (Average 30 yuan)",
+            "Regional cuisine/Northeastern cuisine (Average 45 yuan)"
+          ],
+          "preferred average price per person": "25~50 yuan",
+          "preferred store rating": "3.5~4.3 stars",
+          "typical dining time": "11:30-13:00",
+          "preferred distance": "0~1500m",
+          "recent orders": [
+            {
+              "store": "Sha County Snacks",
+              "product": "Three-delicacies fried noodles + Steamed dumplings"
+            },
+            {
+              "store": "Northeast Dumpling King",
+              "product": "Three-delicacies water dumplings + Side dish"
+            },
+            {
+              "store": "KFC",
+              "product": "Original chicken meal"
+            }
+          ],
+          "search history": [
+            "Fast food",
+            "Dumplings",
+            "Cheap lunch",
+            "Quick and convenient"
+          ]
+        },
+        "desserts/drinks/snacks": {
+          "frequently purchased categories": [
+            "Beverage shops (Average 18 yuan)",
+            "Bread and desserts (Average 25 yuan)",
+            "Other dining/Fruits (Average 15 yuan)"
+          ],
+          "preferred average price per person": "15~30 yuan",
+          "preferred store rating": "3.8~4.5 stars",
+          "typical dining time": "15:00-16:30",
+          "preferred distance": "0~800m",
+          "recent orders": [
+            {
+              "store": "Yidiandian Milk Tea",
+              "product": "Four Seasons Spring Green Tea (Sugar-free)"
+            },
+            {
+              "store": "Honeymoon Desserts",
+              "product": "Mango pudding"
+            },
+            {
+              "store": "Fresh Fruit Station",
+              "product": "Fruit platter"
+            }
+          ],
+          "search history": [
+            "Sugar-free beverages",
+            "Fruit shops",
+            "Healthy desserts"
+          ]
+        }
+      },
+      "other in-store services": {
+        "frequently consumed categories": {
+          "Sports/Ball sports": "45%",
+          "Leisure/Massage/Foot therapy": "35%",
+          "Beauty services/Haircuts": "20%"
+        },
+        "cost per order by category": {
+          "Sports/Ball sports": "40~80 yuan",
+          "Leisure/Massage/Foot therapy": "120~200 yuan",
+          "Beauty services/Haircuts": "60~100 yuan"
+        },
+        "preferred store rating": "3.9~4.6 stars",
+        "preferred service time": "19:00-21:00",
+        "preferred distance": "0~3000m",
+        "recent orders": [
+          {
+            "store": "Harbin Sports Center",
+            "product": "Badminton court 2 hours"
+          },
+          {
+            "store": "Foot Blessing Hall",
+            "product": "Full body massage + Foot therapy package"
+          },
+          {
+            "store": "Oriental Barbershop",
+            "product": "Men's haircut"
+          }
+        ],
+        "search history": [
+          "Badminton court",
+          "Inexpensive barbershop",
+          "Massage for elderly",
+          "Lumbar massage"
+        ]
+      }
+    },
+    "OTA": {
+      "visited scenes": {
+        "Natural landscapes (Mountains/Lakes/Forests)": "35%",
+        "Parks": "25%",
+        "Cultural relics": "20%",
+        "Exhibition halls (Museums/Art galleries)": "15%",
+        "Feature villages/Industrial tourism/Uncategorized": "5%"
+      },
+      "cost per night on hotel": "300~500 yuan",
+      "visited hotels": {
+        "Home Inn": "30%",
+        "Hanting": "25%",
+        "7 Days": "20%",
+        "GreenTree": "15%",
+        "Jinjiang Inn": "10%"
+      },
+      "browsed hotels": {
+        "Three-star hotels": "40%",
+        "Economy hotels": "35%",
+        "Comfort hotels": "25%"
+      },
+      "historical travel plans": {
+        "Harbin-Changchun": {
+          "Price range": "150-250 yuan",
+          "Transportation mode": "Long-distance bus"
+        },
+        "Harbin-Shenyang": {
+          "Price range": "200-350 yuan",
+          "Transportation mode": "High-speed rail"
+        },
+        "Harbin-Beijing": {
+          "Price range": "500-800 yuan",
+          "Transportation mode": "High-speed rail"
+        },
+        "Harbin-Dalian": {
+          "Price range": "400-600 yuan",
+          "Transportation mode": "Regular train"
+        },
+        "Harbin-Mudanjiang": {
+          "Price range": "100-200 yuan",
+          "Transportation mode": "Self-driving"
+        }
+      }
+    }
+  },
+  "stores": {
+    "S17550802131504747_S00001": {
+      "name": "Warm Winter Boutique",
+      "store_id": "S17550802131504747_S00001",
+      "score": 4.7,
+      "location": {
+        "address": "Warm Winter Boutique, No. 100 Xuefu Road, Nangang District, Harbin",
+        "latitude": 45.721256,
+        "longitude": 126.628975
+      },
+      "tags": [
+        "Winter clothing",
+        "Knitted hat",
+        "Warming products"
+      ],
+      "store_type": "target",
+      "products": [
+        {
+          "name": "Thick windproof knitted hat",
+          "store_id": "S17550802131504747_S00001",
+          "store_name": "Warm Winter Boutique",
+          "price": 49.9,
+          "tags": [
+            "Windproof",
+            "Thickened",
+            "Warmth",
+            "Suitable for the elderly",
+            "Ear protection"
+          ],
+          "product_id": "S17550802131504747_P00001",
+          "attributes": [
+            "Black",
+            "Gray",
+            "Navy blue"
+          ],
+          "product_type": "target"
+        },
+        {
+          "name": "Rechargeable hand warmer",
+          "store_id": "S17550802131504747_S00001",
+          "store_name": "Warm Winter Boutique",
+          "price": 59.9,
+          "tags": [
+            "Quick heating",
+            "Long-lasting insulation",
+            "Safe",
+            "Double-sided heating",
+            "Portable"
+          ],
+          "product_id": "S17550802131504747_P00002",
+          "attributes": [
+            "Silver",
+            "Pink",
+            "Navy blue"
+          ],
+          "product_type": "target"
+        },
+        {
+          "name": "Disposable heat patch",
+          "store_id": "S17550802131504747_S00001",
+          "store_name": "Warm Winter Boutique",
+          "price": 25.9,
+          "tags": [
+            "Disposable",
+            "Body-hugging",
+            "Pack of 10",
+            "8-hour continuous heating"
+          ],
+          "product_id": "S17550802131504747_P00004",
+          "attributes": [],
+          "product_type": "distraction"
+        },
+        {
+          "name": "Cold protection thermal set",
+          "store_id": "S17550802131504747_S00001",
+          "store_name": "Warm Winter Boutique",
+          "price": 199.9,
+          "tags": [
+            "Complete set",
+            "Cold protection",
+            "Thickened",
+            "Warmth",
+            "Including hat, gloves and scarf"
+          ],
+          "product_id": "S17550802131504747_P00005",
+          "attributes": [
+            "Black",
+            "Navy blue"
+          ],
+          "product_type": "distraction"
+        }
+      ]
+    },
+    "S17550802131504747_S00003": {
+      "name": "Northern Cold Protection Specialty Store",
+      "store_id": "S17550802131504747_S00003",
+      "score": 4.3,
+      "location": {
+        "address": "Northern Cold Protection Specialty Store, No. 150 Xuefu Road, Nangang District, Harbin",
+        "latitude": 45.893256,
+        "longitude": 126.630125
+      },
+      "tags": [
+        "Down jacket",
+        "Gloves",
+        "Scarf"
+      ],
+      "store_type": "distraction",
+      "products": [
+        {
+          "name": "Thick thermal wool knitted hat",
+          "store_id": "S17550802131504747_S00003",
+          "store_name": "Northern Cold Protection Specialty Store",
+          "price": 89.9,
+          "tags": [
+            "Knitted hat",
+            "Warmth",
+            "Windproof",
+            "Thickened",
+            "Winter essentials"
+          ],
+          "product_id": "S17550802131504747_P00011",
+          "attributes": [
+            "Black",
+            "Gray",
+            "Navy blue"
+          ],
+          "product_type": "target"
+        },
+        {
+          "name": "Lightweight knitted hat",
+          "store_id": "S17550802131504747_S00003",
+          "store_name": "Northern Cold Protection Specialty Store",
+          "price": 49.9,
+          "tags": [
+            "Knitted hat",
+            "Lightweight",
+            "Fashionable",
+            "Warmth"
+          ],
+          "product_id": "S17550802131504747_P00012",
+          "attributes": [
+            "Black",
+            "Gray",
+            "Beige"
+          ],
+          "product_type": "distraction"
+        },
+        {
+          "name": "Rechargeable hand warmer",
+          "store_id": "S17550802131504747_S00003",
+          "store_name": "Northern Cold Protection Specialty Store",
+          "price": 129.9,
+          "tags": [
+            "Hand warmer",
+            "Rechargeable",
+            "Double-sided heating",
+            "Three-level temperature control",
+            "Long-lasting warmth"
+          ],
+          "product_id": "S17550802131504747_P00013",
+          "attributes": [
+            "Silver",
+            "Pink",
+            "5000mAh",
+            "10000mAh"
+          ],
+          "product_type": "target"
+        },
+        {
+          "name": "Disposable heat patches (Pack of 10)",
+          "store_id": "S17550802131504747_S00003",
+          "store_name": "Northern Cold Protection Specialty Store",
+          "price": 29.9,
+          "tags": [
+            "Heat pack",
+            "Disposable",
+            "Body-hugging",
+            "Continuous heating"
+          ],
+          "product_id": "S17550802131504747_P00014",
+          "attributes": [
+            "Back patch",
+            "Abdomen patch",
+            "Neck patch"
+          ],
+          "product_type": "distraction"
+        },
+        {
+          "name": "Northeast thick wool gloves",
+          "store_id": "S17550802131504747_S00003",
+          "store_name": "Northern Cold Protection Specialty Store",
+          "price": 75.5,
+          "tags": [
+            "Gloves",
+            "Wool",
+            "Thickened",
+            "Windproof",
+            "Warmth"
+          ],
+          "product_id": "S17550802131504747_P00015",
+          "attributes": [
+            "Black",
+            "Gray",
+            "Coffee"
+          ],
+          "product_type": "distraction"
+        }
+      ]
+    },
+    "S17550802131504747_S00004": {
+      "name": "Warm Heart Pharmacy",
+      "store_id": "S17550802131504747_S00004",
+      "score": 4.6,
+      "location": {
+        "address": "Warm Heart Pharmacy, No. 80 Xuefu Road, Nangang District, Harbin",
+        "latitude": 45.720896,
+        "longitude": 126.628452
+      },
+      "tags": [
+        "Medicines",
+        "Health supplements",
+        "Medical devices"
+      ],
+      "store_type": "distraction",
+      "products": [
+        {
+          "name": "Recovery nutrition liquid",
+          "store_id": "S17550802131504747_S00004",
+          "store_name": "Warm Heart Pharmacy",
+          "price": 58.9,
+          "tags": [
+            "Post-operative care",
+            "Easy to digest",
+            "Nutritional supplement",
+            "Alcohol-free"
+          ],
+          "product_id": "S17550802131504747_P00016",
+          "attributes": [],
+          "product_type": "distraction"
+        },
+        {
+          "name": "Medical heat patches (Pack of 10)",
+          "store_id": "S17550802131504747_S00004",
+          "store_name": "Warm Heart Pharmacy",
+          "price": 29.9,
+          "tags": [
+            "Warmth",
+            "Disposable",
+            "8-hour continuous heating",
+            "Medical grade"
+          ],
+          "product_id": "S17550802131504747_P00017",
+          "attributes": [],
+          "product_type": "distraction"
+        },
+        {
+          "name": "Elderly windproof thermal ear-protecting mask",
+          "store_id": "S17550802131504747_S00004",
+          "store_name": "Warm Heart Pharmacy",
+          "price": 39.8,
+          "tags": [
+            "For elderly use",
+            "Warmth",
+            "Windproof",
+            "Soft and comfortable"
+          ],
+          "product_id": "S17550802131504747_P00018",
+          "attributes": [
+            "Gray",
+            "Black"
+          ],
+          "product_type": "distraction"
+        },
+        {
+          "name": "Post-operative high-protein nutrition powder (Pack of 10)",
+          "store_id": "S17550802131504747_S00004",
+          "store_name": "Warm Heart Pharmacy",
+          "price": 128,
+          "tags": [
+            "Post-operative recovery",
+            "High protein",
+            "Easy to digest",
+            "Purine-free",
+            "Alcohol-free"
+          ],
+          "product_id": "S17550802131504747_P00019",
+          "attributes": [
+            "Original flavor",
+            "Vanilla flavor"
+          ],
+          "product_type": "distraction"
+        },
+        {
+          "name": "Medical thin windproof cap",
+          "store_id": "S17550802131504747_S00004",
+          "store_name": "Warm Heart Pharmacy",
+          "price": 35.5,
+          "tags": [
+            "Medical grade",
+            "Windproof",
+            "Lightweight",
+            "Breathable"
+          ],
+          "product_id": "S17550802131504747_P00020",
+          "attributes": [
+            "Blue",
+            "White"
+          ],
+          "product_type": "distraction"
+        }
+      ]
+    }
+  },
+  "orders": {}
+}

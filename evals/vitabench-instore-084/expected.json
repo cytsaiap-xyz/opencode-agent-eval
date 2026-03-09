@@ -1,0 +1,71 @@
+{
+  "required_orders": [
+    {
+      "order_id": "10826283T001",
+      "order_type": "instore",
+      "user_id": "U160318",
+      "store_id": "S17567843444802542_I00001",
+      "note": "",
+      "location": null,
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 1680,
+      "create_time": "2024-06-18 22:35:41",
+      "update_time": "2024-06-18 22:35:41",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17567843444802542_P00001",
+          "name": "[Birthday Celebration] Exquisite French Package for 6",
+          "price": 1680,
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "book_id": "10826283T002",
+      "shop_id": "S17567843444802542_I00001",
+      "book_time": "2024-06-24 12:00:00",
+      "update_time": "2024-06-18 22:37:49",
+      "customer_id": "U160318",
+      "customer_count": 6,
+      "book_price": 50,
+      "status": "paid"
+    },
+    {
+      "order_id": "10826283T003",
+      "order_type": "instore",
+      "user_id": "U160318",
+      "store_id": "S17567843444802542_I00002",
+      "note": "",
+      "location": null,
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 320,
+      "create_time": "2024-06-18 22:39:19",
+      "update_time": "2024-06-18 22:39:19",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17567843444802542_P00010",
+          "name": "Deluxe Billiards Private Room 4-Hour Package",
+          "price": 320,
+          "quantity": 1
+        }
+      ]
+    }
+  ],
+  "rubrics": [
+    "Query user's historical behavior, the French restaurant that the user frequently visits is Chuli Fusion French Restaurant (Wangjing Jinhui Branch), which offers birthday special packages for six people, therefore the restaurant order should be placed at Chuli Fusion French Restaurant (Wangjing Jinhui Branch)",
+    "The ordered item at Chuli Fusion French Restaurant (Wangjing Jinhui Branch) should be a birthday special package",
+    "The ordered item at Chuli Fusion French Restaurant (Wangjing Jinhui Branch) should be suitable for 6 people",
+    "The reserved restaurant should be Chuli Fusion French Restaurant (Wangjing Jinhui Branch)",
+    "Restaurant reservation time should be 2024-06-24 12:00:00",
+    "Restaurant reservation should be for 6 people",
+    "The ordered billiards club should be within 1km (inclusive) of Chuli Fusion French Restaurant, B1 Floor, Jinhui Building, Wangjing, Chaoyang District, Beijing",
+    "The rating of the ordered billiards club should be greater than or equal to 4.5",
+    "The ordered package at the billiards club should be a 4-Hour package"
+  ]
+}

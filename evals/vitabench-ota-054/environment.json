@@ -1,0 +1,120 @@
+{
+  "task_id": "D0807010",
+  "domain": "ota",
+  "time": "2023-06-09 16:49:17",
+  "user_id": "U010063",
+  "weather": [
+    {
+      "city": "Guiyang",
+      "category": "showers",
+      "datetime": "2023-06-23",
+      "temperature": [
+        18,
+        28
+      ],
+      "humidity": 78
+    },
+    {
+      "city": "Anshun",
+      "category": "sunny",
+      "datetime": "2023-06-23",
+      "temperature": [
+        16,
+        26
+      ],
+      "humidity": 70
+    },
+    {
+      "city": "Beijing",
+      "category": "cloudy",
+      "datetime": "2023-06-22",
+      "temperature": [
+        22,
+        32
+      ],
+      "humidity": 55
+    }
+  ],
+  "location": [
+    {
+      "address": "Room 1203, Unit 2, Building A, Financial Center, 156 Beijing Road, Yunyan District, Guiyang, Guizhou Province",
+      "longitude": 106.713478,
+      "latitude": 26.578343
+    },
+    {
+      "address": "15th Floor, Guiyang International Enterprise Center, 226 Jinyang North Road, Guanshanhu District, Guiyang, Guizhou Province",
+      "longitude": 106.625039,
+      "latitude": 26.641748
+    }
+  ],
+  "user_profile": {
+    "user id": "U010063",
+    "occupation": "HR Manager",
+    "gender": "female",
+    "age group": "35~40",
+    "residence": "Guiyang",
+    "home address": "Room 1203, Unit 2, Building A, Financial Center, 156 Beijing Road, Yunyan District, Guiyang, Guizhou Province",
+    "work address": "15th Floor, Guiyang International Enterprise Center, 226 Jinyang North Road, Guanshanhu District, Guiyang, Guizhou Province",
+    "dietary restrictions": "Avoids high sugar, avoids caffeine",
+    "family status": "In a relationship",
+    "personality": "Extremely detail-oriented, tends to be picky and easily dissatisfied"
+  },
+  "user_historical_behaviors": {
+    "user id": "U010063",
+    "occupation": "HR Manager",
+    "gender": "female",
+    "age group": "35~40",
+    "residence": "Guiyang",
+    "home address": "Room 1203, Unit 2, Building A, Financial Center, 156 Beijing Road, Yunyan District, Guiyang, Guizhou Province",
+    "work address": "15th Floor, Guiyang International Enterprise Center, 226 Jinyang North Road, Guanshanhu District, Guiyang, Guizhou Province",
+    "visited scenes": {
+      "Cultural & Historical Sites": "25%",
+      "Exhibition Halls (Museums/Art Galleries)": "22%",
+      "Natural Landscapes (Mountains/Lakes/Forests)": "28%",
+      "Hot Spring Scenic Areas": "15%",
+      "Parks": "10%"
+    },
+    "cost per night on hotel": "500~1000 yuan",
+    "visited hotels": {
+      "Atour": "35%",
+      "Vienna": "28%",
+      "Ji Hotel": "20%",
+      "Marriott": "12%",
+      "Huazhu": "5%"
+    },
+    "browsed hotels": {
+      "Four-star Hotels": "38%",
+      "Comfort Hotels": "42%",
+      "Three-star Hotels": "15%",
+      "Luxury Hotels": "5%"
+    },
+    "historical travel plans": {
+      "Guiyang-Shanghai": {
+        "Price Range": "800-1200 yuan",
+        "Transportation Mode": "Airplane"
+      },
+      "Guiyang-Beijing": {
+        "Price Range": "1000-1500 yuan",
+        "Transportation Mode": "Airplane"
+      },
+      "Guiyang-Chengdu": {
+        "Price Range": "200-350 yuan",
+        "Transportation Mode": "High-speed rail/EMU (Electric Multiple Unit) train"
+      },
+      "Guiyang-Chongqing": {
+        "Price Range": "150-250 yuan",
+        "Transportation Mode": "High-speed rail/EMU (Electric Multiple Unit) train"
+      },
+      "Guiyang-Kunming": {
+        "Price Range": "250-400 yuan",
+        "Transportation Mode": "High-speed rail/EMU (Electric Multiple Unit) train"
+      },
+      "Guiyang-Huangguoshu": {
+        "Price Range": "100-200 yuan",
+        "Transportation Mode": "Self-driving"
+      }
+    }
+  },
+  "stores": {},
+  "orders": {}
+}

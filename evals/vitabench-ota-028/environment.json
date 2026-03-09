@@ -1,0 +1,192 @@
+{
+  "task_id": "70806003",
+  "domain": "ota",
+  "time": "2026-09-17 15:43:59",
+  "user_id": "U010014",
+  "weather": [
+    {
+      "city": "Beijing",
+      "category": "cloudy",
+      "datetime": "2026-09-19",
+      "temperature": [
+        18,
+        26
+      ],
+      "humidity": 65
+    },
+    {
+      "city": "Shijiazhuang",
+      "category": "light rain",
+      "datetime": "2026-09-19",
+      "temperature": [
+        16,
+        23
+      ],
+      "humidity": 78
+    }
+  ],
+  "location": [
+    {
+      "address": "Wancheng Huafu Shangyuan, near Haiyuan, at the intersection of Wanliu Huafu North Street and Wanliu West Road, Haidian District, Beijing",
+      "longitude": 116.295847,
+      "latitude": 39.975021
+    },
+    {
+      "address": "Building B1, Changyuan Tiandi Complex, 18 Suzhou Street, Haidian District, Beijing",
+      "longitude": 116.308374,
+      "latitude": 39.989156
+    }
+  ],
+  "user_profile": {
+    "user id": "U010014",
+    "occupation": "Engineer",
+    "gender": "female",
+    "age group": "30~35",
+    "residence": "Beijing",
+    "home address": "Wancheng Huafu Shangyuan, near Haiyuan, at the intersection of Wanliu Huafu North Street and Wanliu West Road, Haidian District, Beijing",
+    "work address": "Building B1, Changyuan Tiandi Complex, 18 Suzhou Street, Haidian District, Beijing",
+    "dietary restrictions": "No fried food",
+    "family status": "In a relationship",
+    "personality": "Tends to be controlling and dominant, not easily accepting different opinions"
+  },
+  "user_historical_behaviors": {
+    "user id": "U010014",
+    "occupation": "Engineer",
+    "gender": "female",
+    "age group": "30~35",
+    "residence": "Beijing",
+    "home address": "Wancheng Huafu Shangyuan, near Haiyuan, at the intersection of Wanliu Huafu North Street and Wanliu West Road, Haidian District, Beijing",
+    "work address": "Building B1, Changyuan Tiandi Complex, 18 Suzhou Street, Haidian District, Beijing",
+    "visited scenes": {
+      "Historical Sites": "25%",
+      "Exhibition Venues (Museums/Art Galleries)": "30%",
+      "Natural Landscapes (Mountains/Lakes/Forests)": "20%",
+      "Hot Spring Resorts": "15%",
+      "Parks": "10%"
+    },
+    "cost per night on hotel": "500~1000 yuan",
+    "visited hotels": {
+      "Atour": "35%",
+      "Ji Hotel": "25%",
+      "Vienna": "15%",
+      "Orange": "15%",
+      "Huazhu": "10%"
+    },
+    "browsed hotels": {
+      "Four-star Hotels": "30%",
+      "Comfort Hotels": "45%",
+      "Three-star Hotels": "20%",
+      "Five-star Hotels": "5%"
+    },
+    "historical travel plans": {
+      "Beijing-Shanghai": {
+        "Price Range": "550-800 yuan",
+        "Transportation": "High-speed Train"
+      },
+      "Beijing-Hangzhou": {
+        "Price Range": "700-1200 yuan",
+        "Transportation": "Flight"
+      },
+      "Beijing-Xi'an": {
+        "Price Range": "600-900 yuan",
+        "Transportation": "High-speed Train"
+      },
+      "Beijing-Chengdu": {
+        "Price Range": "800-1500 yuan",
+        "Transportation": "Flight"
+      },
+      "Beijing-Qingdao": {
+        "Price Range": "400-600 yuan",
+        "Transportation": "High-speed Train"
+      },
+      "Beijing-Suzhou": {
+        "Price Range": "600-900 yuan",
+        "Transportation": "High-speed Train"
+      }
+    }
+  },
+  "stores": {},
+  "orders": {
+    "S17557505479571970_O00001": {
+      "order_id": "S17557505479571970_O00001",
+      "order_type": "train",
+      "user_id": "U010014",
+      "store_id": "S17557505479571970_T00009",
+      "location": {
+        "address": "Beijing West Railway Station, 118 Lianhuachi East Road, Fengtai District, Beijing",
+        "longitude": 116.322056,
+        "latitude": 39.895019
+      },
+      "dispatch_time": "",
+      "shipping_time": 0.0,
+      "delivery_time": "",
+      "note": "Leave early on Saturday to visit my bestie in Shijiazhuang",
+      "total_price": 148.0,
+      "create_time": "2026-09-16 20:15:30",
+      "update_time": "2026-09-16 20:15:30",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17557505479571970_P00064",
+          "price": 148.0,
+          "quantity": 1,
+          "seat_type": "Second Class Seat"
+        }
+      ]
+    },
+    "S17557505479571970_O00002": {
+      "order_id": "S17557505479571970_O00002",
+      "order_type": "train",
+      "user_id": "U010014",
+      "store_id": "S17557505479571970_T00010",
+      "location": {
+        "address": "Beijing West Railway Station, 118 Lianhuachi East Road, Fengtai District, Beijing",
+        "longitude": 116.322056,
+        "latitude": 39.895019
+      },
+      "dispatch_time": "",
+      "shipping_time": 0.0,
+      "delivery_time": "",
+      "note": "Changed to a train arriving around 11:30",
+      "total_price": 175.0,
+      "create_time": "2026-09-16 21:45:12",
+      "update_time": "2026-09-16 21:45:12",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17557505479571970_P00069",
+          "price": 175.0,
+          "quantity": 1,
+          "seat_type": "Second Class Seat"
+        }
+      ]
+    },
+    "S17557505479571970_O00003": {
+      "order_id": "S17557505479571970_O00003",
+      "order_type": "train",
+      "user_id": "U010014",
+      "store_id": "S17557505479571970_T00010",
+      "location": {
+        "address": "Beijing West Railway Station, 118 Lianhuachi East Road, Fengtai District, Beijing",
+        "longitude": 116.322056,
+        "latitude": 39.895019
+      },
+      "dispatch_time": "",
+      "shipping_time": 0.0,
+      "delivery_time": "",
+      "note": "Cancelled trip due to work project launch",
+      "total_price": 175.0,
+      "create_time": "2026-09-17 14:20:45",
+      "update_time": "2026-09-17 15:10:22",
+      "status": "cancelled",
+      "products": [
+        {
+          "product_id": "S17557505479571970_P00069",
+          "price": 175.0,
+          "quantity": 1,
+          "seat_type": "Second Class Seat"
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,101 @@
+{
+  "required_orders": [
+    {
+      "order_id": "I0721002T01",
+      "order_type": "delivery",
+      "user_id": "U000091",
+      "store_id": "S27275721451294039_S33656",
+      "note": "",
+      "location": {
+        "address": "Room 1204, Building 3, Haiyun Garden (Haiyuan Street), No. 24 Haiyuan Street, Shahekou District, Dalian, Liaoning Province (430m walk from Exit B of Second Hospital Metro Station)",
+        "longitude": 121.56714,
+        "latitude": 38.880907
+      },
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 60,
+      "create_time": "2025-09-26 18:00:00",
+      "update_time": "2025-09-26 18:00:00",
+      "status": "processed",
+      "products": [
+        {
+          "product_id": "S20101317002502950_P98829",
+          "price": 20,
+          "quantity": 3,
+          "attributes": ""
+        }
+      ]
+    },
+    {
+      "order_id": "I0721002T02",
+      "order_type": "delivery",
+      "user_id": "U000091",
+      "store_id": "S19740820626295546_S67618",
+      "note": "",
+      "location": {
+        "address": "Room 1204, Building 3, Haiyun Garden (Haiyuan Street), No. 24 Haiyuan Street, Shahekou District, Dalian, Liaoning Province (430m walk from Exit B of Second Hospital Metro Station)",
+        "longitude": 121.56714,
+        "latitude": 38.880907
+      },
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 179,
+      "create_time": "2025-09-26 18:03:00",
+      "update_time": "2025-09-26 18:03:00",
+      "status": "processed",
+      "products": [
+        {
+          "product_id": "S32673216822626376_P48212",
+          "price": 179,
+          "quantity": 1,
+          "attributes": "Garlic Flavor + Sauce Flavor"
+        }
+      ]
+    },
+    {
+      "order_id": "I0721002T03",
+      "order_type": "delivery",
+      "user_id": "U000091",
+      "store_id": "S24929731886763144_S48061",
+      "note": "",
+      "location": {
+        "address": "Room 1204, Building 3, Haiyun Garden (Haiyuan Street), No. 24 Haiyuan Street, Shahekou District, Dalian, Liaoning Province (430m walk from Exit B of Second Hospital Metro Station)",
+        "longitude": 121.56714,
+        "latitude": 38.880907
+      },
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 69,
+      "create_time": "2025-09-26 18:05:00",
+      "update_time": "2025-09-26 18:05:00",
+      "status": "processed",
+      "products": [
+        {
+          "product_id": "S33846261535716549_P36658",
+          "price": 23,
+          "quantity": 3,
+          "attributes": "Less Sweet"
+        }
+      ]
+    }
+  ],
+  "rubrics": [
+    "The delivery address for the grilled fish order should be Room 1204, Building 3, Haiyun Garden (Haiyuan Street), No. 24 Haiyuan Street, Shahekou District, Dalian, Liaoning Province (430m walk from Exit B of Second Hospital Metro Station)",
+    "The estimated delivery time for the grilled fish order should be around 19:00 on September 26, 2025",
+    "The dinner order should choose grilled fish items",
+    "The grilled fish order should include a dual-flavor grilled fish with garlic and sauce flavors",
+    "The grilled fish order should select a size for 3 or more people",
+    "The delivery address for the beverage order should be Room 1204, Building 3, Haiyun Garden (Haiyuan Street), No. 24 Haiyuan Street, Shahekou District, Dalian, Liaoning Province (430m walk from Exit B of Second Hospital Metro Station)",
+    "The estimated delivery time for the beverage order should be between 18:00 and 19:00 on September 26, 2025",
+    "The beverage order should choose grape jasmine drinks",
+    "The beverage order specification should be large size with less sugar",
+    "The beverage order quantity should be 3 cups",
+    "The delivery address for the stir-fried rice noodles order should be Room 1204, Building 3, Haiyun Garden (Haiyuan Street), No. 24 Haiyuan Street, Shahekou District, Dalian, Liaoning Province (430m walk from Exit B of Second Hospital Metro Station)",
+    "The estimated delivery time for the stir-fried rice noodles order should be between 18:00 and 19:00 on September 26, 2025",
+    "The stir-fried rice noodles order should select Home-style Restaurant (Stir-fry·Rice Bowls·Dumplings)",
+    "The stir-fried rice noodles order should choose stir-fried rice noodles that do not contain Chinese turnip"
+  ]
+}

@@ -1,0 +1,114 @@
+{
+  "required_orders": [
+    {
+      "order_id": "70808005T001",
+      "order_type": "flight",
+      "user_id": "U010087",
+      "store_id": "S17557505543387920_F00010",
+      "note": "",
+      "location": null,
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 1520,
+      "create_time": "2025-04-01 14:33:00",
+      "update_time": "2025-04-01 14:33:00",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17557505543387920_P00089",
+          "price": 1520,
+          "quantity": 1,
+          "date": "2025-05-03",
+          "seat_type": "Economy Class"
+        }
+      ]
+    },
+    {
+      "order_id": "70808005T002",
+      "order_type": "flight",
+      "user_id": "U010087",
+      "store_id": "S17557505543387920_F00014",
+      "note": "",
+      "location": null,
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 890,
+      "create_time": "2025-04-01 14:35:00",
+      "update_time": "2025-04-01 14:35:00",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17557505543387920_P00121",
+          "price": 890,
+          "quantity": 1,
+          "date": "2025-05-04",
+          "seat_type": "Economy Class"
+        }
+      ]
+    },
+    {
+      "order_id": "70808005T003",
+      "order_type": "flight",
+      "user_id": "U010087",
+      "store_id": "S17557505543387920_F00011",
+      "note": "",
+      "location": null,
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 1590,
+      "create_time": "2025-04-01 14:37:00",
+      "update_time": "2025-04-01 14:37:00",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17557505543387920_P00102",
+          "price": 1590,
+          "quantity": 1,
+          "date": "2025-05-06",
+          "seat_type": "Economy Class"
+        }
+      ]
+    },
+    {
+      "order_id": "70808005T004",
+      "order_type": "hotel",
+      "user_id": "U010087",
+      "store_id": "S17557505543387920_H00002",
+      "note": "",
+      "location": null,
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 680,
+      "create_time": "2025-04-01 14:39:00",
+      "update_time": "2025-04-01 14:39:00",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17557505543387920_P00017",
+          "price": 680,
+          "quantity": 1,
+          "date": "2025-05-03",
+          "room_type": "Deluxe Yurt"
+        }
+      ]
+    }
+  ],
+  "rubrics": [
+    "The forum will be held on May 5, 2025. If traveling to Hulunbuir before the forum, one should travel from Taizhou to Hulunbuir (Hailar) on May 3, 2025, from Hulunbuir (Hailar) to Hohhot on May 4, 2025, and from Hohhot back to Taizhou on May 6, 2025. If traveling to Hulunbuir after the forum, one should travel from Taizhou to Hohhot on May 4, 2025, from Hohhot to Hulunbuir (Hailar) on May 6, 2025, and from Hulunbuir (Hailar) back to Taizhou on May 7, 2025. After calculation, if traveling to Hulunbuir before the forum, the total airfare would be 4000 yuan; if traveling to Hulunbuir after the forum, the total airfare would be 4250 yuan. Therefore, one should travel to Hulunbuir before the forum.",
+    "The first flight should be from Taizhou to Hulunbuir (Hailar)",
+    "The departure date of the first flight should be May 3, 2025",
+    "The seat type for the first flight should be Economy Class",
+    "The second flight should be from Hulunbuir (Hailar) to Hohhot",
+    "The departure date of the second flight should be May 4, 2025",
+    "The seat type for the second flight should be Economy Class",
+    "The third flight should be from Hohhot to Taizhou",
+    "The departure date of the third flight should be May 6, 2025",
+    "The seat type for the third flight should be Economy Class",
+    "The accommodation order should book a Yurt",
+    "The accommodation order should include a room for May 3, 2025"
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "task_id": "96",
+  "query": "I'm planning a trip from Changchun to Dalian on November 12, 2025, and will return on November 17, 2025. I'd like to keep things relaxed this time, so I’d appreciate your help arranging transportation, hotel, meals, and sightseeing.\n\nFor transportation, I’d like to take a train back home. Could you please find me the shortest-duration direct train available? I don’t want to spend too much time en route—ideally a direct one that takes me straight home.\n\nAs for accommodation, I don’t have very high requirements this time—just a decent three-star hotel would be fine. However, I usually work out, so the hotel must have a gym. Please make sure of that when booking. Also, there are four of us in total, so we’ll need two rooms.\n\nRegarding dining, I’ve heard that 'Lvda Impression · Dalian Local Cuisine Restaurant (Xinghai Branch)' is excellent and offers authentic local flavors. We definitely want to try it this trip—please include it in the itinerary.\n\nAdditionally, I really enjoy natural scenery and would love to visit a beautiful outdoor spot. I understand Dalian has many great attractions—could you please select the highest-rated one among the ‘natural风光’ category and include it in the plan?\n\nThat covers most of my needs. I believe I've provided all necessary information—please go ahead and plan the full itinerary for me. Thanks so much for your help! November 12, 2025 is Wednesday",
+  "meta_info": {
+    "org": "Changchun",
+    "dest": [
+      "Dalian"
+    ],
+    "days": 6,
+    "depart_date": "2025-11-12",
+    "return_date": "2025-11-17",
+    "people_number": 4,
+    "room_number": 2
+  },
+  "hard_constraints": {
+    "train_shortest_duration_direct": {
+      "constraint_context": "For the return trip, I hope to choose a train, and need to select the shortest-duration direct train available.",
+      "constraint_type": "superlative_shortest_duration",
+      "inbound_train_no": "G49"
+    },
+    "hotel_star_service_required": {
+      "constraint_context": "Please select a 3-star hotel that offers a gym for accommodation.",
+      "constraint_type": "superlative_star_service_required",
+      "hotel_name": "Home Inn Business - Dalian Venice Water City Harbor Square Metro Station Branch",
+      "required_service": "Gym",
+      "hotel_star": 3,
+      "hotel_price": 157.0
+    },
+    "restaurant_must_eat_named": {
+      "constraint_context": "The itinerary must include one meal at 'Lvda Impression · Dalian Local Cuisine Restaurant (Xinghai Branch)'.",
+      "constraint_type": "superlative_must_eat_named",
+      "restaurant_name": "Lvda Impression · Dalian Local Cuisine Restaurant (Xinghai Branch)",
+      "restaurant_rating": 4.6
+    },
+    "attraction_type_highest_rated": {
+      "constraint_context": "The itinerary must include the highest-rated attraction in the 'Natural Scenery' category.",
+      "constraint_type": "superlative_type_highest_rated",
+      "attraction_names": [
+        "Binhai Road West Section Wooden Walkway"
+      ],
+      "attraction_type_cn": "自然风光",
+      "attraction_type": "Natural Scenery",
+      "attraction_ratings": [
+        4.9
+      ]
+    }
+  }
+}

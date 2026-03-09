@@ -1,0 +1,264 @@
+{
+  "task_id": "D0808003",
+  "domain": "ota",
+  "time": "2023-09-09 08:32:14",
+  "user_id": "U010061",
+  "weather": [
+    {
+      "city": "Dalian",
+      "category": "cloudy",
+      "datetime": "2023-09-13",
+      "temperature": [
+        18,
+        25
+      ],
+      "humidity": 65
+    },
+    {
+      "city": "Beijing",
+      "category": "sunny",
+      "datetime": "2023-09-13",
+      "temperature": [
+        15,
+        28
+      ],
+      "humidity": 45
+    },
+    {
+      "city": "Beijing",
+      "category": "showers",
+      "datetime": "2023-09-14",
+      "temperature": [
+        16,
+        26
+      ],
+      "humidity": 71
+    }
+  ],
+  "location": [
+    {
+      "address": "Room 2305, Tower B, Kaide Plaza, 158 Changchun Road, Xigang District, Dalian, Liaoning Province",
+      "longitude": 121.611744,
+      "latitude": 38.914003
+    },
+    {
+      "address": "Room 1503, 15th Floor, Office Building, Dalian Hang Lung Plaza, 68 Renmin Road, Zhongshan District, Dalian, Liaoning Province",
+      "longitude": 121.634521,
+      "latitude": 38.920611
+    }
+  ],
+  "user_profile": {
+    "user id": "U010061",
+    "occupation": "Designer",
+    "gender": "male",
+    "age group": "30~35",
+    "residence": "Dalian",
+    "home address": "Room 2305, Tower B, Kaide Plaza, 158 Changchun Road, Xigang District, Dalian, Liaoning Province",
+    "work address": "Room 1503, 15th Floor, Office Building, Dalian Hang Lung Plaza, 68 Renmin Road, Zhongshan District, Dalian, Liaoning Province",
+    "dietary restrictions": "Avoids high purine foods (such as organ meats/seafood soups), avoids alcohol",
+    "family status": "Has children",
+    "personality": "Easily anxious and worried, needs repeated confirmation to feel at ease"
+  },
+  "user_historical_behaviors": {
+    "user id": "U010061",
+    "occupation": "Designer",
+    "gender": "male",
+    "age group": "30~35",
+    "residence": "Dalian",
+    "home address": "Room 2305, Tower B, Kaide Plaza, 158 Changchun Road, Xigang District, Dalian, Liaoning Province",
+    "work address": "Room 1503, 15th Floor, Office Building, Dalian Hang Lung Plaza, 68 Renmin Road, Zhongshan District, Dalian, Liaoning Province",
+    "visited scenes": {
+      "Exhibition Halls (Museums/Art Galleries)": "35%",
+      "Landmarks": "20%",
+      "Natural Landscapes (Mountains/Lakes/Forests)": "25%",
+      "Theme Parks": "15%",
+      "Parks": "5%"
+    },
+    "cost per night on hotel": "500~1000 yuan",
+    "visited hotels": {
+      "Atour": "40%",
+      "JI Hotel": "30%",
+      "Vienna Hotel": "15%",
+      "Hilton": "10%",
+      "Home Inn": "5%"
+    },
+    "browsed hotels": {
+      "Four-star Hotels": "45%",
+      "Comfort Hotels": "35%",
+      "Three-star Hotels": "15%",
+      "Five-star Hotels": "5%"
+    },
+    "historical travel plans": {
+      "Dalian-Beijing": {
+        "Price Range": "800-1200 yuan",
+        "Transportation Method": "High-speed Rail/EMU (Electric Multiple Unit) Train"
+      },
+      "Dalian-Shanghai": {
+        "Price Range": "1200-2000 yuan",
+        "Transportation Method": "Airplane"
+      },
+      "Dalian-Qingdao": {
+        "Price Range": "500-800 yuan",
+        "Transportation Method": "High-speed Rail/EMU (Electric Multiple Unit) Train"
+      },
+      "Dalian-Shenyang": {
+        "Price Range": "200-300 yuan",
+        "Transportation Method": "High-speed Rail/EMU (Electric Multiple Unit) Train"
+      },
+      "Dalian-Harbin": {
+        "Price Range": "400-600 yuan",
+        "Transportation Method": "High-speed Rail/EMU (Electric Multiple Unit) Train"
+      }
+    }
+  },
+  "stores": {},
+  "orders": {
+    "S17557513687109603_O00001": {
+      "order_id": "S17557513687109603_O00001",
+      "order_type": "train",
+      "user_id": "U010061",
+      "store_id": "S17557513687109603_T00010",
+      "location": {
+        "address": "Dalian Railway Station, Xi'an Road, Shahekou District, Dalian, Liaoning Province",
+        "longitude": 121.611744,
+        "latitude": 38.914003
+      },
+      "dispatch_time": "",
+      "shipping_time": 0.0,
+      "delivery_time": "",
+      "note": "Wheelchair-accessible Seat, need accessible services",
+      "total_price": 1106.0,
+      "create_time": "2023-09-09 09:15:23",
+      "update_time": "2023-09-09 09:18:45",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17557513687109603_P00063",
+          "price": 553.0,
+          "quantity": 2,
+          "date": "2023-09-13",
+          "seat_type": "Second Class Wheelchair-accessible Seat"
+        }
+      ]
+    },
+    "S17557513687109603_O00002": {
+      "order_id": "S17557513687109603_O00002",
+      "order_type": "hotel",
+      "user_id": "U010061",
+      "store_id": "S17557513687109603_H00001",
+      "note": "Need accessible room, father uses wheelchair",
+      "location": {
+        "address": "Atour Hotel Beijing 301 Hospital Branch, 28 Fuxing Road, Haidian District, Beijing",
+        "longitude": 116.235689,
+        "latitude": 39.906842
+      },
+      "dispatch_time": "",
+      "shipping_time": 0.0,
+      "delivery_time": "",
+      "total_price": 1360.0,
+      "create_time": "2023-09-09 09:25:12",
+      "update_time": "2023-09-09 09:25:12",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17557513687109603_P00001",
+          "price": 680.0,
+          "quantity": 1,
+          "date": "2023-09-13",
+          "room_type": "Accessible Deluxe King Room"
+        },
+        {
+          "product_id": "S17557513687109603_P00002",
+          "price": 680.0,
+          "quantity": 1,
+          "date": "2023-09-14",
+          "room_type": "Accessible Deluxe King Room"
+        }
+      ]
+    },
+    "S17557513687109603_O00003": {
+      "order_id": "S17557513687109603_O00003",
+      "order_type": "attraction",
+      "user_id": "U010061",
+      "store_id": "S17557513687109603_A00005",
+      "note": "Accessible visit, wheelchair access",
+      "location": {
+        "address": "Military Museum of the Chinese People's Revolution, 9 Fuxing Road, Haidian District, Beijing",
+        "longitude": 116.317185,
+        "latitude": 39.912086
+      },
+      "dispatch_time": "",
+      "shipping_time": 0.0,
+      "delivery_time": "",
+      "total_price": 0.0,
+      "create_time": "2023-09-09 10:30:18",
+      "update_time": "2023-09-09 10:30:18",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17557513687109603_P00027",
+          "price": 0.0,
+          "quantity": 2,
+          "date": "2023-09-13",
+          "ticket_type": "Accessible Ticket"
+        }
+      ]
+    },
+    "S17557513687109603_O00004": {
+      "order_id": "S17557513687109603_O00004",
+      "order_type": "hotel",
+      "user_id": "U010061",
+      "store_id": "S17557513687109603_H00002",
+      "note": "Business trip accommodation",
+      "location": {
+        "address": "JI Hotel Beijing Wukesong Branch, 23A Fuxing Road, Haidian District, Beijing",
+        "longitude": 116.283456,
+        "latitude": 39.904578
+      },
+      "dispatch_time": "",
+      "shipping_time": 0.0,
+      "delivery_time": "",
+      "total_price": 1396.0,
+      "create_time": "2023-07-05 14:20:35",
+      "update_time": "2023-07-08 18:00:00",
+      "status": "cancelled",
+      "products": [
+        {
+          "product_id": "S17557513687109603_P00010",
+          "price": 698.0,
+          "quantity": 2,
+          "date": "2023-07-08",
+          "room_type": "Business King Room"
+        }
+      ]
+    },
+    "S17557513687109603_O00005": {
+      "order_id": "S17557513687109603_O00005",
+      "order_type": "train",
+      "user_id": "U010061",
+      "store_id": "S17557513687109603_T00011",
+      "location": {
+        "address": "Dalian Railway Station, Xi'an Road, Shahekou District, Dalian, Liaoning Province",
+        "longitude": 121.611744,
+        "latitude": 38.914003
+      },
+      "dispatch_time": "",
+      "shipping_time": 0.0,
+      "delivery_time": "",
+      "note": "Shanghai business trip",
+      "total_price": 1106.0,
+      "create_time": "2023-08-22 16:45:12",
+      "update_time": "2023-08-22 16:45:12",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17557513687109603_P00068",
+          "price": 553.0,
+          "quantity": 2,
+          "date": "2023-08-25",
+          "seat_type": "Second Class Seat"
+        }
+      ]
+    }
+  }
+}

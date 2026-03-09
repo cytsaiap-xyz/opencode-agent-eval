@@ -1,0 +1,126 @@
+{
+  "required_orders": [
+    {
+      "order_id": "S17550802118058644_O00003",
+      "order_type": "attraction",
+      "user_id": "U311640",
+      "store_id": "S17550802118058644_A00006",
+      "note": "",
+      "location": {
+        "address": "Qingyi River Rafting Scenic Area, Qingyi Town, Youxian District, Mianyang, Sichuan Province",
+        "longitude": 104.835,
+        "latitude": 31.521
+      },
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 288,
+      "create_time": "2025-07-09 09:17:30",
+      "update_time": "2025-07-09 09:17:30",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17550802118058644_P00030",
+          "price": 288,
+          "quantity": 1,
+          "ticket_type": "Family Ticket (2 Adults 1 Child)",
+          "date": "2025-07-10"
+        }
+      ]
+    },
+    {
+      "order_id": "OIb192a86a68",
+      "order_type": "instore",
+      "user_id": "U311640",
+      "store_id": "S17550802118058644_I00010",
+      "note": "",
+      "location": null,
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 108,
+      "create_time": "2025-07-09 09:20:00",
+      "update_time": "2025-07-09 09:20:00",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17550802118058644_P00070",
+          "price": 108,
+          "quantity": 1,
+          "name": "Children's VR Adventure World (2 hours)",
+          "shop_id": "S17550802118058644_I00010",
+          "tags": [
+            "Kids Only",
+            "Two Hours",
+            "Adventure Theme",
+            "Parent-Child"
+          ]
+        }
+      ]
+    },
+    {
+      "order_id": "OT74bb3b99b2",
+      "order_type": "delivery",
+      "user_id": "U311640",
+      "store_id": "S17550802118058644_S00001",
+      "note": "",
+      "location": {
+        "address": "JI Hotel, Next to Wangfujing Department Store, 68 East Linyuan Road, Fucheng District, Mianyang, Sichuan Province",
+        "longitude": 104.7418,
+        "latitude": 31.468
+      },
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 41.8,
+      "create_time": "2025-07-09 09:22:00",
+      "update_time": "2025-07-09 09:22:00",
+      "status": "unpaid",
+      "products": [
+        {
+          "product_id": "S17550802118058644_P00001",
+          "price": 16.9,
+          "quantity": 1,
+          "name": "Vinda Face Series Facial Tissues",
+          "store_id": "S17550802118058644_S00001",
+          "store_name": "FamilyMart (Mianyang Wangfujing Branch)",
+          "attributes": "",
+          "tags": [
+            "Face Washing Towel",
+            "Facial Cleansing",
+            "Disposable",
+            "Soft"
+          ]
+        },
+        {
+          "product_id": "S17550802118058644_P00002",
+          "price": 24.9,
+          "quantity": 1,
+          "name": "Breeze Pure Cotton Thickened Towel",
+          "store_id": "S17550802118058644_S00001",
+          "store_name": "FamilyMart (Mianyang Wangfujing Branch)",
+          "attributes": "",
+          "tags": [
+            "Towel",
+            "Pure Cotton",
+            "Thickened",
+            "Absorbent"
+          ]
+        }
+      ]
+    }
+  ],
+  "rubrics": [
+    "Must check and compare Mianyang's weather on July 9 and 10, 2025: July 9 is sunny with temperatures of 26-35°C; July 10 is cloudy with temperatures of 27-38°C, July 10 is hotter",
+    "Must arrange activities reasonably according to weather conditions: the date for rafting tickets should be July 10, 2025",
+    "Rafting activity should be suitable for children",
+    "Must choose the most economical option available for rafting, the ticket order package should be Family Ticket (2 Adults 1 Child)",
+    "The VR game center ordered should be near a shopping mall",
+    "The package ordered should be a two-hour children's package at the VR game center",
+    "Must choose the most economical option for the VR game center, the in-store order package should be Children's VR Adventure World (2 hours) 108 yuan",
+    "The delivery address for face washing towels and towels must be JI Hotel, Next to Wangfujing Department Store, 68 East Linyuan Road, Fucheng District, Mianyang, Sichuan Province/JI Hotel next to Wangfujing",
+    "The delivery time for face washing towels and towels should be between 21:00-22:00 on July 9, 2025",
+    "The food delivery order should include 1 face washing towel and 1 towel",
+    "The face washing towel and towel should come from the same store"
+  ]
+}

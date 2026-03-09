@@ -1,0 +1,935 @@
+{
+  "task_id": "A0806004",
+  "domain": "cross_domain",
+  "time": "2024-08-02 13:34:08",
+  "user_id": "U010027",
+  "weather": [
+    {
+      "city": "Guiyang",
+      "category": "cloudy",
+      "datetime": "2024-08-02",
+      "temperature": [
+        25,
+        31
+      ],
+      "humidity": 75
+    },
+    {
+      "city": "Zhuhai",
+      "category": "sunny",
+      "datetime": "2024-08-10",
+      "temperature": [
+        26,
+        33
+      ],
+      "humidity": 80
+    },
+    {
+      "city": "Zhuhai",
+      "category": "cloudy",
+      "datetime": "2024-08-17",
+      "temperature": [
+        27,
+        34
+      ],
+      "humidity": 78
+    }
+  ],
+  "location": [
+    {
+      "address": "31 Luosi Mountain Road, Qixia Community, Yunyan District, Guiyang, Guizhou Province (280m walk from Yangmingci Metro Station Exit C)",
+      "longitude": 106.7123,
+      "latitude": 26.5783
+    }
+  ],
+  "user_profile": {
+    "user id": "U010027",
+    "occupation": "Network Engineer",
+    "gender": "female",
+    "age group": "25~30",
+    "residence": "Guiyang",
+    "home address": "31 Luosi Mountain Road, Qixia Community, Yunyan District, Guiyang, Guizhou Province (280m walk from Yangmingci Metro Station Exit C)",
+    "work address": "Chalco Technology Building, 469 Jinyang North Road, Guanshanhu District, Guiyang, Guizhou Province",
+    "dietary restrictions": "No alcohol, Low sugar",
+    "family status": "Unknown",
+    "personality": "Strong logical thinking, likes to analyze and question, pursues accuracy"
+  },
+  "user_historical_behaviors": {
+    "user id": "U010027",
+    "occupation": "Network Engineer",
+    "gender": "female",
+    "age group": "25~30",
+    "residence": "Guiyang",
+    "home address": "31 Luosi Mountain Road, Qixia Community, Yunyan District, Guiyang, Guizhou Province (280m walk from Yangmingci Metro Station Exit C)",
+    "work address": "Chalco Technology Building, 469 Jinyang North Road, Guanshanhu District, Guiyang, Guizhou Province",
+    "delivery": {
+      "food delivery": {
+        "breakfast": {
+          "frequently purchased categories": [
+            "Quick Meals/Baozi/Shengjianbao (Average ¥18)",
+            "Quick Meals/Youtiao (Average ¥12)",
+            "Quick Meals/Sandwich (Average ¥15)"
+          ],
+          "cost per order": "¥10~25",
+          "preferred store rating": "4.0~4.5",
+          "preferred delivery time": "15~25 minutes",
+          "preferred distance": "0~1500m",
+          "recent orders": [
+            {
+              "store": "Bao Zhou Pu",
+              "product": "Soy Milk + Xiaolongbao"
+            },
+            {
+              "store": "Old Beijing Breakfast",
+              "product": "Egg Pancake + Soy Milk"
+            },
+            {
+              "store": "Jiahe First-class",
+              "product": "Milk + Pork Floss Sandwich"
+            }
+          ],
+          "search history": [
+            "Low Sugar Breakfast",
+            "Baozi",
+            "Soy Milk",
+            "Sandwich",
+            "Light Breakfast"
+          ]
+        },
+        "weekday lunch/dinner": {
+          "frequently purchased categories": [
+            "Quick Meals/Light Food (Average ¥35)",
+            "Quick Meals/Salad (Average ¥32)",
+            "Quick Meals/Healthy Meals (Average ¥40)"
+          ],
+          "cost per order": "¥25~45",
+          "preferred store rating": "4.2~4.8",
+          "preferred delivery time": "20~35 minutes",
+          "preferred distance": "0~2500m",
+          "recent orders": [
+            {
+              "store": "Light Food Workshop",
+              "product": "Vegetable Chicken Breast Light Meal Set"
+            },
+            {
+              "store": "Salad Story",
+              "product": "Boiled Chicken Breast Salad"
+            },
+            {
+              "store": "Slim Vegetarian Food",
+              "product": "Low-fat Oatmeal Rice Bowl + Fresh Fruit Juice"
+            }
+          ],
+          "search history": [
+            "Low-fat Lunch",
+            "Healthy Meal",
+            "Light Food",
+            "Salad"
+          ]
+        },
+        "weekend lunch/dinner": {
+          "frequently purchased categories": [
+            "Chinese Cuisine/Cantonese Cuisine (Average ¥85)",
+            "Foreign Cuisine/Japanese Bento/Sushi (Average ¥90)",
+            "Chinese Cuisine/Crayfish (Mildly Spicy) (Average ¥100)"
+          ],
+          "cost per order": "¥60~120",
+          "preferred store rating": "4.5~4.9",
+          "preferred delivery time": "30~45 minutes",
+          "preferred distance": "0~3500m",
+          "recent orders": [
+            {
+              "store": "Cantonese Private Kitchen",
+              "product": "White Cut Chicken + Steamed Bass + Seasonal Vegetables"
+            },
+            {
+              "store": "Sushi House",
+              "product": "Family Sushi Set (1-2 servings)"
+            },
+            {
+              "store": "Daily Crayfish",
+              "product": "Garlic Crayfish (Mildly Spicy) + Vermicelli + Corn"
+            }
+          ],
+          "search history": [
+            "Single Meal",
+            "Cantonese Cuisine",
+            "Japanese Food",
+            "Crayfish"
+          ]
+        },
+        "desserts/drinks/snacks": {
+          "frequently purchased categories": [
+            "Beverages & Desserts/Plain Tea/Herbal Tea (Average ¥18)",
+            "Beverages & Desserts/Fruit Salad (Average ¥25)",
+            "Beverages & Desserts/Cold Desserts (Average ¥22)"
+          ],
+          "cost per order": "¥15~30",
+          "preferred store rating": "4.3~4.7",
+          "preferred delivery time": "15~25 minutes",
+          "preferred distance": "0~2000m",
+          "recent orders": [
+            {
+              "store": "ChaiBaiDao",
+              "product": "Oolong Tea (Sugar-free)"
+            },
+            {
+              "store": "Fresh Fruit Bowl",
+              "product": "Fruit Salad (Less Sugar)"
+            },
+            {
+              "store": "Meet Fresh",
+              "product": "Coconut Milk Sago (Slightly Sweet)"
+            }
+          ],
+          "search history": [
+            "Low Sugar Drinks",
+            "Fruit Tea",
+            "Sugar-free Tea",
+            "Healthy Desserts",
+            "Fruit Salad"
+          ]
+        },
+        "night snack": {
+          "frequently purchased categories": [
+            "Quick Meals/Clay Pot Soup (Average ¥28)",
+            "Quick Meals/Small Bowl Dishes/Small Portions (Average ¥35)",
+            "Snacks & Braised Foods/Braised Items (Average ¥30)"
+          ],
+          "cost per order": "¥25~40",
+          "preferred store rating": "4.1~4.6",
+          "preferred delivery time": "20~35 minutes",
+          "preferred distance": "0~2500m",
+          "recent orders": [
+            {
+              "store": "Nutritious Soup",
+              "product": "Mushroom Chicken Soup"
+            },
+            {
+              "store": "Small Bowl Dishes",
+              "product": "Stir-fried Seasonal Vegetables + Brown Rice"
+            },
+            {
+              "store": "Mom's Braised Food",
+              "product": "Braised Chicken Wings + Braised Eggs (Mildly Spicy)"
+            }
+          ],
+          "search history": [
+            "Light Night Snack",
+            "Stomach-friendly Soup",
+            "Small Portion Dishes",
+            "Mildly Spicy Braised Food",
+            "Healthy Night Snack"
+          ]
+        }
+      },
+      "product delivery": {
+        "frequently purchased categories": [
+          "Fruits (35%)",
+          "Vegetables/Bean Products (25%)",
+          "Dairy/Ice Products (15%)",
+          "Household Items (20%)",
+          "Others (5%)"
+        ],
+        "frequently visited stores": [
+          "Yonghui Supermarket (Guiyang Huaguoyuan Store) (45%)",
+          "Duoduo Grocery (Guiyang Huaguoyuan Store) (30%)",
+          "Good Neighbor Convenience Store (15%)",
+          "Other Stores (10%)"
+        ],
+        "cost per order by category": {
+          "Fruits": "¥15~80",
+          "Vegetables/Bean Products": "¥5~45",
+          "Dairy/Ice Products": "¥10~60",
+          "Household Items": "¥15~50"
+        },
+        "preferred delivery time": "25~60 minutes",
+        "typical order time": "9~11 AM (35%), 4~6 PM (40%), 7~9 PM (25%)",
+        "recent orders": [
+          {
+            "store": "Yonghui Supermarket (Guiyang Huaguoyuan Store)",
+            "product": "Organic Vegetable Gift Box"
+          },
+          {
+            "store": "Duoduo Grocery (Guiyang Huaguoyuan Store)",
+            "product": "4 Apples + 1 Bunch of Bananas + 500g Lychees"
+          },
+          {
+            "store": "Good Neighbor Convenience Store",
+            "product": "Ceiling Light"
+          }
+        ],
+        "search history": [
+          "Organic Vegetables",
+          "Fruits",
+          "Wet Wipes",
+          "Low Sugar Yogurt"
+        ]
+      }
+    },
+    "in-store consumption": {
+      "in-store dining": {
+        "fine-dining": {
+          "frequently purchased categories": [
+            "Regional Cuisine/Sichuan Cuisine (Average ¥90)",
+            "Regional Cuisine/Hunan Cuisine (Average ¥85)",
+            "Foreign Cuisine/Western Food (Average ¥120)"
+          ],
+          "preferred average price per person": "¥85~120",
+          "preferred store rating": "4.0~4.8 stars",
+          "typical dining time": "18:30-20:30",
+          "preferred distance": "200~2000m",
+          "recent orders": [
+            {
+              "store": "Spicy Girl Sichuan Restaurant",
+              "product": "Spicy Blood Curd Stew (Mildly Spicy), Boiled Fish with Chili (Mildly Spicy), Dry Pot Cauliflower"
+            },
+            {
+              "store": "Dicos Western Restaurant",
+              "product": "Steak Set Meal, Salad"
+            },
+            {
+              "store": "Hunan Flavor Building",
+              "product": "Chopped Chili Fish Head (Mildly Spicy), Steamed Assorted Preserved Meat"
+            }
+          ],
+          "search history": [
+            "Sichuan Cuisine",
+            "Sugar-free",
+            "Hunan Cuisine",
+            "Business Banquet"
+          ]
+        },
+        "light meal": {
+          "frequently purchased categories": [
+            "Fast Food/Chinese Quick Meals (Average ¥35)",
+            "Fast Food/Western Quick Meals (Average ¥40)"
+          ],
+          "preferred average price per person": "¥30~50",
+          "preferred store rating": "3.5~4.3 stars",
+          "typical dining time": "12:00-13:30",
+          "preferred distance": "0~500m",
+          "recent orders": [
+            {
+              "store": "Home Chicken",
+              "product": "Three Cup Chicken Rice, Low Sugar Beverage"
+            },
+            {
+              "store": "Miss Rice's Rice Balls",
+              "product": "Salmon Rice Ball, Miso Soup"
+            },
+            {
+              "store": "Sha County Snacks",
+              "product": "Mixed Noodles, Steamed Dumplings"
+            }
+          ],
+          "search history": [
+            "Fast Food",
+            "Low Calorie",
+            "Near Office",
+            "Weight Loss Meal"
+          ]
+        },
+        "desserts/drinks/snacks": {
+          "frequently purchased categories": [
+            "Beverage Shops (Average ¥20)",
+            "Bread and Desserts (Average ¥30)"
+          ],
+          "preferred average price per person": "¥15~35",
+          "preferred store rating": "3.8~4.5 stars",
+          "typical dining time": "15:00-16:30",
+          "preferred distance": "0~300m",
+          "recent orders": [
+            {
+              "store": "Starbucks",
+              "product": "Sugar-free Americano"
+            },
+            {
+              "store": "Nayuki Tea",
+              "product": "Low Sugar Green Tea, Light Food Salad"
+            },
+            {
+              "store": "Bread Talk",
+              "product": "Whole Wheat Bread, Sugar-free Yogurt"
+            }
+          ],
+          "search history": [
+            "Sugar-free Coffee",
+            "Low Calorie Desserts",
+            "Low Sugar Drinks"
+          ]
+        }
+      },
+      "other in-store services": {
+        "frequently consumed categories": {
+          "Sports & Fitness/Fitness Centers": "40%",
+          "Beauty/Hairdressing": "30%",
+          "Entertainment/Massage/Foot Therapy": "30%"
+        },
+        "cost per order by category": {
+          "Sports & Fitness/Fitness Centers": "¥80~200",
+          "Beauty/Hairdressing": "¥150~300",
+          "Entertainment/Massage/Foot Therapy": "¥120~200"
+        },
+        "preferred store rating": "4.0~4.8 stars",
+        "preferred service time": "18:00-20:00",
+        "preferred distance": "0~3000m",
+        "recent orders": [
+          {
+            "store": "Limei Fitness Center",
+            "product": "Monthly Yoga Course"
+          },
+          {
+            "store": "Hair Whispers Salon",
+            "product": "Haircut and Treatment Package"
+          },
+          {
+            "store": "Yuemei · SPA",
+            "product": "Full Body Essential Oil SPA"
+          }
+        ],
+        "search history": [
+          "Yoga",
+          "Fitness",
+          "Professional Hairstyle"
+        ]
+      }
+    },
+    "OTA": {
+      "visited scenes": {
+        "Tourist Attractions (Mountains/Seaside/Ecological Large-scale Scenic Areas)": "30%",
+        "Cultural Heritage Sites": "25%",
+        "Natural Landscapes (Mountains/Lakes/Forests)": "20%",
+        "Parks": "15%",
+        "Featured Villages/Industrial Tourism/Uncategorized Projects": "10%"
+      },
+      "cost per night on hotel": "¥300~500",
+      "visited hotels": {
+        "Home Inn": "35%",
+        "Hanting": "25%",
+        "Ji Hotel": "20%",
+        "Atour": "10%",
+        "7 Days": "10%"
+      },
+      "browsed hotels": {
+        "Three-star Hotels": "45%",
+        "Comfort Hotels": "35%",
+        "Economy Hotels": "20%"
+      },
+      "historical travel plans": {
+        "Guiyang-Chongqing": {
+          "Price Range": "¥200-300",
+          "Transportation Mode": "High-speed Rail/EMU"
+        },
+        "Guiyang-Chengdu": {
+          "Price Range": "¥300-450",
+          "Transportation Mode": "High-speed Rail/EMU"
+        },
+        "Guiyang-Kunming": {
+          "Price Range": "¥250-350",
+          "Transportation Mode": "High-speed Rail/EMU"
+        },
+        "Guiyang-Guilin": {
+          "Price Range": "¥150-250",
+          "Transportation Mode": "Long-distance Bus"
+        },
+        "Guiyang-Beijing": {
+          "Price Range": "¥800-1200",
+          "Transportation Mode": "Airplane"
+        }
+      }
+    }
+  },
+  "stores": {
+    "S17550810625406958_S00001": {
+      "name": "Happy Pastry House",
+      "store_id": "S17550810625406958_S00001",
+      "score": 4.7,
+      "location": {
+        "address": "Happy Pastry House, 156 Jinyang South Road, Guanshanhu District, Guiyang, Guizhou Province",
+        "latitude": 26.6125,
+        "longitude": 106.6298
+      },
+      "tags": [
+        "Pastries",
+        "Desserts",
+        "Low Sugar",
+        "Healthy"
+      ],
+      "store_type": "target",
+      "products": [
+        {
+          "name": "Low Sugar Assorted Fruit Tart Gift Box",
+          "store_id": "S17550810625406958_S00001",
+          "store_name": "Happy Pastry House",
+          "price": 98,
+          "tags": [
+            "Low Sugar",
+            "Gift Box",
+            "Fruit",
+            "Healthy",
+            "Gift Giving",
+            "Elegant Packaging"
+          ],
+          "product_id": "S17550810625406958_P00001",
+          "attributes": [
+            "6-inch",
+            "8-inch"
+          ],
+          "product_type": "target"
+        },
+        {
+          "name": "Whole Wheat Nut Cake",
+          "store_id": "S17550810625406958_S00001",
+          "store_name": "Happy Pastry House",
+          "price": 68,
+          "tags": [
+            "Low Sugar",
+            "Whole Wheat",
+            "Nuts",
+            "Healthy",
+            "Gift Giving"
+          ],
+          "product_id": "S17550810625406958_P00002",
+          "attributes": [
+            "Small Box",
+            "Large Box"
+          ],
+          "product_type": "target"
+        },
+        {
+          "name": "No Cane Sugar Blueberry Mousse",
+          "store_id": "S17550810625406958_S00001",
+          "store_name": "Happy Pastry House",
+          "price": 75,
+          "tags": [
+            "No Cane Sugar",
+            "Blueberry",
+            "Mousse",
+            "Healthy",
+            "Gift Giving"
+          ],
+          "product_id": "S17550810625406958_P00003",
+          "attributes": [
+            "Small Size",
+            "Family Size"
+          ],
+          "product_type": "target"
+        },
+        {
+          "name": "Rum-soaked Fruit Cake",
+          "store_id": "S17550810625406958_S00001",
+          "store_name": "Happy Pastry House",
+          "price": 88,
+          "tags": [
+            "Fruit",
+            "Cake",
+            "Elegant Packaging",
+            "Rum"
+          ],
+          "product_id": "S17550810625406958_P00004",
+          "attributes": [
+            "6-inch",
+            "8-inch"
+          ],
+          "product_type": "distraction"
+        },
+        {
+          "name": "Traditional Cantonese Mooncake Gift Box",
+          "store_id": "S17550810625406958_S00001",
+          "store_name": "Happy Pastry House",
+          "price": 108,
+          "tags": [
+            "Cantonese Style",
+            "Mooncake",
+            "Gift Box",
+            "Traditional",
+            "Gift Giving"
+          ],
+          "product_id": "S17550810625406958_P00005",
+          "attributes": [
+            "Small Box (4 pieces)",
+            "Large Box (8 pieces)"
+          ],
+          "product_type": "distraction"
+        }
+      ]
+    },
+    "S17550810625406958_S00002": {
+      "name": "Sweet Time Cake Shop",
+      "store_id": "S17550810625406958_S00002",
+      "score": 4.5,
+      "location": {
+        "address": "Sweet Time Cake Shop, 289 Jinyang North Road, Guanshanhu District, Guiyang, Guizhou Province",
+        "latitude": 26.6163,
+        "longitude": 106.6242
+      },
+      "tags": [
+        "Cake",
+        "Sweet Treats",
+        "Birthday Cake"
+      ],
+      "store_type": "distraction",
+      "products": [
+        {
+          "name": "Low Sugar Fruit Cake (6-inch)",
+          "store_id": "S17550810625406958_S00002",
+          "store_name": "Sweet Time Cake Shop",
+          "price": 128,
+          "tags": [
+            "Low Sugar",
+            "Fruit",
+            "Healthy",
+            "Pastries",
+            "Gift Giving"
+          ],
+          "product_id": "S17550810625406958_P00006",
+          "attributes": [
+            "Sugar Substitute",
+            "Less Fruit",
+            "More Fruit",
+            "No Cream",
+            "Less Cream"
+          ],
+          "product_type": "distraction"
+        },
+        {
+          "name": "Sugar-free Matcha Mousse (4-inch)",
+          "store_id": "S17550810625406958_S00002",
+          "store_name": "Sweet Time Cake Shop",
+          "price": 78,
+          "tags": [
+            "Sugar-free",
+            "Matcha",
+            "Mousse",
+            "Healthy",
+            "Pastries",
+            "Gift Giving"
+          ],
+          "product_id": "S17550810625406958_P00007",
+          "attributes": [
+            "Sugar-free",
+            "Sugar Substitute",
+            "Low Calorie"
+          ],
+          "product_type": "target"
+        },
+        {
+          "name": "Whole Wheat Nut Cookie Gift Box",
+          "store_id": "S17550810625406958_S00002",
+          "store_name": "Sweet Time Cake Shop",
+          "price": 88,
+          "tags": [
+            "Whole Wheat",
+            "Nuts",
+            "Cookies",
+            "Gift Box",
+            "Pastries",
+            "Gift Giving"
+          ],
+          "product_id": "S17550810625406958_P00008",
+          "attributes": [
+            "Sugar-free",
+            "Low Fat",
+            "Gift Box Package"
+          ],
+          "product_type": "target"
+        },
+        {
+          "name": "Liquor-filled Chocolate Gift Box",
+          "store_id": "S17550810625406958_S00002",
+          "store_name": "Sweet Time Cake Shop",
+          "price": 138,
+          "tags": [
+            "Chocolate",
+            "Liquor-filled",
+            "Gift Box",
+            "High-end",
+            "Pastries",
+            "Gift Giving"
+          ],
+          "product_id": "S17550810625406958_P00009",
+          "attributes": [
+            "Brandy",
+            "Whiskey",
+            "Rum"
+          ],
+          "product_type": "distraction"
+        },
+        {
+          "name": "Diabetic-friendly Cake (6-inch)",
+          "store_id": "S17550810625406958_S00002",
+          "store_name": "Sweet Time Cake Shop",
+          "price": 168,
+          "tags": [
+            "Sugar-free",
+            "Low Calorie",
+            "Special Dietary Needs",
+            "Pastries",
+            "Gift Giving"
+          ],
+          "product_id": "S17550810625406958_P00010",
+          "attributes": [
+            "Sugar-free",
+            "Low Fat",
+            "Low Calorie"
+          ],
+          "product_type": "target"
+        }
+      ]
+    },
+    "S17550810625406958_S00003": {
+      "name": "Healthy Pastry House",
+      "store_id": "S17550810625406958_S00003",
+      "score": 4.6,
+      "location": {
+        "address": "Healthy Pastry House, 520 Jinyang North Road, Guanshanhu District, Guiyang, Guizhou Province",
+        "latitude": 26.6192,
+        "longitude": 106.6256
+      },
+      "tags": [
+        "Sugar-free",
+        "Low Fat",
+        "Healthy",
+        "Pastries"
+      ],
+      "store_type": "target",
+      "products": [
+        {
+          "name": "Sugar-free Multigrain Cake Gift Box",
+          "store_id": "S17550810625406958_S00003",
+          "store_name": "Healthy Pastry House",
+          "price": 88,
+          "tags": [
+            "Sugar-free",
+            "Multigrain",
+            "Gift Box",
+            "Healthy",
+            "Ideal Gifts"
+          ],
+          "product_id": "S17550810625406958_P00011",
+          "attributes": [
+            "Standard Size",
+            "Elegant Packaging"
+          ],
+          "product_type": "target"
+        },
+        {
+          "name": "Low Fat Whole Wheat Cranberry Cookies",
+          "store_id": "S17550810625406958_S00003",
+          "store_name": "Healthy Pastry House",
+          "price": 42,
+          "tags": [
+            "Low Fat",
+            "Whole Wheat",
+            "Cranberry",
+            "Sugar-free",
+            "Healthy Snacks"
+          ],
+          "product_id": "S17550810625406958_P00012",
+          "attributes": [
+            "Standard Size",
+            "Gift Box Package"
+          ],
+          "product_type": "target"
+        },
+        {
+          "name": "Rye Walnut Pastry Gift Box",
+          "store_id": "S17550810625406958_S00003",
+          "store_name": "Healthy Pastry House",
+          "price": 65,
+          "tags": [
+            "Low Sugar",
+            "Rye",
+            "Walnut",
+            "Gift Box",
+            "Healthy"
+          ],
+          "product_id": "S17550810625406958_P00013",
+          "attributes": [
+            "Standard Size",
+            "Elegant Packaging"
+          ],
+          "product_type": "distraction"
+        },
+        {
+          "name": "Sugar-free Oatmeal Cookie Gift Box",
+          "store_id": "S17550810625406958_S00003",
+          "store_name": "Healthy Pastry House",
+          "price": 58,
+          "tags": [
+            "Sugar-free",
+            "Oatmeal",
+            "Gift Box",
+            "Healthy",
+            "Gift Giving"
+          ],
+          "product_id": "S17550810625406958_P00014",
+          "attributes": [
+            "Standard Size",
+            "Elegant Packaging"
+          ],
+          "product_type": "target"
+        },
+        {
+          "name": "Low Sugar Fermented Rice Cake",
+          "store_id": "S17550810625406958_S00003",
+          "store_name": "Healthy Pastry House",
+          "price": 48,
+          "tags": [
+            "Low Sugar",
+            "Fermented Rice Wine",
+            "Cake",
+            "Special"
+          ],
+          "product_id": "S17550810625406958_P00015",
+          "attributes": [
+            "Standard Size",
+            "Elegant Packaging"
+          ],
+          "product_type": "distraction"
+        }
+      ]
+    },
+    "S17550810625406958_S00004": {
+      "name": "Traditional Pastry Shop",
+      "store_id": "S17550810625406958_S00004",
+      "score": 4.3,
+      "location": {
+        "address": "Traditional Pastry Shop, 78 Jinyang East Road, Guanshanhu District, Guiyang, Guizhou Province",
+        "latitude": 26.6173,
+        "longitude": 106.6329
+      },
+      "tags": [
+        "Traditional Pastries",
+        "Handmade"
+      ],
+      "store_type": "distraction",
+      "products": [
+        {
+          "name": "Traditional Osmanthus Cake Gift Box",
+          "store_id": "S17550810625406958_S00004",
+          "store_name": "Traditional Pastry Shop",
+          "price": 68.0,
+          "tags": [
+            "Traditional Pastries",
+            "Gift Box Package",
+            "Osmanthus Flavor",
+            "Ideal Gifts",
+            "Handmade"
+          ],
+          "product_id": "S17550810625406958_P00016",
+          "attributes": [
+            "Low Sugar Version",
+            "Standard Version"
+          ],
+          "product_type": "distraction"
+        },
+        {
+          "name": "Mung Bean Cake Gift Box",
+          "store_id": "S17550810625406958_S00004",
+          "store_name": "Traditional Pastry Shop",
+          "price": 58.0,
+          "tags": [
+            "Traditional Pastries",
+            "Mung Bean Flavor",
+            "Gift Box Package",
+            "Handmade",
+            "Low Sugar"
+          ],
+          "product_id": "S17550810625406958_P00017",
+          "attributes": [
+            "Small Box (6 pieces)",
+            "Large Box (12 pieces)"
+          ],
+          "product_type": "distraction"
+        },
+        {
+          "name": "Traditional Walnut Cookies",
+          "store_id": "S17550810625406958_S00004",
+          "store_name": "Traditional Pastry Shop",
+          "price": 45.0,
+          "tags": [
+            "Traditional Pastries",
+            "Walnut Flavor",
+            "Crispy Texture",
+            "Handmade"
+          ],
+          "product_id": "S17550810625406958_P00018",
+          "attributes": [
+            "Low Sugar Version",
+            "Standard Version"
+          ],
+          "product_type": "distraction"
+        },
+        {
+          "name": "Traditional Mooncake Gift Box",
+          "store_id": "S17550810625406958_S00004",
+          "store_name": "Traditional Pastry Shop",
+          "price": 88.0,
+          "tags": [
+            "Traditional Pastries",
+            "Gift Box Package",
+            "Handmade",
+            "Ideal Gifts"
+          ],
+          "product_id": "S17550810625406958_P00019",
+          "attributes": [
+            "Low Sugar Version",
+            "Sugar-free Version",
+            "Standard Version"
+          ],
+          "product_type": "distraction"
+        },
+        {
+          "name": "Red Bean Paste Pastry",
+          "store_id": "S17550810625406958_S00004",
+          "store_name": "Traditional Pastry Shop",
+          "price": 42.0,
+          "tags": [
+            "Traditional Pastries",
+            "Red Bean Paste",
+            "Handmade",
+            "Gift Giving"
+          ],
+          "product_id": "S17550810625406958_P00020",
+          "attributes": [
+            "Low Sugar Version",
+            "Standard Version"
+          ],
+          "product_type": "distraction"
+        }
+      ]
+    }
+  },
+  "orders": {
+    "A0806004T002": {
+      "order_id": "A0806004T002",
+      "order_type": "delivery",
+      "user_id": "U010027",
+      "store_id": "S17550810625406958_S00003",
+      "note": "",
+      "location": {
+        "address": "31 Luosi Mountain Road, Qixia Community, Yunyan District, Guiyang, Guizhou Province (280m walk from Yangmingci Metro Station Exit C)",
+        "longitude": 106.7123,
+        "latitude": 26.5783
+      },
+      "dispatch_time": "2024-07-31 19:31:00",
+      "shipping_time": 26,
+      "delivery_time": "2024-07-31 19:57:00",
+      "total_price": 65,
+      "create_time": "2024-07-31 19:22:08",
+      "update_time": "2024-07-31 19:22:08",
+      "status": "delivered",
+      "products": [
+        {
+          "product_id": "S17550810625406958_P00013",
+          "price": 65,
+          "quantity": 1,
+          "name": "Rye Walnut Pastry Gift Box",
+          "attributes": ""
+        }
+      ]
+    }
+  }
+}

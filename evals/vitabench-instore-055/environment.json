@@ -1,0 +1,195 @@
+{
+  "task_id": "10826189",
+  "domain": "instore",
+  "time": "2024-02-13 15:30:00",
+  "user_id": "U399083",
+  "weather": [
+    {
+      "city": "Jinhua",
+      "category": "cloudy",
+      "datetime": "2024-02-13",
+      "temperature": [
+        4,
+        12
+      ],
+      "humidity": 58
+    },
+    {
+      "city": "Jinhua",
+      "category": "sunny",
+      "datetime": "2024-02-14",
+      "temperature": [
+        5,
+        15
+      ],
+      "humidity": 45
+    }
+  ],
+  "location": [
+    {
+      "address": "Room 1203, Building 8, Zone A, Jinhua Wanda Plaza, 1188 Binhong Road, Wucheng District, Jinhua City, Zhejiang Province",
+      "longitude": 119.654321,
+      "latitude": 29.098765
+    },
+    {
+      "address": "5th Floor, Building C, Jinhua Science and Technology Park, 518 Xianyuan Road, Wucheng District, Jinhua City, Zhejiang Province",
+      "longitude": 119.672468,
+      "latitude": 29.104532
+    }
+  ],
+  "user_profile": {
+    "user id": "U399083",
+    "occupation": "Engineer",
+    "gender": "male",
+    "age group": "30~35",
+    "residence": "Jinhua",
+    "home address": "Room 1203, Building 8, Zone A, Jinhua Wanda Plaza, 1188 Binhong Road, Wucheng District, Jinhua City, Zhejiang Province",
+    "work address": "5th Floor, Building C, Jinhua Science and Technology Park, 518 Xianyuan Road, Wucheng District, Jinhua City, Zhejiang Province",
+    "dietary restrictions": "Avoid high salt, avoid fried food",
+    "family status": "In a relationship",
+    "personality": "Overly dependent on others for guidance, lacks personal opinions and decisiveness"
+  },
+  "user_historical_behaviors": {
+    "user id": "U399083",
+    "occupation": "Engineer",
+    "gender": "male",
+    "age group": "30~35",
+    "residence": "Jinhua",
+    "home address": "Room 1203, Building 8, Zone A, Jinhua Wanda Plaza, 1188 Binhong Road, Wucheng District, Jinhua City, Zhejiang Province",
+    "work address": "5th Floor, Building C, Jinhua Science and Technology Park, 518 Xianyuan Road, Wucheng District, Jinhua City, Zhejiang Province",
+    "Food service": {
+      "fine-dining": {
+        "frequently purchased categories": [
+          "Local Cuisine/Shanghai and Zhejiang Cuisine (Average 120 yuan)",
+          "Foreign Cuisine/Japanese Food (Average 150 yuan)",
+          "Local Cuisine/Fish Specialties (Average 130 yuan)"
+        ],
+        "preferred average price per person": "100~250 yuan",
+        "preferred store rating": "4.2~5.0 stars",
+        "typical dining time": "18:30-20:30",
+        "preferred distance": "1000~5000m",
+        "recent orders": [
+          {
+            "store": "Jiangnan Kitchen",
+            "product": "West Lake Vinegar Fish Set"
+          },
+          {
+            "store": "Japanese Style Cuisine",
+            "product": "Sashimi Platter + Sushi Combo"
+          },
+          {
+            "store": "Fish Paradise",
+            "product": "Steamed Grouper"
+          }
+        ],
+        "search history": [
+          "Oil-free Cooking",
+          "Healthy Japanese Food",
+          "Low-salt Dishes",
+          "Jiangsu and Zhejiang Cuisine"
+        ]
+      },
+      "light meal": {
+        "frequently purchased categories": [
+          "Fast Food/Chinese Quick Meals (Average 35 yuan)",
+          "Fast Food/Western Quick Meals (Average 40 yuan)",
+          "Local Cuisine/Specialty Dishes (Average 45 yuan)"
+        ],
+        "preferred average price per person": "30~50 yuan",
+        "preferred store rating": "3.5~4.3 stars",
+        "typical dining time": "12:00-13:00",
+        "preferred distance": "0~500m",
+        "recent orders": [
+          {
+            "store": "Light Salad Bar",
+            "product": "Chicken Breast Vegetable Salad"
+          },
+          {
+            "store": "Good Porridge",
+            "product": "Century Egg & Lean Pork Porridge + Seasonal Vegetables"
+          },
+          {
+            "store": "Nutritional Work Meal",
+            "product": "Steamed Chicken Breast + Brown Rice"
+          }
+        ],
+        "search history": [
+          "Low-fat Meals",
+          "Work Meals",
+          "Healthy Fast Food",
+          "Restaurants near Science Park"
+        ]
+      },
+      "desserts/drinks/snacks": {
+        "frequently purchased categories": [
+          "Beverage Shops (Average 20 yuan)",
+          "Bread and Desserts (Average 25 yuan)",
+          "Other Dining/Fresh Fruits (Average 15 yuan)"
+        ],
+        "preferred average price per person": "15~30 yuan",
+        "preferred store rating": "3.8~4.5 stars",
+        "typical dining time": "15:00-16:30",
+        "preferred distance": "0~300m",
+        "recent orders": [
+          {
+            "store": "Fresh Fruit Cuts",
+            "product": "Fruit Platter"
+          },
+          {
+            "store": "Tea Hundred",
+            "product": "Sugar-free Green Tea"
+          },
+          {
+            "store": "Bread Talk",
+            "product": "Whole Wheat Bread"
+          }
+        ],
+        "search history": [
+          "Low-sugar Beverages",
+          "Healthy Snacks",
+          "Fruits",
+          "Whole Wheat Pastries"
+        ]
+      }
+    },
+    "other in-store services": {
+      "frequently consumed categories": {
+        "Sports & Fitness/Fitness Centers": "45%",
+        "Sports & Fitness/Ball Sports": "30%",
+        "Pets/Pet Hospitals": "15%",
+        "Leisure & Entertainment/Massage/Foot Therapy": "10%"
+      },
+      "cost per order by category": {
+        "Sports & Fitness/Fitness Centers": "150~300 yuan",
+        "Sports & Fitness/Ball Sports": "80~120 yuan",
+        "Pets/Pet Hospitals": "200~500 yuan",
+        "Leisure & Entertainment/Massage/Foot Therapy": "150~200 yuan"
+      },
+      "preferred store rating": "4.0~5.0 stars",
+      "preferred service time": "19:00-21:00",
+      "preferred distance": "0~5000m",
+      "recent orders": [
+        {
+          "store": "Jinhua Fitness Factory",
+          "product": "Monthly Fitness Card"
+        },
+        {
+          "store": "Pet Love Animal Hospital",
+          "product": "Pet Health Checkup Package"
+        },
+        {
+          "store": "Jinhua Badminton Court",
+          "product": "Two-person Court for 2 Hours"
+        }
+      ],
+      "search history": [
+        "Gym Monthly Pass",
+        "Pet Hospital",
+        "Badminton Court Reservation",
+        "Sports Massage"
+      ]
+    }
+  },
+  "stores": {},
+  "orders": {}
+}

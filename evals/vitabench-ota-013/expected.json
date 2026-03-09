@@ -1,0 +1,96 @@
+{
+  "required_orders": [
+    {
+      "order_id": "D0806004T001",
+      "order_type": "hotel",
+      "user_id": "U010026",
+      "store_id": "S17557505486254699_H00002",
+      "note": "",
+      "location": null,
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 796,
+      "create_time": "2025-12-18 17:37:00",
+      "update_time": "2025-12-18 17:37:00",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17557505486254699_P00009",
+          "price": 398,
+          "quantity": 1,
+          "date": "2026-01-02",
+          "room_type": "Comfort king room"
+        },
+        {
+          "product_id": "S17557505486254699_P00010",
+          "price": 398,
+          "quantity": 1,
+          "date": "2026-01-03",
+          "room_type": "Comfort king room"
+        }
+      ]
+    },
+    {
+      "order_id": "D0806004T002",
+      "order_type": "flight",
+      "user_id": "U010026",
+      "store_id": "S17557505486254699_F00009",
+      "note": "",
+      "location": null,
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 920,
+      "create_time": "2025-12-18 17:43:31",
+      "update_time": "2025-12-18 17:43:31",
+      "status": "unpaid",
+      "products": [
+        {
+          "product_id": "S17557505486254699_P00090",
+          "price": 920,
+          "quantity": 1,
+          "date": "2025-01-02",
+          "seat_type": "Economy class"
+        }
+      ]
+    },
+    {
+      "order_id": "D0806004T003",
+      "order_type": "flight",
+      "user_id": "U010026",
+      "store_id": "S17557505486254699_F00011",
+      "note": "",
+      "location": null,
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 780,
+      "create_time": "2025-12-18 17:45:52",
+      "update_time": "2025-12-18 17:45:52",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17557505486254699_P00108",
+          "price": 780,
+          "quantity": 1,
+          "date": "2025-01-05",
+          "seat_type": "Economy class"
+        }
+      ]
+    }
+  ],
+  "rubrics": [
+    "The booked hotel brand should be one that the user frequently stays at (such as Home Inn, Orange Hotel, Ji Hotel, Hanting Hotel, Atour)",
+    "The booked hotel should be within 1km of Lanzhou Hyatt Hotel",
+    "The hotel booking dates should be January 2, 2026 and January 3, 2026",
+    "The booked hotel room type should be a king room",
+    "The outbound flight should be from Shenyang to Lanzhou",
+    "The arrival time of the outbound flight should not be too late, and should avoid late night arrival",
+    "Since the hotel is booked for January 2, 2026 and January 3, 2026, the outbound flight date should be January 2, 2026",
+    "The return flight should be from Lanzhou to Shenyang",
+    "The return flight date is flexible, but the entire trip should not exceed 5 days (with the latest return date being January 7, 2026)",
+    "Since the wedding is on January 3, 2026, the return date should be January 4, 2026 or later",
+    "The return flight should consider cost savings, and should choose the lowest priced flight"
+  ]
+}

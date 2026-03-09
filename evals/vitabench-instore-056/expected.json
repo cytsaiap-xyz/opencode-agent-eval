@@ -1,0 +1,100 @@
+{
+  "required_orders": [
+    {
+      "order_id": "10826073T001",
+      "order_type": "instore",
+      "user_id": "U839973",
+      "store_id": "S17567836591639964_I00001",
+      "note": "",
+      "location": null,
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 268,
+      "create_time": "2024-10-22 15:31:23",
+      "update_time": "2024-10-22 15:31:23",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17567836591639964_P00001",
+          "name": "Two-Person Go-Kart Experience Package",
+          "price": 268,
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "reservation_id": "10826073T002",
+      "shop_id": "S17567836591639964_I00001",
+      "reservation_time": "2024-10-27 09:00:00",
+      "update_time": "2024-10-22 15:32:59",
+      "customer_id": "U839973",
+      "customer_count": 2,
+      "status": "paid"
+    },
+    {
+      "order_id": "10826073T003",
+      "order_type": "instore",
+      "user_id": "U839973",
+      "store_id": "S17567836591639964_I00002",
+      "note": "",
+      "location": null,
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 158,
+      "create_time": "2024-10-22 15:35:12",
+      "update_time": "2024-10-22 15:35:12",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17567836591639964_P00010",
+          "name": "Classic Taco Package for Three",
+          "price": 158,
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "order_id": "10826073T004",
+      "order_type": "instore",
+      "user_id": "U839973",
+      "store_id": "S17567836591639964_I00003",
+      "note": "",
+      "location": null,
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 258,
+      "create_time": "2024-10-22 15:39:23",
+      "update_time": "2024-10-22 15:39:23",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17567836591639964_P00019",
+          "name": "Forest Adventure Family Package (2 adults & 1 child)",
+          "price": 258,
+          "quantity": 1
+        }
+      ]
+    }
+  ],
+  "rubrics": [
+    "The go-kart track should have a professional track design",
+    "The go-kart track should be an outdoor venue",
+    "The go-kart track should have commercial areas or food streets nearby",
+    "The go-kart track order should be a Two-Person Package",
+    "The go-kart package ordered should include One Adult and One Child racing",
+    "The go-kart track order should include safety equipment",
+    "The go-kart track product ordered should be available on weekends",
+    "The reserved go-kart track should be Speed Star Karting Track",
+    "The go-kart track reservation time should be 2024-10-27 09:00:00",
+    "You will bring your wife and child, but your wife doesn't like to participate and will take photos of you and your son from outside the track. Therefore, the go-kart track reservation should be for 2 people (you and your son)",
+    "The restaurant ordered should be a Mexican restaurant",
+    "The restaurant order should include Tacos",
+    "The restaurant order should be a three-person meal package, not multiple individual meals",
+    "The park should be closest to B1-102, Sheshan Tianjie, 1088 Linhu Road, Sheshan Town, Songjiang District, Shanghai",
+    "The park order should be a package for two adults and one child",
+    "The park should provide parking facilities"
+  ]
+}

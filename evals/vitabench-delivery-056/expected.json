@@ -1,0 +1,64 @@
+{
+  "required_orders": [
+    {
+      "order_id": "C0715003O01",
+      "order_type": "delivery",
+      "user_id": "U000048",
+      "store_id": "S28404261973362267_S09257",
+      "note": "",
+      "location": {
+        "address": "Building B, Tencent Chengdu Building, Yunhua Road, Wuhou District, Chengdu, Sichuan Province",
+        "longitude": 104.061326,
+        "latitude": 30.54574
+      },
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 27.8,
+      "create_time": "2025-09-22 13:35:00",
+      "update_time": "2025-09-22 13:40:00",
+      "status": "cancelled",
+      "products": [
+        {
+          "product_id": "S15458320778579145_P28238",
+          "price": 27.8,
+          "quantity": 1,
+          "attributes": ""
+        }
+      ]
+    },
+    {
+      "order_id": "C0715003T01",
+      "order_type": "delivery",
+      "user_id": "U000048",
+      "store_id": "S30429076779051471_S54922",
+      "note": "",
+      "location": {
+        "address": "Building B, Tencent Chengdu Building, Yunhua Road, Wuhou District, Chengdu, Sichuan Province",
+        "longitude": 104.061326,
+        "latitude": 30.54574
+      },
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 29.8,
+      "create_time": "2025-09-22 13:43:00",
+      "update_time": "2025-09-22 13:43:00",
+      "status": "processed",
+      "products": [
+        {
+          "product_id": "S86414532350831970_P92398",
+          "price": 29.8,
+          "quantity": 1,
+          "attributes": ""
+        }
+      ]
+    }
+  ],
+  "rubrics": [
+    "Successfully canceled user's \"Deluxe\" Egg Pancake order from Jianbing Story (Tofu Pudding · Soy Milk · Porridge · Huayang Branch), order status should be changed to cancelled",
+    "The delivery address for the Roast Duck and Char Siu Combo Rice order should be Building B, Tencent Chengdu Building, Yunhua Road, Wuhou District, Chengdu, Sichuan Province",
+    "The estimated delivery time for the Roast Duck and Char Siu Combo Rice order should be after 2025-09-22 16:00",
+    "The Roast Duck and Char Siu Combo Rice order should not select Macau Chen Guangji Roast Restaurant (Yuanda Branch) as the merchant"
+  ]
+}

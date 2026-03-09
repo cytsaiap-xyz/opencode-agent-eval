@@ -1,0 +1,866 @@
+{
+  "task_id": "A0811003",
+  "domain": "cross_domain",
+  "time": "2025-05-16 10:22:34",
+  "user_id": "U084589",
+  "weather": [
+    {
+      "city": "Chengdu",
+      "category": "sunny",
+      "datetime": "2025-05-16",
+      "temperature": [
+        20,
+        28
+      ],
+      "humidity": 65
+    },
+    {
+      "city": "Chengdu",
+      "category": "cloudy",
+      "datetime": "2025-05-17",
+      "temperature": [
+        19,
+        27
+      ],
+      "humidity": 70
+    }
+  ],
+  "location": [
+    {
+      "address": "Sichuan Provincial People's Hospital, 17 South Renmin Road Section 3, Wuhou District, Chengdu, Sichuan Province",
+      "longitude": 104.0688,
+      "latitude": 30.6339
+    }
+  ],
+  "user_profile": {
+    "user id": "U084589",
+    "occupation": "nurse",
+    "gender": "male",
+    "age group": "25~30",
+    "residence": "Chengdu",
+    "home address": "Room 502, Unit 2, Building 3, Jinjiang Yijia Community, 42 Wangjiang Road, Wuhou District, Chengdu, Sichuan Province",
+    "work address": "Sichuan Provincial People's Hospital, 17 South Renmin Road Section 3, Wuhou District, Chengdu, Sichuan Province",
+    "dietary restrictions": "No alcohol, No high-fat organs",
+    "family status": "In a relationship",
+    "personality": "Tends to be anxious and worried, needs repeated confirmation to feel at ease"
+  },
+  "user_historical_behaviors": {
+    "user id": "U084589",
+    "occupation": "nurse",
+    "gender": "male",
+    "age group": "25~30",
+    "residence": "Chengdu",
+    "home address": "Room 502, Unit 2, Building 3, Jinjiang Yijia Community, 42 Wangjiang Road, Wuhou District, Chengdu, Sichuan Province",
+    "work address": "Sichuan Provincial People's Hospital, 17 South Renmin Road Section 3, Wuhou District, Chengdu, Sichuan Province",
+    "delivery": {
+      "food delivery": {
+        "breakfast": {
+          "frequently purchased categories": [
+            "Quick meals/Light food (Average 35 yuan)",
+            "Quick meals/Sandwiches (Average 28 yuan)",
+            "Quick meals/Healthy meals (Average 42 yuan)"
+          ],
+          "cost per order": "25~45 yuan",
+          "preferred store rating": "4.5~5.0 points",
+          "preferred delivery time": "15~25 minutes",
+          "preferred distance": "0~2500m",
+          "recent orders": [
+            {
+              "store": "Energetic Light Breakfast",
+              "product": "Avocado Chicken Sandwich + Sugar-free Soy Milk"
+            },
+            {
+              "store": "Salad Diary",
+              "product": "Quinoa Chicken Salad + Fresh Orange Juice"
+            },
+            {
+              "store": "Salad Box",
+              "product": "Low-fat Protein Energy Bowl"
+            }
+          ],
+          "search history": [
+            "Low-sugar breakfast",
+            "Healthy light food",
+            "Protein",
+            "Sugar-free soy milk"
+          ]
+        },
+        "weekday lunch/dinner": {
+          "frequently purchased categories": [
+            "Quick meals/Healthy meals (Average 55 yuan)",
+            "Chinese cuisine/Sichuan Cuisine (Average 75 yuan)",
+            "International cuisine/Korean cuisine (Average 68 yuan)"
+          ],
+          "cost per order": "50~80 yuan",
+          "preferred store rating": "4.7~5.0 points",
+          "preferred delivery time": "25~40 minutes",
+          "preferred distance": "0~3500m",
+          "recent orders": [
+            {
+              "store": "Xunwei Sichuan Cuisine",
+              "product": "Boiled Fish (Mild spicy) + Brown Rice"
+            },
+            {
+              "store": "Korean Cuisine Workshop",
+              "product": "Stone Bowl Bibimbap + Seaweed Soup"
+            },
+            {
+              "store": "Fit Fitness Meals",
+              "product": "Low-fat Chicken Breast Meal"
+            }
+          ],
+          "search history": [
+            "Healthy lunch",
+            "High protein low fat",
+            "Sugar-free beverages",
+            "Sichuan Cuisine"
+          ]
+        },
+        "weekend lunch/dinner": {
+          "frequently purchased categories": [
+            "Chinese cuisine/Cantonese cuisine (Average 120 yuan)",
+            "Chinese cuisine/Shandong cuisine (Average 135 yuan)",
+            "International cuisine/Japanese bento/Sushi (Average 150 yuan)"
+          ],
+          "cost per order": "100~180 yuan",
+          "preferred store rating": "4.8~5.0 points",
+          "preferred delivery time": "30~45 minutes",
+          "preferred distance": "0~5000m",
+          "recent orders": [
+            {
+              "store": "Yuexiang House",
+              "product": "White Cut Chicken + Steamed Fish + Seasonal Vegetables"
+            },
+            {
+              "store": "Luyun Family Feast",
+              "product": "Braised Sea Cucumber with Scallion + Braised Pork in Abalone Sauce + Shandong Pancake"
+            },
+            {
+              "store": "Fujisaki Sushi",
+              "product": "Deluxe Sashimi Platter + Hell Ramen"
+            }
+          ],
+          "search history": [
+            "High-end Cantonese cuisine",
+            "Non-alcoholic Japanese cuisine",
+            "Healthy family feast",
+            "Private chef delivery"
+          ]
+        },
+        "desserts/drinks/snacks": {
+          "frequently purchased categories": [
+            "Beverages and desserts/Juice (Average 32 yuan)",
+            "Beverages and desserts/Fruit salad (Average 38 yuan)",
+            "Beverages and desserts/Coffee (Average 35 yuan)"
+          ],
+          "cost per order": "30~45 yuan",
+          "preferred store rating": "4.6~5.0 points",
+          "preferred delivery time": "15~30 minutes",
+          "preferred distance": "0~3000m",
+          "recent orders": [
+            {
+              "store": "Fresh Juice Bar",
+              "product": "Fresh Grapefruit Juice (Sugar-free)"
+            },
+            {
+              "store": "Fruit Mix",
+              "product": "Colorful Fruit Salad (No sugar added)"
+            },
+            {
+              "store": "Starbucks",
+              "product": "Americano (Sugar-free)"
+            }
+          ],
+          "search history": [
+            "Sugar-free beverages",
+            "Low-sugar fruit salad",
+            "Healthy drinks",
+            "Cold brew coffee"
+          ]
+        },
+        "night snack": {
+          "frequently purchased categories": [
+            "Quick meals/Small dishes (Average 48 yuan)",
+            "Snacks and braised food/Braised items (Average 42 yuan)",
+            "Quick meals/Dumplings/Wonton (Average 35 yuan)"
+          ],
+          "cost per order": "35~55 yuan",
+          "preferred store rating": "4.5~4.9 points",
+          "preferred delivery time": "20~35 minutes",
+          "preferred distance": "0~3000m",
+          "recent orders": [
+            {
+              "store": "Old Street Braised Food",
+              "product": "Braised Chicken Feet + Braised Tofu + Braised Eggs"
+            },
+            {
+              "store": "Small Bowl Restaurant",
+              "product": "Small Bowl Beef + Small Bowl Vegetables"
+            },
+            {
+              "store": "Dumpling House",
+              "product": "Three Delicacies Dumplings + Seaweed Soup"
+            }
+          ],
+          "search history": [
+            "Low-oil braised food",
+            "Small portion night snack",
+            "Dumplings",
+            "Light night snack"
+          ]
+        }
+      },
+      "product delivery": {
+        "frequently purchased categories": [
+          "Fruits(28%)",
+          "Vegetables/Bean products(22%)",
+          "Pet supplies(18%)",
+          "Household items(15%)",
+          "Personal care(10%)",
+          "Others(7%)"
+        ],
+        "frequently visited stores": [
+          "Hema Fresh(38%)",
+          "7-FRESH(27%)",
+          "Pet Life(20%)",
+          "Other stores(15%)"
+        ],
+        "cost per order by category": {
+          "Fruits": "20~80 yuan",
+          "Vegetables/Bean products": "10~40 yuan",
+          "Pet supplies": "50~200 yuan",
+          "Household items": "30~100 yuan",
+          "Personal care": "60~150 yuan"
+        },
+        "preferred delivery time": "30~60 minutes",
+        "typical order time": "9~11 AM(32%), 4~6 PM(28%), 8~9 PM(18%)",
+        "recent orders": [
+          {
+            "store": "Hema Fresh",
+            "product": "Organic Blueberries 300g, 2 Avocados, 4 Kiwis"
+          },
+          {
+            "store": "Pet Life",
+            "product": "Imported Cat Food 5kg, Cat Litter 10L"
+          },
+          {
+            "store": "7-FRESH",
+            "product": "Organic Spinach, Tofu, Shiitake Mushrooms"
+          }
+        ],
+        "search history": [
+          "Organic fruits",
+          "Additive-free cat food",
+          "Hypoallergenic shampoo",
+          "Imported avocado",
+          "Fresh vegetables"
+        ]
+      }
+    },
+    "in-store consumption": {
+      "in-store dining": {
+        "fine-dining": {
+          "frequently consumed categories": [
+            "Regional cuisine/Sichuan Cuisine (Average 120 yuan)",
+            "International cuisine/Japanese cuisine (Average 150 yuan)",
+            "Regional cuisine/Fish dishes (Average 130 yuan)"
+          ],
+          "preferred average price per person": "100~150 yuan",
+          "preferred store rating": "4.2~4.8 stars",
+          "typical dining time": "19:00-21:00",
+          "preferred distance": "500~3000m",
+          "recent orders": [
+            {
+              "store": "Jincheng Impression Sichuan Restaurant",
+              "product": "Boiled Fish Set"
+            },
+            {
+              "store": "Huayin Japanese Restaurant",
+              "product": "Sashimi Platter + Sushi Set"
+            },
+            {
+              "store": "Yulewan",
+              "product": "Steamed Sea Bass + Seasonal Vegetables"
+            }
+          ],
+          "search history": [
+            "Oil-free and non-spicy Sichuan cuisine",
+            "Japanese cuisine",
+            "Healthy fish meal",
+            "Couple dating restaurant"
+          ]
+        },
+        "light meal": {
+          "frequently consumed categories": [
+            "Snacks and fast food/Chinese quick meals (Average 35 yuan)",
+            "Snacks and fast food/Western fast food (Average 40 yuan)",
+            "Regional cuisine/Jiangsu and Zhejiang cuisine (Average 45 yuan)"
+          ],
+          "preferred average price per person": "25~50 yuan",
+          "preferred store rating": "3.5~4.2 stars",
+          "typical dining time": "11:30-13:00",
+          "preferred distance": "0~500m",
+          "recent orders": [
+            {
+              "store": "Hospital Cafeteria",
+              "product": "Stir-fried Vegetables Set"
+            },
+            {
+              "store": "Salad Diary",
+              "product": "Chicken Breast Vegetable Salad"
+            },
+            {
+              "store": "Yipinxuan",
+              "product": "Steamed Fresh Fish + Seasonal Vegetables"
+            }
+          ],
+          "search history": [
+            "Healthy meals near hospital",
+            "Low-fat meals",
+            "Quick simple meals",
+            "Vegetable set"
+          ]
+        },
+        "desserts/drinks/snacks": {
+          "frequently consumed categories": [
+            "Beverage shops (Average 18 yuan)",
+            "Bread and desserts (Average 25 yuan)",
+            "Other dining/Fresh fruits (Average 15 yuan)"
+          ],
+          "preferred average price per person": "15~30 yuan",
+          "preferred store rating": "3.8~4.5 stars",
+          "typical dining time": "15:00-16:30",
+          "preferred distance": "0~300m",
+          "recent orders": [
+            {
+              "store": "Fresh Fruit Workshop",
+              "product": "Fruit Platter"
+            },
+            {
+              "store": "Nayuki",
+              "product": "Sugar-free Jasmine Tea"
+            },
+            {
+              "store": "Bread Talk",
+              "product": "Whole Wheat Bread"
+            }
+          ],
+          "search history": [
+            "Low-sugar beverages",
+            "Healthy desserts",
+            "Fruits",
+            "Sugar-free milk tea"
+          ]
+        }
+      },
+      "other in-store services": {
+        "frequently consumed categories": {
+          "Sports and fitness/Fitness centers": "40%",
+          "Sports and fitness/Ball sports": "30%",
+          "Leisure and entertainment/Massage/Foot therapy": "20%",
+          "Beauty/Yoga": "10%"
+        },
+        "cost per order by category": {
+          "Sports and fitness/Fitness centers": "80~200 yuan",
+          "Sports and fitness/Ball sports": "50~120 yuan",
+          "Leisure and entertainment/Massage/Foot therapy": "120~200 yuan",
+          "Beauty/Yoga": "100~180 yuan"
+        },
+        "preferred store rating": "4.0~4.7 stars",
+        "preferred service time": "18:00-21:00",
+        "preferred distance": "0~2000m",
+        "recent orders": [
+          {
+            "store": "Will's Gym (Wangjiang Road Branch)",
+            "product": "Single Fitness Session"
+          },
+          {
+            "store": "Chengdu Sports Center",
+            "product": "Badminton Court Reservation"
+          },
+          {
+            "store": "Jingxin Foot Therapy",
+            "product": "Foot Massage Fatigue Relief Package"
+          }
+        ],
+        "search history": [
+          "Gym monthly card",
+          "Badminton courts",
+          "Foot massage",
+          "Yoga classes",
+          "Medical staff fitness discount"
+        ]
+      }
+    },
+    "OTA": {
+      "visited scenes": {
+        "Cultural heritage sites": "25%",
+        "Exhibition halls (Museums/Art galleries)": "20%",
+        "Natural landscapes (Mountains/Lakes/Forests)": "30%",
+        "Hot spring resorts": "15%",
+        "Parks": "10%"
+      },
+      "cost per night on hotel": "300~500 yuan",
+      "visited hotels": {
+        "Home Inn": "35%",
+        "Hanting": "25%",
+        "Ji Hotel": "20%",
+        "Atour": "15%",
+        "Vienna Hotel": "5%"
+      },
+      "browsed hotels": {
+        "Three-star hotels": "40%",
+        "Comfortable hotels": "45%",
+        "Budget hotels": "15%"
+      },
+      "historical travel plans": {
+        "Chengdu-Chongqing": {
+          "Price range": "150-300 yuan",
+          "Transportation": "High-speed rail/EMU"
+        },
+        "Chengdu-Xi'an": {
+          "Price range": "300-500 yuan",
+          "Transportation": "High-speed rail/EMU"
+        },
+        "Chengdu-Kunming": {
+          "Price range": "400-700 yuan",
+          "Transportation": "High-speed rail/EMU"
+        },
+        "Chengdu-Beijing": {
+          "Price range": "800-1500 yuan",
+          "Transportation": "Airplane"
+        },
+        "Chengdu-Jiuzhaigou": {
+          "Price range": "400-600 yuan",
+          "Transportation": "Long-distance bus"
+        },
+        "Chengdu-Mount Emei": {
+          "Price range": "150-250 yuan",
+          "Transportation": "Self-driving"
+        }
+      }
+    }
+  },
+  "stores": {
+    "S17550812240785286_S00001": {
+      "name": "Electronics Express",
+      "store_id": "S17550812240785286_S00001",
+      "score": 4.7,
+      "location": {
+        "address": "Electronics Express, 86 South Renmin Road Section 1, Wuhou District, Chengdu, Sichuan Province",
+        "latitude": 30.6345,
+        "longitude": 104.0702
+      },
+      "tags": [
+        "Small Appliance",
+        "3C Digital Products",
+        "Daily Necessities"
+      ],
+      "store_type": "target",
+      "products": [
+        {
+          "name": "Mini Portable Neck Fan - Single Pack",
+          "store_id": "S17550812240785286_S00001",
+          "store_name": "Electronics Express",
+          "price": 29.9,
+          "tags": [
+            "USB Charging",
+            "Three-speed Fan",
+            "Quiet"
+          ],
+          "product_id": "S17550812240785286_P00001",
+          "attributes": [
+            "White",
+            "Blue",
+            "Pink"
+          ],
+          "product_type": "target"
+        },
+        {
+          "name": "Mini Portable Neck Fan - Double Pack",
+          "store_id": "S17550812240785286_S00001",
+          "store_name": "Electronics Express",
+          "price": 59.9,
+          "tags": [
+            "USB Charging",
+            "Couples Outfit",
+            "Three-speed Fan",
+            "Quiet"
+          ],
+          "product_id": "S17550812240785286_P00002",
+          "attributes": [
+            "White",
+            "Blue",
+            "Pink"
+          ],
+          "product_type": "target"
+        },
+        {
+          "name": "Advanced Portable Neck Fan - Single Pack",
+          "store_id": "S17550812240785286_S00001",
+          "store_name": "Electronics Express",
+          "price": 59.9,
+          "tags": [
+            "Strong Wind Power",
+            "Extended Battery Life",
+            "USB Charging",
+            "Four-speed Fan"
+          ],
+          "product_id": "S17550812240785286_P00003",
+          "attributes": [
+            "White",
+            "Black"
+          ],
+          "product_type": "distraction"
+        },
+        {
+          "name": "Mini Portable Handheld Fan",
+          "store_id": "S17550812240785286_S00001",
+          "store_name": "Electronics Express",
+          "price": 19.9,
+          "tags": [
+            "Handheld Fan",
+            "Portable",
+            "USB Charging",
+            "Foldable",
+            "Three-speed Fan"
+          ],
+          "product_id": "S17550812240785286_P00004",
+          "attributes": [
+            "White",
+            "Blue",
+            "Green"
+          ],
+          "product_type": "distraction"
+        },
+        {
+          "name": "Desktop Mini Fan",
+          "store_id": "S17550812240785286_S00001",
+          "store_name": "Electronics Express",
+          "price": 39.9,
+          "tags": [
+            "Desktop Fan",
+            "USB Powered",
+            "Adjustable Angle",
+            "Silent Design"
+          ],
+          "product_id": "S17550812240785286_P00005",
+          "attributes": [
+            "White",
+            "Pink"
+          ],
+          "product_type": "distraction"
+        }
+      ]
+    },
+    "S17550812240785286_S00002": {
+      "name": "Tech Lifestyle Store",
+      "store_id": "S17550812240785286_S00002",
+      "score": 4.5,
+      "location": {
+        "address": "Tech Lifestyle Store, 65 North Kehua Road, Wuhou District, Chengdu, Sichuan Province",
+        "latitude": 30.6301,
+        "longitude": 104.0645
+      },
+      "tags": [
+        "3C Digital Products",
+        "Small Appliance",
+        "Office Supplies"
+      ],
+      "store_type": "target",
+      "products": [
+        {
+          "name": "Mini USB Neck Fan",
+          "store_id": "S17550812240785286_S00002",
+          "store_name": "Tech Lifestyle Store",
+          "price": 26.9,
+          "tags": [
+            "USB Charging",
+            "Portable",
+            "Three-speed Fan",
+            "Silent Design"
+          ],
+          "product_id": "S17550812240785286_P00006",
+          "attributes": [
+            "White",
+            "Blue",
+            "Pink"
+          ],
+          "product_type": "target"
+        },
+        {
+          "name": "Dual-head Foldable Neck Fan",
+          "store_id": "S17550812240785286_S00002",
+          "store_name": "Tech Lifestyle Store",
+          "price": 29.9,
+          "tags": [
+            "High-capacity Battery",
+            "Portable Outdoor"
+          ],
+          "product_id": "S17550812240785286_P00007",
+          "attributes": [
+            "Black",
+            "White"
+          ],
+          "product_type": "target"
+        },
+        {
+          "name": "Premium Smart Cooling Neck Fan",
+          "store_id": "S17550812240785286_S00002",
+          "store_name": "Tech Lifestyle Store",
+          "price": 59.9,
+          "tags": [
+            "Touch Control",
+            "Silent Design"
+          ],
+          "product_id": "S17550812240785286_P00009",
+          "attributes": [
+            "Black",
+            "White"
+          ],
+          "product_type": "distraction"
+        },
+        {
+          "name": "Portable Handheld Mini Fan",
+          "store_id": "S17550812240785286_S00002",
+          "store_name": "Tech Lifestyle Store",
+          "price": 15.9,
+          "tags": [
+            "Portable",
+            "USB Charging",
+            "Foldable",
+            "Compact"
+          ],
+          "product_id": "S17550812240785286_P00010",
+          "attributes": [
+            "Blue",
+            "Pink",
+            "White"
+          ],
+          "product_type": "distraction"
+        },
+        {
+          "name": "Multi-functional Office Desk Fan",
+          "store_id": "S17550812240785286_S00002",
+          "store_name": "Tech Lifestyle Store",
+          "price": 39.9,
+          "tags": [
+            "Multi-functional",
+            "USB Powered",
+            "Adjustable Angle",
+            "Quiet"
+          ],
+          "product_id": "S17550812240785286_P00011",
+          "attributes": [
+            "White",
+            "Black"
+          ],
+          "product_type": "distraction"
+        }
+      ]
+    },
+    "S17550812240785286_S00003": {
+      "name": "24-hour Convenience",
+      "store_id": "S17550812240785286_S00003",
+      "score": 4.3,
+      "location": {
+        "address": "24-hour Convenience, 19 South Renmin Road Section 2, Wuhou District, Chengdu, Sichuan Province",
+        "latitude": 30.6348,
+        "longitude": 104.069
+      },
+      "tags": [
+        "Daily Necessities",
+        "Snacks",
+        "Beverage"
+      ],
+      "store_type": "distraction",
+      "products": [
+        {
+          "name": "Mineral Water 500ml",
+          "store_id": "S17550812240785286_S00003",
+          "store_name": "24-hour Convenience",
+          "price": 3.5,
+          "tags": [
+            "Beverage",
+            "Sugar-free",
+            "Thirst-quenching",
+            "Portable"
+          ],
+          "product_id": "S17550812240785286_P00012",
+          "attributes": [],
+          "product_type": "distraction"
+        },
+        {
+          "name": "Coca-Cola 330ml",
+          "store_id": "S17550812240785286_S00003",
+          "store_name": "24-hour Convenience",
+          "price": 4.5,
+          "tags": [
+            "Beverage",
+            "Carbonated",
+            "Thirst-quenching",
+            "Refreshing"
+          ],
+          "product_id": "S17550812240785286_P00013",
+          "attributes": [
+            "Room temperature",
+            "Chilled"
+          ],
+          "product_type": "distraction"
+        },
+        {
+          "name": "Little Raccoon Crispy Noodles",
+          "store_id": "S17550812240785286_S00003",
+          "store_name": "24-hour Convenience",
+          "price": 5,
+          "tags": [
+            "Snacks",
+            "Instant Noodles",
+            "Snack Foods"
+          ],
+          "product_id": "S17550812240785286_P00014",
+          "attributes": [
+            "BBQ flavor",
+            "Braised beef flavor",
+            "Spicy crab flavor"
+          ],
+          "product_type": "distraction"
+        },
+        {
+          "name": "Portable Tissue Pack",
+          "store_id": "S17550812240785286_S00003",
+          "store_name": "24-hour Convenience",
+          "price": 6.9,
+          "tags": [
+            "Daily Necessities",
+            "Paper Products",
+            "Portable"
+          ],
+          "product_id": "S17550812240785286_P00015",
+          "attributes": [
+            "10 sheets",
+            "20 sheets"
+          ],
+          "product_type": "distraction"
+        },
+        {
+          "name": "Sunscreen Spray",
+          "store_id": "S17550812240785286_S00003",
+          "store_name": "24-hour Convenience",
+          "price": 29.9,
+          "tags": [
+            "Daily Necessities",
+            "Sun Protection",
+            "Outdoor",
+            "Recreation"
+          ],
+          "product_id": "S17550812240785286_P00016",
+          "attributes": [
+            "SPF30",
+            "SPF50"
+          ],
+          "product_type": "distraction"
+        }
+      ]
+    },
+    "S17550812240785286_S00004": {
+      "name": "Medical Staff Selection",
+      "store_id": "S17550812240785286_S00004",
+      "score": 4.6,
+      "location": {
+        "address": "Medical Staff Selection, 10 South Renmin Road Section 3, Wuhou District, Chengdu, Sichuan Province",
+        "latitude": 30.6335,
+        "longitude": 104.0686
+      },
+      "tags": [
+        "Medical Supplies",
+        "Daily Necessities",
+        "Small Appliance"
+      ],
+      "store_type": "target",
+      "products": [
+        {
+          "name": "Dual-head Neck Fan - Blue",
+          "store_id": "S17550812240785286_S00004",
+          "store_name": "Medical Staff Selection",
+          "price": 26.9,
+          "tags": [
+            "Neck Fan",
+            "Dual-head Design",
+            "USB Charging",
+            "Outdoor Cooling",
+            "Long-lasting Battery"
+          ],
+          "product_id": "S17550812240785286_P00018",
+          "attributes": [
+            "Blue",
+            "2000mAh battery",
+            "Adjustable wind direction"
+          ],
+          "product_type": "target"
+        },
+        {
+          "name": "Premium Sports Neck Fan - Black",
+          "store_id": "S17550812240785286_S00004",
+          "store_name": "Medical Staff Selection",
+          "price": 59.9,
+          "tags": [
+            "Neck Fan",
+            "Premium Model",
+            "Strong Wind Power",
+            "Waterproof Design",
+            "Extended Battery Life"
+          ],
+          "product_id": "S17550812240785286_P00019",
+          "attributes": [
+            "Black",
+            "3000mAh battery",
+            "7 speed levels"
+          ],
+          "product_type": "distraction"
+        },
+        {
+          "name": "Medical Antibacterial Face Masks (50-pack)",
+          "store_id": "S17550812240785286_S00004",
+          "store_name": "Medical Staff Selection",
+          "price": 29.9,
+          "tags": [
+            "Medical Face Mask",
+            "Antibacterial",
+            "Disposable",
+            "Medical Staff Essentials",
+            "Comfortable and Breathable"
+          ],
+          "product_id": "S17550812240785286_P00020",
+          "attributes": [
+            "Blue",
+            "Three-layer filtration",
+            "50 masks/box"
+          ],
+          "product_type": "distraction"
+        },
+        {
+          "name": "Nursing Station Portable Humidifier",
+          "store_id": "S17550812240785286_S00004",
+          "store_name": "Medical Staff Selection",
+          "price": 45.9,
+          "tags": [
+            "Humidifier",
+            "Portable",
+            "USB Powered",
+            "Medical Office Supplies",
+            "Silent Design"
+          ],
+          "product_id": "S17550812240785286_P00021",
+          "attributes": [
+            "White",
+            "300ml water tank",
+            "Seven-color night light"
+          ],
+          "product_type": "distraction"
+        }
+      ]
+    }
+  },
+  "orders": {}
+}

@@ -1,0 +1,354 @@
+{
+  "task_id": "10716001",
+  "domain": "delivery",
+  "time": "2024-08-19 17:47:12",
+  "user_id": "U000049",
+  "weather": [
+    {
+      "city": "Dalian City",
+      "category": "cloudy",
+      "datetime": "2024-08-19",
+      "temperature": [
+        26,
+        34
+      ],
+      "humidity": 62
+    }
+  ],
+  "location": [
+    {
+      "address": "5th Floor, Building 3, Dalian Software Park, Shahekou District, Dalian, Liaoning Province",
+      "longitude": 121.545784,
+      "latitude": 38.889088
+    },
+    {
+      "address": "Room 802, Building 1, Jianlong Garden, Hechuan Street, Shahekou District, Dalian, Liaoning Province",
+      "longitude": 121.570117,
+      "latitude": 38.905565
+    }
+  ],
+  "user_profile": {
+    "user id": "U000049",
+    "occupation": "Network Engineer",
+    "gender": "female",
+    "age group": "25~30",
+    "residence": "Dalian",
+    "home address": "Room 802, Building 1, Jianlong Garden, Hechuan Street, Shahekou District, Dalian, Liaoning Province",
+    "work address": "5th Floor, Building 3, Dalian Software Park, Shahekou District, Dalian, Liaoning Province",
+    "dietary restrictions": "No caffeine, no fried food",
+    "family status": "Has pets",
+    "personality": "Extremely detail-oriented, tends to be picky and easily dissatisfied"
+  },
+  "user_historical_behaviors": {
+    "user id": "U000049",
+    "occupation": "Network Engineer",
+    "gender": "female",
+    "age group": "25~30",
+    "residence": "Dalian",
+    "home address": "Room 802, Building 1, Jianlong Garden, Hechuan Street, Shahekou District, Dalian, Liaoning Province",
+    "work address": "5th Floor, Building 3, Dalian Software Park, Shahekou District, Dalian, Liaoning Province",
+    "breakfast": {
+      "frequently purchased categories": [
+        "Quick Meals/Steamed Buns/Pan-fried Buns (Average ¥22)",
+        "Quick Meals/Light Food (Average ¥30)"
+      ],
+      "cost per order": "¥15~35",
+      "preferred store rating": "4.3~4.8",
+      "preferred delivery time": "15~30 minutes",
+      "preferred distance": "0~2500m",
+      "recent orders": [
+        {
+          "store": "Auntie Shen's Health Buns",
+          "product": "Whole Wheat Vegetable Bun + Soy Milk Set"
+        },
+        {
+          "store": "Ajisen Ramen Breakfast",
+          "product": "Steamed Egg Breakfast Set"
+        },
+        {
+          "store": "Light Food Select",
+          "product": "Boiled Egg Vegetable Sandwich"
+        }
+      ],
+      "search history": [
+        "Low-fat breakfast",
+        "Health buns",
+        "Whole wheat bread",
+        "Light food"
+      ]
+    },
+    "weekday lunch/dinner": {
+      "frequently purchased categories": [
+        "Quick Meals/Light Food (Average ¥38)",
+        "Quick Meals/Healthy Meals (Average ¥45)",
+        "Quick Meals/Salad (Average ¥35)"
+      ],
+      "cost per order": "¥30~60",
+      "preferred store rating": "4.5~4.9",
+      "preferred delivery time": "20~40 minutes",
+      "preferred distance": "0~3000m",
+      "recent orders": [
+        {
+          "store": "Light Healthy Meal",
+          "product": "Garlic Chicken Breast with Brown Rice"
+        },
+        {
+          "store": "Salad Institute",
+          "product": "Avocado Shrimp Light Food Salad"
+        },
+        {
+          "store": "Vegetarianism",
+          "product": "Quinoa Vegetable Set"
+        }
+      ],
+      "search history": [
+        "Low-calorie lunch",
+        "Healthy meal",
+        "Fat-reducing meal",
+        "No frying"
+      ]
+    },
+    "weekend lunch/dinner": {
+      "frequently purchased categories": [
+        "Chinese Cuisine/Cantonese Cuisine (Average ¥95)",
+        "International Flavors/Korean Cuisine (Average ¥85)"
+      ],
+      "cost per order": "¥70~180",
+      "preferred store rating": "4.6~5.0",
+      "preferred delivery time": "30~50 minutes",
+      "preferred distance": "0~5000m",
+      "recent orders": [
+        {
+          "store": "Yue Xiang Xuan",
+          "product": "Steamed Bass Fish Set"
+        },
+        {
+          "store": "Seoul Taste",
+          "product": "Korean Ginseng Chicken Soup + Side Dish Platter"
+        },
+        {
+          "store": "Thai Fragrance (Heping Square Branch)",
+          "product": "[One Bite to Thailand] Black Pepper Chicken Strips + Quinoa Vegetable Salad + Rice Single Meal"
+        }
+      ],
+      "search history": [
+        "Cantonese cuisine",
+        "Steamed fish",
+        "Korean cuisine",
+        "Thai food",
+        "Healthy family meal"
+      ]
+    },
+    "desserts/drinks/snacks": {
+      "frequently purchased categories": [
+        "Drinks & Desserts/Juice (Average ¥28)",
+        "Drinks & Desserts/Fruit Salad (Average ¥32)"
+      ],
+      "cost per order": "¥20~45",
+      "preferred store rating": "4.4~4.9",
+      "preferred delivery time": "15~30 minutes",
+      "preferred distance": "0~2500m",
+      "recent orders": [
+        {
+          "store": "Fresh Juice Bar",
+          "product": "Fresh Pomegranate Juice"
+        },
+        {
+          "store": "Naturally Fresh",
+          "product": "Colorful Fruit Salad"
+        },
+        {
+          "store": "Tea Time",
+          "product": "Caffeine-free Herbal Tea"
+        }
+      ],
+      "search history": [
+        "Freshly squeezed juice",
+        "Fruit salad",
+        "Herbal tea",
+        "Caffeine-free"
+      ]
+    },
+    "night snack": {
+      "frequently purchased categories": [
+        "Quick Meals/Small Dishes/Small Portions (Average ¥40)",
+        "Snacks & Braised Dishes/Braised Items (Average ¥35)"
+      ],
+      "cost per order": "¥25~55",
+      "preferred store rating": "4.2~4.7",
+      "preferred delivery time": "20~35 minutes",
+      "preferred distance": "0~3000m",
+      "recent orders": [
+        {
+          "store": "Small Portion Cuisine",
+          "product": "Boiled Tofu Set"
+        },
+        {
+          "store": "Old Braising Workshop",
+          "product": "Braised Meat Platter"
+        },
+        {
+          "store": "Warm Cooking Kitchen",
+          "product": "Healthy Vegetable Soup"
+        }
+      ],
+      "search history": [
+        "Non-greasy night snack",
+        "Small dishes",
+        "Braised dishes",
+        "Light night snack"
+      ]
+    }
+  },
+  "stores": {
+    "S30117605823859936_S63333": {
+      "name": "HUHU Thai (Roosevelt Branch)",
+      "store_id": "S30117605823859936_S63333",
+      "score": 4.3,
+      "location": {
+        "address": "4F, Roosevelt Plaza, 139 Xi'an Road, Shahekou District, Dalian, Liaoning Province, HUHU Thai (Roosevelt Branch)",
+        "latitude": 38.912219,
+        "longitude": 121.586655
+      },
+      "tags": [
+        "Dine-in Available",
+        "Thai Food"
+      ],
+      "products": [
+        {
+          "name": "Tom Yum Fried Rice",
+          "store_id": "S30117605823859936_S63333",
+          "store_name": "HUHU Thai (Roosevelt Branch)",
+          "price": 38.0,
+          "tags": [
+            "Hot and Sour",
+            "Appetizing"
+          ],
+          "product_id": "S21869011941711612_P40826",
+          "attributes": [],
+          "quantity": 9999
+        },
+        {
+          "name": "Coconut Sago Pudding",
+          "store_id": "S30117605823859936_S63333",
+          "store_name": "HUHU Thai (Roosevelt Branch)",
+          "price": 18.0,
+          "tags": [
+            "Ice Cool"
+          ],
+          "product_id": "S12843828392131711_P64618",
+          "attributes": [],
+          "quantity": 9999
+        },
+        {
+          "name": "Tom Yum Soup Noodles",
+          "store_id": "S30117605823859936_S63333",
+          "store_name": "HUHU Thai (Roosevelt Branch)",
+          "price": 38.9,
+          "tags": [
+            "Hot and Sour",
+            "Curry Flavor",
+            "Flour"
+          ],
+          "product_id": "S52869129511178636_P87490",
+          "attributes": [],
+          "quantity": 9999
+        },
+        {
+          "name": "Malaysian Pulled Tea",
+          "product_id": "S12242384091872970_P15461",
+          "store_id": "S30117605823859936_S63333",
+          "store_name": "HUHU Thai (Roosevelt Branch)",
+          "price": 22,
+          "tags": [],
+          "attributes": [],
+          "quantity": 9999
+        },
+        {
+          "name": "Pineapple Fried Rice",
+          "product_id": "S12365130705129634_P62979",
+          "store_id": "S30117605823859936_S63333",
+          "store_name": "HUHU Thai (Roosevelt Branch)",
+          "price": 48,
+          "tags": [],
+          "attributes": [],
+          "quantity": 9999
+        },
+        {
+          "name": "Mango Sticky Rice",
+          "product_id": "S20795551087731997_P42120",
+          "store_id": "S30117605823859936_S63333",
+          "store_name": "HUHU Thai (Roosevelt Branch)",
+          "price": 38,
+          "tags": [],
+          "attributes": [],
+          "quantity": 9999
+        }
+      ]
+    },
+    "S20046349805284350_S32218": {
+      "name": "BANGKOK Half Thai Cuisine (Gaoxin Branch)",
+      "store_id": "S20046349805284350_S32218",
+      "score": 4.5,
+      "location": {
+        "address": "No. 23-17, Shanshui Street, High-tech Park, Ganjingzi District, Dalian, Liaoning Province, Half Thai Cuisine (Wanda Plaza Branch)",
+        "latitude": 38.861391,
+        "longitude": 121.534183
+      },
+      "tags": [],
+      "products": [
+        {
+          "name": "Tom Yum Seafood Crab Stick Fried Rice + Thai Milk Tea Set",
+          "product_id": "S26399707186847965_P44034",
+          "store_id": "S20046349805284350_S32218",
+          "store_name": "BANGKOK Half Thai Cuisine (Gaoxin Branch)",
+          "price": 46.8,
+          "tags": [
+            "Set Meal"
+          ],
+          "attributes": [],
+          "quantity": 9999
+        },
+        {
+          "name": "Thai Coconut Jelly",
+          "product_id": "S17712114163462212_P65827",
+          "store_id": "S20046349805284350_S32218",
+          "store_name": "BANGKOK Half Thai Cuisine (Gaoxin Branch)",
+          "price": 21,
+          "tags": [],
+          "attributes": [],
+          "quantity": 9999
+        }
+      ]
+    }
+  },
+  "orders": {
+    "10716001O01": {
+      "order_id": "10716001O01",
+      "order_type": "delivery",
+      "user_id": "U000049",
+      "store_id": "S30117605823859936_S63333",
+      "note": "",
+      "location": {
+        "address": "5th Floor, Building 3, Dalian Software Park, Shahekou District, Dalian, Liaoning Province",
+        "longitude": 121.545784,
+        "latitude": 38.889088
+      },
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 38.9,
+      "create_time": "2024-08-19 17:30:00",
+      "update_time": "2024-08-19 17:30:00",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S52869129511178636_P87490",
+          "price": 38.9,
+          "quantity": 1,
+          "attributes": ""
+        }
+      ]
+    }
+  }
+}

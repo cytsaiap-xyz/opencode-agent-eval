@@ -1,0 +1,194 @@
+{
+  "task_id": "10826102",
+  "domain": "instore",
+  "time": "2024-11-05 17:20:01",
+  "user_id": "U555566",
+  "weather": [
+    {
+      "city": "Harbin",
+      "category": "cloudy",
+      "datetime": "2024-11-05",
+      "temperature": [
+        -2,
+        5
+      ],
+      "humidity": 55
+    },
+    {
+      "city": "Harbin",
+      "category": "sunny",
+      "datetime": "2024-11-06",
+      "temperature": [
+        -3,
+        4
+      ],
+      "humidity": 45
+    }
+  ],
+  "location": [
+    {
+      "address": "CR Arch of Triumph, 218 Hongqi Street, Nangang District, Harbin",
+      "longitude": 126.642289,
+      "latitude": 45.745231
+    },
+    {
+      "address": "16th Floor, Yuanda Shopping Mall Office Building, 1268 Fifth Avenue, Qunli, Daoli District, Harbin",
+      "longitude": 126.526789,
+      "latitude": 45.766542
+    }
+  ],
+  "user_profile": {
+    "user id": "U555566",
+    "occupation": "Project Manager",
+    "gender": "female",
+    "age group": "30~35",
+    "residence": "Harbin",
+    "home address": "CR Arch of Triumph, 218 Hongqi Street, Nangang District, Harbin",
+    "work address": "16th Floor, Yuanda Shopping Mall Office Building, 1268 Fifth Avenue, Qunli, Daoli District, Harbin",
+    "dietary restrictions": "Purine-free (such as organ meats/seafood soups), Caffeine-free",
+    "family status": "Has children",
+    "personality": "Extremely detail-oriented, tends to be picky and dissatisfied"
+  },
+  "user_historical_behaviors": {
+    "user id": "U555566",
+    "occupation": "Project Manager",
+    "gender": "female",
+    "age group": "30~35",
+    "residence": "Harbin",
+    "home address": "CR Arch of Triumph, 218 Hongqi Street, Nangang District, Harbin",
+    "work address": "16th Floor, Yuanda Shopping Mall Office Building, 1268 Fifth Avenue, Qunli, Daoli District, Harbin",
+    "in-store dining": {
+      "fine-dining": {
+        "frequently purchased categories": [
+          "Local Cuisine/Northeastern Cuisine (Average 120 yuan)",
+          "Local Cuisine/Sichuan Cuisine (Average 95 yuan)",
+          "International Cuisine/Japanese Food (Average 150 yuan)"
+        ],
+        "preferred average price per person": "90~150 yuan",
+        "preferred store rating": "4.0~4.8 stars",
+        "typical dining time": "18:30-20:30",
+        "preferred distance": "500~3000m",
+        "recent orders": [
+          {
+            "store": "Lao Chu Jia Northeastern Cuisine",
+            "product": "Sweet and Sour Pork Set"
+          },
+          {
+            "store": "Xiao Jiang Nan Sichuan Restaurant",
+            "product": "Boiled Fish + Dry-fried Potato Slices"
+          },
+          {
+            "store": "Hanami Sushi",
+            "product": "Salmon Sashimi Platter"
+          }
+        ],
+        "search history": [
+          "Highly-rated restaurants in Harbin",
+          "Family-friendly restaurants",
+          "Japanese cuisine",
+          "Hot pot without seafood broth"
+        ]
+      },
+      "light meal": {
+        "frequently purchased categories": [
+          "Fast Food/Chinese Quick Meals (Average 35 yuan)",
+          "Fast Food/Western Quick Meals (Average 45 yuan)",
+          "Local Cuisine/Northeastern Cuisine (Average 50 yuan)"
+        ],
+        "preferred average price per person": "30~55 yuan",
+        "preferred store rating": "3.5~4.3 stars",
+        "typical dining time": "12:00-13:30",
+        "preferred distance": "0~800m",
+        "recent orders": [
+          {
+            "store": "Sha County Snacks (Yuanda Store)",
+            "product": "Three Delicacies Steamed Dumplings + Seaweed Soup"
+          },
+          {
+            "store": "Northeastern Dumpling King",
+            "product": "Pork and Cabbage Dumplings"
+          },
+          {
+            "store": "Real Kung Fu",
+            "product": "Teriyaki Chicken Leg Rice"
+          }
+        ],
+        "search history": [
+          "Fast food near office",
+          "Weekday lunch",
+          "Healthy light meals"
+        ]
+      },
+      "desserts/drinks/snacks": {
+        "frequently purchased categories": [
+          "Bakery and Desserts (Average 25 yuan)",
+          "Beverage Shops (Average 18 yuan)",
+          "Other Food/Fresh Fruits (Average 15 yuan)"
+        ],
+        "preferred average price per person": "15~30 yuan",
+        "preferred store rating": "3.9~4.5 stars",
+        "typical dining time": "15:00-16:30",
+        "preferred distance": "0~500m",
+        "recent orders": [
+          {
+            "store": "Meet Fresh",
+            "product": "Red Bean and Job's Tears Dessert (Caffeine-free)"
+          },
+          {
+            "store": "Bread Talk",
+            "product": "Whole Wheat Toast + Fruit Tea"
+          },
+          {
+            "store": "Cha Bai Dao",
+            "product": "Kumquat Lemon Tea (Sugar-free)"
+          }
+        ],
+        "search history": [
+          "Caffeine-free beverages",
+          "Healthy desserts",
+          "Low-sugar milk tea"
+        ]
+      }
+    },
+    "other in-store services": {
+      "frequently consumed categories": {
+        "Beauty/Hairdressing": "15%",
+        "Sports & Fitness/Fitness Centers": "35%",
+        "Parent-Child/Family Entertainment": "30%",
+        "Leisure & Entertainment/Massage/Foot Therapy": "20%"
+      },
+      "cost per order by category": {
+        "Beauty/Hairdressing": "180~350 yuan",
+        "Sports & Fitness/Fitness Centers": "80~150 yuan/session",
+        "Parent-Child/Family Entertainment": "120~200 yuan",
+        "Leisure & Entertainment/Massage/Foot Therapy": "150~280 yuan"
+      },
+      "preferred store rating": "4.0~4.8 stars",
+      "preferred service time": "Weekends 10:00-16:00, Weekdays 19:00-21:00",
+      "preferred distance": "0~5000m",
+      "recent orders": [
+        {
+          "store": "Leke Fitness (CR Store)",
+          "product": "Single Fitness Experience"
+        },
+        {
+          "store": "Qile Children's Playground",
+          "product": "Parent-Child Double Ticket"
+        },
+        {
+          "store": "Shuzu Tang",
+          "product": "Essential Oil Foot Therapy 90 minutes"
+        }
+      ],
+      "search history": [
+        "Parent-child activities",
+        "Women's fitness",
+        "Weekend relaxation",
+        "Children's entertainment",
+        "Stress-relief massage"
+      ]
+    }
+  },
+  "stores": {},
+  "orders": {}
+}

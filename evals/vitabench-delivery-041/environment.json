@@ -1,0 +1,316 @@
+{
+  "task_id": "80716001",
+  "domain": "delivery",
+  "time": "2025-01-01 11:30:11",
+  "user_id": "U000068",
+  "weather": [
+    {
+      "city": "Chongqing City",
+      "category": "rainy",
+      "datetime": "2025-01-01",
+      "temperature": [
+        5,
+        10
+      ],
+      "humidity": 80
+    }
+  ],
+  "location": [
+    {
+      "address": "Linhua Road Community, No. 39 Linhua Road, Qixinggang Street, Yuzhong District, Chongqing (Next to Exit 4B of Qixinggang Metro Station)",
+      "longitude": 106.560575,
+      "latitude": 29.555575
+    }
+  ],
+  "user_profile": {
+    "user id": "U000068",
+    "occupation": "Algorithm Engineer",
+    "gender": "female",
+    "age group": "25~30",
+    "residence": "Chongqing",
+    "home address": "Linhua Road Community, No. 39 Linhua Road, Qixinggang Street, Yuzhong District, Chongqing (Next to Exit 4B of Qixinggang Metro Station)",
+    "work address": "Building A, Chongqing Software Industry Center, 220 meters west of the intersection of Honghu West Road and Qingfeng North Road, Yubei District, Chongqing",
+    "dietary restrictions": "None",
+    "family status": "In a relationship",
+    "personality": "Impatient, frequently rushes others, lacks patience during processes"
+  },
+  "user_historical_behaviors": {
+    "user id": "U000068",
+    "occupation": "Algorithm Engineer",
+    "gender": "female",
+    "age group": "25~30",
+    "residence": "Chongqing",
+    "home address": "Linhua Road Community, No. 39 Linhua Road, Qixinggang Street, Yuzhong District, Chongqing (Next to Exit 4B of Qixinggang Metro Station)",
+    "work address": "Building A, Chongqing Software Industry Center, 220 meters west of the intersection of Honghu West Road and Qingfeng North Road, Yubei District, Chongqing",
+    "breakfast": {
+      "frequently purchased categories": [
+        "Quick meals/Buns/Pan-fried buns (average 15 yuan)",
+        "Quick meals/Soy milk and fried dough sticks (average 10 yuan)",
+        "Quick meals/Chongqing noodles (average 18 yuan)"
+      ],
+      "cost per order": "10~25 yuan",
+      "preferred store rating": "4.2~4.7 stars",
+      "preferred delivery time": "15~30 minutes",
+      "preferred distance": "0~1500m",
+      "recent orders": [
+        {
+          "store": "Chongqing Traditional Noodle Restaurant",
+          "product": "Spicy Noodle Set"
+        },
+        {
+          "store": "Authentic Pan-fried Bun King",
+          "product": "Pork Pan-fried Buns + Soy Milk"
+        },
+        {
+          "store": "Breakfast Mister",
+          "product": "Soy Milk and Fried Dough Sticks Set"
+        }
+      ],
+      "search history": [
+        "Fine breakfast",
+        "Nutritious breakfast",
+        "Chongqing noodles",
+        "Pan-fried buns"
+      ]
+    },
+    "weekday lunch/dinner": {
+      "frequently purchased categories": [
+        "Quick meals/Light food (average 32 yuan)",
+        "Quick meals/Healthy meals (average 45 yuan)",
+        "Quick meals/Salad (average 38 yuan)"
+      ],
+      "cost per order": "30~50 yuan",
+      "preferred store rating": "4.3~4.8 stars",
+      "preferred delivery time": "20~35 minutes",
+      "preferred distance": "0~2500m",
+      "recent orders": [
+        {
+          "store": "Photosynthesis Light Meals",
+          "product": "Chicken Breast Salad"
+        },
+        {
+          "store": "Balanced Diet",
+          "product": "Sugar-free Quinoa Chicken Rice"
+        },
+        {
+          "store": "Nutritionist's Lunch",
+          "product": "Mediterranean Light Meal Box"
+        }
+      ],
+      "search history": [
+        "Healthy meals",
+        "Light food",
+        "Salad",
+        "Low-fat meals"
+      ]
+    },
+    "weekend lunch/dinner": {
+      "frequently purchased categories": [
+        "Chinese cuisine/Sichuan cuisine (average 85 yuan)",
+        "Chinese cuisine/Cantonese cuisine (average 95 yuan)",
+        "Foreign cuisine/Korean cuisine (average 88 yuan)"
+      ],
+      "cost per order": "70~150 yuan",
+      "preferred store rating": "4.0~5.0 stars",
+      "preferred delivery time": "25~45 minutes",
+      "preferred distance": "0~4000m",
+      "recent orders": [
+        {
+          "store": "Bashu Flavor",
+          "product": "Fish Head with Chopped Chili (Mild, Low-salt Version) + Golden Sand Corn"
+        },
+        {
+          "store": "Cantonese Small Kitchen",
+          "product": "White Cut Chicken + Steamed Sea Bass + Garlic Broccoli"
+        },
+        {
+          "store": "Corn House Korean Food",
+          "product": "Army Stew Hot Pot (For Two)"
+        }
+      ],
+      "search history": [
+        "Sichuan cuisine",
+        "Healthy Cantonese cuisine",
+        "Korean army stew"
+      ]
+    },
+    "desserts/drinks/snacks": {
+      "frequently purchased categories": [
+        "Drinks and desserts/Sweet soup (average 22 yuan)",
+        "Drinks and desserts/Fruit salad (average 32 yuan)",
+        "Drinks and desserts/Pure tea/Herbal tea (average 18 yuan)"
+      ],
+      "cost per order": "15~50 yuan",
+      "preferred store rating": "4.2~5.0 stars",
+      "preferred delivery time": "15~50 minutes",
+      "preferred distance": "0~5000m",
+      "recent orders": [
+        {
+          "store": "HEYTEA (Chongqing Luzumiao Branch)",
+          "product": "One-click Order · One Tea Two Snacks"
+        },
+        {
+          "store": "Mak's Milk Company (Jiefangbei Guotai Branch)",
+          "product": "Glutinous Rice White Snow Double Cup Set"
+        }
+      ],
+      "search history": [
+        "HEYTEA",
+        "Sweet soup",
+        "Bread"
+      ]
+    },
+    "night snack": {
+      "frequently purchased categories": [
+        "Quick meals/Rice noodles/Vermicelli (average 28 yuan)",
+        "Quick meals/River snail rice noodles (average 25 yuan)",
+        "Quick meals/Dumplings/Wonton (average 30 yuan)"
+      ],
+      "cost per order": "20~40 yuan",
+      "preferred store rating": "4.0~4.7 stars",
+      "preferred delivery time": "25~40 minutes",
+      "preferred distance": "0~2500m",
+      "recent orders": [
+        {
+          "store": "Yunnan Crossing Bridge Rice Noodles",
+          "product": "Classic Beef Rice Noodles (Mild Spicy, Less Salt)"
+        },
+        {
+          "store": "Dumpling House",
+          "product": "Three Delicacies Dumplings (18 pieces)"
+        },
+        {
+          "store": "Liuzhou River Snail Rice Noodles",
+          "product": "Signature River Snail Rice Noodles (Mild Spicy)"
+        }
+      ],
+      "search history": [
+        "Mild spicy rice noodles",
+        "Healthy night snack",
+        "Dumplings",
+        "Stomach-friendly night snack"
+      ]
+    }
+  },
+  "stores": {
+    "S26029760355367319_S56035": {
+      "name": "E'tang Rongchang Braised Goose (Braised Goose·Braised Rice·Xuetianwan Branch)",
+      "store_id": "S26029760355367319_S56035",
+      "score": 5,
+      "location": {
+        "address": "1st Floor, No. 39 Xialuojiawan Road, Yuzhong District, Chongqing",
+        "latitude": 29.555981,
+        "longitude": 106.5507
+      },
+      "tags": [],
+      "products": [
+        {
+          "name": "Rongchang Braised Goose Approx. 300g",
+          "product_id": "S23410007806115216_P22724",
+          "store_id": "S26029760355367319_S56035",
+          "store_name": "E'tang Rongchang Braised Goose (Braised Goose·Braised Rice·Xuetianwan Branch)",
+          "price": 43.7,
+          "tags": [
+            "Freshly Made",
+            "Can Be Heated"
+          ],
+          "attributes": [],
+          "quantity": 9999
+        },
+        {
+          "name": "Rongchang Braised Goose 300g + Goose Liver 150g",
+          "product_id": "S33992586623866451_P39950",
+          "store_id": "S26029760355367319_S56035",
+          "store_name": "E'tang Rongchang Braised Goose (Braised Goose·Braised Rice·Xuetianwan Branch)",
+          "price": 46.8,
+          "tags": [
+            "Freshly Made",
+            "Still Hot Upon Delivery",
+            "For Two People"
+          ],
+          "attributes": [],
+          "quantity": 9999
+        },
+        {
+          "name": "Braised Goose Liver Approx. 180g",
+          "product_id": "S17766302950410710_P49730",
+          "store_id": "S26029760355367319_S56035",
+          "store_name": "E'tang Rongchang Braised Goose (Braised Goose·Braised Rice·Xuetianwan Branch)",
+          "price": 26.8,
+          "tags": [
+            "Freshly Made",
+            "Can Be Heated"
+          ],
+          "attributes": [],
+          "quantity": 9999
+        }
+      ]
+    },
+    "S21386320899164091_S60328": {
+      "name": "Mianbi Desserts",
+      "store_id": "S21386320899164091_S60328",
+      "score": 5,
+      "location": {
+        "address": "Mianbi Desserts (Dajing Lane Branch), 50 meters northeast of Linjiang Road Primary School East Gate, Yuzhong District, Chongqing (360 meters walk from Exit 2 of Linjiangmen Metro Station)",
+        "latitude": 29.558935,
+        "longitude": 106.571376
+      },
+      "tags": [],
+      "products": [
+        {
+          "name": "Peach Gum and Lotus Seed Stewed Milk",
+          "product_id": "S89975760415369552_P50335",
+          "store_id": "S21386320899164091_S60328",
+          "store_name": "Mianbi Desserts",
+          "price": 19.6,
+          "tags": [],
+          "attributes": [
+            "Cold",
+            "Hot",
+            "Room Temperature"
+          ],
+          "quantity": 9999
+        },
+        {
+          "name": "Rose Peach Gum Adzuki Bean Dessert (Can Be Heated)",
+          "product_id": "S15220668112036407_P51847",
+          "store_id": "S21386320899164091_S60328",
+          "store_name": "Mianbi Desserts",
+          "price": 16,
+          "tags": [],
+          "attributes": [
+            "Hot",
+            "Cold"
+          ],
+          "quantity": 9999
+        }
+      ]
+    },
+    "S33621169088398198_S89977": {
+      "name": "E'tang (Sunshine 100 City Plaza Branch)",
+      "store_id": "S33621169088398198_S89977",
+      "score": 4.5,
+      "location": {
+        "address": "E'tang (Sunshine 100 City Plaza Branch), No. 13, No. 12 Wujiang Road, Jiangbei District, Chongqing (Self-numbered 02)",
+        "latitude": 29.580069,
+        "longitude": 106.56306
+      },
+      "tags": [],
+      "products": [
+        {
+          "name": "Rongchang Braised Goose 300g + Goose Liver 150g",
+          "product_id": "S29748259472812594_P08482",
+          "store_id": "S33621169088398198_S89977",
+          "store_name": "E'tang (Sunshine 100 City Plaza Branch)",
+          "price": 49.8,
+          "tags": [
+            "Standard Set Menu for Two"
+          ],
+          "attributes": [],
+          "quantity": 9999
+        }
+      ]
+    }
+  },
+  "orders": {}
+}

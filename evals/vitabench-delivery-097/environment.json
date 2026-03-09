@@ -1,0 +1,362 @@
+{
+  "task_id": "J0717003",
+  "domain": "delivery",
+  "time": "2025-09-27 10:25:23",
+  "user_id": "U000036",
+  "weather": [
+    {
+      "city": "Nanjing City",
+      "category": "rainy",
+      "datetime": "2025-09-27",
+      "temperature": [
+        18,
+        26
+      ],
+      "humidity": 79
+    }
+  ],
+  "location": [
+    {
+      "address": "Pipa Residential Area, No. 24-36 Pipa Lane, Qinhuai District, Nanjing, Jiangsu Province",
+      "longitude": 118.7903,
+      "latitude": 32.017193
+    }
+  ],
+  "user_profile": {
+    "user id": "U000036",
+    "occupation": "Actor",
+    "gender": "male",
+    "age group": "30~35",
+    "residence": "Nanjing",
+    "home address": "Pipa Residential Area, No. 24-36 Pipa Lane, Qinhuai District, Nanjing, Jiangsu Province",
+    "work address": "Jiangsu Xiju Troupe, South Gate 5, Yanling Lane, Qinhuai District, Nanjing, Jiangsu Province (240 meters walk from Exit 4 of Changfu Street Metro Station)",
+    "dietary restrictions": "Avoids high-oil foods, allergic to Mango",
+    "family status": "In a relationship",
+    "personality": "Has scattered and jumpy thinking, easily distracted and changes mind frequently"
+  },
+  "user_historical_behaviors": {
+    "user id": "U000036",
+    "occupation": "Actor",
+    "gender": "male",
+    "age group": "30~35",
+    "residence": "Nanjing",
+    "home address": "Pipa Residential Area, No. 24-36 Pipa Lane, Qinhuai District, Nanjing, Jiangsu Province",
+    "work address": "Jiangsu Xiju Troupe, South Gate 5, Yanling Lane, Qinhuai District, Nanjing, Jiangsu Province (240 meters walk from Exit 4 of Changfu Street Metro Station)",
+    "breakfast": {
+      "frequently purchased categories": [
+        "Quick meals/Steamed buns/Pan-fried buns (average 16 yuan)",
+        "Quick meals/Jianbing/Wraps/Handmade pancakes (average 12 yuan)",
+        "Quick meals/Dumplings/Wonton (average 18 yuan)"
+      ],
+      "cost per order": "10~25 yuan",
+      "preferred store rating": "4.3~4.9 stars",
+      "preferred delivery time": "15~25 minutes",
+      "preferred distance": "0~1500m",
+      "recent orders": [
+        {
+          "store": "Lao Xu's Handmade Buns",
+          "product": "6 Pork Buns + 1 Soybean Milk"
+        },
+        {
+          "store": "Daily Breakfast Shop",
+          "product": "Pumpkin Steamed Bun + Egg + Soybean Milk"
+        }
+      ],
+      "search history": [
+        "Steamed buns",
+        "Soybean milk",
+        "Pan-fried buns",
+        "Nutritious breakfast",
+        "Healthy morning meals"
+      ]
+    },
+    "weekday lunch/dinner": {
+      "frequently purchased categories": [
+        "Quick meals/Healthy meals (average 42 yuan)",
+        "Quick meals/Light food (average 38 yuan)",
+        "Chinese cuisine/Crayfish (average 68 yuan)"
+      ],
+      "cost per order": "35~70 yuan",
+      "preferred store rating": "4.5~4.9 stars",
+      "preferred delivery time": "20~35 minutes",
+      "preferred distance": "0~2500m",
+      "recent orders": [
+        {
+          "store": "Light Food Philosophy",
+          "product": "Quinoa Chicken Breast Salad + Avocado"
+        },
+        {
+          "store": "Health Steamed Food Restaurant",
+          "product": "Low-fat Chicken Breast Bento + Black Rice"
+        },
+        {
+          "store": "Fresh Steamed Nutrition Workshop",
+          "product": "Steamed Fish Fillet + Seasonal Vegetables"
+        }
+      ],
+      "search history": [
+        "Low-fat meals",
+        "Healthy bento",
+        "Steamed dishes",
+        "Chicken breast",
+        "High-protein"
+      ]
+    },
+    "weekend lunch/dinner": {
+      "frequently purchased categories": [
+        "International cuisine/Stone pot rice/Hot plate rice (average 78 yuan)",
+        "International cuisine/Japanese bento/Sushi (average 98 yuan)",
+        "Chinese cuisine/Cantonese food (average 120 yuan)"
+      ],
+      "cost per order": "70~150 yuan",
+      "preferred store rating": "4.7~5.0 stars",
+      "preferred delivery time": "30~45 minutes",
+      "preferred distance": "0~3500m",
+      "recent orders": [
+        {
+          "store": "Kyoto Japanese Cuisine",
+          "product": "Deluxe Sushi Platter + Chawanmushi"
+        },
+        {
+          "store": "Hanjiang Stone Pot Cuisine",
+          "product": "Stone Pot Bibimbap + Kimchi Tofu Soup"
+        },
+        {
+          "store": "Cantonese Delights",
+          "product": "White Cut Chicken + Steamed Fish + Seasonal Vegetables"
+        }
+      ],
+      "search history": [
+        "Japanese cuisine",
+        "Sushi",
+        "Cantonese cuisine",
+        "Bibimbap",
+        "Healthy gourmet food"
+      ]
+    },
+    "desserts/drinks/snacks": {
+      "frequently purchased categories": [
+        "Beverages & desserts/Fruit juice (average 30 yuan)",
+        "Beverages & desserts/Pure tea/Herbal tea (average 35 yuan)",
+        "Beverages & desserts/Chinese pastries (average 30 yuan)"
+      ],
+      "cost per order": "15~40 yuan",
+      "preferred store rating": "4.2~5.0 stars",
+      "preferred delivery time": "15~50 minutes",
+      "preferred distance": "0~3500m",
+      "recent orders": [
+        {
+          "store": "Yakeyasi Longzhu Real Milk Tea (Fengfu Road Branch)",
+          "product": "Peach Lemon Burst"
+        },
+        {
+          "store": "Tea Language Pure Heart",
+          "product": "Chrysanthemum Tea + Rock Sugar Pear Tea"
+        }
+      ],
+      "search history": [
+        "Freshly squeezed juice",
+        "Low-sugar tea",
+        "Wellness tea",
+        "Traditional pastries",
+        "Fruit tea"
+      ]
+    },
+    "night snack": {
+      "frequently purchased categories": [
+        "Quick meals/Rice noodles/Rice vermicelli (average 32 yuan)",
+        "Quick meals/Casserole dishes (average 45 yuan)",
+        "Quick meals/Small bowls/Small portions (average 38 yuan)"
+      ],
+      "cost per order": "25~50 yuan",
+      "preferred store rating": "4.2~4.7 stars",
+      "preferred delivery time": "20~35 minutes",
+      "preferred distance": "0~2500m",
+      "recent orders": [
+        {
+          "store": "Crossing Bridge Rice Noodles",
+          "product": "Healthy Mushroom Rice Noodles + Cold Bean Sprouts"
+        },
+        {
+          "store": "Small Pot Casserole",
+          "product": "Nourishing Casserole + Two Side Dishes"
+        }
+      ],
+      "search history": [
+        "Healthy night snacks",
+        "Casserole",
+        "Light night snacks"
+      ]
+    }
+  },
+  "stores": {
+    "S77016294932976550_S27399": {
+      "name": "Yakeyasi Longzhu Real Milk Tea (Fengfu Road Branch)",
+      "store_id": "S77016294932976550_S27399",
+      "score": 4.9,
+      "location": {
+        "address": "Yakeyasi (Longzhu Fresh Milk Tea Shop), 80 meters southwest of the northwest gate of East Area, Lujia Lane Property Community, Qinhuai District, Nanjing, Jiangsu Province",
+        "latitude": 32.037632,
+        "longitude": 118.781802
+      },
+      "tags": [],
+      "products": [
+        {
+          "name": "Peach Lemon Burst",
+          "store_id": "S77016294932976550_S27399",
+          "store_name": "Yakeyasi Longzhu Real Milk Tea (Fengfu Road Branch)",
+          "price": 19,
+          "tags": [],
+          "product_id": "S97648683925001199_P64193",
+          "attributes": [],
+          "quantity": 9999
+        },
+        {
+          "name": "Super Fruit",
+          "product_id": "S13304535226049051_P30590",
+          "store_id": "S77016294932976550_S27399",
+          "store_name": "Yakeyasi Longzhu Real Milk Tea (Fengfu Road Branch)",
+          "price": 20,
+          "tags": [
+            "Mango",
+            "Lemon",
+            "Orange"
+          ],
+          "attributes": [],
+          "quantity": 9999
+        }
+      ]
+    },
+    "S18546668850608431_S32855": {
+      "name": "Red Sports Car (Changle Road Branch)",
+      "store_id": "S18546668850608431_S32855",
+      "score": 4.9,
+      "location": {
+        "address": "Red Sports Car Bakery (Changle Road Branch), No. 134 Changle Road, Qinhuai District, Nanjing, Jiangsu Province (360 meters walk from Exit 3 of Wudingmen Metro Station)",
+        "latitude": 32.015743,
+        "longitude": 118.790755
+      },
+      "tags": [],
+      "products": [
+        {
+          "name": "Cute Macarons",
+          "store_id": "S18546668850608431_S32855",
+          "store_name": "Red Sports Car (Changle Road Branch)",
+          "price": 30,
+          "tags": [],
+          "product_id": "S25825121767346007_P30634",
+          "attributes": [],
+          "quantity": 9999
+        }
+      ]
+    },
+    "S13773508152151780_S84388": {
+      "name": "Zhenxi Ice Cream Cake (Xinjiekou Branch)",
+      "store_id": "S13773508152151780_S84388",
+      "score": 5,
+      "location": {
+        "address": "Room 102, No. 14 Shipopo Temple, Xuanwu District, Nanjing, Jiangsu Province",
+        "latitude": 32.045417,
+        "longitude": 118.792489
+      },
+      "tags": [],
+      "products": [
+        {
+          "name": "[Passionate Macaron] Zhenxi Ice Cream Cake Fruit Cake Birthday Essential",
+          "product_id": "S25648943125975687_P98068",
+          "store_id": "S13773508152151780_S84388",
+          "store_name": "Zhenxi Ice Cream Cake (Xinjiekou Branch)",
+          "price": 168,
+          "tags": [
+            "Advance Reservation Required"
+          ],
+          "attributes": [],
+          "quantity": 9999
+        }
+      ]
+    },
+    "S16088966707739280_S33404": {
+      "name": "OMOYI French Desserts",
+      "store_id": "S16088966707739280_S33404",
+      "score": 5,
+      "location": {
+        "address": "OMOYI Dessert Shop (New Century Plaza Building B Branch), Room 918, Building B, New Century Plaza, Qinhuai District, Nanjing, Jiangsu Province (130 meters walk from Daxinggong Metro Station)",
+        "latitude": 32.039775,
+        "longitude": 118.795188
+      },
+      "tags": [],
+      "products": [
+        {
+          "name": "Dacquoise Gift Box",
+          "product_id": "S21895250523501861_P35427",
+          "store_id": "S16088966707739280_S33404",
+          "store_name": "OMOYI French Desserts",
+          "price": 148,
+          "tags": [
+            "Egg White",
+            "Almond Powder",
+            "Butter",
+            "Cream Cheese"
+          ],
+          "attributes": [],
+          "quantity": 9999
+        }
+      ]
+    },
+    "S23157114409781148_S01269": {
+      "name": "Forest Health Fruit & Vegetable Tea (Sanshan Street Branch)",
+      "store_id": "S23157114409781148_S01269",
+      "score": 4.8,
+      "location": {
+        "address": "No. 54 Shengzhou Road, Qinhuai District, Nanjing, Jiangsu Province",
+        "latitude": 32.025269,
+        "longitude": 118.778793
+      },
+      "tags": [],
+      "products": [
+        {
+          "name": "Tongtong Cooling Bitter Gourd Fruit & Vegetable Bucket (Approx. 1L)",
+          "product_id": "S25653697469453205_P13062",
+          "store_id": "S23157114409781148_S01269",
+          "store_name": "Forest Health Fruit & Vegetable Tea (Sanshan Street Branch)",
+          "price": 25.48,
+          "tags": [
+            "Bitter Gourd",
+            "Kale",
+            "Green Apple",
+            "Pineapple"
+          ],
+          "attributes": [],
+          "quantity": 9999
+        }
+      ]
+    },
+    "S17347023526866586_S75071": {
+      "name": "Nanjing Tongren Tang Tea Beverage Shop (Suo Street Branch)",
+      "store_id": "S17347023526866586_S75071",
+      "score": 5,
+      "location": {
+        "address": "Tea Beverage Shop, 1st Floor, Easy Joy Supermarket, Sinopec Gas Station at the Intersection of Huxi Street and Suo Street, Jianye District, Nanjing, Jiangsu Province",
+        "latitude": 32.022217,
+        "longitude": 118.746566
+      },
+      "tags": [],
+      "products": [
+        {
+          "name": "[Stomach & Body Warming] Caring Warming Soup ",
+          "product_id": "S26490501167607958_P46622",
+          "store_id": "S17347023526866586_S75071",
+          "store_name": "Nanjing Tongren Tang Tea Beverage Shop (Suo Street Branch)",
+          "price": 24.39,
+          "tags": [
+            "Brown Sugar and Ginger",
+            "Health"
+          ],
+          "attributes": [],
+          "quantity": 9999
+        }
+      ]
+    }
+  },
+  "orders": {}
+}

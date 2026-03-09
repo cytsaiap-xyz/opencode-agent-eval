@@ -1,0 +1,641 @@
+{
+  "task_id": "10811009",
+  "domain": "cross_domain",
+  "time": "2025-09-19 10:30:00",
+  "user_id": "U060554",
+  "weather": [
+    {
+      "city": "Suzhou",
+      "category": "sunny",
+      "datetime": "2025-09-19",
+      "temperature": [
+        18,
+        26
+      ],
+      "humidity": 65
+    },
+    {
+      "city": "Suzhou",
+      "category": "cloudy",
+      "datetime": "2025-09-21",
+      "temperature": [
+        19,
+        27
+      ],
+      "humidity": 70
+    },
+    {
+      "city": "Fuzhou",
+      "category": "overcast",
+      "datetime": "2025-09-19",
+      "temperature": [
+        22,
+        30
+      ],
+      "humidity": 75
+    }
+  ],
+  "location": [
+    {
+      "address": "Xiyuan Temple",
+      "longitude": 120.6157,
+      "latitude": 31.3089
+    }
+  ],
+  "user_profile": {
+    "user id": "U060554",
+    "occupation": "Game Streamer",
+    "gender": "female",
+    "age group": "20~25",
+    "residence": "Fuzhou",
+    "Permanent address": "Room 1203, Unit 2, Building 12, Rongxin Shuanghangcheng, 618 Jinshan Avenue, Cangshan District, Fuzhou",
+    "work address": "Room 1612, 16th Floor, Office Building, Minjiang Century Golden Resources Hotel, No. 8 Guangming Road, Taijiang District, Fuzhou",
+    "dietary restrictions": "No high sugar, No caffeine",
+    "family status": "Living alone",
+    "personality": "Overly dependent on others' guidance, lacks independence and decisiveness"
+  },
+  "user_historical_behaviors": {
+    "user id": "U060554",
+    "occupation": "game streamer",
+    "gender": "female",
+    "age group": "20~25",
+    "residence": "Fuzhou",
+    "Permanent address": "Room 1203, Unit 2, Building 12, Rongxin Shuanghangcheng, 618 Jinshan Avenue, Cangshan District, Fuzhou",
+    "work address": "Room 1612, 16th Floor, Office Building, Minjiang Century Golden Resources Hotel, No. 8 Guangming Road, Taijiang District, Fuzhou",
+    "delivery": {
+      "food delivery": {
+        "breakfast": {
+          "frequently purchased categories": [
+            "Quick meals/Buns/Pan-fried buns (Average 15 yuan)",
+            "Quick meals/Fried dough sticks (Average 8 yuan)",
+            "Quick meals/Rice noodles/Rice vermicelli (Average 18 yuan)"
+          ],
+          "cost per order": "10~25 yuan",
+          "preferred store rating": "4.3~4.8 points",
+          "preferred delivery time": "15~25 minutes",
+          "preferred distance": "0~1500m",
+          "recent orders": [
+            {
+              "store": "Yonghe Soy Milk",
+              "product": "Fried dough stick and soy milk combo"
+            },
+            {
+              "store": "Sha County Snacks",
+              "product": "Meat wonton soup + Xiaolongbao"
+            },
+            {
+              "store": "Old Fuzhou Breakfast Shop",
+              "product": "Fish ball rice noodles"
+            }
+          ],
+          "search history": [
+            "Soy milk",
+            "Buns",
+            "Rice noodles",
+            "Light breakfast"
+          ]
+        },
+        "weekday lunch/dinner": {
+          "frequently purchased categories": [
+            "Quick meals/Rice with toppings (Average 22 yuan)",
+            "Quick meals/Light food (Average 28 yuan)",
+            "Quick meals/Salad (Average 25 yuan)"
+          ],
+          "cost per order": "20~35 yuan",
+          "preferred store rating": "4.2~4.7 points",
+          "preferred delivery time": "20~35 minutes",
+          "preferred distance": "0~2500m",
+          "recent orders": [
+            {
+              "store": "Light Diet Restaurant",
+              "product": "Steamed fish set meal"
+            },
+            {
+              "store": "Light Food Philosophy",
+              "product": "Chicken breast salad"
+            },
+            {
+              "store": "Whole Grain King",
+              "product": "Five-grain rice"
+            }
+          ],
+          "search history": [
+            "Low-fat",
+            "Healthy meal",
+            "Fat-reducing meal",
+            "Light flavor"
+          ]
+        },
+        "weekend lunch/dinner": {
+          "frequently purchased categories": [
+            "Chinese cuisine/Cantonese cuisine (Average 65 yuan)",
+            "Chinese cuisine/Braised pot (Average 70 yuan)",
+            "Foreign cuisine/Stone pot rice/Teppanyaki rice (Average 55 yuan)"
+          ],
+          "cost per order": "55~90 yuan",
+          "preferred store rating": "4.5~4.9 points",
+          "preferred delivery time": "30~45 minutes",
+          "preferred distance": "0~3500m",
+          "recent orders": [
+            {
+              "store": "Cantonese Pavilion",
+              "product": "Steamed fish + Seasonal vegetables"
+            },
+            {
+              "store": "Korean Cuisine",
+              "product": "Stone pot bibimbap"
+            },
+            {
+              "store": "Fuzhou Braised Pot",
+              "product": "Chicken mushroom braised pot"
+            }
+          ],
+          "search history": [
+            "Cantonese cuisine",
+            "No deep-frying",
+            "Healthy",
+            "Stone pot rice"
+          ]
+        },
+        "desserts/drinks/snacks": {
+          "frequently purchased categories": [
+            "Beverages and desserts/Pure tea/Herbal tea (Average 18 yuan)",
+            "Beverages and desserts/Fruit salad (Average 22 yuan)"
+          ],
+          "cost per order": "15~25 yuan",
+          "preferred store rating": "4.4~4.8 points",
+          "preferred delivery time": "15~30 minutes",
+          "preferred distance": "0~2000m",
+          "recent orders": [
+            {
+              "store": "Fresh Fruit Tea",
+              "product": "Sugar-free jasmine tea"
+            },
+            {
+              "store": "Fruit Mix",
+              "product": "Yogurt fruit salad"
+            },
+            {
+              "store": "Tea Hundred Ways",
+              "product": "Oolong tea"
+            }
+          ],
+          "search history": [
+            "Sugar-free drinks",
+            "Fruit salad",
+            "Low-calorie desserts",
+            "Tea beverages"
+          ]
+        },
+        "night snack": {
+          "frequently purchased categories": [
+            "Quick meals/Small dishes/Small portions (Average 35 yuan)",
+            "Snacks and braised food/Braised items (Average 30 yuan)"
+          ],
+          "cost per order": "25~40 yuan",
+          "preferred store rating": "4.3~4.7 points",
+          "preferred delivery time": "20~35 minutes",
+          "preferred distance": "0~2500m",
+          "recent orders": [
+            {
+              "store": "Braised Food Kitchen",
+              "product": "Braised platter"
+            },
+            {
+              "store": "Small Dish",
+              "product": "Steamed chicken pieces"
+            },
+            {
+              "store": "Night Food Hall",
+              "product": "Braised beef"
+            }
+          ],
+          "search history": [
+            "Braised food",
+            "Small dishes",
+            "Low-fat night snacks",
+            "Braised beef"
+          ]
+        }
+      },
+      "product delivery": {
+        "frequently purchased categories": [
+          "Fruits (28%)",
+          "Vegetables/Tofu products (25%)",
+          "Dairy products/Ice products (15%)",
+          "Household items (12%)",
+          "Grains, oils, condiments, dry goods (10%)",
+          "Others (10%)"
+        ],
+        "frequently visited stores": [
+          "Yonghui Supermarket Taijiang Branch (45%)",
+          "Yonghui Life (28%)",
+          "Fuzhou Fruit and Vegetable Fresh (15%)",
+          "Other stores (12%)"
+        ],
+        "cost per order by category": {
+          "Fruits": "10~30 yuan",
+          "Vegetables/Tofu products": "5~15 yuan",
+          "Dairy products/Ice products": "15~35 yuan",
+          "Household items": "10~40 yuan",
+          "Grains, oils, condiments, dry goods": "8~25 yuan"
+        },
+        "preferred delivery time": "25~60 minutes",
+        "typical order time": "17~19 hrs (35%), 10~12 hrs (25%), 14~16 hrs (20%)",
+        "recent orders": [
+          {
+            "store": "Yonghui Supermarket Taijiang Branch",
+            "product": "4 apples, 2 broccoli, low-fat yogurt"
+          },
+          {
+            "store": "Yonghui Life",
+            "product": "Oatmeal, tofu, shiitake mushrooms"
+          },
+          {
+            "store": "Fuzhou Fruit and Vegetable Fresh",
+            "product": "Kiwi, spinach, eggs"
+          }
+        ],
+        "search history": [
+          "Low-fat yogurt",
+          "Tofu",
+          "Fruits",
+          "Oatmeal",
+          "Whole wheat bread"
+        ]
+      }
+    },
+    "in-store consumption": {
+      "in-store dining": {
+        "fine-dining": {
+          "frequently purchased categories": [
+            "Foreign cuisine/Japanese cuisine (Average 180 yuan)",
+            "Regional cuisine/Cantonese cuisine (Average 150 yuan)",
+            "Regional cuisine/Sichuan cuisine (Average 120 yuan)"
+          ],
+          "preferred average price per person": "120~180 yuan",
+          "preferred store rating": "4.2~4.8 stars",
+          "typical dining time": "19:00-21:30",
+          "preferred distance": "1000~5000m",
+          "recent orders": [
+            {
+              "store": "Fuzhou Da Dong Roast Duck",
+              "product": "Beijing roast duck set"
+            },
+            {
+              "store": "Sushiro (Shiou Plaza Branch)",
+              "product": "Special sashimi platter"
+            },
+            {
+              "store": "Shu Daxia Hotpot (Cangshan Wanda Branch)",
+              "product": "Spicy dual-flavor hotpot + beef platter"
+            }
+          ],
+          "search history": [
+            "Sugar-free desserts",
+            "Low-sugar Japanese cuisine",
+            "Healthy restaurants",
+            "Upscale restaurants"
+          ]
+        },
+        "light meal": {
+          "frequently purchased categories": [
+            "Snacks and fast food/Chinese quick meals (Average 35 yuan)",
+            "Regional cuisine/Jiangzhe cuisine (Average 45 yuan)",
+            "Snacks and fast food/Western fast food (Average 40 yuan)"
+          ],
+          "preferred average price per person": "25~45 yuan",
+          "preferred store rating": "3.5~4.3 stars",
+          "typical dining time": "11:30-13:00",
+          "preferred distance": "0~800m",
+          "recent orders": [
+            {
+              "store": "Yonghe King (Jinyuan Branch)",
+              "product": "Signature soy milk + pan-fried buns"
+            },
+            {
+              "store": "Real Kung Fu (Shiou Plaza Branch)",
+              "product": "Teriyaki chicken leg rice"
+            },
+            {
+              "store": "Min Cuisine Kitchen (Cangshan Branch)",
+              "product": "Satay noodles + braised pork rice"
+            }
+          ],
+          "search history": [
+            "Bento",
+            "Fast food",
+            "Low-sugar meal",
+            "Nearby quick meal"
+          ]
+        },
+        "desserts/drinks/snacks": {
+          "frequently purchased categories": [
+            "Bread and desserts (Average 25 yuan)",
+            "Beverage shops (Average 18 yuan)",
+            "Other dining/Fresh fruits (Average 15 yuan)"
+          ],
+          "preferred average price per person": "15~30 yuan",
+          "preferred store rating": "4.0~4.7 stars",
+          "typical dining time": "15:00-17:00",
+          "preferred distance": "0~600m",
+          "recent orders": [
+            {
+              "store": "HeyTea (Shiou Plaza Branch)",
+              "product": "Grape with Aloe (Sugar-Free)"
+            },
+            {
+              "store": "BreadTalk (Jinyuan Branch)",
+              "product": "Whole wheat toast"
+            },
+            {
+              "store": "Xianfeng Fruits (Cangshan Branch)",
+              "product": "Selected fruit platter"
+            }
+          ],
+          "search history": [
+            "Sugar-free beverages",
+            "Low-sugar desserts",
+            "Healthy desserts",
+            "Fruits"
+          ]
+        }
+      },
+      "other in-store services": {
+        "frequently consumed categories": {
+          "Sports and fitness/Fitness centers": "35%",
+          "Beauty/Hairdressing": "25%",
+          "Beauty/Nail services": "20%",
+          "Leisure and entertainment/Massage/Foot therapy": "10%",
+          "Leisure and entertainment/Escape rooms": "10%"
+        },
+        "cost per order by category": {
+          "Sports and fitness/Fitness centers": "100~300 yuan",
+          "Beauty/Hairdressing": "200~500 yuan",
+          "Beauty/Nail services": "150~300 yuan",
+          "Leisure and entertainment/Massage/Foot therapy": "120~250 yuan",
+          "Leisure and entertainment/Escape rooms": "80~150 yuan"
+        },
+        "preferred store rating": "4.0~4.8 stars",
+        "preferred service time": "10:00-14:00",
+        "preferred distance": "0~3000m",
+        "recent orders": [
+          {
+            "store": "Super Gorilla Fitness (Jinyuan Branch)",
+            "product": "Unlimited monthly pass"
+          },
+          {
+            "store": "BHG Hair Studio (Shiou Branch)",
+            "product": "Premium Haircut + Treatment Package"
+          },
+          {
+            "store": "Ballet on Fingers Nail Salon (Cangshan Branch)",
+            "product": "Japanese nail art package"
+          }
+        ],
+        "search history": [
+          "Gym",
+          "Nail salon",
+          "Streaming makeup",
+          "Game streamer hairstyle",
+          "Escape room"
+        ]
+      }
+    },
+    "OTA": {
+      "visited scenes": {
+        "Theme parks": "45%",
+        "Natural landscapes (mountains/lakes/forests)": "25%",
+        "Hot spring resorts": "15%",
+        "Exhibition halls (museums/art galleries)": "10%",
+        "Cultural heritage sites": "5%"
+      },
+      "cost per night on hotel": "500~1000 yuan",
+      "visited hotels": {
+        "Atour": "35%",
+        "JI Hotel": "25%",
+        "Vienna": "20%",
+        "Orange": "15%",
+        "Huazhu": "5%"
+      },
+      "browsed hotels": {
+        "Four-star hotels": "45%",
+        "Comfort hotels": "30%",
+        "Three-star hotels": "15%",
+        "Five-star hotels": "10%"
+      },
+      "historical travel plans": {
+        "Fuzhou-Shanghai": {
+          "Price range": "600-900 yuan",
+          "Transportation mode": "High-speed rail/EMU"
+        },
+        "Fuzhou-Beijing": {
+          "Price range": "1200-1800 yuan",
+          "Transportation mode": "Airplane"
+        },
+        "Fuzhou-Xiamen": {
+          "Price range": "100-200 yuan",
+          "Transportation mode": "High-speed rail/EMU"
+        },
+        "Fuzhou-Guangzhou": {
+          "Price range": "500-800 yuan",
+          "Transportation mode": "High-speed rail/EMU"
+        },
+        "Fuzhou-Sanya": {
+          "Price range": "1000-1500 yuan",
+          "Transportation mode": "Airplane"
+        },
+        "Fuzhou-Chongqing": {
+          "Price range": "900-1400 yuan",
+          "Transportation mode": "Airplane"
+        }
+      }
+    }
+  },
+  "stores": {},
+  "orders": {
+    "S17550806591392888_O00001": {
+      "order_id": "S17550806591392888_O00001",
+      "order_type": "delivery",
+      "user_id": "U060554",
+      "store_id": "S2507150001",
+      "total_price": 25,
+      "create_time": "2025-08-15 08:15:32",
+      "status": "delivered",
+      "products": [
+        {
+          "product_id": "P2507150001",
+          "price": 25,
+          "quantity": 1,
+          "name": "Whole Wheat Egg Sandwich + Yogurt"
+        }
+      ],
+      "store_name": "Lufu Light Meal",
+      "location": {
+        "address": "No. 12-105, Rongxin Shuanghangcheng Commercial Street, 618 Jinshan Avenue, Cangshan District, Fuzhou",
+        "longitude": 119.3245,
+        "latitude": 26.0462
+      },
+      "dispatch_time": "2025-08-15 08:25:36",
+      "shipping_time": 18,
+      "delivery_time": "2025-08-15 08:43:36"
+    },
+    "S17550806591392888_O00004": {
+      "order_id": "S17550806591392888_O00004",
+      "order_type": "hotel",
+      "user_id": "U060554",
+      "store_id": "H2507150001",
+      "note": "Hope to arrange a quiet room",
+      "location": {
+        "address": "Xiamen Atour Hotel, No. 1699 Huandao Road, Siming District, Xiamen, Fujian Province",
+        "longitude": 118.1842,
+        "latitude": 24.4398
+      },
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 698,
+      "create_time": "2025-08-02 10:35:21",
+      "update_time": "2025-08-02 10:35:21",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "PH2507150001",
+          "price": 698,
+          "quantity": 1,
+          "date": "2025-08-15",
+          "room_type": "Ocean View King Room"
+        }
+      ]
+    },
+    "S17550806591392888_O00005": {
+      "order_id": "S17550806591392888_O00005",
+      "order_type": "attraction",
+      "user_id": "U060554",
+      "store_id": "A2507150001",
+      "note": "",
+      "location": {
+        "address": "Xiamen Underwater World, Zengcuoan Southern Bay Beach, Huandao Road, Siming District, Xiamen, Fujian Province",
+        "longitude": 118.1901,
+        "latitude": 24.4367
+      },
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 180,
+      "create_time": "2025-08-02 10:42:15",
+      "update_time": "2025-08-02 10:42:15",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "PA2507150001",
+          "price": 180,
+          "quantity": 1,
+          "ticket_type": "Adult Ticket"
+        }
+      ]
+    },
+    "S17550806591392888_O00006": {
+      "order_id": "S17550806591392888_O00006",
+      "order_type": "flight",
+      "user_id": "U060554",
+      "store_id": "F2507150001",
+      "note": "Prefer window seat",
+      "location": {
+        "address": "Fuzhou Changle International Airport, Changle District, Fuzhou, Fujian Province",
+        "longitude": 119.6632,
+        "latitude": 25.935
+      },
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 1350,
+      "create_time": "2025-07-30 14:25:36",
+      "update_time": "2025-07-30 14:25:36",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "PF2507150001",
+          "price": 1350,
+          "quantity": 1,
+          "seat_type": "Economy Class",
+          "flight_info": "Fuzhou-Sanya MF8527"
+        }
+      ]
+    },
+    "S17550806591392888_O00007": {
+      "order_id": "S17550806591392888_O00007",
+      "order_type": "train",
+      "user_id": "U060554",
+      "store_id": "T2507150001",
+      "note": "",
+      "location": {
+        "address": "Fuzhou Railway Station, Jin'an District, Fuzhou, Fujian Province",
+        "longitude": 119.3066,
+        "latitude": 26.0621
+      },
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 156.5,
+      "create_time": "2025-06-15 09:12:43",
+      "update_time": "2025-06-15 09:12:43",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "PT2507150001",
+          "price": 156.5,
+          "quantity": 1,
+          "seat_type": "Second Class Seat",
+          "train_info": "Fuzhou-Xiamen G2865"
+        }
+      ]
+    },
+    "S17550806591392888_O00009": {
+      "order_id": "S17550806591392888_O00009",
+      "order_type": "instore",
+      "user_id": "U060554",
+      "store_id": "SI2507150002",
+      "total_price": 228,
+      "create_time": "2025-07-20 15:45:12",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "PI2507150002",
+          "price": 228,
+          "quantity": 1,
+          "name": "Premium Haircut + Treatment Package"
+        }
+      ],
+      "store_name": "BHG Hair Studio (Wanda Plaza Branch)",
+      "location": {
+        "address": "No. 3088, 3rd Floor, Wanda Plaza, Cangshan District, Fuzhou",
+        "longitude": 119.3256,
+        "latitude": 26.0428
+      }
+    },
+    "S17550806591392888_O00010": {
+      "order_id": "S17550806591392888_O00010",
+      "order_type": "instore",
+      "user_id": "U060554",
+      "store_id": "SI2507150003",
+      "total_price": 28,
+      "create_time": "2025-07-10 16:35:22",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "PI2507150003",
+          "price": 28,
+          "quantity": 1,
+          "name": "Grape with Aloe (Sugar-Free)"
+        }
+      ],
+      "store_name": "HeyTea (Shiou Plaza Branch)",
+      "location": {
+        "address": "1st Floor Atrium, Shiou Plaza, Taijiang District, Fuzhou",
+        "longitude": 119.3023,
+        "latitude": 26.0675
+      }
+    }
+  }
+}

@@ -1,0 +1,703 @@
+{
+  "task_id": "A0811008",
+  "domain": "cross_domain",
+  "time": "2024-11-22 10:15:00",
+  "user_id": "U869962",
+  "weather": [
+    {
+      "city": "Panjin",
+      "category": "sunny",
+      "datetime": "2024-11-22",
+      "temperature": [
+        3,
+        12
+      ],
+      "humidity": 45
+    },
+    {
+      "city": "Dalian",
+      "category": "cloudy",
+      "datetime": "2024-11-22",
+      "temperature": [
+        5,
+        14
+      ],
+      "humidity": 60
+    }
+  ],
+  "location": [],
+  "user_profile": {
+    "user id": "U869962",
+    "occupation": "Designer",
+    "gender": "female",
+    "age group": "30~35",
+    "residence": "Dalian",
+    "home address": "Unit 1201, Building 2, Jinshi International Apartments, 553 Zhongshan Road, Heishijiao Street, Shahekou District, Dalian, Liaoning Province",
+    "work address": "Room 302, Building B, Dalian Creative Industry Park, No.1 May Fourth Square, Xigang District, Dalian, Liaoning Province",
+    "dietary restrictions": "No caffeine, Low sugar",
+    "family status": "Has children",
+    "personality": "Experiences mood swings, expresses herself with strong emotional overtones"
+  },
+  "user_historical_behaviors": {
+    "user id": "U869962",
+    "occupation": "designer",
+    "gender": "female",
+    "age group": "30~35",
+    "residence": "Dalian",
+    "home address": "Unit 1201, Building 2, Jinshi International Apartments, 553 Zhongshan Road, Heishijiao Street, Shahekou District, Dalian, Liaoning Province",
+    "work address": "Room 302, Building B, Dalian Creative Industry Park, No.1 May Fourth Square, Xigang District, Dalian, Liaoning Province",
+    "delivery": {
+      "food delivery": {
+        "breakfast": {
+          "frequently purchased categories": [
+            "Quick Meals/Steamed Buns/Pan-Fried Buns (Average 18 yuan)",
+            "Quick Meals/Pancakes/Wraps/Hand-Held Pancakes (Average 15 yuan)",
+            "Quick Meals/Dumplings/Wonton (Average 22 yuan)"
+          ],
+          "cost per order": "15~30 yuan",
+          "preferred store rating": "4.5~4.8 points",
+          "preferred delivery time": "15~25 minutes",
+          "preferred distance": "0~1500m",
+          "recent orders": [
+            {
+              "store": "Fresh Aroma Pan-Fried Buns",
+              "product": "Signature Pork Pan-Fried Buns"
+            },
+            {
+              "store": "Old Northern Pancakes",
+              "product": "Whole Wheat Pancake"
+            },
+            {
+              "store": "Fu Man Lou Dumpling House",
+              "product": "Vegetable Three-Delight Dumplings"
+            }
+          ],
+          "search history": [
+            "Soy milk",
+            "Low-sugar breakfast",
+            "Healthy breakfast",
+            "Pan-fried buns"
+          ]
+        },
+        "weekday lunch/dinner": {
+          "frequently purchased categories": [
+            "Quick Meals/Salad (Average 32 yuan)",
+            "Quick Meals/Light Food (Average 38 yuan)",
+            "Quick Meals/Healthy Meals (Average 45 yuan)"
+          ],
+          "cost per order": "30~50 yuan",
+          "preferred store rating": "4.6~4.9 points",
+          "preferred delivery time": "20~35 minutes",
+          "preferred distance": "0~2500m",
+          "recent orders": [
+            {
+              "store": "Light Food Salad Workshop",
+              "product": "Chicken Breast Quinoa Salad"
+            },
+            {
+              "store": "Healthy Meal Select",
+              "product": "Low-Fat Chicken Breast Vegetable Bento"
+            },
+            {
+              "store": "Green Light Meals",
+              "product": "Avocado Chicken Salad"
+            }
+          ],
+          "search history": [
+            "Low-calorie lunch",
+            "Healthy light food",
+            "Salad",
+            "Chicken breast"
+          ]
+        },
+        "weekend lunch/dinner": {
+          "frequently purchased categories": [
+            "Chinese Cuisine/Cantonese Cuisine (Average 88 yuan)",
+            "International Cuisine/Japanese Bento/Sushi (Average 95 yuan)",
+            "Chinese Cuisine/Northeastern Cuisine (Average 75 yuan)"
+          ],
+          "cost per order": "70~120 yuan",
+          "preferred store rating": "4.7~5.0 points",
+          "preferred delivery time": "30~45 minutes",
+          "preferred distance": "0~3500m",
+          "recent orders": [
+            {
+              "store": "Guangzhou Ming Xuan",
+              "product": "Steamed Bass Set Meal"
+            },
+            {
+              "store": "Sushi no Ya",
+              "product": "Salmon Sashimi Platter"
+            },
+            {
+              "store": "Old Northeastern Restaurant",
+              "product": "Sweet and Sour Pork + Sautéed Pork Strips"
+            }
+          ],
+          "search history": [
+            "Cantonese cuisine",
+            "Japanese cuisine",
+            "Home-style dishes",
+            "Sugar-Free Option"
+          ]
+        },
+        "desserts/drinks/snacks": {
+          "frequently purchased categories": [
+            "Beverages & Desserts/Pure Tea/Cold Tea (Average 22 yuan)",
+            "Beverages & Desserts/Fruit Mix (Average 35 yuan)",
+            "Beverages & Desserts/Cold Desserts (Average 28 yuan)"
+          ],
+          "cost per order": "20~40 yuan",
+          "preferred store rating": "4.5~4.8 points",
+          "preferred delivery time": "15~30 minutes",
+          "preferred distance": "0~2000m",
+          "recent orders": [
+            {
+              "store": "Cha Li",
+              "product": "Mango Pear Juice"
+            },
+            {
+              "store": "Fresh Cut Fruit Mix",
+              "product": "Colorful Fruit Platter"
+            },
+            {
+              "store": "Cool Summer",
+              "product": "Yogurt Fruit Ice"
+            }
+          ],
+          "search history": [
+            "Sugar-Free Tea",
+            "Low-sugar desserts",
+            "Fruit",
+            "Yogurt"
+          ]
+        },
+        "night snack": {
+          "frequently purchased categories": [
+            "Quick Meals/Rice Noodles/Rice Vermicelli (Average 28 yuan)",
+            "Snacks/Bobo Chicken (Average 45 yuan)",
+            "Quick Meals/Liuzhou Rice Noodles (Average 32 yuan)"
+          ],
+          "cost per order": "25~50 yuan",
+          "preferred store rating": "4.3~4.7 points",
+          "preferred delivery time": "20~35 minutes",
+          "preferred distance": "0~2500m",
+          "recent orders": [
+            {
+              "store": "Yunnan Bridge Rice Noodles",
+              "product": "Classic Chicken Broth Rice Noodles"
+            },
+            {
+              "store": "Sichuan Bobo Chicken",
+              "product": "Mild Spicy Bobo Chicken Platter"
+            },
+            {
+              "store": "Liuzhou Rice Noodles",
+              "product": "Signature Liuzhou Rice Noodles"
+            }
+          ],
+          "search history": [
+            "Rice noodles",
+            "Bobo chicken",
+            "Night snack",
+            "Liuzhou rice noodles"
+          ]
+        }
+      },
+      "product delivery": {
+        "frequently purchased categories": [
+          "Vegetables/Bean Products(32%)",
+          "Fruits(28%)",
+          "Household Items(15%)",
+          "Beauty & Skincare(12%)",
+          "Flowers & Gardening(8%)",
+          "Others(5%)"
+        ],
+        "frequently visited stores": [
+          "Dalian Baijia Fresh Supermarket(38%)",
+          "CR Vanguard Xigang Store(27%)",
+          "FamilyMart Changjiang Road Store(22%)",
+          "Other stores(13%)"
+        ],
+        "cost per order by category": {
+          "Vegetables/Bean Products": "5~25 yuan",
+          "Fruits": "15~45 yuan",
+          "Household Items": "20~60 yuan",
+          "Beauty & Skincare": "80~200 yuan",
+          "Flowers & Gardening": "30~120 yuan"
+        },
+        "preferred delivery time": "25~60 minutes",
+        "typical order time": "18~20h(45%)，10~12h(25%)，14~16h(20%)",
+        "recent orders": [
+          {
+            "store": "Dalian Baijia Fresh Supermarket",
+            "product": "Organic Broccoli 300g"
+          },
+          {
+            "store": "CR Vanguard Xigang Store",
+            "product": "Imported Avocados Pack of 3"
+          },
+          {
+            "store": "Dalian Baijia Fresh Supermarket",
+            "product": "Lavender Potted Plant"
+          }
+        ],
+        "search history": [
+          "Organic vegetables",
+          "Avocado",
+          "Low-sugar fruits",
+          "Face mask",
+          "Facial cleanser",
+          "Lavender"
+        ]
+      }
+    },
+    "in-store consumption": {
+      "in-store dining": {
+        "fine-dining": {
+          "frequently consumed categories": [
+            "International Cuisine/Japanese Food (Average 125 yuan)",
+            "Regional Cuisine/Specialty Dishes (Average 95 yuan)",
+            "Regional Cuisine/Seafood (Average 110 yuan)"
+          ],
+          "preferred average price per person": "95~130 yuan",
+          "preferred store rating": "4.2~4.9 stars",
+          "typical dining time": "18:30-20:30",
+          "preferred distance": "500~3000m",
+          "recent orders": [
+            {
+              "store": "Dalian Seafood House",
+              "product": "Steamed Fresh Dalian Grouper"
+            },
+            {
+              "store": "Sakura Japanese Restaurant",
+              "product": "Sugar-Free Sashimi Platter Set"
+            },
+            {
+              "store": "Qinghe Bistro",
+              "product": "Organic Vegetable Salad + Low-Sugar Sauce Steak"
+            }
+          ],
+          "search history": [
+            "Sugar-Free Japanese cuisine",
+            "Healthy restaurants",
+            "Family-Friendly restaurants",
+            "Low-sugar dishes",
+            "Kid-friendly restaurants"
+          ]
+        },
+        "light meal": {
+          "frequently consumed categories": [
+            "Fast Food/Chinese Quick Meals (Average 45 yuan)",
+            "International Cuisine/Southeast Asian Food (Average 60 yuan)",
+            "Regional Cuisine/Jiangzhe Cuisine (Average 55 yuan)"
+          ],
+          "preferred average price per person": "40~65 yuan",
+          "preferred store rating": "3.5~4.5 stars",
+          "typical dining time": "11:30-13:00",
+          "preferred distance": "0~800m",
+          "recent orders": [
+            {
+              "store": "Light Food Workshop",
+              "product": "Low-Calorie Vegetable Salad + Chicken Breast"
+            },
+            {
+              "store": "Thai Light Food",
+              "product": "Tom Yum Goong Soup with Brown Rice"
+            },
+            {
+              "store": "Nutritional Work Meal",
+              "product": "Balanced Boiled Meal Box"
+            }
+          ],
+          "search history": [
+            "Healthy work meals",
+            "Low-sugar lunch",
+            "Fast delivery",
+            "Weight loss meals",
+            "Balanced nutrition"
+          ]
+        },
+        "desserts/drinks/snacks": {
+          "frequently consumed categories": [
+            "Bread & Desserts (Average 30 yuan)",
+            "Beverage Shops (Average 25 yuan)",
+            "Other Food/Fresh Fruits (Average 20 yuan)"
+          ],
+          "preferred average price per person": "20~35 yuan",
+          "preferred store rating": "4.0~4.8 stars",
+          "typical dining time": "15:00-16:30",
+          "preferred distance": "0~500m",
+          "recent orders": [
+            {
+              "store": "Naturally Fresh Fruit",
+              "product": "Fresh Fruit Platter"
+            },
+            {
+              "store": "BAKE Sugar-Free Bakery",
+              "product": "Low-Sugar Whole Wheat Bread"
+            },
+            {
+              "store": "Healthy Living Beverages",
+              "product": "Low-Sugar Lemon Water"
+            }
+          ],
+          "search history": [
+            "Sugar-Free beverages",
+            "Low-sugar desserts",
+            "Healthy children's snacks",
+            "Caffeine-free drinks",
+            "Whole wheat bread"
+          ]
+        }
+      },
+      "other in-store services": {
+        "frequently consumed categories": {
+          "Beauty/Hair Styling": "15%",
+          "Beauty/Yoga": "30%",
+          "Sports & Fitness/Fitness Centers": "25%",
+          "Parent-Child/Kids Play Areas": "20%",
+          "Leisure & Entertainment/DIY Workshops": "10%"
+        },
+        "cost per order by category": {
+          "Beauty/Hair Styling": "180~350 yuan",
+          "Beauty/Yoga": "120~200 yuan/session",
+          "Sports & Fitness/Fitness Centers": "100~180 yuan/session",
+          "Parent-Child/Kids Play Areas": "150~300 yuan",
+          "Leisure & Entertainment/DIY Workshops": "120~250 yuan"
+        },
+        "preferred store rating": "4.0~4.8 stars",
+        "preferred service time": "10:00-12:00 or 17:00-19:00",
+        "preferred distance": "0~5000m",
+        "recent orders": [
+          {
+            "store": "Zen Yoga",
+            "product": "Single Person Yoga Course"
+          },
+          {
+            "store": "Children's Fun Park",
+            "product": "Parent-Child Interaction Package"
+          },
+          {
+            "store": "Creative Workshop",
+            "product": "Pottery Making Experience"
+          }
+        ],
+        "search history": [
+          "Parent-child activities",
+          "Designer yoga",
+          "Parent-child crafts",
+          "Parent-child fitness",
+          "Parent-child creative studio"
+        ]
+      }
+    },
+    "OTA": {
+      "visited scenes": {
+        "Exhibitions (Museums/Art Galleries)": "35%",
+        "Natural Landscapes (Mountains/Lakes/Forests)": "25%",
+        "Theme Parks": "20%",
+        "Feature Villages/Industrial Tourism/Uncategorized": "15%",
+        "Cultural & Historical Sites": "5%"
+      },
+      "cost per night on hotel": "500~1000 yuan",
+      "visited hotels": {
+        "Atour": "40%",
+        "JI Hotel": "25%",
+        "Vienna": "20%",
+        "Orange": "15%"
+      },
+      "browsed hotels": {
+        "Comfort Hotels": "45%",
+        "Four-Star Hotels": "30%",
+        "Luxury Hotels": "15%",
+        "Three-Star Hotels": "10%"
+      },
+      "historical travel plans": {
+        "Dalian-Beijing": {
+          "Price range": "800-1200 yuan",
+          "Transportation method": "High-Speed Rail"
+        },
+        "Dalian-Shanghai": {
+          "Price range": "1200-2000 yuan",
+          "Transportation method": "Flight"
+        },
+        "Dalian-Hangzhou": {
+          "Price range": "1300-2100 yuan",
+          "Transportation method": "Flight"
+        },
+        "Dalian-Qingdao": {
+          "Price range": "400-600 yuan",
+          "Transportation method": "High-Speed Rail"
+        },
+        "Dalian-Harbin": {
+          "Price range": "300-500 yuan",
+          "Transportation method": "High-Speed Rail"
+        },
+        "Dalian-Weihai": {
+          "Price range": "200-400 yuan",
+          "Transportation method": "Long-distance Bus"
+        },
+        "Beijing-Dalian": {
+          "Price range": "800-1200 yuan",
+          "Transportation method": "High-Speed Rail"
+        },
+        "Shanghai-Dalian": {
+          "Price range": "1200-2000 yuan",
+          "Transportation method": "Flight"
+        }
+      }
+    }
+  },
+  "stores": {
+    "S17550812417923070_S00001": {
+      "name": "Panjin Premium Flash Sale",
+      "store_id": "S17550812417923070_S00001",
+      "score": 4.7,
+      "location": {
+        "address": "Panjin Premium Flash Sale Supermarket, Zhenxing Street, Xinglongtai District, Panjin, Liaoning Province",
+        "latitude": 41.1219,
+        "longitude": 122.0698
+      },
+      "tags": [
+        "product delivery",
+        "Daily Necessities",
+        "Cultural and Sports Goods"
+      ],
+      "store_type": "target",
+      "products": [
+        {
+          "name": "Professional Frisbee",
+          "store_id": "S17550812417923070_S00001",
+          "store_name": "Panjin Premium Flash Sale",
+          "price": 39.9,
+          "tags": [
+            "Frisbee",
+            "Outdoor Sports",
+            "New Arrival",
+            "Professional Grade"
+          ],
+          "product_id": "S17550812417923070_P00001",
+          "attributes": [
+            "Blue",
+            "Red",
+            "Yellow"
+          ],
+          "product_type": "target"
+        },
+        {
+          "name": "Portable Folding Frisbee",
+          "store_id": "S17550812417923070_S00001",
+          "store_name": "Panjin Premium Flash Sale",
+          "price": 29.9,
+          "tags": [
+            "Frisbee",
+            "Folding",
+            "Portable",
+            "Outdoor",
+            "Next-Day Delivery"
+          ],
+          "product_id": "S17550812417923070_P00003",
+          "attributes": [
+            "Green",
+            "Orange"
+          ],
+          "product_type": "distraction"
+        },
+        {
+          "name": "Outdoor Camping Portable Tea Set",
+          "store_id": "S17550812417923070_S00001",
+          "store_name": "Panjin Premium Flash Sale",
+          "price": 89.9,
+          "tags": [
+            "Tea Set",
+            "Outdoor",
+            "Portable",
+            "Camping"
+          ],
+          "product_id": "S17550812417923070_P00005",
+          "attributes": [
+            "2-Person Set",
+            "4-Person Set"
+          ],
+          "product_type": "distraction"
+        }
+      ]
+    },
+    "S17550812417923070_S00002": {
+      "name": "FamilyMart (Panjin Petroleum Street Store)",
+      "store_id": "S17550812417923070_S00002",
+      "score": 4.5,
+      "location": {
+        "address": "FamilyMart, 165 Petroleum Street, Xinglongtai District, Panjin, Liaoning Province",
+        "latitude": 41.1255,
+        "longitude": 122.0745
+      },
+      "tags": [
+        "product delivery",
+        "Convenience Store",
+        "Snacks",
+        "Daily Necessities"
+      ],
+      "store_type": "target",
+      "products": [
+        {
+          "name": "JOKER Plastic Playing Cards",
+          "store_id": "S17550812417923070_S00002",
+          "store_name": "FamilyMart (Panjin Petroleum Street Store)",
+          "price": 15.9,
+          "tags": [
+            "product delivery",
+            "Board Game",
+            "Playing Cards",
+            "Brand New"
+          ],
+          "product_id": "S17550812417923070_P00007",
+          "attributes": [
+            "Standard Size",
+            "Waterproof Material"
+          ],
+          "product_type": "target"
+        },
+        {
+          "name": "MINI Frisbee Keychain",
+          "store_id": "S17550812417923070_S00002",
+          "store_name": "FamilyMart (Panjin Petroleum Street Store)",
+          "price": 9.9,
+          "tags": [
+            "product delivery",
+            "Creative Accessories",
+            "Mini Frisbee"
+          ],
+          "product_id": "S17550812417923070_P00010",
+          "attributes": [
+            "Mini Size",
+            "Multiple Colors Available"
+          ],
+          "product_type": "distraction"
+        }
+      ]
+    },
+    "S17550812417923070_S00003": {
+      "name": "Panjin Sports Equipment Store",
+      "store_id": "S17550812417923070_S00003",
+      "score": 4.8,
+      "location": {
+        "address": "Panjin Sports Equipment Store, Shengli Street, Shuangtaizi District, Panjin, Liaoning Province",
+        "latitude": 41.1912,
+        "longitude": 122.0566
+      },
+      "tags": [
+        "Sports Equipment",
+        "Outdoor Equipment",
+        "Professional Supplies"
+      ],
+      "store_type": "distraction",
+      "products": [
+        {
+          "name": "Professional Frisbee",
+          "store_id": "S17550812417923070_S00003",
+          "store_name": "Panjin Sports Equipment Store",
+          "price": 59.9,
+          "tags": [
+            "Outdoor Sports",
+            "Frisbee",
+            "Professional Grade",
+            "Durable Material",
+            "product delivery"
+          ],
+          "product_id": "S17550812417923070_P00011",
+          "attributes": [
+            "Standard Size",
+            "Colorful",
+            "175g"
+          ],
+          "product_type": "distraction"
+        },
+        {
+          "name": "Waterproof Playing Cards",
+          "store_id": "S17550812417923070_S00003",
+          "store_name": "Panjin Sports Equipment Store",
+          "price": 29.9,
+          "tags": [
+            "Board Game",
+            "Poker",
+            "Waterproof",
+            "Portable",
+            "product delivery"
+          ],
+          "product_id": "S17550812417923070_P00012",
+          "attributes": [
+            "Standard Poker",
+            "Plastic Material"
+          ],
+          "product_type": "distraction"
+        },
+        {
+          "name": "Portable Camping Tea Set",
+          "store_id": "S17550812417923070_S00003",
+          "store_name": "Panjin Sports Equipment Store",
+          "price": 128,
+          "tags": [
+            "Outdoor Tea Set",
+            "Portable",
+            "Camping Equipment",
+            "product delivery"
+          ],
+          "product_id": "S17550812417923070_P00014",
+          "attributes": [
+            "4-Person Set",
+            "Portable Storage Bag"
+          ],
+          "product_type": "distraction"
+        },
+        {
+          "name": "Outdoor Folding Picnic Mat",
+          "store_id": "S17550812417923070_S00003",
+          "store_name": "Panjin Sports Equipment Store",
+          "price": 89,
+          "tags": [
+            "Outdoor Equipment",
+            "Picnic Mat",
+            "Waterproof",
+            "Portable",
+            "product delivery"
+          ],
+          "product_id": "S17550812417923070_P00015",
+          "attributes": [
+            "200x150cm",
+            "Waterproof Bottom Layer",
+            "Portable Storage"
+          ],
+          "product_type": "distraction"
+        }
+      ]
+    }
+  },
+  "orders": {
+    "A0811008T001": {
+      "order_id": "A0811008T001",
+      "order_type": "train",
+      "user_id": "U869962",
+      "store_id": "S17550812417923070_T00005",
+      "note": "",
+      "location": null,
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 154,
+      "create_time": "2024-11-21 08:32:00",
+      "update_time": "2024-11-21 08:32:00",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17550812417923070_P00021",
+          "price": 154,
+          "quantity": 1,
+          "date": "2024-11-22",
+          "seat_type": "Second Class Seat"
+        }
+      ]
+    }
+  }
+}

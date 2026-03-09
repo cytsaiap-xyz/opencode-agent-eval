@@ -1,0 +1,97 @@
+{
+  "required_orders": [
+    {
+      "order_id": "D0811010T001",
+      "order_type": "hotel",
+      "user_id": "U371998",
+      "store_id": "S17557512753054748_H00001",
+      "note": "",
+      "location": null,
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 4208,
+      "create_time": "2024-12-19 11:38:24",
+      "update_time": "2024-12-19 11:38:24",
+      "status": "unpaid",
+      "products": [
+        {
+          "product_id": "S17557512753054748_P00001",
+          "price": 688,
+          "quantity": 1,
+          "date": "2024-12-30",
+          "room_type": "Deluxe King Room"
+        },
+        {
+          "product_id": "S17557512753054748_P00002",
+          "price": 728,
+          "quantity": 1,
+          "date": "2024-12-31",
+          "room_type": "Deluxe King Room"
+        },
+        {
+          "product_id": "S17557512753054748_P00003",
+          "price": 728,
+          "quantity": 1,
+          "date": "2025-01-01",
+          "room_type": "Deluxe King Room"
+        },
+        {
+          "product_id": "S17557512753054748_P00004",
+          "price": 688,
+          "quantity": 1,
+          "date": "2025-01-02",
+          "room_type": "Deluxe King Room"
+        },
+        {
+          "product_id": "S17557512753054748_P00005",
+          "price": 688,
+          "quantity": 1,
+          "date": "2025-01-03",
+          "room_type": "Deluxe King Room"
+        },
+        {
+          "product_id": "S17557512753054748_P00006",
+          "price": 688,
+          "quantity": 1,
+          "date": "2025-01-04",
+          "room_type": "Deluxe King Room"
+        }
+      ]
+    },
+    {
+      "order_id": "D0811010T002",
+      "order_type": "attraction",
+      "user_id": "U371998",
+      "store_id": "S17557512753054748_A00008",
+      "note": "",
+      "location": null,
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 25,
+      "create_time": "2024-12-19 11:43:15",
+      "update_time": "2024-12-19 11:43:15",
+      "status": "unpaid",
+      "products": [
+        {
+          "product_id": "S17557512753054748_P00086",
+          "price": 25,
+          "quantity": 1,
+          "date": "2025-01-01",
+          "ticket_type": "Adult Ticket"
+        }
+      ]
+    }
+  ],
+  "rubrics": [
+    "The hotel should be within 5km (inclusive) of the Shaoyang Intermediate People's Court",
+    "The hotel price should be between 500-1000 yuan per night",
+    "The booked hotel must provide Ironing Service",
+    "The booked hotel must provide Laundry Service",
+    "The booked hotel must provide breakfast",
+    "The hotel reservation dates should be December 30, 2024, December 31, 2024, January 01, 2025, January 02, 2025, January 03, 2025, January 04, 2025,",
+    "Due to the New Year's Day (January 01, 2025) weather (light rain) being unsuitable for outdoor activities, tickets to Baishuidong Scenic Area should not be purchased, but tickets for indoor attractions should be purchased instead",
+    "The purchased tickets should be for January 01, 2025"
+  ]
+}

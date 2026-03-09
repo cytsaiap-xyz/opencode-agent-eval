@@ -1,0 +1,135 @@
+{
+  "required_orders": [
+    {
+      "order_id": "70807006T001",
+      "order_type": "train",
+      "user_id": "U010052",
+      "store_id": "S17557511576221812_T00012",
+      "note": "",
+      "location": null,
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 526,
+      "create_time": "2027-11-05 09:52:29",
+      "update_time": "2027-11-05 09:52:29",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17557511576221812_P00072",
+          "price": 263,
+          "quantity": 2,
+          "date": "2027-11-10",
+          "seat_type": "Second class seat"
+        }
+      ]
+    },
+    {
+      "order_id": "70807006T002",
+      "order_type": "train",
+      "user_id": "U010052",
+      "store_id": "S17557511576221812_T00014",
+      "note": "",
+      "location": null,
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 496,
+      "create_time": "2027-11-05 09:51:29",
+      "update_time": "2027-11-05 09:51:29",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17557511576221812_P00084",
+          "price": 248,
+          "quantity": 2,
+          "date": "2027-11-12",
+          "seat_type": "Second class seat"
+        }
+      ]
+    },
+    {
+      "order_id": "70807006T003",
+      "order_type": "hotel",
+      "user_id": "U010052",
+      "store_id": "S17557511576221812_H00002",
+      "note": "",
+      "location": null,
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 676,
+      "create_time": "2027-11-05 09:55:29",
+      "update_time": "2027-11-05 09:55:29",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17557511576221812_P00008",
+          "price": 388,
+          "quantity": 1,
+          "date": "2027-11-10",
+          "room_type": "Traditional king room"
+        },
+        {
+          "product_id": "S17557511576221812_P00011",
+          "price": 388,
+          "quantity": 1,
+          "date": "2027-11-11",
+          "room_type": "Traditional king room"
+        }
+      ]
+    },
+    {
+      "order_id": "70807006T004",
+      "order_type": "attraction",
+      "user_id": "U010052",
+      "store_id": "S17557111228331195_A00008",
+      "note": "",
+      "location": null,
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 315,
+      "create_time": "2027-11-05 09:57:29",
+      "update_time": "2027-11-05 09:57:29",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17557511576221812_P00023",
+          "price": 125,
+          "quantity": 2,
+          "date": "2027-11-11",
+          "ticket_type": "Pingyao Ancient City all-inclusive ticket (adult)"
+        },
+        {
+          "product_id": "S17557511576221812_P00024",
+          "price": 65,
+          "quantity": 1,
+          "date": "2027-11-11",
+          "ticket_type": "Pingyao Ancient City all-inclusive ticket (child)"
+        }
+      ]
+    }
+  ],
+  "rubrics": [
+    "The outbound train ticket order must be for November 10, 2027 (next Wednesday)",
+    "The outbound train ticket departure location must be Xi'an, and the destination must be Taiyuan",
+    "The outbound train ticket order must be for EMU (Electric Multiple Unit) train (D-series) or High-speed rail (G-series)",
+    "Need to search for the fastest outbound train, with result being G698; the outbound train ticket order should be for train G698",
+    "The outbound order ticket quantity must be 2",
+    "The return train ticket order must be for November 12, 2027 (next Friday)",
+    "The return train ticket departure location must be Taiyuan, and the destination must be Xi'an",
+    "The return train ticket order must be for EMU (Electric Multiple Unit) train (D-series) or High-speed rail (G-series)",
+    "Need to search for the fastest return train, with result being G2672; the return train ticket order should be for train G2672",
+    "The return order ticket quantity must be 2",
+    "Accommodation must be a Traditional charm inn",
+    "The inn room quantity must be one room per night",
+    "The inn price must be 500 yuan or less per night",
+    "The inn must provide Station transfer service",
+    "The inn order should be for 2 nights, specifically November 10, 2027 and November 11, 2027",
+    "The ticket order must be for Pingyao Ancient City",
+    "The ticket order should be for all-inclusive ticket",
+    "The ticket order date must be November 11, 2027 (Thursday)",
+    "The ticket order quantity must be 2 Adult tickets + 1 Child ticket"
+  ]
+}

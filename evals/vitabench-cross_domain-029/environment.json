@@ -1,0 +1,1116 @@
+{
+  "task_id": "10812005",
+  "domain": "cross_domain",
+  "time": "2025-04-14 16:30:00",
+  "user_id": "U428049",
+  "weather": [
+    {
+      "city": "Harbin",
+      "category": "cloudy",
+      "datetime": "2025-04-14",
+      "temperature": [
+        8,
+        16
+      ],
+      "humidity": 65
+    },
+    {
+      "city": "Daqing",
+      "category": "sunny",
+      "datetime": "2025-04-15",
+      "temperature": [
+        6,
+        15
+      ],
+      "humidity": 60
+    }
+  ],
+  "location": [
+    {
+      "address": "Room 502, Unit 1, Building 2, Hengxiangcheng, 128 Yiman Street, Nangang District, Harbin, Heilongjiang Province",
+      "longitude": 126.642464,
+      "latitude": 45.729542
+    },
+    {
+      "address": "12th Floor, Building B, Yuanda Shopping Mall, intersection of 5th Avenue and Lijiang Road, Qunli, Daoli District, Harbin, Heilongjiang Province",
+      "longitude": 126.603302,
+      "latitude": 45.748501
+    }
+  ],
+  "user_profile": {
+    "user id": "U428049",
+    "occupation": "Sales",
+    "gender": "male",
+    "age group": "30~35",
+    "residence": "Harbin",
+    "home address": "Room 502, Unit 1, Building 2, Hengxiangcheng, 128 Yiman Street, Nangang District, Harbin, Heilongjiang Province",
+    "work address": "12th Floor, Building B, Yuanda Shopping Mall, intersection of 5th Avenue and Lijiang Road, Qunli, Daoli District, Harbin, Heilongjiang Province",
+    "dietary restrictions": "Avoid high purine foods (such as organ meats/seafood soups), avoid alcohol",
+    "family status": "In a relationship",
+    "personality": "Mild-tempered with high cooperation, good at listening and understanding"
+  },
+  "user_historical_behaviors": {
+    "user id": "U428049",
+    "occupation": "sales",
+    "gender": "male",
+    "age group": "30~35",
+    "residence": "Harbin",
+    "home address": "Room 502, Unit 1, Building 2, Hengxiangcheng, 128 Yiman Street, Nangang District, Harbin, Heilongjiang Province",
+    "work address": "12th Floor, Building B, Yuanda Shopping Mall, intersection of 5th Avenue and Lijiang Road, Qunli, Daoli District, Harbin, Heilongjiang Province",
+    "delivery": {
+      "breakfast": {
+        "frequently purchased categories": [
+          "Fast food/Steamed buns/Pan-fried buns (average 22 yuan)",
+          "Fast food/Fried dough sticks (average 15 yuan)",
+          "Fast food/Jianbing/Wraps/Hand-grabbed pancakes (average 18 yuan)"
+        ],
+        "cost per order": "15~30 yuan",
+        "preferred store rating": "4.2~4.7 stars",
+        "preferred delivery time": "15~30 minutes",
+        "preferred distance": "0~2500m",
+        "recent orders": [
+          {
+            "store": "Old Wang's Soy Milk & Fried Dough",
+            "product": "Fried dough stick and soy milk combo"
+          },
+          {
+            "store": "Tianjin Goubuli",
+            "product": "Pork buns (6 pieces)"
+          },
+          {
+            "store": "Old Street Jianbing",
+            "product": "Traditional jianbing guozi"
+          }
+        ],
+        "search history": [
+          "Steamed buns",
+          "Soy milk",
+          "Jianbing guozi",
+          "Breakfast combo",
+          "Pan-fried buns"
+        ]
+      },
+      "weekday lunch/dinner": {
+        "frequently purchased categories": [
+          "Fast food/Rice with toppings (average 35 yuan)",
+          "Chinese cuisine/Northeastern cuisine (average 60 yuan)",
+          "Fast food/Stewed chicken with rice (average 32 yuan)"
+        ],
+        "cost per order": "30~70 yuan",
+        "preferred store rating": "4.3~4.8 stars",
+        "preferred delivery time": "20~40 minutes",
+        "preferred distance": "0~3500m",
+        "recent orders": [
+          {
+            "store": "Stewed Chicken Rice",
+            "product": "Signature stewed chicken rice - large portion"
+          },
+          {
+            "store": "Old Northeastern Restaurant",
+            "product": "Sweet and sour pork with rice combo"
+          },
+          {
+            "store": "Sichuan Style Fast Food",
+            "product": "Twice-cooked pork rice bowl"
+          }
+        ],
+        "search history": [
+          "Rice with toppings",
+          "Northeastern cuisine",
+          "Stewed chicken",
+          "Sweet and sour pork",
+          "Fast food"
+        ]
+      },
+      "weekend lunch/dinner": {
+        "frequently purchased categories": [
+          "Chinese cuisine/Northeastern cuisine (average 120 yuan)",
+          "Hot pot/Lamb spine hot pot (average 150 yuan)",
+          "Chinese cuisine/Grilled fish (average 110 yuan)"
+        ],
+        "cost per order": "90~180 yuan",
+        "preferred store rating": "4.5~5.0 stars",
+        "preferred delivery time": "30~50 minutes",
+        "preferred distance": "0~5000m",
+        "recent orders": [
+          {
+            "store": "Old Harbin Restaurant",
+            "product": "Iron pot stewed goose + potato noodles + Northeastern large cold noodles"
+          },
+          {
+            "store": "Sichuan Grilled Fish",
+            "product": "Spicy grilled fish + 4 special side dishes"
+          },
+          {
+            "store": "Beijing Lamb Spine",
+            "product": "Lamb spine hot pot set (for 2 people)"
+          }
+        ],
+        "search history": [
+          "Northeastern cuisine",
+          "Lamb spine",
+          "Grilled fish",
+          "Iron pot stew",
+          "Couple's set meal"
+        ]
+      },
+      "desserts/drinks/snacks": {
+        "frequently purchased categories": [
+          "Beverages/desserts/Milk tea (average 28 yuan)",
+          "Beverages/desserts/Coffee (average 32 yuan)",
+          "Beverages/desserts/Chinese pastries (average 25 yuan)"
+        ],
+        "cost per order": "20~40 yuan",
+        "preferred store rating": "4.4~4.9 stars",
+        "preferred delivery time": "15~30 minutes",
+        "preferred distance": "0~3000m",
+        "recent orders": [
+          {
+            "store": "Starbucks",
+            "product": "Americano (large)"
+          },
+          {
+            "store": "Chabaodao",
+            "product": "Cheezo Mango"
+          },
+          {
+            "store": "Daoxiangcun",
+            "product": "Red bean paste pastry gift box"
+          }
+        ],
+        "search history": [
+          "Milk tea",
+          "Coffee",
+          "Afternoon tea",
+          "Pastries"
+        ]
+      },
+      "night snack": {
+        "frequently purchased categories": [
+          "BBQ/Grilled skewers (average 55 yuan)",
+          "Fast food/Rice noodles (average 40 yuan)",
+          "Snacks/Marinated foods (average 35 yuan)"
+        ],
+        "cost per order": "30~60 yuan",
+        "preferred store rating": "4.0~4.6 stars",
+        "preferred delivery time": "25~45 minutes",
+        "preferred distance": "0~4000m",
+        "recent orders": [
+          {
+            "store": "Old Street BBQ",
+            "product": "Lamb skewers (10 pieces) + Grilled chicken wings (4 pieces)"
+          },
+          {
+            "store": "Guilin Rice Noodles",
+            "product": "Signature braised meat rice noodles"
+          },
+          {
+            "store": "Sichuan Marinated Food",
+            "product": "Spicy marinated food platter"
+          }
+        ],
+        "search history": [
+          "BBQ",
+          "Rice noodles",
+          "Marinated foods",
+          "Night snack set",
+          "Crayfish"
+        ]
+      }
+    },
+    "in-store consumption": {
+      "in-store dining": {
+        "fine-dining": {
+          "frequently purchased categories": [
+            "Regional cuisine/Northeastern cuisine (average 120 yuan)",
+            "Regional cuisine/Sichuan cuisine (average 95 yuan)",
+            "International cuisine/Japanese cuisine (average 150 yuan)"
+          ],
+          "preferred average price per person": "95~150 yuan",
+          "preferred store rating": "4.0~4.9 stars",
+          "typical dining time": "18:30-21:00",
+          "preferred distance": "100~3000m",
+          "recent orders": [
+            {
+              "store": "Old Yang's Iron Pot Stew",
+              "product": "Iron pot stewed goose"
+            },
+            {
+              "store": "Sichuan Pavilion",
+              "product": "Boiled fish"
+            },
+            {
+              "store": "Hana Japanese Restaurant",
+              "product": "Sashimi platter"
+            }
+          ],
+          "search history": [
+            "Northeastern cuisine",
+            "Non-alcoholic beverages",
+            "Japanese cuisine",
+            "Business dinner"
+          ]
+        },
+        "light meal": {
+          "frequently purchased categories": [
+            "Fast food/Chinese fast food (average 35 yuan)",
+            "Fast food/Western fast food (average 45 yuan)",
+            "Regional cuisine/Northeastern cuisine (average 50 yuan)"
+          ],
+          "preferred average price per person": "30~50 yuan",
+          "preferred store rating": "3.5~4.3 stars",
+          "typical dining time": "11:30-13:00",
+          "preferred distance": "0~1000m",
+          "recent orders": [
+            {
+              "store": "Northeastern Dumpling King",
+              "product": "Three delicacies dumplings"
+            },
+            {
+              "store": "KFC",
+              "product": "Original chicken bucket"
+            },
+            {
+              "store": "Old Street Rice Noodle",
+              "product": "Beef rice noodles"
+            }
+          ],
+          "search history": [
+            "Fast food",
+            "Rice noodles",
+            "Dumplings",
+            "Bento"
+          ]
+        },
+        "desserts/drinks/snacks": {
+          "frequently purchased categories": [
+            "Beverage shops (average 18 yuan)",
+            "Bread and desserts (average 25 yuan)",
+            "Other food/Fresh fruits (average 15 yuan)"
+          ],
+          "preferred average price per person": "15~25 yuan",
+          "preferred store rating": "3.9~4.5 stars",
+          "typical dining time": "15:00-16:30",
+          "preferred distance": "0~500m",
+          "recent orders": [
+            {
+              "store": "Chabaodao",
+              "product": "Cheese milk cap tea"
+            },
+            {
+              "store": "Bread Talk",
+              "product": "Pork floss bread"
+            },
+            {
+              "store": "Fresh Fruit Station",
+              "product": "Fruit platter"
+            }
+          ],
+          "search history": [
+            "Milk tea",
+            "Coffee",
+            "Bread",
+            "Sugar-free drinks"
+          ]
+        }
+      },
+      "other in-store services": {
+        "frequently consumed categories": {
+          "Sports and fitness/Ball sports": "45%",
+          "Sports and fitness/Fitness centers": "35%",
+          "Leisure entertainment/Massage/Foot therapy": "15%",
+          "Leisure entertainment/Card and board games": "5%"
+        },
+        "cost per order by category": {
+          "Sports and fitness/Ball sports": "80~150 yuan",
+          "Sports and fitness/Fitness centers": "100~200 yuan/time",
+          "Leisure entertainment/Massage/Foot therapy": "120~180 yuan",
+          "Leisure entertainment/Card and board games": "50~100 yuan"
+        },
+        "preferred store rating": "4.0~4.8 stars",
+        "preferred service time": "19:00-21:30",
+        "preferred distance": "0~5000m",
+        "recent orders": [
+          {
+            "store": "Harbin Stadium",
+            "product": "Badminton court reservation"
+          },
+          {
+            "store": "Fitness Factory",
+            "product": "Single fitness session"
+          },
+          {
+            "store": "Zu Fu Tang",
+            "product": "Full body massage package"
+          }
+        ],
+        "search history": [
+          "Badminton court",
+          "Gym",
+          "Massage",
+          "Basketball court",
+          "Billiards room"
+        ]
+      }
+    },
+    "OTA": {
+      "visited scenes": {
+        "Cultural relics": "25%",
+        "Exhibition halls (museums/art galleries)": "20%",
+        "Natural landscapes (mountains/lakes/forests)": "30%",
+        "Ski resorts": "15%",
+        "Characteristic villages/Industrial tourism/Uncategorized projects": "10%"
+      },
+      "cost per night on hotel": "500~1000 yuan",
+      "visited hotels": {
+        "Home Inn": "15%",
+        "Ji Hotel": "30%",
+        "Atour": "25%",
+        "Vienna Hotel": "20%",
+        "GreenTree Inn": "10%"
+      },
+      "browsed hotels": {
+        "Four-star hotels": "25%",
+        "Three-star hotels": "30%",
+        "Comfort hotels": "35%",
+        "Economy hotels": "10%"
+      },
+      "historical travel plans": {
+        "Harbin-Beijing": {
+          "price range": "800-1200 yuan",
+          "transportation mode": "High-speed rail"
+        },
+        "Harbin-Shanghai": {
+          "price range": "1200-2000 yuan",
+          "transportation mode": "Flight"
+        },
+        "Harbin-Dalian": {
+          "price range": "600-900 yuan",
+          "transportation mode": "High-speed rail"
+        },
+        "Harbin-Changchun": {
+          "price range": "150-300 yuan",
+          "transportation mode": "High-speed rail"
+        },
+        "Harbin-Shenyang": {
+          "price range": "300-500 yuan",
+          "transportation mode": "High-speed rail"
+        },
+        "Beijing-Harbin": {
+          "price range": "800-1200 yuan",
+          "transportation mode": "High-speed rail"
+        },
+        "Shanghai-Harbin": {
+          "price range": "1200-2000 yuan",
+          "transportation mode": "Flight"
+        }
+      }
+    }
+  },
+  "stores": {
+    "S17550802131843488_S00001": {
+      "name": "Chabaodao (Yuanda Shopping Mall Store)",
+      "store_id": "S17550802131843488_S00001",
+      "score": 4.7,
+      "location": {
+        "address": "Chabaodao, 1st Floor, Yuanda Shopping Mall, intersection of 5th Avenue and Lijiang Road, Qunli, Daoli District, Harbin, Heilongjiang Province",
+        "latitude": 45.748501,
+        "longitude": 126.603302
+      },
+      "tags": [
+        "Milk tea",
+        "Coffee",
+        "Tea drink",
+        "Office group purchase"
+      ],
+      "store_type": "target",
+      "products": [
+        {
+          "name": "Cheezo Mango",
+          "store_id": "S17550802131843488_S00001",
+          "store_name": "Chabaodao (Yuanda Shopping Mall Store)",
+          "price": 22,
+          "tags": [
+            "Milk tea",
+            "Mango",
+            "Best-selling",
+            "Group purchase recommendation"
+          ],
+          "product_id": "S17550802131843488_P00001",
+          "attributes": [
+            "Cold",
+            "Hot"
+          ],
+          "product_type": "target"
+        },
+        {
+          "name": "Roasted milk tea",
+          "store_id": "S17550802131843488_S00001",
+          "store_name": "Chabaodao (Yuanda Shopping Mall Store)",
+          "price": 20,
+          "tags": [
+            "Milk tea",
+            "Hot drink",
+            "Popular",
+            "Office group purchase"
+          ],
+          "product_id": "S17550802131843488_P00002",
+          "attributes": [
+            "Hot"
+          ],
+          "product_type": "target"
+        },
+        {
+          "name": "Succulent grape",
+          "store_id": "S17550802131843488_S00001",
+          "store_name": "Chabaodao (Yuanda Shopping Mall Store)",
+          "price": 19,
+          "tags": [
+            "Fruit tea",
+            "Grape",
+            "Best-selling",
+            "Group purchase recommendation"
+          ],
+          "product_id": "S17550802131843488_P00003",
+          "attributes": [
+            "Cold"
+          ],
+          "product_type": "target"
+        },
+        {
+          "name": "Cheese milk cap tea (full sugar)",
+          "store_id": "S17550802131843488_S00001",
+          "store_name": "Chabaodao (Yuanda Shopping Mall Store)",
+          "price": 22,
+          "tags": [
+            "Milk tea",
+            "Cheese",
+            "Best-selling",
+            "Full sugar"
+          ],
+          "product_id": "S17550802131843488_P00005",
+          "attributes": [
+            "Cold",
+            "Hot"
+          ],
+          "product_type": "distraction"
+        },
+        {
+          "name": "8-cup group purchase package",
+          "store_id": "S17550802131843488_S00001",
+          "store_name": "Chabaodao (Yuanda Shopping Mall Store)",
+          "price": 152,
+          "tags": [
+            "Group purchase",
+            "Office afternoon tea",
+            "Multiple flavor options"
+          ],
+          "product_id": "S17550802131843488_P00006",
+          "attributes": [
+            "Cold",
+            "Hot"
+          ],
+          "product_type": "distraction"
+        },
+        {
+          "name": "Four Seasons Milk Green Tea (sugar-free)",
+          "store_id": "S17550802131843488_S00001",
+          "store_name": "Chabaodao (Yuanda Shopping Mall Store)",
+          "price": 20,
+          "tags": [
+            "Milk tea",
+            "Sugar-free",
+            "Health",
+            "Office group purchase"
+          ],
+          "product_id": "S17550802131843488_P00007",
+          "attributes": [
+            "Cold",
+            "Hot"
+          ],
+          "product_type": "distraction"
+        }
+      ]
+    },
+    "S17550802131843488_S00002": {
+      "name": "Starbucks (Qunli Mixc Mall Store)",
+      "store_id": "S17550802131843488_S00002",
+      "score": 4.8,
+      "location": {
+        "address": "Starbucks, 2nd Floor, Qunli Mixc Mall, intersection of Qunli Avenue and Lijiang Road, Daoli District, Harbin, Heilongjiang Province",
+        "latitude": 45.746235,
+        "longitude": 126.604562
+      },
+      "tags": [
+        "Coffee",
+        "Tea drink",
+        "Dessert",
+        "Office group purchase",
+        "Hot drink"
+      ],
+      "store_type": "target",
+      "products": [
+        {
+          "name": "Office afternoon tea package A (12 cups)",
+          "store_id": "S17550802131843488_S00002",
+          "store_name": "Starbucks (Qunli Mixc Mall Store)",
+          "price": 468,
+          "tags": [
+            "Group purchase",
+            "Afternoon tea",
+            "Office",
+            "Matcha Frappuccino"
+          ],
+          "product_id": "S17550802131843488_P00008",
+          "attributes": [
+            "Half sugar",
+            "Full sugar"
+          ],
+          "product_type": "target"
+        },
+        {
+          "name": "Americano combination (4 hot + 8 iced)",
+          "store_id": "S17550802131843488_S00002",
+          "store_name": "Starbucks (Qunli Mixc Mall Store)",
+          "price": 432,
+          "tags": [
+            "Americano",
+            "Coffee",
+            "Group purchase",
+            "Office",
+            "Hot drink"
+          ],
+          "product_id": "S17550802131843488_P00009",
+          "attributes": [
+            "Half sugar",
+            "Single flavor"
+          ],
+          "product_type": "distraction"
+        },
+        {
+          "name": "Selected three-flavor package (12 cups)",
+          "store_id": "S17550802131843488_S00002",
+          "store_name": "Starbucks (Qunli Mixc Mall Store)",
+          "price": 488,
+          "tags": [
+            "Latte",
+            "Americano",
+            "Matcha",
+            "Group purchase",
+            "All cold drinks"
+          ],
+          "product_id": "S17550802131843488_P00010",
+          "attributes": [
+            "Half sugar",
+            "Three flavors"
+          ],
+          "product_type": "distraction"
+        },
+        {
+          "name": "Starbucks classic three-flavor package (12 cups)",
+          "store_id": "S17550802131843488_S00002",
+          "store_name": "Starbucks (Qunli Mixc Mall Store)",
+          "price": 456,
+          "tags": [
+            "2 Hot Lattes",
+            "4 Iced Americanos",
+            "6 Matcha Frappuccinos",
+            "Group purchase",
+            "Office"
+          ],
+          "product_id": "S17550802131843488_P00011",
+          "attributes": [
+            "Half sugar",
+            "Full sugar",
+            "Sugar-free"
+          ],
+          "product_type": "target"
+        },
+        {
+          "name": "Starbucks member exclusive package (8 cups)",
+          "store_id": "S17550802131843488_S00002",
+          "store_name": "Starbucks (Qunli Mixc Mall Store)",
+          "price": 336,
+          "tags": [
+            "Member exclusive",
+            "Group purchase",
+            "Afternoon tea",
+            "Multiple flavors"
+          ],
+          "product_id": "S17550802131843488_P00012",
+          "attributes": [
+            "Half sugar"
+          ],
+          "product_type": "distraction"
+        },
+        {
+          "name": "Popular three-flavor combination (12 cups)",
+          "store_id": "S17550802131843488_S00002",
+          "store_name": "Starbucks (Qunli Mixc Mall Store)",
+          "price": 472,
+          "tags": [
+            "Latte",
+            "Mocha",
+            "Caramel Macchiato",
+            "Group purchase",
+            "Office"
+          ],
+          "product_id": "S17550802131843488_P00013",
+          "attributes": [
+            "Full sugar"
+          ],
+          "product_type": "distraction"
+        }
+      ]
+    },
+    "S17550802131843488_S00003": {
+      "name": "Mixue Ice Cream (Yuanda Shopping Mall Store)",
+      "store_id": "S17550802131843488_S00003",
+      "score": 4.5,
+      "location": {
+        "address": "Mixue Ice Cream, 1st Floor, Building B, Yuanda Shopping Mall, intersection of 5th Avenue and Lijiang Road, Qunli, Daoli District, Harbin, Heilongjiang Province",
+        "latitude": 45.748501,
+        "longitude": 126.603302
+      },
+      "tags": [
+        "Milk tea",
+        "Ice cream",
+        "Tea drink",
+        "Value for money"
+      ],
+      "store_type": "distraction",
+      "products": [
+        {
+          "name": "Grape cold brew tea",
+          "store_id": "S17550802131843488_S00003",
+          "store_name": "Mixue Ice Cream (Yuanda Shopping Mall Store)",
+          "price": 8.9,
+          "tags": [
+            "Tea drink",
+            "Fruit tea",
+            "Popular",
+            "Refreshing"
+          ],
+          "product_id": "S17550802131843488_P00014",
+          "attributes": [
+            "Full sugar",
+            "Half sugar",
+            "Light sugar",
+            "No sugar",
+            "Regular ice",
+            "Less ice",
+            "No ice"
+          ],
+          "product_type": "distraction"
+        },
+        {
+          "name": "Mango cold brew tea",
+          "store_id": "S17550802131843488_S00003",
+          "store_name": "Mixue Ice Cream (Yuanda Shopping Mall Store)",
+          "price": 9.9,
+          "tags": [
+            "Tea drink",
+            "Fruit tea",
+            "Best-selling",
+            "Refreshing"
+          ],
+          "product_id": "S17550802131843488_P00015",
+          "attributes": [
+            "Full sugar",
+            "Half sugar",
+            "Light sugar",
+            "No sugar",
+            "Regular ice",
+            "Less ice",
+            "No ice"
+          ],
+          "product_type": "distraction"
+        },
+        {
+          "name": "Lemon water",
+          "store_id": "S17550802131843488_S00003",
+          "store_name": "Mixue Ice Cream (Yuanda Shopping Mall Store)",
+          "price": 6.9,
+          "tags": [
+            "Refreshing",
+            "Thirst-quenching",
+            "Value for money",
+            "Fruity"
+          ],
+          "product_id": "S17550802131843488_P00016",
+          "attributes": [
+            "Full sugar",
+            "Half sugar",
+            "Light sugar",
+            "No sugar",
+            "Regular ice",
+            "Less ice",
+            "No ice"
+          ],
+          "product_type": "distraction"
+        },
+        {
+          "name": "Mixue milk tea (medium cup)",
+          "store_id": "S17550802131843488_S00003",
+          "store_name": "Mixue Ice Cream (Yuanda Shopping Mall Store)",
+          "price": 7.5,
+          "tags": [
+            "Iced milk tea",
+            "Signature",
+            "Classic",
+            "Value for money"
+          ],
+          "product_id": "S17550802131843488_P00017",
+          "attributes": [
+            "Full sugar",
+            "Half sugar",
+            "Light sugar",
+            "No sugar",
+            "Regular ice",
+            "Less ice",
+            "No ice"
+          ],
+          "product_type": "distraction"
+        },
+        {
+          "name": "Vanilla ice cream",
+          "store_id": "S17550802131843488_S00003",
+          "store_name": "Mixue Ice Cream (Yuanda Shopping Mall Store)",
+          "price": 4,
+          "tags": [
+            "Ice cream",
+            "Dessert",
+            "Classic",
+            "Value for money"
+          ],
+          "product_id": "S17550802131843488_P00018",
+          "attributes": [],
+          "product_type": "distraction"
+        }
+      ]
+    },
+    "S17550802131843488_S00004": {
+      "name": "HeyTea (Harbin Wanda Plaza Store)",
+      "store_id": "S17550802131843488_S00004",
+      "score": 4.6,
+      "location": {
+        "address": "HeyTea, 3rd Floor, Wanda Plaza, 168 Zhongxing Avenue, Nangang District, Harbin, Heilongjiang Province",
+        "latitude": 45.713526,
+        "longitude": 126.651231
+      },
+      "tags": [
+        "Milk tea",
+        "Fruit tea",
+        "Tea drink",
+        "High-end"
+      ],
+      "store_type": "distraction",
+      "products": [
+        {
+          "name": "Cheezo Mango",
+          "store_id": "S17550802131843488_S00004",
+          "store_name": "HeyTea (Harbin Wanda Plaza Store)",
+          "price": 32,
+          "tags": [
+            "Fruit tea",
+            "Mango",
+            "Cold drink",
+            "Team afternoon tea"
+          ],
+          "product_id": "S17550802131843488_P00019",
+          "attributes": [
+            "Half sugar",
+            "Cold",
+            "No cheese",
+            "Extra cheese"
+          ],
+          "product_type": "target"
+        },
+        {
+          "name": "Succulent grape",
+          "store_id": "S17550802131843488_S00004",
+          "store_name": "HeyTea (Harbin Wanda Plaza Store)",
+          "price": 29,
+          "tags": [
+            "Fruit tea",
+            "Grape",
+            "Cold drink",
+            "Team afternoon tea"
+          ],
+          "product_id": "S17550802131843488_P00020",
+          "attributes": [
+            "Cold",
+            "Add aloe",
+            "No aloe"
+          ],
+          "product_type": "target"
+        },
+        {
+          "name": "Hot Golden Phoenix Tea King",
+          "store_id": "S17550802131843488_S00004",
+          "store_name": "HeyTea (Harbin Wanda Plaza Store)",
+          "price": 26,
+          "tags": [
+            "Tea drink",
+            "Oolong tea",
+            "Hot drink",
+            "Team afternoon tea"
+          ],
+          "product_id": "S17550802131843488_P00021",
+          "attributes": [
+            "Hot"
+          ],
+          "product_type": "target"
+        },
+        {
+          "name": "Full Cup Red Grapefruit (full sugar)",
+          "store_id": "S17550802131843488_S00004",
+          "store_name": "HeyTea (Harbin Wanda Plaza Store)",
+          "price": 30,
+          "tags": [
+            "Fruit tea",
+            "Grapefruit",
+            "Full sugar",
+            "Cold drink"
+          ],
+          "product_id": "S17550802131843488_P00022",
+          "attributes": [
+            "Full sugar",
+            "Cold",
+            "Extra cheese",
+            "No cheese"
+          ],
+          "product_type": "distraction"
+        },
+        {
+          "name": "HeyTea limited alcohol series",
+          "store_id": "S17550802131843488_S00004",
+          "store_name": "HeyTea (Harbin Wanda Plaza Store)",
+          "price": 45,
+          "tags": [
+            "Special blend",
+            "Alcohol",
+            "Limited edition",
+            "Adult beverages"
+          ],
+          "product_id": "S17550802131843488_P00023",
+          "attributes": [
+            "Cold"
+          ],
+          "product_type": "distraction"
+        }
+      ]
+    }
+  },
+  "orders": {
+    "S17550802131843488_O00001": {
+      "order_id": "S17550802131843488_O00001",
+      "order_type": "delivery",
+      "user_id": "U428049",
+      "store_id": "S17550802131843488_S00001",
+      "total_price": 216.0,
+      "create_time": "2025-04-14 16:35:12",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17550802131843488_P00004",
+          "price": 216.0,
+          "quantity": 1
+        }
+      ]
+    },
+    "S17550802131843488_O00002": {
+      "order_id": "S17550802131843488_O00002",
+      "order_type": "delivery",
+      "user_id": "U428049",
+      "store_id": "S17550802131843488_S00001",
+      "total_price": 22.0,
+      "create_time": "2025-04-13 15:23:45",
+      "status": "delivered",
+      "products": [
+        {
+          "product_id": "S17550802131843488_P00001",
+          "price": 22.0,
+          "quantity": 1
+        }
+      ]
+    },
+    "S17550802131843488_O00003": {
+      "order_id": "S17550802131843488_O00003",
+      "order_type": "delivery",
+      "user_id": "U428049",
+      "store_id": "S17550802131843488_S00002",
+      "total_price": 32.0,
+      "create_time": "2025-04-10 16:05:18",
+      "status": "delivered",
+      "products": [
+        {
+          "product_id": "S17550802131843488_P00008",
+          "price": 32.0,
+          "quantity": 1
+        }
+      ]
+    },
+    "S17550802131843488_O00004": {
+      "order_id": "S17550802131843488_O00004",
+      "order_type": "delivery",
+      "user_id": "U428049",
+      "store_id": "S17550802131843488_S00001",
+      "total_price": 40.0,
+      "create_time": "2025-04-08 12:15:33",
+      "status": "delivered",
+      "products": [
+        {
+          "product_id": "S17550802131843488_P00002",
+          "price": 20.0,
+          "quantity": 2
+        }
+      ]
+    },
+    "S17550802131843488_O00005": {
+      "order_id": "S17550802131843488_O00005",
+      "order_type": "delivery",
+      "user_id": "U428049",
+      "store_id": "S17550802131843488_S00002",
+      "total_price": 456.0,
+      "create_time": "2025-04-05 15:42:21",
+      "status": "delivered",
+      "products": [
+        {
+          "product_id": "S17550802131843488_P00011",
+          "price": 456.0,
+          "quantity": 1
+        }
+      ]
+    },
+    "S17550802131843488_O00007": {
+      "order_id": "S17550802131843488_O00007",
+      "order_type": "train",
+      "user_id": "U428049",
+      "store_id": "S17550802131843488_T00008",
+      "note": "Return from business trip",
+      "location": {
+        "address": "Daqing West Railway Station, 1 Xiangge Road, Saertu District, Daqing, Heilongjiang Province",
+        "longitude": 125.008965,
+        "latitude": 46.596254
+      },
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 157.0,
+      "create_time": "2025-03-30 09:15:22",
+      "update_time": "2025-03-30 09:15:22",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17550802131843488_P00039",
+          "price": 157.0,
+          "quantity": 1,
+          "seat_type": "First-class seat"
+        }
+      ]
+    },
+    "S17550802131843488_O00008": {
+      "order_id": "S17550802131843488_O00008",
+      "order_type": "train",
+      "user_id": "U428049",
+      "store_id": "S17550802131843488_T00009",
+      "note": "Weekend family visit",
+      "location": {
+        "address": "Harbin West Railway Station, 1 Railway Street, Nangang District, Harbin, Heilongjiang Province",
+        "longitude": 126.536234,
+        "latitude": 45.756892
+      },
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 296.0,
+      "create_time": "2025-03-15 14:22:36",
+      "update_time": "2025-03-15 14:22:36",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17550802131843488_P00045",
+          "price": 148.0,
+          "quantity": 2,
+          "seat_type": "First-class seat"
+        }
+      ]
+    },
+    "S17550802131843488_O00009": {
+      "order_id": "S17550802131843488_O00009",
+      "order_type": "flight",
+      "user_id": "U428049",
+      "store_id": "F00001",
+      "note": "Business trip",
+      "location": {
+        "address": "Harbin Taiping International Airport, 1 Airport Road, Xiangfang District, Harbin, Heilongjiang Province",
+        "longitude": 126.843056,
+        "latitude": 45.623889
+      },
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 1580.0,
+      "create_time": "2025-02-28 09:45:13",
+      "update_time": "2025-02-28 09:45:13",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "F00001_P001",
+          "price": 1580.0,
+          "quantity": 1,
+          "seat_type": "Economy class"
+        }
+      ]
+    },
+    "S17550802131843488_O00010": {
+      "order_id": "S17550802131843488_O00010",
+      "order_type": "instore",
+      "user_id": "U428049",
+      "store_id": "S17550802131843488_S00005",
+      "total_price": 268.0,
+      "create_time": "2025-04-14 16:42:15",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17550802131843488_P00024",
+          "price": 268.0,
+          "quantity": 1
+        }
+      ]
+    },
+    "S17550802131843488_O00011": {
+      "order_id": "S17550802131843488_O00011",
+      "order_type": "instore",
+      "user_id": "U428049",
+      "store_id": "S17550802131843488_I00012",
+      "total_price": 198.0,
+      "create_time": "2025-04-10 19:15:33",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17550802131843488_P00064",
+          "price": 198.0,
+          "quantity": 1
+        }
+      ]
+    },
+    "S17550802131843488_O00012": {
+      "order_id": "S17550802131843488_O00012",
+      "order_type": "instore",
+      "user_id": "U428049",
+      "store_id": "S17550802131843488_I00013",
+      "total_price": 15.0,
+      "create_time": "2025-04-01 18:25:47",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17550802131843488_P00070",
+          "price": 15.0,
+          "quantity": 1
+        }
+      ]
+    }
+  }
+}

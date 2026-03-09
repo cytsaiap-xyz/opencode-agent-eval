@@ -1,0 +1,102 @@
+{
+  "required_orders": [
+    {
+      "order_id": "S17550940890083291_O00003",
+      "order_type": "hotel",
+      "user_id": "U010013",
+      "store_id": "S17550940890083291_H00007",
+      "note": "",
+      "location": {
+        "address": "Qingquan Mountain Villa Hot Spring Resort, Xiqiao Mountain Scenic Area, Nanhai District, Foshan, Guangdong Province",
+        "longitude": 113.1987,
+        "latitude": 22.9986
+      },
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 888,
+      "create_time": "2025-12-22 20:08:36",
+      "update_time": "2025-12-22 20:08:36",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17550940890083291_P00044",
+          "price": 888,
+          "quantity": 1,
+          "date": "2025-12-27",
+          "room_type": "Private Hot Spring Suite"
+        }
+      ]
+    },
+    {
+      "order_id": "S17550940890083291_O00002",
+      "order_type": "delivery",
+      "user_id": "U010013",
+      "store_id": "S17550940890083291_S00004",
+      "note": "",
+      "location": {
+        "address": "Evian Tianhui North Area, 60m Southeast of Liangping Road and Zhongchuang Lane Intersection, Nanhai District, Foshan, Guangdong Province",
+        "longitude": 113.0246,
+        "latitude": 23.0258
+      },
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 268,
+      "create_time": "2025-12-22 20:07:23",
+      "update_time": "2025-12-22 20:07:23",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17550940890083291_P00022",
+          "price": 268,
+          "quantity": 1,
+          "name": "French Lanson Dry White Wine",
+          "store_id": "S17550940890083291_S00004",
+          "store_name": "Fine Wine Family",
+          "attributes": [
+            "750ml",
+            "11.5%vol"
+          ],
+          "tags": [
+            "Dry White Wine",
+            "Imported from France",
+            "Low Sugar",
+            "Citrus Aroma",
+            "Suitable for Gatherings"
+          ]
+        }
+      ]
+    },
+    {
+      "book_id": "S17550940890083291_B00010",
+      "shop_id": "S17550809567256255_I00013",
+      "book_time": "2025-12-25 19:00:00",
+      "update_time": "2025-12-22 20:10:25",
+      "customer_id": "U010013",
+      "customer_count": 2,
+      "book_price": 25,
+      "status": "unconsumed"
+    }
+  ],
+  "rubrics": [
+    "The hotel booked should be a Hot Spring hotel",
+    "The booked hotel should have a quiet environment",
+    "The booked hotel must be Clean and Hygienic",
+    "The room type of the booked hotel should include Private Hot Spring Bath",
+    "Need to check the weather in Foshan on December 28, 2025 (Foshan weather is rainy, temperature 10-15°C, humidity 78%), rainy day, the hotel check-in date should be December 27, 2025",
+    "The wine merchant should be a Wine Specialty Store",
+    "The wine ordered should be White Wine",
+    "The wine ordered should avoid Sweet wine types",
+    "The expected delivery time for the wine should be December 26, 2025, 19:00-20:00",
+    "The wine delivery address should be Evian Tianhui North Area, 60m Southeast of Liangping Road and Zhongchuang Lane Intersection, Nanhai District, Foshan, Guangdong Province",
+    "Need to check when Christmas 2025 is, the result is December 25, 2025",
+    "The restaurant booked should be a High-end Restaurant",
+    "The restaurant booked should have a Terrace",
+    "The location of the booked restaurant should be within 3000M of Haibei Creative Park",
+    "The per person cost of the restaurant's set menu should be between 150-350 yuan",
+    "The booked restaurant should offer Fusion Cuisine",
+    "Need to book restaurant seats for Christmas (December 25, 2025) at 7 PM",
+    "The number of people for the restaurant booking should be 2"
+  ]
+}

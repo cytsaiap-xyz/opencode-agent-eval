@@ -1,0 +1,104 @@
+{
+  "required_orders": [
+    {
+      "order_id": "D0812003T001",
+      "order_type": "hotel",
+      "user_id": "U026656",
+      "store_id": "S17557505471272970_H00001",
+      "note": "",
+      "location": null,
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 2016,
+      "create_time": "2025-02-19 11:22:35",
+      "update_time": "2025-02-19 11:22:35",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17557505471272970_P00001",
+          "price": 288,
+          "quantity": 1,
+          "date": "2025-03-05",
+          "room_type": "Comfort king room"
+        },
+        {
+          "product_id": "S17557505471272970_P00002",
+          "price": 288,
+          "quantity": 1,
+          "date": "2025-03-06",
+          "room_type": "Comfort king room"
+        },
+        {
+          "product_id": "S17557505471272970_P00003",
+          "price": 288,
+          "quantity": 1,
+          "date": "2025-03-07",
+          "room_type": "Comfort king room"
+        },
+        {
+          "product_id": "S17557505471272970_P00004",
+          "price": 288,
+          "quantity": 1,
+          "date": "2025-03-08",
+          "room_type": "Comfort king room"
+        },
+        {
+          "product_id": "S17557505471272970_P00005",
+          "price": 288,
+          "quantity": 1,
+          "date": "2025-03-09",
+          "room_type": "Comfort king room"
+        },
+        {
+          "product_id": "S17557505471272970_P00006",
+          "price": 288,
+          "quantity": 1,
+          "date": "2025-03-10",
+          "room_type": "Comfort king room"
+        },
+        {
+          "product_id": "S17557505471272970_P00007",
+          "price": 288,
+          "quantity": 1,
+          "date": "2025-03-11",
+          "room_type": "Comfort king room"
+        }
+      ]
+    },
+    {
+      "order_id": "D0812003T002",
+      "order_type": "attraction",
+      "user_id": "U026656",
+      "store_id": "S17557505471272970_A00005",
+      "note": "",
+      "location": null,
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 120,
+      "create_time": "2025-02-19 11:26:13",
+      "update_time": "2025-02-19 11:26:13",
+      "status": "unpaid",
+      "products": [
+        {
+          "product_id": "S17557505471272970_P00060",
+          "price": 60,
+          "quantity": 2,
+          "ticket_type": "Adult ticket"
+        }
+      ]
+    }
+  ],
+  "rubrics": [
+    "The hotel booked is in Linyi area",
+    "The hotel booking dates are March 5, 2025, March 6, 2025, March 7, 2025, March 8, 2025, March 9, 2025, March 10, 2025, March 11, 2025",
+    "The booked hotel must include laundry service",
+    "The booked hotel must include parking lot",
+    "The booked hotel should be in the category that the user most frequently searches for (by checking user profile, it's Budget hotel)",
+    "Check the weather in Yuncheng on Women's Day (March 8, 2025), (sunny, temperature 3-14 degrees Celsius, humidity 58%) the weather condition is good, so the tickets purchased are for Rainbow Salt Lake Scenic Area",
+    "The purchase date for the tickets is March 8, 2025",
+    "The quantity of tickets purchased is 2",
+    "The ticket order only includes Adult ticket"
+  ]
+}

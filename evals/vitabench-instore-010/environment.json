@@ -1,0 +1,190 @@
+{
+  "task_id": "10826003",
+  "domain": "instore",
+  "time": "2024-03-16 20:15:00",
+  "user_id": "U431786",
+  "weather": [
+    {
+      "city": "Xiamen",
+      "category": "sunny",
+      "datetime": "2024-03-16",
+      "temperature": [
+        18,
+        26
+      ],
+      "humidity": 45
+    },
+    {
+      "city": "Xiamen",
+      "category": "cloudy",
+      "datetime": "2024-03-17",
+      "temperature": [
+        19,
+        28
+      ],
+      "humidity": 55
+    }
+  ],
+  "location": [
+    {
+      "address": "Room 1203, Building B, Gulangyu Apartment, 195 Lianqian West Road, Siming District, Xiamen",
+      "longitude": 118.1542,
+      "latitude": 24.4889
+    },
+    {
+      "address": "5th Floor, Building 3, Shengtan Technology Park, 26 Guanri Road, Software Park Phase II, Xiamen",
+      "longitude": 118.1723,
+      "latitude": 24.4853
+    }
+  ],
+  "user_profile": {
+    "user_id": "U431786",
+    "occupation": "Engineer",
+    "gender": "male",
+    "age_group": "30~35",
+    "residence": "Xiamen",
+    "home_address": "Room 1203, Building B, Gulangyu Apartment, 195 Lianqian West Road, Siming District, Xiamen",
+    "work_address": "5th Floor, Building 3, Shengtan Technology Park, 26 Guanri Road, Software Park Phase II, Xiamen",
+    "dietary_restrictions": "No alcohol",
+    "family_status": "Has children",
+    "personality": "Strong logical thinking, likes to analyze and question, pursues accuracy"
+  },
+  "user_historical_behaviors": {
+    "user id": "U431786",
+    "occupation": "Engineer",
+    "gender": "male",
+    "age group": "30~35",
+    "residence": "Xiamen",
+    "home address": "Room 1203, Building B, Gulangyu Apartment, 195 Lianqian West Road, Siming District, Xiamen",
+    "work address": "5th Floor, Building 3, Shengtan Technology Park, 26 Guanri Road, Software Park Phase II, Xiamen",
+    "in-store dining": {
+      "fine-dining": {
+        "frequently purchased categories": [
+          "Local cuisine/Fujian cuisine (average 120 yuan)",
+          "Foreign cuisine/Japanese cuisine (average 150 yuan)"
+        ],
+        "preferred average price per person": "100~150 yuan",
+        "preferred store rating": "4.2~4.8 stars",
+        "typical dining time": "18:30-20:30",
+        "preferred distance": "1000~3000m",
+        "recent orders": [
+          {
+            "store": "Gulang Fishing Village",
+            "product": "Xiamen Seafood Set (without soup)"
+          },
+          {
+            "store": "Helu Conveyor Belt Sushi",
+            "product": "Salmon Sashimi Platter"
+          }
+        ],
+        "search history": [
+          "Purine-free",
+          "Xiamen seafood",
+          "Japanese cuisine",
+          "Family gathering"
+        ]
+      },
+      "light meal": {
+        "frequently purchased categories": [
+          "Snacks/Chinese quick meals (average 35 yuan)",
+          "Snacks/Western fast food (average 40 yuan)",
+          "Regional cuisine/Sichuan cuisine (average 45 yuan)"
+        ],
+        "preferred average price per person": "30~50 yuan",
+        "preferred store rating": "3.5~4.3 stars",
+        "typical dining time": "12:00-13:00",
+        "preferred distance": "0~500m",
+        "recent orders": [
+          {
+            "store": "Yonghe King",
+            "product": "Signature Soy Milk and Fried Dough Stick Set"
+          },
+          {
+            "store": "Sha County Snacks",
+            "product": "Three Diced Set Meal"
+          },
+          {
+            "store": "KFC",
+            "product": "Sichuan Pepper Chicken Burger Combo"
+          }
+        ],
+        "search history": [
+          "Lunch near office",
+          "Fast food",
+          "Boxed meal",
+          "Work meal"
+        ]
+      },
+      "desserts/drinks/snacks": {
+        "frequently purchased categories": [
+          "Beverage shops (average 22 yuan)",
+          "Bread and desserts (average 30 yuan)",
+          "Other dining/Fresh fruits (average 15 yuan)"
+        ],
+        "preferred average price per person": "15~30 yuan",
+        "preferred store rating": "4.0~4.5 stars",
+        "typical dining time": "15:00-16:30",
+        "preferred distance": "0~300m",
+        "recent orders": [
+          {
+            "store": "Cha Bai Dao",
+            "product": "Cheese Foam Jasmine Tea"
+          },
+          {
+            "store": "Bread Talk",
+            "product": "Pork Floss Bun"
+          },
+          {
+            "store": "Fresh Fruit Station",
+            "product": "Fruit Platter"
+          }
+        ],
+        "search history": [
+          "Milk tea",
+          "Afternoon tea",
+          "Fruits",
+          "Sugar-free drinks"
+        ]
+      }
+    },
+    "other in-store services": {
+      "frequently consumed categories": {
+        "Sports and fitness/Fitness centers": "40%",
+        "Sports and fitness/Ball sports": "35%",
+        "Entertainment/Massage/Foot therapy": "15%",
+        "Parent-child/Family entertainment": "10%"
+      },
+      "cost per order by category": {
+        "Sports and fitness/Fitness centers": "80~150 yuan",
+        "Sports and fitness/Ball sports": "60~120 yuan",
+        "Entertainment/Massage/Foot therapy": "120~200 yuan",
+        "Parent-child/Family entertainment": "150~300 yuan"
+      },
+      "preferred store rating": "4.0~4.8 stars",
+      "preferred service time": "19:00-21:00",
+      "preferred distance": "500~5000m",
+      "recent orders": [
+        {
+          "store": "Xiamen Super Gorilla Fitness",
+          "product": "Single-person Monthly Card"
+        },
+        {
+          "store": "Software Park Badminton Hall",
+          "product": "2-hour court"
+        },
+        {
+          "store": "Fantasy Island Children's Playground",
+          "product": "Parent-child Package"
+        }
+      ],
+      "search history": [
+        "Gym",
+        "Badminton courts",
+        "Weekend family activities",
+        "Massage near Software Park"
+      ]
+    }
+  },
+  "stores": {},
+  "orders": {}
+}

@@ -1,0 +1,78 @@
+{
+  "required_orders": [
+    {
+      "order_id": "10826131T002",
+      "order_type": "instore",
+      "user_id": "U199743",
+      "store_id": "S17567836572324193_I00001",
+      "note": "",
+      "location": null,
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 300,
+      "create_time": "2024-02-19 11:56:00",
+      "update_time": "2024-02-19 11:56:00",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17567836572324193_P00001",
+          "name": "Guitar one-on-one private improvement course (single lesson)",
+          "price": 180,
+          "quantity": 1
+        },
+        {
+          "product_id": "S17567836572324193_P00002",
+          "name": "Folk guitar weekly rental package",
+          "price": 120,
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "reservation_id": "10826131T003",
+      "shop_id": "S17567836572324193_I00001",
+      "reservation_time": "2024-02-19 13:00:00",
+      "update_time": "2024-02-19 11:57:00",
+      "customer_id": "U199743",
+      "customer_count": 1,
+      "status": "paid"
+    },
+    {
+      "order_id": "10826131T004",
+      "order_type": "instore",
+      "user_id": "U199743",
+      "store_id": "S17567836572324193_I00002",
+      "note": "",
+      "location": null,
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 28,
+      "create_time": "2024-02-19 11:58:00",
+      "update_time": "2024-02-19 11:58:00",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17567836572324193_P00010",
+          "name": "Classic fruit tart",
+          "price": 28,
+          "quantity": 1
+        }
+      ]
+    }
+  ],
+  "rubrics": [
+    "The rating of the art training center for placing an order should be 4.0 or above",
+    "The product ordered from the art training center should be one-on-one private lessons",
+    "The product ordered from the art training center should be an advanced course",
+    "The product ordered from the art training center should be a single session",
+    "Should check whether the art training center has guitar weekly rental packages available, and the result is yes, so the product ordered should be a guitar weekly rental package.",
+    "The total price of the product ordered from the art training center should not exceed 600 yuan (including 600 yuan)",
+    "The art training center to be booked should be Musical String Arts Training Center",
+    "The booking time for the art training center should be 2024-02-19 13:00:00",
+    "The number of people for the art training center reservation should be 1",
+    "Need to check order history to find previously visited dessert shops, the result is Bread Talk (Wuyue Plaza Store), so the merchant to order from should be Bread Talk (Wuyue Plaza Store)",
+    "Need to check order history to find products in previous packages, the result is Whole wheat toast + Classic fruit tart, this time buying just a fruit tart, so the product ordered from the bakery should be Classic fruit tart"
+  ]
+}

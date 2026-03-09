@@ -1,0 +1,88 @@
+{
+  "required_orders": [
+    {
+      "order_id": "D0807006T001",
+      "order_type": "train",
+      "user_id": "U010091",
+      "store_id": "S17557516159742676_T00011",
+      "note": "",
+      "location": null,
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 189,
+      "create_time": "2026-08-29 16:39:45",
+      "update_time": "2026-08-29 16:39:45",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17557516159742676_P00062",
+          "price": 189,
+          "quantity": 1,
+          "date": "2026-09-01",
+          "seat_type": "second class seat"
+        }
+      ]
+    },
+    {
+      "order_id": "D0807006T002",
+      "order_type": "hotel",
+      "user_id": "U010091",
+      "store_id": "S17557516159742676_H00004",
+      "note": "",
+      "location": null,
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 520,
+      "create_time": "2026-08-29 16:42:00",
+      "update_time": "2026-08-29 16:42:00",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17557516159742676_P00024",
+          "price": 520,
+          "quantity": 1,
+          "date": "2026-09-01",
+          "room_type": "Scenic View King Room"
+        }
+      ]
+    },
+    {
+      "order_id": "D0807006T003",
+      "order_type": "attraction",
+      "user_id": "U010091",
+      "store_id": "S17557516159742676_A00005",
+      "note": "",
+      "location": null,
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 160,
+      "create_time": "2026-08-29 16:44:00",
+      "update_time": "2026-08-29 16:44:00",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17557516159742676_P00032",
+          "price": 160,
+          "quantity": 1,
+          "date": "2026-09-01",
+          "ticket_type": "adult ticket"
+        }
+      ]
+    }
+  ],
+  "rubrics": [
+    "The destination of the train order should be Jiujiang",
+    "The departure date of the train order should be 2026-09-01",
+    "The arrival time of the train should be around 09:00",
+    "The seat type in the train ticket order should be second class seat",
+    "Need to check the weather in Lushan Mountain on 2026-09-01 and 2026-09-02, which is showers followed by sunny, suitable for viewing the sea of clouds, and the booked hotel should be located on Lushan Mountain",
+    "The price of the booked hotel should be less than or equal to 600 yuan",
+    "The room type of the booked hotel should be a king room",
+    "The attraction to be ordered should be Lushan Scenic Area",
+    "The ticket date in the attraction order should be 2026-09-02",
+    "The ticket type in the attraction order should be adult ticket"
+  ]
+}

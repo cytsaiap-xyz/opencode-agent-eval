@@ -1,0 +1,391 @@
+{
+  "task_id": "A0714002",
+  "domain": "delivery",
+  "time": "2025-11-08 22:31:38",
+  "user_id": "U000019",
+  "weather": [
+    {
+      "city": "Xuzhou City",
+      "category": "overcast",
+      "datetime": "2025-11-08",
+      "temperature": [
+        8,
+        16
+      ],
+      "humidity": 56
+    }
+  ],
+  "location": [
+    {
+      "address": "Cuizhu Jiayuan, 98 Heping Avenue, Yunlong District, Xuzhou, Jiangsu Province (Under Construction)",
+      "longitude": 117.289656,
+      "latitude": 34.247719
+    }
+  ],
+  "user_profile": {
+    "user id": "U000019",
+    "occupation": "Sales",
+    "gender": "male",
+    "age group": "30~35",
+    "residence": "Xuzhou",
+    "home address": "Cuizhu Jiayuan, 98 Heping Avenue, Yunlong District, Xuzhou, Jiangsu Province (Under Construction)",
+    "work address": "Bank of China (Xuzhou Branch), 99 Huaihai West Road, Wangling Street, Quanshan District, Xuzhou, Jiangsu Province",
+    "dietary restrictions": "No high sugar, no alcohol",
+    "family status": "Unknown",
+    "personality": "Easily anxious and worried, needs repeated confirmation to feel at ease"
+  },
+  "user_historical_behaviors": {
+    "user id": "U000019",
+    "occupation": "Sales",
+    "gender": "male",
+    "age group": "30~35",
+    "residence": "Xuzhou",
+    "home address": "Cuizhu Jiayuan, 98 Heping Avenue, Yunlong District, Xuzhou, Jiangsu Province (Under Construction)",
+    "work address": "Bank of China (Xuzhou Branch), 99 Huaihai West Road, Wangling Street, Quanshan District, Xuzhou, Jiangsu Province",
+    "breakfast": {
+      "frequently purchased categories": [
+        "Quick Meals/Pancakes/Flatbread (Average 18 yuan)",
+        "Quick Meals/Steamed Buns/Pan-fried Buns (Average 15 yuan)",
+        "Quick Meals/Hamburgers (Average 22 yuan)"
+      ],
+      "cost per order": "12~25 yuan",
+      "preferred store rating": "4.2~4.8 stars",
+      "preferred delivery time": "15~30 minutes",
+      "preferred distance": "0~2500m",
+      "recent orders": [
+        {
+          "store": "Lao Wang's Flatbread",
+          "product": "Signature Flatbread + Sugar-free Soy Milk"
+        },
+        {
+          "store": "Wu's Pan-fried Buns",
+          "product": "Pork Pan-fried Buns + Tea Egg"
+        },
+        {
+          "store": "KFC Delivery",
+          "product": "Breakfast Roll + Soy Milk"
+        }
+      ],
+      "search history": [
+        "flatbread",
+        "steamed buns",
+        "soy milk",
+        "breakfast",
+        "sugar-free breakfast"
+      ]
+    },
+    "weekday lunch/dinner": {
+      "frequently purchased categories": [
+        "Quick Meals/Braised Chicken Rice (Average 25 yuan)",
+        "Chinese Cuisine/Sichuan Food (Average 45 yuan)",
+        "Quick Meals/Rice with Toppings (Average 28 yuan)"
+      ],
+      "cost per order": "25~60 yuan",
+      "preferred store rating": "4.3~4.8 stars",
+      "preferred delivery time": "20~35 minutes",
+      "preferred distance": "0~3500m",
+      "recent orders": [
+        {
+          "store": "Braised Chicken Rice",
+          "product": "Mild Spicy Braised Chicken Rice + Cola"
+        },
+        {
+          "store": "Sichuan Cuisine Restaurant",
+          "product": "Twice-cooked Pork + Rice"
+        },
+        {
+          "store": "Shi Zai Fu Rice with Toppings",
+          "product": "Yu Xiang Shredded Pork Rice"
+        }
+      ],
+      "search history": [
+        "braised chicken",
+        "Sichuan cuisine",
+        "rice with toppings",
+        "low sugar",
+        "fast food"
+      ]
+    },
+    "weekend lunch/dinner": {
+      "frequently purchased categories": [
+        "Chinese Cuisine/Crayfish (Average 88 yuan)",
+        "Hot Pot/Skewer Hot Pot (Average 78 yuan)",
+        "Chinese Cuisine/Grilled Fish (Average 95 yuan)"
+      ],
+      "cost per order": "70~180 yuan",
+      "preferred store rating": "4.5~5.0 stars",
+      "preferred delivery time": "30~45 minutes",
+      "preferred distance": "0~5000m",
+      "recent orders": [
+        {
+          "store": "Xia De Le Crayfish",
+          "product": "Spicy Crayfish 2 pounds + Clams 1 serving"
+        },
+        {
+          "store": "Shu Du Skewer Hot Pot",
+          "product": "Signature Skewer Platter + Hot and Sour Noodles"
+        },
+        {
+          "store": "Ba Shu Grilled Fish",
+          "product": "Spicy Grilled Fish + Vegetables"
+        }
+      ],
+      "search history": [
+        "crayfish",
+        "skewer hot pot",
+        "grilled fish",
+        "family meal set"
+      ]
+    },
+    "desserts/drinks/snacks": {
+      "frequently purchased categories": [
+        "Beverages/Pure Tea/Herbal Tea (Average 18 yuan)",
+        "Beverages/Coffee (Average 28 yuan)",
+        "Beverages/Fruit Juice (Average 22 yuan)"
+      ],
+      "cost per order": "15~40 yuan",
+      "preferred store rating": "4.3~4.8 stars",
+      "preferred delivery time": "15~40 minutes",
+      "preferred distance": "0~5000m",
+      "recent orders": [
+        {
+          "store": "HEYTEA",
+          "product": "Pulpy Grape (Low Sugar)"
+        },
+        {
+          "store": "Starbucks Coffee",
+          "product": "Americano (Low Sugar)"
+        },
+        {
+          "store": "Fresh Juice Bar",
+          "product": "Fresh Watermelon Juice"
+        }
+      ],
+      "search history": [
+        "low sugar drinks",
+        "tea beverages",
+        "coffee",
+        "fresh fruit juice",
+        "healthy drinks"
+      ]
+    },
+    "night snack": {
+      "frequently purchased categories": [
+        "BBQ/Fried Skewers (Average 45 yuan)",
+        "Snacks/Braised Flavors (Average 35 yuan)",
+        "Quick Meals/Dumplings/Wonton (Average 30 yuan)"
+      ],
+      "cost per order": "22~55 yuan",
+      "preferred store rating": "4.4~5.0 stars",
+      "preferred delivery time": "25~40 minutes",
+      "preferred distance": "0~4000m",
+      "recent orders": [
+        {
+          "store": "Lao Li BBQ",
+          "product": "Grilled Lamb Skewers 10 pieces + Grilled Eggplant"
+        },
+        {
+          "store": "Zhou's Braised Flavors",
+          "product": "Braised Meat Platter + Braised Egg"
+        },
+        {
+          "store": "Han Style Fried Skewers",
+          "product": "4 Meat 5 Veggie Fried Skewer Wrap (Two Wraps) (Please Note if Wrapped Separately) + 3 Fried Lamb Skewers"
+        }
+      ],
+      "search history": [
+        "BBQ",
+        "braised flavors",
+        "dumplings",
+        "fried skewers",
+        "night snack set"
+      ]
+    }
+  },
+  "stores": {
+    "S13136705917386046_S64166": {
+      "name": "Gong Cha (Golden Age Store)",
+      "store_id": "S13136705917386046_S64166",
+      "score": 4.3,
+      "location": {
+        "address": "Gong Cha (Golden Age Store), 8 Nianhua Lane, Jinshanqiao Economic Development Zone, Jiawang District, Xuzhou, Jiangsu Province",
+        "latitude": 34.277408,
+        "longitude": 117.289964
+      },
+      "tags": [
+        "Open 24 Hours"
+      ],
+      "products": [
+        {
+          "name": "Honey Grapefruit Tea",
+          "store_id": "S13136705917386046_S64166",
+          "store_name": "Gong Cha (Golden Age Store)",
+          "price": 16.0,
+          "tags": [
+            "Cough Relief Lung Nourishing",
+            "Heat-Clearing and Detoxifying"
+          ],
+          "product_id": "S20429208112066115_P67474",
+          "attributes": [
+            "Warm",
+            "Mild",
+            "Room Temperature",
+            "Less Ice",
+            "More Ice"
+          ],
+          "quantity": 9999
+        },
+        {
+          "name": "Longan Red Date Milk Tea",
+          "store_id": "S13136705917386046_S64166",
+          "store_name": "Gong Cha (Golden Age Store)",
+          "price": 17.0,
+          "tags": [
+            "Health Preservation"
+          ],
+          "product_id": "S30055001874868988_P64753",
+          "attributes": [
+            "Hot",
+            "Warm",
+            "Room Temperature",
+            "Less Ice",
+            "Regular Ice"
+          ],
+          "quantity": 9999
+        }
+      ]
+    },
+    "S19692566950255903_S25485": {
+      "name": "Han Style Fried Skewers",
+      "store_id": "S19692566950255903_S25485",
+      "score": 5.0,
+      "location": {
+        "address": "Han Style Fried Skewers, S4-105 Greentown Oriental Garden, Yuhu Road, Jiawang District, Xuzhou, Jiangsu Province",
+        "latitude": 34.259782,
+        "longitude": 117.292707
+      },
+      "tags": [],
+      "products": [
+        {
+          "name": "4 Meat 5 Veggie Fried Skewer Wrap (Two Wraps) (Please Note if Wrapped Separately)",
+          "store_id": "S19692566950255903_S25485",
+          "store_name": "Han Style Fried Skewers",
+          "price": 24.88,
+          "tags": [
+            "Sweet and Spicy"
+          ],
+          "product_id": "S31202981544351332_P86622",
+          "attributes": [],
+          "quantity": 9999
+        }
+      ]
+    },
+    "S24461578457125487_S03023": {
+      "name": "Zhidian Jiangshan (Fresh Juice · Global Harbor Store)",
+      "store_id": "S24461578457125487_S03023",
+      "score": 5.0,
+      "location": {
+        "address": "Xuzhou Huaihai Global Harbor ID.Store City Exhibition Hall, F1 Floor, Huaihai Global Harbor, 8 Xuhai Road, Jiawang District, Xuzhou, Jiangsu Province",
+        "latitude": 34.269336,
+        "longitude": 117.271803
+      },
+      "tags": [
+        "Open 24 Hours"
+      ],
+      "products": [
+        {
+          "name": "Fire Extinguisher · Watermelon Juice",
+          "store_id": "S24461578457125487_S03023",
+          "store_name": "Zhidian Jiangshan (Fresh Juice · Global Harbor Store)",
+          "price": 13.0,
+          "tags": [
+            "Fire Extinguisher"
+          ],
+          "product_id": "S13832706373064740_P86446",
+          "attributes": [
+            "Less Ice",
+            "Regular Ice"
+          ],
+          "quantity": 9999
+        },
+        {
+          "name": "Instant Rich Li Ka-shing (Fresh Orange Snow Pear Juice)",
+          "store_id": "S24461578457125487_S03023",
+          "store_name": "Zhidian Jiangshan (Fresh Juice · Global Harbor Store)",
+          "price": 18.0,
+          "tags": [
+            "Fire Extinguisher"
+          ],
+          "product_id": "S31530253948953985_P84700",
+          "attributes": [
+            "Less Ice",
+            "Regular Ice"
+          ],
+          "quantity": 9999
+        }
+      ]
+    },
+    "S27095958818027183_S90093": {
+      "name": "Xun Cha (Xuzhou Yunlong Wanda Plaza Store)",
+      "store_id": "S27095958818027183_S90093",
+      "score": 4.6,
+      "location": {
+        "address": "Wanda Plaza (Xuzhou Yunlong Store), 58 Heping Avenue, Yunlong District, Xuzhou, Jiangsu Province (150m walk from Qingfeng Road Subway Station Exit 4A, 4C)",
+        "latitude": 34.253183,
+        "longitude": 117.246282
+      },
+      "tags": [
+        "Delivery Until 22:50"
+      ],
+      "products": [
+        {
+          "name": "Pineapple Spring Delight",
+          "store_id": "S27095958818027183_S90093",
+          "store_name": "Xun Cha (Xuzhou Yunlong Wanda Plaza Store)",
+          "price": 19.0,
+          "tags": [
+            "Health Preservation"
+          ],
+          "product_id": "S15406450267572959_P22834",
+          "attributes": [
+            "Hot",
+            "Warm",
+            "Room Temperature",
+            "Less Ice",
+            "Regular Ice"
+          ],
+          "quantity": 9999
+        }
+      ]
+    }
+  },
+  "orders": {
+    "A0714002O01": {
+      "order_id": "A0714002O01",
+      "order_type": "delivery",
+      "user_id": "U000019",
+      "store_id": "S19692566950255903_S25485",
+      "note": "",
+      "location": {
+        "address": "Cuizhu Jiayuan, 98 Heping Avenue, Yunlong District, Xuzhou, Jiangsu Province (Under Construction)",
+        "longitude": 117.289656,
+        "latitude": 34.247719
+      },
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 24.88,
+      "create_time": "2025-11-08 22:30:00",
+      "update_time": "2025-11-08 22:30:00",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S31202981544351332_P86622",
+          "price": 24.88,
+          "quantity": 1,
+          "attributes": ""
+        }
+      ]
+    }
+  }
+}

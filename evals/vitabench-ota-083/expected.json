@@ -1,0 +1,63 @@
+{
+  "required_orders": [
+    {
+      "order_id": "D0805001T001",
+      "order_type": "attraction",
+      "user_id": "U010003",
+      "store_id": "S17557515810777999_A00005",
+      "note": "",
+      "location": null,
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 659,
+      "create_time": "2025-05-24 09:43:55",
+      "update_time": "2025-05-24 09:43:55",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17557515810777999_P00022",
+          "price": 659,
+          "quantity": 1,
+          "date": "2025-06-07",
+          "ticket_type": "family package (2 adults + 1 child)"
+        }
+      ]
+    },
+    {
+      "order_id": "D0805001T002",
+      "order_type": "hotel",
+      "user_id": "U010003",
+      "store_id": "S17557515810777999_H00003",
+      "note": "",
+      "location": null,
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 288,
+      "create_time": "2025-05-24 09:46:55",
+      "update_time": "2025-05-24 09:46:55",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17557515810777999_P00012",
+          "price": 288,
+          "quantity": 1,
+          "date": "2025-06-07",
+          "room_type": "Jurassic Twin Room"
+        }
+      ]
+    }
+  ],
+  "rubrics": [
+    "The ordered attraction should be the type that the user visits most frequently (by querying user profile, it should be theme parks)",
+    "By checking the calendar, the Dragon Boat Festival is on May 31, 2025, and the attraction tickets should be booked for the Saturday after the festival (i.e., June 7, 2025)",
+    "The purchased tickets should be family package (2 adults + 1 child)",
+    "The booked hotel should be within 3km of Zigong Fantawild Dinosaur Kingdom",
+    "The hotel order should be for a theme room",
+    "The hotel reservation date should be June 7, 2025",
+    "The hotel order cost should not exceed 300 yuan",
+    "The booked hotel should offer late checkout",
+    "Verify that the hotel reservation is confirmed successfully"
+  ]
+}

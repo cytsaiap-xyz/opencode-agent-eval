@@ -1,0 +1,897 @@
+{
+  "task_id": "10811016",
+  "domain": "cross_domain",
+  "time": "2025-06-20 17:30:00",
+  "user_id": "U297090",
+  "weather": [
+    {
+      "city": "Huizhou",
+      "category": "cloudy",
+      "datetime": "2025-06-20",
+      "temperature": [
+        26,
+        32
+      ],
+      "humidity": 75
+    },
+    {
+      "city": "Dongguan",
+      "category": "cloudy",
+      "datetime": "2025-06-20",
+      "temperature": [
+        27,
+        33
+      ],
+      "humidity": 78
+    },
+    {
+      "city": "Shenzhen",
+      "category": "showers",
+      "datetime": "2025-06-22",
+      "temperature": [
+        25,
+        30
+      ],
+      "humidity": 85
+    }
+  ],
+  "location": [
+    {
+      "address": "Mycott International Building, No.63 Maidi Road, Huicheng District, Huizhou, Guangdong",
+      "longitude": 114.411739,
+      "latitude": 23.076147
+    },
+    {
+      "address": "Dongguan Sports Center Gymnasium, No.3 Sports Road, Shenghe Community, Nancheng Street, Dongguan, Guangdong",
+      "longitude": 113.748305,
+      "latitude": 23.024489
+    }
+  ],
+  "user_profile": {
+    "user id": "U297090",
+    "occupation": "Finance",
+    "gender": "female",
+    "age group": "25~30",
+    "residence": "Huizhou",
+    "home address": "Room 502, Building B, Jinshan Garden, No.123 Wenming First Road, Henan'an Street, Huicheng District, Huizhou, Guangdong",
+    "work address": "Mycott International Building, No.63 Maidi Road, Huicheng District, Huizhou, Guangdong",
+    "dietary restrictions": "No fried food, no caffeine",
+    "family status": "Couples",
+    "personality": "Overly dependent on others' guidance, lacks self-determination and decisiveness"
+  },
+  "user_historical_behaviors": {
+    "user id": "U297090",
+    "occupation": "Finance",
+    "gender": "female",
+    "age group": "25~30",
+    "residence": "Huizhou",
+    "home address": "Room 502, Building B, Jinshan Garden, No.123 Wenming First Road, Henan'an Street, Huicheng District, Huizhou, Guangdong",
+    "work address": "Mycott International Building, No.63 Maidi Road, Huicheng District, Huizhou, Guangdong",
+    "delivery": {
+      "food delivery": {
+        "breakfast": {
+          "frequently purchased categories": [
+            "Quick Meals/Steamed Buns/Pan-fried Buns (Average 15 yuan)",
+            "Quick Meals/Fried Dough Sticks (Average 8 yuan)",
+            "Quick Meals/Jianbing/Wraps/Hand-grabbed Pancakes (Average 12 yuan)"
+          ],
+          "cost per order": "8~25 yuan",
+          "preferred store rating": "4.2~4.7 stars",
+          "preferred delivery time": "15~30 minutes",
+          "preferred distance": "0~2500m",
+          "recent orders": [
+            {
+              "store": "Mr. Breakfast",
+              "product": "Soy Milk and Fried Dough Sticks Set"
+            },
+            {
+              "store": "Bun King",
+              "product": "Meat Buns + Soy Milk"
+            },
+            {
+              "store": "Old Street Breakfast",
+              "product": "Hand-grabbed Pancake"
+            }
+          ],
+          "search history": [
+            "Soy milk",
+            "Steamed buns",
+            "Healthy breakfast",
+            "Low Oil"
+          ]
+        },
+        "weekday lunch/dinner": {
+          "frequently purchased categories": [
+            "Quick Meals/Rice with Toppings (Average 25 yuan)",
+            "Quick Meals/Light Food (Average 32 yuan)",
+            "Quick Meals/Healthy Meals (Average 35 yuan)"
+          ],
+          "cost per order": "20~40 yuan",
+          "preferred store rating": "4.3~4.8 stars",
+          "preferred delivery time": "20~35 minutes",
+          "preferred distance": "0~3000m",
+          "recent orders": [
+            {
+              "store": "Healthy Light Meals Workshop",
+              "product": "Quinoa Chicken Breast Salad"
+            },
+            {
+              "store": "Nutritious Work Meals",
+              "product": "Low-fat Chicken Breast Rice"
+            },
+            {
+              "store": "Mr. Rice",
+              "product": "Steamed Fish Set"
+            }
+          ],
+          "search history": [
+            "Low-fat meals",
+            "Healthy work meals",
+            "Light Meal",
+            "Not greasy"
+          ]
+        },
+        "weekend lunch/dinner": {
+          "frequently purchased categories": [
+            "Chinese Cuisine/Cantonese Cuisine (Average 65 yuan)",
+            "Chinese Cuisine/Hunan Cuisine (Average 58 yuan)",
+            "International Cuisine/Thai Food (Average 72 yuan)"
+          ],
+          "cost per order": "50~80 yuan",
+          "preferred store rating": "4.5~4.9 stars",
+          "preferred delivery time": "30~45 minutes",
+          "preferred distance": "0~4000m",
+          "recent orders": [
+            {
+              "store": "Yue Xiang Ge",
+              "product": "White Cut Chicken + Steamed Fish Set"
+            },
+            {
+              "store": "Thai Style",
+              "product": "Tom Yum Soup + Thai Fried Rice Noodles"
+            },
+            {
+              "store": "Hunan Cuisine",
+              "product": "Chopped Chili Fish Head Set"
+            }
+          ],
+          "search history": [
+            "Cantonese Cuisine",
+            "Steamed dishes",
+            "Thai food",
+            "Family set meals"
+          ]
+        },
+        "desserts/drinks/snacks": {
+          "frequently purchased categories": [
+            "Beverages & Desserts/Juice (Average 18 yuan)",
+            "Beverages & Desserts/Plain Tea/Herbal Tea (Average 15 yuan)",
+            "Beverages & Desserts/Fruit Salad (Average 22 yuan)"
+          ],
+          "cost per order": "15~25 yuan",
+          "preferred store rating": "4.4~4.8 stars",
+          "preferred delivery time": "15~30 minutes",
+          "preferred distance": "0~2500m",
+          "recent orders": [
+            {
+              "store": "Freshly Squeezed Juice Bar",
+              "product": "Freshly Squeezed Grapefruit Juice"
+            },
+            {
+              "store": "Tea Time",
+              "product": "Kumquat Lemon Tea"
+            },
+            {
+              "store": "Busy Fruit",
+              "product": "Colorful Fruit Salad"
+            }
+          ],
+          "search history": [
+            "Fruit tea",
+            "Caffeine-free",
+            "Freshly squeezed juice",
+            "Fruit"
+          ]
+        },
+        "night snack": {
+          "frequently purchased categories": [
+            "Quick Meals/Rice Noodles/Rice Vermicelli (Average 28 yuan)",
+            "Hot Pot/Claypot Porridge (Average 32 yuan)",
+            "Snacks/Marinated Dishes (Average 25 yuan)"
+          ],
+          "cost per order": "20~35 yuan",
+          "preferred store rating": "4.2~4.7 stars",
+          "preferred delivery time": "20~35 minutes",
+          "preferred distance": "0~3000m",
+          "recent orders": [
+            {
+              "store": "Claypot Porridge Shop",
+              "product": "Preserved Egg and Lean Meat Porridge"
+            },
+            {
+              "store": "Guilin Rice Noodles",
+              "product": "Original Rice Noodles"
+            },
+            {
+              "store": "Marinated Dishes House",
+              "product": "Assorted Marinated Platter"
+            }
+          ],
+          "search history": [
+            "Stomach-friendly porridge",
+            "Rice noodles",
+            "Not spicy",
+            "Light night snacks"
+          ]
+        }
+      },
+      "product delivery": {
+        "frequently purchased categories": [
+          "Vegetables/Bean Products(32%)",
+          "Fruits(18%)",
+          "Grains/Oil/Seasonings/Dried Goods(15%)",
+          "Raw Meat/Poultry/Eggs(12%)",
+          "Makeup/Perfume(10%)",
+          "Household Items(8%)",
+          "Others(5%)"
+        ],
+        "frequently visited stores": [
+          "Huizhou No.7 Life Supermarket(38%)",
+          "Yonghui Supermarket(26%)",
+          "Huizhou Carrefour(22%)",
+          "Other Stores(14%)"
+        ],
+        "cost per order by category": {
+          "Vegetables/Bean Products": "5~30 yuan",
+          "Fruits": "10~45 yuan",
+          "Grains/Oil/Seasonings/Dried Goods": "15~50 yuan",
+          "Raw Meat/Poultry/Eggs": "25~80 yuan",
+          "Makeup/Perfume": "20~200 yuan",
+          "Household Items": "10~60 yuan"
+        },
+        "preferred delivery time": "35~60 minutes",
+        "typical order time": "18~20h(35%), 10~12h(25%), 16~18h(20%)",
+        "recent orders": [
+          {
+            "store": "Huizhou No.7 Life Supermarket",
+            "product": "Fresh Vegetable Set (Tomatoes, Cucumbers, Choy Sum)"
+          },
+          {
+            "store": "Huizhou No.7 Life Supermarket",
+            "product": "Low-sodium Salt + Eggs"
+          },
+          {
+            "store": "Yonghui Supermarket",
+            "product": "5 Apples + 2 Jin Bananas + 2 Dragon Fruits"
+          }
+        ],
+        "search history": [
+          "Low-sodium salt",
+          "Organic vegetables",
+          "Facial wipes",
+          "Fresh fish",
+          "Loose powder",
+          "Fruit"
+        ]
+      }
+    },
+    "in-store consumption": {
+      "in-store dining": {
+        "fine-dining": {
+          "frequently purchased categories": [
+            "Regional Cuisine/Cantonese Cuisine (Average 95 yuan)",
+            "International Cuisine/Japanese Food (Average 120 yuan)",
+            "Regional Cuisine/Fish Dishes (Average 105 yuan)"
+          ],
+          "preferred average price per person": "90~120 yuan",
+          "preferred store rating": "4.0~4.6 stars",
+          "typical dining time": "18:30-20:30",
+          "preferred distance": "500~3000m",
+          "recent orders": [
+            {
+              "store": "Xianzhen Xuan Seafood Restaurant",
+              "product": "Steamed Bass + Boiled Shrimp"
+            },
+            {
+              "store": "Chan Yue Japanese Restaurant",
+              "product": "Set for Two"
+            },
+            {
+              "store": "Lingnan Flavor Restaurant",
+              "product": "White Cut Chicken + Steamed Ribs with Dried Scallops"
+            }
+          ],
+          "search history": [
+            "Cantonese Cuisine",
+            "No fried food",
+            "Healthy Japanese food",
+            "Fresh fish",
+            "Couples"
+          ]
+        },
+        "light meal": {
+          "frequently purchased categories": [
+            "Snacks & Fast Food/Chinese Quick Meals (Average 35 yuan)",
+            "Regional Cuisine/Jiangzhe Cuisine (Average 45 yuan)"
+          ],
+          "preferred average price per person": "30~50 yuan",
+          "preferred store rating": "3.5~4.2 stars",
+          "typical dining time": "11:30-13:00",
+          "preferred distance": "0~1000m",
+          "recent orders": [
+            {
+              "store": "Old Street Noodle House",
+              "product": "Beef Noodles"
+            },
+            {
+              "store": "Little Chef Quick Meals",
+              "product": "Three Dishes One Soup Set"
+            },
+            {
+              "store": "Jiangnan Small Kitchen",
+              "product": "Steamed Fish + Seasonal Vegetables"
+            }
+          ],
+          "search history": [
+            "Work Meal",
+            "Fast Food",
+            "Healthy Bento Box",
+            "No fried food"
+          ]
+        },
+        "desserts/drinks/snacks": {
+          "frequently purchased categories": [
+            "Beverage Shops (Average 18 yuan)",
+            "Bread & Desserts (Average 25 yuan)",
+            "Other Food/Fresh Fruits (Average 15 yuan)"
+          ],
+          "preferred average price per person": "15~30 yuan",
+          "preferred store rating": "3.8~4.5 stars",
+          "typical dining time": "15:00-17:00",
+          "preferred distance": "0~800m",
+          "recent orders": [
+            {
+              "store": "Fresh Fruit Workshop",
+              "product": "Fruit Platter"
+            },
+            {
+              "store": "Tea Time",
+              "product": "Herbal Tea"
+            },
+            {
+              "store": "Maiquer Bakery",
+              "product": "Whole Wheat Bread"
+            }
+          ],
+          "search history": [
+            "Floral tea",
+            "Caffeine-free beverages",
+            "Fruit",
+            "Whole wheat bread"
+          ]
+        }
+      },
+      "other in-store services": {
+        "frequently consumed categories": {
+          "Beauty/Yoga": "30%",
+          "Sports & Fitness/Fitness Centers": "40%",
+          "Leisure & Entertainment/Massage/Foot Therapy": "20%",
+          "Beauty/Hair Salon": "10%"
+        },
+        "cost per order by category": {
+          "Beauty/Yoga": "80~150 yuan",
+          "Sports & Fitness/Fitness Centers": "60~120 yuan",
+          "Leisure & Entertainment/Massage/Foot Therapy": "100~180 yuan",
+          "Beauty/Hair Salon": "120~200 yuan"
+        },
+        "preferred store rating": "3.9~4.8 stars",
+        "preferred service time": "19:00-21:00",
+        "preferred distance": "0~3000m",
+        "recent orders": [
+          {
+            "store": "Chan Yue Yoga",
+            "product": "Single Person Yoga Class"
+          },
+          {
+            "store": "Power Fitness Center",
+            "product": "Monthly Card"
+          },
+          {
+            "store": "Comfort Foot Therapy",
+            "product": "Full Body Massage Package"
+          }
+        ],
+        "search history": [
+          "Yoga",
+          "female Fitness",
+          "Foot Therapy Relaxation",
+          "Healthy Living",
+          "Nearby Gym"
+        ]
+      }
+    },
+    "OTA": {
+      "visited scenes": {
+        "Natural Landscapes (Mountains/Lakes/Forests)": "35%",
+        "Hot Spring Resorts": "25%",
+        "Parks": "20%",
+        "Cultural Heritage Sites": "15%",
+        "Special Villages/Industrial Tourism/Uncategorized Projects": "5%"
+      },
+      "cost per night on hotel": "300~500 yuan",
+      "visited hotels": {
+        "Home Inn": "30%",
+        "Hanting": "25%",
+        "7 Days": "20%",
+        "Ji Hotel": "15%",
+        "Vienna": "10%"
+      },
+      "browsed hotels": {
+        "Three-star Hotels": "40%",
+        "Budget Hotels": "35%",
+        "Comfort Hotels": "25%"
+      },
+      "historical travel plans": {
+        "Huizhou-Guangzhou": {
+          "price range": "50-100 yuan",
+          "transportation mode": "Long-distance Bus"
+        },
+        "Huizhou-Shenzhen": {
+          "price range": "60-120 yuan",
+          "transportation mode": "Long-distance Bus"
+        },
+        "Huizhou-Foshan": {
+          "price range": "100-150 yuan",
+          "transportation mode": "Long-distance Bus"
+        },
+        "Huizhou-Dongguan": {
+          "price range": "40-80 yuan",
+          "transportation mode": "Long-distance Bus"
+        },
+        "Huizhou-Qingyuan": {
+          "price range": "150-200 yuan",
+          "transportation mode": "Self-driving"
+        },
+        "Huizhou-Shaoguan": {
+          "price range": "200-300 yuan",
+          "transportation mode": "Self-driving"
+        },
+        "Huizhou-Hangzhou": {
+          "price range": "800-1200 yuan",
+          "transportation mode": "High-speed Rail"
+        },
+        "Hangzhou-Huizhou": {
+          "price range": "800-1200 yuan",
+          "transportation mode": "High-speed Rail"
+        }
+      }
+    }
+  },
+  "stores": {
+    "S17550802124707160_S00001": {
+      "name": "Rice Ball Family",
+      "store_id": "S17550802124707160_S00001",
+      "score": 4.7,
+      "location": {
+        "address": "Fan Tuan Family (Maidi Store), No.23 Maidi Road, Huicheng District, Huizhou, Guangdong",
+        "latitude": 23.0792,
+        "longitude": 114.412
+      },
+      "tags": [
+        "Rice Ball",
+        "Bento Box",
+        "Fast Food",
+        "Healthy Light Meals"
+      ],
+      "store_type": "target",
+      "products": [
+        {
+          "name": "Chicken Strips Purple Rice Ball",
+          "store_id": "S17550802124707160_S00001",
+          "store_name": "Rice Ball Family",
+          "price": 12.9,
+          "tags": [
+            "Healthy",
+            "Low Oil"
+          ],
+          "product_id": "S17550802124707160_P00001",
+          "attributes": [
+            "With Sauce",
+            "Without Sauce"
+          ],
+          "product_type": "target"
+        },
+        {
+          "name": "Teriyaki Chicken Thigh Rice Ball",
+          "store_id": "S17550802124707160_S00001",
+          "store_name": "Rice Ball Family",
+          "price": 13.9,
+          "tags": [
+            "White Rice Ball",
+            "Japanese Style"
+          ],
+          "product_id": "S17550802124707160_P00002",
+          "attributes": [],
+          "product_type": "distraction"
+        },
+        {
+          "name": "Crispy Chicken Strips Rice Ball",
+          "store_id": "S17550802124707160_S00001",
+          "store_name": "Rice Ball Family",
+          "price": 12.5,
+          "tags": [
+            "White Rice Ball",
+            "Healthy",
+            "Popular"
+          ],
+          "product_id": "S17550802124707160_P00003",
+          "attributes": [
+            "With Sauce",
+            "Without Sauce"
+          ],
+          "product_type": "distraction"
+        },
+        {
+          "name": "Purple Rice with Pork Floss Rice Ball",
+          "store_id": "S17550802124707160_S00001",
+          "store_name": "Rice Ball Family",
+          "price": 10.5,
+          "tags": [
+            "Healthy",
+            "Low Fat"
+          ],
+          "product_id": "S17550802124707160_P00004",
+          "attributes": [
+            "With Sauce",
+            "Without Sauce"
+          ],
+          "product_type": "distraction"
+        },
+        {
+          "name": "Purple Rice with Vegetables Rice Ball",
+          "store_id": "S17550802124707160_S00001",
+          "store_name": "Rice Ball Family",
+          "price": 9.9,
+          "tags": [
+            "Vegetarian",
+            "Healthy",
+            "Low Calorie"
+          ],
+          "product_id": "S17550802124707160_P00005",
+          "attributes": [
+            "With Sauce",
+            "Without Sauce",
+            "Add Corn",
+            "No Corn"
+          ],
+          "product_type": "distraction"
+        }
+      ]
+    },
+    "S17550802124707160_S00002": {
+      "name": "Mr. Rice",
+      "store_id": "S17550802124707160_S00002",
+      "score": 4.5,
+      "location": {
+        "address": "Mr. Rice (Bus Group Store), No.56 Maidi Road, Huicheng District, Huizhou, Guangdong",
+        "latitude": 23.0787,
+        "longitude": 114.411
+      },
+      "tags": [
+        "Bento Box",
+        "Rice Ball",
+        "Japanese Cuisine",
+        "Healthy"
+      ],
+      "store_type": "target",
+      "products": [
+        {
+          "name": "Chicken Strips Purple Rice Ball",
+          "store_id": "S17550802124707160_S00002",
+          "store_name": "Mr. Rice",
+          "price": 12.9,
+          "tags": [
+            "Work Meal",
+            "Light Meal"
+          ],
+          "product_id": "S17550802124707160_P00006",
+          "attributes": [
+            "With Sauce (Required)"
+          ],
+          "product_type": "target"
+        },
+        {
+          "name": "Chicken Purple Rice Ball",
+          "store_id": "S17550802124707160_S00002",
+          "store_name": "Mr. Rice",
+          "price": 11.9,
+          "tags": [
+            "Light Meal"
+          ],
+          "product_id": "S17550802124707160_P00007",
+          "attributes": [
+            "With Sauce",
+            "Without Sauce"
+          ],
+          "product_type": "distraction"
+        },
+        {
+          "name": "Chicken Strips White Rice Ball",
+          "store_id": "S17550802124707160_S00002",
+          "store_name": "Mr. Rice",
+          "price": 11.5,
+          "tags": [
+            "Light Meal"
+          ],
+          "product_id": "S17550802124707160_P00008",
+          "attributes": [
+            "With Sauce",
+            "Without Sauce"
+          ],
+          "product_type": "distraction"
+        },
+        {
+          "name": "Steamed Fish Set",
+          "store_id": "S17550802124707160_S00002",
+          "store_name": "Mr. Rice",
+          "price": 32,
+          "tags": [
+            "Healthy",
+            "Low Fat"
+          ],
+          "product_id": "S17550802124707160_P00009",
+          "attributes": [
+            "White Rice",
+            "Purple Rice"
+          ],
+          "product_type": "distraction"
+        },
+        {
+          "name": "Japanese Salmon Rice Ball",
+          "store_id": "S17550802124707160_S00002",
+          "store_name": "Mr. Rice",
+          "price": 15.8,
+          "tags": [
+            "Healthy"
+          ],
+          "product_id": "S17550802124707160_P00010",
+          "attributes": [
+            "With Sauce",
+            "Without Sauce"
+          ],
+          "product_type": "distraction"
+        }
+      ]
+    },
+    "S17550802124707160_S00003": {
+      "name": "Bento Workshop",
+      "store_id": "S17550802124707160_S00003",
+      "score": 4.3,
+      "location": {
+        "address": "Bento Workshop, No.78 Maidi Road, Huicheng District, Huizhou, Guangdong",
+        "latitude": 23.0795,
+        "longitude": 114.4095
+      },
+      "tags": [
+        "Bento Box",
+        "Fast Food",
+        "Chinese Cuisine"
+      ],
+      "store_type": "distraction",
+      "products": [
+        {
+          "name": "Classic Chicken Rice Ball",
+          "store_id": "S17550802124707160_S00003",
+          "store_name": "Bento Workshop",
+          "price": 12.9,
+          "tags": [
+            "Rice Ball",
+            "Chicken",
+            "Fast Food",
+            "Portable"
+          ],
+          "product_id": "S17550802124707160_P00011",
+          "attributes": [
+            "With Sauce",
+            "Without Sauce"
+          ],
+          "product_type": "distraction"
+        },
+        {
+          "name": "Purple Rice with Chicken Strips Rice Ball",
+          "store_id": "S17550802124707160_S00003",
+          "store_name": "Bento Workshop",
+          "price": 15.9,
+          "tags": [
+            "Rice Ball",
+            "Chicken Strips",
+            "Purple Rice",
+            "Portable"
+          ],
+          "product_id": "S17550802124707160_P00012",
+          "attributes": [
+            "With Sauce",
+            "Without Sauce"
+          ],
+          "product_type": "distraction"
+        },
+        {
+          "name": "Healthy Sandwich",
+          "store_id": "S17550802124707160_S00003",
+          "store_name": "Bento Workshop",
+          "price": 16.8,
+          "tags": [
+            "Sandwich",
+            "Light Meal",
+            "Healthy",
+            "Portable"
+          ],
+          "product_id": "S17550802124707160_P00013",
+          "attributes": [
+            "Add Lettuce",
+            "No Lettuce",
+            "Add Tomato",
+            "No Tomato"
+          ],
+          "product_type": "distraction"
+        },
+        {
+          "name": "Vegetable and Fruit Salad",
+          "store_id": "S17550802124707160_S00003",
+          "store_name": "Bento Workshop",
+          "price": 18.5,
+          "tags": [
+            "Salad",
+            "Vegetables",
+            "Fruit",
+            "Healthy"
+          ],
+          "product_id": "S17550802124707160_P00014",
+          "attributes": [
+            "With Sauce",
+            "Without Sauce"
+          ],
+          "product_type": "distraction"
+        },
+        {
+          "name": "Low-fat Chicken Breast Bento Box",
+          "store_id": "S17550802124707160_S00003",
+          "store_name": "Bento Workshop",
+          "price": 26.9,
+          "tags": [
+            "Bento Box",
+            "Chicken Breast",
+            "Low Fat",
+            "Healthy"
+          ],
+          "product_id": "S17550802124707160_P00015",
+          "attributes": [
+            "Spicy",
+            "Non-spicy"
+          ],
+          "product_type": "distraction"
+        }
+      ]
+    },
+    "S17550802124707160_S00005": {
+      "name": "Freshly Squeezed Juice Bar",
+      "store_id": "S17550802124707160_S00005",
+      "score": 4.4,
+      "location": {
+        "address": "Fresh Juice Bar, No.50 Maidi Road, Huicheng District, Huizhou, Guangdong",
+        "latitude": 23.0788,
+        "longitude": 114.4108
+      },
+      "tags": [
+        "Juice",
+        "Beverages",
+        "Healthy"
+      ],
+      "store_type": "distraction",
+      "products": [
+        {
+          "name": "Freshly Squeezed Grapefruit Juice",
+          "store_id": "S17550802124707160_S00005",
+          "store_name": "Freshly Squeezed Juice Bar",
+          "price": 18,
+          "tags": [
+            "Fresh",
+            "No Additives",
+            "Vitamin C",
+            "Low Sugar"
+          ],
+          "product_id": "S17550802124707160_P00021",
+          "attributes": [
+            "Room Temperature",
+            "Chilled",
+            "Less Ice",
+            "No Ice",
+            "No Sugar",
+            "Slightly Sweet"
+          ],
+          "product_type": "distraction"
+        },
+        {
+          "name": "Freshly Squeezed Mango Juice",
+          "store_id": "S17550802124707160_S00005",
+          "store_name": "Freshly Squeezed Juice Bar",
+          "price": 16,
+          "tags": [
+            "Fresh",
+            "No Additives",
+            "Vitamin C",
+            "Fruit"
+          ],
+          "product_id": "S17550802124707160_P00022",
+          "attributes": [
+            "Room Temperature",
+            "Chilled",
+            "Less Ice",
+            "No Ice",
+            "No Sugar",
+            "Slightly Sweet"
+          ],
+          "product_type": "distraction"
+        },
+        {
+          "name": "Mixed Fruit Platter",
+          "store_id": "S17550802124707160_S00005",
+          "store_name": "Freshly Squeezed Juice Bar",
+          "price": 22,
+          "tags": [
+            "Fresh",
+            "Fruit",
+            "Healthy",
+            "Portable"
+          ],
+          "product_id": "S17550802124707160_P00023",
+          "attributes": [],
+          "product_type": "distraction"
+        },
+        {
+          "name": "Freshly Squeezed Apple Juice",
+          "store_id": "S17550802124707160_S00005",
+          "store_name": "Freshly Squeezed Juice Bar",
+          "price": 15,
+          "tags": [
+            "Fresh",
+            "No Additives",
+            "Healthy",
+            "Low Sugar"
+          ],
+          "product_id": "S17550802124707160_P00024",
+          "attributes": [
+            "Room Temperature",
+            "Chilled",
+            "Less Ice",
+            "No Ice",
+            "No Sugar",
+            "Slightly Sweet"
+          ],
+          "product_type": "distraction"
+        },
+        {
+          "name": "Fruit and Vegetable Energy Cup",
+          "store_id": "S17550802124707160_S00005",
+          "store_name": "Freshly Squeezed Juice Bar",
+          "price": 24,
+          "tags": [
+            "Fruits and Vegetables",
+            "Healthy",
+            "Energy",
+            "Meal Replacement"
+          ],
+          "product_id": "S17550802124707160_P00025",
+          "attributes": [
+            "Room Temperature",
+            "Chilled",
+            "With Honey",
+            "Without Honey"
+          ],
+          "product_type": "distraction"
+        }
+      ]
+    }
+  },
+  "orders": {}
+}

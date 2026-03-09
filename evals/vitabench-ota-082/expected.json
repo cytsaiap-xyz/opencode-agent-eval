@@ -1,0 +1,180 @@
+{
+  "required_orders": [
+    {
+      "order_id": "70807002T001",
+      "order_type": "train",
+      "user_id": "U010020",
+      "store_id": "S17557511177488640_T00015",
+      "note": "",
+      "location": null,
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 596,
+      "create_time": "2024-08-22 19:55:27",
+      "update_time": "2024-08-22 19:55:27",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17557511177488640_P00150",
+          "price": 298,
+          "quantity": 2,
+          "date": "2024-09-14",
+          "seat_type": "Hard Sleeper Lower Berth"
+        }
+      ]
+    },
+    {
+      "order_id": "70807002T002",
+      "order_type": "train",
+      "user_id": "U010020",
+      "store_id": "S17557511177488640_T00016",
+      "note": "",
+      "location": null,
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 1106,
+      "create_time": "2024-08-22 19:58:27",
+      "update_time": "2024-08-22 19:58:27",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17557511177488640_P00160",
+          "price": 553,
+          "quantity": 2,
+          "date": "2024-09-17",
+          "seat_type": "Second Class Seat"
+        }
+      ]
+    },
+    {
+      "order_id": "70807002T003",
+      "order_type": "attraction",
+      "user_id": "U010020",
+      "store_id": "S17557511177488640_A00006",
+      "note": "",
+      "location": null,
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 240,
+      "create_time": "2024-08-22 20:01:27",
+      "update_time": "2024-08-22 20:01:27",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17557511177488640_P00067",
+          "price": 120,
+          "quantity": 2,
+          "date": "2024-09-15",
+          "ticket_type": "Adult Ticket"
+        }
+      ]
+    },
+    {
+      "order_id": "70807002T004",
+      "order_type": "attraction",
+      "user_id": "U010020",
+      "store_id": "S17557511177488640_A00007",
+      "note": "",
+      "location": null,
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 240,
+      "create_time": "2024-08-22 20:03:27",
+      "update_time": "2024-08-22 20:03:27",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17557511177488640_P00082",
+          "price": 120,
+          "quantity": 2,
+          "date": "2024-09-15",
+          "ticket_type": "Adult Ticket"
+        }
+      ]
+    },
+    {
+      "order_id": "70807002T005",
+      "order_type": "attraction",
+      "user_id": "U010020",
+      "store_id": "S17557511177488640_A00009",
+      "note": "",
+      "location": null,
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 320,
+      "create_time": "2024-08-22 20:06:27",
+      "update_time": "2024-08-22 20:06:27",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17557511177488640_P00106",
+          "price": 200,
+          "quantity": 1,
+          "date": "2024-09-16",
+          "ticket_type": "Hanfu Experience Ticket (Includes Admission + Hanfu Rental)"
+        },
+        {
+          "product_id": "S17557511177488640_P00102",
+          "price": 120,
+          "quantity": 1,
+          "date": "2024-09-16",
+          "ticket_type": "Adult Ticket"
+        }
+      ]
+    },
+    {
+      "order_id": "70807002T006",
+      "order_type": "attraction",
+      "user_id": "U010020",
+      "store_id": "S17557511177488640_A00008",
+      "note": "",
+      "location": null,
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 200,
+      "create_time": "2024-08-22 20:09:27",
+      "update_time": "2024-08-22 20:09:27",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17557511177488640_P00087",
+          "price": 100,
+          "quantity": 2,
+          "date": "2024-09-17",
+          "ticket_type": "Adult Ticket"
+        }
+      ]
+    }
+  ],
+  "rubrics": [
+    "Outbound train departure date is September 14, 2024",
+    "Outbound train number should start with K",
+    "Outbound train arrival time should be on the morning of September 15, 2024",
+    "Number of outbound train tickets is 2",
+    "Outbound train should be from Linyi to Xi'an",
+    "Return train departure date is September 17, 2024",
+    "Return train number should start with D or G",
+    "Return train arrival time should be on the evening of September 17, 2024",
+    "Number of return train tickets is 2",
+    "Return train should be from Xi'an to Linyi",
+    "Attractions ordered on the first day of the journey should include Emperor Qin Shi Huang's Mausoleum Site Museum (Terracotta Army)",
+    "Tickets for attractions ordered on the first day should be for September 15, 2024",
+    "Number of tickets for attractions ordered on the first day should be 2",
+    "Attractions ordered on the first day of the journey should include Mausoleum of the First Qin Emperor",
+    "Tickets for attractions ordered on the first day should be for September 15, 2024",
+    "Number of tickets for attractions ordered on the first day should be 2",
+    "Attraction ordered on the second day of the journey should be Tang Paradise",
+    "Tickets for attractions ordered on the second day should be for September 16, 2024",
+    "Tickets for attractions ordered on the second day should include 1 Adult Ticket",
+    "Tickets for attractions ordered on the second day should include 1 Hanfu Experience Ticket (Includes Admission + Hanfu Rental)",
+    "Attraction ordered on the third day of the journey should be Xi'an Qinling Wildlife Park",
+    "Tickets for attractions ordered on the third day should be for September 17, 2024",
+    "Number of tickets for attractions ordered on the third day should be 2"
+  ]
+}

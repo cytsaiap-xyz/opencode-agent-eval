@@ -1,0 +1,67 @@
+{
+  "required_orders": [
+    {
+      "order_id": "J0717003T01",
+      "order_type": "delivery",
+      "user_id": "U000036",
+      "store_id": "S77016294932976550_S27399",
+      "note": "",
+      "location": {
+        "address": "Pipa Residential Area, No. 24-36 Pipa Lane, Qinhuai District, Nanjing, Jiangsu Province",
+        "longitude": 118.7903,
+        "latitude": 32.017193
+      },
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 38,
+      "create_time": "2025-09-27 10:30:00",
+      "update_time": "2025-09-27 10:30:00",
+      "status": "processed",
+      "products": [
+        {
+          "product_id": "S97648683925001199_P64193",
+          "price": 19,
+          "quantity": 2,
+          "attributes": ""
+        }
+      ]
+    },
+    {
+      "order_id": "J0717003T02",
+      "order_type": "delivery",
+      "user_id": "U000036",
+      "store_id": "S18546668850608431_S32855",
+      "note": "",
+      "location": {
+        "address": "Pipa Residential Area, No. 24-36 Pipa Lane, Qinhuai District, Nanjing, Jiangsu Province",
+        "longitude": 118.790448,
+        "latitude": 32.035752
+      },
+      "dispatch_time": "2025-09-27 10:40:00",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 30,
+      "create_time": "2025-09-27 10:32:00",
+      "update_time": "2025-09-27 10:32:00",
+      "status": "in-progress",
+      "products": [
+        {
+          "product_id": "S25825121767346007_P30634",
+          "price": 30,
+          "quantity": 1,
+          "attributes": ""
+        }
+      ]
+    }
+  ],
+  "rubrics": [
+    "The beverage order for girlfriend should contain products rich in vitamins, such as fruit and vegetable tea or fresh juice containing fruit ingredients",
+    "The beverage order for girlfriend should not contain vegetable ingredients, avoiding ingredients like Bitter Gourd, Kale, etc.",
+    "The beverage order for girlfriend should not contain mango ingredients to avoid allergy risks",
+    "The delivery address for girlfriend's beverage order should be Pipa Residential Area, No. 24-36 Pipa Lane, Qinhuai District, Nanjing, Jiangsu Province",
+    "The estimated delivery time for girlfriend's beverage order should be before 12:00 on September 27, 2025",
+    "The delivery address for the macaron order to cheer up girlfriend should be Pipa Residential Area, No. 24-36 Pipa Lane, Qinhuai District, Nanjing, Jiangsu Province",
+    "The estimated delivery time for the macaron order to cheer up girlfriend should be before 12:00 on September 27, 2025"
+  ]
+}

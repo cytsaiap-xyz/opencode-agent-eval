@@ -1,0 +1,99 @@
+{
+  "required_orders": [
+    {
+      "order_id": "10826067T001",
+      "order_type": "instore",
+      "user_id": "U499750",
+      "store_id": "S17567836667757115_I00001",
+      "note": "",
+      "location": null,
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 168,
+      "create_time": "2024-07-15 18:26:00",
+      "update_time": "2024-07-15 18:26:00",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17567836667757115_P00001",
+          "name": "Deep Eye Treatment + Head Relaxation Massage Package",
+          "price": 168,
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "reservation_id": "10826067T002",
+      "shop_id": "S17567836667757115_I00001",
+      "reservation_time": "2024-07-20 15:30:00",
+      "update_time": "2024-07-15 18:28:00",
+      "customer_id": "U499750",
+      "customer_count": 1,
+      "status": "paid"
+    },
+    {
+      "order_id": "10826067T003",
+      "order_type": "instore",
+      "user_id": "U499750",
+      "store_id": "S17567836667757115_I00002",
+      "note": "",
+      "location": null,
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 45,
+      "create_time": "2024-07-15 18:30:00",
+      "update_time": "2024-07-15 18:30:00",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17567836667757115_P00010",
+          "name": "Original Chiffon Cake",
+          "price": 45,
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "order_id": "10826067T004",
+      "order_type": "instore",
+      "user_id": "U499750",
+      "store_id": "S17567836667757115_I00003",
+      "note": "",
+      "location": null,
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 28,
+      "create_time": "2024-07-15 18:32:00",
+      "update_time": "2024-07-15 18:32:00",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17567836667757115_P00019",
+          "name": "Succulent Grape",
+          "price": 28,
+          "quantity": 1
+        }
+      ]
+    }
+  ],
+  "rubrics": [
+    "The eye care center must be professional",
+    "The eye care center must be within 1km (inclusive) of the 15th Floor, No.5 Victory International Building, Harbor Square, Zhongshan District, Dalian",
+    "For the eye care center order, priority should be given to eye + head massage combination packages; if unavailable, order eye massage packages only; upon checking, eye + head massage packages are available, so these should be ordered",
+    "The service time for the eye care center order must be 40 minutes or longer",
+    "The eye care center should be Bright Eyes Care Center",
+    "The appointment time for the eye care center should be 2024-07-20 15:30:00",
+    "The number of people for the eye care center appointment should be 1",
+    "The cake ordered from the cake shop should be 4-inch",
+    "The cake ordered should be Sugar-free",
+    "The cake ordered should not contain mango",
+    "The cake ordered should use Dairy Cream",
+    "The milk tea ordered should be Sugar-free",
+    "The milk tea ordered should be grape flavored",
+    "The milk tea ordered should not contain mango",
+    "The recommended milk tea shop should be HeyTea"
+  ]
+}

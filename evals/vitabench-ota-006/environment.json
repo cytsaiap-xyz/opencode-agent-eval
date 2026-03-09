@@ -1,0 +1,256 @@
+{
+  "task_id": "10812009",
+  "domain": "ota",
+  "time": "2025-05-16 16:18:21",
+  "user_id": "U474790",
+  "weather": [
+    {
+      "city": "Luoyang",
+      "category": "cloudy",
+      "datetime": "2025-05-16",
+      "temperature": [
+        18,
+        26
+      ],
+      "humidity": 65
+    },
+    {
+      "city": "Anyang",
+      "category": "sunny",
+      "datetime": "2025-05-16",
+      "temperature": [
+        16,
+        24
+      ],
+      "humidity": 58
+    }
+  ],
+  "location": [
+    {
+      "address": "Room 502, Unit 1, Building 3, Jianye No.1 City, 229 Zhongzhou Middle Road, Xigong District, Luoyang, Henan Province",
+      "longitude": 112.434468,
+      "latitude": 34.619702
+    },
+    {
+      "address": "Super Fitness Club, next to Dennis Department Store, 66 Nanchang Road, Jianxi District, Luoyang, Henan Province",
+      "longitude": 112.393856,
+      "latitude": 34.658742
+    }
+  ],
+  "user_profile": {
+    "user id": "U474790",
+    "occupation": "Receptionist",
+    "gender": "female",
+    "age group": "25~30",
+    "residence": "Luoyang",
+    "home address": "Room 502, Unit 1, Building 3, Jianye No.1 City, 229 Zhongzhou Middle Road, Xigong District, Luoyang, Henan Province",
+    "work address": "Super Fitness Club, next to Dennis Department Store, 66 Nanchang Road, Jianxi District, Luoyang, Henan Province",
+    "dietary restrictions": "No high sugar, no fried food",
+    "family status": "Living alone",
+    "personality": "Emotionally volatile, expresses with strong emotional coloring"
+  },
+  "user_historical_behaviors": {
+    "user id": "U474790",
+    "occupation": "front desk clerk",
+    "gender": "female",
+    "age group": "25~30",
+    "residence": "Luoyang",
+    "home address": "Room 502, Unit 1, Building 3, Jianye No.1 City, 229 Zhongzhou Middle Road, Xigong District, Luoyang, Henan Province",
+    "work address": "Super Fitness Club, next to Dennis Department Store, 66 Nanchang Road, Jianxi District, Luoyang, Henan Province",
+    "visited scenes": {
+      "Natural landscapes (mountains/lakes/forests)": "35%",
+      "Tourist attractions (mountain/coastal/ecological large-scale scenic areas)": "25%",
+      "Hot spring resorts": "20%",
+      "Historical and cultural sites": "15%",
+      "Parks": "5%"
+    },
+    "cost per night on hotel": "300~500 yuan",
+    "visited hotels": {
+      "Home Inn": "30%",
+      "Hanting": "25%",
+      "Atour": "20%",
+      "Ji Hotel": "15%",
+      "Vienna Hotel": "10%"
+    },
+    "browsed hotels": {
+      "Three-star hotels": "45%",
+      "Comfort hotels": "35%",
+      "Economy hotels": "15%",
+      "Four-star hotels": "5%"
+    },
+    "historical travel plans": {
+      "Luoyang-Zhengzhou": {
+        "Price range": "50-100 yuan",
+        "Transportation": "High-speed rail"
+      },
+      "Zhengzhou-Luoyang": {
+        "Price range": "50-100 yuan",
+        "Transportation": "High-speed rail"
+      },
+      "Luoyang-Xi'an": {
+        "Price range": "150-250 yuan",
+        "Transportation": "High-speed rail"
+      },
+      "Xi'an-Luoyang": {
+        "Price range": "150-250 yuan",
+        "Transportation": "High-speed rail"
+      },
+      "Luoyang-Beijing": {
+        "Price range": "350-550 yuan",
+        "Transportation": "High-speed rail"
+      },
+      "Beijing-Luoyang": {
+        "Price range": "350-550 yuan",
+        "Transportation": "High-speed rail"
+      },
+      "Luoyang-Sanya": {
+        "Price range": "800-1200 yuan",
+        "Transportation": "Airplane"
+      },
+      "Sanya-Luoyang": {
+        "Price range": "800-1200 yuan",
+        "Transportation": "Airplane"
+      }
+    }
+  },
+  "stores": {},
+  "orders": {
+    "S17557505469225855_O00001": {
+      "order_id": "S17557505469225855_O00001",
+      "order_type": "train",
+      "user_id": "U474790",
+      "store_id": "T00011",
+      "location": {
+        "address": "Luoyang Longmen Railway Station, Longmen Avenue, Luolong District, Luoyang, Henan Province",
+        "longitude": 112.4543,
+        "latitude": 34.6197
+      },
+      "dispatch_time": "",
+      "shipping_time": 0.0,
+      "delivery_time": "",
+      "note": "Going to Anyang to visit Yinxu Ruins",
+      "total_price": 28.0,
+      "create_time": "2025-05-15 14:30:00",
+      "update_time": "2025-05-15 14:30:00",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17557505469225855_P00057",
+          "price": 28.0,
+          "quantity": 1,
+          "seat_type": "Second class seat"
+        }
+      ]
+    },
+    "S17557505469225855_O00002": {
+      "order_id": "S17557505469225855_O00002",
+      "order_type": "hotel",
+      "user_id": "U474790",
+      "store_id": "H00001",
+      "note": "Regular Home Inn customer, business trip",
+      "location": {
+        "address": "Home Inn Zhengzhou Railway Station Branch, 82 Erma Road, Erqi District, Zhengzhou, Henan Province",
+        "longitude": 113.6644,
+        "latitude": 34.7566
+      },
+      "dispatch_time": "",
+      "shipping_time": 0.0,
+      "delivery_time": "",
+      "total_price": 320.0,
+      "create_time": "2025-05-10 16:45:00",
+      "update_time": "2025-05-12 12:00:00",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "P001",
+          "price": 320.0,
+          "quantity": 1,
+          "date": "2025-05-12",
+          "room_type": "Business king room"
+        }
+      ]
+    },
+    "S17557505469225855_O00003": {
+      "order_id": "S17557505469225855_O00003",
+      "order_type": "attraction",
+      "user_id": "U474790",
+      "store_id": "A00001",
+      "note": "Labor Day holiday tour",
+      "location": {
+        "address": "Longmen Grottoes Scenic Area, 13 Longmen Middle Street, Luolong District, Luoyang, Henan Province",
+        "longitude": 112.4735,
+        "latitude": 34.5553
+      },
+      "dispatch_time": "",
+      "shipping_time": 0.0,
+      "delivery_time": "",
+      "total_price": 90.0,
+      "create_time": "2025-05-06 10:20:00",
+      "update_time": "2025-05-06 10:20:00",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "P002",
+          "price": 90.0,
+          "quantity": 1,
+          "ticket_type": "Adult ticket"
+        }
+      ]
+    },
+    "S17557505469225855_O00004": {
+      "order_id": "S17557505469225855_O00004",
+      "order_type": "hotel",
+      "user_id": "U474790",
+      "store_id": "H00002",
+      "note": "Hot spring vacation",
+      "location": {
+        "address": "Hanting Hotel Luoyang Wangcheng Park Branch, 312 Zhongzhou Middle Road, Xigong District, Luoyang, Henan Province",
+        "longitude": 112.4542,
+        "latitude": 34.6836
+      },
+      "dispatch_time": "",
+      "shipping_time": 0.0,
+      "delivery_time": "",
+      "total_price": 380.0,
+      "create_time": "2025-04-23 19:15:00",
+      "update_time": "2025-04-25 14:00:00",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "P003",
+          "price": 380.0,
+          "quantity": 1,
+          "date": "2025-04-25",
+          "room_type": "Comfortable king room"
+        }
+      ]
+    },
+    "S17557505469225855_O00005": {
+      "order_id": "S17557505469225855_O00005",
+      "order_type": "train",
+      "user_id": "U474790",
+      "store_id": "T00002",
+      "location": {
+        "address": "Luoyang Longmen Railway Station, Longmen Avenue, Luolong District, Luoyang, Henan Province",
+        "longitude": 112.4543,
+        "latitude": 34.6197
+      },
+      "dispatch_time": "",
+      "shipping_time": 0.0,
+      "delivery_time": "",
+      "note": "Return ticket",
+      "total_price": 174.5,
+      "create_time": "2025-04-18 11:30:00",
+      "update_time": "2025-04-20 09:45:00",
+      "status": "cancelled",
+      "products": [
+        {
+          "product_id": "P004",
+          "price": 174.5,
+          "quantity": 1,
+          "seat_type": "Second class seat"
+        }
+      ]
+    }
+  }
+}

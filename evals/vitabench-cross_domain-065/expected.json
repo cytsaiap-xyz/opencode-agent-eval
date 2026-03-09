@@ -1,0 +1,102 @@
+{
+  "required_orders": [
+    {
+      "order_id": "OO532d14100e",
+      "order_type": "hotel",
+      "user_id": "U010048",
+      "store_id": "S17550803068052762_H00005",
+      "note": "",
+      "location": null,
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 1280,
+      "create_time": "2025-11-19 14:30:59",
+      "update_time": "2025-11-19 14:30:59",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17550803068052762_P00021",
+          "price": 1280,
+          "quantity": 1,
+          "date": "2025-11-20",
+          "room_type": "Deluxe Lake View King Room"
+        }
+      ]
+    },
+    {
+      "order_id": "OIb192a86a68",
+      "order_type": "instore",
+      "user_id": "U010048",
+      "store_id": "S17550803068052762_I00016",
+      "note": "",
+      "location": null,
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 120,
+      "create_time": "2025-11-19 14:33:12",
+      "update_time": "2025-11-19 14:33:12",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17550803068052762_P00101",
+          "price": 120,
+          "quantity": 1,
+          "name": "RTX4090 Gaming PC 3-Hour Experience",
+          "shop_id": "S17550803068052762_I00016",
+          "tags": [
+            "High-End Configuration"
+          ]
+        }
+      ]
+    },
+    {
+      "order_id": "10806003T001",
+      "order_type": "delivery",
+      "user_id": "U010048",
+      "store_id": "S17550803068052762_S00001",
+      "note": "",
+      "location": {
+        "address": "Lushan Cloud Resort Hotel, Guling Town, Lushan Scenic Area, Jiujiang, Jiangxi Province",
+        "longitude": 116.0467,
+        "latitude": 29.5535
+      },
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "2025-11-19 17:30:00",
+      "total_price": 138,
+      "create_time": "2025-11-19 16:37:28",
+      "update_time": "2025-11-19 16:37:28",
+      "status": "unpaid",
+      "products": [
+        {
+          "product_id": "S17550803068052762_P00001",
+          "name": "Lushan Roast Chicken Set",
+          "price": 138,
+          "attributes": "Steamed Bun",
+          "tags": [],
+          "": "Signature Dish"
+        }
+      ]
+    }
+  ],
+  "rubrics": [
+    "Need to find the highest-rated hotel among available options [Lushan Cloud Resort Hotel and Lushan Guling International Hotel are both Five-Star]",
+    "The booked hotel should be located within the Lushan Scenic Area",
+    "The room type in the hotel booking should be a king room",
+    "The hotel booking date should be November 20, 2025",
+    "Need to check the distance from Lushan Scenic Area to downtown Wanda Plaza, which is about 15km, so need to search for e-sports venues near Jiujiang downtown Wanda Plaza and create an order",
+    "The internet cafe should have RTX4070 or higher graphics cards",
+    "The internet cafe must be a non-smoking establishment",
+    "The internet cafe package should be valid for 3 Hours",
+    "The internet cafe package should be for a single person",
+    "Since the distance from Lushan Scenic Area to downtown Wanda Plaza is about 15km, need to search for takeout options near the hotel and create an order",
+    "The takeout restaurant should serve Jiangxi Cuisine",
+    "The takeout food should avoid the user's dietary restrictions and should not be Extra Spicy",
+    "The delivery address for the takeout order should be Lushan Cloud Resort Hotel, Guling Town, Lushan Scenic Area, Jiujiang, Jiangxi Province",
+    "The estimated delivery time for the takeout order should be around 17:30:00 on 2025-11-20 [delivery time should be within the 17:15-17:45 time range]",
+    "The order items should include Roast Chicken",
+    "The main food item in the takeout order should be steamed buns"
+  ]
+}

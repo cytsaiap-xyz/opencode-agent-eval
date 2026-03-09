@@ -1,0 +1,68 @@
+{
+  "required_orders": [
+    {
+      "order_id": "H0716001T01",
+      "order_type": "delivery",
+      "user_id": "U000095",
+      "store_id": "S32613676585530873_S13462",
+      "note": "",
+      "location": {
+        "address": "1588 Wenhua Road, Weifang Xinchen Plaza, Kuiwen District, Weifang City, Shandong Province",
+        "longitude": 119.142,
+        "latitude": 36.730474
+      },
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 22.9,
+      "create_time": "2025-08-02 12:00:00",
+      "update_time": "2025-08-02 12:00:00",
+      "status": "processed",
+      "products": [
+        {
+          "product_id": "S30257020650698187_P69287",
+          "price": 22.9,
+          "quantity": 1,
+          "attributes": ""
+        }
+      ]
+    },
+    {
+      "order_id": "H0716001T02",
+      "order_type": "delivery",
+      "user_id": "U000095",
+      "store_id": "S27620923749829280_S83358",
+      "note": "",
+      "location": {
+        "address": "1588 Wenhua Road, Weifang Xinchen Plaza, Kuiwen District, Weifang City, Shandong Province",
+        "longitude": 119.142,
+        "latitude": 36.730474
+      },
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 120,
+      "create_time": "2025-08-02 12:00:00",
+      "update_time": "2025-08-02 12:00:00",
+      "status": "unpaid",
+      "products": [
+        {
+          "product_id": "S14884944326041048_P20569",
+          "price": 12,
+          "quantity": 10,
+          "attributes": ""
+        }
+      ]
+    }
+  ],
+  "rubrics": [
+    "The delivery address for the curry omurice order should be 1588 Wenhua Road, Weifang Xinchen Plaza, Kuiwen District, Weifang City, Shandong Province",
+    "The estimated delivery time for the curry omurice order should be before 14:00 on August 2, 2025",
+    "The items in the curry omurice order should have spicy characteristics or contain pepper or other seasonings",
+    "The delivery address for the taro dessert order should be 1588 Wenhua Road, Weifang Xinchen Plaza, Kuiwen District, Weifang City, Shandong Province",
+    "The estimated delivery time for the taro dessert order should be between 15:00 and 16:00 on August 2, 2025",
+    "The items in the taro dessert order should be sweet pastries containing taro filling",
+    "The items in the taro dessert order should have a soft and tender texture",
+    "The total quantity of items in the taro dessert order should be 20 pieces"
+  ]
+}

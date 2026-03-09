@@ -1,0 +1,48 @@
+{
+  "task_id": "63",
+  "query": "I plan to travel from Urumqi to Shanghai on November 12, 2025, and will stay until November 16, 2025. I'd like to ask for your help in planning my itinerary, including transportation, accommodation, meals, and sightseeing arrangements.\n\nRegarding transportation, I’d like to take a flight for the outbound journey, preferably on a Boeing aircraft model. In terms of budget, please help me find the cheapest direct flight from Urumqi to Shanghai—direct flights are more convenient. For accommodation, I’d like to stay in a four-star hotel, ideally the one with the highest rating, so that we can be more comfortable. There are two of us, so just one room will suffice.\n\nAs for the itinerary, I especially want to visit some relaxing yet distinctive places—such as highly recommended 'Leisure Experience' attractions. Please include the one with the highest rating. By the way, for dining, I must visit 'Yu Jian Huaiyang (West Bund Phoenix Nest Branch)' this time—I’ve heard the restaurant is excellent, and I really want to try their dishes. Please make sure to schedule enough time for a meal there.\n\nThese are basically all my requirements. I believe I've provided all necessary information, so please go ahead and start planning—no need to ask me further details. Thank you! November 12, 2025 is Wednesday",
+  "meta_info": {
+    "org": "Urumqi",
+    "dest": [
+      "Shanghai"
+    ],
+    "days": 5,
+    "depart_date": "2025-11-12",
+    "return_date": "2025-11-16",
+    "people_number": 2,
+    "room_number": 1
+  },
+  "hard_constraints": {
+    "flight_cheapest_manufacturer_direct": {
+      "constraint_context": "For the outbound journey, I prefer to take a flight and need to select the cheapest direct flight available on a Boeing-manufactured aircraft",
+      "constraint_type": "superlative_cheapest_manufacturer",
+      "outbound_flight_no": "HU4505"
+    },
+    "hotel_star_highest_rated": {
+      "constraint_context": "For accommodation, please select the highest-rated hotel among 4-star hotels",
+      "constraint_type": "superlative_star_highest_rated",
+      "hotel_name": "Maxine Boutique Hotel (Shanghai International Tourism Resort Chuansha Metro Station Branch)",
+      "hotel_star": 4,
+      "hotel_price": 312.0,
+      "hotel_score": 4.9
+    },
+    "attraction_type_highest_rated": {
+      "constraint_context": "The itinerary must include the highest-rated attraction in the 'Leisure Experience' category.",
+      "constraint_type": "superlative_type_highest_rated",
+      "attraction_names": [
+        "BFC Bund Finance Center"
+      ],
+      "attraction_type_cn": "休闲体验",
+      "attraction_type": "Leisure Experience",
+      "attraction_ratings": [
+        4.8
+      ]
+    },
+    "restaurant_must_eat_named": {
+      "constraint_context": "The itinerary must include a meal at 'Yu Jian Huaiyang (West Bund Phoenix Nest Branch)'.",
+      "constraint_type": "superlative_must_eat_named",
+      "restaurant_name": "Yu Jian Huaiyang (West Bund Phoenix Nest Branch)",
+      "restaurant_rating": 4.3
+    }
+  }
+}

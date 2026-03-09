@@ -1,0 +1,143 @@
+{
+  "required_orders": [
+    {
+      "order_id": "D0811005T001",
+      "order_type": "flight",
+      "user_id": "U010098",
+      "store_id": "S17557514070032606_F00010",
+      "note": "",
+      "location": null,
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 8260,
+      "create_time": "2025-03-17 17:20:25",
+      "update_time": "2025-03-17 17:20:25",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17557514070032606_P00100",
+          "price": 1180,
+          "quantity": 7,
+          "date": "2025-03-25",
+          "seat_type": "economy class"
+        }
+      ]
+    },
+    {
+      "order_id": "D0811005T002",
+      "order_type": "flight",
+      "user_id": "U010098",
+      "store_id": "S17557514070032606_F00011",
+      "note": "",
+      "location": null,
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 8260,
+      "create_time": "2025-03-17 17:22:25",
+      "update_time": "2025-03-17 17:22:25",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17557514070032606_P00105",
+          "price": 1180,
+          "quantity": 7,
+          "date": "2025-03-29",
+          "seat_type": "economy class"
+        }
+      ]
+    },
+    {
+      "order_id": "D0811005T003",
+      "order_type": "hotel",
+      "user_id": "U010098",
+      "store_id": "S17557512073196111_H00002",
+      "note": "",
+      "location": null,
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 8380,
+      "create_time": "2025-03-17 17:27:25",
+      "update_time": "2025-03-17 17:27:25",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17557514070032606_P00015",
+          "price": 580,
+          "quantity": 1,
+          "date": "2025-03-25",
+          "room_type": "deluxe twin room"
+        },
+        {
+          "product_id": "S17557514070032606_P00016",
+          "price": 680,
+          "quantity": 1,
+          "date": "2025-03-26",
+          "room_type": "deluxe twin room"
+        },
+        {
+          "product_id": "S17557514070032606_P00024",
+          "price": 680,
+          "quantity": 1,
+          "date": "2025-03-27",
+          "room_type": "deluxe twin room"
+        },
+        {
+          "product_id": "S17557514070032606_P00025",
+          "price": 680,
+          "quantity": 1,
+          "date": "2025-03-28",
+          "room_type": "deluxe twin room"
+        },
+        {
+          "product_id": "S17557514070032606_P00013",
+          "price": 720,
+          "quantity": 2,
+          "date": "2025-03-25",
+          "room_type": "comfort family room"
+        },
+        {
+          "product_id": "S17557514070032606_P00014",
+          "price": 720,
+          "quantity": 2,
+          "date": "2025-03-26",
+          "room_type": "comfort family room"
+        },
+        {
+          "product_id": "S17557514070032606_P00022",
+          "price": 720,
+          "quantity": 2,
+          "date": "2025-03-27",
+          "room_type": "comfort family room"
+        },
+        {
+          "product_id": "S17557514070032606_P00023",
+          "price": 720,
+          "quantity": 2,
+          "date": "2025-03-28",
+          "room_type": "comfort family room"
+        }
+      ]
+    }
+  ],
+  "rubrics": [
+    "The outbound flight order must be from Shenzhen to Nyingchi",
+    "The outbound flight order departure time must be March 25, 2025",
+    "The outbound flight order cabin class should be economy class",
+    "The outbound flight order ticket quantity must be 7",
+    "The outbound flight order must depart after 10:00 AM",
+    "The return flight order must be from Nyingchi to Shenzhen",
+    "The return flight order departure time must be March 29, 2025",
+    "The return flight order cabin class should be economy class",
+    "The return flight order ticket quantity must be 7",
+    "The return flight order must depart after 10:00 AM",
+    "The hotel booked must be located in Nyingchi city area",
+    "There should be only one hotel order",
+    "The hotel order check-in dates must be March 25, 2025, March 26, 2025, March 27, 2025, and March 28, 2025",
+    "The hotel order must book 2 family rooms per night",
+    "The hotel order must book 1 twin room per night",
+    "Weather for March 26 in Nyingchi should be checked, with results showing light rain; no scenic spot tickets need to be booked"
+  ]
+}

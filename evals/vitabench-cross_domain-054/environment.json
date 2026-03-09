@@ -1,0 +1,792 @@
+{
+  "task_id": "10811002",
+  "domain": "cross_domain",
+  "time": "2025-05-31 17:15:00",
+  "user_id": "U337902",
+  "weather": [
+    {
+      "city": "Harbin",
+      "category": "sunny",
+      "datetime": "2025-05-31",
+      "temperature": [
+        18,
+        26
+      ],
+      "humidity": 45
+    },
+    {
+      "city": "Hong Kong",
+      "category": "cloudy",
+      "datetime": "2025-05-31",
+      "temperature": [
+        24,
+        30
+      ],
+      "humidity": 70
+    }
+  ],
+  "location": [
+    {
+      "address": "Harbin Institute of Technology Student Dormitory Building 3, 74 Xuefu Road, Nangang District, Harbin",
+      "longitude": 126.634211,
+      "latitude": 45.743435
+    },
+    {
+      "address": "Main Teaching Building of Harbin Institute of Technology, 92 Xuefu Road, Nangang District, Harbin",
+      "longitude": 126.635672,
+      "latitude": 45.742518
+    }
+  ],
+  "user_profile": {
+    "user id": "U337902",
+    "occupation": "Student",
+    "gender": "female",
+    "age group": "20~25",
+    "residence": "Harbin",
+    "Permanent address": "Main Teaching Building of Harbin Institute of Technology, 92 Xuefu Road, Nangang District, Harbin",
+    "work address": "Main Teaching Building of Harbin Institute of Technology, 92 Xuefu Road, Nangang District, Harbin",
+    "dietary restrictions": "No Heavy Oil Spicy, No Raw Food",
+    "family status": "Has pet",
+    "personality": "Extremely detail-oriented, tends to be picky and dissatisfied"
+  },
+  "user_historical_behaviors": {
+    "user id": "U337902",
+    "occupation": "Student",
+    "gender": "female",
+    "age group": "20~25",
+    "residence": "Harbin",
+    "Permanent address": "Harbin Institute of Technology Student Dormitory Building 3, 74 Xuefu Road, Nangang District, Harbin",
+    "work address": "Main Teaching Building of Harbin Institute of Technology, 92 Xuefu Road, Nangang District, Harbin",
+    "delivery": {
+      "food delivery": {
+        "breakfast": {
+          "frequently purchased categories": [
+            "Light meals/steamed buns/pan-fried buns (average 15 yuan)",
+            "Light meals/youtiao (average 8 yuan)",
+            "desserts/drinks/snacks/soy milk (average 6 yuan)"
+          ],
+          "cost per order": "8~25 yuan",
+          "preferred store rating": "4.2~4.8 points",
+          "preferred delivery time": "15~30 minutes",
+          "preferred distance": "0~2000m",
+          "recent orders": [
+            {
+              "store": "Old Northern Steamed Bun Shop",
+              "product": "Meat bun + soy milk set"
+            },
+            {
+              "store": "Douxiang Fang",
+              "product": "Youtiao with soy milk set"
+            },
+            {
+              "store": "Shaxian Snacks",
+              "product": "Soup dumplings"
+            }
+          ],
+          "search history": [
+            "Breakfast",
+            "Steamed buns",
+            "Soy milk",
+            "Porridge",
+            "Hot Beverage"
+          ]
+        },
+        "weekday lunch/dinner": {
+          "frequently purchased categories": [
+            "Light meals/rice noodles (average 22 yuan)",
+            "Light meals/braised chicken with rice (average 28 yuan)",
+            "Light meals/light food (average 35 yuan)"
+          ],
+          "cost per order": "20~40 yuan",
+          "preferred store rating": "4.3~4.8 points",
+          "preferred delivery time": "20~35 minutes",
+          "preferred distance": "0~2500m",
+          "recent orders": [
+            {
+              "store": "Braised chicken with rice",
+              "product": "Mildly spicy stewed chicken with rice"
+            },
+            {
+              "store": "Salad Diary",
+              "product": "Chicken breast light salad"
+            },
+            {
+              "store": "Yunnan Crossing-the-Bridge Rice Noodles",
+              "product": "Clear soup rice noodles"
+            }
+          ],
+          "search history": [
+            "Light meals",
+            "Rice noodles",
+            "Non-spicy",
+            "Healthy meal",
+            "Braised chicken"
+          ]
+        },
+        "weekend lunch/dinner": {
+          "frequently purchased categories": [
+            "Chinese main course/Northeastern Chinese Cuisine (average 60 yuan)",
+            "Chinese main course/Hunan cuisine (average 55 yuan)",
+            "Foreign cuisine/Japanese Food bento/Sushi (average 75 yuan)"
+          ],
+          "cost per order": "50~120 yuan",
+          "preferred store rating": "4.5~5.0 points",
+          "preferred delivery time": "30~45 minutes",
+          "preferred distance": "0~3500m",
+          "recent orders": [
+            {
+              "store": "Old Northeastern Restaurant",
+              "product": "Guobaorou (Sweet and Sour Pork) + Sauerkraut Vermicelli Stew + Rice"
+            },
+            {
+              "store": "Hunan Style Restaurant",
+              "product": "Steamed fish + Stir-fried pork + Rice"
+            },
+            {
+              "store": "Sushi Story",
+              "product": "Salmon Sushi Set"
+            }
+          ],
+          "search history": [
+            "Northeastern Chinese Cuisine",
+            "Non-spicy Hunan cuisine",
+            "Home-style Dishes",
+            "Japanese Food",
+            "Sushi"
+          ]
+        },
+        "desserts/drinks/snacks": {
+          "frequently purchased categories": [
+            "desserts/drinks/snacks/bubble tea (average 18 yuan)",
+            "desserts/drinks/snacks/western pastries (average 26 yuan)",
+            "desserts/drinks/snacks/fruit salad (average 22 yuan)"
+          ],
+          "cost per order": "15~35 yuan",
+          "preferred store rating": "4.5~4.9 points",
+          "preferred delivery time": "15~30 minutes",
+          "preferred distance": "0~2000m",
+          "recent orders": [
+            {
+              "store": "Mixue Ice Cream",
+              "product": "Cheese foam tea"
+            },
+            {
+              "store": "Fresh fruit salad",
+              "product": "Mango pomelo sago"
+            },
+            {
+              "store": "Bread Talk",
+              "product": "Tiramisu"
+            }
+          ],
+          "search history": [
+            "Bubble tea without sugar",
+            "Fruit salad",
+            "Lightly sweetened pastries",
+            "Tiramisu"
+          ]
+        },
+        "night snack": {
+          "frequently purchased categories": [
+            "Light meals/dumplings/wonton (average 28 yuan)",
+            "Light meals/clay pot soup (average 25 yuan)",
+            "Hot pot/clay pot porridge (average 32 yuan)"
+          ],
+          "cost per order": "20~40 yuan",
+          "preferred store rating": "4.2~4.8 points",
+          "preferred delivery time": "20~40 minutes",
+          "preferred distance": "0~2500m",
+          "recent orders": [
+            {
+              "store": "Dumpling restaurant",
+              "product": "Three-delicacy dumplings"
+            },
+            {
+              "store": "Old Neighbor's Clay Pot Soup",
+              "product": "Clear chicken soup"
+            },
+            {
+              "store": "Clay pot porridge shop",
+              "product": "Century egg and lean pork porridge"
+            }
+          ],
+          "search history": [
+            "Stomach-warming",
+            "Non-spicy late-night snacks",
+            "Porridge",
+            "Dumplings",
+            "Stomach-soothing soup"
+          ]
+        }
+      },
+      "product delivery": {
+        "frequently purchased categories": [
+          "Vegetables/bean products (32%)",
+          "Raw meat/raw poultry/raw eggs (18%)",
+          "Grains, oils, seasonings, dry goods (15%)",
+          "Home daily necessities (12%)",
+          "Dairy products/Ice cream (10%)",
+          "Others (13%)"
+        ],
+        "frequently visited stores": [
+          "Harbin Wanxiang Life Supermarket (Nangang Branch) (45%)",
+          "Missfresh (Longyun Community Store) (30%)",
+          "Hualian Supermarket (Dacheng Street) (15%)",
+          "Other stores (10%)"
+        ],
+        "cost per order by category": {
+          "Vegetables/bean products": "5~20 yuan",
+          "Raw meat/raw poultry/raw eggs": "20~60 yuan",
+          "Grains, oils, seasonings, dry goods": "10~35 yuan",
+          "Home daily necessities": "15~50 yuan",
+          "Dairy products/Ice cream": "10~30 yuan"
+        },
+        "preferred delivery time": "30~60 minutes",
+        "typical order time": "9~11 AM (38%), 4~6 PM (35%), 7~9 PM (15%)",
+        "recent orders": [
+          {
+            "store": "Harbin Wanxiang Life Supermarket (Nangang Branch)",
+            "product": "One bundle of vegetables, two boxes of tofu, one box of eggs"
+          },
+          {
+            "store": "Missfresh (Longyun Community Store)",
+            "product": "Low-sodium soy sauce, 300g pork tenderloin"
+          },
+          {
+            "store": "Hualian Supermarket (Dacheng Street)",
+            "product": "Senior-specific toothpaste, tissues, low-sugar milk"
+          }
+        ],
+        "search history": [
+          "Low-sodium soy sauce",
+          "Senior toothpaste",
+          "Fresh vegetables",
+          "Tofu",
+          "Low-sugar food"
+        ]
+      }
+    },
+    "in-store consumption": {
+      "in-store dining": {
+        "fine-dining": {
+          "frequently consumed categories": [
+            "Foreign cuisine/Japanese Cuisine (average 135 yuan)",
+            "Regional cuisine/Northeastern Chinese Cuisine (average 95 yuan)",
+            "Hot Pot (average 120 yuan)"
+          ],
+          "preferred average price per person": "95~135 yuan",
+          "preferred store rating": "4.2~4.8 stars",
+          "typical dining time": "18:00-20:30",
+          "preferred distance": "0~2000m",
+          "recent orders": [
+            {
+              "store": "Xinhaihui Japanese Restaurant",
+              "product": "Salmon Sashimi Set"
+            },
+            {
+              "store": "Old Northeastern Dumpling Restaurant",
+              "product": "Pork and cabbage dumplings"
+            },
+            {
+              "store": "Banu Tripe Hot Pot",
+              "product": "Stomach-friendly mushroom pot"
+            }
+          ],
+          "search history": [
+            "Japanese Food",
+            "Non-spicy Hot Pot",
+            "Northeastern Chinese Cuisine",
+            "Stomach-friendly restaurant"
+          ]
+        },
+        "light meal": {
+          "frequently consumed categories": [
+            "Snacks & fast food/Chinese light meals (average 30 yuan)",
+            "Regional cuisine/Northeastern Chinese Cuisine (average 45 yuan)",
+            "Snacks & fast food/Western fast food (average 35 yuan)"
+          ],
+          "preferred average price per person": "25~45 yuan",
+          "preferred store rating": "3.5~4.3 stars",
+          "typical dining time": "11:30-13:00",
+          "preferred distance": "0~600m",
+          "recent orders": [
+            {
+              "store": "HIT Cafeteria",
+              "product": "Tomato and egg over rice"
+            },
+            {
+              "store": "Shaxian Snacks",
+              "product": "Three-delicacy noodle soup"
+            },
+            {
+              "store": "KFC",
+              "product": "Original chicken wrap"
+            }
+          ],
+          "search history": [
+            "Fast food near school",
+            "Non-spicy noodles",
+            "Warm food"
+          ]
+        },
+        "desserts/drinks/snacks": {
+          "frequently consumed categories": [
+            "Beverage shop (average 18 yuan)",
+            "Bread and pastries (average 25 yuan)"
+          ],
+          "preferred average price per person": "15~30 yuan",
+          "preferred store rating": "3.9~4.5 stars",
+          "typical dining time": "15:00-17:00",
+          "preferred distance": "0~500m",
+          "recent orders": [
+            {
+              "store": "The Alley",
+              "product": "Hot red bean milk tea"
+            },
+            {
+              "store": "Bread Talk",
+              "product": "Pork floss bread"
+            },
+            {
+              "store": "CoCo Fresh Tea",
+              "product": "Hot red bean pearl milk tea"
+            }
+          ],
+          "search history": [
+            "Hot Beverage",
+            "Bread",
+            "Stomach-warming dessert"
+          ]
+        }
+      },
+      "other in-store services": {
+        "frequently consumed categories": {
+          "Beauty/Hair styling": "20%",
+          "Sports fitness/ball sports": "35%",
+          "Leisure entertainment/DIY workshop": "25%",
+          "Parent-child/Family entertainment": "20%"
+        },
+        "cost per order by category": {
+          "Beauty/Hair styling": "80~150 yuan",
+          "Sports fitness/ball sports": "40~80 yuan",
+          "Leisure entertainment/DIY workshop": "60~120 yuan",
+          "Parent-child/Family entertainment": "100~180 yuan"
+        },
+        "preferred store rating": "4.0~4.7 stars",
+        "preferred service time": "14:00-18:00",
+        "preferred distance": "0~3000m",
+        "recent orders": [
+          {
+            "store": "HIT Gymnasium",
+            "product": "Badminton court 2 hours"
+          },
+          {
+            "store": "Skillful Hands DIY Workshop",
+            "product": "Handmade pottery experience"
+          },
+          {
+            "store": "Hairstylist Aming Studio",
+            "product": "Ladies haircut + treatment package"
+          }
+        ],
+        "search history": [
+          "Badminton hall",
+          "Student DIY activity",
+          "Family entertainment",
+          "Nearby barbershop"
+        ]
+      }
+    },
+    "OTA": {
+      "visited scenes": {
+        "Cultural heritage sites": "25%",
+        "Exhibition hall (museum/art gallery)": "30%",
+        "Natural landscape (mountains/lakes/forests)": "15%",
+        "Park": "20%",
+        "Ski resort": "10%"
+      },
+      "cost per night on hotel": "300~500 yuan",
+      "visited hotels": {
+        "Home Inn": "35%",
+        "Hanting Hotel": "25%",
+        "7 days": "15%",
+        "Ji Hotel": "15%",
+        "Atour": "10%"
+      },
+      "browsed hotels": {
+        "Three-star hotel": "40%",
+        "Budget hotel": "45%",
+        "Comfort hotel": "15%"
+      },
+      "historical travel plans": {
+        "Harbin-Beijing": {
+          "Price range": "800-1200 yuan",
+          "Transportation method": "High-speed train"
+        },
+        "Harbin-Shanghai": {
+          "Price range": "1200-2000 yuan",
+          "Transportation method": "Airplane"
+        },
+        "Harbin-Dalian": {
+          "Price range": "400-600 yuan",
+          "Transportation method": "High-speed train"
+        },
+        "Harbin-Changchun": {
+          "Price range": "100-200 yuan",
+          "Transportation method": "High-speed train"
+        },
+        "Harbin-Shenyang": {
+          "Price range": "200-300 yuan",
+          "Transportation method": "High-speed train"
+        },
+        "Beijing-Harbin": {
+          "Price range": "800-1200 yuan",
+          "Transportation method": "High-speed train"
+        },
+        "Shanghai-Harbin": {
+          "Price range": "1200-2000 yuan",
+          "Transportation method": "Airplane"
+        }
+      }
+    }
+  },
+  "stores": {
+    "S17550802145725256_S00001": {
+      "name": "Yamato Japanese Restaurant",
+      "store_id": "S17550802145725256_S00001",
+      "score": 4.7,
+      "location": {
+        "address": "Yamato Japanese Restaurant, 89 Xuefu Road, Nangang District, Harbin",
+        "latitude": 45.831236,
+        "longitude": 126.633254
+      },
+      "tags": [
+        "Japanese Cuisine",
+        "Bento Box",
+        "Set Meal (Japanese style)",
+        "Japanese Food"
+      ],
+      "store_type": "target",
+      "products": [
+        {
+          "name": "Teriyaki Chicken Rice",
+          "store_id": "S17550802145725256_S00001",
+          "store_name": "Yamato Japanese Restaurant",
+          "price": 38,
+          "tags": [
+            "Japanese Cuisine",
+            "Teriyaki Chicken",
+            "Rice",
+            "Hot Food",
+            "Single Portion",
+            "Cooked Food"
+          ],
+          "product_id": "S17550802145725256_P00001",
+          "attributes": [
+            "Standard Spiciness",
+            "Non-spicy"
+          ],
+          "product_type": "target"
+        },
+        {
+          "name": "Salmon Sashimi Platter",
+          "store_id": "S17550802145725256_S00001",
+          "store_name": "Yamato Japanese Restaurant",
+          "price": 58,
+          "tags": [
+            "Japanese Cuisine",
+            "Salmon",
+            "Sashimi",
+            "Raw Food",
+            "Cold Dishes",
+            "Single Portion"
+          ],
+          "product_id": "S17550802145725256_P00003",
+          "attributes": [],
+          "product_type": "distraction"
+        },
+        {
+          "name": "Sushi Platter",
+          "store_id": "S17550802145725256_S00001",
+          "store_name": "Yamato Japanese Restaurant",
+          "price": 49,
+          "tags": [
+            "Japanese Cuisine",
+            "Sushi",
+            "Raw Food",
+            "Cold Dishes",
+            "Single Portion"
+          ],
+          "product_id": "S17550802145725256_P00005",
+          "attributes": [
+            "Contains Salmon",
+            "Contains Tuna",
+            "Contains Shrimp"
+          ],
+          "product_type": "distraction"
+        }
+      ]
+    },
+    "S17550802145725256_S00002": {
+      "name": "Sakura Japanese Restaurant",
+      "store_id": "S17550802145725256_S00002",
+      "score": 4.5,
+      "location": {
+        "address": "Sakura Japanese Restaurant, 120 Xuefu Road, Nangang District, Harbin",
+        "latitude": 45.744521,
+        "longitude": 126.637812
+      },
+      "tags": [
+        "Japanese Cuisine",
+        "Sushi",
+        "Sashimi",
+        "Japanese Food"
+      ],
+      "store_type": "distraction",
+      "products": [
+        {
+          "name": "Salmon Sashimi Platter",
+          "store_id": "S17550802145725256_S00002",
+          "store_name": "Sakura Japanese Restaurant",
+          "price": 68,
+          "tags": [
+            "Japanese Cuisine",
+            "Sashimi",
+            "Salmon",
+            "Raw Food",
+            "Single Portion"
+          ],
+          "product_id": "S17550802145725256_P00007",
+          "attributes": [],
+          "product_type": "distraction"
+        },
+        {
+          "name": "Sushi and Sashimi Platter",
+          "store_id": "S17550802145725256_S00002",
+          "store_name": "Sakura Japanese Restaurant",
+          "price": 78,
+          "tags": [
+            "Japanese Cuisine",
+            "Sushi",
+            "Raw Food",
+            "Single Portion"
+          ],
+          "product_id": "S17550802145725256_P00009",
+          "attributes": [],
+          "product_type": "distraction"
+        }
+      ]
+    },
+    "S17550802145725256_S00003": {
+      "name": "Japanese Style Set Meal Restaurant",
+      "store_id": "S17550802145725256_S00003",
+      "score": 4.6,
+      "location": {
+        "address": "Japanese Style Set Meal Restaurant, 66 Xuefu Road, Nangang District, Harbin",
+        "latitude": 45.742853,
+        "longitude": 126.632145
+      },
+      "tags": [
+        "Japanese Cuisine",
+        "Set Meal (Japanese style)",
+        "Japanese Curry",
+        "Japanese Food"
+      ],
+      "store_type": "target",
+      "products": [
+        {
+          "name": "Sushi Platter",
+          "store_id": "S17550802145725256_S00003",
+          "store_name": "Japanese Style Set Meal Restaurant",
+          "price": 48,
+          "tags": [
+            "Japanese Cuisine",
+            "No Raw Food",
+            "Rice Included"
+          ],
+          "product_id": "S17550802145725256_P00013",
+          "attributes": [],
+          "product_type": "distraction"
+        }
+      ]
+    },
+    "S17550802145725256_S00004": {
+      "name": "Tokyo Cafeteria",
+      "store_id": "S17550802145725256_S00004",
+      "score": 4.3,
+      "location": {
+        "address": "Tokyo Cafeteria, 102 Xuefu Road, Nangang District, Harbin",
+        "latitude": 45.733562,
+        "longitude": 126.636254
+      },
+      "tags": [
+        "Japanese Cuisine",
+        "Ramen",
+        "Rice Bowl",
+        "Japanese Food"
+      ],
+      "store_type": "target",
+      "products": [
+        {
+          "name": "Salmon Sashimi Rice Bowl",
+          "store_id": "S17550802145725256_S00004",
+          "store_name": "Tokyo Cafeteria",
+          "price": 48,
+          "tags": [
+            "Japanese Cuisine",
+            "Raw Food",
+            "Salmon",
+            "Single Portion",
+            "Rice"
+          ],
+          "product_id": "S17550802145725256_P00018",
+          "attributes": [],
+          "product_type": "distraction"
+        },
+        {
+          "name": "Tonkotsu Ramen",
+          "store_id": "S17550802145725256_S00004",
+          "store_name": "Tokyo Cafeteria",
+          "price": 36,
+          "tags": [
+            "Japanese Cuisine",
+            "Cooked Food",
+            "Ramen",
+            "Single Portion",
+            "Pork"
+          ],
+          "product_id": "S17550802145725256_P00019",
+          "attributes": [
+            "Standard Saltiness"
+          ],
+          "product_type": "distraction"
+        }
+      ]
+    },
+    "S17550802145725256_S00005": {
+      "name": "Sichuan Flavor Restaurant",
+      "store_id": "S17550802145725256_S00005",
+      "score": 4.8,
+      "location": {
+        "address": "Sichuan Flavor Restaurant, 85 Xuefu Road, Nangang District, Harbin",
+        "latitude": 45.742651,
+        "longitude": 126.634782
+      },
+      "tags": [
+        "Sichuan Cuisine",
+        "Mala Tang (Spicy Hot Pot)",
+        "Hot Pot",
+        "Rice"
+      ],
+      "store_type": "distraction",
+      "products": [
+        {
+          "name": "Spicy Boiled Fish with Rice Set",
+          "store_id": "S17550802145725256_S00005",
+          "store_name": "Sichuan Flavor Restaurant",
+          "price": 48.8,
+          "tags": [
+            "Sichuan Cuisine",
+            "Set Meal",
+            "Rice",
+            "Boiled Fish in Spicy Broth",
+            "Main Course/Staple Food"
+          ],
+          "product_id": "S17550802145725256_P00021",
+          "attributes": [
+            "Mild Spicy",
+            "Medium Spicy",
+            "Extra Spicy",
+            "No Cilantro",
+            "No Green Onions"
+          ],
+          "product_type": "distraction"
+        },
+        {
+          "name": "Home-style Tofu Rice Bowl",
+          "store_id": "S17550802145725256_S00005",
+          "store_name": "Sichuan Flavor Restaurant",
+          "price": 28.8,
+          "tags": [
+            "Sichuan Cuisine",
+            "Tofu",
+            "Rice",
+            "Rice Bowl",
+            "Home-style Dishes"
+          ],
+          "product_id": "S17550802145725256_P00022",
+          "attributes": [
+            "Mild Spicy",
+            "Non-spicy",
+            "No Cilantro",
+            "No Green Onions"
+          ],
+          "product_type": "distraction"
+        },
+        {
+          "name": "Mapo Tofu with Rice",
+          "store_id": "S17550802145725256_S00005",
+          "store_name": "Sichuan Flavor Restaurant",
+          "price": 26.8,
+          "tags": [
+            "Sichuan Cuisine",
+            "Tofu",
+            "Rice",
+            "Classic",
+            "Single Portion"
+          ],
+          "product_id": "S17550802145725256_P00023",
+          "attributes": [
+            "Mild Spicy",
+            "Medium Spicy",
+            "Extra Spicy"
+          ],
+          "product_type": "distraction"
+        },
+        {
+          "name": "Kung Pao Chicken with Rice",
+          "store_id": "S17550802145725256_S00005",
+          "store_name": "Sichuan Flavor Restaurant",
+          "price": 29.9,
+          "tags": [
+            "Sichuan Cuisine",
+            "Chicken",
+            "Rice",
+            "Classic",
+            "Single Portion"
+          ],
+          "product_id": "S17550802145725256_P00024",
+          "attributes": [
+            "Mild Spicy",
+            "Medium Spicy",
+            "No Peanuts",
+            "No Green Onions"
+          ],
+          "product_type": "distraction"
+        },
+        {
+          "name": "Sour Cabbage Fish with Rice Set",
+          "store_id": "S17550802145725256_S00005",
+          "store_name": "Sichuan Flavor Restaurant",
+          "price": 38.8,
+          "tags": [
+            "Sichuan Cuisine",
+            "Sour Cabbage Fish",
+            "Rice",
+            "Set Meal",
+            "Single Portion"
+          ],
+          "product_id": "S17550802145725256_P00025",
+          "attributes": [
+            "Mild Spicy",
+            "Non-spicy",
+            "No Cilantro",
+            "No Green Onions"
+          ],
+          "product_type": "distraction"
+        }
+      ]
+    }
+  },
+  "orders": {}
+}

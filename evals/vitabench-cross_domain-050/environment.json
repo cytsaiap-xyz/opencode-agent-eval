@@ -1,0 +1,350 @@
+{
+  "task_id": "A0808003",
+  "domain": "cross_domain",
+  "time": "2024-07-26 15:47:02",
+  "user_id": "U084589",
+  "weather": [
+    {
+      "city": "Chengdu",
+      "category": "cloudy",
+      "datetime": "2024-08-03",
+      "temperature": [
+        26,
+        34
+      ],
+      "humidity": 65
+    },
+    {
+      "city": "Dujiangyan",
+      "category": "sunny",
+      "datetime": "2024-08-03",
+      "temperature": [
+        24,
+        32
+      ],
+      "humidity": 60
+    },
+    {
+      "city": "Dujiangyan",
+      "category": "cloudy",
+      "datetime": "2024-08-04",
+      "temperature": [
+        25,
+        33
+      ],
+      "humidity": 62
+    }
+  ],
+  "location": [
+    {
+      "address": "Dujiangyan Station, Dujiangyan City, Chengdu, Sichuan Province",
+      "latitude": 31.0027,
+      "longitude": 103.6473
+    }
+  ],
+  "user_profile": {
+    "user id": "U084589",
+    "occupation": "Nurse",
+    "gender": "male",
+    "age group": "25~30",
+    "residence": "Chengdu",
+    "home address": "Room 502, Unit 2, Building 3, Jinjiang Yijia Community, 42 Wangjiang Road, Wuhou District, Chengdu, Sichuan Province",
+    "work address": "Sichuan Provincial People's Hospital, 17 South People's Road Section 3, Wuhou District, Chengdu, Sichuan Province",
+    "dietary restrictions": "No fish mint, no organ meats",
+    "family status": "In a relationship",
+    "personality": "Strong logical thinking, enjoys analysis and questioning, pursues accuracy"
+  },
+  "user_historical_behaviors": {
+    "user id": "U084589",
+    "occupation": "nurse",
+    "gender": "male",
+    "age group": "25~30",
+    "residence": "Chengdu",
+    "home address": "Room 502, Unit 2, Building 3, Jinjiang Yijia Community, 42 Wangjiang Road, Wuhou District, Chengdu, Sichuan Province",
+    "work address": "Sichuan Provincial People's Hospital, 17 South People's Road Section 3, Wuhou District, Chengdu, Sichuan Province",
+    "in-store consumption": {
+      "in-store dining": {
+        "fine-dining": {
+          "frequently purchased categories": [
+            "Regional Cuisine/Sichuan Cuisine (Average 120 yuan)",
+            "Foreign Cuisine/Japanese Food (Average 150 yuan)",
+            "Regional Cuisine/Fish Dishes (Average 130 yuan)"
+          ],
+          "preferred average price per person": "100~150 yuan",
+          "preferred store rating": "4.2~4.8 stars",
+          "typical dining time": "19:00-21:00",
+          "preferred distance": "0～3000m",
+          "recent orders": [
+            {
+              "store": "Jincheng Impression Sichuan Restaurant",
+              "product": "Boiled Fish Set Meal"
+            },
+            {
+              "store": "Huayin Japanese Restaurant",
+              "product": "Sashimi Platter + Sushi Set"
+            },
+            {
+              "store": "Fish Paradise Bay",
+              "product": "Steamed Bass + Seasonal Vegetables"
+            }
+          ],
+          "search history": [
+            "Sichuan Cuisine",
+            "Japanese Food",
+            "Healthy Fish Meals",
+            "Couple Dating Restaurants"
+          ]
+        },
+        "light meal": {
+          "frequently purchased categories": [
+            "Fast Food/Chinese Simple Meals (Average 35 yuan)",
+            "Fast Food/Western Fast Food (Average 40 yuan)",
+            "Regional Cuisine/Jiangzhe Cuisine (Average 45 yuan)"
+          ],
+          "preferred average price per person": "25~50 yuan",
+          "preferred store rating": "3.5~4.2 stars",
+          "typical dining time": "11:30-13:00",
+          "preferred distance": "0~500m",
+          "recent orders": [
+            {
+              "store": "Hospital Cafeteria",
+              "product": "Stir-fried Seasonal Vegetables Set"
+            },
+            {
+              "store": "Salad Diary",
+              "product": "Chicken Breast Vegetable Salad"
+            },
+            {
+              "store": "Yipinxuan",
+              "product": "Steamed Fresh Fish + Seasonal Vegetables"
+            }
+          ],
+          "search history": [
+            "Healthy Meals Near Hospital",
+            "Low-fat Meals",
+            "Quick Simple Meals",
+            "Vegetable Set Meals"
+          ]
+        },
+        "desserts/drinks/snacks": {
+          "frequently purchased categories": [
+            "Beverage Shops (Average 18 yuan)",
+            "Bread and Desserts (Average 25 yuan)",
+            "Other Dining/Fresh Fruits (Average 15 yuan)"
+          ],
+          "preferred average price per person": "15~30 yuan",
+          "preferred store rating": "3.8~4.5 stars",
+          "typical dining time": "15:00-16:30",
+          "preferred distance": "0~300m",
+          "recent orders": [
+            {
+              "store": "Fresh Fruit Workshop",
+              "product": "Fruit Platter"
+            },
+            {
+              "store": "Nayuki Tea",
+              "product": "Sugar-free Jasmine Tea"
+            },
+            {
+              "store": "Bread Talk",
+              "product": "Whole Wheat Bread"
+            }
+          ],
+          "search history": [
+            "Low-sugar Beverages",
+            "Healthy Desserts",
+            "Fruits",
+            "Sugar-free Milk Tea"
+          ]
+        }
+      },
+      "other in-store services": {
+        "frequently consumed categories": {
+          "Sports & Fitness/Fitness Centers": "40%",
+          "Sports & Fitness/Ball Sports": "30%",
+          "Leisure & Entertainment/Massage/Foot Therapy": "20%",
+          "Beauty Services/Yoga": "10%"
+        },
+        "cost per order by category": {
+          "Sports & Fitness/Fitness Centers": "80~200 yuan",
+          "Sports & Fitness/Ball Sports": "50~120 yuan",
+          "Leisure & Entertainment/Massage/Foot Therapy": "120~200 yuan",
+          "Beauty Services/Yoga": "100~180 yuan"
+        },
+        "preferred store rating": "4.0~4.7 stars",
+        "preferred service time": "18:00-21:00",
+        "preferred distance": "0~2000m",
+        "recent orders": [
+          {
+            "store": "Will's Gym (Wangjiang Road Branch)",
+            "product": "Single Fitness Session"
+          },
+          {
+            "store": "Chengdu Sports Center",
+            "product": "Badminton Court Reservation"
+          },
+          {
+            "store": "Jingxin Foot Therapy",
+            "product": "Foot Massage Fatigue Relief Package"
+          }
+        ],
+        "search history": [
+          "Gym Monthly Pass",
+          "Badminton Courts",
+          "Foot Massage Therapy",
+          "Yoga Classes",
+          "Fitness Discounts for Medical Staff"
+        ]
+      }
+    },
+    "OTA": {
+      "visited scenes": {
+        "Cultural Heritage Sites": "25%",
+        "Exhibition Halls (Museums/Art Galleries)": "20%",
+        "Natural Landscapes (Mountains/Lakes/Forests)": "30%",
+        "Hot Spring Scenic Areas": "15%",
+        "Parks": "10%"
+      },
+      "cost per night on hotel": "300~500 yuan",
+      "visited hotels": {
+        "Home Inn": "35%",
+        "Hanting Hotel": "25%",
+        "Ji Hotel": "20%",
+        "Atour Hotel": "15%",
+        "Vienna Hotel": "5%"
+      },
+      "browsed hotels": {
+        "Three-star Hotels": "40%",
+        "Comfort Hotels": "45%",
+        "Budget Hotels": "15%"
+      },
+      "historical travel plans": {
+        "Chengdu-Chongqing": {
+          "Price Range": "150-300 yuan",
+          "Transportation Mode": "High-speed Rail/EMU"
+        },
+        "Chengdu-Xi'an": {
+          "Price Range": "300-500 yuan",
+          "Transportation Mode": "High-speed Rail/EMU"
+        },
+        "Chengdu-Kunming": {
+          "Price Range": "400-700 yuan",
+          "Transportation Mode": "High-speed Rail/EMU"
+        },
+        "Chengdu-Beijing": {
+          "Price Range": "800-1500 yuan",
+          "Transportation Mode": "Aircraft"
+        },
+        "Chengdu-Jiuzhaigou": {
+          "Price Range": "400-600 yuan",
+          "Transportation Mode": "Long-distance Bus"
+        },
+        "Chengdu-Mount Emei": {
+          "Price Range": "150-250 yuan",
+          "Transportation Mode": "Self-driving"
+        }
+      }
+    }
+  },
+  "stores": {},
+  "orders": {
+    "S17550812145855949_O00001": {
+      "order_id": "S17550812145855949_O00001",
+      "order_type": "train",
+      "user_id": "U084589",
+      "store_id": "S17550812145855949_T00007",
+      "note": "From Chengdu Xipu Station to Dujiangyan Station, 4 people traveling together",
+      "location": {
+        "address": "Xipu Station, West Station Street, Jinniu District, Chengdu, Sichuan Province",
+        "longitude": 103.9641,
+        "latitude": 30.7524
+      },
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 72.0,
+      "create_time": "2024-07-25 16:32:41",
+      "update_time": "2024-07-25 16:32:41",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17550812145855949_P00048",
+          "price": 18.0,
+          "quantity": 4,
+          "seat_type": "Second Class Seat"
+        }
+      ]
+    },
+    "S17550812145855949_O00002": {
+      "order_id": "S17550812145855949_O00002",
+      "order_type": "train",
+      "user_id": "U084589",
+      "store_id": "S17550812145855949_T00010",
+      "note": "From Dujiangyan Station to Chengdu Xipu Station, 4 people traveling together",
+      "location": {
+        "address": "Dujiangyan Station, Dujiangyan City, Chengdu, Sichuan Province",
+        "longitude": 103.6473,
+        "latitude": 31.0027
+      },
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 76.0,
+      "create_time": "2024-07-25 16:35:12",
+      "update_time": "2024-07-25 16:35:12",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17550812145855949_P00071",
+          "price": 19.0,
+          "quantity": 4,
+          "seat_type": "Second Class Seat"
+        }
+      ]
+    },
+    "S17550812145855949_O00003": {
+      "order_id": "S17550812145855949_O00003",
+      "order_type": "hotel",
+      "user_id": "U084589",
+      "store_id": "S17550812145855949_H00001",
+      "note": "Six people check-in, Murder Mystery Game package",
+      "location": {
+        "address": "Qingcheng Mountain Yuexin Pavilion Resort Hotel, Qingcheng Outer Mountain Scenic Area, Qingcheng Mountain Town, Dujiangyan City, Chengdu, Sichuan Province",
+        "longitude": 103.5754,
+        "latitude": 30.9121
+      },
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 2988.0,
+      "create_time": "2024-07-25 16:40:23",
+      "update_time": "2024-07-25 16:40:23",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17550812145855949_P00001",
+          "price": 498.0,
+          "quantity": 6,
+          "date": "2024-08-03",
+          "room_type": "Qingcheng Mountain Yuexin Pavilion Murder Mystery Theme Room"
+        }
+      ]
+    },
+    "S17550812145855949_O00004": {
+      "order_id": "S17550812145855949_O00004",
+      "order_type": "instore",
+      "user_id": "U084589",
+      "store_id": "S17550812145855949_I00015",
+      "total_price": 488.0,
+      "create_time": "2024-07-25 16:48:37",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17550812145855949_P00100",
+          "price": 488.0,
+          "quantity": 1
+        }
+      ]
+    }
+  }
+}

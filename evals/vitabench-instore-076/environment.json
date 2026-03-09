@@ -1,0 +1,227 @@
+{
+  "task_id": "10826247",
+  "domain": "instore",
+  "time": "2023-07-07 09:15:00",
+  "user_id": "U012408",
+  "weather": [
+    {
+      "city": "Zhuhai City",
+      "category": "cloudy",
+      "datetime": "2023-07-07",
+      "temperature": [
+        26,
+        32
+      ],
+      "humidity": 65
+    },
+    {
+      "city": "Zhuhai City",
+      "category": "sunny",
+      "datetime": "2023-07-08",
+      "temperature": [
+        27,
+        33
+      ],
+      "humidity": 60
+    }
+  ],
+  "location": [
+    {
+      "address": "Room 1203, Building B, Haicheng Garden, 2023 Jiuzhou Avenue Central, Xiangzhou District, Zhuhai",
+      "longitude": 113.5268,
+      "latitude": 22.2731
+    },
+    {
+      "address": "Room 1503, 15/F, Tower T3, Poly International Plaza, 2021 Jiuzhou Avenue West, Xiangzhou District, Zhuhai",
+      "longitude": 113.5224,
+      "latitude": 22.2735
+    },
+    {
+      "address": "High-Speed Railway Station",
+      "longitude": 113.5492,
+      "latitude": 22.2255
+    }
+  ],
+  "user_profile": {
+    "user id": "U012408",
+    "occupation": "Sales",
+    "gender": "female",
+    "age group": "25~30",
+    "residence": "Zhuhai",
+    "home address": "Room 1203, Building B, Haicheng Garden, 2023 Jiuzhou Avenue Central, Xiangzhou District, Zhuhai",
+    "work address": "Room 1503, 15/F, Tower T3, Poly International Plaza, 2021 Jiuzhou Avenue West, Xiangzhou District, Zhuhai",
+    "dietary restrictions": "No high sugar, No deep-fried food",
+    "family status": "Has children",
+    "personality": "Emotionally volatile, expresses with strong emotional coloring"
+  },
+  "user_historical_behaviors": {
+    "user id": "U012408",
+    "occupation": "Sales",
+    "gender": "female",
+    "age group": "25~30",
+    "residence": "Zhuhai",
+    "home address": "Room 1203, Building B, Haicheng Garden, 2023 Jiuzhou Avenue Central, Xiangzhou District, Zhuhai",
+    "work address": "Room 1503, 15/F, Tower T3, Poly International Plaza, 2021 Jiuzhou Avenue West, Xiangzhou District, Zhuhai",
+    "in-store dining": {
+      "fine-dining": {
+        "frequently purchased categories": [
+          "Regional Cuisine/Cantonese Cuisine (Average 120 Yuan)",
+          "International Cuisine/Japanese Food (Average 150 Yuan)",
+          "Regional Cuisine/Fish Cuisine (Average 130 Yuan)"
+        ],
+        "preferred average price per person": "110~160 Yuan",
+        "preferred store rating": "4.2~4.9 stars",
+        "typical dining time": "18:30-20:30",
+        "preferred distance": "500~3000m",
+        "recent orders": [
+          {
+            "store": "Din Tai Fung (Gongbei Port Store)",
+            "product": "Signature Xiaolongbao + Black Truffle Xiaolongbao + Crab Roe Tofu"
+          },
+          {
+            "store": "Fishing Port Fresh (Zhuhai Huafa Mall Store)",
+            "product": "Steamed Turbot + Seafood Platter"
+          },
+          {
+            "store": "Sushiro (Zhuhai Huafa Mall Store)",
+            "product": "Premium Salmon Sushi + Surf Clam Sushi + Sea Urchin Sashimi"
+          }
+        ],
+        "search history": [
+          "High-end Cantonese Cuisine",
+          "Japanese Cuisine",
+          "No Deep Frying",
+          "Low-sugar Restaurants",
+          "Family-friendly Restaurants"
+        ]
+      },
+      "light meal": {
+        "frequently purchased categories": [
+          "Snacks & Fast Food/Chinese Quick Meals (Average 35 Yuan)",
+          "Snacks & Fast Food/Western Fast Food (Average 40 Yuan)",
+          "Regional Cuisine/Local Jiangzhe Cuisine (Average 45 Yuan)"
+        ],
+        "preferred average price per person": "30~50 Yuan",
+        "preferred store rating": "3.5~4.2 stars",
+        "typical dining time": "12:00-13:30",
+        "preferred distance": "0~500m",
+        "recent orders": [
+          {
+            "store": "Yonghe King (Jiuzhou Avenue Store)",
+            "product": "Chicken Sandwich Set + Soy Milk"
+          },
+          {
+            "store": "Real Kung Fu (Poly International Plaza Store)",
+            "product": "Steamed Chicken Leg Rice + Seasonal Vegetables"
+          },
+          {
+            "store": "Sha County Snacks (Xiangzhou District Store)",
+            "product": "Steamed Dumplings + Seaweed Soup"
+          }
+        ],
+        "search history": [
+          "Healthy Quick Meals",
+          "Work Lunch",
+          "Low Calorie",
+          "Fast Food",
+          "Less Greasy"
+        ]
+      },
+      "desserts/drinks/snacks": {
+        "frequently purchased categories": [
+          "Beverage Shops (Average 18 Yuan)",
+          "Bread & Desserts (Average 25 Yuan)",
+          "Other Dining/Fresh Fruits (Average 15 Yuan)"
+        ],
+        "preferred average price per person": "15~30 Yuan",
+        "preferred store rating": "3.8~4.5 stars",
+        "typical dining time": "15:00-16:30",
+        "preferred distance": "0~300m",
+        "recent orders": [
+          {
+            "store": "HEYTEA (Zhuhai Huafa Mall Store)",
+            "product": "Very Grape (Sugar-free)"
+          },
+          {
+            "store": "Nayuki (Jiuzhou Avenue Store)",
+            "product": "Cheese Jasmine Tea (Less Sugar) + Fruit Salad"
+          },
+          {
+            "store": "Xianfeng Fruits (Xiangzhou District Store)",
+            "product": "Fruit Platter"
+          }
+        ],
+        "search history": [
+          "Low-sugar Beverages",
+          "Fresh Fruits",
+          "Healthy Desserts",
+          "Sugar-free Milk Tea"
+        ]
+      }
+    },
+    "other in-store services": {
+      "frequently consumed categories": {
+        "Beauty/Yoga": "30%",
+        "Sports & Fitness/Fitness Centers": "25%",
+        "Parent-child/Family Entertainment": "30%",
+        "Beauty/Hair Salon": "15%"
+      },
+      "cost per order by category": {
+        "Beauty/Yoga": "80~150 Yuan",
+        "Sports & Fitness/Fitness Centers": "60~120 Yuan",
+        "Parent-child/Family Entertainment": "100~200 Yuan",
+        "Beauty/Hair Salon": "150~300 Yuan"
+      },
+      "preferred store rating": "4.0~4.8 stars",
+      "preferred service time": "Weekends 10:00-16:00, Weekdays 18:00-20:00",
+      "preferred distance": "0~2000m",
+      "recent orders": [
+        {
+          "store": "LEKE Fitness (Xiangzhou Store)",
+          "product": "Single Person Fitness Course"
+        },
+        {
+          "store": "Vital Yoga (Jiuzhou Avenue Store)",
+          "product": "Postpartum Recovery Yoga Course"
+        },
+        {
+          "store": "Qile Children's Playground (Huafa Mall Store)",
+          "product": "Parent-Child Play Package"
+        }
+      ],
+      "search history": [
+        "Postpartum Yoga",
+        "Parent-Child Activities",
+        "Children's Entertainment",
+        "Fitness for Weight Loss",
+        "Women's Fitness"
+      ]
+    }
+  },
+  "stores": {},
+  "orders": {
+    "10826247T001": {
+      "order_id": "10826247T001",
+      "order_type": "instore",
+      "user_id": "U012408",
+      "store_id": "S17567842655251946_I00003",
+      "note": "",
+      "location": null,
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 588,
+      "order_time": "2023-07-06 13:15:00",
+      "update_time": "2023-07-06 13:15:00",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17567842655251946_P00021",
+          "name": "4-Person Classic Cantonese Cuisine Set",
+          "price": 588,
+          "quantity": 1
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,255 @@
+{
+  "task_id": "D0804001",
+  "domain": "ota",
+  "time": "2025-04-10 19:23:17",
+  "user_id": "U010001",
+  "weather": [
+    {
+      "city": "Changchun",
+      "category": "sunny",
+      "datetime": "2025-04-10",
+      "temperature": [
+        8,
+        18
+      ],
+      "humidity": 45
+    },
+    {
+      "city": "Guilin",
+      "category": "cloudy",
+      "datetime": "2025-04-10",
+      "temperature": [
+        16,
+        24
+      ],
+      "humidity": 68
+    },
+    {
+      "city": "Yangshuo",
+      "category": "cloudy",
+      "datetime": "2025-04-10",
+      "temperature": [
+        17,
+        25
+      ],
+      "humidity": 72
+    }
+  ],
+  "location": [
+    {
+      "address": "Hanxiang Capital, 26 Pangu Road, Chaoyang District, Changchun, Jilin Province",
+      "longitude": 125.3245,
+      "latitude": 43.8167
+    },
+    {
+      "address": "Eurasia Shopping Mall, 5178 Kaiyun Street, Chaoyang District, Changchun, Jilin Province (210m walk from Exit C of Eurasia Mall Subway Station)",
+      "longitude": 125.2876,
+      "latitude": 43.8234
+    }
+  ],
+  "user_profile": {
+    "user id": "U010001",
+    "occupation": "Sales",
+    "gender": "female",
+    "age group": "25~30",
+    "residence": "Changchun",
+    "home address": "Hanxiang Capital, 26 Pangu Road, Chaoyang District, Changchun, Jilin Province",
+    "work address": "Eurasia Shopping Mall, 5178 Kaiyun Street, Chaoyang District, Changchun, Jilin Province (210m walk from Exit C of Eurasia Mall Subway Station)",
+    "dietary_restrictions": "Avoid heavy oil and spiciness, avoid caffeine",
+    "family_status": "couple",
+    "personality": "Tends to be dominant and controlling, not easily accepting different opinions"
+  },
+  "user_historical_behaviors": {
+    "user id": "U010001",
+    "occupation": "Sales",
+    "gender": "female",
+    "age group": "25~30",
+    "residence": "Changchun",
+    "home address": "Hanxiang Capital, 26 Pangu Road, Chaoyang District, Changchun, Jilin Province",
+    "work address": "Eurasia Shopping Mall, 5178 Kaiyun Street, Chaoyang District, Changchun, Jilin Province (210m walk from Exit C of Eurasia Mall Subway Station)",
+    "visited scenes": {
+      "Exhibition Halls (Museums/Art Galleries)": "35%",
+      "Natural Landscapes (Mountains/Lakes/Forests)": "25%",
+      "Parks": "15%",
+      "Hot Spring Resorts": "20%",
+      "Special Villages/Industrial Tourism/Unclassified Projects": "5%"
+    },
+    "cost per night on hotel": "300~1000 yuan",
+    "visited hotels": {
+      "Vienna": "40%",
+      "Ji Hotel": "30%",
+      "Atour": "15%",
+      "Orange Hotel": "15%"
+    },
+    "browsed hotels": {
+      "Comfort Hotels": "25%",
+      "Three-star Hotels": "30%",
+      "Four-star Hotels": "45%"
+    },
+    "historical travel plans": {
+      "Changchun-Beijing": {
+        "Price Range": "800-1200 yuan",
+        "Transportation Method": "high-speed train"
+      },
+      "Changchun-Shanghai": {
+        "Price Range": "1200-1800 yuan",
+        "Transportation Method": "Airplane"
+      },
+      "Changchun-Harbin": {
+        "Price Range": "150-300 yuan",
+        "Transportation Method": "high-speed train"
+      },
+      "Changchun-Dalian": {
+        "Price Range": "400-600 yuan",
+        "Transportation Method": "high-speed train"
+      },
+      "Changchun-Changbai Mountain": {
+        "Price Range": "300-500 yuan",
+        "Transportation Method": "Long-distance Bus"
+      }
+    }
+  },
+  "stores": {},
+  "orders": {
+    "S17557514720248044_O00001": {
+      "order_id": "S17557514720248044_O00001",
+      "order_type": "hotel",
+      "user_id": "U010001",
+      "store_id": "S17557514720248044_H00001",
+      "note": "Couple traveling, need a twin room",
+      "location": {
+        "address": "Vienna Hotel (Yangshuo West Street), West Street, Yangshuo County, Guilin, Guangxi Zhuang Autonomous Region",
+        "longitude": 110.4923,
+        "latitude": 24.7806
+      },
+      "dispatch_time": "",
+      "shipping_time": 0.0,
+      "delivery_time": "",
+      "total_price": 1404.0,
+      "create_time": "2025-03-15 14:20:00",
+      "update_time": "2025-03-15 14:20:00",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17557514720248044_P00001",
+          "price": 468.0,
+          "quantity": 3,
+          "date": "2025-05-02",
+          "room_type": "deluxe twin room"
+        }
+      ]
+    },
+    "S17557514720248044_O00002": {
+      "order_id": "S17557514720248044_O00002",
+      "order_type": "flight",
+      "user_id": "U010001",
+      "store_id": "S17557514720248044_F00011",
+      "note": "Round-trip flight tickets from Changchun to Guilin",
+      "location": {
+        "address": "Changchun Longjia International Airport, 3088 Yingbin Road, Erdao District, Changchun, Jilin Province",
+        "longitude": 125.6856,
+        "latitude": 43.9966
+      },
+      "dispatch_time": "",
+      "shipping_time": 0.0,
+      "delivery_time": "",
+      "total_price": 2100.0,
+      "create_time": "2025-03-20 16:45:00",
+      "update_time": "2025-03-20 16:45:00",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17557514720248044_P00118",
+          "price": 1050.0,
+          "quantity": 2,
+          "date": "2025-05-08",
+          "seat_type": "economy class"
+        }
+      ]
+    },
+    "S17557514720248044_O00003": {
+      "order_id": "S17557514720248044_O00003",
+      "order_type": "attraction",
+      "user_id": "U010001",
+      "store_id": "S17557514720248044_A00005",
+      "note": "Li River bamboo rafting experience",
+      "location": {
+        "address": "Li River Scenic Area, Yangshuo County, Guilin, Guangxi Zhuang Autonomous Region",
+        "longitude": 110.4958,
+        "latitude": 24.7781
+      },
+      "dispatch_time": "",
+      "shipping_time": 0.0,
+      "delivery_time": "",
+      "total_price": 420.0,
+      "create_time": "2025-03-22 10:30:00",
+      "update_time": "2025-03-22 10:30:00",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17557514720248044_P00048",
+          "price": 210.0,
+          "quantity": 2,
+          "date": "2025-05-04",
+          "ticket_type": "adult ticket"
+        }
+      ]
+    },
+    "S17557514720248044_O00004": {
+      "order_id": "S17557514720248044_O00004",
+      "order_type": "hotel",
+      "user_id": "U010001",
+      "store_id": "S17557514720248044_H00002",
+      "note": "Alternative hotel reservation",
+      "location": {
+        "address": "Ji Hotel (Yangshuo Ten-Mile Gallery), Ten-Mile Gallery, Yangshuo County, Guilin, Guangxi Zhuang Autonomous Region",
+        "longitude": 110.4856,
+        "latitude": 24.7692
+      },
+      "dispatch_time": "",
+      "shipping_time": 0.0,
+      "delivery_time": "",
+      "total_price": 1374.0,
+      "create_time": "2025-04-05 19:15:00",
+      "update_time": "2025-04-06 09:20:00",
+      "status": "cancelled",
+      "products": [
+        {
+          "product_id": "S17557514720248044_P00013",
+          "price": 458.0,
+          "quantity": 3,
+          "date": "2025-05-02",
+          "room_type": "deluxe twin room"
+        }
+      ]
+    },
+    "S17557514720248044_O00005": {
+      "order_id": "S17557514720248044_O00005",
+      "order_type": "flight",
+      "user_id": "U010001",
+      "store_id": "S17557514720248044_F00012",
+      "note": "Return flight ticket option after price comparison",
+      "location": {
+        "address": "Guilin Liangjiang International Airport, Liangjiang Town, Lingui District, Guilin, Guangxi Zhuang Autonomous Region",
+        "longitude": 110.0392,
+        "latitude": 25.2181
+      },
+      "dispatch_time": "",
+      "shipping_time": 0.0,
+      "delivery_time": "",
+      "total_price": 1960.0,
+      "create_time": "2025-04-08 11:25:00",
+      "update_time": "2025-04-08 11:25:00",
+      "status": "unpaid",
+      "products": [
+        {
+          "product_id": "S17557514720248044_P00127",
+          "price": 980.0,
+          "quantity": 2,
+          "date": "2025-05-08",
+          "seat_type": "economy class"
+        }
+      ]
+    }
+  }
+}

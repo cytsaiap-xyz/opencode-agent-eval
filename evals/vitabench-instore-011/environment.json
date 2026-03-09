@@ -1,0 +1,179 @@
+{
+  "task_id": "10826014",
+  "domain": "instore",
+  "time": "2024-04-13 15:30:00",
+  "user_id": "U485987",
+  "weather": [
+    {
+      "city": "Changsha",
+      "category": "sunny",
+      "datetime": "2024-04-13",
+      "temperature": [
+        18,
+        26
+      ],
+      "humidity": 45
+    }
+  ],
+  "location": [
+    {
+      "address": "Room 1204, Building C3, Lugu Enterprise Plaza, Yuelu District, Changsha",
+      "longitude": 112.8854,
+      "latitude": 28.2285
+    },
+    {
+      "address": "Creative Studio, 5th Floor, Bobo World City, No. 368, Section 1, Furong South Road, Tianxin District, Changsha",
+      "longitude": 112.9823,
+      "latitude": 28.1914
+    }
+  ],
+  "user_profile": {
+    "user id": "U485987",
+    "occupation": "Designer",
+    "gender": "male",
+    "age group": "30~35",
+    "residence": "Changsha",
+    "home address": "Creative Studio, 5th Floor, Bobo World City, No. 368, Section 1, Furong South Road, Tianxin District, Changsha",
+    "work address": "Room 1204, Building C3, Lugu Enterprise Plaza, Yuelu District, Changsha",
+    "dietary restrictions": "No Fried Food, No Caffeine",
+    "family status": "Has children",
+    "personality": "Impatient, often rushes things, lacks patience for waiting processes"
+  },
+  "user_historical_behaviors": {
+    "user id": "U485987",
+    "occupation": "Designer",
+    "gender": "male",
+    "age group": "30~35",
+    "residence": "Changsha",
+    "home address": "Room 1204, Building C3, Lugu Enterprise Plaza, Yuelu District, Changsha",
+    "work address": "Creative Studio, 5th Floor, Bobo World City, No. 368, Section 1, Furong South Road, Tianxin District, Changsha",
+    "in-store dining": {
+      "fine-dining": {
+        "frequently purchased categories": [
+          "Local Cuisine/Hunan Cuisine (Average 95 yuan)",
+          "International Cuisine/Japanese Food (Average 120 yuan)",
+          "Hot Pot (Average 88 yuan)"
+        ],
+        "preferred average price per person": "80~120 yuan",
+        "preferred store rating": "4.2~4.7 stars",
+        "typical dining time": "18:30-20:30",
+        "preferred distance": "500~3000m",
+        "recent orders": [
+          {
+            "store": "Xiangjiang Fish Restaurant",
+            "product": "Chopped Chili Fish Head Set"
+          },
+          {
+            "store": "Xiaolongbao Japanese Restaurant",
+            "product": "Sashimi Platter"
+          },
+          {
+            "store": "Bashu Impression",
+            "product": "Yin-Yang Hot Pot"
+          }
+        ],
+        "search history": [
+          "Hunan cuisine",
+          "Japanese cuisine",
+          "Family-friendly restaurant",
+          "No Frying"
+        ]
+      },
+      "light meal": {
+        "frequently purchased categories": [
+          "Fast Food/Chinese Quick Meal (Average 35 yuan)",
+          "Fast Food/Western Quick Meal (Average 42 yuan)"
+        ],
+        "preferred average price per person": "25~45 yuan",
+        "preferred store rating": "3.5~4.2 stars",
+        "typical dining time": "12:00-13:30",
+        "preferred distance": "0~500m",
+        "recent orders": [
+          {
+            "store": "Lugu Cafeteria",
+            "product": "Steamed Fish Set"
+          },
+          {
+            "store": "Mr. Salad",
+            "product": "Light Salad"
+          },
+          {
+            "store": "Noodle King",
+            "product": "Beef Noodles"
+          }
+        ],
+        "search history": [
+          "Healthy quick meal",
+          "Light food",
+          "Work meal"
+        ]
+      },
+      "desserts/drinks/snacks": {
+        "frequently purchased categories": [
+          "Beverage Shop (Average 18 yuan)",
+          "Bakery and Desserts (Average 28 yuan)"
+        ],
+        "preferred average price per person": "15~30 yuan",
+        "preferred store rating": "3.9~4.5 stars",
+        "typical dining time": "15:00-16:30",
+        "preferred distance": "0~300m",
+        "recent orders": [
+          {
+            "store": "Fresh Fruit Workshop",
+            "product": "Sugar-free Freshly Squeezed Juice"
+          },
+          {
+            "store": "Sweet Heart Bakery",
+            "product": "Whole Wheat Cake"
+          },
+          {
+            "store": "HEYTEA",
+            "product": "Jasmine Green Tea"
+          }
+        ],
+        "search history": [
+          "Sugar-free drinks",
+          "Low-fat desserts",
+          "Fruit tea"
+        ]
+      }
+    },
+    "other in-store services": {
+      "frequently consumed categories": {
+        "Sports Fitness/Fitness Center": "35%",
+        "Leisure Entertainment/DIY Workshop": "25%",
+        "Bathing/Sauna": "40%"
+      },
+      "cost per order by category": {
+        "Sports Fitness/Fitness Center": "80~150 yuan",
+        "Leisure Entertainment/DIY Workshop": "150~250 yuan",
+        "Bathing/Sauna": "100~200 yuan"
+      },
+      "preferred store rating": "4.0~4.8 stars",
+      "preferred service time": "11:00-20:00",
+      "preferred distance": "0~5000m",
+      "recent orders": [
+        {
+          "store": "Lugu Fitness Center",
+          "product": "Single Fitness Session"
+        },
+        {
+          "store": "Northeastern Bathhouse",
+          "product": "Bath Soak + Back Scrubbing Single Person"
+        },
+        {
+          "store": "DIY Dream Factory",
+          "product": "Parent-child Stress Relief Phone Case DIY (Android only)"
+        }
+      ],
+      "search history": [
+        "Massage and bathing",
+        "Design inspiration workshop",
+        "Stress relief fitness",
+        "Weekend parent-child activities"
+      ]
+    }
+  },
+  "stores": {},
+  "orders": {}
+}

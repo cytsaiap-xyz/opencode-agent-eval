@@ -1,0 +1,128 @@
+{
+  "required_orders": [
+    {
+      "order_id": "OT012ea4b3b3",
+      "order_type": "delivery",
+      "user_id": "U586066",
+      "store_id": "S17550802104222125_S00002",
+      "note": "Please deliver on time, thank you",
+      "location": {
+        "address": "South Area, East Garden Community, Garden Front Street, Pingcheng District, Datong",
+        "longitude": 113.2956,
+        "latitude": 40.0936
+      },
+      "dispatch_time": "2025-06-03 12:30:00",
+      "shipping_time": 17,
+      "delivery_time": "2025-06-03 12:47:00",
+      "total_price": 36.5,
+      "create_time": "2025-06-03 12:17:00",
+      "update_time": "2025-06-03 12:17:00",
+      "status": "delivered",
+      "products": [
+        {
+          "product_id": "S17550802104222125_P00010",
+          "price": 36.5,
+          "quantity": 1,
+          "name": "Avocado chicken sandwich",
+          "store_id": "S17550802104222125_S00002",
+          "store_name": "Green Light Meals",
+          "attributes": "Standard preparation",
+          "tags": [
+            "Chicken",
+            "Sandwich",
+            "Avocado",
+            "Whole wheat bread",
+            "Vegetables"
+          ]
+        }
+      ]
+    },
+    {
+      "order_id": "OIb192a86a68",
+      "order_type": "instore",
+      "user_id": "U586066",
+      "store_id": "S17550802104222125_I00012",
+      "note": "",
+      "location": null,
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 83,
+      "create_time": "2025-06-03 12:16:00",
+      "update_time": "2025-06-03 12:16:00",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17550802104222125_P00073",
+          "price": 35,
+          "quantity": 1,
+          "name": "Green tea premium set",
+          "shop_id": "S17550802104222125_I00012",
+          "tags": [
+            "Tea drink",
+            "Green tea",
+            "Refreshing",
+            "Caffeine-free"
+          ]
+        },
+        {
+          "product_id": "S17550802104222125_P00072",
+          "price": 48,
+          "quantity": 1,
+          "name": "Serene reading space (2 hours)",
+          "shop_id": "S17550802104222125_I00012",
+          "tags": [
+            "Private reading area",
+            "Quiet",
+            "Comfortable environment"
+          ]
+        }
+      ]
+    },
+    {
+      "order_id": "OOe1d6b03764",
+      "order_type": "train",
+      "user_id": "U586066",
+      "store_id": "S17550148868318956_T00010",
+      "note": "",
+      "location": null,
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 182,
+      "create_time": "2025-06-03 12:18:00",
+      "update_time": "2025-06-03 12:18:00",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17550802104222125_P00073",
+          "price": 182,
+          "quantity": 1,
+          "date": "2025-06-04",
+          "seat_type": "First-class seat"
+        }
+      ]
+    }
+  ],
+  "rubrics": [
+    "The ordered takeout food must be light meal",
+    "The ordered takeout food must include meat, and cannot be pork or beef",
+    "The ordered takeout food must include vegetables",
+    "The ordered takeout food must include fruit",
+    "The ordered takeout food should be refreshing",
+    "The ordered takeout food cannot contain high-purine foods (such as offal, seafood soup, shrimp, etc.)",
+    "The ordered takeout food cannot contain caffeine (such as coffee, matcha, etc.)",
+    "The delivery address for the takeout order should be South Area, East Garden Community, Garden Front Street, Pingcheng District, Datong, Shanxi Province",
+    "The takeout order delivery time should be around 13:00",
+    "The book bar ordered should be less than 2.5km from South Area, East Garden Community, Garden Front Street, Pingcheng District, Datong, Shanxi Province",
+    "The book bar ordered should have a quiet environment",
+    "The book bar ordered must provide tea drink service",
+    "The book bar set ordered should include tea, and it cannot be black tea",
+    "The book bar set ordered should include private reading space",
+    "The departure station of the train ordered should be Datong Station",
+    "The arrival station of the train ordered should be Yuncheng Station",
+    "The train ordered must depart around 3 PM on June 4, 2025 [specifically, the train departure time should be between 2:45 and 3:15]",
+    "The train ticket in the order should be First-class seat",
+    "The train number in the ticket order should be G1208"
+  ]
+}

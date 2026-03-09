@@ -1,0 +1,263 @@
+{
+  "required_orders": [
+    {
+      "order_id": "S17557512385846899_O00001",
+      "order_type": "flight",
+      "user_id": "U010099",
+      "store_id": "S17557512385846899_F00013",
+      "note": "",
+      "location": null,
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 6900,
+      "create_time": "2024-05-24 14:30:00",
+      "update_time": "2024-06-09 17:29:42",
+      "status": "cancelled",
+      "products": [
+        {
+          "product_id": "S17557512385846899_P00101",
+          "price": 1380,
+          "quantity": 5,
+          "date": "2024-06-12",
+          "seat_type": "Economy Class"
+        }
+      ]
+    },
+    {
+      "order_id": "D0808007T002",
+      "order_type": "flight",
+      "user_id": "U010099",
+      "store_id": "S17557512385846899_F00014",
+      "note": "",
+      "location": null,
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 8250,
+      "create_time": "2024-06-09 17:32:00",
+      "update_time": "2024-06-09 17:32:00",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17557512385846899_P00108",
+          "price": 1650,
+          "quantity": 5,
+          "date": "2024-06-11",
+          "seat_type": "Premium Economy Class"
+        }
+      ]
+    },
+    {
+      "order_id": "D0808007T003",
+      "order_type": "hotel",
+      "user_id": "U010099",
+      "store_id": "S17557512385846899_H00006",
+      "note": "",
+      "location": null,
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 1840,
+      "create_time": "2024-06-09 17:34:00",
+      "update_time": "2024-06-09 17:34:00",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17557512385846899_P00033",
+          "price": 680,
+          "quantity": 1,
+          "date": "2024-06-11",
+          "room_type": "Deluxe King Room"
+        },
+        {
+          "product_id": "S17557512385846899_P00034",
+          "price": 580,
+          "quantity": 2,
+          "date": "2024-06-11",
+          "room_type": "Comfort Twin Room"
+        }
+      ]
+    },
+    {
+      "order_id": "D0808007T004",
+      "order_type": "hotel",
+      "user_id": "U010099",
+      "store_id": "S17557512385846899_H00002",
+      "note": "",
+      "location": null,
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 1700,
+      "create_time": "2024-06-09 17:38:10",
+      "update_time": "2024-06-09 17:38:10",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17557512385846899_P00011",
+          "price": 780,
+          "quantity": 1,
+          "date": "2024-06-12",
+          "room_type": "Deluxe Twin Room"
+        },
+        {
+          "product_id": "S17557512385846899_P00012",
+          "price": 920,
+          "quantity": 1,
+          "date": "2024-06-12",
+          "room_type": "Business Triple Room"
+        }
+      ]
+    },
+    {
+      "order_id": "D0808007T005",
+      "order_type": "hotel",
+      "user_id": "U010099",
+      "store_id": "S17557512385846899_H00003",
+      "note": "",
+      "location": null,
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 1300,
+      "create_time": "2024-06-09 17:42:00",
+      "update_time": "2024-06-09 17:42:00",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17557512385846899_P00016",
+          "price": 580,
+          "quantity": 1,
+          "date": "2024-06-13",
+          "room_type": "Standard Twin Room"
+        },
+        {
+          "product_id": "S17557512385846899_P00017",
+          "price": 720,
+          "quantity": 1,
+          "date": "2024-06-13",
+          "room_type": "Deluxe Triple Room"
+        }
+      ]
+    },
+    {
+      "order_id": "D0808007T006",
+      "order_type": "hotel",
+      "user_id": "U010099",
+      "store_id": "S17557512385846899_H00008",
+      "note": "",
+      "location": null,
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 1940,
+      "create_time": "2024-06-09 17:44:44",
+      "update_time": "2024-06-09 17:44:44",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17557512385846899_P00043",
+          "price": 680,
+          "quantity": 2,
+          "date": "2024-06-14",
+          "room_type": "Standard Twin Room"
+        },
+        {
+          "product_id": "S17557512385846899_P00047",
+          "price": 580,
+          "quantity": 1,
+          "date": "2024-06-14",
+          "room_type": "Deluxe King Room"
+        }
+      ]
+    },
+    {
+      "order_id": "D0808007T007",
+      "order_type": "hotel",
+      "user_id": "U010099",
+      "store_id": "S17557512385846899_H00005",
+      "note": "",
+      "location": null,
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 1220,
+      "create_time": "2024-06-09 17:46:50",
+      "update_time": "2024-06-09 17:46:50",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17557512385846899_P00026",
+          "price": 580,
+          "quantity": 1,
+          "date": "2024-06-15",
+          "room_type": "Standard Twin Room"
+        },
+        {
+          "product_id": "S17557512385846899_P00028",
+          "price": 640,
+          "quantity": 1,
+          "date": "2024-06-15",
+          "room_type": "Standard Triple Room"
+        }
+      ]
+    },
+    {
+      "order_id": "D0808007T008",
+      "order_type": "hotel",
+      "user_id": "U010099",
+      "store_id": "S17557512385846899_H00001",
+      "note": "",
+      "location": null,
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 1700,
+      "create_time": "2024-06-09 17:49:32",
+      "update_time": "2024-06-09 17:49:32",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17557512385846899_P00003",
+          "price": 880,
+          "quantity": 1,
+          "date": "2024-06-16",
+          "room_type": "Business Triple Room"
+        },
+        {
+          "product_id": "S17557512385846899_P00004",
+          "price": 820,
+          "quantity": 1,
+          "date": "2024-06-16",
+          "room_type": "Business Twin Room"
+        }
+      ]
+    }
+  ],
+  "rubrics": [
+    "The order status for order number S17557512385846899_O00001 should be cancelled",
+    "The departure city of the ordered flight should be Beijing",
+    "The destination city of the ordered flight should be Lhasa",
+    "The departure date of the ordered flight should be June 11, 2024",
+    "The quantity in the flight order should be 5",
+    "The hotel for the first night should be InterContinental Lhasa Paradise",
+    "The date in the order for InterContinental Lhasa Paradise should be 2024-06-11",
+    "The order for InterContinental Lhasa Paradise should include two Twin Rooms and one King Room",
+    "The hotel for the second night should be Atour Hotel Shigatse",
+    "The date in the order for Atour Hotel Shigatse should be 2024-06-12",
+    "The order for Atour Hotel Shigatse should include one Triple Room and one Twin Room",
+    "The hotel for the third night should be Vienna Hotel Gangga",
+    "The date in the order for Vienna Hotel Gangga should be 2024-06-13",
+    "The order for Vienna Hotel Gangga should include one Triple Room and one Twin Room",
+    "The hotel for the fourth night should be Highland Pearl Hotel Coqen",
+    "The date in the order for Highland Pearl Hotel Coqen should be 2024-06-14",
+    "The order for Highland Pearl Hotel Coqen should include two Twin Rooms and one King Room",
+    "The hotel for the fifth night should be Home Inn Nyima",
+    "The date in the order for Home Inn Nyima should be 2024-06-15",
+    "The order for Home Inn Nyima should include one Triple Room and one Twin Room",
+    "The hotel for the sixth night should be JI Hotel Lhasa",
+    "The date in the order for JI Hotel Lhasa should be 2024-06-16",
+    "The order for JI Hotel Lhasa should include one Triple Room and one Twin Room"
+  ]
+}

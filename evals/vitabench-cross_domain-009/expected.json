@@ -1,0 +1,109 @@
+{
+  "required_orders": [
+    {
+      "order_id": "10807005T001",
+      "order_type": "delivery",
+      "user_id": "U010028",
+      "store_id": "S17550802118465063_S00002",
+      "note": "",
+      "location": {
+        "address": "Donghu Shuguang City, Opposite to Dongqiao Management Committee, Dongqiao Development Zone, Jiaocheng District, Ningde, Fujian Province",
+        "longitude": 119.527,
+        "latitude": 26.665
+      },
+      "dispatch_time": "2025-02-27 18:50:00",
+      "shipping_time": 30,
+      "delivery_time": "2025-02-27 19:20:00",
+      "total_price": 299,
+      "create_time": "2025-02-27 18:33:47",
+      "update_time": "2025-02-27 18:33:47",
+      "status": "delivered",
+      "products": [
+        {
+          "product_id": "S17550802118465063_P00006",
+          "price": 299,
+          "quantity": 1,
+          "name": "Nordic Minimalist Ceramic Tableware Set",
+          "store_id": "S17550802118465063_S00002",
+          "store_name": "Mu Jia Tableware Selection",
+          "attributes": "28-piece white set",
+          "tags": [
+            "Minimalist Style",
+            "Modern Design",
+            "Ceramic Material",
+            "Premium Tableware",
+            "Housewarming Gift",
+            "Set"
+          ]
+        }
+      ]
+    },
+    {
+      "order_id": "10807005T002",
+      "order_type": "instore",
+      "user_id": "U010028",
+      "store_id": "S17550802118465063_P00059",
+      "note": "",
+      "location": null,
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 268,
+      "create_time": "2025-02-27 18:33:23",
+      "update_time": "2025-02-27 18:33:23",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17550802118465063_P00059",
+          "price": 268,
+          "quantity": 1,
+          "name": "Girlfriends Health Preservation Sauna Package for Two",
+          "shop_id": "S17550802118465063_I00012",
+          "tags": [
+            "Two-Person Package",
+            "Including Two Disposable Sauna Clothes",
+            "Ladies Only"
+          ]
+        }
+      ]
+    },
+    {
+      "order_id": "10807005T003",
+      "order_type": "hotel",
+      "user_id": "U010028",
+      "store_id": "S17550802118465063_H00007",
+      "note": "",
+      "location": null,
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 298,
+      "create_time": "2025-02-27 18:37:43",
+      "update_time": "2025-02-27 18:37:43",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17550802118465063_P00032",
+          "price": 298,
+          "quantity": 1,
+          "date": "2025-03-01",
+          "room_type": "Smart Single Room"
+        }
+      ]
+    }
+  ],
+  "rubrics": [
+    "The housewarming gift ordered must be a tableware set",
+    "The housewarming gift ordered should cost no less than 300 yuan",
+    "The housewarming gift ordered must have a Modern Minimalist design style",
+    "The delivery address for the housewarming gift order should be Donghu Shuguang City, Opposite to Dongqiao Management Committee, Dongqiao Development Zone, Jiaocheng District, Ningde, Fujian Province",
+    "The delivery time for the housewarming gift order should be before the evening of February 27, 2025",
+    "The hotel ordered should be within 3km (inclusive) of Fuxin Building, 60 meters northwest of the intersection of Laizhou Street and Binjiang Road, Yanping District, Nanping, Fujian Province",
+    "The hotel ordered should be a Smart Home hotel",
+    "The room type ordered should be the cheapest room type in the hotel",
+    "The hotel check-in date should be March 1, 2025 for one night",
+    "The sauna merchant ordered should be within 3km of Fuxin Building, 60 meters northwest of the intersection of Laizhou Street and Binjiang Road, Yanping District, Nanping, Fujian Province",
+    "The sauna package ordered should be a Two-Person Package",
+    "The sauna package ordered needs to include two female disposable sauna clothes"
+  ]
+}

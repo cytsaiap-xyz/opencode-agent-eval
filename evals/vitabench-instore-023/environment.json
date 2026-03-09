@@ -1,0 +1,213 @@
+{
+  "task_id": "10826008",
+  "domain": "instore",
+  "time": "2025-05-06 09:56:41",
+  "user_id": "U524398",
+  "weather": [
+    {
+      "city": "Harbin",
+      "category": "sunny",
+      "datetime": "2025-05-06",
+      "temperature": [
+        15,
+        26
+      ],
+      "humidity": 45
+    },
+    {
+      "city": "Harbin",
+      "category": "cloudy",
+      "datetime": "2025-05-07",
+      "temperature": [
+        14,
+        25
+      ],
+      "humidity": 52
+    }
+  ],
+  "location": [
+    {
+      "address": "Room 502, Unit 2, Building 5, Xuefu Garden, No.74 Xuefu Road, Nangang District, Harbin",
+      "longitude": 126.642388,
+      "latitude": 45.720801
+    },
+    {
+      "address": "Olympic Center Fitness Club, No.368 Changjiang Road, Nangang District, Harbin",
+      "longitude": 126.629058,
+      "latitude": 45.716625
+    },
+    {
+      "address": "Harbin Station, No.1 Xuefu 3rd Street, Nangang District, Harbin",
+      "longitude": 126.634752,
+      "latitude": 45.758965
+    },
+    {
+      "address": "Nail District near Harbin Institute of Technology, No.168 Xuefu Road, Nangang District, Harbin",
+      "longitude": 126.640521,
+      "latitude": 45.743125
+    },
+    {
+      "address": "Parkson Shopping Center, No.118 Xida Straight Street, Nangang District, Harbin",
+      "longitude": 126.672531,
+      "latitude": 45.776452
+    }
+  ],
+  "user_profile": {
+    "user id": "U524398",
+    "occupation": "fitness instructor",
+    "gender": "female",
+    "age group": "25~30",
+    "residence": "Harbin",
+    "home address": "Room 502, Unit 2, Building 5, Xuefu Garden, No.74 Xuefu Road, Nangang District, Harbin",
+    "work address": "Olympic Center Fitness Club, No.368 Changjiang Road, Nangang District, Harbin",
+    "dietary restrictions": "Avoid high sugar, Avoid fried foods",
+    "family status": "In a relationship",
+    "personality": "Cold and concise in expression, lacks emotional communication and patience"
+  },
+  "user_historical_behaviors": {
+    "user id": "U524398",
+    "occupation": "Fitness Coach",
+    "gender": "female",
+    "age group": "25~30",
+    "residence": "Harbin",
+    "home address": "Room 502, Unit 2, Building 5, Xuefu Garden, No.74 Xuefu Road, Nangang District, Harbin",
+    "work address": "Olympic Center Fitness Club, No.368 Changjiang Road, Nangang District, Harbin",
+    "in-store dining": {
+      "fine-dining": {
+        "frequently purchased categories": [
+          "Regional Cuisine/Seafood (Average 125 yuan)",
+          "Foreign Cuisine/Japanese Food (Average 150 yuan)",
+          "Other Dining/Fresh Fruits (Average 85 yuan)"
+        ],
+        "preferred average price per person": "85~150 yuan",
+        "preferred store rating": "4.3~4.9 stars",
+        "typical dining time": "19:30-21:00",
+        "preferred distance": "500~3000m",
+        "recent orders": [
+          {
+            "store": "Xianshendao Japanese Restaurant",
+            "product": "Salmon Sashimi Set"
+          },
+          {
+            "store": "Yulexuan",
+            "product": "Steamed Bass"
+          },
+          {
+            "store": "Fresh Fruit Time",
+            "product": "Premium Fruit Platter"
+          }
+        ],
+        "search history": [
+          "High-protein restaurants",
+          "Healthy Japanese food",
+          "Low-sugar restaurants",
+          "Steamed fish"
+        ]
+      },
+      "light meal": {
+        "frequently purchased categories": [
+          "Fast Food/Chinese Quick Meals (Average 45 yuan)",
+          "Foreign Cuisine/Southeast Asian Food (Average 60 yuan)",
+          "Other Dining/Health Food (Average 35 yuan)"
+        ],
+        "preferred average price per person": "35~60 yuan",
+        "preferred store rating": "3.8~4.5 stars",
+        "typical dining time": "11:30-13:00",
+        "preferred distance": "0~500m",
+        "recent orders": [
+          {
+            "store": "Light Food Philosophy",
+            "product": "Chicken Breast Salad"
+          },
+          {
+            "store": "Thai Light Food",
+            "product": "Thai Lemon Chicken Breast"
+          },
+          {
+            "store": "Protein Workshop",
+            "product": "Low-fat Chicken Breast Bento"
+          }
+        ],
+        "search history": [
+          "Fitness meals",
+          "Low-fat bento",
+          "Protein meals",
+          "Light food"
+        ]
+      },
+      "desserts/drinks/snacks": {
+        "frequently purchased categories": [
+          "Beverage Shops (Average 22 yuan)",
+          "Other Dining/Fresh Fruits (Average 30 yuan)",
+          "Bread and Desserts (Average 18 yuan)"
+        ],
+        "preferred average price per person": "18~30 yuan",
+        "preferred store rating": "4.0~4.8 stars",
+        "typical dining time": "15:00-16:30",
+        "preferred distance": "0~800m",
+        "recent orders": [
+          {
+            "store": "Fresh Juice Bar",
+            "product": "Fresh Celery Apple Juice"
+          },
+          {
+            "store": "Cranberry",
+            "product": "Sugar-free Yogurt Cup"
+          },
+          {
+            "store": "Yogurt Workshop",
+            "product": "Low-sugar Protein Energy Bar"
+          }
+        ],
+        "search history": [
+          "Sugar-free beverages",
+          "Protein shakes",
+          "Low-calorie desserts",
+          "Healthy drinks"
+        ]
+      }
+    },
+    "other in-store services": {
+      "frequently consumed categories": {
+        "Sports & Fitness/Fitness Centers": "40%",
+        "Sports & Fitness/Sports Venues": "20%",
+        "Beauty/Yoga": "25%",
+        "Beauty/Nail Salons": "10%",
+        "Leisure & Entertainment/Massage/Foot Therapy": "5%"
+      },
+      "cost per order by category": {
+        "Sports & Fitness/Fitness Centers": "80~200 yuan",
+        "Sports & Fitness/Sports Venues": "100~180 yuan",
+        "Beauty/Yoga": "120~250 yuan",
+        "Beauty/Nail Salons": "150~280 yuan",
+        "Leisure & Entertainment/Massage/Foot Therapy": "180~320 yuan"
+      },
+      "preferred store rating": "4.2~4.9 stars",
+      "preferred service time": "9:00-11:00, 20:00-22:00",
+      "preferred distance": "0~5000m",
+      "recent orders": [
+        {
+          "store": "Yoga Space",
+          "product": "Hot Yoga Single Experience"
+        },
+        {
+          "store": "Power Fitness",
+          "product": "Personal Training Course"
+        },
+        {
+          "store": "Elegant Nail Salon",
+          "product": "Japanese-style Nail Art Package"
+        }
+      ],
+      "search history": [
+        "Professional yoga studios",
+        "Fitness equipment stores",
+        "Sports recovery centers",
+        "Manicure",
+        "Sports goods"
+      ]
+    }
+  },
+  "stores": {},
+  "orders": {}
+}

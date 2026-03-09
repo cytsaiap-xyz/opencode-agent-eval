@@ -1,0 +1,452 @@
+{
+  "task_id": "10808008",
+  "domain": "cross_domain",
+  "time": "2025-05-13 15:37:22",
+  "user_id": "U509028",
+  "weather": [
+    {
+      "city": "Xi'an",
+      "category": "sunny",
+      "datetime": "2025-05-13",
+      "temperature": [
+        18,
+        28
+      ],
+      "humidity": 45
+    },
+    {
+      "city": "Xi'an",
+      "category": "cloudy",
+      "datetime": "2025-05-16",
+      "temperature": [
+        19,
+        27
+      ],
+      "humidity": 68
+    }
+  ],
+  "location": [
+    {
+      "address": "Room 602, Unit 1, Building 3, Greenland Colorful City, Intersection of Zhangba North Road and Technology 6th Road, Yanta District, Xi'an",
+      "longitude": 108.893513,
+      "latitude": 34.203252
+    }
+  ],
+  "user_profile": {
+    "user id": "U509028",
+    "occupation": "fitness coach",
+    "gender": "male",
+    "age group": "25~30",
+    "residence": "Xi'an",
+    "home address": "Room 602, Unit 1, Building 3, Greenland Colorful City, Intersection of Zhangba North Road and Technology 6th Road, Yanta District, Xi'an",
+    "work address": "Impulse Fitness Center, 86 Chang'an South Road, Yanta District, Xi'an",
+    "dietary restrictions": "Avoids high sugar, Avoids fried food",
+    "family status": "In a relationship",
+    "personality": "Impatient, frequently urges others, lacks patience during processes"
+  },
+  "user_historical_behaviors": {
+    "user id": "U509028",
+    "occupation": "fitness coach",
+    "gender": "male",
+    "age group": "25~30",
+    "residence": "Xi'an",
+    "home address": "Room 602, Unit 1, Building 3, Greenland Colorful City, Intersection of Zhangba North Road and Technology 6th Road, Yanta District, Xi'an",
+    "work address": "Impulse Fitness Center, 86 Chang'an South Road, Yanta District, Xi'an",
+    "delivery": {
+      "food delivery": {
+        "breakfast": {
+          "frequently purchased categories": [
+            "Quick Meals/Buns/Pan-fried Buns (Average 18 yuan)",
+            "Quick Meals/Light Food (Average 32 yuan)",
+            "Quick Meals/Healthy Meals (Average 35 yuan)"
+          ],
+          "cost per order": "15~40 yuan",
+          "preferred store rating": "4.2~4.8 points",
+          "preferred delivery time": "15~30 minutes",
+          "preferred distance": "0~2500m",
+          "recent orders": [
+            {
+              "store": "Light Food Philosophy",
+              "product": "Chicken Breast Whole Wheat Sandwich + Protein Milkshake"
+            },
+            {
+              "store": "Wugumofang",
+              "product": "Low-fat Grain Breakfast Set"
+            },
+            {
+              "store": "Mr. Bun",
+              "product": "Steamed Egg and Cabbage Bun + Sugar-free Soy Milk"
+            }
+          ],
+          "search history": [
+            "healthy breakfast",
+            "low-fat breakfast",
+            "protein",
+            "whole wheat bread",
+            "sugar-free soy milk"
+          ]
+        },
+        "weekday lunch/dinner": {
+          "frequently purchased categories": [
+            "Quick Meals/Healthy Meals (Average 45 yuan)",
+            "Foreign Cuisine/Stone Bowl Rice/Iron Plate Rice (Average 52 yuan)",
+            "Quick Meals/Salad (Average 38 yuan)"
+          ],
+          "cost per order": "35~60 yuan",
+          "preferred store rating": "4.3~4.8 points",
+          "preferred delivery time": "20~35 minutes",
+          "preferred distance": "0~3000m",
+          "recent orders": [
+            {
+              "store": "Light Food Salad",
+              "product": "Chicken Breast Quinoa Salad + Celery Juice"
+            },
+            {
+              "store": "Korean Fitness Meal",
+              "product": "Low-fat Stone Bowl Rice + Fresh Fruit and Vegetable Juice"
+            },
+            {
+              "store": "Fit+ Healthy Meals",
+              "product": "High-protein Chicken Breast Meal Box + Protein Milkshake"
+            }
+          ],
+          "search history": [
+            "fitness meal",
+            "high protein",
+            "low carb",
+            "chicken breast",
+            "healthy quick meal"
+          ]
+        },
+        "weekend lunch/dinner": {
+          "frequently purchased categories": [
+            "Chinese Cuisine/Grilled Fish (Average 98 yuan)",
+            "Foreign Cuisine/Steak (Average 120 yuan)",
+            "Chinese Cuisine/Northeastern Cuisine (Average 85 yuan)"
+          ],
+          "cost per order": "80~150 yuan",
+          "preferred store rating": "4.5~4.9 points",
+          "preferred delivery time": "30~45 minutes",
+          "preferred distance": "0~5000m",
+          "recent orders": [
+            {
+              "store": "Steak Workshop",
+              "product": "Australian Sirloin Steak + Vegetable Salad"
+            },
+            {
+              "store": "Yuyu Grilled Fish",
+              "product": "Secret Recipe Grilled Fish + Garlic Broccoli"
+            },
+            {
+              "store": "Northeastern Chef",
+              "product": "Sweet and Sour Pork + Moo Shu Pork + Boiled Cabbage"
+            }
+          ],
+          "search history": [
+            "steak",
+            "protein",
+            "low-fat grilled fish",
+            "oil-free cooking",
+            "healthy feast"
+          ]
+        },
+        "desserts/drinks/snacks": {
+          "frequently purchased categories": [
+            "Beverages and Desserts/Pure Tea/Herbal Tea (Average 20 yuan)",
+            "Beverages and Desserts/Fruit Bowl (Average 32 yuan)"
+          ],
+          "cost per order": "15~35 yuan",
+          "preferred store rating": "4.4~4.9 points",
+          "preferred delivery time": "15~30 minutes",
+          "preferred distance": "0~3000m",
+          "recent orders": [
+            {
+              "store": "Fresh Fruit Workshop",
+              "product": "Sugar-free Fruit Bowl"
+            },
+            {
+              "store": "Tea Talk",
+              "product": "Sugar-free Oolong Tea"
+            },
+            {
+              "store": "Truly Fresh",
+              "product": "Seasonal Fruit Platter"
+            }
+          ],
+          "search history": [
+            "sugar-free drinks",
+            "fruit bowl",
+            "pure tea",
+            "low-calorie snacks"
+          ]
+        },
+        "night snack": {
+          "frequently purchased categories": [
+            "Quick Meals/Small Dishes/Small Portions (Average 42 yuan)",
+            "Quick Meals/Light Food (Average 38 yuan)"
+          ],
+          "cost per order": "30~50 yuan",
+          "preferred store rating": "4.2~4.7 points",
+          "preferred delivery time": "20~40 minutes",
+          "preferred distance": "0~3500m",
+          "recent orders": [
+            {
+              "store": "Night Light Food",
+              "product": "Low-fat Chicken Breast Salad"
+            },
+            {
+              "store": "Steaming Philosophy",
+              "product": "Steamed Chicken Breast + Steamed Vegetables"
+            },
+            {
+              "store": "Small Dish",
+              "product": "Fitness Meal Box (Night Version)"
+            }
+          ],
+          "search history": [
+            "fitness night snack",
+            "low-fat night food",
+            "protein supplement",
+            "muscle building meal"
+          ]
+        }
+      },
+      "product delivery": {
+        "frequently purchased categories": [
+          "Fruits (28%)",
+          "Beverages/Nutritional Drinks (22%)",
+          "Snacks (18%)",
+          "Household Items (15%)",
+          "Personal Care (10%)",
+          "Others (7%)"
+        ],
+        "frequently visited stores": [
+          "Yonghui Supermarket (Xi'an Yanta Store) (35%)",
+          "Family Mart (Greenland Colorful City Store) (25%)",
+          "7-11 Convenience Store (Chang'an South Road Store) (20%)",
+          "Other Stores (20%)"
+        ],
+        "cost per order by category": {
+          "Fruits": "15~50 yuan",
+          "Beverages/Nutritional Drinks": "8~35 yuan",
+          "Snacks": "10~40 yuan",
+          "Household Items": "15~60 yuan",
+          "Personal Care": "25~80 yuan"
+        },
+        "preferred delivery time": "25~60 minutes",
+        "typical order time": "10~12 o'clock (32%), 15~17 o'clock (28%), 19~21 o'clock (25%)",
+        "recent orders": [
+          {
+            "store": "Yonghui Supermarket (Xi'an Yanta Store)",
+            "product": "4 Avocados"
+          },
+          {
+            "store": "Family Mart (Greenland Colorful City Store)",
+            "product": "Mizone Vitamin Drink"
+          },
+          {
+            "store": "7-11 Convenience Store (Chang'an South Road Store)",
+            "product": "Nuts Gift Box"
+          }
+        ],
+        "search history": [
+          "avocado",
+          "mizone",
+          "nuts",
+          "mineral water",
+          "wet wipes",
+          "shampoo"
+        ]
+      }
+    },
+    "in-store consumption": {
+      "in-store dining": {
+        "fine-dining": {
+          "frequently purchased categories": [
+            "Regional Cuisine/Sichuan Cuisine (Average 120 yuan)",
+            "Foreign Cuisine/Western Food (Average 150 yuan)",
+            "Foreign Cuisine/Japanese Cuisine (Average 180 yuan)"
+          ],
+          "preferred average price per person": "120~180 yuan",
+          "preferred store rating": "4.2~4.8 stars",
+          "typical dining time": "19:00-21:00",
+          "preferred distance": "1000~3000m",
+          "recent orders": [
+            {
+              "store": "Greenland Colorful City Western Restaurant",
+              "product": "Low-fat Steak Set"
+            },
+            {
+              "store": "Dingji Xuan Japanese Restaurant",
+              "product": "Sashimi Platter"
+            },
+            {
+              "store": "Yuefu Sichuan Cuisine",
+              "product": "Boiled Fish (Mild Spicy)"
+            }
+          ],
+          "search history": [
+            "fitness meal",
+            "high-protein low-fat",
+            "steak",
+            "Japanese cuisine"
+          ]
+        },
+        "light meal": {
+          "frequently purchased categories": [
+            "Snacks and Fast Food/Chinese Quick Meals (Average 35 yuan)",
+            "Snacks and Fast Food/Western Fast Food (Average 45 yuan)",
+            "Other Dining/Fruits and Fresh Food (Average 25 yuan)"
+          ],
+          "preferred average price per person": "25~45 yuan",
+          "preferred store rating": "3.5~4.2 stars",
+          "typical dining time": "11:30-13:00",
+          "preferred distance": "0~500m",
+          "recent orders": [
+            {
+              "store": "Light Food Salad",
+              "product": "Chicken Breast Salad"
+            },
+            {
+              "store": "McDonald's",
+              "product": "Grilled Chicken Burger Set (No Coke)"
+            },
+            {
+              "store": "Mr. Fruit",
+              "product": "Mixed Fruit Box"
+            }
+          ],
+          "search history": [
+            "healthy quick meal",
+            "salad",
+            "low-fat meal",
+            "chicken breast"
+          ]
+        },
+        "desserts/drinks/snacks": {
+          "frequently purchased categories": [
+            "Beverage Shops (Average 20 yuan)",
+            "Bread and Desserts (Average 18 yuan)"
+          ],
+          "preferred average price per person": "15~25 yuan",
+          "preferred store rating": "3.8~4.5 stars",
+          "typical dining time": "15:00-17:00",
+          "preferred distance": "0~800m",
+          "recent orders": [
+            {
+              "store": "One Dot Tea",
+              "product": "Sugar-free Green Tea"
+            },
+            {
+              "store": "Nayuki",
+              "product": "Cheese Jasmine Tea (Less Sugar)"
+            },
+            {
+              "store": "Bread Talk",
+              "product": "Whole Wheat Bread"
+            }
+          ],
+          "search history": [
+            "sugar-free drinks",
+            "low-calorie desserts",
+            "protein drinks",
+            "fitness beverages"
+          ]
+        }
+      },
+      "other in-store services": {
+        "frequently consumed categories": {
+          "Sports and Fitness/Fitness Centers": "60%",
+          "Sports and Fitness/Sports Venues": "20%",
+          "Sports and Fitness/Martial Arts and Combat": "10%",
+          "Leisure and Entertainment/Massage/Foot Therapy": "10%"
+        },
+        "cost per order by category": {
+          "Sports and Fitness/Fitness Centers": "150~300 yuan",
+          "Sports and Fitness/Sports Venues": "80~150 yuan",
+          "Sports and Fitness/Martial Arts and Combat": "100~200 yuan",
+          "Leisure and Entertainment/Massage/Foot Therapy": "120~180 yuan"
+        },
+        "preferred store rating": "4.0~4.8 stars",
+        "preferred service time": "20:00-22:00",
+        "preferred distance": "0~2000m",
+        "recent orders": [
+          {
+            "store": "Impulse Fitness",
+            "product": "Personal Training Course"
+          },
+          {
+            "store": "Xi'an Sports Center",
+            "product": "Basketball Court Reservation"
+          },
+          {
+            "store": "Taihe Foot Massage",
+            "product": "Sports Massage Package"
+          }
+        ],
+        "search history": [
+          "fitness equipment",
+          "personal training course",
+          "combat training",
+          "sports massage",
+          "basketball court"
+        ]
+      }
+    },
+    "OTA": {
+      "visited scenes": {
+        "Natural Landscapes (Mountains/Lakes/Forests)": "45%",
+        "Tourist Attractions (Mountains/Beaches/Ecological Large Scenic Areas)": "25%",
+        "Cultural and Historical Sites": "15%",
+        "Hot Spring Areas": "10%",
+        "Landmark Buildings": "5%"
+      },
+      "cost per night on hotel": "500~1000 yuan",
+      "visited hotels": {
+        "Atour": "35%",
+        "JI Hotel": "25%",
+        "Vienna Hotel": "20%",
+        "Home Inn": "15%",
+        "Hanting Hotel": "5%"
+      },
+      "browsed hotels": {
+        "Four-star Hotels": "30%",
+        "Comfort Hotels": "45%",
+        "Three-star Hotels": "20%",
+        "Luxury Hotels": "5%"
+      },
+      "historical travel plans": {
+        "Xi'an-Chengdu": {
+          "price range": "400-600 yuan",
+          "transportation": "High-speed Rail/EMU"
+        },
+        "Xi'an-Beijing": {
+          "price range": "800-1200 yuan",
+          "transportation": "Flight"
+        },
+        "Xi'an-Sanya": {
+          "price range": "1200-2000 yuan",
+          "transportation": "Flight"
+        },
+        "Xi'an-Chongqing": {
+          "price range": "350-500 yuan",
+          "transportation": "High-speed Rail/EMU"
+        },
+        "Xi'an-Hangzhou": {
+          "price range": "700-1100 yuan",
+          "transportation": "Flight"
+        },
+        "Xi'an-Qinghai": {
+          "price range": "500-800 yuan",
+          "transportation": "Long-distance Bus"
+        },
+        "Xi'an-Huashan": {
+          "price range": "100-200 yuan",
+          "transportation": "Self-driving"
+        }
+      }
+    }
+  },
+  "stores": {},
+  "orders": {}
+}

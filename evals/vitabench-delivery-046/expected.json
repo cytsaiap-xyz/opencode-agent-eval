@@ -1,0 +1,68 @@
+{
+  "required_orders": [
+    {
+      "order_id": "90715002T01",
+      "order_type": "delivery",
+      "user_id": "U000079",
+      "store_id": "S14759205231927669_S61625",
+      "note": "",
+      "location": {
+        "address": "Internal Medicine Building, Nanning First People's Hospital, No. 89 Qixing Road, Qingxiu District, Nanning, Guangxi Zhuang Autonomous Region",
+        "longitude": 108.324934,
+        "latitude": 22.810538
+      },
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 211.2,
+      "create_time": "2025-09-26 11:57:00",
+      "update_time": "2025-09-26 11:57:00",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S26121447051926067_P60427",
+          "price": 52.8,
+          "quantity": 4,
+          "attributes": ""
+        }
+      ]
+    },
+    {
+      "order_id": "90715002T01",
+      "order_type": "delivery",
+      "user_id": "U000079",
+      "store_id": "S10710308899974275_S95622",
+      "note": "",
+      "location": {
+        "address": "Internal Medicine Building, Nanning First People's Hospital, No. 89 Qixing Road, Qingxiu District, Nanning, Guangxi Zhuang Autonomous Region",
+        "longitude": 108.324934,
+        "latitude": 22.810538
+      },
+      "dispatch_time": "2025-09-26 12:10:00",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 190,
+      "create_time": "2025-09-26 11:53:00",
+      "update_time": "2025-09-26 11:53:00",
+      "status": "in-progress",
+      "products": [
+        {
+          "product_id": "S71504960758110726_P70845",
+          "price": 19,
+          "quantity": 10,
+          "attributes": "30% Sugar Level"
+        }
+      ]
+    }
+  ],
+  "rubrics": [
+    "The delivery address for the multi-person sushi set meal order should be Internal Medicine Building, Nanning First People's Hospital, No. 89 Qixing Road, Qingxiu District, Nanning, Guangxi Zhuang Autonomous Region",
+    "The estimated delivery time for the multi-person sushi set meal order should be before 2:00 PM on September 26, 2025",
+    "The order items should be sushi products of the multi-person set meal type",
+    "The ordered products must have Economical/Affordable price characteristics",
+    "The delivery address for the longan drink order should be Internal Medicine Building, Nanning First People's Hospital, No. 89 Qixing Road, Qingxiu District, Nanning, Guangxi Zhuang Autonomous Region",
+    "The estimated delivery time for the longan drink order should be before 2:00 PM on September 26, 2025",
+    "The order items should be drinks containing longan ingredients",
+    "All products in the longan drink order should have a sweetness attribute of three parts sugar"
+  ]
+}

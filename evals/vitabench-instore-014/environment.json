@@ -1,0 +1,187 @@
+{
+  "task_id": "10826016",
+  "domain": "instore",
+  "time": "2025-03-20 09:15:00",
+  "user_id": "U636210",
+  "weather": [
+    {
+      "city": "Shanghai",
+      "category": "cloudy",
+      "datetime": "2025-03-22",
+      "temperature": [
+        12,
+        19
+      ],
+      "humidity": 62
+    }
+  ],
+  "location": [
+    {
+      "address": "Jialong Hui, Lane 58, Jinye Road, Pudong New District, Shanghai",
+      "longitude": 121.5893,
+      "latitude": 31.2546
+    },
+    {
+      "address": "28F, Shanghai Plaza Office Building, 138 Middle Huaihai Road, Huangpu District, Shanghai",
+      "longitude": 121.4698,
+      "latitude": 31.2243
+    }
+  ],
+  "user_profile": {
+    "user id": "U636210",
+    "occupation": "Financial Manager",
+    "gender": "female",
+    "age group": "35~40",
+    "residence": "Shanghai",
+    "home address": "Jialong Hui, Lane 58, Jinye Road, Pudong New District, Shanghai",
+    "work address": "28F, Shanghai Plaza Office Building, 138 Middle Huaihai Road, Huangpu District, Shanghai",
+    "dietary restrictions": "No coffee",
+    "family status": "Has children",
+    "personality": "Extremely detail-oriented, tends to be picky and easily dissatisfied"
+  },
+  "user_historical_behaviors": {
+    "user id": "U636210",
+    "occupation": "Finance Manager",
+    "gender": "female",
+    "age group": "35~40",
+    "residence": "Shanghai",
+    "home address": "Jialong Hui, Lane 58, Jinye Road, Pudong New District, Shanghai",
+    "work address": "28F, Shanghai Plaza Office Building, 138 Middle Huaihai Road, Huangpu District, Shanghai",
+    "in-store dining": {
+      "fine-dining": {
+        "frequently purchased categories": [
+          "Local Cuisine/Shanghai & Jiangsu-Zhejiang Cuisine (Average ¥135)",
+          "International Cuisine/Japanese Food (Average ¥180)",
+          "Local Cuisine/Cantonese Food (Average ¥150)"
+        ],
+        "preferred average price per person": "¥120~180",
+        "preferred store rating": "4.2~4.9 stars",
+        "typical dining time": "18:30-20:30",
+        "preferred distance": "500~3000m",
+        "recent orders": [
+          {
+            "store": "Old Restaurant (East Nanjing Road Branch)",
+            "product": "Shanghai-style Braised Pork Set Menu"
+          },
+          {
+            "store": "Jijin Japanese Restaurant (IFC Branch)",
+            "product": "Business Lunch Set B"
+          },
+          {
+            "store": "Xiangyan Building (Huaihai Road Branch)",
+            "product": "Family Gathering Set Menu"
+          }
+        ],
+        "search history": [
+          "Low-sugar restaurant",
+          "Business dining",
+          "Family-friendly restaurant",
+          "Japanese cuisine"
+        ]
+      },
+      "light meal": {
+        "frequently purchased categories": [
+          "Fast Food/Chinese Quick Meal (Average ¥45)",
+          "Local Cuisine/Sichuan Food (Average ¥55)",
+          "Fast Food/Western Quick Meal (Average ¥40)"
+        ],
+        "preferred average price per person": "¥35~60",
+        "preferred store rating": "3.5~4.3 stars",
+        "typical dining time": "12:00-13:30",
+        "preferred distance": "0~800m",
+        "recent orders": [
+          {
+            "store": "Yonghe King (Jinqiao Branch)",
+            "product": "Three Delicacies Tofu Pudding Set"
+          },
+          {
+            "store": "Salad Match (Shanghai Plaza Branch)",
+            "product": "Low-fat Chicken Breast Salad"
+          },
+          {
+            "store": "Yipin Beef Noodle (Zhangyang Road Branch)",
+            "product": "Clear Soup Beef Noodle"
+          }
+        ],
+        "search history": [
+          "Healthy light food",
+          "Low-calorie lunch",
+          "Weekday lunch",
+          "Quick service"
+        ]
+      },
+      "desserts/drinks/snacks": {
+        "frequently purchased categories": [
+          "Bakery and Desserts (Average ¥30)",
+          "Beverage Shops (Average ¥25)",
+          "Other Dining/Fresh Fruits (Average ¥35)"
+        ],
+        "preferred average price per person": "¥20~40",
+        "preferred store rating": "4.0~4.8 stars",
+        "typical dining time": "15:00-16:30",
+        "preferred distance": "0~500m",
+        "recent orders": [
+          {
+            "store": "LELECHA (Jinqiao Branch)",
+            "product": "Sugar-free Cheese Jasmine Tea"
+          },
+          {
+            "store": "BreadTalk (Zhangyang Road Branch)",
+            "product": "Whole Wheat Walnut Bread"
+          },
+          {
+            "store": "Xianfeng Fruits (Pudong Branch)",
+            "product": "Selected Fruit Platter"
+          }
+        ],
+        "search history": [
+          "Sugar-free drinks",
+          "Low-fat snacks",
+          "Healthy snacks",
+          "Fruits"
+        ]
+      }
+    },
+    "other in-store services": {
+      "frequently consumed categories": {
+        "Sports & Fitness/Fitness Centers": "40%",
+        "Beauty/Hair Salon": "25%",
+        "Beauty/Yoga": "20%",
+        "Entertainment/Massage/Foot Massage": "15%"
+      },
+      "cost per order by category": {
+        "Sports & Fitness/Fitness Centers": "¥150~300",
+        "Beauty/Hair Salon": "¥280~500",
+        "Beauty/Yoga": "¥120~200",
+        "Entertainment/Massage/Foot Massage": "¥180~350",
+        "Parent-Child/Family Entertainment": "¥100~300"
+      },
+      "preferred store rating": "4.0~4.8 stars",
+      "preferred service time": "18:30~21:00",
+      "preferred distance": "0~5000m",
+      "recent orders": [
+        {
+          "store": "Will's Fitness (Pudong Branch)",
+          "product": "Personal Training Session"
+        },
+        {
+          "store": "Lotus Yoga (Jinqiao Branch)",
+          "product": "Stress Relief Relaxation Course"
+        },
+        {
+          "store": "Tony & Guy (Shanghai Plaza Branch)",
+          "product": "Senior Designer Haircut"
+        }
+      ],
+      "search history": [
+        "Stress relief",
+        "Parent-child weekend activities",
+        "Women's fitness",
+        "Professional image design",
+        "Relaxation massage"
+      ]
+    }
+  },
+  "stores": {},
+  "orders": {}
+}

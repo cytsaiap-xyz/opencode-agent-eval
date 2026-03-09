@@ -1,0 +1,72 @@
+{
+  "required_orders": [
+    {
+      "order_id": "10826030T001",
+      "order_type": "instore",
+      "user_id": "U042405",
+      "store_id": "S17564424227928765_I00004",
+      "note": "",
+      "location": null,
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 228,
+      "create_time": "2024-08-16 16:15:22",
+      "update_time": "2024-08-16 16:15:22",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17564424227928765_P00015",
+          "name": "Standard Grooming Package",
+          "price": 228,
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "reservation_id": "10826030T002",
+      "shop_id": "S17564424227928765_I00004",
+      "reservation_time": "2024-08-17 13:00:00",
+      "update_time": "2024-08-16 16:17:22",
+      "customer_id": "U042405",
+      "customer_count": 1,
+      "status": "paid"
+    },
+    {
+      "order_id": "10826030T003",
+      "order_type": "instore",
+      "user_id": "U042405",
+      "store_id": "S17564424227928765_I00003",
+      "note": "",
+      "location": null,
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 128,
+      "create_time": "2024-08-16 16:19:22",
+      "update_time": "2024-08-16 16:19:22",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17564424227928765_P00009",
+          "name": "Low-Sugar Besties Afternoon Tea Set",
+          "price": 128,
+          "quantity": 1
+        }
+      ]
+    }
+  ],
+  "rubrics": [
+    "Check tomorrow's (2024-08-17) weather forecast, with the highest temperature exceeding 35°C, need to invite a bestie with a car to go to a pet grooming shop, so the pet grooming shop should be within 3km (including 3km) from Room 301, Unit 2, Building 5, Shanxi Theater Staff Quarters, 69 Tiyu Road, Xiaodian District, Taiyuan",
+    "The pet grooming shop's rating should be greater than or equal to 4.5",
+    "The pet grooming service should be a package that includes Bath, Grooming, and Nail Care",
+    "The total price of the pet grooming order should be less than or equal to 300 yuan",
+    "The pet grooming appointment should be at Pet Paradise",
+    "Check tomorrow's (2024-08-17) weather forecast, with the highest temperature exceeding 35°C, need to invite a bestie with a car to go to a pet grooming shop, so the pet grooming shop appointment time should be 2024-08-17 13:00:00",
+    "The number of pet grooming appointments should be 1",
+    "The coffee shop should be within 1km (including 1km) from Pet Paradise, 145 Changzhi Road, Xiaodian District, Taiyuan",
+    "The coffee shop should be a Social Media Check-in spot",
+    "The coffee shop order should be a set for two that includes White Flat White",
+    "The coffee shop order should include Low-Sugar Dessert"
+  ]
+}

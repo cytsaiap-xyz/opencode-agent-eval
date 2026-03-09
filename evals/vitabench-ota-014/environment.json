@@ -1,0 +1,115 @@
+{
+  "task_id": "70807004",
+  "domain": "ota",
+  "time": "2022-05-13 09:30:00",
+  "user_id": "U010029",
+  "weather": [
+    {
+      "city": "Shenzhen",
+      "category": "cloudy",
+      "datetime": "2022-05-13",
+      "temperature": [
+        24,
+        30
+      ],
+      "humidity": 75
+    },
+    {
+      "city": "Zhangjiajie",
+      "category": "sunny",
+      "datetime": "2022-05-13",
+      "temperature": [
+        18,
+        26
+      ],
+      "humidity": 65
+    },
+    {
+      "city": "Chongqing",
+      "category": "overcast",
+      "datetime": "2022-05-13",
+      "temperature": [
+        20,
+        28
+      ],
+      "humidity": 80
+    }
+  ],
+  "location": [
+    {
+      "address": "Zhangjiajie National Forest Park Visitor Center",
+      "longitude": 110.434395,
+      "latitude": 29.313375
+    }
+  ],
+  "user_profile": {
+    "user id": "U010029",
+    "occupation": "Driver",
+    "gender": "male",
+    "age group": "55~60",
+    "residence": "Shenzhen",
+    "home address": "12A, Building 3, Xinghai City, Intersection of Chuangye 2nd Road and Liuxian 1st Road, Xin'an Street, Bao'an District, Shenzhen, Guangdong Province",
+    "work address": "Terminal 3, Shenzhen Bao'an International Airport, 168 Fenghuangshan Avenue, Fuyong Street, Bao'an District, Shenzhen, Guangdong Province",
+    "dietary restrictions": "Avoid high purine foods (such as organ meats/seafood soup), no alcohol",
+    "family status": "Has children",
+    "personality": "Extremely detail-oriented, tends to be picky and easily dissatisfied"
+  },
+  "user_historical_behaviors": {
+    "user id": "U010029",
+    "occupation": "Driver",
+    "gender": "male",
+    "age group": "55~60",
+    "residence": "Shenzhen",
+    "home address": "Apartment 12A, Building 3, Xinghai City, Intersection of Chuangye 2nd Road and Liuxian 1st Road, Xin'an Street, Bao'an District, Shenzhen, Guangdong Province",
+    "work address": "Terminal 3, Shenzhen Bao'an International Airport, 168 Fenghuangshan Avenue, Fuyong Street, Bao'an District, Shenzhen, Guangdong Province",
+    "visited scenes": {
+      "Theme Parks": "35%",
+      "Natural Landscapes (Mountains/Lakes/Forests)": "25%",
+      "Parks": "20%",
+      "Scenic Area Facilities (Toilets/Cable Cars/Visitor Centers/Ticket Offices)": "10%",
+      "Landmark Buildings": "10%"
+    },
+    "cost per night on hotel": "300~500 yuan",
+    "visited hotels": {
+      "Home Inn": "30%",
+      "Hanting": "25%",
+      "7 Days Inn": "15%",
+      "GreenTree Inn": "15%",
+      "Jinjiang Inn": "10%",
+      "Super 8": "5%"
+    },
+    "browsed hotels": {
+      "3-Star Hotels": "45%",
+      "Budget Hotels": "35%",
+      "Comfort Hotels": "20%"
+    },
+    "historical travel plans": {
+      "Shenzhen-Guangzhou": {
+        "Price Range": "75-150 yuan",
+        "Transportation": "High-speed Rail/EMU Train"
+      },
+      "Shenzhen-Beijing": {
+        "Price Range": "800-1200 yuan",
+        "Transportation": "Airplane"
+      },
+      "Shenzhen-Shanghai": {
+        "Price Range": "700-1100 yuan",
+        "Transportation": "Airplane"
+      },
+      "Shenzhen-Hangzhou": {
+        "Price Range": "600-900 yuan",
+        "Transportation": "Airplane"
+      },
+      "Shenzhen-Zhuhai": {
+        "Price Range": "200-300 yuan",
+        "Transportation": "Long-distance Bus"
+      },
+      "Shenzhen-Huizhou": {
+        "Price Range": "100-180 yuan",
+        "Transportation": "Self-driving"
+      }
+    }
+  },
+  "stores": {},
+  "orders": {}
+}

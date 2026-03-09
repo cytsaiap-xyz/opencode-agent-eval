@@ -1,0 +1,50 @@
+{
+  "task_id": "95",
+  "query": "I plan to travel from Sanya to Nanjing on November 12, 2025, and return on November 17, 2025. There will be two of us. For transportation, we intend to take flights both ways—please directly help me select suitable flights.\n\nRegarding accommodation, I’d like something comfortable. Please find me a hotel that was renovated after 2023, as newer properties generally offer a better experience. We only need to book one room for two people.\n\nBy the way, there are two places in Nanjing where I especially want to try local food. One is near 'Yuhuatai Martyrs Cemetery'—I hope to find a restaurant with a waiting area service so we don’t have to rush our timing. The other is near 'Meiling Palace'—could you please find me the restaurant with the lowest average spending per person? I just want something casual where we can still taste local specialties.\n\nThese are basically all my requirements. Please go ahead and plan the itinerary and budget for me directly—no need to ask me any further details. November 12, 2025 is Wednesday",
+  "meta_info": {
+    "org": "Sanya",
+    "dest": [
+      "Nanjing"
+    ],
+    "days": 6,
+    "depart_date": "2025-11-12",
+    "return_date": "2025-11-17",
+    "people_number": 2,
+    "room_number": 1
+  },
+  "hard_constraints": {
+    "flight_seat_status": {
+      "constraint_context": "2 travelers, choosing to travel by plane, need to select a flight with sufficient remaining seats (this sentence does not need to be reflected in the query, but should be inferred by the user)",
+      "people_number": 2,
+      "outbound_seat_status": "5",
+      "inbound_seat_status": "6",
+      "outbound_flight_no": "MU3790",
+      "inbound_flight_no": "HO1735"
+    },
+    "hotel_newest_decoration": {
+      "constraint_context": "Please select hotels that were renovated in 2023 or later for accommodation",
+      "constraint_type": "superlative_newest_decoration",
+      "hotel_name": "Ji Hotel Nanjing Confucius Temple Laomendong",
+      "hotel_price": 385.0,
+      "hotel_score": 4.8,
+      "decoration_time": 2025,
+      "year_threshold": 2023
+    },
+    "restaurant_specific_tag_nearby": {
+      "constraint_context": "Arrange a meal at a restaurant near 'Yuhuatai Martyrs Cemetery' during the trip, with waiting area service required",
+      "constraint_type": "superlative_specific_tag_nearby",
+      "attraction_name": "Yuhuatai Martyrs Cemetery",
+      "restaurant_name": "Nengren Slow Time Community Self-Service Restaurant",
+      "required_tag": "Waiting Area",
+      "price_per_person": 100.0,
+      "restaurant_rating": 4.0
+    },
+    "restaurant_cheapest_nearby_attraction": {
+      "constraint_context": "During the trip, please arrange a meal at the cheapest restaurant near 'Meiling Palace' per person.",
+      "constraint_type": "superlative_cheapest_nearby_attraction",
+      "attraction_name": "Meiling Palace",
+      "restaurant_name": "Xilai Shun (Xiaowei Street Main Branch)",
+      "price_per_person": 100.0
+    }
+  }
+}

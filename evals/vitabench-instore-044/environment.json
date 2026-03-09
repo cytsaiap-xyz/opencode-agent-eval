@@ -1,0 +1,215 @@
+{
+  "task_id": "10826059",
+  "domain": "instore",
+  "time": "2025-11-13 15:29:25",
+  "user_id": "U013886",
+  "weather": [
+    {
+      "city": "Xiamen",
+      "category": "cloudy",
+      "datetime": "2025-11-13",
+      "temperature": [
+        18,
+        25
+      ],
+      "humidity": 62
+    },
+    {
+      "city": "Xiamen",
+      "category": "sunny",
+      "datetime": "2025-11-15",
+      "temperature": [
+        19,
+        26
+      ],
+      "humidity": 55
+    }
+  ],
+  "location": [
+    {
+      "address": "Room 504, Building 3, Lotus Apartment, 189 Lianqian East Road, Siming District, Xiamen",
+      "longitude": 118.1587,
+      "latitude": 24.4889
+    },
+    {
+      "address": "Xiamen Bus Group Huli Fleet, 4688 Xianyue Road, Huli District, Xiamen",
+      "longitude": 118.1726,
+      "latitude": 24.5033
+    }
+  ],
+  "user_profile": {
+    "user id": "U013886",
+    "occupation": "Driver",
+    "gender": "female",
+    "age group": "30~35",
+    "residence": "Xiamen",
+    "home address": "Room 504, Building 3, Lotus Apartment, 189 Lianqian East Road, Siming District, Xiamen",
+    "work address": "Xiamen Bus Group Huli Fleet, 4688 Xianyue Road, Huli District, Xiamen",
+    "dietary restrictions": "Avoids high purine foods (such as organ meats/seafood soup), avoids caffeine",
+    "family status": "Has children",
+    "personality": "Extremely detail-oriented, tends to be picky and easily dissatisfied"
+  },
+  "user_historical_behaviors": {
+    "user id": "U013886",
+    "occupation": "driver",
+    "gender": "female",
+    "age group": "30~35",
+    "residence": "Xiamen",
+    "home address": "Room 504, Building 3, Lotus Apartment, 189 Lianqian East Road, Siming District, Xiamen",
+    "work address": "Xiamen Bus Group Huli Fleet, 4688 Xianyue Road, Huli District, Xiamen",
+    "in-store dining": {
+      "fine-dining": {
+        "frequently purchased categories": [
+          "Regional cuisine/Seafood (average 125 yuan)",
+          "Regional cuisine/Hunan cuisine (average 85 yuan)",
+          "Regional cuisine/Cantonese cuisine (average 95 yuan)"
+        ],
+        "preferred average price per person": "80~130 yuan",
+        "preferred store rating": "4.0~4.6 stars",
+        "typical dining time": "18:30-20:30",
+        "preferred distance": "500~3000m",
+        "recent orders": [
+          {
+            "store": "Xiang Wei Xuan",
+            "product": "Chopped chili fish head set meal"
+          },
+          {
+            "store": "Seafood Restaurant",
+            "product": "Steamed grouper"
+          },
+          {
+            "store": "Yue Lai Yue Hao",
+            "product": "White cut chicken with seasonal vegetables"
+          }
+        ],
+        "search history": [
+          "Non-spicy fish",
+          "Family restaurant",
+          "Hunan restaurant"
+        ]
+      },
+      "light meal": {
+        "frequently purchased categories": [
+          "Snacks & fast food/Chinese quick meals (average 35 yuan)",
+          "Snacks & fast food/Western fast food (average 30 yuan)",
+          "Regional cuisine/Northeastern cuisine (average 45 yuan)"
+        ],
+        "preferred average price per person": "25~50 yuan",
+        "preferred store rating": "3.5~4.2 stars",
+        "typical dining time": "11:30-13:00",
+        "preferred distance": "0~1000m",
+        "recent orders": [
+          {
+            "store": "Northeastern Home Cooking",
+            "product": "Sweet and Sour Pork Set Meal"
+          },
+          {
+            "store": "Quick Bento",
+            "product": "Chicken Leg Rice"
+          },
+          {
+            "store": "Noodle King",
+            "product": "Shredded Pork Noodles"
+          }
+        ],
+        "search history": [
+          "Bento",
+          "Fast food",
+          "Noodles"
+        ]
+      },
+      "desserts/drinks/snacks": {
+        "frequently purchased categories": [
+          "Beverage shops (average 18 yuan)",
+          "Bakery & desserts (average 22 yuan)"
+        ],
+        "preferred average price per person": "15~25 yuan",
+        "preferred store rating": "3.8~4.5 stars",
+        "typical dining time": "15:00-16:30",
+        "preferred distance": "0~800m",
+        "recent orders": [
+          {
+            "store": "Fresh Fruit Tea",
+            "product": "Lemon Water"
+          },
+          {
+            "store": "Bread Talk",
+            "product": "Whole Wheat Bread"
+          },
+          {
+            "store": "Sweet Station",
+            "product": "Fruit Salad"
+          }
+        ],
+        "search history": [
+          "Caffeine-free drinks",
+          "Whole wheat bread",
+          "Fruit tea"
+        ]
+      }
+    },
+    "other in-store services": {
+      "frequently consumed categories": {
+        "Beauty/Hair styling": "20%",
+        "Beauty/Nail care": "15%",
+        "Sports & fitness/Fitness centers": "30%",
+        "Parent-child/Children's entertainment": "35%"
+      },
+      "cost per order by category": {
+        "Beauty/Hair styling": "80~150 yuan",
+        "Beauty/Nail care": "60~120 yuan",
+        "Sports & fitness/Fitness centers": "50~100 yuan",
+        "Parent-child/Children's entertainment": "100~200 yuan"
+      },
+      "preferred store rating": "4.0~4.8 stars",
+      "preferred service time": "Weekends 10:00-16:00",
+      "preferred distance": "0~5000m",
+      "recent orders": [
+        {
+          "store": "LEGO Family Park",
+          "product": "Weekend Parent-Child Package"
+        },
+        {
+          "store": "Healthy Living Fitness Center",
+          "product": "Single women's muscle building class"
+        },
+        {
+          "store": "Beauty Nails",
+          "product": "Simple Style Manicure"
+        }
+      ],
+      "search history": [
+        "Family activities",
+        "Weekend fitness",
+        "Children's entertainment",
+        "Women's fitness"
+      ]
+    }
+  },
+  "stores": {},
+  "orders": {
+    "10826059T001": {
+      "order_id": "10826059T001",
+      "order_type": "instore",
+      "user_id": "U013886",
+      "store_id": "S17564426124392851_I00001",
+      "note": "",
+      "location": null,
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 88,
+      "order_time": "2025-11-12 16:33:00",
+      "update_time": "2025-11-12 16:33:00",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17564426124392851_P00001",
+          "name": "Adult rock climbing single experience package",
+          "price": 88,
+          "quantity": 1
+        }
+      ]
+    }
+  }
+}

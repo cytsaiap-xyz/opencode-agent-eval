@@ -1,0 +1,233 @@
+{
+  "task_id": "10826064",
+  "domain": "instore",
+  "time": "2024-02-05 20:15:00",
+  "user_id": "U013994",
+  "weather": [
+    {
+      "city": "Chengdu City",
+      "category": "cloudy",
+      "datetime": "2024-02-05",
+      "temperature": [
+        8,
+        16
+      ],
+      "humidity": 65
+    },
+    {
+      "city": "Chengdu City",
+      "category": "sunny",
+      "datetime": "2024-02-11",
+      "temperature": [
+        9,
+        18
+      ],
+      "humidity": 55
+    },
+    {
+      "city": "Dujiangyan City",
+      "category": "sunny",
+      "datetime": "2024-02-11",
+      "temperature": [
+        8,
+        17
+      ],
+      "humidity": 60
+    },
+    {
+      "city": "Chongzhou City",
+      "category": "cloudy to sunny",
+      "datetime": "2024-02-11",
+      "temperature": [
+        7,
+        16
+      ],
+      "humidity": 65
+    }
+  ],
+  "location": [
+    {
+      "address": " No. 18, Section 2, Hongxing Road, Jinjiang District, Chengdu, Sichuan Province (450 meters walk from Exit A of City Second Hospital Metro Station) ",
+      "longitude": 104.0738,
+      "latitude": 30.6571
+    },
+    {
+      "address": "Room 512, W3 Zone, Global Center, No. 1700, North Section of Tianfu Avenue, Wuhou District, Chengdu",
+      "longitude": 104.0668,
+      "latitude": 30.5843
+    },
+    {
+      "address": "Qingcheng Mountain Town, Dujiangyan City, Chengdu",
+      "longitude": 103.5754,
+      "latitude": 30.9141
+    },
+    {
+      "address": "Jiezi Ancient Town, Chongzhou City, Chengdu",
+      "longitude": 103.6731,
+      "latitude": 30.6302
+    },
+    {
+      "address": "Near Tianfu International Airport, Shuangliu District, Chengdu",
+      "longitude": 103.9474,
+      "latitude": 30.5785
+    }
+  ],
+  "user_profile": {
+    "user_id": "U013994",
+    "occupation": "game streamer",
+    "gender": "female",
+    "age_group": "20~25",
+    "residence": "Chengdu",
+    "home_address": " No. 18, Section 2, Hongxing Road, Jinjiang District, Chengdu, Sichuan Province (450 meters walk from Exit A of City Second Hospital Metro Station) ",
+    "work_address": "Room 512, W3 Zone, Global Center, No. 1700, North Section of Tianfu Avenue, Wuhou District, Chengdu",
+    "dietary_restrictions": "Avoids oily and spicy food, avoids caffeine",
+    "family_status": "Has pets",
+    "personality": "Easily anxious and worried, needs repeated confirmation to feel at ease"
+  },
+  "user_historical_behaviors": {
+    "user id": "U013994",
+    "occupation": "Game streamer",
+    "gender": "female",
+    "age group": "20~25",
+    "residence": "Chengdu",
+    "home address": " No. 18, Section 2, Hongxing Road, Jinjiang District, Chengdu, Sichuan Province (450 meters walk from Exit A of City Second Hospital Metro Station) ",
+    "work address": "Room 512, W3 Zone, Global Center, No. 1700, North Section of Tianfu Avenue, Wuhou District, Chengdu",
+    "in-store dining": {
+      "fine-dining": {
+        "frequently purchased categories": [
+          "International cuisine/Japanese food (Average 120 yuan)",
+          "Regional cuisine/Sichuan food (Average 85 yuan)",
+          "Regional cuisine/Cantonese food (Average 95 yuan)"
+        ],
+        "preferred average price per person": "85~120 yuan",
+        "preferred store rating": "4.2~4.9 stars",
+        "typical dining time": "18:30-21:00",
+        "preferred distance": "500~3000m",
+        "recent orders": [
+          {
+            "store": "Hefeng Japanese Restaurant (IFS Branch)",
+            "product": "Exquisite Couple Set"
+          },
+          {
+            "store": "Chengdu Impression (Taikoo Li Branch)",
+            "product": "Signature Spicy Blood Curd"
+          },
+          {
+            "store": "Cantonese Tea Restaurant (Global Center Branch)",
+            "product": "Black Pepper Beef Strips"
+          }
+        ],
+        "search history": [
+          "Japanese cuisine",
+          "Non-spicy Sichuan food",
+          "Light food",
+          "Health-oriented meals"
+        ]
+      },
+      "light meal": {
+        "frequently purchased categories": [
+          "Fast food/Chinese simple meals (Average 35 yuan)",
+          "Fast food/Western fast food (Average 40 yuan)",
+          "Regional cuisine/Shanghai and Zhejiang cuisine (Average 45 yuan)"
+        ],
+        "preferred average price per person": "30~50 yuan",
+        "preferred store rating": "3.5~4.3 stars",
+        "typical dining time": "12:00-13:30",
+        "preferred distance": "0~800m",
+        "recent orders": [
+          {
+            "store": "Light Salad (Global Center Branch)",
+            "product": "Chicken Breast Vegetable Salad"
+          },
+          {
+            "store": "Jixiang Wonton (IFS Branch)",
+            "product": "Shrimp Wonton Set"
+          },
+          {
+            "store": "McDonald's (Wuhou District Branch)",
+            "product": "Chicken Wrap + Fries"
+          }
+        ],
+        "search history": [
+          "Light food",
+          "Salad",
+          "Non-spicy fast food",
+          "Healthy meals"
+        ]
+      },
+      "desserts/drinks/snacks": {
+        "frequently purchased categories": [
+          "Beverage shops (Average 22 yuan)",
+          "Bread and desserts (Average 32 yuan)",
+          "Other dining/Fruits and fresh produce (Average 25 yuan)"
+        ],
+        "preferred average price per person": "18~35 yuan",
+        "preferred store rating": "4.0~4.8 stars",
+        "typical dining time": "15:00-17:00",
+        "preferred distance": "0~500m",
+        "recent orders": [
+          {
+            "store": "HEYTEA (Taikoo Li Branch)",
+            "product": "Cheese Mango (Caffeine-free)"
+          },
+          {
+            "store": "Fresh Fruit Cuts (IFS Branch)",
+            "product": "Fruit Platter"
+          },
+          {
+            "store": "Bread Talk (Global Center Branch)",
+            "product": "Matcha Red Bean Bread"
+          }
+        ],
+        "search history": [
+          "Caffeine-free drinks",
+          "Fruits",
+          "Low-sugar desserts",
+          "Fresh fruits"
+        ]
+      }
+    },
+    "other in-store services": {
+      "frequently consumed categories": {
+        "Beauty/Hairdressing": "20%",
+        "Beauty/Nail art": "15%",
+        "Sports and fitness/Fitness centers": "25%",
+        "Entertainment/Murder mystery game": "20%",
+        "Pets/Pet hospitals": "20%"
+      },
+      "cost per order by category": {
+        "Beauty/Hairdressing": "280~450 yuan",
+        "Beauty/Nail art": "150~220 yuan",
+        "Entertainment/Hot spring": "520~1000 yuan/time",
+        "Entertainment/Murder mystery game": "80~120 yuan/time",
+        "Pets/Pet hospitals": "200~500 yuan"
+      },
+      "preferred store rating": "4.0~4.8 stars",
+      "preferred service time": "10:00-16:00",
+      "preferred distance": "0~5000m",
+      "recent orders": [
+        {
+          "store": "Dreamlike Resort",
+          "product": "Three-person package"
+        },
+        {
+          "store": "Pet Love Animal Hospital (Jinjiang District Branch)",
+          "product": "Cat Health Examination Package"
+        },
+        {
+          "store": "Immersive Murder Mystery Game (Taikoo Li Branch)",
+          "product": "Two-person script experience"
+        }
+      ],
+      "search history": [
+        "Hot spring",
+        "Cat hospital",
+        "Murder mystery game",
+        "Nail salon recommendations",
+        "Game arcade package"
+      ]
+    }
+  },
+  "stores": {},
+  "orders": {}
+}

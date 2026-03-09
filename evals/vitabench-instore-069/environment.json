@@ -1,0 +1,234 @@
+{
+  "task_id": "10826120",
+  "domain": "instore",
+  "time": "2025-03-06 18:45:00",
+  "user_id": "U996108",
+  "weather": [
+    {
+      "city": "Nanning",
+      "category": "cloudy",
+      "datetime": "2025-03-06",
+      "temperature": [
+        16,
+        24
+      ],
+      "humidity": 62
+    },
+    {
+      "city": "Nanning",
+      "category": "sunny",
+      "datetime": "2025-03-07",
+      "temperature": [
+        17,
+        26
+      ],
+      "humidity": 58
+    },
+    {
+      "city": "Nanning",
+      "category": "Sunny Turning Cloudy",
+      "datetime": "2025-03-08",
+      "temperature": [
+        18,
+        27
+      ],
+      "humidity": 60
+    }
+  ],
+  "location": [
+    {
+      "address": "Room 1204, Building 3, Ronghe Shanshui Greentown, 20 Fengling North Road, Qingxiu District, Nanning",
+      "longitude": 108.383721,
+      "latitude": 22.832476
+    },
+    {
+      "address": "15th Floor, China Resources Building, 136 Minzu Avenue, Qingxiu District, Nanning",
+      "longitude": 108.367842,
+      "latitude": 22.812563
+    },
+    {
+      "address": "Mixc Shopping Mall, Qingxiu District, Nanning",
+      "longitude": 108.370125,
+      "latitude": 22.814982
+    }
+  ],
+  "user_profile": {
+    "user id": "U996108",
+    "occupation": "White-collar Worker",
+    "gender": "female",
+    "age group": "30~35",
+    "residence": "Nanning",
+    "home address": "Room 1204, Building 3, Ronghe Shanshui Greentown, 20 Fengling North Road, Qingxiu District, Nanning",
+    "work address": "15th Floor, China Resources Building, 136 Minzu Avenue, Qingxiu District, Nanning",
+    "dietary restrictions": "No deep-fried food, No caffeine",
+    "family status": "In a relationship",
+    "personality": "Mild-tempered with high compliance, good at listening and understanding"
+  },
+  "user_historical_behaviors": {
+    "user id": "U996108",
+    "occupation": "white-collar worker",
+    "gender": "female",
+    "age group": "30~35",
+    "residence": "Nanning",
+    "home address": "Room 1204, Building 3, Ronghe Shanshui Greentown, 20 Fengling North Road, Qingxiu District, Nanning",
+    "work address": "15th Floor, China Resources Building, 136 Minzu Avenue, Qingxiu District, Nanning",
+    "in-store dining": {
+      "fine-dining": {
+        "frequently purchased categories": [
+          "Regional Cuisine/Cantonese Cuisine (Average ¥120)",
+          "International Cuisine/Japanese Cuisine (Average ¥150)",
+          "Regional Cuisine/Fish Cuisine (Average ¥135)"
+        ],
+        "preferred average price per person": "¥100~160",
+        "preferred store rating": "4.3~4.8 stars",
+        "typical dining time": "18:30-20:30",
+        "preferred distance": "500~3000m",
+        "recent orders": [
+          {
+            "store": "Tang Palace Cantonese Restaurant (China Resources Building Branch)",
+            "product": "Steamed Lobster"
+          },
+          {
+            "store": "Helu Rotating Sushi (Mixc Branch)",
+            "product": "Salmon Sashimi Platter"
+          },
+          {
+            "store": "Aqiang Fishing Village (Qingxiu Branch)",
+            "product": "Sour Cabbage Fish"
+          }
+        ],
+        "search history": [
+          "Healthy Cantonese Cuisine",
+          "Additive-free Sushi",
+          "Steamed Fish",
+          "Low-fat Restaurants"
+        ]
+      },
+      "light meal": {
+        "frequently purchased categories": [
+          "Fast Food/Chinese Simple Meals (Average ¥35)",
+          "Regional Cuisine/Specialty Dishes (Average ¥45)",
+          "Fast Food/Western Quick Meals (Average ¥40)"
+        ],
+        "preferred average price per person": "¥25~50",
+        "preferred store rating": "3.5~4.2 stars",
+        "typical dining time": "12:00-13:00",
+        "preferred distance": "0~500m",
+        "recent orders": [
+          {
+            "store": "Light Food Salad (China Resources Building Branch)",
+            "product": "Quinoa Chicken Breast Salad"
+          },
+          {
+            "store": "Mr. Rice Noodle (Qingxiu Wanda Branch)",
+            "product": "Liuzhou Snail Noodles (Mild Spicy)"
+          },
+          {
+            "store": "Good Porridge (Minzu Avenue Branch)",
+            "product": "Century Egg & Lean Meat Porridge + Side Dish"
+          }
+        ],
+        "search history": [
+          "Light Food",
+          "Low-calorie Lunch",
+          "Healthy Fast Food",
+          "Salad"
+        ]
+      },
+      "desserts/drinks/snacks": {
+        "frequently purchased categories": [
+          "Beverage Shops (Average ¥20)",
+          "Bakery & Desserts (Average ¥25)",
+          "Other Dining/Fresh Fruits (Average ¥18)"
+        ],
+        "preferred average price per person": "¥15~30",
+        "preferred store rating": "4.0~4.5 stars",
+        "typical dining time": "15:00-16:30",
+        "preferred distance": "0~300m",
+        "recent orders": [
+          {
+            "store": "Cha Bai Dao (China Resources Building Branch)",
+            "product": "Sugar-free Jasmine Green Tea"
+          },
+          {
+            "store": "Fresh Fruit Workshop (Minzu Avenue Branch)",
+            "product": "Fruit Platter"
+          },
+          {
+            "store": "Bread Talk (Mixc Branch)",
+            "product": "Whole Wheat Bread"
+          }
+        ],
+        "search history": [
+          "Sugar-free Beverages",
+          "Low-fat Desserts",
+          "Fresh Fruits",
+          "Whole Wheat Bread"
+        ]
+      }
+    },
+    "other in-store services": {
+      "frequently consumed categories": {
+        "Sports & Fitness/Yoga": "40%",
+        "Beauty/Hair Styling": "25%",
+        "Leisure & Entertainment/Massage/Foot Therapy": "20%",
+        "Beauty/Nail Art": "15%"
+      },
+      "cost per order by category": {
+        "Sports & Fitness/Yoga": "¥120~200",
+        "Beauty/Hair Styling": "¥150~300",
+        "Leisure & Entertainment/Massage/Foot Therapy": "¥120~180",
+        "Beauty/Nail Art": "¥80~150"
+      },
+      "preferred store rating": "4.0~4.8 stars",
+      "preferred service time": "19:00-21:00",
+      "preferred distance": "0~2500m",
+      "recent orders": [
+        {
+          "store": "Yuexin Yoga (Ronghe Shanshui Greentown Branch)",
+          "product": "Single Person Yoga Course"
+        },
+        {
+          "store": "Hair Color Expert (Mixc Branch)",
+          "product": "Wash, Cut & Style Package"
+        },
+        {
+          "store": "Xinyi Anti-aging Center",
+          "product": "[Anti-aging Firming] Yvoire C Hyaluronic Acid 1ml Injection Filler with Authenticity Verification"
+        }
+      ],
+      "search history": [
+        "Yoga Courses",
+        "Non-irritating Essential Oil Massage",
+        "Natural Hair Dye",
+        "Repair Hair Mask"
+      ]
+    }
+  },
+  "stores": {},
+  "orders": {
+    "10826120T004": {
+      "order_id": "10826120T004",
+      "order_type": "instore",
+      "user_id": "U996108",
+      "store_id": "S17567836580604988_I00002",
+      "note": "",
+      "location": null,
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 288,
+      "order_time": "2025-03-01 15:45:00",
+      "update_time": "2025-03-01 15:45:00",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17567836580604988_P00013",
+          "name": "Business Set Menu A for Two",
+          "price": 298,
+          "quantity": 1
+        }
+      ]
+    }
+  }
+}

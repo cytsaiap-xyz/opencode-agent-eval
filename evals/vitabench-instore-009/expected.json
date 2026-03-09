@@ -1,0 +1,97 @@
+{
+  "required_orders": [
+    {
+      "order_id": "10826023T001",
+      "order_type": "instore",
+      "user_id": "U163066",
+      "store_id": "S17564420351855866_I00001",
+      "note": "",
+      "location": null,
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 85,
+      "create_time": "2024-07-12 16:33:00",
+      "update_time": "2024-07-12 16:33:00",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17564420351855866_P00005",
+          "name": "Table Tennis 2-Hour Trial Class",
+          "price": 85,
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "reservation_id": "10807003T002",
+      "shop_id": "S17564420351855866_I00001",
+      "reservation_time": "2024-07-13 16:00:00",
+      "update_time": "2024-07-12 16:35:00",
+      "customer_id": "U163066",
+      "customer_count": 1,
+      "status": "paid"
+    },
+    {
+      "order_id": "10826023T003",
+      "order_type": "instore",
+      "user_id": "U163066",
+      "store_id": "S17564420351855866_I00002",
+      "note": "",
+      "location": null,
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 68,
+      "create_time": "2024-07-11 12:23:00",
+      "update_time": "2024-07-12 16:37:00",
+      "status": "cancelled",
+      "products": [
+        {
+          "product_id": "S17564420351855866_P00008",
+          "name": "Deluxe Family Dumpling Set (Two-Person)",
+          "price": 68,
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "order_id": "10826023T004",
+      "order_type": "instore",
+      "user_id": "U163066",
+      "store_id": "S17564420351855866_I00003",
+      "note": "",
+      "location": null,
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 58,
+      "create_time": "2024-07-12 16:39:00",
+      "update_time": "2024-07-12 16:39:00",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17564420351855866_P00012",
+          "name": "Strawberry Cream Cake",
+          "price": 58,
+          "quantity": 1
+        }
+      ]
+    }
+  ],
+  "rubrics": [
+    "The table tennis hall to be booked should be open 24 hours",
+    "The table tennis hall should offer a 2-Hour Trial Class",
+    "The table tennis hall booking time should be 2024-07-13 16:00:00",
+    "The number of people for the table tennis hall booking should be 1",
+    "The table tennis hall to be booked should be Star Power Table Tennis Hall (Jianghan Branch)",
+    "The table tennis hall booking should be for a Trial Class",
+    "The duration of use for the table tennis hall booking should be 2 Hours",
+    "The dumpling order status should be cancelled",
+    "The dessert shop should be within 500m (inclusive) from Room 501, Unit 2, Building 4, Hankou Bank Staff Quarters, 241 Xinhua Road, Jianghan District, Wuhan, Hubei Province",
+    "The dessert shop rating should be 3.8 or above",
+    "The dessert shop order should be for a Cake",
+    "The dessert shop order should be Fruit flavored",
+    "The dessert shop order should not be Cheesecake flavored"
+  ]
+}

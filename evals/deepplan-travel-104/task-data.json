@@ -1,0 +1,43 @@
+{
+  "task_id": "103",
+  "query": "I'm planning a trip from Hangzhou to Nanchang on November 12, 2025, returning on November 18. Specifically, I have a few small requests—could you please help me arrange the itinerary? For the return journey, I'd like to take a train, preferably a direct one with the shortest possible travel time to save time. For accommodation, please choose a hotel within the price range of 240 to 290 RMB per night—my budget is roughly in that range.\n\nBy the way, I’d also like to schedule two restaurant visits during the trip. One should be near Bayi Square, preferably at a restaurant that offers a waiting area service, which would be more convenient, rating high priority. The other should be near 'Aixi Lake Forest Wetland Park'—please find me the highest-rated restaurant nearby, as I’d like to experience some local specialties.\n\nThat's basically all—I believe I've provided all the necessary information. Please go ahead and plan the itinerary for me directly without asking further preferences. Thank you! November 12, 2025 is Wednesday",
+  "meta_info": {
+    "org": "Hangzhou",
+    "dest": [
+      "Nanchang"
+    ],
+    "days": 7,
+    "depart_date": "2025-11-12",
+    "return_date": "2025-11-18",
+    "people_number": 1,
+    "room_number": 1
+  },
+  "hard_constraints": {
+    "train_shortest_duration_direct": {
+      "constraint_context": "For the return trip, I hope to choose a train, and need to select the \"direct train\" with the shortest travel duration.",
+      "constraint_type": "superlative_shortest_duration",
+      "inbound_train_no": "G296"
+    },
+    "hotel_price_range": {
+      "constraint_context": "The accommodation price must be between 240 and 290 yuan.",
+      "hotel_name": "Orange Hotel Nanchang Zijing Night Market University of Finance and Economics Branch",
+      "hotel_price": 265.0,
+      "min_price": 240,
+      "max_price": 290
+    },
+    "restaurant_specific_tag_nearby": {
+      "constraint_context": "Arrange a meal at a restaurant near 'Bayi Square' during the trip, with waiting area service required, rating high priority",
+      "constraint_type": "superlative_specific_tag_nearby",
+      "attraction_name": "Bayi Square",
+      "restaurant_name": "Hongyun Restaurant"
+    },
+    "restaurant_highest_rated": {
+      "constraint_context": "During the trip, please arrange one meal at the highest-rated restaurant near 'Aixi Lake Forest Wetland Park'.",
+      "constraint_type": "superlative_highest_rated_restaurant",
+      "attraction_name": "Aixi Lake Forest Wetland Park",
+      "restaurant_name": "KFC (Aixi Lake Park Branch)",
+      "price_per_person": 35.0,
+      "restaurant_rating": 4.6
+    }
+  }
+}

@@ -1,0 +1,69 @@
+{
+  "required_orders": [
+    {
+      "order_id": "10826040T001",
+      "order_type": "instore",
+      "user_id": "U719674",
+      "store_id": "S17564426693922849_I00001",
+      "note": "",
+      "location": null,
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 188,
+      "create_time": "2025-05-30 15:23:00",
+      "update_time": "2025-05-30 15:23:00",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17564426693922849_P00001",
+          "name": "Dragon Boat Festival zongzi making family package (2 adults 1 child)",
+          "price": 188,
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "reservation_id": "10826061T002",
+      "shop_id": "S17564426693922849_I00001",
+      "reservation_time": "2025-05-31 14:00:00",
+      "update_time": "2025-05-30 15:27:00",
+      "customer_id": "U719674",
+      "customer_count": 3,
+      "status": "paid"
+    },
+    {
+      "order_id": "10826061T003",
+      "order_type": "instore",
+      "user_id": "U719674",
+      "store_id": "S17564426693922849_I00002",
+      "note": "",
+      "location": null,
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 398,
+      "create_time": "2025-05-30 15:30:00",
+      "update_time": "2025-05-30 15:30:00",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17564426693922849_P00005",
+          "name": "Dragon Boat Festival special seafood family package",
+          "price": 398,
+          "quantity": 1
+        }
+      ]
+    }
+  ],
+  "rubrics": [
+    "The DIY handicraft workshop to be ordered should have more than 5 years of traditional handicraft making experience",
+    "The ordered product from DIY handicraft workshop should include zongzi making activity",
+    "The ordered product from DIY handicraft workshop should be a family package for 2 adults and 1 child",
+    "The DIY handicraft workshop appointment time should be 2025-05-31 14:00:00",
+    "The DIY handicraft workshop reservation should be for 3 people",
+    "The DIY handicraft workshop merchant should be Zongqing Handcraft Workshop",
+    "After checking user's historical behavior, the restaurant to order from should be Qingdao Fishing Port Seafood Restaurant",
+    "After checking the set meals of Qingdao Fishing Port Seafood Restaurant, the results include Dragon Boat Festival exclusive package, therefore the seafood restaurant order should be for the Dragon Boat Festival exclusive package"
+  ]
+}

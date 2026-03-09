@@ -1,0 +1,824 @@
+{
+  "task_id": "A0811002",
+  "domain": "cross_domain",
+  "time": "2026-08-06 19:30:00",
+  "user_id": "U226214",
+  "weather": [
+    {
+      "city": "Suzhou",
+      "category": "sunny",
+      "datetime": "2026-08-07",
+      "temperature": [
+        26,
+        34
+      ],
+      "humidity": 65
+    },
+    {
+      "city": "Suzhou",
+      "category": "cloudy",
+      "datetime": "2026-08-08",
+      "temperature": [
+        25,
+        33
+      ],
+      "humidity": 70
+    },
+    {
+      "city": "Suzhou",
+      "category": "cloudy to light rain",
+      "datetime": "2026-08-09",
+      "temperature": [
+        24,
+        31
+      ],
+      "humidity": 75
+    },
+    {
+      "city": "Danyang",
+      "category": "sunny",
+      "datetime": "2026-08-07",
+      "temperature": [
+        27,
+        35
+      ],
+      "humidity": 60
+    },
+    {
+      "city": "Danyang",
+      "category": "cloudy",
+      "datetime": "2026-08-08",
+      "temperature": [
+        26,
+        34
+      ],
+      "humidity": 65
+    },
+    {
+      "city": "Danyang",
+      "category": "showers",
+      "datetime": "2026-08-09",
+      "temperature": [
+        25,
+        32
+      ],
+      "humidity": 80
+    }
+  ],
+  "location": [],
+  "user_profile": {
+    "user id": "U226214",
+    "occupation": "Algorithm Engineer",
+    "gender": "male",
+    "age group": "30~35",
+    "residence": "Suzhou",
+    "Permanent address": "Room 502, Unit 1, Building 3, Suzhou Entrepreneurship Park, 328 Xinghu Street, Industrial Park, Suzhou, Jiangsu Province",
+    "work address": "5th Floor, Building 12A, Tengfei Innovation Park, 199 Xinggang Street, Industrial Park, Suzhou, Jiangsu Province",
+    "dietary restrictions": "No high-fat offal, no alcohol",
+    "family status": "Has children",
+    "personality": "Impatient, frequently urges others, lacks patience for processes"
+  },
+  "user_historical_behaviors": {
+    "user id": "U226214",
+    "occupation": "Algorithm Engineer",
+    "gender": "male",
+    "age group": "30~35",
+    "residence": "Suzhou",
+    "Permanent address": "Room 502, Unit 1, Building 3, Suzhou Venture Park, 328 Xinghu Street, Industrial Park, Suzhou, Jiangsu Province",
+    "work address": "5th Floor, Building 12A, Tengfei Innovation Park, 199 Xinggang Street, Industrial Park, Suzhou, Jiangsu Province",
+    "Takeout scenario": {
+      "food delivery": {
+        "breakfast": {
+          "frequently purchased categories": [
+            "Quick Meals/Steamed Buns/Pan-fried Buns (Average ¥18)",
+            "Quick Meals/Jianbing/Wraps/Hand-grabbed Pancakes (Average ¥15)",
+            "Quick Meals/Dumplings/Wonton (Average ¥22)"
+          ],
+          "cost per order": "¥15~30",
+          "preferred store rating": "4.3~4.8",
+          "preferred delivery time": "15~25 minutes",
+          "preferred distance": "0~2000m",
+          "recent orders": [
+            {
+              "store": "Mr. Breakfast",
+              "product": "Mushroom Pork Bun + Soy Milk Set"
+            },
+            {
+              "store": "Old Beijing Jianbing",
+              "product": "Whole Wheat Jianbing + Tea Egg"
+            },
+            {
+              "store": "Champion Dumplings",
+              "product": "Pork Wonton + Side Dish"
+            }
+          ],
+          "search history": [
+            "Steamed Buns",
+            "Soy Milk",
+            "Jianbing",
+            "Breakfast Set",
+            "Dumplings"
+          ]
+        },
+        "weekday lunch/dinner": {
+          "frequently purchased categories": [
+            "Quick Meals/Rice with Toppings (Average ¥28)",
+            "Quick Meals/Huang Meng Chicken Rice (Average ¥32)",
+            "International Cuisine/Japanese Bento/Sushi (Average ¥45)"
+          ],
+          "cost per order": "¥25~60",
+          "preferred store rating": "4.2~4.7",
+          "preferred delivery time": "20~35 minutes",
+          "preferred distance": "0~3500m",
+          "recent orders": [
+            {
+              "store": "Yang Mingyu Huang Meng Chicken",
+              "product": "Huang Meng Chicken Rice + Iced Tea"
+            },
+            {
+              "store": "Yoshinoya",
+              "product": "Beef Bowl + Miso Soup"
+            },
+            {
+              "store": "Xiaoshidai Bento",
+              "product": "Teriyaki Chicken Leg Bento"
+            }
+          ],
+          "search history": [
+            "Bento",
+            "Huang Meng Chicken",
+            "Fast Food",
+            "Rice with Toppings",
+            "Japanese Food"
+          ]
+        },
+        "weekend lunch/dinner": {
+          "frequently purchased categories": [
+            "Chinese Cuisine/Sichuan Food (Average ¥88)",
+            "Hot Pots/Individual Hot Pot (Average ¥95)",
+            "International Cuisine/Korean Food (Average ¥110)"
+          ],
+          "cost per order": "¥70~180",
+          "preferred store rating": "4.5~4.9",
+          "preferred delivery time": "30~45 minutes",
+          "preferred distance": "0~5000m",
+          "recent orders": [
+            {
+              "store": "Lafu Hot Pot",
+              "product": "Individual Spicy Hot Pot Set"
+            },
+            {
+              "store": "Bashu General",
+              "product": "Twice-cooked Pork + Boiled Fish Slices + Rice"
+            },
+            {
+              "store": "Korean Royal Feast",
+              "product": "Stone Pot Bibimbap + Kimchi Soup"
+            }
+          ],
+          "search history": [
+            "Hot Pot",
+            "Sichuan Food",
+            "Korean Food",
+            "Family Set",
+            "Stone Pot Bibimbap"
+          ]
+        },
+        "desserts/drinks/snacks": {
+          "frequently purchased categories": [
+            "Drinks & Desserts/Milk Tea (Average ¥22)",
+            "Drinks & Desserts/Coffee (Average ¥32)",
+            "Drinks & Desserts/Fruit Desserts (Average ¥28)"
+          ],
+          "cost per order": "¥15~40",
+          "preferred store rating": "4.4~4.8",
+          "preferred delivery time": "15~30 minutes",
+          "preferred distance": "0~3000m",
+          "recent orders": [
+            {
+              "store": "Cha Bai Dao",
+              "product": "Grape Multiple Tea"
+            },
+            {
+              "store": "Luckin Coffee",
+              "product": "Coconut Latte"
+            },
+            {
+              "store": "Fresh Fruit Mix",
+              "product": "Mango Pomelo Sago"
+            }
+          ],
+          "search history": [
+            "Milk Tea",
+            "Coffee",
+            "Fruit Desserts",
+            "Afternoon Tea",
+            "Desserts"
+          ]
+        },
+        "night snack": {
+          "frequently purchased categories": [
+            "BBQ & Fried Food/Fried Chicken/Fried Items (Average ¥45)",
+            "Quick Meals/Liuzhou Rice Noodles (Average ¥32)"
+          ],
+          "cost per order": "¥30~55",
+          "preferred store rating": "4.0~4.6",
+          "preferred delivery time": "20~40 minutes",
+          "preferred distance": "0~3500m",
+          "recent orders": [
+            {
+              "store": "Zhenxin Chicken Cutlet",
+              "product": "Spicy Chicken Cutlet + French Fries"
+            },
+            {
+              "store": "Liuzhou Rice Noodles",
+              "product": "Signature Rice Noodles + Braised Egg"
+            },
+            {
+              "store": "McDonald's",
+              "product": "Spicy Chicken Wings + Coke"
+            }
+          ],
+          "search history": [
+            "Fried Chicken",
+            "Rice Noodles",
+            "Night Snack",
+            "Chicken Cutlet",
+            "Hamburger"
+          ]
+        }
+      },
+      "product delivery": {
+        "frequently purchased categories": [
+          "Vegetables/Bean Products(30%)",
+          "Fresh Meat/Poultry/Eggs(22%)",
+          "Grains/Oil/Seasonings/Dry Goods(18%)",
+          "Beverages/Nutritional Supplements(12%)",
+          "Household Items(10%)",
+          "Others(8%)"
+        ],
+        "frequently visited stores": [
+          "Suguo Supermarket(35%)",
+          "Yonghui Superstores(28%)",
+          "MissFresh(22%)",
+          "Other Stores(15%)"
+        ],
+        "cost per order by category": {
+          "Vegetables/Bean Products": "¥5~25",
+          "Fresh Meat/Poultry/Eggs": "¥20~60",
+          "Grains/Oil/Seasonings/Dry Goods": "¥10~40",
+          "Beverages/Nutritional Supplements": "¥5~30",
+          "Household Items": "¥15~50"
+        },
+        "preferred delivery time": "30~60 minutes",
+        "typical order time": "17~19:00(42%), 10~12:00(25%), 13~15:00(18%)",
+        "recent orders": [
+          {
+            "store": "Yonghui Superstores",
+            "product": "Chicken Breast 500g, Broccoli 300g, Carrot 200g"
+          },
+          {
+            "store": "Suguo Supermarket",
+            "product": "Rice 5kg, Cooking Oil 900ml"
+          },
+          {
+            "store": "MissFresh",
+            "product": "Pure Milk 250ml*24, Eggs 15pcs"
+          }
+        ],
+        "search history": [
+          "Chicken Breast",
+          "Vegetables",
+          "Rice",
+          "Laundry Detergent",
+          "Milk",
+          "Fruits"
+        ]
+      }
+    },
+    "In-store scenario": {
+      "in-store dining": {
+        "fine-dining": {
+          "frequently consumed categories": [
+            "Regional Cuisine/Shanghai & Jiangsu-Zhejiang Cuisine (Average ¥120)",
+            "International Cuisine/Japanese Cuisine (Average ¥150)",
+            "Regional Cuisine/Cantonese Cuisine (Average ¥130)"
+          ],
+          "preferred average price per person": "¥120~150",
+          "preferred store rating": "4.2~4.8 stars",
+          "typical dining time": "18:30-20:30",
+          "preferred distance": "1000~5000m",
+          "recent orders": [
+            {
+              "store": "Songhe Lou (Golden Eagle Store)",
+              "product": "Shanghai-style Braised Pork + Steamed Bass"
+            },
+            {
+              "store": "Helv Rotating Sushi",
+              "product": "Premium Sushi Platter"
+            },
+            {
+              "store": "Yuezhen Xuan",
+              "product": "Crispy Roast Goose + Fresh Shrimp Wonton"
+            }
+          ],
+          "search history": [
+            "Caffeine-free Drinks",
+            "Kid-friendly Restaurants",
+            "Low-purine Dishes",
+            "Shanghai Cuisine",
+            "Japanese Cuisine"
+          ]
+        },
+        "light meal": {
+          "frequently consumed categories": [
+            "Snacks & Fast Food/Chinese Quick Meals (Average ¥35)",
+            "Snacks & Fast Food/Western Fast Food (Average ¥40)"
+          ],
+          "preferred average price per person": "¥30~45",
+          "preferred store rating": "3.5~4.3 stars",
+          "typical dining time": "12:00-13:30",
+          "preferred distance": "0~800m",
+          "recent orders": [
+            {
+              "store": "Yonghe King",
+              "product": "Chicken Leg Set"
+            },
+            {
+              "store": "McDonald's (Xinggang Street Store)",
+              "product": "Big Mac Set"
+            },
+            {
+              "store": "Jixiang Wonton",
+              "product": "Shrimp Wonton + Braised Egg"
+            }
+          ],
+          "search history": [
+            "Fast Food",
+            "Industrial Park Lunch",
+            "Bento",
+            "Quick Service"
+          ]
+        },
+        "desserts/drinks/snacks": {
+          "frequently consumed categories": [
+            "Beverage Shops (Average ¥20)",
+            "Bread & Pastries (Average ¥30)"
+          ],
+          "preferred average price per person": "¥15~35",
+          "preferred store rating": "4.0~4.7 stars",
+          "typical dining time": "15:00-16:30",
+          "preferred distance": "0~500m",
+          "recent orders": [
+            {
+              "store": "HEYTEA (Tengfei Innovation Park Store)",
+              "product": "Very Grape (Caffeine-free)"
+            },
+            {
+              "store": "BreadTalk",
+              "product": "Red Bean Bread"
+            },
+            {
+              "store": "The Alley",
+              "product": "Cheese Foam Tea (Caffeine-free)"
+            }
+          ],
+          "search history": [
+            "Non-alcoholic Beverages",
+            "Fruit Tea",
+            "Afternoon Tea",
+            "Bread"
+          ]
+        }
+      },
+      "other in-store services": {
+        "frequently consumed categories": {
+          "Sports & Fitness/Fitness Centers": "40%",
+          "Sports & Fitness/Ball Sports": "35%",
+          "Parent-Child/Parent-Child Entertainment": "15%",
+          "Entertainment/Massage/Foot Therapy": "10%"
+        },
+        "cost per order by category": {
+          "Sports & Fitness/Fitness Centers": "¥150~300",
+          "Sports & Fitness/Ball Sports": "¥80~150",
+          "Parent-Child/Parent-Child Entertainment": "¥100~200",
+          "Entertainment/Massage/Foot Therapy": "¥120~180"
+        },
+        "preferred store rating": "4.0~4.8 stars",
+        "preferred service time": "19:00-21:00",
+        "preferred distance": "500~3000m",
+        "recent orders": [
+          {
+            "store": "Power Lifting Gym (Industrial Park Store)",
+            "product": "Monthly Membership"
+          },
+          {
+            "store": "Suzhou Table Tennis Hall",
+            "product": "2-hour Court for Two"
+          },
+          {
+            "store": "Qile Children's Entertainment Center",
+            "product": "Parent-Child Combo Ticket"
+          }
+        ],
+        "search history": [
+          "Gym Monthly Pass",
+          "Weekend Family Activities",
+          "Table Tennis Court",
+          "Foot Massage",
+          "Children's Entertainment"
+        ]
+      }
+    },
+    "OTA": {
+      "visited scenes": {
+        "Cultural Heritage Sites": "35%",
+        "Exhibition Halls (Museums/Art Galleries)": "25%",
+        "Parks": "15%",
+        "Theme Parks": "15%",
+        "Natural Landscapes (Mountains/Lakes/Forests)": "10%"
+      },
+      "cost per night on hotel": "¥500~1000",
+      "visited hotels": {
+        "Atour": "40%",
+        "Ji Hotel": "30%",
+        "Vienna Hotel": "15%",
+        "Orange Hotel": "10%",
+        "Home Inn": "5%"
+      },
+      "browsed hotels": {
+        "Four-Star Hotels": "45%",
+        "Comfort Hotels": "35%",
+        "Three-Star Hotels": "15%",
+        "Economy Hotels": "5%"
+      },
+      "historical travel plans": {
+        "Suzhou-Hangzhou": {
+          "Price Range": "¥80-120",
+          "Transportation Mode": "High-speed Rail/EMU"
+        },
+        "Suzhou-Beijing": {
+          "Price Range": "¥550-800",
+          "Transportation Mode": "High-speed Rail/EMU"
+        },
+        "Suzhou-Shanghai": {
+          "Price Range": "¥40-80",
+          "Transportation Mode": "High-speed Rail/EMU"
+        },
+        "Suzhou-Chengdu": {
+          "Price Range": "¥800-1200",
+          "Transportation Mode": "Airplane"
+        },
+        "Suzhou-Nanjing": {
+          "Price Range": "¥70-100",
+          "Transportation Mode": "High-speed Rail/EMU"
+        },
+        "Suzhou-Huangshan": {
+          "Price Range": "¥200-300",
+          "Transportation Mode": "Self-driving"
+        },
+        "Suzhou-Wuzhen": {
+          "Price Range": "¥150-250",
+          "Transportation Mode": "Self-driving"
+        }
+      }
+    }
+  },
+  "stores": {
+    "S17550810096682511_S00001": {
+      "name": "Bianlifeng Convenience Store (Danyang Station)",
+      "store_id": "S17550810096682511_S00001",
+      "score": 4.7,
+      "location": {
+        "address": "Bianlifeng, North Square of Danyang Station, Danyang, Zhenjiang, Jiangsu Province",
+        "latitude": 32.0089,
+        "longitude": 119.5812
+      },
+      "tags": [
+        "Convenience store",
+        "Snacks and beverages",
+        "Daily necessities",
+        "Fast delivery"
+      ],
+      "store_type": "target",
+      "products": [
+        {
+          "name": "Lay's Potato Chips Assorted Flavors 25g*8 bags",
+          "store_id": "S17550810096682511_S00001",
+          "store_name": "Bianlifeng Convenience Store (Danyang Station)",
+          "price": 39.9,
+          "tags": [
+            "Puffed snacks",
+            "Assorted flavors",
+            "Party sharing",
+            "Gaming snacks"
+          ],
+          "product_id": "S17550810096682511_P00002",
+          "attributes": [
+            "Original",
+            "BBQ",
+            "Lime",
+            "Tomato"
+          ],
+          "product_type": "target"
+        },
+        {
+          "name": "Calbee Cereal Breakfast Grain 400g",
+          "store_id": "S17550810096682511_S00001",
+          "store_name": "Bianlifeng Convenience Store (Danyang Station)",
+          "price": 45.9,
+          "tags": [
+            "breakfast",
+            "Grains",
+            "Health food"
+          ],
+          "product_id": "S17550810096682511_P00003",
+          "attributes": [],
+          "product_type": "distraction"
+        },
+        {
+          "name": "Coca-Cola 330ml*6 cans",
+          "store_id": "S17550810096682511_S00001",
+          "store_name": "Bianlifeng Convenience Store (Danyang Station)",
+          "price": 22.9,
+          "tags": [
+            "Carbonated drinks",
+            "Refreshing",
+            "Party drinks"
+          ],
+          "product_id": "S17550810096682511_P00004",
+          "attributes": [],
+          "product_type": "distraction"
+        },
+        {
+          "name": "Want Want Snow Crackers+Senbei+Mini Buns Combo Pack 24 small bags",
+          "store_id": "S17550810096682511_S00001",
+          "store_name": "Bianlifeng Convenience Store (Danyang Station)",
+          "price": 36.9,
+          "tags": [
+            "Puffed snacks",
+            "Assorted flavors",
+            "Nostalgic snacks",
+            "Gaming snacks"
+          ],
+          "product_id": "S17550810096682511_P00005",
+          "attributes": [
+            "Snow Crackers",
+            "Senbei",
+            "Mini Buns"
+          ],
+          "product_type": "target"
+        },
+        {
+          "name": "Master Kong Instant Noodles Braised Beef Flavor 5-pack",
+          "store_id": "S17550810096682511_S00001",
+          "store_name": "Bianlifeng Convenience Store (Danyang Station)",
+          "price": 19.9,
+          "tags": [
+            "Instant noodles",
+            "Late-night snacks",
+            "Fast food"
+          ],
+          "product_id": "S17550810096682511_P00006",
+          "attributes": [],
+          "product_type": "distraction"
+        }
+      ]
+    },
+    "S17550810096682511_S00002": {
+      "name": "FamilyMart (Danyang High-speed Railway Station)",
+      "store_id": "S17550810096682511_S00002",
+      "score": 4.6,
+      "location": {
+        "address": "FamilyMart, South Square of Danyang Station, Yunyang Street, Danyang, Zhenjiang, Jiangsu Province",
+        "latitude": 32.0062,
+        "longitude": 119.5803
+      },
+      "tags": [
+        "Convenience store",
+        "Snacks and beverages",
+        "Ready-to-eat food",
+        "Daily necessities"
+      ],
+      "store_type": "target",
+      "products": [
+        {
+          "name": "Red Bull Vitamin Energy Drink 250ml*12 cans",
+          "store_id": "S17550810096682511_S00002",
+          "store_name": "FamilyMart (Danyang High-speed Railway Station)",
+          "price": 119.9,
+          "tags": [
+            "Energy drink",
+            "Energy drinks",
+            "12-can pack",
+            "Late night essentials"
+          ],
+          "product_id": "S17550810096682511_P00009",
+          "attributes": [],
+          "product_type": "target"
+        },
+        {
+          "name": "Lay's Original Potato Chips 104g",
+          "store_id": "S17550810096682511_S00002",
+          "store_name": "FamilyMart (Danyang High-speed Railway Station)",
+          "price": 9.9,
+          "tags": [
+            "Puffed snacks",
+            "Potato chips",
+            "Snacks",
+            "Minimum order of 3 portions"
+          ],
+          "product_id": "S17550810096682511_P00010",
+          "attributes": [],
+          "product_type": "target"
+        },
+        {
+          "name": "Oishi Prawn Crackers Shrimp Flavor 75g",
+          "store_id": "S17550810096682511_S00002",
+          "store_name": "FamilyMart (Danyang High-speed Railway Station)",
+          "price": 8.5,
+          "tags": [
+            "Puffed snacks",
+            "Shrimp crackers",
+            "Snacks",
+            "Minimum order of 3 portions"
+          ],
+          "product_id": "S17550810096682511_P00011",
+          "attributes": [],
+          "product_type": "target"
+        },
+        {
+          "name": "Want Want Snow Crackers 108g",
+          "store_id": "S17550810096682511_S00002",
+          "store_name": "FamilyMart (Danyang High-speed Railway Station)",
+          "price": 7.9,
+          "tags": [
+            "Puffed snacks",
+            "Cookies/Biscuits",
+            "Snacks",
+            "Minimum order of 2 portions"
+          ],
+          "product_id": "S17550810096682511_P00012",
+          "attributes": [],
+          "product_type": "target"
+        },
+        {
+          "name": "Nescafé Coffee Canned Drink 180ml*6 cans",
+          "store_id": "S17550810096682511_S00002",
+          "store_name": "FamilyMart (Danyang High-speed Railway Station)",
+          "price": 59.9,
+          "tags": [
+            "Energy drink",
+            "Coffee",
+            "6-can pack"
+          ],
+          "product_id": "S17550810096682511_P00015",
+          "attributes": [],
+          "product_type": "distraction"
+        },
+        {
+          "name": "Weilong Spicy Strip Gluten 106g",
+          "store_id": "S17550810096682511_S00002",
+          "store_name": "FamilyMart (Danyang High-speed Railway Station)",
+          "price": 8.9,
+          "tags": [
+            "Spicy strips",
+            "Snacks",
+            "Spicy flavor"
+          ],
+          "product_id": "S17550810096682511_P00016",
+          "attributes": [],
+          "product_type": "distraction"
+        }
+      ]
+    },
+    "S17550810096682511_S00004": {
+      "name": "JD Convenience Store (Danyang Station Front)",
+      "store_id": "S17550810096682511_S00004",
+      "score": 4.4,
+      "location": {
+        "address": "JD Convenience Store, 88 Danjin Road, Yunyang Street, Danyang, Zhenjiang, Jiangsu Province",
+        "latitude": 32.0075,
+        "longitude": 119.5825
+      },
+      "tags": [
+        "Convenience store",
+        "Snacks and beverages",
+        "Daily necessities",
+        "Fast delivery"
+      ],
+      "store_type": "distraction",
+      "products": [
+        {
+          "name": "Red Bull Vitamin Energy Drink (250ml*6 cans)",
+          "store_id": "S17550810096682511_S00004",
+          "store_name": "JD Convenience Store (Danyang Station Front)",
+          "price": 59.9,
+          "tags": [
+            "Energy drinks",
+            "Energizing",
+            "E-sports essentials",
+            "Late night essentials"
+          ],
+          "product_id": "S17550810096682511_P00022",
+          "attributes": [],
+          "product_type": "distraction"
+        },
+        {
+          "name": "Red Bull Vitamin Energy Drink (250ml*4 cans)",
+          "store_id": "S17550810096682511_S00004",
+          "store_name": "JD Convenience Store (Danyang Station Front)",
+          "price": 42.8,
+          "tags": [
+            "Energy drinks",
+            "Energizing",
+            "E-sports essentials",
+            "Late night essentials"
+          ],
+          "product_id": "S17550810096682511_P00023",
+          "attributes": [],
+          "product_type": "distraction"
+        },
+        {
+          "name": "Copico Potato Chips Combo Pack (Mala/Spicy/BBQ/Original, 60g*4 bags)",
+          "store_id": "S17550810096682511_S00004",
+          "store_name": "JD Convenience Store (Danyang Station Front)",
+          "price": 32.8,
+          "tags": [
+            "Puffed snacks",
+            "Potato chips",
+            "Assorted flavors",
+            "Snacks"
+          ],
+          "product_id": "S17550810096682511_P00025",
+          "attributes": [],
+          "product_type": "target"
+        }
+      ]
+    }
+  },
+  "orders": {
+    "S17550810096682511_O00001": {
+      "order_id": "S17550810096682511_O00001",
+      "order_type": "train",
+      "user_id": "U226214",
+      "store_id": "S17550810096682511_T00010",
+      "note": "Weekend trip to Danyang",
+      "location": {
+        "address": "Suzhou Station, 27 Suzhan Road, Gusu District, Suzhou, Jiangsu Province",
+        "longitude": 120.6159,
+        "latitude": 31.3304
+      },
+      "dispatch_time": "",
+      "shipping_time": 0.0,
+      "delivery_time": "",
+      "total_price": 984.0,
+      "create_time": "2026-08-04 14:23:15",
+      "update_time": "2026-08-04 14:25:32",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17550810096682511_P00062",
+          "price": 246.0,
+          "quantity": 4,
+          "seat_type": "Business class seat"
+        }
+      ]
+    },
+    "S17550810096682511_O00002": {
+      "order_id": "S17550810096682511_O00002",
+      "order_type": "hotel",
+      "user_id": "U226214",
+      "store_id": "S17550810096682511_H00005",
+      "note": "Weekend accommodation for Danyang trip",
+      "location": {
+        "address": "Danyang Station E-sports Hotel, 28 Zhanqian Road, Yunyang Street, Danyang, Zhenjiang, Jiangsu Province",
+        "longitude": 119.5817,
+        "latitude": 32.0078
+      },
+      "dispatch_time": "",
+      "shipping_time": 0.0,
+      "delivery_time": "",
+      "total_price": 1776.0,
+      "create_time": "2026-08-04 14:30:42",
+      "update_time": "2026-08-04 14:32:18",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17550810096682511_P00028",
+          "price": 888.0,
+          "quantity": 1,
+          "date": "2026-08-07",
+          "room_type": "E-sports Quadruple Room"
+        },
+        {
+          "product_id": "S17550810096682511_P00029",
+          "price": 888.0,
+          "quantity": 1,
+          "date": "2026-08-08",
+          "room_type": "E-sports Quadruple Room"
+        }
+      ]
+    }
+  }
+}

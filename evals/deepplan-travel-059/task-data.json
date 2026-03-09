@@ -1,0 +1,45 @@
+{
+  "task_id": "58",
+  "query": "I'm planning a trip from Shenzhen to Beijing on November 12, 2025, and returning on the 15th. Could you help me plan the itinerary? Please arrange flights for both directions. For the return flight, I'd prefer to arrive in Shenzhen between 11:00 AM and 3:00 PM, as that timing works best.\n\nFor accommodation, I’d like to book a three-star hotel with a gym, so we can work out in the morning or evening. The facilities and service should be reliable. There are four of us in total, so two rooms will be sufficient.\n\nRegarding meals, I need arrangements for two occasions. One should be near \"Sanlitun Taikoo Li\" — I’d like to experience a restaurant offering birthday set menus. I’ve heard it’s very lively there and should have a great atmosphere. The other meal should be near \"Tiananmen Square\" — just find the most budget-friendly restaurant available, somewhere simple and cost-effective for a basic meal.\n\nFor attractions, please include all the classic and must-visit spots. Since this is my first time in Beijing, I definitely don’t want to miss any iconic landmarks — places like \"Tiananmen Square\" are must-sees.\n\nThat's about it — I've provided all the necessary details. Could you please put together a detailed itinerary for me? Thanks so much! November 12, 2025 is Wednesday",
+  "meta_info": {
+    "org": "Shenzhen",
+    "dest": [
+      "Beijing"
+    ],
+    "days": 4,
+    "depart_date": "2025-11-12",
+    "return_date": "2025-11-15",
+    "people_number": 4,
+    "room_number": 2
+  },
+  "hard_constraints": {
+    "flight_arrival_time_range": {
+      "constraint_context": "The return flight must arrive between 11:00 AM and 3:00 PM",
+      "inbound_flight_no": "DZ6210"
+    },
+    "hotel_star_service_required": {
+      "constraint_context": "Please select a 3-star hotel that offers a gym for accommodation",
+      "constraint_type": "superlative_star_service_required",
+      "hotel_name": "Xana Hotelle (Beijing South Railway Station Majiabao Road Hotel)",
+      "required_service": "Gym",
+      "hotel_star": 3,
+      "hotel_price": 319.0
+    },
+    "restaurant_specific_tag_nearby": {
+      "constraint_context": "Arrange a meal at a restaurant near 'Sanlitun Taikoo Li' during the trip, with birthday set menu service required.",
+      "constraint_type": "superlative_specific_tag_nearby",
+      "attraction_name": "Sanlitun Taikoo Li",
+      "restaurant_name": "bluefrog (Sanlitun Taikoo Li South District Branch)",
+      "required_tag": "Birthday Package",
+      "price_per_person": 136.0,
+      "restaurant_rating": 4.7
+    },
+    "restaurant_cheapest_nearby_attraction": {
+      "constraint_context": "During the trip, please arrange a meal at the cheapest restaurant near 'Tiananmen Square' per person.",
+      "constraint_type": "superlative_cheapest_nearby_attraction",
+      "attraction_name": "Tiananmen Square",
+      "restaurant_name": "Huguosi Snacks (Roushi Street Branch)",
+      "price_per_person": 32.0
+    }
+  }
+}

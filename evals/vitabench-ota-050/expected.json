@@ -1,0 +1,122 @@
+{
+  "required_orders": [
+    {
+      "order_id": "D0806003T001",
+      "order_type": "attraction",
+      "user_id": "U010012",
+      "store_id": "S17557512197955944_A00005",
+      "note": "",
+      "location": null,
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 500,
+      "create_time": "2026-07-13 12:32:30",
+      "update_time": "2026-07-13 12:32:30",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17557512197955944_P00032",
+          "price": 80,
+          "quantity": 5,
+          "date": "2026-07-18",
+          "ticket_type": "Adult Ticket"
+        },
+        {
+          "product_id": "S17557512197955944_P00033",
+          "price": 60,
+          "quantity": 1,
+          "date": "2026-07-18",
+          "ticket_type": "Student Ticket (Ages 6-18)"
+        },
+        {
+          "product_id": "S17557512197955944_P00034",
+          "price": 40,
+          "quantity": 1,
+          "date": "2026-07-18",
+          "ticket_type": "Senior Ticket (Ages 65+)"
+        }
+      ]
+    },
+    {
+      "order_id": "D0806003T002",
+      "order_type": "attraction",
+      "user_id": "U010012",
+      "store_id": "S17557512197955944_A00007",
+      "note": "",
+      "location": null,
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 390,
+      "create_time": "2026-07-13 12:35:22",
+      "update_time": "2026-07-13 12:35:22",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17557512197955944_P00057",
+          "price": 60,
+          "quantity": 6,
+          "date": "2026-07-19",
+          "ticket_type": "Adult Ticket"
+        },
+        {
+          "product_id": "S17557512197955944_P00059",
+          "price": 30,
+          "quantity": 1,
+          "date": "2026-07-19",
+          "ticket_type": "Senior Ticket (Half Price for Ages 70+)"
+        }
+      ]
+    },
+    {
+      "order_id": "D0806003T003",
+      "order_type": "hotel",
+      "user_id": "U010012",
+      "store_id": "S17557512197955944_H00002",
+      "note": "",
+      "location": null,
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 3192,
+      "create_time": "2026-07-13 12:36:15",
+      "update_time": "2026-07-13 12:36:15",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17557512197955944_P00009",
+          "price": 758,
+          "quantity": 2,
+          "date": "2026-07-18",
+          "room_type": "Sea View Deluxe Twin Room"
+        },
+        {
+          "product_id": "S17557512197955944_P00010",
+          "price": 798,
+          "quantity": 2,
+          "date": "2026-07-17",
+          "room_type": "Sea View Deluxe Twin Room"
+        }
+      ]
+    }
+  ],
+  "rubrics": [
+    "Your relative's family has a middle school child, so Friday's tickets include a student ticket",
+    "Your relative's family also has a 72-year-old senior, so Friday's tickets include a senior ticket",
+    "Friday's tickets include adult tickets",
+    "The group consists of 3 adults from your family and 4 people from your relative's family, including their 72-year-old senior and middle school child, so Friday's tickets include 5 adult tickets",
+    "Friday's attraction should be one that would interest a middle school student (research shows it's the Qingdao Marine Science and Technology Museum)",
+    "The order of visiting the two attractions must be determined based on comparing ticket prices (Qingdao Marine Science and Technology Museum: Friday: Adult Ticket ¥80, Student Ticket ¥60, Senior Ticket ¥40; Saturday: Adult Ticket ¥100, Student Ticket ¥75, Senior Ticket ¥50. Qingdao Olympic Sailing Center: Friday: Adult Ticket ¥50, Senior Ticket ¥25; Saturday: Adult Ticket ¥60, Senior Ticket ¥30); The cheapest combination is visiting the Marine Science and Technology Museum on Friday and the Olympic Sailing Center on Saturday.",
+    "The ticket date in the Qingdao Marine Science and Technology Museum order is 2026-07-18",
+    "Saturday's attraction has no student ticket option, so the number of adult tickets purchased is 6",
+    "Saturday's attraction order includes a senior ticket",
+    "The ticket date in the Qingdao Olympic Sailing Center order is 2026-07-19",
+    "The hotel booking dates are July 17, 2026 and July 18, 2026",
+    "The hotel order includes only twin rooms",
+    "The hotel order includes 2 twin rooms per night",
+    "The hotel should have a rating above 4.5",
+    "The rooms in the hotel order should have sea views",
+    "The hotel booked offers laundry service"
+  ]
+}

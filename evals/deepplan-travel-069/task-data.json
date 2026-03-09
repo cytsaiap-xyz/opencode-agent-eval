@@ -1,0 +1,54 @@
+{
+  "task_id": "68",
+  "query": "I'm planning a trip from Shijiazhuang to Changsha, departing on November 12, 2025, and returning on November 16. Could you help me plan the entire itinerary? For transportation, I'd like to take a train back—I need you to pick the cheapest direct train option available, something comfortable and cost-effective.\n\nFor accommodation, I prefer a newer hotel, ideally one that has been renovated after 2024, so the rooms are clean and the facilities more modern. By the way, there are two of us traveling, but we only need to book one room.\n\nAlso, please include a meal near 'Yuelu Academy'—ideally at a restaurant that offers birthday set menus, since I'd like to celebrate my travel companion's birthday. The atmosphere should be nice and pleasant.\n\nAs for attractions, I’d like to visit some of the most recommended spots in Changsha. Please select the top three highest-rated ones and include them in the itinerary.\n\nThese are basically all my requirements. I believe I've provided enough information—please go ahead and start planning without asking for further details! November 12, 2025 is Wednesday",
+  "meta_info": {
+    "org": "Shijiazhuang",
+    "dest": [
+      "Changsha"
+    ],
+    "days": 5,
+    "depart_date": "2025-11-12",
+    "return_date": "2025-11-16",
+    "people_number": 2,
+    "room_number": 1
+  },
+  "hard_constraints": {
+    "train_cheapest_direct": {
+      "constraint_context": "For the return trip, I hope to choose a train and need to select the cheapest direct train available",
+      "constraint_type": "superlative_cheapest_direct",
+      "inbound_train_no": "G508"
+    },
+    "hotel_newest_decoration": {
+      "constraint_context": "Please select hotels that were renovated in 2024 or later for accommodation.",
+      "constraint_type": "superlative_newest_decoration",
+      "hotel_name": "Jinjiang Inn (Wanjiali International Mall Torch Village Metro Station Branch)",
+      "hotel_price": 201.0,
+      "hotel_score": 4.3,
+      "decoration_time": 2025,
+      "year_threshold": 2024
+    },
+    "restaurant_specific_tag_nearby": {
+      "constraint_context": "Arrange a meal at a restaurant near 'Yuelu Academy' during the trip, with birthday set menu service required.",
+      "constraint_type": "superlative_specific_tag_nearby",
+      "attraction_name": "Yuelu Academy",
+      "restaurant_name": "Jixian Hotel - Restaurant",
+      "required_tag": "Birthday Package",
+      "price_per_person": 100.0,
+      "restaurant_rating": 3.9
+    },
+    "attraction_top_rated_must_visit": {
+      "constraint_context": "The itinerary must include the top three highest-rated attractions recommended by the attraction recommendation tool.",
+      "constraint_type": "superlative_top_rated_must_visit",
+      "attraction_names": [
+        "Orange Isle Scenic Area",
+        "Hunan Martyrs Park",
+        "Hunan Museum"
+      ],
+      "attraction_ratings": [
+        4.9,
+        4.9,
+        4.8
+      ]
+    }
+  }
+}

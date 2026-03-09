@@ -1,0 +1,50 @@
+{
+  "task_id": "20",
+  "query": "I plan to travel from Fuzhou to Suzhou for a three-day trip starting on November 12, 2025, returning on November 14. I'd like you to help me arrange transportation, accommodation, dining, and sightseeing. Regarding transportation, I’d prefer to arrive back in Fuzhou as late as possible on the return journey so I can spend more time in Suzhou—please check if there are any direct train options with the latest arrival time.\n\nFor accommodation, my budget is between 270 and 320 yuan per night. Please recommend a suitable hotel within this price range and the location should be convenient,we are two peole, need 1 room. Additionally, I especially want to visit the 'Three Bridges Scenic Area' and the 'Suzhou Museum'—these two places are must-visits, so please include them in the itinerary. By the way, I’ve heard there are many great restaurants near the 'Shantang Street Scenic Area'. Could you help me find a restaurant ranked in the top ten on the “must-eat” list and schedule one meal there? I’d like to try some local specialties.\n\nThese are all my requirements. I believe the information provided is complete, so please go ahead and plan the full itinerary and budget without asking for further details! November 12, 2025 is Wednesday",
+  "meta_info": {
+    "org": "Fuzhou",
+    "dest": [
+      "Suzhou"
+    ],
+    "days": 3,
+    "depart_date": "2025-11-12",
+    "return_date": "2025-11-14",
+    "people_number": 2,
+    "room_number": 1
+  },
+  "hard_constraints": {
+    "train_latest_arrival_direct": {
+      "constraint_context": "I would like to return later, so please help me choose the latest direct train for the return journey",
+      "constraint_type": "superlative_latest_arrival",
+      "inbound_train_no": "G3757"
+    },
+    "hotel_price_range": {
+      "constraint_context": "The accommodation price must be between 270 yuan and 320 yuan and the location should be convenient.",
+      "hotel_name": "Ji Hotel Suzhou Guanqian Street Ganjiang West Road",
+      "hotel_price": 300.0,
+      "min_price": 270,
+      "max_price": 320
+    },
+    "attraction_must_visit_named": {
+      "constraint_context": "The itinerary must include visits to the 'Three Bridges Scenic Area' and 'Suzhou Museum'.",
+      "constraint_type": "superlative_must_visit_named",
+      "attraction_names": [
+        "Three Bridges Scenic Area",
+        "Suzhou Museum"
+      ],
+      "attraction_ratings": [
+        4.4,
+        4.8
+      ]
+    },
+    "restaurant_specific_tag_nearby": {
+      "constraint_context": "Arrange a meal at a restaurant near the 'Shantang Street Scenic Area' during the trip, with service from the Must-Eat List Top 10",
+      "constraint_type": "superlative_specific_tag_nearby",
+      "attraction_name": "Shantang Street Scenic Area",
+      "restaurant_name": "Wu Zhai Manor · Suzhou Cuisine (Shantang Street Branch)",
+      "required_tag": "Must-Eat Top 10",
+      "price_per_person": 104.0,
+      "restaurant_rating": 4.8
+    }
+  }
+}

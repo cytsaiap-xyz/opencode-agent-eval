@@ -1,0 +1,236 @@
+{
+  "task_id": "D0812001",
+  "domain": "ota",
+  "time": "2025-08-02 11:17:45",
+  "user_id": "U500349",
+  "weather": [
+    {
+      "city": "Jincheng",
+      "category": "overcast",
+      "datetime": "2025-08-02",
+      "temperature": [
+        22,
+        29
+      ],
+      "humidity": 72
+    },
+    {
+      "city": "Jincheng",
+      "category": "light rain",
+      "datetime": "2025-08-03",
+      "temperature": [
+        22,
+        28
+      ],
+      "humidity": 81
+    },
+    {
+      "city": "Jincheng",
+      "category": "light rain",
+      "datetime": "2025-08-04",
+      "temperature": [
+        20,
+        26
+      ],
+      "humidity": 85
+    },
+    {
+      "city": "Jincheng",
+      "category": "sunny",
+      "datetime": "2025-08-05",
+      "temperature": [
+        23,
+        30
+      ],
+      "humidity": 65
+    },
+    {
+      "city": "Jincheng",
+      "category": "overcast",
+      "datetime": "2025-08-06",
+      "temperature": [
+        21,
+        27
+      ],
+      "humidity": 68
+    },
+    {
+      "city": "Jincheng",
+      "category": "showers",
+      "datetime": "2025-08-07",
+      "temperature": [
+        23,
+        29
+      ],
+      "humidity": 78
+    },
+    {
+      "city": "Wuzhou",
+      "category": "cloudy",
+      "datetime": "2025-08-07",
+      "temperature": [
+        26,
+        33
+      ],
+      "humidity": 72
+    },
+    {
+      "city": "Wuzhou",
+      "category": "sunny",
+      "datetime": "2025-08-08",
+      "temperature": [
+        27,
+        34
+      ],
+      "humidity": 68
+    }
+  ],
+  "location": [
+    {
+      "address": "Room 1503, Building B, Hangyang International City, 131 Minzu Avenue, Qingxiu District, Nanning, Guangxi Zhuang Autonomous Region",
+      "longitude": 108.366543,
+      "latitude": 22.817002
+    },
+    {
+      "address": "15th Floor, China Resources Building, 136 Minzu Avenue, Qingxiu District, Nanning, Guangxi Zhuang Autonomous Region",
+      "longitude": 108.367891,
+      "latitude": 22.816734
+    }
+  ],
+  "user_profile": {
+    "user id": "U500349",
+    "occupation": "Sales",
+    "gender": "female",
+    "age group": "25~30",
+    "residence": "Nanning",
+    "home address": "Room 1503, Building B, Hangyang International City, 131 Minzu Avenue, Qingxiu District, Nanning, Guangxi Zhuang Autonomous Region",
+    "work address": "15th Floor, China Resources Building, 136 Minzu Avenue, Qingxiu District, Nanning, Guangxi Zhuang Autonomous Region",
+    "dietary restrictions": "Avoids greasy and spicy food, no alcohol",
+    "family status": "In a relationship",
+    "personality": "Tends to be controlling, not easily receptive to different opinions"
+  },
+  "user_historical_behaviors": {
+    "user id": "U500349",
+    "occupation": "Sales",
+    "gender": "female",
+    "age group": "25~30",
+    "residence": "Nanning",
+    "home address": "Room 1503, Building B, Hangyang International City, 131 Minzu Avenue, Qingxiu District, Nanning, Guangxi Zhuang Autonomous Region",
+    "work address": "15th Floor, China Resources Building, 136 Minzu Avenue, Qingxiu District, Nanning, Guangxi Zhuang Autonomous Region",
+    "visited scenes": {
+      "Natural Landscapes (Mountains/Lakes/Forests)": "35%",
+      "Historical Sites": "20%",
+      "Exhibition Halls (Museums/Art Galleries)": "15%",
+      "Parks": "15%",
+      "Featured Villages/Industrial Tourism/Uncategorized Projects": "10%",
+      "Hot Spring Scenic Areas": "5%"
+    },
+    "cost per night on hotel": "300~500 yuan",
+    "visited hotels": {
+      "Home Inn": "25%",
+      "Atour": "30%",
+      "JI Hotel": "20%",
+      "Orange Hotel": "15%",
+      "Vienna": "10%"
+    },
+    "browsed hotels": {
+      "3-Star Hotels": "45%",
+      "Comfort Hotels": "40%",
+      "4-Star Hotels": "10%",
+      "Economy Hotels": "5%"
+    },
+    "historical travel plans": {
+      "Nanning-Guilin": {
+        "Price Range": "150-250 yuan",
+        "Transportation Mode": "High-Speed Rail/EMU (Electric Multiple Unit)"
+      },
+      "Guilin-Nanning": {
+        "Price Range": "150-250 yuan",
+        "Transportation Mode": "High-Speed Rail/EMU (Electric Multiple Unit)"
+      },
+      "Nanning-Guangzhou": {
+        "Price Range": "350-500 yuan",
+        "Transportation Mode": "High-Speed Rail/EMU (Electric Multiple Unit)"
+      },
+      "Guangzhou-Nanning": {
+        "Price Range": "350-500 yuan",
+        "Transportation Mode": "High-Speed Rail/EMU (Electric Multiple Unit)"
+      },
+      "Nanning-Beihai": {
+        "Price Range": "120-180 yuan",
+        "Transportation Mode": "Long-distance Bus"
+      },
+      "Beihai-Nanning": {
+        "Price Range": "120-180 yuan",
+        "Transportation Mode": "Long-distance Bus"
+      },
+      "Nanning-Shanghai": {
+        "Price Range": "800-1200 yuan",
+        "Transportation Mode": "Airplane"
+      },
+      "Shanghai-Nanning": {
+        "Price Range": "800-1200 yuan",
+        "Transportation Mode": "Airplane"
+      }
+    }
+  },
+  "stores": {},
+  "orders": {
+    "S17557071510245346_O00001": {
+      "order_id": "S17557071510245346_O00001",
+      "order_type": "hotel",
+      "user_id": "U500349",
+      "store_id": "S17557071510245346_H00001",
+      "note": "",
+      "location": {
+        "address": "Atour Hotel Wuzhou, 32 Xinxing 2nd Road, Wanxiu District, Wuzhou, Guangxi Zhuang Autonomous Region",
+        "longitude": 111.279115,
+        "latitude": 23.474803
+      },
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 398,
+      "create_time": "2025-07-03 14:20:00",
+      "update_time": "2025-07-03 14:20:00",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17557071510245346_P01103",
+          "price": 398,
+          "quantity": 1,
+          "date": "2025-07-06",
+          "room_type": "Business King Room"
+        }
+      ]
+    },
+    "S17557071510245346_O00003": {
+      "order_id": "S17557071510245346_O00003",
+      "order_type": "train",
+      "user_id": "U500349",
+      "store_id": "S17557071510245346_T00012",
+      "note": "",
+      "location": {
+        "address": "Nanning Railway Station, Chaoyang Road, Qingxiu District, Nanning, Guangxi Zhuang Autonomous Region",
+        "longitude": 108.366543,
+        "latitude": 22.817002
+      },
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 398,
+      "create_time": "2025-06-28 09:30:00",
+      "update_time": "2025-06-28 09:35:00",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17557071510245346_P00124",
+          "price": 199,
+          "quantity": 2,
+          "date": "2025-07-02",
+          "seat_type": "Second Class Seat"
+        }
+      ]
+    }
+  }
+}

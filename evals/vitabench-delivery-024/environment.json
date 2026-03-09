@@ -1,0 +1,340 @@
+{
+  "task_id": "40711003",
+  "domain": "delivery",
+  "time": "2025-05-27 12:32:57",
+  "user_id": "U000027",
+  "weather": [
+    {
+      "city": "Dalian City",
+      "category": "overcast",
+      "datetime": "2025-05-27",
+      "temperature": [
+        18,
+        25
+      ],
+      "humidity": 58
+    }
+  ],
+  "location": [
+    {
+      "address": "Wusi Huating, 8-1 Yongsheng Lane, Shahekou District, Dalian, Liaoning Province (280m walk from Exit A of Xinggong Street Metro Station)",
+      "longitude": 121.590754,
+      "latitude": 38.914051
+    }
+  ],
+  "user_profile": {
+    "user id": "U000027",
+    "occupation": "Blue-collar worker",
+    "gender": "female",
+    "age group": "35~40",
+    "residence": "Dalian",
+    "home address": "Wusi Huating, 8-1 Yongsheng Lane, Shahekou District, Dalian, Liaoning Province (280m walk from Exit A of Xinggong Street Metro Station)",
+    "work address": "Neusoft Hekou Software Park, 440m west of the intersection of Juxian Road and Renxian Street, Ganjingzi District, Dalian, Liaoning Province",
+    "dietary restrictions": "Avoids high salt, Avoids fried food",
+    "family status": "Lives with elderly family members",
+    "personality": "Extremely detail-oriented, tends to be picky and easily dissatisfied"
+  },
+  "user_historical_behaviors": {
+    "user id": "U000027",
+    "occupation": "Blue-collar worker",
+    "gender": "female",
+    "age group": "35~40",
+    "residence": "Dalian",
+    "home address": "Wusi Huating, 8-1 Yongsheng Lane, Shahekou District, Dalian, Liaoning Province (280m walk from Exit A of Xinggong Street Metro Station)",
+    "work address": "Neusoft Hekou Software Park, 440m west of the intersection of Juxian Road and Renxian Street, Ganjingzi District, Dalian, Liaoning Province",
+    "breakfast": {
+      "frequently purchased categories": [
+        "Quick meals/Steamed buns (Average 18 yuan)",
+        "Quick meals/Wraps (Average 12 yuan)",
+        "Quick meals/Soy milk (Average 10 yuan)"
+      ],
+      "cost per order": "10~25 yuan",
+      "preferred store rating": "4.2~4.7",
+      "preferred delivery time": "15~30 minutes",
+      "preferred distance": "0~2000m",
+      "recent orders": [
+        {
+          "store": "Tianjin Goubuli Baozi",
+          "product": "Pork bun + Corn porridge combo"
+        }
+      ],
+      "search history": [
+        "Low-salt breakfast",
+        "Steamed buns",
+        "Soy milk",
+        "Simple breakfast"
+      ]
+    },
+    "weekday lunch/dinner": {
+      "frequently purchased categories": [
+        "Quick meals/Small dishes/Half portions (Average 32 yuan)",
+        "Quick meals/Healthy meals (Average 40 yuan)",
+        "Chinese cuisine/Northeastern dishes (Average 50 yuan)"
+      ],
+      "cost per order": "30~100 yuan",
+      "preferred store rating": "4.0~5.0",
+      "preferred delivery time": "20~50 minutes",
+      "preferred distance": "0~5000m",
+      "recent orders": [
+        {
+          "store": "Xi Pin Cai Guan",
+          "product": "[Special offer for two] Sautéed fish slices + Green onion tofu skin + Two bowls of Rice + 2 mineral waters"
+        },
+        {
+          "store": "Xiaocheng Zhou Dao (Liberation Square Branch)",
+          "product": "Raw fish porridge"
+        }
+      ],
+      "search history": [
+        "Easy to digest",
+        "Healthy meals",
+        "Not greasy",
+        "High protein"
+      ]
+    },
+    "weekend lunch/dinner": {
+      "frequently purchased categories": [
+        "International cuisine/Korean cuisine (Average 65 yuan)",
+        "Chinese cuisine/Northeastern dishes (Average 80 yuan)",
+        "Hot pot/Individual hot pot (Average 60 yuan)"
+      ],
+      "cost per order": "60~100 yuan",
+      "preferred store rating": "4.0~4.9",
+      "preferred delivery time": "30~45 minutes",
+      "preferred distance": "0~4000m",
+      "recent orders": [
+        {
+          "store": "Korean Cuisine House",
+          "product": "Stone pot bibimbap + Seaweed soup"
+        },
+        {
+          "store": "Bashu Xiaochu",
+          "product": "Mildly spicy tomato beef brisket pot"
+        }
+      ],
+      "search history": [
+        "Home-style dishes",
+        "Healthy hot pot",
+        "Northeastern dishes",
+        "Korean cuisine"
+      ]
+    },
+    "desserts/drinks/snacks": {
+      "frequently purchased categories": [
+        "Drinks and desserts/Pure tea/Herbal tea (Average 20 yuan)",
+        "Drinks and desserts/Fruit salad (Average 25 yuan)",
+        "Drinks and desserts/Chinese pastries (Average 80 yuan)"
+      ],
+      "cost per order": "15~150 yuan",
+      "preferred store rating": "4.0~5.0",
+      "preferred delivery time": "15~50 minutes",
+      "preferred distance": "0~5000m",
+      "recent orders": [
+        {
+          "store": "Natural Fresh Stewed (Anshan Road Branch. Desserts, Stewed foods, Bird's nest)",
+          "product": "Late-night recovery drink"
+        },
+        {
+          "store": "Maihua Food",
+          "product": "10 jin housewarming celebration steamed buns (Order 2 days in advance)"
+        }
+      ],
+      "search history": [
+        "Low-sugar drinks",
+        "Healthy desserts",
+        "Pastry gift box",
+        "Sugar-free tea"
+      ]
+    },
+    "night snack": {
+      "frequently purchased categories": [
+        "Quick meals/Rice noodles/Rice vermicelli (Average 28 yuan)",
+        "Snacks and braised foods/Braised dishes (Average 35 yuan)"
+      ],
+      "cost per order": "25~40 yuan",
+      "preferred store rating": "4.1~4.6",
+      "preferred delivery time": "20~35 minutes",
+      "preferred distance": "0~2500m",
+      "recent orders": [
+        {
+          "store": "Yunnan Crossing Bridge Rice Noodles",
+          "product": "Clear soup chicken rice noodles (not spicy)"
+        },
+        {
+          "store": "Lao Lu Men",
+          "product": "Braised meat platter (low salt)"
+        },
+        {
+          "store": "Hao Zhou Dao",
+          "product": "Century egg and lean meat porridge"
+        }
+      ],
+      "search history": [
+        "Light night snacks",
+        "Rice noodles",
+        "Non-spicy braised foods",
+        "Stomach-friendly porridge"
+      ]
+    }
+  },
+  "stores": {
+    "S18646822163055673_S83922": {
+      "name": "Fuyuan Home-style Restaurant · Dalian Seafood",
+      "store_id": "S18646822163055673_S83922",
+      "score": 4.8,
+      "location": {
+        "address": "Fuyuan Home-style Restaurant (Gaizhou Street Branch), 1st Floor, No.16 Gaizhou Street, Shahekou District, Dalian, Liaoning Province",
+        "latitude": 38.911335,
+        "longitude": 121.580039
+      },
+      "tags": [],
+      "products": [
+        {
+          "name": "Braised Beef Brisket with Tomatoes",
+          "product_id": "S12678590731222448_P39976",
+          "store_id": "S18646822163055673_S83922",
+          "store_name": "Fuyuan Home-style Restaurant · Dalian Seafood",
+          "price": 59,
+          "tags": [
+            "Tender and Fresh"
+          ],
+          "attributes": [],
+          "quantity": 9999
+        },
+        {
+          "name": "Braised Chinese Cabbage with Tofu",
+          "product_id": "S63696291966516933_P45731",
+          "store_id": "S18646822163055673_S83922",
+          "store_name": "Fuyuan Home-style Restaurant · Dalian Seafood",
+          "price": 28,
+          "tags": [],
+          "attributes": [],
+          "quantity": 9999
+        },
+        {
+          "name": "Scrambled Eggs with Angled Luffa",
+          "product_id": "S28133304347865044_P04578",
+          "store_id": "S18646822163055673_S83922",
+          "store_name": "Fuyuan Home-style Restaurant · Dalian Seafood",
+          "price": 22,
+          "tags": [
+            "Refreshing"
+          ],
+          "attributes": [],
+          "quantity": 9999
+        },
+        {
+          "name": "Rice",
+          "product_id": "S96623811432181556_P52935",
+          "store_id": "S18646822163055673_S83922",
+          "store_name": "Fuyuan Home-style Restaurant · Dalian Seafood",
+          "price": 2,
+          "tags": [],
+          "attributes": [],
+          "quantity": 9999
+        },
+        {
+          "name": "Stir-fried Bean Sprouts",
+          "product_id": "S32555314287669214_P27284",
+          "store_id": "S18646822163055673_S83922",
+          "store_name": "Fuyuan Home-style Restaurant · Dalian Seafood",
+          "price": 28,
+          "tags": [],
+          "attributes": [],
+          "quantity": 9999
+        }
+      ]
+    },
+    "S14394301616023486_S55695": {
+      "name": "Ouxiang Fang (Pastry, Bread, Xi'an Road Branch)",
+      "store_id": "S14394301616023486_S55695",
+      "score": 5,
+      "location": {
+        "address": "Ouxiang Fang (Dalian Baotai Flagship Plaza Branch), B1 Floor, Baotai Flagship Plaza, Intersection of Xi'an Road and Wuyi Road, No.241A Xi'an Road, Shahekou District, Dalian, Liaoning Province (near Exit D of Xi'an Road Metro Station)",
+        "latitude": 38.908134,
+        "longitude": 121.586838
+      },
+      "tags": [],
+      "products": [
+        {
+          "name": "Lotus Root Pastry Gift Box",
+          "product_id": "S15469799519439947_P55117",
+          "store_id": "S14394301616023486_S55695",
+          "store_name": "Ouxiang Fang (Pastry, Bread, Xi'an Road Branch)",
+          "price": 98,
+          "tags": [
+            "Handmade"
+          ],
+          "attributes": [],
+          "quantity": 9999
+        },
+        {
+          "name": "Original Lotus Root Pastry",
+          "product_id": "S14335442670975192_P20375",
+          "store_id": "S14394301616023486_S55695",
+          "store_name": "Ouxiang Fang (Pastry, Bread, Xi'an Road Branch)",
+          "price": 8,
+          "tags": [
+            "Smooth and Tender"
+          ],
+          "attributes": [],
+          "quantity": 9999
+        }
+      ]
+    },
+    "S10414827113245846_S83743": {
+      "name": "Zhai Xiao Guan · Dalian Local Cuisine (High-tech Branch)",
+      "store_id": "S10414827113245846_S83743",
+      "score": 4.1,
+      "location": {
+        "address": "Zhai Xiao Guan Dalian Seafood and Local Cuisine (High-tech Branch), No.628 Huangpu Road, High-tech Park, Ganjingzi District, Dalian, Liaoning Province",
+        "latitude": 38.853668,
+        "longitude": 121.524848
+      },
+      "tags": [],
+      "products": [
+        {
+          "name": "Scrambled Eggs with Tomatoes",
+          "product_id": "S32715954407927831_P03964",
+          "store_id": "S10414827113245846_S83743",
+          "store_name": "Zhai Xiao Guan · Dalian Local Cuisine (High-tech Branch)",
+          "price": 24,
+          "tags": [],
+          "attributes": [],
+          "quantity": 9999
+        },
+        {
+          "name": "Rice",
+          "product_id": "S42644267730010687_P79400",
+          "store_id": "S10414827113245846_S83743",
+          "store_name": "Zhai Xiao Guan · Dalian Local Cuisine (High-tech Branch)",
+          "price": 3,
+          "tags": [],
+          "attributes": [],
+          "quantity": 9999
+        },
+        {
+          "name": "Sour Soup Fish Slices",
+          "product_id": "S20348966468467510_P97553",
+          "store_id": "S10414827113245846_S83743",
+          "store_name": "Zhai Xiao Guan · Dalian Local Cuisine (High-tech Branch)",
+          "price": 49.9,
+          "tags": [],
+          "attributes": [],
+          "quantity": 9999
+        },
+        {
+          "name": "Moo Shu Pork",
+          "product_id": "S24592123039680732_P13949",
+          "store_id": "S10414827113245846_S83743",
+          "store_name": "Zhai Xiao Guan · Dalian Local Cuisine (High-tech Branch)",
+          "price": 28,
+          "tags": [],
+          "attributes": [],
+          "quantity": 9999
+        }
+      ]
+    }
+  },
+  "orders": {}
+}

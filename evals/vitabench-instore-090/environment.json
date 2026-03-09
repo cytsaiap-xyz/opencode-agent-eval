@@ -1,0 +1,227 @@
+{
+  "task_id": "10826322",
+  "domain": "instore",
+  "time": "2025-11-19 15:57:21",
+  "user_id": "U697724",
+  "weather": [
+    {
+      "city": "Nanning",
+      "category": "cloudy",
+      "datetime": "2025-11-19",
+      "temperature": [
+        16,
+        24
+      ],
+      "humidity": 62
+    },
+    {
+      "city": "Nanning",
+      "category": "showers",
+      "datetime": "2025-11-20",
+      "temperature": [
+        15,
+        23
+      ],
+      "humidity": 73
+    },
+    {
+      "city": "Nanning",
+      "category": "light rain",
+      "datetime": "2025-11-21",
+      "temperature": [
+        14,
+        20
+      ],
+      "humidity": 81
+    }
+  ],
+  "location": [
+    {
+      "address": "Room 1204, Block B, Hangyang International City, 131 Minzu Avenue, Qingxiu District, Nanning",
+      "longitude": 108.367546,
+      "latitude": 22.817623
+    },
+    {
+      "address": "Room 503, Block A, Sunshine 100 City Plaza, 118 Dongge Road, Qingxiu District, Nanning",
+      "longitude": 108.354892,
+      "latitude": 22.813475
+    },
+    {
+      "address": "Starbucks (Hangyang International City Branch)",
+      "longitude": 108.368124,
+      "latitude": 22.818256
+    }
+  ],
+  "user_profile": {
+    "user id": "U697724",
+    "occupation": "Freelancer",
+    "gender": "male",
+    "age group": "30~35",
+    "residence": "Nanning",
+    "home address": "Room 1204, Block B, Hangyang International City, 131 Minzu Avenue, Qingxiu District, Nanning",
+    "work address": "Room 503, Block A, Sunshine 100 City Plaza, 118 Dongge Road, Qingxiu District, Nanning",
+    "dietary restrictions": "No alcohol",
+    "family status": "Has children",
+    "personality": "Strong logical thinking, likes to analyze and question, pursues accuracy"
+  },
+  "user_historical_behaviors": {
+    "user id": "U697724",
+    "occupation": "Self-employed",
+    "gender": "male",
+    "age group": "30~35",
+    "residence": "Nanning",
+    "home address": "Room 1204, Block B, Hangyang International City, 131 Minzu Avenue, Qingxiu District, Nanning",
+    "work address": "Room 503, Block A, Sunshine 100 City Plaza, 118 Dongge Road, Qingxiu District, Nanning",
+    "in-store dining": {
+      "fine-dining": {
+        "frequently purchased categories": [
+          "Regional Cuisine/Northeast Chinese Cuisine (Average 120 yuan)",
+          "International Cuisine/Japanese Food (Average 160 yuan)",
+          "Regional Cuisine/Fish Dishes (Average 130 yuan)"
+        ],
+        "preferred average price per person": "120~180 yuan",
+        "preferred store rating": "4.2~4.8 stars",
+        "typical dining time": "18:30-20:30",
+        "preferred distance": "0~5000m",
+        "recent orders": [
+          {
+            "store": "Old Fisherman Northeast Restaurant",
+            "product": "Iron Pot Stewed Goose"
+          },
+          {
+            "store": "Sushi Master",
+            "product": "Premium Sashimi Platter"
+          },
+          {
+            "store": "Seafood Family",
+            "product": "Steamed Bass"
+          }
+        ],
+        "search history": [
+          "Additive-free Japanese food",
+          "Homestyle Northeast cuisine",
+          "Low-salt seafood"
+        ]
+      },
+      "light meal": {
+        "frequently purchased categories": [
+          "Fast Food/Chinese Quick Meals (Average 35 yuan)",
+          "Fast Food/Western Quick Meals (Average 30 yuan)"
+        ],
+        "preferred average price per person": "25~45 yuan",
+        "preferred store rating": "3.5~4.2 stars",
+        "typical dining time": "12:00-13:00",
+        "preferred distance": "0~800m",
+        "recent orders": [
+          {
+            "store": "Fast Food Near Hospital",
+            "product": "Low-salt Chicken Breast Rice"
+          },
+          {
+            "store": "Mr. Salad",
+            "product": "Beef Vegetable Salad"
+          },
+          {
+            "store": "Congee Way",
+            "product": "Preserved Egg and Lean Pork Congee"
+          }
+        ],
+        "search history": [
+          "Healthy fast food",
+          "Low-salt set meal",
+          "Near hospital"
+        ]
+      },
+      "desserts/drinks/snacks": {
+        "frequently purchased categories": [
+          "Beverage Shops (Average 18 yuan)",
+          "Bread and Desserts (Average 25 yuan)"
+        ],
+        "preferred average price per person": "15~40 yuan",
+        "preferred store rating": "4.0~4.9 stars",
+        "typical dining time": "15:00-16:30",
+        "preferred distance": "0~1200m",
+        "recent orders": [
+          {
+            "store": "Fresh Fruit Tea",
+            "product": "Sugar-Free Lemon Tea"
+          },
+          {
+            "store": "Bread Talk",
+            "product": "Whole Wheat Walnut Bread"
+          },
+          {
+            "store": "Starbucks (Hangyang International City Branch)",
+            "product": "Americano No Sugar"
+          }
+        ],
+        "search history": [
+          "Sugar-Free drinks",
+          "Low-sugar desserts",
+          "Whole wheat bread"
+        ]
+      }
+    },
+    "other in-store services": {
+      "frequently consumed categories": {
+        "Sports & Fitness/Fitness Centers": "45%",
+        "Leisure & Entertainment/Massage/Foot Therapy": "30%",
+        "Parent-Child/Family Entertainment": "25%"
+      },
+      "cost per order by category": {
+        "Sports & Fitness/Fitness Centers": "100~200 yuan",
+        "Leisure & Entertainment/Massage/Foot Therapy": "150~300 yuan",
+        "Parent-Child/Family Entertainment": "120~250 yuan"
+      },
+      "preferred store rating": "4.0~4.8 stars",
+      "preferred service time": "19:00-21:00",
+      "preferred distance": "500~3000m",
+      "recent orders": [
+        {
+          "store": "Dalian Sports Center Gym",
+          "product": "Monthly Fitness Card"
+        },
+        {
+          "store": "Yuezutang",
+          "product": "Chinese Medicine Relaxation Foot Therapy Package"
+        },
+        {
+          "store": "Fantasy Children's Playground",
+          "product": "Parent-Child Double Ticket"
+        }
+      ],
+      "search history": [
+        "Gym",
+        "Doctor-recommended massage",
+        "Weekend parent-child activities",
+        "Children's entertainment"
+      ]
+    }
+  },
+  "stores": {},
+  "orders": {
+    "10826322T002": {
+      "order_id": "10826322T002",
+      "order_type": "instore",
+      "user_id": "U697724",
+      "store_id": "S17567844930826391_I00006",
+      "note": "",
+      "location": null,
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 188,
+      "create_time": "2025-11-10 14:30:22",
+      "update_time": "2025-11-10 14:30:22",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17567844930826391_P00047",
+          "price": 188,
+          "quantity": 1,
+          "attributes": "90-Minute Classic Chinese Foot Massage"
+        }
+      ]
+    }
+  }
+}

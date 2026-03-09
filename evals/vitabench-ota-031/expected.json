@@ -1,0 +1,115 @@
+{
+  "required_orders": [
+    {
+      "order_id": "K0808001T001",
+      "order_type": "flight",
+      "user_id": "U924493",
+      "store_id": "S17557505511258118_F00010",
+      "note": "",
+      "location": null,
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 950,
+      "create_time": "2025-05-23 21:23:46",
+      "update_time": "2025-05-23 21:23:46",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17557505511258118_P00094",
+          "price": 950,
+          "quantity": 1,
+          "date": "2025-05-24",
+          "seat_type": "Economy Class"
+        }
+      ]
+    },
+    {
+      "order_id": "K0808001T002",
+      "order_type": "hotel",
+      "user_id": "U924493",
+      "store_id": "S17557505511258118_H00001",
+      "note": "",
+      "location": null,
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 168,
+      "create_time": "2025-05-23 21:24:46",
+      "update_time": "2025-05-23 21:24:46",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17557505511258118_P00008",
+          "price": 168,
+          "quantity": 1,
+          "date": "2025-05-24",
+          "room_type": "Economy Single Room"
+        }
+      ]
+    },
+    {
+      "order_id": "K0808001T003",
+      "order_type": "attraction",
+      "user_id": "U924493",
+      "store_id": "S17557505511258118_A00005",
+      "note": "",
+      "location": null,
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 180,
+      "create_time": "2025-05-23 21:26:46",
+      "update_time": "2025-05-23 21:26:46",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17557505511258118_P00042",
+          "price": 180,
+          "quantity": 1,
+          "date": "2025-05-25",
+          "ticket_type": "Adult Admission Ticket"
+        }
+      ]
+    },
+    {
+      "order_id": "K0808001T004",
+      "order_type": "attraction",
+      "user_id": "U924493",
+      "store_id": "S17557505511258118_A00005",
+      "note": "",
+      "location": null,
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 60,
+      "create_time": "2025-05-23 21:27:46",
+      "update_time": "2025-05-23 21:27:46",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17557505511258118_P00069",
+          "price": 60,
+          "quantity": 1,
+          "date": "2025-05-25",
+          "ticket_type": "Adult Descent Ticket"
+        }
+      ]
+    }
+  ],
+  "rubrics": [
+    "Need to check the weather conditions at Mount Hua this weekend, the result shows May 24 at Mount Hua will be sunny 12-25°C, May 25 at Mount Hua will be cloudy 14-26°C; therefore the itinerary time should be this weekend",
+    "The flight order's arrival time should be around 5 PM",
+    "The flight order's date should be May 24, 2025",
+    "Need to filter flights arriving around 5 PM and find the cheapest flight, which is S17557505511258118_P00094",
+    "The hotel must be located at the closest position to Mount Hua's entrance",
+    "The hotel order's date should be May 24, 2025",
+    "Need to filter hotels at the foot of Mount Hua and find the cheapest room type, which is Budget Single Room at Mount Hua International Hotel, the hotel order's room type must be Budget Single Room",
+    "Must provide Mount Hua cable car ticket information, the suitable cable car for descending after watching the sunrise is the West Peak Cable Car descent ticket",
+    "There should be two admission ticket orders, one of which is for Mount Hua Scenic Area",
+    "The admission ticket for Mount Hua Scenic Area should be for use on May 25, 2025",
+    "There should be two admission ticket orders, one of which is for Mount Hua West Peak Cable Car",
+    "The cable car ticket's use date should be May 25, 2025",
+    "The cable car ticket order type must be Adult Descent Ticket"
+  ]
+}

@@ -1,0 +1,85 @@
+{
+  "required_orders": [
+    {
+      "order_id": "90714001T01",
+      "order_type": "delivery",
+      "user_id": "U000005",
+      "store_id": "S20788536851255214_S10437",
+      "note": "",
+      "location": {
+        "address": "Resin Factory Residential Building, 500 meters walk from Exit B of Wangcun South Street Metro Station, Xiaodian District, Taiyuan City, Shanxi Province",
+        "longitude": 112.55827,
+        "latitude": 37.82994
+      },
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 198.7,
+      "create_time": "2025-08-09 17:00:00",
+      "update_time": "2025-08-09 17:00:00",
+      "status": "processed",
+      "products": [
+        {
+          "product_id": "S75998663709962077_P31604",
+          "price": 74.9,
+          "quantity": 1,
+          "attributes": ""
+        },
+        {
+          "product_id": "S17266542610618363_P36704",
+          "price": 78.9,
+          "quantity": 1,
+          "attributes": ""
+        },
+        {
+          "product_id": "S18579665680945399_P97739",
+          "price": 32.9,
+          "quantity": 1,
+          "attributes": ""
+        },
+        {
+          "product_id": "S25549692678617491_P05957",
+          "price": 4,
+          "quantity": 3,
+          "attributes": ""
+        }
+      ]
+    },
+    {
+      "order_id": "90714001T02",
+      "order_type": "delivery",
+      "user_id": "U000004",
+      "store_id": "S18659469264174024_S37719",
+      "note": "",
+      "location": {
+        "address": "Resin Factory Residential Building, 500 meters walk from Exit B of Wangcun South Street Metro Station, Xiaodian District, Taiyuan City, Shanxi Province",
+        "longitude": 112.55827,
+        "latitude": 37.82994
+      },
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 28,
+      "create_time": "2025-08-09 17:00:00",
+      "update_time": "2025-08-09 17:00:00",
+      "status": "processed",
+      "products": [
+        {
+          "product_id": "S33876326240563116_P68641",
+          "price": 28,
+          "quantity": 1,
+          "attributes": "Hot"
+        }
+      ]
+    }
+  ],
+  "rubrics": [
+    "The delivery address for ordering Northeast cuisine for family dinner should be Resin Factory Residential Building, 500 meters walk from Exit B of Wangcun South Street Metro Station, Xiaodian District, Taiyuan City, Shanxi Province",
+    "The estimated delivery time for the Northeast cuisine order should be around 18:00 on 2025-08-10",
+    "Considering the baby's sensitive digestive system, the Northeast cuisine order should avoid greasy and spicy items",
+    "The Northeast cuisine order should contain 6 items in total, including 3 dishes and 3 portions of rice",
+    "The delivery address for ordering hot drinks for wife should be Resin Factory Residential Building, 500 meters walk from Exit B of Wangcun South Street Metro Station, Xiaodian District, Taiyuan City, Shanxi Province",
+    "The estimated delivery time for the hot drinks order should be around 18:00 on 2025-08-10",
+    "The temperature of the drink chosen for wife should be hot"
+  ]
+}

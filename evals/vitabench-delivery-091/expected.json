@@ -1,0 +1,81 @@
+{
+  "required_orders": [
+    {
+      "order_id": "I0716002T01",
+      "order_type": "delivery",
+      "user_id": "U000061",
+      "store_id": "S30041269188859918_S18118",
+      "note": "",
+      "location": {
+        "address": "Room 502, Building 3, Evergrande Oasis, Intersection of Richu Road and Binzhi Road, Feidong County, Hefei, Anhui Province",
+        "longitude": 117.477721,
+        "latitude": 31.851066
+      },
+      "dispatch_time": "2025-09-26 18:40:00",
+      "shipping_time": 30,
+      "delivery_time": "2025-09-26 19:10:00",
+      "total_price": 174.6,
+      "create_time": "2025-09-26 18:24:00",
+      "update_time": "2025-09-26 18:24:00",
+      "status": "delivered",
+      "products": [
+        {
+          "product_id": "S23785211641758589_P58323",
+          "price": 61,
+          "quantity": 2,
+          "attributes": ""
+        },
+        {
+          "product_id": "S16307685929834239_P63079",
+          "price": 52,
+          "quantity": 1,
+          "attributes": ""
+        },
+        {
+          "product_id": "S20095944891750071_P71251",
+          "price": 0.3,
+          "quantity": 2,
+          "attributes": ""
+        }
+      ]
+    },
+    {
+      "order_id": "I0716002T02",
+      "order_type": "delivery",
+      "user_id": "U000061",
+      "store_id": "S30083969521409190_S86523",
+      "note": "",
+      "location": {
+        "address": "Room 502, Building 3, Evergrande Oasis, Intersection of Richu Road and Binzhi Road, Feidong County, Hefei, Anhui Province",
+        "longitude": 117.477721,
+        "latitude": 31.851066
+      },
+      "dispatch_time": "2025-09-26 18:42:00",
+      "shipping_time": 30,
+      "delivery_time": "2025-09-26 19:12:00",
+      "total_price": 24,
+      "create_time": "2025-09-26 18:26:00",
+      "update_time": "2025-09-26 18:26:00",
+      "status": "delivered",
+      "products": [
+        {
+          "product_id": "S15458733652995175_P00321",
+          "price": 12,
+          "quantity": 2,
+          "attributes": ""
+        }
+      ]
+    }
+  ],
+  "rubrics": [
+    "The delivery address for the dinner order should be Room 502, Building 3, Evergrande Oasis, Intersection of Richu Road and Binzhi Road, Feidong County, Hefei, Anhui Province",
+    "The expected delivery time for the dinner order should be around 2025-09-26 19:30:00",
+    "Xiao Cai Yuan New Hui Cuisine should be selected as the merchant  for the dinner order",
+    "The dinner order should include 2 single-person set meals",
+    "The total number of items in the dinner order should be 3",
+    "The dinner order needs to include a note requesting two sets of disposable tableware",
+    "The delivery address for the pot stickers order for tomorrow's breakfast should be Room 502, Building 3, Evergrande Oasis, Intersection of Richu Road and Binzhi Road, Feidong County, Hefei, Anhui Province",
+    "Feishu Pot Stickers should be selected as the merchant for tomorrow's breakfast needs",
+    "The pot stickers order should not include any products other than pot stickers"
+  ]
+}

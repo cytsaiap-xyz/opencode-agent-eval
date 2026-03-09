@@ -1,0 +1,73 @@
+{
+  "required_orders": [
+    {
+      "order_id": "10826071T001",
+      "order_type": "instore",
+      "user_id": "U450155",
+      "store_id": "S17567836634645289_I00001",
+      "note": "",
+      "location": null,
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 198,
+      "create_time": "2024-08-15 17:17:00",
+      "update_time": "2024-08-15 17:17:00",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17567836634645289_P00001",
+          "name": "Seafood Buffet Dinner",
+          "price": 198,
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "order_id": "10826071T002",
+      "order_type": "instore",
+      "user_id": "U450155",
+      "store_id": "S17567836634645289_I00002",
+      "note": "",
+      "location": null,
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 138,
+      "create_time": "2024-08-15 17:19:00",
+      "update_time": "2024-08-15 17:19:00",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17567836634645289_P00010",
+          "name": "Full Nail Tips Custom Style Package",
+          "price": 138,
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "reservation_id": "10826071T003",
+      "shop_id": "S17567836634645289_I00002",
+      "reservation_time": "2024-08-15 21:00:00",
+      "update_time": "2024-08-15 17:21:00",
+      "customer_id": "U450155",
+      "customer_count": 1,
+      "status": "paid"
+    }
+  ],
+  "rubrics": [
+    "The restaurant ordered should be within 3km (including 3km) of Room 503, Building 2, Linyi People's Hospital Staff Quarters, 15 Jinqueshan Road, Lanshan District, Linyi City, Shandong Province",
+    "The restaurant must provide Single Booth Seat",
+    "The restaurant package ordered should offer Low Purine Menu",
+    "The restaurant package ordered should be a buffet with No Time Limit",
+    "User's usual spending range is found to be between 90 and 160 yuan, and restaurant spending should not exceed 1.5 times the user's daily spending range, so the restaurant order price should be less than or equal to 240 yuan (including 240 yuan)",
+    "The nail salon ordered should be open until at least 11 PM",
+    "The nail salon package ordered should include Full Nail Tips",
+    "The nail salon package ordered should offer multiple style options",
+    "The nail salon order should prioritize packages priced at 150 yuan or less; if unavailable, order packages priced above 150 yuan but below 200 yuan (including 200 yuan), and the package must include construction; upon inquiry, there are packages under 150 yuan, so the ordered package should be priced at 150 yuan or less",
+    "The nail salon appointment should be at Fingertip Art Nail Salon",
+    "The nail salon appointment time is 2024-08-15 21:00:00",
+    "The nail salon appointment is for 1 person"
+  ]
+}

@@ -1,0 +1,75 @@
+{
+  "required_orders": [
+    {
+      "order_id": "D0811011T001",
+      "order_type": "hotel",
+      "user_id": "U834260",
+      "store_id": "S17557505534942588_H00003",
+      "note": "",
+      "location": null,
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 1694,
+      "create_time": "2025-01-02 15:22:04",
+      "update_time": "2025-01-02 15:22:04",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17557505534942588_P00031",
+          "price": 558,
+          "quantity": 1,
+          "date": "2025-01-07",
+          "room_type": "Deluxe King Room"
+        },
+        {
+          "product_id": "S17557505534942588_P00032",
+          "price": 558,
+          "quantity": 1,
+          "date": "2025-01-08",
+          "room_type": "Deluxe King Room"
+        },
+        {
+          "product_id": "S17557505534942588_P00041",
+          "price": 578,
+          "quantity": 1,
+          "date": "2025-01-09",
+          "room_type": "Business King Room"
+        }
+      ]
+    },
+    {
+      "order_id": "D0811011T002",
+      "order_type": "attraction",
+      "user_id": "U834260",
+      "store_id": "S17557505534942588_A00006",
+      "note": "",
+      "location": null,
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 45,
+      "create_time": "2025-01-02 15:24:50",
+      "update_time": "2025-01-02 15:24:50",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17557505534942588_P00059",
+          "price": 45,
+          "quantity": 1,
+          "date": "2025-01-07",
+          "ticket_type": "Adult Ticket (with Professional Guide Service)"
+        }
+      ]
+    }
+  ],
+  "rubrics": [
+    "The hotel brand should be Hanting, Ji Hotel, or Vienna Hotel",
+    "The hotel room type must be king rooms",
+    "The hotel order should include three nights, specifically 2025-01-07, 2025-01-08, and 2025-01-09",
+    "The price for each hotel room per night should be less than or equal to 600 yuan",
+    "Need to check the date of Laba Festival in 2025, which is January 7, 2025 (the eighth day of the twelfth lunar month of 2024), and the attraction ticket date should be January 7, 2025",
+    "Need to check if Yanmenguan Scenic Area offers tickets with guide services on January 7, 2025; the result is no, so the attraction should be Gujiao Museum",
+    "The attraction ticket type should be adult ticket"
+  ]
+}

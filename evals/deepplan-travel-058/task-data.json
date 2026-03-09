@@ -1,0 +1,54 @@
+{
+  "task_id": "57",
+  "query": "I'm planning a trip from Hefei to Guangzhou around November 16, 2025, and returning on November 19, 2025. For transportation, I'll take the train—please book me the cheapest direct train option available. I have some requirements for accommodation: the hotel should preferably be renovated after 2025, as I'd like a clean and comfortable stay. By the way, during this trip, I really want to visit the top locally recommended attractions. Please pick the three highest-rated spots and include them in my itinerary—popular must-visit places are definitely a safe bet.\n\nAlso, my birthday falls right in the middle of this trip. I’d like to celebrate at a restaurant near the 'Millennium Ancient Path Ruins'. Could you please recommend a restaurant there that offers birthday set menus? The overall experience should be quite good.\n\nThat covers all my needs—I believe I've provided sufficient information. Please go ahead and plan my itinerary accordingly! November 16, 2025 is Sunday",
+  "meta_info": {
+    "org": "Hefei",
+    "dest": [
+      "Guangzhou"
+    ],
+    "days": 4,
+    "depart_date": "2025-11-16",
+    "return_date": "2025-11-19",
+    "people_number": 1,
+    "room_number": 1
+  },
+  "hard_constraints": {
+    "train_cheapest_direct": {
+      "constraint_context": "Hope to take the train for the outbound journey, and need to select the cheapest direct train available",
+      "constraint_type": "superlative_cheapest_direct",
+      "outbound_train_no": "G3069"
+    },
+    "hotel_newest_decoration": {
+      "constraint_context": "For accommodation, please select hotels with renovations completed in 2025 or later",
+      "constraint_type": "superlative_newest_decoration",
+      "hotel_name": "Hampton by Hilton Guangzhou Zhujiang New Town",
+      "hotel_price": 804.0,
+      "hotel_score": 4.8,
+      "decoration_time": 2025,
+      "year_threshold": 2025
+    },
+    "attraction_top_rated_must_visit": {
+      "constraint_context": "The itinerary must include the three highest-rated attractions recommended by the attraction recommendation tool.",
+      "constraint_type": "superlative_top_rated_must_visit",
+      "attraction_names": [
+        "Sacred Heart Cathedral of Guangzhou",
+        "Grandview Mall",
+        "Flower City Square"
+      ],
+      "attraction_ratings": [
+        4.8,
+        4.8,
+        4.8
+      ]
+    },
+    "restaurant_specific_tag_nearby": {
+      "constraint_context": "Arrange a meal at a restaurant near the 'Millennium Ancient Path Ruins' during the trip, with birthday set menu service required.",
+      "constraint_type": "superlative_specific_tag_nearby",
+      "attraction_name": "Millennium Ancient Path Ruins",
+      "restaurant_name": "Tai Ping Koon (Beijing Road Branch)",
+      "required_tag": "Birthday Package",
+      "price_per_person": 111.0,
+      "restaurant_rating": 4.3
+    }
+  }
+}

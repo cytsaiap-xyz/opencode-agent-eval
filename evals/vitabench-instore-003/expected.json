@@ -1,0 +1,70 @@
+{
+  "required_orders": [
+    {
+      "order_id": "10826017T001",
+      "order_type": "instore",
+      "user_id": "U955818",
+      "store_id": "S17564420327514686_I00001",
+      "note": "",
+      "location": null,
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 158,
+      "create_time": "2025-04-11 16:59:11",
+      "update_time": "2025-04-11 16:59:11",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17564420327514686_P00001",
+          "name": "Traditional Foot Bath + Acupoint Massage Package",
+          "price": 158,
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "reservation_id": "10826017T002",
+      "shop_id": "S17564420327514686_I00001",
+      "reservation_time": "2025-04-13 17:00:00",
+      "update_time": "2025-04-11 17:02:11",
+      "customer_id": "U955818",
+      "customer_count": 1,
+      "status": "paid"
+    },
+    {
+      "order_id": "10826017T003",
+      "order_type": "instore",
+      "user_id": "U955818",
+      "store_id": "S17564420327514686_I00003",
+      "note": "",
+      "location": null,
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 280,
+      "create_time": "2025-04-11 17:05:11",
+      "update_time": "2025-04-11 17:05:11",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17564420327514686_P00011",
+          "name": "Light Color Highlighting Package (Unlimited Bleaching)",
+          "price": 280,
+          "quantity": 1
+        }
+      ]
+    }
+  ],
+  "rubrics": [
+    "The massage shop should provide Traditional Massage service",
+    "There is no historical order for massage shops, the massage shop to be ordered should be within 3km of Room 1802, Unit 1, Building 3, Huaze Lidu Community, 319 Jinxing Middle Road, Yuelu District, Changsha, Hunan Province",
+    "The massage shop rating should be 4.0 or above",
+    "The ordered massage service should be a package that includes Foot Bath and Acupoint Massage",
+    "The massage shop to be reserved should be Ancient Charm Health Preservation Club",
+    "The weather in Changsha on 2025-04-12 will be moderate rain, and on 2025-04-13 will be overcast, the massage appointment time should be 2025-04-13 17:00:00",
+    "The number of people for the massage appointment should be 1",
+    "The hair salon should be within 1km of Ancient Charm Health Preservation Club, 328 Jinxing Road, Yuelu District, Changsha, Hunan Province",
+    "The hair salon order should be a Highlighting Package with Unlimited Bleaching"
+  ]
+}

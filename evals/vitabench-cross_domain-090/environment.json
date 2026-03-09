@@ -1,0 +1,1560 @@
+{
+  "task_id": "A0808010",
+  "domain": "cross_domain",
+  "time": "2026-05-14 09:30:00",
+  "user_id": "U654077",
+  "weather": [
+    {
+      "city": "Changsha",
+      "category": "sunny",
+      "datetime": "2026-05-14",
+      "temperature": [
+        22,
+        30
+      ],
+      "humidity": 65
+    }
+  ],
+  "location": [
+    {
+      "address": "Unit 2201, Building 8, Sunshine 100 Community, 235 Xiaoxiang Middle Road, Yuelu District, Changsha, Hunan Province",
+      "longitude": 112.945214,
+      "latitude": 28.192436
+    }
+  ],
+  "user_profile": {
+    "user id": "U654077",
+    "occupation": "Medical Intern",
+    "gender": "female",
+    "age group": "25~30",
+    "residence": "Changsha",
+    "Permanent address": "Unit 2201, Building 8, Sunshine 100 Community, 235 Xiaoxiang Middle Road, Yuelu District, Changsha, Hunan Province",
+    "work address": "Hunan Provincial People's Hospital, 618 Wuyi Avenue, Furong District, Changsha, Hunan Province",
+    "dietary restrictions": "No coffee",
+    "family status": "Has pets",
+    "personality": "Strong logical thinking, likes to analyze and question, pursues accuracy"
+  },
+  "user_historical_behaviors": {
+    "user id": "U654077",
+    "occupation": "Medical Intern",
+    "gender": "female",
+    "age group": "25~30",
+    "residence": "Changsha",
+    "home address": "Unit 2201, Building 8, Sunshine 100 Community, 235 Xiaoxiang Middle Road, Yuelu District, Changsha, Hunan Province",
+    "work address": "Hunan Provincial People's Hospital, 618 Wuyi Avenue, Furong District, Changsha, Hunan Province",
+    "delivery": {
+      "food delivery": {
+        "breakfast": {
+          "frequently purchased categories": [
+            "Quick Meals/Buns/Pan-fried Buns (Average 25 yuan)",
+            "Quick Meals/Rice Noodles/Rice Vermicelli (Average 28 yuan)",
+            "Quick Meals/Light Meals (Average 32 yuan)"
+          ],
+          "cost per order": "15~35 yuan",
+          "preferred store rating": "4.3~4.8 points",
+          "preferred delivery time": "15~25 minutes",
+          "preferred distance": "0~2500m",
+          "recent orders": [
+            {
+              "store": "85 Degrees C",
+              "product": "Light Breakfast Set (Boiled Egg + Whole Wheat Toast + Yogurt)"
+            },
+            {
+              "store": "Sha County Snacks",
+              "product": "Shredded Pork Rice Noodles + Steamed Dumplings"
+            },
+            {
+              "store": "Yonghe Soy Milk",
+              "product": "Original Soy Milk + Preserved Vegetable Bun"
+            }
+          ],
+          "search history": [
+            "Healthy breakfast",
+            "Soy milk",
+            "Buns",
+            "Light meals"
+          ]
+        },
+        "weekday lunch/dinner": {
+          "frequently purchased categories": [
+            "Quick Meals/Salad (Average 42 yuan)",
+            "Quick Meals/Healthy Meal (Average 45 yuan)",
+            "Chinese Cuisine/Hunan Cuisine (Average 65 yuan)"
+          ],
+          "cost per order": "35~70 yuan",
+          "preferred store rating": "4.5~4.9 points",
+          "preferred delivery time": "20~35 minutes",
+          "preferred distance": "0~3000m",
+          "recent orders": [
+            {
+              "store": "Light Meal Salad House",
+              "product": "Chicken Breast Quinoa Salad"
+            },
+            {
+              "store": "Hunan Family",
+              "product": "Steamed Fish + Stir-fried Green Vegetables"
+            },
+            {
+              "store": "Dietary Select",
+              "product": "Low Fat Chicken Breast Healthy Meal Box"
+            }
+          ],
+          "search history": [
+            "Low fat",
+            "Salad",
+            "Hunan Cuisine",
+            "Healthy meal",
+            "Steamed"
+          ]
+        },
+        "weekend lunch/dinner": {
+          "frequently purchased categories": [
+            "Chinese Cuisine/Hunan Cuisine (Average 88 yuan)",
+            "Chinese Cuisine/Sichuan Cuisine (Average 95 yuan)",
+            "International Cuisine/Pasta (Average 78 yuan)"
+          ],
+          "cost per order": "70~150 yuan",
+          "preferred store rating": "4.6~5.0 points",
+          "preferred delivery time": "30~45 minutes",
+          "preferred distance": "0~5000m",
+          "recent orders": [
+            {
+              "store": "Grandma's Home",
+              "product": "Grandma's Braised Pork + Fish Head with Chopped Chili + Spicy Lotus Root Slices"
+            },
+            {
+              "store": "Xibei Noodle Village",
+              "product": "Lamb Soup with Bread + Cold Noodles + Meat Sandwich"
+            },
+            {
+              "store": "Pizza Hut",
+              "product": "Pizza + Pasta + Drinks"
+            }
+          ],
+          "search history": [
+            "Family Set Menu",
+            "Hunan Cuisine",
+            "Sichuan Cuisine",
+            "Pizza"
+          ]
+        },
+        "desserts/drinks/snacks": {
+          "frequently purchased categories": [
+            "Beverages & Desserts/Juice (Average 28 yuan)",
+            "Beverages & Desserts/Fruit Salad (Average 35 yuan)",
+            "Beverages & Desserts/Chinese Pastries (Average 30 yuan)"
+          ],
+          "cost per order": "20~45 yuan",
+          "preferred store rating": "4.4~4.9 points",
+          "preferred delivery time": "15~30 minutes",
+          "preferred distance": "0~3000m",
+          "recent orders": [
+            {
+              "store": "Fresh Fruit Workshop",
+              "product": "Fresh Squeezed Grapefruit Juice"
+            },
+            {
+              "store": "CoCo",
+              "product": "Mango Green Tea (Sugar-free)"
+            },
+            {
+              "store": "Honeymoon Dessert",
+              "product": "Fresh Fruit Bowl + Red Bean Cake"
+            }
+          ],
+          "search history": [
+            "Sugar-free drinks",
+            "Fruit tea",
+            "Fresh squeezed juice",
+            "Low sugar desserts"
+          ]
+        },
+        "night snack": {
+          "frequently purchased categories": [
+            "Quick Meals/Pot Porridge (Average 38 yuan)",
+            "Snacks/Marinated Foods (Average 45 yuan)"
+          ],
+          "cost per order": "30~55 yuan",
+          "preferred store rating": "4.2~4.7 points",
+          "preferred delivery time": "20~35 minutes",
+          "preferred distance": "0~3500m",
+          "recent orders": [
+            {
+              "store": "Porridge Aroma House",
+              "product": "Preserved Egg and Lean Pork Porridge + Marinated Tofu"
+            },
+            {
+              "store": "Old Changsha Marinated Foods",
+              "product": "Marinated Platter (Dried Tofu + Duck Neck + Tofu Skin)"
+            },
+            {
+              "store": "Clay Pot House",
+              "product": "Stomach-soothing Clay Pot Porridge"
+            }
+          ],
+          "search history": [
+            "Stomach-friendly",
+            "Clay pot porridge",
+            "Marinated foods",
+            "Night snack"
+          ]
+        }
+      },
+      "product delivery": {
+        "frequently purchased categories": [
+          "Vegetables/Tofu Products (28%)",
+          "Fruits (32%)",
+          "Household Items (22%)",
+          "Grain/Oil/Condiments/Dried Goods (10%)",
+          "Others (8%)"
+        ],
+        "frequently visited stores": [
+          "Yonghui Supermarket (Changsha Kaifu Store) (35%)",
+          "Dmall Supermarket (Golden Home Store) (28%)",
+          "Watsons (Xiangjiang Middle Road Store) (20%)",
+          "Other stores (17%)"
+        ],
+        "cost per order by category": {
+          "Vegetables/Tofu Products": "5~30 yuan",
+          "Fruits": "10~50 yuan",
+          "Household Items": "15~60 yuan",
+          "Grain/Oil/Condiments/Dried Goods": "10~45 yuan"
+        },
+        "preferred delivery time": "30~60 minutes",
+        "typical order time": "9~11 AM (32%), 4~6 PM (28%), 7~9 PM (18%)",
+        "recent orders": [
+          {
+            "store": "Yonghui Supermarket (Changsha Kaifu Store)",
+            "product": "Organic Vegetable Set + Wet Wipes"
+          },
+          {
+            "store": "Dmall Supermarket (Golden Home Store)",
+            "product": "Imported Milk + Yogurt + Fresh Fruit"
+          },
+          {
+            "store": "Watsons (Xiangjiang Middle Road Store)",
+            "product": "Shower Gel + Toothpaste"
+          }
+        ],
+        "search history": [
+          "Organic vegetables",
+          "Snacks",
+          "Bath products",
+          "Fresh fruits",
+          "No Additives"
+        ]
+      }
+    },
+    "in-store consumption": {
+      "in-store dining": {
+        "fine-dining": {
+          "frequently purchased categories": [
+            "Regional Cuisine/Hunan Cuisine (Average 120 yuan)",
+            "Regional Cuisine/Cantonese Cuisine (Average 150 yuan)",
+            "International Cuisine/Japanese Food (Average 180 yuan)"
+          ],
+          "preferred average price per person": "120~180 yuan",
+          "preferred store rating": "4.2~4.8 stars",
+          "typical dining time": "18:30-20:30",
+          "preferred distance": "500~3000m",
+          "recent orders": [
+            {
+              "store": "Xiangjiang Fish Restaurant",
+              "product": "Fish Head with Chopped Chili Set"
+            },
+            {
+              "store": "Cantonese Pearl",
+              "product": "Steamed Sea Bass"
+            },
+            {
+              "store": "Green Bamboo Revolving Sushi",
+              "product": "Premium Sushi Platter"
+            }
+          ],
+          "search history": [
+            "Caffeine-free restaurants",
+            "Low purine dishes",
+            "Health-focused Hunan cuisine",
+            "High-end Japanese food"
+          ]
+        },
+        "light meal": {
+          "frequently purchased categories": [
+            "Snacks & Quick Meals/Chinese Simple Meals (Average 35 yuan)",
+            "International Cuisine/Southeast Asian Food (Average 45 yuan)"
+          ],
+          "preferred average price per person": "30~50 yuan",
+          "preferred store rating": "3.5~4.3 stars",
+          "typical dining time": "12:00-13:30",
+          "preferred distance": "0~500m",
+          "recent orders": [
+            {
+              "store": "Nutritional Quick Meal Near Hospital",
+              "product": "Steamed Fish Set"
+            },
+            {
+              "store": "Thai Haven",
+              "product": "Tom Yum Kung Noodle Soup"
+            },
+            {
+              "store": "Little Wheat Field Vegetarian",
+              "product": "Vegetarian Salad"
+            }
+          ],
+          "search history": [
+            "Quick meals near hospital",
+            "Healthy simple meals",
+            "Low-fat meals"
+          ]
+        },
+        "desserts/drinks/snacks": {
+          "frequently purchased categories": [
+            "Beverage Shops (Average 25 yuan)",
+            "Bread & Desserts (Average 30 yuan)"
+          ],
+          "preferred average price per person": "20~35 yuan",
+          "preferred store rating": "4.0~4.7 stars",
+          "typical dining time": "15:00-16:30",
+          "preferred distance": "0~300m",
+          "recent orders": [
+            {
+              "store": "Fruit For You",
+              "product": "Fresh Squeezed Fruit Tea (Caffeine-Free)"
+            },
+            {
+              "store": "Bread Talk",
+              "product": "Whole Wheat Walnut Bread"
+            },
+            {
+              "store": "Meet Fresh",
+              "product": "Coconut Milk with Sago"
+            }
+          ],
+          "search history": [
+            "Caffeine-Free drinks",
+            "Low sugar desserts",
+            "Fruit tea"
+          ]
+        }
+      },
+      "other in-store services": {
+        "frequently consumed categories": {
+          "Beauty/Yoga": "30%",
+          "Sports & Fitness/Fitness Centers": "40%",
+          "Pets/Pet Hospitals": "20%",
+          "Leisure & Entertainment/Massage/Foot Massage": "10%"
+        },
+        "cost per order by category": {
+          "Beauty/Yoga": "120~200 yuan",
+          "Sports & Fitness/Fitness Centers": "80~150 yuan",
+          "Pets/Pet Hospitals": "200~500 yuan",
+          "Leisure & Entertainment/Massage/Foot Massage": "150~300 yuan"
+        },
+        "preferred store rating": "4.0~4.8 stars",
+        "preferred service time": "19:00-21:00",
+        "preferred distance": "0~5000m",
+        "recent orders": [
+          {
+            "store": "You Yoga Life Studio",
+            "product": "Single Person Yoga Course"
+          },
+          {
+            "store": "Starlight Fitness Center",
+            "product": "Monthly Membership Card"
+          },
+          {
+            "store": "Love Pet Animal Hospital",
+            "product": "Pet Health Checkup Package"
+          }
+        ],
+        "search history": [
+          "Doctor-specific fitness",
+          "Stress-relief yoga",
+          "Pet hospital",
+          "Neck and shoulder massage"
+        ]
+      }
+    },
+    "OTA": {
+      "visited scenes": {
+        "Exhibitions (Museums/Art Galleries)": "35%",
+        "Natural Landscapes (Mountains/Lakes/Forests)": "25%",
+        "Hot Spring Scenic Areas": "20%",
+        "Cultural Relics": "15%",
+        "Special Villages/Industrial Tourism/Uncategorized Items": "5%"
+      },
+      "cost per night on hotel": "500~1000 yuan",
+      "visited hotels": {
+        "Atour": "30%",
+        "JI Hotel": "25%",
+        "Vienna": "20%",
+        "Orange": "15%",
+        "Huazhu": "10%"
+      },
+      "browsed hotels": {
+        "Four-star Hotels": "45%",
+        "Comfort Hotels": "35%",
+        "Three-star Hotels": "15%",
+        "Luxury Hotels": "5%"
+      },
+      "historical travel plans": {
+        "Changsha-Beijing": {
+          "Price Range": "800-1200 yuan",
+          "Transportation": "High-speed Rail/Train"
+        },
+        "Changsha-Shanghai": {
+          "Price Range": "600-900 yuan",
+          "Transportation": "High-speed Rail/Train"
+        },
+        "Changsha-Guangzhou": {
+          "Price Range": "500-800 yuan",
+          "Transportation": "High-speed Rail/Train"
+        },
+        "Changsha-Sanya": {
+          "Price Range": "1200-1800 yuan",
+          "Transportation": "Flight"
+        },
+        "Changsha-Hangzhou": {
+          "Price Range": "600-900 yuan",
+          "Transportation": "High-speed Rail/Train"
+        },
+        "Changsha-Xi'an": {
+          "Price Range": "700-1000 yuan",
+          "Transportation": "High-speed Rail/Train"
+        },
+        "Changsha-Zhangjiajie": {
+          "Price Range": "200-300 yuan",
+          "Transportation": "Long-distance Bus"
+        }
+      }
+    }
+  },
+  "stores": {
+    "S17550942219808099_S00001": {
+      "name": "Healthy Nutrition Workshop",
+      "store_id": "S17550942219808099_S00001",
+      "score": 4.7,
+      "location": {
+        "address": "Healthy Nutrition Workshop, 158 Xiaoxiang Middle Road, Yuelu District, Changsha, Hunan Province",
+        "latitude": 28.1958,
+        "longitude": 112.9435
+      },
+      "tags": [
+        "Healthy Meal",
+        "Low Carb",
+        "High Protein",
+        "Light Meal",
+        "Balanced Nutrition"
+      ],
+      "store_type": "target",
+      "products": [
+        {
+          "name": "High Protein Steak Meal Box",
+          "store_id": "S17550942219808099_S00001",
+          "store_name": "Healthy Nutrition Workshop",
+          "price": 42.8,
+          "tags": [
+            "High Satiety",
+            "Healthy Nutrition",
+            "Weight Loss Meal"
+          ],
+          "product_id": "S17550942219808099_P00001",
+          "attributes": [
+            "Main Course: Buckwheat Noodles",
+            "Main Course: Pasta",
+            "Main Course: Whole Grain Rice",
+            "No Main Course, More Roasted Fruits and Vegetables"
+          ],
+          "product_type": "target"
+        },
+        {
+          "name": "Light Meal Avocado Chicken Breast Salad",
+          "store_id": "S17550942219808099_S00001",
+          "store_name": "Healthy Nutrition Workshop",
+          "price": 38.5,
+          "tags": [
+            "Avocado",
+            "High Protein",
+            "Satiety",
+            "Healthy Light Meal"
+          ],
+          "product_id": "S17550942219808099_P00002",
+          "attributes": [
+            "Main Course: Buckwheat Noodles",
+            "Main Course: Pasta",
+            "Main Course: Whole Grain Rice"
+          ],
+          "product_type": "target"
+        },
+        {
+          "name": "Quinoa Chicken Breast Seasonal Vegetable Meal",
+          "store_id": "S17550942219808099_S00001",
+          "store_name": "Healthy Nutrition Workshop",
+          "price": 45,
+          "tags": [
+            "High Fiber",
+            "High Protein",
+            "Balanced Nutrition"
+          ],
+          "product_id": "S17550942219808099_P00003",
+          "attributes": [
+            "Standard Portion",
+            "Extra Chicken Breast",
+            "Extra Quinoa"
+          ],
+          "product_type": "distraction"
+        },
+        {
+          "name": "High Energy Tuna Salad",
+          "store_id": "S17550942219808099_S00001",
+          "store_name": "Healthy Nutrition Workshop",
+          "price": 46.5,
+          "tags": [
+            "High Protein",
+            "Low Carb",
+            "Tuna",
+            "High Satiety",
+            "Rich in Omega-3"
+          ],
+          "product_id": "S17550942219808099_P00004",
+          "attributes": [
+            "Main Course: Buckwheat Noodles",
+            "Main Course: Pasta",
+            "Main Course: Whole Grain Rice"
+          ],
+          "product_type": "distraction"
+        },
+        {
+          "name": "Energy Protein Beef Rice",
+          "store_id": "S17550942219808099_S00001",
+          "store_name": "Healthy Nutrition Workshop",
+          "price": 48,
+          "tags": [
+            "High Protein",
+            "Beef",
+            "High Satiety",
+            "Energy Boost",
+            "Healthy Nutrition"
+          ],
+          "product_id": "S17550942219808099_P00005",
+          "attributes": [
+            "Main Course: Buckwheat Noodles",
+            "Main Course: Pasta",
+            "Main Course: Whole Grain Rice"
+          ],
+          "product_type": "target"
+        },
+        {
+          "name": "Energetic Chicken Breast Vegetable Salad",
+          "store_id": "S17550942219808099_S00001",
+          "store_name": "Healthy Nutrition Workshop",
+          "price": 39.9,
+          "tags": [
+            "High Protein",
+            "Low Carb",
+            "Fresh Vegetables",
+            "Healthy Nutrition"
+          ],
+          "product_id": "S17550942219808099_P00007",
+          "attributes": [
+            "Standard Portion",
+            "Extra Chicken Breast",
+            "Less Oil"
+          ],
+          "product_type": "target"
+        }
+      ]
+    },
+    "S17550942219808099_S00002": {
+      "name": "Light Meal Select",
+      "store_id": "S17550942219808099_S00002",
+      "score": 4.5,
+      "location": {
+        "address": "Light Meal Select, 205 Xiaoxiang Middle Road, Yuelu District, Changsha, Hunan Province",
+        "latitude": 28.1949,
+        "longitude": 112.9428
+      },
+      "tags": [
+        "Light Meal",
+        "Salad",
+        "Low Fat",
+        "High Fiber",
+        "Weight Loss Meal",
+        "Business Hours: 11:00-19:00"
+      ],
+      "store_type": "target",
+      "products": [
+        {
+          "name": "Low Carb High Protein Chicken Breast Salad",
+          "store_id": "S17550942219808099_S00002",
+          "store_name": "Light Meal Select",
+          "price": 42.8,
+          "tags": [
+            "Low Carb",
+            "High Protein",
+            "Weight Loss Meal",
+            "High Satiety",
+            "Healthy Nutrition"
+          ],
+          "product_id": "S17550942219808099_P00009",
+          "attributes": [
+            "Add Fried Egg",
+            "No Fried Egg",
+            "Add Avocado",
+            "No Avocado"
+          ],
+          "product_type": "target"
+        },
+        {
+          "name": "Quinoa Beef Weight Loss Meal",
+          "store_id": "S17550942219808099_S00002",
+          "store_name": "Light Meal Select",
+          "price": 48.9,
+          "tags": [
+            "Low Carb",
+            "High Protein",
+            "High Fiber",
+            "High Satiety",
+            "Balanced Nutrition"
+          ],
+          "product_id": "S17550942219808099_P00010",
+          "attributes": [
+            "Standard Portion",
+            "Large Portion (+10 yuan)"
+          ],
+          "product_type": "target"
+        },
+        {
+          "name": "Avocado Chicken Breast Sandwich",
+          "store_id": "S17550942219808099_S00002",
+          "store_name": "Light Meal Select",
+          "price": 28,
+          "tags": [
+            "Light Meal",
+            "Low Fat",
+            "High Protein",
+            "Classic Style"
+          ],
+          "product_id": "S17550942219808099_P00011",
+          "attributes": [
+            "Whole Wheat Bread",
+            "Rye Bread",
+            "Add Egg (+3 yuan)"
+          ],
+          "product_type": "distraction"
+        },
+        {
+          "name": "Fitness Muscle Building Chicken Breast Bento",
+          "store_id": "S17550942219808099_S00002",
+          "store_name": "Light Meal Select",
+          "price": 45.8,
+          "tags": [
+            "High Protein",
+            "Muscle Gain",
+            "Fitness Meal",
+            "High Satiety"
+          ],
+          "product_id": "S17550942219808099_P00012",
+          "attributes": [
+            "No Sauce",
+            "With Sauce"
+          ],
+          "product_type": "target"
+        },
+        {
+          "name": "Energetic Vegetable Beef Salad",
+          "store_id": "S17550942219808099_S00002",
+          "store_name": "Light Meal Select",
+          "price": 39.9,
+          "tags": [
+            "Low Carb",
+            "High Protein",
+            "Low Fat",
+            "Variety of Vegetables",
+            "High Satiety"
+          ],
+          "product_id": "S17550942219808099_P00013",
+          "attributes": [
+            "Original Flavor",
+            "Add Mustard Sauce",
+            "Add Vinaigrette"
+          ],
+          "product_type": "target"
+        },
+        {
+          "name": "Rice in Seafood Soup",
+          "store_id": "S17550942219808099_S00002",
+          "store_name": "Light Meal Select",
+          "price": 36.8,
+          "tags": [
+            "Seafood",
+            "Warm",
+            "Rich Broth",
+            "Nutrient-Rich"
+          ],
+          "product_id": "S17550942219808099_P00014",
+          "attributes": [
+            "Not Spicy",
+            "Mildly Spicy",
+            "Medium Spicy"
+          ],
+          "product_type": "distraction"
+        },
+        {
+          "name": "Light Meal Coffee Energy Cup",
+          "store_id": "S17550942219808099_S00002",
+          "store_name": "Light Meal Select",
+          "price": 25.8,
+          "tags": [
+            "Refreshing",
+            "Low Sugar",
+            "Energy Boost",
+            "Coffee"
+          ],
+          "product_id": "S17550942219808099_P00015",
+          "attributes": [
+            "Cold",
+            "Hot"
+          ],
+          "product_type": "distraction"
+        },
+        {
+          "name": "30-Day Nutrition Meal Plan",
+          "store_id": "S17550942219808099_S00002",
+          "store_name": "Light Meal Select",
+          "price": 1688,
+          "tags": [
+            "Set Menu",
+            "Long-term Subscription",
+            "Healthy Diet",
+            "Fat Loss",
+            "High Protein"
+          ],
+          "product_id": "S17550942219808099_P00016",
+          "attributes": [
+            "Lunch",
+            "Dinner",
+            "Lunch + Dinner"
+          ],
+          "product_type": "target"
+        }
+      ]
+    },
+    "S17550942219808099_S00003": {
+      "name": "Mr. Nutrition",
+      "store_id": "S17550942219808099_S00003",
+      "score": 4.8,
+      "location": {
+        "address": "Mr. Nutrition, Building C3, Lugu Enterprise Square, Yuelu District, Changsha, Hunan Province",
+        "latitude": 28.6103,
+        "longitude": 112.9918
+      },
+      "tags": [
+        "Low Carb",
+        "High Protein",
+        "Nutritional Meal",
+        "High Satiety",
+        "Fitness Meal"
+      ],
+      "store_type": "target",
+      "products": [
+        {
+          "name": "Light Meal Low Carb High Protein Set",
+          "store_id": "S17550942219808099_S00003",
+          "store_name": "Mr. Nutrition",
+          "price": 48.8,
+          "tags": [
+            "Low Carb",
+            "High Protein",
+            "Balanced Nutrition",
+            "High Satiety",
+            "Healthy Meal"
+          ],
+          "product_id": "S17550942219808099_P00017",
+          "attributes": [
+            "Standard Spiciness",
+            "No Sugar",
+            "Choice of Chicken Breast/Beef"
+          ],
+          "product_type": "target"
+        },
+        {
+          "name": "Fat Loss Muscle Gain Nutrition Meal",
+          "store_id": "S17550942219808099_S00003",
+          "store_name": "Mr. Nutrition",
+          "price": 52.9,
+          "tags": [
+            "Low Carb",
+            "High Protein",
+            "Fitness Meal",
+            "High Satiety",
+            "No Additives"
+          ],
+          "product_id": "S17550942219808099_P00018",
+          "attributes": [
+            "Standard Portion",
+            "Choice of Steak/Chicken Breast"
+          ],
+          "product_type": "target"
+        },
+        {
+          "name": "Quinoa Chicken Breast Salad",
+          "store_id": "S17550942219808099_S00003",
+          "store_name": "Mr. Nutrition",
+          "price": 45,
+          "tags": [
+            "Low Carb",
+            "High Protein",
+            "High Satiety",
+            "Light Meal",
+            "Healthy Meal"
+          ],
+          "product_id": "S17550942219808099_P00019",
+          "attributes": [
+            "Standard Portion",
+            "Sauce Options Available"
+          ],
+          "product_type": "target"
+        },
+        {
+          "name": "Avocado Chicken Breast Salad",
+          "store_id": "S17550942219808099_S00003",
+          "store_name": "Mr. Nutrition",
+          "price": 42,
+          "tags": [
+            "Low Carb",
+            "Healthy Fats",
+            "High Protein",
+            "High Satiety",
+            "Nutritional Meal"
+          ],
+          "product_id": "S17550942219808099_P00020",
+          "attributes": [
+            "Standard Portion",
+            "Sauce Options Available"
+          ],
+          "product_type": "target"
+        },
+        {
+          "name": "Vegetable and Seafood Soup",
+          "store_id": "S17550942219808099_S00003",
+          "store_name": "Mr. Nutrition",
+          "price": 38,
+          "tags": [
+            "Low Calorie",
+            "Nutrient-Rich",
+            "Healthy Meal",
+            "Rich Broth"
+          ],
+          "product_id": "S17550942219808099_P00021",
+          "attributes": [
+            "Large Portion",
+            "Medium Portion",
+            "Small Portion"
+          ],
+          "product_type": "distraction"
+        },
+        {
+          "name": "Coffee Protein Energy Cup",
+          "store_id": "S17550942219808099_S00003",
+          "store_name": "Mr. Nutrition",
+          "price": 32,
+          "tags": [
+            "High Protein",
+            "Energy Boost",
+            "Refreshing and Energizing",
+            "Fitness Drink"
+          ],
+          "product_id": "S17550942219808099_P00022",
+          "attributes": [
+            "Standard Portion",
+            "With Ice",
+            "Without Ice"
+          ],
+          "product_type": "distraction"
+        },
+        {
+          "name": "Rye Whole Wheat Sandwich",
+          "store_id": "S17550942219808099_S00003",
+          "store_name": "Mr. Nutrition",
+          "price": 35,
+          "tags": [
+            "High Fiber",
+            "Whole Wheat",
+            "Nutritious Breakfast",
+            "Healthy Diet"
+          ],
+          "product_id": "S17550942219808099_P00023",
+          "attributes": [
+            "Standard Portion",
+            "Sauce Options Available"
+          ],
+          "product_type": "distraction"
+        },
+        {
+          "name": "Chicken Breast Quinoa Rice",
+          "store_id": "S17550942219808099_S00003",
+          "store_name": "Mr. Nutrition",
+          "price": 46,
+          "tags": [
+            "Low Fat",
+            "High Protein",
+            "High Satiety",
+            "Healthy Meal"
+          ],
+          "product_id": "S17550942219808099_P00024",
+          "attributes": [
+            "Standard Portion",
+            "Sauce Options Available"
+          ],
+          "product_type": "target"
+        }
+      ]
+    },
+    "S17550942219808099_S00004": {
+      "name": "Hunan Flavor Restaurant",
+      "store_id": "S17550942219808099_S00004",
+      "score": 4.6,
+      "location": {
+        "address": "Hunan Flavor Restaurant, 300 Xiaoxiang Middle Road, Yuelu District, Changsha, Hunan Province",
+        "latitude": 28.1935,
+        "longitude": 112.941
+      },
+      "tags": [
+        "Hunan Cuisine",
+        "Home-Style Dish",
+        "Fish Head with Chopped Chili",
+        "Stir-fried Beef"
+      ],
+      "store_type": "distraction",
+      "products": [
+        {
+          "name": "Fish Head with Chopped Chili + Stir-fried Beef + Rice",
+          "store_id": "S17550942219808099_S00004",
+          "store_name": "Hunan Flavor Restaurant",
+          "price": 68,
+          "tags": [
+            "Hunan Cuisine",
+            "Signature Set Menu",
+            "Popular Combination",
+            "Classic Hunan Cuisine"
+          ],
+          "product_id": "S17550942219808099_P00025",
+          "attributes": [
+            "Mildly Spicy",
+            "Medium Spicy",
+            "Extra Spicy",
+            "No Green Onion",
+            "No Garlic"
+          ],
+          "product_type": "distraction"
+        },
+        {
+          "name": "Stir-fried Beef (Spicy! Order with caution)",
+          "store_id": "S17550942219808099_S00004",
+          "store_name": "Hunan Flavor Restaurant",
+          "price": 48,
+          "tags": [
+            "Hunan Cuisine",
+            "Beef",
+            "High Protein",
+            "Signature Dish"
+          ],
+          "product_id": "S17550942219808099_P00026",
+          "attributes": [
+            "Mildly Spicy",
+            "Medium Spicy",
+            "Extra Spicy",
+            "No Green Onion",
+            "No Garlic"
+          ],
+          "product_type": "distraction"
+        },
+        {
+          "name": "Hunan Style Dry Pot Chicken (Medium Spicy)",
+          "store_id": "S17550942219808099_S00004",
+          "store_name": "Hunan Flavor Restaurant",
+          "price": 58,
+          "tags": [
+            "Hunan Cuisine",
+            "Dry Pot",
+            "Chicken",
+            "Home-Style Dish"
+          ],
+          "product_id": "S17550942219808099_P00027",
+          "attributes": [
+            "Mildly Spicy",
+            "Medium Spicy",
+            "Extra Spicy",
+            "No Cilantro"
+          ],
+          "product_type": "distraction"
+        },
+        {
+          "name": "Fresh Fish Head with Chopped Chili",
+          "store_id": "S17550942219808099_S00004",
+          "store_name": "Hunan Flavor Restaurant",
+          "price": 52,
+          "tags": [
+            "Hunan Cuisine",
+            "Signature Dish",
+            "Fish Head",
+            "Chopped Chili"
+          ],
+          "product_id": "S17550942219808099_P00028",
+          "attributes": [
+            "Mildly Spicy",
+            "Medium Spicy",
+            "Extra Spicy"
+          ],
+          "product_type": "distraction"
+        },
+        {
+          "name": "Stir-fried Tea Tree Mushroom with Cured Pork",
+          "store_id": "S17550942219808099_S00004",
+          "store_name": "Hunan Flavor Restaurant",
+          "price": 38,
+          "tags": [
+            "Hunan Cuisine",
+            "Cured Pork",
+            "Tea Tree Mushroom",
+            "Home-Style Dish"
+          ],
+          "product_id": "S17550942219808099_P00029",
+          "attributes": [
+            "Mildly Spicy",
+            "Medium Spicy",
+            "No Garlic"
+          ],
+          "product_type": "distraction"
+        },
+        {
+          "name": "Hunan Style Cold Chicken + Rice",
+          "store_id": "S17550942219808099_S00004",
+          "store_name": "Hunan Flavor Restaurant",
+          "price": 42,
+          "tags": [
+            "Hunan Cuisine",
+            "Cold Dish",
+            "Chicken",
+            "Appetizer"
+          ],
+          "product_id": "S17550942219808099_P00030",
+          "attributes": [
+            "Mildly Spicy",
+            "Medium Spicy",
+            "No Cilantro",
+            "No Green Onion"
+          ],
+          "product_type": "distraction"
+        }
+      ]
+    },
+    "S17550942219808099_S00005": {
+      "name": "Coffee Diary",
+      "store_id": "S17550942219808099_S00005",
+      "score": 4.7,
+      "location": {
+        "address": "Coffee Diary, 188 Xiaoxiang Middle Road, Yuelu District, Changsha, Hunan Province",
+        "latitude": 28.1952,
+        "longitude": 112.943
+      },
+      "tags": [
+        "Coffee",
+        "Dessert",
+        "Light Meal",
+        "Afternoon Tea"
+      ],
+      "store_type": "distraction",
+      "products": [
+        {
+          "name": "Americano",
+          "store_id": "S17550942219808099_S00005",
+          "store_name": "Coffee Diary",
+          "price": 22,
+          "tags": [
+            "Coffee",
+            "Classic",
+            "Refreshing"
+          ],
+          "product_id": "S17550942219808099_P00032",
+          "attributes": [
+            "Hot",
+            "Cold",
+            "Sugar-Free",
+            "Less Sugar",
+            "Standard Sugar"
+          ],
+          "product_type": "distraction"
+        },
+        {
+          "name": "Latte",
+          "store_id": "S17550942219808099_S00005",
+          "store_name": "Coffee Diary",
+          "price": 26,
+          "tags": [
+            "Coffee",
+            "Milk",
+            "Silky Smooth"
+          ],
+          "product_id": "S17550942219808099_P00033",
+          "attributes": [
+            "Hot",
+            "Cold",
+            "Sugar-Free",
+            "Less Sugar",
+            "Standard Sugar",
+            "Oat Milk Substitute"
+          ],
+          "product_type": "distraction"
+        },
+        {
+          "name": "Cranberry Oatmeal Cookie",
+          "store_id": "S17550942219808099_S00005",
+          "store_name": "Coffee Diary",
+          "price": 18,
+          "tags": [
+            "Dessert",
+            "Cookie",
+            "Afternoon Tea"
+          ],
+          "product_id": "S17550942219808099_P00034",
+          "attributes": [],
+          "product_type": "distraction"
+        },
+        {
+          "name": "Fruit Tea (Caffeine-Free)",
+          "store_id": "S17550942219808099_S00005",
+          "store_name": "Coffee Diary",
+          "price": 28,
+          "tags": [
+            "Fruit Tea",
+            "Caffeine-Free",
+            "Refreshing"
+          ],
+          "product_id": "S17550942219808099_P00035",
+          "attributes": [
+            "Hot",
+            "Cold",
+            "Less Sugar",
+            "Standard Sugar"
+          ],
+          "product_type": "distraction"
+        },
+        {
+          "name": "Light Meal Salad",
+          "store_id": "S17550942219808099_S00005",
+          "store_name": "Coffee Diary",
+          "price": 38,
+          "tags": [
+            "Light Meal",
+            "Healthy",
+            "Low Calorie"
+          ],
+          "product_id": "S17550942219808099_P00036",
+          "attributes": [
+            "No Dressing",
+            "Yogurt Dressing",
+            "Vinaigrette"
+          ],
+          "product_type": "distraction"
+        },
+        {
+          "name": "Avocado Chicken Breast Sandwich",
+          "store_id": "S17550942219808099_S00005",
+          "store_name": "Coffee Diary",
+          "price": 32,
+          "tags": [
+            "Light Meal",
+            "Sandwich",
+            "High Protein"
+          ],
+          "product_id": "S17550942219808099_P00037",
+          "attributes": [
+            "Whole Wheat Bread",
+            "White Bread"
+          ],
+          "product_type": "distraction"
+        },
+        {
+          "name": "Mocha",
+          "store_id": "S17550942219808099_S00005",
+          "store_name": "Coffee Diary",
+          "price": 30,
+          "tags": [
+            "Coffee",
+            "Chocolate",
+            "Sweet Fragrance"
+          ],
+          "product_id": "S17550942219808099_P00038",
+          "attributes": [
+            "Hot",
+            "Cold",
+            "Sugar-Free",
+            "Less Sugar",
+            "Standard Sugar"
+          ],
+          "product_type": "distraction"
+        },
+        {
+          "name": "Tiramisu",
+          "store_id": "S17550942219808099_S00005",
+          "store_name": "Coffee Diary",
+          "price": 25,
+          "tags": [
+            "Dessert",
+            "Classic",
+            "Coffee Flavor"
+          ],
+          "product_id": "S17550942219808099_P00039",
+          "attributes": [],
+          "product_type": "distraction"
+        }
+      ]
+    },
+    "S17550942219808099_S00006": {
+      "name": "Seafood Restaurant",
+      "store_id": "S17550942219808099_S00006",
+      "score": 4.4,
+      "location": {
+        "address": "Seafood Restaurant, 350 Xiaoxiang Middle Road, Yuelu District, Changsha, Hunan Province",
+        "latitude": 28.193,
+        "longitude": 112.94
+      },
+      "tags": [
+        "Seafood",
+        "Seafood Soup",
+        "BBQ",
+        "Beer"
+      ],
+      "store_type": "distraction",
+      "products": [
+        {
+          "name": "Hot Pot Fish Set",
+          "store_id": "S17550942219808099_S00006",
+          "store_name": "Seafood Restaurant",
+          "price": 88,
+          "tags": [
+            "Steamed",
+            "Seafood",
+            "Set Menu",
+            "Sea Bass"
+          ],
+          "product_id": "S17550942219808099_P00040",
+          "attributes": [
+            "With Green Onion",
+            "No Green Onion",
+            "Mildly Spicy",
+            "Not Spicy"
+          ],
+          "product_type": "distraction"
+        },
+        {
+          "name": "Seafood Hot Pot Soup (Mildly Spicy)",
+          "store_id": "S17550942219808099_S00006",
+          "store_name": "Seafood Restaurant",
+          "price": 128,
+          "tags": [
+            "Seafood Soup",
+            "Soup",
+            "Rich Broth",
+            "Nutritious"
+          ],
+          "product_id": "S17550942219808099_P00041",
+          "attributes": [
+            "Mildly Spicy",
+            "Medium Spicy",
+            "Not Spicy"
+          ],
+          "product_type": "distraction"
+        },
+        {
+          "name": "Roasted Oysters (Half Dozen)",
+          "store_id": "S17550942219808099_S00006",
+          "store_name": "Seafood Restaurant",
+          "price": 68,
+          "tags": [
+            "BBQ",
+            "Seafood",
+            "Oyster",
+            "Roasted"
+          ],
+          "product_id": "S17550942219808099_P00042",
+          "attributes": [
+            "Garlic",
+            "Cheese",
+            "Spicy"
+          ],
+          "product_type": "distraction"
+        },
+        {
+          "name": "Beer Roasted Shrimp",
+          "store_id": "S17550942219808099_S00006",
+          "store_name": "Seafood Restaurant",
+          "price": 98,
+          "tags": [
+            "Beer",
+            "BBQ",
+            "Seafood",
+            "Shrimp"
+          ],
+          "product_id": "S17550942219808099_P00043",
+          "attributes": [
+            "Mildly Spicy",
+            "Medium Spicy",
+            "Extra Spicy"
+          ],
+          "product_type": "distraction"
+        },
+        {
+          "name": "Salt and Pepper Mantis Shrimp",
+          "store_id": "S17550942219808099_S00006",
+          "store_name": "Seafood Restaurant",
+          "price": 108,
+          "tags": [
+            "Salt and Pepper",
+            "Seafood",
+            "Mantis Shrimp",
+            "Savory"
+          ],
+          "product_id": "S17550942219808099_P00044",
+          "attributes": [
+            "Mildly Spicy",
+            "Medium Spicy",
+            "Not Spicy"
+          ],
+          "product_type": "distraction"
+        },
+        {
+          "name": "Wheat Beer (500ml)",
+          "store_id": "S17550942219808099_S00006",
+          "store_name": "Seafood Restaurant",
+          "price": 18,
+          "tags": [
+            "Beer",
+            "Beverage",
+            "Drinks"
+          ],
+          "product_id": "S17550942219808099_P00045",
+          "attributes": [
+            "Chilled",
+            "Room Temperature"
+          ],
+          "product_type": "distraction"
+        }
+      ]
+    }
+  },
+  "orders": {
+    "S17550810224412382_O00001": {
+      "order_id": "S17550810224412382_O00001",
+      "order_type": "delivery",
+      "user_id": "U654077",
+      "store_id": "S17550810224412382_S00001",
+      "total_price": 48.8,
+      "create_time": "2026-05-14 09:35:12",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17550810224412382_P00001",
+          "price": 48.8,
+          "quantity": 1
+        }
+      ]
+    },
+    "S17550810224412382_O00002": {
+      "order_id": "S17550810224412382_O00002",
+      "order_type": "delivery",
+      "user_id": "U654077",
+      "store_id": "S17550810224412382_S00002",
+      "total_price": 48.8,
+      "create_time": "2026-05-05 12:15:32",
+      "status": "delivered",
+      "products": [
+        {
+          "product_id": "S17550810224412382_P00006",
+          "price": 48.8,
+          "quantity": 1
+        }
+      ]
+    },
+    "S17550810224412382_O00003": {
+      "order_id": "S17550810224412382_O00003",
+      "order_type": "delivery",
+      "user_id": "U654077",
+      "store_id": "S17550810224412382_S00002",
+      "total_price": 52.8,
+      "create_time": "2026-04-28 12:30:45",
+      "status": "delivered",
+      "products": [
+        {
+          "product_id": "S17550810224412382_P00007",
+          "price": 52.8,
+          "quantity": 1
+        }
+      ]
+    },
+    "S17550810224412382_O00004": {
+      "order_id": "S17550810224412382_O00004",
+      "order_type": "delivery",
+      "user_id": "U654077",
+      "store_id": "S17550810224412382_S00001",
+      "total_price": 48.8,
+      "create_time": "2026-04-25 18:45:23",
+      "status": "delivered",
+      "products": [
+        {
+          "product_id": "S17550810224412382_P00001",
+          "price": 48.8,
+          "quantity": 1
+        }
+      ]
+    },
+    "S17550810224412382_O00006": {
+      "order_id": "S17550810224412382_O00006",
+      "order_type": "train",
+      "user_id": "U654077",
+      "store_id": "T00001",
+      "note": "Medical conference travel",
+      "location": {
+        "address": "Changsha Railway Station, 8 Yingbin Road, Furong District, Changsha, Hunan Province",
+        "longitude": 112.982456,
+        "latitude": 28.197532
+      },
+      "dispatch_time": "",
+      "shipping_time": 0.0,
+      "delivery_time": "",
+      "total_price": 682.0,
+      "create_time": "2026-04-15 14:23:45",
+      "update_time": "2026-04-15 14:23:45",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "T00001_P0001",
+          "price": 682.0,
+          "quantity": 1,
+          "seat_type": "First Class Seat"
+        }
+      ]
+    },
+    "S17550810224412382_O00007": {
+      "order_id": "S17550810224412382_O00007",
+      "order_type": "hotel",
+      "user_id": "U654077",
+      "store_id": "H00002",
+      "note": "Medical conference accommodation",
+      "location": {
+        "address": "Atour Hotel Shanghai Jiao Tong University Branch, 1954 Huashan Road, Xuhui District, Shanghai",
+        "longitude": 121.436789,
+        "latitude": 31.198765
+      },
+      "dispatch_time": "",
+      "shipping_time": 0.0,
+      "delivery_time": "",
+      "total_price": 698.0,
+      "create_time": "2026-04-15 14:35:12",
+      "update_time": "2026-04-15 14:35:12",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "H00002_P0001",
+          "price": 698.0,
+          "quantity": 1,
+          "date": "2026-05-01",
+          "room_type": "Superior King Room"
+        }
+      ]
+    },
+    "S17550810224412382_O00008": {
+      "order_id": "S17550810224412382_O00008",
+      "order_type": "attraction",
+      "user_id": "U654077",
+      "store_id": "A00001",
+      "note": "Weekend relaxation",
+      "location": {
+        "address": "Yuelu Mountain Scenic Area, Yuelu District, Changsha, Hunan Province",
+        "longitude": 112.931234,
+        "latitude": 28.179876
+      },
+      "dispatch_time": "",
+      "shipping_time": 0.0,
+      "delivery_time": "",
+      "total_price": 60.0,
+      "create_time": "2026-03-14 16:45:23",
+      "update_time": "2026-03-14 16:45:23",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "A00001_P0001",
+          "price": 60.0,
+          "quantity": 1,
+          "ticket_type": "Adult Ticket"
+        }
+      ]
+    },
+    "S17550810224412382_O00009": {
+      "order_id": "S17550810224412382_O00009",
+      "order_type": "instore",
+      "user_id": "U654077",
+      "store_id": "S17550810224412382_I00012",
+      "total_price": 288.0,
+      "create_time": "2026-05-14 10:15:23",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17550810224412382_P00060",
+          "price": 288.0,
+          "quantity": 1
+        }
+      ]
+    },
+    "S17550810224412382_O00010": {
+      "order_id": "S17550810224412382_O00010",
+      "order_type": "instore",
+      "user_id": "U654077",
+      "store_id": "S17550810224412382_I00010",
+      "total_price": 2800.0,
+      "create_time": "2026-05-10 14:23:45",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17550810224412382_P00046",
+          "price": 2800.0,
+          "quantity": 1
+        }
+      ]
+    },
+    "S17550810224412382_O00011": {
+      "order_id": "S17550810224412382_O00011",
+      "order_type": "instore",
+      "user_id": "U654077",
+      "store_id": "I00001",
+      "total_price": 180.0,
+      "create_time": "2026-04-20 19:15:32",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "I00001_P0001",
+          "price": 180.0,
+          "quantity": 1
+        }
+      ]
+    },
+    "S17550810224412382_O00012": {
+      "order_id": "S17550810224412382_O00012",
+      "order_type": "instore",
+      "user_id": "U654077",
+      "store_id": "I00002",
+      "total_price": 120.0,
+      "create_time": "2026-04-10 16:30:45",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "I00002_P0001",
+          "price": 120.0,
+          "quantity": 1
+        }
+      ]
+    }
+  }
+}

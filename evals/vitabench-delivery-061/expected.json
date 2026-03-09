@@ -1,0 +1,38 @@
+{
+  "required_orders": [
+    {
+      "order_id": "D0717003T01",
+      "order_type": "delivery",
+      "user_id": "U000023",
+      "store_id": "S32974240222313518_S52218",
+      "note": "",
+      "location": {
+        "address": "160 meters west of the intersection of Jimei North Avenue and Caiting Road, West Area of Xiamen Software Park Phase III, Jimei District, Xiamen City, Fujian Province",
+        "longitude": 118.018137,
+        "latitude": 24.606915
+      },
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 90.0,
+      "create_time": "2024-06-27 13:26:00",
+      "update_time": "2024-06-27 13:26:00",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S21362993512450958_P20483",
+          "price": 15.0,
+          "quantity": 6,
+          "attributes": "Three Parts Sweet"
+        }
+      ]
+    }
+  ],
+  "rubrics": [
+    "The order must be placed at Guming (Software Park Phase III Store), which is located at Building 07, Zone F, Software Park Phase III, Jimei District, Xiamen City, Fujian Province, and is the closest Guming branch to the user's work address",
+    "The quantity of ordered items should be 6 servings to meet the needs of a 6-person sharing meeting",
+    "The ordered product should have floral fragrance characteristics, such as jasmine aroma",
+    "The sweetness level of the ordered product should be selected as 'three parts sweet', suitable for the low-sugar needs of people who are losing weight",
+    "The estimated delivery time should be before 14:30 on June 27, 2024, to ensure arrival before the sharing meeting begins"
+  ]
+}

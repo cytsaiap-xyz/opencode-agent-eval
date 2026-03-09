@@ -1,0 +1,964 @@
+{
+  "task_id": "A0805002",
+  "domain": "cross_domain",
+  "time": "2025-03-07 21:27:07",
+  "user_id": "U010094",
+  "weather": [
+    {
+      "city": "Luoyang",
+      "category": "cloudy",
+      "datetime": "2025-03-08",
+      "temperature": [
+        8,
+        18
+      ],
+      "humidity": 65
+    }
+  ],
+  "location": [
+    {
+      "address": "Xujiaying Community, 220 meters north of the intersection of Xuesong Road and Xingye Road, Jianxi District, Luoyang, Henan Province",
+      "longitude": 112.3843,
+      "latitude": 34.6512
+    }
+  ],
+  "user_profile": {
+    "user id": "U010094",
+    "occupation": "Sales",
+    "gender": "female",
+    "age group": "25~30",
+    "residence": "Luoyang",
+    "home address": "Xujiaying Community, 220 meters north of the intersection of Xuesong Road and Xingye Road, Jianxi District, Luoyang, Henan Province",
+    "work address": "Luoyang New Path Electrical Co., Ltd., 96 Binhe North Road, Jianxi District (High-tech Zone), Luoyang, Henan Province",
+    "dietary restrictions": "Avoid High-fat internal organs",
+    "family status": "Living with elderly",
+    "personality": "Extremely detail-oriented, tends to be picky and easily dissatisfied"
+  },
+  "user_historical_behaviors": {
+    "user id": "U010094",
+    "occupation": "Sales",
+    "gender": "female",
+    "age group": "25~30",
+    "residence": "Luoyang",
+    "home address": "Xujiaying Community, 220 meters north of the intersection of Xuesong Road and Xingye Road, Jianxi District, Luoyang, Henan Province",
+    "work address": "Luoyang New Path Electrical Co., Ltd., 96 Binhe North Road, Jianxi District (High-tech Zone), Luoyang, Henan Province",
+    "delivery": {
+      "food delivery": {
+        "breakfast": {
+          "frequently purchased categories": [
+            "Quick Meals/Baozi/Pan-fried Buns (Average 25 yuan)",
+            "Quick Meals/Spicy Soup (Average 18 yuan)",
+            "Quick Meals/Fried Dough Sticks (Average 12 yuan)"
+          ],
+          "cost per order": "15~35 yuan",
+          "preferred store rating": "4.2~4.8 stars",
+          "preferred delivery time": "15~30 minutes",
+          "preferred distance": "0~2500m",
+          "recent orders": [
+            {
+              "store": "Old Luoyang Spicy Soup",
+              "product": "Special Spicy Soup + Fried Dough Sticks"
+            },
+            {
+              "store": "Yang's Baozi Shop",
+              "product": "Meat Bun + Soybean Milk Set"
+            },
+            {
+              "store": "Henan Breakfast",
+              "product": "Millet Porridge + Jianbing"
+            }
+          ],
+          "search history": [
+            "Spicy soup",
+            "Baozi",
+            "Soybean milk",
+            "Jianbing",
+            "Breakfast set"
+          ]
+        },
+        "weekday lunch/dinner": {
+          "frequently purchased categories": [
+            "Quick Meals/Braised Chicken Rice (Average 28 yuan)",
+            "Quick Meals/Small Bowls/Small Portions (Average 35 yuan)",
+            "Chinese Cuisine/Sichuan Cuisine (Average 42 yuan)"
+          ],
+          "cost per order": "25~50 yuan",
+          "preferred store rating": "4.3~4.7 stars",
+          "preferred delivery time": "20~35 minutes",
+          "preferred distance": "0~3000m",
+          "recent orders": [
+            {
+              "store": "Braised Chicken Rice",
+              "product": "Standard Braised Chicken + Rice + Vegetables"
+            },
+            {
+              "store": "Sichuan-Hunan Small Bowls",
+              "product": "Twice-cooked Pork + Shredded Potatoes with Green Pepper + Rice"
+            },
+            {
+              "store": "Food First Quick Meal",
+              "product": "Braised Pork Ribs + Two Vegetable Dishes + Rice"
+            }
+          ],
+          "search history": [
+            "Braised chicken",
+            "Fast food",
+            "Small bowl dishes",
+            "Healthy meals",
+            "Pork rib rice"
+          ]
+        },
+        "weekend lunch/dinner": {
+          "frequently purchased categories": [
+            "Chinese Cuisine/Crayfish (Average 88 yuan)",
+            "Chinese Cuisine/Grilled Fish (Average 92 yuan)",
+            "Hot Pot/Individual Hot Pot (Average 65 yuan)"
+          ],
+          "cost per order": "60~150 yuan",
+          "preferred store rating": "4.5~4.9 stars",
+          "preferred delivery time": "30~45 minutes",
+          "preferred distance": "0~4000m",
+          "recent orders": [
+            {
+              "store": "Sichuan Grilled Fish",
+              "product": "Spicy Grilled Fish + Potatoes + Tofu Skin"
+            },
+            {
+              "store": "Xu's Crayfish",
+              "product": "Spicy Crayfish 1.5 jin + 1 Portion of Clams"
+            },
+            {
+              "store": "Bashu General Hot Pot",
+              "product": "Individual Beef Hot Pot Set"
+            }
+          ],
+          "search history": [
+            "Grilled fish",
+            "Crayfish",
+            "Hot pot",
+            "Family set",
+            "Spicy food lover"
+          ]
+        },
+        "desserts/drinks/snacks": {
+          "frequently purchased categories": [
+            "Beverages & Desserts/Milk Tea (Average 22 yuan)",
+            "Beverages & Desserts/Coffee (Average 30 yuan)",
+            "Beverages & Desserts/Fruit Salad (Average 35 yuan)"
+          ],
+          "cost per order": "15~40 yuan",
+          "preferred store rating": "4.4~4.8 stars",
+          "preferred delivery time": "15~30 minutes",
+          "preferred distance": "0~3000m",
+          "recent orders": [
+            {
+              "store": "Yidiandian Milk Tea",
+              "product": "Pearl Milk Tea (Less Sugar)"
+            },
+            {
+              "store": "Starbucks",
+              "product": "Americano (Medium)"
+            },
+            {
+              "store": "Fresh Fruit Mix",
+              "product": "Colorful Fruit Salad"
+            }
+          ],
+          "search history": [
+            "Milk tea",
+            "Coffee",
+            "Fruit salad",
+            "Low sugar drinks",
+            "Afternoon tea"
+          ]
+        },
+        "night snack": {
+          "frequently purchased categories": [
+            "Quick Meals/Rice Noodles with Snail (Average 32 yuan)",
+            "Quick Meals/Dumplings/Wonton (Average 28 yuan)",
+            "Snacks/Braised Meat (Average 45 yuan)"
+          ],
+          "cost per order": "25~50 yuan",
+          "preferred store rating": "4.2~4.6 stars",
+          "preferred delivery time": "20~40 minutes",
+          "preferred distance": "0~3500m",
+          "recent orders": [
+            {
+              "store": "Liuzhou Snail Rice Noodles",
+              "product": "Signature Snail Rice Noodles + Braised Egg"
+            },
+            {
+              "store": "Old Northern Dumpling House",
+              "product": "Three Delicacies Dumplings 20 pieces"
+            },
+            {
+              "store": "Shaanxi Braised Meat",
+              "product": "Assorted Braised Meat Platter"
+            }
+          ],
+          "search history": [
+            "Snail rice noodles",
+            "Dumplings",
+            "Braised meat",
+            "Non-spicy night snacks",
+            "Stomach-friendly night snacks"
+          ]
+        }
+      },
+      "product delivery": {
+        "frequently purchased categories": [
+          "Vegetables/Bean Products(30%)",
+          "Raw Meat/Poultry/Eggs(22%)",
+          "Grains/Oil/Seasonings/Dry Goods(18%)",
+          "Study/Office Supplies(12%)",
+          "Household Items(10%)",
+          "Others(8%)"
+        ],
+        "frequently visited stores": [
+          "Yonghui Supermarket(Luoyang Xigong Store)(45%)",
+          "Jiajiaju Supermarket(Jinyu Lanwan Store)(30%)",
+          "Luoyang Fruit Wholesale Market(15%)",
+          "Other Stores(10%)"
+        ],
+        "cost per order by category": {
+          "Vegetables/Bean Products": "5~20 yuan",
+          "Raw Meat/Poultry/Eggs": "20~60 yuan",
+          "Grains/Oil/Seasonings/Dry Goods": "10~40 yuan",
+          "Study/Office Supplies": "5~30 yuan",
+          "Household Items": "15~50 yuan"
+        },
+        "preferred delivery time": "30~60 minutes",
+        "typical order time": "17~19:00(42%), 9~11:00(28%), 13~15:00(18%)",
+        "recent orders": [
+          {
+            "store": "Yonghui Supermarket(Luoyang Xigong Store)",
+            "product": "Spinach 300g, Eggs 10, Pork Belly 500g"
+          },
+          {
+            "store": "Jiajiaju Supermarket(Jinyu Lanwan Store)",
+            "product": "Rice 5kg, Cooking Oil 1.8L, Salt 1 pack"
+          },
+          {
+            "store": "Luoyang Stationery Wholesale Market",
+            "product": "Fountain Pen, Notebook, Red Correction Pen"
+          }
+        ],
+        "search history": [
+          "Fresh vegetables",
+          "Eggs",
+          "Rice",
+          "Correction pen",
+          "Cooking oil",
+          "Kitchen paper towels"
+        ]
+      }
+    },
+    "OTA": {
+      "visited scenes": {
+        "Cultural Heritage": "45%",
+        "Natural Landscapes (Mountains/Lakes/Forests)": "30%",
+        "Parks": "15%",
+        "Characteristic Villages/Industrial Tourism/Uncategorized": "10%"
+      },
+      "cost per night on hotel": "300~500 yuan",
+      "visited hotels": {
+        "Home Inn": "35%",
+        "Hanting": "25%",
+        "7 Days": "20%",
+        "Jinjiang Inn": "15%",
+        "Super 8": "5%"
+      },
+      "browsed hotels": {
+        "3-Star Hotels": "30%",
+        "Economy Hotels": "50%",
+        "Comfort Hotels": "20%"
+      },
+      "historical travel plans": {
+        "Luoyang-Zhengzhou": {
+          "Price Range": "50-100 yuan",
+          "Transportation": "High-speed Rail/EMU"
+        },
+        "Luoyang-Xi'an": {
+          "Price Range": "150-250 yuan",
+          "Transportation": "High-speed Rail/EMU"
+        },
+        "Luoyang-Beijing": {
+          "Price Range": "300-500 yuan",
+          "Transportation": "High-speed Rail/EMU"
+        },
+        "Luoyang-Kaifeng": {
+          "Price Range": "50-100 yuan",
+          "Transportation": "High-speed Rail/EMU"
+        }
+      }
+    }
+  },
+  "stores": {
+    "S17550809188913229_S00001": {
+      "name": "FamilyMart (Luoyang Xujiaying Store)",
+      "store_id": "S17550809188913229_S00001",
+      "score": 4.6,
+      "location": {
+        "address": "FamilyMart (Luoyang Xujiaying Store), Intersection of Xuesong Road and Xingye Road, Jianxi District, Luoyang, Henan Province",
+        "latitude": 34.6518,
+        "longitude": 112.3851
+      },
+      "tags": [
+        "Convenience Store",
+        "Snacks",
+        "Drinks",
+        "Daily Necessities",
+        "Fast Delivery"
+      ],
+      "store_type": "target",
+      "products": [
+        {
+          "name": "European Soft Bread Combination Pack",
+          "store_id": "S17550809188913229_S00001",
+          "store_name": "FamilyMart (Luoyang Xujiaying Store)",
+          "price": 18.9,
+          "tags": [
+            "Soft and Fluffy",
+            "Bread",
+            "breakfast",
+            "Snacks",
+            "Leisure Food"
+          ],
+          "product_id": "S17550809188913229_P00001",
+          "attributes": [],
+          "product_type": "target"
+        },
+        {
+          "name": "Cranberry Cookies",
+          "store_id": "S17550809188913229_S00001",
+          "store_name": "FamilyMart (Luoyang Xujiaying Store)",
+          "price": 12.5,
+          "tags": [
+            "Cookies",
+            "Snacks",
+            "Dessert",
+            "Leisure Food"
+          ],
+          "product_id": "S17550809188913229_P00003",
+          "attributes": [],
+          "product_type": "target"
+        },
+        {
+          "name": "Lactic Acid Bacteria Pocket Bread",
+          "store_id": "S17550809188913229_S00001",
+          "store_name": "FamilyMart (Luoyang Xujiaying Store)",
+          "price": 9.9,
+          "tags": [
+            "Soft and Fluffy",
+            "Bread",
+            "breakfast",
+            "Snacks"
+          ],
+          "product_id": "S17550809188913229_P00004",
+          "attributes": [],
+          "product_type": "target"
+        },
+        {
+          "name": "Spicy Squid Strips",
+          "store_id": "S17550809188913229_S00001",
+          "store_name": "FamilyMart (Luoyang Xujiaying Store)",
+          "price": 16.8,
+          "tags": [
+            "Seafood",
+            "Snacks",
+            "Spicy Flavor",
+            "Leisure Food"
+          ],
+          "product_id": "S17550809188913229_P00005",
+          "attributes": [],
+          "product_type": "distraction"
+        },
+        {
+          "name": "Barbecue Flavored Potato Chips",
+          "store_id": "S17550809188913229_S00001",
+          "store_name": "FamilyMart (Luoyang Xujiaying Store)",
+          "price": 8.5,
+          "tags": [
+            "Potato Chips",
+            "Snacks",
+            "Barbecue Flavor",
+            "Leisure Food"
+          ],
+          "product_id": "S17550809188913229_P00006",
+          "attributes": [],
+          "product_type": "distraction"
+        },
+        {
+          "name": "Pork Jerky",
+          "store_id": "S17550809188913229_S00001",
+          "store_name": "FamilyMart (Luoyang Xujiaying Store)",
+          "price": 22.8,
+          "tags": [
+            "Jerky",
+            "Snacks",
+            "High-fat",
+            "Leisure Food"
+          ],
+          "product_id": "S17550809188913229_P00007",
+          "attributes": [],
+          "product_type": "distraction"
+        }
+      ]
+    },
+    "S17550809188913229_S00002": {
+      "name": "Yonghui Supermarket (Luoyang Jianxi Store)",
+      "store_id": "S17550809188913229_S00002",
+      "score": 4.7,
+      "location": {
+        "address": "Yonghui Supermarket (Luoyang Jianxi Store), Intersection of Jianshe Road and Lixin Road, Jianxi District, Luoyang, Henan Province",
+        "latitude": 34.6603,
+        "longitude": 112.3912
+      },
+      "tags": [
+        "Supermarket",
+        "Snacks",
+        "Fresh Food",
+        "Daily Necessities",
+        "Complete Variety"
+      ],
+      "store_type": "target",
+      "products": [
+        {
+          "name": "European Soft Bread Combination Pack",
+          "store_id": "S17550809188913229_S00002",
+          "store_name": "Yonghui Supermarket (Luoyang Jianxi Store)",
+          "price": 15.9,
+          "tags": [
+            "Soft Bread",
+            "Soft and Delicious",
+            "breakfast",
+            "Leisure Snacks",
+            "Suitable for Elderly"
+          ],
+          "product_id": "S17550809188913229_P00008",
+          "attributes": [],
+          "product_type": "target"
+        },
+        {
+          "name": "Dried Cranberries",
+          "store_id": "S17550809188913229_S00002",
+          "store_name": "Yonghui Supermarket (Luoyang Jianxi Store)",
+          "price": 12.8,
+          "tags": [
+            "Dried Fruits",
+            "Sweet and Sour",
+            "Appetizing",
+            "Healthy Snacks"
+          ],
+          "product_id": "S17550809188913229_P00011",
+          "attributes": [],
+          "product_type": "target"
+        },
+        {
+          "name": "Spicy Squid Strips",
+          "store_id": "S17550809188913229_S00002",
+          "store_name": "Yonghui Supermarket (Luoyang Jianxi Store)",
+          "price": 16.9,
+          "tags": [
+            "Seafood Snacks",
+            "Spicy Flavor",
+            "Protein",
+            "Leisure Snacks",
+            "Strong Smell"
+          ],
+          "product_id": "S17550809188913229_P00012",
+          "attributes": [
+            "Spicy and Numbing",
+            "Spicy"
+          ],
+          "product_type": "distraction"
+        },
+        {
+          "name": "High-calcium Cheese Sticks",
+          "store_id": "S17550809188913229_S00002",
+          "store_name": "Yonghui Supermarket (Luoyang Jianxi Store)",
+          "price": 22.9,
+          "tags": [
+            "Dairy Products",
+            "High-calcium",
+            "Healthy Snacks",
+            "Children's Snacks"
+          ],
+          "product_id": "S17550809188913229_P00013",
+          "attributes": [],
+          "product_type": "distraction"
+        }
+      ]
+    },
+    "S17550809188913229_S00004": {
+      "name": "LYFEN (Luoyang Wangcheng Store)",
+      "store_id": "S17550809188913229_S00004",
+      "score": 4.8,
+      "location": {
+        "address": "LYFEN (Luoyang Wangcheng Store), Intersection of Wangcheng Avenue and Taiyuan Road, Jianxi District, Luoyang, Henan Province",
+        "latitude": 34.648,
+        "longitude": 112.378
+      },
+      "tags": [
+        "Snacks",
+        "Nuts",
+        "Jerky",
+        "Special Snacks",
+        "Spicy Food"
+      ],
+      "store_type": "distraction",
+      "products": [
+        {
+          "name": "Dried Mango",
+          "store_id": "S17550809188913229_S00004",
+          "store_name": "LYFEN (Luoyang Wangcheng Store)",
+          "price": 15.9,
+          "tags": [
+            "Dried Fruits",
+            "Sweet and Sour",
+            "Appetizing",
+            "Snacks"
+          ],
+          "product_id": "S17550809188913229_P00022",
+          "attributes": [],
+          "product_type": "target"
+        },
+        {
+          "name": "Dried Cranberries",
+          "store_id": "S17550809188913229_S00004",
+          "store_name": "LYFEN (Luoyang Wangcheng Store)",
+          "price": 18.9,
+          "tags": [
+            "Dried Fruits",
+            "Sweet and Sour",
+            "Appetizing",
+            "Snacks"
+          ],
+          "product_id": "S17550809188913229_P00023",
+          "attributes": [],
+          "product_type": "target"
+        },
+        {
+          "name": "French Soft European Bread",
+          "store_id": "S17550809188913229_S00004",
+          "store_name": "LYFEN (Luoyang Wangcheng Store)",
+          "price": 12.8,
+          "tags": [
+            "Bread",
+            "Soft and Fluffy",
+            "breakfast",
+            "Snacks"
+          ],
+          "product_id": "S17550809188913229_P00024",
+          "attributes": [],
+          "product_type": "target"
+        },
+        {
+          "name": "Spicy Beef Jerky",
+          "store_id": "S17550809188913229_S00004",
+          "store_name": "LYFEN (Luoyang Wangcheng Store)",
+          "price": 29.9,
+          "tags": [
+            "Jerky",
+            "Spicy and Numbing",
+            "Snacks",
+            "High-protein",
+            "Strong Smell"
+          ],
+          "product_id": "S17550809188913229_P00025",
+          "attributes": [
+            "Medium spicy"
+          ],
+          "product_type": "distraction"
+        },
+        {
+          "name": "Spicy Squid Strips",
+          "store_id": "S17550809188913229_S00004",
+          "store_name": "LYFEN (Luoyang Wangcheng Store)",
+          "price": 22.9,
+          "tags": [
+            "Seafood",
+            "Spicy Flavor",
+            "Snacks",
+            "High-protein",
+            "Strong Smell"
+          ],
+          "product_id": "S17550809188913229_P00026",
+          "attributes": [
+            "Mild Spicy",
+            "Medium spicy"
+          ],
+          "product_type": "distraction"
+        }
+      ]
+    },
+    "S17550809188913229_S00005": {
+      "name": "Hema Fresh (Luoyang Wangfujing Store)",
+      "store_id": "S17550809188913229_S00005",
+      "score": 4.6,
+      "location": {
+        "address": "Hema Fresh (Luoyang Wangfujing Store), B1 Floor, Wangfujing Shopping Center, 269 Zhongzhou Middle Road, Xigong District, Luoyang, Henan Province",
+        "latitude": 34.672,
+        "longitude": 112.432
+      },
+      "tags": [
+        "Fresh Food Supermarket",
+        "Snacks",
+        "Fruits",
+        "Ready-to-eat",
+        "Long-distance Delivery"
+      ],
+      "store_type": "distraction",
+      "products": [
+        {
+          "name": "European-style Soft French Bread",
+          "store_id": "S17550809188913229_S00005",
+          "store_name": "Hema Fresh (Luoyang Wangfujing Store)",
+          "price": 12.9,
+          "tags": [
+            "Soft and Fluffy",
+            "Bread",
+            "breakfast",
+            "Snacks",
+            "Leisure Food"
+          ],
+          "product_id": "S17550809188913229_P00028",
+          "attributes": [
+            "Original flavor",
+            "Milk flavor"
+          ],
+          "product_type": "target"
+        },
+        {
+          "name": "Mixed Nuts Small Package",
+          "store_id": "S17550809188913229_S00005",
+          "store_name": "Hema Fresh (Luoyang Wangfujing Store)",
+          "price": 22.5,
+          "tags": [
+            "Nuts",
+            "Snacks",
+            "Leisure",
+            "Small Package"
+          ],
+          "product_id": "S17550809188913229_P00030",
+          "attributes": [
+            "Original flavor",
+            "Slightly salty"
+          ],
+          "product_type": "target"
+        },
+        {
+          "name": "Honey Grapefruit Tea",
+          "store_id": "S17550809188913229_S00005",
+          "store_name": "Hema Fresh (Luoyang Wangfujing Store)",
+          "price": 28.9,
+          "tags": [
+            "Beverages",
+            "Fruit Tea",
+            "Sweet and Sour",
+            "Appetizing"
+          ],
+          "product_id": "S17550809188913229_P00031",
+          "attributes": [
+            "Small bottle",
+            "Large bottle"
+          ],
+          "product_type": "target"
+        },
+        {
+          "name": "Spicy Squid Strips",
+          "store_id": "S17550809188913229_S00005",
+          "store_name": "Hema Fresh (Luoyang Wangfujing Store)",
+          "price": 19.9,
+          "tags": [
+            "Seafood Flavor",
+            "Snacks",
+            "Spicy Flavor",
+            "Leisure Food"
+          ],
+          "product_id": "S17550809188913229_P00032",
+          "attributes": [
+            "Mild Spicy",
+            "Medium spicy"
+          ],
+          "product_type": "distraction"
+        },
+        {
+          "name": "Thai Spicy Fish Skin",
+          "store_id": "S17550809188913229_S00005",
+          "store_name": "Hema Fresh (Luoyang Wangfujing Store)",
+          "price": 25.8,
+          "tags": [
+            "Seafood Flavor",
+            "Snacks",
+            "Spicy",
+            "Leisure Food"
+          ],
+          "product_id": "S17550809188913229_P00033",
+          "attributes": [
+            "Small package",
+            "Large package"
+          ],
+          "product_type": "distraction"
+        },
+        {
+          "name": "Freshly Cut Fruit Platter",
+          "store_id": "S17550809188913229_S00005",
+          "store_name": "Hema Fresh (Luoyang Wangfujing Store)",
+          "price": 32.5,
+          "tags": [
+            "Fruits",
+            "Fresh Food",
+            "Ready-to-eat",
+            "Healthy"
+          ],
+          "product_id": "S17550809188913229_P00034",
+          "attributes": [
+            "Small portion",
+            "Large portion"
+          ],
+          "product_type": "distraction"
+        }
+      ]
+    }
+  },
+  "orders": {
+    "S17550809188913229_O00001": {
+      "order_id": "S17550809188913229_O00001",
+      "order_type": "delivery",
+      "user_id": "U010094",
+      "store_id": "S17550809188913229_S00001",
+      "total_price": 56.6,
+      "create_time": "2025-03-06 19:45:23",
+      "status": "delivered",
+      "products": [
+        {
+          "product_id": "S17550809188913229_P00001",
+          "price": 18.9,
+          "quantity": 1
+        },
+        {
+          "product_id": "S17550809188913229_P00002",
+          "price": 15.8,
+          "quantity": 1
+        },
+        {
+          "product_id": "S17550809188913229_P00003",
+          "price": 12.5,
+          "quantity": 1
+        },
+        {
+          "product_id": "S17550809188913229_P00004",
+          "price": 9.9,
+          "quantity": 1
+        }
+      ]
+    },
+    "S17550809188913229_O00002": {
+      "order_id": "S17550809188913229_O00002",
+      "order_type": "delivery",
+      "user_id": "U010094",
+      "store_id": "S17550809188913229_S00002",
+      "total_price": 47.5,
+      "create_time": "2025-03-05 12:15:32",
+      "status": "delivered",
+      "products": [
+        {
+          "product_id": "S17550809188913229_P00008",
+          "price": 15.9,
+          "quantity": 1
+        },
+        {
+          "product_id": "S17550809188913229_P00009",
+          "price": 18.8,
+          "quantity": 1
+        },
+        {
+          "product_id": "S17550809188913229_P00011",
+          "price": 12.8,
+          "quantity": 1
+        }
+      ]
+    },
+    "S17550809188913229_O00003": {
+      "order_id": "S17550809188913229_O00003",
+      "order_type": "attraction",
+      "user_id": "U010094",
+      "store_id": "S17550809188913229_A00006",
+      "note": "Women's Day outing",
+      "location": {
+        "address": "Sui-Tang Luoyang Jiuzhou Pool, inside Sui-Tang Luoyang City National Heritage Park, Kaiyuan Avenue, Luolong District, Luoyang, Henan Province",
+        "longitude": 112.4576,
+        "latitude": 34.6238
+      },
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 210,
+      "create_time": "2025-03-02 20:45:37",
+      "update_time": "2025-03-02 20:45:37",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17550809188913229_P00037",
+          "price": 210,
+          "quantity": 1,
+          "ticket_type": "Family Ticket (3-5 people)"
+        }
+      ]
+    },
+    "S17550809188913229_O00004": {
+      "order_id": "S17550809188913229_O00004",
+      "order_type": "train",
+      "user_id": "U010094",
+      "store_id": "T00001",
+      "note": "Business trip",
+      "location": {
+        "address": "Luoyang Railway Station, Jiudu Road, Old Town District, Luoyang, Henan Province",
+        "longitude": 112.4532,
+        "latitude": 34.6812
+      },
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 79.5,
+      "create_time": "2025-02-25 09:23:15",
+      "update_time": "2025-02-25 09:23:15",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "T00001_P0001",
+          "price": 79.5,
+          "quantity": 1,
+          "seat_type": "Second Class Seat",
+          "from_station": "Luoyang",
+          "to_station": "Zhengzhou",
+          "departure_time": "2025-02-26 08:30:00",
+          "arrival_time": "2025-02-26 09:15:00"
+        }
+      ]
+    },
+    "S17550809188913229_O00005": {
+      "order_id": "S17550809188913229_O00005",
+      "order_type": "train",
+      "user_id": "U010094",
+      "store_id": "T00002",
+      "note": "Business trip return journey",
+      "location": {
+        "address": "Zhengzhou Railway Station, Erqi District, Zhengzhou, Henan Province",
+        "longitude": 113.6654,
+        "latitude": 34.7472
+      },
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 79.5,
+      "create_time": "2025-02-25 09:25:32",
+      "update_time": "2025-02-25 09:25:32",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "T00002_P0001",
+          "price": 79.5,
+          "quantity": 1,
+          "seat_type": "Second Class Seat",
+          "from_station": "Zhengzhou",
+          "to_station": "Luoyang",
+          "departure_time": "2025-02-26 19:45:00",
+          "arrival_time": "2025-02-26 20:30:00"
+        }
+      ]
+    },
+    "S17550809188913229_O00006": {
+      "order_id": "S17550809188913229_O00006",
+      "order_type": "hotel",
+      "user_id": "U010094",
+      "store_id": "H00001",
+      "note": "Spring Festival family visit",
+      "location": {
+        "address": "Home Inn (Kaifeng Ximen Street Store), 128 Ximen Street, Gulou District, Kaifeng, Henan Province",
+        "longitude": 114.3421,
+        "latitude": 34.7968
+      },
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 368,
+      "create_time": "2025-02-12 14:25:46",
+      "update_time": "2025-02-12 14:25:46",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "H00001_P0001",
+          "price": 184,
+          "quantity": 2,
+          "date": "2025-02-14",
+          "room_type": "Standard Twin Room"
+        }
+      ]
+    },
+    "S17550809188913229_O00007": {
+      "order_id": "S17550809188913229_O00007",
+      "order_type": "instore",
+      "user_id": "U010094",
+      "store_id": "S17550809188913229_I00010",
+      "total_price": 498,
+      "create_time": "2025-03-06 17:30:25",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17550809188913229_P00057",
+          "price": 498,
+          "quantity": 1
+        }
+      ]
+    },
+    "S17550809188913229_O00008": {
+      "order_id": "S17550809188913229_O00008",
+      "order_type": "instore",
+      "user_id": "U010094",
+      "store_id": "S17550809188913229_I00011",
+      "total_price": 214,
+      "create_time": "2025-02-27 19:15:32",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17550809188913229_P00065",
+          "price": 88,
+          "quantity": 1
+        },
+        {
+          "product_id": "S17550809188913229_P00066",
+          "price": 68,
+          "quantity": 1
+        },
+        {
+          "product_id": "S17550809188913229_P00067",
+          "price": 58,
+          "quantity": 1
+        }
+      ]
+    },
+    "S17550809188913229_O00009": {
+      "order_id": "S17550809188913229_O00009",
+      "order_type": "instore",
+      "user_id": "U010094",
+      "store_id": "S17550809188913229_I00012",
+      "total_price": 166,
+      "create_time": "2025-02-15 18:45:12",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17550809188913229_P00076",
+          "price": 78,
+          "quantity": 1
+        },
+        {
+          "product_id": "S17550809188913229_P00074",
+          "price": 88,
+          "quantity": 1
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,308 @@
+{
+  "task_id": "D0717003",
+  "domain": "delivery",
+  "time": "2024-06-27 13:24:24",
+  "user_id": "U000023",
+  "weather": [
+    {
+      "city": "Xiamen City",
+      "category": "thundershowers",
+      "datetime": "2024-06-27",
+      "temperature": [
+        27,
+        33
+      ],
+      "humidity": 86
+    }
+  ],
+  "location": [
+    {
+      "address": "160 meters west of the intersection of Jimei North Avenue and Caiting Road, West Area of Xiamen Software Park Phase III, Jimei District, Xiamen City, Fujian Province",
+      "longitude": 118.018137,
+      "latitude": 24.606915
+    }
+  ],
+  "user_profile": {
+    "user id": "U000023",
+    "occupation": "Algorithm Engineer",
+    "gender": "female",
+    "age group": "25~30",
+    "residence": "Xiamen",
+    "home address": "Punan Garden, No. 26-30 Dongpu Third Road, Siming District, Xiamen City, Fujian Province",
+    "work address": "160 meters west of the intersection of Jimei North Avenue and Caiting Road, West Area of Xiamen Software Park Phase III, Jimei District, Xiamen City, Fujian Province",
+    "dietary restrictions": "Avoids high sugar",
+    "family status": "In a relationship",
+    "personality": "Impatient, frequently urges others, lacks patience for waiting"
+  },
+  "user_historical_behaviors": {
+    "user id": "U000023",
+    "occupation": "Algorithm Engineer",
+    "gender": "female",
+    "age group": "25~30",
+    "residence": "Xiamen",
+    "home address": "Punan Garden, No. 26-30 Dongpu Third Road, Siming District, Xiamen City, Fujian Province",
+    "work address": "160 meters west of the intersection of Jimei North Avenue and Caiting Road, West Area of Xiamen Software Park Phase III, Jimei District, Xiamen City, Fujian Province",
+    "breakfast": {
+      "frequently purchased categories": [
+        "Quick Meals/Light Food (average 28 yuan)",
+        "Quick Meals/Salad (average 32 yuan)",
+        "Quick Meals/Steamed Buns/Pan-fried Buns (average 15 yuan)"
+      ],
+      "cost per order": "15~35 yuan",
+      "preferred store rating": "4.3~4.8 stars",
+      "preferred delivery time": "15~25 minutes",
+      "preferred distance": "0~1500m",
+      "recent orders": [
+        {
+          "store": "Light Food Workshop",
+          "product": "Avocado Chicken Breast Sandwich Set"
+        },
+        {
+          "store": "Fresh Fruit Salad",
+          "product": "Fruit Energy Light Salad"
+        },
+        {
+          "store": "Old South Town Soy Milk",
+          "product": "Black Rice Porridge + Vegetable Bun"
+        }
+      ],
+      "search history": [
+        "Low-sugar breakfast",
+        "Healthy light food",
+        "Oatmeal",
+        "Sugar-free soy milk"
+      ]
+    },
+    "weekday lunch/dinner": {
+      "frequently purchased categories": [
+        "Quick Meals/Healthy Meals (average 45 yuan)",
+        "Chinese Cuisine/Cantonese Food (average 55 yuan)",
+        "International Cuisine/Japanese Bento/Sushi (average 50 yuan)"
+      ],
+      "cost per order": "35~65 yuan",
+      "preferred store rating": "4.5~4.9 stars",
+      "preferred delivery time": "20~35 minutes",
+      "preferred distance": "0~2500m",
+      "recent orders": [
+        {
+          "store": "Vegetable Nutrition Work Meals",
+          "product": "Quinoa Chicken Breast Rice + Seasonal Vegetables"
+        },
+        {
+          "store": "Cantonese Stir-fry",
+          "product": "Stir-fried Vegetables + Poached Shrimp + Rice"
+        },
+        {
+          "store": "Yoshoku Japanese Food",
+          "product": "Salmon and Eel Bento"
+        }
+      ],
+      "search history": [
+        "Low-calorie lunch",
+        "Healthy work meal",
+        "Cantonese steamed dishes",
+        "Low-sugar meal"
+      ]
+    },
+    "weekend lunch/dinner": {
+      "frequently purchased categories": [
+        "Chinese Cuisine/Cantonese Food (average 90 yuan)",
+        "International Cuisine/Stone Pot Bibimbap/Teppanyaki Rice (average 75 yuan)",
+        "Chinese Cuisine/Grilled Fish (average 110 yuan)"
+      ],
+      "cost per order": "70~150 yuan",
+      "preferred store rating": "4.6~5.0 stars",
+      "preferred delivery time": "30~45 minutes",
+      "preferred distance": "0~4000m",
+      "recent orders": [
+        {
+          "store": "Cantonese Pavilion",
+          "product": "White Cut Chicken + Steamed Sea Bass + Vegetable Combination"
+        },
+        {
+          "store": "Korean Cuisine",
+          "product": "Stone Bowl Bibimbap Family Set (for two)"
+        },
+        {
+          "store": "Riverside Grilled Fish",
+          "product": "Sauerkraut Grilled Fish + Side Dish Combination (medium size)"
+        }
+      ],
+      "search history": [
+        "Healthy Cantonese cuisine",
+        "Couple set meal",
+        "Non-spicy grilled fish",
+        "Low-sugar dishes"
+      ]
+    },
+    "desserts/drinks/snacks": {
+      "frequently purchased categories": [
+        "Drinks/Desserts/Milk Tea (average 18 yuan)",
+        "Drinks/Desserts/Pure Tea/Herbal Tea (average 22 yuan)",
+        "Drinks/Desserts/Fruit Bowl (average 35 yuan)"
+      ],
+      "cost per order": "18~40 yuan",
+      "preferred store rating": "4.4~4.9 stars",
+      "preferred delivery time": "15~40 minutes",
+      "preferred distance": "0~2000m",
+      "recent orders": [
+        {
+          "store": "Guming (Software Park Phase III Store)",
+          "product": "Yunling Jasmine (Light Sweetness)"
+        },
+        {
+          "store": "Tea Time",
+          "product": "Oolong Tea (No Ice, Light Sweetness)"
+        },
+        {
+          "store": "Fruit Bowl",
+          "product": "Yogurt Fruit Bowl (Less Sugar)"
+        }
+      ],
+      "search history": [
+        "Low-sugar drinks",
+        "Pure fruit juice",
+        "Low-sugar desserts",
+        "Fruits"
+      ]
+    },
+    "night snack": {
+      "frequently purchased categories": [
+        "Quick Meals/Clay Pot Dishes (average 45 yuan)",
+        "Snacks/Braised Flavors (average 38 yuan)"
+      ],
+      "cost per order": "35~60 yuan",
+      "preferred store rating": "4.2~4.8 stars",
+      "preferred delivery time": "20~35 minutes",
+      "preferred distance": "0~2500m",
+      "recent orders": [
+        {
+          "store": "Cozy Clay Pot",
+          "product": "Healthy Mushroom Clay Pot"
+        },
+        {
+          "store": "Mom's Braised Flavors",
+          "product": "Braised Chicken Feet + Braised Tofu"
+        },
+        {
+          "store": "Small Wonton Shop",
+          "product": "Shrimp Wontons (Slightly Spicy)"
+        }
+      ],
+      "search history": [
+        "Healthy clay pot",
+        "Low-fat night snack",
+        "Non-spicy braised food",
+        "Light night food"
+      ]
+    }
+  },
+  "stores": {
+    "S32974240222313518_S52218": {
+      "name": "Guming (Software Park Phase III Store)",
+      "store_id": "S32974240222313518_S52218",
+      "score": 4.9,
+      "location": {
+        "address": "Building 07, Zone F, Software Park Phase III, Jimei District, Xiamen City, Fujian Province, Guming (Jimei Software Park Phase III Zone F Store)",
+        "latitude": 24.608977,
+        "longitude": 118.019333
+      },
+      "tags": [],
+      "products": [
+        {
+          "name": "Yunling Jasmine",
+          "store_id": "S32974240222313518_S52218",
+          "store_name": "Guming (Software Park Phase III Store)",
+          "price": 15.0,
+          "tags": [
+            "Floral Fragrance"
+          ],
+          "product_id": "S21362993512450958_P20483",
+          "attributes": [
+            "70% Sweet (Recommended)",
+            "30% Sweet",
+            "100% Sweet",
+            "No Added Sugar (Not Recommended, Not Tasty)"
+          ],
+          "quantity": 9999
+        },
+        {
+          "name": "Crispy Brûlée Milk Fluff | Ceylon Black Tea",
+          "product_id": "S89467681632379382_P75521",
+          "store_id": "S32974240222313518_S52218",
+          "store_name": "Guming (Software Park Phase III Store)",
+          "price": 18,
+          "tags": [],
+          "attributes": [
+            "70% Sweet (Recommended)",
+            "50% Sweet",
+            "100% Sweet",
+            "No Added Sugar"
+          ],
+          "quantity": 9999
+        },
+        {
+          "name": "Super A Cheese Peach",
+          "product_id": "S85507311895346864_P82229",
+          "store_id": "S32974240222313518_S52218",
+          "store_name": "Guming (Software Park Phase III Store)",
+          "price": 21,
+          "tags": [],
+          "attributes": [
+            "70% Sweet (Recommended)",
+            "30% Sweet",
+            "100% Sweet",
+            "No Added Sugar"
+          ],
+          "quantity": 9999
+        }
+      ]
+    },
+    "S12081026673084030_S94362": {
+      "name": "Guming (Hemei Paradise Store)",
+      "store_id": "S12081026673084030_S94362",
+      "score": 4.9,
+      "location": {
+        "address": "Room B109, No. 616 Chengyi Middle Road, Jimei District, Xiamen City, Fujian Province",
+        "latitude": 24.605184,
+        "longitude": 118.049688
+      },
+      "tags": [],
+      "products": [
+        {
+          "name": "Yunling Jasmine",
+          "product_id": "S26719624914157642_P08227",
+          "store_id": "S12081026673084030_S94362",
+          "store_name": "Guming (Hemei Paradise Store)",
+          "price": 15,
+          "tags": [
+            "Floral Fragrance"
+          ],
+          "attributes": [
+            "70% Sweet (Recommended)",
+            "30% Sweet",
+            "100% Sweet",
+            "No Added Sugar (Not Recommended, Not Tasty)"
+          ],
+          "quantity": 9999
+        },
+        {
+          "name": "Super A Cheese Grape",
+          "product_id": "S13733883015870516_P90997",
+          "store_id": "S12081026673084030_S94362",
+          "store_name": "Guming (Hemei Paradise Store)",
+          "price": 21,
+          "tags": [],
+          "attributes": [
+            "70% Sweet (Recommended)",
+            "30% Sweet",
+            "100% Sweet",
+            "No Added Sugar"
+          ],
+          "quantity": 9999
+        }
+      ]
+    }
+  },
+  "orders": {}
+}

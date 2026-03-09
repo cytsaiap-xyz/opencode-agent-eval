@@ -1,0 +1,52 @@
+{
+  "task_id": "6",
+  "query": "I plan to travel from Xi'an to Taiyuan on November 16, 2025, and stay for two days, returning on the 17th. For transportation, I think taking the train is quite convenient, and I'd like to book first-class seats—please help me reserve first-class tickets for both directions.  \n\nFor accommodation, my budget is limited this time, so please find me the cheapest option among 2-star hotels; one room for two people will be enough.\n\nBy the way, I’d also like to visit the top-rated attractions in Taiyuan. Could you check which three are the most popular among the recommendations and include them in the itinerary? Oh, right—one more thing: I heard there are many great places to eat near \"Clock Tower Street Pedestrian Street\". It happens to be my birthday, so I’d like to have dinner at a restaurant nearby that offers birthday set menus. Please help me pick a suitable one and include it in the plan.\n\nThese are basically all my requirements—I believe I’ve provided all necessary information. Please go ahead and plan the itinerary and budget for me directly, without asking further preferences. November 16, 2025 is Sunday",
+  "meta_info": {
+    "org": "Xi'an",
+    "dest": [
+      "Taiyuan"
+    ],
+    "days": 2,
+    "depart_date": "2025-11-16",
+    "return_date": "2025-11-17",
+    "people_number": 2,
+    "room_number": 1
+  },
+  "hard_constraints": {
+    "train_seat_class": {
+      "constraint_context": "Travel by train, and hope to choose first-class seats for both the outbound and return journeys",
+      "outbound_train_no": "G3210",
+      "inbound_train_no": "D1637"
+    },
+    "hotel_cheapest_star": {
+      "constraint_context": "Please select the cheapest hotel among \"2-star hotels\"",
+      "constraint_type": "superlative_cheapest_star",
+      "hotel_name": "Jinjiang Inn Hotel (Taiyuan Wanda Plaza Longtan Park Branch)",
+      "hotel_star": 2,
+      "hotel_price": 104.0
+    },
+    "attraction_top_rated_must_visit": {
+      "constraint_context": "The itinerary must include the three highest-rated attractions recommended by the attraction recommendation tool.",
+      "constraint_type": "superlative_top_rated_must_visit",
+      "attraction_names": [
+        "Shanxi Bronze Museum",
+        "Food Street",
+        "Jin Merchants Museum"
+      ],
+      "attraction_ratings": [
+        4.9,
+        4.8,
+        4.8
+      ]
+    },
+    "restaurant_specific_tag_nearby": {
+      "constraint_context": "Arrange a meal at a restaurant near 'Bell Tower Street Pedestrian Street' during the trip, with birthday set menu service required",
+      "constraint_type": "superlative_specific_tag_nearby",
+      "attraction_name": "Bell Tower Street Pedestrian Street",
+      "restaurant_name": "Little Splash Skewer",
+      "required_tag": "Birthday Package",
+      "price_per_person": 8.0,
+      "restaurant_rating": 4.5
+    }
+  }
+}

@@ -1,0 +1,70 @@
+{
+  "required_orders": [
+    {
+      "order_id": "D0805002T001",
+      "order_type": "train",
+      "user_id": "U010004",
+      "store_id": "S17557512184312537_T00013",
+      "note": "",
+      "location": null,
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 536,
+      "create_time": "2024-10-15 13:25:00",
+      "update_time": "2024-10-15 13:25:00",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17557512184312537_P00075",
+          "price": 536,
+          "quantity": 1,
+          "date": "2024-10-23",
+          "seat_type": "Business Class Seat"
+        }
+      ]
+    },
+    {
+      "order_id": "D0805002T002",
+      "order_type": "attraction",
+      "user_id": "U010004",
+      "store_id": "S17557512184312537_A00005",
+      "note": "",
+      "location": null,
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 30,
+      "create_time": "2024-10-15 13:27:00",
+      "update_time": "2024-10-15 13:27:00",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17557512184312537_P00028",
+          "price": 0,
+          "quantity": 1,
+          "date": "2024-10-25",
+          "ticket_type": "Adult Ticket (Free Reservation)"
+        },
+        {
+          "product_id": "S17557512184312537_P00029",
+          "price": 30,
+          "quantity": 1,
+          "date": "2024-10-25",
+          "ticket_type": "Guided Tour Service (Chinese)"
+        }
+      ]
+    }
+  ],
+  "rubrics": [
+    "Check train tickets and flight information from Nanjing Station to Shanghai for next Wednesday, choose the travel option that allows earlier arrival at the office; Train G7003 arrives the earliest, arriving at 09:02, plus 30 minutes from the station to the office, finally arriving at 09:32; Flight MU2882 arrives at 08:20, plus 80 minutes from the airport to the office, finally arriving at 09:40. Therefore, choose to take the G7003 train",
+    "The date of the purchased train ticket is October 23, 2024",
+    "The purchased train ticket is for a train from Nanjing to Shanghai",
+    "The purchased train ticket is a Business Class Seat",
+    "The ordered attraction must be of the user's favorite type (exhibition hall/museum/art gallery)",
+    "The ordered attraction is within 5km (inclusive) of the Bund Financial Center",
+    "The attraction order includes an adult ticket",
+    "The attraction order includes guided tour service",
+    "The scheduled time for the attraction ticket is October 25, 2024"
+  ]
+}

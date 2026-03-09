@@ -1,0 +1,52 @@
+{
+  "task_id": "66",
+  "query": "I plan to travel from Hohhot to Xiamen on November 12, 2025, staying until November 16, 2025. I'd appreciate your help in planning the entire trip, including transportation, accommodation, dining, and sightseeing arrangements.\n\nRegarding transportation, I intend to take round-trip flights and would like to book first class for a more comfortable journey. By the way, for accommodation, I hope to keep the nightly rate between 650 and 700 yuan—please help me choose a hotel that offers good value and a great experience within this price range.\n\nDuring my stay, I’d like to visit the highest-rated attractions. Since I have four full days, please arrange and recommend the top three attractions with the highest scores in your recommendation system—ideally places worth exploring in depth. Oh, and one particularly important request: I’d like to have one meal at a restaurant near 'Huangcuo Beach' that offers birthday set menus, as I’m planning to celebrate my birthday there.\n\nThat covers all my requirements—I’ve provided all the necessary details. Please go ahead and create a complete itinerary for me. Thank you! November 12, 2025 is Wednesday",
+  "meta_info": {
+    "org": "Hohhot",
+    "dest": [
+      "Xiamen"
+    ],
+    "days": 5,
+    "depart_date": "2025-11-12",
+    "return_date": "2025-11-16",
+    "people_number": 1,
+    "room_number": 1
+  },
+  "hard_constraints": {
+    "flight_seat_class": {
+      "constraint_context": "Hope to choose air travel, and both outbound and return journeys must be in first class",
+      "outbound_flight_no": "CA4973",
+      "inbound_flight_no": "NS8159"
+    },
+    "hotel_price_range": {
+      "constraint_context": "The accommodation price must be between 650 and 700 yuan",
+      "hotel_name": "Xiamen Sheraton Hotel",
+      "hotel_price": 695.0,
+      "min_price": 650,
+      "max_price": 700
+    },
+    "attraction_top_rated_must_visit": {
+      "constraint_context": "The itinerary must include the three highest-rated attractions recommended by the attraction recommendation tool.",
+      "constraint_type": "superlative_top_rated_must_visit",
+      "attraction_names": [
+        "Haoyue Garden",
+        "Huangcuo Beach",
+        "Island Ring South Road"
+      ],
+      "attraction_ratings": [
+        4.8,
+        4.8,
+        4.8
+      ]
+    },
+    "restaurant_specific_tag_nearby": {
+      "constraint_context": "Arrange a meal at a restaurant near 'Huangcuo Beach' during the trip, with birthday set menu service required.",
+      "constraint_type": "superlative_specific_tag_nearby",
+      "attraction_name": "Huangcuo Beach",
+      "restaurant_name": "Chef's Restaurant (Huangcuo Branch)",
+      "required_tag": "Birthday Package",
+      "price_per_person": 88.0,
+      "restaurant_rating": 4.4
+    }
+  }
+}

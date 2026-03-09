@@ -1,0 +1,1101 @@
+{
+  "task_id": "10812011",
+  "domain": "cross_domain",
+  "time": "2025-08-03 09:15:00",
+  "user_id": "U921751",
+  "weather": [
+    {
+      "city": "Baoding",
+      "category": "sunny",
+      "datetime": "2025-08-03",
+      "temperature": [
+        25,
+        34
+      ],
+      "humidity": 65
+    },
+    {
+      "city": "Beijing",
+      "category": "cloudy",
+      "datetime": "2025-08-04",
+      "temperature": [
+        26,
+        35
+      ],
+      "humidity": 70
+    }
+  ],
+  "location": [
+    {
+      "address": "Room 502, Unit 2, Building B, Huafu Residential Complex, No.1699 Dongfeng Middle Road, Lianchi District, Baoding, Hebei Province",
+      "longitude": 115.498123,
+      "latitude": 38.873456
+    },
+    {
+      "address": "Baoding First Central Hospital Main Campus",
+      "longitude": 115.512345,
+      "latitude": 38.791234
+    },
+    {
+      "address": "Chaoyang Station",
+      "longitude": 116.456567,
+      "latitude": 39.933688
+    }
+  ],
+  "user_profile": {
+    "user id": "U921751",
+    "occupation": "Film Producer",
+    "gender": "male",
+    "age group": "30~35",
+    "residence": "Baoding",
+    "Permanent address": "Room 502, Unit 2, Building B, Huafu Residential Complex, No.1699 Dongfeng Middle Road, Lianchi District, Baoding, Hebei Province",
+    "work address": "3rd Floor, Building C, Baoding Film and TV Cultural Industry Park, No.1988 Chaoyang North Street, High-Tech Zone, Baoding, Hebei Province",
+    "dietary restrictions": "Avoids high-purine foods (such as organ meats/seafood soups), no alcohol",
+    "family status": "In a relationship",
+    "personality": "Extremely detail-oriented, tends to be picky and easily dissatisfied"
+  },
+  "user_historical_behaviors": {
+    "user id": "U921751",
+    "occupation": "Film Producer",
+    "gender": "male",
+    "age group": "30~35",
+    "residence": "Baoding",
+    "home address": "Room 502, Unit 2, Building B, Huafu Residential Complex, No.1699 Dongfeng Middle Road, Lianchi District, Baoding, Hebei Province",
+    "work address": "3rd Floor, Building C, Baoding Film and TV Cultural Industry Park, No.1988 Chaoyang North Street, High-Tech Zone, Baoding, Hebei Province",
+    "delivery": {
+      "food delivery": {
+        "breakfast": {
+          "frequently purchased categories": [
+            "Quick Meals/Baozi/Pan-fried Buns (Average 15 yuan)",
+            "Quick Meals/Jianbing/Wraps/Hand-grabbed Pancakes (Average 12 yuan)",
+            "Quick Meals/Spicy Soup (Average 10 yuan)"
+          ],
+          "cost per order": "10~25 yuan",
+          "preferred store rating": "4.2~4.8 stars",
+          "preferred delivery time": "15~30 minutes",
+          "preferred distance": "0~2500m",
+          "recent orders": [
+            {
+              "store": "Lao Wu Baozi Shop",
+              "product": "Meat Bun + Soy Milk Set"
+            },
+            {
+              "store": "Zhang's Jianbing",
+              "product": "Original Jianbing"
+            },
+            {
+              "store": "Lao Ma Spicy Soup",
+              "product": "Spicy Soup + Soup Dumplings"
+            }
+          ],
+          "search history": [
+            "baozi",
+            "jianbing",
+            "spicy soup",
+            "soy milk",
+            "breakfast items"
+          ]
+        },
+        "weekday lunch/dinner": {
+          "frequently purchased categories": [
+            "Quick Meals/Braised Chicken Rice (Average 25 yuan)",
+            "Quick Meals/Chinese Noodles (Average 22 yuan)",
+            "Chinese Cuisine/Northeastern Cuisine (Average 35 yuan)"
+          ],
+          "cost per order": "20~45 yuan",
+          "preferred store rating": "4.0~4.6 stars",
+          "preferred delivery time": "25~40 minutes",
+          "preferred distance": "0~3500m",
+          "recent orders": [
+            {
+              "store": "Yang Mingyu Braised Chicken",
+              "product": "Mildly Spicy Braised Chicken Rice"
+            },
+            {
+              "store": "Lanzhou Noodles",
+              "product": "Beef Noodles"
+            },
+            {
+              "store": "Northeastern Home Cooking",
+              "product": "Sweet and Sour Pork + Rice"
+            }
+          ],
+          "search history": [
+            "braised chicken",
+            "noodles",
+            "fast food",
+            "home cooking",
+            "sweet and sour pork"
+          ]
+        },
+        "weekend lunch/dinner": {
+          "frequently purchased categories": [
+            "Chinese Cuisine/Crayfish (Average 80 yuan)",
+            "Hot Pot/Sichuan Hot Pot (Average 90 yuan)",
+            "Chinese Cuisine/Grilled Fish (Average 75 yuan)"
+          ],
+          "cost per order": "65~150 yuan",
+          "preferred store rating": "4.3~4.9 stars",
+          "preferred delivery time": "30~50 minutes",
+          "preferred distance": "0~5000m",
+          "recent orders": [
+            {
+              "store": "Sichuan Crayfish",
+              "product": "Spicy Crayfish (Medium Size)"
+            },
+            {
+              "store": "Traditional Sichuan Hot Pot",
+              "product": "Split Pot + Beef Platter"
+            },
+            {
+              "store": "Riverside Grilled Fish",
+              "product": "Spicy Grilled Fish"
+            }
+          ],
+          "search history": [
+            "crayfish",
+            "hot pot",
+            "grilled fish",
+            "Sichuan Cuisine",
+            "couple set meal"
+          ]
+        },
+        "desserts/drinks/snacks": {
+          "frequently purchased categories": [
+            "Drinks & Desserts/Milk Tea (Average 20 yuan)",
+            "Drinks & Desserts/Fruit Mix (Average 28 yuan)",
+            "Drinks & Desserts/Cold Desserts (Average 18 yuan)"
+          ],
+          "cost per order": "15~35 yuan",
+          "preferred store rating": "4.4~4.8 stars",
+          "preferred delivery time": "15~30 minutes",
+          "preferred distance": "0~3000m",
+          "recent orders": [
+            {
+              "store": "YiDianDian Milk Tea",
+              "product": "Pearl Milk Tea (No Ice)"
+            },
+            {
+              "store": "Fresh Fruit Mix",
+              "product": "Colorful Fruit Mix"
+            },
+            {
+              "store": "Sweet Sweet Desserts",
+              "product": "Mango Pomelo Sago"
+            }
+          ],
+          "search history": [
+            "milk tea",
+            "fruit mix",
+            "desserts",
+            "mango pomelo sago",
+            "Low-Sugar"
+          ]
+        },
+        "night snack": {
+          "frequently purchased categories": [
+            "Quick Meals/Dumplings/Wonton (Average 30 yuan)",
+            "Quick Meals/Rice Noodles (Average 28 yuan)",
+            "Snacks/Braised Dishes (Average 32 yuan)"
+          ],
+          "cost per order": "25~45 yuan",
+          "preferred store rating": "4.0~4.7 stars",
+          "preferred delivery time": "20~40 minutes",
+          "preferred distance": "0~3000m",
+          "recent orders": [
+            {
+              "store": "Wang's Dumpling House",
+              "product": "Three Delicacies Dumplings"
+            },
+            {
+              "store": "Yunnan Crossing Bridge Rice Noodles",
+              "product": "Signature Rice Noodles"
+            },
+            {
+              "store": "Traditional Braised Foods",
+              "product": "Braised Duck Neck + Braised Tofu"
+            }
+          ],
+          "search history": [
+            "dumplings",
+            "rice noodles",
+            "braised foods",
+            "night snack",
+            "non-spicy"
+          ]
+        }
+      },
+      "product delivery": {
+        "frequently purchased categories": [
+          "Vegetables/Bean Products(32%)",
+          "Raw Meat/Poultry/Eggs(24%)",
+          "Grains/Oils/Seasonings/Dried Goods(15%)",
+          "Household Items(12%)",
+          "Beverages/Nutritional Drinks(10%)",
+          "Others(7%)"
+        ],
+        "frequently visited stores": [
+          "Carrefour Convenience Store (Baoding Dongfeng Road Branch)(45%)",
+          "Duoduo Groceries (Baoding West Station Branch)(30%)",
+          "FamilyMart (Baoding Passenger Center Branch)(15%)",
+          "Other Stores(10%)"
+        ],
+        "cost per order by category": {
+          "Vegetables/Bean Products": "5~20 yuan",
+          "Raw Meat/Poultry/Eggs": "20~60 yuan",
+          "Grains/Oils/Seasonings/Dried Goods": "10~40 yuan",
+          "Household Items": "15~50 yuan",
+          "Beverages/Nutritional Drinks": "5~25 yuan"
+        },
+        "preferred delivery time": "25~60 minutes",
+        "typical order time": "17~19 o'clock(40%), 8~10 o'clock(30%), 20~22 o'clock(20%)",
+        "recent orders": [
+          {
+            "store": "Carrefour Convenience Store (Baoding Dongfeng Road Branch)",
+            "product": "One bag of greens, two boxes of tofu, one box of eggs"
+          },
+          {
+            "store": "Duoduo Groceries (Baoding West Station Branch)",
+            "product": "300g lean meat, 500g potatoes, two carrots"
+          },
+          {
+            "store": "Carrefour Convenience Store (Baoding Dongfeng Road Branch)",
+            "product": "5kg rice, 1L cooking oil, one bag of salt"
+          }
+        ],
+        "search history": [
+          "tofu",
+          "lean meat",
+          "rice",
+          "vegetables",
+          "laundry detergent",
+          "mineral water"
+        ]
+      }
+    },
+    "in-store consumption": {
+      "in-store dining": {
+        "fine-dining": {
+          "frequently consumed categories": [
+            "Regional Cuisine/Sichuan Cuisine (Average 120 yuan)",
+            "International Cuisine/Western Food (Average 150 yuan)",
+            "Regional Cuisine/Specialty Dishes (Average 135 yuan)"
+          ],
+          "preferred average price per person": "100~160 yuan",
+          "preferred store rating": "4.2~4.9 stars",
+          "typical dining time": "18:30-21:00",
+          "preferred distance": "500~3000m",
+          "recent orders": [
+            {
+              "store": "Sichuan Flavor Restaurant",
+              "product": "Boiled Fish (Non-spicy), Spicy Blood Curd (Mild), Dry-fried String Beans"
+            },
+            {
+              "store": "La Vita Italian Restaurant",
+              "product": "Steak Set, Pasta, Tiramisu"
+            },
+            {
+              "store": "Jiangnan Spring",
+              "product": "Dongpo Pork, Steamed Fish, Seasonal Vegetables"
+            }
+          ],
+          "search history": [
+            "upscale restaurants",
+            "non-spicy Sichuan food",
+            "date night restaurants",
+            "well-reviewed western food in Baoding"
+          ]
+        },
+        "light meal": {
+          "frequently consumed categories": [
+            "Fast Food/Chinese Quick Meals (Average 35 yuan)",
+            "Fast Food/Western Fast Food (Average 40 yuan)",
+            "Regional Cuisine/Northeastern Cuisine (Average 45 yuan)"
+          ],
+          "preferred average price per person": "30~50 yuan",
+          "preferred store rating": "3.5~4.3 stars",
+          "typical dining time": "11:30-13:00",
+          "preferred distance": "0~1000m",
+          "recent orders": [
+            {
+              "store": "Yonghe King",
+              "product": "Signature Soy Milk, Three Shreds Fried Rice"
+            },
+            {
+              "store": "Northeastern Home Cooking",
+              "product": "Sweet and Sour Pork, Mixed Three Shreds"
+            },
+            {
+              "store": "McDonald's",
+              "product": "Spicy Chicken Burger Meal"
+            }
+          ],
+          "search history": [
+            "work area fast food",
+            "lunch takeaway",
+            "healthy quick meals",
+            "low purine diet"
+          ]
+        },
+        "desserts/drinks/snacks": {
+          "frequently consumed categories": [
+            "Beverage Shops (Average 25 yuan)",
+            "Bakery & Desserts (Average 30 yuan)",
+            "Other Dining/Fresh Fruit (Average 15 yuan)"
+          ],
+          "preferred average price per person": "15~35 yuan",
+          "preferred store rating": "4.0~4.8 stars",
+          "typical dining time": "15:00-17:00",
+          "preferred distance": "0~800m",
+          "recent orders": [
+            {
+              "store": "HEYTEA",
+              "product": "Grape Pulp (Alcohol-free)"
+            },
+            {
+              "store": "Bread Talk",
+              "product": "Matcha Cake, Whole Wheat Bread"
+            },
+            {
+              "store": "Xianfeng Fruits",
+              "product": "Selected Fruit Platter"
+            }
+          ],
+          "search history": [
+            "alcohol-free beverages",
+            "Low-Sugar desserts",
+            "healthy fruits",
+            "afternoon tea"
+          ]
+        }
+      },
+      "other in-store services": {
+        "frequently consumed categories": {
+          "Sports & Fitness/Gym": "40%",
+          "Leisure & Entertainment/Massage/Foot Therapy": "25%",
+          "Beauty/Hair Salon": "20%",
+          "Leisure & Entertainment/Murder Mystery Games": "15%"
+        },
+        "cost per order by category": {
+          "Sports & Fitness/Gym": "80~200 yuan",
+          "Leisure & Entertainment/Massage/Foot Therapy": "120~280 yuan",
+          "Beauty/Hair Salon": "150~300 yuan",
+          "Leisure & Entertainment/Murder Mystery Games": "60~120 yuan"
+        },
+        "preferred store rating": "4.0~4.8 stars",
+        "preferred service time": "19:00-22:00",
+        "preferred distance": "0~5000m",
+        "recent orders": [
+          {
+            "store": "Baoding Star Power Fitness",
+            "product": "Personal Training (Body Shaping)"
+          },
+          {
+            "store": "Hairstyle Studio",
+            "product": "Celebrity-inspired Hair Design"
+          },
+          {
+            "store": "Kangyuan Foot Therapy",
+            "product": "Full Body Massage + Foot Therapy Package"
+          }
+        ],
+        "search history": [
+          "actor physical training",
+          "film and TV makeup and hairstyling",
+          "murder mystery games",
+          "relaxation massage",
+          "fitness trainer"
+        ]
+      }
+    },
+    "OTA": {
+      "visited scenes": {
+        "Cultural Heritage Sites": "35%",
+        "Landmarks": "20%",
+        "Exhibition Halls (Museums/Art Galleries)": "15%",
+        "Tourist Attractions (Mountains/Beaches/Ecological Sites)": "20%",
+        "Theme Parks": "10%"
+      },
+      "cost per night on hotel": "500~1000 yuan",
+      "visited hotels": {
+        "Atour": "40%",
+        "Ji Hotel": "25%",
+        "Vienna Hotel": "20%",
+        "Orange Hotel": "15%"
+      },
+      "browsed hotels": {
+        "Four-star Hotels": "45%",
+        "Comfort Hotels": "35%",
+        "Three-star Hotels": "15%",
+        "Luxury Hotels": "5%"
+      },
+      "historical travel plans": {
+        "Baoding-Beijing": {
+          "price range": "50-100 yuan",
+          "transportation": "High-Speed Rail"
+        },
+        "Baoding-Shanghai": {
+          "price range": "700-1200 yuan",
+          "transportation": "Airplane"
+        },
+        "Baoding-Xi'an": {
+          "price range": "400-600 yuan",
+          "transportation": "High-Speed Rail"
+        },
+        "Baoding-Hangzhou": {
+          "price range": "600-900 yuan",
+          "transportation": "High-Speed Rail"
+        },
+        "Baoding-Guangzhou": {
+          "price range": "800-1300 yuan",
+          "transportation": "Airplane"
+        },
+        "Beijing-Baoding": {
+          "price range": "50-100 yuan",
+          "transportation": "High-Speed Rail"
+        },
+        "Shanghai-Baoding": {
+          "price range": "700-1200 yuan",
+          "transportation": "Airplane"
+        }
+      }
+    }
+  },
+  "stores": {
+    "S17550808879728834_S00001": {
+      "name": "Family Nutritional Rehabilitation Meals",
+      "store_id": "S17550808879728834_S00001",
+      "score": 4.8,
+      "location": {
+        "address": "Family Nutritional Rehabilitation Meals, No.88 Yuhua West Road, Lianchi District, Baoding, Hebei Province",
+        "latitude": 38.868912,
+        "longitude": 115.482345
+      },
+      "tags": [
+        "Patient Meal",
+        "Nutritional Meal",
+        "Light Diet",
+        "Protein Meal"
+      ],
+      "store_type": "target",
+      "products": [
+        {
+          "name": "Recovery Meal Set (Rice + Seasonal Vegetables + Steamed Fish)",
+          "store_id": "S17550808879728834_S00001",
+          "store_name": "Family Nutritional Rehabilitation Meals",
+          "price": 28,
+          "tags": [
+            "Post-Illness Meal",
+            "Light and Easy to Digest",
+            "High-Quality Protein",
+            "Low-Oil Low-Salt",
+            "Nutritionally Balanced"
+          ],
+          "product_id": "S17550808879728834_P00001",
+          "attributes": [
+            "No Spice",
+            "Low Salt",
+            "Low Oil"
+          ],
+          "product_type": "target"
+        },
+        {
+          "name": "Spicy Beef Rehabilitation Nutritional Meal",
+          "store_id": "S17550808879728834_S00001",
+          "store_name": "Family Nutritional Rehabilitation Meals",
+          "price": 58,
+          "tags": [
+            "Post-Illness Meal",
+            "High Protein",
+            "Beef",
+            "Spicy and Numbing Flavor"
+          ],
+          "product_id": "S17550808879728834_P00004",
+          "attributes": [
+            "Medium Spicy",
+            "Mild Spicy",
+            "No Spice"
+          ],
+          "product_type": "distraction"
+        },
+        {
+          "name": "Vegetarian Health-Preserving Set for Two",
+          "store_id": "S17550808879728834_S00001",
+          "store_name": "Family Nutritional Rehabilitation Meals",
+          "price": 88,
+          "tags": [
+            "Vegetarian",
+            "Set Menu for Two",
+            "Light-Flavored",
+            "Easy to Digest",
+            "Low-Calorie"
+          ],
+          "product_id": "S17550808879728834_P00005",
+          "attributes": [
+            "No Spice",
+            "Low Salt",
+            "Low Oil"
+          ],
+          "product_type": "distraction"
+        }
+      ]
+    },
+    "S17550808879728834_S00003": {
+      "name": "Baoding Good Porridge Restaurant",
+      "store_id": "S17550808879728834_S00003",
+      "score": 4.5,
+      "location": {
+        "address": "Baoding Good Porridge Restaurant, No.56 Qi Yi East Road, Lianchi District, Baoding, Hebei Province",
+        "latitude": 38.869234,
+        "longitude": 115.485678
+      },
+      "tags": [
+        "Porridge",
+        "Light-Flavored",
+        "breakfast",
+        "Stomach-Friendly"
+      ],
+      "store_type": "distraction",
+      "products": [
+        {
+          "name": "Red Date and Longan Porridge",
+          "store_id": "S17550808879728834_S00003",
+          "store_name": "Baoding Good Porridge Restaurant",
+          "price": 16.8,
+          "tags": [
+            "Light-Flavored",
+            "Health Preservation",
+            "Hot Porridge",
+            "Traditional"
+          ],
+          "product_id": "S17550808879728834_P00011",
+          "attributes": [
+            "Add Green Onion",
+            "No Green Onion",
+            "Add Sesame Oil",
+            "No Sesame Oil"
+          ],
+          "product_type": "target"
+        },
+        {
+          "name": "Eight Treasures Porridge",
+          "store_id": "S17550808879728834_S00003",
+          "store_name": "Baoding Good Porridge Restaurant",
+          "price": 15.5,
+          "tags": [
+            "Sweet Porridge",
+            "Health Preservation",
+            "Whole Grains"
+          ],
+          "product_id": "S17550808879728834_P00014",
+          "attributes": [],
+          "product_type": "distraction"
+        }
+      ]
+    },
+    "S17550808879728834_S00004": {
+      "name": "Mom's Kitchen",
+      "store_id": "S17550808879728834_S00004",
+      "score": 4.6,
+      "location": {
+        "address": "Mom's Kitchen, No.235 Dongfeng East Road, Lianchi District, Baoding, Hebei Province",
+        "latitude": 38.872345,
+        "longitude": 115.492345
+      },
+      "tags": [
+        "Home-Style Cuisine",
+        "Sichuan Cuisine",
+        "Hunan Cuisine",
+        "Stir-Fry Dishes"
+      ],
+      "store_type": "distraction",
+      "products": [
+        {
+          "name": "Stir-Fried Seasonal Vegetables Set",
+          "store_id": "S17550808879728834_S00004",
+          "store_name": "Mom's Kitchen",
+          "price": 32,
+          "tags": [
+            "Light-Flavored",
+            "Vegan",
+            "Seasonal Vegetables",
+            "Nutritional Combination"
+          ],
+          "product_id": "S17550808879728834_P00016",
+          "attributes": [
+            "No Spice",
+            "Less Oil",
+            "Less Salt"
+          ],
+          "product_type": "distraction"
+        },
+        {
+          "name": "Boiled Fish",
+          "store_id": "S17550808879728834_S00004",
+          "store_name": "Mom's Kitchen",
+          "price": 58,
+          "tags": [
+            "Spicy and Numbing",
+            "Fish",
+            "High Protein"
+          ],
+          "product_id": "S17550808879728834_P00017",
+          "attributes": [
+            "No Spice",
+            "Add Garlic",
+            "Less Oil"
+          ],
+          "product_type": "distraction"
+        },
+        {
+          "name": "Spicy Boiled Sliced Meat",
+          "store_id": "S17550808879728834_S00004",
+          "store_name": "Mom's Kitchen",
+          "price": 46,
+          "tags": [
+            "Sichuan Cuisine",
+            "Spicy Flavor",
+            "Meat",
+            "Signature Dish"
+          ],
+          "product_id": "S17550808879728834_P00018",
+          "attributes": [
+            "Extra Spicy",
+            "Mild Spicy",
+            "No Spice"
+          ],
+          "product_type": "distraction"
+        },
+        {
+          "name": "Chopped Chili Fish Head",
+          "store_id": "S17550808879728834_S00004",
+          "store_name": "Mom's Kitchen",
+          "price": 68,
+          "tags": [
+            "Hunan Cuisine",
+            "Spicy Flavor",
+            "Fish Head",
+            "Signature Dish"
+          ],
+          "product_id": "S17550808879728834_P00019",
+          "attributes": [
+            "Medium Spicy",
+            "Mild Spicy"
+          ],
+          "product_type": "distraction"
+        }
+      ]
+    },
+    "S17550808879728834_S00005": {
+      "name": "Fresh Fruit Mix",
+      "store_id": "S17550808879728834_S00005",
+      "score": 4.4,
+      "location": {
+        "address": "Fresh Fruit Mix, No.102 Yuhua West Road, Lianchi District, Baoding, Hebei Province",
+        "latitude": 38.867456,
+        "longitude": 115.483456
+      },
+      "tags": [
+        "Fruit",
+        "Dessert",
+        "Beverage",
+        "Healthy"
+      ],
+      "store_type": "distraction",
+      "products": [
+        {
+          "name": "Colorful Fruit Mix",
+          "store_id": "S17550808879728834_S00005",
+          "store_name": "Fresh Fruit Mix",
+          "price": 32.8,
+          "tags": [
+            "Fresh Fruit",
+            "Fruit Platter",
+            "Healthy",
+            "Low-Sugar"
+          ],
+          "product_id": "S17550808879728834_P00021",
+          "attributes": [
+            "Regular Sugar",
+            "Less Sugar",
+            "No Sugar",
+            "Add Coconut Jelly",
+            "No Coconut Jelly"
+          ],
+          "product_type": "distraction"
+        },
+        {
+          "name": "Yogurt Fruit Cup",
+          "store_id": "S17550808879728834_S00005",
+          "store_name": "Fresh Fruit Mix",
+          "price": 28.9,
+          "tags": [
+            "Yogurt",
+            "Fruit",
+            "Low-Fat",
+            "Healthy"
+          ],
+          "product_id": "S17550808879728834_P00022",
+          "attributes": [
+            "Regular Sugar",
+            "Less Sugar",
+            "No Sugar",
+            "Less Yogurt",
+            "More Yogurt"
+          ],
+          "product_type": "distraction"
+        },
+        {
+          "name": "Freshly Squeezed Juice Set",
+          "store_id": "S17550808879728834_S00005",
+          "store_name": "Fresh Fruit Mix",
+          "price": 36.5,
+          "tags": [
+            "Juice",
+            "Beverage",
+            "Vitamin",
+            "Additive-Free"
+          ],
+          "product_id": "S17550808879728834_P00023",
+          "attributes": [
+            "Apple Juice",
+            "Orange Juice",
+            "Kiwi Juice",
+            "Mixed Fruit Juice"
+          ],
+          "product_type": "distraction"
+        },
+        {
+          "name": "Fruit Salad Light Meal",
+          "store_id": "S17550808879728834_S00005",
+          "store_name": "Fresh Fruit Mix",
+          "price": 39.9,
+          "tags": [
+            "Light Meal",
+            "Salad",
+            "Fruit",
+            "Low-Calorie"
+          ],
+          "product_id": "S17550808879728834_P00024",
+          "attributes": [
+            "Yogurt Sauce",
+            "Honey Sauce",
+            "No Sauce"
+          ],
+          "product_type": "distraction"
+        },
+        {
+          "name": "Coconut Water Beverage",
+          "store_id": "S17550808879728834_S00005",
+          "store_name": "Fresh Fruit Mix",
+          "price": 25.5,
+          "tags": [
+            "Coconut Water",
+            "Refreshing",
+            "Natural",
+            "Thirst-Quenching"
+          ],
+          "product_id": "S17550808879728834_P00025",
+          "attributes": [
+            "Add Ice",
+            "Room Temperature",
+            "Add Coconut Meat",
+            "No Coconut Meat"
+          ],
+          "product_type": "distraction"
+        }
+      ]
+    },
+    "S17550855451188044_S00005": {
+      "name": "Hair & Beauty Specialty Store",
+      "store_id": "S17550855451188044_S00005",
+      "score": 4.8,
+      "location": {
+        "address": "Hair & Beauty Specialty Store, No.1500 Dongfeng Middle Road, Lianchi District, Baoding, Hebei Province",
+        "latitude": 38.869,
+        "longitude": 115.48
+      },
+      "tags": [
+        "Wig",
+        "Beauty Makeup",
+        "Elderly Care Products",
+        "Real Hair Products"
+      ],
+      "store_type": "target",
+      "products": [
+        {
+          "name": "Real Hair Woven Wig (Senior Style)",
+          "store_id": "S17550855451188044_S00005",
+          "store_name": "Hair & Beauty Specialty Store",
+          "price": 599,
+          "tags": [
+            "Real Hair",
+            "Senior Style",
+            "Naturally Comfortable",
+            "Light and Breathable",
+            "Hair Net Included"
+          ],
+          "product_id": "S17550855451188044_P00022",
+          "attributes": [
+            "Black-Gray",
+            "Medium Length",
+            "70% Coverage"
+          ],
+          "product_type": "target"
+        },
+        {
+          "name": "Lifelike Wig (Senior Style)",
+          "store_id": "S17550855451188044_S00005",
+          "store_name": "Hair & Beauty Specialty Store",
+          "price": 299,
+          "tags": [
+            "Simulation/Lifelike",
+            "Wig"
+          ],
+          "product_id": "S17550855451188044_P00025",
+          "attributes": [
+            "Brown",
+            "Long Straight",
+            "Full Head Cover"
+          ],
+          "product_type": "distraction"
+        }
+      ]
+    },
+    "S17550855451188044_S00007": {
+      "name": "Beautiful Hair Design Shop",
+      "store_id": "S17550855451188044_S00007",
+      "score": 4.7,
+      "location": {
+        "address": "Beautiful Hair Design Shop, No.890 Dongfeng Middle Road, Lianchi District, Baoding, Hebei Province",
+        "latitude": 38.87,
+        "longitude": 115.485
+      },
+      "tags": [
+        "Hair Design",
+        "Wig",
+        "Stylish Hair Accessory"
+      ],
+      "store_type": "distraction",
+      "products": [
+        {
+          "name": "Colorful Highlighted Hair Piece",
+          "store_id": "S17550855451188044_S00007",
+          "store_name": "Beautiful Hair Design Shop",
+          "price": 89,
+          "tags": [
+            "Hair Piece",
+            "Highlight",
+            "Colorful",
+            "Fashionable/Stylish",
+            "Youth Style"
+          ],
+          "product_id": "S17550855451188044_P00033",
+          "attributes": [
+            "Purple",
+            "Blue",
+            "Pink"
+          ],
+          "product_type": "distraction"
+        },
+        {
+          "name": "Medium-Length Curly Wig (Brown)",
+          "store_id": "S17550855451188044_S00007",
+          "store_name": "Beautiful Hair Design Shop",
+          "price": 268,
+          "tags": [
+            "Wig",
+            "Medium-Length Hair",
+            "Curly Hair",
+            "Fashionable/Stylish",
+            "Youth Style",
+            "Brown"
+          ],
+          "product_id": "S17550855451188044_P00034",
+          "attributes": [
+            "Brown",
+            "Medium-Length Hair",
+            "Big Wave"
+          ],
+          "product_type": "distraction"
+        },
+        {
+          "name": "Air Bangs Hair Piece",
+          "store_id": "S17550855451188044_S00007",
+          "store_name": "Beautiful Hair Design Shop",
+          "price": 59,
+          "tags": [
+            "Hair Piece",
+            "Bangs",
+            "Fashionable/Stylish",
+            "Youth Style"
+          ],
+          "product_id": "S17550855451188044_P00035",
+          "attributes": [
+            "Black",
+            "Brown",
+            "Natural Color"
+          ],
+          "product_type": "distraction"
+        },
+        {
+          "name": "Real Hair Woven Wig (Natural Black)",
+          "store_id": "S17550855451188044_S00007",
+          "store_name": "Beautiful Hair Design Shop",
+          "price": 498,
+          "tags": [
+            "Real Hair Wig",
+            "Woven",
+            "Black",
+            "Youth Style"
+          ],
+          "product_id": "S17550855451188044_P00036",
+          "attributes": [
+            "Gray-Black",
+            "Short Hair",
+            "Natural Curl"
+          ],
+          "product_type": "distraction"
+        }
+      ]
+    },
+    "S17550855451188044_S00008": {
+      "name": "Fashion Accessories Store",
+      "store_id": "S17550855451188044_S00008",
+      "score": 4.3,
+      "location": {
+        "address": "Fashion Accessories Store, No.56 Yuhua East Road, Lianchi District, Baoding, Hebei Province",
+        "latitude": 38.876,
+        "longitude": 115.483
+      },
+      "tags": [
+        "Accessories",
+        "Hair Accessory",
+        "Fashion Accessories"
+      ],
+      "store_type": "distraction",
+      "products": [
+        {
+          "name": "Korean Style Bow Hair Clip",
+          "store_id": "S17550855451188044_S00008",
+          "store_name": "Fashion Accessories Store",
+          "price": 29.9,
+          "tags": [
+            "Hair Accessory",
+            "Korean Style",
+            "Bow",
+            "Fashionable/Stylish"
+          ],
+          "product_id": "S17550855451188044_P00037",
+          "attributes": [
+            "Black",
+            "Pink",
+            "Blue"
+          ],
+          "product_type": "distraction"
+        },
+        {
+          "name": "Vintage Hair Bun Maker",
+          "store_id": "S17550855451188044_S00008",
+          "store_name": "Fashion Accessories Store",
+          "price": 35.8,
+          "tags": [
+            "Hair Bun",
+            "Vintage/Retro",
+            "Hair Accessory",
+            "Middle-Aged and Elderly"
+          ],
+          "product_id": "S17550855451188044_P00038",
+          "attributes": [
+            "Brown",
+            "Black"
+          ],
+          "product_type": "distraction"
+        },
+        {
+          "name": "Bangs Hair Piece",
+          "store_id": "S17550855451188044_S00008",
+          "store_name": "Fashion Accessories Store",
+          "price": 49.9,
+          "tags": [
+            "Hair Piece",
+            "Bangs",
+            "Natural",
+            "Cover Gray Hair"
+          ],
+          "product_id": "S17550855451188044_P00039",
+          "attributes": [
+            "Black",
+            "Dark Brown",
+            "Natural Black"
+          ],
+          "product_type": "distraction"
+        },
+        {
+          "name": "Lifelike Floral Hair Accessory",
+          "store_id": "S17550855451188044_S00008",
+          "store_name": "Fashion Accessories Store",
+          "price": 39.9,
+          "tags": [
+            "Hair Accessory",
+            "Flower",
+            "Elegant",
+            "Middle-Aged and Elderly"
+          ],
+          "product_id": "S17550855451188044_P00040",
+          "attributes": [
+            "Red",
+            "Purple",
+            "White"
+          ],
+          "product_type": "distraction"
+        },
+        {
+          "name": "Fashionable Headband",
+          "store_id": "S17550855451188044_S00008",
+          "store_name": "Fashion Accessories Store",
+          "price": 25.8,
+          "tags": [
+            "Headband",
+            "Cover Gray Hair",
+            "Simple/Minimalist",
+            "Comfortable"
+          ],
+          "product_id": "S17550855451188044_P00041",
+          "attributes": [
+            "Black",
+            "Coffee",
+            "Navy Blue"
+          ],
+          "product_type": "distraction"
+        }
+      ]
+    }
+  },
+  "orders": {
+    "10812011T005": {
+      "order_id": "10812011T005",
+      "order_type": "train",
+      "user_id": "U921751",
+      "store_id": "S17550808879728834_T00010",
+      "note": "",
+      "location": null,
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 89,
+      "create_time": "2025-08-02 10:24:00",
+      "update_time": "2025-08-02 10:24:00",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17550808879728834_P00050",
+          "price": 89,
+          "quantity": 1,
+          "date": "2025-08-04",
+          "seat_type": "First Class Seat"
+        }
+      ]
+    }
+  }
+}

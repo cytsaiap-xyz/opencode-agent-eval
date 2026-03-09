@@ -1,0 +1,57 @@
+{
+  "task_id": "89",
+  "query": "I'm planning a trip from Chongqing to Xiamen on November 12, 2025, and will stay there until November 17, 2025. Could you please help me plan the entire itinerary, including transportation, accommodation, dining, and sightseeing?\n\nRegarding transportation, I'd like to take a flight for the outbound journey, preferably a direct one. Please check which direct flight is the cheapest. As for accommodation, I hope to stay somewhere comfortable, in a hotel that has been newly renovated or redecorated after 2023, so the environment would be better. There are only two of us traveling, so one room will be sufficient.\n\nBy the way, I heard Xiamen has quite a few great 'Art Exhibition' venues. This time, I’d like to include all recommended 'Art Exhibition' attractions to fully experience the artistic atmosphere. Also, I’ve heard there are some nice spots perfect for relaxation—could you please find the top-rated one among the 'Leisure Experience' category and include it in the itinerary?\n\nThese are basically all my requirements. I believe I've provided enough information—please go ahead and start planning my trip! November 12, 2025 is Wednesday",
+  "meta_info": {
+    "org": "Chongqing",
+    "dest": [
+      "Xiamen"
+    ],
+    "days": 6,
+    "depart_date": "2025-11-12",
+    "return_date": "2025-11-17",
+    "people_number": 2,
+    "room_number": 1
+  },
+  "hard_constraints": {
+    "flight_cheapest_direct": {
+      "constraint_context": "Prefer to take a flight for the outbound journey, and need to select the cheapest flight among direct flights",
+      "constraint_type": "superlative_cheapest_direct",
+      "outbound_flight_no": "MF8414"
+    },
+    "hotel_newest_decoration": {
+      "constraint_context": "For accommodation, please select hotels renovated in 2023 or later",
+      "constraint_type": "superlative_newest_decoration",
+      "hotel_name": "Ji Hotel Xiamen Zhongshan Road Botanical Garden Hotel",
+      "hotel_price": 395.0,
+      "hotel_score": 5.0,
+      "decoration_time": 2025,
+      "year_threshold": 2023
+    },
+    "attraction_all_of_type": {
+      "constraint_context": "Must-visit attraction recommendation: all sites of type 'Art Exhibition' mentioned in the tool",
+      "constraint_type": "superlative_all_of_type",
+      "attraction_names": [
+        "Shapowei Art West District",
+        "Gulangyu Piano Museum"
+      ],
+      "attraction_type_cn": "艺术展览",
+      "attraction_type": "Art Exhibition",
+      "attraction_ratings": [
+        4.7,
+        4.7
+      ]
+    },
+    "attraction_type_highest_rated": {
+      "constraint_context": "The itinerary must include the highest-rated attraction in the 'Leisure Experience' category.",
+      "constraint_type": "superlative_type_highest_rated",
+      "attraction_names": [
+        "Longtou Road Snack Street"
+      ],
+      "attraction_type_cn": "休闲体验",
+      "attraction_type": "Leisure Experience",
+      "attraction_ratings": [
+        4.8
+      ]
+    }
+  }
+}

@@ -1,0 +1,1037 @@
+{
+  "task_id": "A0811005",
+  "domain": "cross_domain",
+  "time": "2025-09-19 09:30:00",
+  "user_id": "U479920",
+  "weather": [
+    {
+      "city": "Xiamen",
+      "category": "sunny",
+      "datetime": "2025-09-20",
+      "temperature": [
+        22,
+        28
+      ],
+      "humidity": 65
+    }
+  ],
+  "location": [
+    {
+      "address": "Room 1203, 12th Floor, International Bank Building, 100 Lujiang Road, Siming District, Xiamen City, Fujian Province",
+      "longitude": 118.082695,
+      "latitude": 24.449923
+    },
+    {
+      "address": "Xiamen Zhengxin United Law Firm, 18th Floor, International Trade Building, 388 Hubin South Road, Siming District, Xiamen City, Fujian Province",
+      "longitude": 118.156229,
+      "latitude": 24.485539
+    },
+    {
+      "address": "Hubin East Road Metro Station (Line 1; Line 3), Siming District, Xiamen City, Fujian Province",
+      "longitude": 118.110656,
+      "latitude": 24.474027
+    }
+  ],
+  "user_profile": {
+    "user id": "U479920",
+    "occupation": "lawyer",
+    "gender": "male",
+    "age group": "30~35",
+    "residence": "Xiamen",
+    "Permanent address": "Room 1203, 12th Floor, International Bank Building, 100 Lujiang Road, Siming District, Xiamen City, Fujian Province",
+    "work address": "Xiamen Zhengxin United Law Firm, 18th Floor, International Trade Building, 388 Hubin South Road, Siming District, Xiamen City, Fujian Province",
+    "dietary restrictions": "Avoids high purine foods (such as organ meats/seafood soup), alcohol-free",
+    "family status": "Lives with elderly family members",
+    "personality": "Tends to be controlling, not easily receptive to different opinions"
+  },
+  "user_historical_behaviors": {
+    "user id": "U479920",
+    "occupation": "lawyer",
+    "gender": "male",
+    "age group": "30~35",
+    "residence": "Xiamen",
+    "Permanent address": "Room 1203, 12th Floor, International Bank Building, 100 Lujiang Road, Siming District, Xiamen City, Fujian Province",
+    "work address": "Xiamen Zhengxin United Law Firm, 18th Floor, International Trade Building, 388 Hubin South Road, Siming District, Xiamen City, Fujian Province",
+    "delivery": {
+      "food delivery": {
+        "breakfast": {
+          "frequently purchased categories": [
+            "Simple fast food/buns/pan-fried buns (average 22 yuan)",
+            "Simple fast food/deep-fried dough sticks (average 12 yuan)",
+            "Simple fast food/light meals (average 35 yuan)"
+          ],
+          "cost per order": "12~40 yuan",
+          "preferred store rating": "4.2~4.7 points",
+          "preferred delivery time": "15~30 minutes",
+          "preferred distance": "0~2500m",
+          "recent orders": [
+            {
+              "store": "Fujian Sha County Snacks",
+              "product": "Soy milk and deep-fried dough stick set"
+            },
+            {
+              "store": "Xiamen Traditional Dim Sum",
+              "product": "Fresh meat pan-fried buns"
+            },
+            {
+              "store": "Light Food Philosophy",
+              "product": "Avocado chicken breast sandwich"
+            }
+          ],
+          "search history": [
+            "Low-fat breakfast",
+            "Steamed buns",
+            "Soy milk",
+            "Healthy breakfast",
+            "Pan-fried buns"
+          ]
+        },
+        "weekday lunch/dinner": {
+          "frequently purchased categories": [
+            "Simple fast food/healthy meals (average 45 yuan)",
+            "Chinese cuisine/Cantonese cuisine (average 65 yuan)",
+            "Foreign cuisine/Japanese bento/sushi (average 55 yuan)"
+          ],
+          "cost per order": "40~80 yuan",
+          "preferred store rating": "4.3~4.8 points",
+          "preferred delivery time": "20~35 minutes",
+          "preferred distance": "0~3000m",
+          "recent orders": [
+            {
+              "store": "Fresh Cantonese Restaurant",
+              "product": "White cut chicken set"
+            },
+            {
+              "store": "Nutritional Work Meals",
+              "product": "Low-fat chicken breast rice"
+            },
+            {
+              "store": "Sakura Sushi House",
+              "product": "Japanese ramen"
+            }
+          ],
+          "search history": [
+            "Healthy work meals",
+            "Low-calorie",
+            "Cantonese cuisine",
+            "Light salads",
+            "Japanese ramen"
+          ]
+        },
+        "weekend lunch/dinner": {
+          "frequently purchased categories": [
+            "Chinese cuisine/Cantonese cuisine (average 120 yuan)",
+            "Foreign cuisine/Japanese ramen (average 60 yuan)",
+            "Chinese cuisine/grilled fish (average 150 yuan)"
+          ],
+          "cost per order": "60~180 yuan",
+          "preferred store rating": "4.5~4.9 points",
+          "preferred delivery time": "30~45 minutes",
+          "preferred distance": "0~5000m",
+          "recent orders": [
+            {
+              "store": "Better and Better Cantonese",
+              "product": "Traditional slow-cooked soup + Steamed bass + Vegetable set"
+            },
+            {
+              "store": "One Fish Two Ways Grilled Fish",
+              "product": "Secret recipe sauerkraut grilled fish"
+            },
+            {
+              "store": "Hakata Ikkousha",
+              "product": "Tonkotsu ramen special set"
+            }
+          ],
+          "search history": [
+            "Cantonese family set meal",
+            "Grilled fish",
+            "Nutritious soup",
+            "Japanese ramen"
+          ]
+        },
+        "desserts/drinks/snacks": {
+          "frequently purchased categories": [
+            "Beverages and desserts/pure tea/herbal tea (average 25 yuan)",
+            "Beverages and desserts/fruit mix (average 38 yuan)",
+            "Beverages and desserts/coffee (average 32 yuan)"
+          ],
+          "cost per order": "20~45 yuan",
+          "preferred store rating": "4.4~4.8 points",
+          "preferred delivery time": "15~30 minutes",
+          "preferred distance": "0~3000m",
+          "recent orders": [
+            {
+              "store": "HEYTEA",
+              "product": "Oolong tea"
+            },
+            {
+              "store": "Hui Lau Shan",
+              "product": "Fresh fruit mix"
+            },
+            {
+              "store": "Starbucks",
+              "product": "Americano"
+            }
+          ],
+          "search history": [
+            "Sugar-free beverages",
+            "Fruit tea",
+            "Low-sugar desserts",
+            "Coffee"
+          ]
+        },
+        "night snack": {
+          "frequently purchased categories": [
+            "Simple fast food/rice noodles (average 35 yuan)",
+            "Snacks and braised food/braised items (average 40 yuan)",
+            "Simple fast food/clay pot dishes (average 45 yuan)"
+          ],
+          "cost per order": "30~60 yuan",
+          "preferred store rating": "4.2~4.7 points",
+          "preferred delivery time": "25~40 minutes",
+          "preferred distance": "0~3500m",
+          "recent orders": [
+            {
+              "store": "Old Guangzhou Clay Pot Porridge",
+              "product": "Century egg and lean meat clay pot porridge"
+            },
+            {
+              "store": "Sha County Snacks",
+              "product": "Chicken soup noodles"
+            },
+            {
+              "store": "Braised Food Legend",
+              "product": "Braised platter (no offal)"
+            }
+          ],
+          "search history": [
+            "Clay pot porridge",
+            "Non-greasy night snacks",
+            "Stomach-friendly night snacks",
+            "Mild braised foods"
+          ]
+        }
+      },
+      "product delivery": {
+        "frequently purchased categories": [
+          "Pet supplies(28%)",
+          "Fruits(22%)",
+          "Vegetables/Bean products(18%)",
+          "Household items(15%)",
+          "Beverages/Nutritional drinks(10%)",
+          "Others(7%)"
+        ],
+        "frequently visited stores": [
+          "Xiamen Convenience Home(35%)",
+          "FamilyMart (Siming District Store)(25%)",
+          "Yonghui Supermarket (Hubin Store)(22%)",
+          "Other stores(18%)"
+        ],
+        "cost per order by category": {
+          "Pet supplies": "30~150 yuan",
+          "Fruits": "15~45 yuan",
+          "Vegetables/Bean products": "5~25 yuan",
+          "Household items": "10~50 yuan",
+          "Beverages/Nutritional drinks": "8~35 yuan"
+        },
+        "preferred delivery time": "25~60 minutes",
+        "typical order time": "18~20:00(35%), 9~11:00(25%), 14~16:00(20%)",
+        "recent orders": [
+          {
+            "store": "Xiamen Convenience Home",
+            "product": "Natural cat food 2kg"
+          },
+          {
+            "store": "Yonghui Supermarket (Hubin Store)",
+            "product": "2 mangoes + 1 bunch of bananas"
+          },
+          {
+            "store": "FamilyMart (Siming District Store)",
+            "product": "Natural mineral water 6-pack"
+          }
+        ],
+        "search history": [
+          "Cat food",
+          "Cat litter",
+          "Mango",
+          "Mineral water",
+          "Kitchen paper towels",
+          "Tofu"
+        ]
+      }
+    },
+    "in-store consumption": {
+      "in-store dining": {
+        "fine-dining": {
+          "frequently purchased categories": [
+            "Regional cuisine/Fish (average 138 yuan)",
+            "Foreign cuisine/Japanese food (average 165 yuan)",
+            "Regional cuisine/Cantonese cuisine (average 120 yuan)"
+          ],
+          "preferred average price per person": "120~170 yuan",
+          "preferred store rating": "4.2~4.8 stars",
+          "typical dining time": "18:30-20:30",
+          "preferred distance": "500~3000m",
+          "recent orders": [
+            {
+              "store": "Xian Shen Seafood Restaurant",
+              "product": "Purine-free set (Steamed fish + Vegetable salad + Fresh shrimp fried rice)"
+            },
+            {
+              "store": "Yue Lai Shunde",
+              "product": "Traditional slow-cooked soup + White cut chicken + Steamed grouper"
+            },
+            {
+              "store": "Sushi Master",
+              "product": "Premium sashimi platter + Salmon sushi"
+            }
+          ],
+          "search history": [
+            "Purine-free dishes",
+            "High-end Cantonese cuisine",
+            "Business dining restaurants",
+            "Japanese cuisine",
+            "Healthy cuisine"
+          ]
+        },
+        "light meal": {
+          "frequently purchased categories": [
+            "Fast food/Chinese quick meals (average 45 yuan)",
+            "Fast food/Western fast food (average 38 yuan)",
+            "Regional cuisine/Shanghai and Zhejiang cuisine (average 55 yuan)"
+          ],
+          "preferred average price per person": "35~60 yuan",
+          "preferred store rating": "3.5~4.3 stars",
+          "typical dining time": "12:00-13:30",
+          "preferred distance": "0~800m",
+          "recent orders": [
+            {
+              "store": "Grandma's Noodle House",
+              "product": "Plain noodles + Braised egg"
+            },
+            {
+              "store": "Mr. Salad",
+              "product": "Low-fat chicken breast salad + Freshly squeezed orange juice"
+            },
+            {
+              "store": "Gongdelin Vegetarian",
+              "product": "Vegetarian set (Vegetarian chicken + Seasonal vegetables + Five-grain rice)"
+            }
+          ],
+          "search history": [
+            "Healthy quick meals",
+            "Low purine diet",
+            "Vegetarian food",
+            "Fast food near office building",
+            "Light meals"
+          ]
+        },
+        "desserts/drinks/snacks": {
+          "frequently purchased categories": [
+            "Beverage shops (average 22 yuan)",
+            "Bread and desserts (average 35 yuan)",
+            "Other dining/Fresh fruits (average 18 yuan)"
+          ],
+          "preferred average price per person": "18~38 yuan",
+          "preferred store rating": "4.0~4.7 stars",
+          "typical dining time": "15:00-16:30",
+          "preferred distance": "0~500m",
+          "recent orders": [
+            {
+              "store": "HEYTEA",
+              "product": "Cheese Green (no sugar)"
+            },
+            {
+              "store": "Paris Baguette",
+              "product": "Whole wheat red bean bread + Sugar-free latte"
+            },
+            {
+              "store": "Xianfeng Fruits",
+              "product": "Selected fruit platter"
+            }
+          ],
+          "search history": [
+            "Sugar-free beverages",
+            "Low-sugar desserts",
+            "Healthy snacks",
+            "Office afternoon tea",
+            "Fruit stores"
+          ]
+        }
+      },
+      "other in-store services": {
+        "frequently consumed categories": {
+          "Sports and fitness/Fitness centers": "35%",
+          "Sports and fitness/Ball sports": "25%",
+          "Recreational entertainment/Massage/Foot therapy": "20%",
+          "Beauty/Hair salons": "15%",
+          "Recreational entertainment/Tea houses": "5%"
+        },
+        "cost per order by category": {
+          "Sports and fitness/Fitness centers": "150~300 yuan",
+          "Sports and fitness/Ball sports": "80~150 yuan",
+          "Recreational entertainment/Massage/Foot therapy": "180~350 yuan",
+          "Beauty/Hair salons": "120~200 yuan",
+          "Recreational entertainment/Tea houses": "80~150 yuan"
+        },
+        "preferred store rating": "4.0~4.8 stars",
+        "preferred service time": "19:00-21:00",
+        "preferred distance": "500~5000m",
+        "recent orders": [
+          {
+            "store": "Xiamen Central Fitness Club",
+            "product": "Monthly card + Personal training sessions (3 times)"
+          },
+          {
+            "store": "Star Tennis Club",
+            "product": "Two-person court reservation (2 hours)"
+          },
+          {
+            "store": "Foot Blessing Health Center",
+            "product": "Traditional Chinese medicine foot therapy + Shoulder and neck massage (90 minutes)"
+          }
+        ],
+        "search history": [
+          "High-end gym",
+          "Tennis court reservation",
+          "Professional foot therapy",
+          "Lumbar spine massage",
+          "Stress relief relaxation",
+          "Business haircut"
+        ]
+      }
+    },
+    "OTA": {
+      "visited scenes": {
+        "Cultural heritage sites": "35%",
+        "Exhibition halls (museums/art galleries)": "30%",
+        "Landmark buildings": "15%",
+        "Natural landscapes (mountains/lakes/forests)": "12%",
+        "Special villages/Industrial tourism/Uncategorized projects": "8%"
+      },
+      "cost per night on hotel": "1000~2000 yuan",
+      "visited hotels": {
+        "Atour": "28%",
+        "Marriott": "22%",
+        "Shangri-La": "15%",
+        "Vienna": "20%",
+        "Ji Hotel": "15%"
+      },
+      "browsed hotels": {
+        "Five-star hotels": "25%",
+        "Four-star hotels": "45%",
+        "Luxury hotels": "15%",
+        "Comfort hotels": "15%"
+      },
+      "historical travel plans": {
+        "Xiamen-Beijing": {
+          "Price range": "1500-2500 yuan",
+          "Transportation mode": "Airplane"
+        },
+        "Xiamen-Shanghai": {
+          "Price range": "1000-1800 yuan",
+          "Transportation mode": "Airplane"
+        },
+        "Xiamen-Guangzhou": {
+          "Price range": "800-1200 yuan",
+          "Transportation mode": "Airplane"
+        },
+        "Xiamen-Hong Kong": {
+          "Price range": "1200-2000 yuan",
+          "Transportation mode": "Airplane"
+        },
+        "Xiamen-Fuzhou": {
+          "Price range": "150-250 yuan",
+          "Transportation mode": "High-speed rail/EMU"
+        },
+        "Beijing-Xiamen": {
+          "Price range": "1500-2500 yuan",
+          "Transportation mode": "Airplane"
+        },
+        "Shanghai-Xiamen": {
+          "Price range": "1000-1800 yuan",
+          "Transportation mode": "Airplane"
+        },
+        "Xiamen-Shenzhen": {
+          "Price range": "800-1200 yuan",
+          "Transportation mode": "Airplane"
+        },
+        "Xiamen-Quanzhou": {
+          "Price range": "80-120 yuan",
+          "Transportation mode": "High-speed rail/EMU"
+        }
+      }
+    }
+  },
+  "stores": {
+    "S17550812997141953_S00001": {
+      "name": "Popular Snack Shop",
+      "store_id": "S17550812997141953_S00001",
+      "score": 4.7,
+      "location": {
+        "address": "Popular Snack Shop, 99 Hubin South Road, Siming District, Xiamen City, Fujian Province",
+        "latitude": 24.483215,
+        "longitude": 118.154327
+      },
+      "tags": [
+        "Snacks",
+        "Internet celebrity/Popular",
+        "Snacks",
+        "Dessert"
+      ],
+      "store_type": "target",
+      "products": [
+        {
+          "name": "Instagram-style fruit platter (large portion)",
+          "store_id": "S17550812997141953_S00001",
+          "store_name": "Popular Snack Shop",
+          "price": 68.8,
+          "tags": [
+            "Fresh fruit",
+            "Sunshine rose",
+            "Peach",
+            "Strawberry",
+            "Kiwi"
+          ],
+          "product_id": "S17550812997141953_P00002",
+          "attributes": [],
+          "product_type": "target"
+        },
+        {
+          "name": "Popular fruit cut platter",
+          "store_id": "S17550812997141953_S00001",
+          "store_name": "Popular Snack Shop",
+          "price": 58.9,
+          "tags": [
+            "Fresh fruit",
+            "Platter",
+            "Honeydew melon",
+            "Apple",
+            "Orange"
+          ],
+          "product_id": "S17550812997141953_P00003",
+          "attributes": [],
+          "product_type": "distraction"
+        },
+        {
+          "name": "Handmade butter cookies",
+          "store_id": "S17550812997141953_S00001",
+          "store_name": "Popular Snack Shop",
+          "price": 42.5,
+          "tags": [
+            "Popular snacks",
+            "Sweet treats",
+            "Cookies/Biscuits",
+            "Handmade"
+          ],
+          "product_id": "S17550812997141953_P00005",
+          "attributes": [
+            "Danish butter",
+            "Elegant gift box"
+          ],
+          "product_type": "target"
+        },
+        {
+          "name": "Bursting mochi soft candy",
+          "store_id": "S17550812997141953_S00001",
+          "store_name": "Popular Snack Shop",
+          "price": 29.9,
+          "tags": [
+            "Popular snacks",
+            "Soft candy",
+            "Sweet treats",
+            "Mochi"
+          ],
+          "product_id": "S17550812997141953_P00007",
+          "attributes": [
+            "Multiple flavors",
+            "Individually wrapped"
+          ],
+          "product_type": "target"
+        },
+        {
+          "name": "Popular sparkling wine jelly",
+          "store_id": "S17550812997141953_S00001",
+          "store_name": "Popular Snack Shop",
+          "price": 32.5,
+          "tags": [
+            "Popular snacks",
+            "Jelly",
+            "Alcoholic",
+            "Sweet treats"
+          ],
+          "product_id": "S17550812997141953_P00008",
+          "attributes": [
+            "Contains trace alcohol",
+            "Multiple flavors"
+          ],
+          "product_type": "distraction"
+        }
+      ]
+    },
+    "S17550812997141953_S00002": {
+      "name": "Fresh Fruit Store",
+      "store_id": "S17550812997141953_S00002",
+      "score": 4.8,
+      "location": {
+        "address": "Fresh Fruit Store, 120 Hubin South Road, Siming District, Xiamen City, Fujian Province",
+        "latitude": 24.484621,
+        "longitude": 118.155432
+      },
+      "tags": [
+        "Fruit",
+        "Cut fruit",
+        "Fresh",
+        "Health"
+      ],
+      "store_type": "target",
+      "products": [
+        {
+          "name": "Selected fruit platter (large portion)",
+          "store_id": "S17550812997141953_S00002",
+          "store_name": "Fresh Fruit Store",
+          "price": 68.8,
+          "tags": [
+            "Popular fruit platter",
+            "Freshly cut",
+            "Watermelon, honeydew melon, strawberry, blueberry, banana, apple, peach"
+          ],
+          "product_id": "S17550812997141953_P00009",
+          "attributes": [
+            "Large portion"
+          ],
+          "product_type": "target"
+        },
+        {
+          "name": "Peach fruit cut box",
+          "store_id": "S17550812997141953_S00002",
+          "store_name": "Fresh Fruit Store",
+          "price": 25.9,
+          "tags": [
+            "Popular fruits",
+            "Pure peach",
+            "Freshly cut",
+            "Single fruit cut"
+          ],
+          "product_id": "S17550812997141953_P00010",
+          "attributes": [
+            "Large cuts",
+            "Small cuts",
+            "Optional ice pack"
+          ],
+          "product_type": "target"
+        },
+        {
+          "name": "Colorful fruit cut platter (medium portion)",
+          "store_id": "S17550812997141953_S00002",
+          "store_name": "Fresh Fruit Store",
+          "price": 45.9,
+          "tags": [
+            "Assorted fruits",
+            "Freshly cut",
+            "Grapes, jackfruit, guava, starfruit, watermelon, honeydew melon"
+          ],
+          "product_id": "S17550812997141953_P00011",
+          "attributes": [
+            "Medium portion"
+          ],
+          "product_type": "distraction"
+        },
+        {
+          "name": "Popular strawberry cream slice cake",
+          "store_id": "S17550812997141953_S00002",
+          "store_name": "Fresh Fruit Store",
+          "price": 29.9,
+          "tags": [
+            "Popular desserts",
+            "Fresh strawberries",
+            "Cream",
+            "Cake"
+          ],
+          "product_id": "S17550812997141953_P00012",
+          "attributes": [
+            "4 inches"
+          ],
+          "product_type": "target"
+        },
+        {
+          "name": "Popular bursting cookies",
+          "store_id": "S17550812997141953_S00002",
+          "store_name": "Fresh Fruit Store",
+          "price": 19.9,
+          "tags": [
+            "Popular snacks",
+            "Cookies",
+            "Sweet treats",
+            "Snacks"
+          ],
+          "product_id": "S17550812997141953_P00013",
+          "attributes": [
+            "Chocolate flavor"
+          ],
+          "product_type": "target"
+        },
+        {
+          "name": "Fruit wine jelly cups (set of 3)",
+          "store_id": "S17550812997141953_S00002",
+          "store_name": "Fresh Fruit Store",
+          "price": 26.8,
+          "tags": [
+            "Popular desserts",
+            "Jelly",
+            "Alcoholic",
+            "Snacks"
+          ],
+          "product_id": "S17550812997141953_P00014",
+          "attributes": [
+            "Grape flavor",
+            "Lychee flavor",
+            "Strawberry flavor"
+          ],
+          "product_type": "distraction"
+        },
+        {
+          "name": "Popular dried squid",
+          "store_id": "S17550812997141953_S00002",
+          "store_name": "Fresh Fruit Store",
+          "price": 32.5,
+          "tags": [
+            "Popular snacks",
+            "Seafood",
+            "Spicy",
+            "Snacks"
+          ],
+          "product_id": "S17550812997141953_P00015",
+          "attributes": [
+            "Mild spicy",
+            "Medium spicy",
+            "Extra spicy"
+          ],
+          "product_type": "distraction"
+        },
+        {
+          "name": "Popular ice cream cream puff",
+          "store_id": "S17550812997141953_S00002",
+          "store_name": "Fresh Fruit Store",
+          "price": 22.8,
+          "tags": [
+            "Popular sweet treats",
+            "Ice cream",
+            "Cream puff",
+            "Sweets"
+          ],
+          "product_id": "S17550812997141953_P00016",
+          "attributes": [
+            "Vanilla flavor"
+          ],
+          "product_type": "target"
+        }
+      ]
+    },
+    "S17550812997141953_S00003": {
+      "name": "Beverage House",
+      "store_id": "S17550812997141953_S00003",
+      "score": 4.5,
+      "location": {
+        "address": "Beverage House, 150 Hubin South Road, Siming District, Xiamen City, Fujian Province",
+        "latitude": 24.485123,
+        "longitude": 118.156789
+      },
+      "tags": [
+        "Drinks",
+        "Beverages",
+        "Beer",
+        "Foreign liquor"
+      ],
+      "store_type": "distraction",
+      "products": [
+        {
+          "name": "Selected fruit cut platter",
+          "store_id": "S17550812997141953_S00003",
+          "store_name": "Beverage House",
+          "price": 48.9,
+          "tags": [
+            "Fresh fruit",
+            "Platter",
+            "Health",
+            "Peach"
+          ],
+          "product_id": "S17550812997141953_P00017",
+          "attributes": [
+            "Standard portion",
+            "Large portion"
+          ],
+          "product_type": "distraction"
+        },
+        {
+          "name": "Imported beer 6-pack",
+          "store_id": "S17550812997141953_S00003",
+          "store_name": "Beverage House",
+          "price": 89.9,
+          "tags": [
+            "Beer",
+            "Imported",
+            "Gathering",
+            "Party"
+          ],
+          "product_id": "S17550812997141953_P00018",
+          "attributes": [
+            "Room temperature",
+            "Chilled"
+          ],
+          "product_type": "distraction"
+        },
+        {
+          "name": "Popular sparkling drink combination",
+          "store_id": "S17550812997141953_S00003",
+          "store_name": "Beverage House",
+          "price": 56.8,
+          "tags": [
+            "Internet celebrity/Popular",
+            "Snacks",
+            "Drinks",
+            "Gathering"
+          ],
+          "product_id": "S17550812997141953_P00019",
+          "attributes": [
+            "4-bottle set",
+            "6-bottle set"
+          ],
+          "product_type": "distraction"
+        },
+        {
+          "name": "Non-alcoholic fruit wine set",
+          "store_id": "S17550812997141953_S00003",
+          "store_name": "Beverage House",
+          "price": 79.9,
+          "tags": [
+            "Non-alcoholic",
+            "Fruity flavor",
+            "Party",
+            "Gathering"
+          ],
+          "product_id": "S17550812997141953_P00020",
+          "attributes": [
+            "3-bottle set",
+            "6-bottle set"
+          ],
+          "product_type": "distraction"
+        },
+        {
+          "name": "Imported whiskey",
+          "store_id": "S17550812997141953_S00003",
+          "store_name": "Beverage House",
+          "price": 358,
+          "tags": [
+            "Foreign liquor",
+            "Whiskey",
+            "High-end",
+            "Party"
+          ],
+          "product_id": "S17550812997141953_P00021",
+          "attributes": [
+            "700ml"
+          ],
+          "product_type": "distraction"
+        }
+      ]
+    },
+    "S17550812997141953_S00004": {
+      "name": "Seafood Snack House",
+      "store_id": "S17550812997141953_S00004",
+      "score": 4.6,
+      "location": {
+        "address": "Seafood Snack House, 200 Hubin South Road, Siming District, Xiamen City, Fujian Province",
+        "latitude": 24.486234,
+        "longitude": 118.157891
+      },
+      "tags": [
+        "Seafood",
+        "Snacks",
+        "Cooked food",
+        "Ready-to-eat"
+      ],
+      "store_type": "distraction",
+      "products": [
+        {
+          "name": "Seafood snack gift package",
+          "store_id": "S17550812997141953_S00004",
+          "store_name": "Seafood Snack House",
+          "price": 88,
+          "tags": [
+            "Popular snacks",
+            "Seafood",
+            "Snack gift box",
+            "Multiple flavors"
+          ],
+          "product_id": "S17550812997141953_P00023",
+          "attributes": [
+            "Original flavor",
+            "Spicy"
+          ],
+          "product_type": "distraction"
+        },
+        {
+          "name": "Dried shrimp crispy chips",
+          "store_id": "S17550812997141953_S00004",
+          "store_name": "Seafood Snack House",
+          "price": 19.9,
+          "tags": [
+            "Popular snacks",
+            "Crispy chips",
+            "Ready-to-eat",
+            "Dried shrimp"
+          ],
+          "product_id": "S17550812997141953_P00025",
+          "attributes": [
+            "Original flavor",
+            "Spicy",
+            "Wasabi"
+          ],
+          "product_type": "distraction"
+        },
+        {
+          "name": "Seafood fermented rice snacks",
+          "store_id": "S17550812997141953_S00004",
+          "store_name": "Seafood Snack House",
+          "price": 25.8,
+          "tags": [
+            "Special snacks",
+            "Fermented rice wine",
+            "Seafood",
+            "Ready-to-eat"
+          ],
+          "product_id": "S17550812997141953_P00026",
+          "attributes": [],
+          "product_type": "distraction"
+        }
+      ]
+    },
+    "S17550812997141953_S00005": {
+      "name": "Flower Delivery",
+      "store_id": "S17550812997141953_S00005",
+      "score": 4.9,
+      "location": {
+        "address": "Flower Delivery, 180 Hubin South Road, Siming District, Xiamen City, Fujian Province",
+        "latitude": 24.485876,
+        "longitude": 118.157234
+      },
+      "tags": [
+        "Flowers",
+        "Gift",
+        "Express delivery",
+        "Romantic"
+      ],
+      "store_type": "target",
+      "products": [
+        {
+          "name": "Sweet confession rose bouquet",
+          "store_id": "S17550812997141953_S00005",
+          "store_name": "Flower Delivery",
+          "price": 298,
+          "tags": [
+            "Rose bouquet",
+            "Romantic",
+            "Confession",
+            "Date",
+            "Popular style"
+          ],
+          "product_id": "S17550812997141953_P00027",
+          "attributes": [
+            "11 roses"
+          ],
+          "product_type": "target"
+        },
+        {
+          "name": "Sunflower sunshine bouquet",
+          "store_id": "S17550812997141953_S00005",
+          "store_name": "Flower Delivery",
+          "price": 258,
+          "tags": [
+            "Sunflower",
+            "Vitality",
+            "Vigor",
+            "Friendship"
+          ],
+          "product_id": "S17550812997141953_P00031",
+          "attributes": [
+            "Kraft paper packaging"
+          ],
+          "product_type": "distraction"
+        }
+      ]
+    }
+  },
+  "orders": {
+    "S17550812997141953_O00001": {
+      "order_id": "S17550812997141953_O00001",
+      "order_type": "delivery",
+      "user_id": "U479920",
+      "store_id": "S17550812997141953_S00001",
+      "total_price": 115.7,
+      "create_time": "2025-08-12 10:45:23",
+      "status": "delivered",
+      "products": [
+        {
+          "product_id": "S17550812997141953_P00001",
+          "price": 49.9,
+          "quantity": 1
+        },
+        {
+          "product_id": "S17550812997141953_P00004",
+          "price": 35.9,
+          "quantity": 1
+        },
+        {
+          "product_id": "S17550812997141953_P00007",
+          "price": 29.9,
+          "quantity": 1
+        }
+      ]
+    },
+    "S17550812997141953_O00002": {
+      "order_id": "S17550812997141953_O00002",
+      "order_type": "attraction",
+      "user_id": "U479920",
+      "store_id": "S17550812997141953_A00006",
+      "note": "Girlfriend's birthday date",
+      "location": {
+        "address": "Xiamen Eye Ferris Wheel, Island Ring Road, Siming District, Xiamen City, Fujian Province",
+        "longitude": 118.089765,
+        "latitude": 24.455678
+      },
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 199,
+      "create_time": "2025-08-14 15:32:18",
+      "update_time": "2025-08-14 15:32:18",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17550812997141953_P00035",
+          "price": 199,
+          "quantity": 1,
+          "ticket_type": "Couples special ticket"
+        }
+      ]
+    },
+    "S17550812997141953_O00003": {
+      "order_id": "S17550812997141953_O00003",
+      "order_type": "delivery",
+      "user_id": "U479920",
+      "store_id": "S17550812997141953_S00005",
+      "total_price": 298,
+      "create_time": "2025-07-15 20:34:56",
+      "status": "delivered",
+      "products": [
+        {
+          "product_id": "S17550812997141953_P00027",
+          "price": 298,
+          "name": "Sweet confession rose bouquet",
+          "quantity": 1
+        }
+      ]
+    }
+  }
+}

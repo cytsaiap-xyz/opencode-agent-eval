@@ -1,0 +1,89 @@
+{
+  "required_orders": [
+    {
+      "reservation_id": "10811006T001",
+      "shop_id": "S17550802215964928_I00011",
+      "reservation_time": "2025-11-02 15:00:00",
+      "update_time": "2025-11-02 10:33:00",
+      "customer_id": "U451179",
+      "customer_count": 2,
+      "status": "paid"
+    },
+    {
+      "order_id": "10811006T002",
+      "order_type": "delivery",
+      "user_id": "U451179",
+      "store_id": "S17550802215964928_S00001",
+      "note": "",
+      "location": {
+        "address": "Retro Time Game Arcade, 168 East Renmin Road, Wucheng District, Jinhua, Zhejiang Province",
+        "longitude": 119.6522,
+        "latitude": 29.0764
+      },
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 38,
+      "create_time": "2025-11-02 10:35:00",
+      "update_time": "2025-11-02 10:42:00",
+      "status": "cancelled",
+      "products": [
+        {
+          "product_id": "S17550802215964928_P00002",
+          "price": 19,
+          "quantity": 2,
+          "name": "Bitter Gourd Lemon Tea",
+          "attributes": ""
+        }
+      ]
+    },
+    {
+      "order_id": "10811006T003",
+      "order_type": "delivery",
+      "user_id": "U451179",
+      "store_id": "S17550802215964928_S00001",
+      "note": "",
+      "location": {
+        "address": "Retro Time Game Arcade, 168 East Renmin Road, Wucheng District, Jinhua, Zhejiang Province",
+        "longitude": 119.6522,
+        "latitude": 29.0764
+      },
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 37,
+      "create_time": "2025-11-02 10:43:00",
+      "update_time": "2025-11-02 10:43:00",
+      "status": "processed",
+      "products": [
+        {
+          "product_id": "S17550802215964928_P00001",
+          "price": 18,
+          "quantity": 1,
+          "name": "Mint Lemon Tea",
+          "attributes": ""
+        },
+        {
+          "product_id": "S17550802215964928_P00002",
+          "price": 19,
+          "quantity": 1,
+          "name": "Bitter Gourd Lemon Tea",
+          "attributes": ""
+        }
+      ]
+    }
+  ],
+  "rubrics": [
+    "Game arcades should provide claw machines and arcade games",
+    "Game arcade reservation time is November 2, 2025 at 3:00 PM",
+    "Game arcade reservation is for 2 people",
+    "The delivery address for the cancelled bitter gourd beverage order is Retro Time Game Arcade, 168 East Renmin Road, Wucheng District, Jinhua, Zhejiang Province",
+    "The order containing two cups of Bitter Gourd Lemon Tea has been cancelled",
+    "The friend is taking train G1572",
+    "The merchant for the Mint Lemon Tea and Bitter Gourd Lemon Tea order is A Little Tea",
+    "The Mint Lemon Tea and Bitter Gourd Lemon Tea order contains two beverages, one Mint Lemon Tea and one Bitter Gourd Lemon Tea",
+    "The delivery address for the Mint Lemon Tea and Bitter Gourd Lemon Tea order is Retro Time Game Arcade, 168 East Renmin Road, Wucheng District, Jinhua, Zhejiang Province",
+    "The estimated delivery time for the Mint Lemon Tea and Bitter Gourd Lemon Tea order should be slightly after 3:00 PM on November 2, 2025",
+    "The Dragon Boat Festival in 2023 is on June 22, 2023"
+  ]
+}

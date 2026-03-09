@@ -1,0 +1,65 @@
+{
+  "required_orders": [
+    {
+      "order_id": "D0807009T001",
+      "order_type": "attraction",
+      "user_id": "U010050",
+      "store_id": "S17557515995167456_A00005",
+      "note": "",
+      "location": null,
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 245,
+      "create_time": "2026-07-27 18:58:11",
+      "update_time": "2026-07-27 18:58:11",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17557515995167456_P00031",
+          "price": 245,
+          "quantity": 1,
+          "date": "2026-07-29",
+          "ticket_type": "adult ticket"
+        }
+      ]
+    },
+    {
+      "order_id": "D0807009T002",
+      "order_type": "hotel",
+      "user_id": "U010050",
+      "store_id": "S17557515995167456_H00002",
+      "note": "",
+      "location": null,
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 780,
+      "create_time": "2026-07-27 18:59:11",
+      "update_time": "2026-07-27 18:59:11",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17557515995167456_P00009",
+          "price": 780,
+          "quantity": 1,
+          "date": "2025-12-11",
+          "room_type": "Deluxe King Room"
+        }
+      ]
+    }
+  ],
+  "rubrics": [
+    "Need to check the opening hours of Mount Tai Scenic Area, the result shows that it supports night climbing (open 24 hours a day)",
+    "Need to check the weather in Mount Tai from July 27 to July 31, the result is as follows: July 27, Tai'an cloudy, 26-36°C; July 28, Tai'an cloudy, 28-33°C; July 29, Tai'an sunny, 22-31°C; July 30, Tai'an cloudy, 24-33°C; July 31, Tai'an light rain, 21-28°C",
+    "Need to filter non-rainy dates for Mount Tai, calculate the average temperature for each day, and select the date with the lowest average temperature, the result is July 29, thus the scenic spot ticket date should be July 29, 2026",
+    "Scenic spot tickets must include cable car packages",
+    "The ticket order must be for Mount Tai Scenic Area",
+    "The hotel must be located within 500m of No. 126 Hongmen Road, Taishan District, Tai'an City, Shandong Province (at the foot of Mount Tai)",
+    "The unit price of items in the hotel order should be between 500-1000 yuan",
+    "The hotel must have a jacuzzi",
+    "The hotel order must be for a king room",
+    "The check-in date for the hotel order must be July 29, 2026",
+    "Must filter trains from Shenzhen to Tai'an, check the train with the longest travel time, the result is K1234, with a duration of 18 hours and 15 minutes"
+  ]
+}

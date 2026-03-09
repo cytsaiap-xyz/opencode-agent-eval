@@ -1,0 +1,126 @@
+{
+  "required_orders": [
+    {
+      "order_id": "70807007T001",
+      "order_type": "train",
+      "user_id": "U010088",
+      "store_id": "S17557506430524719_T00012",
+      "note": "",
+      "location": null,
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 336,
+      "create_time": "2025-04-06 10:37:43",
+      "update_time": "2025-04-06 10:37:43",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17557506430524719_P00090",
+          "price": 168,
+          "quantity": 2,
+          "date": "2025-04-12",
+          "seat_type": "Second Class Seat"
+        }
+      ]
+    },
+    {
+      "order_id": "70807007T002",
+      "order_type": "train",
+      "user_id": "U010088",
+      "store_id": "S17557506430524719_T00014",
+      "note": "",
+      "location": null,
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 350,
+      "create_time": "2025-04-06 10:39:43",
+      "update_time": "2025-04-06 10:39:43",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17557506430524719_P00102",
+          "price": 175,
+          "quantity": 2,
+          "date": "2025-04-13",
+          "seat_type": "Second Class Seat"
+        }
+      ]
+    },
+    {
+      "order_id": "70807007T003",
+      "order_type": "hotel",
+      "user_id": "U010088",
+      "store_id": "S17557506430524719_H00001",
+      "note": "",
+      "location": null,
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 768,
+      "create_time": "2025-04-06 10:41:43",
+      "update_time": "2025-04-06 10:41:43",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17557506430524719_P00003",
+          "price": 768,
+          "quantity": 1,
+          "date": "2025-04-12",
+          "room_type": "Yanyu Twin Room"
+        }
+      ]
+    },
+    {
+      "order_id": "70807007T004",
+      "order_type": "attraction",
+      "user_id": "U010088",
+      "store_id": "S17557506430524719_A00005",
+      "note": "",
+      "location": null,
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 300,
+      "create_time": "2025-04-06 10:44:43",
+      "update_time": "2025-04-06 10:44:43",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17557506430524719_P00036",
+          "price": 180,
+          "quantity": 1,
+          "date": "2025-04-13",
+          "ticket_type": "Adult Ticket + Tea-Making Experience Package"
+        },
+        {
+          "product_id": "S17557506430524719_P00037",
+          "price": 120,
+          "quantity": 1,
+          "date": "2025-04-13",
+          "ticket_type": "Child Ticket (12 Years and Under) + Tea-Making Experience Package"
+        }
+      ]
+    }
+  ],
+  "rubrics": [
+    "The departure date should be April 12, 2025",
+    "The departure train should not be scheduled too early in the day",
+    "The departure train ticket should be from Nanchang to Wuyi Mountain",
+    "The number of departure train tickets should be 2",
+    "The return date should be April 13, 2025",
+    "The return train should not be scheduled to arrive too late",
+    "The return train should be from Wuyi Mountain to Nanchang",
+    "The number of return train tickets should be 2",
+    "The booked hotel should feature local tea culture",
+    "The hotel price should be between 500-1000 yuan",
+    "The hotel room type should be a twin room",
+    "The hotel should provide Robot Food Delivery service",
+    "The hotel reservation should include a room for April 12, 2025",
+    "The attraction to be booked should be the Wuyi Mountain Ecological Tea Garden",
+    "The attraction tickets should include tea-making experience",
+    "The number of attraction tickets should be 2",
+    "The date of use for the attraction tickets should be April 13, 2025"
+  ]
+}

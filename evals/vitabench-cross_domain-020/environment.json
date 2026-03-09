@@ -1,0 +1,1167 @@
+{
+  "task_id": "A0812004",
+  "domain": "cross_domain",
+  "time": "2026-09-07 17:25:00",
+  "user_id": "U575267",
+  "weather": [
+    {
+      "city": "Chongqing",
+      "category": "cloudy",
+      "datetime": "2026-09-07",
+      "temperature": [
+        26,
+        34
+      ],
+      "humidity": 75
+    },
+    {
+      "city": "Zunyi",
+      "category": "showers",
+      "datetime": "2026-09-08",
+      "temperature": [
+        23,
+        31
+      ],
+      "humidity": 82
+    },
+    {
+      "city": "Zunyi",
+      "category": "cloudy",
+      "datetime": "2026-09-09",
+      "temperature": [
+        24,
+        32
+      ],
+      "humidity": 78
+    }
+  ],
+  "location": [
+    {
+      "address": "Room 2503, 25th Floor, Times Avenue, No. 88 Jiefangbei Pedestrian Street, Yuzhong District, Chongqing",
+      "longitude": 106.5821,
+      "latitude": 29.5569
+    }
+  ],
+  "user_profile": {
+    "user id": "U575267",
+    "occupation": "Freelancer",
+    "gender": "male",
+    "age group": "30~35",
+    "residence": "Chongqing",
+    "home address": "Room 2503, 25th Floor, Times Avenue, No. 88 Jiefangbei Pedestrian Street, Yuzhong District, Chongqing",
+    "work address": "Room 1208, 12th Floor, Lifan Center, No. 25 Jiangbei West Street, Guanyinqiao Pedestrian Street, Jiangbei District, Chongqing",
+    "dietary restrictions": "No alcohol, No high-fat Offal",
+    "family status": "In a relationship",
+    "personality": "Strong logical thinking, likes to analyze and question things, pursues accuracy"
+  },
+  "user_historical_behaviors": {
+    "user id": "U575267",
+    "occupation": "Freelancer",
+    "gender": "male",
+    "age group": "30~35",
+    "residence": "Chongqing",
+    "home address": "Room 2503, 25th Floor, Times Avenue, No. 88 Jiefangbei Pedestrian Street, Yuzhong District, Chongqing",
+    "work address": "Room 1208, 12th Floor, Lifan Center, No. 25 Jiangbei West Street, Guanyinqiao Pedestrian Street, Jiangbei District, Chongqing",
+    "delivery": {
+      "food delivery": {
+        "breakfast": {
+          "frequently purchased categories": [
+            "Fast Food/Buns/Pan-fried Buns (Average ¥18)",
+            "Fast Food/Dumplings/Wonton (Average ¥22)",
+            "Fast Food/Chinese Noodles (Average ¥25)"
+          ],
+          "cost per order": "¥15~35",
+          "preferred store rating": "4.2~4.7 stars",
+          "preferred delivery time": "15~30 minutes",
+          "preferred distance": "0~2500m",
+          "recent orders": [
+            {
+              "store": "Yang Mingyu Braised Chicken Rice",
+              "product": "Braised Chicken Rice + Braised Egg"
+            },
+            {
+              "store": "Tianjin Goubuli Buns",
+              "product": "Meat Buns + Soy Milk"
+            },
+            {
+              "store": "Lanzhou Noodles",
+              "product": "Beef Noodles"
+            }
+          ],
+          "search history": [
+            "Buns",
+            "Soy Milk",
+            "Noodles",
+            "Wonton",
+            "Breakfast Set"
+          ]
+        },
+        "weekday lunch/dinner": {
+          "frequently purchased categories": [
+            "Fast Food/Braised Chicken Rice (Average ¥32)",
+            "Fast Food/Rice Noodles (Average ¥28)",
+            "Chinese Cuisine/Hunan Cuisine (Average ¥45)"
+          ],
+          "cost per order": "¥25~60",
+          "preferred store rating": "4.3~4.8 stars",
+          "preferred delivery time": "20~35 minutes",
+          "preferred distance": "0~3000m",
+          "recent orders": [
+            {
+              "store": "Xiangxi Local Cuisine",
+              "product": "Chopped Chili Fish Head + Rice"
+            },
+            {
+              "store": "Yang Mingyu Braised Chicken",
+              "product": "Large Braised Chicken Rice + Coke"
+            },
+            {
+              "store": "Crossing Bridge Rice Noodles",
+              "product": "Signature Beef Rice Noodles + Braised Egg"
+            }
+          ],
+          "search history": [
+            "Hunan Cuisine",
+            "Braised Chicken",
+            "Rice Noodles",
+            "Fast Food",
+            "Working Meal"
+          ]
+        },
+        "weekend lunch/dinner": {
+          "frequently purchased categories": [
+            "Chinese Cuisine/Hunan Cuisine (Average ¥78)",
+            "Hot Pot/Individual Hot Pot (Average ¥65)",
+            "Foreign Cuisine/Stone Pot Rice/Teppanyaki (Average ¥58)"
+          ],
+          "cost per order": "¥50~120",
+          "preferred store rating": "4.5~4.9 stars",
+          "preferred delivery time": "25~45 minutes",
+          "preferred distance": "0~5000m",
+          "recent orders": [
+            {
+              "store": "Xiangwei Pavilion",
+              "product": "Chopped Chili Fish Head + Steamed Cured Meat + Stir-fried Beef + 2 portions of Rice"
+            },
+            {
+              "store": "Xiabu Xiabu",
+              "product": "Tomato Beef Pot + Sukiyaki Pot + Condiment Platter"
+            },
+            {
+              "store": "Korean Cuisine",
+              "product": "Stone Pot Bibimbap + Kimchi Soup + Kimbap"
+            }
+          ],
+          "search history": [
+            "Hunan Cuisine",
+            "Hot Pot",
+            "Korean Cuisine",
+            "Stone Pot Bibimbap",
+            "Specialty Dishes"
+          ]
+        },
+        "desserts/drinks/snacks": {
+          "frequently purchased categories": [
+            "Beverages & Desserts/Pure Tea/Herbal Tea (Average ¥18)",
+            "Beverages & Desserts/Cold Desserts (Average ¥22)",
+            "Beverages & Desserts/Chinese Pastries (Average ¥25)"
+          ],
+          "cost per order": "¥15~40",
+          "preferred store rating": "4.4~4.9 stars",
+          "preferred delivery time": "15~30 minutes",
+          "preferred distance": "0~3000m",
+          "recent orders": [
+            {
+              "store": "CHABAIDAO",
+              "product": "Watermelon Bubble Tea"
+            },
+            {
+              "store": "Meet Fresh",
+              "product": "Taro Ball Ice Cream"
+            },
+            {
+              "store": "Daoxiangcun",
+              "product": "Mung Bean Cake + Osmanthus Cake"
+            }
+          ],
+          "search history": [
+            "Juice",
+            "Sugar-free Drinks",
+            "Ice Cream",
+            "Mung Bean Cake",
+            "Traditional Pastries"
+          ]
+        },
+        "night snack": {
+          "frequently purchased categories": [
+            "Fast Food/Rice Noodles (Average ¥32)",
+            "Fast Food/Claypot Dishes (Average ¥38)",
+            "Snacks & Marinated Foods/Marinated Foods (Average ¥42)"
+          ],
+          "cost per order": "¥25~55",
+          "preferred store rating": "4.2~4.7 stars",
+          "preferred delivery time": "20~40 minutes",
+          "preferred distance": "0~3500m",
+          "recent orders": [
+            {
+              "store": "Changsha Rice Noodles",
+              "product": "Beef Rice Noodles + Braised Egg"
+            },
+            {
+              "store": "Claypot Porridge",
+              "product": "Century Egg & Lean Pork Porridge + Fried Dough Sticks"
+            },
+            {
+              "store": "Master Zhou's Marinated Foods",
+              "product": "Marinated Platter (Duck Neck + Duck Wings + Duck Feet)"
+            }
+          ],
+          "search history": [
+            "Rice Noodles",
+            "Claypot Porridge",
+            "Marinated Foods",
+            "Night Snack Set",
+            "Non-spicy Night Snacks"
+          ]
+        }
+      },
+      "product delivery": {
+        "frequently purchased categories": [
+          "Vegetables/Bean Products(28%)",
+          "Raw Meat/Poultry/Eggs(22%)",
+          "Household Items(18%)",
+          "Grains/Oil/Seasonings/Dried Goods(15%)",
+          "Beverages/Nutritional Drinks(12%)",
+          "Others(5%)"
+        ],
+        "frequently visited stores": [
+          "Yonghui Supermarket(35%)",
+          "Dmall Supermarket(30%)",
+          "Seven Fresh Supermarket(25%)",
+          "Other Stores(10%)"
+        ],
+        "cost per order by category": {
+          "Vegetables/Bean Products": "¥5~25",
+          "Raw Meat/Poultry/Eggs": "¥20~60",
+          "Household Items": "¥15~50",
+          "Grains/Oil/Seasonings/Dried Goods": "¥10~40",
+          "Beverages/Nutritional Drinks": "¥10~30"
+        },
+        "preferred delivery time": "30~60 minutes",
+        "typical order time": "18~20h(42%)，10~12h(35%)，20~22h(23%)",
+        "recent orders": [
+          {
+            "store": "Yonghui Supermarket",
+            "product": "A bundle of greens + 2 boxes of tofu + 500g lean pork"
+          },
+          {
+            "store": "Dmall Supermarket",
+            "product": "5kg rice + 1.8L cooking oil + one carton of eggs"
+          },
+          {
+            "store": "Seven Fresh Supermarket",
+            "product": "Tea leaves + tissue paper + hand soap"
+          }
+        ],
+        "search history": [
+          "Tofu",
+          "Low-fat meat",
+          "Rice",
+          "Chinese cabbage",
+          "Hand soap",
+          "Tea leaves"
+        ]
+      }
+    },
+    "in-store consumption": {
+      "in-store dining": {
+        "fine-dining": {
+          "frequently purchased categories": [
+            "Regional Cuisine/Sichuan Cuisine (Average ¥120)",
+            "Hot Pot (Average ¥150)",
+            "Foreign Cuisine/Japanese Cuisine (Average ¥180)"
+          ],
+          "preferred average price per person": "¥100~180",
+          "preferred store rating": "4.3~4.9 stars",
+          "typical dining time": "19:00-21:00",
+          "preferred distance": "500~3000m",
+          "recent orders": [
+            {
+              "store": "Hongyadong Old Hot Pot (Jiefangbei Branch)",
+              "product": "Beef Tallow Dual Flavor Hot Pot Set"
+            },
+            {
+              "store": "Jianghu Cuisine (Times Avenue Branch)",
+              "product": "Jianghu Style Mao Xue Wang + Dry Pot Bullfrog"
+            },
+            {
+              "store": "Heilu Conveyor Belt Sushi (Guanyinqiao Branch)",
+              "product": "Deluxe Set for Two"
+            }
+          ],
+          "search history": [
+            "Top-rated restaurants in Chongqing",
+            "Japanese cuisine",
+            "Creative Sichuan cuisine",
+            "Date restaurants"
+          ]
+        },
+        "light meal": {
+          "frequently purchased categories": [
+            "Snacks & Fast Food/Chinese Quick Meals (Average ¥35)",
+            "Snacks & Fast Food/Western Fast Food (Average ¥40)",
+            "Regional Cuisine/Sichuan Cuisine (Average ¥45)"
+          ],
+          "preferred average price per person": "¥30~50",
+          "preferred store rating": "3.5~4.3 stars",
+          "typical dining time": "12:00-13:30",
+          "preferred distance": "0~800m",
+          "recent orders": [
+            {
+              "store": "Southern Rice Noodles (Jiangbei West Branch)",
+              "product": "Signature Beef Rice Noodles + Braised Egg"
+            },
+            {
+              "store": "Hi Chijia Spicy Noodles (Guanyinqiao Branch)",
+              "product": "Signature Spicy Noodles + Braised Meat Rice"
+            },
+            {
+              "store": "Xibei Oat Noodle Village (Times Avenue Branch)",
+              "product": "Stir-fried Beef Oat Noodles"
+            }
+          ],
+          "search history": [
+            "Nearby fast food",
+            "Value-for-money lunch",
+            "Spicy vermicelli",
+            "Light Food"
+          ]
+        },
+        "desserts/drinks/snacks": {
+          "frequently purchased categories": [
+            "Beverage Shops (Average ¥20)",
+            "Bread & Desserts (Average ¥30)",
+            "Other Dining/Fresh Fruits (Average ¥25)"
+          ],
+          "preferred average price per person": "¥15~35",
+          "preferred store rating": "4.0~4.8 stars",
+          "typical dining time": "15:00-17:00",
+          "preferred distance": "0~600m",
+          "recent orders": [
+            {
+              "store": "HEYTEA (Jiefangbei Branch)",
+              "product": "Mango Pomelo + Cheese Foam Cap"
+            },
+            {
+              "store": "85°C (Jiangbei City Branch)",
+              "product": "Mango Mousse Cake + Coffee"
+            },
+            {
+              "store": "Xianfeng Fruits (Lifan Center Branch)",
+              "product": "Freshly Cut Fruit Platter"
+            }
+          ],
+          "search history": [
+            "Sugar-free drinks",
+            "Low-fat desserts",
+            "Healthy fruit tea",
+            "Freshly cut fruits"
+          ]
+        }
+      },
+      "other in-store services": {
+        "frequently consumed categories": {
+          "Sports & Fitness/Fitness Centers": "35%",
+          "Sports & Fitness/Ball Sports": "30%",
+          "Leisure & Entertainment/Massage/Foot Therapy": "20%",
+          "Leisure & Entertainment/Murder Mystery Games": "15%"
+        },
+        "cost per order by category": {
+          "Sports & Fitness/Fitness Centers": "¥80~200",
+          "Sports & Fitness/Ball Sports": "¥50~120",
+          "Leisure & Entertainment/Massage/Foot Therapy": "¥120~250",
+          "Leisure & Entertainment/Murder Mystery Games": "¥70~150"
+        },
+        "preferred store rating": "4.0~4.8 stars",
+        "preferred service time": "18:00-21:00",
+        "preferred distance": "0~3000m",
+        "recent orders": [
+          {
+            "store": "Super Gorilla Fitness (Times Avenue Branch)",
+            "product": "Personal Training Session for One"
+          },
+          {
+            "store": "Starlight Badminton Court (Jiangbei Branch)",
+            "product": "2-hour Court for Two"
+          },
+          {
+            "store": "Taihe Foot Massage (Jiefangbei Branch)",
+            "product": "Full Body Massage + Foot Therapy Package"
+          }
+        ],
+        "search history": [
+          "Gym monthly pass",
+          "Badminton court",
+          "Deep massage",
+          "Couple murder mystery games",
+          "Weekend activities"
+        ]
+      }
+    },
+    "OTA": {
+      "visited scenes": {
+        "Natural Landscapes (Mountains/Lakes/Forests)": "35%",
+        "Theme Parks": "25%",
+        "Hot Spring Resorts": "20%",
+        "Cultural Heritage Sites": "15%",
+        "Featured Villages/Industrial Tourism/Uncategorized": "5%"
+      },
+      "cost per night on hotel": "¥500~1000",
+      "visited hotels": {
+        "Atour": "30%",
+        "JI Hotel": "25%",
+        "Vienna": "20%",
+        "Orange": "15%",
+        "Huazhu": "10%"
+      },
+      "browsed hotels": {
+        "Four-star Hotels": "45%",
+        "Comfort Hotels": "35%",
+        "Three-star Hotels": "15%",
+        "Luxury Hotels": "5%"
+      },
+      "historical travel plans": {
+        "Chongqing-Chengdu": {
+          "Price Range": "¥200-350",
+          "Transportation": "High-speed Train"
+        },
+        "Chongqing-Sanya": {
+          "Price Range": "¥800-1500",
+          "Transportation": "Flight"
+        },
+        "Chongqing-Zhangjiajie": {
+          "Price Range": "¥400-600",
+          "Transportation": "Long-distance Bus"
+        },
+        "Chongqing-Guiyang": {
+          "Price Range": "¥150-300",
+          "Transportation": "High-speed Train"
+        },
+        "Chongqing-Xi'an": {
+          "Price Range": "¥350-500",
+          "Transportation": "High-speed Train"
+        },
+        "Chongqing-Lijiang": {
+          "Price Range": "¥700-1200",
+          "Transportation": "Flight"
+        },
+        "Chongqing Surroundings": {
+          "Price Range": "¥100-300",
+          "Transportation": "Self-driving"
+        }
+      }
+    }
+  },
+  "stores": {
+    "S17550802126117462_S00001": {
+      "name": "Light Meal Workshop (Times Avenue Branch)",
+      "store_id": "S17550802126117462_S00001",
+      "score": 4.8,
+      "location": {
+        "address": "Light Meal Workshop, 2nd Floor, Times Avenue A, No. 66 Jiefangbei Pedestrian Street, Yuzhong District, Chongqing",
+        "latitude": 29.5572,
+        "longitude": 106.5825
+      },
+      "tags": [
+        "Light Meal",
+        "Salad",
+        "Sandwich",
+        "Highly Satiating",
+        "Healthy Meal"
+      ],
+      "store_type": "target",
+      "products": [
+        {
+          "name": "Light Energy Set for Two",
+          "store_id": "S17550802126117462_S00001",
+          "store_name": "Light Meal Workshop (Times Avenue Branch)",
+          "price": 89.9,
+          "tags": [
+            "Highly Satiating",
+            "Light Meal",
+            "Healthy",
+            "Set Meal for Two",
+            "High Protein"
+          ],
+          "product_id": "S17550802126117462_P00001",
+          "attributes": [
+            "Standard",
+            "Extra Vegetables",
+            "Low Calorie Sauce"
+          ],
+          "product_type": "target"
+        },
+        {
+          "name": "Avocado and Chicken Breast Salad",
+          "store_id": "S17550802126117462_S00001",
+          "store_name": "Light Meal Workshop (Times Avenue Branch)",
+          "price": 42.8,
+          "tags": [
+            "Highly Satiating",
+            "High Protein",
+            "Healthy",
+            "Salad"
+          ],
+          "product_id": "S17550802126117462_P00002",
+          "attributes": [
+            "Salad Dressing",
+            "Japanese Vinaigrette",
+            "Thai Sweet Chili Sauce",
+            "Mayonnaise",
+            "Caesar Dressing"
+          ],
+          "product_type": "target"
+        },
+        {
+          "name": "Quinoa Chicken Light Meal Bowl",
+          "store_id": "S17550802126117462_S00001",
+          "store_name": "Light Meal Workshop (Times Avenue Branch)",
+          "price": 46.8,
+          "tags": [
+            "Highly Satiating",
+            "High Fiber",
+            "Healthy",
+            "Light Meal"
+          ],
+          "product_id": "S17550802126117462_P00003",
+          "attributes": [
+            "Salad Dressing",
+            "Japanese Vinaigrette",
+            "Thai Sweet Chili Sauce",
+            "Mayonnaise",
+            "Caesar Dressing"
+          ],
+          "product_type": "target"
+        },
+        {
+          "name": "Sichuan Spicy Chicken Sandwich",
+          "store_id": "S17550802126117462_S00001",
+          "store_name": "Light Meal Workshop (Times Avenue Branch)",
+          "price": 32.8,
+          "tags": [
+            "Sandwich",
+            "Mildly Spicy",
+            "Chicken",
+            "Satiety"
+          ],
+          "product_id": "S17550802126117462_P00004",
+          "attributes": [
+            "Standard Spiciness",
+            "Mildly Spicy",
+            "Non-spicy"
+          ],
+          "product_type": "distraction"
+        }
+      ]
+    },
+    "S17550802126117462_S00002": {
+      "name": "Green Field Light Meals (Jiefangbei Branch)",
+      "store_id": "S17550802126117462_S00002",
+      "score": 4.7,
+      "location": {
+        "address": "Green Field Light Meals, No. 102 Bayi Food Street, Jiefangbei Pedestrian Street, Yuzhong District, Chongqing",
+        "latitude": 29.5564,
+        "longitude": 106.5815
+      },
+      "tags": [
+        "Light Meal",
+        "Salad",
+        "Low Fat",
+        "Dine-in Available"
+      ],
+      "store_type": "target",
+      "products": [
+        {
+          "name": "Light Energy Meal for Two",
+          "store_id": "S17550802126117462_S00002",
+          "store_name": "Green Field Light Meals (Jiefangbei Branch)",
+          "price": 98,
+          "tags": [
+            "Set Meal",
+            "For Two People",
+            "High Satiety",
+            "Low Fat",
+            "Non-spicy"
+          ],
+          "product_id": "S17550802126117462_P00006",
+          "attributes": [
+            "Salad Dressing",
+            "Vinaigrette",
+            "Thai Sweet Chili Sauce",
+            "Mayonnaise",
+            "Caesar Dressing"
+          ],
+          "product_type": "target"
+        },
+        {
+          "name": "Avocado and Salmon Salad",
+          "store_id": "S17550802126117462_S00002",
+          "store_name": "Green Field Light Meals (Jiefangbei Branch)",
+          "price": 46,
+          "tags": [
+            "Salad",
+            "High Protein",
+            "Healthy",
+            "Low Carbohydrate",
+            "Highly Satiating"
+          ],
+          "product_id": "S17550802126117462_P00008",
+          "attributes": [
+            "Salad Dressing",
+            "Japanese Vinaigrette",
+            "Thai Sweet Chili Sauce",
+            "Mayonnaise",
+            "Caesar Dressing"
+          ],
+          "product_type": "distraction"
+        },
+        {
+          "name": "Spicy Chicken Breast Light Meal Bowl",
+          "store_id": "S17550802126117462_S00002",
+          "store_name": "Green Field Light Meals (Jiefangbei Branch)",
+          "price": 39,
+          "tags": [
+            "Single Meal",
+            "High Protein",
+            "Filling",
+            "Low Fat",
+            "Mildly Spicy"
+          ],
+          "product_id": "S17550802126117462_P00009",
+          "attributes": [
+            "Spiciness: mild/medium/non-spicy",
+            "Rice portion: more/less/standard"
+          ],
+          "product_type": "distraction"
+        },
+        {
+          "name": "Red Wine Beef Salad",
+          "store_id": "S17550802126117462_S00002",
+          "store_name": "Green Field Light Meals (Jiefangbei Branch)",
+          "price": 49.9,
+          "tags": [
+            "Single Meal",
+            "High Satiety",
+            "Low Fat"
+          ],
+          "product_id": "S17550802126117462_P00010",
+          "attributes": [
+            "Salad Dressing",
+            "Japanese Vinaigrette",
+            "Thai Sweet Chili Sauce",
+            "Mayonnaise",
+            "Caesar Dressing"
+          ],
+          "product_type": "target"
+        }
+      ]
+    },
+    "S17550802126117462_S00003": {
+      "name": "Chuanxi Bazi (Times Avenue Branch)",
+      "store_id": "S17550802126117462_S00003",
+      "score": 4.6,
+      "location": {
+        "address": "Chuanxi Bazi, 3rd Floor, Times Avenue B, No. 90 Jiefangbei Pedestrian Street, Yuzhong District, Chongqing",
+        "latitude": 29.557,
+        "longitude": 106.5822
+      },
+      "tags": [
+        "Sichuan Cuisine",
+        "Spicy",
+        "Hot Pot",
+        "Crayfish"
+      ],
+      "store_type": "distraction",
+      "products": [
+        {
+          "name": "Mapo Tofu Set",
+          "store_id": "S17550802126117462_S00003",
+          "store_name": "Chuanxi Bazi (Times Avenue Branch)",
+          "price": 45,
+          "tags": [
+            "Sichuan Cuisine",
+            "Set Meal",
+            "Spicy",
+            "Classic Dish",
+            "Order History"
+          ],
+          "product_id": "S17550802126117462_P00011",
+          "attributes": [
+            "Extra spicy",
+            "Medium spicy",
+            "Mildly spicy"
+          ],
+          "product_type": "distraction"
+        },
+        {
+          "name": "Boiled Beef in Chili Oil",
+          "store_id": "S17550802126117462_S00003",
+          "store_name": "Chuanxi Bazi (Times Avenue Branch)",
+          "price": 58,
+          "tags": [
+            "Sichuan Cuisine",
+            "Beef",
+            "Popular",
+            "Spicy",
+            "Protein"
+          ],
+          "product_id": "S17550802126117462_P00012",
+          "attributes": [
+            "Extra spicy",
+            "Medium spicy"
+          ],
+          "product_type": "distraction"
+        },
+        {
+          "name": "Mao Xue Wang (Spicy Blood Curd Stew)",
+          "store_id": "S17550802126117462_S00003",
+          "store_name": "Chuanxi Bazi (Times Avenue Branch)",
+          "price": 52,
+          "tags": [
+            "Sichuan Cuisine",
+            "Spicy",
+            "Offal",
+            "Signature Dish"
+          ],
+          "product_id": "S17550802126117462_P00013",
+          "attributes": [
+            "Extra spicy",
+            "Medium spicy"
+          ],
+          "product_type": "distraction"
+        },
+        {
+          "name": "Kung Pao Chicken",
+          "store_id": "S17550802126117462_S00003",
+          "store_name": "Chuanxi Bazi (Times Avenue Branch)",
+          "price": 42,
+          "tags": [
+            "Sichuan Cuisine",
+            "Chicken",
+            "Classic Dish",
+            "Mildly Spicy"
+          ],
+          "product_id": "S17550802126117462_P00014",
+          "attributes": [
+            "Add peanuts",
+            "No peanuts"
+          ],
+          "product_type": "distraction"
+        },
+        {
+          "name": "Luzhou Laojiao Liquor",
+          "store_id": "S17550802126117462_S00003",
+          "store_name": "Chuanxi Bazi (Times Avenue Branch)",
+          "price": 28,
+          "tags": [
+            "Beverages",
+            "Baijiu (Chinese Liquor)",
+            "Sichuan Specialty"
+          ],
+          "product_id": "S17550802126117462_P00015",
+          "attributes": [],
+          "product_type": "distraction"
+        }
+      ]
+    },
+    "S17550802126117462_S00004": {
+      "name": "Fresh Vegetable Salad (Jiefangbei Branch)",
+      "store_id": "S17550802126117462_S00004",
+      "score": 4,
+      "location": {
+        "address": "Fresh Vegetable Salad, 1st Floor, Metropolitan Plaza, No. 76 Jiefangbei Pedestrian Street, Yuzhong District, Chongqing",
+        "latitude": 29.5561,
+        "longitude": 106.5819
+      },
+      "tags": [
+        "Light Meal",
+        "Salad",
+        "Low Calorie",
+        "Dine-in Available"
+      ],
+      "store_type": "distraction",
+      "products": [
+        {
+          "name": "Light Chicken Breast Salad",
+          "store_id": "S17550802126117462_S00004",
+          "store_name": "Fresh Vegetable Salad (Jiefangbei Branch)",
+          "price": 38,
+          "tags": [
+            "Light Meal",
+            "High Protein",
+            "Highly Satiating",
+            "Low Fat",
+            "Healthy"
+          ],
+          "product_id": "S17550802126117462_P00016",
+          "attributes": [
+            "No spice",
+            "Standard portion"
+          ],
+          "product_type": "distraction"
+        },
+        {
+          "name": "Avocado Quinoa Energy Bowl",
+          "store_id": "S17550802126117462_S00004",
+          "store_name": "Fresh Vegetable Salad (Jiefangbei Branch)",
+          "price": 42,
+          "tags": [
+            "Light Meal",
+            "Quinoa",
+            "Avocado",
+            "Highly Satiating",
+            "Low Calorie"
+          ],
+          "product_id": "S17550802126117462_P00017",
+          "attributes": [
+            "No spice",
+            "Standard portion",
+            "Add nuts"
+          ],
+          "product_type": "distraction"
+        },
+        {
+          "name": "Light Salmon Salad",
+          "store_id": "S17550802126117462_S00004",
+          "store_name": "Fresh Vegetable Salad (Jiefangbei Branch)",
+          "price": 48,
+          "tags": [
+            "Light Meal",
+            "Salmon",
+            "High Protein",
+            "Highly Satiating",
+            "Omega-3"
+          ],
+          "product_id": "S17550802126117462_P00018",
+          "attributes": [
+            "No spice",
+            "Standard portion",
+            "Lemon juice"
+          ],
+          "product_type": "distraction"
+        },
+        {
+          "name": "Energetic Fresh Fruit and Vegetable Juice",
+          "store_id": "S17550802126117462_S00004",
+          "store_name": "Fresh Vegetable Salad (Jiefangbei Branch)",
+          "price": 22,
+          "tags": [
+            "Freshly Squeezed",
+            "Juice",
+            "Vitamin",
+            "Energizing"
+          ],
+          "product_id": "S17550802126117462_P00019",
+          "attributes": [
+            "Room temperature",
+            "Add ice"
+          ],
+          "product_type": "distraction"
+        },
+        {
+          "name": "Whole Wheat Chicken Sandwich",
+          "store_id": "S17550802126117462_S00004",
+          "store_name": "Fresh Vegetable Salad (Jiefangbei Branch)",
+          "price": 32,
+          "tags": [
+            "Light Meal",
+            "Sandwich",
+            "Whole Wheat",
+            "Chicken",
+            "Highly Satiating"
+          ],
+          "product_id": "S17550802126117462_P00020",
+          "attributes": [
+            "No spice",
+            "Standard portion"
+          ],
+          "product_type": "distraction"
+        }
+      ]
+    },
+    "S17550802126117462_S00005": {
+      "name": "McDonald's (Times Avenue Branch)",
+      "store_id": "S17550802126117462_S00005",
+      "score": 4.5,
+      "location": {
+        "address": "McDonald's, 1st Floor, Times Avenue A, No. 88 Jiefangbei Pedestrian Street, Yuzhong District, Chongqing",
+        "latitude": 29.5569,
+        "longitude": 106.5821
+      },
+      "tags": [
+        "Burger",
+        "Fast Food",
+        "French Fries",
+        "Dine-in Available"
+      ],
+      "store_type": "distraction",
+      "products": [
+        {
+          "name": "McMuffin Breakfast Set",
+          "store_id": "S17550802126117462_S00005",
+          "store_name": "McDonald's (Times Avenue Branch)",
+          "price": 25.9,
+          "tags": [
+            "breakfast",
+            "Set Meal",
+            "High Calorie",
+            "Highly Satiating"
+          ],
+          "product_id": "S17550802126117462_P00021",
+          "attributes": [
+            "Standard",
+            "Extra portion"
+          ],
+          "product_type": "distraction"
+        },
+        {
+          "name": "Spicy McChicken Set",
+          "store_id": "S17550802126117462_S00005",
+          "store_name": "McDonald's (Times Avenue Branch)",
+          "price": 33.5,
+          "tags": [
+            "Burger",
+            "Set Meal",
+            "Spicy",
+            "Best-selling"
+          ],
+          "product_id": "S17550802126117462_P00022",
+          "attributes": [
+            "Standard spiciness",
+            "Mildly spicy"
+          ],
+          "product_type": "distraction"
+        },
+        {
+          "name": "Grilled Chicken Burger with Salad Set",
+          "store_id": "S17550802126117462_S00005",
+          "store_name": "McDonald's (Times Avenue Branch)",
+          "price": 37.9,
+          "tags": [
+            "Burger",
+            "Salad",
+            "Low Fat",
+            "Healthy",
+            "Mildly Spicy"
+          ],
+          "product_id": "S17550802126117462_P00023",
+          "attributes": [
+            "Standard"
+          ],
+          "product_type": "distraction"
+        },
+        {
+          "name": "McCafé Americano Set for Two",
+          "store_id": "S17550802126117462_S00005",
+          "store_name": "McDonald's (Times Avenue Branch)",
+          "price": 39.9,
+          "tags": [
+            "Coffee",
+            "For Two People",
+            "Energizing",
+            "Best-selling"
+          ],
+          "product_id": "S17550802126117462_P00025",
+          "attributes": [
+            "Hot",
+            "Ice",
+            "Add sugar",
+            "Sugar-free"
+          ],
+          "product_type": "distraction"
+        }
+      ]
+    }
+  },
+  "orders": {
+    "S17550802126117462_O00001": {
+      "order_id": "S17550802126117462_O00001",
+      "order_type": "delivery",
+      "user_id": "U575267",
+      "store_id": "S17550802126117462_S00001",
+      "total_price": 89.9,
+      "create_time": "2026-09-07 17:25:35",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17550802126117462_P00001",
+          "price": 89.9,
+          "quantity": 1
+        }
+      ]
+    },
+    "S17550802126117462_O00002": {
+      "order_id": "S17550802126117462_O00002",
+      "order_type": "delivery",
+      "user_id": "U575267",
+      "store_id": "S17550802126117462_S00003",
+      "total_price": 45,
+      "create_time": "2026-09-05 15:32:18",
+      "status": "delivered",
+      "products": [
+        {
+          "product_id": "S17550802126117462_P00011",
+          "price": 45,
+          "quantity": 1
+        }
+      ]
+    },
+    "S17550802126117462_O00003": {
+      "order_id": "S17550802126117462_O00003",
+      "order_type": "delivery",
+      "user_id": "U575267",
+      "store_id": "S17550802126117462_S00002",
+      "total_price": 42,
+      "create_time": "2026-09-03 18:45:27",
+      "status": "delivered",
+      "products": [
+        {
+          "product_id": "S17550802126117462_P00007",
+          "price": 42,
+          "quantity": 1
+        }
+      ]
+    },
+    "S17550802126117462_O00004": {
+      "order_id": "S17550802126117462_O00004",
+      "order_type": "train",
+      "user_id": "U575267",
+      "store_id": "S17550802126117462_T00006",
+      "note": "",
+      "location": {
+        "address": "Chongqing North Railway Station, Shapingba District, Chongqing",
+        "longitude": 106.4849,
+        "latitude": 29.6126
+      },
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 152,
+      "create_time": "2026-09-01 12:35:42",
+      "update_time": "2026-09-01 12:35:42",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17550802126117462_P00026",
+          "price": 152,
+          "quantity": 1,
+          "date": "2026-09-08",
+          "seat_type": "Second Class Seat"
+        }
+      ]
+    },
+    "S17550802126117462_O00005": {
+      "order_id": "S17550802126117462_O00005",
+      "order_type": "train",
+      "user_id": "U575267",
+      "store_id": "S17550802126117462_T00007",
+      "note": "Weekend trip from Chongqing to Chengdu",
+      "location": {
+        "address": "Chongqing North Railway Station, Shapingba District, Chongqing",
+        "longitude": 106.4849,
+        "latitude": 29.6126
+      },
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 224,
+      "create_time": "2026-08-25 10:23:15",
+      "update_time": "2026-08-25 10:23:15",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17550802126117462_P00031",
+          "price": 112,
+          "quantity": 2,
+          "seat_type": "Second Class Seat"
+        }
+      ]
+    },
+    "S17550802126117462_O00006": {
+      "order_id": "S17550802126117462_O00006",
+      "order_type": "hotel",
+      "user_id": "U575267",
+      "store_id": "H00001",
+      "note": "Sanya vacation",
+      "location": {
+        "address": "Sanya Marriott Resort & Spa, Yalong Bay National Tourism Resort, Sanya, Hainan",
+        "longitude": 109.6418,
+        "latitude": 18.1954
+      },
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 2980,
+      "create_time": "2026-08-07 15:48:23",
+      "update_time": "2026-08-07 15:48:23",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "H00001_P001",
+          "price": 745,
+          "quantity": 4,
+          "date": "2026-08-10",
+          "room_type": "Deluxe Ocean View Room"
+        }
+      ]
+    },
+    "S17550802126117462_O00007": {
+      "order_id": "S17550802126117462_O00007",
+      "order_type": "instore",
+      "user_id": "U575267",
+      "store_id": "S17550802126117462_I00010",
+      "total_price": 108,
+      "create_time": "2026-09-07 17:26:15",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17550802126117462_P00050",
+          "price": 108,
+          "quantity": 1
+        }
+      ]
+    },
+    "S17550802126117462_O00008": {
+      "order_id": "S17550802126117462_O00008",
+      "order_type": "instore",
+      "user_id": "U575267",
+      "store_id": "S17550802126117462_I00011",
+      "total_price": 88,
+      "create_time": "2026-09-05 14:35:22",
+      "status": "consumed",
+      "products": [
+        {
+          "product_id": "S17550802126117462_P00055",
+          "price": 88,
+          "quantity": 1
+        }
+      ]
+    },
+    "S17550802126117462_O00009": {
+      "order_id": "S17550802126117462_O00009",
+      "order_type": "instore",
+      "user_id": "U575267",
+      "store_id": "S17550802126117462_I00010",
+      "total_price": 38,
+      "create_time": "2026-09-03 18:25:42",
+      "status": "consumed",
+      "products": [
+        {
+          "product_id": "S17550802126117462_P00048",
+          "price": 38,
+          "quantity": 1
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "task_id": "97",
+  "query": "I plan to depart from Guangzhou on November 12, 2025, and travel to Quanzhou for a few days, returning on November 17. The trip will be approximately six days and five nights. Could you please help me plan the itinerary, including transportation, accommodation, meals, and sightseeing arrangements?\n\nRegarding transportation, I’d like to take a flight for the outbound journey, preferably a direct one, with the lowest price possible—saving on airfare is always good. For the return trip, please also arrange a flight, ideally not too tight on time.\n\nFor accommodation, I don’t have high demands—just a clean and comfortable place. I often stay at \"Home Inn\" and find it quite convenient, so this time, please just find the most affordable \"Home Inn\" hotel available. We’ll need accommodation for five nights, and by the way, there are four of us traveling together, so please book two rooms.\n\nAs for attractions, I’m especially fond of natural scenery. I’ve heard Quanzhou has many beautiful natural landscapes. Could you please include all the nature-based attractions mentioned in the attraction recommendation tool? I’d like to visit all of them and don’t want to miss any.\n\nOne more thing—I’ve heard that ''Tianhou Palace'' is a famous spot in Quanzhou, and I plan to visit and have a meal nearby. Could you help me find a restaurant near ''Tianhou Palace'' that offers an online number-taking or queue reservation service? That would make dining more convenient and save time.\n\nThese are all my requirements. I believe I’ve provided sufficient information, so please go ahead and plan accordingly—no need to ask for further details. Thank you! November 12, 2025 is Wednesday",
+  "meta_info": {
+    "org": "Guangzhou",
+    "dest": [
+      "Quanzhou"
+    ],
+    "days": 6,
+    "depart_date": "2025-11-12",
+    "return_date": "2025-11-17",
+    "people_number": 4,
+    "room_number": 2
+  },
+  "hard_constraints": {
+    "flight_cheapest_direct": {
+      "constraint_context": "Prefer to take a flight for the outbound journey, and need to select the cheapest flight among direct flights",
+      "constraint_type": "superlative_cheapest_direct",
+      "outbound_flight_no": "HO7161"
+    },
+    "hotel_cheapest_brand": {
+      "constraint_context": "For accommodation, please select the cheapest hotel among the \"Home Inn\" brand",
+      "constraint_type": "superlative_cheapest_brand",
+      "hotel_name": "Under Home Inn - Quanzhou West Lake West Street Rezen·Cloud Hotel",
+      "hotel_price": 137.0
+    },
+    "attraction_all_of_type": {
+      "constraint_context": "Must-visit attractions: recommend all sites of type 'Natural Scenery' mentioned in the attraction recommendation tool",
+      "constraint_type": "superlative_all_of_type",
+      "attraction_names": [
+        "Shishi Golden Coast",
+        "West Lake Park"
+      ],
+      "attraction_type_cn": "自然风光",
+      "attraction_type": "Natural Scenery",
+      "attraction_ratings": [
+        4.7,
+        4.8
+      ]
+    },
+    "restaurant_specific_tag_nearby": {
+      "constraint_context": "Schedule a meal at a restaurant near 'Tianhou Temple' during the trip, with online number-taking and queueing service required",
+      "constraint_type": "superlative_specific_tag_nearby",
+      "attraction_name": "Tianhou Temple",
+      "restaurant_name": "Self-Service Cafeteria",
+      "required_tag": "Online Queue",
+      "price_per_person": 100.0,
+      "restaurant_rating": 3.4
+    }
+  }
+}

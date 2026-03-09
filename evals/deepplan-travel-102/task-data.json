@@ -1,0 +1,49 @@
+{
+  "task_id": "101",
+  "query": "I have a plan to travel from Xi'an to Beijing on November 12, 2025, and return on November 18. Could you please help me plan the entire trip, including transportation, accommodation, meals, and sightseeing? The total budget for this trip should be within 18000 yuan.\n\nRegarding transportation, I’d like to book a flight departing between 7:00 AM and 11:00 AM—this time slot works best for me. As for accommodation, I don’t have high requirements for hotel星级—I’m fine with a three-star hotel. However, it would be great if the hotel has both a washing machine and a dryer, so I can easily do laundry.\n\nBy the way, I have two small requests about dining. First, when I visit the ‘National Swimming Center (Water Cube)’, please recommend the highest-rated restaurant nearby—I’ve heard there are many delicious options in that area. Second, when I’m around ‘Nanluoguxiang’, please arrange a meal at a restaurant ranked in the Top 10 on the “Must-Eat List”—I’d like to try something special.\n\nThat’s basically all I need. Please go ahead and start planning my itinerary. I believe I’ve provided all the necessary information—looking forward to your proposal! November 12, 2025 is Wednesday",
+  "meta_info": {
+    "org": "Xi'an",
+    "dest": [
+      "Beijing"
+    ],
+    "days": 7,
+    "depart_date": "2025-11-12",
+    "return_date": "2025-11-18",
+    "people_number": 1,
+    "room_number": 1
+  },
+  "hard_constraints": {
+    "flight_departure_time_range": {
+      "constraint_context": "The departure flight must leave between 7:00 AM and 11:00 AM",
+      "outbound_flight_no": "CA1206"
+    },
+    "hotel_star_service_required": {
+      "constraint_context": "Please select a 3-star hotel that provides both a washing machine and a dryer for accommodation.",
+      "constraint_type": "superlative_star_service_required",
+      "hotel_name": "Beijing Rose Star Moon Select Hotel (Jiugong Yinghai Subway Station Branch)",
+      "required_service": "Washer and Dryer",
+      "hotel_star": 3,
+      "hotel_price": 232.0
+    },
+    "restaurant_highest_rated": {
+      "constraint_context": "During the trip, please arrange a meal at the highest-rated restaurant near the 'National Aquatics Center (Water Cube)'",
+      "constraint_type": "superlative_highest_rated_restaurant",
+      "attraction_name": "National Aquatics Center (Water Cube)",
+      "restaurant_name": "AmazingThai Authentic Thai Restaurant (Beitou New World Shopping Center Branch)",
+      "price_per_person": 87.0,
+      "restaurant_rating": 4.7
+    },
+    "restaurant_specific_tag_nearby": {
+      "constraint_context": "Arrange a meal at a restaurant near 'Nanluoguxiang' during the trip, must be from the Top 10 on the \"Must-Eat\" list with service included",
+      "constraint_type": "superlative_specific_tag_nearby",
+      "attraction_name": "Nanluoguxiang",
+      "restaurant_name": "Camellia Girl Yunnan Restaurant",
+      "required_tag": "Must-Eat Top 10",
+      "price_per_person": 35.0,
+      "restaurant_rating": 4.6
+    },
+    "budget_constraint": {
+      "max_budget": 6000
+    }
+  }
+}

@@ -1,0 +1,97 @@
+{
+  "required_orders": [
+    {
+      "order_id": "10811001T001",
+      "order_type": "delivery",
+      "user_id": "U855836",
+      "store_id": "S17550802128064414_S00002",
+      "note": "",
+      "location": {
+        "address": "Room 1204, Building B2, No. 700 Yishan Road, Xuhui District, Shanghai",
+        "longitude": 121.422,
+        "latitude": 31.176
+      },
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 406,
+      "create_time": "2025-06-22 13:16:52",
+      "update_time": "2025-06-22 13:16:52",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17550802128064414_P00011",
+          "price": 238,
+          "quantity": 1,
+          "name": "Matsutake Mushroom with Abalone",
+          "attributes": ""
+        },
+        {
+          "product_id": "S17550802128064414_P00014",
+          "price": 138,
+          "quantity": 1,
+          "name": "Crab Roe Lion's Head Meatball",
+          "attributes": ""
+        },
+        {
+          "product_id": "S17550802128064414_P00015",
+          "price": 15,
+          "quantity": 2,
+          "name": "Pearl Rice",
+          "attributes": ""
+        }
+      ]
+    },
+    {
+      "order_id": "10811001T002",
+      "order_type": "hotel",
+      "user_id": "U855836",
+      "store_id": "S17550802128064414_H00008",
+      "note": "",
+      "location": null,
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 880,
+      "create_time": "2025-06-22 13:18:32",
+      "update_time": "2025-06-22 13:18:32",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17550802128064414_P00054",
+          "price": 880,
+          "quantity": 1,
+          "date": "2025-06-27",
+          "room_type": "Bund River View Suite"
+        }
+      ]
+    },
+    {
+      "book_id": "10811001T003",
+      "shop_id": "S17550802128064414_I00011",
+      "book_time": "2025-06-28 12:00:00",
+      "update_time": "2025-06-22 13:22:34",
+      "customer_id": "U855836",
+      "customer_count": 2,
+      "book_price": 50,
+      "status": "unconsumed"
+    }
+  ],
+  "rubrics": [
+    "The food delivery restaurant should be a high-end Chinese restaurant",
+    "The average cost per person at the food delivery restaurant should be around 200 Yuan",
+    "The food delivery order should avoid heavy oil spicy dishes",
+    "The food delivery order should include two dishes and two staple foods",
+    "The delivery address should be Room 1204, Building B2, No. 700 Yishan Road, Xuhui District, Shanghai",
+    "The expected delivery time should be around 18:00 on June 27, 2025 [i.e., the expected delivery time should be between 17:45 and 18:15]",
+    "The hotel to be booked should be on the Shanghai Bund",
+    "The hotel room type should be a Huangpu River View Suite",
+    "The hotel check-in date should be June 27, 2025",
+    "The western restaurant to be reserved should have a romantic atmosphere",
+    "The western restaurant should provide a couple set menu that includes champagne and fresh flowers",
+    "The western restaurant reservation time should be 12:00 on June 28, 2025",
+    "The number of people for the western restaurant reservation should be 2",
+    "June 28, 2025 will be rainy",
+    "Should not book a pottery experience class"
+  ]
+}

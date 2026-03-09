@@ -1,0 +1,211 @@
+{
+  "task_id": "10826039",
+  "domain": "instore",
+  "time": "2025-04-04 15:30:00",
+  "user_id": "U697724",
+  "weather": [
+    {
+      "city": "Nanning",
+      "category": "cloudy",
+      "datetime": "2025-04-04",
+      "temperature": [
+        18,
+        26
+      ],
+      "humidity": 65
+    },
+    {
+      "city": "Nanning",
+      "category": "sunny",
+      "datetime": "2025-04-05",
+      "temperature": [
+        19,
+        28
+      ],
+      "humidity": 55
+    },
+    {
+      "city": "Nanning",
+      "category": "sunny",
+      "datetime": "2025-04-06",
+      "temperature": [
+        20,
+        29
+      ],
+      "humidity": 50
+    }
+  ],
+  "location": [
+    {
+      "address": "Room 1204, Building B, Hangyang International City, 131 Minzu Avenue, Qingxiu District, Nanning",
+      "longitude": 108.367752,
+      "latitude": 22.817204
+    },
+    {
+      "address": "Room 503, Building A, Sunshine 100 City Plaza, 118 Dongge Road, Qingxiu District, Nanning",
+      "longitude": 108.354623,
+      "latitude": 22.813589
+    },
+    {
+      "address": "Mixc Shopping Center, 136 Minzu Avenue, Qingxiu District, Nanning",
+      "longitude": 108.369541,
+      "latitude": 22.815682
+    }
+  ],
+  "user_profile": {
+    "user id": "U697724",
+    "occupation": "Freelancer",
+    "gender": "male",
+    "age group": "30~35",
+    "residence": "Nanning",
+    "home address": "Room 1204, Building B, Hangyang International City, 131 Minzu Avenue, Qingxiu District, Nanning",
+    "work address": "Room 503, Building A, Sunshine 100 City Plaza, 118 Dongge Road, Qingxiu District, Nanning",
+    "dietary restrictions": "No high purine foods (like organ meats/seafood soups), No alcohol",
+    "family status": "Has children",
+    "personality": "Extremely detail-oriented, tends to be picky and dissatisfied"
+  },
+  "user_historical_behaviors": {
+    "user id": "U697724",
+    "occupation": "Freelancer",
+    "gender": "male",
+    "age group": "30~35",
+    "residence": "Nanning",
+    "home address": "Room 1204, Building B, Hangyang International City, 131 Minzu Avenue, Qingxiu District, Nanning",
+    "work address": "Room 503, Building A, Sunshine 100 City Plaza, 118 Dongge Road, Qingxiu District, Nanning",
+    "in-store dining": {
+      "fine-dining": {
+        "frequently purchased categories": [
+          "Regional Cuisine/Sichuan Cuisine (Average 95 yuan)",
+          "Regional Cuisine/Cantonese Cuisine (Average 115 yuan)",
+          "International Cuisine/Japanese Food (Average 130 yuan)"
+        ],
+        "preferred average price per person": "90~130 yuan",
+        "preferred store rating": "4.0~4.7 stars",
+        "typical dining time": "18:30-20:30",
+        "preferred distance": "500~3000m",
+        "recent orders": [
+          {
+            "store": "Chuan Xi Ba Zi",
+            "product": "Boiled Fish + Dry Pot Bullfrog"
+          },
+          {
+            "store": "Yue Xiang Yuan",
+            "product": "White Cut Chicken + Steamed Sea Bass"
+          },
+          {
+            "store": "Sushi Dojo",
+            "product": "Deluxe Sashimi Platter"
+          }
+        ],
+        "search history": [
+          "Non-spicy Sichuan food",
+          "Family-friendly restaurant",
+          "Business Banquet",
+          "Japanese cuisine"
+        ]
+      },
+      "light meal": {
+        "frequently purchased categories": [
+          "Fast Food/Chinese Simple Meals (Average 35 yuan)",
+          "Fast Food/Western Fast Food (Average 28 yuan)",
+          "Regional Cuisine/Other Regional Dishes (Average 42 yuan)"
+        ],
+        "preferred average price per person": "25~45 yuan",
+        "preferred store rating": "3.5~4.3 stars",
+        "typical dining time": "12:00-13:30",
+        "preferred distance": "0~1000m",
+        "recent orders": [
+          {
+            "store": "Jiahe Yipin",
+            "product": "Three Delicacies Wonton + Side Dish"
+          },
+          {
+            "store": "Sha County Snacks",
+            "product": "Flat Meat Noodles + Steamed Dumplings"
+          },
+          {
+            "store": "McDonald's",
+            "product": "Big Mac Meal"
+          }
+        ],
+        "search history": [
+          "Bento",
+          "Fast food",
+          "Work meal",
+          "Low purine food"
+        ]
+      },
+      "desserts/drinks/snacks": {
+        "frequently purchased categories": [
+          "Beverage Shops (Average 18 yuan)",
+          "Bread and Desserts (Average 25 yuan)",
+          "Other Food/Fresh Fruits (Average 15 yuan)"
+        ],
+        "preferred average price per person": "15~30 yuan",
+        "preferred store rating": "3.8~4.5 stars",
+        "typical dining time": "15:00-17:00",
+        "preferred distance": "0~800m",
+        "recent orders": [
+          {
+            "store": "HeyTea",
+            "product": "Pulpy Grape (Non-alcoholic)"
+          },
+          {
+            "store": "BreadTalk",
+            "product": "Croissant + Mango Mousse"
+          },
+          {
+            "store": "Xianfeng Fruits",
+            "product": "Fruit Platter"
+          }
+        ],
+        "search history": [
+          "Non-alcoholic drinks",
+          "Low-sugar desserts",
+          "Healthy beverages",
+          "Children's desserts"
+        ]
+      }
+    },
+    "other in-store services": {
+      "frequently consumed categories": {
+        "Sports & Fitness/Fitness Centers": "40%",
+        "Sports & Fitness/Ball Sports": "30%",
+        "Parent-Child/Parent-Child Entertainment": "20%",
+        "Leisure & Entertainment/Massage/Foot Therapy": "10%"
+      },
+      "cost per order by category": {
+        "Sports & Fitness/Fitness Centers": "80~150 yuan",
+        "Sports & Fitness/Ball Sports": "60~120 yuan",
+        "Parent-Child/Parent-Child Entertainment": "100~200 yuan",
+        "Leisure & Entertainment/Massage/Foot Therapy": "120~180 yuan"
+      },
+      "preferred store rating": "4.0~4.8 stars",
+      "preferred service time": "18:00-21:00",
+      "preferred distance": "500~3500m",
+      "recent orders": [
+        {
+          "store": "Super Gym (Qingxiu Wanda Branch)",
+          "product": "Single Fitness Experience"
+        },
+        {
+          "store": "Nanning Sports Center",
+          "product": "Badminton Court for 2 Hours"
+        },
+        {
+          "store": "Qile Children's Entertainment Center",
+          "product": "Parent-Child Package Ticket"
+        }
+      ],
+      "search history": [
+        "Gym",
+        "Badminton court",
+        "Parent-child activities",
+        "Children's entertainment",
+        "Foot massage"
+      ]
+    }
+  },
+  "stores": {},
+  "orders": {}
+}

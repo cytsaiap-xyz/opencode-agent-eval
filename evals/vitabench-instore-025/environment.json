@@ -1,0 +1,210 @@
+{
+  "task_id": "10826030",
+  "domain": "instore",
+  "time": "2024-08-16 16:12:22",
+  "user_id": "U042405",
+  "weather": [
+    {
+      "city": "Taiyuan",
+      "category": "sunny",
+      "datetime": "2024-08-16",
+      "temperature": [
+        25,
+        32
+      ],
+      "humidity": 45
+    },
+    {
+      "city": "Taiyuan",
+      "category": "cloudy",
+      "datetime": "2024-08-17",
+      "temperature": [
+        24,
+        36
+      ],
+      "humidity": 50
+    }
+  ],
+  "location": [
+    {
+      "address": "Room 301, Unit 2, Building 5, Shanxi Theater Staff Quarters, 69 Tiyu Road, Xiaodian District, Taiyuan",
+      "longitude": 112.5584,
+      "latitude": 37.8706
+    },
+    {
+      "address": "Shanxi Drama Theater, 47 Fuxi Street, Xinghualing District, Taiyuan",
+      "longitude": 112.5625,
+      "latitude": 37.8734
+    },
+    {
+      "address": "Pet Love Pet Grooming, 88 Tiyu Road, Xiaodian District, Taiyuan",
+      "longitude": 112.5592,
+      "latitude": 37.8698
+    },
+    {
+      "address": "Cute Pet World, 120 Tiyu Road, Xiaodian District, Taiyuan",
+      "longitude": 112.5612,
+      "latitude": 37.8701
+    },
+    {
+      "address": "Starbucks Coffee (Tiyu Road Branch), 156 Tiyu Road, Xiaodian District, Taiyuan",
+      "longitude": 112.5623,
+      "latitude": 37.8697
+    }
+  ],
+  "user_profile": {
+    "user id": "U042405",
+    "occupation": "Actor",
+    "gender": "female",
+    "age group": "25~30",
+    "residence": "Taiyuan",
+    "home address": "Room 301, Unit 2, Building 5, Shanxi Theater Staff Quarters, 69 Tiyu Road, Xiaodian District, Taiyuan",
+    "work address": "Shanxi Drama Theater, 47 Fuxi Street, Xinghualing District, Taiyuan",
+    "dietary restrictions": "No high sugar, no alcohol",
+    "family status": "Has pets",
+    "personality": "Overly dependent on others' guidance, lacks personal opinions and decisiveness"
+  },
+  "user_historical_behaviors": {
+    "user id": "U042405",
+    "occupation": "actress",
+    "gender": "female",
+    "age group": "25~30",
+    "residence": "Taiyuan",
+    "home address": "Room 301, Unit 2, Building 5, Shanxi Theater Staff Quarters, 69 Tiyu Road, Xiaodian District, Taiyuan",
+    "work address": "Shanxi Drama Theater, 47 Fuxi Street, Xinghualing District, Taiyuan",
+    "in-store dining": {
+      "fine-dining": {
+        "frequently purchased categories": [
+          "Regional Cuisine/Sichuan Cuisine (Average ¥135)",
+          "International Cuisine/Japanese Food (Average ¥180)",
+          "Regional Cuisine/Cantonese Cuisine (Average ¥150)"
+        ],
+        "preferred average price per person": "¥120~180",
+        "preferred store rating": "4.2~4.9 stars",
+        "typical dining time": "19:00-21:00",
+        "preferred distance": "500~3000m",
+        "recent orders": [
+          {
+            "store": "Taiyuan Fuding Seafood",
+            "product": "Steamed Turbot"
+          },
+          {
+            "store": "Jinxiu Shanhe Sichuan Restaurant",
+            "product": "Boiled Fish Slices"
+          },
+          {
+            "store": "Huayin Japanese Restaurant",
+            "product": "Sashimi Platter"
+          }
+        ],
+        "search history": [
+          "Low Sugar Restaurant",
+          "Healthy Cuisine",
+          "Japanese Food",
+          "Cantonese Cuisine"
+        ]
+      },
+      "light meal": {
+        "frequently purchased categories": [
+          "Snacks & Fast Food/Chinese Quick Meals (Average ¥45)",
+          "Snacks & Fast Food/Western Fast Food (Average ¥38)"
+        ],
+        "preferred average price per person": "¥30~50",
+        "preferred store rating": "3.5~4.3 stars",
+        "typical dining time": "12:00-13:30",
+        "preferred distance": "0~1000m",
+        "recent orders": [
+          {
+            "store": "Qingqing Vegetable Restaurant",
+            "product": "Light Salad"
+          },
+          {
+            "store": "Shanxi Noodle House",
+            "product": "Knife-cut Noodle Set"
+          },
+          {
+            "store": "Fresh Porridge Way",
+            "product": "Preserved Egg and Lean Pork Porridge"
+          }
+        ],
+        "search history": [
+          "Low-calorie Meals",
+          "Light Food",
+          "Healthy Fast Food",
+          "Salad"
+        ]
+      },
+      "desserts/drinks/snacks": {
+        "frequently purchased categories": [
+          "Beverage Shops (Average ¥20)",
+          "Bread & Desserts (Average ¥30)"
+        ],
+        "preferred average price per person": "¥15~35",
+        "preferred store rating": "4.0~4.8 stars",
+        "typical dining time": "15:00-17:00",
+        "preferred distance": "0~800m",
+        "recent orders": [
+          {
+            "store": "Nayuki",
+            "product": "Sugar-free Jasmine Tea"
+          },
+          {
+            "store": "The Alley",
+            "product": "Low-sugar Oat Milk Tea"
+          },
+          {
+            "store": "BreadTalk",
+            "product": "Whole Wheat Bread"
+          }
+        ],
+        "search history": [
+          "Sugar-free Beverages",
+          "Low-Sugar Dessert",
+          "Healthy Tea Drinks"
+        ]
+      }
+    },
+    "other in-store services": {
+      "frequently consumed categories": {
+        "Beauty/Hair Styling": "20%",
+        "Beauty/Yoga": "30%",
+        "Beauty/Dance": "25%",
+        "Sports & Fitness/Fitness Centers": "15%",
+        "Pets/Pet Hospitals": "10%"
+      },
+      "cost per order by category": {
+        "Beauty/Hair Styling": "¥200~500",
+        "Beauty/Yoga": "¥100~200/session",
+        "Beauty/Dance": "¥150~300/session",
+        "Sports & Fitness/Fitness Centers": "¥80~150/session",
+        "Pets/Pet Hospitals": "¥100~300/session"
+      },
+      "preferred store rating": "4.0~4.8 stars",
+      "preferred service time": "18:00-21:00",
+      "preferred distance": "0~5000m",
+      "recent orders": [
+        {
+          "store": "Taiyuan Ballet Dance Studio",
+          "product": "Professional Dance Training Course"
+        },
+        {
+          "store": "Yuexin Yoga",
+          "product": "Private Yoga Class"
+        },
+        {
+          "store": "Love Pet Animal Hospital",
+          "product": "Pet Physical Examination Package"
+        }
+      ],
+      "search history": [
+        "Professional Dance Training",
+        "Body Shaping Training",
+        "Yoga Classes",
+        "Pet Hospital",
+        "Pet Grooming"
+      ]
+    }
+  },
+  "stores": {},
+  "orders": {}
+}

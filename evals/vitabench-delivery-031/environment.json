@@ -1,0 +1,352 @@
+{
+  "task_id": "40721004",
+  "domain": "delivery",
+  "time": "2024-07-15 17:52:39",
+  "user_id": "U000007",
+  "weather": [
+    {
+      "city": "Nanjing City",
+      "category": "cloudy",
+      "datetime": "2024-07-15",
+      "temperature": [
+        24,
+        29
+      ],
+      "humidity": 55
+    }
+  ],
+  "location": [
+    {
+      "address": "Yingge Yuan Residential Area, 198 Jiqingmen Street, Jianye District, Nanjing, Jiangsu Province",
+      "longitude": 118.742224,
+      "latitude": 32.029171
+    }
+  ],
+  "user_profile": {
+    "user id": "U000007",
+    "occupation": "Sales",
+    "gender": "female",
+    "age group": "30~35",
+    "residence": "Nanjing",
+    "home address": "Yingge Yuan Residential Area, 198 Jiqingmen Street, Jianye District, Nanjing, Jiangsu Province",
+    "work address": "Gulou Innovation Plaza, 18 Qingjiang South Road, Jiangdong Street, Gulou District, Nanjing, Jiangsu Province",
+    "dietary restrictions": "Avoids greasy spicy food, avoids alcohol",
+    "family status": "Has children",
+    "personality": "Impatient, frequently rushes things, lacks patience to wait for processes"
+  },
+  "user_historical_behaviors": {
+    "user id": "U000007",
+    "occupation": "Sales",
+    "gender": "female",
+    "age group": "30~35",
+    "residence": "Nanjing",
+    "home address": "Yingge Yuan Residential Area, 198 Jiqingmen Street, Jianye District, Nanjing, Jiangsu Province",
+    "work address": "Gulou Innovation Plaza, 18 Qingjiang South Road, Jiangdong Street, Gulou District, Nanjing, Jiangsu Province",
+    "breakfast": {
+      "frequently purchased categories": [
+        "Quick meals/Steamed buns/Pan-fried buns (Average ¥18)",
+        "Quick meals/Light food (Average ¥32)",
+        "Quick meals/Sandwiches (Average ¥25)"
+      ],
+      "cost per order": "¥15~35",
+      "preferred store rating": "4.2~4.7 stars",
+      "preferred delivery time": "15~30 minutes",
+      "preferred distance": "0~2500m",
+      "recent orders": [
+        {
+          "store": "Xianrun Breakfast Shop",
+          "product": "Soft Red Bean Bun + Vegetable Soy Milk"
+        },
+        {
+          "store": "Lihua Sandwich",
+          "product": "Egg and Ham Sandwich"
+        },
+        {
+          "store": "Maiqu Light Meals",
+          "product": "Fruit & Vegetable Energy Bowl + Oat Milk"
+        }
+      ],
+      "search history": [
+        "Low-oil breakfast",
+        "Light meal",
+        "Sandwich",
+        "Soy milk",
+        "Steamed buns"
+      ]
+    },
+    "weekday lunch/dinner": {
+      "frequently purchased categories": [
+        "Quick meals/Healthy meals (Average ¥45)",
+        "International cuisine/Japanese bento/Sushi (Average ¥58)",
+        "Quick meals/Salad (Average ¥38)"
+      ],
+      "cost per order": "¥30~65",
+      "preferred store rating": "4.2~4.9 stars",
+      "preferred delivery time": "20~50 minutes",
+      "preferred distance": "0~4500m",
+      "recent orders": [
+        {
+          "store": "Dancer's Shop·Light Food Salad (Olympic Center Store)",
+          "product": "(Popular Signature) Back by Demand•Tuna Thick Egg Roasted Vegetables 307Kcal"
+        },
+        {
+          "store": "THE CORE (Le Ji Store)",
+          "product": "Pan-fried Shrimp with Tri-color Quinoa Salad"
+        }
+      ],
+      "search history": [
+        "Healthy meals",
+        "Low calorie",
+        "Light food",
+        "Vegetable salad",
+        "Low-fat bento"
+      ]
+    },
+    "weekend lunch/dinner": {
+      "frequently purchased categories": [
+        "Chinese cuisine/Cantonese cuisine (Average ¥95)",
+        "International cuisine/Stone pot bibimbap/Teppanyaki rice (Average ¥78)",
+        "International cuisine/Pasta (Average ¥85)"
+      ],
+      "cost per order": "¥70~150",
+      "preferred store rating": "4.5~5.0 stars",
+      "preferred delivery time": "30~50 minutes",
+      "preferred distance": "0~5000m",
+      "recent orders": [
+        {
+          "store": "Yuexiang Lou",
+          "product": "Family Set (Steamed Fish + Stir-fried Black Fungus with Vegetables + Steamed Egg with Shrimp)"
+        },
+        {
+          "store": "Han Shangge",
+          "product": "Set for Two (Stone Pot Bibimbap + Soybean Paste Soup + Kimchi)"
+        },
+        {
+          "store": "Western Kitchen Select",
+          "product": "Truffle Mushroom Pasta + Herb Salad"
+        }
+      ],
+      "search history": [
+        "Family set meal",
+        "Cantonese cuisine",
+        "Stone pot bibimbap",
+        "Parent-child meal",
+        "Non-spicy dishes"
+      ]
+    },
+    "desserts/drinks/snacks": {
+      "frequently purchased categories": [
+        "desserts/drinks/snacks/Juice (Average ¥28)",
+        "desserts/drinks/snacks/Pure tea/Herbal tea (Average ¥25)",
+        "desserts/drinks/snacks/Yogurt (Average ¥35)"
+      ],
+      "cost per order": "¥18~40",
+      "preferred store rating": "4.0~5.0 stars",
+      "preferred delivery time": "15~50 minutes",
+      "preferred distance": "0~6000m",
+      "recent orders": [
+        {
+          "store": "Nanjing Tongrentang Lezhangui Tea Shop (Suo Street Store)",
+          "product": "[Energy Tea] Ginseng Health Tea"
+        },
+        {
+          "store": "Lazy Mountain Bowl·Yunnan Handmade Yogurt (Nanjing Mixc World Store)",
+          "product": "Rose·Three Spoon Snow Yogurt Drink"
+        }
+      ],
+      "search history": [
+        "Freshly Squeezed juice",
+        "Low-sugar drinks",
+        "Handmade yogurt"
+      ]
+    },
+    "night snack": {
+      "frequently purchased categories": [
+        "Quick meals/Small dishes/Small portions (Average ¥45)",
+        "Quick meals/Rice noodles/Rice vermicelli (Average ¥30)"
+      ],
+      "cost per order": "¥25~50",
+      "preferred store rating": "4.0~4.6 stars",
+      "preferred delivery time": "25~45 minutes",
+      "preferred distance": "0~3500m",
+      "recent orders": [
+        {
+          "store": "Old Flavor Small Dishes Restaurant",
+          "product": "Three Small Dishes Set (Black Fungus Vegetables + Cold Tofu + Stir-fried Broccoli)"
+        },
+        {
+          "store": "Yunnan Small Pot Rice Noodles",
+          "product": "Light Version Vegetable Rice Noodles"
+        }
+      ],
+      "search history": [
+        "Braised duck",
+        "Stomach-friendly soup",
+        "Small portions",
+        "Light night snacks",
+        "Vegetable soup"
+      ]
+    }
+  },
+  "stores": {
+    "S28422315784431063_S02543": {
+      "name": "Sichō Takeout Sushi (Nanjing Jianye Store)",
+      "store_id": "S28422315784431063_S02543",
+      "score": 4.9,
+      "location": {
+        "address": "Shop 123-3, 255 Shuiximen Street, Jianye District, Nanjing, Jiangsu Province",
+        "latitude": 32.034589,
+        "longitude": 118.748671
+      },
+      "tags": [
+        "Dine-in Restaurant"
+      ],
+      "products": [
+        {
+          "name": "Osaka Premium Set C (Bestseller) ",
+          "store_id": "S28422315784431063_S02543",
+          "store_name": "Sichō Takeout Sushi (Nanjing Jianye Store)",
+          "price": 39.8,
+          "tags": [
+            "Set Menu for 1-2 Persons",
+            "2 Grilled Salmon Sushi, 2 Grilled Eel Sushi, 2 Grilled Cooked Shrimp Sushi, 2 Grilled Crab Flavor Sushi, 2 Grilled Tuna Sushi, 2 Grilled Sea Bream Sushi"
+          ],
+          "product_id": "S83212177555407456_P08105",
+          "attributes": [],
+          "quantity": 9999
+        },
+        {
+          "name": "Osaka Premium Set E (Signature) ",
+          "product_id": "S19770930911783340_P25228",
+          "store_id": "S28422315784431063_S02543",
+          "store_name": "Sichō Takeout Sushi (Nanjing Jianye Store)",
+          "price": 33,
+          "tags": [
+            "Set Menu for 1-2 Persons",
+            "2 Salmon Sushi, 2 Cooked Shrimp Sushi, 2 Duck Breast Sushi, 2 Bean Curd Skin Sushi, 2 Fish Roe Gunkan, 2 Seaweed Gunkan, 2 Corn Gunkan, 6 Crab Flavor Mini Rolls"
+          ],
+          "attributes": [],
+          "quantity": 9999
+        }
+      ]
+    },
+    "S64699348232044444_S98376": {
+      "name": "VQ Fresh Juice (Nanjing Jianye Wanda Store)",
+      "store_id": "S64699348232044444_S98376",
+      "score": 4.8,
+      "location": {
+        "address": "VQ Fresh Juice, 3F, Nanjing Jianye Wanda Plaza, 98 Jiangdong Middle Road, Jianye District, Nanjing, Jiangsu Province",
+        "latitude": 32.032574,
+        "longitude": 118.736272
+      },
+      "tags": [],
+      "products": [
+        {
+          "name": "Fresh Orange and Snow Pear Juice",
+          "store_id": "S64699348232044444_S98376",
+          "store_name": "VQ Fresh Juice (Nanjing Jianye Wanda Store)",
+          "price": 24.0,
+          "tags": [],
+          "product_id": "S17395716266717529_P37049",
+          "attributes": [
+            "Room Temperature",
+            "Warm",
+            "Chilled"
+          ],
+          "quantity": 9999
+        }
+      ]
+    },
+    "S22092762360748524_S88865": {
+      "name": "Sushi Express (Hongyue City Store)",
+      "store_id": "S22092762360748524_S88865",
+      "score": 5,
+      "location": {
+        "address": "Sushi Express (Nanjing Hongyue City Store), B1, Hongyue City, 619 Yingtian Street, Yuhuatai District, Nanjing, Jiangsu Province",
+        "latitude": 32.009437,
+        "longitude": 118.7656
+      },
+      "tags": [
+        "Dine-in Restaurant"
+      ],
+      "products": [
+        {
+          "name": "[Bestseller] Grilled Six-Combination Set (12 pieces)",
+          "product_id": "S96960790015679737_P73409",
+          "store_id": "S22092762360748524_S88865",
+          "store_name": "Sushi Express (Hongyue City Store)",
+          "price": 45,
+          "tags": [
+            "Set Menu for 1-2 Persons"
+          ],
+          "attributes": [],
+          "quantity": 9999
+        }
+      ]
+    },
+    "S21757294797501796_S08579": {
+      "name": "Miao Xiansheng Salmon",
+      "store_id": "S21757294797501796_S08579",
+      "score": 5,
+      "location": {
+        "address": "No. 17, 166 Jiqingmen Street, Jianye District, Nanjing, Jiangsu Province",
+        "latitude": 32.027323,
+        "longitude": 118.746068
+      },
+      "tags": [],
+      "products": [
+        {
+          "name": "Trio of Flame-Seared Caramelized Salmon",
+          "product_id": "S18894460681429091_P28969",
+          "store_id": "S21757294797501796_S08579",
+          "store_name": "Miao Xiansheng Salmon",
+          "price": 48,
+          "tags": [
+            "Set Menu for 1-2 Persons",
+            "2 Flame-Seared Salmon, 2 Flame-Seared Caramelized Salmon, 2 Salmon Sushi"
+          ],
+          "attributes": [],
+          "quantity": 9999
+        },
+        {
+          "name": "Flame-Seared Salmon Sushi (12 pieces)",
+          "product_id": "S17715720882405297_P12054",
+          "store_id": "S21757294797501796_S08579",
+          "store_name": "Miao Xiansheng Salmon",
+          "price": 88,
+          "tags": [
+            "Set Menu for 2 Persons"
+          ],
+          "attributes": [],
+          "quantity": 9999
+        }
+      ]
+    },
+    "S27373164559699616_S62726": {
+      "name": "THE CORE (Le Ji Store)",
+      "store_id": "S27373164559699616_S62726",
+      "score": 4.8,
+      "location": {
+        "address": "THE CORE, Shop 137, 1st Floor, Le Ji Plaza, 108 Suo Street, Jianye District, Nanjing, Jiangsu Province",
+        "latitude": 32.023386,
+        "longitude": 118.744135
+      },
+      "tags": [],
+      "products": [
+        {
+          "name": "Fresh Orange and Snow Pear Juice",
+          "product_id": "S33301821396053609_P29447",
+          "store_id": "S27373164559699616_S62726",
+          "store_name": "THE CORE (Le Ji Store)",
+          "price": 25,
+          "tags": [
+            "Freshly Squeezed"
+          ],
+          "attributes": [],
+          "quantity": 9999
+        }
+      ]
+    }
+  },
+  "orders": {}
+}

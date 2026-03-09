@@ -1,0 +1,74 @@
+{
+  "required_orders": [
+    {
+      "order_id": "10826058T001",
+      "order_type": "instore",
+      "user_id": "U088093",
+      "store_id": "S17567836585819667_I00001",
+      "note": "",
+      "location": null,
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 98,
+      "create_time": "2025-12-25 16:38:30",
+      "update_time": "2025-12-25 16:38:30",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17567836585819667_P00004",
+          "name": "Deep relaxation meditation course (new customer benefit price)",
+          "price": 98,
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "reservation_id": "10826058T002",
+      "shop_id": "S17567836585819667_I00001",
+      "reservation_time": "2025-12-25 18:00:00",
+      "update_time": "2025-12-25 16:39:30",
+      "customer_id": "U088093",
+      "customer_count": 1,
+      "status": "paid"
+    },
+    {
+      "order_id": "10826058T003",
+      "order_type": "instore",
+      "user_id": "U088093",
+      "store_id": "S17567836585819667_I00002",
+      "note": "",
+      "location": null,
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 188,
+      "create_time": "2025-12-25 16:41:12",
+      "update_time": "2025-12-25 16:41:12",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17567836585819667_P00016",
+          "name": "High-end business car wash (interior & exterior + fragrance + seat care)",
+          "price": 188,
+          "quantity": 1
+        }
+      ]
+    }
+  ],
+  "rubrics": [
+    "The healing center should have been in business for 3 years or more",
+    "The healing center should be a well-known chain brand",
+    "The ordered item at the healing center should be a meditation course",
+    "The ordered item at the healing center should be a single session package",
+    "The ordered item at the healing center should be at new customer benefit price",
+    "The duration of the ordered item at the healing center should be 1.5 hours",
+    "The booked healing center should be Mindful Space Meditation Center (Science Park Branch)",
+    "The booking time for the healing center is 2025-12-25 18:00",
+    "The number of people for the healing center booking is 1",
+    "Should check whether there is a car wash service within 1000m (inclusive) of 3/F, Tower B, High-Tech Plaza, 22 Keyuan Road, Science Park South Area, Nanshan District, Shenzhen (Mindful Space Meditation Center) that offers 1.5h service including interior and exterior cleaning and seat care. The result is yes, therefore should place an order at the car wash service. The distance from the car wash service to 3/F, Tower B, High-Tech Plaza, 22 Keyuan Road, Science Park South Area, Nanshan District, Shenzhen (Mindful Space Meditation Center) should be within 1000m (inclusive)",
+    "The ordered item at the car wash service should be a car wash voucher",
+    "The duration of the ordered item at the car wash service should be 1.5h",
+    "The ordered item at the car wash service should include interior and exterior cleaning and seat care"
+  ]
+}

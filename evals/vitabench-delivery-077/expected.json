@@ -1,0 +1,104 @@
+{
+  "required_orders": [
+    {
+      "order_id": "G0716002T01",
+      "order_type": "delivery",
+      "user_id": "U000058",
+      "store_id": "S62563191519991599_S81379",
+      "note": "",
+      "location": {
+        "address": "Main Hospital of the First Affiliated Hospital of Xi'an Jiaotong University, No.277 Yanta West Road, Yanta District, Xi'an, Shaanxi Province",
+        "longitude": 108.936741,
+        "latitude": 34.219569
+      },
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 28.8,
+      "create_time": "2025-09-10 09:48:00",
+      "update_time": "2025-09-10 09:48:00",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S21069456156190794_P14314",
+          "price": 28.8,
+          "quantity": 1,
+          "attributes": ""
+        }
+      ]
+    },
+    {
+      "order_id": "G0716002T02",
+      "order_type": "delivery",
+      "user_id": "U000058",
+      "store_id": "S94923450644249735_S38024",
+      "note": "",
+      "location": {
+        "address": "Main Hospital of the First Affiliated Hospital of Xi'an Jiaotong University, No.277 Yanta West Road, Yanta District, Xi'an, Shaanxi Province",
+        "longitude": 108.936741,
+        "latitude": 34.219569
+      },
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 35.0,
+      "create_time": "2025-09-10 09:52:00",
+      "update_time": "2025-09-10 09:52:00",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S87071804534303894_P59349",
+          "price": 18.0,
+          "quantity": 1,
+          "attributes": ""
+        },
+        {
+          "product_id": "S58528214946920236_P00034",
+          "price": 17.0,
+          "quantity": 1,
+          "attributes": ""
+        }
+      ]
+    },
+    {
+      "order_id": "G0716002T03",
+      "order_type": "delivery",
+      "user_id": "U000058",
+      "store_id": "S22399110519747136_S91526",
+      "note": "",
+      "location": {
+        "address": "Main Hospital of the First Affiliated Hospital of Xi'an Jiaotong University, No.277 Yanta West Road, Yanta District, Xi'an, Shaanxi Province",
+        "longitude": 108.936741,
+        "latitude": 34.219569
+      },
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 17.0,
+      "create_time": "2025-09-10 09:54:00",
+      "update_time": "2025-09-10 09:54:00",
+      "status": "unpaid",
+      "products": [
+        {
+          "product_id": "S14147194316063046_P67193",
+          "price": 17.0,
+          "quantity": 1,
+          "attributes": "No Sugar (No Additional Sugar)"
+        }
+      ]
+    }
+  ],
+  "rubrics": [
+    "The delivery address for the Steamed Mutton Dumplings order should be Main Hospital of the First Affiliated Hospital of Xi'an Jiaotong University, No.277 Yanta West Road, Yanta District, Xi'an, Shaanxi Province",
+    "The estimated delivery time for the Steamed Mutton Dumplings order should be after 12:00 on September 10, 2025",
+    "The Steamed Mutton Dumplings order must come from a Non-chain Store",
+    "The delivery address for the uncle's meat soup dumplings and soup order should be Main Hospital of the First Affiliated Hospital of Xi'an Jiaotong University, No.277 Yanta West Road, Yanta District, Xi'an, Shaanxi Province",
+    "The estimated delivery time for the uncle's meat soup dumplings and soup order should be around 12:00 on September 10, 2025",
+    "The items in the uncle's meat soup dumplings and soup order should not be in set menu form",
+    "The items in the uncle's meat soup dumplings and soup order should come from stores with branches in both Nanjing and Xi'an",
+    "The items in the uncle's meat soup dumplings and soup order must not contain seafood ingredients",
+    "The delivery address for the Yellow Tea order should be Main Hospital of the First Affiliated Hospital of Xi'an Jiaotong University, No.277 Yanta West Road, Yanta District, Xi'an, Shaanxi Province",
+    "The estimated delivery time for the Yellow Tea order should be around 12:00 on September 10, 2025",
+    "The Yellow Tea order item specification should be sugar-free (no additional sugar)"
+  ]
+}

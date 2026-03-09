@@ -1,0 +1,84 @@
+{
+  "required_orders": [
+    {
+      "order_id": "OIb192a86a68",
+      "order_type": "instore",
+      "user_id": "U010040",
+      "store_id": "S17550802127823540_I00015",
+      "note": "",
+      "location": null,
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 1990,
+      "create_time": "2025-02-09 17:20:00",
+      "update_time": "2025-02-09 17:20:00",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17550802127823540_P00114",
+          "price": 398,
+          "quantity": 5,
+          "name": "90-minute Full Body Suspended Moxibustion Therapy",
+          "shop_id": "S17550802127823540_I00015",
+          "tags": [
+            "Suspended Moxibustion",
+            "Full Body Therapy",
+            "90 minutes",
+            "Deep Conditioning"
+          ]
+        }
+      ]
+    },
+    {
+      "order_id": "OT012ea4b3b3",
+      "order_type": "delivery",
+      "user_id": "U010040",
+      "store_id": "S17550802127823540_S00002",
+      "note": "",
+      "location": {
+        "address": "Hangzhou Atour Hotel (Sports Center Branch), 3800 Moganshan Road, Gongshu District, Hangzhou",
+        "latitude": 30.3095,
+        "longitude": 120.14
+      },
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 244.5,
+      "create_time": "2025-02-09 172:1:00",
+      "update_time": "2025-02-09 17:21:00",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17550802127823540_P00006",
+          "price": 48.9,
+          "quantity": 5,
+          "name": "Athlete's Light Late Night Snack Package",
+          "store_id": "S17550802127823540_S00002",
+          "store_name": "Energy Station",
+          "attributes": "Standard Calorie",
+          "tags": [
+            "Low Sodium",
+            "Light Food",
+            "High Protein",
+            "Individual Meal",
+            "Healthy Nutrition",
+            "night snack",
+            "E-sports Special"
+          ]
+        }
+      ]
+    }
+  ],
+  "rubrics": [
+    "The ordered moxibustion package duration must be between 60-90 minutes",
+    "The moxibustion package should be exactly enough for 5 people, no more no less",
+    "The moxibustion package must be a suspended moxibustion service",
+    "The delivery restaurant must support night delivery",
+    "The delivery restaurant should have a rating of 4.5 or above",
+    "The ordered delivery food must be low-sodium light food",
+    "The ordered delivery food must not affect reaction speed, and cannot contain alcohol or irritating ingredients",
+    "The delivery order needs to include 5 individual meals",
+    "The delivery address should be Hangzhou Atour Hotel (Sports Center Branch), 3800 Moganshan Road, Gongshu District, Hangzhou"
+  ]
+}

@@ -1,0 +1,76 @@
+{
+  "required_orders": [
+    {
+      "order_id": "1072104T01",
+      "order_type": "delivery",
+      "user_id": "U000016",
+      "store_id": "S14848003758238527_S93427",
+      "note": "",
+      "location": {
+        "address": "Huchi Garden, 75 Huchi Road (180 meters walk from Exit 4 of Baiyang Bay Park Metro Station), Gusu District, Suzhou, Jiangsu Province",
+        "longitude": 120.558373,
+        "latitude": 31.340978
+      },
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 29.76,
+      "create_time": "2025-04-18 04:00:00",
+      "update_time": "2025-04-18 05:50:00",
+      "status": "cancelled",
+      "products": [
+        {
+          "product_id": "S30688323956871062_P57881",
+          "price": 14.88,
+          "quantity": 2,
+          "attributes": "Tomato Sauce"
+        }
+      ]
+    },
+    {
+      "order_id": "1072104T11",
+      "order_type": "delivery",
+      "user_id": "U000016",
+      "store_id": "S14848003758238527_S93427",
+      "note": "",
+      "location": {
+        "address": "Huchi Garden, 75 Huchi Road (180 meters walk from Exit 4 of Baiyang Bay Park Metro Station), Gusu District, Suzhou, Jiangsu Province",
+        "longitude": 120.558373,
+        "latitude": 31.340978
+      },
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 30.26,
+      "create_time": "2025-04-18 05:55:00",
+      "update_time": "2025-04-18 05:55:00",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S30688323956871062_P57881",
+          "price": 14.88,
+          "quantity": 1,
+          "attributes": "Tomato Sauce"
+        },
+        {
+          "product_id": "S10866881969664312_P25702",
+          "price": 12.88,
+          "quantity": 1,
+          "attributes": "Sweet Bean Sauce"
+        },
+        {
+          "product_id": "S19855181240368022_P21464",
+          "price": 2.5,
+          "quantity": 1,
+          "attributes": ""
+        }
+      ]
+    }
+  ],
+  "rubrics": [
+    "Cancel the order with order ID 1072104T01",
+    "The reordered items should include a Jianbing for the daughter, without egg, with sweet bean sauce flavor",
+    "The Jianbing for the user in the reordered items should be identical to the product in order ID 1072104T01 (with egg, tomato sauce flavor)",
+    "The reordered breakfast should contain 3 items in total, including 2 Jianbings and 1 tea egg"
+  ]
+}

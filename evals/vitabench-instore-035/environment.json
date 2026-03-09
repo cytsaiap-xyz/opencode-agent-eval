@@ -1,0 +1,221 @@
+{
+  "task_id": "10826057",
+  "domain": "instore",
+  "time": "2024-01-05 20:15:00",
+  "user_id": "U995595",
+  "weather": [
+    {
+      "city": "Nantong",
+      "category": "sunny",
+      "datetime": "2024-01-05",
+      "temperature": [
+        3,
+        12
+      ],
+      "humidity": 45
+    },
+    {
+      "city": "Nantong",
+      "category": "sunny",
+      "datetime": "2024-01-06",
+      "temperature": [
+        5,
+        14
+      ],
+      "humidity": 40
+    }
+  ],
+  "location": [
+    {
+      "address": "Room 502, Unit 1, Building 3, Zilang Mansion, 128 Gongnong Road, Chongchuan District, Nantong, Jiangsu Province",
+      "longitude": 120.8642,
+      "latitude": 32.0354
+    },
+    {
+      "address": "4th Floor, Building 12, Zone C, Nantong Software Park, 188 Tongsheng Avenue, Development Zone, Nantong, Jiangsu Province",
+      "longitude": 120.9254,
+      "latitude": 31.9876
+    }
+  ],
+  "user_profile": {
+    "user id": "U995595",
+    "occupation": "Product Manager",
+    "gender": "female",
+    "age group": "30~35",
+    "residence": "Nantong",
+    "home address": "Room 502, Unit 1, Building 3, Zilang Mansion, 128 Gongnong Road, Chongchuan District, Nantong, Jiangsu Province",
+    "work address": "4th Floor, Building 12, Zone C, Nantong Software Park, 188 Tongsheng Avenue, Development Zone, Nantong, Jiangsu Province",
+    "dietary restrictions": "No coffee drinks",
+    "family status": "Has children",
+    "personality": "Overly reliant on others' guidance, lacks independence and decisiveness"
+  },
+  "user_historical_behaviors": {
+    "user id": "U995595",
+    "occupation": "Product Manager",
+    "gender": "female",
+    "age group": "30~35",
+    "residence": "Nantong",
+    "home address": "Room 502, Unit 1, Building 3, Zilang Mansion, 128 Gongnong Road, Chongchuan District, Nantong, Jiangsu Province",
+    "work address": "4th Floor, Building 12, Zone C, Nantong Software Park, 188 Tongsheng Avenue, Development Zone, Nantong, Jiangsu Province",
+    "in-store dining": {
+      "fine-dining": {
+        "frequently purchased categories": [
+          "Local Cuisine/Shanghai & Jiangsu-Zhejiang Cuisine (Average ¥120)",
+          "International Cuisine/Japanese Food (Average ¥150)",
+          "Local Cuisine/Cantonese Food (Average ¥130)"
+        ],
+        "preferred average price per person": "¥100~150",
+        "preferred store rating": "4.0~4.8 stars",
+        "typical dining time": "18:30-20:30",
+        "preferred distance": "500~3000m",
+        "recent orders": [
+          {
+            "store": "Nantong No.1 Jiangnan Restaurant",
+            "product": "Squirrel-shaped Sweet & Sour Fish + Dongpo Pork + Tea-flavored Shrimp"
+          },
+          {
+            "store": "Helu Rotating Sushi",
+            "product": "Salmon Sashimi Platter + Crab Sushi + Chawanmushi"
+          },
+          {
+            "store": "Cantonese Pavilion",
+            "product": "White Cut Chicken + Shrimp Dumplings + Coconut Sago Dessert"
+          }
+        ],
+        "search history": [
+          "Sugar-free Desserts",
+          "Japanese Cuisine",
+          "Family-friendly Restaurants",
+          "Business Dining",
+          "Jiangsu-Zhejiang Cuisine"
+        ]
+      },
+      "light meal": {
+        "frequently purchased categories": [
+          "Fast Food/Chinese Quick Meals (Average ¥35)",
+          "Fast Food/Western Quick Meals (Average ¥40)",
+          "Local Cuisine/Sichuan Food (Average ¥45)"
+        ],
+        "preferred average price per person": "¥30~50",
+        "preferred store rating": "3.5~4.2 stars",
+        "typical dining time": "11:30-13:00",
+        "preferred distance": "0~500m",
+        "recent orders": [
+          {
+            "store": "Yonghe King",
+            "product": "Century Egg & Lean Pork Porridge + Fried Dough Sticks"
+          },
+          {
+            "store": "Salad Bowl",
+            "product": "Low-fat Chicken Breast Salad"
+          },
+          {
+            "store": "Chuan Xi Ba Zi",
+            "product": "Mapo Tofu Set Meal"
+          }
+        ],
+        "search history": [
+          "Diet Meals",
+          "Work Meals",
+          "Fast Food",
+          "Healthy Quick Meals"
+        ]
+      },
+      "desserts/drinks/snacks": {
+        "frequently purchased categories": [
+          "Beverage Shops (Average ¥20)",
+          "Bakery & Desserts (Average ¥25)",
+          "Other Dining/Fresh Fruits (Average ¥15)"
+        ],
+        "preferred average price per person": "¥15~30",
+        "preferred store rating": "3.8~4.5 stars",
+        "typical dining time": "15:00-16:30",
+        "preferred distance": "0~300m",
+        "recent orders": [
+          {
+            "store": "HeyTea",
+            "product": "Pulpy Grape (Sugar-free)"
+          },
+          {
+            "store": "BreadTalk",
+            "product": "Whole Wheat Walnut Bread"
+          },
+          {
+            "store": "Xianfeng Fruits",
+            "product": "Fruit Platter"
+          }
+        ],
+        "search history": [
+          "Sugar-free Drinks",
+          "Low-calorie Desserts",
+          "Fruits",
+          "Whole Wheat Bread"
+        ]
+      }
+    },
+    "other in-store services": {
+      "frequently consumed categories": {
+        "Sports & Fitness/Fitness Centers": "40%",
+        "Beauty/Yoga": "30%",
+        "Parent-Child/Family Entertainment": "20%",
+        "Beauty/Hair Salon": "10%"
+      },
+      "cost per order by category": {
+        "Sports & Fitness/Fitness Centers": "¥80~150",
+        "Beauty/Yoga": "¥120~200",
+        "Parent-Child/Family Entertainment": "¥150~300",
+        "Beauty/Hair Salon": "¥200~350"
+      },
+      "preferred store rating": "4.0~5.0 stars",
+      "preferred service time": "12:00-20:00",
+      "preferred distance": "0~8500m",
+      "recent orders": [
+        {
+          "store": "Comfort Fitness Center",
+          "product": "Single Workout + Personal Training Session"
+        },
+        {
+          "store": "Peaceful Yoga",
+          "product": "Yoga Monthly Pass"
+        },
+        {
+          "store": "Wonder Family Park",
+          "product": "Family Package (1 Adult & 1 Child)"
+        }
+      ],
+      "search history": [
+        "Fitness",
+        "Parent-Child Activities",
+        "Yoga Classes",
+        "Low-intensity Exercise",
+        "Family-friendly Restaurants"
+      ]
+    }
+  },
+  "stores": {},
+  "orders": {
+    "10826057T001": {
+      "order_id": "10826057T001",
+      "order_type": "instore",
+      "user_id": "U995595",
+      "store_id": "S17564426054175010_I00005",
+      "note": "",
+      "location": null,
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 88,
+      "order_time": "2024-01-03 14:35:00",
+      "update_time": "2024-01-03 14:35:00",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17564426054175010_P00019",
+          "name": "Family Package (1 Adult & 1 Child)",
+          "price": 88,
+          "quantity": 1
+        }
+      ]
+    }
+  }
+}

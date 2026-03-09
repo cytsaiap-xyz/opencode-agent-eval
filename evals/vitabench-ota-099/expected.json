@@ -1,0 +1,116 @@
+{
+  "required_orders": [
+    {
+      "order_id": "70812003T001",
+      "order_type": "train",
+      "user_id": "U149578",
+      "store_id": "S17557075056978907_T00010",
+      "note": "",
+      "location": null,
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 1106,
+      "create_time": "2024-05-24 19:14:53",
+      "update_time": "2024-05-24 19:14:53",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17557075056978907_P00054",
+          "price": 553,
+          "quantity": 2,
+          "date": "2024-06-08",
+          "seat_type": "Second Class Seat"
+        }
+      ]
+    },
+    {
+      "order_id": "70812003T002",
+      "order_type": "train",
+      "user_id": "U149578",
+      "store_id": "S17557075056978907_T00012",
+      "note": "",
+      "location": null,
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 1106,
+      "create_time": "2024-05-24 19:17:53",
+      "update_time": "2024-05-24 19:17:53",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17557075056978907_P00067",
+          "price": 553,
+          "quantity": 2,
+          "date": "2024-06-09",
+          "seat_type": "Second Class Seat"
+        }
+      ]
+    },
+    {
+      "order_id": "70812003T003",
+      "order_type": "attraction",
+      "user_id": "U149578",
+      "store_id": "S17557071994348897_A00006",
+      "note": "",
+      "location": null,
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 240,
+      "create_time": "2024-05-24 19:19:53",
+      "update_time": "2024-05-24 19:19:53",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17557071994348897_P00027",
+          "price": 120,
+          "quantity": 2,
+          "date": "2024-06-08",
+          "ticket_type": "Adult Ticket + Boat Tour Package"
+        }
+      ]
+    },
+    {
+      "order_id": "70812003T004",
+      "order_type": "hotel",
+      "user_id": "U149578",
+      "store_id": "S17557071994348897_H00004",
+      "note": "",
+      "location": null,
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 780,
+      "create_time": "2024-05-24 19:22:53",
+      "update_time": "2024-05-24 19:22:53",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17557071994348897_P00018",
+          "price": 780,
+          "quantity": 1,
+          "date": "2024-06-08",
+          "room_type": "Jiangnan Waterscape King Room"
+        }
+      ]
+    }
+  ],
+  "rubrics": [
+    "Transportation mode should be train",
+    "The outbound train ticket date should be June 8, 2024",
+    "Should avoid booking outbound train tickets with early departure times, the outbound train number should be D3135",
+    "The quantity of outbound train tickets should be 2",
+    "Should avoid booking return train tickets with late arrival times, the return train number should be D3142",
+    "The quantity of return train tickets should be 2",
+    "The scenic area to be booked should be Nanxun Ancient Town Scenic Area",
+    "Tickets should include boat tour packages",
+    "Ticket type should be Adult Ticket + Boat Tour Package",
+    "The ticket date should be June 8, 2024",
+    "The quantity of tickets should be 2",
+    "The booked guesthouse style should be Jiangnan Style",
+    "The booked guesthouse should provide Room Service",
+    "The check-in date for the guesthouse should be June 8, 2024"
+  ]
+}

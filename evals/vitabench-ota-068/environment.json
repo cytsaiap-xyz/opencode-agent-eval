@@ -1,0 +1,128 @@
+{
+  "task_id": "D0807014",
+  "domain": "ota",
+  "time": "2024-09-12 15:23:49",
+  "user_id": "U010070",
+  "weather": [
+    {
+      "city": "Tianjin",
+      "category": "rainy",
+      "datetime": "2024-09-17",
+      "temperature": [
+        18,
+        26
+      ],
+      "humidity": 70
+    },
+    {
+      "city": "Hong Kong",
+      "category": "sunny",
+      "datetime": "2024-09-17",
+      "temperature": [
+        24,
+        30
+      ],
+      "humidity": 62
+    }
+  ],
+  "location": [
+    {
+      "address": "Central Plaza, 18 Harbour Road, Wan Chai, Hong Kong",
+      "longitude": 114.1791,
+      "latitude": 22.2854
+    }
+  ],
+  "user_profile": {
+    "user id": "U010070",
+    "occupation": "Actuary",
+    "gender": "male",
+    "age group": "30~35",
+    "residence": "Tianjin",
+    "home address": "Room 502, Building 4, Tianjin University Beiyang Campus Apartment, 126 Weijin Road, Nankai District, Tianjin",
+    "work address": "Room 1705, 17th Floor, Tianjin Center, 219 Nanjing Road, Heping District, Tianjin",
+    "dietary restrictions": "No alcohol, no fried food",
+    "family status": "Has children",
+    "personality": "Tends to be controlling, not easily accepting of different opinions"
+  },
+  "user_historical_behaviors": {
+    "user id": "U010070",
+    "occupation": "Actuary",
+    "gender": "male",
+    "age group": "30~35",
+    "residence": "Tianjin",
+    "home address": "Room 502, Building 4, Apartment Complex, Beiyang Campus, Tianjin University, 126 Weijin Road, Nankai District, Tianjin",
+    "work address": "Room 1705, 17th Floor, Tianjin Center, 219 Nanjing Road, Heping District, Tianjin",
+    "visited scenes": {
+      "Exhibition Venues (Museums/Art Galleries)": "40%",
+      "Historical Sites": "25%",
+      "Landmark Buildings": "15%",
+      "Parks": "10%",
+      "Specialty Villages/Industrial Tourism/Uncategorized Projects": "10%"
+    },
+    "cost per night on hotel": "500~1000 yuan",
+    "visited hotels": {
+      "Atour": "35%",
+      "JI Hotel": "30%",
+      "Orange Hotel": "20%",
+      "Vienna Hotel": "15%"
+    },
+    "browsed hotels": {
+      "Four-star Hotels": "45%",
+      "Three-star Hotels": "25%",
+      "Comfort Hotels": "30%"
+    },
+    "historical travel plans": {
+      "Tianjin-Beijing": {
+        "Price Range": "80-120 yuan",
+        "Transportation Mode": "High-speed Rail"
+      },
+      "Tianjin-Shanghai": {
+        "Price Range": "600-1000 yuan",
+        "Transportation Mode": "Flight"
+      },
+      "Tianjin-Hangzhou": {
+        "Price Range": "800-1200 yuan",
+        "Transportation Mode": "Flight"
+      },
+      "Tianjin-Xi'an": {
+        "Price Range": "500-800 yuan",
+        "Transportation Mode": "High-speed Rail"
+      },
+      "Tianjin-Chengdu": {
+        "Price Range": "900-1300 yuan",
+        "Transportation Mode": "Flight"
+      },
+      "Tianjin-Suzhou": {
+        "Price Range": "400-600 yuan",
+        "Transportation Mode": "High-speed Rail"
+      }
+    }
+  },
+  "stores": {},
+  "orders": {
+    "S17557514964243714_O00002": {
+      "order_id": "S17557514964243714_O00002",
+      "order_type": "flight",
+      "user_id": "U010070",
+      "store_id": "S17557514964243714_F00009",
+      "note": "Business Trip",
+      "location": null,
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 13120,
+      "create_time": "2024-09-12 14:20:15",
+      "update_time": "2024-09-12 14:20:15",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17557514964243714_P00076",
+          "price": 3280,
+          "quantity": 4,
+          "date": "2024-09-13",
+          "seat_type": "Business Class Cabin"
+        }
+      ]
+    }
+  }
+}

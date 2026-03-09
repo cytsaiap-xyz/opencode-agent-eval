@@ -1,0 +1,56 @@
+{
+  "required_orders": [
+    {
+      "order_id": "10826084T001",
+      "order_type": "instore",
+      "user_id": "U417030",
+      "store_id": "S17567836596776278_I00001",
+      "note": "",
+      "location": null,
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 544,
+      "create_time": "2024-10-08 16:47:03",
+      "update_time": "2024-10-08 16:47:03",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17567836596776278_P00001",
+          "name": "Filial Piety Exclusive Elderly Therapy Package (Shoulder & Neck + Foot)",
+          "price": 168,
+          "quantity": 2
+        },
+        {
+          "product_id": "S17567836596776278_P00001",
+          "name": "Essential Oil SPA Soothing Package",
+          "price": 208,
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "book_id": "10826084T002",
+      "shop_id": "S17567836596776278_I00001",
+      "reservation_time": "2024-10-11 20:00:00",
+      "update_time": "2024-10-08 16:47:52",
+      "customer_id": "U417030",
+      "customer_count": 3,
+      "status": "paid"
+    }
+  ],
+  "rubrics": [
+    "The massage shop ordered should have a comfortable environment",
+    "The service of the massage shop ordered should be meticulous",
+    "The massage shop order should include elderly massage packages",
+    "The quantity of elderly massage packages in the massage shop order should be 2",
+    "The elderly massage packages in the massage shop order should not be packages that include full body massage",
+    "The massage shop order should include essential oil SPA packages",
+    "The quantity of essential oil SPA packages in the massage shop order should be 1",
+    "The elderly massage packages and essential oil SPA packages should be from the same store",
+    "The reserved massage shop should be Kangleyuan Wellness Center",
+    "Should check the specific date of the Double Ninth Festival in 2024, which is Friday, October 11, 2024, so the massage shop reservation time is 2024-10-11 20:00",
+    "The number of people for the massage shop reservation should be 3",
+    "Should check the specific date of the Double Ninth Festival in 2024, which is Friday, October 11, 2024, not a weekend, so should not order from a Hangzhou cuisine restaurant"
+  ]
+}

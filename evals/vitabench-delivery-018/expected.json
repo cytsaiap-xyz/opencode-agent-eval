@@ -1,0 +1,97 @@
+{
+  "required_orders": [
+    {
+      "order_id": "30711006T01",
+      "order_type": "delivery",
+      "user_id": "U000075",
+      "store_id": "S31159892811642571_S75189",
+      "note": "",
+      "location": {
+        "address": "Building A, Yonghe Longzihu Plaza, Boxue Road Street, Jinshui District, Zhengzhou City, Henan Province",
+        "longitude": 113.805621,
+        "latitude": 34.791185
+      },
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 18.8,
+      "create_time": "2025-10-30 11:28:00",
+      "update_time": "2025-10-30 11:28:00",
+      "status": "processed",
+      "products": [
+        {
+          "product_id": "S24269126648570139_P84857",
+          "price": 18.8,
+          "quantity": 1,
+          "attributes": ""
+        }
+      ]
+    },
+    {
+      "order_id": "30711006T02",
+      "order_type": "delivery",
+      "user_id": "U000075",
+      "store_id": "S26698159307935481_S07145",
+      "note": "",
+      "location": {
+        "address": "Building A, Yonghe Longzihu Plaza, Boxue Road Street, Jinshui District, Zhengzhou City, Henan Province",
+        "longitude": 113.805621,
+        "latitude": 34.791185
+      },
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 26.9,
+      "create_time": "2025-10-30 11:30:00",
+      "update_time": "2025-10-30 11:30:00",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S26730768377163847_P88743",
+          "price": 26.9,
+          "quantity": 1,
+          "attributes": ""
+        }
+      ]
+    },
+    {
+      "order_id": "30711006T03",
+      "order_type": "delivery",
+      "user_id": "U000075",
+      "store_id": "S17089629001924407_S60854",
+      "note": "",
+      "location": {
+        "address": "Building A, Yonghe Longzihu Plaza, Boxue Road Street, Jinshui District, Zhengzhou City, Henan Province",
+        "longitude": 113.805621,
+        "latitude": 34.791185
+      },
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 29.99,
+      "create_time": "2025-10-30 11:32:00",
+      "update_time": "2025-10-30 11:32:00",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S53901735369543400_P19927",
+          "price": 29.99,
+          "quantity": 1,
+          "attributes": ""
+        }
+      ]
+    }
+  ],
+  "rubrics": [
+    "The duck collarbone order delivery address should be Building A, Yonghe Longzihu Plaza, Boxue Road Street, Jinshui District, Zhengzhou City, Henan Province",
+    "The duck collarbone order delivery time should be around 2025-10-30 12:00:00",
+    "When selecting duck collarbone products, choose stores near the company to ensure shorter delivery distance",
+    "The clay pot rice order delivery address should be Building A, Yonghe Longzihu Plaza, No. 197 Ping'an Avenue, Jinshui District, Zhengzhou City, Henan Province",
+    "The clay pot rice order delivery time should be around 2025-10-30 12:00:00",
+    "When choosing clay pot rice for Guangdong colleagues, select Cantonese-style products to meet their discerning taste requirements",
+    "The dry pot braised rice order delivery address should be Building A, Yonghe Longzihu Plaza, Boxue Road Street, Jinshui District, Zhengzhou City, Henan Province",
+    "The dry pot braised rice order delivery time should be around 2025-10-30 12:00:00",
+    "When choosing dry pot braised rice for personal lunch, select from the frequently visited Bajibaji Dry Pot Braised Rice (Longzihu Branch)",
+    "The personal lunch dry pot braised rice must include both crispy pork and beef toppings"
+  ]
+}

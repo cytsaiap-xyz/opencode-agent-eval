@@ -1,0 +1,390 @@
+{
+  "task_id": "10721004",
+  "domain": "delivery",
+  "time": "2025-04-18 05:46:21",
+  "user_id": "U000016",
+  "weather": [
+    {
+      "city": "Suzhou City",
+      "category": "rainy",
+      "datetime": "2025-04-18",
+      "temperature": [
+        15,
+        22
+      ],
+      "humidity": 81
+    }
+  ],
+  "location": [
+    {
+      "address": "Huchi Garden, 75 Huchi Road (180 meters walk from Exit 4 of Baiyang Bay Park Metro Station), Gusu District, Suzhou, Jiangsu Province",
+      "longitude": 120.558373,
+      "latitude": 31.340978
+    }
+  ],
+  "user_profile": {
+    "user id": "U000016",
+    "occupation": "Driver",
+    "gender": "male",
+    "age group": "35~40",
+    "residence": "Suzhou",
+    "home address": "Huchi Garden, 75 Huchi Road (180 meters walk from Exit 4 of Baiyang Bay Park Metro Station), Gusu District, Suzhou, Jiangsu Province",
+    "work address": "Suzhou North Plaza Bus Terminal, Su Station Road, Sujin Street, Gusu District, Suzhou, Jiangsu Province",
+    "dietary restrictions": "No alcohol",
+    "family status": "Has children",
+    "personality": "Tends to be controlling and dominant, not easily accepting different opinions"
+  },
+  "user_historical_behaviors": {
+    "user id": "U000016",
+    "occupation": "driver",
+    "gender": "male",
+    "age group": "35~40",
+    "residence": "Suzhou",
+    "home address": "Huchi Garden, 75 Huchi Road (180 meters walk from Exit 4 of Baiyang Bay Park Metro Station), Gusu District, Suzhou, Jiangsu Province",
+    "work address": "Suzhou North Plaza Bus Terminal, Su Station Road, Sujin Street, Gusu District, Suzhou, Jiangsu Province",
+    "breakfast": {
+      "frequently purchased categories": [
+        "Quick Meals/Steamed Buns/Pan-fried Buns (average 15 yuan)",
+        "Quick Meals/Fried Dough Sticks (average 8 yuan)",
+        "Quick Meals/Jianbing/Wraps/Jianbing (Chinese Crepe) (average 12 yuan)"
+      ],
+      "cost per order": "8~25 yuan",
+      "preferred store rating": "4.0~4.5 stars",
+      "preferred delivery time": "15~30 minutes",
+      "preferred distance": "0~2000m",
+      "recent orders": [
+        {
+          "store": "Lao Zhu's Bun Shop",
+          "product": "Pork and Green Onion Buns + Soy Milk"
+        },
+        {
+          "store": "Tianjin Jianbing",
+          "product": "Original Jianbing"
+        },
+        {
+          "store": "Suzhou Breakfast House",
+          "product": "Fried Dough Stick with Soy Milk + Tea Egg"
+        }
+      ],
+      "search history": [
+        "steamed buns",
+        "fried dough sticks",
+        "soy milk",
+        "pan-fried buns",
+        "breakfast",
+        "Jianbing (Chinese Crepe)"
+      ]
+    },
+    "weekday lunch/dinner": {
+      "frequently purchased categories": [
+        "Quick Meals/Rice with Toppings (average 25 yuan)",
+        "Quick Meals/Rice Noodles/Vermicelli (average 22 yuan)",
+        "Chinese Cuisine/Crayfish (average 75 yuan)"
+      ],
+      "cost per order": "20~75 yuan",
+      "preferred store rating": "4.2~4.8 stars",
+      "preferred delivery time": "20~40 minutes",
+      "preferred distance": "0~3000m",
+      "recent orders": [
+        {
+          "store": "Braised Pork Rice Hall",
+          "product": "Braised Pork Rice + Hot and Sour Soup"
+        },
+        {
+          "store": "Hunan Style Rice Noodles",
+          "product": "Beef Rice Noodles"
+        },
+        {
+          "store": "Stewed Chicken with Rice",
+          "product": "Standard Stewed Chicken with Rice"
+        }
+      ],
+      "search history": [
+        "rice with toppings",
+        "braised pork",
+        "rice noodles",
+        "fast food",
+        "boxed meal",
+        "stewed chicken"
+      ]
+    },
+    "weekend lunch/dinner": {
+      "frequently purchased categories": [
+        "Chinese Cuisine/Northeastern Cuisine (average 85 yuan)",
+        "Chinese Cuisine/Sichuan Cuisine (average 90 yuan)",
+        "Hot Pot/Sichuan Skewer Hot Pot (average 120 yuan)"
+      ],
+      "cost per order": "80~150 yuan",
+      "preferred store rating": "4.5~4.9 stars",
+      "preferred delivery time": "30~60 minutes",
+      "preferred distance": "0~5000m",
+      "recent orders": [
+        {
+          "store": "Old Northeastern Restaurant",
+          "product": "Sweet and Sour Pork + Three Fresh Vegetables + Rice"
+        },
+        {
+          "store": "Sichuan Flavor House",
+          "product": "Boiled Fish + Twice-Cooked Pork + Two Portions of Rice"
+        },
+        {
+          "store": "Sichuan Skewer Hot Pot",
+          "product": "Set for Two (Tripe + Beef + Various Vegetables)"
+        }
+      ],
+      "search history": [
+        "northeastern cuisine",
+        "sweet and sour pork",
+        "sichuan cuisine",
+        "boiled fish in chili oil",
+        "sichuan skewer hot pot",
+        "family set meal"
+      ]
+    },
+    "desserts/drinks/snacks": {
+      "frequently purchased categories": [
+        "Drinks/Desserts/Bubble Tea (average 18 yuan)",
+        "Drinks/Desserts/Fruit Juice (average 22 yuan)",
+        "Drinks/Desserts/Chinese Pastries (average 30 yuan)"
+      ],
+      "cost per order": "15~40 yuan",
+      "preferred store rating": "4.3~4.8 stars",
+      "preferred delivery time": "15~30 minutes",
+      "preferred distance": "0~3000m",
+      "recent orders": [
+        {
+          "store": "Yidiandian",
+          "product": "Pearl Milk Tea"
+        },
+        {
+          "store": "Fresh Juice Bar",
+          "product": "Kiwi Banana Juice"
+        },
+        {
+          "store": "Suzhou Pastry Shop",
+          "product": "Osmanthus Cake"
+        }
+      ],
+      "search history": [
+        "bubble tea",
+        "fruit juice",
+        "suzhou-style pastries",
+        "osmanthus cake",
+        "healthy drinks"
+      ]
+    },
+    "night snack": {
+      "frequently purchased categories": [
+        "BBQ/Grilled Food/Skewers (average 48 yuan)",
+        "Quick Meals/Rice Noodles/Vermicelli (average 25 yuan)",
+        "Quick Meals/Liuzhou Snail Noodles (average 28 yuan)"
+      ],
+      "cost per order": "20~50 yuan",
+      "preferred store rating": "4.0~4.6 stars",
+      "preferred delivery time": "25~45 minutes",
+      "preferred distance": "0~3500m",
+      "recent orders": [
+        {
+          "store": "Wang's BBQ",
+          "product": "10 Lamb Skewers + Grilled Eggplant + Grilled Mantou Slices"
+        },
+        {
+          "store": "Liuzhou Snail Noodles",
+          "product": "Classic Snail Noodles + Braised Egg"
+        },
+        {
+          "store": "Lanzhou Pulled Noodles Night Shop",
+          "product": "Beef Noodles"
+        }
+      ],
+      "search history": [
+        "BBQ",
+        "skewers",
+        "snail noodles",
+        "night snack",
+        "pulled noodles",
+        "non-spicy night snacks"
+      ]
+    }
+  },
+  "stores": {
+    "S14848003758238527_S93427": {
+      "name": "Xinru Breakfast Shop (Xingguangyao Branch)",
+      "store_id": "S14848003758238527_S93427",
+      "score": 4.6,
+      "location": {
+        "address": "Xinru Breakfast Shop (80 meters southwest of the intersection of Taijiao Street and Huchi Road, Gusu District, Suzhou, Jiangsu Province)",
+        "latitude": 31.354038,
+        "longitude": 120.54583
+      },
+      "tags": [
+        "Made to Order"
+      ],
+      "products": [
+        {
+          "name": "Jianbing with Egg",
+          "store_id": "S14848003758238527_S93427",
+          "store_name": "Xinru Breakfast Shop (Xingguangyao Branch)",
+          "price": 14.88,
+          "tags": [],
+          "product_id": "S30688323956871062_P57881",
+          "attributes": [
+            "Ketchup",
+            "Sweet Bean Sauce"
+          ],
+          "quantity": 9999
+        },
+        {
+          "name": "Jianbing (Chinese Crepe)",
+          "store_id": "S14848003758238527_S93427",
+          "store_name": "Xinru Breakfast Shop (Xingguangyao Branch)",
+          "price": 12.88,
+          "tags": [],
+          "product_id": "S10866881969664312_P25702",
+          "attributes": [
+            "Sweet Bean Sauce",
+            "Medium Spicy",
+            "Mild Spicy",
+            "Extra Spicy",
+            "Not Spicy"
+          ],
+          "quantity": 9999
+        },
+        {
+          "name": "Five-Spice Tea Egg",
+          "store_id": "S14848003758238527_S93427",
+          "store_name": "Xinru Breakfast Shop (Xingguangyao Branch)",
+          "price": 2.5,
+          "tags": [],
+          "product_id": "S19855181240368022_P21464",
+          "attributes": [],
+          "quantity": 9999
+        },
+        {
+          "name": "Salted Duck Egg (Perfect Porridge Companion)",
+          "product_id": "S18566700857999989_P91375",
+          "store_id": "S14848003758238527_S93427",
+          "store_name": "Xinru Breakfast Shop (Xingguangyao Branch)",
+          "price": 3,
+          "tags": [
+            "Not Homemade"
+          ],
+          "attributes": [],
+          "quantity": 9999
+        }
+      ]
+    },
+    "S15499322319151486_S70746": {
+      "name": "Northeastern Specialty Pancake Shop",
+      "store_id": "S15499322319151486_S70746",
+      "score": 4.6,
+      "location": {
+        "address": "Northeastern Specialty Pancake Shop at Jincheng Garden (1958 Chengbei West Road, Baiyang Bay Street, Gusu District, Suzhou, Jiangsu Province)",
+        "latitude": 31.358685,
+        "longitude": 120.550954
+      },
+      "tags": [],
+      "products": [
+        {
+          "name": "Jianbing + Egg + Tenderloin + Grilled Sausage + Lettuce",
+          "product_id": "S60886375481445877_P93564",
+          "store_id": "S15499322319151486_S70746",
+          "store_name": "Northeastern Specialty Pancake Shop",
+          "price": 13.98,
+          "tags": [
+            "Crispy"
+          ],
+          "attributes": [],
+          "quantity": 9999
+        }
+      ]
+    },
+    "S10368711634351033_S21558": {
+      "name": "Gold Medal Jianbing, Cold Noodles & Snacks (Huqiu Branch)",
+      "store_id": "S10368711634351033_S21558",
+      "score": 4.9,
+      "location": {
+        "address": "Lianfeng Fukang Commercial Street, 115 Huashan Road, Huqiu District, Suzhou, Jiangsu Province",
+        "latitude": 31.312874,
+        "longitude": 120.541645
+      },
+      "tags": [],
+      "products": [
+        {
+          "name": "Jianbing + Egg + Shredded Potato + Chicken Strips",
+          "product_id": "S23836503882159725_P33649",
+          "store_id": "S10368711634351033_S21558",
+          "store_name": "Gold Medal Jianbing, Cold Noodles & Snacks (Huqiu Branch)",
+          "price": 11.9,
+          "tags": [],
+          "attributes": [],
+          "quantity": 9999
+        },
+        {
+          "name": "Egg (Additional topping, not served without ordering Jianbing or Cold Noodles)",
+          "product_id": "S20023289908279914_P33389",
+          "store_id": "S10368711634351033_S21558",
+          "store_name": "Gold Medal Jianbing, Cold Noodles & Snacks (Huqiu Branch)",
+          "price": 5,
+          "tags": [
+            "No delivery for single item orders"
+          ],
+          "attributes": [],
+          "quantity": 9999
+        }
+      ]
+    },
+    "S14957947821415231_S63555": {
+      "name": "Minnan Fen Meat Egg Burger (Grilled Cold Noodles · Iced Jelly)",
+      "store_id": "S14957947821415231_S63555",
+      "score": 4.6,
+      "location": {
+        "address": "Building 3, Xingguangyao Shopping Plaza, 1583 Huchi Road, Gusu District, Suzhou, Jiangsu Province",
+        "latitude": 31.353388,
+        "longitude": 120.547012
+      },
+      "tags": [],
+      "products": [
+        {
+          "name": "Deluxe Jianbing with Double Eggs + Sausage + Tenderloin + Crab Cake",
+          "product_id": "S58804489647055533_P18893",
+          "store_id": "S14957947821415231_S63555",
+          "store_name": "Minnan Fen Meat Egg Burger (Grilled Cold Noodles · Iced Jelly)",
+          "price": 28,
+          "tags": [],
+          "attributes": [],
+          "quantity": 9999
+        }
+      ]
+    }
+  },
+  "orders": {
+    "1072104T01": {
+      "order_id": "1072104T01",
+      "order_type": "delivery",
+      "user_id": "U000016",
+      "store_id": "S14848003758238527_S93427",
+      "note": "",
+      "location": {
+        "address": "Huchi Garden, 75 Huchi Road (180 meters walk from Exit 4 of Baiyang Bay Park Metro Station), Gusu District, Suzhou, Jiangsu Province",
+        "longitude": 120.558373,
+        "latitude": 31.340978
+      },
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 29.76,
+      "create_time": "2025-04-18 04:00:00",
+      "update_time": "2025-04-18 04:00:00",
+      "status": "unpaid",
+      "products": [
+        {
+          "product_id": "S30688323956871062_P57881",
+          "price": 14.88,
+          "quantity": 2,
+          "attributes": "ketchup"
+        }
+      ]
+    }
+  }
+}

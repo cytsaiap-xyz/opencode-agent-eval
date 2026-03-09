@@ -1,0 +1,44 @@
+{
+  "task_id": "14",
+  "query": "I'd like to plan a trip from Fuzhou to Quanzhou, departing on November 12, 2025, and returning on November 13, 2025—just two days. I’d prefer to take the train both ways, and for comfort, first-class seats would be great. Please help me choose suitable train departures.\n\nFor accommodation, I’d like to stay at the highest-rated hotel in Quanzhou to ensure a good experience. There are two of us traveling, so one room will be sufficient.\n\nRegarding meals, I have two small requests. First, I’d like to dine once at 'Zhen Ai Jia Restaurant'—I’ve heard it’s quite special, so please make sure to include it in the plan. Second, we’ll be visiting 'Qingjing Ancient Temple', and after sightseeing, we plan to have a meal nearby. Ideally, the restaurant should allow online queue registration, which would be more convenient.\n\nThat covers everything. Please arrange the transportation, accommodation, dining, and sightseeing for me. I believe the information provided is sufficient—go ahead and make the arrangements without needing to ask me further questions! November 12, 2025 is Wednesday",
+  "meta_info": {
+    "org": "Fuzhou",
+    "dest": [
+      "Quanzhou"
+    ],
+    "days": 2,
+    "depart_date": "2025-11-12",
+    "return_date": "2025-11-13",
+    "people_number": 2,
+    "room_number": 1
+  },
+  "hard_constraints": {
+    "train_seat_class": {
+      "constraint_context": "Travel by train, and hope to choose first-class seats for both the outbound and return journeys",
+      "outbound_train_no": "D671",
+      "inbound_train_no": "G3756"
+    },
+    "hotel_highest_rated": {
+      "constraint_context": "Please select the highest-rated hotel in the city for accommodation",
+      "constraint_type": "superlative_highest_rated_hotel",
+      "hotel_name": "Ji Hotel Quanzhou Municipal Government Fenghai Road",
+      "hotel_price": 279.0,
+      "hotel_score": 5.0
+    },
+    "restaurant_must_eat_named": {
+      "constraint_context": "The itinerary must include one meal at 'Zhen Ai Jia Restaurant'.",
+      "constraint_type": "superlative_must_eat_named",
+      "restaurant_name": "Zhen Ai Jia Restaurant",
+      "restaurant_rating": 4.2
+    },
+    "restaurant_specific_tag_nearby": {
+      "constraint_context": "Arrange a meal at a restaurant near 'Qingjing Ancient Temple' during the trip, with online number-taking and queueing service required.",
+      "constraint_type": "superlative_specific_tag_nearby",
+      "attraction_name": "Qingjing Ancient Temple",
+      "restaurant_name": "Yi He Yuan Vegetarian Buffet Restaurant",
+      "required_tag": "Online Queue",
+      "price_per_person": 29.0,
+      "restaurant_rating": 4.6
+    }
+  }
+}

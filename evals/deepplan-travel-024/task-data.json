@@ -1,0 +1,50 @@
+{
+  "task_id": "23",
+  "query": "I plan to travel from Nanchang to Chongqing for a three-day trip on November 12, 2025, and return to Nanchang on November 14. Could you help me plan the entire itinerary, including transportation, accommodation, meals, and activities? Regarding transportation, I’d like the outbound train to depart between 11:00 AM and 3:00 PM—this timing works well so I don’t have to wake up too early or rush too late.  \n\nFor accommodation, I’d like to stay at a five-star hotel that ideally offers SPA services, so I can fully relax during the trip.  \n\nAs for sightseeing, I’m particularly interested in visiting places in Chongqing with historical and cultural significance. Since time is limited, please arrange for me the top-rated historical and cultural attraction—it seems definitely worth visiting. Also, I can’t miss Chongqing’s local cuisine! I’ve heard there are many great restaurants near 'Baysi Road Delicious Food Street'. Please select one restaurant in that area that offers a waiting area service, so I won’t have to wait around inconveniently.  \n\nThese are all my requirements—I believe I’ve provided sufficient information. Please go ahead and plan the itinerary for me directly without asking for further details! November 12, 2025 is Wednesday",
+  "meta_info": {
+    "org": "Nanchang",
+    "dest": [
+      "Chongqing"
+    ],
+    "days": 3,
+    "depart_date": "2025-11-12",
+    "return_date": "2025-11-14",
+    "people_number": 1,
+    "room_number": 1
+  },
+  "hard_constraints": {
+    "train_departure_time_range": {
+      "constraint_context": "The departure train must leave between 11:00 AM and 3:00 PM.",
+      "outbound_train_no": "D2232"
+    },
+    "hotel_star_service_required": {
+      "constraint_context": "Please select a 5-star hotel that offers SPA services for accommodation.",
+      "constraint_type": "superlative_star_service_required",
+      "hotel_name": "DoubleTree by Hilton Chongqing Jiafa",
+      "required_service": "SPA Service",
+      "hotel_star": 5,
+      "hotel_price": 560.0
+    },
+    "attraction_type_highest_rated": {
+      "constraint_context": "The itinerary must include the highest-rated attraction in the 'Historical and Cultural' category.",
+      "constraint_type": "superlative_type_highest_rated",
+      "attraction_names": [
+        "Hongyadong Folk Culture Area"
+      ],
+      "attraction_type_cn": "历史文化",
+      "attraction_type": "Historical and Cultural",
+      "attraction_ratings": [
+        4.8
+      ]
+    },
+    "restaurant_specific_tag_nearby": {
+      "constraint_context": "Arrange a meal at a restaurant near 'Bayi Road Food Street' during the trip, with a waiting area service required.",
+      "constraint_type": "superlative_specific_tag_nearby",
+      "attraction_name": "Bayi Road Food Street",
+      "restaurant_name": "Chaibanban Themed Restaurant",
+      "required_tag": "Waiting Area",
+      "price_per_person": 100.0,
+      "restaurant_rating": 2.4
+    }
+  }
+}

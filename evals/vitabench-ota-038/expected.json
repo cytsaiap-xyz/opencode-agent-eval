@@ -1,0 +1,67 @@
+{
+  "required_orders": [
+    {
+      "order_id": "D0812001T002",
+      "order_type": "attraction",
+      "user_id": "U500349",
+      "store_id": "S17557071510245346_A00005",
+      "note": "",
+      "location": null,
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 180,
+      "create_time": "2025-08-02 11:19:36",
+      "update_time": "2025-08-02 11:19:36",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17557071510245346_P00042",
+          "price": 180,
+          "quantity": 1,
+          "date": "2025-08-05",
+          "ticket_type": "Admission + \"Kangxi Revisited\" Show Package"
+        }
+      ]
+    },
+    {
+      "order_id": "D0812001T001",
+      "order_type": "hotel",
+      "user_id": "U500349",
+      "store_id": "S17557071510245346_H00001",
+      "note": "",
+      "location": null,
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 856,
+      "create_time": "2025-08-02 11:26:53",
+      "update_time": "2025-08-02 11:26:53",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17557071510245346_P00001",
+          "price": 428,
+          "quantity": 1,
+          "date": "2025-08-07",
+          "room_type": "Deluxe Twin Room"
+        },
+        {
+          "product_id": "S17557071510245346_P00002",
+          "price": 428,
+          "quantity": 1,
+          "date": "2025-08-08",
+          "room_type": "Deluxe Twin Room"
+        }
+      ]
+    }
+  ],
+  "rubrics": [
+    "Query the price of Huangcheng Xiangfu tickets with show included",
+    "Check the weather in Jincheng from August 2, 2025 to August 7, 2025, and find which day is sunny (result: August 5, 2025), so the attraction ticket date is set for August 5, 2025",
+    "The attraction ticket purchased includes a show",
+    "Check that the Beginning of Autumn date is August 7, 2025, so hotel reservations are made for August 7 and August 8, 2025",
+    "By reviewing last month's hotel orders in Wuzhou, determine that the hotel to be booked is Atour Hotel Wuzhou",
+    "The hotel room type booked is a twin room"
+  ]
+}

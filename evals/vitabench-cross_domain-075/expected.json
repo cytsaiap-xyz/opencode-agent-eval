@@ -1,0 +1,146 @@
+{
+  "required_orders": [
+    {
+      "order_id": "OT815f747cdc",
+      "order_type": "delivery",
+      "user_id": "U106297",
+      "store_id": "S17550809174775032_S00001",
+      "note": "",
+      "location": {
+        "address": "12th Floor, Shanxi International Financial Center, 368 Qinxian North Street, Xiaodian District, Taiyuan, Shanxi Province",
+        "longitude": 112.5692,
+        "latitude": 37.7986
+      },
+      "dispatch_time": "2025-04-18 14:00:00",
+      "shipping_time": 27,
+      "delivery_time": "2025-04-18 14:27:00",
+      "total_price": 135,
+      "create_time": "2025-04-18 11:15:48",
+      "update_time": "2025-04-18 11:15:48",
+      "status": "delivered",
+      "products": [
+        {
+          "product_id": "S17550809174775032_P00001",
+          "price": 135,
+          "quantity": 1,
+          "name": "Low-Sugar Cupcake Gift Box (15 Cups)",
+          "store_id": "S17550809174775032_S00001",
+          "store_name": "Sweetheart Pastry House",
+          "attributes": "Customizable logo available",
+          "tags": [
+            "Cupcake",
+            "Low Sugar",
+            "Multi-Serving",
+            "Gift Box Package",
+            "Afternoon Tea",
+            "Gathering",
+            "Celebration"
+          ]
+        },
+        {
+          "product_id": "S17550809174775032_P00007",
+          "price": 158,
+          "quantity": 1,
+          "name": "Low-Sugar Fruit Tea Set (Serves 15)",
+          "store_id": "S17550809174775032_S00001",
+          "store_name": "Sweetheart Pastry House",
+          "attributes": "",
+          "tags": [
+            "Fruit Tea and Snacks",
+            "Low Sugar",
+            "Multi-Serving",
+            "Afternoon Tea",
+            "Healthy",
+            "Gathering"
+          ]
+        }
+      ]
+    },
+    {
+      "order_id": "A0808002T001",
+      "order_type": "instore",
+      "user_id": "U106297",
+      "store_id": "S17550809174775032_I00010",
+      "note": "",
+      "location": null,
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 398,
+      "create_time": "2025-04-18 11:17:23",
+      "update_time": "2025-04-18 11:17:23",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17550809174775032_P00069",
+          "name": "Hospital Horror Themed Escape Room (4-6 People)",
+          "price": 398,
+          "shop_id": "S17550809174775032_I00010",
+          "tags": [
+            "Horror Theme",
+            "Team Collaboration",
+            "High Difficulty",
+            "Special Effect Props"
+          ],
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "order_id": "A0808002T002",
+      "order_type": "attraction",
+      "user_id": "U106297",
+      "store_id": "S17550809174775032_A00006",
+      "note": "",
+      "location": {
+        "address": "Taiyuan Fenhe River Light Show, North Area of Fenhe Park, Yingze District, Taiyuan, Shanxi Province",
+        "longitude": 112.5802,
+        "latitude": 37.8534
+      },
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 280,
+      "create_time": "2025-04-18 11:32:46",
+      "update_time": "2025-04-18 11:32:46",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17550809174775032_P00034",
+          "price": 80,
+          "quantity": 2,
+          "date": "2025-04-20",
+          "ticket_type": "Senior Ticket"
+        },
+        {
+          "product_id": "S17550809174775032_P00033",
+          "price": 120,
+          "quantity": 1,
+          "date": "2025-04-20",
+          "ticket_type": "Adult Ticket"
+        }
+      ]
+    }
+  ],
+  "rubrics": [
+    "The afternoon tea order must include cupcakes",
+    "The afternoon tea order must include 15 cupcakes",
+    "The afternoon tea order must include a tea snack platter",
+    "The tea snack platter in the afternoon tea order should serve 15 people",
+    "The expected delivery time for the afternoon tea order should be at 14:30 on 2025-04-18",
+    "The delivery address for the afternoon tea order should be 12th Floor, Shanxi International Financial Center, 368 Qinxian North Street, Xiaodian District, Taiyuan, Shaanxi Province",
+    "The items in the afternoon tea order should be low sugar",
+    "The cupcakes and tea snack platter in the afternoon tea order should be from the same store",
+    "The escape room to be booked should have a rating of 4.0 or above",
+    "The escape room to be booked should be a Featured Store",
+    "The escape room package should have a Horror Theme",
+    "The escape room package should accommodate 5 people",
+    "When checking the weather in Taiyuan for 2025-04-20, the result shows overcast, no rain, so search for attractions with water shows",
+    "The attraction to be booked should have a light show",
+    "The attraction should offer Senior Tickets with discounted prices compared to Adult Tickets",
+    "The attraction should offer Adult Tickets",
+    "The quantity of Senior Tickets in the attraction order should be 2",
+    "The quantity of Adult Tickets in the attraction order should be 1",
+    "The date for the attraction tickets should be April 20, 2025"
+  ]
+}

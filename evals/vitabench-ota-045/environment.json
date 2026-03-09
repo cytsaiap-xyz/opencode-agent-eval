@@ -1,0 +1,272 @@
+{
+  "task_id": "70808003",
+  "domain": "ota",
+  "time": "2024-08-12 20:55:21",
+  "user_id": "U010041",
+  "weather": [
+    {
+      "city": "Shijiazhuang",
+      "category": "sunny",
+      "datetime": "2024-08-11",
+      "temperature": [
+        22,
+        35
+      ],
+      "humidity": 45
+    },
+    {
+      "city": "Urumqi",
+      "category": "cloudy",
+      "datetime": "2024-08-27",
+      "temperature": [
+        18,
+        28
+      ],
+      "humidity": 35
+    },
+    {
+      "city": "Kashgar",
+      "category": "sunny",
+      "datetime": "2024-08-28",
+      "temperature": [
+        20,
+        32
+      ],
+      "humidity": 25
+    }
+  ],
+  "location": [
+    {
+      "address": "Room 502, Unit 1, Building 3, Jinyu Huafu, 169 Fuqiang Street, Yuhua District, Shijiazhuang City, Hebei Province",
+      "longitude": 114.5149,
+      "latitude": 38.0428
+    },
+    {
+      "address": "12th Floor, Building B, Technology Innovation Building, 168 Changjiang Avenue, High-Tech Zone, Shijiazhuang City, Hebei Province",
+      "longitude": 114.5692,
+      "latitude": 38.0856
+    }
+  ],
+  "user_profile": {
+    "user id": "U010041",
+    "occupation": "Algorithm Engineer",
+    "gender": "male",
+    "age group": "25~30",
+    "residence": "Shijiazhuang",
+    "home address": "Room 502, Unit 1, Building 3, Jinyu Huafu, 169 Fuqiang Street, Yuhua District, Shijiazhuang City, Hebei Province",
+    "work address": "12th Floor, Building B, Technology Innovation Building, 168 Changjiang Avenue, High-Tech Zone, Shijiazhuang City, Hebei Province",
+    "dietary restrictions": "No caffeine, No high-fat offal",
+    "family status": "Has pets",
+    "personality": "Overly dependent on others for guidance, lacks self-determination and decisiveness"
+  },
+  "user_historical_behaviors": {
+    "user id": "U010041",
+    "occupation": "Algorithm Engineer",
+    "gender": "male",
+    "age group": "25~30",
+    "residence": "Shijiazhuang",
+    "home address": "Room 502, Unit 1, Building 3, Jinyu Huafu, 169 Fuqiang Street, Yuhua District, Shijiazhuang City, Hebei Province",
+    "work address": "12th Floor, Building B, Technology Innovation Building, 168 Changjiang Avenue, High-Tech Zone, Shijiazhuang City, Hebei Province",
+    "visited scenes": {
+      "Historical Sites": "35%",
+      "Natural Landscapes (Mountains/Lakes/Forests)": "25%",
+      "Exhibition Halls (Museums/Art Galleries)": "20%",
+      "Featured Villages/Industrial Tourism/Uncategorized Projects": "10%",
+      "Parks": "10%"
+    },
+    "cost per night on hotel": "500~1000 Yuan",
+    "visited hotels": {
+      "Atour": "30%",
+      "JI Hotel": "25%",
+      "Vienna": "20%",
+      "Orange": "15%",
+      "Home Inn": "10%"
+    },
+    "browsed hotels": {
+      "Four-star Hotels": "45%",
+      "Comfort Hotels": "35%",
+      "Three-star Hotels": "15%",
+      "Luxury Hotels": "5%"
+    },
+    "historical travel plans": {
+      "Shijiazhuang-Beijing": {
+        "Price Range": "200-300 Yuan",
+        "Transportation Method": "High-speed Rail/EMU"
+      },
+      "Shijiazhuang-Shanghai": {
+        "Price Range": "800-1200 Yuan",
+        "Transportation Method": "Airplane"
+      },
+      "Shijiazhuang-Hangzhou": {
+        "Price Range": "700-1000 Yuan",
+        "Transportation Method": "Airplane"
+      },
+      "Shijiazhuang-Xi'an": {
+        "Price Range": "400-600 Yuan",
+        "Transportation Method": "High-speed Rail/EMU"
+      },
+      "Shijiazhuang-Chengdu": {
+        "Price Range": "900-1300 Yuan",
+        "Transportation Method": "Airplane"
+      },
+      "Shijiazhuang-Qingdao": {
+        "Price Range": "300-500 Yuan",
+        "Transportation Method": "High-speed Rail/EMU"
+      },
+      "Shijiazhuang-Chengde": {
+        "Price Range": "150-250 Yuan",
+        "Transportation Method": "Self-driving"
+      }
+    }
+  },
+  "stores": {},
+  "orders": {
+    "S17557505502056324_O00001": {
+      "order_id": "S17557505502056324_O00001",
+      "order_type": "flight",
+      "user_id": "U010041",
+      "store_id": "S17557505502056324_F00009",
+      "note": "Birthday trip to Xinjiang, hope to see the sunset from the plane",
+      "location": {
+        "address": "Terminal 2, Shijiazhuang Zhengding International Airport",
+        "longitude": 114.6969,
+        "latitude": 38.2807
+      },
+      "dispatch_time": "",
+      "shipping_time": 0.0,
+      "delivery_time": "",
+      "total_price": 1180.0,
+      "create_time": "2024-08-10 15:30:00",
+      "update_time": "2024-08-10 15:30:00",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17557505502056324_P00074",
+          "price": 1180.0,
+          "quantity": 1,
+          "date": "2024-08-27",
+          "seat_type": "Economy Class"
+        }
+      ]
+    },
+    "S17557505502056324_O00002": {
+      "order_id": "S17557505502056324_O00002",
+      "order_type": "train",
+      "user_id": "U010041",
+      "store_id": "S17557505502056324_T00013",
+      "note": "Train tickets for 4 people from Urumqi to Kashgar, to experience Xinjiang scenery",
+      "location": {
+        "address": "No. 1 North Square Road, Urumqi Railway Station",
+        "longitude": 87.6168,
+        "latitude": 43.7767
+      },
+      "dispatch_time": "",
+      "shipping_time": 0.0,
+      "delivery_time": "",
+      "total_price": 1956.0,
+      "create_time": "2024-08-10 16:15:00",
+      "update_time": "2024-08-10 16:15:00",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17557505502056324_P00093",
+          "price": 489.0,
+          "quantity": 4,
+          "date": "2024-08-28",
+          "seat_type": "Hard Sleeper Lower Berth"
+        }
+      ]
+    },
+    "S17557505502056324_O00003": {
+      "order_id": "S17557505502056324_O00003",
+      "order_type": "hotel",
+      "user_id": "U010041",
+      "store_id": "S17557505502056324_H00001",
+      "note": "3 nights stay in Urumqi, separate rooms for 4 people",
+      "location": {
+        "address": "Atour Hotel Urumqi Airport Branch, 268 Yingbin Road, Xinshi District, Urumqi, Xinjiang",
+        "longitude": 87.474,
+        "latitude": 43.9073
+      },
+      "dispatch_time": "",
+      "shipping_time": 0.0,
+      "delivery_time": "",
+      "total_price": 2064.0,
+      "create_time": "2024-08-10 16:45:00",
+      "update_time": "2024-08-10 16:45:00",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17557505502056324_P00001",
+          "price": 688.0,
+          "quantity": 3,
+          "date": "2024-08-27",
+          "room_type": "Deluxe King Room"
+        }
+      ]
+    },
+    "S17557505502056324_O00004": {
+      "order_id": "S17557505502056324_O00004",
+      "order_type": "hotel",
+      "user_id": "U010041",
+      "store_id": "S17557505502056324_H00003",
+      "note": "Uyghur style hotel in Kashgar Old City, to experience local culture, separate rooms for 4 people, with parking available",
+      "location": {
+        "address": "Kashgar Old City Uyghur Style Hotel, 36 Yawage Road, Kashgar City, Kashgar Prefecture, Xinjiang",
+        "longitude": 75.9877,
+        "latitude": 39.4704
+      },
+      "dispatch_time": "",
+      "shipping_time": 0.0,
+      "delivery_time": "",
+      "total_price": 2432.0,
+      "create_time": "2024-08-10 17:20:00",
+      "update_time": "2024-08-10 17:20:00",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17557505502056324_P00018",
+          "price": 588.0,
+          "quantity": 3,
+          "date": "2024-08-29",
+          "room_type": "Uyghur Style King Room"
+        },
+        {
+          "product_id": "S17557505502056324_P00020",
+          "price": 888.0,
+          "quantity": 1,
+          "date": "2024-08-29",
+          "room_type": "Old City View Suite"
+        }
+      ]
+    },
+    "S17557505502056324_O00005": {
+      "order_id": "S17557505502056324_O00005",
+      "order_type": "attraction",
+      "user_id": "U010041",
+      "store_id": "S17557505502056324_A00007",
+      "note": "Tickets from the previous trip to Xi'an",
+      "location": {
+        "address": "Bell Tower, 1 East Street, Beilin District, Xi'an City, Shaanxi Province",
+        "longitude": 108.9537,
+        "latitude": 34.2583
+      },
+      "dispatch_time": "",
+      "shipping_time": 0.0,
+      "delivery_time": "",
+      "total_price": 180.0,
+      "create_time": "2024-07-08 14:20:00",
+      "update_time": "2024-07-08 14:20:00",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17557505502056324_P00055",
+          "price": 45.0,
+          "quantity": 4,
+          "date": "2024-07-10",
+          "ticket_type": "Adult Ticket"
+        }
+      ]
+    }
+  }
+}

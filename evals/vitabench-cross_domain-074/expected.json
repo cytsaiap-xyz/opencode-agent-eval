@@ -1,0 +1,83 @@
+{
+  "required_orders": [
+    {
+      "order_id": "OIb192a86a68",
+      "order_type": "instore",
+      "user_id": "U918530",
+      "store_id": "S17550807808389466_I00010",
+      "note": "",
+      "location": null,
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 688,
+      "create_time": "2025-03-06 10:17:00",
+      "update_time": "2025-03-06 10:17:00",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17550807808389466_P00061",
+          "price": 688,
+          "quantity": 1,
+          "name": "Wealth and Prosperity Set Menu",
+          "shop_id": "S17550807808389466_I00010",
+          "tags": [
+            "Business Banquet",
+            "Wealth Symbolism",
+            "Jiangsu and Zhejiang Cuisine",
+            "Meal for 8"
+          ]
+        }
+      ]
+    },
+    {
+      "book_id": "OI98ab55e38b",
+      "shop_id": "S17550807808389466_I00010",
+      "book_time": "2025-03-07 12:00:00",
+      "update_time": "2025-03-06 10:19:00",
+      "customer_id": "U918530",
+      "customer_count": 7,
+      "book_price": 200,
+      "status": "paid"
+    },
+    {
+      "order_id": "OOe1d6b03764",
+      "order_type": "train",
+      "user_id": "U918530",
+      "store_id": "S17550807808389466_T00004",
+      "note": "",
+      "location": null,
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 3516,
+      "create_time": "2025-03-06 10:22:00",
+      "update_time": "2025-03-06 10:22:00",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17550807808389466_P00029",
+          "price": 1758,
+          "quantity": 2,
+          "date": "2025-03-08",
+          "seat_type": "First Class Seat"
+        }
+      ]
+    }
+  ],
+  "rubrics": [
+    "The restaurant should be within 1 kilometer of the company address (Room 1208, Hang Lung Plaza Office Building, 139 Renmin Middle Road, Liangxi District, Wuxi, Jiangsu Province)",
+    "The restaurant must be a high-end restaurant with a rating above 4.7",
+    "The restaurant should have a Business Banquet tag",
+    "The restaurant set menu should have 'Wealth Prosperity' or similar wealth symbolism",
+    "The restaurant should support reservation",
+    "The restaurant set menu should be sufficient for 7 people",
+    "Need to book the restaurant for noon on March 7, 2025",
+    "Restaurant reservations should be for 7 people",
+    "Need to search for and provide high-speed rail schedules from Wuxi to Shenzhen after 4:00 PM on March 7, 2025, with the result showing G2382 train with Standing Ticket availability",
+    "Need to search for and provide the earliest available train on March 8, 2025, with the ordered train being G2102",
+    "The high-speed train tickets should not be Standing Tickets",
+    "The high-speed train tickets' destination must be Shenzhen",
+    "The order should be for 2 high-speed rtrain tickets"
+  ]
+}

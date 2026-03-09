@@ -1,0 +1,190 @@
+{
+  "task_id": "10826289",
+  "domain": "instore",
+  "time": "2024-07-06 13:30:00",
+  "user_id": "U243410",
+  "weather": [
+    {
+      "city": "Jinan",
+      "category": "sunny",
+      "datetime": "2024-07-06",
+      "temperature": [
+        26,
+        34
+      ],
+      "humidity": 56
+    },
+    {
+      "city": "Jinan",
+      "category": "cloudy",
+      "datetime": "2024-07-07",
+      "temperature": [
+        25,
+        33
+      ],
+      "humidity": 68
+    }
+  ],
+  "location": [
+    {
+      "address": "Shandong University, 27 Shanda South Road, Lixia District, Jinan",
+      "longitude": 117.0654,
+      "latitude": 36.6802
+    }
+  ],
+  "user_profile": {
+    "user id": "U243410",
+    "occupation": "Student",
+    "gender": "male",
+    "age group": "15~20",
+    "residence": "Jinan",
+    "home address": "Shandong University, 27 Shanda South Road, Lixia District, Jinan",
+    "work address": "Shandong University, 27 Shanda South Road, Lixia District, Jinan",
+    "dietary restrictions": "No fried food, No caffeine",
+    "family status": "Living alone",
+    "personality": "Emotionally volatile, expresses with strong emotional color"
+  },
+  "user_historical_behaviors": {
+    "user id": "U243410",
+    "occupation": "Student",
+    "gender": "male",
+    "age group": "15~20",
+    "residence": "Jinan",
+    "home address": "Shandong University, 27 Shanda South Road, Lixia District, Jinan",
+    "work address": "Shandong University, 27 Shanda South Road, Lixia District, Jinan",
+    "in-store dining": {
+      "fine-dining": {
+        "frequently purchased categories": [
+          "Regional Cuisine/Sichuan cuisine (Average 85 yuan)",
+          "Regional Cuisine/Fish Dishes (Average 95 yuan)",
+          "International Cuisine/Southeast Asian (Average 90 yuan)"
+        ],
+        "preferred average price per person": "80~100 yuan",
+        "preferred store rating": "4.0~4.7 stars",
+        "typical dining time": "18:30-20:30",
+        "preferred distance": "0~1000m",
+        "recent orders": [
+          {
+            "store": "Shuxiang Yuan Sichuan Restaurant",
+            "product": "Boiled Fish with Spicy Sauce + Twice-cooked Pork + Dry-fried Green Beans"
+          },
+          {
+            "store": "Yuyue Grilled Fish",
+            "product": "Spicy Grilled Fish + Special Side Dishes"
+          },
+          {
+            "store": "Thai Flavor",
+            "product": "Tom Yum Kung"
+          }
+        ],
+        "search history": [
+          "Sichuan cuisine",
+          "Grilled fish",
+          "Southeast Asian cuisine",
+          "High-rated restaurants in Lixia District"
+        ]
+      },
+      "light meal": {
+        "frequently purchased categories": [
+          "Fast Food/Chinese Quick Meals (Average 22 yuan)",
+          "Fast Food/Western Fast Food (Average 30 yuan)",
+          "Fast Food/Rice Noodles and Noodles (Average 15 yuan)"
+        ],
+        "preferred average price per person": "15~35 yuan",
+        "preferred store rating": "3.5~4.3 stars",
+        "typical dining time": "11:30-13:00",
+        "preferred distance": "0~500m",
+        "recent orders": [
+          {
+            "store": "Shandong University Cafeteria",
+            "product": "Chicken Leg Rice + Vegetable Soup"
+          },
+          {
+            "store": "Real Kung Fu",
+            "product": "Teriyaki Chicken Rice"
+          },
+          {
+            "store": "Old Neighbor Rice Noodles",
+            "product": "Beef Rice Noodles"
+          }
+        ],
+        "search history": [
+          "Fast food near campus",
+          "Rice noodles",
+          "Cheap and tasty",
+          "Student discount"
+        ]
+      },
+      "desserts/drinks/snacks": {
+        "frequently purchased categories": [
+          "Beverage Shops (Average 12 yuan)",
+          "Bread and desserts (Average 18 yuan)",
+          "Other Food/Fresh Fruits (Average 15 yuan)"
+        ],
+        "preferred average price per person": "10~20 yuan",
+        "preferred store rating": "3.8~4.5 stars",
+        "typical dining time": "15:00-17:00",
+        "preferred distance": "0~300m",
+        "recent orders": [
+          {
+            "store": "ALITTLE TEA",
+            "product": "Cheese Green Tea (Caffeine-free)"
+          },
+          {
+            "store": "Bread Talk",
+            "product": "Whole Wheat Bread + Fruit Salad"
+          },
+          {
+            "store": "Fresh Fruit Station",
+            "product": "Pre-cut Fruit Platter"
+          }
+        ],
+        "search history": [
+          "Caffeine-free drinks",
+          "Healthy desserts",
+          "Fruits",
+          "Low-sugar beverages"
+        ]
+      }
+    },
+    "other in-store services": {
+      "frequently consumed categories": {
+        "Sports & Fitness/Ball Sports": "60%",
+        "Sports & Fitness/Fitness Centers": "25%",
+        "Leisure & Entertainment/DIY Workshops": "10%",
+        "Leisure & Entertainment/Murder Mystery Games": "5%"
+      },
+      "cost per order by category": {
+        "Sports & Fitness/Ball Sports": "20~40 yuan",
+        "Sports & Fitness/Fitness Centers": "15~30 yuan/time",
+        "Leisure & Entertainment/DIY Workshops": "50~80 yuan",
+        "Leisure & Entertainment/Murder Mystery Games": "60~90 yuan"
+      },
+      "preferred store rating": "4.0~4.8 stars",
+      "preferred service time": "17:00-21:00",
+      "preferred distance": "0~1000m",
+      "recent orders": [
+        {
+          "store": "Shandong University Gymnasium",
+          "product": "Badminton Court for 2 hours"
+        },
+        {
+          "store": "Vitality Fitness Center",
+          "product": "Single Fitness Experience"
+        },
+        {
+          "store": "Creative Workshop",
+          "product": "DIY Pottery Experience"
+        }
+      ],
+      "search history": [
+        "Badminton courts",
+        "Gyms near campus",
+        "Student-priced DIY",
+        "Weekend activities"
+      ]
+    }
+  },
+  "stores": {},
+  "orders": {}
+}

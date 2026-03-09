@@ -1,0 +1,63 @@
+{
+  "required_orders": [
+    {
+      "order_id": "OIbfe3acaeab",
+      "order_type": "instore",
+      "user_id": "U727719",
+      "store_id": "S17564420291759936_I00001",
+      "note": "",
+      "location": null,
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 288,
+      "create_time": "2025-05-30 18:29:21",
+      "update_time": "2025-05-30 18:29:21",
+      "status": "unpaid",
+      "products": [
+        {
+          "product_id": "S17564420291759936_P00001",
+          "price": 288,
+          "quantity": 1,
+          "name": "Weekend special 2-hour singing package (drinks included)",
+          "shop_id": "S17564420291759936_I00001",
+          "tags": []
+        }
+      ]
+    },
+    {
+      "reservation_id": "10826002T002",
+      "shop_id": "S17564420291759936_I00001",
+      "reservation_time": "2025-05-31 18:00:00",
+      "update_time": "2025-05-30 18:30:03",
+      "customer_id": "U727719",
+      "customer_count": 2,
+      "status": "unconsumed"
+    },
+    {
+      "book_id": "10826002T003",
+      "shop_id": "S17564420291759936_I00004",
+      "book_time": "2025-05-31 21:00:00",
+      "update_time": "2025-05-30 18:36:28",
+      "customer_id": "U727719",
+      "customer_count": 2,
+      "book_price": 20,
+      "status": "paid"
+    }
+  ],
+  "rubrics": [
+    "The KTV to be ordered should have a rating of 4.0 or above",
+    "The KTV package must include drinks",
+    "The KTV package must not exceed 360 yuan (based on twice the upper limit of the user's leisure entertainment consumption of 120-180 yuan)",
+    "The duration of the KTV package should be 2 hours",
+    "Check the weather information for the weekend (May 31st: sunny 20-28℃, June 1st: light rain 19-25℃), as it won't rain on the 31st, the KTV reservation time should be 2025-05-31 at 18:00:00",
+    "The number of people for the KTV reservation should be 2",
+    "The KTV to be booked should be Xingju KTV (Shinan Mixc Branch)",
+    "The night snack venue must be a Hot pot restaurant",
+    "The night snack venue must be within 3km of home (Sea View Garden, 76 Yan'an Road)",
+    "The night snack venue must have a Two-person private room",
+    "The night snack venue must support advance reservations",
+    "The reservation time for the night snack venue must be 2025-05-31 at 21:00:00",
+    "The number of people for the night snack reservation should be 2"
+  ]
+}

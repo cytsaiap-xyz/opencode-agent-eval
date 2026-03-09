@@ -1,0 +1,71 @@
+{
+  "required_orders": [
+    {
+      "order_id": "10826064T001",
+      "order_type": "instore",
+      "user_id": "U013994",
+      "store_id": "S17567836570522520_I00004",
+      "note": "",
+      "location": null,
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 1088,
+      "create_time": "2024-02-05 20:17:00",
+      "update_time": "2024-02-05 20:17:00",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17567836570522520_P00032",
+          "name": "VIP Family Hot Spring Private Room (4 hours)",
+          "price": 1088,
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "reservation_id": "10826064T002",
+      "shop_id": "S17567836570522520_I00004",
+      "reservation_time": "2024-02-11 09:00:00",
+      "update_time": "2024-02-05 20:19:00",
+      "customer_id": "U013994",
+      "customer_count": 3,
+      "status": "paid"
+    },
+    {
+      "order_id": "10826064T003",
+      "order_type": "instore",
+      "user_id": "U013994",
+      "store_id": "S17567836570522520_I00009 ",
+      "note": "",
+      "location": null,
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 198,
+      "create_time": "2024-02-05 20:21:07",
+      "update_time": "2024-02-05 20:21:07",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17567836570522520_P00073",
+          "name": "Newcomer experience package",
+          "price": 65,
+          "quantity": 1
+        }
+      ]
+    }
+  ],
+  "rubrics": [
+    "The distance from the hot spring establishment to No. 18, Section 2, Hongxing Road, Jinjiang District, Chengdu, Sichuan Province (450 meters walk from Exit A of City Second Hospital Metro Station) should be within 20km (including 20km)",
+    "The hot spring establishment rating should be 5.0",
+    "The hot spring establishment should have a Parking lot",
+    "The ordered item price at the hot spring establishment can exceed 1000 yuan",
+    "The ordered item at the hot spring establishment should be a Family hot spring package",
+    "The reserved hot spring establishment should be Jinjiang Hot Spring Club",
+    "The reservation time for the hot spring establishment is 2024-02-11 09:00:00",
+    "The number of people for the hot spring reservation is 3",
+    "There is a Game hall within 10km (including 10km) of Jinjiang Hot Spring Club, Chenglong Road, Jinjiang District, Chengdu, therefore the establishment to order from should be the Game hall",
+    "The ordered item from the Game hall should be a Newcomer experience package"
+  ]
+}

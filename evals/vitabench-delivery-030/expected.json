@@ -1,0 +1,38 @@
+{
+  "required_orders": [
+    {
+      "order_id": "40711009T01",
+      "order_type": "delivery",
+      "user_id": "U000043",
+      "store_id": "S19004578492371518_S36411",
+      "note": "",
+      "location": {
+        "address": "Building A, Baolian Plaza, 1103 Li Yu Road, Wucheng District, Jinhua City, Zhejiang Province",
+        "longitude": 119.644158,
+        "latitude": 29.079634
+      },
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 64.8,
+      "create_time": "2025-12-21 17:51:00",
+      "update_time": "2025-12-21 17:51:00",
+      "status": "processed",
+      "products": [
+        {
+          "product_id": "S46568509078173011_P19624",
+          "price": 64.8,
+          "quantity": 1,
+          "attributes": ""
+        }
+      ]
+    }
+  ],
+  "rubrics": [
+    "The delivery address for the steamed beef steak order should be Building A, Baolian Plaza, 1103 Li Yu Road, Wucheng District, Jinhua City, Zhejiang Province",
+    "The delivery time for the steamed beef steak order should be on or before 2025-12-21 19:00, ensuring that the user can eat promptly after class",
+    "When selecting a steamed beef steak restaurant, the rating should be 4.3 or above to ensure high-quality products",
+    "When selecting a steamed beef steak restaurant, it should be a Dine-in Restaurant with a physical store, which can generally be checked in the merchant's tags",
+    "When selecting a steamed beef steak product, the portion should be 250g to meet the user's appetite requirements"
+  ]
+}

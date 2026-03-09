@@ -1,0 +1,78 @@
+{
+  "required_orders": [
+    {
+      "order_id": "10826322T001",
+      "order_type": "instore",
+      "user_id": "U697724",
+      "store_id": "S17567844930826391_I00002",
+      "note": "",
+      "location": null,
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 368,
+      "create_time": "2025-11-19 14:00:21",
+      "update_time": "2025-11-19 14:00:21",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17567844930826391_P00012",
+          "name": "Fish Maw Chicken Soup Health Package for Four",
+          "price": 368,
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "order_id": "10826322T002",
+      "order_type": "instore",
+      "user_id": "U697724",
+      "store_id": "S17567844930826391_I00006",
+      "note": "",
+      "location": null,
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 188,
+      "create_time": "2025-11-10 14:30:22",
+      "update_time": "2025-11-19 14:03:11",
+      "status": "cancelled",
+      "products": [
+        {
+          "product_id": "S17567844930826391_P00047",
+          "name": "90-Minute Classic Chinese Foot Massage",
+          "price": 188,
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "book_id": "10826322T003",
+      "shop_id": "S17567844930826391_I00011",
+      "book_time": "2025-11-19 20:00:00",
+      "update_time": "2025-11-19 14:05:11",
+      "customer_id": "U697724",
+      "customer_count": 5,
+      "book_price": 20,
+      "status": "paid"
+    }
+  ],
+  "rubrics": [
+    "The restaurant should be within 5000m (inclusive) of Starbucks Coffee on the first floor of Hangyang International Shopping Center, 156 Minzu Avenue, Qingxiu District, Nanning",
+    "The restaurant ordered from should specialize in nourishing and stomach-warming soups",
+    "The restaurant ordered from should be a Listed Restaurant",
+    "The restaurant's rating should be 4.6 or above",
+    "The restaurant order should be a Set Menu for Four",
+    "The restaurant order should have nourishing effects",
+    "The restaurant order should have Beauty Nourishing effects",
+    "The restaurant order should contain chicken soup",
+    "The restaurant order should be suitable for pregnant women",
+    "The foot therapy package order status should be cancelled",
+    "The beverage shop should be within 1000m (inclusive) of Nuanxin Soup Pot on the 4th floor of Hangyang International Shopping Center, 135 Minzu Avenue, Qingxiu District, Nanning",
+    "The beverage shop should be Inside Shopping Mall",
+    "The beverage shop should sell Tea Beverage",
+    "The beverage shop should provide a dine-in environment",
+    "You should check if the qualifying beverage shop has set menus for 4-5 people, and since the result is negative, you should make a reservation at the beverage shop for 202025-11-20 20:00:00",
+    "The beverage shop reservation should be for 5 people"
+  ]
+}

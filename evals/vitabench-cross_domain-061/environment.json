@@ -1,0 +1,880 @@
+{
+  "task_id": "10808007",
+  "domain": "cross_domain",
+  "time": "2026-04-12 08:15:00",
+  "user_id": "U822163",
+  "weather": [
+    {
+      "city": "Changzhou",
+      "category": "sunny",
+      "datetime": "2026-04-12",
+      "temperature": [
+        16,
+        26
+      ],
+      "humidity": 65
+    }
+  ],
+  "location": [
+    {
+      "address": "Room 501, Unit 2, Building 1, Vanke City Light, No.239 Qingyang North Road, Tianning District, Changzhou City, Jiangsu Province",
+      "longitude": 119.974031,
+      "latitude": 31.789542
+    }
+  ],
+  "user_profile": {
+    "user id": "U822163",
+    "occupation": "Algorithm Engineer",
+    "gender": "male",
+    "age group": "30~35",
+    "residence": "Changzhou",
+    "Permanent address": "Room 501, Unit 2, Building 1, Vanke City Light, No.239 Qingyang North Road, Tianning District, Changzhou City, Jiangsu Province",
+    "work address": "5th Floor, Building 1, Innovation and Research Harbor, Changzhou Science and Education City, No.9 Taihu East Road, Xinbei District, Changzhou City, Jiangsu Province",
+    "dietary restrictions": "Avoid high purine (such as organ meats/seafood soup), Caffeine-free",
+    "family status": "Has children",
+    "personality": "Impatient, frequently pushes others to hurry, lacks patience during processes"
+  },
+  "user_historical_behaviors": {
+    "user id": "U822163",
+    "occupation": "Algorithm Engineer",
+    "gender": "male",
+    "age group": "30~35",
+    "residence": "Changzhou",
+    "home address": "Room 501, Unit 2, Building 1, Vanke City Light, No.239 Qingyang North Road, Tianning District, Changzhou City, Jiangsu Province",
+    "work address": "5th Floor, Building 1, Innovation and Research Harbor, Changzhou Science and Education City, No.9 Taihu East Road, Xinbei District, Changzhou City, Jiangsu Province",
+    "delivery": {
+      "food delivery": {
+        "breakfast": {
+          "frequently purchased categories": [
+            "Quick meals/Steamed Buns/Pan-fried buns (Average 15 yuan)",
+            "Quick meals/Jianbing/Wraps/Hand-held pancakes (Average 12 yuan)",
+            "Quick meals/Fried dough sticks (Average 8 yuan)"
+          ],
+          "cost per order": "8~25 yuan",
+          "preferred store rating": "4.2~4.7 points",
+          "preferred delivery time": "15~25 minutes",
+          "preferred distance": "0~1500m",
+          "recent orders": [
+            {
+              "store": "Lao Wang Steamed Bun Shop",
+              "product": "Pork Buns + Soy Milk Set"
+            },
+            {
+              "store": "Yang's Jianbing",
+              "product": "Original Jianbing"
+            },
+            {
+              "store": "Tianjin Xiaolongbao",
+              "product": "8 Xiaolongbao + Soy Milk"
+            }
+          ],
+          "search history": [
+            "Steamed Buns",
+            "Soy Milk",
+            "Pan-fried buns",
+            "Jianbing",
+            "Breakfast Set"
+          ]
+        },
+        "weekday lunch/dinner": {
+          "frequently purchased categories": [
+            "Quick meals/Braised Chicken Rice (Average 28 yuan)",
+            "Quick meals/Rice noodles/Rice vermicelli (Average 25 yuan)",
+            "Chinese cuisine/Sichuan cuisine (Average 45 yuan)"
+          ],
+          "cost per order": "25~50 yuan",
+          "preferred store rating": "4.3~4.8 points",
+          "preferred delivery time": "20~35 minutes",
+          "preferred distance": "0~2500m",
+          "recent orders": [
+            {
+              "store": "Braised Chicken Rice",
+              "product": "Mild Spicy Braised Chicken + Rice + Vegetables"
+            },
+            {
+              "store": "Sichuan-Hunan Stir-fry",
+              "product": "Twice-cooked Pork Set"
+            },
+            {
+              "store": "Yunnan Crossing Bridge Rice Noodles",
+              "product": "Signature Rice Noodles + Braised Egg"
+            }
+          ],
+          "search history": [
+            "Braised Chicken",
+            "Rice Noodles",
+            "Fast Food",
+            "Set Meals",
+            "Home-style Dishes"
+          ]
+        },
+        "weekend lunch/dinner": {
+          "frequently purchased categories": [
+            "Chinese cuisine/Crayfish (Average 98 yuan)",
+            "Chinese cuisine/Grilled Fish (Average 88 yuan)",
+            "International cuisine/Korean cuisine (Average 75 yuan)"
+          ],
+          "cost per order": "70~150 yuan",
+          "preferred store rating": "4.5~4.9 points",
+          "preferred delivery time": "30~45 minutes",
+          "preferred distance": "0~3500m",
+          "recent orders": [
+            {
+              "store": "Sichuan Crayfish",
+              "product": "Spicy Crayfish 4 pounds + Potatoes + Lotus Root Slices"
+            },
+            {
+              "store": "Fisher's Grilled Fish",
+              "product": "Spicy Grilled Fish + Side Dish Set"
+            },
+            {
+              "store": "Korean Cuisine",
+              "product": "Army Stew + Kimbap"
+            }
+          ],
+          "search history": [
+            "Crayfish",
+            "Grilled Fish",
+            "Korean Cuisine",
+            "Family Set",
+            "Parent-child Meal"
+          ]
+        },
+        "desserts/drinks/snacks": {
+          "frequently purchased categories": [
+            "Beverages & Desserts/Juice (Average 20 yuan)",
+            "Beverages & Desserts/Pure Tea/Herbal Tea (Average 18 yuan)",
+            "Beverages & Desserts/Fruit Salad (Average 28 yuan)"
+          ],
+          "cost per order": "15~35 yuan",
+          "preferred store rating": "4.4~4.8 points",
+          "preferred delivery time": "15~30 minutes",
+          "preferred distance": "0~2000m",
+          "recent orders": [
+            {
+              "store": "Fresh Fruit Workshop",
+              "product": "Mango Fresh Juice"
+            },
+            {
+              "store": "HEYTEA",
+              "product": "Jasmine Green Tea"
+            },
+            {
+              "store": "Fresh Cut Fruit",
+              "product": "Large Fruit Salad"
+            }
+          ],
+          "search history": [
+            "Fruit Tea",
+            "Freshly Squeezed Juice",
+            "Fruit Salad",
+            "Green Tea",
+            "Caffeine-free Drinks"
+          ]
+        },
+        "night snack": {
+          "frequently purchased categories": [
+            "Quick meals/Rice noodles/Rice vermicelli (Average 30 yuan)",
+            "Quick meals/Dumplings/Wonton (Average 25 yuan)",
+            "Hot Pot/Malatang/Oden (Average 35 yuan)"
+          ],
+          "cost per order": "20~45 yuan",
+          "preferred store rating": "4.2~4.7 points",
+          "preferred delivery time": "20~35 minutes",
+          "preferred distance": "0~2500m",
+          "recent orders": [
+            {
+              "store": "Old Street Rice Noodles",
+              "product": "Beef Rice Noodles + Braised Egg"
+            },
+            {
+              "store": "Northeast Dumpling House",
+              "product": "20 Triple Delicacy Dumplings"
+            },
+            {
+              "store": "Sichuan Malatang",
+              "product": "Signature Malatang"
+            }
+          ],
+          "search history": [
+            "Rice Noodles",
+            "Dumplings",
+            "Malatang",
+            "Night Snack",
+            "Non-spicy Night Snack"
+          ]
+        }
+      },
+      "product delivery": {
+        "frequently purchased categories": [
+          "Vegetables/Bean Products(32%)",
+          "Fruits(24%)",
+          "Sports & Outdoors(16%)",
+          "Home Essentials(15%)",
+          "Automotive Supplies(10%)",
+          "Others(3%)"
+        ],
+        "frequently visited stores": [
+          "Duoduo Grocery (Changzhou Tianning Store)(45%)",
+          "Tianning Fresh Supermarket(28%)",
+          "Daily Sports(15%)",
+          "Other Stores(12%)"
+        ],
+        "cost per order by category": {
+          "Vegetables/Bean Products": "5~25 yuan",
+          "Fruits": "10~40 yuan",
+          "Sports & Outdoors": "50~120 yuan",
+          "Home Essentials": "15~60 yuan",
+          "Automotive Supplies": "100~400 yuan"
+        },
+        "preferred delivery time": "25~60 minutes",
+        "typical order time": "17~19:00(38%), 9~11:00(32%), 13~15:00(18%)",
+        "recent orders": [
+          {
+            "store": "Duoduo Grocery (Changzhou Tianning Store)",
+            "product": "Organic Broccoli + Tofu + Cherry Tomatoes"
+          },
+          {
+            "store": "Daily Sports",
+            "product": "Trekking Pole"
+          },
+          {
+            "store": "Tianning Fresh Supermarket",
+            "product": "Blueberries + Avocado + Kiwi"
+          }
+        ],
+        "search history": [
+          "Organic Vegetables",
+          "Outdoor Hiking",
+          "Avocado",
+          "Windshield Washer Fluid",
+          "Sun Visor"
+        ]
+      }
+    },
+    "in-store consumption": {
+      "in-store dining": {
+        "fine-dining": {
+          "frequently purchased categories": [
+            "Regional Cuisine/Jiangsu-Zhejiang Cuisine (Average 120 yuan)",
+            "International Cuisine/Japanese Cuisine (Average 150 yuan)",
+            "Regional Cuisine/Specialty Dishes (Average 100 yuan)"
+          ],
+          "preferred average price per person": "100~150 yuan",
+          "preferred store rating": "4.2~4.8 stars",
+          "typical dining time": "18:30-20:30",
+          "preferred distance": "500~3000m",
+          "recent orders": [
+            {
+              "store": "Songhe Lou",
+              "product": "Squirrel-shaped Mandarin Fish Set"
+            },
+            {
+              "store": "Huayin Japanese Cuisine",
+              "product": "Sashimi Platter"
+            },
+            {
+              "store": "South Beauty",
+              "product": "Dongpo Pork"
+            }
+          ],
+          "search history": [
+            "Caffeine-free",
+            "Jiangsu-Zhejiang Cuisine",
+            "Japanese Cuisine",
+            "Family Gathering"
+          ]
+        },
+        "light meal": {
+          "frequently purchased categories": [
+            "Snacks & Fast Food/Chinese Quick Meals (Average 35 yuan)",
+            "Snacks & Fast Food/Western Fast Food (Average 40 yuan)",
+            "Regional Cuisine/Noodle House (Average 30 yuan)"
+          ],
+          "preferred average price per person": "25~45 yuan",
+          "preferred store rating": "3.5~4.3 stars",
+          "typical dining time": "12:00-13:00",
+          "preferred distance": "0~500m",
+          "recent orders": [
+            {
+              "store": "Yonghe King",
+              "product": "Chicken Cutlet Set"
+            },
+            {
+              "store": "Lanzhou Hand-pulled Noodles",
+              "product": "Beef Noodles"
+            },
+            {
+              "store": "Yoshinoya",
+              "product": "Beef Bowl"
+            }
+          ],
+          "search history": [
+            "Fast Food",
+            "Work Meal",
+            "Noodles",
+            "Bento"
+          ]
+        },
+        "desserts/drinks/snacks": {
+          "frequently purchased categories": [
+            "Beverage Shop (Average 18 yuan)",
+            "Bakery & Desserts (Average 25 yuan)",
+            "Other Dining/Fresh Fruit (Average 15 yuan)"
+          ],
+          "preferred average price per person": "15~30 yuan",
+          "preferred store rating": "3.8~4.5 stars",
+          "typical dining time": "15:00-16:30",
+          "preferred distance": "0~300m",
+          "recent orders": [
+            {
+              "store": "HEYTEA",
+              "product": "Many Fruits Grape (Caffeine-free)"
+            },
+            {
+              "store": "Bread Talk",
+              "product": "Red Bean Bread"
+            },
+            {
+              "store": "Xianfeng Fruit",
+              "product": "Fruit Platter"
+            }
+          ],
+          "search history": [
+            "Caffeine-free Drinks",
+            "Fruit",
+            "Bread",
+            "Afternoon Tea"
+          ]
+        }
+      },
+      "other in-store services": {
+        "frequently consumed categories": {
+          "Sports & Fitness/Ball Sports": "40%",
+          "Sports & Fitness/Fitness Centers": "35%",
+          "Parent-child/Parent-child Recreation": "15%",
+          "Leisure & Entertainment/Massage/Foot Therapy": "10%"
+        },
+        "cost per order by category": {
+          "Sports & Fitness/Ball Sports": "80~120 yuan",
+          "Sports & Fitness/Fitness Centers": "150~300 yuan",
+          "Parent-child/Parent-child Recreation": "100~200 yuan",
+          "Leisure & Entertainment/Massage/Foot Therapy": "120~180 yuan"
+        },
+        "preferred store rating": "4.0~4.8 stars",
+        "preferred service time": "19:00-21:00",
+        "preferred distance": "0~5000m",
+        "recent orders": [
+          {
+            "store": "Changzhou Sports Center",
+            "product": "Badminton Court 2 hours"
+          },
+          {
+            "store": "Leke Fitness",
+            "product": "Single Fitness Session"
+          },
+          {
+            "store": "Qile Children's Playground",
+            "product": "Parent-child Package Ticket"
+          }
+        ],
+        "search history": [
+          "Badminton Court",
+          "Gym",
+          "Parent-child Activities",
+          "Foot Massage"
+        ]
+      }
+    },
+    "OTA": {
+      "visited scenes": {
+        "Theme Parks": "35%",
+        "Natural Landscapes (Mountains/Lakes/Forests)": "25%",
+        "Cultural Heritage Sites": "15%",
+        "Exhibition Halls (Museums/Art Galleries)": "15%",
+        "Parks": "10%"
+      },
+      "cost per night on hotel": "500~1000 yuan",
+      "visited hotels": {
+        "Atour": "30%",
+        "JI Hotel": "25%",
+        "Vienna Hotel": "20%",
+        "Home Inn": "15%",
+        "Huazhu Hotels": "10%"
+      },
+      "browsed hotels": {
+        "Four-star Hotels": "40%",
+        "Comfort Hotels": "35%",
+        "Three-star Hotels": "15%",
+        "Luxury Hotels": "10%"
+      },
+      "historical travel plans": {
+        "Changzhou-Shanghai": {
+          "price range": "100-150 yuan",
+          "transportation": "High-speed Rail/EMU"
+        },
+        "Changzhou-Hangzhou": {
+          "price range": "150-200 yuan",
+          "transportation": "High-speed Rail/EMU"
+        },
+        "Changzhou-Beijing": {
+          "price range": "500-800 yuan",
+          "transportation": "High-speed Rail/EMU"
+        },
+        "Changzhou-Shenzhen": {
+          "price range": "800-1200 yuan",
+          "transportation": "Airplane"
+        },
+        "Changzhou-Chengdu": {
+          "price range": "1000-1500 yuan",
+          "transportation": "Airplane"
+        },
+        "Changzhou-Huangshan": {
+          "price range": "300-500 yuan",
+          "transportation": "Self-driving"
+        },
+        "Changzhou-Nanjing": {
+          "price range": "80-120 yuan",
+          "transportation": "High-speed Rail/EMU"
+        }
+      }
+    }
+  },
+  "stores": {
+    "S17550802169908940_S00001": {
+      "name": "Healthy Breakfast Workshop",
+      "store_id": "S17550802169908940_S00001",
+      "score": 4.7,
+      "location": {
+        "address": "Healthy Breakfast Workshop, No.180 Qingyang North Road, Tianning District, Changzhou City, Jiangsu Province",
+        "latitude": 31.790126,
+        "longitude": 119.973587
+      },
+      "tags": [
+        "breakfast",
+        "Nutritious Set Meal",
+        "Dine-in Restaurant",
+        "Health Food",
+        "Senior-friendly"
+      ],
+      "store_type": "target",
+      "products": [
+        {
+          "name": "Family Breakfast Set for Three",
+          "store_id": "S17550802169908940_S00001",
+          "store_name": "Healthy Breakfast Workshop",
+          "price": 68,
+          "tags": [
+            "Three-person Portion",
+            "Balanced Nutrition",
+            "Suitable for Elderly",
+            "Caffeine-free",
+            "Low Purine",
+            "Family Package"
+          ],
+          "product_id": "S17550802169908940_P00001",
+          "attributes": [
+            "Low oil",
+            "Low salt",
+            "Soy milk flavors available"
+          ],
+          "product_type": "target"
+        },
+        {
+          "name": "Nutritious Breakfast Two-person Set for Elderly",
+          "store_id": "S17550802169908940_S00001",
+          "store_name": "Healthy Breakfast Workshop",
+          "price": 48,
+          "tags": [
+            "Two-person Portion",
+            "Nutritionally Rich",
+            "Suitable for Elderly",
+            "Caffeine-free",
+            "Low Purine"
+          ],
+          "product_id": "S17550802169908940_P00002",
+          "attributes": [
+            "Low oil",
+            "Low salt",
+            "Main dish options available"
+          ],
+          "product_type": "distraction"
+        },
+        {
+          "name": "Family Portrait Healthy Breakfast",
+          "store_id": "S17550802169908940_S00001",
+          "store_name": "Healthy Breakfast Workshop",
+          "price": 88,
+          "tags": [
+            "Four-person Portion",
+            "Comprehensive Nutrition",
+            "Family Package",
+            "Caffeine-free",
+            "Low Purine"
+          ],
+          "product_id": "S17550802169908940_P00003",
+          "attributes": [
+            "Low oil",
+            "Low salt",
+            "Soy milk flavors available",
+            "Side dishes available"
+          ],
+          "product_type": "distraction"
+        },
+        {
+          "name": "Nutritious Seafood Porridge Meal for Three",
+          "store_id": "S17550802169908940_S00001",
+          "store_name": "Healthy Breakfast Workshop",
+          "price": 75,
+          "tags": [
+            "Three-person Portion",
+            "Seafood",
+            "High Protein",
+            "Nutritionally Rich"
+          ],
+          "product_id": "S17550802169908940_P00005",
+          "attributes": [
+            "Low oil",
+            "Low salt",
+            "Side dishes available"
+          ],
+          "product_type": "distraction"
+        },
+        {
+          "name": "Premium Coffee Breakfast for Three",
+          "store_id": "S17550802169908940_S00001",
+          "store_name": "Healthy Breakfast Workshop",
+          "price": 78,
+          "tags": [
+            "Three-person Portion",
+            "Western Breakfast",
+            "Coffee Included",
+            "Nutritional Combination"
+          ],
+          "product_id": "S17550802169908940_P00007",
+          "attributes": [
+            "Coffee strength options available",
+            "Side dishes available"
+          ],
+          "product_type": "distraction"
+        }
+      ]
+    },
+    "S17550802169908940_S00002": {
+      "name": "Lao Wang Steamed Bun Shop",
+      "store_id": "S17550802169908940_S00002",
+      "score": 4.5,
+      "location": {
+        "address": "Lao Wang Steamed Bun Shop, No.210 Qingyang North Road, Tianning District, Changzhou City, Jiangsu Province",
+        "latitude": 31.789876,
+        "longitude": 119.974562
+      },
+      "tags": [
+        "Steamed Buns",
+        "Soy Milk",
+        "breakfast",
+        "Dine-in Restaurant"
+      ],
+      "store_type": "target",
+      "products": [
+        {
+          "name": "Seafood Xiaolongbao Set",
+          "store_id": "S17550802169908940_S00002",
+          "store_name": "Lao Wang Steamed Bun Shop",
+          "price": 45.8,
+          "tags": [
+            "Seafood",
+            "Xiaolongbao (Soup Dumplings)",
+            "High Protein",
+            "Nutritionally Rich"
+          ],
+          "product_id": "S17550802169908940_P00011",
+          "attributes": [
+            "Standard",
+            "With ginger"
+          ],
+          "product_type": "distraction"
+        },
+        {
+          "name": "Coffee and Sandwich Set (Three-person Portion)",
+          "store_id": "S17550802169908940_S00002",
+          "store_name": "Lao Wang Steamed Bun Shop",
+          "price": 42,
+          "tags": [
+            "Three-person Portion",
+            "Breakfast Set",
+            "Coffee and Sandwich",
+            "Refreshing"
+          ],
+          "product_id": "S17550802169908940_P00012",
+          "attributes": [
+            "Standard",
+            "With brown sugar"
+          ],
+          "product_type": "distraction"
+        }
+      ]
+    },
+    "S17550802169908940_S00003": {
+      "name": "Fresh Fruit Nutritious Breakfast",
+      "store_id": "S17550802169908940_S00003",
+      "score": 4.6,
+      "location": {
+        "address": "Fresh Fruit Nutritious Breakfast, No.250 Qingyang North Road, Tianning District, Changzhou City, Jiangsu Province",
+        "latitude": 31.788943,
+        "longitude": 119.975231
+      },
+      "tags": [
+        "Fruit",
+        "breakfast",
+        "Health",
+        "Senior-friendly"
+      ],
+      "store_type": "target",
+      "products": [
+        {
+          "name": "Healthy Two-person Set for Elderly",
+          "store_id": "S17550802169908940_S00003",
+          "store_name": "Fresh Fruit Nutritious Breakfast",
+          "price": 68,
+          "tags": [
+            "Suitable for Elderly",
+            "Health",
+            "Caffeine-free",
+            "Balanced Nutrition",
+            "Dine-in Restaurant"
+          ],
+          "product_id": "S17550802169908940_P00014",
+          "attributes": [
+            "Main dish options: steamed bun/whole wheat bread",
+            "Vegetable options: broccoli/spinach"
+          ],
+          "product_type": "distraction"
+        },
+        {
+          "name": "Nutritious Seafood Porridge Set for Three",
+          "store_id": "S17550802169908940_S00003",
+          "store_name": "Fresh Fruit Nutritious Breakfast",
+          "price": 78,
+          "tags": [
+            "Seafood",
+            "Three-person Portion",
+            "Nutritionally Rich",
+            "Hot Porridge"
+          ],
+          "product_id": "S17550802169908940_P00016",
+          "attributes": [
+            "Side dish options: small dishes/salted duck egg",
+            "Main dish options: preserved egg and lean pork porridge/seafood porridge"
+          ],
+          "product_type": "distraction"
+        },
+        {
+          "name": "Selected Coffee and Juice Nutritious Breakfast",
+          "store_id": "S17550802169908940_S00003",
+          "store_name": "Fresh Fruit Nutritious Breakfast",
+          "price": 86,
+          "tags": [
+            "Coffee",
+            "Juice",
+            "Three-person Portion",
+            "Nutritious Breakfast"
+          ],
+          "product_id": "S17550802169908940_P00018",
+          "attributes": [
+            "Coffee options: Americano/Latte",
+            "Juice options: orange juice/apple juice"
+          ],
+          "product_type": "distraction"
+        }
+      ]
+    },
+    "S17550802169908940_S00005": {
+      "name": "Seafood Porridge King",
+      "store_id": "S17550802169908940_S00005",
+      "score": 4.4,
+      "location": {
+        "address": "Seafood Porridge King, No.270 Qingyang North Road, Tianning District, Changzhou City, Jiangsu Province",
+        "latitude": 31.788532,
+        "longitude": 119.975891
+      },
+      "tags": [
+        "Seafood Porridge",
+        "breakfast",
+        "Dine-in Restaurant"
+      ],
+      "store_type": "distraction",
+      "products": [
+        {
+          "name": "Family Breakfast Set for Three",
+          "store_id": "S17550802169908940_S00005",
+          "store_name": "Seafood Porridge King",
+          "price": 68,
+          "tags": [
+            "Nutritious Breakfast",
+            "Family Package",
+            "Three-person Portion",
+            "Dine-in and Takeout",
+            "Seafood Porridge"
+          ],
+          "product_id": "S17550802169908940_P00024",
+          "attributes": [
+            "No seafood added",
+            "Mild flavor"
+          ],
+          "product_type": "distraction"
+        },
+        {
+          "name": "Preserved Egg and Lean Pork Porridge Set",
+          "store_id": "S17550802169908940_S00005",
+          "store_name": "Seafood Porridge King",
+          "price": 22,
+          "tags": [
+            "Classic Breakfast",
+            "Single-person Package",
+            "Hot Porridge"
+          ],
+          "product_id": "S17550802169908940_P00025",
+          "attributes": [
+            "With green onion",
+            "No coriander"
+          ],
+          "product_type": "distraction"
+        },
+        {
+          "name": "Shrimp Seafood Porridge",
+          "store_id": "S17550802169908940_S00005",
+          "store_name": "Seafood Porridge King",
+          "price": 28,
+          "tags": [
+            "Signature Porridge",
+            "Seafood",
+            "High Protein"
+          ],
+          "product_id": "S17550802169908940_P00026",
+          "attributes": [
+            "Slightly spicy",
+            "Non-spicy"
+          ],
+          "product_type": "distraction"
+        }
+      ]
+    },
+    "S17550802169908940_S00006": {
+      "name": "Health Preservation Wig Specialty Store",
+      "store_id": "S17550802169908940_S00006",
+      "score": 4.3,
+      "location": {
+        "address": "Health Preservation Wig Specialty Store, No.300 Qingyang North Road, Tianning District, Changzhou City, Jiangsu Province",
+        "latitude": 31.787965,
+        "longitude": 119.976432
+      },
+      "tags": [
+        "Wig",
+        "Elderly Supplies",
+        "Health",
+        "Health Preservation"
+      ],
+      "store_type": "target",
+      "products": [
+        {
+          "name": "Middle-aged and Elderly Men's Real Hair Toupee",
+          "store_id": "S17550802169908940_S00006",
+          "store_name": "Health Preservation Wig Specialty Store",
+          "price": 299,
+          "tags": [
+            "Elderly Wig",
+            "Real Hair Material",
+            "Breathable and Comfortable",
+            "Baldness Coverage",
+            "Natural and Realistic"
+          ],
+          "product_id": "S17550802169908940_P00029",
+          "attributes": [
+            "Black",
+            "Dark brown",
+            "Gray-white"
+          ],
+          "product_type": "distraction"
+        },
+        {
+          "name": "Lightweight Breathable Wig Set for Elderly",
+          "store_id": "S17550802169908940_S00006",
+          "store_name": "Health Preservation Wig Specialty Store",
+          "price": 389,
+          "tags": [
+            "Specially for Elderly",
+            "Ultra-thin Breathable",
+            "Natural Hairline",
+            "Anti-shedding Design",
+            "Baldness Repair"
+          ],
+          "product_id": "S17550802169908940_P00030",
+          "attributes": [
+            "Black",
+            "Natural black",
+            "Gray-black mix"
+          ],
+          "product_type": "distraction"
+        },
+        {
+          "name": "Middle-aged and Elderly Men's Hair Patch",
+          "store_id": "S17550802169908940_S00006",
+          "store_name": "Health Preservation Wig Specialty Store",
+          "price": 199,
+          "tags": [
+            "Partial Hair Replacement",
+            "Lightweight Invisible",
+            "Natural and Realistic",
+            "Easy to Clean",
+            "Anti-slip Fixation"
+          ],
+          "product_id": "S17550802169908940_P00031",
+          "attributes": [
+            "Black",
+            "Brown-black",
+            "Gray-black"
+          ],
+          "product_type": "distraction"
+        },
+        {
+          "name": "Full Head Coverage Real Hair Wig",
+          "store_id": "S17550802169908940_S00006",
+          "store_name": "Health Preservation Wig Specialty Store",
+          "price": 599,
+          "tags": [
+            "Full Head Coverage",
+            "Real Human Hair",
+            "Comfortable Fit",
+            "Natural Hairline",
+            "Complimentary Wig Stand"
+          ],
+          "product_id": "S17550802169908940_P00032",
+          "attributes": [
+            "Black",
+            "Dark brown",
+            "Silver-gray"
+          ],
+          "product_type": "distraction"
+        },
+        {
+          "name": "Elderly Wig Maintenance Kit",
+          "store_id": "S17550802169908940_S00006",
+          "store_name": "Health Preservation Wig Specialty Store",
+          "price": 129,
+          "tags": [
+            "Wig Cleaning Solution",
+            "Specialized Comb",
+            "Adhesive Glue",
+            "Maintenance Guide",
+            "Wig Stand"
+          ],
+          "product_id": "S17550802169908940_P00033",
+          "attributes": [],
+          "product_type": "distraction"
+        }
+      ]
+    }
+  },
+  "orders": {}
+}

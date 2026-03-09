@@ -1,0 +1,45 @@
+{
+  "task_id": "28",
+  "query": "I'm planning to travel from Fuzhou to Suzhou on November 12, 2025, and stay for three days, returning on November 14, 2025. Could you please help me plan the entire trip, including transportation, accommodation, meals, and sightseeing?\n\nRegarding transportation, I'd like to take a train for my return journey. Please check if there's the most affordable direct train available—I'm not in a hurry, and as long as the comfort level is acceptable, that's fine.\n\nFor accommodation, I'd like to stay at a Hilton brand hotel. My budget is limited, so please pick the cheapest option they offer. I only need two nights, and I don't have high requirements, we need 1 room for 2 people.\n\nAs for dining, I have two small requests. First, I really want to have a meal near 'Songhelou (Guanqian Branch)'. I've heard there are some good restaurants around there—could you help me find one that offers private rooms and is comfortable to sit in? Second, I'd love to visit the 'Suzhou Museum', and I was wondering if you could arrange a meal nearby. Please choose the highest-rated restaurant in the area so I can try some local specialties.\n\nThat's about it—please go ahead and plan everything for me. I think I've provided all the necessary details, so no need to ask me any further questions! November 12, 2025 is Wednesday",
+  "meta_info": {
+    "org": "Fuzhou",
+    "dest": [
+      "Suzhou"
+    ],
+    "days": 3,
+    "depart_date": "2025-11-12",
+    "return_date": "2025-11-14",
+    "people_number": 2,
+    "room_number": 1
+  },
+  "hard_constraints": {
+    "train_cheapest_direct": {
+      "constraint_context": "For the return trip, I hope to choose a train and need to select the cheapest direct train available",
+      "constraint_type": "superlative_cheapest_direct",
+      "inbound_train_no": "D3103"
+    },
+    "hotel_cheapest_brand": {
+      "constraint_context": "For accommodation, please select the most affordable hotel among the Hilton brand properties",
+      "constraint_type": "superlative_cheapest_brand",
+      "hotel_name": "Suzhou Kunshan Hilton Garden Inn",
+      "hotel_price": 466.0
+    },
+    "restaurant_specific_tag_nearby": {
+      "constraint_context": "Arrange a meal at a restaurant near 'Songhelou (Guanqian Branch)' during the trip, with private room service required",
+      "constraint_type": "superlative_specific_tag_nearby",
+      "attraction_name": "Songhelou (Guanqian Branch)",
+      "restaurant_name": "Huixianglou Halal Restaurant",
+      "required_tag": "Private Room",
+      "price_per_person": 74.0,
+      "restaurant_rating": 4.1
+    },
+    "restaurant_highest_rated": {
+      "constraint_context": "During the trip, please arrange a meal at the highest-rated restaurant near 'Suzhou Museum'.",
+      "constraint_type": "superlative_highest_rated_restaurant",
+      "attraction_name": "Suzhou Museum",
+      "restaurant_name": "Pingjiang Peach Blossom Land (Pingjiang No. 2 Branch)",
+      "price_per_person": 100.0,
+      "restaurant_rating": 4.6
+    }
+  }
+}

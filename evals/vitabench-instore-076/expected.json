@@ -1,0 +1,81 @@
+{
+  "required_orders": [
+    {
+      "order_id": "10826247T001",
+      "order_type": "instore",
+      "user_id": "U012408",
+      "store_id": "S17567842655251946_I00003",
+      "note": "",
+      "location": null,
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 588,
+      "create_time": "2023-07-06 13:15:00",
+      "update_time": "2023-07-07 09:17:00",
+      "status": "cancelled",
+      "products": [
+        {
+          "product_id": "S17567842655251946_P00021",
+          "name": "4-Person Classic Cantonese Cuisine Set",
+          "price": 588,
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "book_id": "10826247T002",
+      "shop_id": "S17567842655251946_I00003",
+      "book_time": "2023-07-08 12:00:00",
+      "update_time": "2023-07-07 09:19:00",
+      "customer_id": "U012408",
+      "customer_count": 4,
+      "book_price": 50,
+      "status": "cancelled"
+    },
+    {
+      "book_id": "10826247T003",
+      "shop_id": "S17567842655251946_I00001",
+      "book_time": "2023-07-08 12:00:00",
+      "update_time": "2023-07-07 09:21:00",
+      "customer_id": "U012408",
+      "customer_count": 4,
+      "book_price": 10,
+      "status": "paid"
+    },
+    {
+      "order_id": "10826247T004",
+      "order_type": "instore",
+      "user_id": "U012408",
+      "store_id": "S17567842655251946_I00002",
+      "note": "",
+      "location": null,
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 120,
+      "create_time": "2023-07-07 09:23:00",
+      "update_time": "2023-07-07 09:23:00",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17567842655251946_P00010",
+          "name": "4-Person Private Room Mahjong Package (Tea Included)",
+          "price": 120,
+          "quantity": 1
+        }
+      ]
+    }
+  ],
+  "rubrics": [
+    "The order status of the Cantonese restaurant set menu should be cancelled",
+    "The reservation status of the Cantonese restaurant should be cancelled",
+    "The reserved BBQ restaurant should be Northeastern BBQ",
+    "The average consumption at the BBQ restaurant should be less than or equal to 150 yuan",
+    "The reservation time for the BBQ restaurant is 2023-07-08 12:00:00",
+    "The number of people for the BBQ restaurant reservation is 4",
+    "The distance from the Self-Service Mahjong Club to Charcoal Legend Northeastern BBQ, 200m East of Gongbei Port Plaza, Xiangzhou District, Zhuhai should be within 2km (inclusive)",
+    "The set package ordered at the Self-Service Mahjong Club should include mahjong playing and tea service",
+    "The usage duration of the ordered set package at the Self-Service Mahjong Club should be 4 Hours"
+  ]
+}

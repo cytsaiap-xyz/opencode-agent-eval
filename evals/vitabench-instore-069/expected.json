@@ -1,0 +1,102 @@
+{
+  "required_orders": [
+    {
+      "order_id": "10826120T001",
+      "order_type": "instore",
+      "user_id": "U996108",
+      "store_id": "S17567836580604988_I00001",
+      "note": "",
+      "location": null,
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 4576,
+      "create_time": "2025-03-06 18:48:04",
+      "update_time": "2025-03-06 18:48:04",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17567836580604988_P00001",
+          "name": "[Women's Day Special] Melasma Laser Removal & Anti-wrinkle Package + Consultation",
+          "price": 2688,
+          "quantity": 1
+        },
+        {
+          "product_id": "S17567836580604988_P00005",
+          "name": "Thermage Facial Firming Package (Women's Day Special)",
+          "price": 1888,
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "reservation_id": "10826120T002",
+      "shop_id": "S17567836580604988_I00001",
+      "reservation_time": "2025-03-08 14:00:00",
+      "update_time": "2025-03-06 18:48:49",
+      "customer_id": "U996108",
+      "customer_count": 2,
+      "status": "paid"
+    },
+    {
+      "order_id": "10826120T003",
+      "order_type": "instore",
+      "user_id": "U996108",
+      "store_id": "S17567836580604988_I00002",
+      "note": "",
+      "location": null,
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 268,
+      "create_time": "2025-03-06 18:51:02",
+      "update_time": "2025-03-06 18:51:02",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17567836580604988_P00010",
+          "name": "Women's Day Special Cantonese Premium Set for Two",
+          "price": 268,
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "order_id": "10826120T004",
+      "order_type": "instore",
+      "user_id": "U996108",
+      "store_id": "S17567836580604988_I00002",
+      "note": "",
+      "location": null,
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 288,
+      "create_time": "2025-03-01 15:45:00",
+      "update_time": "2025-03-06 18:53:09",
+      "status": "cancelled",
+      "products": [
+        {
+          "product_id": "S17567836580604988_P00013",
+          "name": "Business Set Menu A for Two",
+          "price": 298,
+          "quantity": 1
+        }
+      ]
+    }
+  ],
+  "rubrics": [
+    "The beauty salon should provide face-to-face consultation service",
+    "The receptionist and doctor of the beauty salon should hold professional qualification certificates",
+    "The beauty salon order should include a facial spot removal and anti-wrinkle package with a quantity of 1",
+    "The beauty salon order should include a facial lifting and firming package with a quantity of 1",
+    "The facial spot removal and anti-wrinkle package and facial lifting and firming package should be from the same merchant",
+    "All beauty salon ordered items should be holiday special packages",
+    "The reserved beauty salon should be Xinyan Medical Aesthetics Center (Qingxiu Mixc Branch)",
+    "The beauty salon appointment time should be 2025-03-08 14:00",
+    "The number of people for the beauty salon appointment should be 2",
+    "User history should be checked, and since the user previously frequented Tang Palace Cantonese Restaurant (Qingxiu Mixc Branch), the Cantonese restaurant order should be from Tang Palace Cantonese Restaurant (Qingxiu Mixc Branch)",
+    "The Cantonese restaurant should be checked for Women's Day special set menu for two, and since it is available, the Cantonese restaurant order should be Women's Day Special Cantonese Premium Set for Two",
+    "The order status for Business Set Menu A for Two should be cancelled"
+  ]
+}

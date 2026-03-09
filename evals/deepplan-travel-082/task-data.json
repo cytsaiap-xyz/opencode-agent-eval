@@ -1,0 +1,51 @@
+{
+  "task_id": "81",
+  "query": "I'm planning to travel from Nanchang to Chongqing on November 12, 2025, and stay there until November 17, 2025. The schedule is quite flexible, so could you help me plan the trip? For transportation, I don't mind the departure details—no need to leave particularly early—but for the return journey, could you please choose the latest direct train that arrives back in Nanchang? That way, I can spend more time exploring Chongqing.\n\nFor accommodation, I'd like to stay somewhere comfortable, so please arrange a five-star hotel for me directly. Just one small request: the hotel room should have screen mirroring capability on the TV, as I might want to stream videos or movies in the evening.\n\nRegarding dining, I've heard there are lots of great food options around the 'Chongqing Shibati Traditional Style Area'. Could you help me find the most affordable restaurant near there by average cost per person? I’d love to try some authentic local cuisine with good value.\n\nBy the way, Chongqing must have many interesting attractions. Could you pick the top three highest-rated spots from the recommendations and include them in my itinerary? I’d like to visit all of them.\n\nThat's it—I think I've covered everything. Please go ahead and create a detailed travel plan for me! November 12, 2025 is Wednesday",
+  "meta_info": {
+    "org": "Nanchang",
+    "dest": [
+      "Chongqing"
+    ],
+    "days": 6,
+    "depart_date": "2025-11-12",
+    "return_date": "2025-11-17",
+    "people_number": 1,
+    "room_number": 1
+  },
+  "hard_constraints": {
+    "train_latest_arrival_direct": {
+      "constraint_context": "I'd like to return later, so please help me choose the latest direct train for the return trip",
+      "constraint_type": "superlative_latest_arrival",
+      "inbound_train_no": "G1761"
+    },
+    "hotel_star_service_required": {
+      "constraint_context": "Please select a 5-star hotel that provides TVs with screen mirroring capability",
+      "constraint_type": "superlative_star_service_required",
+      "hotel_name": "Chongqing Jiafa DoubleTree by Hilton Hotel",
+      "required_service": "TV Casting",
+      "hotel_star": 5,
+      "hotel_price": 560.0
+    },
+    "restaurant_cheapest_nearby_attraction": {
+      "constraint_context": "During the trip, please arrange a meal at the cheapest restaurant near 'Chongqing Shibati Traditional Style Area' per person.",
+      "constraint_type": "superlative_cheapest_nearby_attraction",
+      "attraction_name": "Chongqing Shibati Traditional Style Area",
+      "restaurant_name": "Xiao Jiang Restaurant",
+      "price_per_person": 32.0
+    },
+    "attraction_top_rated_must_visit": {
+      "constraint_context": "The itinerary must include the three highest-rated attractions recommended by the attraction recommendation tool.",
+      "constraint_type": "superlative_top_rated_must_visit",
+      "attraction_names": [
+        "Hongyan Revolutionary Memorial Hall",
+        "Chongqing Chaotianmen Square",
+        "Bayilu Food Street"
+      ],
+      "attraction_ratings": [
+        5.0,
+        4.8,
+        4.8
+      ]
+    }
+  }
+}

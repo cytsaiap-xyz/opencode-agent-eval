@@ -1,0 +1,482 @@
+{
+  "task_id": "A0806001",
+  "domain": "cross_domain",
+  "time": "2026-04-17 12:15:32",
+  "user_id": "U010096",
+  "weather": [
+    {
+      "city": "Suzhou",
+      "category": "light rain",
+      "datetime": "2026-04-18",
+      "temperature": [
+        16,
+        22
+      ],
+      "humidity": 85
+    }
+  ],
+  "location": [
+    {
+      "address": "European Garden, 688 Tongyuan Road, Loufeng Street, Huqiu District, Suzhou, Jiangsu Province",
+      "longitude": 120.7135,
+      "latitude": 31.3245
+    }
+  ],
+  "user_profile": {
+    "user id": "U010096",
+    "occupation": "Lawyer",
+    "gender": "male",
+    "age group": "35~40",
+    "residence": "Suzhou",
+    "Permanent address": "European Garden, 688 Tongyuan Road, Loufeng Street, Huqiu District, Suzhou, Jiangsu Province",
+    "work address": "Beijing Huicheng (Suzhou) Law Firm, B6-7 Hengrun Building, 8 Beibaiyanjie, Industrial Park, Huqiu District, Suzhou, Jiangsu Province",
+    "dietary restrictions": "No alcohol",
+    "family status": "Has children",
+    "personality": "Extremely detail-oriented, tends to be picky and easily dissatisfied"
+  },
+  "user_historical_behaviors": {
+    "user id": "U010096",
+    "occupation": "lawyer",
+    "gender": "male",
+    "age group": "35~40",
+    "residence": "Suzhou",
+    "home address": "European Garden, 688 Tongyuan Road, Loufeng Street, Huqiu District, Suzhou, Jiangsu Province",
+    "work address": "Beijing Huicheng (Suzhou) Law Firm, B6-7 Hengrun Building, 8 Beibaiyanjie, Industrial Park, Huqiu District, Suzhou, Jiangsu Province",
+    "delivery": {
+      "food delivery": {
+        "breakfast": {
+          "frequently purchased categories": [
+            "Quick Meals/Steamed Buns/Pan-fried Buns (Average 18 yuan)",
+            "Quick Meals/Pancakes/Wraps/Hand-held Pancakes (Average 15 yuan)",
+            "Quick Meals/Light Food (Average 28 yuan)"
+          ],
+          "cost per order": "15~30 yuan",
+          "preferred store rating": "4.5~4.8 points",
+          "preferred delivery time": "15~25 minutes",
+          "preferred distance": "0~1500m",
+          "recent orders": [
+            {
+              "store": "Sugar-free Light Breakfast",
+              "product": "Vegetable Chicken Breast Sandwich + Yogurt"
+            },
+            {
+              "store": "Lao Yang's Handmade Buns",
+              "product": "Pork Buns + Soy Milk"
+            },
+            {
+              "store": "Tianjin Pancakes",
+              "product": "Original Pancake"
+            }
+          ],
+          "search history": [
+            "Low-sugar breakfast",
+            "Healthy breakfast",
+            "Sugar-free soy milk",
+            "Light food"
+          ]
+        },
+        "weekday lunch/dinner": {
+          "frequently purchased categories": [
+            "Quick Meals/Light Food (Average 35 yuan)",
+            "Quick Meals/Healthy Meals (Average 45 yuan)",
+            "Quick Meals/Salad (Average 32 yuan)"
+          ],
+          "cost per order": "30~50 yuan",
+          "preferred store rating": "4.6~4.9 points",
+          "preferred delivery time": "20~30 minutes",
+          "preferred distance": "0~2500m",
+          "recent orders": [
+            {
+              "store": "Light Healthy Meal",
+              "product": "Quinoa Chicken Breast Salad"
+            },
+            {
+              "store": "Green Light Food Philosophy",
+              "product": "Low-fat Chicken Breast Rice + Seasonal Vegetables"
+            },
+            {
+              "store": "Salad Box",
+              "product": "Avocado Chicken Salad"
+            }
+          ],
+          "search history": [
+            "Healthy meal",
+            "Low calorie",
+            "Salad",
+            "Weight loss meal"
+          ]
+        },
+        "weekend lunch/dinner": {
+          "frequently purchased categories": [
+            "Chinese Cuisine/Cantonese Cuisine (Average 110 yuan)",
+            "Chinese Cuisine/Sichuan Cuisine (Average 95 yuan)",
+            "International Cuisine/Stone Pot Rice/Teppanyaki (Average 85 yuan)"
+          ],
+          "cost per order": "80~150 yuan",
+          "preferred store rating": "4.7~5.0 points",
+          "preferred delivery time": "30~45 minutes",
+          "preferred distance": "0~3500m",
+          "recent orders": [
+            {
+              "store": "Cantonese Pavilion",
+              "product": "White Cut Chicken + Steamed Fresh Fish + Vegetable Set"
+            },
+            {
+              "store": "Sichuan Bistro",
+              "product": "Boiled Fish + Twice-cooked Pork + Rice"
+            },
+            {
+              "store": "Korean Cuisine House",
+              "product": "Stone Pot Bibimbap Family Set"
+            }
+          ],
+          "search history": [
+            "Family set meal",
+            "Cantonese cuisine",
+            "Sichuan cuisine",
+            "Family Fun Package"
+          ]
+        },
+        "desserts/drinks/snacks": {
+          "frequently purchased categories": [
+            "Beverages & Desserts/Juice (Average 22 yuan)",
+            "Beverages & Desserts/Pure Tea/Herbal Tea (Average 18 yuan)",
+            "Beverages & Desserts/Fruit Salad (Average 32 yuan)"
+          ],
+          "cost per order": "15~35 yuan",
+          "preferred store rating": "4.5~4.9 points",
+          "preferred delivery time": "15~25 minutes",
+          "preferred distance": "0~2000m",
+          "recent orders": [
+            {
+              "store": "Fresh Fruit Workshop",
+              "product": "Freshly Squeezed Grapefruit Juice"
+            },
+            {
+              "store": "Tea Memory Fresh",
+              "product": "Sugar-free Oolong Tea"
+            },
+            {
+              "store": "Definitely Fresh",
+              "product": "Colorful Fruit Salad"
+            }
+          ],
+          "search history": [
+            "Sugar-free beverages",
+            "Freshly squeezed juice",
+            "Fruit salad",
+            "Low-sugar desserts"
+          ]
+        },
+        "night snack": {
+          "frequently purchased categories": [
+            "Snacks & Braised Foods/Braised Items (Average 40 yuan)",
+            "Quick Meals/Dumplings/Wontons (Average 35 yuan)"
+          ],
+          "cost per order": "30~50 yuan",
+          "preferred store rating": "4.3~4.8 points",
+          "preferred delivery time": "20~35 minutes",
+          "preferred distance": "0~2500m",
+          "recent orders": [
+            {
+              "store": "Lao Zhou Braised Foods",
+              "product": "Braised Chicken Wings + Braised Tofu"
+            },
+            {
+              "store": "Fresh Soup Dumpling House",
+              "product": "Three Delicacies Dumplings"
+            },
+            {
+              "store": "Hangzhou Xiaolongbao",
+              "product": "Crab Roe Xiaolongbao"
+            }
+          ],
+          "search history": [
+            "Braised food",
+            "Dumplings",
+            "Xiaolongbao",
+            "Night snack"
+          ]
+        }
+      },
+      "product delivery": {
+        "frequently purchased categories": [
+          "Vegetables/Tofu Products(30%)",
+          "Fruits(25%)",
+          "Mother & Baby Products(15%)",
+          "Grains, Oils, Seasonings & Dried Goods(12%)",
+          "Household Items(10%)",
+          "Others(8%)"
+        ],
+        "frequently visited stores": [
+          "Suguo Supermarket(Industrial Park Branch)(45%)",
+          "AEON Supermarket(Xinghai Street Branch)(30%)",
+          "Family Mart(Xinghu Mansion Branch)(15%)",
+          "Other Stores(10%)"
+        ],
+        "cost per order by category": {
+          "Vegetables/Tofu Products": "5~30 yuan",
+          "Fruits": "10~50 yuan",
+          "Mother & Baby Products": "20~150 yuan",
+          "Grains, Oils, Seasonings & Dried Goods": "10~40 yuan",
+          "Household Items": "15~80 yuan"
+        },
+        "preferred delivery time": "30~60 minutes",
+        "typical order time": "9~11 AM(35%), 4~6 PM(40%), 7~9 PM(25%)",
+        "recent orders": [
+          {
+            "store": "Suguo Supermarket(Industrial Park Branch)",
+            "product": "Organic Broccoli + Carrots + Tofu"
+          },
+          {
+            "store": "AEON Supermarket(Xinghai Street Branch)",
+            "product": "Children's Toothbrush + Baby Wipes"
+          },
+          {
+            "store": "Suguo Supermarket(Industrial Park Branch)",
+            "product": "Organic Apples + Blueberries + Strawberries"
+          }
+        ],
+        "search history": [
+          "Organic vegetables",
+          "Children's snacks",
+          "Sugar-free food",
+          "Baby wipes",
+          "Organic fruits"
+        ]
+      }
+    },
+    "in-store consumption": {
+      "in-store dining": {
+        "fine-dining": {
+          "frequently purchased categories": [
+            "Regional Cuisine/Jiangsu and Zhejiang Cuisine (Average 120 yuan)",
+            "International Cuisine/Japanese Cuisine (Average 150 yuan)",
+            "Regional Cuisine/Fish Specialties (Average 130 yuan)"
+          ],
+          "preferred average price per person": "100~150 yuan",
+          "preferred store rating": "4.2~4.8 stars",
+          "typical dining time": "18:30-20:30",
+          "preferred distance": "0~3000m",
+          "recent orders": [
+            {
+              "store": "Hui Ju Yuan (Jinji Lake Branch)",
+              "product": "Squirrel-Shaped Mandarin Fish"
+            },
+            {
+              "store": "Wuer Izakaya",
+              "product": "Specialty Sashimi Platter"
+            },
+            {
+              "store": "Wang Hu Lou",
+              "product": "Gusu-Style Set Menu"
+            }
+          ],
+          "search history": [
+            "Wuer Izakaya",
+            "Jiangsu and Zhejiang Cuisine",
+            "Low-salt dishes",
+            "Suzhou specialty restaurants"
+          ]
+        },
+        "light meal": {
+          "frequently purchased categories": [
+            "Snacks & Quick Meals/Chinese Light Meals (Average 35 yuan)",
+            "Regional Cuisine/Jiangsu and Zhejiang Cuisine (Average 45 yuan)"
+          ],
+          "preferred average price per person": "30~50 yuan",
+          "preferred store rating": "3.5~4.3 stars",
+          "typical dining time": "12:00-13:00",
+          "preferred distance": "0~500m",
+          "recent orders": [
+            {
+              "store": "Lanzhou Noodles (Software Park Branch)",
+              "product": "Beef Noodles (Mildly Spicy)"
+            },
+            {
+              "store": "A Xiang Rice Noodles",
+              "product": "Signature Rice Noodle Set"
+            },
+            {
+              "store": "Yonghe King",
+              "product": "Vegetarian Set Meal"
+            }
+          ],
+          "search history": [
+            "Lunch near Software Park",
+            "Low-salt set meals",
+            "Vegetarian",
+            "Fast food"
+          ]
+        },
+        "desserts/drinks/snacks": {
+          "frequently purchased categories": [
+            "Bread & Desserts (Average 28 yuan)",
+            "Beverage Shops (Average 22 yuan)"
+          ],
+          "preferred average price per person": "15~30 yuan",
+          "preferred store rating": "4.0~4.7 stars",
+          "typical dining time": "15:00-16:30",
+          "preferred distance": "0~300m",
+          "recent orders": [
+            {
+              "store": "Nayuki Tea",
+              "product": "Cheese Strawberry Fruit Tea (No Sugar)"
+            },
+            {
+              "store": "Starbucks (Jinji Lake Branch)",
+              "product": "Hot Chocolate"
+            },
+            {
+              "store": "85°C",
+              "product": "Fruit Tart"
+            }
+          ],
+          "search history": [
+            "Low-sugar drinks",
+            "Fruit tea",
+            "Non-Alcoholic beverages",
+            "healthy dessert"
+          ]
+        }
+      },
+      "other in-store services": {
+        "frequently consumed categories": {
+          "Sports & Fitness/Sports Venues": "40%",
+          "Leisure & Entertainment/Massage/Foot Therapy": "35%",
+          "Beauty/Haircuts": "25%"
+        },
+        "cost per order by category": {
+          "Sports & Fitness/Sports Venues": "40~80 yuan",
+          "Leisure & Entertainment/Massage/Foot Therapy": "120~280 yuan",
+          "Beauty/Haircuts": "80~220 yuan"
+        },
+        "preferred store rating": "3.5~4.5 stars",
+        "preferred service time": "19~21 o'clock",
+        "preferred distance": "0~3000m",
+        "recent orders": [
+          {
+            "store": "Suzhou Sports Center",
+            "product": "Badminton Court 2 hours"
+          },
+          {
+            "store": "Zu Fu Tang Massage",
+            "product": "Full Body Massage 60 minutes"
+          },
+          {
+            "store": "Fashion Haircut",
+            "product": "Men's Haircut"
+          }
+        ],
+        "search history": [
+          "Men's barbershop",
+          "Weekend badminton court",
+          "Neck massage",
+          "Back pain massage"
+        ]
+      }
+    },
+    "OTA": {
+      "visited scenes": {
+        "Cultural Heritage Sites": "35%",
+        "Landmark Buildings": "20%",
+        "Exhibition Halls (Museums/Art Galleries)": "25%",
+        "Natural Landscapes (Mountains/Lakes/Forests)": "10%",
+        "Specialty Villages/Industrial Tourism/Uncategorized Projects": "10%"
+      },
+      "cost per night on hotel": "1000~2000 yuan",
+      "visited hotels": {
+        "Atour": "30%",
+        "Marriott": "15%",
+        "Hilton": "10%",
+        "Vienna": "25%",
+        "Ji Hotel": "20%"
+      },
+      "browsed hotels": {
+        "Five-star Hotels": "25%",
+        "Four-star Hotels": "45%",
+        "Comfort Hotels": "30%"
+      },
+      "historical travel plans": {
+        "Suzhou-Beijing": {
+          "Price Range": "500-1200 yuan",
+          "Transportation Mode": "High-speed Rail/Bullet Train"
+        },
+        "Suzhou-Shanghai": {
+          "Price Range": "40-80 yuan",
+          "Transportation Mode": "High-speed Rail/Bullet Train"
+        },
+        "Suzhou-Hangzhou": {
+          "Price Range": "80-150 yuan",
+          "Transportation Mode": "High-speed Rail/Bullet Train"
+        },
+        "Suzhou-Nanjing": {
+          "Price Range": "80-150 yuan",
+          "Transportation Mode": "High-speed Rail/Bullet Train"
+        },
+        "Suzhou-Guangzhou": {
+          "Price Range": "800-1500 yuan",
+          "Transportation Mode": "Airplane"
+        },
+        "Suzhou-Chengdu": {
+          "Price Range": "1000-2000 yuan",
+          "Transportation Mode": "Airplane"
+        },
+        "Suzhou-Xi'an": {
+          "Price Range": "800-1500 yuan",
+          "Transportation Mode": "Airplane"
+        },
+        "Suzhou-Surrounding Areas": {
+          "Price Range": "200-500 yuan",
+          "Transportation Mode": "Self-driving"
+        }
+      }
+    }
+  },
+  "stores": {},
+  "orders": {
+    "S17550812965821285_O00001": {
+      "order_id": "S17550812965821285_O00001",
+      "order_type": "attraction",
+      "user_id": "U010096",
+      "store_id": "S17550812965821285_A00004",
+      "note": "Bringing children, need more towels",
+      "location": {
+        "address": "Suzhou Happy Water Cube, 199 Xinggang Street, Industrial Park, Suzhou, Jiangsu Province",
+        "longitude": 120.7423,
+        "latitude": 31.3356
+      },
+      "dispatch_time": "",
+      "shipping_time": 0.0,
+      "delivery_time": "",
+      "total_price": 468,
+      "create_time": "2026-04-16 14:32:18",
+      "update_time": "2026-04-16 14:32:18",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17550812965821285_P00023",
+          "price": 468,
+          "quantity": 1,
+          "ticket_type": "Family Package (2 Adults, 1 Child)"
+        }
+      ]
+    },
+    "S17550812965821285_O00002": {
+      "order_id": "S17550812965821285_O00002",
+      "order_type": "instore",
+      "user_id": "U010096",
+      "store_id": "S17550812965821285_I00013",
+      "total_price": 168,
+      "create_time": "2026-04-16 15:47:22",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17550812965821285_P00076",
+          "price": 168,
+          "quantity": 1
+        }
+      ]
+    }
+  }
+}

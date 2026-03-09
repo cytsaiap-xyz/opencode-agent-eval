@@ -1,0 +1,364 @@
+{
+  "task_id": "30711002",
+  "domain": "delivery",
+  "time": "2025-08-20 17:29:18",
+  "user_id": "U000003",
+  "weather": [
+    {
+      "city": "Changsha City",
+      "category": "cloudy",
+      "datetime": "2025-08-20",
+      "temperature": [
+        27,
+        37
+      ],
+      "humidity": 55
+    }
+  ],
+  "location": [
+    {
+      "address": "Xiangzhang Garden, 168 Xiangzhang Road, Yuhua District, Changsha, Hunan Province",
+      "longitude": 113.007008,
+      "latitude": 28.134684
+    }
+  ],
+  "user_profile": {
+    "user id": "U000003",
+    "occupation": "Courier",
+    "gender": "female",
+    "age group": "40~45",
+    "residence": "Changsha",
+    "home address": "Xiangzhang Garden, 168 Xiangzhang Road, Yuhua District, Changsha, Hunan Province",
+    "work address": "Lewo Smart Valley, Environmental Protection Middle Road, Tongsheng Street, Yuhua District, Changsha, Hunan Province",
+    "dietary restrictions": "No alcohol",
+    "family status": "Living alone",
+    "personality": "Extremely detail-oriented, tends to be picky and easily dissatisfied"
+  },
+  "user_historical_behaviors": {
+    "user id": "U000003",
+    "occupation": "Courier",
+    "gender": "female",
+    "age group": "40~45",
+    "residence": "Changsha",
+    "home address": "Xiangzhang Garden, 168 Xiangzhang Road, Yuhua District, Changsha, Hunan Province",
+    "work address": "Lewo Smart Valley, Environmental Protection Middle Road, Tongsheng Street, Yuhua District, Changsha, Hunan Province",
+    "breakfast": {
+      "frequently purchased categories": [
+        "Quick meals/Steamed buns/Pan-fried buns (Average 15 yuan)",
+        "Quick meals/Fried dough sticks (Average 6 yuan)",
+        "Quick meals/Pancakes/Wraps/Hand-grabbed pancakes (Average 12 yuan)"
+      ],
+      "cost per order": "8~15 yuan",
+      "preferred store rating": "4.2~4.6 stars",
+      "preferred delivery time": "15~25 minutes",
+      "preferred distance": "0~1500m",
+      "recent orders": [
+        {
+          "store": "Old Yang's Soy Milk Shop",
+          "product": "Fried dough sticks + Soy milk combo"
+        },
+        {
+          "store": "Four Seasons Bun Shop",
+          "product": "4 Pork buns"
+        },
+        {
+          "store": "Daily Breakfast House",
+          "product": "Hand-grabbed pancake + Soy milk"
+        }
+      ],
+      "search history": [
+        "Steamed buns",
+        "Soy milk",
+        "Hand-grabbed pancake",
+        "Cheap breakfast",
+        "Quick breakfast"
+      ]
+    },
+    "weekday lunch/dinner": {
+      "frequently purchased categories": [
+        "Quick meals/Small dishes (Average 25 yuan)",
+        "Quick meals/Rice noodles (Average 18 yuan)",
+        "Quick meals/Rice with toppings (Average 22 yuan)"
+      ],
+      "cost per order": "18~35 yuan",
+      "preferred store rating": "4.0~4.9 stars",
+      "preferred delivery time": "20~35 minutes",
+      "preferred distance": "0~2500m",
+      "recent orders": [
+        {
+          "store": "Zhijiang Duck Noodles (Soup Noodles • Yuhua Branch)",
+          "product": "Original duck soup noodles"
+        },
+        {
+          "store": "Fast Food No.1",
+          "product": "Shredded pork with garlic sauce rice"
+        }
+      ],
+      "search history": [
+        "Fast food",
+        "Rice with toppings",
+        "Small dishes",
+        "Lunch box",
+        "Quick lunch"
+      ]
+    },
+    "weekend lunch/dinner": {
+      "frequently purchased categories": [
+        "Chinese cuisine/Hunan cuisine (Average 45 yuan)",
+        "Quick meals/Light food (Average 25 yuan)",
+        "Chinese cuisine/Dry pot (Average 50 yuan)"
+      ],
+      "cost per order": "25~50 yuan",
+      "preferred store rating": "4.3~5.0 stars",
+      "preferred delivery time": "30~55 minutes",
+      "preferred distance": "0~5000m",
+      "recent orders": [
+        {
+          "store": "Bell Oil-splashed Noodles (Meat Sandwich)",
+          "product": "Signature mixed sauce oil-splashed noodles"
+        },
+        {
+          "store": "Light Food Salad",
+          "product": "Chicken breast salad set"
+        },
+        {
+          "store": "Spicy Dry Pot",
+          "product": "Dry pot potato slices"
+        }
+      ],
+      "search history": [
+        "Hunan cuisine",
+        "Healthy eating",
+        "Light food"
+      ]
+    },
+    "desserts/drinks/snacks": {
+      "frequently purchased categories": [
+        "Drinks & desserts/Juice (Average 15 yuan)",
+        "Drinks & desserts/Fruit salad (Average 20 yuan)",
+        "Drinks & desserts/Bread & pastries (Average 35 yuan)"
+      ],
+      "cost per order": "10~20 yuan",
+      "preferred store rating": "4.4~5.0 stars",
+      "preferred delivery time": "15~60 minutes",
+      "preferred distance": "0~5000m",
+      "recent orders": [
+        {
+          "store": "Molecular Active Bread (Forestry University Branch)",
+          "product": "Garden pumpkin bread"
+        },
+        {
+          "store": "Colorful Fruit Salad",
+          "product": "Assorted fruit salad"
+        },
+        {
+          "store": "Cool Summer",
+          "product": "Yogurt ice cream"
+        }
+      ],
+      "search history": [
+        "Fruit salad",
+        "Juice",
+        "Low-sugar drinks",
+        "Healthy beverages"
+      ]
+    },
+    "night snack": {
+      "frequently purchased categories": [
+        "Quick meals/Clay pot dishes (Average 25 yuan)",
+        "Hot pot/Spicy hot pot/Japanese hot pot (Average 20 yuan)",
+        "Snacks & braised foods/Braised foods (Average 30 yuan)"
+      ],
+      "cost per order": "25~30 yuan",
+      "preferred store rating": "4.0~4.5 stars",
+      "preferred delivery time": "25~40 minutes",
+      "preferred distance": "0~2500m",
+      "recent orders": [
+        {
+          "store": "Clay Pot Porridge Shop",
+          "product": "Preserved egg and lean pork porridge"
+        },
+        {
+          "store": "Old Street Japanese Hot Pot",
+          "product": "Signature Japanese hot pot"
+        },
+        {
+          "store": "German-style Braised Foods",
+          "product": "Braised duck neck + Braised egg"
+        }
+      ],
+      "search history": [
+        "Non-spicy night snacks",
+        "Stomach-warming food",
+        "Clay pot porridge",
+        "Braised food",
+        "Night snack set"
+      ]
+    }
+  },
+  "stores": {
+    "S33414768862736242_S26758": {
+      "name": "Highland Girl Northwest Cuisine (Xiyuehui Branch)",
+      "store_id": "S33414768862736242_S26758",
+      "score": 4.7,
+      "location": {
+        "address": "Highland Girl Northwest Cuisine (Xiyuehui Branch), Shop 1001-1002, Building 7, 867 Xiangzhang Road, Guitang Street, Yuhua District, Changsha, Hunan Province",
+        "latitude": 28.142347,
+        "longitude": 113.033511
+      },
+      "tags": [],
+      "products": [
+        {
+          "name": "Stir-fried Purslane with Eggs",
+          "store_id": "S33414768862736242_S26758",
+          "store_name": "Highland Girl Northwest Cuisine (Xiyuehui Branch)",
+          "price": 38.0,
+          "tags": [],
+          "product_id": "S10265457617021740_P85391",
+          "attributes": [],
+          "quantity": 9999
+        },
+        {
+          "name": "Stir-fried Cabbage with Naan (Small Portion)",
+          "store_id": "S33414768862736242_S26758",
+          "store_name": "Highland Girl Northwest Cuisine (Xiyuehui Branch)",
+          "price": 16.0,
+          "tags": [],
+          "product_id": "S22921577738284123_P49736",
+          "attributes": [],
+          "quantity": 9999
+        },
+        {
+          "name": "Qinghai Handmade Cold Noodles",
+          "store_id": "S33414768862736242_S26758",
+          "store_name": "Highland Girl Northwest Cuisine (Xiyuehui Branch)",
+          "price": 18.0,
+          "tags": [
+            "Authentic Flavor"
+          ],
+          "product_id": "S18330858245118659_P05003",
+          "attributes": [],
+          "quantity": 9999
+        }
+      ]
+    },
+    "S27620908423745403_S21237": {
+      "name": "Ma Changhe Northwest Beef Noodles (Desiqin Branch)",
+      "store_id": "S27620908423745403_S21237",
+      "score": 4.6,
+      "location": {
+        "address": "Ma Changhe Northwest Beef Noodles, No.124, Building 11, Yuetai Ideal City, 79 Xiangfu Middle Road, Yuhua District, Changsha, Hunan Province",
+        "latitude": 28.109573,
+        "longitude": 113.01136
+      },
+      "tags": [],
+      "products": [
+        {
+          "name": "Clear Broth Beef Noodles (with Extra Beef Cubes)",
+          "store_id": "S27620908423745403_S21237",
+          "store_name": "Ma Changhe Northwest Beef Noodles (Desiqin Branch)",
+          "price": 23.9,
+          "tags": [],
+          "product_id": "S68872193363872223_P23861",
+          "attributes": [],
+          "quantity": 9999
+        }
+      ]
+    },
+    "S24467954590656553_S02143": {
+      "name": "Signature Braised Bone & Dumpling Iron Pot Restaurant (Xiangzhang Road Branch)",
+      "store_id": "S24467954590656553_S02143",
+      "score": 5,
+      "location": {
+        "address": "Signature Braised Bone & Dumpling Iron Pot Restaurant (Xiangzhang Garden Branch), 144 Xiangzhang Road, Yuhua District, Changsha, Hunan Province",
+        "latitude": 28.136032,
+        "longitude": 113.007229
+      },
+      "tags": [],
+      "products": [
+        {
+          "name": "Shredded Pork in Beijing Sauce with Tofu Sheets",
+          "product_id": "S16548428227580645_P36660",
+          "store_id": "S24467954590656553_S02143",
+          "store_name": "Signature Braised Bone & Dumpling Iron Pot Restaurant (Xiangzhang Road Branch)",
+          "price": 36.8,
+          "tags": [],
+          "attributes": [],
+          "quantity": 9999
+        }
+      ]
+    },
+    "S25095222236482337_S55858": {
+      "name": "Kaximu Restaurant · Xinjiang Cuisine (Labor West Road Branch)",
+      "store_id": "S25095222236482337_S55858",
+      "score": 4.5,
+      "location": {
+        "address": "1st & 2nd Floor, Zhongyang Building, 128 Labor West Road, Yuhua District, Changsha, Hunan Province",
+        "latitude": 28.171925,
+        "longitude": 112.986708
+      },
+      "tags": [],
+      "products": [
+        {
+          "name": "Xinjiang Big Plate Chicken",
+          "product_id": "S12701516953580799_P67871",
+          "store_id": "S25095222236482337_S55858",
+          "store_name": "Kaximu Restaurant · Xinjiang Cuisine (Labor West Road Branch)",
+          "price": 98,
+          "tags": [],
+          "attributes": [],
+          "quantity": 9999
+        },
+        {
+          "name": "Large Oil-fried Pork with Noodles",
+          "product_id": "S36374850005267156_P29924",
+          "store_id": "S25095222236482337_S55858",
+          "store_name": "Kaximu Restaurant · Xinjiang Cuisine (Labor West Road Branch)",
+          "price": 29,
+          "tags": [],
+          "attributes": [],
+          "quantity": 9999
+        },
+        {
+          "name": "Small Snow Mountain Lamb Chops",
+          "product_id": "S59480252354995215_P76922",
+          "store_id": "S25095222236482337_S55858",
+          "store_name": "Kaximu Restaurant · Xinjiang Cuisine (Labor West Road Branch)",
+          "price": 118,
+          "tags": [],
+          "attributes": [],
+          "quantity": 9999
+        }
+      ]
+    }
+  },
+  "orders": {
+    "30711002O01": {
+      "order_id": "30711002O01",
+      "order_type": "delivery",
+      "user_id": "U000003",
+      "store_id": "S27620908423745403_S21237",
+      "note": "",
+      "location": {
+        "address": "Xiangzhang Garden, 168 Xiangzhang Road, Yuhua District, Changsha, Hunan Province",
+        "longitude": 113.007008,
+        "latitude": 28.134684
+      },
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 23.9,
+      "create_time": "2025-08-20 17:28:00",
+      "update_time": "2025-08-20 17:28:00",
+      "status": "unpaid",
+      "products": [
+        {
+          "product_id": "S68872193363872223_P23861",
+          "price": 23.9,
+          "quantity": 1,
+          "attributes": ""
+        }
+      ]
+    }
+  }
+}

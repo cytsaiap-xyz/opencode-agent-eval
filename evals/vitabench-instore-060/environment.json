@@ -1,0 +1,237 @@
+{
+  "task_id": "10826107",
+  "domain": "instore",
+  "time": "2024-06-14 10:15:00",
+  "user_id": "U949465",
+  "weather": [
+    {
+      "city": "Hangzhou",
+      "category": "sunny",
+      "datetime": "2024-06-15",
+      "temperature": [
+        24,
+        32
+      ],
+      "humidity": 45
+    },
+    {
+      "city": "Hangzhou",
+      "category": "cloudy",
+      "datetime": "2024-06-16",
+      "temperature": [
+        23,
+        30
+      ],
+      "humidity": 55
+    }
+  ],
+  "location": [
+    {
+      "address": "Room 502, Unit 3, Building 6, Haichuang Garden, 998 Wenyi West Road, West Lake District, Hangzhou",
+      "longitude": 120.091,
+      "latitude": 30.274
+    },
+    {
+      "address": "12th Floor, Building 2, Hangsen Technology Park, 3588 Jiangnan Avenue, Binjiang District, Hangzhou",
+      "longitude": 120.212,
+      "latitude": 30.207
+    },
+    {
+      "address": "Huanglong Sports Center, West Lake District, Hangzhou",
+      "longitude": 120.134,
+      "latitude": 30.267
+    },
+    {
+      "address": "Xixi Intime City, 551 Wener West Road, West Lake District, Hangzhou",
+      "longitude": 120.086,
+      "latitude": 30.281
+    },
+    {
+      "address": "Zijin Plaza, 701 Gudun Road, West Lake District, Hangzhou",
+      "longitude": 120.104,
+      "latitude": 30.308
+    }
+  ],
+  "user_profile": {
+    "user id": "U949465",
+    "occupation": "Engineer",
+    "gender": "male",
+    "age group": "30~35",
+    "residence": "Hangzhou",
+    "home address": "Room 502, Unit 3, Building 6, Haichuang Garden, 998 Wenyi West Road, West Lake District, Hangzhou",
+    "work address": "12th Floor, Building 2, Hangsen Technology Park, 3588 Jiangnan Avenue, Binjiang District, Hangzhou",
+    "dietary restrictions": "Avoid high purine foods (such as organ meats/seafood soups), avoid caffeine",
+    "family status": "Has children",
+    "personality": "Strong logical thinking, enjoys analysis and questioning, pursues accuracy"
+  },
+  "user_historical_behaviors": {
+    "user id": "U949465",
+    "occupation": "Engineer",
+    "gender": "male",
+    "age group": "30~35",
+    "residence": "Hangzhou",
+    "home address": "Room 502, Unit 3, Building 6, Haichuang Garden, 998 Wenyi West Road, West Lake District, Hangzhou",
+    "work address": "12th Floor, Building 2, Hangsen Technology Park, 3588 Jiangnan Avenue, Binjiang District, Hangzhou",
+    "in-store dining": {
+      "fine-dining": {
+        "frequently purchased categories": [
+          "Regional Cuisine/Jiangsu and Zhejiang Cuisine (Average 125 yuan)",
+          "Foreign Cuisine/Japanese Food (Average 150 yuan)",
+          "Regional Cuisine/Chongqing Hot Pot (Average 115 yuan)"
+        ],
+        "preferred average price per person": "95~150 yuan",
+        "preferred store rating": "4.2~4.8 stars",
+        "typical dining time": "18:30-20:30",
+        "preferred distance": "500~3000m",
+        "recent orders": [
+          {
+            "store": "Zhiweiguan (Hubin Branch)",
+            "product": "West Lake Vinegar Fish + Dongpo Pork + Longjing Shrimp"
+          },
+          {
+            "store": "Sushi Master (Mixc Branch)",
+            "product": "Special Sashimi Platter + Salmon Sushi"
+          },
+          {
+            "store": "Mixiang Traditional Hot Pot - Authentic Chongqing Flavor (Future Sci-Tech City Branch)",
+            "product": "Spicy Feast 3-Person Meal"
+          }
+        ],
+        "search history": [
+          "Hangzhou Cuisine",
+          "Caffeine-free Beverages",
+          "Family-friendly Restaurants",
+          "Business Dining",
+          "Japanese Cuisine"
+        ]
+      },
+      "light meal": {
+        "frequently purchased categories": [
+          "Fast Food/Chinese Quick Meal (Average 35 yuan)",
+          "Regional Cuisine/Jiangsu and Zhejiang Cuisine (Average 45 yuan)",
+          "Fast Food/Western Fast Food (Average 40 yuan)"
+        ],
+        "preferred average price per person": "30~50 yuan",
+        "preferred store rating": "3.5~4.3 stars",
+        "typical dining time": "11:30-13:00",
+        "preferred distance": "0~800m",
+        "recent orders": [
+          {
+            "store": "Waipojia (Hangsen Technology Park Branch)",
+            "product": "Hangzhou Marinated Duck + West Lake Beef Soup + Rice"
+          },
+          {
+            "store": "Yonghe King (Binjiang Branch)",
+            "product": "Mushroom Chicken Congee + Steamed Buns"
+          },
+          {
+            "store": "McDonald's (Binjiang Technology Park Branch)",
+            "product": "Grilled Chicken Burger Meal (Orange Juice instead of Coffee)"
+          }
+        ],
+        "search history": [
+          "Work Meals",
+          "Fast Food",
+          "Waipojia",
+          "Bento Box",
+          "Lunch Deals"
+        ]
+      },
+      "desserts/drinks/snacks": {
+        "frequently purchased categories": [
+          "Beverage Shops (Average 18 yuan)",
+          "Bread and Desserts (Average 25 yuan)",
+          "Other Food/Fresh Fruits (Average 15 yuan)"
+        ],
+        "preferred average price per person": "15~30 yuan",
+        "preferred store rating": "3.8~4.5 stars",
+        "typical dining time": "15:00-16:30, 20:30-21:30",
+        "preferred distance": "0~500m",
+        "recent orders": [
+          {
+            "store": "HeyTea (Mixc Branch)",
+            "product": "Pulpy Grape (Tea-free)"
+          },
+          {
+            "store": "BreadTalk (West Lake Culture Plaza Branch)",
+            "product": "Mango Mousse + Whole Wheat Toast"
+          },
+          {
+            "store": "Xianfeng Fruits (Binjiang Branch)",
+            "product": "Selected Fruit Platter"
+          }
+        ],
+        "search history": [
+          "Caffeine-free Beverages",
+          "Low-sugar Desserts",
+          "Fruits",
+          "Afternoon Tea"
+        ]
+      }
+    },
+    "other in-store services": {
+      "frequently consumed categories": {
+        "Sports & Fitness/Fitness Centers": "40%",
+        "Sports & Fitness/Ball Sports": "35%",
+        "Leisure & Entertainment/Massage/Foot Therapy": "15%",
+        "Parent-Child/Family Entertainment": "10%"
+      },
+      "cost per order by category": {
+        "Sports & Fitness/Fitness Centers": "80~200 yuan",
+        "Sports & Fitness/Ball Sports": "60~120 yuan",
+        "Leisure & Entertainment/Massage/Foot Therapy": "150~250 yuan",
+        "Parent-Child/Family Entertainment": "100~180 yuan"
+      },
+      "preferred store rating": "4.0~4.8 stars",
+      "preferred service time": "18:00-21:00, Weekends 9:00-12:00",
+      "preferred distance": "0~5000m",
+      "recent orders": [
+        {
+          "store": "Leke Fitness (Binjiang Branch)",
+          "product": "Monthly Fitness Card"
+        },
+        {
+          "store": "Hangzhou Tennis Center (Binjiang Branch)",
+          "product": "Double Tennis Court 2 Hours"
+        },
+        {
+          "store": "Little Deer Horn Family Playground (West Lake Culture Plaza Branch)",
+          "product": "Family Package (1 Adult 1 Child)"
+        }
+      ],
+      "search history": [
+        "Gym Monthly Card",
+        "Tennis Court Reservation",
+        "Parent-child Activities",
+        "Foot Massage",
+        "Weekend Family Activities"
+      ]
+    }
+  },
+  "stores": {},
+  "orders": {
+    "10826107T003": {
+      "order_id": "10826107T003",
+      "order_type": "instore",
+      "user_id": "U949465",
+      "store_id": "S17567836638657808_I00006",
+      "note": "",
+      "location": null,
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 138,
+      "order_time": "2024-06-13 18:13:22",
+      "update_time": "2024-06-13 18:13:22",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17567836638657808_P00046",
+          "name": "Classic Two-person Hot Pot Set",
+          "price": 138,
+          "quantity": 1
+        }
+      ]
+    }
+  }
+}

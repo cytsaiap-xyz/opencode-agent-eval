@@ -1,0 +1,135 @@
+{
+  "task_id": "D0811003",
+  "domain": "ota",
+  "time": "2026-06-11 07:50:15",
+  "user_id": "U010084",
+  "weather": [
+    {
+      "city": "Zhoushan",
+      "category": "cloudy",
+      "datetime": "2026-06-20",
+      "temperature": [
+        22,
+        28
+      ],
+      "humidity": 75
+    },
+    {
+      "city": "Shenyang",
+      "category": "sunny",
+      "datetime": "2026-06-11",
+      "temperature": [
+        18,
+        26
+      ],
+      "humidity": 60
+    }
+  ],
+  "location": [
+    {
+      "address": "Room 1505, Tower B, Hang Lung Plaza, 1 Nanjing South Street, Heping District, Shenyang, Liaoning Province",
+      "longitude": 123.4317,
+      "latitude": 41.7922
+    },
+    {
+      "address": "Room 2301, Tower A, Fortune Center, 61 Beizhan Road, Shenhe District, Shenyang, Liaoning Province",
+      "longitude": 123.4289,
+      "latitude": 41.8057
+    }
+  ],
+  "user_profile": {
+    "user id": "U010084",
+    "occupation": "Lawyer",
+    "gender": "male",
+    "age group": "35~40",
+    "residence": "Shenyang",
+    "home address": "Room 1505, Tower B, Hang Lung Plaza, 1 Nanjing South Street, Heping District, Shenyang, Liaoning Province",
+    "work address": "Room 2301, Tower A, Fortune Center, 61 Beizhan Road, Shenhe District, Shenyang, Liaoning Province",
+    "dietary restrictions": "No high purine foods (such as organ meats/seafood soups), no alcohol",
+    "family status": "Has children",
+    "personality": "Expresses himself coldly and concisely, lacks emotional communication and patience"
+  },
+  "user_historical_behaviors": {
+    "user id": "U010084",
+    "occupation": "Lawyer",
+    "gender": "male",
+    "age group": "35~40",
+    "residence": "Shenyang",
+    "home address": "Room 1505, Tower B, Hang Lung Plaza, 1 Nanjing South Street, Heping District, Shenyang, Liaoning Province",
+    "work address": "Room 2301, Tower A, Fortune Center, 61 Beizhan Road, Shenhe District, Shenyang, Liaoning Province",
+    "visited scenes": {
+      "Historical sites": "30%",
+      "Exhibition halls (museums/art galleries)": "25%",
+      "Parks": "15%",
+      "Landmarks": "20%",
+      "Tourist attractions (mountains/beaches/ecological large-scale scenic areas)": "10%"
+    },
+    "cost per night on hotel": "1000~2000 yuan",
+    "visited hotels": {
+      "Marriott": "25%",
+      "Atour": "30%",
+      "Vienna": "15%",
+      "Ji Hotel": "20%",
+      "Hilton": "10%"
+    },
+    "browsed hotels": {
+      "Five-star hotels": "20%",
+      "Four-star hotels": "45%",
+      "Luxury hotels": "15%",
+      "Comfort hotels": "20%"
+    },
+    "historical travel plans": {
+      "Shenyang-Beijing": {
+        "Price range": "500-800 yuan",
+        "Transportation": "High-speed rail/EMU train"
+      },
+      "Shenyang-Shanghai": {
+        "Price range": "1200-2000 yuan",
+        "Transportation": "Flight"
+      },
+      "Shenyang-Dalian": {
+        "Price range": "200-400 yuan",
+        "Transportation": "High-speed rail/EMU train"
+      },
+      "Shenyang-Harbin": {
+        "Price range": "300-500 yuan",
+        "Transportation": "High-speed rail/EMU train"
+      },
+      "Shenyang-Changchun": {
+        "Price range": "150-300 yuan",
+        "Transportation": "High-speed rail/EMU train"
+      },
+      "Shenyang-Xi'an": {
+        "Price range": "1000-1800 yuan",
+        "Transportation": "Flight"
+      }
+    }
+  },
+  "stores": {},
+  "orders": {
+    "D0811003T001": {
+      "order_id": "S17557512640389974_O00001",
+      "order_type": "flight",
+      "user_id": "U010084",
+      "store_id": "S17557512640389974_F00009",
+      "note": "",
+      "location": null,
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 4740,
+      "create_time": "2026-06-09 18:17:11",
+      "update_time": "2026-06-09 18:17:11",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17557512640389974_P00081",
+          "price": 1580,
+          "quantity": 3,
+          "date": "2026-06-19",
+          "seat_type": "Economy class"
+        }
+      ]
+    }
+  }
+}

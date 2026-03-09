@@ -1,0 +1,49 @@
+{
+  "task_id": "30",
+  "query": "I'd like to travel from Fuzhou to Hangzhou for three days on November 12, 2025, returning to Fuzhou on November 14. For transportation, I plan to take the train. Please help me choose a train that departs between 6:00 AM and 10:00 AM so that I can arrive in Hangzhou with enough time to enjoy a full day of sightseeing. For accommodation, I’d like to book a four-star hotel, preferably one with robot room service—it seems very convenient, and the location should be near the attractions, so that I can travel to the attractions conveniently. By the way, there are three of us, so booking two rooms will be sufficient.\n\nI’d like this trip to be relaxed and focus on must-see attractions. Could you select the top three highest-rated spots from your recommended list and include them in the itinerary? I want to experience the highlights. Also, I really want to have a meal at 'Yinhu Restaurant - Qiushan Branch'—I’ve heard it’s quite special—please arrange that in the schedule. That covers everything! Please go ahead and plan a complete itinerary for me—I believe I’ve provided all the necessary details! November 12, 2025 is Wednesday",
+  "meta_info": {
+    "org": "Fuzhou",
+    "dest": [
+      "Hangzhou"
+    ],
+    "days": 3,
+    "depart_date": "2025-11-12",
+    "return_date": "2025-11-14",
+    "people_number": 3,
+    "room_number": 2
+  },
+  "hard_constraints": {
+    "train_departure_time_range": {
+      "constraint_context": "The departure train must leave between 6:00 AM and 10:00 AM",
+      "outbound_train_no": "G1634"
+    },
+    "hotel_star_service_required": {
+      "constraint_context": "Please select a 4-star hotel that offers robot room service, and the location should be near the attractions.",
+      "constraint_type": "superlative_star_service_required",
+      "hotel_name": "Hangzhou West Lake Yiting Garden Hotel",
+      "required_service": "Robot Service",
+      "hotel_star": 4,
+      "hotel_price": 221
+    },
+    "attraction_top_rated_must_visit": {
+      "constraint_context": "The itinerary must include the three highest-rated attractions recommended by the attraction recommendation tool.",
+      "constraint_type": "superlative_top_rated_must_visit",
+      "attraction_names": [
+        "Bai Causeway",
+        "Jiuxi Smoke Tree",
+        "Leifeng Pagoda Scenic Area"
+      ],
+      "attraction_ratings": [
+        4.8,
+        4.8,
+        4.8
+      ]
+    },
+    "restaurant_must_eat_named": {
+      "constraint_context": "The itinerary must include one meal at 'Yinhu Restaurant - Qiushan Branch'.",
+      "constraint_type": "superlative_must_eat_named",
+      "restaurant_name": "Yinhu Restaurant - Qiushan Branch",
+      "restaurant_rating": 4.4
+    }
+  }
+}

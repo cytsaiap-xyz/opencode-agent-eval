@@ -1,0 +1,52 @@
+{
+  "task_id": "77",
+  "query": "I'm planning to travel from Ningbo to Zhengzhou for five days, departing on November 12, 2025, and returning on November 16. Could you help me plan the entire trip? I need your assistance with transportation, accommodation, meals, and sightseeing arrangements.\n\nFor transportation, I'd like to take a train for the outbound journey—preferably a direct one. Please just pick the option with the lowest ticket price. For accommodation, my budget is between 250 and 280 yuan per night; please choose a high-value hotel that's comfortable. By the way, I'm traveling alone, so I only need to book one room.\n\nAlso, I plan to visit the 'Zhengzhou Museum New Branch' during this trip. I've heard there are many great restaurants nearby—could you arrange a meal at one of the Top 10 must-try restaurants on the local dining list? I’d like to taste some authentic local specialties. For attractions, I want to visit the most iconic and recommended spots. Please check the top three highest-rated attractions in your recommendation tool and include them all in the itinerary.\n\nThat covers all my requirements—I believe I’ve provided enough information. Please go ahead and design the trip for me directly! November 12, 2025 is Wednesday",
+  "meta_info": {
+    "org": "Ningbo",
+    "dest": [
+      "Zhengzhou"
+    ],
+    "days": 5,
+    "depart_date": "2025-11-12",
+    "return_date": "2025-11-16",
+    "people_number": 1,
+    "room_number": 1
+  },
+  "hard_constraints": {
+    "train_cheapest_direct": {
+      "constraint_context": "Hope to take a train for the outbound journey, and need to select the cheapest direct train available",
+      "constraint_type": "superlative_cheapest_direct",
+      "outbound_train_no": "G1962"
+    },
+    "hotel_price_range": {
+      "constraint_context": "The accommodation price must be between 250 and 280 yuan.",
+      "hotel_name": "Orange Hotel Zhengzhou Zhengdong New District Convention and Exhibition Center",
+      "hotel_price": 265.0,
+      "min_price": 250,
+      "max_price": 280
+    },
+    "restaurant_specific_tag_nearby": {
+      "constraint_context": "Arrange a meal at a restaurant near 'Zhengzhou Museum New Branch' during the trip, preferably one ranked in the Top 10 on the Must-Eat List with good service.",
+      "constraint_type": "superlative_specific_tag_nearby",
+      "attraction_name": "Zhengzhou Museum New Branch",
+      "restaurant_name": "Waku No. 50 (Kaixuan Road Branch)",
+      "required_tag": "Must-Eat Top 10",
+      "price_per_person": 100.0,
+      "restaurant_rating": 4.7
+    },
+    "attraction_top_rated_must_visit": {
+      "constraint_context": "The itinerary must include the three highest-rated attractions recommended by the attraction recommendation tool.",
+      "constraint_type": "superlative_top_rated_must_visit",
+      "attraction_names": [
+        "Henan Museum",
+        "Erqi Square",
+        "Zijing Mountain Park"
+      ],
+      "attraction_ratings": [
+        4.9,
+        4.9,
+        4.8
+      ]
+    }
+  }
+}

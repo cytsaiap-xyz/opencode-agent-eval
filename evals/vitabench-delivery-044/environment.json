@@ -1,0 +1,397 @@
+{
+  "task_id": "90714002",
+  "domain": "delivery",
+  "time": "2025-10-24 08:57:28",
+  "user_id": "U000022",
+  "weather": [
+    {
+      "city": "Hangzhou City",
+      "category": "cloudy",
+      "datetime": "2025-10-24",
+      "temperature": [
+        15,
+        18
+      ],
+      "humidity": 70
+    }
+  ],
+  "location": [
+    {
+      "address": "Zijingang Primary School of Xuejun Primary School Education Group, 198 Pingshui West Street, Xihu District, Hangzhou, Zhejiang Province",
+      "longitude": 120.094907,
+      "latitude": 30.301115
+    },
+    {
+      "address": "Zijin Literary Garden, 418 Yuhang Tang Road, Xihu District, Hangzhou, Zhejiang Province (470m walk from Samba Metro Station Exit G1)",
+      "longitude": 120.100636,
+      "latitude": 30.296034
+    }
+  ],
+  "user_profile": {
+    "user id": "U000022",
+    "occupation": "Teacher",
+    "gender": "female",
+    "age group": "30~35",
+    "residence": "Hangzhou",
+    "home address": "Zijin Literary Garden, 418 Yuhang Tang Road, Xihu District, Hangzhou, Zhejiang Province (470m walk from Samba Metro Station Exit G1)",
+    "work address": "Zijingang Primary School of Xuejun Primary School Education Group, 198 Pingshui West Street, Xihu District, Hangzhou, Zhejiang Province",
+    "dietary restrictions": "No raw/cold food, low sodium diet",
+    "family status": "Lives with elderly family member(s)",
+    "personality": "Extremely detail-oriented, tends to be picky and easily dissatisfied"
+  },
+  "user_historical_behaviors": {
+    "user id": "U000022",
+    "occupation": "Teacher",
+    "gender": "female",
+    "age group": "30~35",
+    "residence": "Hangzhou",
+    "home address": "Zijin Literary Garden, 418 Yuhang Tang Road, Xihu District, Hangzhou, Zhejiang Province (470m walk from Samba Metro Station Exit G1)",
+    "work address": "Zijingang Primary School of Xuejun Primary School Education Group, 198 Pingshui West Street, Xihu District, Hangzhou, Zhejiang Province",
+    "breakfast": {
+      "frequently purchased categories": [
+        "Quick meals/Steamed buns/Pan-fried buns (average 18 yuan)",
+        "Quick meals/Fried dough sticks (average 12 yuan)",
+        "Quick meals/Congee (average 15 yuan)"
+      ],
+      "cost per order": "12~25 yuan",
+      "preferred store rating": "4.2~4.7 stars",
+      "preferred delivery time": "15~30 minutes",
+      "preferred distance": "0~2000m",
+      "recent orders": [
+        {
+          "store": "Yonghe Soy Milk",
+          "product": "Fried dough stick and soy milk combo"
+        },
+        {
+          "store": "Zhiweiguan",
+          "product": "Xiaolongbao (Soup dumplings)"
+        },
+        {
+          "store": "Zhou Mai Xiang",
+          "product": "Preserved egg and lean pork congee"
+        }
+      ],
+      "search history": [
+        "Soy milk",
+        "Xiaolongbao",
+        "Stomach-friendly congee",
+        "Nutritious breakfast"
+      ]
+    },
+    "weekday lunch/dinner": {
+      "frequently purchased categories": [
+        "Quick meals/Small portion dishes (average 32 yuan)",
+        "Quick meals/Light food (average 38 yuan)",
+        "International cuisine/Stone pot rice/Iron plate rice (average 45 yuan)"
+      ],
+      "cost per order": "20~50 yuan",
+      "preferred store rating": "4.3~5.0 stars",
+      "preferred delivery time": "20~35 minutes",
+      "preferred distance": "0~4000m",
+      "recent orders": [
+        {
+          "store": "SAYYEAH Creative Light Food (Chengxi Yintai Branch)",
+          "product": "Grass-fed Roasted Beef Light Salad"
+        },
+        {
+          "store": "Yimifan",
+          "product": "Steamed sea bass meal set"
+        },
+        {
+          "store": "Stone Pot Lady",
+          "product": "Low-calorie chicken bibimbap"
+        }
+      ],
+      "search history": [
+        "Healthy meal",
+        "Low sodium",
+        "Nutritious lunch",
+        "Light food"
+      ]
+    },
+    "weekend lunch/dinner": {
+      "frequently purchased categories": [
+        "Chinese cuisine/Cantonese cuisine (average 85 yuan)",
+        "International cuisine/Korean cuisine (average 95 yuan)",
+        "Chinese cuisine/Stew pot (average 110 yuan)"
+      ],
+      "cost per order": "80~150 yuan",
+      "preferred store rating": "4.5~4.9 stars",
+      "preferred delivery time": "30~45 minutes",
+      "preferred distance": "0~3500m",
+      "recent orders": [
+        {
+          "store": "Taotaoju",
+          "product": "Family Cantonese cuisine set (for 3-4 people)"
+        },
+        {
+          "store": "Korean Royal Feast",
+          "product": "Ginseng chicken soup + bibimbap set"
+        },
+        {
+          "store": "Hui Cuisine Restaurant",
+          "product": "Stone pot stewed dried bamboo shoots and old duck"
+        }
+      ],
+      "search history": [
+        "Health-preserving Cantonese cuisine",
+        "Family set meal",
+        "Suitable for elderly",
+        "Non-spicy"
+      ]
+    },
+    "desserts/drinks/snacks": {
+      "frequently purchased categories": [
+        "Drinks and desserts/Coffee (average 28 yuan)",
+        "Drinks and desserts/Fruit salad (average 32 yuan)",
+        "Drinks and desserts/Chinese pastries (average 25 yuan)"
+      ],
+      "cost per order": "20~40 yuan",
+      "preferred store rating": "4.4~4.8 stars",
+      "preferred delivery time": "15~30 minutes",
+      "preferred distance": "0~2200m",
+      "recent orders": [
+        {
+          "store": "Starbucks",
+          "product": "Oat milk latte"
+        },
+        {
+          "store": "Xianfeng Fruit",
+          "product": "Fresh-cut fruit platter"
+        },
+        {
+          "store": "Pastry Chef",
+          "product": "Osmanthus cake"
+        }
+      ],
+      "search history": [
+        "Low-sugar coffee",
+        "Fresh fruits",
+        "Chinese pastries",
+        "Afternoon tea"
+      ]
+    },
+    "night snack": {
+      "frequently purchased categories": [
+        "Quick meals/Clay pot soup (average 28 yuan)",
+        "Hot pot/Clay pot congee (average 32 yuan)",
+        "Quick meals/Dumplings/Wonton (average 25 yuan)"
+      ],
+      "cost per order": "25~40 yuan",
+      "preferred store rating": "4.2~4.7 stars",
+      "preferred delivery time": "20~40 minutes",
+      "preferred distance": "0~2800m",
+      "recent orders": [
+        {
+          "store": "Zhou Pin Xiang Fang",
+          "product": "Preserved egg and lean pork congee"
+        },
+        {
+          "store": "Tang Wang Fu",
+          "product": "Stomach-friendly clay pot soup"
+        },
+        {
+          "store": "Wanczai Wharf",
+          "product": "Shrimp dumplings"
+        }
+      ],
+      "search history": [
+        "Stomach-friendly congee",
+        "Warming soup",
+        "Mild night snack",
+        "Non-spicy dumplings"
+      ]
+    }
+  },
+  "stores": {
+    "S15536723275106377_S96178": {
+      "name": "SAYYEAH Creative Light Food (Chengxi Yintai Branch)",
+      "store_id": "S15536723275106377_S96178",
+      "score": 4.9,
+      "location": {
+        "address": "Room 1109, Wuzhou International Commercial Center, Xihu District, Hangzhou, Zhejiang Province",
+        "latitude": 30.294155,
+        "longitude": 120.096304
+      },
+      "tags": [
+        "Dine-in Restaurant"
+      ],
+      "products": [
+        {
+          "name": "Grass-fed Roasted Beef Light Salad",
+          "store_id": "S15536723275106377_S96178",
+          "store_name": "SAYYEAH Creative Light Food (Chengxi Yintai Branch)",
+          "price": 28.8,
+          "tags": [
+            "Clean and Nutritious"
+          ],
+          "product_id": "S24518040077817653_P83870",
+          "attributes": [],
+          "quantity": 9999
+        },
+        {
+          "name": "Mango Charcoal Grilled Chicken Salad",
+          "product_id": "S20681629213054431_P06926",
+          "store_id": "S15536723275106377_S96178",
+          "store_name": "SAYYEAH Creative Light Food (Chengxi Yintai Branch)",
+          "price": 25.9,
+          "tags": [],
+          "attributes": [],
+          "quantity": 9999
+        }
+      ]
+    },
+    "S28286985627882831_S33402": {
+      "name": "Wenling Rice Cake (Wenyi West Road Branch)",
+      "store_id": "S28286985627882831_S33402",
+      "score": 5.0,
+      "location": {
+        "address": "Wenling Rice Cake, 67-1 Wenyi West Road, Xihu District, Hangzhou, Zhejiang Province (Wenyi West Road Branch)",
+        "latitude": 30.287048,
+        "longitude": 120.114704
+      },
+      "tags": [],
+      "products": [
+        {
+          "name": "Braised Meat Rice Cake (Large)",
+          "store_id": "S28286985627882831_S33402",
+          "store_name": "Wenling Rice Cake (Wenyi West Road Branch)",
+          "price": 23.8,
+          "tags": [
+            "Delicious and Filling"
+          ],
+          "product_id": "S21465954562957466_P07678",
+          "attributes": [],
+          "quantity": 9999
+        }
+      ]
+    },
+    "S28566313792243207_S99929": {
+      "name": "Hangzhou Soft Egg Pancake (Chengxi Yintai Branch)",
+      "store_id": "S28566313792243207_S99929",
+      "score": 4.8,
+      "location": {
+        "address": "Hangzhou Soft Egg Pancake, B1 Floor, Haiblue Tianxing International, 508 Fengtan Road, Gongshu District, Hangzhou, Zhejiang Province",
+        "latitude": 30.30454,
+        "longitude": 120.106294
+      },
+      "tags": [],
+      "products": [
+        {
+          "name": "Hangzhou Soft Egg Pancake + Double Eggs + Sausage",
+          "store_id": "S28566313792243207_S99929",
+          "store_name": "Hangzhou Soft Egg Pancake (Chengxi Yintai Branch)",
+          "price": 21.8,
+          "tags": [
+            "Taste of Childhood"
+          ],
+          "product_id": "S28094256416303510_P14903",
+          "attributes": [
+            "Cilantro only",
+            "Green onions only",
+            "No cilantro, no green onions",
+            "Both cilantro and green onions"
+          ],
+          "quantity": 9999
+        },
+        {
+          "name": "Hangzhou Soft Egg Pancake",
+          "product_id": "S26592543494953553_P72487",
+          "store_id": "S28566313792243207_S99929",
+          "store_name": "Hangzhou Soft Egg Pancake (Chengxi Yintai Branch)",
+          "price": 11.8,
+          "tags": [],
+          "attributes": [
+            "Green onions only",
+            "No cilantro, no green onions",
+            "Both cilantro and green onions",
+            "Cilantro only"
+          ],
+          "quantity": 9999
+        },
+        {
+          "name": "Hangzhou Soft Egg Pancake + Crispy Pancake + Ham + Tenderloin",
+          "product_id": "S58130269841201890_P60548",
+          "store_id": "S28566313792243207_S99929",
+          "store_name": "Hangzhou Soft Egg Pancake (Chengxi Yintai Branch)",
+          "price": 26.8,
+          "tags": [],
+          "attributes": [],
+          "quantity": 9999
+        }
+      ]
+    },
+    "S16725593871117058_S34728": {
+      "name": "Wenling Rice Cake GAOGAO (Samba Branch)",
+      "store_id": "S16725593871117058_S34728",
+      "score": 4.6,
+      "location": {
+        "address": "Wenling Rice Cake, 606 Gudun Road, Sandun Town, Xihu District, Hangzhou, Zhejiang Province (Next to Samba Metro Station Exit B2)",
+        "latitude": 30.301921,
+        "longitude": 120.098495
+      },
+      "tags": [],
+      "products": [
+        {
+          "name": "Braised Pork Rice Cake",
+          "product_id": "S11731146159125902_P54731",
+          "store_id": "S16725593871117058_S34728",
+          "store_name": "Wenling Rice Cake GAOGAO (Samba Branch)",
+          "price": 23.88,
+          "tags": [],
+          "attributes": [],
+          "quantity": 9999
+        }
+      ]
+    },
+    "S30817455596054320_S38266": {
+      "name": "Gaoshou · Wenling Rice Cake · Wafer Cone (Qianjiang Market Branch)",
+      "store_id": "S30817455596054320_S38266",
+      "score": 4.6,
+      "location": {
+        "address": "Wenling Rice Cake, Stall A11, B1 Food Court, Qianjiang Trade City, Gongshu District, Hangzhou, Zhejiang Province (Zhejiang Qianjiang Clothing Market Branch)",
+        "latitude": 30.302755,
+        "longitude": 120.153898
+      },
+      "tags": [],
+      "products": [
+        {
+          "name": "Braised Meat Rice Cake (Large)",
+          "product_id": "S16121550021060666_P23564",
+          "store_id": "S30817455596054320_S38266",
+          "store_name": "Gaoshou · Wenling Rice Cake · Wafer Cone (Qianjiang Market Branch)",
+          "price": 23.8,
+          "tags": [
+            "With Onions"
+          ],
+          "attributes": [],
+          "quantity": 9999
+        }
+      ]
+    },
+    "S11996989665207752_S37198": {
+      "name": "Super Model Kitchen (Hangzhou Zijingang Branch)",
+      "store_id": "S11996989665207752_S37198",
+      "score": 4.9,
+      "location": {
+        "address": "Shop 137-138, Wuzhou International Commercial Center, Sandun Town, Xihu District, Hangzhou, Zhejiang Province",
+        "latitude": 30.29419,
+        "longitude": 120.09634
+      },
+      "tags": [],
+      "products": [
+        {
+          "name": "One Serving of Pure Pamir Plateau Beef",
+          "product_id": "S33899957888725511_P41139",
+          "store_id": "S11996989665207752_S37198",
+          "store_name": "Super Model Kitchen (Hangzhou Zijingang Branch)",
+          "price": 18,
+          "tags": [],
+          "attributes": [],
+          "quantity": 9999
+        }
+      ]
+    }
+  },
+  "orders": {}
+}

@@ -1,0 +1,115 @@
+{
+  "required_orders": [
+    {
+      "order_id": "70812008T001",
+      "order_type": "train",
+      "user_id": "U661115",
+      "store_id": "S17557505552249948_T00011",
+      "note": "",
+      "location": null,
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 118,
+      "create_time": "2029-09-06 17:55:36",
+      "update_time": "2029-09-06 17:55:36",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17557505552249948_P00060",
+          "price": 118,
+          "quantity": 1,
+          "date": "2029-09-15",
+          "seat_type": "Second Class Seat"
+        }
+      ]
+    },
+    {
+      "order_id": "70812008T002",
+      "order_type": "train",
+      "user_id": "U661115",
+      "store_id": "S17557505552249948_T00012",
+      "note": "",
+      "location": null,
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 89,
+      "create_time": "2029-09-06 17:57:36",
+      "update_time": "2029-09-06 17:57:36",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17557505552249948_P00065",
+          "price": 89,
+          "quantity": 1,
+          "date": "2029-09-16",
+          "seat_type": "Second Class Seat"
+        }
+      ]
+    },
+    {
+      "order_id": "70812008T003",
+      "order_type": "hotel",
+      "user_id": "U661115",
+      "store_id": "S17557505552249948_H00001",
+      "note": "",
+      "location": null,
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 398,
+      "create_time": "2029-09-06 17:59:36",
+      "update_time": "2029-09-06 17:59:36",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17557505552249948_P00006",
+          "price": 398,
+          "quantity": 1,
+          "date": "2029-09-15",
+          "room_type": "King Room"
+        }
+      ]
+    },
+    {
+      "order_id": "70812008T004",
+      "order_type": "attraction",
+      "user_id": "U661115",
+      "store_id": "S17557505552249948_A00005",
+      "note": "",
+      "location": null,
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 10,
+      "create_time": "2029-09-06 18:03:36",
+      "update_time": "2029-09-06 18:03:36",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17557505552249948_P00027",
+          "price": 10,
+          "quantity": 1,
+          "date": "2029-09-16",
+          "ticket_type": "Adult Ticket"
+        }
+      ]
+    }
+  ],
+  "rubrics": [
+    "The departure date of the outbound train should be September 15, 2029",
+    "The departure time of the outbound train should be relatively early",
+    "The outbound train ticket should be for a train from Huizhou to Jiangmen",
+    "The quantity of outbound train ticket should be 1",
+    "The departure date of the return train should be September 16, 2029",
+    "The departure time of the return train should be relatively late",
+    "The return train ticket should be for a train from Jiangmen to Huizhou",
+    "The quantity of return train ticket should be 1",
+    "The price of the ordered hotel should be less than 500 yuan",
+    "The ordered hotel should provide a gym",
+    "The ordered hotel check-in date should be September 15, 2029",
+    "Jiangmen Donghu Park is about 500 meters from Vienna Hotel Jiangmen Pengjiang Wanda Branch, while Kaiping Diaolou and Villages is about 46 kilometers from Vienna Hotel Jiangmen Pengjiang Wanda Branch, therefore tickets for Jiangmen Donghu Park should be ordered",
+    "The ticket usage date should be September 16, 2029"
+  ]
+}

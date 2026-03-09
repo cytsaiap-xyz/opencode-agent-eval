@@ -1,0 +1,302 @@
+{
+  "task_id": "10826043",
+  "domain": "instore",
+  "time": "2024-09-20 15:35:00",
+  "user_id": "U736925",
+  "weather": [
+    {
+      "city": "Taizhou City",
+      "category": "cloudy",
+      "datetime": "2024-09-20",
+      "temperature": [
+        21,
+        28
+      ],
+      "humidity": 62
+    },
+    {
+      "city": "Taizhou City",
+      "category": "sunny",
+      "datetime": "2024-09-21",
+      "temperature": [
+        22,
+        29
+      ],
+      "humidity": 55
+    },
+    {
+      "city": "Taizhou City",
+      "category": "Sunny turning cloudy",
+      "datetime": "2024-09-22",
+      "temperature": [
+        21,
+        27
+      ],
+      "humidity": 60
+    }
+  ],
+  "location": [
+    {
+      "address": "Room 502, Unit 3, Building 12, Jiangcheng Garden, 1288 Donghuan Avenue, Jiaojiang District, Taizhou, Zhejiang Province",
+      "longitude": 121.442,
+      "latitude": 28.673
+    },
+    {
+      "address": "5th Floor, Building B, Taizhou Science and Technology Innovation Center, 999 Jinqing Avenue, Luqiao District, Taizhou, Zhejiang Province",
+      "longitude": 121.365,
+      "latitude": 28.582
+    },
+    {
+      "address": "Taizhou Pottery Life Gallery, 1500 Donghuan Avenue, Jiaojiang District, Taizhou, Zhejiang Province",
+      "longitude": 121.447,
+      "latitude": 28.675
+    },
+    {
+      "address": "Cat Paradise, 233 Donghai Avenue, Jiaojiang District, Taizhou, Zhejiang Province",
+      "longitude": 121.439,
+      "latitude": 28.669
+    },
+    {
+      "address": "Northwestern Style Restaurant, Zone A, Taizhou Food Plaza, 388 City Government Avenue, Jiaojiang District, Taizhou, Zhejiang Province",
+      "longitude": 121.428,
+      "latitude": 28.665
+    }
+  ],
+  "user_profile": {
+    "user id": "U736925",
+    "occupation": "Engineer",
+    "gender": "female",
+    "age group": "30~35",
+    "residence": "Taizhou",
+    "home address": "Room 502, Unit 3, Building 12, Jiangcheng Garden, 1288 Donghuan Avenue, Jiaojiang District, Taizhou, Zhejiang Province",
+    "work address": "5th Floor, Building B, Taizhou Science and Technology Innovation Center, 999 Jinqing Avenue, Luqiao District, Taizhou, Zhejiang Province",
+    "dietary restrictions": "No high-salt, No caffeine",
+    "family status": "Has children",
+    "personality": "Easily anxious and worried, needs repeated confirmation to feel at ease"
+  },
+  "user_historical_behaviors": {
+    "user id": "U736925",
+    "occupation": "Engineer",
+    "gender": "female",
+    "age group": "30~35",
+    "residence": "Taizhou",
+    "home address": "Room 502, Unit 3, Building 12, Jiangcheng Garden, 1288 Donghuan Avenue, Jiaojiang District, Taizhou, Zhejiang Province",
+    "work address": "5th Floor, Building B, Taizhou Science and Technology Innovation Center, 999 Jinqing Avenue, Luqiao District, Taizhou, Zhejiang Province",
+    "in-store dining": {
+      "fine-dining": {
+        "frequently purchased categories": [
+          "Local Cuisine/Jiangzhe cuisine (Average 135 yuan)",
+          "Local Cuisine/Sichuan cuisine (Average 120 yuan)",
+          "Foreign Cuisine/Japanese cuisine (Average 160 yuan)"
+        ],
+        "preferred average price per person": "110~260 yuan",
+        "preferred store rating": "4.2~5.0 stars",
+        "typical dining time": "18:00-20:30",
+        "preferred distance": "800~5000m",
+        "recent orders": [
+          {
+            "store": "Jiangnan Kitchen",
+            "product": "Dongpo pork set meal"
+          },
+          {
+            "store": "Yuxiang Sichuan Restaurant",
+            "product": "Boiled fish + Dry-fried green beans"
+          },
+          {
+            "store": "Yu Xiaonian",
+            "product": "Family package for two adults and one child"
+          }
+        ],
+        "search history": [
+          "Top-rated restaurants in Taizhou",
+          "Caffeine-free Japanese food",
+          "Low-salt Jiangzhe cuisine",
+          "Family restaurant"
+        ]
+      },
+      "light meal": {
+        "frequently purchased categories": [
+          "Fast food/Chinese quick meals (Average 35 yuan)",
+          "Local Cuisine/Jiangzhe cuisine (Average 45 yuan)",
+          "Fast food/Western fast food (Average 30 yuan)"
+        ],
+        "preferred average price per person": "25~50 yuan",
+        "preferred store rating": "3.5~4.2 stars",
+        "typical dining time": "12:00-13:30",
+        "preferred distance": "0~500m",
+        "recent orders": [
+          {
+            "store": "Grandma's Noodle House",
+            "product": "Scallion oil noodles + Side dishes"
+          },
+          {
+            "store": "Old Street Fast Food",
+            "product": "Braised pork ribs rice"
+          },
+          {
+            "store": "Mr. Salad",
+            "product": "Low-fat chicken breast salad"
+          }
+        ],
+        "search history": [
+          "Fast food near office",
+          "Low-salt quick meals",
+          "Healthy work meals",
+          "Weight loss meals"
+        ]
+      },
+      "desserts/drinks/snacks": {
+        "frequently purchased categories": [
+          "Bread and pastries (Average 22 yuan)",
+          "Beverage shops (Average 18 yuan)",
+          "Other dining/Fresh fruits (Average 15 yuan)"
+        ],
+        "preferred average price per person": "15~25 yuan",
+        "preferred store rating": "4.0~4.7 stars",
+        "typical dining time": "15:00-16:30",
+        "preferred distance": "0~800m",
+        "recent orders": [
+          {
+            "store": "Fresh Fruit Workshop",
+            "product": "Fruit platter"
+          },
+          {
+            "store": "Yidiandian",
+            "product": "Sugar-free oolong tea"
+          },
+          {
+            "store": "Bread Talk",
+            "product": "Whole wheat toast"
+          }
+        ],
+        "search history": [
+          "Caffeine-free drinks",
+          "Low-sugar desserts",
+          "Healthy afternoon tea",
+          "Children's desserts"
+        ]
+      }
+    },
+    "other in-store services": {
+      "frequently consumed categories": {
+        "Sports/Fitness centers": "40%",
+        "Beauty/Yoga": "25%",
+        "Family/Children's entertainment": "20%",
+        "Leisure/Massage/Foot therapy": "15%"
+      },
+      "cost per order by category": {
+        "Sports/Fitness centers": "80~150 yuan",
+        "Beauty/Yoga": "120~200 yuan",
+        "Family/Children's entertainment": "150~300 yuan",
+        "Leisure/Massage/Foot therapy": "120~180 yuan"
+      },
+      "preferred store rating": "4.0~5.0 stars",
+      "preferred service time": "12:00-21:00",
+      "preferred distance": "500~8000m",
+      "recent orders": [
+        {
+          "store": "Joy Fitness Center",
+          "product": "Individual monthly card"
+        },
+        {
+          "store": "Zen Yoga Studio",
+          "product": "10-class yoga course"
+        },
+        {
+          "store": "Muran DIY Studio",
+          "product": "Silver ring making"
+        }
+      ],
+      "search history": [
+        "Women's fitness",
+        "Stress-relief yoga",
+        "Low-intensity exercise",
+        "DIY"
+      ]
+    }
+  },
+  "stores": {},
+  "orders": {
+    "S17564425461411332_O00001": {
+      "order_id": "S17564425461411332_O00001",
+      "order_type": "instore",
+      "user_id": "U736925",
+      "store_id": "S17564425461411332_I00001",
+      "note": "Classic pottery experience package, including materials fee and firing service",
+      "location": {
+        "address": "Craftsman Pottery Studio, 188 Culture Road, Jiaojiang District, Taizhou, Zhejiang Province",
+        "longitude": 121.428916,
+        "latitude": 28.673259
+      },
+      "dispatch_time": "",
+      "shipping_time": 0,
+      "delivery_time": "",
+      "total_price": 128,
+      "create_time": "2024-09-20 15:35:00",
+      "update_time": "2024-09-20 15:35:00",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17564425461411332_P00001",
+          "price": 128,
+          "quantity": 1,
+          "attributes": ""
+        }
+      ]
+    },
+    "S17564425461411332_O00002": {
+      "order_id": "S17564425461411332_O00002",
+      "order_type": "instore",
+      "user_id": "U736925",
+      "store_id": "S17564425461411332_I00002",
+      "note": "Adult and child cat interaction package, Saturday afternoon experience with child",
+      "location": {
+        "address": "Serene Cat Paradise, No.12 Jiangcheng Garden Commercial Street, Jiaojiang District, Taizhou, Zhejiang Province",
+        "longitude": 121.422865,
+        "latitude": 28.681547
+      },
+      "dispatch_time": "",
+      "shipping_time": 0,
+      "delivery_time": "",
+      "total_price": 88,
+      "create_time": "2024-09-20 15:40:00",
+      "update_time": "2024-09-20 15:40:00",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17564425461411332_P00006",
+          "price": 88,
+          "quantity": 1,
+          "attributes": ""
+        }
+      ]
+    },
+    "S17564425461411332_O00003": {
+      "order_id": "S17564425461411332_O00003",
+      "order_type": "instore",
+      "user_id": "U736925",
+      "store_id": "S17564425461411332_I00003",
+      "note": "Northwestern family package (two adults, one child), Saturday dinner",
+      "location": {
+        "address": "Northwestern Style Restaurant, 368 East Zhongshan Road, Jiaojiang District, Taizhou, Zhejiang Province",
+        "longitude": 121.435672,
+        "latitude": 28.675891
+      },
+      "dispatch_time": "",
+      "shipping_time": 0,
+      "delivery_time": "",
+      "total_price": 168,
+      "create_time": "2024-09-20 15:45:00",
+      "update_time": "2024-09-20 15:45:00",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17564425461411332_P00010",
+          "price": 168,
+          "quantity": 1,
+          "attributes": ""
+        }
+      ]
+    }
+  }
+}

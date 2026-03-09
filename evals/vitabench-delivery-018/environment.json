@@ -1,0 +1,405 @@
+{
+  "task_id": "30711006",
+  "domain": "delivery",
+  "time": "2025-10-30 11:24:32",
+  "user_id": "U000075",
+  "weather": [
+    {
+      "city": "Zhengzhou City",
+      "category": "sunny",
+      "datetime": "2025-10-30",
+      "temperature": [
+        13,
+        21
+      ],
+      "humidity": 24
+    }
+  ],
+  "location": [
+    {
+      "address": "Building A, Yonghe Longzihu Plaza, Boxue Road Street, Jinshui District, Zhengzhou City, Henan Province",
+      "longitude": 113.805621,
+      "latitude": 34.791185
+    }
+  ],
+  "user_profile": {
+    "user id": "U000075",
+    "occupation": "Financial Manager",
+    "gender": "male",
+    "age group": "35~40",
+    "residence": "Zhengzhou",
+    "home address": "Jianye Forest Peninsula, No. 66 Tianming Road, Dongfeng Road Street, Jinshui District, Zhengzhou City, Henan Province",
+    "work address": "Building A, Yonghe Longzihu Plaza, Boxue Road Street, Jinshui District, Zhengzhou City, Henan Province",
+    "dietary restrictions": "No alcohol",
+    "family status": "Living with elderly",
+    "personality": "Tends to be dominant and controlling, not easily accepting of different opinions"
+  },
+  "user_historical_behaviors": {
+    "user id": "U000075",
+    "occupation": "Financial Manager",
+    "gender": "male",
+    "age group": "35~40",
+    "residence": "Zhengzhou",
+    "home address": "Jianye Forest Peninsula, No. 66 Tianming Road, Dongfeng Road Street, Jinshui District, Zhengzhou City, Henan Province",
+    "work address": "Building A, Yonghe Longzihu Plaza, Boxue Road Street, Jinshui District, Zhengzhou City, Henan Province",
+    "breakfast": {
+      "frequently purchased categories": [
+        "Quick Meals/Steamed Buns/Pan-fried Buns (Average 15 yuan)",
+        "Quick Meals/Fried Dough Sticks (Average 6 yuan)",
+        "Quick Meals/Jianbing/Wraps/Roti (Average 12 yuan)"
+      ],
+      "cost per order": "8~15 yuan",
+      "preferred store rating": "4.2~4.6 stars",
+      "preferred delivery time": "15~25 minutes",
+      "preferred distance": "0~1500m",
+      "recent orders": [
+        {
+          "store": "Old Yang's Soy Milk Shop",
+          "product": "Fried Dough Stick + Soy Milk Set"
+        },
+        {
+          "store": "Four Seasons Bun Shop",
+          "product": "4 Pork Buns"
+        },
+        {
+          "store": "Daily Breakfast House",
+          "product": "Roti + Soy Milk"
+        }
+      ],
+      "search history": [
+        "steamed buns",
+        "soy milk",
+        "roti",
+        "cheap breakfast",
+        "quick breakfast"
+      ]
+    },
+    "weekday lunch/dinner": {
+      "frequently purchased categories": [
+        "Quick Meals/Small Dishes/Portion Meals (Average 25 yuan)",
+        "Quick Meals/Rice Noodles/Rice Vermicelli (Average 18 yuan)",
+        "Quick Meals/Rice with Toppings (Average 22 yuan)"
+      ],
+      "cost per order": "18~35 yuan",
+      "preferred store rating": "4.0~4.9 stars",
+      "preferred delivery time": "20~35 minutes",
+      "preferred distance": "0~2500m",
+      "recent orders": [
+        {
+          "store": "Zhijiang Duck Noodle House (Soup Noodles•Soup Pasta•Yuhua Branch)",
+          "product": "Original Duck Soup Rice Noodles"
+        },
+        {
+          "store": "Bajibaji Dry Pot Braised Rice (Longzihu Branch)",
+          "product": "Dry Pot Potato Chicken Strip Braised Rice + Grilled Sausage + Beverage (Optional)"
+        },
+        {
+          "store": "Fast Food No.1",
+          "product": "Shredded Pork with Garlic Sauce Rice"
+        }
+      ],
+      "search history": [
+        "fast food",
+        "rice bowls",
+        "small dishes",
+        "lunch boxes",
+        "quick lunch"
+      ]
+    },
+    "weekend lunch/dinner": {
+      "frequently purchased categories": [
+        "Chinese Cuisine/Hunan Dishes (Average 45 yuan)",
+        "Quick Meals/Light Food (Average 25 yuan)",
+        "Chinese Cuisine/Dry Pot (Average 50 yuan)"
+      ],
+      "cost per order": "25~50 yuan",
+      "preferred store rating": "4.3~4.8 stars",
+      "preferred delivery time": "30~45 minutes",
+      "preferred distance": "0~3500m",
+      "recent orders": [
+        {
+          "store": "Lingdang Oil-splashed Noodles (Meat Sandwich)",
+          "product": "Signature Minced Meat Oil-splashed Noodles"
+        },
+        {
+          "store": "Light Food Salad",
+          "product": "Chicken Breast Salad Set"
+        },
+        {
+          "store": "Spicy Dry Pot",
+          "product": "Dry Pot Potato Slices"
+        }
+      ],
+      "search history": [
+        "non-spicy Hunan cuisine",
+        "healthy eating",
+        "light food"
+      ]
+    },
+    "desserts/drinks/snacks": {
+      "frequently purchased categories": [
+        "Beverages & Desserts/Fruit Juice (Average 10 yuan)",
+        "Beverages & Desserts/Fruit Salad (Average 15 yuan)",
+        "Beverages & Desserts/Cold Desserts (Average 20 yuan)"
+      ],
+      "cost per order": "10~20 yuan",
+      "preferred store rating": "4.4~4.9 stars",
+      "preferred delivery time": "15~30 minutes",
+      "preferred distance": "0~2000m",
+      "recent orders": [
+        {
+          "store": "Naturally Fresh Juice",
+          "product": "Freshly Squeezed Watermelon Juice"
+        },
+        {
+          "store": "Colorful Fruit Salad",
+          "product": "Mixed Fruit Salad"
+        },
+        {
+          "store": "Summer Ice Cool",
+          "product": "Yogurt Ice Cream"
+        }
+      ],
+      "search history": [
+        "fruit salad",
+        "juice",
+        "low-sugar drinks",
+        "healthy beverages"
+      ]
+    },
+    "night snack": {
+      "frequently purchased categories": [
+        "Quick Meals/Clay Pot Dishes (Average 25 yuan)",
+        "Hot Pot/Spicy Soup/Oden (Average 20 yuan)",
+        "Snacks & Braised/Braised Items (Average 30 yuan)"
+      ],
+      "cost per order": "25~30 yuan",
+      "preferred store rating": "4.0~4.5 stars",
+      "preferred delivery time": "25~40 minutes",
+      "preferred distance": "0~2500m",
+      "recent orders": [
+        {
+          "store": "Clay Pot Porridge Shop",
+          "product": "Preserved Egg & Lean Pork Porridge"
+        },
+        {
+          "store": "Old Street Oden",
+          "product": "Signature Oden"
+        },
+        {
+          "store": "German Flavor Braised Delicacies",
+          "product": "Braised Duck Neck + Braised Egg"
+        }
+      ],
+      "search history": [
+        "non-spicy night snacks",
+        "stomach-warming food",
+        "clay pot porridge",
+        "braised delicacies",
+        "night meal set"
+      ]
+    }
+  },
+  "stores": {
+    "S17089629001924407_S60854": {
+      "name": "Bajibaji Dry Pot Braised Rice (Longzihu Branch)",
+      "store_id": "S17089629001924407_S60854",
+      "score": 5,
+      "location": {
+        "address": "Stall No. 2, West Side of Yuefan Street, Basement 1, Zhengshang Muhua Plaza, Longzihu Sub-district, Zhengdong New District, Zhengzhou City, Henan Province",
+        "latitude": 34.795421,
+        "longitude": 113.808977
+      },
+      "tags": [],
+      "products": [
+        {
+          "name": "Dry Pot Potato Chicken Strip Braised Rice + Grilled Sausage + Beverage (Optional)",
+          "store_id": "S17089629001924407_S60854",
+          "store_name": "Bajibaji Dry Pot Braised Rice (Longzihu Branch)",
+          "price": 24.99,
+          "tags": [],
+          "product_id": "S27211380182500461_P05963",
+          "attributes": [],
+          "quantity": 9999
+        },
+        {
+          "name": "Deluxe Beef and Crispy Pork Combo + Hubang Spicy Sauce + Beverage",
+          "store_id": "S17089629001924407_S60854",
+          "store_name": "Bajibaji Dry Pot Braised Rice (Longzihu Branch)",
+          "price": 29.99,
+          "tags": [
+            "Braised Rice"
+          ],
+          "product_id": "S53901735369543400_P19927",
+          "attributes": [],
+          "quantity": 9999
+        },
+        {
+          "name": "Dry Pot Crispy Pork + Sausage + Beverage of Choice",
+          "product_id": "S21730166024248136_P60380",
+          "store_id": "S17089629001924407_S60854",
+          "store_name": "Bajibaji Dry Pot Braised Rice (Longzihu Branch)",
+          "price": 26.99,
+          "tags": [
+            "Braised Rice"
+          ],
+          "attributes": [],
+          "quantity": 9999
+        },
+        {
+          "name": "[Beef Prosperity] Dry Pot Beef Braised Rice + Chicken Strips + Sausage + Potato + Seasonal Vegetables",
+          "product_id": "S22531219091256329_P50609",
+          "store_id": "S17089629001924407_S60854",
+          "store_name": "Bajibaji Dry Pot Braised Rice (Longzihu Branch)",
+          "price": 23.99,
+          "tags": [],
+          "attributes": [],
+          "quantity": 9999
+        }
+      ]
+    },
+    "S31159892811642571_S75189": {
+      "name": "Juewei Duck Neck (Boya Plaza Branch)",
+      "store_id": "S31159892811642571_S75189",
+      "score": 4.9,
+      "location": {
+        "address": "Juewei Duck Neck (Boya Plaza Branch), Building 5, Zhengshang Boya Plaza, Ping'an Avenue, Jinshui District, Zhengzhou City, Henan Province",
+        "latitude": 34.791438,
+        "longitude": 113.80877
+      },
+      "tags": [
+        "Braised Delicacies"
+      ],
+      "products": [
+        {
+          "name": "Five-Spice Duck Collarbone",
+          "store_id": "S31159892811642571_S75189",
+          "store_name": "Juewei Duck Neck (Boya Plaza Branch)",
+          "price": 18.8,
+          "tags": [],
+          "product_id": "S24269126648570139_P84857",
+          "attributes": [],
+          "quantity": 9999
+        },
+        {
+          "name": "Heiya Duck Neck",
+          "product_id": "S17610917856265856_P84728",
+          "store_id": "S31159892811642571_S75189",
+          "store_name": "Juewei Duck Neck (Boya Plaza Branch)",
+          "price": 23.8,
+          "tags": [],
+          "attributes": [],
+          "quantity": 9999
+        }
+      ]
+    },
+    "S26698159307935481_S07145": {
+      "name": "Aming Clay Pot Rice (Muhua Plaza Branch)",
+      "store_id": "S26698159307935481_S07145",
+      "score": 4.8,
+      "location": {
+        "address": "Aming Clay Pot Rice (Muhua Plaza Branch), Room 3-117, Building 3, Muhua Plaza, Jinshui District, Zhengzhou City, Henan Province",
+        "latitude": 34.794589,
+        "longitude": 113.80852
+      },
+      "tags": [],
+      "products": [
+        {
+          "name": "[Sweet Sauce Flavor] Cantonese Preserved Meat Clay Pot Rice + Choice of Nutritional Soup or Juice",
+          "store_id": "S26698159307935481_S07145",
+          "store_name": "Aming Clay Pot Rice (Muhua Plaza Branch)",
+          "price": 26.9,
+          "tags": [],
+          "product_id": "S26730768377163847_P88743",
+          "attributes": [],
+          "quantity": 9999
+        },
+        {
+          "name": "[Indian Style] Curry Chicken Clay Pot Rice + Choice of Nutritional Soup or Juice",
+          "product_id": "S26698159307935481_P07145",
+          "store_id": "S26698159307935481_S07145",
+          "store_name": "Aming Clay Pot Rice (Muhua Plaza Branch)",
+          "price": 24.9,
+          "tags": [],
+          "attributes": [],
+          "quantity": 9999
+        }
+      ]
+    },
+    "S10360831124813330_S83737": {
+      "name": "Qi County Clay Pot - Manhattan Branch",
+      "store_id": "S10360831124813330_S83737",
+      "score": 4.8,
+      "location": {
+        "address": "No. 10-3B Storefront, No. 10 Dongming Road, Weilai Road Street, Jinshui District, Zhengzhou City, Henan Province",
+        "latitude": 34.758071,
+        "longitude": 113.699409
+      },
+      "tags": [],
+      "products": [
+        {
+          "name": "Clay Pot Crispy Pork and Beef Combo",
+          "product_id": "S23894806892820046_P56866",
+          "store_id": "S10360831124813330_S83737",
+          "store_name": "Qi County Clay Pot - Manhattan Branch",
+          "price": 19.1,
+          "tags": [],
+          "attributes": [],
+          "quantity": 9999
+        }
+      ]
+    },
+    "S17489478467825411_S38394": {
+      "name": "Zhou Heiya (Zhengzhou Baolong City Plaza Branch)",
+      "store_id": "S17489478467825411_S38394",
+      "score": 5,
+      "location": {
+        "address": "Zhou Heiya (Baolong Plaza Branch), No. 064, 1st Floor, Building 2, No. 33 East Agricultural Road, Jinshui District, Zhengzhou City, Henan Province",
+        "latitude": 34.782268,
+        "longitude": 113.739143
+      },
+      "tags": [],
+      "products": [
+        {
+          "name": "Fresh-Sealed Braised Duck Collarbone (Five-Spice Flavor)",
+          "product_id": "S32964671198212018_P10511",
+          "store_id": "S17489478467825411_S38394",
+          "store_name": "Zhou Heiya (Zhengzhou Baolong City Plaza Branch)",
+          "price": 29.9,
+          "tags": [],
+          "attributes": [],
+          "quantity": 9999
+        }
+      ]
+    }
+  },
+  "orders": {
+    "30711006O01": {
+      "order_id": "30711006O01",
+      "order_type": "delivery",
+      "user_id": "U000075",
+      "store_id": "S17089629001924407_S60854",
+      "note": "",
+      "location": {
+        "address": "Building A, Yonghe Longzihu Plaza, Boxue Road Street, Jinshui District, Zhengzhou City, Henan Province",
+        "longitude": 113.805621,
+        "latitude": 34.791185
+      },
+      "dispatch_time": "2025-10-15 12:17:00",
+      "shipping_time": 29,
+      "delivery_time": "2025-10-15 12:46:00",
+      "total_price": 24.99,
+      "create_time": "2025-10-15 12:00:00",
+      "update_time": "2025-10-15 12:00:00",
+      "status": "delivered",
+      "products": [
+        {
+          "product_id": "S27211380182500461_P05963",
+          "price": 24.99,
+          "quantity": 1,
+          "attributes": ""
+        }
+      ]
+    }
+  }
+}

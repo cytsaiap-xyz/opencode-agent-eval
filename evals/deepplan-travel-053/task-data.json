@@ -1,0 +1,52 @@
+{
+  "task_id": "52",
+  "query": "I plan to travel from Hefei to Chengdu on November 12, 2025, and stay for a few days, returning on the 15th—a total of four days and three nights. For transportation, I’d like to take a flight there; please help me choose a direct flight with the lowest possible fare, as my budget is limited. For the return trip, I’ll also fly—no special requirements, and the timing can be flexible.\n\nFor accommodation, I’d like to book a room in a four-star hotel, preferably one that offers robot meal delivery service. It seems very convenient and interesting, so please help me find options that meet this criterion.\n\nBy the way, I’d like to arrange a special meal during the trip. I’ve heard there are many great dining options near 'Shu Feng Ya Yun Sichuan Opera Theater'. Could you please help me find the highest-rated restaurant in that area so I can experience authentic local cuisine? Additionally, for attractions, I’d like to visit the most iconic must-see spots—please include the top three highest-rated attractions recommended in your tool, and schedule them reasonably throughout the itinerary.\n\nThat covers all my needs. The information should be clear, so please go ahead and prepare the full travel plan and arrangements for me! November 12, 2025 is Wednesday",
+  "meta_info": {
+    "org": "Hefei",
+    "dest": [
+      "Chengdu"
+    ],
+    "days": 4,
+    "depart_date": "2025-11-12",
+    "return_date": "2025-11-15",
+    "people_number": 1,
+    "room_number": 1
+  },
+  "hard_constraints": {
+    "flight_cheapest_direct": {
+      "constraint_context": "Prefer to take a flight for the outbound journey, and need to select the cheapest flight among direct flights",
+      "constraint_type": "superlative_cheapest_direct",
+      "outbound_flight_no": "PN6257"
+    },
+    "hotel_star_service_required": {
+      "constraint_context": "For accommodation, please select a 4-star hotel that provides \"robot room service\"",
+      "constraint_type": "superlative_star_service_required",
+      "hotel_name": "Four Points by Sheraton Chengdu Tianfu New Area",
+      "required_service": "Robot Service",
+      "hotel_star": 4,
+      "hotel_price": 497.0
+    },
+    "restaurant_highest_rated": {
+      "constraint_context": "During the trip, please arrange a meal at the highest-rated restaurant near 'Shu Feng Ya Yun Sichuan Opera Theater'.",
+      "constraint_type": "superlative_highest_rated_restaurant",
+      "attraction_name": "Shu Feng Ya Yun Sichuan Opera Theater",
+      "restaurant_name": "Bu Er Hidden Lodge (Baihua Branch)",
+      "price_per_person": 239.0,
+      "restaurant_rating": 4.6
+    },
+    "attraction_top_rated_must_visit": {
+      "constraint_context": "The itinerary must include the three highest-rated attractions recommended by the attraction recommendation tool.",
+      "constraint_type": "superlative_top_rated_must_visit",
+      "attraction_names": [
+        "Nan Bridge",
+        "Qingyang Palace",
+        "Jinsha Site Museum"
+      ],
+      "attraction_ratings": [
+        4.8,
+        4.8,
+        4.8
+      ]
+    }
+  }
+}

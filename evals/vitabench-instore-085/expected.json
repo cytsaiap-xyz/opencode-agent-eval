@@ -1,0 +1,72 @@
+{
+  "required_orders": [
+    {
+      "order_id": "10826277T001",
+      "order_type": "instore",
+      "user_id": "U982928",
+      "store_id": "S17567843343057973_I00001",
+      "note": "",
+      "location": null,
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 398,
+      "create_time": "2023-09-07 19:47:00",
+      "update_time": "2023-09-07 19:47:00",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17567843343057973_P00001",
+          "name": "Drunk Note 4-Person Party Package (Including 4 Glasses of Craft Beer)",
+          "price": 398,
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "order_id": "10826277T002",
+      "order_type": "instore",
+      "user_id": "U982928",
+      "store_id": "S17567843343057973_I00002",
+      "note": "",
+      "location": null,
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 288,
+      "create_time": "2023-09-07 19:50:00",
+      "update_time": "2023-09-07 19:50:00",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17567843343057973_P00010",
+          "name": "3-Hour Karaoke Package (Deluxe Room for 4-6 People)",
+          "price": 288,
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "reservation_id": "10826277T003",
+      "shop_id": "S17567843343057973_I00002",
+      "reservation_time": "2023-09-08 20:00:00",
+      "update_time": "2023-09-07 19:53:00",
+      "customer_id": "U982928",
+      "customer_count": 4,
+      "status": "paid"
+    }
+  ],
+  "rubrics": [
+    "The restaurant & bar should have a live singer",
+    "When querying and ordering packages at the restaurant & bar, the results should include a four-person meal with craft beer, so the restaurant & bar order should only have one four-person meal",
+    "The restaurant & bar package should include food and craft beer",
+    "The KTV should be within 2km (inclusive) from Drunk Note Restaurant & Bar, 3rd Floor, Wanda Plaza, 1380 Lijiang Road, Honggutan New District, Nanchang, Jiangxi Province",
+    "The KTV should have a rating of 4.5 or above",
+    "The KTV should be a chain brand",
+    "The KTV order should be for a karaoke package",
+    "The KTV order should be for a 3-hour session",
+    "The KTV reservation time should be September 8, 2023, at 20:00:00",
+    "The KTV reservation should be for 4 people",
+    "The reserved KTV venue should be Star Gathering KTV (Wanda Plaza Branch)"
+  ]
+}

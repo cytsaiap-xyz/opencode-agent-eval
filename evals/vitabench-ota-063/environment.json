@@ -1,0 +1,258 @@
+{
+  "task_id": "D0805002",
+  "domain": "ota",
+  "time": "2024-10-15 13:22:31",
+  "user_id": "U010004",
+  "weather": [
+    {
+      "city": "Nanjing",
+      "category": "cloudy",
+      "datetime": "2024-10-23",
+      "temperature": [
+        12,
+        18
+      ],
+      "humidity": 65
+    },
+    {
+      "city": "Shanghai",
+      "category": "light rain",
+      "datetime": "2024-10-23",
+      "temperature": [
+        14,
+        20
+      ],
+      "humidity": 78
+    }
+  ],
+  "location": [
+    {
+      "address": "Xiangfu Jidi, 11 Wangjinshi, Xuanwu District, Nanjing, Jiangsu Province",
+      "longitude": 118.7969,
+      "latitude": 32.0503
+    },
+    {
+      "address": "BFC Bund Financial Center, 600 East Zhongshan Road No.2, Huangpu District, Shanghai",
+      "longitude": 121.497809,
+      "latitude": 31.226435
+    }
+  ],
+  "user_profile": {
+    "user id": "U010004",
+    "occupation": "Project Manager",
+    "gender": "female",
+    "age group": "30~35",
+    "residence": "Nanjing",
+    "home address": "Xiangfu Jidi, 11 Wangjinshi, Xuanwu District, Nanjing, Jiangsu Province",
+    "work address": "World Trade Center, Inside Jinling Hotel, 2 Hanzhong Road, Gulou District, Nanjing, Jiangsu Province (Near Jinling Hotel)",
+    "dietary restrictions": "Avoids greasy and spicy food, avoids caffeine",
+    "family status": "Has children",
+    "personality": "Cold and concise in expression, lacks emotional communication and patience"
+  },
+  "user_historical_behaviors": {
+    "user id": "U010004",
+    "occupation": "Project Manager",
+    "gender": "female",
+    "age group": "30~35",
+    "residence": "Nanjing",
+    "home address": "Xiangfu Jidi, 11 Wangjinshi, Xuanwu District, Nanjing, Jiangsu Province",
+    "work address": "World Trade Center, Inside Jinling Hotel, 2 Hanzhong Road, Gulou District, Nanjing, Jiangsu Province (Near Jinling Hotel)",
+    "visited scenes": {
+      "Cultural and Historical Sites": "20%",
+      "Exhibition Halls (Museums/Art Galleries)": "45%",
+      "Natural Landscapes (Mountains/Lakes/Forests)": "10%",
+      "Parks": "15%",
+      "Featured Villages/Industrial Tourism/Uncategorized Projects": "10%"
+    },
+    "cost per night on hotel": "500~1000 yuan",
+    "visited hotels": {
+      "Atour": "35%",
+      "Vienna": "20%",
+      "Ji Hotel": "25%",
+      "Jinling Chain": "15%",
+      "Huazhu": "5%"
+    },
+    "browsed hotels": {
+      "Four-Star Hotels": "30%",
+      "Three-Star Hotels": "25%",
+      "Comfort Hotels": "40%",
+      "Budget Hotels": "5%"
+    },
+    "historical travel plans": {
+      "Nanjing-Hangzhou": {
+        "Price Range": "150-250 yuan",
+        "Transportation Method": "High-Speed Train (G-Train)/D-Train (Intercity Express Train)"
+      },
+      "Nanjing-Beijing": {
+        "Price Range": "700-1200 yuan",
+        "Transportation Method": "Flight"
+      },
+      "Nanjing-Shanghai": {
+        "Price Range": "150-250 yuan",
+        "Transportation Method": "High-Speed Train (G-Train)/D-Train (Intercity Express Train)"
+      },
+      "Nanjing-Suzhou": {
+        "Price Range": "80-150 yuan",
+        "Transportation Method": "High-Speed Train (G-Train)/D-Train (Intercity Express Train)"
+      },
+      "Nanjing-Huangshan": {
+        "Price Range": "200-400 yuan",
+        "Transportation Method": "Long-distance Bus"
+      },
+      "Nanjing-Wuxi": {
+        "Price Range": "70-120 yuan",
+        "Transportation Method": "High-Speed Train (G-Train)/D-Train (Intercity Express Train)"
+      }
+    }
+  },
+  "stores": {},
+  "orders": {
+    "S17557512184312537_O00001": {
+      "order_id": "S17557512184312537_O00001",
+      "order_type": "train",
+      "user_id": "U010004",
+      "store_id": "S17557512184312537_T00012",
+      "location": {
+        "address": "Nanjing Railway Station, 264 Longpan Road, Xuanwu District, Nanjing, Jiangsu Province",
+        "longitude": 118.7969,
+        "latitude": 32.0862
+      },
+      "dispatch_time": "",
+      "shipping_time": 0.0,
+      "delivery_time": "",
+      "note": "Early morning train ticket, need to arrive early for the morning meeting",
+      "total_price": 294.0,
+      "create_time": "2024-10-13 14:25:00",
+      "update_time": "2024-10-13 14:25:00",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17557512184312537_P00069",
+          "price": 294.0,
+          "quantity": 1,
+          "date": "2024-10-23",
+          "seat_type": "First Class Seat"
+        }
+      ]
+    },
+    "S17557512184312537_O00002": {
+      "order_id": "S17557512184312537_O00002",
+      "order_type": "attraction",
+      "user_id": "U010004",
+      "store_id": "S17557512184312537_A00005",
+      "location": {
+        "address": "Shanghai Museum, 201 People's Avenue, Huangpu District, Shanghai",
+        "longitude": 121.4737,
+        "latitude": 31.2304
+      },
+      "dispatch_time": "",
+      "shipping_time": 0.0,
+      "delivery_time": "",
+      "note": "Friday afternoon visit reservation, includes guided tour service",
+      "total_price": 30.0,
+      "create_time": "2024-10-13 15:10:00",
+      "update_time": "2024-10-13 15:10:00",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17557512184312537_P00028",
+          "price": 0.0,
+          "quantity": 1,
+          "date": "2024-10-18",
+          "ticket_type": "Adult Ticket (Free Reservation)"
+        },
+        {
+          "product_id": "S17557512184312537_P00029",
+          "price": 30.0,
+          "quantity": 1,
+          "date": "2024-10-18",
+          "ticket_type": "Guided Tour Service (Chinese)"
+        }
+      ]
+    },
+    "S17557512184312537_O00003": {
+      "order_id": "S17557512184312537_O00003",
+      "order_type": "attraction",
+      "user_id": "U010004",
+      "store_id": "S17557512184312537_A00006",
+      "location": {
+        "address": "China Art Museum, 205 Shangnan Road, Pudong New Area, Shanghai",
+        "longitude": 121.4992,
+        "latitude": 31.1886
+      },
+      "dispatch_time": "",
+      "shipping_time": 0.0,
+      "delivery_time": "",
+      "note": "Friday afternoon visit, selected package with guided tour",
+      "total_price": 95.0,
+      "create_time": "2024-10-13 15:15:00",
+      "update_time": "2024-10-13 15:15:00",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17557512184312537_P00040",
+          "price": 95.0,
+          "quantity": 1,
+          "date": "2024-10-25",
+          "ticket_type": "Adult Ticket + Guide Package"
+        }
+      ]
+    },
+    "S17557512184312537_O00004": {
+      "order_id": "S17557512184312537_O00004",
+      "order_type": "hotel",
+      "user_id": "U010004",
+      "store_id": "S17557512184312537_H00002",
+      "location": {
+        "address": "Ji Hotel, 258 Central Road, Gulou District, Nanjing, Jiangsu Province",
+        "longitude": 118.7828,
+        "latitude": 32.0609
+      },
+      "dispatch_time": "",
+      "shipping_time": 0.0,
+      "delivery_time": "",
+      "note": "Business trip accommodation",
+      "total_price": 588.0,
+      "create_time": "2024-09-25 16:30:00",
+      "update_time": "2024-09-26 10:15:00",
+      "status": "cancelled",
+      "products": [
+        {
+          "product_id": "S17557512184312537_P00013",
+          "price": 588.0,
+          "quantity": 1,
+          "date": "2024-09-28",
+          "room_type": "Business King Room"
+        }
+      ]
+    },
+    "S17557512184312537_O00005": {
+      "order_id": "S17557512184312537_O00005",
+      "order_type": "attraction",
+      "user_id": "U010004",
+      "store_id": "S17557512184312537_A00007",
+      "location": {
+        "address": "Yu Garden, 168 Fuyou Road, Huangpu District, Shanghai",
+        "longitude": 121.4916,
+        "latitude": 31.2263
+      },
+      "dispatch_time": "",
+      "shipping_time": 0.0,
+      "delivery_time": "",
+      "note": "Weekend family visit, selected with guided tour service",
+      "total_price": 80.0,
+      "create_time": "2024-09-12 11:20:00",
+      "update_time": "2024-09-12 11:20:00",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17557512184312537_P00047",
+          "price": 80.0,
+          "quantity": 1,
+          "date": "2024-09-15",
+          "ticket_type": "Adult Ticket + Guided Tour Service"
+        }
+      ]
+    }
+  }
+}

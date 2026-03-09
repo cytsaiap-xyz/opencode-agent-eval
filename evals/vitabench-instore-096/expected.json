@@ -1,0 +1,60 @@
+{
+  "required_orders": [
+    {
+      "order_id": "10826297T001",
+      "order_type": "instore",
+      "user_id": "U671374",
+      "store_id": "S17567844081518433_I00001",
+      "note": "",
+      "location": null,
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 2280,
+      "create_time": "2025-01-13 14:37:09",
+      "update_time": "2025-01-13 14:37:09",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17567844081518433_P00001",
+          "name": "Michelin Six-Person Business Banquet Set",
+          "price": 2280,
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "order_id": "10826297T002",
+      "order_type": "instore",
+      "user_id": "U671374",
+      "store_id": "S17567844081518433_I00002",
+      "note": "",
+      "location": null,
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 2580,
+      "create_time": "2025-01-13 14:40:00",
+      "update_time": "2025-01-13 14:40:00",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17567844081518433_P00010",
+          "name": "Business Golf Experience Package (6-Person Group)",
+          "price": 2580,
+          "quantity": 1
+        }
+      ]
+    }
+  ],
+  "rubrics": [
+    "The restaurant ordered must be suitable for business banquets",
+    "The restaurant ordered must be an upscale restaurant",
+    "The restaurant ordered must be Michelin-listed",
+    "The items in the restaurant order must be a six-person set",
+    "The price of items in the restaurant order cannot exceed 2500 yuan (including 2500 yuan)",
+    "The golf club ordered must be indoor",
+    "The budget for the golf club order should be 10% higher than the restaurant order budget (cannot exceed), as the restaurant order budget is 2500 yuan (including 2500 yuan), therefore the total price of items in the golf club order cannot exceed 2750 yuan (including 2750 yuan)",
+    "The items in the golf club order must be suitable for 6 people"
+  ]
+}

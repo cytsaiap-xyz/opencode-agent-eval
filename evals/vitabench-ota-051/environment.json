@@ -1,0 +1,115 @@
+{
+  "task_id": "D0807005",
+  "domain": "ota",
+  "time": "2023-03-22 17:27:42",
+  "user_id": "U010034",
+  "weather": [
+    {
+      "city": "Yangzhou",
+      "category": "sunny",
+      "datetime": "2023-04-05",
+      "temperature": [
+        12,
+        22
+      ],
+      "humidity": 45
+    },
+    {
+      "city": "Yangzhou",
+      "category": "cloudy",
+      "datetime": "2023-04-06",
+      "temperature": [
+        14,
+        24
+      ],
+      "humidity": 58
+    },
+    {
+      "city": "Nanjing",
+      "category": "light rain",
+      "datetime": "2023-04-05",
+      "temperature": [
+        10,
+        20
+      ],
+      "humidity": 62
+    }
+  ],
+  "location": [
+    {
+      "address": "Yangzhou Commercial Center, 666 Wenchang Middle Road, Guangling District, Yangzhou, Jiangsu Province",
+      "longitude": 119.4315,
+      "latitude": 32.4032
+    }
+  ],
+  "user_profile": {
+    "user id": "U010034",
+    "occupation": "Network Engineer",
+    "gender": "female",
+    "age group": "30~35",
+    "residence": "Nanjing",
+    "home address": "No. 2 Village Community, 2 Beijing West Road, Gulou District, Nanjing, Jiangsu Province (210 meters walking from Exit 3 of Yunnan Road Metro Station)",
+    "work address": "Xincheng Technology Building, 140 meters south of the intersection of Taishan Road and Olympic Avenue, Jianye District, Nanjing, Jiangsu Province",
+    "dietary restrictions": "Avoid high purine foods (such as organ meats/seafood soup), avoid caffeine",
+    "family status": "Has children",
+    "personality": "Impatient, often hurries others, lacks patience during waiting processes"
+  },
+  "user_historical_behaviors": {
+    "user id": "U010034",
+    "occupation": "Network Engineer",
+    "gender": "female",
+    "age group": "30~35",
+    "residence": "Nanjing",
+    "home address": "No. 2 Erhao New Village, 2 Beijing West Road, Gulou District, Nanjing, Jiangsu Province (210 meters walking distance from Exit 3 of Yunnan Road Metro Station)",
+    "work address": "Xincheng Technology Building, 140 meters south of the intersection of Taishan Road and Olympic Avenue, Jianye District, Nanjing, Jiangsu Province",
+    "visited scenes": {
+      "Historical & Cultural Sites": "25%",
+      "Exhibition Venues (Museums/Art Galleries)": "30%",
+      "Natural Landscapes (Mountains/Lakes/Forests)": "20%",
+      "Parks": "15%",
+      "Theme Parks": "10%"
+    },
+    "cost per night on hotel": "500~1000 yuan",
+    "visited hotels": {
+      "Atour": "35%",
+      "JI Hotel": "25%",
+      "Orange": "20%",
+      "Vienna": "15%",
+      "Home Inn": "5%"
+    },
+    "browsed hotels": {
+      "4-star hotels": "30%",
+      "3-star hotels": "40%",
+      "Comfort hotels": "25%",
+      "Budget hotels": "5%"
+    },
+    "historical travel plans": {
+      "Nanjing-Beijing": {
+        "Price range": "550-800 yuan",
+        "Transportation": "High-speed train"
+      },
+      "Nanjing-Shanghai": {
+        "Price range": "150-230 yuan",
+        "Transportation": "High-speed train"
+      },
+      "Nanjing-Hangzhou": {
+        "Price range": "110-180 yuan",
+        "Transportation": "High-speed train"
+      },
+      "Nanjing-Chengdu": {
+        "Price range": "800-1200 yuan",
+        "Transportation": "Flight"
+      },
+      "Nanjing-Suzhou": {
+        "Price range": "80-120 yuan",
+        "Transportation": "High-speed train"
+      },
+      "Nanjing-Huangshan": {
+        "Price range": "300-400 yuan",
+        "Transportation": "Self-driving"
+      }
+    }
+  },
+  "stores": {},
+  "orders": {}
+}

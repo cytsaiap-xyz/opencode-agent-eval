@@ -1,0 +1,73 @@
+{
+  "required_orders": [
+    {
+      "order_id": "10826220T002",
+      "order_type": "instore",
+      "user_id": "U499750",
+      "store_id": "S17567836607319113_I00001",
+      "note": "",
+      "location": null,
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 480,
+      "create_time": "2025-05-09 16:31:00",
+      "update_time": "2025-05-09 16:31:00",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17567836607319113_P00001",
+          "name": "Swimming private coaching course package",
+          "price": 480,
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "reservation_id": "10826220T003",
+      "shop_id": "S17567836607319113_I00001",
+      "reservation_time": "2025-05-09 19:30:00",
+      "update_time": "2025-05-09 16:32:00",
+      "customer_id": "U499750",
+      "customer_count": 1,
+      "status": "paid"
+    },
+    {
+      "order_id": "10826220T004",
+      "order_type": "instore",
+      "user_id": "U499750",
+      "store_id": "S17567836607319113_I00002",
+      "note": "",
+      "location": null,
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 45,
+      "create_time": "2025-05-09 16:33:00",
+      "update_time": "2025-05-09 16:33:00",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17567836607319113_P00010",
+          "name": "Single person light salad set (beef)",
+          "price": 45,
+          "quantity": 1
+        }
+      ]
+    }
+  ],
+  "rubrics": [
+    "Swimming pools should be disinfected daily",
+    "The product ordered at the swimming pool should be one-on-one guidance course",
+    "The product ordered at the swimming pool should be a course suitable for beginners",
+    "The user's practice period is two weeks, during which they only participate in practice on Fridays, Saturdays, and Sundays each week, totaling 6 days of practice, so the swimming pool order should be for a 6-session package",
+    "The reserved swimming pool should be Haiyue Swimming and Fitness Center",
+    "The reservation time for the swimming pool should be 2025-05-09 19:30:00",
+    "The number of people for the swimming pool reservation should be 1",
+    "Need to check the user's historical behavior to find previously visited salad shops, the result is Mr. Salad, so the salad shop to order from should be Mr. Salad",
+    "The product ordered at the salad shop should be a single person set",
+    "The set ordered at the salad shop should include red meat",
+    "The set ordered at the salad shop should not include chicken breast",
+    "The set ordered at the salad shop should not include coffee drinks"
+  ]
+}

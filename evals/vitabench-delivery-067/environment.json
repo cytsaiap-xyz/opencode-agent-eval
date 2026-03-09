@@ -1,0 +1,325 @@
+{
+  "task_id": "E0716001",
+  "domain": "delivery",
+  "time": "2024-10-18 10:49:12",
+  "user_id": "U000051",
+  "weather": [
+    {
+      "city": "Linyi City",
+      "category": "rainy",
+      "datetime": "2024-10-18",
+      "temperature": [
+        9,
+        19
+      ],
+      "humidity": 98
+    }
+  ],
+  "location": [
+    {
+      "address": "Linyi Urban Construction Group Co., Ltd., 180 meters northwest of the intersection of Xi'an Road and Baimahe Road, Lanshan District, Linyi City, Shandong Province",
+      "longitude": 118.382376,
+      "latitude": 35.142379
+    }
+  ],
+  "user_profile": {
+    "user id": "U000051",
+    "occupation": "Designer",
+    "gender": "male",
+    "age group": "25~30",
+    "residence": "Linyi",
+    "home address": "Tianyuan City Sunshine, Intersection of Jinqueshan Road and Xizhi Road, Lanshan District, Linyi City, Shandong Province",
+    "work address": "Linyi Urban Construction Group Co., Ltd., 180 meters northwest of the intersection of Xi'an Road and Baimahe Road, Lanshan District, Linyi City, Shandong Province",
+    "dietary restrictions": "Low salt diet",
+    "family status": "Lives alone",
+    "personality": "Has scattered and jumpy thinking, easily distracted and tends to change mind"
+  },
+  "user_historical_behaviors": {
+    "user id": "U000051",
+    "occupation": "Designer",
+    "gender": "male",
+    "age group": "25~30",
+    "residence": "Linyi",
+    "home address": "Tianyuan City Sunshine, at the intersection of Jinqueshan Road and Xizhi Road, Lanshan District, Linyi City, Shandong Province",
+    "work address": "Linyi Urban Construction Group Co., Ltd., 180 meters northwest of the intersection of Xi'an Road and Baimahe Road, Lanshan District, Linyi City, Shandong Province",
+    "breakfast": {
+      "frequently purchased categories": [
+        "Quick meals/Steamed buns/Pan-fried buns (average 15 yuan)",
+        "Quick meals/Fried dough sticks (average 8 yuan)",
+        "Quick meals/Jianbing/Wraps/Hand-grabbed pancakes (average 12 yuan)"
+      ],
+      "cost per order": "8~25 yuan",
+      "preferred store rating": "4.3~4.8 stars",
+      "preferred delivery time": "15~25 minutes",
+      "preferred distance": "0~1500m",
+      "recent orders": [
+        {
+          "store": "Fresh Fragrant Bun Shop",
+          "product": "Pork buns + Soy milk"
+        },
+        {
+          "store": "Old Neighbor Handmade Jianbing",
+          "product": "Original Jianbing Guozi"
+        },
+        {
+          "store": "Early Flavor House",
+          "product": "Fried dough sticks + Soy milk combo"
+        }
+      ],
+      "search history": [
+        "Steamed buns",
+        "Soy milk",
+        "Jianbing",
+        "Low-salt breakfast",
+        "Healthy breakfast"
+      ]
+    },
+    "weekday lunch/dinner": {
+      "frequently purchased categories": [
+        "Quick meals/Light food (average 35 yuan)",
+        "Foreign cuisine/Stone pot bibimbap/Teppanyaki rice (average 42 yuan)",
+        "Quick meals/Healthy meals (average 45 yuan)"
+      ],
+      "cost per order": "30~60 yuan",
+      "preferred store rating": "4.2~4.7 stars",
+      "preferred delivery time": "20~35 minutes",
+      "preferred distance": "0~2500m",
+      "recent orders": [
+        {
+          "store": "Little Foodie Healthy Light Food",
+          "product": "Low-fat chicken breast salad"
+        },
+        {
+          "store": "Xiaohui Snack House",
+          "product": "Korean grilled beef bibimbap"
+        },
+        {
+          "store": "Vegetable & Fruit Workshop",
+          "product": "Steamed chicken breast vegetable meal"
+        }
+      ],
+      "search history": [
+        "Low-fat meal",
+        "No frying",
+        "Healthy lunch",
+        "Light food",
+        "Fat-reducing meal"
+      ]
+    },
+    "weekend lunch/dinner": {
+      "frequently purchased categories": [
+        "Chinese cuisine/Grilled fish (average 90 yuan)",
+        "Chinese cuisine/Cantonese food (average 120 yuan)",
+        "Foreign cuisine/Japanese bento/Sushi (average 85 yuan)"
+      ],
+      "cost per order": "70~180 yuan",
+      "preferred store rating": "4.5~4.9 stars",
+      "preferred delivery time": "30~45 minutes",
+      "preferred distance": "0~4000m",
+      "recent orders": [
+        {
+          "store": "Riverside Grilled Fish",
+          "product": "Secret recipe grilled grass carp set (Mildly Spicy)"
+        },
+        {
+          "store": "Yuelai Yuexiang",
+          "product": "Steamed sea bass + Choy sum set"
+        },
+        {
+          "store": "Taste Town Japanese Food",
+          "product": "Salmon sushi platter"
+        }
+      ],
+      "search history": [
+        "Low-salt grilled fish",
+        "Steamed fish",
+        "Healthy Cantonese food",
+        "Family meal",
+        "Children's set meal"
+      ]
+    },
+    "desserts/drinks/snacks": {
+      "frequently purchased categories": [
+        "Drinks & desserts/Fruit bowls (average 28 yuan)",
+        "Drinks & desserts/Coffee (average 22 yuan)",
+        "Drinks & desserts/Pure tea/Herbal tea (average 18 yuan)"
+      ],
+      "cost per order": "15~35 yuan",
+      "preferred store rating": "4.3~4.8 stars",
+      "preferred delivery time": "15~30 minutes",
+      "preferred distance": "0~2000m",
+      "recent orders": [
+        {
+          "store": "Fresh Fruit Bowl",
+          "product": "Mixed fruit bowl (less sugar)"
+        },
+        {
+          "store": "Star Cloud Coffee",
+          "product": "Americano (no sugar)"
+        },
+        {
+          "store": "Tea Time",
+          "product": "Oolong tea (medium cup)"
+        }
+      ],
+      "search history": [
+        "Sugar-free drinks",
+        "Fruit bowl",
+        "Low-sugar coffee",
+        "Children's fruit cup",
+        "Healthy tea drinks"
+      ]
+    },
+    "night snack": {
+      "frequently purchased categories": [
+        "Quick meals/Clay pot soup (average 32 yuan)",
+        "Snacks & braised foods/Braised foods (average 40 yuan)",
+        "Quick meals/Casserole dishes (average 45 yuan)"
+      ],
+      "cost per order": "30~55 yuan",
+      "preferred store rating": "4.2~4.7 stars",
+      "preferred delivery time": "20~40 minutes",
+      "preferred distance": "0~3000m",
+      "recent orders": [
+        {
+          "store": "Old Town Clay Pot Soup",
+          "product": "Clear beef soup"
+        },
+        {
+          "store": "Century Braised Flavor",
+          "product": "Five-spice braised beef (Mildly Spicy)"
+        },
+        {
+          "store": "Casserole Little Kitchen",
+          "product": "Mushroom chicken soup"
+        }
+      ],
+      "search history": [
+        "Low-salt soup",
+        "Clear soup",
+        "Healthy night snack",
+        "Non-spicy braised food",
+        "Stomach-friendly night snack"
+      ]
+    }
+  },
+  "stores": {
+    "S20256588427202403_S30564": {
+      "name": "Xiaohui Snack House",
+      "store_id": "S20256588427202403_S30564",
+      "score": 4.6,
+      "location": {
+        "address": "Xiaohuixiaoshiyuan Restaurant, No.105, Building A5, Lushangshopping Center, Wenhe Road, Lanshan District, Linyi City, Shandong Province (Lushangshopping Center A5 Branch)",
+        "latitude": 35.11978,
+        "longitude": 118.357674
+      },
+      "tags": [],
+      "products": [
+        {
+          "name": "Korean Spicy Beef Soup with Rice",
+          "store_id": "S20256588427202403_S30564",
+          "store_name": "Xiaohui Snack House",
+          "price": 39.0,
+          "tags": [],
+          "product_id": "S16953373692012650_P62169",
+          "attributes": [
+            "Mildly Spicy",
+            "Extra Spicy",
+            "Medium Spicy"
+          ],
+          "quantity": 9999
+        },
+        {
+          "name": "Tuna Salad Mixed Rice",
+          "store_id": "S20256588427202403_S30564",
+          "store_name": "Xiaohui Snack House",
+          "price": 28.0,
+          "tags": [
+            "Cold Salad"
+          ],
+          "product_id": "S82993152617579227_P08862",
+          "attributes": [],
+          "quantity": 9999
+        },
+        {
+          "name": "Yanbian Beef Soup with Rice",
+          "store_id": "S20256588427202403_S30564",
+          "store_name": "Xiaohui Snack House",
+          "price": 29.8,
+          "tags": [
+            "Clear Soup"
+          ],
+          "product_id": "S19374604448374658_P82993",
+          "attributes": [],
+          "quantity": 9999
+        }
+      ]
+    },
+    "S29739462731693712_S94527": {
+      "name": "Aishangla Spicy Hot Pot (Liuqinghe Branch)",
+      "store_id": "S29739462731693712_S94527",
+      "score": 4.9,
+      "location": {
+        "address": "No.129, Building B, Liuqinghe Comprehensive Agricultural Market, Lanshan District, Linyi City, Shandong Province",
+        "latitude": 35.127225,
+        "longitude": 118.36938
+      },
+      "tags": [],
+      "products": [
+        {
+          "name": "【Good Luck】Chicken Single Meal (with Free Rice)",
+          "store_id": "S29739462731693712_S94527",
+          "store_name": "Aishangla Spicy Hot Pot (Liuqinghe Branch)",
+          "price": 20.79,
+          "tags": [],
+          "product_id": "S44724343238630030_P83860",
+          "attributes": [],
+          "quantity": 9999
+        },
+        {
+          "name": "☆☆★Extra Spicy★☆☆",
+          "store_id": "S29739462731693712_S94527",
+          "store_name": "Aishangla Spicy Hot Pot (Liuqinghe Branch)",
+          "price": 0,
+          "tags": [],
+          "product_id": "S62192820423218074_P62016",
+          "attributes": [],
+          "quantity": 9999
+        },
+        {
+          "name": "【Value Deal】Two-Person Set Meal (with 2 Free Rice)",
+          "store_id": "S29739462731693712_S94527",
+          "store_name": "Aishangla Spicy Hot Pot (Liuqinghe Branch)",
+          "price": 40.59,
+          "tags": [],
+          "product_id": "S15074043422013543_P74446",
+          "attributes": [],
+          "quantity": 9999
+        },
+        {
+          "name": "Beef King\" Double Meal Set (with 2 Free Rice)",
+          "store_id": "S29739462731693712_S94527",
+          "store_name": "Aishangla Spicy Hot Pot (Liuqinghe Branch)",
+          "price": 52.99,
+          "tags": [],
+          "product_id": "S15212796811652118_P01835",
+          "attributes": [],
+          "quantity": 9999
+        },
+        {
+          "name": "【With Skin】Pork Belly Single Meal (with Free Rice)",
+          "store_id": "S29739462731693712_S94527",
+          "store_name": "Aishangla Spicy Hot Pot (Liuqinghe Branch)",
+          "price": 25.99,
+          "tags": [
+            "Mildly Spicy"
+          ],
+          "product_id": "S10457219489735826_P08876",
+          "attributes": [],
+          "quantity": 9999
+        }
+      ]
+    }
+  },
+  "orders": {}
+}

@@ -1,0 +1,120 @@
+{
+  "required_orders": [
+    {
+      "order_id": "D0808008T001",
+      "order_type": "flight",
+      "user_id": "U010077",
+      "store_id": "S17557514237836785_F00009",
+      "note": "",
+      "location": null,
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 580,
+      "create_time": "2025-03-25 00:24:46",
+      "update_time": "2025-03-25 00:24:46",
+      "status": "unpaid",
+      "products": [
+        {
+          "product_id": "S17557514237836785_P00080",
+          "price": 580,
+          "quantity": 1,
+          "date": "2025-03-28",
+          "seat_type": "economy class"
+        }
+      ]
+    },
+    {
+      "order_id": "D0808008T002",
+      "order_type": "flight",
+      "user_id": "U010077",
+      "store_id": "S17557514237836785_F00012",
+      "note": "",
+      "location": null,
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 1280,
+      "create_time": "2025-03-25 00:25:23",
+      "update_time": "2025-03-25 00:25:23",
+      "status": "unpaid",
+      "products": [
+        {
+          "product_id": "S17557514237836785_P00115",
+          "price": 1280,
+          "quantity": 1,
+          "date": "2025-03-30",
+          "seat_type": "business class"
+        }
+      ]
+    },
+    {
+      "order_id": "D0808008T003",
+      "order_type": "hotel",
+      "user_id": "U010077",
+      "store_id": "S17557514237836785_H00001",
+      "note": "",
+      "location": null,
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 476,
+      "create_time": "2025-03-25 00:28:27",
+      "update_time": "2025-03-25 00:28:27",
+      "status": "unpaid",
+      "products": [
+        {
+          "product_id": "S17557514237836785_P00001",
+          "price": 238,
+          "quantity": 1,
+          "date": "2025-03-28",
+          "room_type": "standard king room"
+        },
+        {
+          "product_id": "S17557514237836785_P00002",
+          "price": 238,
+          "quantity": 1,
+          "date": "2025-03-29",
+          "room_type": "standard king room"
+        }
+      ]
+    },
+    {
+      "order_id": "D0808008T004",
+      "order_type": "attraction",
+      "user_id": "U010077",
+      "store_id": "S17557514237836785_A00005",
+      "note": "",
+      "location": null,
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 80,
+      "create_time": "2025-03-25 00:30:09",
+      "update_time": "2025-03-25 00:30:09",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17557514237836785_P00041",
+          "price": 80,
+          "quantity": 1,
+          "date": "2025-03-29",
+          "ticket_type": "adult ticket"
+        }
+      ]
+    }
+  ],
+  "rubrics": [
+    "Query the price of economy class flights from Changchun to Yanji for next week's holiday (which is known to be Qingming Festival on April 4, 2025) (1280), and the price for Friday's economy class flights from Changchun to Yanji (580), with a price difference of 1280-580=700, exceeding 500 yuan. The departure flight date is March 28, 2025",
+    "The departure flight is economy class",
+    "The flight in the departure ticket order is from Changchun to Yanji",
+    "The return flight ticket date should be March 30, 2025",
+    "The departure flight is business class",
+    "The flight in the departure ticket order is from Yanji to Changchun",
+    "The hotel booking dates are March 28, 2025 and March 29, 2025",
+    "The hotel must be within 5km of Yanbian University",
+    "The total price for two nights at the hotel cannot exceed 500 yuan",
+    "The attraction booking date is March 29, 2025",
+    "The purchased ticket is an adult ticket"
+  ]
+}

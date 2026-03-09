@@ -1,0 +1,467 @@
+{
+  "task_id": "10808003",
+  "domain": "cross_domain",
+  "time": "2025-07-30 14:30:00",
+  "user_id": "U824134",
+  "weather": [
+    {
+      "city": "Xuzhou",
+      "category": "sunny",
+      "datetime": "2025-07-30",
+      "temperature": [
+        26,
+        34
+      ],
+      "humidity": 65
+    },
+    {
+      "city": "Guangzhou",
+      "category": "cloudy",
+      "datetime": "2025-07-30",
+      "temperature": [
+        28,
+        36
+      ],
+      "humidity": 78
+    }
+  ],
+  "location": [
+    {
+      "address": "Room 503, Unit 2, Building 8, Pengcheng No.1, Yunlong District, Xuzhou",
+      "longitude": 117.1856,
+      "latitude": 34.2652
+    },
+    {
+      "address": "4th Floor, Building B3, Xuzhou Creative Industry Park, 59 Heping Avenue, Quanshan District, Xuzhou",
+      "longitude": 117.1942,
+      "latitude": 34.2418
+    }
+  ],
+  "user_profile": {
+    "user id": "U824134",
+    "occupation": "designer",
+    "gender": "female",
+    "age group": "25~30",
+    "residence": "Xuzhou",
+    "home address": "Room 503, Unit 2, Building 8, Pengcheng No.1, Yunlong District, Xuzhou",
+    "work address": "4th Floor, Building B3, Xuzhou Creative Industry Park, 59 Heping Avenue, Quanshan District, Xuzhou",
+    "dietary restrictions": "Avoids greasy and spicy food, avoids high sugar",
+    "family status": "In a relationship",
+    "personality": "Overly dependent on others' guidance, lacks initiative and decisiveness"
+  },
+  "user_historical_behaviors": {
+    "user id": "U824134",
+    "occupation": "designer",
+    "gender": "female",
+    "age group": "25~30",
+    "residence": "Xuzhou",
+    "home address": "Room 503, Unit 2, Building 8, Pengcheng No.1, Yunlong District, Xuzhou",
+    "work address": "4th Floor, Building B3, Xuzhou Creative Industry Park, 59 Heping Avenue, Quanshan District, Xuzhou",
+    "delivery": {
+      "food delivery": {
+        "breakfast": {
+          "frequently purchased categories": [
+            "Quick meals/Buns/Pan-fried buns (Average 18 yuan)",
+            "Quick meals/Light food (Average 25 yuan)",
+            "Quick meals/Salad (Average 28 yuan)"
+          ],
+          "cost per order": "15~35 yuan",
+          "preferred store rating": "4.2~4.8 points",
+          "preferred delivery time": "15~25 minutes",
+          "preferred distance": "0~1500m",
+          "recent orders": [
+            {
+              "store": "Fresh Steamed Life",
+              "product": "Pumpkin soup dumplings + Soy milk"
+            },
+            {
+              "store": "Light Food Select",
+              "product": "Fruit cereal cup + Yogurt"
+            },
+            {
+              "store": "Maiquer",
+              "product": "Vegetable sandwich + Sugar-free soy milk"
+            }
+          ],
+          "search history": [
+            "Low sugar breakfast",
+            "Light food",
+            "Oatmeal",
+            "Healthy breakfast",
+            "Low fat"
+          ]
+        },
+        "weekday lunch/dinner": {
+          "frequently purchased categories": [
+            "Quick meals/Healthy meals (Average 35 yuan)",
+            "Quick meals/Small bowls/Small portions (Average 32 yuan)",
+            "International cuisine/Japanese bento/Sushi (Average 45 yuan)"
+          ],
+          "cost per order": "30~60 yuan",
+          "preferred store rating": "4.3~4.8 points",
+          "preferred delivery time": "20~35 minutes",
+          "preferred distance": "0~2500m",
+          "recent orders": [
+            {
+              "store": "Meal Select",
+              "product": "Chicken breast quinoa rice + Boiled broccoli"
+            },
+            {
+              "store": "Japanese Style Canteen",
+              "product": "Salmon bento"
+            },
+            {
+              "store": "Light Food Philosophy",
+              "product": "Low-fat chicken salad"
+            }
+          ],
+          "search history": [
+            "Low oil",
+            "Healthy meals",
+            "Light food bento",
+            "Japanese cuisine",
+            "Low-calorie diet meals"
+          ]
+        },
+        "weekend lunch/dinner": {
+          "frequently purchased categories": [
+            "International cuisine/Pasta (Average 65 yuan)",
+            "Chinese cuisine/Cantonese cuisine (Average 85 yuan)",
+            "International cuisine/Stone pot rice/Iron plate rice (Average 60 yuan)"
+          ],
+          "cost per order": "50~120 yuan",
+          "preferred store rating": "4.5~5.0 points",
+          "preferred delivery time": "25~45 minutes",
+          "preferred distance": "0~3500m",
+          "recent orders": [
+            {
+              "store": "Olive Tree Italian Restaurant",
+              "product": "Herb roasted chicken pasta + Vegetable salad"
+            },
+            {
+              "store": "Cantonese Family Banquet",
+              "product": "Steamed bass + Chinese cabbage + Poached shrimp"
+            },
+            {
+              "store": "Korean Royal Palace",
+              "product": "Stone pot bibimbap + Seaweed soup"
+            }
+          ],
+          "search history": [
+            "Exquisite cuisine",
+            "Couple set meal",
+            "Healthy food",
+            "Western food",
+            "Cantonese cuisine"
+          ]
+        },
+        "desserts/drinks/snacks": {
+          "frequently purchased categories": [
+            "Drinks/desserts/Pure tea/Herbal tea (Average 20 yuan)",
+            "Drinks/desserts/Coffee (Average 28 yuan)",
+            "Drinks/desserts/Fruit salad (Average 35 yuan)"
+          ],
+          "cost per order": "15~40 yuan",
+          "preferred store rating": "4.4~4.9 points",
+          "preferred delivery time": "15~30 minutes",
+          "preferred distance": "0~2000m",
+          "recent orders": [
+            {
+              "store": "Tea Ode",
+              "product": "Jasmine tea (Sugar-free)"
+            },
+            {
+              "store": "Starbucks",
+              "product": "Americano (Sugar-free)"
+            },
+            {
+              "store": "Fresh Fruit Salad",
+              "product": "Fruit salad (Less sugar)"
+            }
+          ],
+          "search history": [
+            "Sugar-free drinks",
+            "Fresh fruit tea",
+            "Low sugar desserts",
+            "Coffee",
+            "Flower tea"
+          ]
+        },
+        "night snack": {
+          "frequently purchased categories": [
+            "Quick meals/Rice noodles/Rice vermicelli (Average 28 yuan)",
+            "Quick meals/Casserole dishes (Average 35 yuan)",
+            "Snacks/Marinated foods (Average 30 yuan)"
+          ],
+          "cost per order": "25~45 yuan",
+          "preferred store rating": "4.2~4.7 points",
+          "preferred delivery time": "20~35 minutes",
+          "preferred distance": "0~2500m",
+          "recent orders": [
+            {
+              "store": "Yunnan Crossing Bridge Rice Noodles",
+              "product": "Clear soup chicken rice noodles"
+            },
+            {
+              "store": "Casserole Porridge Shop",
+              "product": "Century egg and lean meat porridge + Marinated food platter"
+            },
+            {
+              "store": "Braised Flavor Family",
+              "product": "Braised chicken feet + Braised tofu"
+            }
+          ],
+          "search history": [
+            "Light night snacks",
+            "Stomach-soothing porridge",
+            "Rice noodles",
+            "Non-spicy braised food",
+            "Casserole"
+          ]
+        }
+      },
+      "product delivery": {
+        "frequently purchased categories": [
+          "Beverages/Nutritional drinks(28%)",
+          "Fruits(22%)",
+          "Household items(15%)",
+          "Study/Office supplies(12%)",
+          "Personal care(10%)",
+          "Others(13%)"
+        ],
+        "frequently visited stores": [
+          "Daily Select(35%)",
+          "Yunlong District Fresh Life Supermarket(26%)",
+          "Family Mart (Industry Park Store)(22%)",
+          "Other stores(17%)"
+        ],
+        "cost per order by category": {
+          "Beverages/Nutritional drinks": "15~40 yuan",
+          "Fruits": "20~50 yuan",
+          "Household items": "15~60 yuan",
+          "Study/Office supplies": "10~45 yuan",
+          "Personal care": "25~80 yuan"
+        },
+        "preferred delivery time": "25~60 minutes",
+        "typical order time": "10~12 o'clock(31%), 16~18 o'clock(27%), 20~22 o'clock(25%)",
+        "recent orders": [
+          {
+            "store": "Daily Select",
+            "product": "Sugar-free sparkling water 6-pack"
+          },
+          {
+            "store": "Yunlong District Fresh Life Supermarket",
+            "product": "Kiwi fruit gift box"
+          },
+          {
+            "store": "Family Mart (Industry Park Store)",
+            "product": "Bluetooth earphone storage case"
+          }
+        ],
+        "search history": [
+          "Sugar-free drinks",
+          "Bluetooth earphone accessories",
+          "Kiwi fruit",
+          "Facial cleanser",
+          "Office supplies"
+        ]
+      }
+    },
+    "in-store consumption": {
+      "in-store dining": {
+        "fine-dining": {
+          "frequently purchased categories": [
+            "Regional cuisine/Jiangsu-Zhejiang cuisine (Average 120 yuan)",
+            "International cuisine/Japanese cuisine (Average 150 yuan)",
+            "Regional cuisine/Cantonese cuisine (Average 130 yuan)"
+          ],
+          "preferred average price per person": "100~150 yuan",
+          "preferred store rating": "4.2~4.8 stars",
+          "typical dining time": "18:30-20:30",
+          "preferred distance": "500~3000m",
+          "recent orders": [
+            {
+              "store": "Jiangnan Small Kitchen",
+              "product": "West Lake Fish in Vinegar Sauce Set"
+            },
+            {
+              "store": "Japanese Style Cuisine",
+              "product": "Sashimi platter + Sushi set"
+            },
+            {
+              "store": "Yue Lai Shunde",
+              "product": "Steamed bass + Poached shrimp"
+            }
+          ],
+          "search history": [
+            "Oil-free cuisine",
+            "Light food restaurant",
+            "Japanese cuisine",
+            "Healthy Cantonese food",
+            "Exquisite Jiangsu-Zhejiang cuisine"
+          ]
+        },
+        "light meal": {
+          "frequently purchased categories": [
+            "Snacks & fast food/Chinese quick meals (Average 35 yuan)",
+            "Snacks & fast food/Western fast food (Average 40 yuan)",
+            "Regional cuisine/Other regional cuisines (Average 45 yuan)"
+          ],
+          "preferred average price per person": "30~50 yuan",
+          "preferred store rating": "3.5~4.3 stars",
+          "typical dining time": "12:00-13:30",
+          "preferred distance": "0~800m",
+          "recent orders": [
+            {
+              "store": "Salad Diary",
+              "product": "Light food chicken breast salad"
+            },
+            {
+              "store": "McDonald's",
+              "product": "Low-fat chicken wrap + Sugar-free cola"
+            },
+            {
+              "store": "Yi Pin Xuan",
+              "product": "Steamed fish set meal"
+            }
+          ],
+          "search history": [
+            "Light food",
+            "Low-calorie lunch",
+            "Healthy quick meal",
+            "Oil-free fast food"
+          ]
+        },
+        "desserts/drinks/snacks": {
+          "frequently purchased categories": [
+            "Beverage shops (Average 25 yuan)",
+            "Bread and desserts (Average 30 yuan)",
+            "Other dining/Fresh fruits (Average 20 yuan)"
+          ],
+          "preferred average price per person": "15~35 yuan",
+          "preferred store rating": "4.0~4.7 stars",
+          "typical dining time": "15:00-17:00",
+          "preferred distance": "0~600m",
+          "recent orders": [
+            {
+              "store": "HEYTEA",
+              "product": "Very Grape (No sugar)"
+            },
+            {
+              "store": "Bread Talk",
+              "product": "Whole wheat bread + Low-sugar cranberry"
+            },
+            {
+              "store": "Fresh Cut Fruits",
+              "product": "Fruit platter"
+            }
+          ],
+          "search history": [
+            "Sugar-free drinks",
+            "Low sugar desserts",
+            "Healthy fruit tea",
+            "Whole wheat desserts"
+          ]
+        }
+      },
+      "other in-store services": {
+        "frequently consumed categories": {
+          "Beauty/Hair styling": "20%",
+          "Beauty/Yoga": "30%",
+          "Sports & fitness/Fitness centers": "25%",
+          "Leisure Entertainment/DIY workshops": "15%",
+          "Leisure Entertainment/Tea houses": "10%"
+        },
+        "cost per order by category": {
+          "Beauty/Hair styling": "180~350 yuan",
+          "Beauty/Yoga": "80~150 yuan/time",
+          "Sports & fitness/Fitness centers": "60~120 yuan/time",
+          "Leisure Entertainment/DIY workshops": "120~200 yuan/time",
+          "Leisure Entertainment/Tea houses": "60~100 yuan/time"
+        },
+        "preferred store rating": "4.0~4.8 stars",
+        "preferred service time": "18:00-21:00",
+        "preferred distance": "0~5000m",
+        "recent orders": [
+          {
+            "store": "Qinghe Yoga",
+            "product": "Individual premium yoga course"
+          },
+          {
+            "store": "Pure Fitness",
+            "product": "One-on-one personal training"
+          },
+          {
+            "store": "Wood Language Handcraft",
+            "product": "Handmade accessories making experience"
+          }
+        ],
+        "search history": [
+          "Designer yoga",
+          "Small-class fitness",
+          "Creative handicrafts",
+          "Relaxing stress-relief activities",
+          "Designer social activities"
+        ]
+      }
+    },
+    "OTA": {
+      "visited scenes": {
+        "Exhibition halls (museums/art galleries)": "35%",
+        "Cultural relics": "20%",
+        "Natural landscapes (mountains/lakes/forests)": "25%",
+        "Special villages/Industrial tourism/Uncategorized projects": "15%",
+        "Parks": "5%"
+      },
+      "cost per night on hotel": "500~1000 yuan",
+      "visited hotels": {
+        "Atour": "40%",
+        "Ji Hotel": "25%",
+        "Orange Hotel": "20%",
+        "Vienna Hotel": "15%"
+      },
+      "browsed hotels": {
+        "Four-star hotels": "30%",
+        "Comfort hotels": "45%",
+        "Three-star hotels": "15%",
+        "Luxury hotels": "10%"
+      },
+      "historical travel plans": {
+        "Xuzhou-Hangzhou": {
+          "price range": "300-450 yuan",
+          "transportation": "High-speed rail/EMU"
+        },
+        "Xuzhou-Shanghai": {
+          "price range": "200-350 yuan",
+          "transportation": "High-speed rail/EMU"
+        },
+        "Xuzhou-Beijing": {
+          "price range": "400-600 yuan",
+          "transportation": "High-speed rail/EMU"
+        },
+        "Xuzhou-Nanjing": {
+          "price range": "100-200 yuan",
+          "transportation": "High-speed rail/EMU"
+        },
+        "Xuzhou-Suzhou": {
+          "price range": "250-400 yuan",
+          "transportation": "High-speed rail/EMU"
+        },
+        "Xuzhou-Xi'an": {
+          "price range": "600-900 yuan",
+          "transportation": "Airplane"
+        },
+        "Xuzhou-Chengdu": {
+          "price range": "800-1200 yuan",
+          "transportation": "Airplane"
+        },
+        "Xuzhou-Lijiang": {
+          "price range": "1000-1500 yuan",
+          "transportation": "Airplane"
+        }
+      }
+    }
+  },
+  "stores": {},
+  "orders": {}
+}

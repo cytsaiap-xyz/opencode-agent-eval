@@ -1,0 +1,50 @@
+{
+  "task_id": "7",
+  "query": "I'd like to plan a short trip from Xi'an to Taiyuan, departing on November 12, 2025, and returning on November 13, 2025. The itinerary is quite simple—could you help me arrange it?\n\nFor transportation, I think taking the train is the most convenient option. Please book a bullet train (D-series) for the outbound journey, and just pick the most cost-effective direct option available. I don't have specific time preferences; I just appreciate that bullet trains are fast and comfortable.\n\nAs for accommodation, I don't need anything luxurious—just a three-star hotel will suffice. However, there's one small request: ideally, the hotel should have both a washing machine and a dryer, so we can easily manage our laundry. By the way, there will be two of us traveling, so one room is enough.\n\nRegarding sightseeing, there are two places in Taiyuan I'm most eager to visit: 'Clock Tower Street Pedestrian Street' and 'Fenhe Scenic Area'. Please make sure both are included in the itinerary—one offers vibrant local atmosphere, and the other beautiful natural scenery, both of which interest me greatly.\n\nFor dining, could you help me find a Western restaurant near 'Food Street'? I'd like to try a place offering fusion cuisine. I've heard there are many good options around there—please recommend one with high ratings.\n\nThat covers all my requirements—I believe I've provided sufficient details. Please go ahead and prepare the full travel plan and budget estimate for me! November 12, 2025 is Wednesday",
+  "meta_info": {
+    "org": "Xi'an",
+    "dest": [
+      "Taiyuan"
+    ],
+    "days": 2,
+    "depart_date": "2025-11-12",
+    "return_date": "2025-11-13",
+    "people_number": 2,
+    "room_number": 1
+  },
+  "hard_constraints": {
+    "train_cheapest_train_type": {
+      "constraint_context": "Hope to take a train for the outbound journey, and need to select the cheapest direct \"bullet train\" available",
+      "constraint_type": "superlative_cheapest_train_type",
+      "outbound_train_no": "D2538"
+    },
+    "hotel_star_service_required": {
+      "constraint_context": "Please select a 3-star hotel that provides both a washing machine and a dryer for accommodation.",
+      "constraint_type": "superlative_star_service_required",
+      "hotel_name": "Hanting Hotel Taiyuan East Zhonghuan Chaoyang Street Branch",
+      "required_service": "Washer and Dryer",
+      "hotel_star": 3,
+      "hotel_price": 229.0
+    },
+    "attraction_must_visit_named": {
+      "constraint_context": "The itinerary must include visits to 'Bell Tower Street Pedestrian Street' and 'Fen River Scenic Area'.",
+      "constraint_type": "superlative_must_visit_named",
+      "attraction_names": [
+        "Bell Tower Street Pedestrian Street",
+        "Fen River Scenic Area"
+      ],
+      "attraction_ratings": [
+        4.5,
+        4.8
+      ]
+    },
+    "restaurant_specific_cuisine_nearby": {
+      "constraint_context": "Please arrange a meal at a restaurant near 'Food Street' during the trip, with a Western cuisine (mixed flavors) type.",
+      "constraint_type": "superlative_specific_cuisine_nearby",
+      "attraction_name": "Food Street",
+      "restaurant_name": "Liubai Western Restaurant",
+      "price_per_person": 136.0,
+      "restaurant_rating": 4.7
+    }
+  }
+}

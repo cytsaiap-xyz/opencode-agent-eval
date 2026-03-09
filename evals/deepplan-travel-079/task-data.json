@@ -1,0 +1,54 @@
+{
+  "task_id": "78",
+  "query": "I plan to travel from Shenzhen to Shanghai on November 12, 2025, and stay until November 16, 2025. Could you please help me design the entire itinerary, including transportation, accommodation, meals, and sightseeing arrangements?\n\nRegarding transportation, I'd like to take a flight for the outbound journey—just a direct flight is fine. Please find me the most cost-effective option, since saving money is definitely preferable! For accommodation, I'm looking for something simple—just a three-star hotel will do, with the lowest possible price, as long as it's comfortable enough. After all, it's a trip meant for enjoyment. There are three of us in total, requiring two rooms—please make sure to book both rooms for me.\n\nBy the way, I'm especially interested in visiting Shanghai's iconic city landmarks. Could you please select the highest-rated ones and include them in the itinerary? Also, I've heard there are many popular attractions in Shanghai—please pick the top three highest-rated ones from the recommended list and add them to the plan. I only want to visit the most worthwhile places.\n\nThese are basically all my requirements. I believe I've provided all necessary information—please go ahead and start planning the detailed itinerary without asking me for further details! November 12, 2025 is Wednesday",
+  "meta_info": {
+    "org": "Shenzhen",
+    "dest": [
+      "Shanghai"
+    ],
+    "days": 5,
+    "depart_date": "2025-11-12",
+    "return_date": "2025-11-16",
+    "people_number": 3,
+    "room_number": 2
+  },
+  "hard_constraints": {
+    "flight_cheapest_direct": {
+      "constraint_context": "Prefer to take a flight for the outbound journey, and need to select the cheapest flight among direct flights",
+      "constraint_type": "superlative_cheapest_direct",
+      "outbound_flight_no": "DZ6207"
+    },
+    "hotel_cheapest_star": {
+      "constraint_context": "Please select the cheapest hotel among the 3-star hotels",
+      "constraint_type": "superlative_cheapest_star",
+      "hotel_name": "Orange Hotel Shanghai Xujiahui Tianlin Road",
+      "hotel_star": 3
+    },
+    "attraction_type_highest_rated": {
+      "constraint_context": "The itinerary must include the highest-rated attraction among those categorized as 'City Landmark'.",
+      "constraint_type": "superlative_type_highest_rated",
+      "attraction_names": [
+        "Shanghai Tower"
+      ],
+      "attraction_type_cn": "城市地标",
+      "attraction_type": "City Landmark",
+      "attraction_ratings": [
+        4.8
+      ]
+    },
+    "attraction_top_rated_must_visit": {
+      "constraint_context": "The itinerary must include the three highest-rated attractions recommended by the attraction recommendation tool.",
+      "constraint_type": "superlative_top_rated_must_visit",
+      "attraction_names": [
+        "Xuhui Riverside Green Space",
+        "BFC Bund Financial Center",
+        "China Art Museum"
+      ],
+      "attraction_ratings": [
+        4.9,
+        4.8,
+        4.8
+      ]
+    }
+  }
+}

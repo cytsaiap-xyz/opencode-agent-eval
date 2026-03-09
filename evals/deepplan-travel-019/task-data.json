@@ -1,0 +1,59 @@
+{
+  "task_id": "18",
+  "query": "I plan to travel from Hangzhou to \"Shaoxing\" on November 12, 2025, and stay for two days, returning on the 13th. I'd like you to help me plan the entire trip, including transportation, accommodation, attractions, and meals.\n\nLet’s start with transportation. For the outbound journey, I’d prefer a high-speed train or regular train departing between 6:00 AM and 7:00 AM, so I can arrive early and have more time to explore. For the return trip, the timing is more flexible—just schedule it according to the itinerary.\n\nFor accommodation, I don’t have any special requirements—just a comfortable two-star hotel will be fine. However, there’s one small request: the TV in the room must support screen mirroring, as I’d like to use the TV to watch something relaxing at night. By the way, there are two of us traveling, but we only need to book one room.\n\nRegarding attractions, I’m particularly interested in natural scenery spots in \"Shaoxing.\" I’ve heard the mountains and rivers there are beautiful—please help include these scenic areas in the itinerary. Also, I’ve heard that \"Shaoxing\" has quite a few free attractions. If possible, I’d like to visit those as well—saving some money would be great!\n\nAs for dining, I don’t have strict requirements. Just check what good local specialty restaurants are near the itinerary locations and recommend a few options.\n\nThat covers all my needs—I believe I’ve provided all the necessary information. Please go ahead and create a detailed travel plan for me. Thank you! November 12, 2025 is Wednesday",
+  "meta_info": {
+    "org": "Hangzhou",
+    "dest": [
+      "Shaoxing"
+    ],
+    "days": 2,
+    "depart_date": "2025-11-12",
+    "return_date": "2025-11-13",
+    "people_number": 2,
+    "room_number": 1
+  },
+  "hard_constraints": {
+    "train_departure_time_range": {
+      "constraint_context": "The departure train must leave between 6:00 AM and 7:00 AM",
+      "outbound_train_no": "G7713"
+    },
+    "hotel_star_service_required": {
+      "constraint_context": "Please select a 2-star hotel that offers TVs with screen mirroring capability",
+      "constraint_type": "superlative_star_service_required",
+      "hotel_name": "Home Inn Neo - Shaoxing Passenger Transport Center Lu Xun Native Place",
+      "required_service": "TV Casting",
+      "hotel_star": 2,
+      "hotel_price": 146.0
+    },
+    "attraction_all_free_attractions": {
+      "constraint_context": "The itinerary must include all the free attractions mentioned in the attraction recommendation tool",
+      "constraint_type": "superlative_all_free_attractions",
+      "attraction_names": [
+        "Lu Xun's Hometown",
+        "Shaoxing Museum",
+        "Bazhi Bridge",
+        "Xiyuan (West Garden)"
+      ],
+      "attraction_ratings": [
+        4.7,
+        4.7,
+        4.7,
+        4.6
+      ]
+    },
+    "attraction_all_of_type": {
+      "constraint_context": "Must-visit attractions: recommend all sites of type 'Natural Scenery' mentioned in the attraction recommendation tool",
+      "constraint_type": "superlative_all_of_type",
+      "attraction_names": [
+        "Keyan Scenic Area",
+        "Shaoxing East Lake Scenic Area"
+      ],
+      "attraction_type_cn": "自然风光",
+      "attraction_type": "Natural Scenery",
+      "attraction_ratings": [
+        4.7,
+        4.4
+      ]
+    }
+  }
+}

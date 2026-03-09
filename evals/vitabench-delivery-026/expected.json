@@ -1,0 +1,67 @@
+{
+  "required_orders": [
+    {
+      "order_id": "40711005T01",
+      "order_type": "delivery",
+      "user_id": "U000055",
+      "store_id": "S13446654125504467_S94507",
+      "note": "",
+      "location": {
+        "address": "Henan Digital Certificate Authentication Center, Building 2, Future International, No. 26 Business Inner Ring Road, Jinshui District, Zhengzhou City, Henan Province",
+        "longitude": 113.733659,
+        "latitude": 34.771419
+      },
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 19.0,
+      "create_time": "2024-11-28 18:58:00",
+      "update_time": "2024-11-28 18:58:00",
+      "status": "processed",
+      "products": [
+        {
+          "product_id": "S30851657772923813_P84076",
+          "price": 20.0,
+          "quantity": 1,
+          "attributes": ""
+        }
+      ]
+    },
+    {
+      "order_id": "40711005T02",
+      "order_type": "delivery",
+      "user_id": "U000055",
+      "store_id": "S14040631712091225_S61822",
+      "note": "",
+      "location": {
+        "address": "Henan Digital Certificate Authentication Center, Building 2, Future International, No. 26 Business Inner Ring Road, Jinshui District, Zhengzhou City, Henan Province",
+        "longitude": 113.733659,
+        "latitude": 34.771419
+      },
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 38.0,
+      "create_time": "2024-11-28 19:02:00",
+      "update_time": "2024-11-28 19:02:00",
+      "status": "processed",
+      "products": [
+        {
+          "product_id": "S15117001798616133_P52715",
+          "price": 38.0,
+          "quantity": 1,
+          "attributes": "Hot"
+        }
+      ]
+    }
+  ],
+  "rubrics": [
+    "The delivery address for the beef rice bowl order should be Henan Digital Certificate Authentication Center, Building 2, Future International, No. 26 Business Inner Ring Road, Jinshui District, Zhengzhou City, Henan Province",
+    "The delivery time for the beef rice bowl order should be before 2024-11-28 20:00:00",
+    "When selecting beef rice bowl products, items containing organ meats should be avoided",
+    "The delivery address for the flat white coffee order should be Henan Digital Certificate Authentication Center, Building 2, Future International, No. 26 Business Inner Ring Road, Jinshui District, Zhengzhou City, Henan Province",
+    "The delivery time for the flat white coffee order should be before 2024-11-28 20:00:00",
+    "When selecting flat white coffee, dark roast types such as Dark Roast Flat White should be avoided",
+    "When selecting flat white coffee, it should be served hot"
+  ]
+}

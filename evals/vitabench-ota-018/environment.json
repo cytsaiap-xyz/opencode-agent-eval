@@ -1,0 +1,247 @@
+{
+  "task_id": "70811006",
+  "domain": "ota",
+  "time": "2027-03-25 12:26:13",
+  "user_id": "U771552",
+  "weather": [
+    {
+      "city": "Wuhan",
+      "category": "cloudy",
+      "datetime": "2027-03-25",
+      "temperature": [
+        12,
+        18
+      ],
+      "humidity": 65
+    },
+    {
+      "city": "Ordos",
+      "category": "sandstorm",
+      "datetime": "2027-04-08",
+      "temperature": [
+        8,
+        15
+      ],
+      "humidity": 25
+    },
+    {
+      "city": "Zhongwei",
+      "category": "sunny",
+      "datetime": "2027-04-08",
+      "temperature": [
+        10,
+        22
+      ],
+      "humidity": 35
+    },
+    {
+      "city": "Yinchuan",
+      "category": "sunny",
+      "datetime": "2027-04-08",
+      "temperature": [
+        8,
+        20
+      ],
+      "humidity": 40
+    }
+  ],
+  "location": [
+    {
+      "address": "Kaile Garden, 108 Zhuodaoquan Road (Near East Gate of CCNU), Hongshan District, Wuhan, Hubei Province",
+      "longitude": 114.368821,
+      "latitude": 30.516023
+    },
+    {
+      "address": "Starlight Times, Intersection of Luoshi South Road and Wenhui Street (480m from Exit A of Wenzhi Street Metro Station), Hongshan District, Wuhan, Hubei Province",
+      "longitude": 114.351245,
+      "latitude": 30.498756
+    }
+  ],
+  "user_profile": {
+    "user id": "U771552",
+    "occupation": "Financial Manager",
+    "gender": "female",
+    "age group": "35~40",
+    "residence": "Wuhan",
+    "home address": "Kaile Garden, 108 Zhuodaoquan Road (Near East Gate of CCNU), Hongshan District, Wuhan, Hubei Province",
+    "work address": "Starlight Times, Intersection of Luoshi South Road and Wenhui Street (480m from Exit A of Wenzhi Street Metro Station), Hongshan District, Wuhan, Hubei Province",
+    "dietary restrictions": "Avoids high sugar, avoids fried food",
+    "family status": "Has children",
+    "personality": "Tends to be controlling and dominant, not easily accepting different opinions"
+  },
+  "user_historical_behaviors": {
+    "user id": "U771552",
+    "occupation": "Financial Manager",
+    "gender": "female",
+    "age group": "35~40",
+    "residence": "Wuhan",
+    "home address": "Kaile Garden, 108 Zhuodaoquan Road (Near East Gate of CCNU), Hongshan District, Wuhan, Hubei Province",
+    "work address": "Starlight Times, Intersection of Luoshi South Road and Wenhui Street (480m from Exit A of Wenzhi Street Metro Station), Hongshan District, Wuhan, Hubei Province",
+    "visited scenes": {
+      "Cultural & Historical Sites": "25%",
+      "Exhibition Halls (Museums/Art Galleries)": "20%",
+      "Natural Landscapes (Mountains/Lakes/Forests)": "15%",
+      "Theme Parks": "30%",
+      "Parks": "10%"
+    },
+    "cost per night on hotel": "500~1000 yuan",
+    "visited hotels": {
+      "Atour": "35%",
+      "Ji Hotel": "25%",
+      "Vienna Hotel": "20%",
+      "Home Inn": "10%",
+      "Huazhu": "10%"
+    },
+    "browsed hotels": {
+      "Four-star Hotels": "25%",
+      "Three-star Hotels": "30%",
+      "Comfort Hotels": "40%",
+      "Budget Hotels": "5%"
+    },
+    "historical travel plans": {
+      "Wuhan-Shanghai": {
+        "Price Range": "400-600 yuan",
+        "Transportation": "High-speed Rail/EMU (Electric Multiple Unit) Train"
+      },
+      "Wuhan-Beijing": {
+        "Price Range": "700-1200 yuan",
+        "Transportation": "High-speed Rail/EMU (Electric Multiple Unit) Train"
+      },
+      "Wuhan-Sanya": {
+        "Price Range": "1200-2000 yuan",
+        "Transportation": "Flight"
+      },
+      "Wuhan-Chengdu": {
+        "Price Range": "600-1000 yuan",
+        "Transportation": "Flight"
+      },
+      "Wuhan-Guangzhou": {
+        "Price Range": "400-600 yuan",
+        "Transportation": "High-speed Rail/EMU (Electric Multiple Unit) Train"
+      },
+      "Wuhan-Hangzhou": {
+        "Price Range": "350-550 yuan",
+        "Transportation": "High-speed Rail/EMU (Electric Multiple Unit) Train"
+      },
+      "Wuhan-Changsha": {
+        "Price Range": "150-250 yuan",
+        "Transportation": "High-speed Rail/EMU (Electric Multiple Unit) Train"
+      }
+    }
+  },
+  "stores": {},
+  "orders": {
+    "S17557505472901595_O00001": {
+      "order_id": "S17557505472901595_O00001",
+      "order_type": "attraction",
+      "user_id": "U771552",
+      "store_id": "S17557505472901595_A00005",
+      "note": "Two adult tickets, no additional activities included",
+      "location": {
+        "address": "Xiangshawan Tourist Area, Dalad Banner, Ordos, Inner Mongolia Autonomous Region",
+        "longitude": 109.991667,
+        "latitude": 40.189722
+      },
+      "dispatch_time": "",
+      "shipping_time": 0.0,
+      "delivery_time": "",
+      "total_price": 240.0,
+      "create_time": "2027-03-25 10:15:00",
+      "update_time": "2027-03-25 11:45:00",
+      "status": "cancelled",
+      "products": [
+        {
+          "product_id": "S17557505472901595_P00038",
+          "price": 120.0,
+          "quantity": 2,
+          "date": "2027-04-29",
+          "ticket_type": "Adult Ticket (Basic Admission, No Additional Activities)"
+        }
+      ]
+    },
+    "S17557505472901595_O00002": {
+      "order_id": "S17557505472901595_O00002",
+      "order_type": "hotel",
+      "user_id": "U771552",
+      "store_id": "S17557505472901595_H00001",
+      "note": "Atour Hotel reservation, desert view room",
+      "location": {
+        "address": "Atour Hotel Xiangshawan, Dalad Banner, Ordos, Inner Mongolia Autonomous Region",
+        "longitude": 109.991234,
+        "latitude": 40.189456
+      },
+      "dispatch_time": "",
+      "shipping_time": 0.0,
+      "delivery_time": "",
+      "total_price": 758.0,
+      "create_time": "2027-03-18 14:20:00",
+      "update_time": "2027-03-18 14:20:00",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17557505472901595_P00001",
+          "price": 758.0,
+          "quantity": 1,
+          "date": "2027-04-29",
+          "room_type": "Desert View King Room"
+        }
+      ]
+    },
+    "S17557505472901595_O00003": {
+      "order_id": "S17557505472901595_O00003",
+      "order_type": "hotel",
+      "user_id": "U771552",
+      "store_id": "S17557505472901595_H00003",
+      "note": "Vienna Hotel reservation, near Shapotou",
+      "location": {
+        "address": "Vienna Hotel Zhongwei Shapotou, Shapotou District, Zhongwei, Ningxia Hui Autonomous Region",
+        "longitude": 105.189722,
+        "latitude": 37.514167
+      },
+      "dispatch_time": "",
+      "shipping_time": 0.0,
+      "delivery_time": "",
+      "total_price": 688.0,
+      "create_time": "2027-03-15 16:30:00",
+      "update_time": "2027-03-15 16:30:00",
+      "status": "unpaid",
+      "products": [
+        {
+          "product_id": "S17557505472901595_P00023",
+          "price": 688.0,
+          "quantity": 1,
+          "date": "2027-04-29",
+          "room_type": "Desert View King Room"
+        }
+      ]
+    },
+    "S17557505472901595_O00004": {
+      "order_id": "S17557505472901595_O00004",
+      "order_type": "hotel",
+      "user_id": "U771552",
+      "store_id": "S17557505472901595_H00002",
+      "note": "Ji Hotel family room reservation",
+      "location": {
+        "address": "Ji Hotel Xiangshawan, Dalad Banner, Ordos, Inner Mongolia Autonomous Region",
+        "longitude": 109.992345,
+        "latitude": 40.188765
+      },
+      "dispatch_time": "",
+      "shipping_time": 0.0,
+      "delivery_time": "",
+      "total_price": 980.0,
+      "create_time": "2027-02-10 19:45:00",
+      "update_time": "2027-02-10 19:45:00",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17557505472901595_P00020",
+          "price": 980.0,
+          "quantity": 1,
+          "date": "2027-03-15",
+          "room_type": "Family Room"
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,82 @@
+{
+  "required_orders": [
+    {
+      "order_id": "10811002T001",
+      "order_type": "delivery",
+      "user_id": "U337902",
+      "store_id": "S17550802145725256_S00003",
+      "note": "",
+      "location": {
+        "address": "Harbin Institute of Technology Student Dormitory Building 3, 74 Xuefu Road, Nangang District, Harbin",
+        "longitude": 126.634211,
+        "latitude": 45.743435
+      },
+      "dispatch_time": "2025-05-31 17:28:00",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 48,
+      "create_time": "2025-05-31 17:17:00",
+      "update_time": "2025-05-31 17:17:00",
+      "status": "in-progress",
+      "products": [
+        {
+          "product_id": "S17550802145725256_P00013",
+          "price": 48,
+          "quantity": 1,
+          "name": "Sushi Platter",
+          "attributes": ""
+        }
+      ]
+    },
+    {
+      "book_id": "10811002T002",
+      "shop_id": "S17550802145725256_I00011",
+      "book_time": "2025-06-01 11:30:00",
+      "update_time": "2025-05-31 17:19:00",
+      "customer_id": "U337902",
+      "customer_count": 2,
+      "book_price": 0,
+      "status": "paid"
+    },
+    {
+      "order_id": "10811002T003",
+      "order_type": "flight",
+      "user_id": "U337902",
+      "store_id": "S17550802145725256_F00009",
+      "note": "",
+      "location": null,
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 980,
+      "create_time": "2025-05-31 17:22:00",
+      "update_time": "2025-05-31 17:22:00",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17550802145725256_P00045",
+          "price": 980,
+          "quantity": 1,
+          "date": "2025-06-04",
+          "seat_type": "Economy Class"
+        }
+      ]
+    }
+  ],
+  "rubrics": [
+    "Food delivery order items should be Japanese cuisine",
+    "Food delivery order items must include rice",
+    "Food delivery order items cannot be raw food",
+    "Food delivery order items should be a single portion",
+    "Estimated delivery time for the food delivery order is May 31, 2025, 17:15-18:15",
+    "Delivery address for the food delivery order is Harbin Institute of Technology Student Dormitory Building 3, 74 Xuefu Road, Nangang District, Harbin",
+    "The reserved restaurant should be within 2km of the Main Teaching Building of Harbin Institute of Technology, 92 Xuefu Road, Nangang District, Harbin",
+    "The reserved restaurant should be a Chinese Cuisine restaurant",
+    "The reserved restaurant should have Private Room or Booth Seating",
+    "The reserved restaurant should include dishes that are not Heavy Oil Spicy",
+    "The restaurant reservation time should be June 1, 2025, 11:30",
+    "The restaurant reservation should be for 2 Persons",
+    "The outbound flight date should be between June 1, 2025, 14:30 and June 4, 2025",
+    "The cheapest flight ticket should be selected"
+  ]
+}

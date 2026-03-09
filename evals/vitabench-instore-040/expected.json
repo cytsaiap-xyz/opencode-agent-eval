@@ -1,0 +1,101 @@
+{
+  "required_orders": [
+    {
+      "order_id": "10826032T001",
+      "order_type": "instore",
+      "user_id": "U945459",
+      "store_id": "S17564424748542977_I00002",
+      "note": "",
+      "location": null,
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 168,
+      "create_time": "2025-05-08 11:47:00",
+      "update_time": "2025-05-08 11:47:00",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17564424748542977_P00006",
+          "name": "Kérastase Oil Treatment Styling Package",
+          "price": 168,
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "reservation_id": "10826032T002",
+      "shop_id": "S17564424748542977_I00002",
+      "reservation_time": "2025-05-08 12:10:00",
+      "update_time": "2025-05-08 11:48:00",
+      "customer_id": "U945459",
+      "customer_count": 1,
+      "status": "paid"
+    },
+    {
+      "order_id": "10826032T003",
+      "order_type": "instore",
+      "user_id": "U945459",
+      "store_id": "S17564424748542977_I00004",
+      "note": "",
+      "location": null,
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 42,
+      "create_time": "2025-05-08 11:50:00",
+      "update_time": "2025-05-08 11:50:00",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17564424748542977_P00016",
+          "name": "Poached Chicken + Rice Single Person Set",
+          "price": 42,
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "order_id": "10826032T004",
+      "order_type": "instore",
+      "user_id": "U945459",
+      "store_id": "S17564424748542977_I00006",
+      "note": "",
+      "location": null,
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 68,
+      "create_time": "2025-05-08 11:55:00",
+      "update_time": "2025-05-08 11:55:00",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17564424748542977_P00025",
+          "name": "Selected Five-Fruit Platter (Apple + Orange + Kiwi + Dragon Fruit + Mango)",
+          "price": 68,
+          "quantity": 1
+        }
+      ]
+    }
+  ],
+  "rubrics": [
+    "The hair salon should be within 500 meters of Room 801, 8th Floor, Shaoxing Chamber of Commerce Building, 365 Victory East Road, Yuecheng District, Shaoxing, Zhejiang Province",
+    "The hair salon's rating should be 4.0 or above",
+    "The ordered service at the hair salon should include Essential Oil Treatment",
+    "The ordered service at the hair salon should include Styling service",
+    "The essential oil brand used in the Essential Oil Treatment service must be Kérastase or Schwarzkopf",
+    "The price of the ordered service at the hair salon should be 200 yuan or less",
+    "The ordered service at the hair salon should be available for use on May 8, 2025, at 12:10",
+    "The appointment time at the hair salon should be May 8, 2025, at 12:10",
+    "The appointment at the hair salon should be for 1 person",
+    "The appointed hair salon should be Hair Story",
+    "The dine-in restaurant should be within 1 kilometer of Room 801, 8th Floor, Shaoxing Chamber of Commerce Building, 365 Victory East Road, Yuecheng District, Shaoxing, Zhejiang Province",
+    "The ordered food at the restaurant should be a single person meal",
+    "The ordered food at the restaurant should not contain high purine ingredients",
+    "The ordered food at the restaurant should not be spicy",
+    "The fruit store should be within 500 meters of Room 801, 8th Floor, Shaoxing Chamber of Commerce Building, 365 Victory East Road, Yuecheng District, Shaoxing, Zhejiang Province",
+    "The ordered items from the fruit store should include at least 5 types of fruits",
+    "The price of the ordered items from the fruit store should not exceed 100 yuan"
+  ]
+}

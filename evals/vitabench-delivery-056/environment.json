@@ -1,0 +1,365 @@
+{
+  "task_id": "C0715003",
+  "domain": "delivery",
+  "time": "2025-09-22 13:37:36",
+  "user_id": "U000048",
+  "weather": [
+    {
+      "city": "Chengdu City",
+      "category": "sunny",
+      "datetime": "2025-09-22",
+      "temperature": [
+        16,
+        24
+      ],
+      "humidity": 55
+    }
+  ],
+  "location": [
+    {
+      "address": "Building B, Tencent Chengdu Building, Yunhua Road, Wuhou District, Chengdu, Sichuan Province",
+      "longitude": 104.061326,
+      "latitude": 30.54574
+    }
+  ],
+  "user_profile": {
+    "user id": "U000048",
+    "occupation": "Algorithm Engineer",
+    "gender": "male",
+    "age group": "25~30",
+    "residence": "Chengdu",
+    "home address": "Poly Creative Wisdom City, No. 268 Fulong North Lane, Shuangliu District, Chengdu, Sichuan Province",
+    "work address": "Building B, Tencent Chengdu Building, Yunhua Road, Wuhou District, Chengdu, Sichuan Province",
+    "dietary restrictions": "No caffeine",
+    "family status": "In a relationship",
+    "personality": "Emotionally volatile, expresses with strong emotional tone"
+  },
+  "user_historical_behaviors": {
+    "user id": "U000048",
+    "occupation": "Algorithm Engineer",
+    "gender": "male",
+    "age group": "25~30",
+    "residence": "Chengdu",
+    "home address": "Poly Innovative Smart City, No. 268 Fulong North Lane, Shuangliu District, Chengdu, Sichuan Province",
+    "work address": "Building B, Tencent Chengdu Building, Yunhua Road, Wuhou District, Chengdu, Sichuan Province",
+    "breakfast": {
+      "frequently purchased categories": [
+        "Quick Meals/Buns/Pan-fried Buns (Average 18 yuan)",
+        "Quick Meals/Dumplings/Wonton (Average 22 yuan)",
+        "Quick Meals/Jianbing/Wraps/Hand-grabbed Pancakes (Average 15 yuan)"
+      ],
+      "cost per order": "15~30 yuan",
+      "preferred store rating": "4.2~4.8 stars",
+      "preferred delivery time": "15~30 minutes",
+      "preferred distance": "0~2500m",
+      "recent orders": [
+        {
+          "store": "Tianfu Breakfast Shop",
+          "product": "Pork Buns + Soy Milk"
+        },
+        {
+          "store": "Old Chengdu Hand-grabbed Pancakes",
+          "product": "Bacon and Egg Hand-grabbed Pancake"
+        },
+        {
+          "store": "Zhou's Small Wontons",
+          "product": "Pork Small Wontons"
+        }
+      ],
+      "search history": [
+        "Soy milk",
+        "Buns",
+        "Breakfast",
+        "Fast food",
+        "Hand-grabbed pancake"
+      ]
+    },
+    "weekday lunch/dinner": {
+      "frequently purchased categories": [
+        "Quick Meals/Rice with Toppings (Average 32 yuan)",
+        "Quick Meals/Light Food (Average 45 yuan)",
+        "Quick Meals/Small Dishes (Average 38 yuan)"
+      ],
+      "cost per order": "30~60 yuan",
+      "preferred store rating": "4.3~4.9 stars",
+      "preferred delivery time": "20~35 minutes",
+      "preferred distance": "0~3000m",
+      "recent orders": [
+        {
+          "store": "Mr. Salad",
+          "product": "Avocado Chicken Breast Salad"
+        },
+        {
+          "store": "Health Youth",
+          "product": "Low-fat Chicken Breast Bento"
+        },
+        {
+          "store": "Macau Chen Guangji Roast Restaurant (Yuanda Branch)",
+          "product": "Black Pepper Roast Duck Rice (Drink Included)"
+        }
+      ],
+      "search history": [
+        "Healthy meal",
+        "Light food",
+        "Low-fat",
+        "Salad",
+        "Small dishes"
+      ]
+    },
+    "weekend lunch/dinner": {
+      "frequently purchased categories": [
+        "Chinese Cuisine/Sichuan Cuisine (Average 88 yuan)",
+        "International Flavors/Japanese Bento/Sushi (Average 95 yuan)",
+        "International Flavors/Pasta (Average 78 yuan)"
+      ],
+      "cost per order": "70~150 yuan",
+      "preferred store rating": "4.5~5.0 stars",
+      "preferred delivery time": "25~45 minutes",
+      "preferred distance": "0~5000m",
+      "recent orders": [
+        {
+          "store": "Xiao Ye Sushi",
+          "product": "Salmon Sashimi Set"
+        },
+        {
+          "store": "Chengdu Impression",
+          "product": "Mapo Tofu + Boiled Fish Slices"
+        },
+        {
+          "store": "Pasta Workshop",
+          "product": "Black Pepper Steak Pasta"
+        }
+      ],
+      "search history": [
+        "Japanese cuisine",
+        "Sushi",
+        "Sichuan cuisine",
+        "Pasta",
+        "Steak",
+        "Couple set"
+      ]
+    },
+    "desserts/drinks/snacks": {
+      "frequently purchased categories": [
+        "Drinks & Desserts/Fresh Fruit Juice (Average 20 yuan)",
+        "Drinks & Desserts/Fruit Mix (Average 32 yuan)",
+        "Drinks & Desserts/Cold Desserts (Average 25 yuan)"
+      ],
+      "cost per order": "15~40 yuan",
+      "preferred store rating": "4.4~4.8 stars",
+      "preferred delivery time": "15~30 minutes",
+      "preferred distance": "0~3000m",
+      "recent orders": [
+        {
+          "store": "Cha Bai Dao",
+          "product": "Watermelon Bubble"
+        },
+        {
+          "store": "Fresh Cut Fruit Mix",
+          "product": "Mango Pomelo Sago Fruit Mix"
+        },
+        {
+          "store": "Mixue Ice Cream",
+          "product": "Lemonade"
+        }
+      ],
+      "search history": [
+        "Fresh fruit juice",
+        "Fruit yogurt",
+        "Fresh fruit mix",
+        "Ice cream",
+        "Lemonade"
+      ]
+    },
+    "night snack": {
+      "frequently purchased categories": [
+        "Snacks & Braised Foods/Bobo Chicken (Average 42 yuan)",
+        "Quick Meals/Liuzhou Snail Rice Noodles (Average 28 yuan)",
+        "Quick Meals/Rice Noodles/Rice Vermicelli (Average 25 yuan)"
+      ],
+      "cost per order": "25~50 yuan",
+      "preferred store rating": "4.2~4.7 stars",
+      "preferred delivery time": "20~40 minutes",
+      "preferred distance": "0~3500m",
+      "recent orders": [
+        {
+          "store": "Shu Xiang Bobo Chicken",
+          "product": "Signature Bobo Chicken (Mildly Spicy)"
+        },
+        {
+          "store": "Xi Luo Hui",
+          "product": "Signature Snail Rice Noodles (No Cilantro)"
+        },
+        {
+          "store": "Yunnan Crossing Bridge Rice Noodles",
+          "product": "Clear Soup Rice Noodles"
+        }
+      ],
+      "search history": [
+        "Bobo chicken",
+        "Rice noodles",
+        "Non-spicy night snack",
+        "Light night snack",
+        "Low purine"
+      ]
+    }
+  },
+  "stores": {
+    "S30429076779051471_S54922": {
+      "name": "Yue Xiao Guan Roast Goose (Lanrun Plaza Branch · Roast Meat Rice)",
+      "store_id": "S30429076779051471_S54922",
+      "score": 4.8,
+      "location": {
+        "address": "Yue Xiao Guan Roast Goose (Lanrun Plaza Branch), No. 125, 1st Floor, Building 2, No. 1 Section 1, Huafu Avenue, Huayang, Tianfu New District, Shuangliu District, Chengdu, Sichuan Province",
+        "latitude": 30.526045,
+        "longitude": 104.066809
+      },
+      "tags": [],
+      "products": [
+        {
+          "name": "Roast Duck and Char Siu Combo Rice + Special Soup",
+          "store_id": "S30429076779051471_S54922",
+          "store_name": "Yue Xiao Guan Roast Goose (Lanrun Plaza Branch · Roast Meat Rice)",
+          "price": 29.8,
+          "tags": [],
+          "product_id": "S86414532350831970_P92398",
+          "attributes": [],
+          "quantity": 9999
+        }
+      ]
+    },
+    "S28404261973362267_S09257": {
+      "name": "Jianbing Story (Tofu Pudding · Soy Milk · Porridge · Huayang Branch)",
+      "store_id": "S28404261973362267_S09257",
+      "score": 4.8,
+      "location": {
+        "address": "Jianbing Story (100 meters west of the intersection of Fulong East Street and South Yizhou Avenue, Shuangliu District, Chengdu, Sichuan Province)",
+        "latitude": 30.530691,
+        "longitude": 104.055865
+      },
+      "tags": [],
+      "products": [
+        {
+          "name": "Deluxe\" Egg Pancake (Tenderloin + Chicken Strips + Bacon + Grilled Sausage + Ham Sausage)",
+          "store_id": "S28404261973362267_S09257",
+          "store_name": "Jianbing Story (Tofu Pudding · Soy Milk · Porridge · Huayang Branch)",
+          "price": 27.8,
+          "tags": [],
+          "product_id": "S15458320778579145_P28238",
+          "attributes": [],
+          "quantity": 9999
+        }
+      ]
+    },
+    "S23994608887292912_S85375": {
+      "name": "Macau Chen Guangji Roast Restaurant (Yuanda Branch)",
+      "store_id": "S23994608887292912_S85375",
+      "score": 4.9,
+      "location": {
+        "address": "Macau Chen Guangji Roast Restaurant (Yuanda Branch), 4th Floor, Building A, Yuanda Shopping Center, No. 255 South Tianfu Avenue, High-tech Zone, Shuangliu District, Chengdu, Sichuan Province",
+        "latitude": 40.022337,
+        "longitude": 116.467939
+      },
+      "tags": [],
+      "products": [
+        {
+          "name": "Black Pepper Roast Duck Rice (Drink Included)",
+          "product_id": "S82360405154417310_P80515",
+          "store_id": "S23994608887292912_S85375",
+          "store_name": "Macau Chen Guangji Roast Restaurant (Yuanda Branch)",
+          "price": 35,
+          "tags": [],
+          "attributes": [],
+          "quantity": 9999
+        },
+        {
+          "name": "Black Pepper Roast Duck with Fatty Char Siu Rice (Drink Included)",
+          "product_id": "S26601264842008167_P70776",
+          "store_id": "S23994608887292912_S85375",
+          "store_name": "Macau Chen Guangji Roast Restaurant (Yuanda Branch)",
+          "price": 42,
+          "tags": [],
+          "attributes": [],
+          "quantity": 9999
+        }
+      ]
+    },
+    "S26796339676380790_S32039": {
+      "name": "Chao-Yue Food Court",
+      "store_id": "S26796339676380790_S32039",
+      "score": 4.8,
+      "location": {
+        "address": "Section 2, Caishu Street, Shuangliu District, Chengdu, Sichuan Province",
+        "latitude": 30.518329,
+        "longitude": 104.053465
+      },
+      "tags": [],
+      "products": [
+        {
+          "name": "Roast Duck with Char Siu Pork",
+          "product_id": "S52512038008923366_P10607",
+          "store_id": "S26796339676380790_S32039",
+          "store_name": "Chao-Yue Food Court",
+          "price": 37,
+          "tags": [],
+          "attributes": [],
+          "quantity": 9999
+        }
+      ]
+    },
+    "S30905198088949000_S34973": {
+      "name": "Chuangshan Gold Medal Roast Goose (Chengdu Intime City Branch)",
+      "store_id": "S30905198088949000_S34973",
+      "score": 4.8,
+      "location": {
+        "address": "Chuangshan Gold Medal Roast Goose, 1st Floor, No. 145 Jitai Road, Wuhou District, Chengdu, Sichuan Province",
+        "latitude": 30.539615,
+        "longitude": 104.060518
+      },
+      "tags": [],
+      "products": [
+        {
+          "name": "Crispy Roast Duck Rice",
+          "product_id": "S14238275581572820_P03551",
+          "store_id": "S30905198088949000_S34973",
+          "store_name": "Chuangshan Gold Medal Roast Goose (Chengdu Intime City Branch)",
+          "price": 26.8,
+          "tags": [
+            "Savory"
+          ],
+          "attributes": [],
+          "quantity": 9999
+        }
+      ]
+    }
+  },
+  "orders": {
+    "C0715003O01": {
+      "order_id": "C0715003O01",
+      "order_type": "delivery",
+      "user_id": "U000048",
+      "store_id": "S28404261973362267_S09257",
+      "note": "",
+      "location": {
+        "address": "Building B, Tencent Chengdu Building, Yunhua Road, Wuhou District, Chengdu, Sichuan Province",
+        "longitude": 104.061326,
+        "latitude": 30.54574
+      },
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 27.8,
+      "create_time": "2025-09-22 13:35:00",
+      "update_time": "2025-09-22 13:35:00",
+      "status": "unpaid",
+      "products": [
+        {
+          "product_id": "S15458320778579145_P28238",
+          "price": 27.8,
+          "quantity": 1,
+          "attributes": ""
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,105 @@
+{
+  "required_orders": [
+    {
+      "order_id": "A0811004T001",
+      "order_type": "instore",
+      "user_id": "U066309",
+      "store_id": "S17550810285799690_I00008",
+      "note": "",
+      "location": null,
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 1119,
+      "create_time": "2024-08-21 13:05:17",
+      "update_time": "2024-08-21 13:05:17",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17550810285799690_P00048",
+          "name": "Party package (13-15 people)",
+          "price": 1119,
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "book_id": "A0811004T004",
+      "shop_id": "S17550810285799690_I00008",
+      "book_time": "2024-08-23 18:00:00",
+      "update_time": "2024-08-21 13:06:17",
+      "customer_id": "U066309",
+      "customer_count": 13,
+      "book_price": 50,
+      "status": "paid"
+    },
+    {
+      "order_id": "A0811004T002",
+      "order_type": "attraction",
+      "user_id": "U066309",
+      "store_id": "S17550810285799690_A00005",
+      "note": "",
+      "location": null,
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 1800,
+      "create_time": "2024-08-21 13:08:17",
+      "update_time": "2024-08-21 13:08:17",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17550810285799690_P00024",
+          "price": 1800,
+          "quantity": 1,
+          "date": "2024-08-26",
+          "ticket_type": "Group ticket (valid for up to 15 people)"
+        }
+      ]
+    },
+    {
+      "order_id": "A0811004T003",
+      "order_type": "delivery",
+      "user_id": "U066309",
+      "store_id": "S17550810285799690_S00001",
+      "note": "",
+      "location": {
+        "address": "15th Floor, Yunnan Image Business Center, 448 Youth Road, Wuhua District, Kunming, Yunnan Province",
+        "longitude": 102.7076,
+        "latitude": 25.0461
+      },
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 3499,
+      "create_time": "2024-08-21 13:11:17",
+      "update_time": "2024-08-21 13:11:17",
+      "status": "unpaid",
+      "products": [
+        {
+          "product_id": "S17550810285799690_P00002",
+          "price": 3499,
+          "quantity": 1,
+          "name": "DJI Pocket 3 Standard Edition",
+          "attributes": ""
+        }
+      ]
+    }
+  ],
+  "rubrics": [
+    "The restaurant's parking lot needs to provide 20 or more parking spaces",
+    "The ordered items from the restaurant should be suitable for 13 people",
+    "The price of ordered items from the restaurant should be less than 1560 yuan",
+    "The ordered items from the restaurant should include main course",
+    "The ordered items from the restaurant cannot contain alcohol",
+    "The reserved restaurant is Yunnan Image Restaurant (Dianchi Road Branch)",
+    "The restaurant reservation time is August 23, 2024, 18:00",
+    "The number of people for the restaurant reservation is 13",
+    "The usage date of the ordered item from the live performance theater is August 26, 2024",
+    "The ordered item from the live performance theater is a group ticket (valid for up to 15 people)",
+    "The ordered delivery item is Pocket 3",
+    "The ordered delivery item should come from a well-known chain shop",
+    "The delivery address for the takeout order is 15th Floor, Yunnan Image Business Center, 448 Youth Road, Wuhua District, Kunming, Yunnan Province",
+    "The estimated delivery time for the takeout order is August 21, 2024, 15:00"
+  ]
+}

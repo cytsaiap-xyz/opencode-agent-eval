@@ -1,0 +1,368 @@
+{
+  "task_id": "E0721002",
+  "domain": "delivery",
+  "time": "2026-09-17 11:02:00",
+  "user_id": "U000040",
+  "weather": [
+    {
+      "city": "Yantai City",
+      "category": "cloudy",
+      "datetime": "2026-09-17",
+      "temperature": [
+        24,
+        29
+      ],
+      "humidity": 72
+    }
+  ],
+  "location": [
+    {
+      "address": "Haiyue Building, No.590 Gangcheng East Street, Laishan District, Yantai, Shandong Province",
+      "longitude": 121.451063,
+      "latitude": 37.459121
+    }
+  ],
+  "user_profile": {
+    "user id": "U000040",
+    "occupation": "Actress",
+    "gender": "female",
+    "age group": "20~25",
+    "residence": "Yantai",
+    "home address": "Jinxiangtai·Wenxin Jiayuan, No.19 Zhichu Road, Fenghuangtai Street, Zhifu District, Yantai, Shandong Province",
+    "work address": "Haiyue Building, No.590 Gangcheng East Street, Laishan District, Yantai, Shandong Province",
+    "dietary restrictions": "No high sugar, No oil",
+    "family status": "Living alone",
+    "personality": "Extremely detail-oriented, tends to be picky and dissatisfied"
+  },
+  "user_historical_behaviors": {
+    "user id": "U000040",
+    "occupation": "Actress",
+    "gender": "female",
+    "age group": "20~25",
+    "residence": "Yantai",
+    "home address": "Jinxiangtai Warm Home, No.19 Zhichu Road, Fenghuangtai Street, Zhifu District, Yantai, Shandong Province",
+    "work address": "Haiyue Building, No.590 Gangcheng East Street, Laishan District, Yantai, Shandong Province",
+    "breakfast": {
+      "frequently purchased categories": [
+        "Quick Meals/Light Food (Average ¥35)",
+        "Quick Meals/Salad (Average ¥32)",
+        "Quick Meals/Baozi/Shengjianbao (Average ¥22)"
+      ],
+      "cost per order": "¥15~40",
+      "preferred store rating": "4.5~4.9 stars",
+      "preferred delivery time": "15~25 minutes",
+      "preferred distance": "0~1500m",
+      "recent orders": [
+        {
+          "store": "Light Food Life",
+          "product": "Whole Wheat Bread + Fried Egg (Oil-free)"
+        },
+        {
+          "store": "Fresh Fruit & Vegetable Juice",
+          "product": "Vegetable Grain Porridge + Boiled Egg"
+        },
+        {
+          "store": "Jiahe Yipin",
+          "product": "Steamed Bun + Low-sugar Soy Milk"
+        }
+      ],
+      "search history": [
+        "Low-sugar breakfast",
+        "Vegetable salad",
+        "Healthy porridge",
+        "Multigrain pancake",
+        "Steamed bun"
+      ]
+    },
+    "weekday lunch/dinner": {
+      "frequently purchased categories": [
+        "Quick Meals/Healthy Meals (Average ¥35)",
+        "Chinese Cuisine/Shandong Cuisine (Average ¥60)",
+        "International Flavor/Stone Bowl Rice/Teppanyaki Rice (Average ¥50)"
+      ],
+      "cost per order": "¥25~75",
+      "preferred store rating": "4.3~4.9 stars",
+      "preferred delivery time": "20~45 minutes",
+      "preferred distance": "0~3000m",
+      "recent orders": [
+        {
+          "store": "Magic Salad (Baolong Plaza)",
+          "product": "Double Meat Hot Braised Beef & Chicken Breast Vegetable Salad Beef"
+        },
+        {
+          "store": "Shandong Flavor House",
+          "product": "Steamed Bass (Less Oil) + Seasonal Vegetables"
+        },
+        {
+          "store": "Seoul Korean Cuisine",
+          "product": "Low-oil Stone Bowl Bibimbap"
+        }
+      ],
+      "search history": [
+        "Low-fat lunch",
+        "Healthy work meal",
+        "Steamed fish",
+        "Steamed dishes",
+        "Korean stone bowl rice"
+      ]
+    },
+    "weekend lunch/dinner": {
+      "frequently purchased categories": [
+        "International Flavor/Japanese Bento/Sushi (Average ¥85)",
+        "Chinese Cuisine/Cantonese Cuisine (Average ¥120)",
+        "International Flavor/Thai Cuisine (Average ¥100)"
+      ],
+      "cost per order": "¥70~150",
+      "preferred store rating": "4.6~5.0 stars",
+      "preferred delivery time": "25~45 minutes",
+      "preferred distance": "0~5000m",
+      "recent orders": [
+        {
+          "store": "Seasonal Japanese Cuisine",
+          "product": "Salmon Sashimi Platter"
+        },
+        {
+          "store": "Cantonese Delights",
+          "product": "Steamed Sole Fish + Choy Sum"
+        },
+        {
+          "store": "Thai Royal Cuisine",
+          "product": "Tom Yum Soup with Seafood"
+        }
+      ],
+      "search history": [
+        "Japanese cuisine",
+        "Steamed seafood",
+        "Thai food",
+        "Oil-free cooking",
+        "Healthy feast"
+      ]
+    },
+    "desserts/drinks/snacks": {
+      "frequently purchased categories": [
+        "Beverages & Desserts/Pure Tea/Herbal Tea (Average ¥25)",
+        "Beverages & Desserts/Fruit Salad (Average ¥32)",
+        "Beverages & Desserts/Cold Desserts (Average ¥28)"
+      ],
+      "cost per order": "¥15~40",
+      "preferred store rating": "4.4~4.9 stars",
+      "preferred delivery time": "15~30 minutes",
+      "preferred distance": "0~2500m",
+      "recent orders": [
+        {
+          "store": "Fresh Fruit Workshop",
+          "product": "Fruit Salad (Sugar-free)"
+        },
+        {
+          "store": "Tea Aesthetics",
+          "product": "Sugar-free Green Tea"
+        },
+        {
+          "store": "Light Sweet Philosophy",
+          "product": "Low-sugar Yogurt Jelly"
+        }
+      ],
+      "search history": [
+        "Sugar-free tea",
+        "Fruit salad",
+        "Low-sugar desserts",
+        "Sugar-free yogurt",
+        "Fresh fruit tea"
+      ]
+    },
+    "night snack": {
+      "frequently purchased categories": [
+        "Quick Meals/Small Dishes/Portion Meals (Average ¥45)",
+        "Snacks & Braised Foods/Braised Items (Average ¥38)"
+      ],
+      "cost per order": "¥30~55",
+      "preferred store rating": "4.3~4.8 stars",
+      "preferred delivery time": "20~35 minutes",
+      "preferred distance": "0~2500m",
+      "recent orders": [
+        {
+          "store": "Fresh Vegetable Bistro",
+          "product": "Cold Mixed Shredded Vegetables + Boiled Greens"
+        },
+        {
+          "store": "Secret Recipe Braised Food",
+          "product": "Braised Chicken Breast (Oil-free)"
+        },
+        {
+          "store": "Worry-free Night Food",
+          "product": "Chicken Breast Salad"
+        }
+      ],
+      "search history": [
+        "Healthy night snack",
+        "Low-fat braised food",
+        "Boiled vegetables",
+        "Steamed dishes",
+        "Cold mixed vegetables"
+      ]
+    }
+  },
+  "stores": {
+    "S24847536756058661_S98390": {
+      "name": "Magic Salad (Baolong Plaza)",
+      "store_id": "S24847536756058661_S98390",
+      "score": 4.9,
+      "location": {
+        "address": "No.203, Building 1, No.198 Yingchun Street, Chujia Street, Laishan District, Yantai, Shandong Province",
+        "latitude": 37.456291,
+        "longitude": 121.436041
+      },
+      "tags": [],
+      "products": [
+        {
+          "name": "Double Meat Hot Braised Beef & Chicken Breast Vegetable Salad Beef",
+          "store_id": "S24847536756058661_S98390",
+          "store_name": "Magic Salad (Baolong Plaza)",
+          "price": 27.8,
+          "tags": [
+            "Generous Portion"
+          ],
+          "product_id": "S30591239557390280_P60779",
+          "attributes": [
+            "Honey Mustard Dressing",
+            "Pickle Thousand Island Dressing",
+            "Almond Sesame Sauce",
+            "Apple Vinaigrette",
+            "Spicy Pepper Vinaigrette",
+            "Extra Spicy Garlic Bell Pepper Sauce",
+            "Avocado Fresh Sauce",
+            "Sea Salt Black Pepper",
+            "Parsley Garlic Salt",
+            "No Sauce Needed"
+          ],
+          "quantity": 9999
+        },
+        {
+          "name": "Double Meat Salad + Kale Apple Juice Fat Reduction Set",
+          "product_id": "S11064777595221146_P94779",
+          "store_id": "S24847536756058661_S98390",
+          "store_name": "Magic Salad (Baolong Plaza)",
+          "price": 46.7,
+          "tags": [],
+          "attributes": [],
+          "quantity": 9999
+        },
+        {
+          "name": "Sicilian Roasted Chicken Leg Salad",
+          "product_id": "S24962880392794579_P22892",
+          "store_id": "S24847536756058661_S98390",
+          "store_name": "Magic Salad (Baolong Plaza)",
+          "price": 26.8,
+          "tags": [],
+          "attributes": [],
+          "quantity": 9999
+        }
+      ]
+    },
+    "S28589198334368358_S78525": {
+      "name": "Gourmet's Tiptoe Beef Soup with Rice (Laishan Store)",
+      "store_id": "S28589198334368358_S78525",
+      "score": 4.8,
+      "location": {
+        "address": "Room 204, Building 3, No.198 Yingchun Street, Chujia Street, Laishan District, Yantai, Shandong Province",
+        "latitude": 37.456012,
+        "longitude": 121.437683
+      },
+      "tags": [],
+      "products": [
+        {
+          "name": "[Signature Dish·Single Meal] Tiptoe Beef + Rice (with Dry Dipping)",
+          "store_id": "S28589198334368358_S78525",
+          "store_name": "Gourmet's Tiptoe Beef Soup with Rice (Laishan Store)",
+          "price": 28.8,
+          "tags": [],
+          "product_id": "S14184585097927965_P84004",
+          "attributes": [],
+          "quantity": 9999
+        },
+        {
+          "name": "Master, I want it spicier",
+          "store_id": "S28589198334368358_S78525",
+          "store_name": "Gourmet's Tiptoe Beef Soup with Rice (Laishan Store)",
+          "price": 0,
+          "tags": [],
+          "product_id": "S13834984990585068_P44986",
+          "attributes": [],
+          "quantity": 9999
+        },
+        {
+          "name": "Tiptoe Beef (Without Rice)",
+          "product_id": "S31581299562998018_P49734",
+          "store_id": "S28589198334368358_S78525",
+          "store_name": "Gourmet's Tiptoe Beef Soup with Rice (Laishan Store)",
+          "price": 24.8,
+          "tags": [],
+          "attributes": [],
+          "quantity": 9999
+        },
+        {
+          "name": "Tiptoe Beef (Cooked Together)",
+          "product_id": "S62147995891962325_P47977",
+          "store_id": "S28589198334368358_S78525",
+          "store_name": "Gourmet's Tiptoe Beef Soup with Rice (Laishan Store)",
+          "price": 10,
+          "tags": [],
+          "attributes": [],
+          "quantity": 9999
+        }
+      ]
+    },
+    "S22729488195383305_S45262": {
+      "name": "Jin's Fitness Nutrition Meal·Light Food (Yantai Baolong Plaza)",
+      "store_id": "S22729488195383305_S45262",
+      "score": 4.9,
+      "location": {
+        "address": "3-110-1, Baolong Plaza, Chujia Street, Laishan District, Yantai, Shandong Province",
+        "latitude": 37.456275,
+        "longitude": 121.436975
+      },
+      "tags": [],
+      "products": [
+        {
+          "name": "Meat Lover🥩 Chicken & Beef Combo Fresh Vegetable Salad",
+          "product_id": "S82128397988697194_P80780",
+          "store_id": "S22729488195383305_S45262",
+          "store_name": "Jin's Fitness Nutrition Meal·Light Food (Yantai Baolong Plaza)",
+          "price": 27.88,
+          "tags": [],
+          "attributes": [],
+          "quantity": 9999
+        }
+      ]
+    }
+  },
+  "orders": {
+    "E0721002O01": {
+      "order_id": "E0721002O01",
+      "order_type": "delivery",
+      "user_id": "U000040",
+      "store_id": "S24847536756058661_S98390",
+      "note": "",
+      "location": {
+        "address": "Haiyue Building, No.590 Gangcheng East Street, Laishan District, Yantai, Shandong Province",
+        "longitude": 121.451063,
+        "latitude": 37.459121
+      },
+      "dispatch_time": "2026-09-15 17:45:00",
+      "shipping_time": 42,
+      "delivery_time": "2026-09-15 18:27:00",
+      "total_price": 27.8,
+      "create_time": "2026-09-15 17:26:00",
+      "update_time": "2026-09-15 17:26:00",
+      "status": "delivered",
+      "products": [
+        {
+          "product_id": "S30591239557390280_P60779",
+          "price": 27.8,
+          "quantity": 1,
+          "attributes": "No sauce needed"
+        }
+      ]
+    }
+  }
+}

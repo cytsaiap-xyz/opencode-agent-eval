@@ -1,0 +1,46 @@
+{
+  "task_id": "19",
+  "query": "I'm planning a one-day trip from Ningbo to Suzhou on November 12, 2025, and returning on the 13th. Could you please help me plan the itinerary? For transportation, I'd like to take a train for the outbound journey—please pick the most affordable direct train option with good value for money.\n\nFor accommodation, I’d like to stay at a hotel priced between 330 and 360 yuan per night, and please keep the budget within this range. By the way, there are four of us in total, so we’ll need to book two rooms.\n\nRegarding dining, I’d like the arrangements to be a bit more thoughtful. I’ve heard that there are quite a few good restaurants near 'Suzhou Museum', and I’d love to try some during this visit. Could you please select the highest-rated restaurant near 'Suzhou Museum' for one meal, and also check if there are any nearby restaurants offering outdoor seating where we could have another meal?\n\nThat covers all my requirements—I believe I've provided all necessary information. Please go ahead and plan the full itinerary for me, including transportation, accommodation, dining, and sightseeing. Thank you! November 12, 2025 is Wednesday",
+  "meta_info": {
+    "org": "Ningbo",
+    "dest": [
+      "Suzhou"
+    ],
+    "days": 2,
+    "depart_date": "2025-11-12",
+    "return_date": "2025-11-13",
+    "people_number": 4,
+    "room_number": 2
+  },
+  "hard_constraints": {
+    "train_cheapest_direct": {
+      "constraint_context": "Prefer to take a train for the outbound journey, and need to select the cheapest direct train available",
+      "constraint_type": "superlative_cheapest_direct",
+      "outbound_train_no": "K336"
+    },
+    "hotel_price_range": {
+      "constraint_context": "The accommodation price must be between 330 and 360 yuan.",
+      "hotel_name": "Four Points by Sheraton Kunshan",
+      "hotel_price": 358.0,
+      "min_price": 330,
+      "max_price": 360
+    },
+    "restaurant_highest_rated": {
+      "constraint_context": "During the trip, please arrange a meal at the highest-rated restaurant near 'Suzhou Museum'.",
+      "constraint_type": "superlative_highest_rated_restaurant",
+      "attraction_name": "Suzhou Museum",
+      "restaurant_name": "Su Yaxing · Wenren Su-Style Noodle House (Museum Branch)",
+      "price_per_person": 45.0,
+      "restaurant_rating": 4.6
+    },
+    "restaurant_specific_tag_nearby": {
+      "constraint_context": "Arrange a meal at a restaurant near 'Suzhou Museum' during the trip, with outdoor seating service required",
+      "constraint_type": "superlative_specific_tag_nearby",
+      "attraction_name": "Suzhou Museum",
+      "restaurant_name": "Du Kou · Tea Restaurant (Pingjiang Road Branch)",
+      "required_tag": "Outdoor Seating",
+      "price_per_person": 102.0,
+      "restaurant_rating": 4.5
+    }
+  }
+}

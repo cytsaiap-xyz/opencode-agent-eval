@@ -1,0 +1,1053 @@
+{
+  "task_id": "A0808004",
+  "domain": "cross_domain",
+  "time": "2024-05-18 10:30:00",
+  "user_id": "U036783",
+  "weather": [
+    {
+      "city": "Yantai",
+      "category": "sunny",
+      "datetime": "2024-05-18",
+      "temperature": [
+        18,
+        26
+      ],
+      "humidity": 65
+    }
+  ],
+  "location": [
+    {
+      "address": "Room 1201, Building B, Hengji Garden near Hisense Plaza, 158 South Street, Zhifu District, Yantai, Shandong Province",
+      "longitude": 121.383926,
+      "latitude": 37.545421
+    }
+  ],
+  "user_profile": {
+    "user id": "U036783",
+    "occupation": "HR Manager",
+    "gender": "female",
+    "age group": "30~35",
+    "residence": "Yantai",
+    "home address": "Room 1201, Building B, Hengji Garden near Hisense Plaza, 158 South Street, Zhifu District, Yantai, Shandong Province",
+    "work address": "Room 1507, Entrepreneurship Building, 69 Science and Technology Avenue, High-tech Zone, Yantai, Shandong Province",
+    "dietary restrictions": "Avoids high sugar",
+    "family status": "Has children",
+    "personality": "Experiences significant mood swings, expresses herself with strong emotional undertones"
+  },
+  "user_historical_behaviors": {
+    "user id": "U036783",
+    "occupation": "HR Manager",
+    "gender": "female",
+    "age group": "30~35",
+    "residence": "Yantai",
+    "home address": "Room 1201, Building B, Hengji Garden near Hisense Plaza, 158 South Street, Zhifu District, Yantai, Shandong Province",
+    "work address": "Room 1507, Entrepreneurship Building, 69 Science and Technology Avenue, High-tech Zone, Yantai, Shandong Province",
+    "delivery": {
+      "food delivery": {
+        "breakfast": {
+          "frequently purchased categories": [
+            "Simple meals/buns/pan-fried buns (average 22 yuan)",
+            "Simple meals/light food (average 32 yuan)",
+            "Simple meals/salad (average 35 yuan)"
+          ],
+          "cost per order": "15~38 yuan",
+          "preferred store rating": "4.2~4.8 points",
+          "preferred delivery time": "15~25 minutes",
+          "preferred distance": "0~1500m",
+          "recent orders": [
+            {
+              "store": "Fresh Grain Bakery",
+              "product": "Selected Meat Bun + Soy Milk Combo"
+            },
+            {
+              "store": "Light Food Philosophy",
+              "product": "Yogurt Fruit Oatmeal Bowl"
+            },
+            {
+              "store": "Fresh Vegetable Salad",
+              "product": "Chicken Breast Vegetable Salad"
+            }
+          ],
+          "search history": [
+            "Low Sugar Breakfast",
+            "Fruit Salad",
+            "Egg Sandwich",
+            "Healthy Breakfast"
+          ]
+        },
+        "weekday lunch/dinner": {
+          "frequently purchased categories": [
+            "Simple meals/healthy meals (average 45 yuan)",
+            "Simple meals/small portion dishes (average 38 yuan)",
+            "Chinese cuisine/Cantonese cuisine (average 65 yuan)"
+          ],
+          "cost per order": "30~75 yuan",
+          "preferred store rating": "4.3~4.9 points",
+          "preferred delivery time": "20~35 minutes",
+          "preferred distance": "0~3000m",
+          "recent orders": [
+            {
+              "store": "Cantonese Cuisine House",
+              "product": "Steamed Sea Bass + Seasonal Vegetables"
+            },
+            {
+              "store": "Light Food Workshop",
+              "product": "Quinoa Chicken Breast Salad"
+            },
+            {
+              "store": "Small Bowl Cuisine",
+              "product": "Stir-fried Seasonal Vegetables + Brown Rice"
+            }
+          ],
+          "search history": [
+            "Low-fat Lunch",
+            "Healthy Work Meal",
+            "Cantonese Cuisine",
+            "Steamed Dishes"
+          ]
+        },
+        "weekend lunch/dinner": {
+          "frequently purchased categories": [
+            "Chinese cuisine/Cantonese cuisine (average 120 yuan)",
+            "Foreign cuisine/Stone pot rice/Teppanyaki rice (average 85 yuan)",
+            "Hot pot/Chaoshan hot pot (average 150 yuan)"
+          ],
+          "cost per order": "80~180 yuan",
+          "preferred store rating": "4.5~5.0 points",
+          "preferred delivery time": "30~45 minutes",
+          "preferred distance": "0~5000m",
+          "recent orders": [
+            {
+              "store": "Chaoshan Beef Hot Pot",
+              "product": "Selected Beef Platter + Vegetable Platter"
+            },
+            {
+              "store": "Cantonese Private Kitchen",
+              "product": "White Cut Chicken + Garlic Broccoli + Fish-flavored Eggplant Pot"
+            },
+            {
+              "store": "Korean Cuisine",
+              "product": "Stone Pot Bibimbap + Seafood Tofu Soup"
+            }
+          ],
+          "search history": [
+            "Family-friendly Restaurant",
+            "Family Set Meal",
+            "Kids' Meal",
+            "Non-fried Dishes"
+          ]
+        },
+        "desserts/drinks/snacks": {
+          "frequently purchased categories": [
+            "Drinks and desserts/juice (average 28 yuan)",
+            "Drinks and desserts/fruit salad (average 35 yuan)",
+            "Drinks and desserts/pure tea/herbal tea (average 22 yuan)"
+          ],
+          "cost per order": "18~40 yuan",
+          "preferred store rating": "4.4~4.9 points",
+          "preferred delivery time": "15~25 minutes",
+          "preferred distance": "0~2500m",
+          "recent orders": [
+            {
+              "store": "Fresh Juice Bar",
+              "product": "Fresh Grapefruit Juice (Low Sugar)"
+            },
+            {
+              "store": "Fruit Salad",
+              "product": "Colorful Fruit Salad"
+            },
+            {
+              "store": "Tea Language",
+              "product": "Sugar-free Oolong Tea"
+            }
+          ],
+          "search history": [
+            "Low Sugar Drinks",
+            "Fresh Fruits",
+            "Sugar-free Tea",
+            "Healthy Desserts"
+          ]
+        },
+        "night snack": {
+          "frequently purchased categories": [
+            "Simple meals/rice noodles (average 32 yuan)",
+            "Snacks/braised food (average 45 yuan)"
+          ],
+          "cost per order": "25~55 yuan",
+          "preferred store rating": "4.2~4.8 points",
+          "preferred delivery time": "20~35 minutes",
+          "preferred distance": "0~3000m",
+          "recent orders": [
+            {
+              "store": "Yunnan Crossing Bridge Rice Noodles",
+              "product": "Original Rice Noodles + Braised Egg"
+            },
+            {
+              "store": "Traditional Braised Food",
+              "product": "Braised Chicken Wings + Braised Tofu"
+            },
+            {
+              "store": "Special Noodle Shop",
+              "product": "Sour and Spicy Noodles"
+            }
+          ],
+          "search history": [
+            "Light Night Snack",
+            "Stomach-friendly Night Snack",
+            "Rice Noodles"
+          ]
+        }
+      },
+      "product delivery": {
+        "frequently purchased categories": [
+          "Fruits(28%)",
+          "Vegetables/Bean Products(25%)",
+          "Dairy Products/Ice Cream(15%)",
+          "Mother and Baby Products(12%)",
+          "Household Items(10%)",
+          "Others(10%)"
+        ],
+        "frequently visited stores": [
+          "Seven Fresh Supermarket (Yantai Store)(38%)",
+          "Daily Selection (Zhifu District Store)(26%)",
+          "Premium Fresh Life (Zhifu District Store)(22%)",
+          "Other Stores(14%)"
+        ],
+        "cost per order by category": {
+          "Fruits": "15~45 yuan",
+          "Vegetables/Bean Products": "5~25 yuan",
+          "Dairy Products/Ice Cream": "20~60 yuan",
+          "Mother and Baby Products": "35~120 yuan",
+          "Household Items": "10~50 yuan"
+        },
+        "preferred delivery time": "30~60 minutes",
+        "typical order time": "9~11 AM(32%), 4~6 PM(28%), 7~9 PM(18%)",
+        "recent orders": [
+          {
+            "store": "Seven Fresh Supermarket (Yantai Store)",
+            "product": "Imported Milk + Organic Vegetable Set"
+          },
+          {
+            "store": "Daily Selection (Zhifu District Store)",
+            "product": "Children's Snack Gift Box + 4 Kiwi Fruits"
+          },
+          {
+            "store": "Premium Fresh Life (Zhifu District Store)",
+            "product": "Baby Wipes + Organic Strawberries"
+          }
+        ],
+        "search history": [
+          "Organic Vegetables",
+          "Children's Snacks",
+          "Low-sugar Fruits",
+          "Baby Wipes",
+          "Fresh Milk"
+        ]
+      }
+    },
+    "in-store consumption": {
+      "in-store dining": {
+        "fine-dining": {
+          "frequently purchased categories": [
+            "Local cuisine/seafood (average 130 yuan)",
+            "Foreign cuisine/Japanese cuisine (average 160 yuan)",
+            "Local cuisine/Cantonese cuisine (average 120 yuan)"
+          ],
+          "preferred average price per person": "120~160 yuan",
+          "preferred store rating": "4.0~4.8 stars",
+          "typical dining time": "18:30-20:30",
+          "preferred distance": "500~3000m",
+          "recent orders": [
+            {
+              "store": "Fresh Shen Fish Village",
+              "product": "Steamed Sea Bass + Seafood Platter"
+            },
+            {
+              "store": "Sushi Master",
+              "product": "Delicate Couple Set Meal"
+            },
+            {
+              "store": "Cantonese Fragrance Pavilion",
+              "product": "Family Gathering Set Meal"
+            }
+          ],
+          "search history": [
+            "Sugar-free Desserts",
+            "Healthy Restaurant",
+            "Family-friendly Restaurant",
+            "Business Banquet"
+          ]
+        },
+        "light meal": {
+          "frequently purchased categories": [
+            "Snacks and fast food/Chinese quick meal (average 45 yuan)",
+            "Local cuisine/Northeastern cuisine (average 55 yuan)"
+          ],
+          "preferred average price per person": "35~60 yuan",
+          "preferred store rating": "3.5~4.3 stars",
+          "typical dining time": "12:00-13:00",
+          "preferred distance": "0~500m",
+          "recent orders": [
+            {
+              "store": "Northeastern Dumpling House",
+              "product": "Three Delicacies Dumplings + Side Dishes"
+            },
+            {
+              "store": "Nutritious Work Meal",
+              "product": "Low Sugar Chicken Breast Meal Set"
+            },
+            {
+              "store": "Pastry King",
+              "product": "Beef Noodles"
+            }
+          ],
+          "search history": [
+            "Work Meal",
+            "Low Sugar Food",
+            "Healthy Fast Food",
+            "Nearby Fast Food"
+          ]
+        },
+        "desserts/drinks/snacks": {
+          "frequently purchased categories": [
+            "Beverage shop (average 20 yuan)",
+            "Bread and desserts (average 30 yuan)"
+          ],
+          "preferred average price per person": "15~35 yuan",
+          "preferred store rating": "4.0~4.7 stars",
+          "typical dining time": "15:00-16:30",
+          "preferred distance": "0~800m",
+          "recent orders": [
+            {
+              "store": "Nayuki",
+              "product": "Sugar-free Cheese Jasmine Tea"
+            },
+            {
+              "store": "Bread Talk",
+              "product": "Sugar-free Whole Wheat Bread"
+            },
+            {
+              "store": "Fresh Fruit Workshop",
+              "product": "Fruit Platter"
+            }
+          ],
+          "search history": [
+            "Sugar-free Milk Tea",
+            "Low-calorie Desserts",
+            "Healthy Drinks",
+            "Fruit Shop"
+          ]
+        }
+      },
+      "other in-store services": {
+        "frequently consumed categories": {
+          "Beauty/Hairdressing": "20%",
+          "Sports and Fitness/Fitness Center": "35%",
+          "Leisure Entertainment/Massage/Foot Therapy": "15%",
+          "Parenting/Parent-child Playground": "30%"
+        },
+        "cost per order by category": {
+          "Beauty/Hairdressing": "180~350 yuan",
+          "Sports and Fitness/Fitness Center": "80~200 yuan/time",
+          "Leisure Entertainment/Massage/Foot Therapy": "120~200 yuan",
+          "Parenting/Parent-child Playground": "100~250 yuan"
+        },
+        "preferred store rating": "4.0~4.8 stars",
+        "preferred service time": "Weekends 10:00-16:00, Weekdays 18:00-20:00",
+        "preferred distance": "0~5000m",
+        "recent orders": [
+          {
+            "store": "Leke Fitness",
+            "product": "Single Person Fitness Monthly Card"
+          },
+          {
+            "store": "Children's Paradise",
+            "product": "Parent-child Interactive Ticket"
+          },
+          {
+            "store": "Kangshu Foot Massage",
+            "product": "Essential Oil Relaxation Package"
+          }
+        ],
+        "search history": [
+          "Parent-child Activities",
+          "Women's Fitness",
+          "Stress Relief Massage",
+          "Children's Playground",
+          "Mother and Baby Friendly Places"
+        ]
+      }
+    },
+    "OTA": {
+      "visited scenes": {
+        "Tourist Attractions (Mountains/Seaside/Ecological Large Scenic Areas)": "45%",
+        "Cultural Relics": "20%",
+        "Parks": "15%",
+        "Exhibition Halls (Museums/Art Galleries)": "12%",
+        "Featured Villages/Industrial Tourism/Uncategorized Projects": "8%"
+      },
+      "cost per night on hotel": "500~1000 yuan",
+      "visited hotels": {
+        "Ji Hotel": "35%",
+        "Atour": "25%",
+        "Vienna Hotel": "20%",
+        "Home Inn": "15%",
+        "BTG Homeinns": "5%"
+      },
+      "browsed hotels": {
+        "Four-star Hotels": "30%",
+        "Comfort Hotels": "45%",
+        "Three-star Hotels": "20%",
+        "Budget Hotels": "5%"
+      },
+      "historical travel plans": {
+        "Yantai-Beijing": {
+          "Price Range": "800-1200 yuan",
+          "Transportation": "High-speed Rail/EMU"
+        },
+        "Yantai-Shanghai": {
+          "Price Range": "1200-1800 yuan",
+          "Transportation": "Airplane"
+        },
+        "Yantai-Qingdao": {
+          "Price Range": "150-250 yuan",
+          "Transportation": "High-speed Rail/EMU"
+        },
+        "Yantai-Weihai": {
+          "Price Range": "100-150 yuan",
+          "Transportation": "Long-distance Bus"
+        },
+        "Yantai-Jinan": {
+          "Price Range": "300-450 yuan",
+          "Transportation": "High-speed Rail/EMU"
+        },
+        "Yantai-Penglai": {
+          "Price Range": "50-100 yuan",
+          "Transportation": "Self-driving"
+        }
+      }
+    }
+  },
+  "stores": {
+    "S17550810471449910_S00001": {
+      "name": "Yayun Tea Set Specialty Store",
+      "store_id": "S17550810471449910_S00001",
+      "score": 4.7,
+      "location": {
+        "address": "Yayun Tea Set Specialty Store, 28 Victory Road, Zhifu District, Yantai, Shandong Province",
+        "latitude": 37.546823,
+        "longitude": 121.385672
+      },
+      "tags": [
+        "Tea Set",
+        "Premium",
+        "Rave Reviews"
+      ],
+      "store_type": "target",
+      "products": [
+        {
+          "name": "Purple Clay Tea Set - Ink Rhythm",
+          "store_id": "S17550810471449910_S00001",
+          "store_name": "Yayun Tea Set Specialty Store",
+          "price": 499,
+          "tags": [
+            "Purple Clay Tea Set",
+            "Exquisite Set",
+            "Traditional Craftsmanship",
+            "Ideal Gift"
+          ],
+          "product_id": "S17550810471449910_P00001",
+          "attributes": [
+            "Gift Box Set"
+          ],
+          "product_type": "target"
+        },
+        {
+          "name": "Elegant Tea Set (5 Pieces)",
+          "store_id": "S17550810471449910_S00001",
+          "store_name": "Yayun Tea Set Specialty Store",
+          "price": 388,
+          "tags": [
+            "Celadon",
+            "Premium Tea Set",
+            "Gift Box Set",
+            "Chinese Style"
+          ],
+          "product_id": "S17550810471449910_P00002",
+          "attributes": [
+            "One Teapot Four Cups",
+            "Gift Box Set",
+            "With Tea Saucers",
+            "With Tea Cloth"
+          ],
+          "product_type": "target"
+        },
+        {
+          "name": "High-end White Porcelain Kung Fu Tea Set Gift Box",
+          "store_id": "S17550810471449910_S00001",
+          "store_name": "Yayun Tea Set Specialty Store",
+          "price": 628,
+          "tags": [
+            "White Porcelain Tea Set",
+            "High-end Gift Box",
+            "Exquisite Packaging",
+            "Business Gift"
+          ],
+          "product_id": "S17550810471449910_P00003",
+          "attributes": [
+            "One Teapot Six Cups",
+            "Tea Tray",
+            "Tea Tongs",
+            "Tea Cloth"
+          ],
+          "product_type": "distraction"
+        },
+        {
+          "name": "Jingdezhen Hand-painted Tea Set (8 Pieces)",
+          "store_id": "S17550810471449910_S00001",
+          "store_name": "Yayun Tea Set Specialty Store",
+          "price": 999,
+          "tags": [
+            "Jingdezhen",
+            "Hand Painted",
+            "Premium Tea Set",
+            "Next-day Delivery",
+            "Collector's Grade"
+          ],
+          "product_id": "S17550810471449910_P00004",
+          "attributes": [
+            "One Teapot Six Cups One Tea Tray",
+            "Gift Box Set",
+            "With Tea Cloth",
+            "With Tea Tongs"
+          ],
+          "product_type": "distraction"
+        },
+        {
+          "name": "Portable Travel Tea Set",
+          "store_id": "S17550810471449910_S00001",
+          "store_name": "Yayun Tea Set Specialty Store",
+          "price": 299,
+          "tags": [
+            "Portable",
+            "Travel Tea Set",
+            "Light and Practical",
+            "High Value for Money"
+          ],
+          "product_id": "S17550810471449910_P00005",
+          "attributes": [
+            "One Teapot Two Cups",
+            "Portable Bag",
+            "Quick Cup"
+          ],
+          "product_type": "distraction"
+        }
+      ]
+    },
+    "S17550810471449910_S00002": {
+      "name": "Mingxiang Tea Art Flash Shop",
+      "store_id": "S17550810471449910_S00002",
+      "score": 4.5,
+      "location": {
+        "address": "Mingxiang Tea Art Flash Shop, 189 South Street, Zhifu District, Yantai, Shandong Province",
+        "latitude": 37.544912,
+        "longitude": 121.384238
+      },
+      "tags": [
+        "Tea Set",
+        "Tea Leaves",
+        "Quality Guarantee"
+      ],
+      "store_type": "target",
+      "products": [
+        {
+          "name": "Purple Clay Tea Set (One Teapot Four Cups)",
+          "store_id": "S17550810471449910_S00002",
+          "store_name": "Mingxiang Tea Art Flash Shop",
+          "price": 298,
+          "tags": [
+            "Purple Clay Tea Set",
+            "High-end Gift Box",
+            "Exquisite Tea Set",
+            "Ideal Gift"
+          ],
+          "product_id": "S17550810471449910_P00006",
+          "attributes": [],
+          "product_type": "target"
+        },
+        {
+          "name": "White Porcelain Kung Fu Tea Set (One Teapot Six Cups with Tea Tray)",
+          "store_id": "S17550810471449910_S00002",
+          "store_name": "Mingxiang Tea Art Flash Shop",
+          "price": 358,
+          "tags": [
+            "White Porcelain Tea Set",
+            "Kung Fu Tea Ceremony",
+            "Delicate Tea Tray",
+            "Business Gift"
+          ],
+          "product_id": "S17550810471449910_P00007",
+          "attributes": [],
+          "product_type": "target"
+        },
+        {
+          "name": "Jingdezhen Blue and White Porcelain Tea Set (One Teapot Four Cups)",
+          "store_id": "S17550810471449910_S00002",
+          "store_name": "Mingxiang Tea Art Flash Shop",
+          "price": 388,
+          "tags": [
+            "Blue and White Porcelain",
+            "Jingdezhen",
+            "Traditional Craftsmanship",
+            "Exquisite Tea Set"
+          ],
+          "product_id": "S17550810471449910_P00008",
+          "attributes": [],
+          "product_type": "distraction"
+        },
+        {
+          "name": "Portable Travel Tea Set",
+          "store_id": "S17550810471449910_S00002",
+          "store_name": "Mingxiang Tea Art Flash Shop",
+          "price": 128,
+          "tags": [
+            "Portable Tea Set",
+            "Travel Set",
+            "Simple Design",
+            "Light and Practical"
+          ],
+          "product_id": "S17550810471449910_P00009",
+          "attributes": [],
+          "product_type": "distraction"
+        },
+        {
+          "name": "High-end Solid Wood Tea Tray",
+          "store_id": "S17550810471449910_S00002",
+          "store_name": "Mingxiang Tea Art Flash Shop",
+          "price": 288,
+          "tags": [
+            "Solid Wood Tea Tray",
+            "Fine Carving Craftsmanship",
+            "Tea Ceremony Accessories",
+            "Ideal Gift"
+          ],
+          "product_id": "S17550810471449910_P00010",
+          "attributes": [],
+          "product_type": "distraction"
+        },
+        {
+          "name": "High-end Tea Set Gift Box (One Teapot Six Cups with Tea Ceremony Tools)",
+          "store_id": "S17550810471449910_S00002",
+          "store_name": "Mingxiang Tea Art Flash Shop",
+          "price": 688,
+          "tags": [
+            "High-end Tea Set",
+            "Complete Tea Ceremony",
+            "Luxury Gift Box",
+            "Business Gift",
+            "Exquisite Packaging"
+          ],
+          "product_id": "S17550810471449910_P00011",
+          "attributes": [],
+          "product_type": "distraction"
+        }
+      ]
+    },
+    "S17550810471449910_S00003": {
+      "name": "Ancient and Modern Tea Ware Shop",
+      "store_id": "S17550810471449910_S00003",
+      "score": 4.3,
+      "location": {
+        "address": "Ancient and Modern Tea Ware Shop, 56 Xingfu Road, Zhifu District, Yantai, Shandong Province",
+        "latitude": 37.548236,
+        "longitude": 121.389475
+      },
+      "tags": [
+        "Tea Set",
+        "Classical"
+      ],
+      "store_type": "distraction",
+      "products": [
+        {
+          "name": "Purple Clay Kung Fu Tea Set",
+          "store_id": "S17550810471449910_S00003",
+          "store_name": "Ancient and Modern Tea Ware Shop",
+          "price": 1288,
+          "tags": [
+            "Purple Clay Tea Set",
+            "Exquisite",
+            "Ideal Gift",
+            "Traditional Craftsmanship"
+          ],
+          "product_id": "S17550810471449910_P00012",
+          "attributes": [
+            "Purple Clay Material",
+            "One Teapot Four Cups",
+            "Including Tea Tray"
+          ],
+          "product_type": "distraction"
+        },
+        {
+          "name": "Blue and White Porcelain Tea Set (6 Pieces)",
+          "store_id": "S17550810471449910_S00003",
+          "store_name": "Ancient and Modern Tea Ware Shop",
+          "price": 868,
+          "tags": [
+            "Blue and White Porcelain",
+            "Exquisite",
+            "Gift-giving"
+          ],
+          "product_id": "S17550810471449910_P00013",
+          "attributes": [
+            "One Teapot Four Cups One Tea Tray",
+            "Hand Painted"
+          ],
+          "product_type": "target"
+        },
+        {
+          "name": "Tieguanyin Tea Gift Box",
+          "store_id": "S17550810471449910_S00003",
+          "store_name": "Ancient and Modern Tea Ware Shop",
+          "price": 898,
+          "tags": [
+            "Tieguanyin Tea",
+            "Oolong Tea",
+            "Gift Box",
+            "Gift-giving"
+          ],
+          "product_id": "S17550810471449910_P00014",
+          "attributes": [
+            "250g",
+            "Light Fragrance Type"
+          ],
+          "product_type": "distraction"
+        },
+        {
+          "name": "Jingdezhen Ceramic Kung Fu Tea Set",
+          "store_id": "S17550810471449910_S00003",
+          "store_name": "Ancient and Modern Tea Ware Shop",
+          "price": 1280,
+          "tags": [
+            "Jingdezhen",
+            "Ceramic",
+            "Premium",
+            "Exquisite",
+            "Tea Ceremony"
+          ],
+          "product_id": "S17550810471449910_P00015",
+          "attributes": [
+            "One Teapot Six Cups One Tea Tray",
+            "Hand Painted"
+          ],
+          "product_type": "distraction"
+        },
+        {
+          "name": "Simple Portable Travel Tea Set",
+          "store_id": "S17550810471449910_S00003",
+          "store_name": "Ancient and Modern Tea Ware Shop",
+          "price": 428,
+          "tags": [
+            "Portable",
+            "Travel",
+            "Fast Delivery",
+            "Exquisite"
+          ],
+          "product_id": "S17550810471449910_P00016",
+          "attributes": [
+            "One Teapot Two Cups",
+            "Storage Bag",
+            "Portable Packaging"
+          ],
+          "product_type": "target"
+        }
+      ]
+    },
+    "S17550810471449910_S00004": {
+      "name": "Tea Fragrance Boutique",
+      "store_id": "S17550810471449910_S00004",
+      "score": 4.6,
+      "location": {
+        "address": "Tea Fragrance Boutique, 123 Haigang Road, Zhifu District, Yantai, Shandong Province",
+        "latitude": 37.449782,
+        "longitude": 121.362845
+      },
+      "tags": [
+        "Tea Set",
+        "Tea Leaves"
+      ],
+      "store_type": "distraction",
+      "products": [
+        {
+          "name": "Elegant Han Style Purple Clay Tea Set",
+          "store_id": "S17550810471449910_S00004",
+          "store_name": "Tea Fragrance Boutique",
+          "price": 499,
+          "tags": [
+            "Purple Clay Tea Set",
+            "Set",
+            "Exquisite",
+            "Gift-giving",
+            "High-end"
+          ],
+          "product_id": "S17550810471449910_P00017",
+          "attributes": [],
+          "product_type": "distraction"
+        },
+        {
+          "name": "Jingdezhen Blue and White Porcelain Kung Fu Tea Set (10 Pieces)",
+          "store_id": "S17550810471449910_S00004",
+          "store_name": "Tea Fragrance Boutique",
+          "price": 528,
+          "tags": [
+            "Blue and White Porcelain",
+            "Kung Fu Tea Set",
+            "Set",
+            "Exquisite",
+            "Gift Box Set"
+          ],
+          "product_id": "S17550810471449910_P00018",
+          "attributes": [],
+          "product_type": "distraction"
+        },
+        {
+          "name": "Elegant Japanese Style Ceramic Tea Set (5 Pieces)",
+          "store_id": "S17550810471449910_S00004",
+          "store_name": "Tea Fragrance Boutique",
+          "price": 459,
+          "tags": [
+            "Ceramic Tea Set",
+            "Japanese Style",
+            "Simple",
+            "Exquisite",
+            "Portable"
+          ],
+          "product_id": "S17550810471449910_P00019",
+          "attributes": [],
+          "product_type": "distraction"
+        },
+        {
+          "name": "Premium Black Pottery Tea Set Gift Box (One Teapot Four Cups)",
+          "store_id": "S17550810471449910_S00004",
+          "store_name": "Tea Fragrance Boutique",
+          "price": 488,
+          "tags": [
+            "Black Pottery Tea Set",
+            "Gift Box",
+            "High-end",
+            "Gift-giving",
+            "Business"
+          ],
+          "product_id": "S17550810471449910_P00020",
+          "attributes": [],
+          "product_type": "distraction"
+        },
+        {
+          "name": "Traditional Rosewood Tea Tray and Tea Set",
+          "store_id": "S17550810471449910_S00004",
+          "store_name": "Tea Fragrance Boutique",
+          "price": 699,
+          "tags": [
+            "Rosewood Tea Tray",
+            "Tea Set Combination",
+            "Traditional",
+            "High-end",
+            "Collector's Grade"
+          ],
+          "product_id": "S17550810471449910_P00021",
+          "attributes": [],
+          "product_type": "distraction"
+        }
+      ]
+    }
+  },
+  "orders": {
+    "S17550810471449910_O00001": {
+      "order_id": "S17550810471449910_O00001",
+      "order_type": "delivery",
+      "user_id": "U036783",
+      "store_id": "S17550810471449910_S00001",
+      "total_price": 499,
+      "create_time": "2024-05-15 16:30:22",
+      "status": "delivered",
+      "products": [
+        {
+          "product_id": "S17550810471449910_P00001",
+          "price": 499,
+          "quantity": 1
+        }
+      ]
+    },
+    "S17550810471449910_O00002": {
+      "order_id": "S17550810471449910_O00002",
+      "order_type": "delivery",
+      "user_id": "U036783",
+      "store_id": "S17550810471449910_S00002",
+      "total_price": 458,
+      "create_time": "2024-05-16 09:15:43",
+      "status": "delivered",
+      "products": [
+        {
+          "product_id": "S17550810471449910_P00007",
+          "price": 458,
+          "quantity": 1
+        }
+      ]
+    },
+    "S17550810471449910_O00003": {
+      "order_id": "S17550810471449910_O00003",
+      "order_type": "attraction",
+      "user_id": "U036783",
+      "store_id": "S17550810471449910_A00005",
+      "note": "",
+      "location": {
+        "address": "Yantai Ancient Culture Street, 88 Culture Road, Zhifu District, Yantai, Shandong Province",
+        "longitude": 121.380456,
+        "latitude": 37.541238
+      },
+      "dispatch_time": "",
+      "shipping_time": 0.0,
+      "delivery_time": "",
+      "total_price": 60,
+      "create_time": "2024-05-16 18:30:15",
+      "update_time": "2024-05-16 18:30:15",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17550810471449910_P00022",
+          "price": 60,
+          "quantity": 1,
+          "ticket_type": "Adult Ticket"
+        }
+      ]
+    },
+    "S17550810471449910_O00004": {
+      "order_id": "S17550810471449910_O00004",
+      "order_type": "attraction",
+      "user_id": "U036783",
+      "store_id": "S17550810471449910_A00006",
+      "note": "",
+      "location": {
+        "address": "Chaoyang Cultural Park, 156 Chaoyang Street, Zhifu District, Yantai, Shandong Province",
+        "longitude": 121.379542,
+        "latitude": 37.540867
+      },
+      "dispatch_time": "",
+      "shipping_time": 0.0,
+      "delivery_time": "",
+      "total_price": 880,
+      "create_time": "2024-05-16 18:35:42",
+      "update_time": "2024-05-16 18:35:42",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17550810471449910_P00035",
+          "price": 880,
+          "quantity": 1,
+          "ticket_type": "Exquisite Qipao Portrait Package"
+        }
+      ]
+    },
+    "S17550810471449910_O00005": {
+      "order_id": "S17550810471449910_O00005",
+      "order_type": "train",
+      "user_id": "U036783",
+      "store_id": "T00001",
+      "note": "Business Trip",
+      "location": {
+        "address": "Yantai Railway Station, Zhifu District, Yantai, Shandong Province",
+        "longitude": 121.391256,
+        "latitude": 37.553421
+      },
+      "dispatch_time": "",
+      "shipping_time": 0.0,
+      "delivery_time": "",
+      "total_price": 230,
+      "create_time": "2024-04-25 09:30:12",
+      "update_time": "2024-04-25 09:30:12",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "T00001P001",
+          "price": 230,
+          "quantity": 1,
+          "seat_type": "Second Class Seat"
+        }
+      ]
+    },
+    "S17550810471449910_O00006": {
+      "order_id": "S17550810471449910_O00006",
+      "order_type": "train",
+      "user_id": "U036783",
+      "store_id": "T00002",
+      "note": "Business Trip",
+      "location": {
+        "address": "Qingdao Railway Station, Shinan District, Qingdao, Shandong Province",
+        "longitude": 120.314853,
+        "latitude": 36.067235
+      },
+      "dispatch_time": "",
+      "shipping_time": 0.0,
+      "delivery_time": "",
+      "total_price": 230,
+      "create_time": "2024-04-27 16:45:23",
+      "update_time": "2024-04-27 16:45:23",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "T00002P001",
+          "price": 230,
+          "quantity": 1,
+          "seat_type": "Second Class Seat"
+        }
+      ]
+    },
+    "S17550810471449910_O00007": {
+      "order_id": "S17550810471449910_O00007",
+      "order_type": "instore",
+      "user_id": "U036783",
+      "store_id": "S17550810471449910_I00010",
+      "total_price": 208,
+      "create_time": "2024-05-16 14:30:25",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17550810471449910_P00062",
+          "price": 208,
+          "quantity": 1
+        }
+      ]
+    },
+    "S17550810471449910_O00008": {
+      "order_id": "S17550810471449910_O00008",
+      "order_type": "instore",
+      "user_id": "U036783",
+      "store_id": "S17550810471449910_I00012",
+      "total_price": 988,
+      "create_time": "2024-05-16 17:15:36",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17550810471449910_P00074",
+          "price": 988,
+          "quantity": 1
+        }
+      ]
+    },
+    "S17550810471449910_O00009": {
+      "order_id": "S17550810471449910_O00009",
+      "order_type": "instore",
+      "user_id": "U036783",
+      "store_id": "I00001",
+      "total_price": 160,
+      "create_time": "2024-05-12 19:45:12",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "I00001P001",
+          "price": 160,
+          "quantity": 1
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,127 @@
+{
+  "required_orders": [
+    {
+      "order_id": "D0807007T001",
+      "order_type": "attraction",
+      "user_id": "U010083",
+      "store_id": "S17557515253294755_A00005",
+      "note": "",
+      "location": null,
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 254,
+      "create_time": "2023-09-17 14:53:19",
+      "update_time": "2023-09-17 14:53:19",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17557515253294755_P00036",
+          "price": 169,
+          "quantity": 1,
+          "date": "2023-10-03",
+          "ticket_type": "Adult Ticket"
+        },
+        {
+          "product_id": "S17557515253294755_P00043",
+          "price": 85,
+          "quantity": 1,
+          "date": "2023-10-03",
+          "ticket_type": "Senior Ticket (Age 60+)"
+        }
+      ]
+    },
+    {
+      "order_id": "D0807007T002",
+      "order_type": "train",
+      "user_id": "U010083",
+      "store_id": "S17557566356789777_T00011",
+      "note": "",
+      "location": null,
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 486,
+      "create_time": "2023-09-17 14:55:49",
+      "update_time": "2023-09-17 14:55:49",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17557566356789777_P00130",
+          "price": 243,
+          "quantity": 2,
+          "date": "2023-10-02",
+          "seat_type": "Soft Sleeper"
+        }
+      ]
+    },
+    {
+      "order_id": "D0807007T003",
+      "order_type": "train",
+      "user_id": "U010083",
+      "store_id": "S17557512511049624_T00017",
+      "note": "",
+      "location": null,
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 856,
+      "create_time": "2023-09-17 14:57:00",
+      "update_time": "2023-09-17 14:57:00",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17557566356789777_P00164",
+          "price": 428,
+          "quantity": 2,
+          "date": "2023-10-03",
+          "seat_type": "Business Class Seat"
+        }
+      ]
+    },
+    {
+      "order_id": "D0807007T004",
+      "order_type": "hotel",
+      "user_id": "U010083",
+      "store_id": "S17557515253294755_H00002",
+      "note": "",
+      "location": null,
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 780,
+      "create_time": "2023-09-17 14:59:19",
+      "update_time": "2023-09-17 14:59:19",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17557515253294755_P00017",
+          "price": 780,
+          "quantity": 1,
+          "date": "2023-10-02",
+          "room_type": "Gesang Flower Deluxe Twin Room"
+        }
+      ]
+    }
+  ],
+  "rubrics": [
+    "The scenic spot ordered should be Jiuzhaigou Scenic Area",
+    "Need to check the ticket prices for Jiuzhaigou Scenic Area and calculate the most economical combination based on the ages of the two elderly people (58, 60 years old), so the scenic spot order should include one Adult Ticket and one Senior Ticket (Age 60+)",
+    "Need to check the weather in Jiuzhaigou on October 1, 2023, October 2, 2023, October 3, 2023, and October 4, 2023. The results are light rain, sunny, sunny, and overcast, so the date in the scenic spot order should be 2023-10-03",
+    "The departure place for the outbound train should be Chengdu",
+    "The destination for the outbound train should be Jiuzhaigou",
+    "The departure time for the outbound train should be between 14:00-15:00",
+    "Need to check the weather in Jiuzhaigou on October 1, 2023, October 2, 2023, October 3, 2023, and October 4, 2023. The results are light rain, sunny, sunny, and overcast, so the date in the outbound train ticket order should be 2023-10-02",
+    "The seat type in the outbound train ticket order should be Soft Sleeper",
+    "The departure place for the return train should be Jiuzhaigou",
+    "The destination for the return train should be Chengdu",
+    "The departure time for the return train should be between 17:00-18:00",
+    "Need to check the weather in Jiuzhaigou on October 1, 2023, October 2, 2023, October 3, 2023, and October 4, 2023. The results are light rain, sunny, sunny, and overcast, so the date in the return train ticket order should be 2023-10-03",
+    "The seat type in the return train ticket order should be Business Class Seat",
+    "The hotel ordered should be within 2 kilometers of Jiuzhaigou Scenic Area, Jiuzhaigou County, Aba Tibetan and Qiang Autonomous Prefecture, Sichuan Province",
+    "The hotel ordered should be in Tibetan Style",
+    "The hotel ordered should provide Luggage Storage service",
+    "The date in the hotel order should be 2023-10-02",
+    "The room type in the hotel order should be twin room"
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "required_orders": [
+    {
+      "order_id": "J0721003T01",
+      "order_type": "delivery",
+      "user_id": "U000024",
+      "store_id": "S12559995746910845_S64519",
+      "note": "",
+      "location": {
+        "address": "TaiKoo Hui, 383 Tianhe Road (Metro Line 3 Shipaiqiao Station Exit C), Tianhe District, Guangzhou, Guangdong Province",
+        "longitude": 113.332479,
+        "latitude": 23.134218
+      },
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 37,
+      "create_time": "2024-05-09 18:00:00",
+      "update_time": "2024-05-09 18:00:00",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S30356558095585016_P74307",
+          "price": 37,
+          "quantity": 1,
+          "attributes": ""
+        }
+      ]
+    }
+  ],
+  "rubrics": [
+    "The ordered dessert should be ice-based or cold beverage type, suitable for cooling down on a 29-degree sunny day",
+    "The ordered dessert should not contain durian or other ingredients with strong distinctive odors that might affect the 19:00 meeting",
+    "The dessert delivery address should be the work location at TaiKoo Hui, 383 Tianhe Road, Tianhe District, Guangzhou, Guangdong Province",
+    "The expected delivery time for the dessert order should be before the meeting starts at 2024-05-09 19:00:00"
+  ]
+}

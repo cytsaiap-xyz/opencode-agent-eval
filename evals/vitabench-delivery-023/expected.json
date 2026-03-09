@@ -1,0 +1,43 @@
+{
+  "required_orders": [
+    {
+      "order_id": "40711002T01",
+      "order_type": "delivery",
+      "user_id": "U000004",
+      "store_id": "S30993599337981774_S34673",
+      "note": "",
+      "location": {
+        "address": "Haiyue International Office Building, Tower A, Jinzheng Imperial City, Qiaoxi District, Shijiazhuang, Hebei Province",
+        "longitude": 114.474095,
+        "latitude": 38.034544
+      },
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 155,
+      "create_time": "2024-09-12 11:47:00",
+      "update_time": "2024-09-12 11:47:00",
+      "status": "processed",
+      "products": [
+        {
+          "product_id": "S14292360609424463_P36400",
+          "price": 28,
+          "quantity": 1,
+          "attributes": ""
+        },
+        {
+          "product_id": "S31583341312882063_P22648",
+          "price": 88,
+          "quantity": 1,
+          "attributes": ""
+        }
+      ]
+    }
+  ],
+  "rubrics": [
+    "The Sichuan cuisine delivery order must be from Xiao Sichuan (Shifan Street Branch), which is a Sichuan restaurant where the user has ordered before",
+    "The delivery address for the Sichuan cuisine delivery order should be Jinzheng Haiyue International",
+    "The estimated delivery time for the Sichuan cuisine delivery order should be before 13:00 on September 12, 2024, so that it can be enjoyed at the beginning of friend's lunch break",
+    "The stir-fried vegetables in the Sichuan cuisine delivery order should be garlic-flavored, as indicated in the product name or label description"
+  ]
+}

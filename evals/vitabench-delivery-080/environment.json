@@ -1,0 +1,258 @@
+{
+  "task_id": "G0721005",
+  "domain": "delivery",
+  "time": "2025-11-19 11:02:05",
+  "user_id": "U000035",
+  "weather": [
+    {
+      "city": "Chengdu City",
+      "category": "overcast",
+      "datetime": "2025-11-19",
+      "temperature": [
+        10,
+        16
+      ],
+      "humidity": 53
+    }
+  ],
+  "location": [
+    {
+      "address": "Global Center, Building 1, No. 1700, North Section of Tianfu Avenue, Guixi Street, Wuhou District, Chengdu, Sichuan Province",
+      "longitude": 104.063402,
+      "latitude": 30.568744
+    }
+  ],
+  "user_profile": {
+    "user id": "U000035",
+    "occupation": "Product Manager",
+    "gender": "female",
+    "age group": "30~35",
+    "residence": "Chengdu",
+    "home address": "Zone B, Zongan Section, Yalan Garden, Yulin Street, Wuhou District, Chengdu, Sichuan Province",
+    "work address": "Global Center, Building 1, No. 1700, North Section of Tianfu Avenue, Guixi Street, Wuhou District, Chengdu, Sichuan Province",
+    "dietary restrictions": "Avoids high sugar",
+    "family status": "In a relationship",
+    "personality": "Strong logical thinking, enjoys analysis and questioning, pursues accuracy"
+  },
+  "user_historical_behaviors": {
+    "user id": "U000035",
+    "occupation": "Product Manager",
+    "gender": "female",
+    "age group": "30~35",
+    "residence": "Chengdu",
+    "home address": "Zone B, South Palm Area, Yalan Garden, Yulin Street, Wuhou District, Chengdu, Sichuan Province",
+    "work address": "Global Center, Building 1, No. 1700, North Section of Tianfu Avenue, Guixi Street, Wuhou District, Chengdu, Sichuan Province",
+    "breakfast": {
+      "frequently purchased categories": [
+        "Quick Meals/Light Food (Average ¥23)",
+        "Quick Meals/Steamed Buns/Pan-fried Buns (Average ¥22)"
+      ],
+      "cost per order": "¥20~35",
+      "preferred store rating": "4.3~4.8",
+      "preferred delivery time": "15~30 minutes",
+      "preferred distance": "0~2500m",
+      "recent orders": [
+        {
+          "store": "Sichuan Famous Snacks",
+          "product": "Steamed Pork Buns + Soy Milk Set"
+        },
+        {
+          "store": "Fresh Vegetable Light Food",
+          "product": "Whole Wheat Egg Sandwich"
+        }
+      ],
+      "search history": [
+        "Low-sugar breakfast",
+        "Healthy light food",
+        "Whole wheat bread",
+        "Sugar-free soy milk"
+      ]
+    },
+    "weekday lunch/dinner": {
+      "frequently purchased categories": [
+        "Quick Meals/Healthy Meals (Average ¥35)",
+        "Chinese Cuisine/Cantonese Food (Average ¥55)"
+      ],
+      "cost per order": "¥30~70",
+      "preferred store rating": "4.5~4.9",
+      "preferred delivery time": "20~35 minutes",
+      "preferred distance": "0~3500m",
+      "recent orders": [
+        {
+          "store": "Dietary Fiber Healthy Meal",
+          "product": "Chicken Breast Vegetable Salad"
+        },
+        {
+          "store": "Pure Heart Cantonese Restaurant",
+          "product": "Steamed Fresh Shrimp + Stir-fried Seasonal Vegetables Set"
+        },
+        {
+          "store": "Fresh Choice Salad",
+          "product": "Avocado Chicken Quinoa Rice"
+        }
+      ],
+      "search history": [
+        "Low calorie",
+        "Healthy work meal",
+        "Cantonese steamed dishes",
+        "Light salad"
+      ]
+    },
+    "weekend lunch/dinner": {
+      "frequently purchased categories": [
+        "Foreign Cuisine/Japanese Bento/Sushi (Average ¥85)",
+        "Chinese Cuisine/Crayfish (Average ¥150)"
+      ],
+      "cost per order": "¥60~180",
+      "preferred store rating": "4.6~5.0",
+      "preferred delivery time": "30~45 minutes",
+      "preferred distance": "0~5000m",
+      "recent orders": [
+        {
+          "store": "Fresh Shen Sushi",
+          "product": "Salmon Sashimi Platter + Sushi Set"
+        },
+        {
+          "store": "Spicy Thirteen Flavors",
+          "product": "Spicy Crayfish (Mild Spicy)"
+        },
+        {
+          "store": "Thai Princess Restaurant",
+          "product": "Tom Yum Kung Soup + Thai Lemon Shrimp"
+        }
+      ],
+      "search history": [
+        "Authentic Japanese cuisine",
+        "Thai food",
+        "Healthy seafood"
+      ]
+    },
+    "desserts/drinks/snacks": {
+      "frequently purchased categories": [
+        "Beverages & Desserts/Pure Tea/Herbal Tea (Average ¥25)",
+        "Beverages & Desserts/Fruit Bowls (Average ¥32)"
+      ],
+      "cost per order": "¥15~90",
+      "preferred store rating": "4.4~4.9",
+      "preferred delivery time": "15~25 minutes",
+      "preferred distance": "0~3000m",
+      "recent orders": [
+        {
+          "store": "A Yogurt Cow",
+          "product": "Low-sugar Plain Yogurt"
+        },
+        {
+          "store": "Tea Song",
+          "product": "Sugar-free Ice-brewed Green Tea"
+        }
+      ],
+      "search history": [
+        "Low-sugar drinks",
+        "Fresh-squeezed juice sugar-free",
+        "Sugar-free yogurt"
+      ]
+    },
+    "night snack": {
+      "frequently purchased categories": [
+        "Quick Meals/Dumplings/Wonton (Average ¥40)",
+        "Hot Pot/Clay Pot Porridge (Average ¥50)"
+      ],
+      "cost per order": "¥25~55",
+      "preferred store rating": "4.3~4.8",
+      "preferred delivery time": "20~35 minutes",
+      "preferred distance": "0~3500m",
+      "recent orders": [
+        {
+          "store": "Fresh Meat Wonton Shop",
+          "product": "Shrimp and Pork Wonton"
+        },
+        {
+          "store": "Porridge Time",
+          "product": "Preserved Egg and Lean Pork Porridge"
+        },
+        {
+          "store": "Seven Pot",
+          "product": "Clear Chicken Soup Pot"
+        }
+      ],
+      "search history": [
+        "Light night snack",
+        "Stomach-friendly porridge",
+        "Clear soup wonton",
+        "Soup pot"
+      ]
+    }
+  },
+  "stores": {
+    "S22484608426597067_S56693": {
+      "name": "Jude Hotpot (Shudu Center Branch)",
+      "store_id": "S22484608426597067_S56693",
+      "score": 4.9,
+      "location": {
+        "address": "No. 39, 1st Floor, Building 2, No. 340, Jiqing Fourth Road, Chengdu High-tech Zone, China (Sichuan) Pilot Free Trade Zone",
+        "latitude": 30.55367,
+        "longitude": 104.064489
+      },
+      "tags": [],
+      "products": [
+        {
+          "name": "Bamboo Shoot Roast Chicken Hotpot",
+          "store_id": "S22484608426597067_S56693",
+          "store_name": "Jude Hotpot (Shudu Center Branch)",
+          "price": 25.68,
+          "tags": [],
+          "product_id": "S12558460048992987_P18134",
+          "attributes": [
+            "Mild Spicy",
+            "Regular Spicy",
+            "Extra Spicy"
+          ],
+          "quantity": 9999
+        },
+        {
+          "name": "Bamboo Shoot Beef Hotpot",
+          "store_id": "S22484608426597067_S56693",
+          "store_name": "Jude Hotpot (Shudu Center Branch)",
+          "price": 32.68,
+          "tags": [],
+          "product_id": "S20322966340140595_P99614",
+          "attributes": [
+            "Mild Spicy",
+            "Regular Spicy",
+            "Extra Spicy"
+          ],
+          "quantity": 9999
+        }
+      ]
+    }
+  },
+  "orders": {
+    "G0721005O01": {
+      "order_id": "G0721005O01",
+      "order_type": "delivery",
+      "user_id": "U000035",
+      "store_id": "S22484608426597067_S56693",
+      "note": "",
+      "location": {
+        "address": "Global Center, Building 1, No. 1700, North Section of Tianfu Avenue, Guixi Street, Wuhou District, Chengdu, Sichuan Province",
+        "longitude": 104.063402,
+        "latitude": 30.568744
+      },
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 25.68,
+      "create_time": "2025-11-19 11:00:00",
+      "update_time": "2025-11-19 11:00:00",
+      "status": "unpaid",
+      "products": [
+        {
+          "product_id": "S12558460048992987_P18134",
+          "price": 25.68,
+          "quantity": 1,
+          "attributes": "Mild Spicy"
+        }
+      ]
+    }
+  }
+}

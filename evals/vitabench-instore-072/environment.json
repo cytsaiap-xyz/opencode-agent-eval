@@ -1,0 +1,201 @@
+{
+  "task_id": "10826077",
+  "domain": "instore",
+  "time": "2025-03-07 10:30:00",
+  "user_id": "U485987",
+  "weather": [
+    {
+      "city": "Changsha",
+      "category": "light rain",
+      "datetime": "2025-03-07",
+      "temperature": [
+        4,
+        12
+      ],
+      "humidity": 85
+    },
+    {
+      "city": "Changsha",
+      "category": "overcast",
+      "datetime": "2025-03-08",
+      "temperature": [
+        6,
+        13
+      ],
+      "humidity": 45
+    },
+    {
+      "city": "Changsha",
+      "category": "sunny",
+      "datetime": "2025-03-09",
+      "temperature": [
+        9,
+        15
+      ],
+      "humidity": 48
+    }
+  ],
+  "location": [
+    {
+      "address": "Lugu New Changhai Center, 627 Lugu Avenue, Yuelu District, Changsha",
+      "longitude": 112.8854,
+      "latitude": 28.2315
+    },
+    {
+      "address": "Creative Studio, 5th Floor, Bobo World City, 368 Furong South Road Section 1, Tianxin District, Changsha",
+      "longitude": 112.9812,
+      "latitude": 28.1867
+    }
+  ],
+  "user_profile": {
+    "user id": "U485987",
+    "occupation": "Designer",
+    "gender": "male",
+    "age group": "30~35",
+    "residence": "Changsha",
+    "home address": "Lugu New Changhai Center, 627 Lugu Avenue, Yuelu District, Changsha",
+    "work address": "Creative Studio, 5th Floor, Bobo World City, 368 Furong South Road Section 1, Tianxin District, Changsha",
+    "dietary restrictions": "No fried food, No coffee",
+    "family status": "Has children",
+    "personality": "Prone to anxiety and worry, needs repeated confirmation to feel at ease"
+  },
+  "user_historical_behaviors": {
+    "user id": "U485987",
+    "occupation": "Designer",
+    "gender": "male",
+    "age group": "30~35",
+    "residence": "Changsha",
+    "home address": "Lugu New Changhai Center, 627 Lugu Avenue, Yuelu District, Changsha",
+    "work address": "Creative Studio, 5th Floor, Bobo World City, 368 Furong South Road Section 1, Tianxin District, Changsha",
+    "in-store dining": {
+      "fine-dining": {
+        "frequently purchased categories": [
+          "Regional Cuisine/Hunan Cuisine (Average 95 yuan)",
+          "Foreign Cuisine/Japanese Food (Average 120 yuan)",
+          "Hot Pot (Average 88 yuan)"
+        ],
+        "preferred average price per person": "80~120 yuan",
+        "preferred store rating": "4.0~4.7 stars",
+        "typical dining time": "18:30-20:30",
+        "preferred distance": "500~3000m",
+        "recent orders": [
+          {
+            "store": "Xiangjiang Fish House",
+            "product": "Chopped Chili Fish Head Package"
+          },
+          {
+            "store": "Xiaolongbao Japanese Restaurant",
+            "product": "Sashimi Platter"
+          },
+          {
+            "store": "Bashu Impression",
+            "product": "Yin-Yang Hot Pot"
+          }
+        ],
+        "search history": [
+          "Hunan Cuisine",
+          "Japanese Cuisine",
+          "Family-friendly Restaurant",
+          "No Fried Food"
+        ]
+      },
+      "light meal": {
+        "frequently purchased categories": [
+          "Snacks & Fast Food/Chinese Quick Meals (Average 35 yuan)",
+          "Snacks & Fast Food/Western Fast Food (Average 42 yuan)"
+        ],
+        "preferred average price per person": "25~45 yuan",
+        "preferred store rating": "3.5~4.2 stars",
+        "typical dining time": "12:00-13:30",
+        "preferred distance": "0~500m",
+        "recent orders": [
+          {
+            "store": "Lugu Cafeteria",
+            "product": "Steamed Fish Set"
+          },
+          {
+            "store": "Mr. Salad",
+            "product": "Light Salad"
+          },
+          {
+            "store": "Noodle King",
+            "product": "Beef Noodles"
+          }
+        ],
+        "search history": [
+          "Healthy Meals",
+          "Light Food",
+          "Work Lunch"
+        ]
+      },
+      "desserts/drinks/snacks": {
+        "frequently purchased categories": [
+          "Beverage Shops (Average 18 yuan)",
+          "Bread & Desserts (Average 28 yuan)"
+        ],
+        "preferred average price per person": "15~30 yuan",
+        "preferred store rating": "3.9~4.5 stars",
+        "typical dining time": "15:00-16:30",
+        "preferred distance": "0~300m",
+        "recent orders": [
+          {
+            "store": "Fresh Fruit Workshop",
+            "product": "Sugar-free Freshly Squeezed Juice"
+          },
+          {
+            "store": "Sweet Heart Bakery",
+            "product": "Whole Wheat Cake"
+          },
+          {
+            "store": "HEYTEA",
+            "product": "Jasmine Green Tea"
+          }
+        ],
+        "search history": [
+          "Sugar-free Drinks",
+          "Low-fat Desserts",
+          "Fruit Tea"
+        ]
+      }
+    },
+    "other in-store services": {
+      "frequently consumed categories": {
+        "Sports & Fitness/Fitness Center": "35%",
+        "Beauty/Yoga": "20%",
+        "Leisure & Entertainment/DIY Workshop": "25%",
+        "Family/Family Entertainment": "20%"
+      },
+      "cost per order by category": {
+        "Sports & Fitness/Fitness Center": "80~150 yuan",
+        "Beauty/Yoga": "120~180 yuan",
+        "Leisure & Entertainment/DIY Workshop": "150~250 yuan",
+        "Family/Family Entertainment": "100~200 yuan"
+      },
+      "preferred store rating": "4.0~4.8 stars",
+      "preferred service time": "19:00-21:00",
+      "preferred distance": "0~5000m",
+      "recent orders": [
+        {
+          "store": "Lugu Fitness Center",
+          "product": "Single Fitness Session"
+        },
+        {
+          "store": "Creative Handicraft Studio",
+          "product": "Parent-child Pottery Experience"
+        },
+        {
+          "store": "Serene Yoga",
+          "product": "Stress Relief Yoga Course"
+        }
+      ],
+      "search history": [
+        "Family Activities",
+        "Design Inspiration Workshop",
+        "Stress-relief Fitness",
+        "Weekend Family Activities"
+      ]
+    }
+  },
+  "stores": {},
+  "orders": {}
+}

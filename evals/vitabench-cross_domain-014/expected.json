@@ -1,0 +1,98 @@
+{
+  "required_orders": [
+    {
+      "order_id": "10807014T001",
+      "order_type": "instore",
+      "user_id": "U010074",
+      "store_id": "S17550802091124808_I00009",
+      "note": "",
+      "location": null,
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 188,
+      "create_time": "2025-04-28 10:37:00",
+      "update_time": "2025-04-28 10:37:00",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17550802091124808_P00049",
+          "name": "Couple's Pet Interaction Package",
+          "price": 188,
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "order_id": "10807014T002",
+      "order_type": "delivery",
+      "user_id": "U010074",
+      "store_id": "S17550802091124808_S00001",
+      "note": "",
+      "location": {
+        "address": "Wanda Residence East Zone, 888 Maocheng Middle Road, Yinzhou District, Ningbo, Zhejiang Province (470m walk from Siming Middle Road Metro Station Exit A1)",
+        "longitude": 121.56789,
+        "latitude": 29.876543
+      },
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 25.8,
+      "create_time": "2025-04-28 10:39:00",
+      "update_time": "2025-04-28 10:39:00",
+      "status": "unpaid",
+      "products": [
+        {
+          "product_id": "S17550802091124808_P00002",
+          "price": 9.9,
+          "quantity": 1,
+          "name": "Kleenex Disinfectant Wipes 12-pack",
+          "attributes": ""
+        },
+        {
+          "product_id": "S17550802091124808_P00005",
+          "price": 15.9,
+          "quantity": 1,
+          "name": "Tempo Pocket Tissues 12-pack",
+          "attributes": ""
+        }
+      ]
+    },
+    {
+      "order_id": "10807014T003",
+      "order_type": "attraction",
+      "user_id": "U010074",
+      "store_id": "S17550802091124808_A00007",
+      "note": "",
+      "location": null,
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 20,
+      "create_time": "2025-04-28 10:41:00",
+      "update_time": "2025-04-28 10:41:00",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17550802091124808_P00037",
+          "price": 20,
+          "quantity": 1,
+          "date": "2025-04-28",
+          "ticket_type": "Double Ticket + Couple Photo Package"
+        }
+      ]
+    }
+  ],
+  "rubrics": [
+    "The ordered café should be a pet café",
+    "The pet café ordered should include cats, Corgi and Rabbit",
+    "The pet café package should include two Beverages and at least 2 hours of pet interaction time",
+    "The delivery order should include at least ten small packs of Pocket Tissues",
+    "The delivery order should include one pack of Disinfectant Wipes",
+    "The delivery products should come from the same store",
+    "The delivery address should be Wanda Residence East Zone, 888 Maocheng Middle Road, Yinzhou District, Ningbo, Zhejiang Province (470m walk from Siming Middle Road Metro Station Exit A1)",
+    "The estimated delivery time should be before 1 PM on April 28, 2025",
+    "The ordered attraction should be the one closest to Cute Pet Paradise Café (id: S17550802091124808_A00007)",
+    "Admission Ticket for April 28, 2025 should be purchased"
+  ]
+}

@@ -1,0 +1,1101 @@
+{
+  "task_id": "A0812010",
+  "domain": "cross_domain",
+  "time": "2026-07-15 14:30:00",
+  "user_id": "U798941",
+  "weather": [
+    {
+      "city": "Shanghai",
+      "category": "sunny",
+      "datetime": "2026-07-15",
+      "temperature": [
+        28,
+        35
+      ],
+      "humidity": 65
+    },
+    {
+      "city": "Dandong",
+      "category": "cloudy",
+      "datetime": "2026-07-18",
+      "temperature": [
+        22,
+        29
+      ],
+      "humidity": 70
+    },
+    {
+      "city": "Dandong",
+      "category": "light rain",
+      "datetime": "2026-07-19",
+      "temperature": [
+        21,
+        27
+      ],
+      "humidity": 85
+    },
+    {
+      "city": "Dandong",
+      "category": "light rain",
+      "datetime": "2026-07-20",
+      "temperature": [
+        22,
+        28
+      ],
+      "humidity": 80
+    },
+    {
+      "city": "Dandong",
+      "category": "cloudy",
+      "datetime": "2026-07-21",
+      "temperature": [
+        23,
+        30
+      ],
+      "humidity": 75
+    },
+    {
+      "city": "Dandong",
+      "category": "sunny",
+      "datetime": "2026-07-22",
+      "temperature": [
+        24,
+        32
+      ],
+      "humidity": 65
+    },
+    {
+      "city": "Dandong",
+      "category": "sunny",
+      "datetime": "2026-07-23",
+      "temperature": [
+        25,
+        33
+      ],
+      "humidity": 60
+    },
+    {
+      "city": "Dandong",
+      "category": "cloudy",
+      "datetime": "2026-07-24",
+      "temperature": [
+        24,
+        31
+      ],
+      "humidity": 70
+    },
+    {
+      "city": "Dandong",
+      "category": "sunny",
+      "datetime": "2026-07-25",
+      "temperature": [
+        25,
+        34
+      ],
+      "humidity": 65
+    }
+  ],
+  "location": [
+    {
+      "address": "Room 1103, Building B2, 700 Yishan Road, Xuhui District, Shanghai",
+      "longitude": 121.42385,
+      "latitude": 31.17785
+    }
+  ],
+  "user_profile": {
+    "user id": "U798941",
+    "occupation": "Designer",
+    "gender": "male",
+    "age group": "30~35",
+    "residence": "Shanghai",
+    "Permanent address": "Room 1103, Building B2, 700 Yishan Road, Xuhui District, Shanghai",
+    "work address": "19th Floor, Ocean Towers, 1601 Nanjing West Road, Jing'an District, Shanghai",
+    "dietary restrictions": "Avoid high-fat organs, avoid alcohol",
+    "family status": "Couple",
+    "personality": "Cold and concise in expression, lacks emotional communication and patience"
+  },
+  "user_historical_behaviors": {
+    "user id": "U798941",
+    "occupation": "designer",
+    "gender": "male",
+    "age group": "30~35",
+    "residence": "Shanghai",
+    "Permanent address": "Room 1103, Building B2, 700 Yishan Road, Xuhui District, Shanghai",
+    "work address": "19th Floor, Ocean Towers, 1601 Nanjing West Road, Jing'an District, Shanghai",
+    "delivery": {
+      "food delivery": {
+        "breakfast": {
+          "frequently purchased categories": [
+            "Quick Meals/Buns/Pan-fried Buns (Average ¥25)",
+            "Quick Meals/Dumplings/Wonton (Average ¥28)",
+            "Quick Meals/Jianbing/Wraps/Hand-grabbed Pancakes (Average ¥18)"
+          ],
+          "cost per order": "¥15~35",
+          "preferred store rating": "4.3~4.8 stars",
+          "preferred delivery time": "15~25 minutes",
+          "preferred distance": "0~2500m",
+          "recent orders": [
+            {
+              "store": "Gongdelin Breakfast",
+              "product": "Soup Dumpling + Soy Milk Combo"
+            },
+            {
+              "store": "Yonghe Soy Milk",
+              "product": "Fried Dough Stick and Soy Milk Combo"
+            },
+            {
+              "store": "Tianjin Jianbing",
+              "product": "Original Jianbing"
+            }
+          ],
+          "search history": [
+            "Buns",
+            "Soy Milk",
+            "Pan-fried Buns",
+            "Breakfast Combo",
+            "Fried Dough Sticks"
+          ]
+        },
+        "weekday lunch/dinner": {
+          "frequently purchased categories": [
+            "Quick Meals/Rice with Toppings (Average ¥32)",
+            "Chinese Cuisine/Sichuan Food (Average ¥65)",
+            "International Cuisine/Japanese Bento/Sushi (Average ¥58)"
+          ],
+          "cost per order": "¥30~70",
+          "preferred store rating": "4.2~4.8 stars",
+          "preferred delivery time": "20~35 minutes",
+          "preferred distance": "0~3000m",
+          "recent orders": [
+            {
+              "store": "Yipinxuan Sichuan Restaurant",
+              "product": "Boiled Fish Slices + Rice"
+            },
+            {
+              "store": "Yoshinoya",
+              "product": "Large Beef Bowl"
+            },
+            {
+              "store": "Sushiro",
+              "product": "Salmon Set"
+            }
+          ],
+          "search history": [
+            "Low-fat",
+            "Healthy Meal",
+            "Sichuan Food",
+            "Beef Rice",
+            "Sushi"
+          ]
+        },
+        "weekend lunch/dinner": {
+          "frequently purchased categories": [
+            "Chinese Cuisine/Crayfish (Average ¥128)",
+            "Hot Pot/Sichuan-Chongqing Hot Pot (Average ¥145)",
+            "International Cuisine/Pizza (Average ¥95)"
+          ],
+          "cost per order": "¥80~180",
+          "preferred store rating": "4.5~5.0 stars",
+          "preferred delivery time": "30~45 minutes",
+          "preferred distance": "0~5000m",
+          "recent orders": [
+            {
+              "store": "Xiaohuzixialongxia",
+              "product": "Medium Thirteen Spice Crayfish + Potatoes + Beer"
+            },
+            {
+              "store": "Haidilao Hot Pot",
+              "product": "Tomato Dual-flavor Pot + Beef Platter"
+            },
+            {
+              "store": "Domino's",
+              "product": "Supreme Pizza Family Size"
+            }
+          ],
+          "search history": [
+            "Crayfish",
+            "Hot Pot Delivery",
+            "Family Set",
+            "Pizza",
+            "Kid-friendly Meal"
+          ]
+        },
+        "desserts/drinks/snacks": {
+          "frequently purchased categories": [
+            "Drinks & Desserts/Coffee (Average ¥32)",
+            "Drinks & Desserts/Milk Tea (Average ¥28)",
+            "Drinks & Desserts/Fruit Bowl (Average ¥35)"
+          ],
+          "cost per order": "¥20~45",
+          "preferred store rating": "4.4~4.9 stars",
+          "preferred delivery time": "15~30 minutes",
+          "preferred distance": "0~3000m",
+          "recent orders": [
+            {
+              "store": "Starbucks",
+              "product": "Iced Americano"
+            },
+            {
+              "store": "HEYTEA",
+              "product": "Grape with Cheese Foam"
+            },
+            {
+              "store": "Xianfeng Fruits",
+              "product": "Mixed Fruit Bowl"
+            }
+          ],
+          "search history": [
+            "Coffee",
+            "Fruit Tea",
+            "Low Sugar Milk Tea",
+            "Afternoon Tea",
+            "Starbucks"
+          ]
+        },
+        "night snack": {
+          "frequently purchased categories": [
+            "BBQ/Fried Food/Fried Chicken (Average ¥45)",
+            "Quick Meals/River Snail Rice Noodles (Average ¥32)"
+          ],
+          "cost per order": "¥25~50",
+          "preferred store rating": "4.0~4.6 stars",
+          "preferred delivery time": "25~40 minutes",
+          "preferred distance": "0~3500m",
+          "recent orders": [
+            {
+              "store": "Juwei Fried Chicken",
+              "product": "Spicy Chicken Burger Combo"
+            },
+            {
+              "store": "Liuzhou River Snail Rice Noodles",
+              "product": "Signature River Snail Rice Noodles"
+            },
+            {
+              "store": "Yabo Yijue",
+              "product": "Spicy Duck Neck"
+            }
+          ],
+          "search history": [
+            "Fried Chicken",
+            "Night Snack Combo",
+            "River Snail Rice Noodles",
+            "Marinated Foods",
+            "Non-spicy Night Snacks"
+          ]
+        }
+      },
+      "product delivery": {
+        "frequently purchased categories": [
+          "Vegetables/Bean Products(28%)",
+          "Raw Meat/Poultry/Eggs(22%)",
+          "Grains/Oil/Condiments/Dried Goods(15%)",
+          "Household Items(12%)",
+          "Beverages/Nutritional Drinks(10%)",
+          "Others(13%)"
+        ],
+        "frequently visited stores": [
+          "Hema Fresh(38%)",
+          "Dingdong Grocery(31%)",
+          "Family Mart(15%)",
+          "Other Stores(16%)"
+        ],
+        "cost per order by category": {
+          "Vegetables/Bean Products": "¥5~20",
+          "Raw Meat/Poultry/Eggs": "¥30~80",
+          "Grains/Oil/Condiments/Dried Goods": "¥10~45",
+          "Household Items": "¥15~50",
+          "Beverages/Nutritional Drinks": "¥8~35"
+        },
+        "preferred delivery time": "30~60 minutes",
+        "typical order time": "17~19:00(45%), 10~12:00(30%), 20~21:00(15%)",
+        "recent orders": [
+          {
+            "store": "Hema Fresh",
+            "product": "Green Vegetables, Chicken Breast, Rice"
+          },
+          {
+            "store": "Dingdong Grocery",
+            "product": "Fresh Beef, Onions, Carrots"
+          },
+          {
+            "store": "Family Mart",
+            "product": "Mineral Water, Tissues, Hand Soap"
+          }
+        ],
+        "search history": [
+          "Low-fat Beef",
+          "Organic Vegetables",
+          "Sugar-Free Drinks",
+          "Kitchen Paper Towels",
+          "Eggs"
+        ]
+      }
+    },
+    "in-store consumption": {
+      "in-store dining": {
+        "fine-dining": {
+          "frequently consumed categories": [
+            "International Cuisine/Western Food (Average ¥180)",
+            "Regional Cuisine/Shanghai & Zhejiang Cuisine (Average ¥160)",
+            "International Cuisine/Japanese Food (Average ¥190)"
+          ],
+          "preferred average price per person": "¥150~200",
+          "preferred store rating": "4.3~4.9 stars",
+          "typical dining time": "19:00-21:00",
+          "preferred distance": "1000~3000m",
+          "recent orders": [
+            {
+              "store": "Colca Peruvian Restaurant",
+              "product": "Classic Seafood Platter"
+            },
+            {
+              "store": "Fu 1039",
+              "product": "Squirrel-shaped Mandarin Fish"
+            },
+            {
+              "store": "Helu Rotating Sushi",
+              "product": "Premium Sashimi Set"
+            }
+          ],
+          "search history": [
+            "Creative Cuisine",
+            "High-end Japanese Food",
+            "Romantic Restaurant",
+            "Designer Restaurant"
+          ]
+        },
+        "light meal": {
+          "frequently consumed categories": [
+            "Quick Meals/Chinese Simple Meals (Average ¥45)",
+            "Quick Meals/Western Fast Food (Average ¥55)",
+            "International Cuisine/Southeast Asian Food (Average ¥60)"
+          ],
+          "preferred average price per person": "¥40~60",
+          "preferred store rating": "3.5~4.3 stars",
+          "typical dining time": "12:00-13:30",
+          "preferred distance": "0~500m",
+          "recent orders": [
+            {
+              "store": "Ichiraku Ramen",
+              "product": "Char Siu Ramen"
+            },
+            {
+              "store": "SaladLi",
+              "product": "Light Salad Set"
+            },
+            {
+              "store": "Thai Small Restaurant",
+              "product": "Tom Yum Kung Noodle"
+            }
+          ],
+          "search history": [
+            "Healthy Light Food",
+            "Work Meal",
+            "Quick Service",
+            "Salad"
+          ]
+        },
+        "desserts/drinks/snacks": {
+          "frequently consumed categories": [
+            "Beverage Shops (Average ¥25)",
+            "Bakery & Desserts (Average ¥35)"
+          ],
+          "preferred average price per person": "¥20~40",
+          "preferred store rating": "4.0~4.8 stars",
+          "typical dining time": "15:00-17:00",
+          "preferred distance": "0~800m",
+          "recent orders": [
+            {
+              "store": "HEYTEA",
+              "product": "Grape with Cheese Foam (Sugar-Free)"
+            },
+            {
+              "store": "Bread etc",
+              "product": "Whole Wheat Avocado Sandwich"
+            },
+            {
+              "store": "LELECHA",
+              "product": "Brown Sugar Boba Milk Tea (Less Sugar)"
+            }
+          ],
+          "search history": [
+            "Low Sugar Drinks",
+            "Handcrafted Coffee",
+            "Healthy Desserts",
+            "Light Afternoon Tea"
+          ]
+        }
+      },
+      "other in-store services": {
+        "frequently consumed categories": {
+          "Sports & Fitness/Fitness Center": "40%",
+          "Beauty/Yoga": "30%",
+          "Entertainment/DIY Workshop": "20%",
+          "Entertainment/Massage/Foot Therapy": "10%"
+        },
+        "cost per order by category": {
+          "Sports & Fitness/Fitness Center": "¥150~300",
+          "Beauty/Yoga": "¥120~180",
+          "Entertainment/DIY Workshop": "¥200~350",
+          "Entertainment/Massage/Foot Therapy": "¥180~250"
+        },
+        "preferred store rating": "4.2~4.8 stars",
+        "preferred service time": "18:00-21:00",
+        "preferred distance": "0~3000m",
+        "recent orders": [
+          {
+            "store": "Will's Gym (Ocean Towers Branch)",
+            "product": "Personal Training Session"
+          },
+          {
+            "store": "Brahma Yoga",
+            "product": "Flow Yoga Single Experience"
+          },
+          {
+            "store": "Zaowuji Workshop",
+            "product": "Pottery Making Experience"
+          }
+        ],
+        "search history": [
+          "Designer Yoga",
+          "Creative Handicraft",
+          "Fitness Studio",
+          "High-end Fitness"
+        ]
+      }
+    },
+    "OTA": {
+      "visited scenes": {
+        "Exhibitions (Museums/Art Galleries)": "35%",
+        "Landmark Buildings": "20%",
+        "Theme Parks": "15%",
+        "Natural Landscapes (Mountains/Lakes/Forests)": "20%",
+        "Featured Villages/Industrial Tourism/Uncategorized Projects": "10%"
+      },
+      "cost per night on hotel": "¥500~1000",
+      "visited hotels": {
+        "Atour": "40%",
+        "JI Hotel": "25%",
+        "Orange Hotel": "15%",
+        "Vienna Hotel": "10%",
+        "Huazhu": "10%"
+      },
+      "browsed hotels": {
+        "Four-star Hotels": "30%",
+        "Comfort Hotels": "45%",
+        "Luxury Hotels": "15%",
+        "Three-star Hotels": "10%"
+      },
+      "historical travel plans": {
+        "Shanghai-Hangzhou": {
+          "Price Range": "¥150-250",
+          "Transportation": "High-speed Rail/Train"
+        },
+        "Shanghai-Beijing": {
+          "Price Range": "¥800-1200",
+          "Transportation": "Flight"
+        },
+        "Shanghai-Suzhou": {
+          "Price Range": "¥80-120",
+          "Transportation": "High-speed Rail/Train"
+        },
+        "Shanghai-Chengdu": {
+          "Price Range": "¥1000-1500",
+          "Transportation": "Flight"
+        },
+        "Shanghai-Nanjing": {
+          "Price Range": "¥200-300",
+          "Transportation": "High-speed Rail/Train"
+        },
+        "Shanghai-Xiamen": {
+          "Price Range": "¥600-900",
+          "Transportation": "Flight"
+        },
+        "Shanghai-Huangshan": {
+          "Price Range": "¥400-600",
+          "Transportation": "Self-driving"
+        }
+      }
+    }
+  },
+  "stores": {
+    "S17550809260058202_S00001": {
+      "name": "Lady M",
+      "store_id": "S17550809260058202_S00001",
+      "score": 4.8,
+      "location": {
+        "address": "Lady M, Unit 404A, 4th Floor, Plaza 66, 1266 Nanjing West Road, Jing'an District, Shanghai",
+        "latitude": 31.23082,
+        "longitude": 121.45935
+      },
+      "tags": [
+        "Cake",
+        "Dessert",
+        "Superior",
+        "French Style",
+        "Freshly Made (Requires at least one-day advance reservation)"
+      ],
+      "store_type": "target",
+      "products": [
+        {
+          "name": "Low Sugar Cheesecake",
+          "store_id": "S17550809260058202_S00001",
+          "store_name": "Lady M",
+          "price": 428,
+          "tags": [
+            "Low Sugar",
+            "Sugar-Free",
+            "Cheese",
+            "Superior Cake",
+            "Gift Cake"
+          ],
+          "product_id": "S17550809260058202_P00001",
+          "attributes": [
+            "6 inches"
+          ],
+          "product_type": "target"
+        },
+        {
+          "name": "Sugar-Free Matcha Mille-feuille Cake",
+          "store_id": "S17550809260058202_S00001",
+          "store_name": "Lady M",
+          "price": 458,
+          "tags": [
+            "Sugar-Free",
+            "Sugar-Free",
+            "Matcha",
+            "Mille-feuille",
+            "Superior"
+          ],
+          "product_id": "S17550809260058202_P00002",
+          "attributes": [
+            "8 inches",
+            "Refrigerated delivery"
+          ],
+          "product_type": "target"
+        },
+        {
+          "name": "Champagne Chocolate Cake",
+          "store_id": "S17550809260058202_S00001",
+          "store_name": "Lady M",
+          "price": 428,
+          "tags": [
+            "Chocolate",
+            "Champagne",
+            "Superior Cake",
+            "Gift Cake"
+          ],
+          "product_id": "S17550809260058202_P00003",
+          "attributes": [
+            "6 inches",
+            "Refrigerated delivery"
+          ],
+          "product_type": "distraction"
+        },
+        {
+          "name": "Superior Cream Cake",
+          "store_id": "S17550809260058202_S00001",
+          "store_name": "Lady M",
+          "price": 368,
+          "tags": [
+            "Cream",
+            "Superior Cake",
+            "Gift Cake"
+          ],
+          "product_id": "S17550809260058202_P00004",
+          "attributes": [
+            "6 inches",
+            "Refrigerated delivery"
+          ],
+          "product_type": "distraction"
+        },
+        {
+          "name": "Black Truffle Cheesecake",
+          "store_id": "S17550809260058202_S00001",
+          "store_name": "Lady M",
+          "price": 588,
+          "tags": [
+            "Low Sugar",
+            "Sugar-Free",
+            "Truffle",
+            "Superior Cake",
+            "Gift Cake"
+          ],
+          "product_id": "S17550809260058202_P00005",
+          "attributes": [
+            "8 inches",
+            "Refrigerated delivery"
+          ],
+          "product_type": "distraction"
+        }
+      ]
+    },
+    "S17550809260058202_S00002": {
+      "name": "LECAKE",
+      "store_id": "S17550809260058202_S00002",
+      "score": 4.7,
+      "location": {
+        "address": "LECAKE, 1st Floor, Ocean Towers, 1601 Nanjing West Road, Jing'an District, Shanghai",
+        "latitude": 31.22968,
+        "longitude": 121.45325
+      },
+      "tags": [
+        "Cake",
+        "Dessert",
+        "Birthday Cake",
+        "Low Sugar",
+        "Fast Delivery"
+      ],
+      "store_type": "target",
+      "products": [
+        {
+          "name": "Rose Cheesecake (Low Sugar Version)",
+          "store_id": "S17550809260058202_S00002",
+          "store_name": "LECAKE",
+          "price": 398,
+          "tags": [
+            "Low Sugar",
+            "Sugar-Free",
+            "Cheesecake",
+            "Rose",
+            "Premium Customization"
+          ],
+          "product_id": "S17550809260058202_P00006",
+          "attributes": [
+            "6 inches"
+          ],
+          "product_type": "target"
+        },
+        {
+          "name": "French Truffle Chocolate Cake (Sugar-Free Version)",
+          "store_id": "S17550809260058202_S00002",
+          "store_name": "LECAKE",
+          "price": 468,
+          "tags": [
+            "Superior Customization",
+            "Confession Special",
+            "Ice Cream Cake"
+          ],
+          "product_id": "S17550809260058202_P00007",
+          "attributes": [
+            "6 inches"
+          ],
+          "product_type": "target"
+        },
+        {
+          "name": "Lightly Salted Cheese Mousse Cake",
+          "store_id": "S17550809260058202_S00002",
+          "store_name": "LECAKE",
+          "price": 358,
+          "tags": [
+            "Savory",
+            "Cheese",
+            "Mousse",
+            "Premium"
+          ],
+          "product_id": "S17550809260058202_P00008",
+          "attributes": [
+            "6 inches"
+          ],
+          "product_type": "target"
+        },
+        {
+          "name": "Champagne Rose Cake",
+          "store_id": "S17550809260058202_S00002",
+          "store_name": "LECAKE",
+          "price": 488,
+          "tags": [
+            "Champagne",
+            "Rose",
+            "Romantic",
+            "Premium Customization",
+            "Couple Exclusive"
+          ],
+          "product_id": "S17550809260058202_P00009",
+          "attributes": [
+            "6 inches"
+          ],
+          "product_type": "distraction"
+        },
+        {
+          "name": "Black Truffle Cream Cake (Reduced Sugar Version)",
+          "store_id": "S17550809260058202_S00002",
+          "store_name": "LECAKE",
+          "price": 598,
+          "tags": [
+            "Truffle",
+            "Cream",
+            "Premium",
+            "Custom-made",
+            "Deluxe"
+          ],
+          "product_id": "S17550809260058202_P00010",
+          "attributes": [
+            "8 inches",
+            "10 inches",
+            "Delivery before 14:00",
+            "Delivery before 16:00"
+          ],
+          "product_type": "distraction"
+        },
+        {
+          "name": "Matcha Red Bean Cake Slice",
+          "store_id": "S17550809260058202_S00002",
+          "store_name": "LECAKE",
+          "price": 68,
+          "tags": [
+            "Matcha",
+            "Red Bean",
+            "Japanese Style",
+            "Dessert"
+          ],
+          "product_id": "S17550809260058202_P00011",
+          "attributes": [],
+          "product_type": "distraction"
+        }
+      ]
+    },
+    "S17550809260058202_S00003": {
+      "name": "Paris Baguette",
+      "store_id": "S17550809260058202_S00003",
+      "score": 4.5,
+      "location": {
+        "address": "Paris Baguette, B1 Floor, 700 Yishan Road, Xuhui District, Shanghai",
+        "latitude": 31.17785,
+        "longitude": 121.42385
+      },
+      "tags": [
+        "Cake",
+        "Bread",
+        "French Style",
+        "Lightly Sweet",
+        "Fast Delivery"
+      ],
+      "store_type": "distraction",
+      "products": [
+        {
+          "name": "French Light Cream Birthday Cake",
+          "store_id": "S17550809260058202_S00003",
+          "store_name": "Paris Baguette",
+          "price": 298,
+          "tags": [
+            "Low Sugar",
+            "Birthday Cake",
+            "French Style",
+            "Light Cream",
+            "Sugar-Free"
+          ],
+          "product_id": "S17550809260058202_P00012",
+          "attributes": [
+            "8 inches"
+          ],
+          "product_type": "target"
+        },
+        {
+          "name": "Matcha Red Bean Mousse Cake",
+          "store_id": "S17550809260058202_S00003",
+          "store_name": "Paris Baguette",
+          "price": 368,
+          "tags": [
+            "Matcha",
+            "Red Bean",
+            "Mousse",
+            "Low Sugar",
+            "Sugar-Free"
+          ],
+          "product_id": "S17550809260058202_P00013",
+          "attributes": [
+            "8 inches"
+          ],
+          "product_type": "target"
+        },
+        {
+          "name": "Superior Cheesecake",
+          "store_id": "S17550809260058202_S00003",
+          "store_name": "Paris Baguette",
+          "price": 358,
+          "tags": [
+            "Cheese",
+            "Cheese",
+            "Milk Flavor",
+            "Low Sugar"
+          ],
+          "product_id": "S17550809260058202_P00014",
+          "attributes": [
+            "8 inches"
+          ],
+          "product_type": "distraction"
+        },
+        {
+          "name": "Black Forest Cherry Cake",
+          "store_id": "S17550809260058202_S00003",
+          "store_name": "Paris Baguette",
+          "price": 468,
+          "tags": [
+            "Cherry",
+            "Black Forest",
+            "Chocolate",
+            "Sweet and Sour Taste"
+          ],
+          "product_id": "S17550809260058202_P00015",
+          "attributes": [
+            "8 inches"
+          ],
+          "product_type": "distraction"
+        },
+        {
+          "name": "Deluxe Chocolate Truffle Cake",
+          "store_id": "S17550809260058202_S00003",
+          "store_name": "Paris Baguette",
+          "price": 598,
+          "tags": [
+            "Chocolate",
+            "Truffle",
+            "Superior",
+            "Luxury"
+          ],
+          "product_id": "S17550809260058202_P00016",
+          "attributes": [
+            "8 inches"
+          ],
+          "product_type": "distraction"
+        }
+      ]
+    },
+    "S17550809260058202_S00004": {
+      "name": "85°C Cafe",
+      "store_id": "S17550809260058202_S00004",
+      "score": 4.2,
+      "location": {
+        "address": "85°C Cafe, 1st Floor, 800 Yishan Road, Xuhui District, Shanghai",
+        "latitude": 31.17795,
+        "longitude": 121.42405
+      },
+      "tags": [
+        "Cake",
+        "Bread",
+        "Coffee",
+        "Affordable"
+      ],
+      "store_type": "distraction",
+      "products": [
+        {
+          "name": "Low Sugar Cheesecake",
+          "store_id": "S17550809260058202_S00004",
+          "store_name": "85°C Cafe",
+          "price": 158,
+          "tags": [
+            "Low Sugar",
+            "Cheese",
+            "Cake",
+            "Afternoon Tea"
+          ],
+          "product_id": "S17550809260058202_P00018",
+          "attributes": [
+            "6 inches",
+            "Contains dairy"
+          ],
+          "product_type": "distraction"
+        },
+        {
+          "name": "Cream Fruit Cake",
+          "store_id": "S17550809260058202_S00004",
+          "store_name": "85°C Cafe",
+          "price": 198,
+          "tags": [
+            "Fruit",
+            "Cream",
+            "Classic",
+            "Birthday"
+          ],
+          "product_id": "S17550809260058202_P00019",
+          "attributes": [
+            "8 inches",
+            "Contains dairy"
+          ],
+          "product_type": "distraction"
+        },
+        {
+          "name": "Black Forest Cake",
+          "store_id": "S17550809260058202_S00004",
+          "store_name": "85°C Cafe",
+          "price": 228,
+          "tags": [
+            "Chocolate",
+            "Cherry",
+            "Classic",
+            "Birthday"
+          ],
+          "product_id": "S17550809260058202_P00020",
+          "attributes": [
+            "8 inches",
+            "Contains alcohol"
+          ],
+          "product_type": "distraction"
+        },
+        {
+          "name": "Light Cheesecake Slice",
+          "store_id": "S17550809260058202_S00004",
+          "store_name": "85°C Cafe",
+          "price": 28,
+          "tags": [
+            "Light",
+            "Cheese",
+            "Afternoon Tea"
+          ],
+          "product_id": "S17550809260058202_P00021",
+          "attributes": [
+            "Contains dairy"
+          ],
+          "product_type": "distraction"
+        },
+        {
+          "name": "Strawberry Mousse Cake",
+          "store_id": "S17550809260058202_S00004",
+          "store_name": "85°C Cafe",
+          "price": 188,
+          "tags": [
+            "Strawberry",
+            "Mousse",
+            "Birthday",
+            "Couple"
+          ],
+          "product_id": "S17550809260058202_P00022",
+          "attributes": [
+            "8 inches"
+          ],
+          "product_type": "distraction"
+        }
+      ]
+    },
+    "S17550809260058202_S00005": {
+      "name": "Ganso Food",
+      "store_id": "S17550809260058202_S00005",
+      "score": 4.3,
+      "location": {
+        "address": "Ganso Food, 1st Floor, Jing'an Kerry Centre, 1518 Nanjing West Road, Jing'an District, Shanghai",
+        "latitude": 31.22875,
+        "longitude": 121.45105
+      },
+      "tags": [
+        "Cake",
+        "Dessert",
+        "Gift Box",
+        "Traditional",
+        "Freshly Made (Requires at least one-day advance reservation)"
+      ],
+      "store_type": "distraction",
+      "products": [
+        {
+          "name": "Lightly Sweet Series - Milk Cheesecake",
+          "store_id": "S17550809260058202_S00005",
+          "store_name": "Ganso Food",
+          "price": 299,
+          "tags": [
+            "Low Sugar",
+            "Lightly Sweet",
+            "Cheese",
+            "Superior",
+            "Couple Cake"
+          ],
+          "product_id": "S17550809260058202_P00023",
+          "attributes": [
+            "6 inches"
+          ],
+          "product_type": "distraction"
+        },
+        {
+          "name": "Pure Milk Savory Cake",
+          "store_id": "S17550809260058202_S00005",
+          "store_name": "Ganso Food",
+          "price": 328,
+          "tags": [
+            "Sugar-Free",
+            "Savory",
+            "Premium",
+            "Cream",
+            "Couple Cake"
+          ],
+          "product_id": "S17550809260058202_P00024",
+          "attributes": [
+            "6 inches"
+          ],
+          "product_type": "distraction"
+        },
+        {
+          "name": "Black Truffle Cheesecake",
+          "store_id": "S17550809260058202_S00005",
+          "store_name": "Ganso Food",
+          "price": 458,
+          "tags": [
+            "Premium",
+            "Black Truffle",
+            "Cheese",
+            "Lightly Sweet",
+            "Luxury"
+          ],
+          "product_id": "S17550809260058202_P00025",
+          "attributes": [
+            "6 inches",
+            "8 inches"
+          ],
+          "product_type": "distraction"
+        },
+        {
+          "name": "Lightly Salted Cheese Gift Box",
+          "store_id": "S17550809260058202_S00005",
+          "store_name": "Ganso Food",
+          "price": 399,
+          "tags": [
+            "Savory",
+            "Cheese",
+            "Gift Box",
+            "High-end",
+            "Couple Gift"
+          ],
+          "product_id": "S17550809260058202_P00026",
+          "attributes": [
+            "8 inches"
+          ],
+          "product_type": "distraction"
+        },
+        {
+          "name": "French Salted Cream Cake",
+          "store_id": "S17550809260058202_S00005",
+          "store_name": "Ganso Food",
+          "price": 488,
+          "tags": [
+            "French Style",
+            "Salted Cream",
+            "Superior",
+            "Limited Edition",
+            "Couple Cake"
+          ],
+          "product_id": "S17550809260058202_P00027",
+          "attributes": [
+            "8 inches"
+          ],
+          "product_type": "distraction"
+        }
+      ]
+    }
+  },
+  "orders": {
+    "S17550809260058202_O00001": {
+      "order_id": "S17550809260058202_O00001",
+      "order_type": "delivery",
+      "user_id": "U798941",
+      "store_id": "S17550809260058202_S00001",
+      "total_price": 458,
+      "create_time": "2026-07-15 14:35:12",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17550809260058202_P00002",
+          "price": 458,
+          "quantity": 1
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "task_id": "44",
+  "query": "I want to travel from Jinan to Chengdu, departing on November 12, 2025, and returning on the 15th. Could you help me plan the itinerary, including transportation, accommodation, meals, and attractions?\n\nFor transportation: please arrange a convenient outbound train option for me. For the return trip, I’d like the latest direct train that arrives back in Jinan, so I can stay in Chengdu as long as possible.\n\nRegarding accommodation: my budget is between 310 and 340 yuan per night. Could you check if there are any suitable hotels available? By the way, we’re a group of three people, but two rooms will be enough.\n\nAs for dining, I have a few places I’d like to try—could you help me schedule them? One is a restaurant near the 'Kuanzhai Alley Scenic Area'—just pick one closest to the scenic area. Also, I’ve heard there are many good options around 'Heming Teahouse'—could you select the highest-rated restaurant there and include it in the plan?\n\nThat’s about it—I think I’ve provided all the necessary information. Please go ahead and prepare the full itinerary for me! November 12, 2025 is Wednesday",
+  "meta_info": {
+    "org": "Jinan",
+    "dest": [
+      "Chengdu"
+    ],
+    "days": 4,
+    "depart_date": "2025-11-12",
+    "return_date": "2025-11-15",
+    "people_number": 3,
+    "room_number": 2
+  },
+  "hard_constraints": {
+    "train_latest_arrival_direct": {
+      "constraint_context": "I would like to return later, so please help me choose the latest direct train for the return trip",
+      "constraint_type": "superlative_latest_arrival",
+      "inbound_train_no": "G3423"
+    },
+    "hotel_price_range": {
+      "constraint_context": "The accommodation price must be between 310 and 340 yuan.",
+      "hotel_name": "Vienna International Hotel (5.0 Edition Chengdu Chunxi Road Taikoo Li Branch)",
+      "hotel_price": 334.0,
+      "min_price": 310,
+      "max_price": 340
+    },
+    "restaurant_closest_to_attraction": {
+      "constraint_context": "During the trip, please arrange a meal at the restaurant closest to the 'Kuanzhai Alley Scenic Area'.",
+      "constraint_type": "superlative_closest_to_attraction",
+      "attraction_name": "Kuanzhai Alley Scenic Area",
+      "restaurant_name": "Zi Fei (Kuanzhai Alley Scenic Area Branch)",
+      "price_per_person": 681.0
+    },
+    "restaurant_highest_rated": {
+      "constraint_context": "During the trip, please arrange a meal at the highest-rated restaurant near 'Heming Teahouse'.",
+      "constraint_type": "superlative_highest_rated_restaurant",
+      "attraction_name": "Heming Teahouse",
+      "restaurant_name": "Yi Dian Wei Restaurant (Great Wall Garden Branch)",
+      "price_per_person": 18.0,
+      "restaurant_rating": 4.2
+    }
+  }
+}

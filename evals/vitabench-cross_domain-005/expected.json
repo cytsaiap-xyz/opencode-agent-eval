@@ -1,0 +1,85 @@
+{
+  "required_orders": [
+    {
+      "order_id": "OTc6b8649204",
+      "order_type": "delivery",
+      "user_id": "U297090",
+      "store_id": "S17550802124707160_S00001",
+      "note": "Please deliver before 6:30",
+      "location": {
+        "address": "Mycott International Building, No.63 Maidi Road, Huicheng District, Huizhou, Guangdong",
+        "longitude": 114.411739,
+        "latitude": 23.076147
+      },
+      "dispatch_time": "2025-06-20 17:42:00",
+      "shipping_time": 26,
+      "delivery_time": "2025-06-20 18:08:00",
+      "total_price": 12.9,
+      "create_time": "2025-06-20 17:31:17",
+      "update_time": "2025-06-20 17:31:17",
+      "status": "delivered",
+      "products": [
+        {
+          "product_id": "S17550802124707160_P00001",
+          "price": 12.9,
+          "quantity": 1,
+          "name": "Chicken Strips Purple Rice Ball",
+          "store_id": "S17550802124707160_S00001",
+          "store_name": "Rice Ball Family",
+          "attributes": "No sauce",
+          "tags": [
+            "Healthy",
+            "Low Oil"
+          ]
+        }
+      ]
+    },
+    {
+      "book_id": "10811016T001",
+      "shop_id": "S17550802124707160_I00011",
+      "book_time": "2025-06-20 22:00:00",
+      "update_time": "2025-06-20 17:36:28",
+      "customer_id": "U297090",
+      "customer_count": 6,
+      "book_price": 100,
+      "status": "unconsumed"
+    },
+    {
+      "order_id": "OTdb4b9e93be",
+      "order_type": "train",
+      "user_id": "U297090",
+      "store_id": "S17550802124707160_T00007",
+      "note": "",
+      "location": "",
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 89,
+      "create_time": "2025-06-20 17:39:41",
+      "update_time": "2025-06-20 17:39:41",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17550802124707160_P00036",
+          "price": 89,
+          "quantity": 1,
+          "date": "2025-06-22",
+          "seat_type": "Second Class Seat"
+        }
+      ]
+    }
+  ],
+  "rubrics": [
+    "The items in the Rice Ball order should not contain sauce",
+    "The delivery time in the Rice Ball order should be before 18:30:00 on 2025-06-20",
+    "The delivery address for the Rice Ball order is Mycott International Building, No.63 Maidi Road, Huicheng District, Huizhou, Guangdong",
+    "The item in the Rice Ball order should be Chicken Strips Purple Rice Ball flavor",
+    "The reservation time in the Haidilao order should be 22:00:00 on 2025-06-20",
+    "The number of people for the Haidilao reservation is 6",
+    "The merchant in the Haidilao order should be Haidilao",
+    "The merchant in the Haidilao order should be the branch closest to the Sports Center (query shows it's Haidilao Hotpot (Dongguan Sports Center))",
+    "Based on the query, there is no direct train from Huizhou to Shenzhen Airport, so a train from Huizhou to Shenzhen North should be ordered",
+    "To pick someone up at the airport at 10:00, one needs to arrive at Shenzhen North Station one and a half hours in advance, so the arrival time of the train in the order should be before 08:30:00 on 2025-06-22",
+    "The high-speed rail ticket price should not exceed 100 yuan"
+  ]
+}

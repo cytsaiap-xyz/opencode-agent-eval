@@ -1,0 +1,63 @@
+{
+  "required_orders": [
+    {
+      "order_id": "10826080T001",
+      "order_type": "instore",
+      "user_id": "U505570",
+      "store_id": "S17567836631075109_I00001",
+      "note": "",
+      "location": null,
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 480,
+      "create_time": "2024-09-28 08:45:30",
+      "update_time": "2024-09-28 08:45:30",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17567836631075109_P00001",
+          "name": "8-Person Team Combat Package",
+          "price": 480,
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "reservation_id": "10826080T002",
+      "shop_id": "S17567836631075109_I00001",
+      "reservation_time": "2024-09-28 10:00:00",
+      "update_time": "2024-09-28 08:46:09",
+      "customer_id": "U505570",
+      "customer_count": 8,
+      "status": "unconsumed"
+    },
+    {
+      "book_id": "10826080T003",
+      "shop_id": "S17567836631075109_I00002",
+      "book_time": "2024-09-28 13:00:00",
+      "update_time": "2024-09-28 08:47:13",
+      "customer_id": "U505570",
+      "customer_count": 8,
+      "book_price": 10,
+      "status": "unconsumed"
+    }
+  ],
+  "rubrics": [
+    "The base for real-life CS orders should be a large-scale base",
+    "The base for real-life CS orders must be within 5 kilometers (including 5 kilometers) of the Military Sports Academy Community, 80m Southwest of Taichang Street and Taisheng Road Intersection, Tianhe District, Guangzhou",
+    "The product in real-life CS orders should be a Team Combat Package",
+    "The product in real-life CS orders should be an 8-Person package",
+    "The product in real-life CS orders should be available on weekends",
+    "The product in real-life CS orders must include equipment usage",
+    "The product in real-life CS orders must include venue usage",
+    "The CS base to be reserved should be Extreme Battlefield Real-life CS Base",
+    "The number of people for the CS base reservation should be 8",
+    "The reservation time for the CS base should be 2024-09-28 at 10:00:00",
+    "Query whether there are Halal restaurants within 1 kilometer (including 1 kilometer) of Extreme Battlefield Real-life CS Base, 233 Tianhe North Road, Tianhe District, Guangzhou, and if so, make a reservation. The query result is positive, so the reservation is made for a restaurant within 1 kilometer (including 1 kilometer) of Extreme Battlefield Real-life CS Base",
+    "The reserved restaurant should be a Halal Restaurant",
+    "The rating of the reserved restaurant should be 4.0 or above",
+    "The restaurant reservation time should be 2024-09-28 13:00:00",
+    "The number of people for the restaurant reservation should be 8"
+  ]
+}

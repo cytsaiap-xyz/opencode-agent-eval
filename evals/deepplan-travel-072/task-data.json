@@ -1,0 +1,48 @@
+{
+  "task_id": "71",
+  "query": "I'm planning a trip from Xi'an to Beijing on November 12, 2025, and returning on November 16. The main purpose of this trip is to relax and visit a few places in Beijing. Regarding transportation, I’ve always been used to flying with 'China Eastern Airlines', so could you please help me pick the cheapest direct flight they offer? I don't have specific time preferences—lowest price is the top priority.\n\nAs for accommodation, I’m a member of 'Atour', and I’ve always found their properties good value. So this time, please just book the most affordable hotel under the Atour brand. There are four of us, so two rooms will be sufficient.\n\nBy the way, during this trip, I really want to visit 'Beijing Dashilan' and the 'National Aquatics Center (Water Cube)'—these two spots must be included in the itinerary. Also, I heard there are many great food options near the 'Monument to the People's Heroes'. Could you help me find the highest-rated restaurant nearby? We’d love to try it out.\n\nThat’s about it—I think I’ve covered everything. Please help me plan the trip accordingly. Looking forward to your arrangement! November 12, 2025 is Wednesday",
+  "meta_info": {
+    "org": "Xi'an",
+    "dest": [
+      "Beijing"
+    ],
+    "days": 5,
+    "depart_date": "2025-11-12",
+    "return_date": "2025-11-16",
+    "people_number": 4,
+    "room_number": 2
+  },
+  "hard_constraints": {
+    "flight_cheapest_airline_direct": {
+      "constraint_context": "For the outbound journey, please help me select the cheapest direct flight from China Eastern Airlines",
+      "constraint_type": "superlative_cheapest_airline",
+      "outbound_flight_no": "MU2115"
+    },
+    "hotel_cheapest_brand": {
+      "constraint_context": "For accommodation, please select the cheapest hotel among the Atour brand hotels",
+      "constraint_type": "superlative_cheapest_brand",
+      "hotel_name": "Atour Hotel Beijing Yizhuang Mobile Silicon Valley",
+      "hotel_price": 405.0
+    },
+    "restaurant_highest_rated": {
+      "constraint_context": "During the trip, please arrange a meal at the highest-rated restaurant near the 'Monument to the People's Heroes'.",
+      "constraint_type": "superlative_highest_rated_restaurant",
+      "attraction_name": "Monument to the People's Heroes",
+      "restaurant_name": "Wanchun Jinfu Afternoon Tea (Qianmen Branch)",
+      "price_per_person": 48.0,
+      "restaurant_rating": 4.6
+    },
+    "attraction_must_visit_named": {
+      "constraint_context": "The itinerary must include visits to 'Beijing Dashilan' and the 'National Aquatics Center (Water Cube)'.",
+      "constraint_type": "superlative_must_visit_named",
+      "attraction_names": [
+        "Beijing Dashilan",
+        "National Aquatics Center (Water Cube)"
+      ],
+      "attraction_ratings": [
+        4.8,
+        4.7
+      ]
+    }
+  }
+}

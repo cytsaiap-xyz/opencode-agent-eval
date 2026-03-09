@@ -1,0 +1,66 @@
+{
+  "required_orders": [
+    {
+      "order_id": "90902020T001",
+      "order_type": "instore",
+      "user_id": "U590539",
+      "store_id": "S17564423645199589_I00001",
+      "note": "",
+      "location": null,
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 138,
+      "create_time": "2025-07-19 16:17:00",
+      "update_time": "2025-07-19 16:17:00",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17564423645199589_P00001",
+          "name": "Parent-Child Swimming 2.5-hour Package",
+          "price": 138,
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "order_id": "90902020T002",
+      "order_type": "instore",
+      "user_id": "U590539",
+      "store_id": "S17564423645199589_I00004",
+      "note": "",
+      "location": null,
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 42,
+      "create_time": "2025-07-19 16:19:00",
+      "update_time": "2025-07-19 16:19:00",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17564423645199589_P00005",
+          "name": "Single Serving Shredded Chicken Porridge",
+          "price": 22,
+          "quantity": 1
+        },
+        {
+          "product_id": "S17564423645199589_P00006",
+          "name": "Children's Nutritional Meal Set",
+          "price": 20,
+          "quantity": 1
+        }
+      ]
+    }
+  ],
+  "rubrics": [
+    "Due to tomorrow's (July 20, 2025) light rain weather, the swimming pool ordered must be an indoor swimming pool",
+    "The swimming pool ordered must have a parking lot",
+    "The swimming pool order must be for a parent-child package",
+    "The swimming pool order must include at least 2 hours of swimming time",
+    "The restaurant ordered should be Yonghe King",
+    "The restaurant should be within 1 kilometer (inclusive) of Anhui Province Sports Center Indoor Swimming Pool, 188 Qianshan Road, Shushan District, Hefei City, Anhui Province",
+    "The restaurant order must include two different single-person meals",
+    "The restaurant order must be valid for use on July 20, 2025 (Sunday)"
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "task_id": "108",
+  "query": "I plan to travel from Jinan to Chongqing on November 12, 2025, and return on November 18. Please help me plan the itinerary, including transportation, accommodation, dining, and sightseeing arrangements. By the way, I'd like to take a flight for the outbound journey—preferably a direct flight with a lower price; no special requirements otherwise.\n\nFor accommodation, I’d like something comfortable—a four-star hotel would be great. I sometimes enjoy watching TV series or movies in the evening, so it would be convenient if the hotel room has a TV that supports screen mirroring. There are four of us in total, so please book two rooms.\n\nAdditionally, there’s a special arrangement during this trip: I’d like to have a meal near \"Chongqing Chaotianmen Square\" at a restaurant that offers birthday set menu services. Could you please check if there are any suitable options? Oh, and another meal will be around \"Chongqing Shibachi Traditional Style Area\"—we’re on a tight budget, so could you find the cheapest restaurant with the lowest per-person cost? Just schedule both meals at convenient times for sightseeing.\n\nThat covers all my requirements. I’ve provided all the details clearly, so you can go ahead and plan the itinerary directly—no need to ask for further information. November 12, 2025 is Wednesday",
+  "meta_info": {
+    "org": "Jinan",
+    "dest": [
+      "Chongqing"
+    ],
+    "days": 7,
+    "depart_date": "2025-11-12",
+    "return_date": "2025-11-18",
+    "people_number": 4,
+    "room_number": 2
+  },
+  "hard_constraints": {
+    "flight_cheapest_direct": {
+      "constraint_context": "Prefer to take a flight for the outbound journey, and need to select the cheapest flight among direct flights",
+      "constraint_type": "superlative_cheapest_direct",
+      "outbound_flight_no": "PN6328"
+    },
+    "hotel_star_service_required": {
+      "constraint_context": "For accommodation, please select a 4-star hotel that provides TVs with screen mirroring capability",
+      "constraint_type": "superlative_star_service_required",
+      "hotel_name": "Atour Hotel - Chongqing North Railway Station North Square",
+      "required_service": "TV Casting",
+      "hotel_star": 4,
+      "hotel_price": 393.0
+    },
+    "restaurant_specific_tag_nearby": {
+      "constraint_context": "Arrange a meal at a restaurant near 'Chongqing Chaotianmen Square' during the trip, with birthday set menu service required.",
+      "constraint_type": "superlative_specific_tag_nearby",
+      "attraction_name": "Chongqing Chaotianmen Square",
+      "restaurant_name": "Hong Kong Style Tea Restaurant (Chongqing Raffles City Plaza Branch)",
+      "required_tag": "Birthday Package",
+      "price_per_person": 64.0,
+      "restaurant_rating": 4.3
+    },
+    "restaurant_cheapest_nearby_attraction": {
+      "constraint_context": "During the trip, please arrange a meal at the cheapest restaurant near 'Chongqing Shibati Traditional Style Area'.",
+      "constraint_type": "superlative_cheapest_nearby_attraction",
+      "attraction_name": "Chongqing Shibati Traditional Style Area",
+      "restaurant_name": "Xiao Jiang Restaurant",
+      "price_per_person": 32.0
+    }
+  }
+}

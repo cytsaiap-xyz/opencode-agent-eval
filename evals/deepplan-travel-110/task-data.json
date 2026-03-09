@@ -1,0 +1,50 @@
+{
+  "task_id": "109",
+  "query": "I'm planning a trip from Hefei to Zhengzhou on November 12, 2025, staying until November 18. I'd appreciate your help in arranging the itinerary for this trip. For the return journey, I'll take a train and would prefer a direct service with the shortest travel time—getting home as quickly as possible would be ideal.\n\nRegarding accommodation, my budget is between 350 and 390 yuan per night. Please help me find a suitable hotel within this price range. By the way, I'm traveling alone, so just one room is needed.\n\nAs for attractions, there are two must-visit places: 'Henan Museum' and 'Zhengzhou Shang Dynasty Ruins'. These two spots are essential—please make sure they’re included! Additionally, I’d like to find a restaurant near the 'Ruyi Lake Scenic Area' for a meal, preferably one that offers private room service, as that would be more convenient.\n\nThat's basically everything. I believe I've provided all necessary information. Please go ahead and arrange the full itinerary for me, including budget considerations—no need to ask me any further questions. Thank you! November 12, 2025 is Wednesday",
+  "meta_info": {
+    "org": "Hefei",
+    "dest": [
+      "Zhengzhou"
+    ],
+    "days": 7,
+    "depart_date": "2025-11-12",
+    "return_date": "2025-11-18",
+    "people_number": 1,
+    "room_number": 1
+  },
+  "hard_constraints": {
+    "train_shortest_duration_direct": {
+      "constraint_context": "For the return trip, I hope to choose a train, and need to select the \"direct train\" with the shortest travel duration.",
+      "constraint_type": "superlative_shortest_duration",
+      "inbound_train_no": "G2693"
+    },
+    "hotel_price_range": {
+      "constraint_context": "The accommodation price must be between 350 and 390 yuan",
+      "hotel_name": "Hilton Garden Hotel Zhengzhou Airport",
+      "hotel_price": 385.0,
+      "min_price": 350,
+      "max_price": 390
+    },
+    "attraction_must_visit_named": {
+      "constraint_context": "The itinerary must include visits to 'Henan Museum' and 'Zhengzhou Shang Dynasty Ruins'.",
+      "constraint_type": "superlative_must_visit_named",
+      "attraction_names": [
+        "Henan Museum",
+        "Zhengzhou Shang Dynasty Ruins"
+      ],
+      "attraction_ratings": [
+        4.9,
+        4.4
+      ]
+    },
+    "restaurant_specific_tag_nearby": {
+      "constraint_context": "Arrange a meal at a restaurant near the 'Ruyi Lake Scenic Area' during the trip, with private room service required",
+      "constraint_type": "superlative_specific_tag_nearby",
+      "attraction_name": "Ruyi Lake Scenic Area",
+      "restaurant_name": "Zhengzhou Greenland JW Marriott Hotel · Urban Shangshan Buffet Restaurant",
+      "required_tag": "Private Room",
+      "price_per_person": 280.0,
+      "restaurant_rating": 4.3
+    }
+  }
+}

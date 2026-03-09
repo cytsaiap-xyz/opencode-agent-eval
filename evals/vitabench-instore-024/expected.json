@@ -1,0 +1,82 @@
+{
+  "required_orders": [
+    {
+      "order_id": "10826021T001",
+      "order_type": "instore",
+      "user_id": "U003205",
+      "store_id": "S17564420254944798_I00003",
+      "note": "",
+      "location": null,
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 3280,
+      "create_time": "2025-08-06 14:33:00",
+      "update_time": "2025-08-06 14:33:00",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17564420254944798_P00009",
+          "name": "Korean Semi-Permanent Eyebrow Microblading (Chief Technician Jin Zhishou)",
+          "price": 3280,
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "order_id": "10826021T002",
+      "order_type": "instore",
+      "user_id": "U003205",
+      "store_id": "S17564420254944798_I00004",
+      "note": "",
+      "location": null,
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 888,
+      "create_time": "2025-08-06 14:34:00",
+      "update_time": "2025-08-06 14:34:00",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17564420254944798_P00013",
+          "name": "Qixi Romantic Set Menu for Two",
+          "price": 888,
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "book_id": "10826021T003",
+      "shop_id": "S17564420254944798_I00004",
+      "book_time": "2025-08-09 18:00:00",
+      "update_time": "2025-08-06 14:35:00",
+      "customer_id": "U003205",
+      "customer_count": 2,
+      "book_price": 50,
+      "status": "paid"
+    },
+    {
+      "reservation_id": "10826021T004",
+      "shop_id": "S17564420254944798_I00003",
+      "reservation_time": "2025-08-10 15:00:00",
+      "update_time": "2025-08-06 14:36:00",
+      "customer_id": "U003205",
+      "customer_count": 1,
+      "status": "paid"
+    }
+  ],
+  "rubrics": [
+    "The permanent makeup shop I order from must have technicians with excellent skills",
+    "The permanent makeup shop must have a rating greater than or equal to 4.2",
+    "The package from the permanent makeup shop must be semi-permanent eyebrow microblading",
+    "Need to search for the most expensive semi-permanent eyebrow microblading package, which is Korean Semi-Permanent Eyebrow Microblading (Chief Technician Jin Zhishou) from Celebrity Permanent Makeup & SPA Center for 3280 yuan, therefore the order must be for Korean Semi-Permanent Eyebrow Microblading (Chief Technician Jin Zhishou) from Celebrity Permanent Makeup & SPA Center",
+    "Must check user behavior history to find previously visited Italian restaurants, which shows La Vita Italian Traditional Cuisine; the in-store dining establishment must be La Vita Italian Traditional Cuisine",
+    "Need to check if La Vita Italian Traditional Cuisine offers a Qixi Festival Set Menu, results show they do; the in-store dining order must be for the Qixi Festival Set Menu",
+    "The restaurant reservation order needs to book for 6:00 PM on Saturday, August 9, 2025",
+    "The restaurant reservation must be for 2 people",
+    "The reservation should be made at La Vita Italian Traditional Cuisine",
+    "The eyebrow microblading appointment time must be at 3:00 PM on Sunday, August 10, 2025",
+    "The permanent makeup shop for the appointment should be Celebrity Permanent Makeup & SPA Center"
+  ]
+}

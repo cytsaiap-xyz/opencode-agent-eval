@@ -1,0 +1,51 @@
+{
+  "task_id": "51",
+  "query": "I plan to travel from Shanghai to Enshi on November 12, 2025, returning on November 15. The trip is short, so I'd like to keep the itinerary紧凑 (well-packed). For transportation, please help me book a direct flight with the shortest flying time—I prefer not to spend too much time en route.  \n\nFor accommodation, I’m particularly fond of 'Atour', and since my budget is limited this time, please just pick their most affordable hotel option. There are three of us traveling, so I’ll need two rooms.\n\nBy the way, I’ve heard there are many great restaurants near 'Enshi City Leisure Street'. I’d like to have one meal there during the trip—ideally at a restaurant with outdoor seating, as I think dining outside would let me enjoy the local atmosphere. Also, could you arrange a few scenic spots for me? I’ve heard Enshi has many interesting places; please check the top-rated attractions and include the three highest-scoring ones in the itinerary—I only want to visit the most worthwhile spots.\n\nThat covers all my requirements. Please go ahead and plan out the transportation, accommodation, dining, and sightseeing schedule directly—no need to ask for further details. Thanks in advance! November 12, 2025 is Wednesday",
+  "meta_info": {
+    "org": "Shanghai",
+    "dest": [
+      "Enshi"
+    ],
+    "days": 4,
+    "depart_date": "2025-11-12",
+    "return_date": "2025-11-15",
+    "people_number": 3,
+    "room_number": 2
+  },
+  "hard_constraints": {
+    "flight_shortest_duration_direct": {
+      "constraint_context": "Prefer to take a flight for the outbound journey, and need to select the shortest-duration direct flight available",
+      "constraint_type": "superlative_shortest_duration",
+      "outbound_flight_no": "9C8523"
+    },
+    "hotel_cheapest_brand": {
+      "constraint_context": "For accommodation, please select the cheapest hotel among the Atour brand options",
+      "constraint_type": "superlative_cheapest_brand",
+      "hotel_name": "Enshi Badong Hongsheng Business Hotel",
+      "hotel_price": 109.0
+    },
+    "restaurant_specific_tag_nearby": {
+      "constraint_context": "Arrange a meal at a restaurant near 'Enshi City Leisure Street' during the trip, with outdoor seating service required",
+      "constraint_type": "superlative_specific_tag_nearby",
+      "attraction_name": "Enshi City Leisure Street",
+      "restaurant_name": "Yongxing Restaurant (Daqiao Road Branch)",
+      "required_tag": "Outdoor Seating",
+      "price_per_person": 100.0,
+      "restaurant_rating": 3.7
+    },
+    "attraction_top_rated_must_visit": {
+      "constraint_context": "The itinerary must include the top three highest-rated attractions recommended by the attraction recommendation tool.",
+      "constraint_type": "superlative_top_rated_must_visit",
+      "attraction_names": [
+        "Lianzhu Tower",
+        "Tusi Road Commercial Street",
+        "Tujia Daughter City"
+      ],
+      "attraction_ratings": [
+        4.6,
+        4.5,
+        4.5
+      ]
+    }
+  }
+}

@@ -1,0 +1,344 @@
+{
+  "task_id": "90715002",
+  "domain": "delivery",
+  "time": "2025-09-26 11:51:36",
+  "user_id": "U000079",
+  "weather": [
+    {
+      "city": "Nanning City",
+      "category": "sunny",
+      "datetime": "2025-09-26",
+      "temperature": [
+        23,
+        30
+      ],
+      "humidity": 65
+    }
+  ],
+  "location": [
+    {
+      "address": "Internal Medicine Building, Nanning First People's Hospital, No. 89 Qixing Road, Qingxiu District, Nanning, Guangxi Zhuang Autonomous Region",
+      "longitude": 108.324934,
+      "latitude": 22.810538
+    }
+  ],
+  "user_profile": {
+    "user id": "U000079",
+    "occupation": "Doctor",
+    "gender": "female",
+    "age group": "35~40",
+    "residence": "Nanning",
+    "home address": "ASEAN Shengtian Mall, No. 8 Zhongyue Road, Qingxiu District, Nanning, Guangxi Zhuang Autonomous Region",
+    "work address": "Internal Medicine Building, Nanning First People's Hospital, No. 89 Qixing Road, Qingxiu District, Nanning, Guangxi Zhuang Autonomous Region",
+    "dietary restrictions": "No coffee, No fried food",
+    "family status": "Has children",
+    "personality": "Emotional volatility, expresses herself with strong emotional coloring"
+  },
+  "user_historical_behaviors": {
+    "user id": "U000079",
+    "occupation": "Doctor",
+    "gender": "female",
+    "age group": "35~40",
+    "residence": "Nanning",
+    "home address": "ASEAN Shengtian Plaza, No. 8 Zhongyue Road, Qingxiu District, Nanning, Guangxi Zhuang Autonomous Region",
+    "work address": "Internal Medicine Building, Nanning First People's Hospital, No. 89 Qixing Road, Qingxiu District, Nanning, Guangxi Zhuang Autonomous Region",
+    "breakfast": {
+      "frequently purchased categories": [
+        "Quick Meals/Buns/Pan-fried Buns (Average 18 yuan)",
+        "Quick Meals/Rice Noodles/Vermicelli (Average 15 yuan)",
+        "Quick Meals/Light Food (Average 25 yuan)"
+      ],
+      "cost per order": "15~30 yuan",
+      "preferred store rating": "4.3~4.8",
+      "preferred delivery time": "15~25 minutes",
+      "preferred distance": "0~1500m",
+      "recent orders": [
+        {
+          "store": "Good Morning Soy Milk",
+          "product": "Vegetable Bun + Soy Milk Set"
+        },
+        {
+          "store": "Xiang Yun Rice Noodles",
+          "product": "Mushroom and Shredded Chicken Rice Noodles"
+        },
+        {
+          "store": "Light Food Select",
+          "product": "Chicken Breast Vegetable Sandwich"
+        }
+      ],
+      "search history": [
+        "healthy breakfast",
+        "porridge",
+        "low oil",
+        "soy milk",
+        "eggs"
+      ]
+    },
+    "weekday lunch/dinner": {
+      "frequently purchased categories": [
+        "Quick Meals/Small Bowls/Small Portions (Average 35 yuan)",
+        "Quick Meals/Healthy Meals (Average 45 yuan)",
+        "International Cuisine/Stone Pot Rice/Teppanyaki Rice (Average 38 yuan)"
+      ],
+      "cost per order": "30~50 yuan",
+      "preferred store rating": "4.5~4.8",
+      "preferred delivery time": "20~35 minutes",
+      "preferred distance": "0~2500m",
+      "recent orders": [
+        {
+          "store": "Dietary Workshop",
+          "product": "Stir-fried Seasonal Vegetables Set"
+        },
+        {
+          "store": "Nutrition Workshop",
+          "product": "Steamed Chicken Breast with Vegetables Set"
+        },
+        {
+          "store": "Good Food Time",
+          "product": "Mixed Grain Rice"
+        }
+      ],
+      "search history": [
+        "low fat",
+        "steamed dishes",
+        "healthy meals",
+        "vegetables",
+        "non-spicy"
+      ]
+    },
+    "weekend lunch/dinner": {
+      "frequently purchased categories": [
+        "Chinese Cuisine/Cantonese Cuisine (Average 88 yuan)",
+        "International Cuisine/Japanese Bento/Sushi (Average 75 yuan)",
+        "International Cuisine/Korean Cuisine (Average 95 yuan)"
+      ],
+      "cost per order": "70~150 yuan",
+      "preferred store rating": "4.6~4.9",
+      "preferred delivery time": "25~45 minutes",
+      "preferred distance": "0~3500m",
+      "recent orders": [
+        {
+          "store": "Cantonese Seafood",
+          "product": "Steamed Fish + Seasonal Vegetables"
+        },
+        {
+          "store": "Sakura Japanese Cuisine",
+          "product": "Salmon Sashimi Set"
+        },
+        {
+          "store": "Seoul Flavor",
+          "product": "Ginseng Chicken Soup + Side Dish Platter"
+        }
+      ],
+      "search history": [
+        "Cantonese cuisine",
+        "Japanese cuisine",
+        "light food",
+        "steamed fish",
+        "healthy Japanese"
+      ]
+    },
+    "desserts/drinks/snacks": {
+      "frequently purchased categories": [
+        "Beverages & Desserts/Juice (Average 22 yuan)",
+        "Beverages & Desserts/Fruit Salad (Average 28 yuan)",
+        "Beverages & Desserts/Pure Tea/Herbal Tea (Average 18 yuan)"
+      ],
+      "cost per order": "18~32 yuan",
+      "preferred store rating": "4.4~5.0",
+      "preferred delivery time": "15~60 minutes",
+      "preferred distance": "0~4000m",
+      "recent orders": [
+        {
+          "store": "Siji Tea House (Medical University Branch)",
+          "product": "Longan Bubble Ice"
+        },
+        {
+          "store": "Fruit Love",
+          "product": "Colorful Fruit Salad"
+        },
+        {
+          "store": "Tea Time",
+          "product": "Chrysanthemum Goji Berry Tea"
+        }
+      ],
+      "search history": [
+        "fruit tea",
+        "sugar-free drinks",
+        "fruits",
+        "tea drinks",
+        "low-calorie desserts"
+      ]
+    },
+    "night snack": {
+      "frequently purchased categories": [
+        "Quick Meals/Claypot Dishes (Average 40 yuan)",
+        "Quick Meals/Clay Pot Soup (Average 35 yuan)",
+        "Hot Pot/Claypot Porridge (Average 30 yuan)"
+      ],
+      "cost per order": "30~45 yuan",
+      "preferred store rating": "4.3~4.7",
+      "preferred delivery time": "20~35 minutes",
+      "preferred distance": "0~2500m",
+      "recent orders": [
+        {
+          "store": "Dietary Soup House",
+          "product": "Wellness Claypot Mushroom Soup"
+        },
+        {
+          "store": "Porridge Six",
+          "product": "Century Egg and Lean Meat Porridge"
+        },
+        {
+          "store": "Old Neighbor's Claypot",
+          "product": "Clear Chicken Soup"
+        }
+      ],
+      "search history": [
+        "porridge",
+        "wellness soup",
+        "light night snack",
+        "claypot",
+        "non-spicy"
+      ]
+    }
+  },
+  "stores": {
+    "S10710308899974275_S95622": {
+      "name": "Tea Elf Freshly Handmade Tea (Datang Tiancheng Branch)",
+      "store_id": "S10710308899974275_S95622",
+      "score": 5,
+      "location": {
+        "address": "Booth No. 45, South Square, Datang Tiancheng Shopping Center, No. 2 Beihu North Road, Nanning",
+        "latitude": 22.845561,
+        "longitude": 108.321911
+      },
+      "tags": [],
+      "products": [
+        {
+          "name": "Hand-peeled Longan Coconut",
+          "product_id": "S71504960758110726_P70845",
+          "store_id": "S10710308899974275_S95622",
+          "store_name": "Tea Elf Freshly Handmade Tea (Datang Tiancheng Branch)",
+          "price": 19,
+          "tags": [],
+          "attributes": [
+            "Regular Sugar",
+            "70% Sugar",
+            "50% Sugar",
+            "30% Sugar"
+          ],
+          "quantity": 9999
+        }
+      ]
+    },
+    "S14759205231927669_S61625": {
+      "name": "Beast Style Sushi & Sashimi (Ancient City Branch)",
+      "store_id": "S14759205231927669_S61625",
+      "score": 4.9,
+      "location": {
+        "address": "Yijing Xihu New World, No. 36, Lane 1, Qixing Road, Qingxiu District, Nanning, Guangxi Zhuang Autonomous Region",
+        "latitude": 22.809412,
+        "longitude": 108.33072
+      },
+      "tags": [],
+      "products": [
+        {
+          "name": "Small Gathering Sharing Meal for Multiple People",
+          "store_id": "S14759205231927669_S61625",
+          "store_name": "Beast Style Sushi & Sashimi (Ancient City Branch)",
+          "price": 52.8,
+          "tags": [
+            "Economical/Affordable",
+            "For 2-3 People"
+          ],
+          "product_id": "S26121447051926067_P60427",
+          "attributes": [],
+          "quantity": 9999
+        }
+      ]
+    },
+    "S26697143681864632_S85371": {
+      "name": "Siji Tea House (Medical University Branch)",
+      "store_id": "S26697143681864632_S85371",
+      "score": 5,
+      "location": {
+        "address": "Room 704, 7th Floor, Building 2, Urban 100 Project, No. 17, East Lane 1, Shuangyong Road, Qingxiu District, Nanning",
+        "latitude": 22.79813,
+        "longitude": 108.346271
+      },
+      "tags": [],
+      "products": [
+        {
+          "name": "Longan Bubble Ice",
+          "product_id": "S13439016450085668_P75958",
+          "store_id": "S26697143681864632_S85371",
+          "store_name": "Siji Tea House (Medical University Branch)",
+          "price": 20,
+          "tags": [],
+          "attributes": [
+            "Extra Sugar",
+            "Full Sugar",
+            "Less Sugar",
+            "No Sugar"
+          ],
+          "quantity": 9999
+        }
+      ]
+    },
+    "S25578246021817204_S88970": {
+      "name": "Shichō Takeout Sushi (Nanning Macau Street Branch)",
+      "store_id": "S25578246021817204_S88970",
+      "score": 4.8,
+      "location": {
+        "address": "Shichō Sushi, Shop 36, 1st Floor, Macau Street, No. 33 Renmin East Road, Xingning District, Nanning, Guangxi Zhuang Autonomous Region",
+        "latitude": 22.823257,
+        "longitude": 108.324819
+      },
+      "tags": [],
+      "products": [
+        {
+          "name": "Seared Cheese Salmon Sushi (1 piece)",
+          "product_id": "S30029394006424377_P00651",
+          "store_id": "S25578246021817204_S88970",
+          "store_name": "Shichō Takeout Sushi (Nanning Macau Street Branch)",
+          "price": 6.8,
+          "tags": [],
+          "attributes": [],
+          "quantity": 9999
+        },
+        {
+          "name": "Seared Caramelized Salmon Sushi (1 piece)",
+          "product_id": "S16633817255388595_P44254",
+          "store_id": "S25578246021817204_S88970",
+          "store_name": "Shichō Takeout Sushi (Nanning Macau Street Branch)",
+          "price": 5.8,
+          "tags": [],
+          "attributes": [],
+          "quantity": 9999
+        },
+        {
+          "name": "Seared Salmon Sushi (1 piece)",
+          "product_id": "S14826238982753792_P08415",
+          "store_id": "S25578246021817204_S88970",
+          "store_name": "Shichō Takeout Sushi (Nanning Macau Street Branch)",
+          "price": 4.8,
+          "tags": [],
+          "attributes": [],
+          "quantity": 9999
+        },
+        {
+          "name": "Seared Orange Cooked Shrimp Sushi (1 piece)",
+          "product_id": "S28040341109133562_P00452",
+          "store_id": "S25578246021817204_S88970",
+          "store_name": "Shichō Takeout Sushi (Nanning Macau Street Branch)",
+          "price": 6.8,
+          "tags": [],
+          "attributes": [],
+          "quantity": 9999
+        }
+      ]
+    }
+  },
+  "orders": {}
+}

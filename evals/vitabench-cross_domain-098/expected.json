@@ -1,0 +1,153 @@
+{
+  "required_orders": [
+    {
+      "order_id": "OIb192a86a68",
+      "order_type": "instore",
+      "user_id": "U479920",
+      "store_id": "S17550812997141953_I00010",
+      "note": "",
+      "location": null,
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 598,
+      "create_time": "2025-09-19 09:32:00",
+      "update_time": "2025-09-19 09:32:00",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17550812997141953_P00057",
+          "price": 598,
+          "quantity": 1,
+          "name": "Romantic party package for two",
+          "shop_id": "S17550812997141953_I00010",
+          "tags": [
+            "Two-person package",
+            "KTV",
+            "Game area",
+            "Photo area",
+            "All-day use"
+          ]
+        }
+      ]
+    },
+    {
+      "reservation_id": "OIb332255813",
+      "shop_id": "S17550812997141953_I00010",
+      "reservation_time": "2023-09-20 11:00:00",
+      "update_time": "2025-09-19 09:30:00",
+      "customer_id": "U479920",
+      "customer_count": 2,
+      "status": "unconsumed"
+    },
+    {
+      "order_id": "OT960844b251",
+      "order_type": "delivery",
+      "user_id": "U479920",
+      "store_id": "S17550812997141953_S00001",
+      "note": "Please deliver at 11 AM on September 20th to the front desk of Dream Party House, thank you!",
+      "location": {
+        "address": "Fantasy Party House, 500 Hubin South Road, Siming District, Xiamen City, Fujian Province",
+        "longitude": 118.158765,
+        "latitude": 24.487654
+      },
+      "dispatch_time": "2025-09-20 11:00:00",
+      "shipping_time": 29,
+      "delivery_time": "2025-09-20 11:29:00",
+      "total_price": 141.4,
+      "create_time": "2025-09-19 09:38:00",
+      "update_time": "2025-09-19 09:38:00",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17550812997141953_P00009",
+          "price": 68.8,
+          "quantity": 1,
+          "name": "Selected fruit platter (large portion)",
+          "attributes": "Large portion"
+        },
+        {
+          "product_id": "S17550812997141953_P00013",
+          "price": 19.9,
+          "quantity": 1,
+          "name": "Popular bursting cookies",
+          "attributes": "Chocolate flavor"
+        },
+        {
+          "product_id": "S17550812997141953_P00012",
+          "price": 29.9,
+          "quantity": 1,
+          "name": "Popular strawberry cream slice cake",
+          "attributes": "4 inches"
+        },
+        {
+          "product_id": "S17550812997141953_P00016",
+          "price": 22.8,
+          "quantity": 1,
+          "name": "Popular ice cream cream puff",
+          "attributes": "Vanilla flavor"
+        }
+      ]
+    },
+    {
+      "order_id": "OTdee69293e4",
+      "order_type": "delivery",
+      "user_id": "U479920",
+      "store_id": "S17550812997141953_S00005",
+      "note": "Please deliver to the front desk of Dream Party House, it's a surprise for my girlfriend, thank you!",
+      "location": {
+        "address": "Fantasy Party House, 500 Hubin South Road, Siming District, Xiamen City, Fujian Province",
+        "longitude": 118.158765,
+        "latitude": 24.487654
+      },
+      "dispatch_time": "2025-09-20 11:30:00",
+      "shipping_time": 27,
+      "delivery_time": "2025-09-23 11:57:00",
+      "total_price": 298,
+      "create_time": "2025-09-19 09:30:00",
+      "update_time": "2025-09-19 09:30:00",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17550812997141953_P00027",
+          "price": 298,
+          "quantity": 1,
+          "name": "Sweet confession rose bouquet",
+          "store_id": "S17550812997141953_S00005",
+          "store_name": "Flower Delivery",
+          "attributes": "",
+          "tags": [
+            "Rose bouquet",
+            "Romantic",
+            "Confession",
+            "Date",
+            "Popular style"
+          ]
+        }
+      ]
+    }
+  ],
+  "rubrics": [
+    "The party house to be ordered should be beautifully decorated",
+    "The party house to be ordered must have KTV, game area and photo area functions, not just a single function",
+    "The party house must be available for reservation",
+    "The package for the party house order must be a two-person package",
+    "The party house package must be available for all-day play",
+    "The party house reservation time must be Saturday (September 20, 2025) at 11:00",
+    "The party house reservation must be for 2 people",
+    "The food delivery order must include three types of popular snacks",
+    "The food delivery order must include a fresh fruit cut platter",
+    "The popular snacks and fruit cut should come from the same store",
+    "The fruit cut platter should be a large portion",
+    "The fruit cut platter should not contain grapes",
+    "The fruit cut platter must contain peach",
+    "The food delivery order needs to comply with the user's dietary restrictions, cannot contain high-purine foods (such as seafood, organ meats) and alcoholic beverages",
+    "The food delivery arrival time should be between 11:00 and 12:00 on September 20, 2025",
+    "The food delivery location must be the party house (Fantasy Party House, 500 Hubin South Road, Siming District, Xiamen City, Fujian Province)",
+    "Must check the history of flower purchases in past orders, the result shows that a sweet confession rose bouquet was purchased on July 15, 2025, which was more than 2 months ago",
+    "Need to order a sweet confession rose bouquet",
+    "The flower delivery location must be the party house (Fantasy Party House, 500 Hubin South Road, Siming District, Xiamen City, Fujian Province)",
+    "The flower delivery arrival time should be between 11:00 and 12:00 on September 20, 2025",
+    "Need to check and provide information about metro stations near the party house; the result is Hubin East Road Metro Station (Line 1; Line 3)"
+  ]
+}

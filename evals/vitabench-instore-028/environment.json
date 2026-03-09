@@ -1,0 +1,191 @@
+{
+  "task_id": "10826042",
+  "domain": "instore",
+  "time": "2024-09-10 19:15:00",
+  "user_id": "U134103",
+  "weather": [
+    {
+      "city": "Shaoxing",
+      "category": "cloudy",
+      "datetime": "2024-09-10",
+      "temperature": [
+        24,
+        31
+      ],
+      "humidity": 65
+    },
+    {
+      "city": "Shaoxing",
+      "category": "sunny",
+      "datetime": "2024-09-14",
+      "temperature": [
+        22,
+        30
+      ],
+      "humidity": 45
+    }
+  ],
+  "location": [
+    {
+      "address": "Room 502, Building 3, Dongpu Garden, 128 Dongpu Road, Tashan Street, Yuecheng District, Shaoxing, Zhejiang Province",
+      "longitude": 120.5826,
+      "latitude": 30.0035
+    },
+    {
+      "address": "Shaoxing No.1 Middle School, 199 Jiefang Avenue, Fushan Street, Yuecheng District, Shaoxing, Zhejiang Province",
+      "longitude": 120.5712,
+      "latitude": 30.0043
+    }
+  ],
+  "user_profile": {
+    "user id": "U134103",
+    "occupation": "Teacher",
+    "gender": "male",
+    "age group": "35~40",
+    "residence": "Shaoxing",
+    "home address": "Room 502, Building 3, Dongpu Garden, 128 Dongpu Road, Tashan Street, Yuecheng District, Shaoxing, Zhejiang Province",
+    "work address": "Shaoxing No.1 Middle School, 199 Jiefang Avenue, Fushan Street, Yuecheng District, Shaoxing, Zhejiang Province",
+    "dietary restrictions": "Avoid high purine foods (such as organ meats/seafood soups)",
+    "family status": "Couple",
+    "personality": "Tends to take control, not easily accepting of different opinions"
+  },
+  "user_historical_behaviors": {
+    "user id": "U134103",
+    "occupation": "teacher",
+    "gender": "male",
+    "age group": "35~40",
+    "residence": "Shaoxing",
+    "home address": "Room 502, Building 3, Dongpu Garden, 128 Dongpu Road, Tashan Street, Yuecheng District, Shaoxing, Zhejiang Province",
+    "work address": "Shaoxing No.1 Middle School, 199 Jiefang Avenue, Fushan Street, Yuecheng District, Shaoxing, Zhejiang Province",
+    "in-store dining": {
+      "fine-dining": {
+        "frequently purchased categories": [
+          "Regional cuisine/Local Jiangzhe cuisine (average 125 yuan)",
+          "Regional cuisine/Fish dishes (average 135 yuan)",
+          "Foreign cuisine/Western food (average 150 yuan)"
+        ],
+        "preferred average price per person": "120~150 yuan",
+        "preferred store rating": "4.3~4.8 stars",
+        "typical dining time": "18:30-20:30",
+        "preferred distance": "500~3000m",
+        "recent orders": [
+          {
+            "store": "Yuecheng Fish Restaurant",
+            "product": "Steamed West Lake Fish"
+          },
+          {
+            "store": "West Lake Pavilion",
+            "product": "Dongpo Pork"
+          },
+          {
+            "store": "Milan Western Restaurant",
+            "product": "Steak Set Meal"
+          }
+        ],
+        "search history": [
+          "Shaoxing specialty dishes",
+          "Jiangzhe cuisine",
+          "Western restaurants",
+          "Romantic restaurants for couples"
+        ]
+      },
+      "light meal": {
+        "frequently purchased categories": [
+          "Snacks & Fast food/Chinese simple meals (average 35 yuan)",
+          "Regional cuisine/Local Jiangzhe cuisine (average 45 yuan)"
+        ],
+        "preferred average price per person": "30~50 yuan",
+        "preferred store rating": "3.5~4.2 stars",
+        "typical dining time": "11:30-12:30",
+        "preferred distance": "0~500m",
+        "recent orders": [
+          {
+            "store": "Laojiekou Noodle House",
+            "product": "Plain Noodles"
+          },
+          {
+            "store": "Shaoxing Flavor Snacks",
+            "product": "Stinky Tofu Set"
+          },
+          {
+            "store": "Huang Men Chicken Rice",
+            "product": "Standard Stewed Chicken"
+          }
+        ],
+        "search history": [
+          "Weekday lunch",
+          "Noodle shops",
+          "Fast food",
+          "Restaurants near school"
+        ]
+      },
+      "desserts/drinks/snacks": {
+        "frequently purchased categories": [
+          "Beverage shops (average 18 yuan)",
+          "Bread and desserts (average 25 yuan)"
+        ],
+        "preferred average price per person": "15~30 yuan",
+        "preferred store rating": "4.0~4.5 stars",
+        "typical dining time": "15:00-16:30",
+        "preferred distance": "0~800m",
+        "recent orders": [
+          {
+            "store": "Cha Yan Yue Se",
+            "product": "Jasmine Green Tea"
+          },
+          {
+            "store": "Bread Talk",
+            "product": "Whole Wheat Toast"
+          },
+          {
+            "store": "Meet Fresh",
+            "product": "Taro Ball Dessert"
+          }
+        ],
+        "search history": [
+          "Tea beverages",
+          "Healthy desserts",
+          "Afternoon tea"
+        ]
+      }
+    },
+    "other in-store services": {
+      "frequently consumed categories": {
+        "Sports fitness/Ball sports": "45%",
+        "Leisure entertainment/Tea house": "30%",
+        "Beauty/Yoga": "25%"
+      },
+      "cost per order by category": {
+        "Sports fitness/Ball sports": "80~150 yuan",
+        "Leisure entertainment/Tea house": "60~120 yuan",
+        "Beauty/Yoga": "120~200 yuan"
+      },
+      "preferred store rating": "4.0~4.8 stars",
+      "preferred service time": "17:00-21:00",
+      "preferred distance": "0~5000m",
+      "recent orders": [
+        {
+          "store": "Shaoxing Sports Center",
+          "product": "Badminton Court 2 hours"
+        },
+        {
+          "store": "Mingyue Tea House",
+          "product": "Longjing tea set"
+        },
+        {
+          "store": "Harmony Yoga",
+          "product": "Single Yoga Class"
+        }
+      ],
+      "search history": [
+        "Badminton courts",
+        "Teacher discount",
+        "Couples activity",
+        "Health tea houses",
+        "Yoga for joint pain relief"
+      ]
+    }
+  },
+  "stores": {},
+  "orders": {}
+}

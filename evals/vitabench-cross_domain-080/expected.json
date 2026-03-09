@@ -1,0 +1,191 @@
+{
+  "required_orders": [
+    {
+      "order_id": "S17550808014223099_O00002",
+      "order_type": "attraction",
+      "user_id": "U001054",
+      "store_id": "S17550808014223099_A00004",
+      "note": "",
+      "location": {
+        "address": "Leshan Giant Buddha Scenic Area, 2435 Lingyun Road, Shizhong District, Leshan, Sichuan Province",
+        "longitude": 103.7714,
+        "latitude": 29.5471
+      },
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 320,
+      "create_time": "2025-06-11 16:30:12",
+      "update_time": "2025-06-12 15:23:24",
+      "status": "cancelled",
+      "products": [
+        {
+          "product_id": "S17550808014223099_P00026",
+          "price": 160,
+          "quantity": 2,
+          "date": "2025-06-14",
+          "ticket_type": "Adult Ticket"
+        }
+      ]
+    },
+    {
+      "order_id": "OO3110e13b3b",
+      "order_type": "attraction",
+      "user_id": "U001054",
+      "store_id": "S17550808014223099_A00004",
+      "note": "",
+      "location": null,
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 320,
+      "create_time": "2025-06-12 15:24:42",
+      "update_time": "2025-06-12 15:24:42",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17550808014223099_P00024",
+          "price": 160,
+          "quantity": 2,
+          "date": "2025-06-14",
+          "ticket_type": "Adult Ticket"
+        }
+      ]
+    },
+    {
+      "order_id": "OI1eb259e910",
+      "order_type": "instore",
+      "user_id": "U001054",
+      "store_id": "S17550808014223099_I00014",
+      "note": "",
+      "location": null,
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 128,
+      "create_time": "2025-06-12 15:25:12",
+      "update_time": "2025-06-12 15:25:12",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17550808014223099_P00075",
+          "price": 128,
+          "quantity": 1,
+          "name": "Signature Fried Skewers Set for Two",
+          "shop_id": "S17550808014223099_I00014",
+          "tags": [
+            "Signature",
+            "Set Meal",
+            "Celebrity Recommendation",
+            "Hot Selling",
+            "Including Hotpot Base",
+            "Without Offal"
+          ]
+        }
+      ]
+    },
+    {
+      "order_id": "OIb192a86a68",
+      "order_type": "instore",
+      "user_id": "U001054",
+      "store_id": "S17550808014223099_I00012",
+      "note": "",
+      "location": null,
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 128,
+      "create_time": "2025-06-12 15:26:34",
+      "update_time": "2025-06-12 15:26:34",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17550808014223099_P00065",
+          "price": 128,
+          "quantity": 1,
+          "name": "Feng's Signature Beef (2 Servings)",
+          "shop_id": "S17550808014223099_I00012",
+          "tags": [
+            "Signature Dish",
+            "Pure Beef",
+            "Time-honored Brand",
+            "Best Seller"
+          ]
+        }
+      ]
+    },
+    {
+      "order_id": "OI91d3171639",
+      "order_type": "U001054",
+      "user_id": "U001054",
+      "store_id": "S17550808014223099_I00016",
+      "note": "",
+      "location": null,
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 88,
+      "create_time": "2025-06-12 15:28:00",
+      "update_time": "2025-06-12 15:28:00",
+      "status": "unpaid",
+      "products": [
+        {
+          "product_id": "S17550808014223099_P00085",
+          "price": 88,
+          "quantity": 1,
+          "name": "Classic Bobo Chicken Set Meal (2 Servings)",
+          "shop_id": "S17550808014223099_I00016",
+          "tags": [
+            "Signature",
+            "Without Offal",
+            "Traditional Special Restaurant",
+            "Popular Set Meal"
+          ]
+        }
+      ]
+    },
+    {
+      "order_id": "10806001T001",
+      "order_type": "attraction",
+      "user_id": "U001054",
+      "store_id": "S17550808014223099_A00005",
+      "note": "",
+      "location": null,
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 180,
+      "create_time": "2025-06-12 15:29:34",
+      "update_time": "2025-06-12 15:29:34",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17550808014223099_P00032",
+          "price": 90,
+          "quantity": 2,
+          "date": "2025-06-14",
+          "ticket_type": "Evening Cruise Ticket"
+        }
+      ]
+    }
+  ],
+  "rubrics": [
+    "The order status for the Leshan Giant Buddha ticket dated June 15, 2025 should be cancelled",
+    "The final ordered Leshan Giant Buddha scenic spot ticket type should be Adult Ticket",
+    "The quantity of tickets in the final ordered Leshan Giant Buddha scenic spot order should be 2",
+    "The order date for the final Leshan Giant Buddha ticket order should be June 14, 2025",
+    "The fried skewer restaurant ordered from should be Wang Hedi Fried Skewers (Leshan Flagship Store)",
+    "The purchased fried skewer set meal should be a set for two people, not two individual meals",
+    "The purchased fried skewer set meal should not contain offal",
+    "The beef restaurant ordered from should have been in business for 10 years or more",
+    "The purchased beef set meal should not contain offal",
+    "The purchased beef set meal should be for two people",
+    "The Bobo Chicken restaurant ordered from should have been in business for 10 years or more",
+    "The purchased Bobo Chicken set meal should not contain offal",
+    "The purchased Bobo Chicken set meal should not contain offal and should be for two people",
+    "The Bobo Chicken restaurant ordered from should specialize in Bobo Chicken",
+    "The ordered cruise tickets should be valid for evening use",
+    "The use date for the cruise ticket order should be June 14, 2025",
+    "The quantity of tickets in the cruise ticket order should be 2"
+  ]
+}

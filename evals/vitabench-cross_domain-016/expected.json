@@ -1,0 +1,138 @@
+{
+  "required_orders": [
+    {
+      "order_id": "12808003T01",
+      "order_type": "instore",
+      "user_id": "U256275",
+      "store_id": "S17550802129404077_I00010",
+      "note": "",
+      "location": null,
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 15,
+      "create_time": "2025-03-09 19:26:44",
+      "update_time": "2025-03-09 19:26:44",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17550802108642397_P00076",
+          "price": 15,
+          "quantity": 1,
+          "name": "Standard Computer Seat (2 Hours)",
+          "shop_id": "S17550802129404077_I00010",
+          "tags": [
+            "Economy",
+            "Standard",
+            "Time Limited"
+          ]
+        }
+      ]
+    },
+    {
+      "order_id": "OO18fd07922c",
+      "order_type": "train",
+      "user_id": "U256275",
+      "store_id": "S17550802129404077_T00007",
+      "note": "",
+      "location": null,
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 153,
+      "create_time": "2025-03-09 19:27:44",
+      "update_time": "2025-03-09 19:27:44",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17550802129404077_P00044",
+          "price": 153,
+          "quantity": 1,
+          "date": "2025-03-14",
+          "seat_type": "Second Class Seat"
+        }
+      ]
+    },
+    {
+      "order_id": "OT64e2048b69",
+      "order_type": "delivery",
+      "user_id": "U256275",
+      "store_id": "S17550802129404077_S00001",
+      "note": "",
+      "location": {
+        "address": "Room 1203, Building B, Mingfa City Plaza, Intersection of East Changjiang Road and Victory Road, Yaohai District, Hefei, Anhui Province",
+        "longitude": 117.3245,
+        "latitude": 31.8825
+      },
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 28.2,
+      "create_time": "2025-03-09 19:25:44",
+      "update_time": "2025-03-09 19:25:44",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17550802129404077_P00001 ",
+          "price": 9.9,
+          "quantity": 1,
+          "name": "Taro Balls with Fresh Milk",
+          "store_id": "S17550802129404077_S00001",
+          "store_name": "Xian Yu Xian (Mingfa Plaza Branch)",
+          "attributes": "",
+          "tags": [
+            "Taiwanese Dessert",
+            "Exquisite",
+            "Popular Recommendations",
+            "Taro Balls"
+          ]
+        },
+        {
+          "product_id": "S17550802129404077_P00002 ",
+          "price": 9.5,
+          "quantity": 1,
+          "name": "Red Bean Double Skin Milk Pudding",
+          "store_id": "S17550802129404077_S00001",
+          "store_name": "Xian Yu Xian (Mingfa Plaza Branch)",
+          "attributes": "",
+          "tags": [
+            "Taiwanese Dessert",
+            "Exquisite",
+            "Red Bean",
+            "Double Skin Milk Pudding"
+          ]
+        },
+        {
+          "product_id": "S17550802129404077_P00003 ",
+          "price": 8.8,
+          "quantity": 1,
+          "name": "Coconut Sago Pudding",
+          "store_id": "S17550802129404077_S00001",
+          "store_name": "Xian Yu Xian (Mingfa Plaza Branch)",
+          "attributes": "",
+          "tags": [
+            "Taiwanese Dessert",
+            "Exquisite",
+            "Coconut Juice",
+            "Sago"
+          ]
+        }
+      ]
+    }
+  ],
+  "rubrics": [
+    "The dessert order needs to include 3 different types of desserts",
+    "The total price of the dessert order cannot exceed 30 yuan",
+    "The desserts should be exquisite, which is generally reflected in the merchant/product descriptions or labels",
+    "The desserts cannot contain alcohol",
+    "The delivery address for the dessert order should be Room 1203, Building B, Mingfa City Plaza, Intersection of East Changjiang Road and Victory Road, Yaohai District, Hefei, Anhui Province",
+    "Need to find the internet café closest to the user's community, which is Dream Internet Café (Mingfa Plaza Branch)",
+    "Need to find the cheapest package option in the internet café, which is the Standard Computer Seat (2 Hours) at Dream Internet Café (Mingfa Plaza Branch), priced at 15 yuan",
+    "The internet café order package duration should be 2 hours",
+    "The internet café order should be a package for single person use",
+    "Need to check the high-speed rail schedule from Nanjing to Hefei for next Friday (March 14, 2025)",
+    "The departure time of the selected train should be at or after 19:00",
+    "Priority should be given to the high-speed rail that arrives in Hefei earlier",
+    "The date of the ticket order should be March 14, 2025"
+  ]
+}

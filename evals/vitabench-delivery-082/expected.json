@@ -1,0 +1,98 @@
+{
+  "required_orders": [
+    {
+      "order_id": "H0716002T01",
+      "order_type": "delivery",
+      "user_id": "U000052",
+      "store_id": "S31362996935520633_S70024",
+      "note": "",
+      "location": {
+        "address": "Building 6, Student Apartment, Jiaojiang Campus of Taizhou University, Jiaojiang District, Taizhou City, Zhejiang Province",
+        "longitude": 121.388316,
+        "latitude": 28.650355
+      },
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 58.8,
+      "create_time": "2025-04-18 11:38:00",
+      "update_time": "2025-04-18 11:38:00",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S27262801368361992_P09650",
+          "price": 58.8,
+          "quantity": 1,
+          "attributes": ""
+        }
+      ]
+    },
+    {
+      "order_id": "H0716002T02",
+      "order_type": "delivery",
+      "user_id": "U000052",
+      "store_id": "S77677443573225892_S65701",
+      "note": "",
+      "location": {
+        "address": "Building 6, Student Apartment, Jiaojiang Campus of Taizhou University, Jiaojiang District, Taizhou City, Zhejiang Province",
+        "longitude": 121.388316,
+        "latitude": 28.650355
+      },
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 33.98,
+      "create_time": "2025-04-18 11:41:00",
+      "update_time": "2025-04-18 11:41:00",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S78675090921581153_P42837",
+          "price": 33.98,
+          "quantity": 1,
+          "attributes": "Spicy Pepper Dry Mix"
+        }
+      ]
+    },
+    {
+      "order_id": "H0716002T03",
+      "order_type": "delivery",
+      "user_id": "U000052",
+      "store_id": "S26949391557525109_S37617",
+      "note": "",
+      "location": {
+        "address": "Building 6, Student Apartment, Jiaojiang Campus of Taizhou University, Jiaojiang District, Taizhou City, Zhejiang Province",
+        "longitude": 121.388316,
+        "latitude": 28.650355
+      },
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 17.0,
+      "create_time": "2025-04-18 11:46:00",
+      "update_time": "2025-04-18 11:46:00",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17999679772584705_P19717",
+          "price": 17.0,
+          "quantity": 1,
+          "attributes": "No Ice"
+        }
+      ]
+    }
+  ],
+  "rubrics": [
+    "The delivery address for the user's pork trotter set meal order should be Building 6, Student Apartment, Jiaojiang Campus of Taizhou University, Jiaojiang District, Taizhou City, Zhejiang Province",
+    "The delivery time for the user's pork trotter set meal order should be around 2025-04-18 12:00:00",
+    "The user's pork trotter set meal order should select products with stronger spicy red oil flavor",
+    "The delivery address for the roommate's Fresh Shrimp and Crab Roe Wonton order should be Building 6, Student Apartment, Jiaojiang Campus of Taizhou University, Jiaojiang District, Taizhou City, Zhejiang Province",
+    "The delivery time for the roommate's Fresh Shrimp and Crab Roe Wonton order should be around 2025-04-18 12:00:00",
+    "The roommate's Fresh Shrimp and Crab Roe Wonton order should select the merchant closest to the user's location, which is Yuan Ji Cloud Dumplings (Zhabridge Store)",
+    "The roommate's Fresh Shrimp and Crab Roe Wonton order should select a flavor with prominent numbing spiciness",
+    "The delivery address for the beverage order should be Building 6, Student Apartment, Jiaojiang Campus of Taizhou University, Jiaojiang District, Taizhou City, Zhejiang Province",
+    "The delivery time for the beverage order should be around 2025-04-18 15:00:00",
+    "The beverage order should select drinks without dairy products",
+    "The specification for the beverage order should be no ice"
+  ]
+}

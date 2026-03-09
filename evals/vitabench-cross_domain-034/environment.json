@@ -1,0 +1,1167 @@
+{
+  "task_id": "A0806002",
+  "domain": "cross_domain",
+  "time": "2025-12-22 20:05:09",
+  "user_id": "U010013",
+  "weather": [
+    {
+      "city": "Foshan",
+      "category": "sunny",
+      "datetime": "2025-12-27",
+      "temperature": [
+        12,
+        18
+      ],
+      "humidity": 65
+    },
+    {
+      "city": "Foshan",
+      "category": "rainy",
+      "datetime": "2025-12-28",
+      "temperature": [
+        10,
+        15
+      ],
+      "humidity": 78
+    },
+    {
+      "city": "Foshan",
+      "category": "cloudy",
+      "datetime": "2025-12-25",
+      "temperature": [
+        13,
+        19
+      ],
+      "humidity": 60
+    }
+  ],
+  "location": [
+    {
+      "address": "Evian Tianhui North Area, 60m Southeast of Liangping Road and Zhongchuang Lane Intersection, Nanhai District, Foshan, Guangdong Province",
+      "longitude": 113.0246,
+      "latitude": 23.0258
+    },
+    {
+      "address": "Haibei Creative Park, Nanhai District, Foshan, Guangdong Province",
+      "longitude": 113.0627,
+      "latitude": 23.0712
+    }
+  ],
+  "user_profile": {
+    "user id": "U010013",
+    "occupation": "Algorithm Engineer",
+    "gender": "male",
+    "age group": "30~35",
+    "residence": "Foshan Huizhou",
+    "home address": "Evian Tianhui North Area, 60m Southeast of Liangping Road and Zhongchuang Lane Intersection, Nanhai District, Foshan, Guangdong Province",
+    "work address": "Zhongsheng International, 4 Guilan North Road, Nanhai District, Foshan, Guangdong Province",
+    "dietary restrictions": "Avoids high sugar, no coffee",
+    "family status": "In a relationship",
+    "personality": "Extremely detail-oriented, tends to be picky and easily dissatisfied"
+  },
+  "user_historical_behaviors": {
+    "user id": "U010013",
+    "occupation": "Algorithm Engineer",
+    "gender": "male",
+    "age group": "30~35",
+    "residence": "Foshan Huizhou",
+    "home address": "Evian Tianhui North Area, 60m Southeast of Liangping Road and Zhongchuang Lane Intersection, Nanhai District, Foshan, Guangdong Province",
+    "work address": "Zhongsheng International, 4 Guilan North Road, Nanhai District, Foshan, Guangdong Province",
+    "delivery": {
+      "food delivery": {
+        "breakfast": {
+          "frequently purchased categories": [
+            "Quick Meals/Pancakes/Wraps/Flatbread (Average 15 yuan)",
+            "Quick Meals/Steamed Buns/Pan-fried Buns (Average 18 yuan)",
+            "Quick Meals/Rice Noodles/Rice Vermicelli (Average 22 yuan)"
+          ],
+          "cost per order": "15~30 yuan",
+          "preferred store rating": "4.3~4.8 points",
+          "preferred delivery time": "15~25 minutes",
+          "preferred distance": "0~1500m",
+          "recent orders": [
+            {
+              "store": "Beijing Style Pancakes",
+              "product": "Original Pancake + Soy Milk"
+            },
+            {
+              "store": "Sha County Snacks",
+              "product": "Minced Meat Rice Noodles + Tea Egg"
+            },
+            {
+              "store": "Bun Shop",
+              "product": "Pork Buns + Vegetable Buns + Soy Milk"
+            }
+          ],
+          "search history": [
+            "Low-salt Breakfast",
+            "Soy Milk",
+            "Steamed Buns",
+            "Rice Noodles",
+            "Healthy Breakfast"
+          ]
+        },
+        "weekday lunch/dinner": {
+          "frequently purchased categories": [
+            "Quick Meals/Rice with Toppings (Average 28 yuan)",
+            "Chinese Cuisine/Cantonese Cuisine (Average 45 yuan)",
+            "Quick Meals/Healthy Meals (Average 38 yuan)"
+          ],
+          "cost per order": "25~60 yuan",
+          "preferred store rating": "4.5~4.8 points",
+          "preferred delivery time": "20~35 minutes",
+          "preferred distance": "0~2500m",
+          "recent orders": [
+            {
+              "store": "Cantonese Light Food",
+              "product": "White Cut Chicken Rice + Seasonal Vegetables"
+            },
+            {
+              "store": "Light Food Salad",
+              "product": "Chicken Breast Vegetable Salad + Whole Wheat Bread"
+            },
+            {
+              "store": "Home-style Restaurant",
+              "product": "Steamed Fish + Seasonal Vegetables + Rice"
+            }
+          ],
+          "search history": [
+            "Low Salt",
+            "Healthy Meal",
+            "Cantonese Cuisine",
+            "White Cut Chicken",
+            "Light Diet"
+          ]
+        },
+        "weekend lunch/dinner": {
+          "frequently purchased categories": [
+            "Chinese Cuisine/Cantonese Cuisine (Average 75 yuan)",
+            "Chinese Cuisine/Grilled Fish (Average 98 yuan)",
+            "International Cuisine/Stone Pot Rice/Teppanyaki Rice (Average 65 yuan)"
+          ],
+          "cost per order": "60~150 yuan",
+          "preferred store rating": "4.6~5.0 points",
+          "preferred delivery time": "30~45 minutes",
+          "preferred distance": "0~3500m",
+          "recent orders": [
+            {
+              "store": "Fresh Taste Grilled Fish",
+              "product": "Spicy Grilled Fish + Vegetable Platter + Rice (For 2)"
+            },
+            {
+              "store": "Guangdong Style Tea Restaurant",
+              "product": "Roasted Goose Rice + Choy Sum + Soup"
+            },
+            {
+              "store": "Korean Cuisine",
+              "product": "Stone Pot Bibimbap + Seaweed Soup"
+            }
+          ],
+          "search history": [
+            "Family Set",
+            "Grilled Fish",
+            "Cantonese Cuisine",
+            "Set for Two",
+            "Caffeine-free Drinks"
+          ]
+        },
+        "desserts/drinks/snacks": {
+          "frequently purchased categories": [
+            "Drinks & Desserts/Juice (Average 22 yuan)",
+            "Drinks & Desserts/Fruit Salad (Average 32 yuan)",
+            "Drinks & Desserts/Chinese Pastries (Average 25 yuan)"
+          ],
+          "cost per order": "18~40 yuan",
+          "preferred store rating": "4.4~4.9 points",
+          "preferred delivery time": "15~30 minutes",
+          "preferred distance": "0~2000m",
+          "recent orders": [
+            {
+              "store": "Fresh Fruit Workshop",
+              "product": "Fresh Watermelon Juice"
+            },
+            {
+              "store": "Fruit Salad",
+              "product": "Colorful Fruit Salad + Yogurt"
+            },
+            {
+              "store": "Traditional Pastries",
+              "product": "Osmanthus Cake + Mung Bean Cake"
+            }
+          ],
+          "search history": [
+            "Fresh Squeezed Juice",
+            "Sugar-free Drinks",
+            "Fruit Salad",
+            "Traditional Pastries"
+          ]
+        },
+        "night snack": {
+          "frequently purchased categories": [
+            "Quick Meals/Claypot Porridge (Average 35 yuan)",
+            "Snacks & Braised Food/Braised Food (Average 40 yuan)",
+            "Quick Meals/Rice Noodles/Rice Vermicelli (Average 28 yuan)"
+          ],
+          "cost per order": "25~50 yuan",
+          "preferred store rating": "4.2~4.7 points",
+          "preferred delivery time": "20~35 minutes",
+          "preferred distance": "0~2500m",
+          "recent orders": [
+            {
+              "store": "Claypot Porridge Shop",
+              "product": "Preserved Egg & Lean Pork Porridge + Fried Dough Sticks"
+            },
+            {
+              "store": "Braised Food Shop",
+              "product": "Braised Duck Wings + Braised Eggs + Braised Tofu"
+            },
+            {
+              "store": "Yunnan Rice Noodles",
+              "product": "Clear Soup Rice Noodles + Braised Egg"
+            }
+          ],
+          "search history": [
+            "Claypot Porridge",
+            "Low-salt Braised Food",
+            "Light Night Snack",
+            "Stomach-soothing Porridge"
+          ]
+        }
+      },
+      "product delivery": {
+        "frequently purchased categories": [
+          "Vegetables/Bean Products(32%)",
+          "Fruits(18%)",
+          "Grains/Oils/Seasonings/Dried Goods(15%)",
+          "Raw Meat/Poultry/Eggs(12%)",
+          "Family Planning Products(10%)",
+          "Household Items(8%)",
+          "Others(5%)"
+        ],
+        "frequently visited stores": [
+          "Huizhou No.7 Life Supermarket(38%)",
+          "Foshan Yonghui Supermarket(26%)",
+          "Huizhou Carrefour(22%)",
+          "Other Stores(14%)"
+        ],
+        "cost per order by category": {
+          "Vegetables/Bean Products": "5~30 yuan",
+          "Fruits": "10~45 yuan",
+          "Grains/Oils/Seasonings/Dried Goods": "15~50 yuan",
+          "Raw Meat/Poultry/Eggs": "25~80 yuan",
+          "Family Planning Products": "30~120 yuan",
+          "Household Items": "10~60 yuan"
+        },
+        "preferred delivery time": "35~60 minutes",
+        "typical order time": "18~20:00(35%), 10~12:00(25%), 16~18:00(20%)",
+        "recent orders": [
+          {
+            "store": "Huizhou No.7 Life Supermarket",
+            "product": "Fresh Vegetable Set (Tomatoes, Cucumbers, Choy Sum)"
+          },
+          {
+            "store": "Huizhou No.7 Life Supermarket",
+            "product": "Low-sodium Salt + Baby Wipes + Eggs"
+          },
+          {
+            "store": "Foshan Yonghui Supermarket",
+            "product": "5 Apples + 2 Jin Bananas + 2 Dragon Fruits"
+          }
+        ],
+        "search history": [
+          "Low-sodium Salt",
+          "Organic Vegetables",
+          "Wet Wipes",
+          "Fresh Fish",
+          "Toothpaste",
+          "Fruits"
+        ]
+      }
+    },
+    "in-store consumption": {
+      "in-store dining": {
+        "fine-dining": {
+          "frequently consumed categories": [
+            "International Cuisine/Western Food (Average 130 yuan)",
+            "Regional Cuisine/Cantonese Cuisine (Average 150 yuan)",
+            "Regional Cuisine/Fish Dishes (Average 110 yuan)"
+          ],
+          "preferred average price per person": "110~150 yuan",
+          "preferred store rating": "4.2~4.8 stars",
+          "typical dining time": "18:30-20:30",
+          "preferred distance": "1000~3000m",
+          "recent orders": [
+            {
+              "store": "Jiuding Pavilion Cantonese Restaurant",
+              "product": "Steamed Sea Bass, Fish Maw Chicken Soup"
+            },
+            {
+              "store": "La Vita Western Restaurant",
+              "product": "Low-sugar Salad, Steak"
+            },
+            {
+              "store": "Yuexuan Seafood Restaurant",
+              "product": "Braised Grouper, Sugar-free Iced Tea"
+            }
+          ],
+          "search history": [
+            "Sugar-free Dishes",
+            "Healthy Cantonese Food",
+            "Foshan High-end Restaurants",
+            "Low-sugar Western Food"
+          ]
+        },
+        "light meal": {
+          "frequently consumed categories": [
+            "Snacks & Fast Food/Chinese Quick Meals (Average 40 yuan)",
+            "Regional Cuisine/Cantonese Cuisine (Average 60 yuan)",
+            "Regional Cuisine/Shanghai & Jiangsu-Zhejiang Cuisine (Average 45 yuan)"
+          ],
+          "preferred average price per person": "35~65 yuan",
+          "preferred store rating": "3.5~4.2 stars",
+          "typical dining time": "12:00-13:00",
+          "preferred distance": "0~600m",
+          "recent orders": [
+            {
+              "store": "Yueshan Cuisine",
+              "product": "Steamed Fresh Fish Set, Seasonal Vegetables"
+            },
+            {
+              "store": "Qingyuanxuan Healthy Meals",
+              "product": "Low-fat Chicken Breast Rice, Sugar-free Drink"
+            },
+            {
+              "store": "Jiangnan Small Kitchen",
+              "product": "Steamed Tofu Set"
+            }
+          ],
+          "search history": [
+            "Quick Meals Near Work Area",
+            "Low-sugar Set Meals",
+            "Healthy Fast Food"
+          ]
+        },
+        "desserts/drinks/snacks": {
+          "frequently consumed categories": [
+            "Beverage Shops (Average 25 yuan)",
+            "Bread & Pastries (Average 30 yuan)"
+          ],
+          "preferred average price per person": "20~35 yuan",
+          "preferred store rating": "4.0~4.6 stars",
+          "typical dining time": "15:00-16:30",
+          "preferred distance": "0~800m",
+          "recent orders": [
+            {
+              "store": "Fresh Fruit Workshop",
+              "product": "Sugar-free Fresh Squeezed Juice"
+            },
+            {
+              "store": "Light Sugar Bakery",
+              "product": "Low-sugar Cake"
+            },
+            {
+              "store": "Tea Enjoyment Pavilion",
+              "product": "Sugar-free Oolong Tea"
+            }
+          ],
+          "search history": [
+            "Sugar-free Drinks",
+            "Low-sugar Desserts",
+            "Healthy Afternoon Tea"
+          ]
+        }
+      },
+      "other in-store services": {
+        "frequently consumed categories": {
+          "Beauty/Haircuts": "40%",
+          "Sports & Fitness/Fitness Centers": "40%",
+          "Leisure & Entertainment/Massage/Foot Therapy": "20%"
+        },
+        "cost per order by category": {
+          "Beauty/Haircuts": "80~150 yuan",
+          "Sports & Fitness/Fitness Centers": "150~200 yuan",
+          "Leisure & Entertainment/Massage/Foot Therapy": "150~250 yuan"
+        },
+        "preferred store rating": "4.0~4.8 stars",
+        "preferred service time": "18:00-20:00",
+        "preferred distance": "500~5000m",
+        "recent orders": [
+          {
+            "store": "Heyue Yoga Studio",
+            "product": "Single Person Yoga Class"
+          },
+          {
+            "store": "Modern Times",
+            "product": "Men's Professional Haircut"
+          },
+          {
+            "store": "Shuhuang Tang Foot Therapy",
+            "product": "Full Body Massage Stress Relief"
+          }
+        ],
+        "search history": [
+          "Foshan Gym",
+          "Stress Relief Massage",
+          "Men's Haircut",
+          "Fat-reducing Fitness Course"
+        ]
+      }
+    },
+    "OTA": {
+      "visited scenes": {
+        "Exhibitions (Museums/Art Galleries)": "30%",
+        "Natural Landscapes (Mountains/Lakes/Forests)": "25%",
+        "Tourist Attractions (Mountains/Seaside/Ecological Parks)": "20%",
+        "Theme Parks": "15%",
+        "Zoos": "10%"
+      },
+      "cost per night on hotel": "500~1000 yuan",
+      "visited hotels": {
+        "Atour": "35%",
+        "Ji Hotel": "25%",
+        "Vienna Hotel": "20%",
+        "Home Inn": "10%",
+        "Huazhu": "10%"
+      },
+      "browsed hotels": {
+        "Four-star Hotels": "45%",
+        "Comfort Hotels": "35%",
+        "Three-star Hotels": "15%",
+        "Five-star Hotels": "5%"
+      },
+      "historical travel plans": {
+        "Foshan-Huizhou": {
+          "Price Range": "150-300 yuan",
+          "Transportation Method": "High-speed Rail/EMU"
+        },
+        "Huizhou-Foshan": {
+          "Price Range": "150-300 yuan",
+          "Transportation Method": "High-speed Rail/EMU"
+        },
+        "Guangzhou-Shanghai": {
+          "Price Range": "800-1500 yuan",
+          "Transportation Method": "Flight"
+        },
+        "Shanghai-Guangzhou": {
+          "Price Range": "800-1500 yuan",
+          "Transportation Method": "Flight"
+        },
+        "Foshan-Hangzhou": {
+          "Price Range": "700-1200 yuan",
+          "Transportation Method": "Flight"
+        },
+        "Hangzhou-Foshan": {
+          "Price Range": "700-1200 yuan",
+          "Transportation Method": "Flight"
+        },
+        "Huizhou-Shenzhen": {
+          "Price Range": "80-150 yuan",
+          "Transportation Method": "High-speed Rail/EMU"
+        },
+        "Huizhou-Qingyuan": {
+          "Price Range": "200-400 yuan",
+          "Transportation Method": "Self-driving"
+        }
+      }
+    }
+  },
+  "stores": {
+    "S17550940890083291_S00001": {
+      "name": "Chunxiang Wine Specialty Store",
+      "store_id": "S17550940890083291_S00001",
+      "score": 4.7,
+      "location": {
+        "address": "Chunxiang Wine Specialty Store, 8 Xiaxi Third Road, Guicheng Street, Nanhai District, Foshan, Guangdong Province",
+        "latitude": 23.0492,
+        "longitude": 113.0318
+      },
+      "tags": [
+        "Wine Specialty Shop",
+        "Imported Wine",
+        "White Wine",
+        "Sparkling Wine"
+      ],
+      "store_type": "target",
+      "products": [
+        {
+          "name": "French Loire Valley Moscato Dry White Wine",
+          "store_id": "S17550940890083291_S00001",
+          "store_name": "Chunxiang Wine Specialty Store",
+          "price": 198,
+          "tags": [
+            "White Wine",
+            "Dry",
+            "France",
+            "Low Sugar",
+            "Fruity Style",
+            "Home Delivery"
+          ],
+          "product_id": "S17550940890083291_P00001",
+          "attributes": [
+            "750ml",
+            "12.5%vol"
+          ],
+          "product_type": "target"
+        },
+        {
+          "name": "Italian Prosecco Sparkling Wine",
+          "store_id": "S17550940890083291_S00001",
+          "store_name": "Chunxiang Wine Specialty Store",
+          "price": 168,
+          "tags": [
+            "Sparkling Wine",
+            "Dry",
+            "Italy",
+            "Low Sugar",
+            "Refreshing"
+          ],
+          "product_id": "S17550940890083291_P00002",
+          "attributes": [
+            "750ml",
+            "11%vol"
+          ],
+          "product_type": "target"
+        },
+        {
+          "name": "Australian Chardonnay Semi-dry White Wine",
+          "store_id": "S17550940890083291_S00001",
+          "store_name": "Chunxiang Wine Specialty Store",
+          "price": 188,
+          "tags": [
+            "White Wine",
+            "Semi-dry",
+            "Australia",
+            "Rich Fruity Flavor",
+            "Home Delivery"
+          ],
+          "product_id": "S17550940890083291_P00003",
+          "attributes": [
+            "750ml",
+            "13%vol"
+          ],
+          "product_type": "distraction"
+        },
+        {
+          "name": "Spanish Albariño Dry White Wine",
+          "store_id": "S17550940890083291_S00001",
+          "store_name": "Chunxiang Wine Specialty Store",
+          "price": 228,
+          "tags": [
+            "White Wine",
+            "Extra Dry",
+            "Spain",
+            "Low Sugar",
+            "Mineral Flavor"
+          ],
+          "product_id": "S17550940890083291_P00004",
+          "attributes": [
+            "750ml",
+            "12.5%vol"
+          ],
+          "product_type": "target"
+        },
+        {
+          "name": "French Bordeaux Médoc Dry Red Wine",
+          "store_id": "S17550940890083291_S00001",
+          "store_name": "Chunxiang Wine Specialty Store",
+          "price": 258,
+          "tags": [
+            "Red Wine",
+            "Dry",
+            "France",
+            "Bordeaux",
+            "Classic Region"
+          ],
+          "product_id": "S17550940890083291_P00005",
+          "attributes": [
+            "750ml",
+            "13.5%vol"
+          ],
+          "product_type": "distraction"
+        },
+        {
+          "name": "New Zealand Sauvignon Blanc Dry White Wine",
+          "store_id": "S17550940890083291_S00001",
+          "store_name": "Chunxiang Wine Specialty Store",
+          "price": 178,
+          "tags": [
+            "White Wine",
+            "Dry",
+            "New Zealand",
+            "Low Sugar",
+            "Tropical Fruit Aroma"
+          ],
+          "product_id": "S17550940890083291_P00006",
+          "attributes": [
+            "750ml",
+            "12%vol"
+          ],
+          "product_type": "target"
+        },
+        {
+          "name": "German Riesling Sweet White Wine",
+          "store_id": "S17550940890083291_S00001",
+          "store_name": "Chunxiang Wine Specialty Store",
+          "price": 168,
+          "tags": [
+            "White Wine",
+            "Sweet",
+            "Germany",
+            "Honey Flavor",
+            "Low Alcohol Content"
+          ],
+          "product_id": "S17550940890083291_P00007",
+          "attributes": [
+            "750ml",
+            "8.5%vol"
+          ],
+          "product_type": "distraction"
+        },
+        {
+          "name": "Italian Pinot Grigio Dry White Wine",
+          "store_id": "S17550940890083291_S00001",
+          "store_name": "Chunxiang Wine Specialty Store",
+          "price": 208,
+          "tags": [
+            "White Wine",
+            "Dry",
+            "Italy",
+            "Low Sugar",
+            "Elegant"
+          ],
+          "product_id": "S17550940890083291_P00008",
+          "attributes": [
+            "750ml",
+            "12.5%vol"
+          ],
+          "product_type": "target"
+        }
+      ]
+    },
+    "S17550940890083291_S00002": {
+      "name": "French Wine Exchange",
+      "store_id": "S17550940890083291_S00002",
+      "score": 4.6,
+      "location": {
+        "address": "French Wine Exchange, 28 Guilan Road, Guicheng Street, Nanhai District, Foshan, Guangdong Province",
+        "latitude": 23.0512,
+        "longitude": 113.0276
+      },
+      "tags": [
+        "Red Wine",
+        "Imported Wine",
+        "French Winery"
+      ],
+      "store_type": "distraction",
+      "products": [
+        {
+          "name": "French Bordeaux Red Wine",
+          "store_id": "S17550940890083291_S00002",
+          "store_name": "French Wine Exchange",
+          "price": 368,
+          "tags": [
+            "Originally Imported from France",
+            "Red Wine",
+            "Dry",
+            "Bordeaux AOC"
+          ],
+          "product_id": "S17550940890083291_P00009",
+          "attributes": [
+            "750ml",
+            "13.5%vol"
+          ],
+          "product_type": "distraction"
+        },
+        {
+          "name": "French Burgundy Red Wine Collector's Edition",
+          "store_id": "S17550940890083291_S00002",
+          "store_name": "French Wine Exchange",
+          "price": 598,
+          "tags": [
+            "Burgundy Region",
+            "Red Wine",
+            "Aged",
+            "Single Vineyard"
+          ],
+          "product_id": "S17550940890083291_P00010",
+          "attributes": [
+            "750ml",
+            "14%vol"
+          ],
+          "product_type": "distraction"
+        },
+        {
+          "name": "French Bordeaux Sweet White Wine",
+          "store_id": "S17550940890083291_S00002",
+          "store_name": "French Wine Exchange",
+          "price": 298,
+          "tags": [
+            "Originally Imported from France",
+            "White Wine",
+            "Sweet",
+            "Noble Rot (Botrytis)"
+          ],
+          "product_id": "S17550940890083291_P00011",
+          "attributes": [
+            "750ml",
+            "11.5%vol"
+          ],
+          "product_type": "distraction"
+        },
+        {
+          "name": "French Dry Rosé Wine",
+          "store_id": "S17550940890083291_S00002",
+          "store_name": "French Wine Exchange",
+          "price": 258,
+          "tags": [
+            "Originally Imported from France",
+            "Rosé Wine",
+            "Dry",
+            "Provence"
+          ],
+          "product_id": "S17550940890083291_P00012",
+          "attributes": [
+            "750ml",
+            "12.5%vol"
+          ],
+          "product_type": "distraction"
+        },
+        {
+          "name": "French Champagne",
+          "store_id": "S17550940890083291_S00002",
+          "store_name": "French Wine Exchange",
+          "price": 498,
+          "tags": [
+            "Originally Imported from France",
+            "Sparkling Wine",
+            "Dry",
+            "Champagne Region"
+          ],
+          "product_id": "S17550940890083291_P00013",
+          "attributes": [
+            "750ml",
+            "12%vol"
+          ],
+          "product_type": "distraction"
+        },
+        {
+          "name": "French Dry White Wine",
+          "store_id": "S17550940890083291_S00002",
+          "store_name": "French Wine Exchange",
+          "price": 328,
+          "tags": [
+            "Originally Imported from France",
+            "White Wine",
+            "Dry",
+            "Loire Valley"
+          ],
+          "product_id": "S17550940890083291_P00014",
+          "attributes": [
+            "750ml",
+            "12%vol"
+          ],
+          "product_type": "distraction"
+        }
+      ]
+    },
+    "S17550940890083291_S00003": {
+      "name": "Preshang Wine",
+      "store_id": "S17550940890083291_S00003",
+      "score": 4.3,
+      "location": {
+        "address": "Preshang Wine, 15 Guiping West Road, Guicheng Street, Nanhai District, Foshan, Guangdong Province",
+        "latitude": 23.0455,
+        "longitude": 113.0298
+      },
+      "tags": [
+        "White Wine",
+        "Sweet Wine",
+        "Sparkling Wine"
+      ],
+      "store_type": "distraction",
+      "products": [
+        {
+          "name": "French Moët Champagne Dry Sparkling Wine",
+          "store_id": "S17550940890083291_S00003",
+          "store_name": "Preshang Wine",
+          "price": 398,
+          "tags": [
+            "Sparkling Wine",
+            "Dry",
+            "France",
+            "High-end",
+            "Champagne"
+          ],
+          "product_id": "S17550940890083291_P00015",
+          "attributes": [],
+          "product_type": "distraction"
+        },
+        {
+          "name": "Italian Moscato Sweet White Wine",
+          "store_id": "S17550940890083291_S00003",
+          "store_name": "Preshang Wine",
+          "price": 189,
+          "tags": [
+            "White Wine",
+            "Sweet",
+            "Italy",
+            "Fruit Aroma"
+          ],
+          "product_id": "S17550940890083291_P00016",
+          "attributes": [],
+          "product_type": "distraction"
+        },
+        {
+          "name": "German Riesling Semi-sweet White Wine",
+          "store_id": "S17550940890083291_S00003",
+          "store_name": "Preshang Wine",
+          "price": 238,
+          "tags": [
+            "White Wine",
+            "Semi-sweet",
+            "Germany",
+            "Floral Aroma"
+          ],
+          "product_id": "S17550940890083291_P00017",
+          "attributes": [],
+          "product_type": "distraction"
+        },
+        {
+          "name": "Australian Sweetheart Moscato Sparkling Wine",
+          "store_id": "S17550940890083291_S00003",
+          "store_name": "Preshang Wine",
+          "price": 168,
+          "tags": [
+            "Sparkling Wine",
+            "Sweet",
+            "Australia",
+            "Fruity Flavor",
+            "Low Alcohol Content"
+          ],
+          "product_id": "S17550940890083291_P00018",
+          "attributes": [],
+          "product_type": "distraction"
+        },
+        {
+          "name": "French Sauternes Sweet White Wine",
+          "store_id": "S17550940890083291_S00003",
+          "store_name": "Preshang Wine",
+          "price": 458,
+          "tags": [
+            "White Wine",
+            "Sweet",
+            "France",
+            "Noble Rot (Botrytis)",
+            "High-end"
+          ],
+          "product_id": "S17550940890083291_P00019",
+          "attributes": [],
+          "product_type": "distraction"
+        },
+        {
+          "name": "Italian Asti Sweet Sparkling Wine",
+          "store_id": "S17550940890083291_S00003",
+          "store_name": "Preshang Wine",
+          "price": 148,
+          "tags": [
+            "Sparkling Wine",
+            "Sweet",
+            "Italy",
+            "Low Alcohol Content"
+          ],
+          "product_id": "S17550940890083291_P00020",
+          "attributes": [],
+          "product_type": "distraction"
+        },
+        {
+          "name": "New Zealand Sauvignon Blanc Semi-dry White Wine",
+          "store_id": "S17550940890083291_S00003",
+          "store_name": "Preshang Wine",
+          "price": 278,
+          "tags": [
+            "White Wine",
+            "Semi-dry",
+            "New Zealand",
+            "Fruit Aroma",
+            "Refreshing"
+          ],
+          "product_id": "S17550940890083291_P00021",
+          "attributes": [],
+          "product_type": "distraction"
+        }
+      ]
+    },
+    "S17550940890083291_S00004": {
+      "name": "Fine Wine Family",
+      "store_id": "S17550940890083291_S00004",
+      "score": 4.8,
+      "location": {
+        "address": "Fine Wine Family, 23 Guilan Middle Road, Guicheng Street, Nanhai District, Foshan, Guangdong Province",
+        "latitude": 23.0531,
+        "longitude": 113.0302
+      },
+      "tags": [
+        "Wine Specialty Store",
+        "Semi-dry",
+        "Imported Wine"
+      ],
+      "store_type": "target",
+      "products": [
+        {
+          "name": "French Lanson Dry White Wine",
+          "store_id": "S17550940890083291_S00004",
+          "store_name": "Fine Wine Family",
+          "price": 268,
+          "tags": [
+            "Dry White Wine",
+            "Imported from France",
+            "Low Sugar",
+            "Citrus Aroma",
+            "Suitable for Gatherings"
+          ],
+          "product_id": "S17550940890083291_P00022",
+          "attributes": [
+            "750ml",
+            "11.5%vol"
+          ],
+          "product_type": "target"
+        },
+        {
+          "name": "Italian Prosecco Semi-dry Sparkling White Wine",
+          "store_id": "S17550940890083291_S00004",
+          "store_name": "Fine Wine Family",
+          "price": 198,
+          "tags": [
+            "Sparkling Wine",
+            "Semi-dry",
+            "Imported from Italy",
+            "Medium Sweet",
+            "Rich Fruit Aroma"
+          ],
+          "product_id": "S17550940890083291_P00023",
+          "attributes": [
+            "750ml",
+            "11%vol"
+          ],
+          "product_type": "distraction"
+        },
+        {
+          "name": "Australian Botrytis Sweet White Wine",
+          "store_id": "S17550940890083291_S00004",
+          "store_name": "Fine Wine Family",
+          "price": 235,
+          "tags": [
+            "Dry White Wine",
+            "Imported from Australia",
+            "Sweet Taste",
+            "Fruity Style"
+          ],
+          "product_id": "S17550940890083291_P00024",
+          "attributes": [
+            "750ml",
+            "12.5%vol"
+          ],
+          "product_type": "target"
+        },
+        {
+          "name": "Spanish Torres Rosé Wine",
+          "store_id": "S17550940890083291_S00004",
+          "store_name": "Fine Wine Family",
+          "price": 188,
+          "tags": [
+            "Rosé Wine",
+            "Imported from Spain",
+            "Slightly Sweet",
+            "Romantic Pink",
+            "Fruit Aroma"
+          ],
+          "product_id": "S17550940890083291_P00025",
+          "attributes": [
+            "750ml",
+            "12%vol"
+          ],
+          "product_type": "distraction"
+        },
+        {
+          "name": "New Zealand Sauvignon Blanc Dry Red Wine",
+          "store_id": "S17550940890083291_S00004",
+          "store_name": "Fine Wine Family",
+          "price": 298,
+          "tags": [
+            "Imported from New Zealand",
+            "Slightly Sweet",
+            "Fresh Herbal Aroma",
+            "High Quality"
+          ],
+          "product_id": "S17550940890083291_P00026",
+          "attributes": [
+            "750ml",
+            "13%vol"
+          ],
+          "product_type": "target"
+        },
+        {
+          "name": "French Bordeaux Sweet White Wine",
+          "store_id": "S17550940890083291_S00004",
+          "store_name": "Fine Wine Family",
+          "price": 328,
+          "tags": [
+            "Sweet White Wine",
+            "Imported from France",
+            "High Sugar",
+            "Honey Taste",
+            "Noble Rot Process"
+          ],
+          "product_id": "S17550940890083291_P00027",
+          "attributes": [
+            "500ml",
+            "13.5%vol"
+          ],
+          "product_type": "distraction"
+        },
+        {
+          "name": "Italian Pinot Grigio Dry White Wine",
+          "store_id": "S17550940890083291_S00004",
+          "store_name": "Fine Wine Family",
+          "price": 258,
+          "tags": [
+            "Dry White Wine",
+            "Imported from Italy",
+            "Medium Sweet",
+            "Mineral Flavor"
+          ],
+          "product_id": "S17550940890083291_P00028",
+          "attributes": [
+            "750ml",
+            "12.5%vol"
+          ],
+          "product_type": "target"
+        }
+      ]
+    },
+    "S17550940890083291_S00005": {
+      "name": "Zuimei Liquor Company",
+      "store_id": "S17550940890083291_S00005",
+      "score": 4.4,
+      "location": {
+        "address": "Zuimei Liquor Company, 12 Lingnan Road, Dali Town, Nanhai District, Foshan, Guangdong Province",
+        "latitude": 23.0812,
+        "longitude": 113.1156
+      },
+      "tags": [
+        "Wine",
+        "Baijiu (Chinese Spirits)",
+        "Beer"
+      ],
+      "store_type": "distraction",
+      "products": [
+        {
+          "name": "Lan Guiren Dry White Wine",
+          "store_id": "S17550940890083291_S00005",
+          "store_name": "Zuimei Liquor Company",
+          "price": 189,
+          "tags": [
+            "Dry White Wine",
+            "French Region",
+            "Refreshing Taste",
+            "Low Sugar"
+          ],
+          "product_id": "S17550940890083291_P00029",
+          "attributes": [],
+          "product_type": "distraction"
+        },
+        {
+          "name": "Australian Chardonnay Semi-dry White Wine",
+          "store_id": "S17550940890083291_S00005",
+          "store_name": "Zuimei Liquor Company",
+          "price": 258,
+          "tags": [
+            "Semi-dry White Wine",
+            "Australia",
+            "Rich Fruit Aroma",
+            "Low Sugar"
+          ],
+          "product_id": "S17550940890083291_P00030",
+          "attributes": [],
+          "product_type": "distraction"
+        },
+        {
+          "name": "Italian Moscato Sweet White Wine",
+          "store_id": "S17550940890083291_S00005",
+          "store_name": "Zuimei Liquor Company",
+          "price": 168,
+          "tags": [
+            "Sweet White Wine",
+            "Italy",
+            "Floral and Fruity Aroma",
+            "High Sugar"
+          ],
+          "product_id": "S17550940890083291_P00031",
+          "attributes": [],
+          "product_type": "distraction"
+        },
+        {
+          "name": "Moutai Flying Fairy 53% ABV",
+          "store_id": "S17550940890083291_S00005",
+          "store_name": "Zuimei Liquor Company",
+          "price": 2899,
+          "tags": [
+            "Baijiu (Chinese Spirits)",
+            "Moutai",
+            "Sauce Aroma Type",
+            "High Alcohol Content"
+          ],
+          "product_id": "S17550940890083291_P00032",
+          "attributes": [],
+          "product_type": "distraction"
+        },
+        {
+          "name": "Wuliangye 52% ABV",
+          "store_id": "S17550940890083291_S00005",
+          "store_name": "Zuimei Liquor Company",
+          "price": 1299,
+          "tags": [
+            "Baijiu (Chinese Spirits)",
+            "Wuliangye",
+            "Strong Aroma Type",
+            "High Alcohol Content"
+          ],
+          "product_id": "S17550940890083291_P00033",
+          "attributes": [],
+          "product_type": "distraction"
+        },
+        {
+          "name": "French Bordeaux Dry Red Wine",
+          "store_id": "S17550940890083291_S00005",
+          "store_name": "Zuimei Liquor Company",
+          "price": 389,
+          "tags": [
+            "Dry Red Wine",
+            "Bordeaux, France",
+            "Rich Tannins",
+            "Aged"
+          ],
+          "product_id": "S17550940890083291_P00034",
+          "attributes": [],
+          "product_type": "distraction"
+        },
+        {
+          "name": "Qingdao Classic Beer 12-Bottle Pack",
+          "store_id": "S17550940890083291_S00005",
+          "store_name": "Zuimei Liquor Company",
+          "price": 89,
+          "tags": [
+            "Beer",
+            "Qingdao",
+            "Refreshing",
+            "Gift Box"
+          ],
+          "product_id": "S17550940890083291_P00035",
+          "attributes": [],
+          "product_type": "distraction"
+        }
+      ]
+    }
+  },
+  "orders": {}
+}

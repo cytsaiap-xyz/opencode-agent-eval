@@ -1,0 +1,69 @@
+{
+  "required_orders": [
+    {
+      "order_id": "80715003T01",
+      "order_type": "delivery",
+      "user_id": "U000033",
+      "store_id": "S13964547993271611_S17164",
+      "note": "Want the Ugliest Duck",
+      "location": {
+        "address": "Jinqiu Residential Area, No. 368 Furong South Road, Tianxin District, Changsha, Hunan Province (180 meters from Railway Institute Metro Station Exit 2)",
+        "longitude": 112.985099,
+        "latitude": 28.134563
+      },
+      "dispatch_time": "2025-10-10 11:45:00",
+      "shipping_time": 28,
+      "delivery_time": "2025-10-10 12:13:00",
+      "total_price": 19,
+      "create_time": "2025-10-10 11:00:00",
+      "update_time": "2025-10-10 11:00:00",
+      "status": "delivered",
+      "products": [
+        {
+          "product_id": "S41033997512498734_P56142",
+          "price": 19,
+          "quantity": 1,
+          "attributes": "50% Sugar Level"
+        }
+      ]
+    },
+    {
+      "order_id": "80715003T02",
+      "order_type": "delivery",
+      "user_id": "U000033",
+      "store_id": "S13966425117690123_S02958",
+      "note": "",
+      "location": {
+        "address": "Jinqiu Residential Area, No. 368 Furong South Road, Tianxin District, Changsha, Hunan Province (180 meters from Railway Institute Metro Station Exit 2)",
+        "longitude": 112.985099,
+        "latitude": 28.134563
+      },
+      "dispatch_time": "2025-10-10 11:20:00",
+      "shipping_time": 43,
+      "delivery_time": "2025-10-10 12:03:00",
+      "total_price": 176.8,
+      "create_time": "2025-10-10 11:03:00",
+      "update_time": "2025-10-10 11:03:00",
+      "status": "delivered",
+      "products": [
+        {
+          "product_id": "S23055183453475350_P16425",
+          "price": 176.8,
+          "quantity": 1,
+          "attributes": ""
+        }
+      ]
+    }
+  ],
+  "rubrics": [
+    "The delivery address for the hand-shaken lemon tea order should be Jinqiu Residential Area, No. 368 Furong South Road, Tianxin District, Changsha, Hunan Province (180 meters from Railway Institute Metro Station Exit 2)",
+    "The estimated delivery time for the hand-shaken lemon tea order should be between 2025-10-10 12:00:00 and 2025-10-10 14:00:00",
+    "The hand-shaken lemon tea order should choose the merchant closest to the user: LINLEE Hand-shaken Lemon Tea (Forestry University Branch)",
+    "The hand-shaken lemon tea order should select the Signature Hand-shaken Lemon Tea product",
+    "The sweetness level for the Signature Hand-shaken Lemon Tea should be 5/10 sugar (slightly less than standard sweetness)",
+    "The hand-shaken lemon tea order needs a note requesting the ugliest duck",
+    "The delivery address for the salmon sashimi order should be Jinqiu Residential Area, No. 368 Furong South Road, Tianxin District, Changsha, Hunan Province (180 meters from Railway Institute Metro Station Exit 2)",
+    "The estimated delivery time for the salmon sashimi order should be between 2025-10-10 12:00:00 and 2025-10-10 14:00:00",
+    "The salmon sashimi order should select products labeled as Fresh-cut Today"
+  ]
+}

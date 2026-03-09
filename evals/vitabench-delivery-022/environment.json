@@ -1,0 +1,308 @@
+{
+  "task_id": "40711001",
+  "domain": "delivery",
+  "time": "2025-06-14 16:36:41",
+  "user_id": "U000004",
+  "weather": [
+    {
+      "city": "Shijiazhuang City",
+      "category": "cloudy",
+      "datetime": "2025-06-14",
+      "temperature": [
+        22,
+        32
+      ],
+      "humidity": 61
+    }
+  ],
+  "location": [
+    {
+      "address": "Junchuang International Business Garden, 50 North Zhonghua Street, Xinhua District, Shijiazhuang City, Hebei Province",
+      "longitude": 114.476525,
+      "latitude": 38.046094
+    }
+  ],
+  "user_profile": {
+    "user id": "U000004",
+    "occupation": "Actor",
+    "gender": "male",
+    "age group": "30~35",
+    "residence": "Shijiazhuang",
+    "home address": "No. 100 Compound, Minzu Road, opposite to Huaqiang Plaza, Zhongshan Street, Qiaoxi District, Shijiazhuang City, Hebei Province",
+    "work address": "Junchuang International Business Garden, 50 North Zhonghua Street, Xinhua District, Shijiazhuang City, Hebei Province",
+    "dietary restrictions": "Avoid high oil, avoid high salt",
+    "family status": "Has children",
+    "personality": "Easily anxious and worried, needs repeated confirmation to feel at ease"
+  },
+  "user_historical_behaviors": {
+    "user id": "U000004",
+    "occupation": "Actor",
+    "gender": "male",
+    "age group": "30~35",
+    "residence": "Shijiazhuang",
+    "home address": "No. 100 Courtyard, Minzu Road, Opposite Huaqiang Plaza, Zhongshan Street, Qiaoxi District, Shijiazhuang City, Hebei Province",
+    "work address": "Junchuang International Business Garden, 50 North Zhonghua Street, Xinhua District, Shijiazhuang City, Hebei Province",
+    "breakfast": {
+      "frequently purchased categories": [
+        "Quick Meals/Steamed Buns/Pan-fried Buns (Average 20 yuan)",
+        "Quick Meals/Light Food (Average 32 yuan)"
+      ],
+      "cost per order": "15~35 yuan",
+      "preferred store rating": "4.3~4.8 stars",
+      "preferred delivery time": "15~25 minutes",
+      "preferred distance": "0~2500m",
+      "recent orders": [
+        {
+          "store": "Mr. Light Food",
+          "product": "Healthy Low-fat Sandwich Meal"
+        },
+        {
+          "store": "Laojiekou Bun Shop",
+          "product": "Vegetable Bun + Soy Milk"
+        },
+        {
+          "store": "Fresh Juice Bar",
+          "product": "Fresh Vegetable and Fruit Juice + Whole Wheat Bread"
+        }
+      ],
+      "search history": [
+        "Healthy breakfast",
+        "Low-fat breakfast",
+        "Fresh juice",
+        "Whole wheat bread"
+      ]
+    },
+    "weekday lunch/dinner": {
+      "frequently purchased categories": [
+        "Chinese Cuisine/Cantonese/Sichuan (Average 80 yuan)",
+        "Quick Meals/Healthy Meals (Average 40 yuan)"
+      ],
+      "cost per order": "30~170 yuan",
+      "preferred store rating": "4.0~4.9 stars",
+      "preferred delivery time": "20~50 minutes",
+      "preferred distance": "0~5000m",
+      "recent orders": [
+        {
+          "store": "Cai Lan Dim Sum·Cantonese Cuisine (Shijiazhuang Mixc City)",
+          "product": "【Order As You Like】Set for Two"
+        },
+        {
+          "store": "Yue Zhi Yue·Hakka Cuisine (Youyi Street)",
+          "product": "Black Pepper Beef with King Oyster Mushroom—Vegetable Brown Rice Diet Meal"
+        },
+        {
+          "store": "Little Sichuan (Shifan Street)",
+          "product": "Stir-fried Sweet Potato Leaves, Boiling Qingjiang Fish"
+        }
+      ],
+      "search history": [
+        "Low Salt diet",
+        "Healthy work meals",
+        "Cantonese cuisine",
+        "Boiled fish"
+      ]
+    },
+    "weekend lunch/dinner": {
+      "frequently purchased categories": [
+        "Chinese Cuisine/Cantonese (Average 150 yuan)",
+        "International Cuisine/Japanese Bento (Average 200 yuan)"
+      ],
+      "cost per order": "50~400 yuan",
+      "preferred store rating": "4.0~5.0 stars",
+      "preferred delivery time": "25~60 minutes",
+      "preferred distance": "0~7000m",
+      "recent orders": [
+        {
+          "store": "Songfengting Japanese Restaurant",
+          "product": "Salmon and Shrimp Avocado Salad"
+        },
+        {
+          "store": "Guangming Fishing Port (Zhonghua Store)",
+          "product": "Steamed Turbot Fish, Claypot Aged Pumpkin with Spare Ribs, Hand-torn Cabbage"
+        }
+      ],
+      "search history": [
+        "Steamed dishes",
+        "Japanese cuisine",
+        "Healthy family meals"
+      ]
+    },
+    "desserts/drinks/snacks": {
+      "frequently purchased categories": [
+        "Beverages and Desserts/Pure Tea/Herbal Tea (Average 22 yuan)",
+        "Beverages and Desserts/Fruit Bowls (Average 35 yuan)"
+      ],
+      "cost per order": "20~40 yuan",
+      "preferred store rating": "4.4~4.9 stars",
+      "preferred delivery time": "15~30 minutes",
+      "preferred distance": "0~2500m",
+      "recent orders": [
+        {
+          "store": "Fresh Fruit Bowl",
+          "product": "Colorful Fruit Platter"
+        },
+        {
+          "store": "Tea Words",
+          "product": "Sugar-free Oolong Tea"
+        },
+        {
+          "store": "Fresh Cut Fruit Shop",
+          "product": "Selected Mixed Fruit Box"
+        }
+      ],
+      "search history": [
+        "Sugar-free drinks",
+        "Healthy desserts",
+        "Fruit bowls",
+        "Low-sugar tea"
+      ]
+    },
+    "night snack": {
+      "frequently purchased categories": [
+        "Snacks and Braised Foods/Braised Items (Average 40 yuan)",
+        "Quick Meals/Clay Pot Porridge (Average 35 yuan)"
+      ],
+      "cost per order": "30~55 yuan",
+      "preferred store rating": "4.2~4.8 stars",
+      "preferred delivery time": "20~35 minutes",
+      "preferred distance": "0~3000m",
+      "recent orders": [
+        {
+          "store": "Porridge World",
+          "product": "Century Egg and Lean Meat Porridge (Low Salt)"
+        },
+        {
+          "store": "Selected Braised Delicacies",
+          "product": "Braised Chicken Breast Platter"
+        },
+        {
+          "store": "Healthy Porridge House",
+          "product": "Five-grain Porridge"
+        }
+      ],
+      "search history": [
+        "Low salt night snacks",
+        "Healthy porridge",
+        "Braised foods",
+        "Stomach-friendly night snacks"
+      ]
+    }
+  },
+  "stores": {
+    "S29691868989292190_S30164": {
+      "name": "Junsi Cantonese Kitchen",
+      "store_id": "S29691868989292190_S30164",
+      "score": 4.9,
+      "location": {
+        "address": "Junsi Cantonese Kitchen Tea Restaurant, 60 Fuqiang Street, Yuhua District, Shijiazhuang City, Hebei Province",
+        "latitude": 38.021228,
+        "longitude": 114.523649
+      },
+      "tags": [],
+      "products": [
+        {
+          "name": "White Cut Qingyuan Chicken (Half)",
+          "store_id": "S29691868989292190_S30164",
+          "store_name": "Junsi Cantonese Kitchen",
+          "price": 89.0,
+          "tags": [
+            "Low Salt",
+            "Less Oil"
+          ],
+          "product_id": "S32323489010229624_P20646",
+          "attributes": [],
+          "quantity": 9999
+        },
+        {
+          "name": "Liwan Boat Congee",
+          "store_id": "S29691868989292190_S30164",
+          "store_name": "Junsi Cantonese Kitchen",
+          "price": 29.0,
+          "tags": [
+            "Low Salt",
+            "Less Oil"
+          ],
+          "product_id": "S20116224561682274_P08606",
+          "attributes": [],
+          "quantity": 9999
+        },
+        {
+          "name": "Radish and Beef Brisket Stew",
+          "store_id": "S29691868989292190_S30164",
+          "store_name": "Junsi Cantonese Kitchen",
+          "price": 55.0,
+          "tags": [],
+          "product_id": "S10442979807373900_P30837",
+          "attributes": [],
+          "quantity": 9999
+        },
+        {
+          "name": "Set Meal for Two | Fish Fillet in Gravy + Chinese Lettuce + Rice",
+          "store_id": "S29691868989292190_S30164",
+          "store_name": "Junsi Cantonese Kitchen",
+          "price": 69.0,
+          "tags": [],
+          "product_id": "S26730900892792972_P71161",
+          "attributes": [],
+          "quantity": 9999
+        },
+        {
+          "name": "Claypot Rice with Preserved Meat",
+          "store_id": "S29691868989292190_S30164",
+          "store_name": "Junsi Cantonese Kitchen",
+          "price": 30,
+          "tags": [],
+          "product_id": "S24636399703804984_P98124",
+          "attributes": [
+            "Preserved meat products"
+          ],
+          "quantity": 9999
+        },
+        {
+          "name": "Cantonese Style Marinated Beef",
+          "store_id": "S29691868989292190_S30164",
+          "store_name": "Junsi Cantonese Kitchen",
+          "price": 48,
+          "tags": [],
+          "product_id": "S23416135155803856_P38627",
+          "attributes": [],
+          "quantity": 9999
+        }
+      ]
+    },
+    "S30987078935710191_S83922": {
+      "name": "E'guan Ji - Roast Goose with Rice Noodles (Xinbai Store)",
+      "store_id": "S30987078935710191_S83922",
+      "score": 5.0,
+      "location": {
+        "address": "No. 87-050, Ground Floor Commercial Space, Railway 15th Dormitory, Ning'an Road, Xinhua District, Shijiazhuang City, Hebei Province",
+        "latitude": 38.054336,
+        "longitude": 114.483746
+      },
+      "tags": [],
+      "products": [
+        {
+          "name": "[Popular] White Cut Chicken Rice + Traditional Cantonese Soup",
+          "store_id": "S30987078935710191_S83922",
+          "store_name": "E'guan Ji - Roast Goose with Rice Noodles (Xinbai Store)",
+          "price": 24.8,
+          "tags": [],
+          "product_id": "S20795972917954907_P52733",
+          "attributes": [],
+          "quantity": 9999
+        },
+        {
+          "name": "White Cut Chicken 150g",
+          "store_id": "S30987078935710191_S83922",
+          "store_name": "E'guan Ji - Roast Goose with Rice Noodles (Xinbai Store)",
+          "price": 16.8,
+          "tags": [],
+          "product_id": "S25866134304780229_P45504",
+          "attributes": [],
+          "quantity": 9999
+        }
+      ]
+    }
+  },
+  "orders": {}
+}

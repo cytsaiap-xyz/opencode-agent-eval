@@ -1,0 +1,122 @@
+{
+  "required_orders": [
+    {
+      "order_id": "D0811002T001",
+      "order_type": "train",
+      "user_id": "U010081",
+      "store_id": "S17557514893253360_T00009",
+      "note": "",
+      "location": null,
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 178,
+      "create_time": "2023-10-15 14:33:00",
+      "update_time": "2023-10-15 14:33:00",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17557514893253360_P00052",
+          "price": 89,
+          "quantity": 2,
+          "date": "2023-10-22",
+          "seat_type": "Business class seat"
+        }
+      ]
+    },
+    {
+      "order_id": "D0811002T002",
+      "order_type": "train",
+      "user_id": "U010081",
+      "store_id": "S17557514893253360_T00012",
+      "note": "",
+      "location": null,
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 178,
+      "create_time": "2023-10-15 14:36:00",
+      "update_time": "2023-10-15 14:36:00",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17557514893253360_P00070",
+          "price": 89,
+          "quantity": 2,
+          "date": "2023-10-23",
+          "seat_type": "Hard sleeper"
+        }
+      ]
+    },
+    {
+      "order_id": "D0811002T003",
+      "order_type": "hotel",
+      "user_id": "U010081",
+      "store_id": "S17557514893253360_H00002",
+      "note": "",
+      "location": null,
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 758,
+      "create_time": "2023-10-15 14:39:00",
+      "update_time": "2023-10-15 14:39:00",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17557514893253360_P00007",
+          "price": 758,
+          "quantity": 1,
+          "date": "2023-10-22",
+          "room_type": "Business twin room"
+        }
+      ]
+    },
+    {
+      "order_id": "D0811002T004",
+      "order_type": "attraction",
+      "user_id": "U010081",
+      "store_id": "S17557514893253360_A00005",
+      "note": "",
+      "location": null,
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 170,
+      "create_time": "2023-10-15 14:41:10",
+      "update_time": "2023-10-15 14:41:10",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17557514893253360_P00027",
+          "price": 85,
+          "quantity": 2,
+          "date": "2023-10-22",
+          "ticket_type": "Water Charm Jiangsu combined ticket"
+        }
+      ]
+    }
+  ],
+  "rubrics": [
+    "Departure location of the outbound train ticket should be Wuxi",
+    "Destination of the outbound train ticket should be Zhenjiang",
+    "Departure date of the outbound train ticket should be October 22, 2023",
+    "The ordered outbound train should be the one with the shortest travel time among available options, the train in the outbound ticket order should be G7095 (47 minutes travel time)",
+    "The quantity in the outbound train ticket order should be 2",
+    "The seat type in the outbound train ticket order should be Business class seat",
+    "Departure location of the return train ticket should be Zhenjiang",
+    "Destination of the return train ticket should be Wuxi",
+    "Departure date of the return train ticket should be October 23, 2023",
+    "Need to check the date of Double Ninth Festival in 2023, which is October 23, 2023, so the arrival time of the return ticket should be around 10:00",
+    "The quantity in the return train ticket order should be 2",
+    "The seat type in the return train ticket order should be Hard sleeper",
+    "The hotel to be booked should be a Chain hotel",
+    "The rating of the booked hotel should be greater than or equal to 4.5",
+    "The check-in date of the hotel should be October 22, 2023",
+    "The room type in the hotel order should be twin room",
+    "The attraction to be booked should be Zhenjiang Jinshan Temple",
+    "Need to check the weather in Zhenjiang on October 22, 2023, which is sunny, so the ticket type in the attraction order should be the ticket with \"Water Charm Jiangsu\"",
+    "The quantity in the attraction order should be 2",
+    "The date in the attraction order should be 2023-10-22"
+  ]
+}

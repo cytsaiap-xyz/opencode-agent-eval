@@ -1,0 +1,76 @@
+{
+  "required_orders": [
+    {
+      "order_id": "A0714001T01",
+      "order_type": "delivery",
+      "user_id": "U000007",
+      "store_id": "S28422315784431063_S02543",
+      "note": "",
+      "location": {
+        "address": "Yingge Yuan Residential Area, 198 Jiqingmen Street, Jianye District, Nanjing, Jiangsu Province",
+        "longitude": 118.742224,
+        "latitude": 32.029171
+      },
+      "dispatch_time": "2024-07-15 18:12:00",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 39.8,
+      "create_time": "2024-07-15 17:58:00",
+      "update_time": "2024-07-15 17:58:00",
+      "status": "in-progress",
+      "products": [
+        {
+          "product_id": "S83212177555407456_P08105",
+          "price": 39.8,
+          "quantity": 1,
+          "attributes": ""
+        }
+      ]
+    },
+    {
+      "order_id": "A0714001T02",
+      "order_type": "delivery",
+      "user_id": "U000007",
+      "store_id": "S64699348232044444_S98376",
+      "note": "",
+      "location": {
+        "address": "Yingge Yuan Residential Area, 198 Jiqingmen Street, Jianye District, Nanjing, Jiangsu Province",
+        "longitude": 118.742224,
+        "latitude": 32.029171
+      },
+      "dispatch_time": "2024-07-15 18:10:00",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 48.0,
+      "create_time": "2024-07-15 18:02:00",
+      "update_time": "2024-07-15 18:02:00",
+      "status": "in-progress",
+      "products": [
+        {
+          "product_id": "S17395716266717529_P37049",
+          "price": 24.0,
+          "quantity": 1,
+          "attributes": "Room temperature"
+        },
+        {
+          "product_id": "S17395716266717529_P37049",
+          "price": 24.0,
+          "quantity": 1,
+          "attributes": "Chilled"
+        }
+      ]
+    }
+  ],
+  "rubrics": [
+    "The delivery address of the sushi order should be Yingge Yuan Residential Area, 198 Jiqingmen Street, Jianye District, Nanjing, Jiangsu Province",
+    "The delivery time of the sushi order should be around 2024-07-15 18:30:00",
+    "The sushi order should be from a Dine-in Restaurant rather than a delivery-only restaurant",
+    "The sushi order should be from the restaurant closest to the user",
+    "The product in the sushi order should be a cooked sushi platter",
+    "The delivery address of the juice order should be Yingge Yuan Residential Area, 198 Jiqingmen Street, Jianye District, Nanjing, Jiangsu Province",
+    "The delivery time of the juice order should be around 2024-07-15 18:30:00",
+    "The juice order should include one room temperature item",
+    "The juice order should include one chilled item",
+    "The quantity of items in the juice order should be 2 portions"
+  ]
+}

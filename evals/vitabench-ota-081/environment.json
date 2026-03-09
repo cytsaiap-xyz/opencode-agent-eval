@@ -1,0 +1,242 @@
+{
+  "task_id": "D0807009",
+  "domain": "ota",
+  "time": "2026-07-27 18:57:11",
+  "user_id": "U010050",
+  "weather": [
+    {
+      "city": "Tai'an",
+      "category": "cloudy",
+      "datetime": "2026-07-27",
+      "temperature": [
+        26,
+        36
+      ],
+      "humidity": 70
+    },
+    {
+      "city": "Tai'an",
+      "category": "cloudy",
+      "datetime": "2026-07-28",
+      "temperature": [
+        28,
+        33
+      ],
+      "humidity": 70
+    },
+    {
+      "city": "Tai'an",
+      "category": "sunny",
+      "datetime": "2026-07-29",
+      "temperature": [
+        22,
+        31
+      ],
+      "humidity": 65
+    },
+    {
+      "city": "Tai'an",
+      "category": "cloudy",
+      "datetime": "2026-07-30",
+      "temperature": [
+        24,
+        33
+      ],
+      "humidity": 70
+    },
+    {
+      "city": "Tai'an",
+      "category": "light rain",
+      "datetime": "2026-07-31",
+      "temperature": [
+        21,
+        28
+      ],
+      "humidity": 85
+    },
+    {
+      "city": "Shenzhen",
+      "category": "showers",
+      "datetime": "2026-07-27",
+      "temperature": [
+        26,
+        32
+      ],
+      "humidity": 78
+    }
+  ],
+  "location": [
+    {
+      "address": "Room 1503, Building B2, Kexing Science Park, No. 11 Kexing Road, South Area of Science and Technology Park, Nanshan District, Shenzhen, Guangdong Province",
+      "longitude": 113.9547,
+      "latitude": 22.5364
+    },
+    {
+      "address": "15th Floor, Building W1-A, Hi-Tech Park, No. 25 Gaoxin South 4th Road, Nanshan District, Shenzhen, Guangdong Province",
+      "longitude": 113.9598,
+      "latitude": 22.5412
+    },
+    {
+      "address": "No. 126 Hongmen Road, Taishan District, Tai'an City, Shandong Province (at the foot of Mount Tai)",
+      "longitude": 117.1646,
+      "latitude": 36.1877
+    }
+  ],
+  "user_profile": {
+    "user id": "U010050",
+    "occupation": "Product Manager",
+    "gender": "male",
+    "age group": "30~35",
+    "residence": "Shenzhen",
+    "home address": "Room 1503, Building B2, Kexing Science Park, No. 11 Kexing Road, South Area of Science and Technology Park, Nanshan District, Shenzhen, Guangdong Province",
+    "work address": "15th Floor, Building W1-A, Hi-Tech Park, No. 25 Gaoxin South 4th Road, Nanshan District, Shenzhen, Guangdong Province",
+    "dietary restrictions": "No caffeine, no high-fat offal",
+    "family status": "Has children",
+    "personality": "Impatient, frequently rushes others, lacks patience during processes"
+  },
+  "user_historical_behaviors": {
+    "user id": "U010050",
+    "occupation": "Product Manager",
+    "gender": "male",
+    "age group": "30~35",
+    "residence": "Shenzhen",
+    "home address": "Room 1503, Building B2, Kexing Science Park, No. 11 Kexing Road, South Area of Science and Technology Park, Nanshan District, Shenzhen, Guangdong Province",
+    "work address": "15th Floor, Building W1-A, Hi-Tech Park, No. 25 Gaoxin South 4th Road, Nanshan District, Shenzhen, Guangdong Province",
+    "visited scenes": {
+      "Theme parks": "35%",
+      "Natural landscapes (mountains/lakes/forests)": "25%",
+      "Exhibition halls (museums/art galleries)": "20%",
+      "Tourist attractions (mountain/coastal/ecological large scenic areas)": "15%",
+      "Zoos": "5%"
+    },
+    "cost per night on hotel": "500~1000 yuan",
+    "visited hotels": {
+      "Atour": "30%",
+      "Ji Hotel": "25%",
+      "Vienna": "20%",
+      "Marriott": "15%",
+      "Huazhu": "10%"
+    },
+    "browsed hotels": {
+      "Four-star hotels": "45%",
+      "Comfort hotels": "35%",
+      "Luxury hotels": "15%",
+      "Five-star hotels": "5%"
+    },
+    "historical travel plans": {
+      "Shenzhen-Shanghai": {
+        "Price range": "800-1200 yuan",
+        "Transportation mode": "Flight"
+      },
+      "Shenzhen-Beijing": {
+        "Price range": "1200-1800 yuan",
+        "Transportation mode": "Flight"
+      },
+      "Shenzhen-Guangzhou": {
+        "Price range": "100-150 yuan",
+        "Transportation mode": "high-speed rail"
+      },
+      "Shenzhen-Hangzhou": {
+        "Price range": "700-1000 yuan",
+        "Transportation mode": "Flight"
+      },
+      "Shenzhen-Chengdu": {
+        "Price range": "900-1500 yuan",
+        "Transportation mode": "Flight"
+      },
+      "Shenzhen-Zhuhai": {
+        "Price range": "150-200 yuan",
+        "Transportation mode": "high-speed rail"
+      },
+      "Shenzhen-Changsha": {
+        "Price range": "500-700 yuan",
+        "Transportation mode": "high-speed rail"
+      }
+    }
+  },
+  "stores": {},
+  "orders": {
+    "S17557515995167456_O00001": {
+      "order_id": "S17557515995167456_O00001",
+      "order_type": "train",
+      "user_id": "U010050",
+      "store_id": "S17557515995167456_T00012",
+      "location": {
+        "address": "Shenzhen North Railway Station, No. 26 Zhiyuan Middle Road, Longhua District, Shenzhen, Guangdong Province",
+        "longitude": 114.029616,
+        "latitude": 22.610083
+      },
+      "dispatch_time": "",
+      "shipping_time": 0.0,
+      "delivery_time": "",
+      "note": "Afternoon arrival schedule, convenient for evening mountain climbing plans",
+      "total_price": 553.0,
+      "create_time": "2026-07-26 14:30:00",
+      "update_time": "2026-07-26 14:30:00",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17557515995167456_P00084",
+          "price": 553.0,
+          "quantity": 1,
+          "seat_type": "second-class seat"
+        }
+      ]
+    },
+    "S17557515995167456_O00002": {
+      "order_id": "S17557515995167456_O00002",
+      "order_type": "attraction",
+      "user_id": "U010050",
+      "store_id": "S17557515995167456_A00005",
+      "location": {
+        "address": "Mount Tai Scenic Area, No. 54 Hongmen Road, Taishan District, Tai'an, Shandong Province",
+        "longitude": 117.129063,
+        "latitude": 36.254025
+      },
+      "dispatch_time": "",
+      "shipping_time": 0.0,
+      "delivery_time": "",
+      "note": "Night climb of Mount Tai to see the sunrise, including round-trip cable car considering physical stamina",
+      "total_price": 245.0,
+      "create_time": "2026-07-26 15:45:00",
+      "update_time": "2026-07-26 15:45:00",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17557515995167456_P00031",
+          "price": 245.0,
+          "quantity": 1,
+          "ticket_type": "adult ticket + round-trip cable car package"
+        }
+      ]
+    },
+    "S17557515995167456_O00003": {
+      "order_id": "S17557515995167456_O00003",
+      "order_type": "hotel",
+      "user_id": "U010050",
+      "store_id": "S17557515995167456_H00001",
+      "location": {
+        "address": "Atour Hotel Tai'an, No. 262 Dongyu Street, Taishan District, Tai'an, Shandong Province",
+        "longitude": 117.135542,
+        "latitude": 36.200845
+      },
+      "dispatch_time": "",
+      "shipping_time": 0.0,
+      "delivery_time": "",
+      "note": "Hotel near the mountain foot, convenient for resting after descending",
+      "total_price": 780.0,
+      "create_time": "2026-07-26 16:20:00",
+      "update_time": "2026-07-26 16:20:00",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17557515995167456_P00001",
+          "price": 780.0,
+          "quantity": 1,
+          "date": "2026-07-29",
+          "room_type": "Deluxe King Room"
+        }
+      ]
+    }
+  }
+}

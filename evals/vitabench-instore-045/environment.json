@@ -1,0 +1,190 @@
+{
+  "task_id": "10826060",
+  "domain": "instore",
+  "time": "2024-10-27 14:16:11",
+  "user_id": "U996108",
+  "weather": [
+    {
+      "city": "Nanning",
+      "category": "Sunny turning to Cloudy",
+      "datetime": "2024-10-27",
+      "temperature": [
+        24,
+        32
+      ],
+      "humidity": 65
+    },
+    {
+      "city": "Nanning",
+      "category": "cloudy",
+      "datetime": "2024-10-30",
+      "temperature": [
+        22,
+        29
+      ],
+      "humidity": 70
+    }
+  ],
+  "location": [
+    {
+      "address": "Room 1204, Building 3, Ronghe Shanshui Lvcheng, No.20 Fengling North Road, Qingxiu District, Nanning",
+      "longitude": 108.367546,
+      "latitude": 22.817356
+    }
+  ],
+  "user_profile": {
+    "user id": "U996108",
+    "occupation": "White-collar worker",
+    "gender": "female",
+    "age group": "30~35",
+    "residence": "Nanning",
+    "home address": "Room 1204, Building 3, Ronghe Shanshui Lvcheng, No.20 Fengling North Road, Qingxiu District, Nanning",
+    "work address": "15th Floor, China Resources Building, No.136 Minzu Avenue, Qingxiu District, Nanning",
+    "dietary restrictions": "No fried food, No caffeine",
+    "family status": "In a relationship",
+    "personality": "Overly dependent on others for guidance, lacks initiative and decisiveness"
+  },
+  "user_historical_behaviors": {
+    "user id": "U996108",
+    "occupation": "White-collar",
+    "gender": "female",
+    "age group": "30~35",
+    "residence": "Nanning",
+    "home address": "Room 1204, Building 3, Ronghe Shanshui Lvcheng, No.20 Fengling North Road, Qingxiu District, Nanning",
+    "work address": "15th Floor, China Resources Building, No.136 Minzu Avenue, Qingxiu District, Nanning",
+    "in-store dining": {
+      "fine-dining": {
+        "frequently purchased categories": [
+          "Regional Cuisine/Cantonese Cuisine (Average 120 yuan)",
+          "International Cuisine/Japanese Food (Average 150 yuan)",
+          "Regional Cuisine/Seafood (Average 135 yuan)"
+        ],
+        "preferred average price per person": "100~160 yuan",
+        "preferred store rating": "4.3~4.8 stars",
+        "typical dining time": "18:30-20:30",
+        "preferred distance": "500~3000m",
+        "recent orders": [
+          {
+            "store": "Tang Palace Cantonese Restaurant (China Resources Building Branch)",
+            "product": "Steamed Lobster"
+          },
+          {
+            "store": "Helv Rotating Sushi (Mixc Branch)",
+            "product": "Salmon Sashimi Platter"
+          },
+          {
+            "store": "A-Qiang Fish Village (Qingxiu Branch)",
+            "product": "Sour Cabbage Fish"
+          }
+        ],
+        "search history": [
+          "Healthy Cantonese cuisine",
+          "Additive-free sushi",
+          "Steamed fish",
+          "Low-fat restaurants"
+        ]
+      },
+      "light meal": {
+        "frequently purchased categories": [
+          "Snacks & Fast Food/Chinese Simple Meals (Average 35 yuan)",
+          "Regional Cuisine/Specialty Dishes (Average 45 yuan)",
+          "Snacks & Fast Food/Western Fast Food (Average 40 yuan)"
+        ],
+        "preferred average price per person": "25~50 yuan",
+        "preferred store rating": "3.5~4.2 stars",
+        "typical dining time": "12:00-13:00",
+        "preferred distance": "0~500m",
+        "recent orders": [
+          {
+            "store": "Light Food Salad (China Resources Building Branch)",
+            "product": "Quinoa Chicken Breast Salad"
+          },
+          {
+            "store": "Mr. Rice Noodle (Qingxiu Wanda Branch)",
+            "product": "Liuzhou Snail Rice Noodles (Mild Spicy)"
+          },
+          {
+            "store": "Good Porridge (Minzu Avenue Branch)",
+            "product": "Preserved Egg & Lean Pork Porridge with Side Dish"
+          }
+        ],
+        "search history": [
+          "Light food",
+          "Low-calorie lunch",
+          "Healthy fast food",
+          "Salad"
+        ]
+      },
+      "desserts/drinks/snacks": {
+        "frequently purchased categories": [
+          "Beverage Shops (Average 20 yuan)",
+          "Bakery & Desserts (Average 25 yuan)",
+          "Other Dining/Fresh Fruits (Average 18 yuan)"
+        ],
+        "preferred average price per person": "15~30 yuan",
+        "preferred store rating": "4.0~4.5 stars",
+        "typical dining time": "15:00-16:30",
+        "preferred distance": "0~300m",
+        "recent orders": [
+          {
+            "store": "Cha Bai Dao (China Resources Building Branch)",
+            "product": "Sugar-free Jasmine Green Tea"
+          },
+          {
+            "store": "Fresh Fruit Workshop (Minzu Avenue Branch)",
+            "product": "Fruit Platter"
+          },
+          {
+            "store": "BreadTalk (Mixc Branch)",
+            "product": "Whole Wheat Bread"
+          }
+        ],
+        "search history": [
+          "Sugar-free beverages",
+          "Low-fat desserts",
+          "Fresh fruits",
+          "Whole wheat bread"
+        ]
+      }
+    },
+    "other in-store services": {
+      "frequently consumed categories": {
+        "Sports & Fitness/Yoga": "40%",
+        "Beauty/Hairdressing": "25%",
+        "Entertainment/Massage/Foot Therapy": "20%",
+        "Beauty/Nail Art": "15%"
+      },
+      "cost per order by category": {
+        "Sports & Fitness/Yoga": "120~200 yuan",
+        "Beauty/Hairdressing": "150~300 yuan",
+        "Entertainment/Massage/Foot Therapy": "120~180 yuan",
+        "Beauty/Nail Art": "80~150 yuan"
+      },
+      "preferred store rating": "4.0~4.8 stars",
+      "preferred service time": "19:00-21:00",
+      "preferred distance": "0~2500m",
+      "recent orders": [
+        {
+          "store": "Joy Yoga (Ronghe Shanshui Lvcheng Branch)",
+          "product": "Individual Yoga Class"
+        },
+        {
+          "store": "Hair Color Expert (Mixc Branch)",
+          "product": "Wash, Cut & Style Package"
+        },
+        {
+          "store": "Thai Relaxation Foot Massage (Qingxiu District Branch)",
+          "product": "Essential Oil Massage 60 Minutes"
+        }
+      ],
+      "search history": [
+        "Yoga classes",
+        "Non-irritating essential oil massage",
+        "Natural hair dye",
+        "Hair repair mask"
+      ]
+    }
+  },
+  "stores": {},
+  "orders": {}
+}

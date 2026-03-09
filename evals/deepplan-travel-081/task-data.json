@@ -1,0 +1,49 @@
+{
+  "task_id": "80",
+  "query": "I plan to travel from Fuzhou to Hangzhou on November 12, 2025, and return on November 17, 2025. Could you help me plan this trip? I'd like to take the train, so please choose the earliest direct departure train for my outbound journey—arriving in Hangzhou earlier means more time to explore.  \n\nFor accommodation, I'm used to staying at 'Hanting'. Please find me the highest-rated 'Hanting' hotel. Oh, and there are three of us traveling, so we'll need to book two rooms.  \n\nI especially enjoy experiencing 'Natural Scenery'. Please make sure to include the top-rated attraction in the 'Natural Scenery' category in the itinerary, since Hangzhou is famous for its beautiful landscapes. Additionally, I've heard there are quite a few good restaurants near the 'Leifeng Pagoda Scenic Area'. Could you pick the highest-rated restaurant in that area and schedule one meal there?  \n\nThat covers all my requirements—I believe I've provided all necessary details. Please go ahead and plan my full itinerary and budget without asking for further information! November 12, 2025 is Wednesday",
+  "meta_info": {
+    "org": "Fuzhou",
+    "dest": [
+      "Hangzhou"
+    ],
+    "days": 6,
+    "depart_date": "2025-11-12",
+    "return_date": "2025-11-17",
+    "people_number": 3,
+    "room_number": 2
+  },
+  "hard_constraints": {
+    "train_earliest_departure_direct": {
+      "constraint_context": "Please help me choose the earliest departure direct train for the outbound journey",
+      "constraint_type": "superlative_earliest_departure",
+      "outbound_train_no": "D3104"
+    },
+    "hotel_brand_highest_rated": {
+      "constraint_context": "For accommodation, please select the highest-rated hotel among the \"Hanting\" brand.",
+      "constraint_type": "superlative_brand_highest_rated",
+      "hotel_name": "Hanting Hotel Hangzhou Xintiandi",
+      "hotel_price": 311.0,
+      "hotel_score": 4.9
+    },
+    "attraction_type_highest_rated": {
+      "constraint_context": "The itinerary must include the highest-rated attraction in the 'Natural Scenery' category.",
+      "constraint_type": "superlative_type_highest_rated",
+      "attraction_names": [
+        "Hangzhou West Lake Scenic Area"
+      ],
+      "attraction_type_cn": "自然风光",
+      "attraction_type": "Natural Scenery",
+      "attraction_ratings": [
+        4.9
+      ]
+    },
+    "restaurant_highest_rated": {
+      "constraint_context": "Please arrange a meal at the highest-rated restaurant near the 'Leifeng Pagoda Scenic Area' during the trip.",
+      "constraint_type": "superlative_highest_rated_restaurant",
+      "attraction_name": "Leifeng Pagoda Scenic Area",
+      "restaurant_name": "West Lake Impressions Restaurant",
+      "price_per_person": 120.0,
+      "restaurant_rating": 4.6
+    }
+  }
+}

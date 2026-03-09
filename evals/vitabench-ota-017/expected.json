@@ -1,0 +1,103 @@
+{
+  "required_orders": [
+    {
+      "order_id": "70811001T002",
+      "order_type": "flight",
+      "user_id": "U010045",
+      "store_id": "S17557112364479019_T00012",
+      "note": "",
+      "location": null,
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 4050,
+      "create_time": "2023-09-19 20:33:26",
+      "update_time": "2023-09-19 20:33:26",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17557548456137169_P00068",
+          "price": 1350,
+          "quantity": 3,
+          "date": "2024-10-08",
+          "seat_type": "Economy Class"
+        }
+      ]
+    },
+    {
+      "order_id": "70811001T003",
+      "order_type": "hotel",
+      "user_id": "U010045",
+      "store_id": "S17557505487758769_H00001",
+      "note": "",
+      "location": null,
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 3400,
+      "create_time": "2023-09-19 20:35:26",
+      "update_time": "2023-09-19 20:35:26",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17557505487758769_P00012",
+          "price": 520,
+          "quantity": 1,
+          "date": "2023-10-08",
+          "room_type": "Traditional Cave King Room"
+        },
+        {
+          "product_id": "S17557505487758769_P00002",
+          "price": 520,
+          "quantity": 1,
+          "date": "2023-10-09",
+          "room_type": "Traditional Cave King Room"
+        },
+        {
+          "product_id": "S17557505487758769_P00006",
+          "price": 520,
+          "quantity": 1,
+          "date": "2023-10-10",
+          "room_type": "Traditional Cave King Room"
+        },
+        {
+          "product_id": "S17557505487758769_P00003",
+          "price": 680,
+          "quantity": 1,
+          "date": "2023-10-08",
+          "room_type": "Traditional Cave Twin Room"
+        },
+        {
+          "product_id": "S17557505487758769_P00001",
+          "price": 580,
+          "quantity": 1,
+          "date": "2023-10-09",
+          "room_type": "Traditional Cave Twin Room"
+        },
+        {
+          "product_id": "S17557505487758769_P00005",
+          "price": 580,
+          "quantity": 1,
+          "date": "2023-10-10",
+          "room_type": "Traditional Cave Twin Room"
+        }
+      ]
+    }
+  ],
+  "rubrics": [
+    "The departure must be from Nanning (user's residence)",
+    "The destination must be Yan'an",
+    "The arrival time must be October 8, 2023",
+    "Need to check train tickets first, with the result showing that the train journey takes more than 12 hours, so air travel must be chosen instead of train",
+    "The flight ticket should be for the shortest flight, which is CA1834",
+    "The quantity for the flight ticket order should be 3",
+    "The homestay booking must be a renovated traditional Cave Dwelling homestay",
+    "The homestay booking must preserve architectural features",
+    "The homestay booking must have Modern Amenities",
+    "The homestay booking must include 3 nights in a twin room",
+    "The homestay booking must include 3 nights in a king room",
+    "The check-in dates for the twin room must be October 8, 2023, October 9, 2023, and October 10, 2023 respectively",
+    "The check-in dates for the king room must be October 8, 2023, October 9, 2023, and October 10, 2023 respectively",
+    "Need to inquire about all youth-related scenic spots, with results showing Yan'an Youth Museum and Yan'an Rural Life Experience Park including historical sites such as schools, supply and marketing cooperatives, or collective farm sites from that era"
+  ]
+}

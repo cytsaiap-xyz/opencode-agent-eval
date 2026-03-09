@@ -1,0 +1,351 @@
+{
+  "task_id": "D0811005",
+  "domain": "ota",
+  "time": "2025-03-17 17:18:25",
+  "user_id": "U010098",
+  "weather": [
+    {
+      "city": "Shenzhen",
+      "category": "cloudy",
+      "datetime": "2025-03-25",
+      "temperature": [
+        22,
+        28
+      ],
+      "humidity": 75
+    },
+    {
+      "city": "Nyingchi",
+      "category": "sunny",
+      "datetime": "2025-03-25",
+      "temperature": [
+        8,
+        18
+      ],
+      "humidity": 45
+    },
+    {
+      "city": "Nyingchi",
+      "category": "cloudy",
+      "datetime": "2025-03-26",
+      "temperature": [
+        6,
+        16
+      ],
+      "humidity": 50
+    },
+    {
+      "city": "Nyingchi",
+      "category": "light rain",
+      "datetime": "2025-03-27",
+      "temperature": [
+        7,
+        19
+      ],
+      "humidity": 42
+    },
+    {
+      "city": "Nyingchi",
+      "category": "sunny",
+      "datetime": "2025-03-28",
+      "temperature": [
+        9,
+        20
+      ],
+      "humidity": 38
+    },
+    {
+      "city": "Nyingchi",
+      "category": "cloudy",
+      "datetime": "2025-03-29",
+      "temperature": [
+        8,
+        17
+      ],
+      "humidity": 48
+    }
+  ],
+  "location": [
+    {
+      "address": "10th Floor, Building 3, One Shenzhen Bay, 2888 Keyuan South Road, South Area of Science and Technology Park, Nanshan District, Shenzhen, Guangdong Province",
+      "longitude": 113.9486,
+      "latitude": 22.5194
+    },
+    {
+      "address": "Wenhua Campus, Shenzhen Nanshan Foreign Language School (Group), 33 Wenxin 5th Road, Nanshan District, Shenzhen, Guangdong Province",
+      "longitude": 113.9521,
+      "latitude": 22.5267
+    }
+  ],
+  "user_profile": {
+    "user id": "U010098",
+    "occupation": "Teacher",
+    "gender": "female",
+    "age group": "30~35",
+    "residence": "Shenzhen",
+    "home address": "10th Floor, Building 3, One Shenzhen Bay, 2888 Keyuan South Road, South Area of Science and Technology Park, Nanshan District, Shenzhen, Guangdong Province",
+    "work address": "Wenhua Campus, Shenzhen Nanshan Foreign Language School (Group), 33 Wenxin 5th Road, Nanshan District, Shenzhen, Guangdong Province",
+    "dietary restrictions": "Avoids greasy and spicy food, avoids caffeine",
+    "family status": "Has children",
+    "personality": "Gentle personality with high cooperation, good at listening and understanding"
+  },
+  "user_historical_behaviors": {
+    "user id": "U010098",
+    "occupation": "Teacher",
+    "gender": "female",
+    "age group": "30~35",
+    "residence": "Shenzhen",
+    "home address": "10th Floor, Building 3, One Shenzhen Bay, 2888 Keyuan South Road, South Area of Science and Technology Park, Nanshan District, Shenzhen, Guangdong Province",
+    "work address": "Wenhua Campus, Shenzhen Nanshan Foreign Language School (Group), 33 Wenxin 5th Road, Nanshan District, Shenzhen, Guangdong Province",
+    "visited scenes": {
+      "Exhibition halls (museums/art galleries)": "35%",
+      "Parks": "20%",
+      "Theme parks": "25%",
+      "Zoos": "15%",
+      "Natural landscapes (mountains/lakes/forests)": "5%"
+    },
+    "cost per night on hotel": "500~1000 yuan",
+    "visited hotels": {
+      "Atour": "40%",
+      "Ji Hotel": "25%",
+      "Vienna": "20%",
+      "Huazhu": "10%",
+      "Home Inn": "5%"
+    },
+    "browsed hotels": {
+      "Four-star hotels": "30%",
+      "Three-star hotels": "25%",
+      "Comfort hotels": "35%",
+      "Economy hotels": "10%"
+    },
+    "historical travel plans": {
+      "Shenzhen-Guangzhou": {
+        "Price range": "80-120 yuan",
+        "Transportation mode": "High-speed/Bullet train"
+      },
+      "Shenzhen-Shanghai": {
+        "Price range": "800-1200 yuan",
+        "Transportation mode": "Airplane"
+      },
+      "Shenzhen-Beijing": {
+        "Price range": "1000-1500 yuan",
+        "Transportation mode": "Airplane"
+      },
+      "Shenzhen-Hangzhou": {
+        "Price range": "700-1000 yuan",
+        "Transportation mode": "Airplane"
+      },
+      "Shenzhen-Xiamen": {
+        "Price range": "400-600 yuan",
+        "Transportation mode": "High-speed/Bullet train"
+      },
+      "Shenzhen-Chengdu": {
+        "Price range": "800-1200 yuan",
+        "Transportation mode": "Airplane"
+      },
+      "Shenzhen-Zhuhai": {
+        "Price range": "200-300 yuan",
+        "Transportation mode": "Self-driving"
+      }
+    }
+  },
+  "stores": {},
+  "orders": {
+    "S17557514070032606_O00001": {
+      "order_id": "S17557514070032606_O00001",
+      "order_type": "hotel",
+      "user_id": "U010098",
+      "store_id": "S17557514070032606_H00002",
+      "note": "Two families traveling together, need three rooms, including one twin room",
+      "location": {
+        "address": "Ji Hotel Nyingchi, Bayi Town, Bayi District, Nyingchi, Tibet Autonomous Region",
+        "longitude": 94.3618,
+        "latitude": 29.6544
+      },
+      "dispatch_time": "",
+      "shipping_time": 0.0,
+      "delivery_time": "",
+      "total_price": 8160.0,
+      "create_time": "2025-03-15 14:30:00",
+      "update_time": "2025-03-15 14:30:00",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17557514070032606_P00013",
+          "price": 680.0,
+          "quantity": 8,
+          "date": "2025-03-25",
+          "room_type": "deluxe king room"
+        },
+        {
+          "product_id": "S17557514070032606_P00014",
+          "price": 720.0,
+          "quantity": 4,
+          "date": "2025-03-25",
+          "room_type": "business twin room"
+        }
+      ]
+    },
+    "S17557514070032606_O00002": {
+      "order_id": "S17557514070032606_O00002",
+      "order_type": "attraction",
+      "user_id": "U010098",
+      "store_id": "S17557514070032606_A00005",
+      "note": "Tickets to Peach Blossom Village for the day we arrive",
+      "location": {
+        "address": "Gala Peach Blossom Village, Bayi District, Nyingchi, Tibet Autonomous Region",
+        "longitude": 94.3295,
+        "latitude": 29.6847
+      },
+      "dispatch_time": "",
+      "shipping_time": 0.0,
+      "delivery_time": "",
+      "total_price": 240.0,
+      "create_time": "2025-03-16 09:15:00",
+      "update_time": "2025-03-16 09:15:00",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17557514070032606_P00054",
+          "price": 30.0,
+          "quantity": 5,
+          "date": "2025-03-25",
+          "ticket_type": "adult ticket"
+        },
+        {
+          "product_id": "S17557514070032606_P00055",
+          "price": 15.0,
+          "quantity": 2,
+          "date": "2025-03-25",
+          "ticket_type": "child ticket"
+        }
+      ]
+    },
+    "S17557514070032606_O00003": {
+      "order_id": "S17557514070032606_O00003",
+      "order_type": "attraction",
+      "user_id": "U010098",
+      "store_id": "S17557514070032606_A00006",
+      "note": "Planning to visit Yarlung Tsangpo Grand Canyon on the 27th",
+      "location": {
+        "address": "Yarlung Tsangpo Grand Canyon, Mainling County, Nyingchi, Tibet Autonomous Region",
+        "longitude": 95.1742,
+        "latitude": 29.4968
+      },
+      "dispatch_time": "",
+      "shipping_time": 0.0,
+      "delivery_time": "",
+      "total_price": 1290.0,
+      "create_time": "2025-03-16 10:45:00",
+      "update_time": "2025-03-16 10:45:00",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17557514070032606_P00067",
+          "price": 220.0,
+          "quantity": 5,
+          "date": "2025-03-27",
+          "ticket_type": "admission ticket + shuttle bus package"
+        },
+        {
+          "product_id": "S17557514070032606_P00061",
+          "price": 90.0,
+          "quantity": 2,
+          "date": "2025-03-27",
+          "ticket_type": "child ticket (1.2-1.5 meters)"
+        }
+      ]
+    },
+    "S17557514070032606_O00004": {
+      "order_id": "S17557514070032606_O00004",
+      "order_type": "attraction",
+      "user_id": "U010098",
+      "store_id": "S17557514070032606_A00007",
+      "note": "Will go to Basum Tso on the 28th if it doesn't rain",
+      "location": {
+        "address": "Basum Tso, Gongbo'gyamda County, Nyingchi, Tibet Autonomous Region",
+        "longitude": 93.9167,
+        "latitude": 29.9333
+      },
+      "dispatch_time": "",
+      "shipping_time": 0.0,
+      "delivery_time": "",
+      "total_price": 720.0,
+      "create_time": "2025-03-16 11:20:00",
+      "update_time": "2025-03-16 11:20:00",
+      "status": "unpaid",
+      "products": [
+        {
+          "product_id": "S17557514070032606_P00071",
+          "price": 120.0,
+          "quantity": 5,
+          "date": "2025-03-28",
+          "ticket_type": "adult ticket"
+        },
+        {
+          "product_id": "S17557514070032606_P00073",
+          "price": 60.0,
+          "quantity": 2,
+          "date": "2025-03-28",
+          "ticket_type": "child ticket"
+        }
+      ]
+    },
+    "S17557514070032606_O00005": {
+      "order_id": "S17557514070032606_O00005",
+      "order_type": "flight",
+      "user_id": "U010098",
+      "store_id": "S17557514070032606_F00009",
+      "note": "Round-trip flights from Shenzhen to Nyingchi, 7 people",
+      "location": {
+        "address": "Shenzhen Bao'an International Airport, Bao'an District, Shenzhen, Guangdong Province",
+        "longitude": 113.8206,
+        "latitude": 22.639
+      },
+      "dispatch_time": "",
+      "shipping_time": 0.0,
+      "delivery_time": "",
+      "total_price": 8260.0,
+      "create_time": "2025-03-14 16:30:00",
+      "update_time": "2025-03-14 16:30:00",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17557514070032606_P00095",
+          "price": 1180.0,
+          "quantity": 7,
+          "date": "2025-03-25",
+          "seat_type": "economy class"
+        }
+      ]
+    },
+    "S17557514070032606_O00006": {
+      "order_id": "S17557514070032606_O00006",
+      "order_type": "flight",
+      "user_id": "U010098",
+      "store_id": "S17557514070032606_F00011",
+      "note": "Return flight, going back to Shenzhen on the 29th",
+      "location": {
+        "address": "Nyingchi Mainling Airport, Mainling County, Nyingchi, Tibet Autonomous Region",
+        "longitude": 94.3353,
+        "latitude": 29.3033
+      },
+      "dispatch_time": "",
+      "shipping_time": 0.0,
+      "delivery_time": "",
+      "total_price": 8260.0,
+      "create_time": "2025-03-14 16:35:00",
+      "update_time": "2025-03-14 16:35:00",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17557514070032606_P00105",
+          "price": 1180.0,
+          "quantity": 7,
+          "date": "2025-03-29",
+          "seat_type": "economy class"
+        }
+      ]
+    }
+  }
+}

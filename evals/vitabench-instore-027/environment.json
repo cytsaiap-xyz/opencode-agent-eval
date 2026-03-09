@@ -1,0 +1,198 @@
+{
+  "task_id": "10826029",
+  "domain": "instore",
+  "time": "2025-07-19 16:12:22",
+  "user_id": "U590539",
+  "weather": [
+    {
+      "city": "Hefei City",
+      "category": "sunny",
+      "datetime": "2025-07-19",
+      "temperature": [
+        28,
+        34
+      ],
+      "humidity": 45
+    },
+    {
+      "city": "Hefei City",
+      "category": "light rain",
+      "datetime": "2025-07-20",
+      "temperature": [
+        26,
+        30
+      ],
+      "humidity": 75
+    }
+  ],
+  "location": [
+    {
+      "address": "Room 1203, Building B, Greenland Blue Ocean International Community, 189 Changjiang West Road, Shushan District, Hefei City, Anhui Province",
+      "longitude": 117.2159,
+      "latitude": 31.8388
+    },
+    {
+      "address": "North Campus of Anhui Provincial Hospital, Intersection of Fuyang Road and Linquan Road, Luyang District, Hefei City, Anhui Province",
+      "longitude": 117.2652,
+      "latitude": 31.8783
+    },
+    {
+      "address": "Wanda Plaza, Intersection of Wangjiang West Road and Jinzhai Road, Shushan District, Hefei City, Anhui Province",
+      "longitude": 117.2312,
+      "latitude": 31.8423
+    }
+  ],
+  "user_profile": {
+    "user id": "U590539",
+    "occupation": "Nurse",
+    "gender": "female",
+    "age group": "30~35",
+    "residence": "Hefei",
+    "home address": "Room 1203, Building B, Greenland Blue Ocean International Community, 189 Changjiang West Road, Shushan District, Hefei City, Anhui Province",
+    "work address": "North Campus of Anhui Provincial Hospital, Intersection of Fuyang Road and Linquan Road, Luyang District, Hefei City, Anhui Province",
+    "dietary restrictions": "No Caffeine",
+    "family status": "Has Children",
+    "personality": "Scattered and jumpy thinking, easily distracted and changes mind frequently"
+  },
+  "user_historical_behaviors": {
+    "user id": "U590539",
+    "occupation": "nurse",
+    "gender": "female",
+    "age group": "30~35",
+    "residence": "Hefei",
+    "home address": "Room 1203, Building B, Greenland Blue Ocean International Community, 189 Changjiang West Road, Shushan District, Hefei City, Anhui Province",
+    "work address": "North Campus of Anhui Provincial Hospital, Intersection of Fuyang Road and Linquan Road, Luyang District, Hefei City, Anhui Province",
+    "in-store dining": {
+      "fine-dining": {
+        "frequently purchased categories": [
+          "Local Cuisine/Fish Dishes (Average 135 yuan)",
+          "International Cuisine/Japanese Food (Average 120 yuan)",
+          "Local Cuisine/Sichuan Food (Average 90 yuan)"
+        ],
+        "preferred average price per person": "90~135 yuan",
+        "preferred store rating": "4.2~4.8 stars",
+        "typical dining time": "18:30-20:30",
+        "preferred distance": "1000~5000m",
+        "recent orders": [
+          {
+            "store": "Joy Fish House (Shushan Branch)",
+            "product": "Steamed Sea Bass Set Meal"
+          },
+          {
+            "store": "Herbal Green Conveyor Belt Sushi (Wanxiang City Branch)",
+            "product": "Salmon Sashimi Platter"
+          },
+          {
+            "store": "Sichuan Fragrant Garden (Government Affairs District Branch)",
+            "product": "Mapo Tofu Set Meal"
+          }
+        ],
+        "search history": [
+          "Additive-free Japanese cuisine",
+          "Family-friendly restaurants",
+          "Low Salt Sichuan cuisine",
+          "Healthy fish dishes"
+        ]
+      },
+      "light meal": {
+        "frequently purchased categories": [
+          "Fast Food/Chinese Light Meal (Average 35 yuan)",
+          "Fast Food/Western Fast Food (Average 28 yuan)"
+        ],
+        "preferred average price per person": "25~40 yuan",
+        "preferred store rating": "3.5~4.2 stars",
+        "typical dining time": "11:30-13:00",
+        "preferred distance": "0~500m",
+        "recent orders": [
+          {
+            "store": "Yonghe King (Hospital Branch)",
+            "product": "Shredded Chicken Porridge Set"
+          },
+          {
+            "store": "Salad Diary (Provincial Hospital Branch)",
+            "product": "Light Salad"
+          },
+          {
+            "store": "McDonald's (Luyang Wanda Branch)",
+            "product": "Filet-O-Fish Meal"
+          }
+        ],
+        "search history": [
+          "Fast food near hospital",
+          "Low-calorie light meals",
+          "Healthy lunch boxes"
+        ]
+      },
+      "desserts/drinks/snacks": {
+        "frequently purchased categories": [
+          "Beverage Shops (Average 18 yuan)",
+          "Bakery and Desserts (Average 25 yuan)"
+        ],
+        "preferred average price per person": "15~30 yuan",
+        "preferred store rating": "4.0~4.6 stars",
+        "typical dining time": "15:00-16:30",
+        "preferred distance": "0~300m",
+        "recent orders": [
+          {
+            "store": "Nayuki Tea (Provincial Hospital Branch)",
+            "product": "Jasmine Cheese Tea (Sugar-free)"
+          },
+          {
+            "store": "Bread Talk (Wanxiang City Branch)",
+            "product": "Whole Wheat Nut Bread"
+          },
+          {
+            "store": "Fresh Fruit Garden (Hospital Branch)",
+            "product": "Seasonal Fruit Cup"
+          }
+        ],
+        "search history": [
+          "Sugar-free beverages",
+          "Low-fat desserts",
+          "Healthy fruit tea"
+        ]
+      }
+    },
+    "other in-store services": {
+      "frequently consumed categories": {
+        "Beauty/Hair Salon": "15%",
+        "Sports & Fitness/Fitness Centers": "30%",
+        "Beauty/Yoga": "25%",
+        "Entertainment/Massage/Foot Therapy": "20%",
+        "Parent-Child/Family Entertainment": "10%"
+      },
+      "cost per order by category": {
+        "Beauty/Hair Salon": "180~300 yuan",
+        "Sports & Fitness/Fitness Centers": "80~150 yuan/session",
+        "Beauty/Yoga": "120~200 yuan/session",
+        "Entertainment/Massage/Foot Therapy": "150~280 yuan",
+        "Parent-Child/Family Entertainment": "100~200 yuan"
+      },
+      "preferred store rating": "4.0~4.8 stars",
+      "preferred service time": "19:00-21:00",
+      "preferred distance": "0~3000m",
+      "recent orders": [
+        {
+          "store": "Leke Fitness (Greenland Branch)",
+          "product": "Single Person Yoga Class"
+        },
+        {
+          "store": "Zufutang (Shushan Branch)",
+          "product": "Full Body Relaxation Massage Package"
+        },
+        {
+          "store": "Aileyou Family Playground (Wanxiang City Branch)",
+          "product": "Parent-Child Ticket for Two"
+        }
+      ],
+      "search history": [
+        "Stress-relief yoga",
+        "Parent-child playground",
+        "Fitness discounts for medical staff",
+        "Children's swimming class"
+      ]
+    }
+  },
+  "stores": {},
+  "orders": {}
+}

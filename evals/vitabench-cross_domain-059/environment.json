@@ -1,0 +1,996 @@
+{
+  "task_id": "10811008",
+  "domain": "cross_domain",
+  "time": "2024-07-17 22:03:01",
+  "user_id": "U204261",
+  "weather": [
+    {
+      "city": "Luoyang",
+      "category": "sunny",
+      "datetime": "2024-07-17",
+      "temperature": [
+        25,
+        37
+      ],
+      "humidity": 65
+    },
+    {
+      "city": "Pingdingshan",
+      "category": "cloudy",
+      "datetime": "2024-07-18",
+      "temperature": [
+        26,
+        36
+      ],
+      "humidity": 70
+    }
+  ],
+  "location": [
+    {
+      "address": "Building B3, Luoyang Intelligent Manufacturing Industrial Park, No.96 Binhe North Road, High-tech Zone, Luoyang, Henan Province",
+      "longitude": 112.425,
+      "latitude": 34.678
+    }
+  ],
+  "user_profile": {
+    "user id": "U204261",
+    "occupation": "Technical Staff",
+    "gender": "male",
+    "age group": "30~35",
+    "residence": "Luoyang",
+    "Permanent address": "Room 502, Unit 1, Building 3, Huafu Mingdi Community, Intersection of Wangcheng Avenue and Kaixuan East Road, Xigong District, Luoyang, Henan Province",
+    "work address": "Building B3, Luoyang Intelligent Manufacturing Industrial Park, No.96 Binhe North Road, High-tech Zone, Luoyang, Henan Province",
+    "dietary restrictions": "Avoid high sugar",
+    "family status": "In a relationship",
+    "personality": "Mild-tempered with high cooperation, good at listening and understanding"
+  },
+  "user_historical_behaviors": {
+    "user id": "U204261",
+    "occupation": "Technical Staff",
+    "gender": "male",
+    "age group": "30~35",
+    "residence": "Luoyang",
+    "Permanent address": "Room 502, Unit 1, Building 3, Huafu Mingdi Community, Intersection of Wangcheng Avenue and Kaixuan East Road, Xigong District, Luoyang, Henan Province",
+    "work address": "Building B3, Luoyang Intelligent Manufacturing Industrial Park, No.96 Binhe North Road, High-tech Zone, Luoyang, Henan Province",
+    "Takeout scenario": {
+      "food delivery": {
+        "breakfast": {
+          "frequently purchased categories": [
+            "Quick Meals/Steamed Buns/Pan-fried Buns (Average 18 yuan)",
+            "Quick Meals/Spicy Soup (Average 12 yuan)",
+            "Quick Meals/Fried Dough Sticks (Average 6 yuan)"
+          ],
+          "cost per order": "15~35 yuan",
+          "preferred store rating": "4.3~4.8 points",
+          "preferred delivery time": "15~30 minutes",
+          "preferred distance": "0~2500m",
+          "recent orders": [
+            {
+              "store": "Old Luoyang Spicy Soup",
+              "product": "Spicy Soup + Fried Dough Stick Combo"
+            },
+            {
+              "store": "Tianfu Bun Shop",
+              "product": "Pork and Green Onion Buns + Soy Milk"
+            },
+            {
+              "store": "Breakfast Mister",
+              "product": "Pan-fried Buns + Hot Soy Milk"
+            }
+          ],
+          "search history": [
+            "Spicy Soup",
+            "Steamed Buns",
+            "Soy Milk",
+            "Pan-fried Buns",
+            "Fried Dough Sticks",
+            "Quick Breakfast"
+          ]
+        },
+        "weekday lunch/dinner": {
+          "frequently purchased categories": [
+            "Quick Meals/Braised Chicken Rice (Average 28 yuan)",
+            "Quick Meals/Rice Noodles (Average 25 yuan)",
+            "Chinese Cuisine/Sichuan Food (Average 45 yuan)"
+          ],
+          "cost per order": "25~60 yuan",
+          "preferred store rating": "4.2~4.7 points",
+          "preferred delivery time": "20~35 minutes",
+          "preferred distance": "0~3000m",
+          "recent orders": [
+            {
+              "store": "Braised Chicken Rice",
+              "product": "Mildly Spicy Braised Chicken Rice + Sour Spicy Shredded Potatoes"
+            },
+            {
+              "store": "Yunnan Crossing Bridge Rice Noodles",
+              "product": "Signature Crossing Bridge Rice Noodles + Cucumber Salad"
+            },
+            {
+              "store": "Sichuan Flavor House",
+              "product": "Twice-Cooked Pork + Boiled Vegetables + Rice"
+            }
+          ],
+          "search history": [
+            "Braised Chicken",
+            "Rice Noodles",
+            "Fast Food",
+            "Lunch Box",
+            "Non-spicy Sichuan Food",
+            "Work Meals"
+          ]
+        },
+        "weekend lunch/dinner": {
+          "frequently purchased categories": [
+            "Chinese Cuisine/Crayfish (Average 120 yuan)",
+            "Hot Pot/Skewer Hot Pot (Average 85 yuan)",
+            "Chinese Cuisine/Grilled Fish (Average 95 yuan)"
+          ],
+          "cost per order": "70~180 yuan",
+          "preferred store rating": "4.5~5.0 points",
+          "preferred delivery time": "30~45 minutes",
+          "preferred distance": "0~4500m",
+          "recent orders": [
+            {
+              "store": "Crayfish Legend",
+              "product": "Spicy Crayfish 1.5 lbs + Garlic Flavored Eggplant + Beer"
+            },
+            {
+              "store": "Bashu Skewer Hot Pot",
+              "product": "Beef Skewers + Tripe + Duck Blood + Bean Skin"
+            },
+            {
+              "store": "Fisherman's Song Grilled Fish",
+              "product": "Spicy Grilled Fish + Tofu + Potatoes + Cola"
+            }
+          ],
+          "search history": [
+            "Crayfish",
+            "Non-spicy Grilled Fish",
+            "Skewer Hot Pot",
+            "Couple's Set",
+            "Weekend Delicacies"
+          ]
+        },
+        "desserts/drinks/snacks": {
+          "frequently purchased categories": [
+            "Beverages/Desserts/Coffee (Average 28 yuan)",
+            "Beverages/Desserts/Milk Tea (Average 22 yuan)",
+            "Beverages/Desserts/Fruit Desserts (Average 35 yuan)"
+          ],
+          "cost per order": "20~45 yuan",
+          "preferred store rating": "4.4~4.9 points",
+          "preferred delivery time": "15~30 minutes",
+          "preferred distance": "0~3000m",
+          "recent orders": [
+            {
+              "store": "Starbucks",
+              "product": "Americano + Chocolate Cookies"
+            },
+            {
+              "store": "HEYTEA",
+              "product": "Very Grape Fruit Tea"
+            },
+            {
+              "store": "Fresh Fruit Desserts",
+              "product": "Mango Pomelo Sago"
+            }
+          ],
+          "search history": [
+            "Coffee",
+            "Low-sugar Milk Tea",
+            "Fruit Desserts",
+            "Afternoon Tea",
+            "Desserts"
+          ]
+        },
+        "night snack": {
+          "frequently purchased categories": [
+            "Barbecue/Grilled Skewers (Average 55 yuan)",
+            "Quick Meals/Snail Rice Noodles (Average 32 yuan)",
+            "Snacks/Marinated Food (Average 40 yuan)"
+          ],
+          "cost per order": "30~60 yuan",
+          "preferred store rating": "4.0~4.7 points",
+          "preferred delivery time": "25~40 minutes",
+          "preferred distance": "0~3500m",
+          "recent orders": [
+            {
+              "store": "Old Street BBQ",
+              "product": "Mutton Skewers + Pork Belly Skewers + Grilled Eggplant + Grilled Mantou Slices"
+            },
+            {
+              "store": "Liuzhou Snail Rice Noodles",
+              "product": "Signature Snail Rice Noodles + Marinated Egg"
+            },
+            {
+              "store": "Sichuan Marinated Flavors",
+              "product": "Marinated Platter (Duck Neck + Duck Wings + Tofu)"
+            }
+          ],
+          "search history": [
+            "BBQ",
+            "Non-Alcoholic Night Snacks",
+            "Marinated Food",
+            "Snail Rice Noodles",
+            "Non-spicy Night Snacks"
+          ]
+        }
+      },
+      "product delivery": {
+        "frequently purchased categories": [
+          "Vegetables/Bean Products(32%)",
+          "Meat/Poultry/Eggs(18%)",
+          "Grains/Oils/Seasonings/Dried Goods(15%)",
+          "Study/Office Supplies(12%)",
+          "Household Items(10%)",
+          "Others(13%)"
+        ],
+        "frequently visited stores": [
+          "Luoyang Fresh Food Market(42%)",
+          "Wumart Supermarket(High-tech Branch)(28%)",
+          "FamilyMart(Xigong District Branch)(18%)",
+          "Other stores(12%)"
+        ],
+        "cost per order by category": {
+          "Vegetables/Bean Products": "5~20 yuan",
+          "Meat/Poultry/Eggs": "20~60 yuan",
+          "Grains/Oils/Seasonings/Dried Goods": "10~40 yuan",
+          "Study/Office Supplies": "5~30 yuan",
+          "Household Items": "10~50 yuan"
+        },
+        "preferred delivery time": "25~60 minutes",
+        "typical order time": "17~19 o'clock(35%), 9~11 o'clock(25%), 13~15 o'clock(15%)",
+        "recent orders": [
+          {
+            "store": "Luoyang Fresh Food Market",
+            "product": "One bundle of greens, two blocks of tofu, 500g potatoes"
+          },
+          {
+            "store": "FamilyMart(Xigong District Branch)",
+            "product": "One box of eggs, one bottle of black pepper"
+          },
+          {
+            "store": "Luoyang Fresh Food Market",
+            "product": "500g ground pork, one pack of A4 copy paper"
+          }
+        ],
+        "search history": [
+          "Green vegetables",
+          "Tofu",
+          "Copy paper",
+          "Dish soap",
+          "Eggs",
+          "Black pepper"
+        ]
+      }
+    },
+    "In-store scenario": {
+      "in-store dining": {
+        "fine-dining": {
+          "frequently purchased categories": [
+            "Regional Cuisine/Sichuan Food (Average 95 yuan)",
+            "International Cuisine/Japanese Food (Average 120 yuan)",
+            "Hot Pot (Average 110 yuan)"
+          ],
+          "preferred average price per person": "90~120 yuan",
+          "preferred store rating": "4.0~4.7 stars",
+          "typical dining time": "18:30-20:30",
+          "preferred distance": "500~3000m",
+          "recent orders": [
+            {
+              "store": "Sichuan Flavor Palace",
+              "product": "Boiled Fish + Spicy Blood Curd + Dry-fried Green Beans"
+            },
+            {
+              "store": "Japanese Style Sushi Restaurant",
+              "product": "Sashimi Platter + Tempura Set"
+            },
+            {
+              "store": "Sichuan Impression",
+              "product": "Spicy Hot Pot + Bean Jelly Dessert"
+            }
+          ],
+          "search history": [
+            "Love Spicy Food",
+            "Japanese Cuisine",
+            "Date Night Restaurants",
+            "Hot Pot without Seafood"
+          ]
+        },
+        "light meal": {
+          "frequently purchased categories": [
+            "Quick Meals/Chinese Fast Food (Average 35 yuan)",
+            "Quick Meals/Western Fast Food (Average 30 yuan)",
+            "Regional Cuisine/Northeastern Chinese Food (Average 45 yuan)"
+          ],
+          "preferred average price per person": "25~45 yuan",
+          "preferred store rating": "3.5~4.3 stars",
+          "typical dining time": "12:00-13:00",
+          "preferred distance": "0~800m",
+          "recent orders": [
+            {
+              "store": "Old Street Roujiamo",
+              "product": "Chinese Hamburger + Hot and Sour Vermicelli"
+            },
+            {
+              "store": "Northeastern Home-style Cuisine",
+              "product": "Sweet and Sour Pork + Cold Vegetable Salad"
+            },
+            {
+              "store": "McDonald's",
+              "product": "Spicy Chicken Burger Meal"
+            }
+          ],
+          "search history": [
+            "Nearby Fast Food",
+            "Cheap and Tasty",
+            "Weekday Lunch",
+            "Takeout Sets"
+          ]
+        },
+        "desserts/drinks/snacks": {
+          "frequently purchased categories": [
+            "Beverage Shops (Average 18 yuan)",
+            "Bread and Pastry (Average 25 yuan)",
+            "Other Food/Fresh Fruits (Average 15 yuan)"
+          ],
+          "preferred average price per person": "15~30 yuan",
+          "preferred store rating": "3.8~4.5 stars",
+          "typical dining time": "15:00-16:30",
+          "preferred distance": "0~500m",
+          "recent orders": [
+            {
+              "store": "HEYTEA",
+              "product": "Very Grape Fruit Tea (Less Sugar No Ice)"
+            },
+            {
+              "store": "BreadTalk",
+              "product": "Tiramisu + Butter Bread"
+            },
+            {
+              "store": "Fresh Cut Fruit Shop",
+              "product": "Fruit Platter"
+            }
+          ],
+          "search history": [
+            "Low-sugar Beverages",
+            "Healthy Desserts",
+            "Afternoon Tea",
+            "Non-Alcoholic Drinks"
+          ]
+        }
+      },
+      "other in-store services": {
+        "frequently consumed categories": {
+          "Sports and Fitness/Fitness Centers": "40%",
+          "Sports and Fitness/Ball Sports": "30%",
+          "Leisure Entertainment/Massage/Foot Therapy": "20%",
+          "Beauty Services/Hair Cutting": "10%"
+        },
+        "cost per order by category": {
+          "Sports and Fitness/Fitness Centers": "80~150 yuan",
+          "Sports and Fitness/Ball Sports": "40~100 yuan",
+          "Leisure Entertainment/Massage/Foot Therapy": "120~200 yuan",
+          "Beauty Services/Hair Cutting": "50~100 yuan"
+        },
+        "preferred store rating": "4.0~4.8 stars",
+        "preferred service time": "19:00-21:30",
+        "preferred distance": "0~5000m",
+        "recent orders": [
+          {
+            "store": "Luoyang Fit Body Gym",
+            "product": "Monthly Fitness Package"
+          },
+          {
+            "store": "Ledong Badminton Hall",
+            "product": "Two Persons Court for 2 Hours"
+          },
+          {
+            "store": "Comfortable Hall Foot Therapy",
+            "product": "Full Body Massage Package (90 minutes)"
+          }
+        ],
+        "search history": [
+          "Gym Monthly Card",
+          "Badminton Court Reservation",
+          "Weekend Relaxation Massage",
+          "Couples Massage Package",
+          "Nearby Hair Salon"
+        ]
+      }
+    },
+    "OTA": {
+      "visited scenes": {
+        "Cultural Heritage Sites": "45%",
+        "Natural Scenery (Mountains/Lakes/Forests)": "25%",
+        "Exhibition Halls (Museums/Art Galleries)": "15%",
+        "Special Villages/Industrial Tourism/Uncategorized Projects": "10%",
+        "Hot Spring Scenic Areas": "5%"
+      },
+      "cost per night on hotel": "300~500 yuan",
+      "visited hotels": {
+        "Home Inn": "30%",
+        "Ji Hotel": "25%",
+        "Atour": "20%",
+        "Hanting": "15%",
+        "Vienna": "10%"
+      },
+      "browsed hotels": {
+        "Three-Star Hotels": "40%",
+        "Comfort Hotels": "35%",
+        "Budget Hotels": "15%",
+        "Four-Star Hotels": "10%"
+      },
+      "historical travel plans": {
+        "Luoyang-Xi'an": {
+          "Price range": "200-300 yuan",
+          "Transportation method": "High-speed Train"
+        },
+        "Luoyang-Zhengzhou": {
+          "Price range": "60-100 yuan",
+          "Transportation method": "High-speed Train"
+        },
+        "Luoyang-Beijing": {
+          "Price range": "400-600 yuan",
+          "Transportation method": "High-speed Train"
+        },
+        "Luoyang-Shanghai": {
+          "Price range": "800-1200 yuan",
+          "Transportation method": "Airplane"
+        },
+        "Xi'an-Luoyang": {
+          "Price range": "200-300 yuan",
+          "Transportation method": "High-speed Train"
+        },
+        "Luoyang-Hangzhou": {
+          "Price range": "600-900 yuan",
+          "Transportation method": "High-speed Train"
+        },
+        "Luoyang-Chongqing": {
+          "Price range": "700-1000 yuan",
+          "Transportation method": "Airplane"
+        }
+      }
+    }
+  },
+  "stores": {
+    "S17550802110932959_S00001": {
+      "name": "Jianghu Crayfish Late Night Snack",
+      "store_id": "S17550802110932959_S00001",
+      "score": 4.6,
+      "location": {
+        "address": "Jianghu Crayfish Late Night Snack Restaurant, No.128 Binhe North Road, High-tech Zone, Luoyang, Henan Province",
+        "latitude": 34.679,
+        "longitude": 112.427
+      },
+      "tags": [
+        "Crayfish",
+        "Seafood",
+        "Barbecue",
+        "Open 24 Hours",
+        "night snack"
+      ],
+      "store_type": "target",
+      "products": [
+        {
+          "name": "Spicy Crayfish",
+          "store_id": "S17550802110932959_S00001",
+          "store_name": "Jianghu Crayfish Late Night Snack",
+          "price": 98,
+          "tags": [
+            "Crayfish",
+            "Spicy",
+            "night snack",
+            "Bestseller",
+            "Early Morning Delivery"
+          ],
+          "product_id": "S17550802110932959_P00001",
+          "attributes": [
+            "Mild Spicy",
+            "Medium Spicy",
+            "Extra Spicy"
+          ],
+          "product_type": "target"
+        },
+        {
+          "name": "Oysters with Garlic Sauce",
+          "store_id": "S17550802110932959_S00001",
+          "store_name": "Jianghu Crayfish Late Night Snack",
+          "price": 68,
+          "tags": [
+            "Oysters",
+            "Seafood",
+            "Garlic Sauce",
+            "night snack",
+            "Early Morning Delivery"
+          ],
+          "product_id": "S17550802110932959_P00002",
+          "attributes": [
+            "6 Pieces",
+            "12 Pieces"
+          ],
+          "product_type": "target"
+        },
+        {
+          "name": "Arctic Ocean Soda",
+          "store_id": "S17550802110932959_S00001",
+          "store_name": "Jianghu Crayfish Late Night Snack",
+          "price": 8,
+          "tags": [
+            "Drinks",
+            "Soda",
+            "Early Morning Delivery",
+            "Spice Relieving"
+          ],
+          "product_id": "S17550802110932959_P00003",
+          "attributes": [],
+          "product_type": "target"
+        },
+        {
+          "name": "Snow Brave Journey Beer",
+          "store_id": "S17550802110932959_S00001",
+          "store_name": "Jianghu Crayfish Late Night Snack",
+          "price": 10,
+          "tags": [
+            "Beer",
+            "Early Morning Delivery",
+            "Spice Relieving"
+          ],
+          "product_id": "S17550802110932959_P00005",
+          "attributes": [],
+          "product_type": "distraction"
+        }
+      ]
+    },
+    "S17550802110932959_S00002": {
+      "name": "Seafood Restaurant",
+      "store_id": "S17550802110932959_S00002",
+      "score": 4.5,
+      "location": {
+        "address": "Seafood Restaurant, No.56 Chuangye Road, High-tech Zone, Luoyang, Henan Province",
+        "latitude": 34.675,
+        "longitude": 112.43
+      },
+      "tags": [
+        "Seafood",
+        "Oysters",
+        "Crayfish",
+        "Open 24 Hours",
+        "night snack"
+      ],
+      "store_type": "target",
+      "products": [
+        {
+          "name": "Spicy Crayfish (Medium Spicy)",
+          "store_id": "S17550802110932959_S00002",
+          "store_name": "Seafood Restaurant",
+          "price": 98,
+          "tags": [
+            "Crayfish",
+            "night snack",
+            "Spicy",
+            "Hot Selling",
+            "Signature"
+          ],
+          "product_id": "S17550802110932959_P00006",
+          "attributes": [
+            "Mild Spicy",
+            "Medium Spicy",
+            "Extra Spicy"
+          ],
+          "product_type": "target"
+        },
+        {
+          "name": "Steamed Oysters (6 Pieces)",
+          "store_id": "S17550802110932959_S00002",
+          "store_name": "Seafood Restaurant",
+          "price": 58,
+          "tags": [
+            "Oysters",
+            "Steamed",
+            "Seafood",
+            "High Protein"
+          ],
+          "product_id": "S17550802110932959_P00007",
+          "attributes": [
+            "6 Pieces",
+            "12 Pieces"
+          ],
+          "product_type": "target"
+        },
+        {
+          "name": "Cola (330ml)",
+          "store_id": "S17550802110932959_S00002",
+          "store_name": "Seafood Restaurant",
+          "price": 5,
+          "tags": [
+            "Drinks",
+            "Soda",
+            "Non-Alcoholic"
+          ],
+          "product_id": "S17550802110932959_P00012",
+          "attributes": [],
+          "product_type": "distraction"
+        }
+      ]
+    },
+    "S17550802110932959_S00003": {
+      "name": "Crayfish Legend",
+      "store_id": "S17550802110932959_S00003",
+      "score": 4.7,
+      "location": {
+        "address": "Crayfish Legend, No.200 Binhe North Road, High-tech Zone, Luoyang, Henan Province",
+        "latitude": 34.681,
+        "longitude": 112.429
+      },
+      "tags": [
+        "Crayfish",
+        "Seafood",
+        "night snack",
+        "Barbecue"
+      ],
+      "store_type": "distraction",
+      "products": [
+        {
+          "name": "Oysters with Garlic Sauce (6 Pieces)",
+          "store_id": "S17550802110932959_S00003",
+          "store_name": "Crayfish Legend",
+          "price": 68,
+          "tags": [
+            "Oysters",
+            "Seafood",
+            "Garlic Sauce",
+            "night snack"
+          ],
+          "product_id": "S17550802110932959_P00017",
+          "attributes": [
+            "No Garlic",
+            "Extra Garlic"
+          ],
+          "product_type": "distraction"
+        },
+        {
+          "name": "Arctic Ocean Soda (330ml)",
+          "store_id": "S17550802110932959_S00003",
+          "store_name": "Crayfish Legend",
+          "price": 8,
+          "tags": [
+            "Drinks",
+            "Soda",
+            "Arctic Ocean"
+          ],
+          "product_id": "S17550802110932959_P00018",
+          "attributes": [],
+          "product_type": "distraction"
+        },
+        {
+          "name": "Garlic Flavored Eggplant",
+          "store_id": "S17550802110932959_S00003",
+          "store_name": "Crayfish Legend",
+          "price": 28,
+          "tags": [
+            "Side Dishes",
+            "Vegetable Dishes",
+            "Eggplant"
+          ],
+          "product_id": "S17550802110932959_P00019",
+          "attributes": [
+            "Mild Spicy",
+            "Not Spicy"
+          ],
+          "product_type": "distraction"
+        },
+        {
+          "name": "Salt and Pepper Mantis Shrimp (6 Pieces)",
+          "store_id": "S17550802110932959_S00003",
+          "store_name": "Crayfish Legend",
+          "price": 78,
+          "tags": [
+            "Seafood",
+            "Mantis Shrimp",
+            "Salt and Pepper",
+            "night snack"
+          ],
+          "product_id": "S17550802110932959_P00020",
+          "attributes": [
+            "Mild Spicy",
+            "Not Spicy"
+          ],
+          "product_type": "distraction"
+        }
+      ]
+    },
+    "S17550802110932959_S00004": {
+      "name": "Night Owl BBQ",
+      "store_id": "S17550802110932959_S00004",
+      "score": 4.2,
+      "location": {
+        "address": "Night Owl BBQ Restaurant, No.88 Heluo Road, High-tech Zone, Luoyang, Henan Province",
+        "latitude": 34.677,
+        "longitude": 112.422
+      },
+      "tags": [
+        "Barbecue",
+        "night snack",
+        "Open 24 Hours"
+      ],
+      "store_type": "distraction",
+      "products": [
+        {
+          "name": "Spicy Mutton Skewers (10 Pieces)",
+          "store_id": "S17550802110932959_S00004",
+          "store_name": "Night Owl BBQ",
+          "price": 32.9,
+          "tags": [
+            "Hot Selling",
+            "Barbecue",
+            "Mutton",
+            "night snack"
+          ],
+          "product_id": "S17550802110932959_P00021",
+          "attributes": [
+            "Mild Spicy",
+            "Medium Spicy",
+            "Extra Spicy"
+          ],
+          "product_type": "distraction"
+        },
+        {
+          "name": "Grilled Pork Belly (8 Skewers)",
+          "store_id": "S17550802110932959_S00004",
+          "store_name": "Night Owl BBQ",
+          "price": 28.5,
+          "tags": [
+            "Popular",
+            "Barbecue",
+            "Pork",
+            "night snack"
+          ],
+          "product_id": "S17550802110932959_P00022",
+          "attributes": [
+            "Mild Spicy",
+            "Not Spicy",
+            "Add Cumin"
+          ],
+          "product_type": "distraction"
+        },
+        {
+          "name": "Grilled Chicken Wings (4 Pieces)",
+          "store_id": "S17550802110932959_S00004",
+          "store_name": "Night Owl BBQ",
+          "price": 24.9,
+          "tags": [
+            "Classic",
+            "Barbecue",
+            "Chicken",
+            "night snack"
+          ],
+          "product_id": "S17550802110932959_P00023",
+          "attributes": [
+            "Mild Spicy",
+            "Medium Spicy",
+            "Honey"
+          ],
+          "product_type": "distraction"
+        },
+        {
+          "name": "Grilled Eggplant (2 Pieces)",
+          "store_id": "S17550802110932959_S00004",
+          "store_name": "Night Owl BBQ",
+          "price": 15.8,
+          "tags": [
+            "Vegetarian Food",
+            "Barbecue",
+            "Vegetables",
+            "night snack"
+          ],
+          "product_id": "S17550802110932959_P00024",
+          "attributes": [
+            "Garlic",
+            "Mild Spicy"
+          ],
+          "product_type": "distraction"
+        },
+        {
+          "name": "Arctic Ocean Orange Juice (330ml)",
+          "store_id": "S17550802110932959_S00004",
+          "store_name": "Night Owl BBQ",
+          "price": 8,
+          "tags": [
+            "Drinks",
+            "Carbonated Drink",
+            "night snack"
+          ],
+          "product_id": "S17550802110932959_P00025",
+          "attributes": [],
+          "product_type": "distraction"
+        }
+      ]
+    },
+    "S17550802110932959_S00005": {
+      "name": "Fresh Life Supermarket",
+      "store_id": "S17550802110932959_S00005",
+      "score": 4.3,
+      "location": {
+        "address": "Fresh Life Supermarket, No.100 Binhe North Road, High-tech Zone, Luoyang, Henan Province",
+        "latitude": 34.678,
+        "longitude": 112.426
+      },
+      "tags": [
+        "Drinks",
+        "Snacks",
+        "Daily Necessities",
+        "Open 24 Hours"
+      ],
+      "store_type": "target",
+      "products": [
+        {
+          "name": "Arctic Ocean Orange Soda",
+          "store_id": "S17550802110932959_S00005",
+          "store_name": "Fresh Life Supermarket",
+          "price": 6.5,
+          "tags": [
+            "Drinks",
+            "Soda",
+            "Classic Beverages",
+            "Non-Alcoholic",
+            "Suitable for Late Night Snack"
+          ],
+          "product_id": "S17550802110932959_P00026",
+          "attributes": [
+            "Room Temperature",
+            "330ml"
+          ],
+          "product_type": "target"
+        },
+        {
+          "name": "Snow Brave the World Beer",
+          "store_id": "S17550802110932959_S00005",
+          "store_name": "Fresh Life Supermarket",
+          "price": 8.5,
+          "tags": [
+            "Drinks",
+            "Beer",
+            "Alcoholic Drinks",
+            "Suitable for Late Night Snack"
+          ],
+          "product_id": "S17550802110932959_P00028",
+          "attributes": [
+            "Chilled",
+            "500ml"
+          ],
+          "product_type": "distraction"
+        },
+        {
+          "name": "Pepsi Cola",
+          "store_id": "S17550802110932959_S00005",
+          "store_name": "Fresh Life Supermarket",
+          "price": 5.5,
+          "tags": [
+            "Drinks",
+            "Soda",
+            "Non-Alcoholic",
+            "Suitable for Late Night Snack"
+          ],
+          "product_id": "S17550802110932959_P00029",
+          "attributes": [
+            "Chilled",
+            "500ml"
+          ],
+          "product_type": "distraction"
+        },
+        {
+          "name": "Master Kong Mineral Water",
+          "store_id": "S17550802110932959_S00005",
+          "store_name": "Fresh Life Supermarket",
+          "price": 2.5,
+          "tags": [
+            "Drinks",
+            "Mineral Water",
+            "Sugar-Free",
+            "Non-Alcoholic"
+          ],
+          "product_id": "S17550802110932959_P00030",
+          "attributes": [
+            "Room Temperature",
+            "550ml"
+          ],
+          "product_type": "distraction"
+        },
+        {
+          "name": "Lay's Original Potato Chips",
+          "store_id": "S17550802110932959_S00005",
+          "store_name": "Fresh Life Supermarket",
+          "price": 12.5,
+          "tags": [
+            "Snacks",
+            "Snack Food",
+            "Suitable for Watching Sports Games",
+            "Late Night Snack Combo"
+          ],
+          "product_id": "S17550802110932959_P00031",
+          "attributes": [
+            "104g"
+          ],
+          "product_type": "distraction"
+        },
+        {
+          "name": "Arctic Ocean Apple Soda",
+          "store_id": "S17550802110932959_S00005",
+          "store_name": "Fresh Life Supermarket",
+          "price": 6.5,
+          "tags": [
+            "Drinks",
+            "Soda",
+            "Classic Beverages",
+            "Non-Alcoholic",
+            "Suitable for Late Night Snack"
+          ],
+          "product_id": "S17550802110932959_P00032",
+          "attributes": [
+            "Room Temperature",
+            "330ml"
+          ],
+          "product_type": "target"
+        },
+        {
+          "name": "Arctic Ocean Six-Pack Soda",
+          "store_id": "S17550802110932959_S00005",
+          "store_name": "Fresh Life Supermarket",
+          "price": 35,
+          "tags": [
+            "Drinks",
+            "Soda",
+            "Classic Beverages",
+            "Non-Alcoholic",
+            "Suitable for Late Night Snack",
+            "Group Purchase Size"
+          ],
+          "product_id": "S17550802110932959_P00033",
+          "attributes": [
+            "Room Temperature",
+            "330ml*6"
+          ],
+          "product_type": "target"
+        },
+        {
+          "name": "Wong Lo Kat Herbal Tea",
+          "store_id": "S17550802110932959_S00005",
+          "store_name": "Fresh Life Supermarket",
+          "price": 7,
+          "tags": [
+            "Drinks",
+            "Herbal Tea",
+            "Non-Alcoholic",
+            "Suitable for Late Night Snack"
+          ],
+          "product_id": "S17550802110932959_P00034",
+          "attributes": [
+            "Room Temperature",
+            "310ml"
+          ],
+          "product_type": "distraction"
+        },
+        {
+          "name": "Nongfu Spring Vitamin Water",
+          "store_id": "S17550802110932959_S00005",
+          "store_name": "Fresh Life Supermarket",
+          "price": 6,
+          "tags": [
+            "Drinks",
+            "Vitamin Drink",
+            "Non-Alcoholic"
+          ],
+          "product_id": "S17550802110932959_P00035",
+          "attributes": [
+            "Chilled",
+            "500ml"
+          ],
+          "product_type": "distraction"
+        }
+      ]
+    }
+  },
+  "orders": {}
+}

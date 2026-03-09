@@ -1,0 +1,667 @@
+{
+  "task_id": "10807012",
+  "domain": "cross_domain",
+  "time": "2024-01-09 10:30:00",
+  "user_id": "U001019",
+  "weather": [
+    {
+      "city": "Jiaxing",
+      "category": "sunny",
+      "datetime": "2024-01-09",
+      "temperature": [
+        3,
+        12
+      ],
+      "humidity": 65
+    },
+    {
+      "city": "Nanjing",
+      "category": "cloudy",
+      "datetime": "2024-01-09",
+      "temperature": [
+        2,
+        10
+      ],
+      "humidity": 70
+    },
+    {
+      "city": "Nanjing",
+      "category": "sunny",
+      "datetime": "2024-01-10",
+      "temperature": [
+        1,
+        9
+      ],
+      "humidity": 65
+    }
+  ],
+  "location": [
+    {
+      "address": "Room 1204, Building 3, Zhongnan Century City, 588 Guangyi Road, Nanhu District, Jiaxing",
+      "longitude": 120.785678,
+      "latitude": 30.753245
+    },
+    {
+      "address": "Room 1503, Tower B, Jiaxing International Business Center, 1 Hongxing West Road, Xiuzhou District, Jiaxing",
+      "longitude": 120.710432,
+      "latitude": 30.765821
+    }
+  ],
+  "user_profile": {
+    "user id": "U001019",
+    "occupation": "White-collar worker",
+    "gender": "female",
+    "age group": "30~35",
+    "residence": "Jiaxing",
+    "home address": "Room 1204, Building 3, Zhongnan Century City, 588 Guangyi Road, Nanhu District, Jiaxing",
+    "work address": "Room 1503, Tower B, Jiaxing International Business Center, 1 Hongxing West Road, Xiuzhou District, Jiaxing",
+    "dietary restrictions": "Avoid high purine foods (such as organ meats/seafood soups), Alcohol-Free",
+    "family status": "Has children",
+    "personality": "Easily anxious and worried, needs repeated confirmation to feel at ease"
+  },
+  "user_historical_behaviors": {
+    "user id": "U001019",
+    "occupation": "white-collar worker",
+    "gender": "female",
+    "age group": "30~35",
+    "residence": "Jiaxing",
+    "home address": "Room 1204, Building 3, Zhongnan Century City, 588 Guangyi Road, Nanhu District, Jiaxing",
+    "work address": "Room 1503, Tower B, Jiaxing International Business Center, 1 Hongxing West Road, Xiuzhou District, Jiaxing",
+    "delivery": {
+      "food delivery": {
+        "breakfast": {
+          "frequently purchased categories": [
+            "Quick meals/Buns/Pan-fried buns (average 15 yuan)",
+            "Quick meals/Fried dough sticks (average 8 yuan)",
+            "Quick meals/Jianbing/Wraps/Hand-grabbed pancakes (average 12 yuan)"
+          ],
+          "cost per order": "8~25 yuan",
+          "preferred store rating": "4.2~4.7",
+          "preferred delivery time": "15~25 minutes",
+          "preferred distance": "0~1500m",
+          "recent orders": [
+            {
+              "store": "Lao Wang's Bun Shop",
+              "product": "Pork Buns + Soy Milk Set"
+            },
+            {
+              "store": "Tianjin Jianbing",
+              "product": "Original Jianbing"
+            },
+            {
+              "store": "Breakfast Workshop",
+              "product": "Fried Dough Stick and Soy Milk Set"
+            }
+          ],
+          "search history": [
+            "buns",
+            "soy milk",
+            "jianbing",
+            "nutritious breakfast"
+          ]
+        },
+        "weekday lunch/dinner": {
+          "frequently purchased categories": [
+            "Quick meals/Rice with toppings (average 22 yuan)",
+            "Quick meals/Small dishes (average 25 yuan)",
+            "Quick meals/Rice noodles (average 20 yuan)"
+          ],
+          "cost per order": "20~35 yuan",
+          "preferred store rating": "4.0~4.5",
+          "preferred delivery time": "20~30 minutes",
+          "preferred distance": "0~2000m",
+          "recent orders": [
+            {
+              "store": "Home-style Quick Meals",
+              "product": "Moo Shu Pork Rice + Tomato Egg Soup"
+            },
+            {
+              "store": "Flavorful Small Dishes",
+              "product": "Sour Cabbage Fish + Rice"
+            },
+            {
+              "store": "Yunnan Crossing Bridge Rice Noodles",
+              "product": "Light Chicken Soup Rice Noodles"
+            }
+          ],
+          "search history": [
+            "non-spicy rice dishes",
+            "small dishes",
+            "light lunch",
+            "fast food"
+          ]
+        },
+        "weekend lunch/dinner": {
+          "frequently purchased categories": [
+            "Chinese cuisine/Shandong cuisine (average 65 yuan)",
+            "International flavors/Stone pot rice/Teppanyaki (average 55 yuan)",
+            "Chinese cuisine/Crayfish (average 80 yuan)"
+          ],
+          "cost per order": "50~120 yuan",
+          "preferred store rating": "4.5~4.8",
+          "preferred delivery time": "30~45 minutes",
+          "preferred distance": "0~3500m",
+          "recent orders": [
+            {
+              "store": "Shandong Home Cooking",
+              "product": "Stir-fried Lamb with Green Onions + Sweet and Sour Pork + Garlic Broccoli"
+            },
+            {
+              "store": "Korean Cuisine",
+              "product": "Stone Pot Bibimbap + Seaweed Soup"
+            },
+            {
+              "store": "Steamed Crayfish House",
+              "product": "Garlic Crayfish (Mild Spice) + Clams"
+            }
+          ],
+          "search history": [
+            "non-spicy crayfish",
+            "Shandong cuisine",
+            "Korean cuisine",
+            "family meal set"
+          ]
+        },
+        "desserts/drinks/snacks": {
+          "frequently purchased categories": [
+            "Beverages and desserts/Juice (average 18 yuan)",
+            "Beverages and desserts/Cold desserts (average 22 yuan)",
+            "Beverages and desserts/Fruit salad (average 28 yuan)"
+          ],
+          "cost per order": "15~30 yuan",
+          "preferred store rating": "4.3~4.8",
+          "preferred delivery time": "15~25 minutes",
+          "preferred distance": "0~2000m",
+          "recent orders": [
+            {
+              "store": "Fresh Juice Bar",
+              "product": "Fresh Watermelon Juice"
+            },
+            {
+              "store": "Sweet Ice City",
+              "product": "Yogurt Fruit Salad"
+            },
+            {
+              "store": "Truly Fresh",
+              "product": "Milk Mango Salad"
+            }
+          ],
+          "search history": [
+            "fruit salad",
+            "fresh juice",
+            "yogurt",
+            "low-sugar desserts"
+          ]
+        },
+        "night snack": {
+          "frequently purchased categories": [
+            "Quick meals/Dumplings/Wonton (average 30 yuan)",
+            "Quick meals/Claypot dishes (average 35 yuan)",
+            "Snacks/Braised dishes (average 25 yuan)"
+          ],
+          "cost per order": "20~40 yuan",
+          "preferred store rating": "4.0~4.6",
+          "preferred delivery time": "20~35 minutes",
+          "preferred distance": "0~2500m",
+          "recent orders": [
+            {
+              "store": "Lao Li's Dumpling House",
+              "product": "20 Three Delicacies Dumplings"
+            },
+            {
+              "store": "Claypot Porridge Shop",
+              "product": "Century Egg and Lean Pork Porridge + Side Dishes"
+            },
+            {
+              "store": "Five Spice Braised Flavors",
+              "product": "Braised Chicken Wings + Braised Eggs"
+            }
+          ],
+          "search history": [
+            "dumplings",
+            "stomach-friendly porridge",
+            "braised dishes",
+            "non-spicy night snacks"
+          ]
+        }
+      },
+      "product delivery": {
+        "frequently purchased categories": [
+          "Vegetables/Bean products (32%)",
+          "Raw meat/Poultry/Eggs (18%)",
+          "Fruits (15%)",
+          "Household items (12%)",
+          "Mother and baby products (10%)",
+          "Others (13%)"
+        ],
+        "frequently visited stores": [
+          "Wanfu Supermarket (45%)",
+          "Jingkelong Convenience Store (30%)",
+          "Fruit and Vegetable Fresh Store (15%)",
+          "Other stores (10%)"
+        ],
+        "cost per order by category": {
+          "Vegetables/Bean products": "5~20 yuan",
+          "Raw meat/Poultry/Eggs": "20~50 yuan",
+          "Fruits": "10~30 yuan",
+          "Household items": "15~40 yuan",
+          "Mother and baby products": "30~100 yuan"
+        },
+        "preferred delivery time": "30~60 minutes",
+        "typical order time": "9~11 AM (35%), 5~7 PM (40%), 8~10 PM (15%)",
+        "recent orders": [
+          {
+            "store": "Wanfu Supermarket",
+            "product": "Bok Choy 300g, Tofu 2 boxes, Eggs 1 jin"
+          },
+          {
+            "store": "Jingkelong Convenience Store",
+            "product": "Baby wipes, Children's toothpaste"
+          },
+          {
+            "store": "Fruit and Vegetable Fresh Store",
+            "product": "Apples 2 jin, Bananas 1 jin"
+          }
+        ],
+        "search history": [
+          "low-sodium soy sauce",
+          "baby products",
+          "fresh vegetables",
+          "chicken breast",
+          "fruits"
+        ]
+      }
+    },
+    "in-store consumption": {
+      "in-store dining": {
+        "fine-dining": {
+          "frequently purchased categories": [
+            "Regional cuisine/Jiangzhe cuisine (average 120 yuan)",
+            "International cuisine/Japanese food (average 150 yuan)",
+            "Regional cuisine/Cantonese food (average 130 yuan)"
+          ],
+          "preferred average price per person": "90~150 yuan",
+          "preferred store rating": "4.2~4.8 stars",
+          "typical dining time": "18:30-20:30",
+          "preferred distance": "500~3000m",
+          "recent orders": [
+            {
+              "store": "Mingzhu Jiangnan (Jiaxing Wanda Branch)",
+              "product": "Taihu Three Whites, Drunken Crab, West Lake Fish in Vinegar Sauce"
+            },
+            {
+              "store": "Sushi Master (International Business Center Branch)",
+              "product": "Deluxe Sashimi Platter, Salmon Sushi"
+            },
+            {
+              "store": "Chao Yue Fang (Nanhu Branch)",
+              "product": "Crispy Roast Goose, Steamed Grouper"
+            }
+          ],
+          "search history": [
+            "Jiangzhe cuisine",
+            "seafood without innards",
+            "family-friendly restaurant",
+            "business dinner",
+            "private room"
+          ]
+        },
+        "light meal": {
+          "frequently purchased categories": [
+            "Snacks and fast food/Chinese quick meals (average 35 yuan)",
+            "Snacks and fast food/Western fast food (average 42 yuan)",
+            "Regional cuisine/Other regional cuisines (average 45 yuan)"
+          ],
+          "preferred average price per person": "25~50 yuan",
+          "preferred store rating": "3.5~4.3 stars",
+          "typical dining time": "12:00-13:30",
+          "preferred distance": "0~1000m",
+          "recent orders": [
+            {
+              "store": "Jiazhou Noodles (International Business Center Branch)",
+              "product": "Beef Noodles, Cold Shredded Chicken"
+            },
+            {
+              "store": "Yonghe King (Xiuzhou Wanda Branch)",
+              "product": "Three Delicacies Wonton, Fried Dough Sticks and Soy Milk"
+            },
+            {
+              "store": "Subway (Jiaxing Joy City Branch)",
+              "product": "Italian Classic Combo"
+            }
+          ],
+          "search history": [
+            "lunch near business center",
+            "fast food",
+            "boxed meal",
+            "light food"
+          ]
+        },
+        "desserts/drinks/snacks": {
+          "frequently purchased categories": [
+            "Beverage shops (average 20 yuan)",
+            "Bread and desserts (average 30 yuan)",
+            "Other dining/Fresh fruits (average 25 yuan)"
+          ],
+          "preferred average price per person": "15~35 yuan",
+          "preferred store rating": "3.8~4.5 stars",
+          "typical dining time": "15:00-17:00",
+          "preferred distance": "0~800m",
+          "recent orders": [
+            {
+              "store": "HEYTEA (Jiaxing Joy City Branch)",
+              "product": "Grape Burst, Cheese Berry Berry"
+            },
+            {
+              "store": "BreadTalk (Zhongnan Century City Branch)",
+              "product": "Soft European Bread, Fruit Tart"
+            },
+            {
+              "store": "Xianfeng Fruits (Nanhu District Branch)",
+              "product": "Selected Fruit Platter"
+            }
+          ],
+          "search history": [
+            "sugar-free beverages",
+            "afternoon tea",
+            "fresh fruits"
+          ]
+        }
+      },
+      "other in-store services": {
+        "frequently consumed categories": {
+          "Sports and fitness/Fitness centers": "40%",
+          "Sports and fitness/Ball sports": "35%",
+          "Leisure entertainment/Massage/Foot therapy": "15%",
+          "Parent-child/Family entertainment": "10%"
+        },
+        "cost per order by category": {
+          "Sports and fitness/Fitness centers": "150~300 yuan",
+          "Sports and fitness/Ball sports": "80~120 yuan",
+          "Leisure entertainment/Massage/Foot therapy": "150~200 yuan",
+          "Parent-child/Family entertainment": "100~200 yuan"
+        },
+        "preferred store rating": "4.0~4.7 stars",
+        "preferred service time": "19:00-21:00",
+        "preferred distance": "500~5000m",
+        "recent orders": [
+          {
+            "store": "Super Gorilla Fitness (Jiaxing International Business Center Branch)",
+            "product": "Monthly Membership"
+          },
+          {
+            "store": "Jiaxing Citizens' Badminton Hall",
+            "product": "Two-person Court for 2 Hours"
+          },
+          {
+            "store": "Happy Fun Parent-Child Playground (Jiaxing Wanda Branch)",
+            "product": "Parent-child Single Experience Ticket"
+          }
+        ],
+        "search history": [
+          "gym",
+          "badminton court",
+          "parent-child activities",
+          "foot massage",
+          "weekend family activities"
+        ]
+      }
+    },
+    "OTA": {
+      "visited scenes": {
+        "Historical sites": "25%",
+        "Natural landscapes (mountains/lakes/forests)": "30%",
+        "Parks": "15%",
+        "Exhibition halls (museums/art galleries)": "20%",
+        "Featured villages/Industrial tourism/Uncategorized projects": "10%"
+      },
+      "cost per night on hotel": "300~500 yuan",
+      "visited hotels": {
+        "Home Inn": "35%",
+        "Hanting": "25%",
+        "JI Hotel": "20%",
+        "7 Days Inn": "10%",
+        "Atour": "10%"
+      },
+      "browsed hotels": {
+        "Three-star hotels": "45%",
+        "Economy hotels": "35%",
+        "Comfort Type": "20%"
+      },
+      "historical travel plans": {
+        "Jiaxing-Hangzhou": {
+          "Price range": "50-100 yuan",
+          "Transportation mode": "High-Speed Rail"
+        },
+        "Jiaxing-Shanghai": {
+          "Price range": "40-80 yuan",
+          "Transportation mode": "High-Speed Rail"
+        },
+        "Jiaxing-Suzhou": {
+          "Price range": "60-120 yuan",
+          "Transportation mode": "High-Speed Rail"
+        },
+        "Jiaxing-Nanjing": {
+          "Price range": "100-200 yuan",
+          "Transportation mode": "High-Speed Rail"
+        },
+        "Jiaxing-Huangshan": {
+          "Price range": "200-400 yuan",
+          "Transportation mode": "Long-distance bus"
+        }
+      }
+    }
+  },
+  "stores": {},
+  "orders": {
+    "S17550802148582740_O00001": {
+      "order_id": "S17550802148582740_O00001",
+      "order_type": "delivery",
+      "user_id": "U001019",
+      "store_id": "S001023",
+      "total_price": 28.0,
+      "create_time": "2023-12-30 08:15:22",
+      "status": "delivered",
+      "products": [
+        {
+          "product_id": "P001045",
+          "name": "Vegetable and Fruit Light Meal Bowl",
+          "price": 28.0,
+          "quantity": 1
+        }
+      ]
+    },
+    "S17550802148582740_O00002": {
+      "order_id": "S17550802148582740_O00002",
+      "order_type": "delivery",
+      "user_id": "U001019",
+      "store_id": "S001078",
+      "total_price": 38.0,
+      "create_time": "2023-12-28 12:10:45",
+      "status": "delivered",
+      "products": [
+        {
+          "product_id": "P001089",
+          "name": "Quinoa Chicken Breast Salad",
+          "price": 38.0,
+          "quantity": 1
+        }
+      ]
+    },
+    "S17550802148582740_O00003": {
+      "order_id": "S17550802148582740_O00003",
+      "order_type": "delivery",
+      "user_id": "U001019",
+      "store_id": "S001034",
+      "total_price": 45.0,
+      "create_time": "2023-12-27 18:45:12",
+      "status": "delivered",
+      "products": [
+        {
+          "product_id": "P001067",
+          "name": "Steamed Fish Set Menu",
+          "price": 45.0,
+          "quantity": 1
+        }
+      ]
+    },
+    "S17550802148582740_O00004": {
+      "order_id": "S17550802148582740_O00004",
+      "order_type": "hotel",
+      "user_id": "U001019",
+      "store_id": "H00001",
+      "note": "Hope to arrange a quiet room",
+      "location": {
+        "address": "Nanjing Art Theme Hotel, 8 Zhongshan North Road, Gulou District, Nanjing",
+        "longitude": 118.789654,
+        "latitude": 32.056789
+      },
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 398.0,
+      "create_time": "2023-12-20 14:35:26",
+      "update_time": "2023-12-20 14:35:26",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17550802148582740_P00002",
+          "price": 398.0,
+          "quantity": 1,
+          "date": "2023-12-28",
+          "room_type": "Artist King Room"
+        }
+      ]
+    },
+    "S17550802148582740_O00005": {
+      "order_id": "S17550802148582740_O00005",
+      "order_type": "train",
+      "user_id": "U001019",
+      "store_id": "T00004",
+      "note": "",
+      "location": {
+        "address": "Jiaxing South Railway Station, 1888 Zhonghuan South Road, Nanhu District, Jiaxing, Zhejiang Province",
+        "longitude": 120.760234,
+        "latitude": 30.75389
+      },
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 557.0,
+      "create_time": "2023-12-20 14:40:12",
+      "update_time": "2023-12-20 14:40:12",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17550802148582740_P00022",
+          "price": 278.5,
+          "quantity": 2,
+          "seat_type": "First Class Seat"
+        }
+      ]
+    },
+    "S17550802148582740_O00006": {
+      "order_id": "S17550802148582740_O00006",
+      "order_type": "train",
+      "user_id": "U001019",
+      "store_id": "T00005",
+      "note": "",
+      "location": {
+        "address": "Nanjing South Railway Station, 1 Yuhua East Road, Yuhuatai District, Nanjing, Jiangsu Province",
+        "longitude": 118.7994,
+        "latitude": 31.968639
+      },
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 349.0,
+      "create_time": "2023-12-29 09:15:33",
+      "update_time": "2023-12-29 09:15:33",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "T00005P001",
+          "price": 174.5,
+          "quantity": 2,
+          "seat_type": "Second Class Seat"
+        }
+      ]
+    },
+    "S17550802148582740_O00007": {
+      "order_id": "S17550802148582740_O00007",
+      "order_type": "hotel",
+      "user_id": "U001019",
+      "store_id": "H00002",
+      "note": "Hope to arrange a room close to Nanjing Arts Institute",
+      "location": {
+        "address": "West Lake Art Hotel, 15 Longjing Road, West Lake District, Hangzhou",
+        "longitude": 120.143267,
+        "latitude": 30.235689
+      },
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 458.0,
+      "create_time": "2023-11-15 16:22:45",
+      "update_time": "2023-11-15 16:22:45",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "H00002P001",
+          "price": 458.0,
+          "quantity": 1,
+          "date": "2023-11-25",
+          "room_type": "Lake View King Room"
+        }
+      ]
+    },
+    "S17550802148582740_O00008": {
+      "order_id": "S17550802148582740_O00008",
+      "order_type": "instore",
+      "user_id": "U001019",
+      "store_id": "S17550802148582740_I00008",
+      "total_price": 688.0,
+      "create_time": "2024-01-05 10:15:22",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17550802148582740_P00057",
+          "price": 688.0,
+          "quantity": 1
+        }
+      ]
+    },
+    "S17550802148582740_O00009": {
+      "order_id": "S17550802148582740_O00009",
+      "order_type": "instore",
+      "user_id": "U001019",
+      "store_id": "S17550802148582740_I00012",
+      "total_price": 699.0,
+      "create_time": "2024-01-05 10:30:15",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17550802148582740_P00077",
+          "price": 699.0,
+          "quantity": 1
+        }
+      ]
+    },
+    "S17550802148582740_O00010": {
+      "order_id": "S17550802148582740_O00010",
+      "order_type": "instore",
+      "user_id": "U001019",
+      "store_id": "S001089",
+      "total_price": 150.0,
+      "create_time": "2023-12-15 19:25:18",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "P001234",
+          "price": 150.0,
+          "quantity": 1
+        }
+      ]
+    }
+  }
+}

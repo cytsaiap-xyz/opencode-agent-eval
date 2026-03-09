@@ -1,0 +1,53 @@
+{
+  "required_orders": [
+    {
+      "order_id": "60711001T01",
+      "order_type": "delivery",
+      "user_id": "U000026",
+      "store_id": "S22977061347928632_S51833",
+      "note": "",
+      "location": {
+        "address": "Sheraton Nanchang Hotel, Shajing Street, Honggutan District, Nanchang, Jiangxi Province",
+        "longitude": 115.868738,
+        "latitude": 28.691702
+      },
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 132,
+      "create_time": "2025-09-19 11:00:00",
+      "update_time": "2025-09-19 11:00:00",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S10727973616443900_P65567",
+          "price": 49,
+          "quantity": 1,
+          "attributes": ""
+        },
+        {
+          "product_id": "S29951410232592308_P63313",
+          "price": 35,
+          "quantity": 1,
+          "attributes": ""
+        },
+        {
+          "product_id": "S11104135624417312_P02672",
+          "price": 48,
+          "quantity": 1,
+          "attributes": ""
+        }
+      ]
+    }
+  ],
+  "rubrics": [
+    "The delivery address for the friend from Beijing should be Sheraton Nanchang Hotel, Shajing Street, Honggutan District, Nanchang, Jiangxi Province",
+    "The estimated delivery time for the friend from Beijing should be within 11:30-12:00 on September 20, 2025",
+    "The Jiangxi cuisine restaurant chosen for the friend from Beijing should have a rating of 4.5 or above",
+    "The restaurant chosen for the friend from Beijing should be on the Must-order List of Jiangxi cuisine restaurants",
+    "The ordered dishes for the friend from Beijing must be authentic Jiangxi cuisine",
+    "The order for the friend from Beijing needs to include three different dishes",
+    "The ordered items for the friend from Beijing should not include eggplant dishes",
+    "The ordered dishes for the friend from Beijing should be moderately spicy, suitable for people from Jiangsu (Mild spicy or Medium spicy)"
+  ]
+}

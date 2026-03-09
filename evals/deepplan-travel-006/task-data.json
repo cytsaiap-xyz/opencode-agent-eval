@@ -1,0 +1,47 @@
+{
+  "task_id": "5",
+  "query": "I plan to travel from Xi'an to Taiyuan for a one-day trip on November 12, 2025, and return to Xi'an on November 13, 2025. Could you please help me plan the entire itinerary, including transportation, accommodation, dining, and sightseeing arrangements?\n\nRegarding transportation, I'd like to take a train for the outbound journey, preferably a direct one with the shortest possible travel time, so I can have more time to explore upon arrival. The accommodation doesn't need to be fancy—I just need a two-star hotel. However, I have quite a few clothes to wash; could you please choose a hotel that has both a washing machine and a dryer? There are two of us traveling, so we only need to book one room.\n\nBy the way, there are two dining spots I'm particularly interested in—could you help me arrange them? One is a restaurant near \"Fenhe Scenic Area\", and I'd like to be able to take a virtual queue number online in advance so we don't have to wait too long. The other is around \"Chunyang Palace\"; I've heard there are many great local eats nearby. Please help me pick the highest-rated restaurant there and include it in the plan.\n\nThat covers all my requirements—I believe I've provided all necessary information. Please go ahead and prepare the full itinerary for me! November 12, 2025 is Wednesday",
+  "meta_info": {
+    "org": "Xi'an",
+    "dest": [
+      "Taiyuan"
+    ],
+    "days": 2,
+    "depart_date": "2025-11-12",
+    "return_date": "2025-11-13",
+    "people_number": 2,
+    "room_number": 1
+  },
+  "hard_constraints": {
+    "train_shortest_duration_direct": {
+      "constraint_context": "Prefer to take the train for the outbound journey, and need to select the shortest-duration direct train available",
+      "constraint_type": "superlative_shortest_duration",
+      "outbound_train_no": "D2540"
+    },
+    "hotel_star_service_required": {
+      "constraint_context": "Please select a 2-star hotel that offers laundry machine and dryer facilities.",
+      "constraint_type": "superlative_star_service_required",
+      "hotel_name": "Jinjiang Inn Hotel (Taiyuan Wanda Plaza Longtan Park Branch)",
+      "required_service": "Washer and Dryer",
+      "hotel_star": 2,
+      "hotel_price": 104.0
+    },
+    "restaurant_specific_tag_nearby": {
+      "constraint_context": "Arrange a meal at a restaurant near the 'Fenhe Scenic Area' during the trip, with online number-taking and queuing service required",
+      "constraint_type": "superlative_specific_tag_nearby",
+      "attraction_name": "Fenhe Scenic Area",
+      "restaurant_name": "Liyuan Tea Restaurant",
+      "required_tag": "Online Queue",
+      "price_per_person": 100.0,
+      "restaurant_rating": 3.8
+    },
+    "restaurant_highest_rated": {
+      "constraint_context": "During the trip, please arrange a meal at the highest-rated restaurant near 'Chunyang Palace'.",
+      "constraint_type": "superlative_highest_rated_restaurant",
+      "attraction_name": "Chunyang Palace",
+      "restaurant_name": "Hanok Village Korean Cuisine Restaurant (Lida International Mall Branch)",
+      "price_per_person": 38.0,
+      "restaurant_rating": 4.4
+    }
+  }
+}

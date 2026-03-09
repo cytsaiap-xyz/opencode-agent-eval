@@ -1,0 +1,38 @@
+{
+  "required_orders": [
+    {
+      "order_id": "20715001T01",
+      "order_type": "delivery",
+      "user_id": "U000093",
+      "store_id": "S31217774473889900_S25934",
+      "note": "",
+      "location": {
+        "address": "Chengfatou Zhujian Yajun, Rongning Road, Sanlitun Street, Zhengding County, Shijiazhuang, Hebei Province",
+        "longitude": 114.60513,
+        "latitude": 38.136171
+      },
+      "dispatch_time": "2025-10-01 14:00:00",
+      "shipping_time": 40,
+      "delivery_time": "2025-10-01 14:40:00",
+      "total_price": 98.0,
+      "create_time": "2025-10-01 10:00:00",
+      "update_time": "2025-10-01 10:00:00",
+      "status": "delivered",
+      "products": [
+        {
+          "product_id": "S39235400686545422_P17041",
+          "price": 98.0,
+          "quantity": 1,
+          "attributes": ""
+        }
+      ]
+    }
+  ],
+  "rubrics": [
+    "The ordered birthday cake must not contain mango ingredients",
+    "The ordered birthday cake should be low-sugar or xylitol type",
+    "The ordered birthday cake should be suitable for 2 people to share (such as 4-6 inch cake)",
+    "The delivery address for the birthday cake order should be Chengfatou Zhujian Yajun, Rongning Road, Sanlitun Street, Zhengding County, Shijiazhuang, Hebei Province",
+    "The estimated delivery time for the birthday cake order should be before 2025-10-01 15:00:00"
+  ]
+}

@@ -1,0 +1,83 @@
+{
+  "required_orders": [
+    {
+      "order_id": "OIb192a86a68",
+      "order_type": "instore",
+      "user_id": "U001019",
+      "store_id": "S17550802148582740_I00008",
+      "note": "",
+      "location": null,
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 688,
+      "create_time": "2024-01-09 10:32:00",
+      "update_time": "2024-01-09 10:32:00",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17550802148582740_P00057",
+          "price": 688,
+          "quantity": 1,
+          "name": "Artist 6-Person Group Purchase Set Menu",
+          "shop_id": "S17550802148582740_I00009",
+          "tags": [
+            "6-Person Set Menu",
+            "Creative Western Cuisine",
+            "Alcohol-Free",
+            "Art Theme"
+          ]
+        }
+      ]
+    },
+    {
+      "order_id": "OO24fd06922c",
+      "order_type": "train",
+      "user_id": "U001019",
+      "store_id": "S17550802148582740_T00004",
+      "note": "",
+      "location": null,
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 557,
+      "create_time": "2024-01-09 10:30:00",
+      "update_time": "2024-01-09 10:30:00",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17550802148582740_P00022",
+          "price": 278.5,
+          "quantity": 2,
+          "date": "2024-01-09",
+          "seat_type": "First Class Seat"
+        }
+      ]
+    },
+    {
+      "book_id": "OI98ab55e38b",
+      "shop_id": "S17550802148582740_I00008",
+      "book_time": "2024-01-09 12:00:00",
+      "update_time": "2024-01-09 10:30:00",
+      "customer_id": "U001019",
+      "customer_count": 6,
+      "book_price": 50,
+      "status": "paid"
+    }
+  ],
+  "rubrics": [
+    "The restaurant ordered must have artistic atmosphere",
+    "The restaurant ordered must be a western restaurant",
+    "The restaurant ordered must have a rating of 4.8 or above",
+    "The set menu ordered should be suitable for six people dining",
+    "The set menu ordered cannot contain alcohol",
+    "The set menu ordered cannot contain high purine foods such as seafood soup",
+    "The train tickets ordered should be First Class Seat",
+    "The train ticket price should be less than 300 yuan",
+    "The arrival time of the ordered train should be before 10 PM on January 9",
+    "The departure time of the ordered train should be after 3 PM on January 9",
+    "The restaurant reservation time should be 12:00 on January 9",
+    "The restaurant reservation should be for 6 people",
+    "The restaurant reserved should be Art Space Western Restaurant"
+  ]
+}

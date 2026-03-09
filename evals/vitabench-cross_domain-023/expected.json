@@ -1,0 +1,99 @@
+{
+  "required_orders": [
+    {
+      "order_id": "S17550802108185132_O00009",
+      "order_type": "instore",
+      "user_id": "U010068",
+      "store_id": "S17550802108185132_I00009",
+      "note": "",
+      "location": null,
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 398,
+      "create_time": "2024-12-30 15:34:15",
+      "update_time": "2024-12-30 15:34:15",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17550802108185132_P00041",
+          "price": 398,
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "order_id": "OO103709d52a",
+      "order_type": "hotel",
+      "user_id": "U010068",
+      "store_id": "S17550802108185132_H00005",
+      "note": "",
+      "location": null,
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 288,
+      "create_time": "2024-12-30 15:31:00",
+      "update_time": "2024-12-30 15:31:00",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17550802108185132_P00021",
+          "price": 288,
+          "quantity": 1,
+          "date": "2024-12-30",
+          "room_type": "Comfort King Room"
+        }
+      ]
+    },
+    {
+      "order_id": "OTa650c87500",
+      "order_type": "delivery",
+      "user_id": "U010068",
+      "store_id": "S17550802108185132_S00001",
+      "note": "",
+      "location": {
+        "address": "Fengsheng Garden, No.328 Tian'an South Road, Fengze District, Quanzhou, Fujian Province",
+        "longitude": 118.613517,
+        "latitude": 24.879839
+      },
+      "dispatch_time": "2024-12-30 16:00:00",
+      "shipping_time": 28,
+      "delivery_time": "2024-12-30 16:28:00",
+      "total_price": 258,
+      "create_time": "2024-12-30 15:30:00",
+      "update_time": "2024-12-30 15:30:00",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17550802108185132_P00001",
+          "price": 258,
+          "quantity": 1,
+          "name": "Royal Spring Spot-removing Essence",
+          "store_id": "S17550802108185132_S00001",
+          "store_name": "Yueyan Skincare Specialty Store",
+          "attributes": "",
+          "tags": [
+            "Spot Removal",
+            "Fade Pigmentation",
+            "Best-selling Products"
+          ]
+        }
+      ]
+    }
+  ],
+  "rubrics": [
+    "The total budget for hotel, skincare products and restaurant orders cannot exceed 1000 yuan",
+    "Need to check the user's most frequently stayed hotel brand in historical behavior, which is Home Inn, and the hotel brand ordered must be Home Inn",
+    "The room type ordered must be a King Room",
+    "The ordered hotel must be within 3 kilometers (inclusive) of Fengsheng Garden, No.328 Tian'an South Road, Fengze District, Quanzhou, Fujian Province",
+    "The check-in date for the hotel order should be December 30, 2024",
+    "The skincare products ordered must have Spot Removal effects",
+    "The delivery address for the skincare products order should be Fengsheng Garden, No.328 Tian'an South Road, Fengze District, Quanzhou, Fujian Province",
+    "The delivery time for the skincare products order should be before 16:30 on December 30, 2024",
+    "The restaurant ordered should serve Traditional Min Cuisine",
+    "The Minnan Cuisine order set meal should have a variety of dishes",
+    "The Minnan Cuisine order set meal must include Ginger Duck",
+    "The Minnan Cuisine order set meal should be enough for at least 3 people"
+  ]
+}

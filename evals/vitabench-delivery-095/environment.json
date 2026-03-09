@@ -1,0 +1,373 @@
+{
+  "task_id": "J0716002",
+  "domain": "delivery",
+  "time": "2025-03-11 19:54:33",
+  "user_id": "U000096",
+  "weather": [
+    {
+      "city": "Huizhou City",
+      "category": "overcast",
+      "datetime": "2025-03-11",
+      "temperature": [
+        10,
+        17
+      ],
+      "humidity": 69
+    }
+  ],
+  "location": [
+    {
+      "address": "No. 8 Sanxin South Road, Jiangbei, Huicheng District, Huizhou City, Guangdong Province, Jiangbei New Garden",
+      "longitude": 114.416299,
+      "latitude": 23.118535
+    },
+    {
+      "address": "No. 26 Sihuan South Road, Henan'an Street, Huicheng District, Huizhou City, Guangdong Province, Wanxiang International Office Building",
+      "longitude": 114.443041,
+      "latitude": 23.035436
+    }
+  ],
+  "user_profile": {
+    "user id": "U000096",
+    "occupation": "Network Engineer",
+    "gender": "male",
+    "age group": "30~35",
+    "residence": "Foshan and Huizhou",
+    "home address": "No. 8 Sanxin South Road, Jiangbei, Huicheng District, Huizhou City, Guangdong Province, Jiangbei New Garden",
+    "work address": "No. 26 Sihuan South Road, Henan'an Street, Huicheng District, Huizhou City, Guangdong Province, Wanxiang International Office Building",
+    "dietary restrictions": "No coffee",
+    "family status": "In a relationship",
+    "personality": "Overly dependent on others' guidance, lacks self-determination and decisiveness"
+  },
+  "user_historical_behaviors": {
+    "user id": "U000096",
+    "occupation": "Network Engineer",
+    "gender": "male",
+    "age group": "30~35",
+    "residence": "Foshan and Huizhou",
+    "home address": "No. 8 Sanxin South Road, Jiangbei, Huicheng District, Huizhou City, Guangdong Province, Jiangbei New Garden",
+    "work address": "No. 26 Sihuan South Road, Henan'an Street, Huicheng District, Huizhou City, Guangdong Province, Wanxiang International Office Building",
+    "breakfast": {
+      "frequently purchased categories": [
+        "Quick meals/Buns/Pan-fried buns (average 15 yuan)",
+        "Quick meals/Light food (average 32 yuan)"
+      ],
+      "cost per order": "15~35 yuan",
+      "preferred store rating": "4.3~4.8 stars",
+      "preferred delivery time": "15~30 minutes",
+      "preferred distance": "0~2500m",
+      "recent orders": [
+        {
+          "store": "Fresh Taste Breakfast",
+          "product": "Five-grain Porridge Set"
+        },
+        {
+          "store": "Morning Bun Shop",
+          "product": "Pork Bun + Soy Milk Set"
+        },
+        {
+          "store": "Mr. Salad",
+          "product": "Fruit and Cereal Light Meal Bowl"
+        }
+      ],
+      "search history": [
+        "Low-sugar breakfast",
+        "Healthy porridge",
+        "Light meal",
+        "Soy milk"
+      ]
+    },
+    "weekday lunch/dinner": {
+      "frequently purchased categories": [
+        "Quick meals/Healthy meals (average 45 yuan)",
+        "Chinese cuisine/Cantonese cuisine (average 65 yuan)",
+        "International flavors/Stone pot rice/Teppanyaki rice (average 40 yuan)"
+      ],
+      "cost per order": "35~200 yuan",
+      "preferred store rating": "4.5~5.0 stars",
+      "preferred delivery time": "20~50 minutes",
+      "preferred distance": "0~5000m",
+      "recent orders": [
+        {
+          "store": "Boggu (Longsheng Jinshan Lake Branch)",
+          "product": "Japanese-style Green Onion Beef Rice | Super Delicious!"
+        },
+        {
+          "store": "Under the Banyan Tree Shunde Cuisine (Longsheng Jinshan Lake Branch)",
+          "product": "[Newly Upgraded] Green Onion Fried Shrimp with Five Willow Egg Single Person Set"
+        }
+      ],
+      "search history": [
+        "Healthy meals",
+        "Light diet",
+        "Cantonese cuisine",
+        "Low oil"
+      ]
+    },
+    "weekend lunch/dinner": {
+      "frequently purchased categories": [
+        "Chinese cuisine/Cantonese cuisine (average 95 yuan)",
+        "International flavors/Japanese bento/Sushi (average 120 yuan)"
+      ],
+      "cost per order": "80~150 yuan",
+      "preferred store rating": "4.5~4.9 stars",
+      "preferred delivery time": "25~45 minutes",
+      "preferred distance": "0~5000m",
+      "recent orders": [
+        {
+          "store": "Cantonese Cuisine Master",
+          "product": "White Cut Chicken + Steamed Egg with Shrimp Family Set"
+        },
+        {
+          "store": "Sushi House",
+          "product": "Salmon Sushi Platter"
+        },
+        {
+          "store": "Jiangnan Private Kitchen",
+          "product": "Steamed Fish + Stir-fried Seasonal Vegetables Set"
+        }
+      ],
+      "search history": [
+        "Family meal set",
+        "Japanese cuisine",
+        "Cantonese cuisine",
+        "Steamed dishes"
+      ]
+    },
+    "desserts/drinks/snacks": {
+      "frequently purchased categories": [
+        "Beverages and desserts/Juice (average 25 yuan)",
+        "Beverages and desserts/Sweet soup (average 35 yuan)",
+        "Beverages and desserts/Milk tea (average 28 yuan)"
+      ],
+      "cost per order": "15~50 yuan",
+      "preferred store rating": "4.0~4.0 stars",
+      "preferred delivery time": "15~40 minutes",
+      "preferred distance": "0~5000m",
+      "recent orders": [
+        {
+          "store": "Zan Tea (Thai Salty Yogurt)",
+          "product": "Avocado Guava Yogurt Ice"
+        },
+        {
+          "store": "Mixue Ice Cream (Huizhou City Branch)",
+          "product": "Taro Ball Grape (Upgraded Version)"
+        },
+        {
+          "store": "Sen's Sweet Soup Shop (Jinshan Lake Branch)",
+          "product": "Explosive Taro Ball Pandan Rice Noodle"
+        }
+      ],
+      "search history": [
+        "Milk tea",
+        "Freshly squeezed juice",
+        "Fruit tea",
+        "Sweet soup"
+      ]
+    },
+    "night snack": {
+      "frequently purchased categories": [
+        "Quick meals/Claypot dishes (average 80 yuan)",
+        "Quick meals/Braised foods (average 40 yuan)"
+      ],
+      "cost per order": "30~150 yuan",
+      "preferred store rating": "4.0~5.0 stars",
+      "preferred delivery time": "20~50 minutes",
+      "preferred distance": "0~5500m",
+      "recent orders": [
+        {
+          "store": "Juewei Duck Neck (Jinshan Lake In-Time Mall Branch)",
+          "product": "Two-person meal with 2 meat dishes and 2 vegetable dishes"
+        },
+        {
+          "store": "Chaoshan Axin Seafood Claypot Porridge (Local Time-honored Brand)",
+          "product": "Three Nourishing Heroes (Soft-shelled Turtle + Oyster + Chicken)"
+        }
+      ],
+      "search history": [
+        "Night snack",
+        "Claypot soup",
+        "Nourishing soup"
+      ]
+    }
+  },
+  "stores": {
+    "S21718353114713898_S77555": {
+      "name": "Master Guo (Bread/Cake/Beverages/In-Time Mall Branch)",
+      "store_id": "S21718353114713898_S77555",
+      "score": 4.8,
+      "location": {
+        "address": "No. 22, 1st Floor, Huizhou In-Time Shopping Mall, No. 13 Jinshan Avenue, Henan'an Street, Huicheng District, Huizhou City, Guangdong Province, Master Guo Bakery (In-Time Mall Branch)",
+        "latitude": 23.039976,
+        "longitude": 114.440277
+      },
+      "tags": [],
+      "products": [
+        {
+          "name": "Red Bean Paste Egg Yolk Pastry Box (4 pieces)",
+          "store_id": "S21718353114713898_S77555",
+          "store_name": "Master Guo (Bread/Cake/Beverages/In-Time Mall Branch)",
+          "price": 30.0,
+          "tags": [],
+          "product_id": "S28550993188472208_P13681",
+          "attributes": [],
+          "quantity": 9999
+        },
+        {
+          "name": "Taro Egg Yolk Pastry (4 pieces)",
+          "product_id": "S69803404646379158_P24419",
+          "store_id": "S21718353114713898_S77555",
+          "store_name": "Master Guo (Bread/Cake/Beverages/In-Time Mall Branch)",
+          "price": 30,
+          "tags": [],
+          "attributes": [],
+          "quantity": 9999
+        },
+        {
+          "name": "Red Bean Paste Roll",
+          "product_id": "S74993701293344863_P64429",
+          "store_id": "S21718353114713898_S77555",
+          "store_name": "Master Guo (Bread/Cake/Beverages/In-Time Mall Branch)",
+          "price": 15,
+          "tags": [],
+          "attributes": [],
+          "quantity": 9999
+        }
+      ]
+    },
+    "S80854347985296109_S72541": {
+      "name": "Yu Pin Sweet Sugar Dessert Shop (Jiangbei Branch, Desserts)",
+      "store_id": "S80854347985296109_S72541",
+      "score": 4.7,
+      "location": {
+        "address": "Shop 03, No. 19 Yunshan East Road, Huicheng District, Huizhou City, Guangdong Province, Yu Pin Sweet Sugar Dessert Shop",
+        "latitude": 23.114051,
+        "longitude": 114.423726
+      },
+      "tags": [],
+      "products": [
+        {
+          "name": "Lotus Seed Red Bean Double-Skin Milk Pudding",
+          "store_id": "S80854347985296109_S72541",
+          "store_name": "Yu Pin Sweet Sugar Dessert Shop (Jiangbei Branch, Desserts)",
+          "price": 15.6,
+          "tags": [],
+          "product_id": "S59761435911294633_P74836",
+          "attributes": [
+            "Hot",
+            "Cold"
+          ],
+          "quantity": 9999
+        },
+        {
+          "name": "Red Bean (Extra Topping)",
+          "store_id": "S80854347985296109_S72541",
+          "store_name": "Yu Pin Sweet Sugar Dessert Shop (Jiangbei Branch, Desserts)",
+          "price": 3.6,
+          "tags": [],
+          "product_id": "S15584715623979675_P75038",
+          "attributes": [],
+          "quantity": 9999
+        },
+        {
+          "name": "Mango Red Bean Double-Skin Milk Pudding",
+          "product_id": "S40303440457680726_P39697",
+          "store_id": "S80854347985296109_S72541",
+          "store_name": "Yu Pin Sweet Sugar Dessert Shop (Jiangbei Branch, Desserts)",
+          "price": 13.98,
+          "tags": [],
+          "attributes": [
+            "Hot",
+            "Cold"
+          ],
+          "quantity": 9999
+        },
+        {
+          "name": "Mango Double-Skin Milk Pudding",
+          "product_id": "S19138757162204016_P62635",
+          "store_id": "S80854347985296109_S72541",
+          "store_name": "Yu Pin Sweet Sugar Dessert Shop (Jiangbei Branch, Desserts)",
+          "price": 12.8,
+          "tags": [],
+          "attributes": [
+            "Cold",
+            "Hot"
+          ],
+          "quantity": 9999
+        }
+      ]
+    },
+    "S11830933639824558_S97829": {
+      "name": "Pang Geliang Meat Crab Pot (Huizhou Longsheng Jinshan Lake Center Branch)",
+      "store_id": "S11830933639824558_S97829",
+      "score": 4.8,
+      "location": {
+        "address": "No. 32 Sanhuan South Road, Huicheng District, Huizhou City, Guangdong Province, Longsheng Jinshan Lake Center L5-13/14, Pang Geliang Meat Crab Pot (Huizhou Longsheng Jinshan Lake Center Branch)",
+        "latitude": 23.055521,
+        "longitude": 114.443775
+      },
+      "tags": [],
+      "products": [
+        {
+          "name": "Meat Crab Pot",
+          "store_id": "S11830933639824558_S97829",
+          "store_name": "Pang Geliang Meat Crab Pot (Huizhou Longsheng Jinshan Lake Center Branch)",
+          "price": 188.0,
+          "tags": [],
+          "product_id": "S29049403220872394_P92994",
+          "attributes": [
+            "Not Spicy",
+            "Mild",
+            "Medium",
+            "Extra Spicy"
+          ],
+          "quantity": 9999
+        },
+        {
+          "name": "Shrimp and Crab Pot",
+          "product_id": "S45224190072519762_P28252",
+          "store_id": "S11830933639824558_S97829",
+          "store_name": "Pang Geliang Meat Crab Pot (Huizhou Longsheng Jinshan Lake Center Branch)",
+          "price": 188,
+          "tags": [],
+          "attributes": [
+            "Not Spicy",
+            "Mild",
+            "Medium",
+            "Extra Spicy"
+          ],
+          "quantity": 9999
+        }
+      ]
+    },
+    "S20837200527143791_S31535": {
+      "name": "Zhang Ji Meat Crab Pot (Shrimp & Chicken Feet Pot)",
+      "store_id": "S20837200527143791_S31535",
+      "score": 4.3,
+      "location": {
+        "address": "Ninth Street, Huxi Avenue, Huicheng District, Huizhou City, Guangdong Province",
+        "latitude": 23.088724,
+        "longitude": 114.452638
+      },
+      "tags": [],
+      "products": [
+        {
+          "name": "Shrimp and Crab Pot (Rice Not Included)",
+          "product_id": "S30419435112795678_P53519",
+          "store_id": "S20837200527143791_S31535",
+          "store_name": "Zhang Ji Meat Crab Pot (Shrimp & Chicken Feet Pot)",
+          "price": 56.35,
+          "tags": [],
+          "attributes": [
+            "Mild",
+            "Medium",
+            "Extra Spicy",
+            "Not Spicy"
+          ],
+          "quantity": 9999
+        }
+      ]
+    }
+  },
+  "orders": {}
+}

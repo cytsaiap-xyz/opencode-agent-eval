@@ -1,0 +1,46 @@
+{
+  "task_id": "111",
+  "query": "I'm planning a trip from Wuhan to Hangzhou on November 12, 2025, and returning on November 18. I'd like you to help me plan the entire itinerary, including transportation, accommodation, dining, and sightseeing.\n\nRegarding transportation, I’d like to take a flight for the outbound journey, as early as possible—ideally the first available direct flight—to maximize my time in Hangzhou upon arrival. For the return trip, there's no need to depart particularly early; just a convenient and suitable time will be fine.\n\nFor accommodation, I’d like to book a hotel that has been recently renovated, preferably one that was refurbished after 2025, as it will likely offer greater comfort. By the way, we are a group of four people, so I’ll need two rooms—please arrange that accordingly.\n\nThere are also a few specific dining spots I really want to try. For example, I’ve heard the food at 'Feng Yue Oriental Cuisine' is exceptional, so I definitely want to include a meal there during this trip. Additionally, while visiting the 'Zhejiang Museum of Natural History', could you please recommend a restaurant ranked in the top 10 on the “Must-Eat List”? I’d like to experience some of the most highly acclaimed local cuisine.\n\nThat covers everything—I believe I've provided all necessary details. Please go ahead and start planning my itinerary without needing to ask me further questions. Thank you! November 12, 2025 is Wednesday",
+  "meta_info": {
+    "org": "Wuhan",
+    "dest": [
+      "Hangzhou"
+    ],
+    "days": 7,
+    "depart_date": "2025-11-12",
+    "return_date": "2025-11-18",
+    "people_number": 4,
+    "room_number": 2
+  },
+  "hard_constraints": {
+    "flight_earliest_departure_direct": {
+      "constraint_context": "Prefer to take a flight for the outbound journey, and need to select the earliest departing direct flight",
+      "constraint_type": "superlative_earliest_departure",
+      "outbound_flight_no": "MU2531"
+    },
+    "hotel_newest_decoration": {
+      "constraint_context": "Please select hotels that were renovated in 2025 or later for accommodation",
+      "constraint_type": "superlative_newest_decoration",
+      "hotel_name": "Jinjiang Inn (Hangzhou West Lake Cultural Square Metro Station Hotel)",
+      "hotel_price": 371.0,
+      "hotel_score": 4.6,
+      "decoration_time": 2025,
+      "year_threshold": 2025
+    },
+    "restaurant_specific_tag_nearby": {
+      "constraint_context": "Arrange a meal at a restaurant near 'Zhejiang Museum of Natural History' during the trip, must be from the Top 10 on the \"Must-Eat\" list with excellent service.",
+      "constraint_type": "superlative_specific_tag_nearby",
+      "attraction_name": "Zhejiang Museum of Natural History",
+      "restaurant_name": "Pizza Marzano Italian Restaurant (West Lake Cultural Plaza Branch)",
+      "required_tag": "Must-Eat Top 10",
+      "price_per_person": 69.0,
+      "restaurant_rating": 4.3
+    },
+    "restaurant_must_eat_named": {
+      "constraint_context": "The itinerary must include one meal at 'Feng Yue Oriental Cuisine'.",
+      "constraint_type": "superlative_must_eat_named",
+      "restaurant_name": "Feng Yue Oriental Cuisine",
+      "restaurant_rating": 4.5
+    }
+  }
+}

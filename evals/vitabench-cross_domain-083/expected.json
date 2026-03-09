@@ -1,0 +1,187 @@
+{
+  "required_orders": [
+    {
+      "order_id": "10811015T001",
+      "order_type": "instore",
+      "user_id": "U788616",
+      "store_id": "S17550808037869920_I00015",
+      "note": "",
+      "location": null,
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 1292,
+      "create_time": "2025-07-02 19:40:25",
+      "update_time": "2025-07-02 19:40:25",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17550808037869920_P00145",
+          "price": 348,
+          "quantity": 1,
+          "name": "\"Dark Haunted House\" escape room theme (4-6 people)",
+          "shop_id": "S17550808037869920_I00015",
+          "tags": [
+            "Mystery Deduction",
+            "Horror",
+            "Team Collaboration",
+            "Difficulty ★★★★☆"
+          ]
+        },
+        {
+          "product_id": "S17550808037869920_P00146",
+          "price": 348,
+          "quantity": 1,
+          "name": "\"Fatal Files\" escape room theme (3-5 people)",
+          "shop_id": "S17550808037869920_I00015",
+          "tags": [
+            "Mystery Deduction",
+            "Detective",
+            "Puzzle Solving",
+            "Difficulty ★★★★"
+          ]
+        },
+        {
+          "product_id": "S17550808037869920_P00148",
+          "price": 338,
+          "quantity": 1,
+          "name": "\"Mystery City Chronicles\" escape room theme (3-5 people)",
+          "shop_id": "S17550808037869920_I00015",
+          "tags": [
+            "Mystery Deduction",
+            "Republic of China Style",
+            "Puzzle Solving",
+            "Difficulty ★★★☆"
+          ]
+        },
+        {
+          "product_id": "S17550808037869920_P00149",
+          "price": 258,
+          "quantity": 1,
+          "name": "\"Deep Sea Laboratory\" escape room theme (2-4 people)",
+          "shop_id": "S17550808037869920_I00015",
+          "tags": [
+            "Science Fiction",
+            "Mystery Deduction",
+            "High-Tech",
+            "Difficulty ★★★★★"
+          ]
+        }
+      ]
+    },
+    {
+      "order_id": "10811015T002",
+      "order_type": "delivery",
+      "user_id": "U788616",
+      "store_id": "S17550808037869920_S00001",
+      "note": "",
+      "location": {
+        "address": "Mystery City Escape Room, 10 Financial First Street, Taihu New City, Binhu District, Wuxi, Jiangsu Province",
+        "longitude": 120.295678,
+        "latitude": 31.535642
+      },
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 1039,
+      "create_time": "2025-07-02 19:43:05",
+      "update_time": "2025-07-02 19:43:05",
+      "status": "unpaid",
+      "products": [
+        {
+          "product_id": "S17550808037869920_P00009",
+          "price": 94,
+          "quantity": 1,
+          "name": "Honey Sauce Fried Chicken Bucket",
+          "attributes": ""
+        },
+        {
+          "product_id": "S17550808037869920_P00008",
+          "price": 93,
+          "quantity": 1,
+          "name": "Black Pepper Fried Chicken Bucket",
+          "attributes": ""
+        },
+        {
+          "product_id": "S17550808037869920_P00005",
+          "price": 89,
+          "quantity": 1,
+          "name": "Original Fried Chicken Bucket",
+          "attributes": ""
+        },
+        {
+          "product_id": "S17550808037869920_P00006",
+          "price": 95,
+          "quantity": 1,
+          "name": "McSpicy Fried Chicken Bucket",
+          "attributes": ""
+        },
+        {
+          "product_id": "S17550808037869920_P00007",
+          "price": 92,
+          "quantity": 1,
+          "name": "Spicy Fried Chicken Bucket",
+          "attributes": ""
+        },
+        {
+          "product_id": "S17550808037869920_P00001",
+          "price": 22,
+          "quantity": 18,
+          "name": "Grilled Chicken Burger",
+          "attributes": ""
+        },
+        {
+          "product_id": "S17550808037869920_P00003",
+          "price": 10,
+          "quantity": 18,
+          "name": "Cola (Large)",
+          "attributes": ""
+        }
+      ]
+    },
+    {
+      "order_id": "10811015T003",
+      "order_type": "train",
+      "user_id": "U788616",
+      "store_id": "S17550808037869920_T00006",
+      "note": "",
+      "location": null,
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 122.5,
+      "create_time": "2025-07-02 19:47:57",
+      "update_time": "2025-07-02 19:47:57",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17550808037869920_P00065",
+          "price": 122.5,
+          "quantity": 1,
+          "date": "2025-07-05",
+          "seat_type": "Business Class Seat"
+        }
+      ]
+    }
+  ],
+  "rubrics": [
+    "The in-store merchant is for escape rooms",
+    "The in-store merchant orders are mystery deduction type",
+    "The in-store merchant orders must include at least four themes of escape rooms",
+    "The in-store merchant orders must accommodate 18 people",
+    "The in-store merchant orders should be \"Dark Night Mansion\" Escape Room Theme (4-6 People) + \"Fatal Files\" Escape Room Theme (3-5 People) + \"Mystery City Stories\" Escape Room Theme (3-5 People) + \"Deep Sea Laboratory\" Escape Room Theme (2-4 People)",
+    "The delivery order must include fried chicken",
+    "The quantity of fried chicken in the delivery order is 5",
+    "The delivery order's fried chicken items should be of different flavors",
+    "The delivery order must include burgers",
+    "The quantity of burgers in the delivery order is 18",
+    "The delivery order must include cola",
+    "The quantity of colas in the delivery order must be 18",
+    "The delivery order's fried chicken, burgers, and cola must come from the same store",
+    "The delivery order's fried chicken, burgers, and cola cannot come from Wallace",
+    "The delivery address must be Mystery City Escape Room, 10 Financial First Street, Taihu New City, Binhu District, Wuxi, Jiangsu Province",
+    "The delivery order's expected delivery time is 21:00 on July 4, 2025",
+    "Need to check the weather in Shanghai and Wuxi on July 5, 2025, and the result shows that it won't be rainy. Therefore, a high-speed rail ticket should be ordered for around 10:00 AM on July 5, that is, the final train departure time should be between 9:45 AM and 10:15 AM]",
+    "The train ticket should be from Wuxi to Shanghai"
+  ]
+}

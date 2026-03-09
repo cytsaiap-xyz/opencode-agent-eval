@@ -1,0 +1,997 @@
+{
+  "task_id": "10811004",
+  "domain": "cross_domain",
+  "time": "2025-01-07 18:30:00",
+  "user_id": "U747738",
+  "weather": [
+    {
+      "city": "Baoding",
+      "category": "cloudy",
+      "datetime": "2025-01-07",
+      "temperature": [
+        -5,
+        3
+      ],
+      "humidity": 45
+    },
+    {
+      "city": "Shijiazhuang",
+      "category": "sunny",
+      "datetime": "2025-01-07",
+      "temperature": [
+        -4,
+        4
+      ],
+      "humidity": 42
+    }
+  ],
+  "location": [],
+  "user_profile": {
+    "user id": "U747738",
+    "occupation": "Blue-collar worker",
+    "gender": "female",
+    "age group": "25~30",
+    "residence": "Baoding",
+    "Permanent address": "Room 502, Building 3, Jinxin Community, 198 Dongfeng West Road, Lianchi District, Baoding, Hebei Province",
+    "work address": "Baoding Garment Factory, 88 Chuangye Road, High-tech District, Baoding, Hebei Province",
+    "dietary restrictions": "Avoids greasy and spicy food, avoids high-salt food",
+    "family status": "Lives with elderly family members",
+    "personality": "Prone to anxiety and worry, needs repeated confirmation to feel at ease"
+  },
+  "user_historical_behaviors": {
+    "user id": "U747738",
+    "occupation": "Blue-collar Worker",
+    "gender": "female",
+    "age group": "25~30",
+    "residence": "Baoding",
+    "Permanent address": "Room 502, Building 3, Jinxin Community, 198 Dongfeng West Road, Lianchi District, Baoding, Hebei Province",
+    "work address": "Baoding Garment Factory, 88 Chuangye Road, High-tech District, Baoding, Hebei Province",
+    "delivery": {
+      "food delivery": {
+        "breakfast": {
+          "frequently purchased categories": [
+            "Simple Meal Fast Food/Steamed Buns/Pan-fried Buns (Average 15 yuan)",
+            "Simple Meal Fast Food/Jianbing/Wraps/Shouzhuabing (Average 12 yuan)",
+            "Simple Meal Fast Food/Spicy Soup (Average 10 yuan)"
+          ],
+          "cost per order": "10~25 yuan",
+          "preferred store rating": "4.2~4.8 points",
+          "preferred delivery time": "15~30 minutes",
+          "preferred distance": "0~2500m",
+          "recent orders": [
+            {
+              "store": "Lao Wu Bun Shop",
+              "product": "Meat Bun + Soy Milk Set"
+            },
+            {
+              "store": "Zhang's Jianbing",
+              "product": "Original Jianbing"
+            },
+            {
+              "store": "Lao Ma Spicy Soup",
+              "product": "Spicy Soup + Xiaolongbao"
+            }
+          ],
+          "search history": [
+            "Steamed Buns",
+            "Jianbing",
+            "Spicy Soup",
+            "Soy Milk",
+            "Breakfast"
+          ]
+        },
+        "weekday lunch/dinner": {
+          "frequently purchased categories": [
+            "Simple Meal Fast Food/Braised Chicken Rice (Average 25 yuan)",
+            "Simple Meal Fast Food/Chinese Noodles (Average 22 yuan)",
+            "Chinese Cuisine/Northeast Cuisine (Average 35 yuan)"
+          ],
+          "cost per order": "20~45 yuan",
+          "preferred store rating": "4.0~4.6 points",
+          "preferred delivery time": "25~40 minutes",
+          "preferred distance": "0~3500m",
+          "recent orders": [
+            {
+              "store": "Yang Mingyu Braised Chicken",
+              "product": "Mild Spicy Braised Chicken Rice"
+            },
+            {
+              "store": "Lanzhou Noodles",
+              "product": "Beef Noodles"
+            },
+            {
+              "store": "Northeast Home-style Cuisine",
+              "product": "Sweet and Sour Pork + Rice"
+            }
+          ],
+          "search history": [
+            "Braised Chicken",
+            "Noodles",
+            "Fast Food",
+            "Home-style Cuisine",
+            "Sweet and Sour Pork"
+          ]
+        },
+        "weekend lunch/dinner": {
+          "frequently purchased categories": [
+            "Chinese Cuisine/Crayfish (Average 80 yuan)",
+            "Hot Pot/Sichuan Hot Pot (Average 90 yuan)",
+            "Chinese Cuisine/Grilled Fish (Average 75 yuan)"
+          ],
+          "cost per order": "65~150 yuan",
+          "preferred store rating": "4.3~4.9 points",
+          "preferred delivery time": "30~50 minutes",
+          "preferred distance": "0~5000m",
+          "recent orders": [
+            {
+              "store": "Sichuan Spicy Crayfish",
+              "product": "Spicy Crayfish (Medium Portion)"
+            },
+            {
+              "store": "Traditional Sichuan Hot Pot",
+              "product": "Half Spicy Half Non-spicy Pot + Beef Platter"
+            },
+            {
+              "store": "Riverside Grilled Fish",
+              "product": "Spicy Grilled Fish"
+            }
+          ],
+          "search history": [
+            "Crayfish",
+            "Hot Pot",
+            "Grilled Fish",
+            "Sichuan Cuisine",
+            "Couple's Set"
+          ]
+        },
+        "desserts/drinks/snacks": {
+          "frequently purchased categories": [
+            "desserts/drinks/snacks/Milk Tea (Average 20 yuan)",
+            "desserts/drinks/snacks/Fruit Salad (Average 28 yuan)",
+            "desserts/drinks/snacks/Cold Desserts (Average 18 yuan)"
+          ],
+          "cost per order": "15~35 yuan",
+          "preferred store rating": "4.4~4.8 points",
+          "preferred delivery time": "15~30 minutes",
+          "preferred distance": "0~3000m",
+          "recent orders": [
+            {
+              "store": "Yidiandian Milk Tea",
+              "product": "Pearl Milk Tea (No Ice)"
+            },
+            {
+              "store": "Fresh Fruit Salad",
+              "product": "Colorful Fruit Salad"
+            },
+            {
+              "store": "Sweet Desserts",
+              "product": "Mango Pomelo Sago"
+            }
+          ],
+          "search history": [
+            "Milk Tea",
+            "Fruit Salad",
+            "Desserts",
+            "Mango Pomelo Sago",
+            "Low Sugar"
+          ]
+        },
+        "night snack": {
+          "frequently purchased categories": [
+            "Simple Meal Fast Food/Dumplings/Wonton (Average 30 yuan)",
+            "Simple Meal Fast Food/Rice Noodles/Rice Vermicelli (Average 28 yuan)",
+            "Snacks and Braised Food/Braised Items (Average 32 yuan)"
+          ],
+          "cost per order": "25~45 yuan",
+          "preferred store rating": "4.0~4.7 points",
+          "preferred delivery time": "20~40 minutes",
+          "preferred distance": "0~3000m",
+          "recent orders": [
+            {
+              "store": "Wang's Dumpling House",
+              "product": "Three Delicacies Dumplings"
+            },
+            {
+              "store": "Yunnan Crossing Bridge Rice Noodles",
+              "product": "Signature Rice Noodles"
+            },
+            {
+              "store": "Traditional Braised Food",
+              "product": "Braised Duck Neck + Braised Tofu"
+            }
+          ],
+          "search history": [
+            "Dumplings",
+            "Rice Noodles",
+            "Braised Food",
+            "Night Snack",
+            "Non-spicy"
+          ]
+        }
+      },
+      "product delivery": {
+        "frequently purchased categories": [
+          "Vegetables/Tofu Products(32%)",
+          "Raw Meat/Poultry/Eggs(24%)",
+          "Grain/Oil/Seasonings/Dry Goods(15%)",
+          "Household Items(12%)",
+          "Beverages/Nutritional Drinks(10%)",
+          "Others(7%)"
+        ],
+        "frequently visited stores": [
+          "Carrefour Express(Baoding Dongfeng Road Store)(45%)",
+          "Duoduo Grocery(Baoding West Station Store)(30%)",
+          "FamilyMart(Baoding Passenger Center Store)(15%)",
+          "Other Stores(10%)"
+        ],
+        "cost per order by category": {
+          "Vegetables/Tofu Products": "5~20 yuan",
+          "Raw Meat/Poultry/Eggs": "20~60 yuan",
+          "Grain/Oil/Seasonings/Dry Goods": "10~40 yuan",
+          "Household Items": "15~50 yuan",
+          "Beverages/Nutritional Drinks": "5~25 yuan"
+        },
+        "preferred delivery time": "25~60 minutes",
+        "typical order time": "17~19(40%), 8~10(30%), 20~22(20%)",
+        "recent orders": [
+          {
+            "store": "Carrefour Express(Baoding Dongfeng Road Store)",
+            "product": "One bag of greens, two boxes of tofu, one box of eggs"
+          },
+          {
+            "store": "Duoduo Grocery(Baoding West Station Store)",
+            "product": "300g lean meat, 500g potatoes, two carrots"
+          },
+          {
+            "store": "Carrefour Express(Baoding Dongfeng Road Store)",
+            "product": "5kg rice, 1L cooking oil, one bag of salt"
+          }
+        ],
+        "search history": [
+          "Tofu",
+          "Low Fat Meat",
+          "Rice",
+          "Vegetables",
+          "Laundry Detergent",
+          "Mineral Water"
+        ]
+      }
+    },
+    "in-store consumption": {
+      "in-store dining": {
+        "fine-dining": {
+          "frequently purchased categories": [
+            "Regional Cuisine/Beijing Cuisine (Average 85 yuan)",
+            "Regional Cuisine/Seafood (Average 95 yuan)",
+            "Regional Cuisine/Specialty Dishes (Average 78 yuan)"
+          ],
+          "preferred average price per person": "75~100 yuan",
+          "preferred store rating": "4.0~4.5 stars",
+          "typical dining time": "17:30-19:00",
+          "preferred distance": "500~2000m",
+          "recent orders": [
+            {
+              "store": "Old Beijing Hotpot",
+              "product": "Premium Lamb Hotpot Set"
+            },
+            {
+              "store": "Fish Paradise",
+              "product": "Steamed Sea Bass"
+            },
+            {
+              "store": "Baoding House",
+              "product": "South Hebei Family Feast"
+            }
+          ],
+          "search history": [
+            "Non-spicy Home-style Cuisine",
+            "Nutritious Fish Soup",
+            "Low-salt Restaurant"
+          ]
+        },
+        "light meal": {
+          "frequently purchased categories": [
+            "Fast Food/Chinese Quick Meal (Average 25 yuan)",
+            "Regional Cuisine/Northeast Cuisine (Average 32 yuan)"
+          ],
+          "preferred average price per person": "20~35 yuan",
+          "preferred store rating": "3.5~4.2 stars",
+          "typical dining time": "11:30-12:30",
+          "preferred distance": "0~500m",
+          "recent orders": [
+            {
+              "store": "Northeast Dumpling House",
+              "product": "Three Delicacies Water Dumplings"
+            },
+            {
+              "store": "Master Kong Noodle Shop",
+              "product": "Clear Soup Noodles"
+            },
+            {
+              "store": "Home-style Fast Food",
+              "product": "Steamed Chicken Set"
+            }
+          ],
+          "search history": [
+            "Work Meal",
+            "Non-spicy Fast Food",
+            "Healthy Quick Meal"
+          ]
+        },
+        "desserts/drinks/snacks": {
+          "frequently purchased categories": [
+            "Beverage Shops (Average 12 yuan)",
+            "Bread and Desserts (Average 18 yuan)"
+          ],
+          "preferred average price per person": "10~20 yuan",
+          "preferred store rating": "3.8~4.5 stars",
+          "typical dining time": "15:00-16:30",
+          "preferred distance": "0~300m",
+          "recent orders": [
+            {
+              "store": "Yidiandian",
+              "product": "Sugar-free Oolong Tea"
+            },
+            {
+              "store": "Bread Talk",
+              "product": "Whole Wheat Bread"
+            },
+            {
+              "store": "Fresh Fruit Workshop",
+              "product": "Fruit Platter"
+            }
+          ],
+          "search history": [
+            "Sugar-free Drinks",
+            "Healthy Desserts",
+            "Fruit Tea"
+          ]
+        }
+      },
+      "other in-store services": {
+        "frequently consumed categories": {
+          "Beauty/Hair Salon": "30%",
+          "Entertainment/Massage/Foot Therapy": "40%",
+          "Fitness/Fitness Centers": "20%",
+          "Parent-Child/Family Entertainment": "10%"
+        },
+        "cost per order by category": {
+          "Beauty/Hair Salon": "60~120 yuan",
+          "Entertainment/Massage/Foot Therapy": "80~150 yuan",
+          "Fitness/Fitness Centers": "30~80 yuan",
+          "Parent-Child/Family Entertainment": "50~100 yuan"
+        },
+        "preferred store rating": "3.9~4.6 stars",
+        "preferred service time": "19:00-21:00",
+        "preferred distance": "0~3000m",
+        "recent orders": [
+          {
+            "store": "Zufutang",
+            "product": "Chinese Foot Massage 60 minutes"
+          },
+          {
+            "store": "Hair Art House",
+            "product": "Wash, Cut and Blow-dry Package"
+          },
+          {
+            "store": "Happy Motion Fitness",
+            "product": "Weekend Single Experience"
+          }
+        ],
+        "search history": [
+          "Elderly Massage",
+          "Nearby Hair Salon",
+          "Parent-Child Activities"
+        ]
+      }
+    },
+    "OTA": {
+      "visited scenes": {
+        "Historical Sites": "35%",
+        "Natural Landscapes (Mountains/Lakes/Forests)": "25%",
+        "Parks": "20%",
+        "Special Villages/Industrial Tourism/Uncategorized Projects": "15%",
+        "Exhibition Halls (Museums/Art Galleries)": "5%"
+      },
+      "cost per night on hotel": "300~500 yuan",
+      "visited hotels": {
+        "Home Inn": "35%",
+        "Hanting": "30%",
+        "7 Days": "15%",
+        "Jinjiang Inn": "10%",
+        "GreenTree Inn": "10%"
+      },
+      "browsed hotels": {
+        "Three-star Hotels": "40%",
+        "Budget Hotels": "35%",
+        "Comfort Hotels": "25%"
+      },
+      "historical travel plans": {
+        "Baoding-Beijing": {
+          "Price range": "50-100 yuan",
+          "Transportation method": "High-speed Rail"
+        },
+        "Baoding-Shijiazhuang": {
+          "Price range": "40-80 yuan",
+          "Transportation method": "High-speed Rail"
+        },
+        "Baoding-Tianjin": {
+          "Price range": "60-120 yuan",
+          "Transportation method": "High-speed Rail"
+        },
+        "Baoding-Chengde": {
+          "Price range": "100-200 yuan",
+          "Transportation method": "Long-distance Bus"
+        },
+        "Baoding-Qinhuangdao": {
+          "Price range": "150-250 yuan",
+          "Transportation method": "Long-distance Bus"
+        },
+        "Beijing-Baoding": {
+          "Price range": "50-100 yuan",
+          "Transportation method": "High-speed Rail"
+        },
+        "Shijiazhuang-Baoding": {
+          "Price range": "40-80 yuan",
+          "Transportation method": "High-speed Rail"
+        },
+        "Tianjin-Baoding": {
+          "Price range": "60-120 yuan",
+          "Transportation method": "High-speed Rail"
+        }
+      }
+    }
+  },
+  "stores": {
+    "S17550807132085573_S00001": {
+      "name": "Fitness Nutrition Expert",
+      "store_id": "S17550807132085573_S00001",
+      "score": 4.8,
+      "location": {
+        "address": "Fitness Nutrition Expert, No.56 Jianling New Village, 126 Jianhua South Street, Yuhua District, Shijiazhuang, Hebei Province",
+        "latitude": 38.026839,
+        "longitude": 114.548622
+      },
+      "tags": [
+        "Fitness Nutrition",
+        "Protein Powder",
+        "Sports Supplement"
+      ],
+      "store_type": "target",
+      "products": [
+        {
+          "name": "Premium Whey Protein Powder (Vanilla Flavor)",
+          "store_id": "S17550807132085573_S00001",
+          "store_name": "Fitness Nutrition Expert",
+          "price": 269,
+          "tags": [
+            "Muscle Gain",
+            "Fitness Essential",
+            "High Protein",
+            "907g/tub"
+          ],
+          "product_id": "S17550807132085573_P00001",
+          "attributes": [],
+          "product_type": "target"
+        },
+        {
+          "name": "BCAA Branched-Chain Amino Acid Powder",
+          "store_id": "S17550807132085573_S00001",
+          "store_name": "Fitness Nutrition Expert",
+          "price": 189,
+          "tags": [
+            "Anti-fatigue",
+            "Muscle Recovery",
+            "300g/can"
+          ],
+          "product_id": "S17550807132085573_P00002",
+          "attributes": [
+            "Lemon Flavor"
+          ],
+          "product_type": "target"
+        },
+        {
+          "name": "Post-workout Recovery Drink (1 Pack)",
+          "store_id": "S17550807132085573_S00001",
+          "store_name": "Fitness Nutrition Expert",
+          "price": 89,
+          "tags": [
+            "Electrolyte Supplement",
+            "Quick Recovery",
+            "Fitness"
+          ],
+          "product_id": "S17550807132085573_P00003",
+          "attributes": [],
+          "product_type": "target"
+        },
+        {
+          "name": "Strawberry Flavor Whey Protein Powder (Small Package)",
+          "store_id": "S17550807132085573_S00001",
+          "store_name": "Fitness Nutrition Expert",
+          "price": 99,
+          "tags": [
+            "Whey Protein",
+            "Small Package",
+            "Strawberry Flavor",
+            "Fitness",
+            "Muscle Gain",
+            "250g/bag"
+          ],
+          "product_id": "S17550807132085573_P00004",
+          "attributes": [
+            "250g/bag",
+            "Strawberry Flavor"
+          ],
+          "product_type": "distraction"
+        },
+        {
+          "name": "Comprehensive Amino Acid Tablets",
+          "store_id": "S17550807132085573_S00001",
+          "store_name": "Fitness Nutrition Expert",
+          "price": 159,
+          "tags": [
+            "Amino Acid",
+            "Tablet",
+            "Energy Replenishment",
+            "Fitness",
+            "90 tablets/bottle"
+          ],
+          "product_id": "S17550807132085573_P00005",
+          "attributes": [
+            "90 tablets/bottle"
+          ],
+          "product_type": "distraction"
+        },
+        {
+          "name": "Energy Supplement Capsule",
+          "store_id": "S17550807132085573_S00001",
+          "store_name": "Fitness Nutrition Expert",
+          "price": 128,
+          "tags": [
+            "Energy Supplement",
+            "Endurance Enhancement",
+            "Fitness",
+            "Exercise",
+            "60 capsules/bottle"
+          ],
+          "product_id": "S17550807132085573_P00006",
+          "attributes": [
+            "60 capsules/bottle"
+          ],
+          "product_type": "distraction"
+        },
+        {
+          "name": "Chocolate Flavor Muscle Gain Protein Powder",
+          "store_id": "S17550807132085573_S00001",
+          "store_name": "Fitness Nutrition Expert",
+          "price": 289,
+          "tags": [
+            "Muscle Gain",
+            "Chocolate Flavor",
+            "High Protein",
+            "Fitness",
+            "1kg/bucket"
+          ],
+          "product_id": "S17550807132085573_P00007",
+          "attributes": [
+            "1kg/bucket",
+            "Chocolate Flavor"
+          ],
+          "product_type": "distraction"
+        }
+      ]
+    },
+    "S17550807132085573_S00002": {
+      "name": "Sports Nutrition Factory",
+      "store_id": "S17550807132085573_S00002",
+      "score": 4.7,
+      "location": {
+        "address": "Sports Nutrition Factory, 120 Dongfeng East Road, Lianchi District, Baoding, Hebei Province",
+        "latitude": 38.871,
+        "longitude": 115.492
+      },
+      "tags": [
+        "Fitness Supplement",
+        "Protein Powder",
+        "Amino Acid"
+      ],
+      "store_type": "target",
+      "products": [
+        {
+          "name": "Premium Whey Protein Powder (Vanilla Flavor)",
+          "store_id": "S17550807132085573_S00002",
+          "store_name": "Sports Nutrition Factory",
+          "price": 259,
+          "tags": [
+            "Fitness Supplement",
+            "Muscle Gain",
+            "Suitable for Beginners",
+            "Low Fat",
+            "High Protein"
+          ],
+          "product_id": "S17550807132085573_P00008",
+          "attributes": [],
+          "product_type": "target"
+        },
+        {
+          "name": "BCAA Branched-Chain Amino Acid Powder",
+          "store_id": "S17550807132085573_S00002",
+          "store_name": "Sports Nutrition Factory",
+          "price": 129,
+          "tags": [
+            "Exercise Recovery",
+            "Anti-fatigue",
+            "Muscle Gain",
+            "Fitness Supplement"
+          ],
+          "product_id": "S17550807132085573_P00009",
+          "attributes": [],
+          "product_type": "target"
+        },
+        {
+          "name": "Post-workout Recovery Drink",
+          "store_id": "S17550807132085573_S00002",
+          "store_name": "Sports Nutrition Factory",
+          "price": 35,
+          "tags": [
+            "Electrolyte Supplement",
+            "Quick Recovery",
+            "Fitness",
+            "Hydration"
+          ],
+          "product_id": "S17550807132085573_P00010",
+          "attributes": [],
+          "product_type": "target"
+        },
+        {
+          "name": "Muscle Gain Protein Powder (Chocolate Flavor)",
+          "store_id": "S17550807132085573_S00002",
+          "store_name": "Sports Nutrition Factory",
+          "price": 289,
+          "tags": [
+            "Fitness Supplement",
+            "Professional Grade"
+          ],
+          "product_id": "S17550807132085573_P00011",
+          "attributes": [
+            "Chocolate Flavor",
+            "1000g/tub",
+            "30g/scoop content"
+          ],
+          "product_type": "distraction"
+        },
+        {
+          "name": "Energy Gel",
+          "store_id": "S17550807132085573_S00002",
+          "store_name": "Sports Nutrition Factory",
+          "price": 15,
+          "tags": [
+            "Energy Supplement",
+            "Sports Supply",
+            "Portable",
+            "Fast-acting"
+          ],
+          "product_id": "S17550807132085573_P00012",
+          "attributes": [
+            "Strawberry Flavor",
+            "45g/pack"
+          ],
+          "product_type": "distraction"
+        },
+        {
+          "name": "Sports Nutrition Bar",
+          "store_id": "S17550807132085573_S00002",
+          "store_name": "Sports Nutrition Factory",
+          "price": 12,
+          "tags": [
+            "Protein Bar",
+            "Low Sugar",
+            "Meal Replacement",
+            "Fitness Snack"
+          ],
+          "product_id": "S17550807132085573_P00013",
+          "attributes": [
+            "Peanut Flavor",
+            "60g/bar"
+          ],
+          "product_type": "distraction"
+        },
+        {
+          "name": "Fruit Flavored Protein Shake",
+          "store_id": "S17550807132085573_S00002",
+          "store_name": "Sports Nutrition Factory",
+          "price": 25,
+          "tags": [
+            "Ready-to-drink",
+            "Low Fat",
+            "Protein Replenishment",
+            "Portable"
+          ],
+          "product_id": "S17550807132085573_P00014",
+          "attributes": [
+            "Peach Flavor",
+            "330ml/bottle"
+          ],
+          "product_type": "distraction"
+        }
+      ]
+    },
+    "S17550807132085573_S00003": {
+      "name": "Braised Chicken Rice",
+      "store_id": "S17550807132085573_S00003",
+      "score": 4.3,
+      "location": {
+        "address": "Braised Chicken Rice, 210 Dongfeng West Road, Lianchi District, Baoding, Hebei Province",
+        "latitude": 38.874,
+        "longitude": 115.483
+      },
+      "tags": [
+        "Simple Meal Fast Food",
+        "Rice",
+        "Braised Chicken"
+      ],
+      "store_type": "distraction",
+      "products": [
+        {
+          "name": "Mild Spicy Braised Chicken Rice",
+          "store_id": "S17550807132085573_S00003",
+          "store_name": "Braised Chicken Rice",
+          "price": 25,
+          "tags": [
+            "Signature",
+            "Mild Spicy",
+            "Home-style Cuisine",
+            "Best-selling"
+          ],
+          "product_id": "S17550807132085573_P00015",
+          "attributes": [
+            "Mild Spicy",
+            "Standard Portion",
+            "Add Cilantro",
+            "No Cilantro"
+          ],
+          "product_type": "distraction"
+        },
+        {
+          "name": "Non-spicy Braised Chicken Rice",
+          "store_id": "S17550807132085573_S00003",
+          "store_name": "Braised Chicken Rice",
+          "price": 25,
+          "tags": [
+            "Light Flavor",
+            "Non-spicy",
+            "Home-style Cuisine"
+          ],
+          "product_id": "S17550807132085573_P00016",
+          "attributes": [
+            "Non-spicy",
+            "Standard Portion",
+            "Add Cilantro",
+            "No Cilantro"
+          ],
+          "product_type": "distraction"
+        },
+        {
+          "name": "Nutritional Protein Porridge",
+          "store_id": "S17550807132085573_S00003",
+          "store_name": "Braised Chicken Rice",
+          "price": 15,
+          "tags": [
+            "Nutrition",
+            "Healthy",
+            "Low Fat",
+            "Protein"
+          ],
+          "product_id": "S17550807132085573_P00017",
+          "attributes": [
+            "Small Bowl",
+            "Large Bowl"
+          ],
+          "product_type": "distraction"
+        },
+        {
+          "name": "Energy Fruit and Vegetable Juice",
+          "store_id": "S17550807132085573_S00003",
+          "store_name": "Braised Chicken Rice",
+          "price": 12,
+          "tags": [
+            "Healthy",
+            "Beverage",
+            "Fruits and Vegetables",
+            "Vitamin"
+          ],
+          "product_id": "S17550807132085573_P00018",
+          "attributes": [
+            "Room Temperature",
+            "Add Ice"
+          ],
+          "product_type": "distraction"
+        },
+        {
+          "name": "Fitness Meal - Chicken Breast Package",
+          "store_id": "S17550807132085573_S00003",
+          "store_name": "Braised Chicken Rice",
+          "price": 32,
+          "tags": [
+            "Fitness",
+            "High Protein",
+            "Low Fat",
+            "Low Carb"
+          ],
+          "product_id": "S17550807132085573_P00019",
+          "attributes": [
+            "Standard Portion",
+            "Extra Portion"
+          ],
+          "product_type": "distraction"
+        }
+      ]
+    },
+    "S17550807132085573_S00004": {
+      "name": "Health Food Specialty Store",
+      "store_id": "S17550807132085573_S00004",
+      "score": 4.5,
+      "location": {
+        "address": "Health Food Specialty Store, 92 Chuangye Road, High-tech District, Baoding, Hebei Province",
+        "latitude": 38.897,
+        "longitude": 115.518
+      },
+      "tags": [
+        "Health Food",
+        "Organic Ingredients",
+        "Fat Loss Meal"
+      ],
+      "store_type": "distraction",
+      "products": [
+        {
+          "name": "Organic Whey Protein Powder (Original Flavor)",
+          "store_id": "S17550807132085573_S00004",
+          "store_name": "Health Food Specialty Store",
+          "price": 128,
+          "tags": [
+            "Health Food",
+            "Protein Supplement",
+            "Healthy Meal Replacement",
+            "Fat Loss"
+          ],
+          "product_id": "S17550807132085573_P00020",
+          "attributes": [
+            "Original Flavor",
+            "500g/tub"
+          ],
+          "product_type": "distraction"
+        },
+        {
+          "name": "Natural Amino Acid Complex Tablets",
+          "store_id": "S17550807132085573_S00004",
+          "store_name": "Health Food Specialty Store",
+          "price": 89.9,
+          "tags": [
+            "Amino Acid Supplement",
+            "Healthy Nutrition",
+            "Muscle Gain",
+            "Exercise Recovery"
+          ],
+          "product_id": "S17550807132085573_P00021",
+          "attributes": [
+            "60 tablets/bottle"
+          ],
+          "product_type": "distraction"
+        },
+        {
+          "name": "Coconut Water Sports Drink",
+          "store_id": "S17550807132085573_S00004",
+          "store_name": "Health Food Specialty Store",
+          "price": 15.9,
+          "tags": [
+            "Natural Beverage",
+            "Electrolyte Supplement",
+            "Sports Beverage"
+          ],
+          "product_id": "S17550807132085573_P00022",
+          "attributes": [
+            "500ml/bottle",
+            "Original Flavor"
+          ],
+          "product_type": "distraction"
+        },
+        {
+          "name": "Fat Loss Meal Replacement Powder",
+          "store_id": "S17550807132085573_S00004",
+          "store_name": "Health Food Specialty Store",
+          "price": 108,
+          "tags": [
+            "Meal Replacement Powder",
+            "Low Calorie",
+            "Satiety",
+            "Weight Loss"
+          ],
+          "product_id": "S17550807132085573_P00023",
+          "attributes": [
+            "Strawberry Flavor",
+            "14 bags/box"
+          ],
+          "product_type": "distraction"
+        },
+        {
+          "name": "Organic Oatmeal Energy Bar",
+          "store_id": "S17550807132085573_S00004",
+          "store_name": "Health Food Specialty Store",
+          "price": 35.9,
+          "tags": [
+            "Energy Supplement",
+            "Organic Oatmeal",
+            "Low Sugar",
+            "Portable Snack"
+          ],
+          "product_id": "S17550807132085573_P00024",
+          "attributes": [
+            "Original Flavor",
+            "5 bars/box"
+          ],
+          "product_type": "distraction"
+        }
+      ]
+    }
+  },
+  "orders": {
+    "S17550807132085573_O00001": {
+      "order_id": "S17550807132085573_O00001",
+      "order_type": "delivery",
+      "user_id": "U747738",
+      "store_id": "S17550807132085573_S00003",
+      "total_price": 25,
+      "create_time": "2025-01-01 12:15:32",
+      "status": "delivered",
+      "products": [
+        {
+          "product_id": "S17550807132085573_P00016",
+          "price": 25,
+          "quantity": 1
+        }
+      ]
+    },
+    "S17550807132085573_O00002": {
+      "order_id": "S17550807132085573_O00002",
+      "order_type": "delivery",
+      "user_id": "U747738",
+      "store_id": "S17550807132085573_S02001",
+      "total_price": 23,
+      "create_time": "2025-01-05 17:45:12",
+      "status": "delivered",
+      "products": [
+        {
+          "product_id": "S17550807132085573_P02020",
+          "price": 15,
+          "quantity": 1
+        },
+        {
+          "product_id": "S17550807132085573_P02021",
+          "price": 8,
+          "quantity": 1
+        }
+      ]
+    },
+    "S17550807132085573_O00003": {
+      "order_id": "S17550807132085573_O00003",
+      "order_type": "delivery",
+      "user_id": "U747738",
+      "store_id": "S17550807132085573_S02002",
+      "total_price": 42,
+      "create_time": "2025-01-02 18:20:45",
+      "status": "delivered",
+      "products": [
+        {
+          "product_id": "S17550807132085573_P02022",
+          "price": 32,
+          "quantity": 1
+        },
+        {
+          "product_id": "S17550807132085573_P02023",
+          "price": 5,
+          "quantity": 2
+        }
+      ]
+    }
+  }
+}

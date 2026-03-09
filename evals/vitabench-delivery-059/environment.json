@@ -1,0 +1,324 @@
+{
+  "task_id": "D0717001",
+  "domain": "delivery",
+  "time": "2025-03-08 10:19:41",
+  "user_id": "U000009",
+  "weather": [
+    {
+      "city": "Wenzhou City",
+      "category": "rainy",
+      "datetime": "2025-03-08",
+      "temperature": [
+        12,
+        18
+      ],
+      "humidity": 72
+    }
+  ],
+  "location": [
+    {
+      "address": "East Building, Hubin, No. 33 Renmin West Road, Lucheng District, Wenzhou City, Zhejiang Province",
+      "longitude": 120.656838,
+      "latitude": 28.008008
+    }
+  ],
+  "user_profile": {
+    "user id": "U000009",
+    "occupation": "HR Manager",
+    "gender": "female",
+    "age group": "35~40",
+    "residence": "Wenzhou",
+    "home address": "East Building, Hubin, No. 33 Renmin West Road, Lucheng District, Wenzhou City, Zhejiang Province",
+    "work address": "Wenzhou International Cloud Software Valley, Gao'er Road, Puzhou Street, Longwan District, Wenzhou City, Zhejiang Province",
+    "dietary restrictions": "Avoids spicy and greasy food, avoids caffeine",
+    "family status": "Has children",
+    "personality": "Mild-tempered with high cooperation, good at listening and understanding"
+  },
+  "user_historical_behaviors": {
+    "user id": "U000009",
+    "occupation": "HR Manager",
+    "gender": "female",
+    "age group": "35~40",
+    "residence": "Wenzhou",
+    "home address": "East Building, Hubin, No. 33 Renmin West Road, Lucheng District, Wenzhou City, Zhejiang Province",
+    "work address": "Wenzhou International Cloud Software Valley, Gao'er Road, Puzhou Street, Longwan District, Wenzhou City, Zhejiang Province",
+    "breakfast": {
+      "frequently purchased categories": [
+        "Quick Meals/Steamed Buns/Pan-fried Buns (Average 25 yuan)",
+        "Quick Meals/Light Food (Average 35 yuan)",
+        "Quick Meals/Dumplings/Wonton (Average 22 yuan)"
+      ],
+      "cost per order": "15~35 yuan",
+      "preferred store rating": "4.3~4.8 stars",
+      "preferred delivery time": "15~30 minutes",
+      "preferred distance": "500~2500m",
+      "recent orders": [
+        {
+          "store": "Yonghe Soy Milk",
+          "product": "Fried Dough Stick and Soy Milk Set"
+        },
+        {
+          "store": "Light Food Select",
+          "product": "Chicken Breast Vegetable Sandwich"
+        },
+        {
+          "store": "Wang's Pan-fried Buns",
+          "product": "Pork Pan-fried Buns"
+        }
+      ],
+      "search history": [
+        "Healthy breakfast",
+        "Low-fat breakfast",
+        "Soy milk",
+        "Pan-fried buns",
+        "Sandwich"
+      ]
+    },
+    "weekday lunch/dinner": {
+      "frequently purchased categories": [
+        "Quick Meals/Healthy Meals (Average 48 yuan)",
+        "International Cuisine/Japanese Bento/Sushi (Average 55 yuan)",
+        "Quick Meals/Salad (Average 40 yuan)"
+      ],
+      "cost per order": "35~65 yuan",
+      "preferred store rating": "4.4~4.9 stars",
+      "preferred delivery time": "20~40 minutes",
+      "preferred distance": "500~3000m",
+      "recent orders": [
+        {
+          "store": "Light Food Diary",
+          "product": "Low-fat Chicken Breast Salad"
+        },
+        {
+          "store": "Ajisen Ramen",
+          "product": "Vegetable Chicken Ramen"
+        },
+        {
+          "store": "Fresh Taste Sushi",
+          "product": "Salmon Set Meal"
+        }
+      ],
+      "search history": [
+        "Healthy lunch",
+        "Low-fat",
+        "Sushi",
+        "Salad",
+        "Vegetables"
+      ]
+    },
+    "weekend lunch/dinner": {
+      "frequently purchased categories": [
+        "Chinese Cuisine/Beijing Cuisine (Average 90 yuan)",
+        "Chinese Cuisine/Jiangzhe Cuisine (Average 150 yuan)",
+        "Chinese Cuisine/Cantonese Cuisine (Average 80 yuan)"
+      ],
+      "cost per order": "80~160 yuan",
+      "preferred store rating": "4.6~5.0 stars",
+      "preferred delivery time": "25~50 minutes",
+      "preferred distance": "1000~4500m",
+      "recent orders": [
+        {
+          "store": "Beijing Record.Peking Duck",
+          "product": "Peking Duck Set Meal for 2-4 People (2-4 servings)"
+        },
+        {
+          "store": "Fat Brothers Crab Hot Pot",
+          "product": "Meat Crab Hot Pot"
+        },
+        {
+          "store": "Grandma's Home",
+          "product": "Value Set Meal for Two with Garlic and Vermicelli Shrimp"
+        }
+      ],
+      "search history": [
+        "Family set meal",
+        "Family gathering",
+        "Cantonese cuisine",
+        "Healthy hot pot",
+        "Caffeine-free drinks"
+      ]
+    },
+    "desserts/drinks/snacks": {
+      "frequently purchased categories": [
+        "Drinks/Desserts/Juice (Average 25 yuan)",
+        "Drinks/Desserts/Pure Tea/Herbal Tea (Average 20 yuan)",
+        "Drinks/Desserts/Fruit Salad (Average 35 yuan)"
+      ],
+      "cost per order": "18~40 yuan",
+      "preferred store rating": "4.5~4.9 stars",
+      "preferred delivery time": "15~30 minutes",
+      "preferred distance": "500~2500m",
+      "recent orders": [
+        {
+          "store": "Fresh Fruit Workshop",
+          "product": "Mango Passion Fruit Juice"
+        },
+        {
+          "store": "Tea Hundred",
+          "product": "Lemon Green Tea (Sugar-free)"
+        },
+        {
+          "store": "Fresh Cut Fruit",
+          "product": "Berry Fruit Salad"
+        }
+      ],
+      "search history": [
+        "Caffeine-free drinks",
+        "Low-sugar drinks",
+        "Fruit salad",
+        "Fresh juice",
+        "Flower tea"
+      ]
+    },
+    "night snack": {
+      "frequently purchased categories": [
+        "Quick Meals/Small Dishes/Small Portions (Average 45 yuan)",
+        "Snacks/Braised Flavors (Average 38 yuan)"
+      ],
+      "cost per order": "30~55 yuan",
+      "preferred store rating": "4.2~4.7 stars",
+      "preferred delivery time": "25~45 minutes",
+      "preferred distance": "1000~3000m",
+      "recent orders": [
+        {
+          "store": "Small Dish Restaurant",
+          "product": "Stir-fried Seasonal Vegetables Small Portion Set"
+        },
+        {
+          "store": "Braised Flavor House",
+          "product": "Braised Platter (Chicken Wings + Dried Tofu)"
+        },
+        {
+          "store": "Yellow Braised Chicken Small Dishes",
+          "product": "Mildly Spicy Braised Chicken"
+        }
+      ],
+      "search history": [
+        "Small portions",
+        "Low-purine night snacks",
+        "Braised flavors",
+        "Healthy night snacks",
+        "Non-spicy"
+      ]
+    }
+  },
+  "stores": {
+    "S33426782440170597_S44844": {
+      "name": "Grandma's Home (Wenzhou Nantang Xintiandi Store)",
+      "store_id": "S33426782440170597_S44844",
+      "score": 4.7,
+      "location": {
+        "address": "Shop 242, Building 1, Xinyue Commercial Building, No. 106-108 Feixia South Road, Lucheng District, Wenzhou City, Zhejiang Province",
+        "latitude": 27.995517,
+        "longitude": 120.665743
+      },
+      "tags": [],
+      "products": [
+        {
+          "name": "Need Cutlery (Order as many sets as needed)",
+          "store_id": "S33426782440170597_S44844",
+          "store_name": "Grandma's Home (Wenzhou Nantang Xintiandi Store)",
+          "price": 0.3,
+          "tags": [],
+          "product_id": "S24419034942875443_P68345",
+          "attributes": [],
+          "quantity": 9999
+        },
+        {
+          "name": "Value Set Meal for Two with Garlic and Vermicelli Shrimp",
+          "store_id": "S33426782440170597_S44844",
+          "store_name": "Grandma's Home (Wenzhou Nantang Xintiandi Store)",
+          "price": 79.0,
+          "tags": [
+            "Cost-effectiveness"
+          ],
+          "product_id": "S19129919838199477_P45960",
+          "attributes": [],
+          "quantity": 9999
+        }
+      ]
+    },
+    "S93510438388149575_S89308": {
+      "name": "Yong Xiao Guan · Baked Seafood • Wenzhou Cuisine Purchasing Agent (Wuma Street Store)",
+      "store_id": "S93510438388149575_S89308",
+      "score": 4.0,
+      "location": {
+        "address": "No. 125 Renmin Middle Road, Wenzhou City, Zhejiang Province",
+        "latitude": 28.008699,
+        "longitude": 120.65866
+      },
+      "tags": [],
+      "products": [
+        {
+          "name": "Fresh Shrimp with Garlic and Vermicelli",
+          "store_id": "S93510438388149575_S89308",
+          "store_name": "Yong Xiao Guan · Baked Seafood • Wenzhou Cuisine Purchasing Agent (Wuma Street Store)",
+          "price": 87.0,
+          "tags": [],
+          "product_id": "S25713394081551476_P71282",
+          "attributes": [],
+          "quantity": 9999
+        }
+      ]
+    },
+    "S48827583424359012_S14375": {
+      "name": "QuChaQu New Wenzhou Cuisine (Changjie Store)",
+      "store_id": "S48827583424359012_S14375",
+      "score": 4.8,
+      "location": {
+        "address": "No. 71, 73, 77, 81 Chang Street, Wuma Street, Wenzhou City, Zhejiang Province",
+        "latitude": 28.010716,
+        "longitude": 120.6555
+      },
+      "tags": [],
+      "products": [
+        {
+          "name": "Steamed Shrimp with Garlic and Vermicelli",
+          "store_id": "S48827583424359012_S14375",
+          "store_name": "QuChaQu New Wenzhou Cuisine (Changjie Store)",
+          "price": 49.0,
+          "tags": [],
+          "product_id": "S33092699145963372_P61492",
+          "attributes": [],
+          "quantity": 9999
+        }
+      ]
+    },
+    "S35701546971313302_S49955": {
+      "name": "Xiao Tuan Yuan (5050 Store)",
+      "store_id": "S35701546971313302_S49955",
+      "score": 5.0,
+      "location": {
+        "address": "L4121-L4123, 4th Floor, 5050 Binjiang International Plaza, No. 235 Xiedu Avenue, Shuangyu Street, Lucheng District, Wenzhou City, Zhejiang Province",
+        "latitude": 28.017141,
+        "longitude": 120.618785
+      },
+      "tags": [],
+      "products": [
+        {
+          "name": "Garlic and Vermicelli Shrimp",
+          "store_id": "S35701546971313302_S49955",
+          "store_name": "Xiao Tuan Yuan (5050 Store)",
+          "price": 46.0,
+          "tags": [
+            "Single Serving"
+          ],
+          "product_id": "S21167638475680795_P13337",
+          "attributes": [],
+          "quantity": 9999
+        },
+        {
+          "name": "Jade Shrimp",
+          "store_id": "S35701546971313302_S49955",
+          "store_name": "Xiao Tuan Yuan (5050 Store)",
+          "price": 42.0,
+          "tags": [],
+          "product_id": "S27210797743618252_P59959",
+          "attributes": [],
+          "quantity": 9999
+        }
+      ]
+    }
+  },
+  "orders": {}
+}

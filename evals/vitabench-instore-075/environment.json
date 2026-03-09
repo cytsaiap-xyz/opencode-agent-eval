@@ -1,0 +1,335 @@
+{
+  "task_id": "10826234",
+  "domain": "instore",
+  "time": "2025-03-25 10:46:21",
+  "user_id": "U809398",
+  "weather": [
+    {
+      "city": "Taiyuan City",
+      "category": "sunny",
+      "datetime": "2025-03-25",
+      "temperature": [
+        8,
+        19
+      ],
+      "humidity": 45
+    }
+  ],
+  "location": [
+    {
+      "address": "Room 1203, Building A, Shanxi International Trade Center, Longcheng Street, Xiaodian District, Taiyuan City",
+      "longitude": 112.5584,
+      "latitude": 37.8706
+    },
+    {
+      "address": "Room 503, Lawyers Building of Shanxi Provincial Justice Department, No.9 Fuxi Street, Xinghualing District, Taiyuan City",
+      "longitude": 112.5627,
+      "latitude": 37.8736
+    },
+    {
+      "address": "No.88 Yingze West Street, Xinghualing District, Taiyuan City",
+      "longitude": 112.5598,
+      "latitude": 37.8721
+    }
+  ],
+  "user_profile": {
+    "user id": "U809398",
+    "occupation": "Lawyer",
+    "gender": "female",
+    "age group": "30~35",
+    "residence": "Taiyuan",
+    "home address": "Room 1203, Building A, Shanxi International Trade Center, Longcheng Street, Xiaodian District, Taiyuan City",
+    "work address": "Room 503, Lawyers Building of Shanxi Provincial Justice Department, No.9 Fuxi Street, Xinghualing District, Taiyuan City",
+    "dietary restrictions": "Avoid high-purine foods (such as organ meats/seafood soups), avoid caffeine",
+    "family status": "Has children",
+    "personality": "Overly dependent on others' guidance, lacks independence and decisiveness"
+  },
+  "user_historical_behaviors": {
+    "user id": "U809398",
+    "occupation": "lawyer",
+    "gender": "female",
+    "age group": "30~35",
+    "residence": "Taiyuan",
+    "home address": "Room 1203, Building A, Shanxi International Trade Center, Longcheng Street, Xiaodian District, Taiyuan City",
+    "work address": "Room 503, Lawyers Building of Shanxi Provincial Justice Department, No.9 Fuxi Street, Xinghualing District, Taiyuan City",
+    "in-store dining": {
+      "fine-dining": {
+        "frequently purchased categories": [
+          "Regional Cuisine/Sichuan Cuisine (Average 135 yuan)",
+          "International Cuisine/Western Food (Average 180 yuan)",
+          "Regional Cuisine/Cantonese Cuisine (Average 160 yuan)"
+        ],
+        "preferred average price per person": "130~180 yuan",
+        "preferred store rating": "4.2~4.8 stars",
+        "typical dining time": "19:00-21:00",
+        "preferred distance": "500~3000m",
+        "recent orders": [
+          {
+            "store": "Yue Xuan Chinese Restaurant (Shanxi International Trade Center)",
+            "product": "Steamed Bass, Seasonal Vegetables"
+          },
+          {
+            "store": "Taiyuan Hotel·Imperial Kitchen",
+            "product": "Sea Cucumber in Shanxi Vinegar, Taiyuan Head Soup"
+          },
+          {
+            "store": "Westin Hotel·Taste Restaurant",
+            "product": "Steak Set, Vegetable Salad"
+          }
+        ],
+        "search history": [
+          "Business Banquet",
+          "Purine-free Dishes",
+          "Healthy Restaurant",
+          "High-end Sichuan Cuisine"
+        ]
+      },
+      "light meal": {
+        "frequently purchased categories": [
+          "Fast Food/Chinese Light Meal (Average 45 yuan)",
+          "Fast Food/Western Fast Food (Average 38 yuan)"
+        ],
+        "preferred average price per person": "30~50 yuan",
+        "preferred store rating": "3.5~4.2 stars",
+        "typical dining time": "12:00-13:30",
+        "preferred distance": "0~800m",
+        "recent orders": [
+          {
+            "store": "Chuan Xiang Ren",
+            "product": "Cold Spicy Rabbit Set"
+          },
+          {
+            "store": "Yonghe King",
+            "product": "Steamed Fish and Egg Set"
+          },
+          {
+            "store": "Salad Diary",
+            "product": "Quinoa Chicken Breast Salad"
+          }
+        ],
+        "search history": [
+          "Healthy Work Meal",
+          "Low Purine",
+          "Quick Lunch",
+          "Salad"
+        ]
+      },
+      "desserts/drinks/snacks": {
+        "frequently purchased categories": [
+          "Bread and Desserts (Average 28 yuan)",
+          "Beverage Shops (Average 22 yuan)"
+        ],
+        "preferred average price per person": "20~30 yuan",
+        "preferred store rating": "4.0~4.7 stars",
+        "typical dining time": "15:00-16:30",
+        "preferred distance": "0~300m",
+        "recent orders": [
+          {
+            "store": "Starbucks (International Trade Center)",
+            "product": "Oat Milk Latte (Decaf)"
+          },
+          {
+            "store": "Meet Fresh",
+            "product": "Taro Ball Fresh Milk"
+          },
+          {
+            "store": "85°C",
+            "product": "Whole Wheat Bread, Low-sugar Cake"
+          }
+        ],
+        "search history": [
+          "Caffeine-free Drinks",
+          "Low-sugar Desserts",
+          "Healthy Afternoon Tea"
+        ]
+      }
+    },
+    "other in-store services": {
+      "frequently consumed categories": {
+        "Beauty/Hair Salon": "15%",
+        "Sports & Fitness/Fitness Center": "40%",
+        "Leisure & Entertainment/Massage/Foot Therapy": "25%",
+        "Parent-Child/Parent-Child Recreation": "20%"
+      },
+      "cost per order by category": {
+        "Beauty/Hair Salon": "280~450 yuan",
+        "Sports & Fitness/Fitness Center": "150~300 yuan/time",
+        "Leisure & Entertainment/Massage/Foot Therapy": "180~350 yuan",
+        "Parent-Child/Parent-Child Recreation": "120~300 yuan"
+      },
+      "preferred store rating": "4.0~4.8 stars",
+      "preferred service time": "18:00-20:00",
+      "preferred distance": "0~5000m",
+      "recent orders": [
+        {
+          "store": "Taiyuan Yoga Fitness Center (Xiaodian District)",
+          "product": "Individual Yoga Class"
+        },
+        {
+          "store": "Yue Zhi Life SPA",
+          "product": "Essential Oil Relaxation Massage"
+        },
+        {
+          "store": "Elephant Castle Parent-Child Playground",
+          "product": "Parent-Child Interactive Package"
+        }
+      ],
+      "search history": [
+        "Professional Yoga",
+        "Weekend Activities with Kids",
+        "Work Stress Relief",
+        "Professional Women's SPA"
+      ]
+    }
+  },
+  "stores": {},
+  "orders": {
+    "S17567841558014419_O00001": {
+      "order_id": "S17567841558014419_O00001",
+      "order_type": "instore",
+      "user_id": "U809398",
+      "store_id": "S17567841558014419_I00002",
+      "note": "Group purchase voucher discussed with colleagues yesterday when talking about desserts",
+      "location": {
+        "address": "Shiguang Dessert Buffet, Building A, Shanxi International Trade Center, Longcheng Street, Xiaodian District, Taiyuan City",
+        "longitude": 112.563492,
+        "latitude": 37.736853
+      },
+      "dispatch_time": "",
+      "shipping_time": 0,
+      "delivery_time": "",
+      "total_price": 68,
+      "create_time": "2025-03-24 16:20:15",
+      "update_time": "2025-03-24 16:20:15",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17567841558014419_P00011",
+          "price": 68,
+          "quantity": 1,
+          "attributes": "Individual dessert buffet voucher"
+        }
+      ]
+    },
+    "S17567841558014419_O00002": {
+      "order_id": "S17567841558014419_O00002",
+      "order_type": "instore",
+      "user_id": "U809398",
+      "store_id": "S17567841558014419_I00001",
+      "note": "Weekday lunch",
+      "location": {
+        "address": "Gan Xiang Lou, No.15 Fuxi Street, Xinghualing District, Taiyuan City",
+        "longitude": 112.548932,
+        "latitude": 37.871245
+      },
+      "dispatch_time": "",
+      "shipping_time": 0,
+      "delivery_time": "",
+      "total_price": 45,
+      "create_time": "2025-03-22 12:15:30",
+      "update_time": "2025-03-22 12:15:30",
+      "status": "consumed",
+      "products": [
+        {
+          "product_id": "S17567841558014419_P00002",
+          "price": 45,
+          "quantity": 1,
+          "attributes": "Jiangxi-style spicy stir-fried pork package"
+        }
+      ]
+    },
+    "S17567841558014419_O00003": {
+      "order_id": "S17567841558014419_O00003",
+      "order_type": "instore",
+      "user_id": "U809398",
+      "store_id": "S17567841558014419_I00003",
+      "note": "High work pressure, need relaxation",
+      "location": {
+        "address": "Yu Zu Tang Massage Shop, Fuxi Street, Xinghualing District, Taiyuan City",
+        "longitude": 112.549123,
+        "latitude": 37.871456
+      },
+      "dispatch_time": "",
+      "shipping_time": 0,
+      "delivery_time": "",
+      "total_price": 98,
+      "create_time": "2025-03-20 18:45:20",
+      "update_time": "2025-03-20 18:45:20",
+      "status": "consumed",
+      "products": [
+        {
+          "product_id": "S17567841558014419_P00019",
+          "price": 98,
+          "quantity": 1,
+          "attributes": "Shoulder and neck soothing massage (60 minutes)"
+        }
+      ]
+    },
+    "S17567841558014419_O00004": {
+      "order_id": "S17567841558014419_O00004",
+      "order_type": "instore",
+      "user_id": "U809398",
+      "store_id": "S17567841558014419_I00004",
+      "note": "Quality dinner",
+      "location": {
+        "address": "Xiang Yu Restaurant, Longcheng Street, Xiaodian District, Taiyuan City",
+        "longitude": 112.563845,
+        "latitude": 37.736912
+      },
+      "dispatch_time": "",
+      "shipping_time": 0,
+      "delivery_time": "",
+      "total_price": 158,
+      "create_time": "2025-03-18 19:30:45",
+      "update_time": "2025-03-18 19:30:45",
+      "status": "consumed",
+      "products": [
+        {
+          "product_id": "S17567841558014419_P00031",
+          "price": 68,
+          "quantity": 1,
+          "attributes": "Chopped chili fish head"
+        },
+        {
+          "product_id": "S17567841558014419_P00030",
+          "price": 38,
+          "quantity": 1,
+          "attributes": "Mouth-watering chicken with rice set meal"
+        },
+        {
+          "product_id": "S17567841558014419_P00034",
+          "price": 25,
+          "quantity": 2,
+          "attributes": "Hunan-style tea drink set"
+        }
+      ]
+    },
+    "S17567841558014419_O00005": {
+      "order_id": "S17567841558014419_O00005",
+      "order_type": "instore",
+      "user_id": "U809398",
+      "store_id": "S17567841558014419_I00002",
+      "note": "Afternoon tea time",
+      "location": {
+        "address": "Shiguang Dessert Buffet, Building A, Shanxi International Trade Center, Longcheng Street, Xiaodian District, Taiyuan City",
+        "longitude": 112.563492,
+        "latitude": 37.736853
+      },
+      "dispatch_time": "",
+      "shipping_time": 0,
+      "delivery_time": "",
+      "total_price": 58,
+      "create_time": "2025-03-15 15:20:10",
+      "update_time": "2025-03-15 15:20:10",
+      "status": "consumed",
+      "products": [
+        {
+          "product_id": "S17567841558014419_P00012",
+          "price": 58,
+          "quantity": 1,
+          "attributes": "Lunch time dessert buffet voucher"
+        }
+      ]
+    }
+  }
+}

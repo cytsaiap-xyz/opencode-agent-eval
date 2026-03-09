@@ -1,0 +1,382 @@
+{
+  "task_id": "30711005",
+  "domain": "delivery",
+  "time": "2025-09-13 10:41:22",
+  "user_id": "U000074",
+  "weather": [
+    {
+      "city": "Hefei City",
+      "category": "overcast",
+      "datetime": "2025-09-13",
+      "temperature": [
+        22,
+        26
+      ],
+      "humidity": 50
+    }
+  ],
+  "location": [
+    {
+      "address": "Wanda Plaza, No. 130 Ma'anshan Road, Baohe District, Hefei, Anhui Province (Hefei Baohe Branch)",
+      "longitude": 117.302741,
+      "latitude": 31.857032
+    },
+    {
+      "address": "Triumphal Arch Phase I, Intersection of Jiahe Road and Qianshan Road, Shushan District, Hefei, Anhui Province",
+      "longitude": 117.230632,
+      "latitude": 31.80228
+    }
+  ],
+  "user_profile": {
+    "user id": "U000074",
+    "occupation": "Project Manager",
+    "gender": "female",
+    "age group": "30~35",
+    "residence": "Hefei",
+    "home address": "Triumphal Arch Phase I, Intersection of Jiahe Road and Qianshan Road, Shushan District, Hefei, Anhui Province",
+    "work address": "Wanda Plaza, No. 130 Ma'anshan Road, Baohe District, Hefei, Anhui Province (Hefei Baohe Branch)",
+    "dietary restrictions": "None",
+    "family status": "Has children",
+    "personality": "Scattered and jumpy thinking, easily distracted and prone to changing her mind"
+  },
+  "user_historical_behaviors": {
+    "user id": "U000074",
+    "occupation": "Project Manager",
+    "gender": "female",
+    "age group": "30~35",
+    "residence": "Hefei",
+    "home address": "Triumphal Arch Phase I, Intersection of Jiahe Road and Qianshan Road, Shushan District, Hefei, Anhui Province",
+    "work address": "Wanda Plaza, No. 130 Ma'anshan Road, Baohe District, Hefei, Anhui Province (Hefei Baohe Branch)",
+    "breakfast": {
+      "frequently purchased categories": [
+        "Fast Food/Baozi/Pan-fried Buns (Average 22 yuan)",
+        "Fast Food/Light Meals (Average 35 yuan)",
+        "Fast Food/Fried Dough Sticks (Average 15 yuan)"
+      ],
+      "cost per order": "15~35 yuan",
+      "preferred store rating": "4.3~4.8 stars",
+      "preferred delivery time": "15~30 minutes",
+      "preferred distance": "0~2500m",
+      "recent orders": [
+        {
+          "store": "Wu's Pan-fried Buns",
+          "product": "Signature Pork Pan-fried Buns + Soy Milk"
+        },
+        {
+          "store": "Fresh Steamed Buns",
+          "product": "Pumpkin Custard Buns + Soy Milk"
+        },
+        {
+          "store": "Light Meal Salad",
+          "product": "Avocado Chicken Breast Sandwich + Fresh Squeezed Orange Juice"
+        }
+      ],
+      "search history": [
+        "Low-salt breakfast",
+        "Pan-fried buns",
+        "Light meals",
+        "Nutritious breakfast",
+        "Low-fat breakfast"
+      ]
+    },
+    "weekday lunch/dinner": {
+      "frequently purchased categories": [
+        "Fast Food/Healthy Meals (Average 45 yuan)",
+        "Chinese Cuisine/Cantonese Food (Average 65 yuan)",
+        "International Cuisine/Salads (Average 40 yuan)"
+      ],
+      "cost per order": "30~70 yuan",
+      "preferred store rating": "4.2~4.8 stars",
+      "preferred delivery time": "20~40 minutes",
+      "preferred distance": "0~3500m",
+      "recent orders": [
+        {
+          "store": "Light Meal Diary",
+          "product": "Low-fat Chicken Breast with Seasonal Vegetables + Quinoa Rice"
+        },
+        {
+          "store": "Cantonese Flavor House",
+          "product": "Steamed Sea Bass + Blanched Seasonal Vegetables + Steamed Rice"
+        },
+        {
+          "store": "Salad Institute",
+          "product": "Avocado Chicken Salad + Yogurt"
+        }
+      ],
+      "search history": [
+        "Low-salt dishes",
+        "Healthy work meals",
+        "Cantonese cuisine",
+        "Steamed dishes",
+        "Weight loss meals"
+      ]
+    },
+    "weekend lunch/dinner": {
+      "frequently purchased categories": [
+        "Chinese Cuisine/Cantonese Food (Average 90 yuan)",
+        "International Cuisine/Japanese Bento/Sushi (Average 120 yuan)",
+        "International Cuisine/Korean Food (Average 100 yuan)"
+      ],
+      "cost per order": "70~150 yuan",
+      "preferred store rating": "4.5~4.9 stars",
+      "preferred delivery time": "30~50 minutes",
+      "preferred distance": "0~5000m",
+      "recent orders": [
+        {
+          "store": "Xianlo Family Feast",
+          "product": "Family Set Meal (Steamed Sea Bass + Ginger and Scallion Crab + Seasonal Vegetables)"
+        },
+        {
+          "store": "Flourishing Sushi",
+          "product": "Salmon Sashimi Platter + Sake Steamed Clams + Kids Sushi Set"
+        },
+        {
+          "store": "Korean Cuisine House",
+          "product": "Ginseng Chicken Soup + Kids Bibimbap + Korean Side Dishes"
+        }
+      ],
+      "search history": [
+        "Family-friendly restaurants",
+        "Family set meals",
+        "Kids meals",
+        "Low-salt cuisine",
+        "Cantonese set meals"
+      ]
+    },
+    "desserts/drinks/snacks": {
+      "frequently purchased categories": [
+        "Beverages & Desserts/Juice (Average 30 yuan)",
+        "Beverages & Desserts/Fruit Bowls (Average 35 yuan)",
+        "Beverages & Desserts/Cold Desserts (Average 25 yuan)"
+      ],
+      "cost per order": "15~45 yuan",
+      "preferred store rating": "4.5~5.0 stars",
+      "preferred delivery time": "15~60 minutes",
+      "preferred distance": "0~5000m",
+      "recent orders": [
+        {
+          "store": "Cawawa",
+          "product": "Mango Refresher"
+        },
+        {
+          "store": "Luosu Desserts·Black Glutinous Rice·Double Skin Milk·Taro Balls",
+          "product": "Mango Snow Black Glutinous Rice Sweet"
+        },
+        {
+          "store": "Ice Cold Treats",
+          "product": "Yogurt Fruit Bowl + Kids Strawberry Ice Cream"
+        }
+      ],
+      "search history": [
+        "Sugar-free drinks",
+        "Fruit bowls",
+        "Low-sugar desserts",
+        "Kids desserts",
+        "Fresh squeezed juice"
+      ]
+    },
+    "night snack": {
+      "frequently purchased categories": [
+        "Snacks & Braised Food/Braised Items (Average 40 yuan)",
+        "Fast Food/Small Portion Dishes (Average 35 yuan)"
+      ],
+      "cost per order": "20~50 yuan",
+      "preferred store rating": "4.2~4.7 stars",
+      "preferred delivery time": "20~35 minutes",
+      "preferred distance": "0~3000m",
+      "recent orders": [
+        {
+          "store": "Old Street Braised Food",
+          "product": "Spicy Braised Beef + Braised Eggs + Seasonal Vegetables"
+        },
+        {
+          "store": "Small Portion Dishes",
+          "product": "Spicy Lotus Root Slices + Cold Wood Ear Mushroom Salad + Shiitake Chicken Cubes"
+        },
+        {
+          "store": "Night Food House",
+          "product": "Stomach-soothing Porridge + Steamed Fresh Vegetables"
+        }
+      ],
+      "search history": [
+        "Low-salt braised food",
+        "Stomach-friendly night snacks",
+        "Healthy night food",
+        "Small portion dishes"
+      ]
+    }
+  },
+  "stores": {
+    "S18559624638967307_S15514": {
+      "name": "Jasmine Milk White (Hefei Baohe Wanda Branch)",
+      "store_id": "S18559624638967307_S15514",
+      "score": 4.8,
+      "location": {
+        "address": "Wanda Plaza, No. 130 Ma'anshan Road, Baohe District, Hefei, Anhui Province (Hefei Baohe Branch)",
+        "latitude": 31.857032,
+        "longitude": 117.302741
+      },
+      "tags": [
+        "Milk Tea"
+      ],
+      "products": [
+        {
+          "name": "A Gardenia Flower",
+          "store_id": "S18559624638967307_S15514",
+          "store_name": "Jasmine Milk White (Hefei Baohe Wanda Branch)",
+          "price": 21.0,
+          "tags": [
+            "Milk Tea"
+          ],
+          "product_id": "S18619197879317469_P91776",
+          "attributes": [],
+          "quantity": 9999
+        }
+      ]
+    },
+    "S10578855038572520_S10983": {
+      "name": "Geylang Geylang Singapore Restaurant (Hefei Mixc Mall Branch)",
+      "store_id": "S10578855038572520_S10983",
+      "score": 5.0,
+      "location": {
+        "address": "1st Floor, Mixc Mall, No. 111 Qianshan Road, Shushan District, Hefei, Anhui Province",
+        "latitude": 31.799481,
+        "longitude": 117.230754
+      },
+      "tags": [],
+      "products": [
+        {
+          "name": "Iced Mango Sticky Rice (Without Ice Cream)",
+          "store_id": "S10578855038572520_S10983",
+          "store_name": "Geylang Geylang Singapore Restaurant (Hefei Mixc Mall Branch)",
+          "price": 39.0,
+          "tags": [],
+          "product_id": "S57131084038540049_P83923",
+          "attributes": [],
+          "quantity": 9999
+        }
+      ]
+    },
+    "S21721749674905016_S43228": {
+      "name": "Jasmine Milk White (Hefei Yaohai Wanda Branch)",
+      "store_id": "S21721749674905016_S43228",
+      "score": 4.9,
+      "location": {
+        "address": "First Floor, Yaohai Wanda Plaza, Linquan Road, Fangmiao Street, Yaohai District, Hefei, Anhui Province",
+        "latitude": 31.856215,
+        "longitude": 117.302207
+      },
+      "tags": [],
+      "products": [
+        {
+          "name": "A Gardenia Flower",
+          "product_id": "S68623167080200516_P35795",
+          "store_id": "S21721749674905016_S43228",
+          "store_name": "Jasmine Milk White (Hefei Yaohai Wanda Branch)",
+          "price": 21,
+          "tags": [],
+          "attributes": [],
+          "quantity": 9999
+        }
+      ]
+    },
+    "S17485753768922773_S83876": {
+      "name": "Charing No. 84 Coffee (Wuhu Road Youth Lane Branch)",
+      "store_id": "S17485753768922773_S83876",
+      "score": 4.7,
+      "location": {
+        "address": "No. 1-009, Tunxi Road to Machong Road, Erlihe, Baohe District, Hefei City",
+        "latitude": 31.849801,
+        "longitude": 117.277552
+      },
+      "tags": [],
+      "products": [
+        {
+          "name": "[Creative New Product] Gardenia & Peach American Style Coffee",
+          "product_id": "S30893383498859564_P53049",
+          "store_id": "S17485753768922773_S83876",
+          "store_name": "Charing No. 84 Coffee (Wuhu Road Youth Lane Branch)",
+          "price": 25,
+          "tags": [
+            "Gardenia"
+          ],
+          "attributes": [],
+          "quantity": 9999
+        }
+      ]
+    },
+    "S39492936552075457_S89474": {
+      "name": "Rice Paper Vietnamese Cuisine (Zhixin City Branch)",
+      "store_id": "S39492936552075457_S89474",
+      "score": 4,
+      "location": {
+        "address": "7th Floor, Zhixin City, No. 189 Changjiang West Road, Shushan District, Hefei, Anhui Province",
+        "latitude": 31.853479,
+        "longitude": 117.257074
+      },
+      "tags": [],
+      "products": [
+        {
+          "name": "Dalat Mango Sticky Rice",
+          "product_id": "S39146630164834332_P85140",
+          "store_id": "S39492936552075457_S89474",
+          "store_name": "Rice Paper Vietnamese Cuisine (Zhixin City Branch)",
+          "price": 29,
+          "tags": [],
+          "attributes": [
+            "Heated",
+            "Room Temperature"
+          ],
+          "quantity": 9999
+        }
+      ]
+    },
+    "S78870554954453177_S69152": {
+      "name": "Shiyi Fresh Stew (Nourishing Stewed Dishes · Fresh Bird's Nest Stew · Hefei Branch)",
+      "store_id": "S78870554954453177_S69152",
+      "score": 4.9,
+      "location": {
+        "address": "Room 118, Building 3, Guozhen Plaza, Intersection of Changjiang West Road and Jinniu Road, Shushan District, Hefei, Anhui Province",
+        "latitude": 31.852037,
+        "longitude": 117.23528
+      },
+      "tags": [],
+      "products": [
+        {
+          "name": "Mango Taro Ball Grand Slam (Cold)",
+          "product_id": "S12513360094377083_P27234",
+          "store_id": "S78870554954453177_S69152",
+          "store_name": "Shiyi Fresh Stew (Nourishing Stewed Dishes · Fresh Bird's Nest Stew · Hefei Branch)",
+          "price": 28.8,
+          "tags": [],
+          "attributes": [],
+          "quantity": 9999
+        }
+      ]
+    },
+    "S18447169359425427_S70796": {
+      "name": "Chunlai Laos Coffee & Thai Milk Tea (University Town Branch)",
+      "store_id": "S18447169359425427_S70796",
+      "score": 5,
+      "location": {
+        "address": "No. 81, 3rd Floor, Guijie Food Court, Zone A, University Town Commercial Center, Intersection of Danxia Road and Feicui Road, Economic and Technological Development Zone, Hefei, Anhui Province",
+        "latitude": 31.775593,
+        "longitude": 117.207492
+      },
+      "tags": [],
+      "products": [
+        {
+          "name": "Thai Mango Sticky Rice Ice",
+          "product_id": "S41884926000341469_P23447",
+          "store_id": "S18447169359425427_S70796",
+          "store_name": "Chunlai Laos Coffee & Thai Milk Tea (University Town Branch)",
+          "price": 24,
+          "tags": [],
+          "attributes": [],
+          "quantity": 9999
+        }
+      ]
+    }
+  },
+  "orders": {}
+}

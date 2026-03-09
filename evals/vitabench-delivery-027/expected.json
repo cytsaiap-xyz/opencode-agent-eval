@@ -1,0 +1,100 @@
+{
+  "required_orders": [
+    {
+      "order_id": "40711006T01",
+      "order_type": "delivery",
+      "user_id": "U000062",
+      "store_id": "S46965052648464593_S62841",
+      "note": "",
+      "location": {
+        "address": "Quanzhou Urban Construction Group Co., Ltd., Building 8, Shuimo Fanglin, 688 Anji South Road, Fengze District, Quanzhou, Fujian Province",
+        "longitude": 118.647046,
+        "latitude": 24.907155
+      },
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 30.8,
+      "create_time": "2025-08-23 11:30:00",
+      "update_time": "2025-08-23 11:30:00",
+      "status": "processed",
+      "products": [
+        {
+          "product_id": "S23791788223100807_P96193",
+          "price": 30.8,
+          "quantity": 1,
+          "attributes": ""
+        }
+      ]
+    },
+    {
+      "order_id": "40711006T02",
+      "order_type": "delivery",
+      "user_id": "U000062",
+      "store_id": "S24068403411340407_S13634",
+      "note": "",
+      "location": {
+        "address": "Quanzhou Urban Construction Group Co., Ltd., Building 8, Shuimo Fanglin, 688 Anji South Road, Fengze District, Quanzhou, Fujian Province",
+        "longitude": 118.647046,
+        "latitude": 24.907155
+      },
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 54,
+      "create_time": "2025-08-23 11:30:00",
+      "update_time": "2025-08-23 11:30:00",
+      "status": "processed",
+      "products": [
+        {
+          "product_id": "S66100942698586097_P70018",
+          "price": 18,
+          "quantity": 3,
+          "attributes": ""
+        }
+      ]
+    },
+    {
+      "order_id": "40711006T03",
+      "order_type": "delivery",
+      "user_id": "U000062",
+      "store_id": "S16962569604602955_S46413",
+      "note": "One portion without pearls",
+      "location": {
+        "address": "Quanzhou Urban Construction Group Co., Ltd., Building 8, Shuimo Fanglin, 688 Anji South Road, Fengze District, Quanzhou, Fujian Province",
+        "longitude": 118.647046,
+        "latitude": 24.907155
+      },
+      "dispatch_time": "2025-08-23 18:28:00",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 30,
+      "create_time": "2025-08-23 11:30:00",
+      "update_time": "2025-08-23 11:30:00",
+      "status": "in-progress",
+      "products": [
+        {
+          "product_id": "S31573652904634511_P96917",
+          "price": 15,
+          "quantity": 2,
+          "attributes": ""
+        }
+      ]
+    }
+  ],
+  "rubrics": [
+    "The delivery address for the lunch noodle order should be Quanzhou Urban Construction Group Co., Ltd., Building 8, Shuimo Fanglin, 688 Anji South Road, Fengze District, Quanzhou, Fujian Province",
+    "The estimated delivery time for the lunch noodle order should be before 12:30 on August 23, 2025",
+    "The ordered lunch noodle items should not contain seafood ingredients",
+    "The ordered lunch noodle items should not contain offal ingredients such as pork intestine, pig liver, etc.",
+    "The delivery address for the bakery order should be Quanzhou Urban Construction Group Co., Ltd., Building 8, Shuimo Fanglin, 688 Anji South Road, Fengze District, Quanzhou, Fujian Province",
+    "The estimated delivery time for the bakery order should be before 12:30 on August 23, 2025",
+    "The merchant for the bakery order should be Jiyue Bakery",
+    "The ordered bakery items should have a Chewy Texture, usually indicated in the product description or tags",
+    "The bakery order should include 3 identical bread items",
+    "The delivery address for the Four Fruits Soup order should be Quanzhou Urban Construction Group Co., Ltd., Building 8, Shuimo Fanglin, 688 Anji South Road, Fengze District, Quanzhou, Fujian Province",
+    "The estimated delivery time for the Four Fruits Soup order should be before 19:00 on August 23, 2025",
+    "The Four Fruits Soup order should include a note specifying one soup without pearls",
+    "The Four Fruits Soup order should select the best-selling Four Fruits Soup from the store"
+  ]
+}

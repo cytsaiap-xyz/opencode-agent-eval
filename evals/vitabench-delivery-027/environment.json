@@ -1,0 +1,379 @@
+{
+  "task_id": "40711006",
+  "domain": "delivery",
+  "time": "2025-08-23 11:23:18",
+  "user_id": "U000062",
+  "weather": [
+    {
+      "city": "Quanzhou City",
+      "category": "sunny",
+      "datetime": "2025-08-20",
+      "temperature": [
+        26,
+        32
+      ],
+      "humidity": 56
+    }
+  ],
+  "location": [
+    {
+      "address": "Quanzhou Urban Construction Group Co., Ltd., Building 8, Shuimo Fanglin, 688 Anji South Road, Fengze District, Quanzhou, Fujian Province",
+      "longitude": 118.647046,
+      "latitude": 24.907155
+    }
+  ],
+  "user_profile": {
+    "user id": "U000062",
+    "occupation": "Driver",
+    "gender": "female",
+    "age group": "30~35",
+    "residence": "Quanzhou",
+    "home address": "Floor 2, Unit 3, Huiyang Garden, Pingshan Road, Fengze District, Quanzhou, Fujian Province",
+    "work address": "Quanzhou Urban Construction Group Co., Ltd., Building 8, Shuimo Fanglin, 688 Anji South Road, Fengze District, Quanzhou, Fujian Province",
+    "dietary restrictions": "No caffeine, No seafood",
+    "family status": "Lives alone",
+    "personality": "Has scattered and jumping thoughts, easily distracted and changes mind frequently"
+  },
+  "user_historical_behaviors": {
+    "user id": "U000062",
+    "occupation": "Driver",
+    "gender": "female",
+    "age group": "30~35",
+    "residence": "Quanzhou",
+    "home address": "Floor 2, Unit 3, Huiyang Garden, Pingshan Road, Fengze District, Quanzhou, Fujian Province",
+    "work address": "Quanzhou Urban Construction Group Co., Ltd., Building 8, Shuimo Fanglin, 688 Anji South Road, Fengze District, Quanzhou, Fujian Province",
+    "breakfast": {
+      "frequently purchased categories": [
+        "Fast food/Buns/Pan-fried buns (average 18 yuan)",
+        "Fast food/Rice noodles/Rice vermicelli (average 15 yuan)",
+        "Fast food/Jianbing/Wraps/Hand-grabbed pancakes (average 12 yuan)"
+      ],
+      "cost per order": "10~25 yuan",
+      "preferred store rating": "4.2~4.7",
+      "preferred delivery time": "15~30 minutes",
+      "preferred distance": "0~2500m",
+      "recent orders": [
+        {
+          "store": "Xinyuan Bun Shop",
+          "product": "Mushroom Pork Bun + Soy Milk"
+        },
+        {
+          "store": "Old Neighbor Hand-grabbed Pancake",
+          "product": "Original Hand-grabbed Pancake"
+        },
+        {
+          "store": "Fujian Shaoxing Snacks",
+          "product": "Mixed Noodles + Meat Wonton Soup"
+        }
+      ],
+      "search history": [
+        "buns",
+        "soy milk",
+        "hand-grabbed pancake",
+        "noodles",
+        "nutritious breakfast"
+      ]
+    },
+    "weekday lunch/dinner": {
+      "frequently purchased categories": [
+        "Fast food/Rice with toppings (average 22 yuan)",
+        "Fast food/Clay pot dishes (average 28 yuan)",
+        "Fast food/Small bowls/Small portions (average 35 yuan)"
+      ],
+      "cost per order": "20~45 yuan",
+      "preferred store rating": "4.0~5.0",
+      "preferred delivery time": "20~45 minutes",
+      "preferred distance": "0~6000m",
+      "recent orders": [
+        {
+          "store": "Home-style Stir-fry (Lard)",
+          "product": "Stir-fried Bitter Gourd with Beef + Tomato Egg Soup"
+        },
+        {
+          "store": "New Chinese Fast Food",
+          "product": "Boiled Sliced Pork with Chili Oil + Rice"
+        }
+      ],
+      "search history": [
+        "fast food",
+        "bento",
+        "home cooking",
+        "clay pot"
+      ]
+    },
+    "weekend lunch/dinner": {
+      "frequently purchased categories": [
+        "Chinese cuisine/Cantonese cuisine (average 88 yuan)",
+        "Chinese cuisine/Grilled fish (average 98 yuan)",
+        "International cuisine/Stone pot rice/Teppanyaki rice (average 65 yuan)"
+      ],
+      "cost per order": "50~120 yuan",
+      "preferred store rating": "4.5~5.0",
+      "preferred delivery time": "30~60 minutes",
+      "preferred distance": "0~5000m",
+      "recent orders": [
+        {
+          "store": "Cantonese Flavor",
+          "product": "White Cut Chicken + Steamed Sea Bass + Seasonal Vegetables + White Rice"
+        },
+        {
+          "store": "Sichuan Grilled Fish",
+          "product": "Pickled Cabbage Grilled Fish + Corn + Tofu"
+        },
+        {
+          "store": "Korean Cuisine",
+          "product": "Stone Pot Bibimbap + Kimchi Soup"
+        }
+      ],
+      "search history": [
+        "Cantonese cuisine",
+        "family meal set",
+        "grilled fish",
+        "children's set meal",
+        "healthy home cooking"
+      ]
+    },
+    "desserts/drinks/snacks": {
+      "frequently purchased categories": [
+        "Drinks and desserts/Fruit juice (average 22 yuan)",
+        "Drinks and desserts/Herbal tea (average 15 yuan)",
+        "Drinks and desserts/Bread (average 40 yuan)"
+      ],
+      "cost per order": "15~60 yuan",
+      "preferred store rating": "4.2~5.0",
+      "preferred delivery time": "15~50 minutes",
+      "preferred distance": "0~7000m",
+      "recent orders": [
+        {
+          "store": "Fresh Juice Shop",
+          "product": "Fresh Watermelon Juice"
+        },
+        {
+          "store": "Jiyue Bakery (Tian'an Branch)",
+          "product": "Walnut Black Sesame Bagel, Matcha Grapefruit Brownie approx. 150g (Sliced by Default)"
+        }
+      ],
+      "search history": [
+        "juice",
+        "bread"
+      ]
+    },
+    "night snack": {
+      "frequently purchased categories": [
+        "Fast food/Dumplings/Wontons (average 35 yuan)",
+        "Fast food/Clay pot dishes (average 40 yuan)",
+        "Snacks and braised food/Braised items (average 30 yuan)"
+      ],
+      "cost per order": "25~50 yuan",
+      "preferred store rating": "4.2~4.8",
+      "preferred delivery time": "20~45 minutes",
+      "preferred distance": "0~2500m",
+      "recent orders": [
+        {
+          "store": "Lao Wang's Dumpling House",
+          "product": "Three Delicacies Water Dumplings + Hot and Sour Soup"
+        },
+        {
+          "store": "Clay Pot Porridge Shop",
+          "product": "Century Egg and Lean Pork Porridge + Fried Dough Sticks"
+        },
+        {
+          "store": "Braised Snacks",
+          "product": "Braised Chicken Wings + Braised Eggs + Braised Tofu"
+        }
+      ],
+      "search history": [
+        "dumplings",
+        "clay pot porridge",
+        "braised food",
+        "light night snack"
+      ]
+    }
+  },
+  "stores": {
+    "S46965052648464593_S62841": {
+      "name": "Trust Me Satay Noodles/Rice Noodle Soup (Metro Branch)",
+      "store_id": "S46965052648464593_S62841",
+      "score": 4.9,
+      "location": {
+        "address": "Trust Me Satay Noodles (Metro Branch), Next to Southeast Gate of Zhongyuan Building, Fengze District, Quanzhou, Fujian Province",
+        "latitude": 24.885986,
+        "longitude": 118.620455
+      },
+      "tags": [],
+      "products": [
+        {
+          "name": "Vinegar Pork Taro Ball Noodles (Soup Base + Vinegar Pork + One Taro Ball + Bean Puff + Vegetables)",
+          "store_id": "S46965052648464593_S62841",
+          "store_name": "Trust Me Satay Noodles/Rice Noodle Soup (Metro Branch)",
+          "price": 30.8,
+          "tags": [],
+          "product_id": "S23791788223100807_P96193",
+          "attributes": [],
+          "quantity": 9999
+        },
+        {
+          "name": "[Traditional Set] (Soup Base + Noodles + Pork Intestine + Pig Liver + Tofu/Bean Puff + Vegetables)",
+          "product_id": "S13685298609560859_P18267",
+          "store_id": "S46965052648464593_S62841",
+          "store_name": "Trust Me Satay Noodles/Rice Noodle Soup (Metro Branch)",
+          "price": 32.8,
+          "tags": [
+            "Rich Soup Base"
+          ],
+          "attributes": [],
+          "quantity": 9999
+        },
+        {
+          "name": "[Trust Me Seafood Set] Soup Base + Noodles + Signature Squid + Shrimp + Clams + Razor Clams",
+          "product_id": "S30511329081945567_P26849",
+          "store_id": "S46965052648464593_S62841",
+          "store_name": "Trust Me Satay Noodles/Rice Noodle Soup (Metro Branch)",
+          "price": 45.9,
+          "tags": [],
+          "attributes": [],
+          "quantity": 9999
+        }
+      ]
+    },
+    "S16962569604602955_S46413": {
+      "name": "Cuodou Four Fruits Soup (Fried Skewers • Milk Tea • Snacks • World City Branch)",
+      "store_id": "S16962569604602955_S46413",
+      "score": 5,
+      "location": {
+        "address": "Room 242, Zhongjun Juxiang Business Center, 200m East of the Intersection of Tiyu Street and Puji Road, Fengze District, Quanzhou, Fujian Province",
+        "latitude": 24.923175,
+        "longitude": 118.661732
+      },
+      "tags": [],
+      "products": [
+        {
+          "name": "[House Special] Honey Four Fruits Soup (Large/10 Toppings)",
+          "store_id": "S16962569604602955_S46413",
+          "store_name": "Cuodou Four Fruits Soup (Fried Skewers • Milk Tea • Snacks • World City Branch)",
+          "price": 15.0,
+          "tags": [
+            "No.1 Bestseller in Store"
+          ],
+          "product_id": "S31573652904634511_P96917",
+          "attributes": [],
+          "quantity": 9999
+        },
+        {
+          "name": "Signature Honey Four Fruits Soup (Small/6 Toppings)",
+          "product_id": "S25073619262959978_P13602",
+          "store_id": "S16962569604602955_S46413",
+          "store_name": "Cuodou Four Fruits Soup (Fried Skewers • Milk Tea • Snacks • World City Branch)",
+          "price": 12,
+          "tags": [],
+          "attributes": [],
+          "quantity": 9999
+        }
+      ]
+    },
+    "S24068403411340407_S13634": {
+      "name": "Jiyue Bakery (Tian'an Branch)",
+      "store_id": "S24068403411340407_S13634",
+      "score": 5,
+      "location": {
+        "address": "Jiyue Bakery, 140 Dongtu Street, Mingxin Garden, Fengze District, Quanzhou, Fujian Province",
+        "latitude": 24.897678,
+        "longitude": 118.604089
+      },
+      "tags": [],
+      "products": [
+        {
+          "name": "Spicy Termite Mushroom Cheese Ciabatta",
+          "store_id": "S24068403411340407_S13634",
+          "store_name": "Jiyue Bakery (Tian'an Branch)",
+          "price": 18.0,
+          "tags": [
+            "Salty Flavor",
+            "Chewy Texture"
+          ],
+          "product_id": "S66100942698586097_P70018",
+          "attributes": [],
+          "quantity": 9999
+        },
+        {
+          "name": "Walnut Black Sesame Bagel",
+          "product_id": "S17105871097487203_P06035",
+          "store_id": "S24068403411340407_S13634",
+          "store_name": "Jiyue Bakery (Tian'an Branch)",
+          "price": 10,
+          "tags": [],
+          "attributes": [],
+          "quantity": 9999
+        },
+        {
+          "name": "Matcha Grapefruit Brownie approx. 150g (Sliced by Default)",
+          "product_id": "S59610835430336398_P14478",
+          "store_id": "S24068403411340407_S13634",
+          "store_name": "Jiyue Bakery (Tian'an Branch)",
+          "price": 19,
+          "tags": [],
+          "attributes": [],
+          "quantity": 9999
+        }
+      ]
+    },
+    "S20428691750948298_S36031": {
+      "name": "Da Gaoxiong",
+      "store_id": "S20428691750948298_S36031",
+      "score": 5,
+      "location": {
+        "address": "Da Gaoxiong (Huada Branch), Shop A, 3 Fahua Mei Guanyin Road, Fengze District, Quanzhou, Fujian Province",
+        "latitude": 24.938907,
+        "longitude": 118.647756
+      },
+      "tags": [],
+      "products": [
+        {
+          "name": "Braised Noodles + Free Drink",
+          "product_id": "S35249614272449440_P07469",
+          "store_id": "S20428691750948298_S36031",
+          "store_name": "Da Gaoxiong",
+          "price": 17,
+          "tags": [],
+          "attributes": [],
+          "quantity": 9999
+        }
+      ]
+    }
+  },
+  "orders": {
+    "40711006O01": {
+      "order_id": "40711006O01",
+      "order_type": "delivery",
+      "user_id": "U000062",
+      "store_id": "S24068403411340407_S13634",
+      "note": "",
+      "location": {
+        "address": "Quanzhou Urban Construction Group Co., Ltd., Building 8, Shuimo Fanglin, 688 Anji South Road, Fengze District, Quanzhou, Fujian Province",
+        "longitude": 118.647046,
+        "latitude": 24.907155
+      },
+      "dispatch_time": "2025-08-15 18:07:00",
+      "shipping_time": 53,
+      "delivery_time": "2025-08-15 19:00:00",
+      "total_price": 48,
+      "create_time": "2025-08-15 18:00:00",
+      "update_time": "2025-08-15 18:00:00",
+      "status": "delivered",
+      "products": [
+        {
+          "product_id": "S59610835430336398_P14478",
+          "price": 19,
+          "quantity": 2,
+          "attributes": ""
+        },
+        {
+          "product_id": "S17105871097487203_P06035",
+          "price": 10,
+          "quantity": 1,
+          "attributes": ""
+        }
+      ]
+    }
+  }
+}

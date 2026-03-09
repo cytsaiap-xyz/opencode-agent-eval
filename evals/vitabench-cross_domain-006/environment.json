@@ -1,0 +1,810 @@
+{
+  "task_id": "10811003",
+  "domain": "cross_domain",
+  "time": "2025-04-19 18:23:19",
+  "user_id": "U646779",
+  "weather": [
+    {
+      "city": "Nanning",
+      "category": "cloudy",
+      "datetime": "2025-04-19",
+      "temperature": [
+        18,
+        26
+      ],
+      "humidity": 65
+    },
+    {
+      "city": "Nanning",
+      "category": "sunny",
+      "datetime": "2025-04-24",
+      "temperature": [
+        19,
+        27
+      ],
+      "humidity": 60
+    },
+    {
+      "city": "Nanning",
+      "category": "sunny",
+      "datetime": "2025-04-25",
+      "temperature": [
+        20,
+        28
+      ],
+      "humidity": 55
+    }
+  ],
+  "location": [
+    {
+      "address": "Guangxi Sports Center, 669 Wuxiang Avenue, Liangqing District, Nanning, Guangxi Zhuang Autonomous Region",
+      "longitude": 108.331803,
+      "latitude": 22.801354
+    }
+  ],
+  "user_profile": {
+    "user id": "U646779",
+    "occupation": "HR Manager",
+    "gender": "female",
+    "age group": "35~40",
+    "residence": "Nanning",
+    "home address": "Room 1802, Unit 1, Building 3, Nanning Wanda Mall, 136 Minzu Avenue, Qingxiu District, Nanning, Guangxi Province",
+    "work address": "12th Floor, Building A, Hangyang International City, 131 Minzu Avenue, Qingxiu District, Nanning, Guangxi Province",
+    "dietary restrictions": "No High Sugar, No Alcoholic",
+    "family status": "Has pets",
+    "personality": "Emotionally volatile, expresses with strong emotional overtones"
+  },
+  "user_historical_behaviors": {
+    "user id": "U646779",
+    "occupation": "HR Manager",
+    "gender": "female",
+    "age group": "35~40",
+    "residence": "Nanning",
+    "home address": "Room 1802, Unit 1, Building 3, Nanning Wanda Mall, 136 Minzu Avenue, Qingxiu District, Nanning, Guangxi Province",
+    "work address": "12th Floor, Building A, Hangyang International City, 131 Minzu Avenue, Qingxiu District, Nanning, Guangxi Province",
+    "delivery": {
+      "food delivery": {
+        "breakfast": {
+          "frequently purchased categories": [
+            "Quick Meals/Buns/Pan-fried Buns (Average 15 yuan)",
+            "Quick Meals/Light Food (Average 25 yuan)",
+            "Quick Meals/Salad (Average 28 yuan)"
+          ],
+          "cost per order": "15~30 yuan",
+          "preferred store rating": "4.3~4.8 points",
+          "preferred delivery time": "15~25 minutes",
+          "preferred distance": "0~1500m",
+          "recent orders": [
+            {
+              "store": "Fresh Elements Light Food",
+              "product": "Avocado Chicken Breast Salad"
+            },
+            {
+              "store": "Morning Taste Pan-fried Buns",
+              "product": "Signature Pan-fried Buns"
+            },
+            {
+              "store": "Wugumofang",
+              "product": "Fruit Oatmeal Cup"
+            }
+          ],
+          "search history": [
+            "Healthy breakfast",
+            "Light food",
+            "Salad",
+            "Pan-fried buns",
+            "Low Sugar"
+          ]
+        },
+        "weekday lunch/dinner": {
+          "frequently purchased categories": [
+            "Quick Meals/Healthy Meals (Average 38 yuan)",
+            "Quick Meals/Rice with Toppings (Average 28 yuan)",
+            "Chinese Cuisine/Cantonese Cuisine (Average 45 yuan)"
+          ],
+          "cost per order": "25~50 yuan",
+          "preferred store rating": "4.2~4.7 points",
+          "preferred delivery time": "20~35 minutes",
+          "preferred distance": "0~2500m",
+          "recent orders": [
+            {
+              "store": "Green Canteen",
+              "product": "Low Fat Chicken Breast Rice"
+            },
+            {
+              "store": "Cantonese Small Kitchen",
+              "product": "Steamed Bass Meal Set"
+            },
+            {
+              "store": "Home-style Restaurant",
+              "product": "Stir-fried Pork with Black Fungus Rice Set"
+            }
+          ],
+          "search history": [
+            "Healthy meal",
+            "Cantonese cuisine",
+            "Low Fat",
+            "Rice with toppings",
+            "Home-style dishes"
+          ]
+        },
+        "weekend lunch/dinner": {
+          "frequently purchased categories": [
+            "Chinese Cuisine/Cantonese Cuisine (Average 85 yuan)",
+            "International Cuisine/Japanese Bento/Sushi (Average 95 yuan)",
+            "Chinese Cuisine/Sichuan Cuisine (Average 80 yuan)"
+          ],
+          "cost per order": "70~120 yuan",
+          "preferred store rating": "4.5~4.9 points",
+          "preferred delivery time": "25~45 minutes",
+          "preferred distance": "0~3500m",
+          "recent orders": [
+            {
+              "store": "Yuezhenxuan",
+              "product": "White Cut Chicken Platter"
+            },
+            {
+              "store": "Japanese Style Cuisine",
+              "product": "Salmon Sushi Set"
+            },
+            {
+              "store": "Sichuan Flavor Pavilion",
+              "product": "Boiled Fish Slices"
+            }
+          ],
+          "search history": [
+            "Cantonese cuisine",
+            "Japanese food",
+            "Sushi",
+            "Sichuan cuisine",
+            "Sugar-Free"
+          ]
+        },
+        "desserts/drinks/snacks": {
+          "frequently purchased categories": [
+            "Drinks & Desserts/Juice (Average 22 yuan)",
+            "Drinks & Desserts/Fruit Mix (Average 28 yuan)",
+            "Drinks & Desserts/Plain Tea/Herbal Tea (Average 18 yuan)"
+          ],
+          "cost per order": "15~30 yuan",
+          "preferred store rating": "4.4~4.8 points",
+          "preferred delivery time": "15~25 minutes",
+          "preferred distance": "0~2000m",
+          "recent orders": [
+            {
+              "store": "Fresh Juice Bar",
+              "product": "Fresh Grapefruit Juice"
+            },
+            {
+              "store": "ChaiBaiDao",
+              "product": "Sugar-Free Oolong Tea"
+            },
+            {
+              "store": "Fresh Fruit Mix",
+              "product": "Colorful Fruit Mix"
+            }
+          ],
+          "search history": [
+            "Juice",
+            "Freshly squeezed",
+            "Sugar-Free tea",
+            "Fruit mix",
+            "Low Sugar drinks"
+          ]
+        },
+        "night snack": {
+          "frequently purchased categories": [
+            "Quick Meals/Rice Noodles/Rice Vermicelli (Average 25 yuan)",
+            "Quick Meals/Small Dishes/Small Portions (Average 30 yuan)",
+            "Snacks & Marinated Food/Marinated Items (Average 35 yuan)"
+          ],
+          "cost per order": "20~40 yuan",
+          "preferred store rating": "4.1~4.6 points",
+          "preferred delivery time": "20~35 minutes",
+          "preferred distance": "0~2500m",
+          "recent orders": [
+            {
+              "store": "Yunnan Crossing Bridge Rice Noodles",
+              "product": "Classic Beef Rice Noodles"
+            },
+            {
+              "store": "Marinated Food Shop",
+              "product": "Marinated Duck Wings Platter"
+            },
+            {
+              "store": "Small Portion Restaurant",
+              "product": "Dry-fried String Beans"
+            }
+          ],
+          "search history": [
+            "Rice noodles",
+            "Small dishes",
+            "Marinated food",
+            "Not spicy",
+            "Healthy night snack"
+          ]
+        }
+      },
+      "product delivery": {
+        "frequently purchased categories": [
+          "Vegetables/Bean Products(22%)",
+          "Fruits(18%)",
+          "Snacks(15%)",
+          "Household Items(14%)",
+          "Grains, Oils, Seasonings and Dried Foods(12%)",
+          "Pet Supplies(10%)",
+          "Others(9%)"
+        ],
+        "frequently visited stores": [
+          "Yonghui Supermarket(35%)",
+          "Dingdong Fresh(28%)",
+          "Family Mart(22%)",
+          "Other Stores(15%)"
+        ],
+        "cost per order by category": {
+          "Vegetables/Bean Products": "5~20 yuan",
+          "Fruits": "15~40 yuan",
+          "Snacks": "10~30 yuan",
+          "Household Items": "15~50 yuan",
+          "Grains, Oils, Seasonings and Dried Foods": "20~60 yuan",
+          "Pet Supplies": "30~100 yuan"
+        },
+        "preferred delivery time": "30~60 minutes",
+        "typical order time": "18~20 o'clock(38%)，10~12 o'clock(25%)，21~22 o'clock(18%)",
+        "recent orders": [
+          {
+            "store": "Yonghui Supermarket",
+            "product": "Organic Spinach+Tofu+Chicken Breast"
+          },
+          {
+            "store": "Family Mart",
+            "product": "Sugar-Free Soda Water+Whole Wheat Bread"
+          },
+          {
+            "store": "Dingdong Fresh",
+            "product": "Dog Food"
+          }
+        ],
+        "search history": [
+          "Organic vegetables",
+          "Low-sodium soy sauce",
+          "Sugar-Free drinks",
+          "Cat food",
+          "Whole wheat bread",
+          "Chicken Breast"
+        ]
+      }
+    },
+    "in-store consumption": {
+      "in-store dining": {
+        "fine-dining": {
+          "frequently purchased categories": [
+            "Regional Cuisine/Cantonese Cuisine (Average 135 yuan)",
+            "International Cuisine/Japanese Cuisine (Average 165 yuan)",
+            "Regional Cuisine/Fish Dishes (Average 120 yuan)"
+          ],
+          "preferred average price per person": "120~170 yuan",
+          "preferred store rating": "4.2~4.9 stars",
+          "typical dining time": "18:30-20:30",
+          "preferred distance": "500~3000m",
+          "recent orders": [
+            {
+              "store": "Yuejiang Spring (Wanda Mall Branch)",
+              "product": "Steamed Leopard Coral Grouper, Boiled Shrimp"
+            },
+            {
+              "store": "Helv Rotating Sushi (Hangyang Branch)",
+              "product": "Salmon Sashimi Set"
+            },
+            {
+              "store": "Fish on Fish (Qingxiu Wanda Branch)",
+              "product": "Sauerkraut Fish Set"
+            }
+          ],
+          "search history": [
+            "Sugar-Free desserts",
+            "Healthy Cantonese cuisine",
+            "Low Fat Japanese food",
+            "Business dining"
+          ]
+        },
+        "light meal": {
+          "frequently purchased categories": [
+            "Snacks & Fast Food/Chinese Quick Meals (Average 42 yuan)",
+            "International Cuisine/Southeast Asian Cuisine (Average 55 yuan)",
+            "Regional Cuisine/Specialty Dishes (Average 48 yuan)"
+          ],
+          "preferred average price per person": "35~60 yuan",
+          "preferred store rating": "3.5~4.5 stars",
+          "typical dining time": "12:00-13:30",
+          "preferred distance": "0~800m",
+          "recent orders": [
+            {
+              "store": "Yunhai Yao (Hangyang International Branch)",
+              "product": "Crossing Bridge Rice Noodles Set"
+            },
+            {
+              "store": "Thai Flavor (Qingxiu Wanda Branch)",
+              "product": "Tom Yum Kung Rice"
+            },
+            {
+              "store": "Nanning Vermicelli (Minzu Avenue Branch)",
+              "product": "Lemon Sour Spicy Vermicelli"
+            }
+          ],
+          "search history": [
+            "Work meal",
+            "Low Sugar set meal",
+            "Fast food",
+            "Light food"
+          ]
+        },
+        "desserts/drinks/snacks": {
+          "frequently purchased categories": [
+            "Beverage Shops (Average 22 yuan)",
+            "Bread & Desserts (Average 32 yuan)",
+            "Other Dining/Fresh Fruits (Average 18 yuan)"
+          ],
+          "preferred average price per person": "18~35 yuan",
+          "preferred store rating": "4.0~4.8 stars",
+          "typical dining time": "15:00-16:30",
+          "preferred distance": "0~500m",
+          "recent orders": [
+            {
+              "store": "Nayuki's Tea (Wanda Mall Branch)",
+              "product": "Sugar-Free Cheese Jasmine Tea"
+            },
+            {
+              "store": "Whole Wheat Philosophy (Hangyang Branch)",
+              "product": "Whole Wheat Cranberry Scone"
+            },
+            {
+              "store": "Fresh Harvest Fruits (Minzu Avenue Branch)",
+              "product": "Selected Fruit Platter"
+            }
+          ],
+          "search history": [
+            "Sugar-Free drinks",
+            "Low Fat desserts",
+            "Healthy light food",
+            "Fresh fruits"
+          ]
+        }
+      },
+      "other in-store services": {
+        "frequently consumed categories": {
+          "Sports & Fitness/Fitness Centers": "35%",
+          "Beauty/Hair Salon": "20%",
+          "Beauty/Nail Salon": "15%",
+          "Leisure & Entertainment/Massage/Foot Massage": "20%",
+          "Pets/Pet Hospitals": "10%"
+        },
+        "cost per order by category": {
+          "Sports & Fitness/Fitness Centers": "80~200 yuan",
+          "Beauty/Hair Salon": "150~350 yuan",
+          "Beauty/Nail Salon": "120~280 yuan",
+          "Leisure & Entertainment/Massage/Foot Massage": "180~300 yuan",
+          "Pets/Pet Hospitals": "100~500 yuan"
+        },
+        "preferred store rating": "4.0~4.8 stars",
+        "preferred service time": "18:00-20:00",
+        "preferred distance": "0~2500m",
+        "recent orders": [
+          {
+            "store": "Will's Gym (Wanda Mall Branch)",
+            "product": "Yoga Private Lessons"
+          },
+          {
+            "store": "Youmi Hair Styling (Qingxiu District Branch)",
+            "product": "Senior Stylist Haircut"
+          },
+          {
+            "store": "Love Pet Hospital (Minzu Avenue Branch)",
+            "product": "Pet Grooming Package"
+          }
+        ],
+        "search history": [
+          "Yoga classes",
+          "SPA massage",
+          "Stress relief",
+          "Pet grooming",
+          "Nail salon"
+        ]
+      }
+    },
+    "OTA": {
+      "visited scenes": {
+        "Cultural Heritage Sites": "25%",
+        "Exhibition Halls (Museums/Art Galleries)": "30%",
+        "Natural Landscapes (Mountains/Lakes/Forests)": "20%",
+        "Parks": "15%",
+        "Hot Spring Resorts": "10%"
+      },
+      "cost per night on hotel": "500~1000 yuan",
+      "visited hotels": {
+        "Atour Hotel": "35%",
+        "Ji Hotel": "25%",
+        "Vienna Hotel": "20%",
+        "Orange Hotel": "15%",
+        "Huazhu": "5%"
+      },
+      "browsed hotels": {
+        "Four-star Hotels": "35%",
+        "Comfort Hotels": "45%",
+        "Three-star Hotels": "15%",
+        "Luxury Hotels": "5%"
+      },
+      "historical travel plans": {
+        "Nanning-Guangzhou": {
+          "price range": "300-500 yuan",
+          "transportation mode": "High-speed Rail/EMU Train"
+        },
+        "Nanning-Beijing": {
+          "price range": "1000-2000 yuan",
+          "transportation mode": "Airplane"
+        },
+        "Nanning-Shanghai": {
+          "price range": "800-1500 yuan",
+          "transportation mode": "Airplane"
+        },
+        "Nanning-Chengdu": {
+          "price range": "600-1200 yuan",
+          "transportation mode": "Airplane"
+        },
+        "Nanning-Guilin": {
+          "price range": "150-300 yuan",
+          "transportation mode": "High-speed Rail/EMU Train"
+        },
+        "Nanning-Kunming": {
+          "price range": "400-700 yuan",
+          "transportation mode": "High-speed Rail/EMU Train"
+        },
+        "Guangzhou-Nanning": {
+          "price range": "300-500 yuan",
+          "transportation mode": "High-speed Rail/EMU Train"
+        },
+        "Beijing-Nanning": {
+          "price range": "1000-2000 yuan",
+          "transportation mode": "Airplane"
+        }
+      }
+    }
+  },
+  "stores": {
+    "S17550802127833850_S00001": {
+      "name": "Pet Love Pet Food Specialty Store",
+      "store_id": "S17550802127833850_S00001",
+      "score": 4.8,
+      "location": {
+        "address": "Pet Love Pet Food Specialty Store, 25 Keyuan Avenue, Xixiangtang District, Nanning, Guangxi Province",
+        "latitude": 22.837562,
+        "longitude": 108.291245
+      },
+      "tags": [
+        "Pet Food",
+        "Pet Supplies",
+        "Low Sugar Pet Food"
+      ],
+      "store_type": "target",
+      "products": [
+        {
+          "name": "Chicken Breast",
+          "store_id": "S17550802127833850_S00001",
+          "store_name": "Pet Love Pet Food Specialty Store",
+          "price": 59.9,
+          "tags": [
+            "Dog Treats",
+            "Chicken Breast",
+            "Large Dog"
+          ],
+          "product_id": "S17550802127833850_P00002",
+          "attributes": [],
+          "product_type": "target"
+        },
+        {
+          "name": "Nutritional Canned Food Specially for Golden Retrievers",
+          "store_id": "S17550802127833850_S00001",
+          "store_name": "Pet Love Pet Food Specialty Store",
+          "price": 28.8,
+          "tags": [
+            "Dog Food Can",
+            "Specially for Golden Retrievers",
+            "Easy to Digest"
+          ],
+          "product_id": "S17550802127833850_P00003",
+          "attributes": [],
+          "product_type": "target"
+        },
+        {
+          "name": "Stainless Steel Dog Food Bowl",
+          "store_id": "S17550802127833850_S00001",
+          "store_name": "Pet Love Pet Food Specialty Store",
+          "price": 35.5,
+          "tags": [
+            "Pet Supplies",
+            "Dining Utensils",
+            "Stainless Steel",
+            "Suitable for Large Dogs",
+            "Non-Slip Base"
+          ],
+          "product_id": "S17550802127833850_P00004",
+          "attributes": [],
+          "product_type": "target"
+        },
+        {
+          "name": "Fruit Flavored Energy Bar for Dogs",
+          "store_id": "S17550802127833850_S00001",
+          "store_name": "Pet Love Pet Food Specialty Store",
+          "price": 25.9,
+          "tags": [
+            "Dog Treats",
+            "Energy Supplement",
+            "Fruit Flavor",
+            "Suitable for Exercise",
+            "Portable"
+          ],
+          "product_id": "S17550802127833850_P00005",
+          "attributes": [
+            "Apple flavor",
+            "Banana flavor",
+            "Blueberry flavor"
+          ],
+          "product_type": "distraction"
+        },
+        {
+          "name": "Chicken Breast Treats Specially for Cats",
+          "store_id": "S17550802127833850_S00001",
+          "store_name": "Pet Love Pet Food Specialty Store",
+          "price": 45.9,
+          "tags": [
+            "Cat Treats",
+            "Chicken Breast",
+            "Low Sugar",
+            "High Protein",
+            "Small Chunks"
+          ],
+          "product_id": "S17550802127833850_P00008",
+          "attributes": [],
+          "product_type": "distraction"
+        }
+      ]
+    },
+    "S17550802127833850_S00002": {
+      "name": "Happy Pet Life Store",
+      "store_id": "S17550802127833850_S00002",
+      "score": 4.7,
+      "location": {
+        "address": "Happy Pet Life Store, 45 Keyuan Avenue, Xixiangtang District, Nanning, Guangxi Province",
+        "latitude": 22.838741,
+        "longitude": 108.293567
+      },
+      "tags": [
+        "Pet Food",
+        "Pet Supplies",
+        "Imported Brand"
+      ],
+      "store_type": "target",
+      "products": [
+        {
+          "name": "Energy Biscuits for Active Dogs",
+          "store_id": "S17550802127833850_S00002",
+          "store_name": "Happy Pet Life Store",
+          "price": 32.8,
+          "tags": [
+            "Dog Treats",
+            "With Sugar",
+            "High Energy",
+            "Suitable for Active Dogs"
+          ],
+          "product_id": "S17550802127833850_P00014",
+          "attributes": [
+            "200g/bag",
+            "Biscuit form",
+            "Suitable for all dog breeds"
+          ],
+          "product_type": "distraction"
+        }
+      ]
+    },
+    "S17550802127833850_S00003": {
+      "name": "Pet Nutritionist",
+      "store_id": "S17550802127833850_S00003",
+      "score": 4.6,
+      "location": {
+        "address": "Pet Nutritionist, 122 Mingxiu East Road, Xixiangtang District, Nanning, Guangxi Province",
+        "latitude": 22.842156,
+        "longitude": 108.295478
+      },
+      "tags": [
+        "Pet Food",
+        "Custom Nutrition",
+        "No Additives"
+      ],
+      "store_type": "target",
+      "products": [
+        {
+          "name": "Premium Chicken Breast Dog Food (2-Pack)",
+          "store_id": "S17550802127833850_S00003",
+          "store_name": "Pet Nutritionist",
+          "price": 89.9,
+          "tags": [
+            "Sugar-Free Formula",
+            "High Protein",
+            "Specially for Active Dogs",
+            "Suitable for Golden Retrievers",
+            "Chicken Breast",
+            "No Additives"
+          ],
+          "product_id": "S17550802127833850_P00016",
+          "attributes": [
+            "Standard size",
+            "Low salt formula"
+          ],
+          "product_type": "target"
+        },
+        {
+          "name": "Pet Energy Drink",
+          "store_id": "S17550802127833850_S00003",
+          "store_name": "Pet Nutritionist",
+          "price": 25.9,
+          "tags": [
+            "Sports Supplement",
+            "Quick Recovery",
+            "Marathon Special"
+          ],
+          "product_id": "S17550802127833850_P00019",
+          "attributes": [
+            "Original flavor",
+            "Beef flavor"
+          ],
+          "product_type": "distraction"
+        },
+        {
+          "name": "Pet Nutrition Bars (3-Pack)",
+          "store_id": "S17550802127833850_S00003",
+          "store_name": "Pet Nutritionist",
+          "price": 42.9,
+          "tags": [
+            "Specially for Active Dogs",
+            "Energy Supplement",
+            "Portable",
+            "Suitable for Golden Retrievers"
+          ],
+          "product_id": "S17550802127833850_P00020",
+          "attributes": [
+            "Beef flavor",
+            "Chicken flavor"
+          ],
+          "product_type": "distraction"
+        }
+      ]
+    },
+    "S17550802127833850_S00004": {
+      "name": "Fresh Meat Pet Food Ingredients",
+      "store_id": "S17550802127833850_S00004",
+      "score": 4.5,
+      "location": {
+        "address": "Fresh Meat Pet Food Ingredients, 55 Keyuan Avenue, Xixiangtang District, Nanning, Guangxi Province",
+        "latitude": 22.839245,
+        "longitude": 108.294123
+      },
+      "tags": [
+        "Fresh Pet Food",
+        "Chicken Breast",
+        "Sugar-Free"
+      ],
+      "store_type": "target",
+      "products": [
+        {
+          "name": "Chicken Breast",
+          "store_id": "S17550802127833850_S00004",
+          "store_name": "Fresh Meat Pet Food Ingredients",
+          "price": 35.8,
+          "tags": [
+            "Chicken Breast",
+            "For Dogs",
+            "No Additives",
+            "Sugar-Free",
+            "Specially for Active Dogs"
+          ],
+          "product_id": "S17550802127833850_P00021",
+          "attributes": [
+            "300g/pack",
+            "Fresh chilled",
+            "Cubed"
+          ],
+          "product_type": "target"
+        },
+        {
+          "name": "Beef Jerky Dog Treats",
+          "store_id": "S17550802127833850_S00004",
+          "store_name": "Fresh Meat Pet Food Ingredients",
+          "price": 42.5,
+          "tags": [
+            "Beef",
+            "For Dogs",
+            "Dry Food",
+            "High Energy",
+            "Training Reward"
+          ],
+          "product_id": "S17550802127833850_P00027",
+          "attributes": [
+            "250g/bag",
+            "Original flavor"
+          ],
+          "product_type": "distraction"
+        }
+      ]
+    },
+    "S17550802127833850_S00005": {
+      "name": "Sweet Heart Pet Snacks",
+      "store_id": "S17550802127833850_S00005",
+      "score": 4.3,
+      "location": {
+        "address": "Sweet Heart Pet Snacks, 128 University East Road, Xixiangtang District, Nanning, Guangxi Province",
+        "latitude": 22.836789,
+        "longitude": 108.298742
+      },
+      "tags": [
+        "Pet Snacks",
+        "Imported Snacks",
+        "Pet Toys"
+      ],
+      "store_type": "distraction",
+      "products": [
+        {
+          "name": "Fruit Flavored Sandwich Biscuits",
+          "store_id": "S17550802127833850_S00005",
+          "store_name": "Sweet Heart Pet Snacks",
+          "price": 25.9,
+          "tags": [
+            "Various Flavors",
+            "Crispy and Delicious",
+            "Suitable for Training"
+          ],
+          "product_id": "S17550802127833850_P00032",
+          "attributes": [
+            "250g package",
+            "Mixed flavors"
+          ],
+          "product_type": "distraction"
+        },
+        {
+          "name": "Honey Milk Sticks for Dogs",
+          "store_id": "S17550802127833850_S00005",
+          "store_name": "Sweet Heart Pet Snacks",
+          "price": 19.9,
+          "tags": [
+            "Calcium Supplement",
+            "Rich Milk Flavor",
+            "Popular Bestseller"
+          ],
+          "product_id": "S17550802127833850_P00033",
+          "attributes": [
+            "10 sticks/pack",
+            "Suitable for small dogs"
+          ],
+          "product_type": "distraction"
+        },
+        {
+          "name": "Pet Snacks",
+          "store_id": "S17550802127833850_S00005",
+          "store_name": "Sweet Heart Pet Snacks",
+          "price": 35.8,
+          "tags": [
+            "Creative Snacks",
+            "Beer Flavor",
+            "Party Essential"
+          ],
+          "product_id": "S17550802127833850_P00034",
+          "attributes": [
+            "330ml/bottle",
+            "Non-Alcoholic"
+          ],
+          "product_type": "distraction"
+        }
+      ]
+    }
+  },
+  "orders": {}
+}

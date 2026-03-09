@@ -1,0 +1,73 @@
+{
+  "required_orders": [
+    {
+      "order_id": "10826344T001",
+      "order_type": "instore",
+      "user_id": "U061728",
+      "store_id": "S17567846744104222_I00001",
+      "note": "",
+      "location": null,
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 168,
+      "create_time": "2025-11-06 19:47:11",
+      "update_time": "2025-11-06 19:47:11",
+      "status": "paid",
+      "products": [
+        {
+          "product_id": "S17567846744104222_P00001",
+          "name": "Organic Vegetarian Buffet Voucher",
+          "price": 168,
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "book_id": "10826344T002",
+      "shop_id": "S17567846744104222_I00001",
+      "book_time": "2025-11-08 12:00:00",
+      "update_time": "2025-11-06 19:49:08",
+      "customer_id": "U061728",
+      "customer_count": 3,
+      "book_price": 10,
+      "status": "paid"
+    },
+    {
+      "order_id": "10826344T003",
+      "order_type": "instore",
+      "user_id": "U061728",
+      "store_id": "S17567846744104222_I00002",
+      "note": "",
+      "location": null,
+      "dispatch_time": "",
+      "shipping_time": null,
+      "delivery_time": "",
+      "total_price": 120,
+      "create_time": "2025-11-06 19:51:48",
+      "update_time": "2025-11-06 19:51:48",
+      "status": "unpaid",
+      "products": [
+        {
+          "product_id": "S17567846744104222_P00010",
+          "name": "Yoga Small Group Class for Three (90 Minutes)",
+          "price": 120,
+          "quantity": 1
+        }
+      ]
+    }
+  ],
+  "rubrics": [
+    "The restaurant ordered should be a buffet restaurant",
+    "The restaurant ordered should be a vegetarian restaurant",
+    "The restaurant ordered should have outdoor dining areas",
+    "The total price of the items ordered at the restaurant should be less than or equal to 200 yuan",
+    "The restaurant order should be for a single-person voucher",
+    "The quantity of items ordered from the restaurant should be 1",
+    "The restaurant reservation should be at Qinghe Vegetarian Buffet Restaurant",
+    "The restaurant reservation time should be 2025-11-08 12:00:00",
+    "The number of people for the restaurant reservation should be 3",
+    "The yoga center ordered should be within 3km (including 3km) from Qinghe Vegetarian Buffet Restaurant, 3rd Floor, Green Plaza, 156 Kaiyuan Avenue, Luolong District, Luoyang",
+    "Check if the qualified yoga center offers Yoga Small Group Class (3 People), the result is yes, so the ordered item should be a package for a 3-person small group class"
+  ]
+}
