@@ -31,6 +31,9 @@ class TestDeepPlanningShoppingTask:
     def test_correct_level(self):
         assert cart["level"] == 2
 
+
+    def test_within_budget(self):
+        assert cart["final_price"] <= 3234
     def test_no_free_items_unless_explicitly_free(self):
         for item in cart["items"]:
             assert item["price"] > 0

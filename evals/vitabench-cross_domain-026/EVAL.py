@@ -16,7 +16,7 @@ class TestVitaBenchTask:
         assert len(result) == len(expected)
 
     def test_each_order_has_required_fields(self):
-        for order in result:
+        for i, order in enumerate(result):
             assert "store_id" in order
             assert "products" in order
             assert "total_price" in order
@@ -43,13 +43,15 @@ class TestVitaBenchTask:
 
     def test_order_1_has_correct_products(self):
         expected_products = [{"product_id": "S17550802154625724_P00006", "quantity": 1}, {"product_id": "S17550802154625724_P00006", "quantity": 1}]
+        remaining = list(result[1]["products"])
         for ep in expected_products:
-            found = next(
-                (p for p in result[1]["products"] if p["product_id"] == ep["product_id"]),
+            found_idx = next(
+                (i for i, p in enumerate(remaining)
+                 if p["product_id"] == ep["product_id"] and p["quantity"] == ep["quantity"]),
                 None,
             )
-            assert found is not None, f"Missing product {ep['product_id']}"
-            assert found["quantity"] == ep["quantity"]
+            assert found_idx is not None, f"Missing product {ep['product_id']} with quantity {ep['quantity']}"
+            remaining.pop(found_idx)
 
     def test_order_1_has_correct_total_price(self):
         assert abs(result[1]["total_price"] - 59.8) < 1

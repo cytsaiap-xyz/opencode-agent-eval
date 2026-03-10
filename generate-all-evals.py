@@ -125,6 +125,16 @@ def solve() -> list[dict]:
     with open(os.path.join(eval_dir, "solution.py"), "w") as f:
         f.write(solution)
 
+    # Helper to detect reservation/booking objects
+    def _is_reservation(o):
+        return ("book_id" in o or "reservation_id" in o) and "products" not in o
+
+    def _has_dup_product_ids(prods):
+        ids = [p.get("product_id") for p in prods]
+        return len(ids) != len(set(ids))
+
+    reservation_indices = {oi for oi, o in enumerate(required_orders) if _is_reservation(o)}
+
     # EVAL.py
     eval_py = '''import json
 import os
@@ -144,15 +154,55 @@ class TestVitaBenchTask:
         assert len(result) == len(expected)
 
     def test_each_order_has_required_fields(self):
-        for order in result:
-            assert "store_id" in order
-            assert "products" in order
-            assert "total_price" in order
-            assert isinstance(order["products"], list)
+        for i, order in enumerate(result):
 '''
+
+    if reservation_indices:
+        eval_py += f'            if i in {reservation_indices!r}:\n'
+        eval_py += '                # Reservation object\n'
+        eval_py += '                assert "shop_id" in order or "store_id" in order\n'
+        eval_py += '            else:\n'
+        eval_py += '                assert "store_id" in order\n'
+        eval_py += '                assert "products" in order\n'
+        eval_py += '                assert "total_price" in order\n'
+        eval_py += '                assert isinstance(order["products"], list)\n'
+    else:
+        eval_py += '            assert "store_id" in order\n'
+        eval_py += '            assert "products" in order\n'
+        eval_py += '            assert "total_price" in order\n'
+        eval_py += '            assert isinstance(order["products"], list)\n'
 
     # Add per-order checks
     for oi, order in enumerate(required_orders):
+        if _is_reservation(order):
+            # Reservation-specific tests
+            shop_id = order.get("shop_id", order.get("store_id", ""))
+            eval_py += f"""
+    def test_order_{oi}_is_reservation(self):
+        order = result[{oi}]
+        assert "shop_id" in order or "book_id" in order or "reservation_id" in order
+"""
+            if "shop_id" in order:
+                eval_py += f"""
+    def test_order_{oi}_matches_expected_shop(self):
+        order = result[{oi}]
+        shop_id = order.get("shop_id", order.get("store_id", ""))
+        assert shop_id == {shop_id!r}
+"""
+            if "reservation_time" in order:
+                rtime = order["reservation_time"]
+                eval_py += f"""
+    def test_order_{oi}_has_correct_reservation_time(self):
+        assert result[{oi}].get("reservation_time") == {rtime!r}
+"""
+            if "customer_count" in order:
+                count = order["customer_count"]
+                eval_py += f"""
+    def test_order_{oi}_has_correct_customer_count(self):
+        assert result[{oi}].get("customer_count") == {count}
+"""
+            continue
+
         store_id = order.get("store_id", "")
         products = order.get("products", [])
         total_price = order.get("total_price", 0)
@@ -162,7 +212,25 @@ class TestVitaBenchTask:
         eval_py += f"""
     def test_order_{oi}_matches_expected_store(self):
         assert result[{oi}]["store_id"] == {store_id!r}
+"""
 
+        if _has_dup_product_ids(products):
+            # Use consume-based matching for duplicate product_ids
+            eval_py += f"""
+    def test_order_{oi}_has_correct_products(self):
+        expected_products = {json.dumps(expected_products)}
+        remaining = list(result[{oi}]["products"])
+        for ep in expected_products:
+            found_idx = next(
+                (i for i, p in enumerate(remaining)
+                 if p["product_id"] == ep["product_id"] and p["quantity"] == ep["quantity"]),
+                None,
+            )
+            assert found_idx is not None, f"Missing product {{ep['product_id']}} with quantity {{ep['quantity']}}"
+            remaining.pop(found_idx)
+"""
+        else:
+            eval_py += f"""
     def test_order_{oi}_has_correct_products(self):
         expected_products = {json.dumps(expected_products)}
         for ep in expected_products:
@@ -172,7 +240,9 @@ class TestVitaBenchTask:
             )
             assert found is not None, f"Missing product {{ep['product_id']}}"
             assert found["quantity"] == ep["quantity"]
+"""
 
+        eval_py += f"""
     def test_order_{oi}_has_correct_total_price(self):
         assert abs(result[{oi}]["total_price"] - {total_price}) < 1
 """
@@ -567,11 +637,40 @@ class TestDeepPlanningShoppingTask:
         assert cart["level"] == {level}
 '''
 
-    # Level 2+ budget check
+    # Level 2+ budget check - try multiple patterns to extract budget ceiling
     if level >= 2:
-        budget_match = re.search(r'budget\s+(?:is\s+)?(?:between\s+)?(\d[\d,]*)', query.lower())
-        if budget_match:
-            budget_val = budget_match.group(1).replace(",", "")
+        budget_val = None
+        q_lower = query.lower()
+        # Pattern: "budget is between X and Y" or "budget ... between X and Y"
+        m = re.search(r'budget[^.]*?between\s+(\d[\d,]*)\s+and\s+(\d[\d,]*)', q_lower)
+        if m:
+            budget_val = m.group(2).replace(",", "")
+        # Pattern: "costs somewhere in the range of X to Y"
+        if not budget_val:
+            m = re.search(r'(?:costs?|price|spend)[^.]*?(?:range|between)\s+(?:of\s+)?(\d[\d,]*)\s+(?:to|and)\s+(\d[\d,]*)', q_lower)
+            if m:
+                budget_val = m.group(2).replace(",", "")
+        # Pattern: "keep ... between X and Y"
+        if not budget_val:
+            m = re.search(r'keep[^.]*?between\s+(\d[\d,]*)\s+and\s+(\d[\d,]*)', q_lower)
+            if m:
+                budget_val = m.group(2).replace(",", "")
+        # Pattern: "no more than X" / "not exceed X"
+        if not budget_val:
+            m = re.search(r'(?:no more than|not exceed(?:ing)?|at most|within|under)\s+(\d[\d,]*)', q_lower)
+            if m:
+                budget_val = m.group(1).replace(",", "")
+        # Pattern: "budget is X" / "budget of X"
+        if not budget_val:
+            m = re.search(r'budget\s+(?:is\s+)?(?:of\s+)?(\d[\d,]*)', q_lower)
+            if m:
+                budget_val = m.group(1).replace(",", "")
+        # Pattern: "total spending/price ... no more than Y"
+        if not budget_val:
+            m = re.search(r'total\s+(?:spending|price|cost)[^.]*?(?:no more than|not exceed)\s+(\d[\d,]*)', q_lower)
+            if m:
+                budget_val = m.group(1).replace(",", "")
+        if budget_val:
             eval_py += f"""
     def test_within_budget(self):
         assert cart["final_price"] <= {budget_val}

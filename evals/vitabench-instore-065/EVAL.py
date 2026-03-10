@@ -16,43 +16,49 @@ class TestVitaBenchTask:
         assert len(result) == len(expected)
 
     def test_each_order_has_required_fields(self):
-        for order in result:
-            assert "store_id" in order
-            assert "products" in order
-            assert "total_price" in order
-            assert isinstance(order["products"], list)
+        for i, order in enumerate(result):
+            if i in {1}:
+                # Reservation object
+                assert "shop_id" in order or "store_id" in order
+            else:
+                assert "store_id" in order
+                assert "products" in order
+                assert "total_price" in order
+                assert isinstance(order["products"], list)
 
     def test_order_0_matches_expected_store(self):
         assert result[0]["store_id"] == 'S17567836596776278_I00001'
 
     def test_order_0_has_correct_products(self):
         expected_products = [{"product_id": "S17567836596776278_P00001", "quantity": 2}, {"product_id": "S17567836596776278_P00001", "quantity": 1}]
+        remaining = list(result[0]["products"])
         for ep in expected_products:
-            found = next(
-                (p for p in result[0]["products"] if p["product_id"] == ep["product_id"]),
+            found_idx = next(
+                (i for i, p in enumerate(remaining)
+                 if p["product_id"] == ep["product_id"] and p["quantity"] == ep["quantity"]),
                 None,
             )
-            assert found is not None, f"Missing product {ep['product_id']}"
-            assert found["quantity"] == ep["quantity"]
+            assert found_idx is not None, f"Missing product {ep['product_id']} with quantity {ep['quantity']}"
+            remaining.pop(found_idx)
 
     def test_order_0_has_correct_total_price(self):
         assert abs(result[0]["total_price"] - 544) < 1
 
-    def test_order_1_matches_expected_store(self):
-        assert result[1]["store_id"] == ''
+    def test_order_1_is_reservation(self):
+        # This order is a reservation/booking, not a standard order
+        order = result[1]
+        assert "shop_id" in order or "book_id" in order or "reservation_id" in order
 
-    def test_order_1_has_correct_products(self):
-        expected_products = []
-        for ep in expected_products:
-            found = next(
-                (p for p in result[1]["products"] if p["product_id"] == ep["product_id"]),
-                None,
-            )
-            assert found is not None, f"Missing product {ep['product_id']}"
-            assert found["quantity"] == ep["quantity"]
+    def test_order_1_matches_expected_shop(self):
+        order = result[1]
+        shop_id = order.get("shop_id", order.get("store_id", ""))
+        assert shop_id == 'S17567836596776278_I00001'
 
-    def test_order_1_has_correct_total_price(self):
-        assert abs(result[1]["total_price"] - 0) < 1
+    def test_order_1_has_correct_reservation_time(self):
+        assert result[1].get("reservation_time") == '2024-10-11 20:00:00'
+
+    def test_order_1_has_correct_customer_count(self):
+        assert result[1].get("customer_count") == 3
 
     def test_rubric_0_the_massage_shop_ordered_should_have_a_comfortable_environme(self):
         # Structural check - the solve() function must produce orders that satisfy:
