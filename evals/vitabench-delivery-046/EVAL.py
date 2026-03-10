@@ -1,13 +1,13 @@
 import json
 import os
 import pytest
-from solution import solve
 
 _dir = os.path.dirname(os.path.abspath(__file__))
 with open(os.path.join(_dir, "expected.json")) as _f:
     expected_data = json.load(_f)
+with open(os.path.join(_dir, "answer.json")) as _f:
+    result = json.load(_f)
 
-result = solve()
 expected = expected_data["required_orders"]
 
 
@@ -55,41 +55,41 @@ class TestVitaBenchTask:
         assert abs(result[1]["total_price"] - 190) < 1
 
     def test_rubric_0_the_delivery_address_for_the_multi_person_sushi_set_meal_ord(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "The delivery address for the multi-person sushi set meal order should be Internal Medicine Building, Nanning First People\'s Hospital, No. 89 Qixing Road, Qingxiu District, Nanning, Guangxi Zhuang Autonomous Region"
         assert len(result) > 0
 
     def test_rubric_1_the_estimated_delivery_time_for_the_multi_person_sushi_set_m(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "The estimated delivery time for the multi-person sushi set meal order should be before 2:00 PM on September 26, 2025"
         assert len(result) > 0
 
     def test_rubric_2_the_order_items_should_be_sushi_products_of_the_multi_person(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "The order items should be sushi products of the multi-person set meal type"
         assert len(result) > 0
 
     def test_rubric_3_the_ordered_products_must_have_economical_affordable_price_c(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "The ordered products must have Economical/Affordable price characteristics"
         assert len(result) > 0
 
     def test_rubric_4_the_delivery_address_for_the_longan_drink_order_should_be_in(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "The delivery address for the longan drink order should be Internal Medicine Building, Nanning First People\'s Hospital, No. 89 Qixing Road, Qingxiu District, Nanning, Guangxi Zhuang Autonomous Region"
         assert len(result) > 0
 
     def test_rubric_5_the_estimated_delivery_time_for_the_longan_drink_order_shoul(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "The estimated delivery time for the longan drink order should be before 2:00 PM on September 26, 2025"
         assert len(result) > 0
 
     def test_rubric_6_the_order_items_should_be_drinks_containing_longan_ingredien(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "The order items should be drinks containing longan ingredients"
         assert len(result) > 0
 
     def test_rubric_7_all_products_in_the_longan_drink_order_should_have_a_sweetne(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "All products in the longan drink order should have a sweetness attribute of three parts sugar"
         assert len(result) > 0

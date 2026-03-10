@@ -1,13 +1,13 @@
 import json
 import os
 import pytest
-from solution import solve
 
 _dir = os.path.dirname(os.path.abspath(__file__))
 with open(os.path.join(_dir, "expected.json")) as _f:
     expected_data = json.load(_f)
+with open(os.path.join(_dir, "answer.json")) as _f:
+    result = json.load(_f)
 
-result = solve()
 expected = expected_data["required_orders"]
 
 
@@ -91,61 +91,61 @@ class TestVitaBenchTask:
         assert abs(result[3]["total_price"] - 288) < 1
 
     def test_rubric_0_the_beauty_salon_should_provide_face_to_face_consultation_se(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "The beauty salon should provide face-to-face consultation service"
         assert len(result) > 0
 
     def test_rubric_1_the_receptionist_and_doctor_of_the_beauty_salon_should_hold(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "The receptionist and doctor of the beauty salon should hold professional qualification certificates"
         assert len(result) > 0
 
     def test_rubric_2_the_beauty_salon_order_should_include_a_facial_spot_removal(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "The beauty salon order should include a facial spot removal and anti-wrinkle package with a quantity of 1"
         assert len(result) > 0
 
     def test_rubric_3_the_beauty_salon_order_should_include_a_facial_lifting_and_f(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "The beauty salon order should include a facial lifting and firming package with a quantity of 1"
         assert len(result) > 0
 
     def test_rubric_4_the_facial_spot_removal_and_anti_wrinkle_package_and_facial(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "The facial spot removal and anti-wrinkle package and facial lifting and firming package should be from the same merchant"
         assert len(result) > 0
 
     def test_rubric_5_all_beauty_salon_ordered_items_should_be_holiday_special_pac(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "All beauty salon ordered items should be holiday special packages"
         assert len(result) > 0
 
     def test_rubric_6_the_reserved_beauty_salon_should_be_xinyan_medical_aesthetic(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "The reserved beauty salon should be Xinyan Medical Aesthetics Center (Qingxiu Mixc Branch)"
         assert len(result) > 0
 
     def test_rubric_7_the_beauty_salon_appointment_time_should_be_2025_03_08_14_00(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "The beauty salon appointment time should be 2025-03-08 14:00"
         assert len(result) > 0
 
     def test_rubric_8_the_number_of_people_for_the_beauty_salon_appointment_should(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "The number of people for the beauty salon appointment should be 2"
         assert len(result) > 0
 
     def test_rubric_9_user_history_should_be_checked__and_since_the_user_previousl(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "User history should be checked, and since the user previously frequented Tang Palace Cantonese Restaurant (Qingxiu Mixc Branch), the Cantonese restaurant order should be from Tang Palace Cantonese Restaurant (Qingxiu Mixc Branch)"
         assert len(result) > 0
 
     def test_rubric_10_the_cantonese_restaurant_should_be_checked_for_women_s_day_s(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "The Cantonese restaurant should be checked for Women\'s Day special set menu for two, and since it is available, the Cantonese restaurant order should be Women\'s Day Special Cantonese Premium Set for Two"
         assert len(result) > 0
 
     def test_rubric_11_the_order_status_for_business_set_menu_a_for_two_should_be_c(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "The order status for Business Set Menu A for Two should be cancelled"
         assert len(result) > 0

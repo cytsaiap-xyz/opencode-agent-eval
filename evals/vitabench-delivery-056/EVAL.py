@@ -1,13 +1,13 @@
 import json
 import os
 import pytest
-from solution import solve
 
 _dir = os.path.dirname(os.path.abspath(__file__))
 with open(os.path.join(_dir, "expected.json")) as _f:
     expected_data = json.load(_f)
+with open(os.path.join(_dir, "answer.json")) as _f:
+    result = json.load(_f)
 
-result = solve()
 expected = expected_data["required_orders"]
 
 
@@ -55,21 +55,21 @@ class TestVitaBenchTask:
         assert abs(result[1]["total_price"] - 29.8) < 1
 
     def test_rubric_0_successfully_canceled_user_s__deluxe__egg_pancake_order_from(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "Successfully canceled user\'s \"Deluxe\" Egg Pancake order from Jianbing Story (Tofu Pudding · Soy Milk · Porridge · Huayang Branch), order status should be changed to cancelled"
         assert len(result) > 0
 
     def test_rubric_1_the_delivery_address_for_the_roast_duck_and_char_siu_combo_r(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "The delivery address for the Roast Duck and Char Siu Combo Rice order should be Building B, Tencent Chengdu Building, Yunhua Road, Wuhou District, Chengdu, Sichuan Province"
         assert len(result) > 0
 
     def test_rubric_2_the_estimated_delivery_time_for_the_roast_duck_and_char_siu(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "The estimated delivery time for the Roast Duck and Char Siu Combo Rice order should be after 2025-09-22 16:00"
         assert len(result) > 0
 
     def test_rubric_3_the_roast_duck_and_char_siu_combo_rice_order_should_not_sele(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "The Roast Duck and Char Siu Combo Rice order should not select Macau Chen Guangji Roast Restaurant (Yuanda Branch) as the merchant"
         assert len(result) > 0

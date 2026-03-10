@@ -1,13 +1,13 @@
 import json
 import os
 import pytest
-from solution import solve
 
 _dir = os.path.dirname(os.path.abspath(__file__))
 with open(os.path.join(_dir, "expected.json")) as _f:
     expected_data = json.load(_f)
+with open(os.path.join(_dir, "answer.json")) as _f:
+    result = json.load(_f)
 
-result = solve()
 expected = expected_data["required_orders"]
 
 
@@ -59,41 +59,41 @@ class TestVitaBenchTask:
         assert result[1].get("customer_count") == 1
 
     def test_rubric_0_the_gym_should_be_fully_equipped(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "The gym should be Fully Equipped"
         assert len(result) > 0
 
     def test_rubric_1_the_gym_should_be_within_5000m_range_of_room_502__unit_1__bu(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "The gym should be within 5000m range of Room 502, Unit 1, Building 3, Longcheng Shangdu, 136 Qinxian North Street, Xiaodian District, Taiyuan City"
         assert len(result) > 0
 
     def test_rubric_2_the_gym_should_provide_swimming_pool(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "The gym should provide Swimming Pool"
         assert len(result) > 0
 
     def test_rubric_3_the_gym_should_provide_swimming_class_single_experience_vouc(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "The gym should provide Swimming Class Single Experience Voucher and Body Shaping Class Single Experience Voucher"
         assert len(result) > 0
 
     def test_rubric_4_the_weather_in_taiyuan_on_2025_11_07_will_be_overcast__body(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "The weather in Taiyuan on 2025-11-07 will be overcast, Body Shaping class should be ordered"
         assert len(result) > 0
 
     def test_rubric_5_the_gym_reservation_should_be_made_at_kangti_swimming_fitnes(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "The gym reservation should be made at Kangti Swimming Fitness Club"
         assert len(result) > 0
 
     def test_rubric_6_the_gym_reservation_time_should_be_2025_11_07_17_30_00(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "The gym reservation time should be 2025-11-07 17:30:00"
         assert len(result) > 0
 
     def test_rubric_7_the_number_of_people_for_the_gym_reservation_should_be_1(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "The number of people for the gym reservation should be 1"
         assert len(result) > 0

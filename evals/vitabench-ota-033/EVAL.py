@@ -1,13 +1,13 @@
 import json
 import os
 import pytest
-from solution import solve
 
 _dir = os.path.dirname(os.path.abspath(__file__))
 with open(os.path.join(_dir, "expected.json")) as _f:
     expected_data = json.load(_f)
+with open(os.path.join(_dir, "answer.json")) as _f:
+    result = json.load(_f)
 
-result = solve()
 expected = expected_data["required_orders"]
 
 
@@ -103,81 +103,81 @@ class TestVitaBenchTask:
         assert abs(result[4]["total_price"] - 138) < 1
 
     def test_rubric_0_the_booking_dates_for_mangshi_hotel_are_july_2__2025_and_jul(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "The booking dates for Mangshi hotel are July 2, 2025 and July 3, 2025"
         assert len(result) > 0
 
     def test_rubric_1_the_mangshi_hotel_should_have_good_views__a_scenic_view_room(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "The Mangshi hotel should have good views, a Scenic View Room should be booked"
         assert len(result) > 0
 
     def test_rubric_2_the_price_of_the_mangshi_hotel_must_be_within_the_range_of_5(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "The price of the Mangshi hotel must be within the range of 500-1000 yuan"
         assert len(result) > 0
 
     def test_rubric_3_check_the_weather_in_mangshi_on_july_2__2025_and_july_3__202(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "Check the weather in Mangshi on July 2, 2025 and July 3, 2025 (sunny and cloudy respectively) and the weather in Tengchong on July 4, 2025 and July 5, 2025 (overcast and showers respectively), so the hotel booked in Tengchong should have a swimming pool"
         assert len(result) > 0
 
     def test_rubric_4_the_swimming_pool_in_the_tengchong_hotel_should_be_outdoor(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "The swimming pool in the Tengchong hotel should be outdoor"
         assert len(result) > 0
 
     def test_rubric_5_the_tengchong_hotel_should_have_good_views__a_mountain_view(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "The Tengchong hotel should have good views, a Mountain View Room should be booked"
         assert len(result) > 0
 
     def test_rubric_6_the_booking_dates_for_tengchong_hotel_are_july_4__2025_and_j(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "The booking dates for Tengchong hotel are July 4, 2025 and July 5, 2025"
         assert len(result) > 0
 
     def test_rubric_7_the_price_of_the_tengchong_hotel_must_be_within_the_range_of(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "The price of the Tengchong hotel must be within the range of 500-1000 yuan"
         assert len(result) > 0
 
     def test_rubric_8_the_booking_date_for_tickets_to_menghuan_golden_pagoda_is_ju(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "The booking date for tickets to Menghuan Golden Pagoda is July 3, 2025"
         assert len(result) > 0
 
     def test_rubric_9_the_number_of_tickets_booked_in_the_menghuan_golden_pagoda_o(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "The number of tickets booked in the Menghuan Golden Pagoda order is 2"
         assert len(result) > 0
 
     def test_rubric_10_the_tickets_booked_in_the_menghuan_golden_pagoda_order_are_a(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "The tickets booked in the Menghuan Golden Pagoda order are Adult Ticket"
         assert len(result) > 0
 
     def test_rubric_11_the_booking_date_for_tickets_to_tengchong_beihai_wetland_is(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "The booking date for tickets to Tengchong Beihai Wetland is July 5, 2025"
         assert len(result) > 0
 
     def test_rubric_12_the_number_of_tickets_booked_in_the_tengchong_beihai_wetland(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "The number of tickets booked in the Tengchong Beihai Wetland order is 2"
         assert len(result) > 0
 
     def test_rubric_13_the_tickets_booked_in_the_tengchong_beihai_wetland_order_are(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "The tickets booked in the Tengchong Beihai Wetland order are Adult Ticket"
         assert len(result) > 0
 
     def test_rubric_14_the_booking_date_for_tickets_to_tengchong_hot_sea_park_is_ju(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "The booking date for tickets to Tengchong Hot Sea Park is July 5, 2025"
         assert len(result) > 0
 
     def test_rubric_15_the_tickets_booked_in_the_tengchong_hot_sea_park_order_are_c(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "The tickets booked in the Tengchong Hot Sea Park order are Couple Package"
         assert len(result) > 0

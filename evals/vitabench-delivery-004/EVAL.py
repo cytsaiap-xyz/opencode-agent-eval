@@ -1,13 +1,13 @@
 import json
 import os
 import pytest
-from solution import solve
 
 _dir = os.path.dirname(os.path.abspath(__file__))
 with open(os.path.join(_dir, "expected.json")) as _f:
     expected_data = json.load(_f)
+with open(os.path.join(_dir, "answer.json")) as _f:
+    result = json.load(_f)
 
-result = solve()
 expected = expected_data["required_orders"]
 
 
@@ -55,26 +55,26 @@ class TestVitaBenchTask:
         assert abs(result[1]["total_price"] - 38.9) < 1
 
     def test_rubric_0_successfully_cancel_the_tom_yum_soup_noodles_order_with_id_1(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "Successfully cancel the Tom Yum Soup Noodles order with id 10716001O01 from HUHU Thai (Roosevelt Branch), the order status should be changed to cancelled"
         assert len(result) > 0
 
     def test_rubric_1_the_delivery_address_for_the_new_order_should_be_5th_floor(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "The delivery address for the new order should be 5th Floor, Building 3, Dalian Software Park, Shahekou District, Dalian, Liaoning Province"
         assert len(result) > 0
 
     def test_rubric_2_the_estimated_delivery_time_for_the_new_order_should_be_arou(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "The estimated delivery time for the new order should be around 2024-08-19 18:30"
         assert len(result) > 0
 
     def test_rubric_3_the_new_order_should_include_hot_and_sour_items_such_as_tom(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "The new order should include Hot and Sour items such as Tom Yum Fried Rice from HUHU Thai (Roosevelt Branch)"
         assert len(result) > 0
 
     def test_rubric_4_the_new_order_should_include_refreshing_caffeine_free_desser(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "The new order should include refreshing caffeine-free desserts such as Coconut Sago Pudding"
         assert len(result) > 0

@@ -1,13 +1,13 @@
 import json
 import os
 import pytest
-from solution import solve
 
 _dir = os.path.dirname(os.path.abspath(__file__))
 with open(os.path.join(_dir, "expected.json")) as _f:
     expected_data = json.load(_f)
+with open(os.path.join(_dir, "answer.json")) as _f:
+    result = json.load(_f)
 
-result = solve()
 expected = expected_data["required_orders"]
 
 
@@ -71,51 +71,51 @@ class TestVitaBenchTask:
         assert abs(result[2]["total_price"] - 29.76) < 1
 
     def test_rubric_0_need_to_cancel_the_order_containing_stinky_tofu_from_tianma(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "Need to cancel the order containing stinky tofu from Tianma Prince Stinky Tofu store, update the status of order with order_id 80716002T01 to cancelled"
         assert len(result) > 0
 
     def test_rubric_1_the_newly_placed_snack_order_should_be_from_tianma_prince_st(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "The newly placed snack order should be from Tianma Prince Stinky Tofu"
         assert len(result) > 0
 
     def test_rubric_2_the_newly_placed_combo_snack_set_should_avoid_foods_with_str(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "The newly placed combo snack set should avoid foods with strong odors, such as stinky tofu and other fermented snacks"
         assert len(result) > 0
 
     def test_rubric_3_the_estimated_delivery_time_of_the_newly_placed_snack_order(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "The estimated delivery time of the newly placed snack order should be before 2025-05-17 18:00:00"
         assert len(result) > 0
 
     def test_rubric_4_the_delivery_address_for_the_beverage_order_should_be_hunan(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "The delivery address for the beverage order should be Hunan TV Program Production Center (North Area), 60 meters southwest of the intersection of Anju Road and Guixin Road, Kaifu District, Changsha City, Hunan Province"
         assert len(result) > 0
 
     def test_rubric_5_the_estimated_delivery_time_for_the_beverage_order_should_be(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "The estimated delivery time for the beverage order should be before 2025-05-17 18:00:00"
         assert len(result) > 0
 
     def test_rubric_6_the_beverage_order_should_be_placed_from_liangguo_ba__hengda(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "The beverage order should be placed from Liangguo Ba (Hengda Yayuan Branch)"
         assert len(result) > 0
 
     def test_rubric_7_the_delivery_address_for_spicy_chicken_stir_fried_noodles_or(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "The delivery address for Spicy Chicken Stir-fried Noodles order should be Hunan TV Program Production Center (North Area), 60 meters southwest of the intersection of Anju Road and Guixin Road, Kaifu District, Changsha City, Hunan Province"
         assert len(result) > 0
 
     def test_rubric_8_the_estimated_delivery_time_for_the_spicy_chicken_stir_fried(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "The estimated delivery time for the Spicy Chicken Stir-fried Noodles order should be before 2025-05-17 18:00:00"
         assert len(result) > 0
 
     def test_rubric_9_the_product_brand_of_the_spicy_chicken_stir_fried_noodles_or(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "The product brand of the Spicy Chicken Stir-fried Noodles order should be Korean Samyang"
         assert len(result) > 0

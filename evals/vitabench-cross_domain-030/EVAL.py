@@ -1,13 +1,13 @@
 import json
 import os
 import pytest
-from solution import solve
 
 _dir = os.path.dirname(os.path.abspath(__file__))
 with open(os.path.join(_dir, "expected.json")) as _f:
     expected_data = json.load(_f)
+with open(os.path.join(_dir, "answer.json")) as _f:
+    result = json.load(_f)
 
-result = solve()
 expected = expected_data["required_orders"]
 
 
@@ -88,76 +88,76 @@ class TestVitaBenchTask:
         assert result[3].get("customer_count") == 24
 
     def test_rubric_0_the_restaurant_ordered_must_have_infant_friendly_facilities(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "The restaurant ordered must have Infant-Friendly facilities"
         assert len(result) > 0
 
     def test_rubric_1_the_restaurant_environment_needs_to_be_cozy_environment(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "The restaurant environment needs to be Cozy Environment"
         assert len(result) > 0
 
     def test_rubric_2_each_set_meal_ordered_by_the_agent_at_the_restaurant_must_be(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "Each set meal ordered by the agent at the restaurant must be for 8 people"
         assert len(result) > 0
 
     def test_rubric_3_the_agent_needs_to_order_three_multi_person_set_meals_at_the(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "The agent needs to order three multi-person set meals at the restaurant"
         assert len(result) > 0
 
     def test_rubric_4_the_set_meal_dishes_at_the_ordered_restaurant_should_not_be(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "The set meal dishes at the ordered restaurant should not be too oily"
         assert len(result) > 0
 
     def test_rubric_5_the_dishes_in_the_order_set_should_comply_with_the_user_s_di(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "The dishes in the order set should comply with the user\'s dietary restrictions: Low Salt"
         assert len(result) > 0
 
     def test_rubric_6_need_to_find_information_about_theme_park_ticket_packages__r(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "Need to find information about theme park ticket packages; return price and photography rules: Family Package Ticket price range is 368-698 yuan, Shenyang Happy Family Theme Park allows bringing your own camera, Shenyang Family Time Theme Park has a professional photography area"
         assert len(result) > 0
 
     def test_rubric_7_need_to_order_a_theme_park_package_suitable_for_2_adults__1(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "Need to order a theme park package suitable for 2 adults, 1 child, and 1 infant"
         assert len(result) > 0
 
     def test_rubric_8_the_ordered_parent_child_clothing_package_must_include_a_fou(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "The ordered parent-child clothing package must include a Four-Piece Set, including clothing for adults, children, and infants"
         assert len(result) > 0
 
     def test_rubric_9_the_ordered_parent_child_clothing_must_be_pure_cotton_materi(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "The ordered parent-child clothing must be Pure Cotton material"
         assert len(result) > 0
 
     def test_rubric_10_the_ordered_products_must_be_blue(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "The ordered products must be Blue"
         assert len(result) > 0
 
     def test_rubric_11_the_delivery_address_for_the_parent_child_clothing_order_sho(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "The delivery address for the parent-child clothing order should be the user\'s residence: Huafu World, 46 Nanjing South Street, Heping District, Shenyang"
         assert len(result) > 0
 
     def test_rubric_12_the_restaurant_reservation_should_be_at_star_dream_family_th(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "The restaurant reservation should be at Star Dream Family Theme Restaurant"
         assert len(result) > 0
 
     def test_rubric_13_the_restaurant_reservation_time_must_be_june_12__2025__at_18(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "The restaurant reservation time must be June 12, 2025, at 18:00"
         assert len(result) > 0
 
     def test_rubric_14_the_number_of_people_for_the_restaurant_reservation_should_b(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "The number of people for the restaurant reservation should be 24"
         assert len(result) > 0

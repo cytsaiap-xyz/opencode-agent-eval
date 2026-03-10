@@ -1,13 +1,13 @@
 import json
 import os
 import pytest
-from solution import solve
 
 _dir = os.path.dirname(os.path.abspath(__file__))
 with open(os.path.join(_dir, "expected.json")) as _f:
     expected_data = json.load(_f)
+with open(os.path.join(_dir, "answer.json")) as _f:
+    result = json.load(_f)
 
-result = solve()
 expected = expected_data["required_orders"]
 
 
@@ -71,56 +71,56 @@ class TestVitaBenchTask:
         assert abs(result[2]["total_price"] - 17.0) < 1
 
     def test_rubric_0_the_delivery_address_for_the_user_s_pork_trotter_set_meal_or(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "The delivery address for the user\'s pork trotter set meal order should be Building 6, Student Apartment, Jiaojiang Campus of Taizhou University, Jiaojiang District, Taizhou City, Zhejiang Province"
         assert len(result) > 0
 
     def test_rubric_1_the_delivery_time_for_the_user_s_pork_trotter_set_meal_order(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "The delivery time for the user\'s pork trotter set meal order should be around 2025-04-18 12:00:00"
         assert len(result) > 0
 
     def test_rubric_2_the_user_s_pork_trotter_set_meal_order_should_select_product(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "The user\'s pork trotter set meal order should select products with stronger spicy red oil flavor"
         assert len(result) > 0
 
     def test_rubric_3_the_delivery_address_for_the_roommate_s_fresh_shrimp_and_cra(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "The delivery address for the roommate\'s Fresh Shrimp and Crab Roe Wonton order should be Building 6, Student Apartment, Jiaojiang Campus of Taizhou University, Jiaojiang District, Taizhou City, Zhejiang Province"
         assert len(result) > 0
 
     def test_rubric_4_the_delivery_time_for_the_roommate_s_fresh_shrimp_and_crab_r(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "The delivery time for the roommate\'s Fresh Shrimp and Crab Roe Wonton order should be around 2025-04-18 12:00:00"
         assert len(result) > 0
 
     def test_rubric_5_the_roommate_s_fresh_shrimp_and_crab_roe_wonton_order_should(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "The roommate\'s Fresh Shrimp and Crab Roe Wonton order should select the merchant closest to the user\'s location, which is Yuan Ji Cloud Dumplings (Zhabridge Store)"
         assert len(result) > 0
 
     def test_rubric_6_the_roommate_s_fresh_shrimp_and_crab_roe_wonton_order_should(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "The roommate\'s Fresh Shrimp and Crab Roe Wonton order should select a flavor with prominent numbing spiciness"
         assert len(result) > 0
 
     def test_rubric_7_the_delivery_address_for_the_beverage_order_should_be_buildi(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "The delivery address for the beverage order should be Building 6, Student Apartment, Jiaojiang Campus of Taizhou University, Jiaojiang District, Taizhou City, Zhejiang Province"
         assert len(result) > 0
 
     def test_rubric_8_the_delivery_time_for_the_beverage_order_should_be_around_20(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "The delivery time for the beverage order should be around 2025-04-18 15:00:00"
         assert len(result) > 0
 
     def test_rubric_9_the_beverage_order_should_select_drinks_without_dairy_produc(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "The beverage order should select drinks without dairy products"
         assert len(result) > 0
 
     def test_rubric_10_the_specification_for_the_beverage_order_should_be_no_ice(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "The specification for the beverage order should be no ice"
         assert len(result) > 0

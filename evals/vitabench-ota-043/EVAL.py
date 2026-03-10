@@ -1,13 +1,13 @@
 import json
 import os
 import pytest
-from solution import solve
 
 _dir = os.path.dirname(os.path.abspath(__file__))
 with open(os.path.join(_dir, "expected.json")) as _f:
     expected_data = json.load(_f)
+with open(os.path.join(_dir, "answer.json")) as _f:
+    result = json.load(_f)
 
-result = solve()
 expected = expected_data["required_orders"]
 
 
@@ -87,81 +87,81 @@ class TestVitaBenchTask:
         assert abs(result[3]["total_price"] - 796) < 1
 
     def test_rubric_0_the_anniversary_is_on_august_10__2025__and_the_user_wishes_t(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "The anniversary is on August 10, 2025, and the user wishes to arrive two days before the anniversary, so the departure flight should be on August 8, 2025"
         assert len(result) > 0
 
     def test_rubric_1_the_departure_flight_should_not_be_a_red_eye_flight(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "The departure flight should not be a Red-eye Flight"
         assert len(result) > 0
 
     def test_rubric_2_the_number_of_departure_flight_tickets_should_be_2(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "The number of departure flight tickets should be 2"
         assert len(result) > 0
 
     def test_rubric_3_the_departure_flight_should_be_from_dalian_to_daocheng(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "The departure flight should be from Dalian to Daocheng"
         assert len(result) > 0
 
     def test_rubric_4_the_return_flight_date_should_be_august_12__2025(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "The return flight date should be August 12, 2025 "
         assert len(result) > 0
 
     def test_rubric_5_the_return_flight_should_not_be_a_red_eye_flight(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "The return flight should not be a Red-eye Flight"
         assert len(result) > 0
 
     def test_rubric_6_the_number_of_return_flight_tickets_should_be_2(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "The number of return flight tickets should be 2"
         assert len(result) > 0
 
     def test_rubric_7_the_return_flight_should_be_from_daocheng_to_dalian(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "The return flight should be from Daocheng to Dalian"
         assert len(result) > 0
 
     def test_rubric_8_the_hotel_booked_should_have_tibetan_characteristics(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "The hotel booked should have Tibetan Characteristics"
         assert len(result) > 0
 
     def test_rubric_9_the_hotel_room_type_ordered_should_be_a_king_room(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "The hotel room type ordered should be a king room"
         assert len(result) > 0
 
     def test_rubric_10_the_hotel_booking_should_include_4_nights__specifically_for(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "The hotel booking should include 4 nights, specifically for August 8, 2025, August 9, 2025, August 10, 2025, and August 11, 2025"
         assert len(result) > 0
 
     def test_rubric_11_the_scenic_area_ordered_should_be_daocheng_yading_scenic_are(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "The scenic area ordered should be Daocheng Yading Scenic Area"
         assert len(result) > 0
 
     def test_rubric_12_the_tickets_should_include_oxygen_cylinder(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "The tickets should include Oxygen Cylinder"
         assert len(result) > 0
 
     def test_rubric_13_the_weather_in_daocheng_on_2025_08_09_will_be_light_rain__so(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "The weather in Daocheng on 2025-08-09 will be light rain, so the tickets should include rain gear"
         assert len(result) > 0
 
     def test_rubric_14_the_number_of_scenic_area_tickets_ordered_should_be_2(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "The number of scenic area tickets ordered should be 2"
         assert len(result) > 0
 
     def test_rubric_15_the_date_of_use_for_the_scenic_area_tickets_should_be_august(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "The date of use for the scenic area tickets should be August 9, 2025"
         assert len(result) > 0

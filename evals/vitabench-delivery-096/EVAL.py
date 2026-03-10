@@ -1,13 +1,13 @@
 import json
 import os
 import pytest
-from solution import solve
 
 _dir = os.path.dirname(os.path.abspath(__file__))
 with open(os.path.join(_dir, "expected.json")) as _f:
     expected_data = json.load(_f)
+with open(os.path.join(_dir, "answer.json")) as _f:
+    result = json.load(_f)
 
-result = solve()
 expected = expected_data["required_orders"]
 
 
@@ -55,26 +55,26 @@ class TestVitaBenchTask:
         assert abs(result[1]["total_price"] - 28.71) < 1
 
     def test_rubric_0_the_delivery_address_for_the_garlic_vermicelli_meat_slice_or(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "The delivery address for the Garlic Vermicelli Meat Slice order for wife should be No.25, No.2 Shuangfengshan Road, Yunmanting Zone C, Nan\'an District, Chongqing"
         assert len(result) > 0
 
     def test_rubric_1_the_estimated_delivery_time_for_the_garlic_vermicelli_meat_s(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "The estimated delivery time for the Garlic Vermicelli Meat Slice order for wife should be around 2024-05-18 21:00"
         assert len(result) > 0
 
     def test_rubric_2_the_garlic_vermicelli_meat_slice_order_for_wife_should_be_no(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "The Garlic Vermicelli Meat Slice order for wife should be non-spicy flavor, avoiding stimulating seasonings"
         assert len(result) > 0
 
     def test_rubric_3_the_delivery_address_for_the_strained_yogurt_bowl_order_for(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "The delivery address for the Strained Yogurt Bowl order for daughter should be No.25, No.2 Shuangfengshan Road, Yunmanting Zone C, Nan\'an District, Chongqing"
         assert len(result) > 0
 
     def test_rubric_4_the_estimated_delivery_time_for_the_strained_yogurt_bowl_ord(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "The estimated delivery time for the Strained Yogurt Bowl order for daughter should be before 2024-05-18 19:30"
         assert len(result) > 0

@@ -1,13 +1,13 @@
 import json
 import os
 import pytest
-from solution import solve
 
 _dir = os.path.dirname(os.path.abspath(__file__))
 with open(os.path.join(_dir, "expected.json")) as _f:
     expected_data = json.load(_f)
+with open(os.path.join(_dir, "answer.json")) as _f:
+    result = json.load(_f)
 
-result = solve()
 expected = expected_data["required_orders"]
 
 
@@ -71,41 +71,41 @@ class TestVitaBenchTask:
         assert abs(result[2]["total_price"] - 21.8) < 1
 
     def test_rubric_0_the_delivery_address_for_the_beef_light_meal_order_should_be(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "The delivery address for the beef light meal order should be Zijingang Primary School of Xuejun Primary School Education Group, 198 Pingshui West Street, Xihu District, Hangzhou, Zhejiang Province"
         assert len(result) > 0
 
     def test_rubric_1_the_estimated_delivery_time_for_the_beef_light_meal_order_sh(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "The estimated delivery time for the beef light meal order should be after 11:00 on October 24, 2025"
         assert len(result) > 0
 
     def test_rubric_2_the_merchant_selected_for_the_beef_light_meal_order_should_h(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "The merchant selected for the beef light meal order should have a Dine-in Restaurant label to ensure hygiene standards"
         assert len(result) > 0
 
     def test_rubric_3_the_delivery_address_for_the_braised_meat_rice_cake_order_sh(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "The delivery address for the braised meat rice cake order should be Zijin Literary Garden, 418 Yuhang Tang Road, Xihu District, Hangzhou, Zhejiang Province (470m walk from Samba Metro Station Exit G1)"
         assert len(result) > 0
 
     def test_rubric_4_the_estimated_delivery_time_for_the_braised_meat_rice_cake_o(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "The estimated delivery time for the braised meat rice cake order should be around 17:00 on October 24, 2025"
         assert len(result) > 0
 
     def test_rubric_5_the_delivery_address_for_the_soft_egg_pancake_order_should_b(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "The delivery address for the soft egg pancake order should be Zijin Literary Garden, 418 Yuhang Tang Road, Xihu District, Hangzhou, Zhejiang Province (470m walk from Samba Metro Station Exit G1)"
         assert len(result) > 0
 
     def test_rubric_6_the_estimated_delivery_time_for_the_soft_egg_pancake_order_s(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "The estimated delivery time for the soft egg pancake order should be around 17:00 on October 24, 2025"
         assert len(result) > 0
 
     def test_rubric_7_the_soft_egg_pancake_order_should_select_the_option_without(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "The soft egg pancake order should select the option without onions, but keep other ingredient options (such as selecting \'cilantro only\' from options like \'cilantro only\', \'With Onions only\', \'no cilantro no onions\', \'with both cilantro and onions\')"
         assert len(result) > 0

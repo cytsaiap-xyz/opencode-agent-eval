@@ -1,6 +1,6 @@
 # DeepPlanning Travel Task #100
 
-You are building a travel planning agent. Given the user's query and constraint metadata in `task-data.json`, implement the `plan_trip()` function in `solution.py`.
+You are building a travel planning agent. Given the user's query and constraint metadata in `task-data.json`, analyze the data and write your answer to `answer.json`.
 
 ## User Query
 
@@ -33,4 +33,14 @@ That covers my main requirements—I believe I’ve provided all necessary infor
 
 ## Your Task
 
-Implement `plan_trip()` in `solution.py`. Read `task-data.json` for the full constraint details. Your function must return a plan object that satisfies all hard constraints. Each constraint in `hard_constraints` has a specific expected answer (hotel name, train number, restaurant, attraction, budget, etc.) — your plan must match these exactly.
+Read `task-data.json` for the full query and constraint details. Analyze the hard constraints and find the correct answers for each (hotel name, train number, restaurant, attraction, budget, etc.).
+
+Write your answer to `answer.json` as a trip plan object with:
+- `origin`, `destination`, `days`, `people_number`
+- `outbound_transport`: `{type, number, departure, arrival, seat_class}`
+- `inbound_transport`: same structure
+- `hotel`: `{name, star, price_per_night, nights, rooms, services}`
+- `meals`: array of `{restaurant_name, cuisine, near_attraction, special_requirement}`
+- `attractions`: array of `{name, type, ticket_price}`
+- `total_budget`: total cost
+- `constraint_results`: dict mapping each constraint name to its satisfied value

@@ -1,13 +1,13 @@
 import json
 import os
 import pytest
-from solution import solve
 
 _dir = os.path.dirname(os.path.abspath(__file__))
 with open(os.path.join(_dir, "expected.json")) as _f:
     expected_data = json.load(_f)
+with open(os.path.join(_dir, "answer.json")) as _f:
+    result = json.load(_f)
 
-result = solve()
 expected = expected_data["required_orders"]
 
 
@@ -104,61 +104,61 @@ class TestVitaBenchTask:
         assert result[4].get("customer_count") == 6
 
     def test_rubric_0_the_massage_shop_should_be_within_5_5km_of_chengdu_shuangliu(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "The massage shop should be within 5.5km of Chengdu Shuangliu International Airport, Shuangliu District, Chengdu, Sichuan Province"
         assert len(result) > 0
 
     def test_rubric_1_the_order_at_the_massage_shop_should_include_food_items(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "The order at the massage shop should include food items"
         assert len(result) > 0
 
     def test_rubric_2_the_order_at_the_massage_shop_should_include_massage_service(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "The order at the massage shop should include massage service"
         assert len(result) > 0
 
     def test_rubric_3_the_order_at_the_massage_shop_should_be_suitable_for_2_peopl(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "The order at the massage shop should be suitable for 2 people"
         assert len(result) > 0
 
     def test_rubric_4_cancel_the_flight_ticket_order__flight_number_ca1832__on_sep(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "Cancel the flight ticket order (flight number CA1832) on September 7, 2024 from historical orders"
         assert len(result) > 0
 
     def test_rubric_5_the_date_for_flight_ticket_booking_should_be_september_7__20(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "The date for flight ticket booking should be September 7, 2024"
         assert len(result) > 0
 
     def test_rubric_6_the_booked_flight_should_be_a_red_eye_flight__flight_mu2354(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "The booked flight should be a Red-Eye Flight (flight MU2354)"
         assert len(result) > 0
 
     def test_rubric_7_the_number_of_flight_tickets_to_book_should_be_2(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "The number of flight tickets to book should be 2"
         assert len(result) > 0
 
     def test_rubric_8_the_reserved_restaurant_should_be_within_5_5km_of_cr_land_pa(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "The reserved restaurant should be within 5.5km of CR Land Park Mansion, 228 Huaining Road, Shushan District, Hefei, Anhui Province"
         assert len(result) > 0
 
     def test_rubric_9_the_reserved_restaurant_should_serve_hui_cuisine_or_cantones(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "The reserved restaurant should serve Hui Cuisine or Cantonese cuisine"
         assert len(result) > 0
 
     def test_rubric_10_the_restaurant_reservation_time_should_be_19_00_on_september(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "The restaurant reservation time should be 19:00 on September 17, 2024"
         assert len(result) > 0
 
     def test_rubric_11_the_restaurant_reservation_should_be_for_6_people(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "The restaurant reservation should be for 6 people"
         assert len(result) > 0

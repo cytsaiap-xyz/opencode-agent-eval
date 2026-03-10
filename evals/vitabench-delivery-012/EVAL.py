@@ -1,13 +1,13 @@
 import json
 import os
 import pytest
-from solution import solve
 
 _dir = os.path.dirname(os.path.abspath(__file__))
 with open(os.path.join(_dir, "expected.json")) as _f:
     expected_data = json.load(_f)
+with open(os.path.join(_dir, "answer.json")) as _f:
+    result = json.load(_f)
 
-result = solve()
 expected = expected_data["required_orders"]
 
 
@@ -55,31 +55,31 @@ class TestVitaBenchTask:
         assert abs(result[1]["total_price"] - 92) < 1
 
     def test_rubric_0_the_delivery_address_for_the_snow_ice_order_should_be_greenl(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "The delivery address for the Snow Ice order should be Greenland Joy City, West Station Street, Honggutan District, Nanchang, Jiangxi Province"
         assert len(result) > 0
 
     def test_rubric_1_the_estimated_delivery_time_for_the_snow_ice_order_should_be(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "The estimated delivery time for the Snow Ice order should be after 11:00:00 on March 16, 2025"
         assert len(result) > 0
 
     def test_rubric_2_the_snow_ice_order_should_include_2_snow_ice_items__specific(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "The Snow Ice order should include 2 Snow Ice items, specifically Mango Red Bean flavor and Taro Paste Taro Ball flavor, to satisfy the needs of the user and her friend, one for each"
         assert len(result) > 0
 
     def test_rubric_3_the_delivery_address_for_the_lamb_spine_hot_pot_order_should(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "The delivery address for the Lamb Spine Hot Pot order should be Greenland Joy City, West Station Street, Honggutan District, Nanchang, Jiangxi Province"
         assert len(result) > 0
 
     def test_rubric_4_the_estimated_delivery_time_for_the_lamb_spine_hot_pot_order(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "The estimated delivery time for the Lamb Spine Hot Pot order should be after 11:00:00 on March 16, 2025"
         assert len(result) > 0
 
     def test_rubric_5_the_lamb_spine_hot_pot_order_should_include_lamb_spine_items(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "The Lamb Spine Hot Pot order should include Lamb Spine items weighing 2 Jin"
         assert len(result) > 0

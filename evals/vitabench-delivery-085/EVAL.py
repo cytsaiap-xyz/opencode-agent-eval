@@ -1,13 +1,13 @@
 import json
 import os
 import pytest
-from solution import solve
 
 _dir = os.path.dirname(os.path.abspath(__file__))
 with open(os.path.join(_dir, "expected.json")) as _f:
     expected_data = json.load(_f)
+with open(os.path.join(_dir, "answer.json")) as _f:
+    result = json.load(_f)
 
-result = solve()
 expected = expected_data["required_orders"]
 
 
@@ -39,16 +39,16 @@ class TestVitaBenchTask:
         assert abs(result[0]["total_price"] - 46.0) < 1
 
     def test_rubric_0_the_store_rating_for_the_ordered_stir_fried_pork_strips_shou(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "The store rating for the ordered Stir-fried Pork Strips should be 4.2 or above"
         assert len(result) > 0
 
     def test_rubric_1_the_delivery_address_for_the_stir_fried_pork_strips_order_sh(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "The delivery address for the Stir-fried Pork Strips order should be Central Street Cultural and Creative Design Center, F2 Floor, No.66 Central Street, Daoli District, Harbin City, Heilongjiang Province"
         assert len(result) > 0
 
     def test_rubric_2_the_expected_delivery_time_for_the_stir_fried_pork_strips_or(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "The expected delivery time for the Stir-fried Pork Strips order should be between 12:02 and 13:30 on April 26, 2025, ensuring the user has enough time for lunch and afternoon rest"
         assert len(result) > 0

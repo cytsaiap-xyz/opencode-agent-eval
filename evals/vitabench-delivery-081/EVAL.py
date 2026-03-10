@@ -1,13 +1,13 @@
 import json
 import os
 import pytest
-from solution import solve
 
 _dir = os.path.dirname(os.path.abspath(__file__))
 with open(os.path.join(_dir, "expected.json")) as _f:
     expected_data = json.load(_f)
+with open(os.path.join(_dir, "answer.json")) as _f:
+    result = json.load(_f)
 
-result = solve()
 expected = expected_data["required_orders"]
 
 
@@ -55,41 +55,41 @@ class TestVitaBenchTask:
         assert abs(result[1]["total_price"] - 120) < 1
 
     def test_rubric_0_the_delivery_address_for_the_curry_omurice_order_should_be_1(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "The delivery address for the curry omurice order should be 1588 Wenhua Road, Weifang Xinchen Plaza, Kuiwen District, Weifang City, Shandong Province"
         assert len(result) > 0
 
     def test_rubric_1_the_estimated_delivery_time_for_the_curry_omurice_order_shou(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "The estimated delivery time for the curry omurice order should be before 14:00 on August 2, 2025"
         assert len(result) > 0
 
     def test_rubric_2_the_items_in_the_curry_omurice_order_should_have_spicy_chara(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "The items in the curry omurice order should have spicy characteristics or contain pepper or other seasonings"
         assert len(result) > 0
 
     def test_rubric_3_the_delivery_address_for_the_taro_dessert_order_should_be_15(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "The delivery address for the taro dessert order should be 1588 Wenhua Road, Weifang Xinchen Plaza, Kuiwen District, Weifang City, Shandong Province"
         assert len(result) > 0
 
     def test_rubric_4_the_estimated_delivery_time_for_the_taro_dessert_order_shoul(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "The estimated delivery time for the taro dessert order should be between 15:00 and 16:00 on August 2, 2025"
         assert len(result) > 0
 
     def test_rubric_5_the_items_in_the_taro_dessert_order_should_be_sweet_pastries(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "The items in the taro dessert order should be sweet pastries containing taro filling"
         assert len(result) > 0
 
     def test_rubric_6_the_items_in_the_taro_dessert_order_should_have_a_soft_and_t(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "The items in the taro dessert order should have a soft and tender texture"
         assert len(result) > 0
 
     def test_rubric_7_the_total_quantity_of_items_in_the_taro_dessert_order_should(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "The total quantity of items in the taro dessert order should be 20 pieces"
         assert len(result) > 0

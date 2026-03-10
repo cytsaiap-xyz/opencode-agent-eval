@@ -1,13 +1,13 @@
 import json
 import os
 import pytest
-from solution import solve
 
 _dir = os.path.dirname(os.path.abspath(__file__))
 with open(os.path.join(_dir, "expected.json")) as _f:
     expected_data = json.load(_f)
+with open(os.path.join(_dir, "answer.json")) as _f:
+    result = json.load(_f)
 
-result = solve()
 expected = expected_data["required_orders"]
 
 
@@ -39,21 +39,21 @@ class TestVitaBenchTask:
         assert abs(result[0]["total_price"] - 37) < 1
 
     def test_rubric_0_the_ordered_dessert_should_be_ice_based_or_cold_beverage_typ(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "The ordered dessert should be ice-based or cold beverage type, suitable for cooling down on a 29-degree sunny day"
         assert len(result) > 0
 
     def test_rubric_1_the_ordered_dessert_should_not_contain_durian_or_other_ingre(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "The ordered dessert should not contain durian or other ingredients with strong distinctive odors that might affect the 19:00 meeting"
         assert len(result) > 0
 
     def test_rubric_2_the_dessert_delivery_address_should_be_the_work_location_at(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "The dessert delivery address should be the work location at TaiKoo Hui, 383 Tianhe Road, Tianhe District, Guangzhou, Guangdong Province"
         assert len(result) > 0
 
     def test_rubric_3_the_expected_delivery_time_for_the_dessert_order_should_be_b(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "The expected delivery time for the dessert order should be before the meeting starts at 2024-05-09 19:00:00"
         assert len(result) > 0

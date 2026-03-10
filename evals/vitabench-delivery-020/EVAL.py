@@ -1,13 +1,13 @@
 import json
 import os
 import pytest
-from solution import solve
 
 _dir = os.path.dirname(os.path.abspath(__file__))
 with open(os.path.join(_dir, "expected.json")) as _f:
     expected_data = json.load(_f)
+with open(os.path.join(_dir, "answer.json")) as _f:
+    result = json.load(_f)
 
-result = solve()
 expected = expected_data["required_orders"]
 
 
@@ -55,21 +55,21 @@ class TestVitaBenchTask:
         assert abs(result[1]["total_price"] - 25.8) < 1
 
     def test_rubric_0_successfully_canceled_the_old_shanghai_pork_rib_with_rice_ca(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "Successfully canceled the Old Shanghai Pork Rib with Rice Cake store order that the user no longer needs due to indigestion, the order status with order_id 30711008O01 has been changed to cancelled"
         assert len(result) > 0
 
     def test_rubric_1_the_delivery_address_for_the_newly_ordered_winter_melon_meat(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "The delivery address for the newly ordered winter melon meat soup should be Greentown Begonia Garden, No. 1766 Bayi South Street, Wucheng District, Jinhua City, Zhejiang Province"
         assert len(result) > 0
 
     def test_rubric_2_the_delivery_time_for_the_newly_ordered_winter_melon_meat_so(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "The delivery time for the newly ordered winter melon meat soup should be before 13:00 on November 22, 2025, to meet the user\'s afternoon shift needs"
         assert len(result) > 0
 
     def test_rubric_3_the_newly_ordered_product_for_the_user_with_indigestion_shou(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "The newly ordered product for the user with indigestion should contain both winter melon and meat, suitable for stomach care needs"
         assert len(result) > 0

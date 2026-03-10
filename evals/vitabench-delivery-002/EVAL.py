@@ -1,13 +1,13 @@
 import json
 import os
 import pytest
-from solution import solve
 
 _dir = os.path.dirname(os.path.abspath(__file__))
 with open(os.path.join(_dir, "expected.json")) as _f:
     expected_data = json.load(_f)
+with open(os.path.join(_dir, "answer.json")) as _f:
+    result = json.load(_f)
 
-result = solve()
 expected = expected_data["required_orders"]
 
 
@@ -39,26 +39,26 @@ class TestVitaBenchTask:
         assert abs(result[0]["total_price"] - 49) < 1
 
     def test_rubric_0_delivery_address_should_be_north_area_of_fengning_residentia(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "Delivery address should be North Area of Fengning Residential Complex, No. 10 Fengning Road, Wuhua District, Kunming, Yunnan Province"
         assert len(result) > 0
 
     def test_rubric_1_total_price_of_crayfish_order_should_be_around_50_yuan(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "Total price of crayfish order should be around 50 yuan"
         assert len(result) > 0
 
     def test_rubric_2_crayfish_for_children_should_be_non_spicy_flavor__such_as_ga(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "Crayfish for children should be Non-spicy flavor, such as garlic or other mild flavors"
         assert len(result) > 0
 
     def test_rubric_3_to_prevent_stomach_issues_for_children__restaurants_with_fre(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "To prevent stomach issues for children, restaurants with Fresh Ingredients should be selected"
         assert len(result) > 0
 
     def test_rubric_4_the_portion_of_crayfish_ordered_should_be_enough_for_two_peo(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "The portion of crayfish ordered should be enough For Two People"
         assert len(result) > 0

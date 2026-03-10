@@ -1,13 +1,13 @@
 import json
 import os
 import pytest
-from solution import solve
 
 _dir = os.path.dirname(os.path.abspath(__file__))
 with open(os.path.join(_dir, "expected.json")) as _f:
     expected_data = json.load(_f)
+with open(os.path.join(_dir, "answer.json")) as _f:
+    result = json.load(_f)
 
-result = solve()
 expected = expected_data["required_orders"]
 
 
@@ -91,61 +91,61 @@ class TestVitaBenchTask:
         assert abs(result[3]["total_price"] - 268) < 1
 
     def test_rubric_0_the_status_of_the_single_person_shared_escape_room_experienc(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "The status of the Single Person Shared Escape Room Experience Ticket order should be cancelled"
         assert len(result) > 0
 
     def test_rubric_1_the_ordered_product_at_the_escape_room_should_be_of_low_diff(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "The ordered product at the escape room should be of low difficulty"
         assert len(result) > 0
 
     def test_rubric_2_the_ordered_product_at_the_escape_room_should_be_a_couple_pa(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "The ordered product at the escape room should be a Couple Package"
         assert len(result) > 0
 
     def test_rubric_3_the_escape_room_should_be_puzzle_solver_escape_room(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "The escape room should be Puzzle Solver Escape Room"
         assert len(result) > 0
 
     def test_rubric_4_the_booked_escape_room_should_be_puzzle_solver_escape_room(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "The booked escape room should be Puzzle Solver Escape Room"
         assert len(result) > 0
 
     def test_rubric_5_the_booking_time_for_the_escape_room_should_be_2024_12_21_14(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "The booking time for the escape room should be 2024-12-21 14:00:00"
         assert len(result) > 0
 
     def test_rubric_6_the_number_of_people_for_the_escape_room_booking_should_be_2(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "The number of people for the escape room booking should be 2"
         assert len(result) > 0
 
     def test_rubric_7_the_budget_is_500_yuan__the_escape_room_costs_198_yuan__so_t(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "The budget is 500 yuan, the escape room costs 198 yuan, so the price of the ordered Minnan cuisine should be less than or equal to 302 yuan"
         assert len(result) > 0
 
     def test_rubric_8_the_minnan_restaurant_should_be_within_500m__inclusive__of_p(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "The Minnan restaurant should be within 500m (inclusive) of Puzzle Solver Escape Room Center, 1299 Lijing Road, Honggutan New District, Nanchang, Jiangxi Province"
         assert len(result) > 0
 
     def test_rubric_9_the_minnan_restaurant_should_be_a_non_smoking_restaurant(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "The Minnan restaurant should be a Non-Smoking Restaurant"
         assert len(result) > 0
 
     def test_rubric_10_the_minnan_restaurant_should_have_two_person_booth_seating(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "The Minnan restaurant should have Two-Person Booth seating"
         assert len(result) > 0
 
     def test_rubric_11_the_ordered_meal_at_the_minnan_restaurant_should_be_a_couple(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "The ordered meal at the Minnan restaurant should be a couple package, not two single person packages"
         assert len(result) > 0

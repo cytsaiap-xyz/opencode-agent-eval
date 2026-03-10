@@ -1,13 +1,13 @@
 import json
 import os
 import pytest
-from solution import solve
 
 _dir = os.path.dirname(os.path.abspath(__file__))
 with open(os.path.join(_dir, "expected.json")) as _f:
     expected_data = json.load(_f)
+with open(os.path.join(_dir, "answer.json")) as _f:
+    result = json.load(_f)
 
-result = solve()
 expected = expected_data["required_orders"]
 
 
@@ -39,26 +39,26 @@ class TestVitaBenchTask:
         assert abs(result[0]["total_price"] - 98.0) < 1
 
     def test_rubric_0_the_ordered_birthday_cake_must_not_contain_mango_ingredients(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "The ordered birthday cake must not contain mango ingredients"
         assert len(result) > 0
 
     def test_rubric_1_the_ordered_birthday_cake_should_be_low_sugar_or_xylitol_typ(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "The ordered birthday cake should be low-sugar or xylitol type"
         assert len(result) > 0
 
     def test_rubric_2_the_ordered_birthday_cake_should_be_suitable_for_2_people_to(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "The ordered birthday cake should be suitable for 2 people to share (such as 4-6 inch cake)"
         assert len(result) > 0
 
     def test_rubric_3_the_delivery_address_for_the_birthday_cake_order_should_be_c(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "The delivery address for the birthday cake order should be Chengfatou Zhujian Yajun, Rongning Road, Sanlitun Street, Zhengding County, Shijiazhuang, Hebei Province"
         assert len(result) > 0
 
     def test_rubric_4_the_estimated_delivery_time_for_the_birthday_cake_order_shou(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "The estimated delivery time for the birthday cake order should be before 2025-10-01 15:00:00"
         assert len(result) > 0

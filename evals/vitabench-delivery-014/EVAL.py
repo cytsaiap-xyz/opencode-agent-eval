@@ -1,13 +1,13 @@
 import json
 import os
 import pytest
-from solution import solve
 
 _dir = os.path.dirname(os.path.abspath(__file__))
 with open(os.path.join(_dir, "expected.json")) as _f:
     expected_data = json.load(_f)
+with open(os.path.join(_dir, "answer.json")) as _f:
+    result = json.load(_f)
 
-result = solve()
 expected = expected_data["required_orders"]
 
 
@@ -55,26 +55,26 @@ class TestVitaBenchTask:
         assert abs(result[1]["total_price"] - 72.0) < 1
 
     def test_rubric_0_successfully_cancelled_the_clear_broth_beef_noodles_order_fr(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "Successfully cancelled the Clear Broth Beef Noodles order from Ma Changhe Northwest Beef Noodles (Desiqin Branch), the status of order with order_id 30711002O01 should be cancelled"
         assert len(result) > 0
 
     def test_rubric_1_the_delivery_address_for_the_xinjiang_cuisine_order_should_b(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "The delivery address for the Xinjiang cuisine order should be Xiangzhang Garden, 168 Xiangzhang Road, Yuhua District, Changsha, Hunan Province"
         assert len(result) > 0
 
     def test_rubric_2_the_estimated_delivery_time_for_the_xinjiang_cuisine_order_s(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "The estimated delivery time for the Xinjiang cuisine order should be around 19:00 on 2025-08-20"
         assert len(result) > 0
 
     def test_rubric_3_the_xinjiang_cuisine_order_should_include_stir_fried_cabbage(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "The Xinjiang cuisine order should include Stir-fried Cabbage with Naan, quantity of 1"
         assert len(result) > 0
 
     def test_rubric_4_the_total_number_of_items_in_the_xinjiang_cuisine_order_shou(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "The total number of items in the Xinjiang cuisine order should be 3"
         assert len(result) > 0

@@ -1,13 +1,13 @@
 import json
 import os
 import pytest
-from solution import solve
 
 _dir = os.path.dirname(os.path.abspath(__file__))
 with open(os.path.join(_dir, "expected.json")) as _f:
     expected_data = json.load(_f)
+with open(os.path.join(_dir, "answer.json")) as _f:
+    result = json.load(_f)
 
-result = solve()
 expected = expected_data["required_orders"]
 
 
@@ -55,21 +55,21 @@ class TestVitaBenchTask:
         assert abs(result[1]["total_price"] - 24.9) < 1
 
     def test_rubric_0_successfully_canceled_the_lamb_offal_soup_order_from_zunyi_l(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "Successfully canceled the Lamb Offal Soup order from Zunyi Lamb Rice Noodles (Zhongcun Branch), the order status with order_id H0721004O01 should be updated to cancelled"
         assert len(result) > 0
 
     def test_rubric_1_the_delivery_address_for_the_new_small_shrimp_wontons_order(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "The delivery address for the new Small Shrimp Wontons order should be Jiangbin Residential Area, 359 Binhong Road (400 meters from Exit A of Bayi South Street Metro Station), Wucheng District, Jinhua City, Zhejiang Province"
         assert len(result) > 0
 
     def test_rubric_2_the_estimated_delivery_time_for_the_new_small_shrimp_wontons(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "The estimated delivery time for the new Small Shrimp Wontons order should be before 11:00 AM on 2025-03-19"
         assert len(result) > 0
 
     def test_rubric_3_the_new_small_shrimp_wontons_order_should_include_chili_pack(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "The new Small Shrimp Wontons order should include chili packet and vinegar packet"
         assert len(result) > 0

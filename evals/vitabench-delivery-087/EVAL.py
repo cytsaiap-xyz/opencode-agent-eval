@@ -1,13 +1,13 @@
 import json
 import os
 import pytest
-from solution import solve
 
 _dir = os.path.dirname(os.path.abspath(__file__))
 with open(os.path.join(_dir, "expected.json")) as _f:
     expected_data = json.load(_f)
+with open(os.path.join(_dir, "answer.json")) as _f:
+    result = json.load(_f)
 
-result = solve()
 expected = expected_data["required_orders"]
 
 
@@ -71,56 +71,56 @@ class TestVitaBenchTask:
         assert abs(result[2]["total_price"] - 35.8) < 1
 
     def test_rubric_0_need_to_add_a_note_to_the_northeastern_cuisine_order_with_or(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "Need to add a note to the Northeastern cuisine order with order_id H0721002O01: no Cilantro, add some garlic paste"
         assert len(result) > 0
 
     def test_rubric_1_the_delivery_address_for_the_lemon_wheat_drink_order_should(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "The delivery address for the Lemon Wheat drink order should be Guixin Community, 1 Guixin Street, Nangang District, Harbin, Heilongjiang Province"
         assert len(result) > 0
 
     def test_rubric_2_the_estimated_delivery_time_for_the_lemon_wheat_drink_order(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "The estimated delivery time for the Lemon Wheat drink order should be around 18:00 on April 19, 2025"
         assert len(result) > 0
 
     def test_rubric_3_the_drink_order_should_select_lemon_wheat_type_beverages(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "The drink order should select Lemon Wheat type beverages"
         assert len(result) > 0
 
     def test_rubric_4_the_lemon_wheat_drink_order_should_choose_less_ice_or_much_l(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "The Lemon Wheat drink order should choose less ice or much less ice"
         assert len(result) > 0
 
     def test_rubric_5_the_lemon_wheat_drink_order_should_select_medium_cup_or_stan(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "The Lemon Wheat drink order should select medium cup or standard size, not Large Cup Size or extra large cup"
         assert len(result) > 0
 
     def test_rubric_6_the_delivery_address_for_the_smoked_chicken_order_should_be(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "The delivery address for the smoked chicken order should be Guixin Community, 1 Guixin Street, Nangang District, Harbin, Heilongjiang Province"
         assert len(result) > 0
 
     def test_rubric_7_the_estimated_delivery_time_for_the_smoked_chicken_order_sho(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "The estimated delivery time for the smoked chicken order should be around 18:00 on April 19, 2025"
         assert len(result) > 0
 
     def test_rubric_8_the_smoked_chicken_order_should_select_smoked_chicken_items(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "The smoked chicken order should select smoked chicken items"
         assert len(result) > 0
 
     def test_rubric_9_the_smoked_chicken_order_should_select_items_without_cilantr(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "The smoked chicken order should select items without Cilantro"
         assert len(result) > 0
 
     def test_rubric_10_the_smoked_chicken_order_should_select_hot_food_or_items_tha(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "The smoked chicken order should select hot food or items that can be heated"
         assert len(result) > 0

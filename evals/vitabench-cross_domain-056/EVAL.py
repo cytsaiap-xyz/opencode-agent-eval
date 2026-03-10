@@ -1,13 +1,13 @@
 import json
 import os
 import pytest
-from solution import solve
 
 _dir = os.path.dirname(os.path.abspath(__file__))
 with open(os.path.join(_dir, "expected.json")) as _f:
     expected_data = json.load(_f)
+with open(os.path.join(_dir, "answer.json")) as _f:
+    result = json.load(_f)
 
-result = solve()
 expected = expected_data["required_orders"]
 
 
@@ -75,61 +75,61 @@ class TestVitaBenchTask:
         assert abs(result[2]["total_price"] - 780) < 1
 
     def test_rubric_0_the_booked_ktv_should_have_a_rating_of_4_0_or_above(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "The booked KTV should have a rating of 4.0 or above"
         assert len(result) > 0
 
     def test_rubric_1_the_booked_ktv_should_be_within_3km_of_room_1506__tower_a__w(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "The booked KTV should be within 3km of Room 1506, Tower A, Wuhan Tiandi, 688 Jiefang Avenue, Jianghan District, Wuhan"
         assert len(result) > 0
 
     def test_rubric_2_the_ktv_reservation_should_be_for_2_people(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "The KTV reservation should be for 2 people"
         assert len(result) > 0
 
     def test_rubric_3_the_ktv_reservation_time_should_be_18_00_00_on_2025_09_12(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "The KTV reservation time should be 18:00:00 on 2025-09-12"
         assert len(result) > 0
 
     def test_rubric_4_the_ordered_product_should_be_compatible_with_iphone_13(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "The ordered product should be compatible with iPhone 13"
         assert len(result) > 0
 
     def test_rubric_5_the_ordered_product_should_be_a_charging_head(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "The ordered product should be a charging head"
         assert len(result) > 0
 
     def test_rubric_6_the_ordered_product_should_be_an_original_factory_product(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "The ordered product should be an Original Factory Product"
         assert len(result) > 0
 
     def test_rubric_7_the_ordered_product_should_support_fast_charging(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "The ordered product should support Fast Charging"
         assert len(result) > 0
 
     def test_rubric_8_by_checking_the_calendar__there_are_no_holidays_coming_up__s(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "By checking the calendar, there are no holidays coming up, so purchase flight tickets for September 14, 2025"
         assert len(result) > 0
 
     def test_rubric_9_the_user_plans_to_finish_lunch_at_12_00_and_leave_afterward(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "The user plans to finish lunch at 12:00 and leave afterward, plus a two-hour buffer, so the flight departure time should be at or after 14:00:00"
         assert len(result) > 0
 
     def test_rubric_10_the_user_doesn_t_want_to_land_too_late_and_miss_dinner_at_17(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "The user doesn\'t want to land too late and miss dinner at 17:00, so the flight arrival time should be at or before 17:00:00"
         assert len(result) > 0
 
     def test_rubric_11_the_purchased_flight_ticket_should_be_for_a_flight_from_wuha(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "The purchased flight ticket should be for a flight from Wuhan to Guangzhou"
         assert len(result) > 0

@@ -1,13 +1,13 @@
 import json
 import os
 import pytest
-from solution import solve
 
 _dir = os.path.dirname(os.path.abspath(__file__))
 with open(os.path.join(_dir, "expected.json")) as _f:
     expected_data = json.load(_f)
+with open(os.path.join(_dir, "answer.json")) as _f:
+    result = json.load(_f)
 
-result = solve()
 expected = expected_data["required_orders"]
 
 
@@ -55,46 +55,46 @@ class TestVitaBenchTask:
         assert abs(result[1]["total_price"] - 2448) < 1
 
     def test_rubric_0_need_to_check_whether_there_are_direct_flights_from_weifang(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "Need to check whether there are direct flights from Weifang to Haikou, and the result is yes, so the departure city and arrival city for the flight order should be from Weifang to Haikou"
         assert len(result) > 0
 
     def test_rubric_1_need_to_filter_all_flights_on_2024_09_13__2024_09_14__and_20(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "Need to filter all flights on 2024-09-13, 2024-09-14, and 2024-09-15, and find the cheapest flight, which is SC4651 on 2024-09-15, economy class"
         assert len(result) > 0
 
     def test_rubric_2_the_flight_order_should_be_for_flight_sc4651(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "The flight order should be for flight SC4651"
         assert len(result) > 0
 
     def test_rubric_3_the_flight_order_date_should_be_2024_09_15(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "The flight order date should be 2024-09-15"
         assert len(result) > 0
 
     def test_rubric_4_the_flight_order_should_be_for_economy_class(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "The flight order should be for economy class"
         assert len(result) > 0
 
     def test_rubric_5_the_hotel_must_be_near_haikou_mingmen_plaza(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "The hotel must be near Haikou Mingmen Plaza"
         assert len(result) > 0
 
     def test_rubric_6_the_hotel_order_price_per_night_must_be_within_the_300_500_y(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "The hotel order price per night must be within the 300-500 yuan price range"
         assert len(result) > 0
 
     def test_rubric_7_the_hotel_must_provide_laundry_service(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "The hotel must provide laundry service"
         assert len(result) > 0
 
     def test_rubric_8_the_hotel_order_s_accommodation_period_must_be_from_the_arri(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "The hotel order\'s accommodation period must be from the arrival date until the evening of the 20th, specifically 2024-09-15, 2024-09-16, 2024-09-17, 2024-09-18, 2024-09-19, 2024-09-20"
         assert len(result) > 0

@@ -1,13 +1,13 @@
 import json
 import os
 import pytest
-from solution import solve
 
 _dir = os.path.dirname(os.path.abspath(__file__))
 with open(os.path.join(_dir, "expected.json")) as _f:
     expected_data = json.load(_f)
+with open(os.path.join(_dir, "answer.json")) as _f:
+    result = json.load(_f)
 
-result = solve()
 expected = expected_data["required_orders"]
 
 
@@ -55,46 +55,46 @@ class TestVitaBenchTask:
         assert abs(result[1]["total_price"] - 268.0) < 1
 
     def test_rubric_0_the_delivery_address_for_the_fruit_tea_order_should_be_zhino(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "The delivery address for the fruit tea order should be Zhinong Li, Opposite to the North of Huaxin Garden, Xingfu South Road, Zhifu District, Yantai, Shandong Province"
         assert len(result) > 0
 
     def test_rubric_1_the_estimated_delivery_time_for_the_fruit_tea_order_should_b(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "The estimated delivery time for the fruit tea order should be around 2024-09-14 18:00:00"
         assert len(result) > 0
 
     def test_rubric_2_the_fruit_tea_order_should_select_auntie_shanghai_select_tea(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "The fruit tea order should select Auntie Shanghai Select Tea (Xingfu Middle Road Branch) as the store"
         assert len(result) > 0
 
     def test_rubric_3_the_fruit_tea_order_should_select_extra_large_bucket_of_frui(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "The fruit tea order should select Extra Large Bucket of Fruit Tea as the product"
         assert len(result) > 0
 
     def test_rubric_4_the_temperature_attribute_for_the_fruit_tea_order_should_be(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "The temperature attribute for the fruit tea order should be selected as No Ice"
         assert len(result) > 0
 
     def test_rubric_5_the_delivery_address_for_the_hot_pot_order_should_be_zhinong(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "The delivery address for the hot pot order should be Zhinong Li, Opposite to the North of Huaxin Garden, Xingfu South Road, Zhifu District, Yantai, Shandong Province"
         assert len(result) > 0
 
     def test_rubric_6_the_estimated_delivery_time_for_the_hot_pot_order_should_be(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "The estimated delivery time for the hot pot order should be around 2024-09-14 18:00"
         assert len(result) > 0
 
     def test_rubric_7_the_hot_pot_order_should_select_a_product_with_tomato_flavor(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "The hot pot order should select a product with tomato flavor to cater to children\'s preferences"
         assert len(result) > 0
 
     def test_rubric_8_the_hot_pot_order_should_select_a_set_meal_suitable_for_2_3(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "The hot pot order should select a set meal suitable for 2-3 people"
         assert len(result) > 0

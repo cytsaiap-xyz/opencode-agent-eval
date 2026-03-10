@@ -1,13 +1,12 @@
 import json
 import os
 import pytest
-from solution import build_cart
 
 _dir = os.path.dirname(os.path.abspath(__file__))
 with open(os.path.join(_dir, "task-data.json")) as _f:
     task_data = json.load(_f)
-
-cart = build_cart()
+with open(os.path.join(_dir, "answer.json")) as _f:
+    cart = json.load(_f)
 
 
 class TestDeepPlanningShoppingTask:

@@ -1,13 +1,13 @@
 import json
 import os
 import pytest
-from solution import solve
 
 _dir = os.path.dirname(os.path.abspath(__file__))
 with open(os.path.join(_dir, "expected.json")) as _f:
     expected_data = json.load(_f)
+with open(os.path.join(_dir, "answer.json")) as _f:
+    result = json.load(_f)
 
-result = solve()
 expected = expected_data["required_orders"]
 
 
@@ -87,56 +87,56 @@ class TestVitaBenchTask:
         assert abs(result[3]["total_price"] - 80) < 1
 
     def test_rubric_0_query_the_price_of_economy_class_flights_from_changchun_to_y(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "Query the price of economy class flights from Changchun to Yanji for next week\'s holiday (which is known to be Qingming Festival on April 4, 2025) (1280), and the price for Friday\'s economy class flights from Changchun to Yanji (580), with a price difference of 1280-580=700, exceeding 500 yuan. The departure flight date is March 28, 2025"
         assert len(result) > 0
 
     def test_rubric_1_the_departure_flight_is_economy_class(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "The departure flight is economy class"
         assert len(result) > 0
 
     def test_rubric_2_the_flight_in_the_departure_ticket_order_is_from_changchun_t(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "The flight in the departure ticket order is from Changchun to Yanji"
         assert len(result) > 0
 
     def test_rubric_3_the_return_flight_ticket_date_should_be_march_30__2025(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "The return flight ticket date should be March 30, 2025"
         assert len(result) > 0
 
     def test_rubric_4_the_departure_flight_is_business_class(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "The departure flight is business class"
         assert len(result) > 0
 
     def test_rubric_5_the_flight_in_the_departure_ticket_order_is_from_yanji_to_ch(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "The flight in the departure ticket order is from Yanji to Changchun"
         assert len(result) > 0
 
     def test_rubric_6_the_hotel_booking_dates_are_march_28__2025_and_march_29__202(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "The hotel booking dates are March 28, 2025 and March 29, 2025"
         assert len(result) > 0
 
     def test_rubric_7_the_hotel_must_be_within_5km_of_yanbian_university(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "The hotel must be within 5km of Yanbian University"
         assert len(result) > 0
 
     def test_rubric_8_the_total_price_for_two_nights_at_the_hotel_cannot_exceed_50(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "The total price for two nights at the hotel cannot exceed 500 yuan"
         assert len(result) > 0
 
     def test_rubric_9_the_attraction_booking_date_is_march_29__2025(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "The attraction booking date is March 29, 2025"
         assert len(result) > 0
 
     def test_rubric_10_the_purchased_ticket_is_an_adult_ticket(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "The purchased ticket is an adult ticket"
         assert len(result) > 0

@@ -1,13 +1,13 @@
 import json
 import os
 import pytest
-from solution import solve
 
 _dir = os.path.dirname(os.path.abspath(__file__))
 with open(os.path.join(_dir, "expected.json")) as _f:
     expected_data = json.load(_f)
+with open(os.path.join(_dir, "answer.json")) as _f:
+    result = json.load(_f)
 
-result = solve()
 expected = expected_data["required_orders"]
 
 
@@ -103,86 +103,86 @@ class TestVitaBenchTask:
         assert abs(result[4]["total_price"] - 2670) < 1
 
     def test_rubric_0_the_flight_ticket_from_chongqing_to_zhangjiajie_should_have(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "The flight ticket from Chongqing to Zhangjiajie should have a departure date of June 25, 2022"
         assert len(result) > 0
 
     def test_rubric_1_the_quantity_of_flight_tickets_from_chongqing_to_zhangjiajie(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "The quantity of flight tickets from Chongqing to Zhangjiajie should be 1"
         assert len(result) > 0
 
     def test_rubric_2_the_flight_ticket_type_from_chongqing_to_zhangjiajie_should(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "The flight ticket type from Chongqing to Zhangjiajie should be Economy Class"
         assert len(result) > 0
 
     def test_rubric_3_need_to_filter_flights_with_zhangjiajie_as_the_destination(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "Need to filter flights with Zhangjiajie as the destination, and find the combination of flights departing from Shenzhen and Chongqing respectively with the shortest arrival time interval. The result is MU2287 and CZ3967, so the flight from Chongqing to Zhangjiajie in the order should be MU2287"
         assert len(result) > 0
 
     def test_rubric_4_the_flight_tickets_from_shenzhen_to_zhangjiajie_should_have(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "The flight tickets from Shenzhen to Zhangjiajie should have a departure date of June 25, 2022"
         assert len(result) > 0
 
     def test_rubric_5_the_quantity_of_flight_tickets_from_shenzhen_to_zhangjiajie(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "The quantity of flight tickets from Shenzhen to Zhangjiajie should be 2"
         assert len(result) > 0
 
     def test_rubric_6_the_flight_ticket_type_from_shenzhen_to_zhangjiajie_should_b(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "The flight ticket type from Shenzhen to Zhangjiajie should be Economy Class"
         assert len(result) > 0
 
     def test_rubric_7_need_to_filter_flights_with_zhangjiajie_as_the_destination(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "Need to filter flights with Zhangjiajie as the destination, and find the combination of flights departing from Shenzhen and Chongqing respectively with the shortest arrival time interval. The result is MU2287 and CZ3967, so the flight from Shenzhen to Zhangjiajie in the order should be CZ3967"
         assert len(result) > 0
 
     def test_rubric_8_the_attraction_to_order_should_be_zhangjiajie_national_fores(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "The attraction to order should be Zhangjiajie National Forest Park"
         assert len(result) > 0
 
     def test_rubric_9_the_usage_date_for_the_attraction_tickets_should_be_june_26(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "The usage date for the attraction tickets should be June 26, 2022"
         assert len(result) > 0
 
     def test_rubric_10_the_quantity_of_attraction_tickets_should_be_3(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "The quantity of attraction tickets should be 3"
         assert len(result) > 0
 
     def test_rubric_11_the_distance_from_the_booked_hotel_to_the_zhangjiajie_nation(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "The distance from the booked hotel to the Zhangjiajie National Forest Park Visitor Center should be within 1km (including 1km)"
         assert len(result) > 0
 
     def test_rubric_12_the_hotel_order_should_include_a_king_room_for_2_nights__wit(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "The hotel order should include a King Room for 2 nights, with booking dates of June 25, 2022 and June 26, 2022"
         assert len(result) > 0
 
     def test_rubric_13_the_hotel_order_should_include_a_twin_room_for_2_nights__wit(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "The hotel order should include a Twin Room for 2 nights, with booking dates of June 25, 2022 and June 26, 2022"
         assert len(result) > 0
 
     def test_rubric_14_the_flight_tickets_from_zhangjiajie_to_shenzhen_should_have(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "The flight tickets from Zhangjiajie to Shenzhen should have a departure date of June 27, 2022"
         assert len(result) > 0
 
     def test_rubric_15_the_quantity_of_flight_tickets_from_zhangjiajie_to_shenzhen(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "The quantity of flight tickets from Zhangjiajie to Shenzhen should be 3"
         assert len(result) > 0
 
     def test_rubric_16_the_flight_ticket_type_from_zhangjiajie_to_shenzhen_should_b(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "The flight ticket type from Zhangjiajie to Shenzhen should be Economy Class"
         assert len(result) > 0

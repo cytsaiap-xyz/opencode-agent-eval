@@ -1,13 +1,13 @@
 import json
 import os
 import pytest
-from solution import solve
 
 _dir = os.path.dirname(os.path.abspath(__file__))
 with open(os.path.join(_dir, "expected.json")) as _f:
     expected_data = json.load(_f)
+with open(os.path.join(_dir, "answer.json")) as _f:
+    result = json.load(_f)
 
-result = solve()
 expected = expected_data["required_orders"]
 
 
@@ -72,66 +72,66 @@ class TestVitaBenchTask:
         assert result[2].get("customer_count") == 6
 
     def test_rubric_0_the_restaurant_ordered_must_have_artistic_atmosphere(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "The restaurant ordered must have artistic atmosphere"
         assert len(result) > 0
 
     def test_rubric_1_the_restaurant_ordered_must_be_a_western_restaurant(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "The restaurant ordered must be a western restaurant"
         assert len(result) > 0
 
     def test_rubric_2_the_restaurant_ordered_must_have_a_rating_of_4_8_or_above(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "The restaurant ordered must have a rating of 4.8 or above"
         assert len(result) > 0
 
     def test_rubric_3_the_set_menu_ordered_should_be_suitable_for_six_people_dinin(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "The set menu ordered should be suitable for six people dining"
         assert len(result) > 0
 
     def test_rubric_4_the_set_menu_ordered_cannot_contain_alcohol(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "The set menu ordered cannot contain alcohol"
         assert len(result) > 0
 
     def test_rubric_5_the_set_menu_ordered_cannot_contain_high_purine_foods_such_a(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "The set menu ordered cannot contain high purine foods such as seafood soup"
         assert len(result) > 0
 
     def test_rubric_6_the_train_tickets_ordered_should_be_first_class_seat(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "The train tickets ordered should be First Class Seat"
         assert len(result) > 0
 
     def test_rubric_7_the_train_ticket_price_should_be_less_than_300_yuan(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "The train ticket price should be less than 300 yuan"
         assert len(result) > 0
 
     def test_rubric_8_the_arrival_time_of_the_ordered_train_should_be_before_10_pm(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "The arrival time of the ordered train should be before 10 PM on January 9"
         assert len(result) > 0
 
     def test_rubric_9_the_departure_time_of_the_ordered_train_should_be_after_3_pm(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "The departure time of the ordered train should be after 3 PM on January 9"
         assert len(result) > 0
 
     def test_rubric_10_the_restaurant_reservation_time_should_be_12_00_on_january_9(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "The restaurant reservation time should be 12:00 on January 9"
         assert len(result) > 0
 
     def test_rubric_11_the_restaurant_reservation_should_be_for_6_people(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "The restaurant reservation should be for 6 people"
         assert len(result) > 0
 
     def test_rubric_12_the_restaurant_reserved_should_be_art_space_western_restaura(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "The restaurant reserved should be Art Space Western Restaurant"
         assert len(result) > 0

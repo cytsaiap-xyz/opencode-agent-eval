@@ -1,13 +1,13 @@
 import json
 import os
 import pytest
-from solution import solve
 
 _dir = os.path.dirname(os.path.abspath(__file__))
 with open(os.path.join(_dir, "expected.json")) as _f:
     expected_data = json.load(_f)
+with open(os.path.join(_dir, "answer.json")) as _f:
+    result = json.load(_f)
 
-result = solve()
 expected = expected_data["required_orders"]
 
 
@@ -55,31 +55,31 @@ class TestVitaBenchTask:
         assert abs(result[1]["total_price"] - 51.8) < 1
 
     def test_rubric_0_the_delivery_address_for_the_half_chicken_set_meal_order_sho(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "The delivery address for the half chicken set meal order should be International Department, South Campus of Linyi No.1 Middle School, No.135 Lingong Road, Zhimadun Street, Hedong District, Linyi City, Shandong Province"
         assert len(result) > 0
 
     def test_rubric_1_the_estimated_delivery_time_for_the_half_chicken_set_meal_or(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "The estimated delivery time for the half chicken set meal order should be before 2025-05-23 18:30:00"
         assert len(result) > 0
 
     def test_rubric_2_the_restaurant_for_ordering_the_half_chicken_set_meal_should(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "The restaurant for ordering the half chicken set meal should be Tastin\' Chinese Burger (Dongfang City Branch)"
         assert len(result) > 0
 
     def test_rubric_3_the_delivery_address_for_the_herbal_tea_guilinggao_order_sho(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "The delivery address for the herbal tea Guilinggao order should be No.28 Boutique Apartment, 200 Meters West of People\'s Square, Intersection of Yinqueshan Road and Xinhua Road, Lanshan District, Linyi City, Shandong Province (Linyi People\'s Square Branch)"
         assert len(result) > 0
 
     def test_rubric_4_the_restaurant_for_ordering_the_herbal_tea_guilinggao_should(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "The restaurant for ordering the herbal tea Guilinggao should be Yu Bao Tang"
         assert len(result) > 0
 
     def test_rubric_5_the_herbal_tea_guilinggao_ordered_should_include_honey_as_an(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "The herbal tea Guilinggao ordered should include honey as an ingredient"
         assert len(result) > 0

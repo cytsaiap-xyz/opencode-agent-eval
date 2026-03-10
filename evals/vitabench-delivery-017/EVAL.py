@@ -1,13 +1,13 @@
 import json
 import os
 import pytest
-from solution import solve
 
 _dir = os.path.dirname(os.path.abspath(__file__))
 with open(os.path.join(_dir, "expected.json")) as _f:
     expected_data = json.load(_f)
+with open(os.path.join(_dir, "answer.json")) as _f:
+    result = json.load(_f)
 
-result = solve()
 expected = expected_data["required_orders"]
 
 
@@ -55,31 +55,31 @@ class TestVitaBenchTask:
         assert abs(result[1]["total_price"] - 39.00) < 1
 
     def test_rubric_0_the_delivery_address_for_the_milk_tea_order_should_be_wanda(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "The delivery address for the Milk Tea order should be Wanda Plaza, No. 130 Ma\'anshan Road, Baohe District, Hefei, Anhui Province (Hefei Baohe Branch)"
         assert len(result) > 0
 
     def test_rubric_1_the_expected_delivery_time_for_the_milk_tea_order_should_be(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "The expected delivery time for the Milk Tea order should be before 12:00 on September 13, 2025"
         assert len(result) > 0
 
     def test_rubric_2_the_ordered_milk_tea_should_be_gardenia_flavored(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "The ordered Milk Tea should be Gardenia flavored"
         assert len(result) > 0
 
     def test_rubric_3_the_delivery_address_for_the_mango_sticky_rice_should_be_tri(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "The delivery address for the Mango Sticky Rice should be Triumphal Arch Phase I, Intersection of Jiahe Road and Qianshan Road, Shushan District, Hefei, Anhui Province"
         assert len(result) > 0
 
     def test_rubric_4_the_expected_delivery_time_for_the_noon_mango_sticky_rice_or(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "The expected delivery time for the noon Mango Sticky Rice order should be before 14:00 on September 13, 2025"
         assert len(result) > 0
 
     def test_rubric_5_the_mango_sticky_rice_should_be_iced(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "The Mango Sticky Rice should be iced"
         assert len(result) > 0

@@ -1,13 +1,13 @@
 import json
 import os
 import pytest
-from solution import solve
 
 _dir = os.path.dirname(os.path.abspath(__file__))
 with open(os.path.join(_dir, "expected.json")) as _f:
     expected_data = json.load(_f)
+with open(os.path.join(_dir, "answer.json")) as _f:
+    result = json.load(_f)
 
-result = solve()
 expected = expected_data["required_orders"]
 
 
@@ -55,31 +55,31 @@ class TestVitaBenchTask:
         assert abs(result[1]["total_price"] - 553) < 1
 
     def test_rubric_0_flight_booking_status_should_be_cancelled(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "Flight booking status should be cancelled"
         assert len(result) > 0
 
     def test_rubric_1_train_departure_date_should_be_july_30__2025(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "Train departure date should be July 30, 2025"
         assert len(result) > 0
 
     def test_rubric_2_train_ticket_should_be_for_a_route_from_tianjin_to_hangzhou(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "Train ticket should be for a route from Tianjin to Hangzhou"
         assert len(result) > 0
 
     def test_rubric_3_on_july_30__2025__the_cheapest_seat_type__second_class_seat(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "On July 30, 2025, the cheapest seat type (Second Class Seat) on the earliest train G1677 from Tianjin to Hangzhou is sold out, so the booked train should be G1635, which departs 2-3 hours later"
         assert len(result) > 0
 
     def test_rubric_4_train_seat_type_should_be_second_class_seat(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "Train seat type should be Second Class Seat"
         assert len(result) > 0
 
     def test_rubric_5_the_distance_from_ningsheng_li__intersection_of_weijin_south(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "The distance from Ningsheng Li, Intersection of Weijin South Road and Cangqiong Road, Nankai District, Tianjin to Tianjin Railway Station is about 6 kilometers"
         assert len(result) > 0

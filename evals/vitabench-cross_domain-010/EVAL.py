@@ -1,13 +1,13 @@
 import json
 import os
 import pytest
-from solution import solve
 
 _dir = os.path.dirname(os.path.abspath(__file__))
 with open(os.path.join(_dir, "expected.json")) as _f:
     expected_data = json.load(_f)
+with open(os.path.join(_dir, "answer.json")) as _f:
+    result = json.load(_f)
 
-result = solve()
 expected = expected_data["required_orders"]
 
 
@@ -104,66 +104,66 @@ class TestVitaBenchTask:
         assert abs(result[4]["total_price"] - 82) < 1
 
     def test_rubric_0_need_to_compare_game_token_package_prices_at_different_arcad(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "Need to compare game token package prices at different arcades in Puyang, choose the most cost-effective one; Super Player Arcade\'s 600 Game Tokens Package at ¥198 offers the best value"
         assert len(result) > 0
 
     def test_rubric_1_due_to_game_token_prices_exceeding_budget__cannot_purchase_a(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "Due to game token prices exceeding budget, cannot purchase any drinks from Mixue Ice Cream or elsewhere"
         assert len(result) > 0
 
     def test_rubric_2_the_reserved_izakaya_should_be_within_600m_of_super_player_a(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "The reserved izakaya should be within 600m of Super Player Arcade"
         assert len(result) > 0
 
     def test_rubric_3_the_reserved_izakaya_should_be_suitable_for_photo_check_ins(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "The reserved izakaya should be suitable for photo check-ins"
         assert len(result) > 0
 
     def test_rubric_4_the_izakaya_reservation_time_should_be_2026_01_04_18_00(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "The izakaya reservation time should be 2026-01-04 18:00"
         assert len(result) > 0
 
     def test_rubric_5_the_izakaya_reservation_should_be_for_2_people(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "The izakaya reservation should be for 2 people"
         assert len(result) > 0
 
     def test_rubric_6_the_izakaya_order_should_be_placed_at_sakura_izakaya(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "The izakaya order should be placed at Sakura Izakaya"
         assert len(result) > 0
 
     def test_rubric_7_the_izakaya_set_menu_ordered_should_be_priced_between__280_3(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "The izakaya set menu ordered should be priced between ¥280-320"
         assert len(result) > 0
 
     def test_rubric_8_the_izakaya_set_menu_ordered_should_include_plum_wine(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "The izakaya set menu ordered should include Plum Wine"
         assert len(result) > 0
 
     def test_rubric_9_need_to_cancel_the_order_with_order_number_s1755014887118817(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "Need to cancel the order with order number S17550148871188176_O00001"
         assert len(result) > 0
 
     def test_rubric_10_the_departure_station_of_the_train_ticket_order_should_be_pu(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "The departure station of the train ticket order should be Puyang Station"
         assert len(result) > 0
 
     def test_rubric_11_the_arrival_station_of_the_train_ticket_order_should_be_luoy(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "The arrival station of the train ticket order should be Luoyang Station"
         assert len(result) > 0
 
     def test_rubric_12_the_train_ticket_ordered_should_be_for_a_train_departing_bet(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "The train ticket ordered should be for a train departing between 19:00-20:00 on 2026-01-07"
         assert len(result) > 0

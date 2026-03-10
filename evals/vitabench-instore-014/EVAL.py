@@ -1,13 +1,13 @@
 import json
 import os
 import pytest
-from solution import solve
 
 _dir = os.path.dirname(os.path.abspath(__file__))
 with open(os.path.join(_dir, "expected.json")) as _f:
     expected_data = json.load(_f)
+with open(os.path.join(_dir, "answer.json")) as _f:
+    result = json.load(_f)
 
-result = solve()
 expected = expected_data["required_orders"]
 
 
@@ -75,56 +75,56 @@ class TestVitaBenchTask:
         assert abs(result[2]["total_price"] - 158) < 1
 
     def test_rubric_0_the_hair_salon_must_be_within_1km_of_the_company_address__28(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "The hair salon must be within 1km of the company address (28F, Shanghai Plaza Office Building, 138 Middle Huaihai Road, Huangpu District, Shanghai)"
         assert len(result) > 0
 
     def test_rubric_1_the_haircut_package_must_include_scalp_massage(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "The haircut package must include scalp massage"
         assert len(result) > 0
 
     def test_rubric_2_the_haircut_package_must_include_scalp_massage(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "The haircut package must include scalp massage"
         assert len(result) > 0
 
     def test_rubric_3_the_reserved_hair_salon_should_be_yunzi_hair_care_salon(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "The reserved hair salon should be Yunzi Hair Care Salon"
         assert len(result) > 0
 
     def test_rubric_4_the_appointment_time_in_the_reservation_should_be_10_00_00_o(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "The appointment time in the reservation should be 10:00:00 on 2025-03-22"
         assert len(result) > 0
 
     def test_rubric_5_the_number_of_people_in_the_reservation_should_be_1(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "The number of people in the reservation should be 1"
         assert len(result) > 0
 
     def test_rubric_6_the_yoga_studio_should_be_within_2km_of_yunzi_hair_care_salo(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "The yoga studio should be within 2km of Yunzi Hair Care Salon, 2F, Jin Mao Tower, 218 Middle Huaihai Road, Huangpu District, Shanghai"
         assert len(result) > 0
 
     def test_rubric_7_the_yoga_class_ordered_should_be_a_private_training(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "The yoga class ordered should be a private training"
         assert len(result) > 0
 
     def test_rubric_8_the_yoga_class_ordered_should_be_a_single_class(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "The yoga class ordered should be a single class"
         assert len(result) > 0
 
     def test_rubric_9_the_yoga_class_ordered_should_be_an_advanced_class(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "The yoga class ordered should be an advanced class"
         assert len(result) > 0
 
     def test_rubric_10_the_total_cost_for_both_the_haircut_and_yoga_services_must_b(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "The total cost for both the haircut and yoga services must be kept under 600 yuan"
         assert len(result) > 0

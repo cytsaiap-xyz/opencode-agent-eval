@@ -1,13 +1,13 @@
 import json
 import os
 import pytest
-from solution import solve
 
 _dir = os.path.dirname(os.path.abspath(__file__))
 with open(os.path.join(_dir, "expected.json")) as _f:
     expected_data = json.load(_f)
+with open(os.path.join(_dir, "answer.json")) as _f:
+    result = json.load(_f)
 
-result = solve()
 expected = expected_data["required_orders"]
 
 
@@ -55,36 +55,36 @@ class TestVitaBenchTask:
         assert abs(result[1]["total_price"] - 30) < 1
 
     def test_rubric_0_the_beverage_order_for_girlfriend_should_contain_products_ri(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "The beverage order for girlfriend should contain products rich in vitamins, such as fruit and vegetable tea or fresh juice containing fruit ingredients"
         assert len(result) > 0
 
     def test_rubric_1_the_beverage_order_for_girlfriend_should_not_contain_vegetab(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "The beverage order for girlfriend should not contain vegetable ingredients, avoiding ingredients like Bitter Gourd, Kale, etc."
         assert len(result) > 0
 
     def test_rubric_2_the_beverage_order_for_girlfriend_should_not_contain_mango_i(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "The beverage order for girlfriend should not contain mango ingredients to avoid allergy risks"
         assert len(result) > 0
 
     def test_rubric_3_the_delivery_address_for_girlfriend_s_beverage_order_should(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "The delivery address for girlfriend\'s beverage order should be Pipa Residential Area, No. 24-36 Pipa Lane, Qinhuai District, Nanjing, Jiangsu Province"
         assert len(result) > 0
 
     def test_rubric_4_the_estimated_delivery_time_for_girlfriend_s_beverage_order(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "The estimated delivery time for girlfriend\'s beverage order should be before 12:00 on September 27, 2025"
         assert len(result) > 0
 
     def test_rubric_5_the_delivery_address_for_the_macaron_order_to_cheer_up_girlf(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "The delivery address for the macaron order to cheer up girlfriend should be Pipa Residential Area, No. 24-36 Pipa Lane, Qinhuai District, Nanjing, Jiangsu Province"
         assert len(result) > 0
 
     def test_rubric_6_the_estimated_delivery_time_for_the_macaron_order_to_cheer_u(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "The estimated delivery time for the macaron order to cheer up girlfriend should be before 12:00 on September 27, 2025"
         assert len(result) > 0

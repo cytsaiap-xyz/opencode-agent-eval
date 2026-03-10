@@ -1,13 +1,13 @@
 import json
 import os
 import pytest
-from solution import solve
 
 _dir = os.path.dirname(os.path.abspath(__file__))
 with open(os.path.join(_dir, "expected.json")) as _f:
     expected_data = json.load(_f)
+with open(os.path.join(_dir, "answer.json")) as _f:
+    result = json.load(_f)
 
-result = solve()
 expected = expected_data["required_orders"]
 
 
@@ -88,56 +88,56 @@ class TestVitaBenchTask:
         assert result[3].get("customer_count") == 1
 
     def test_rubric_0_the_permanent_makeup_shop_i_order_from_must_have_technicians(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "The permanent makeup shop I order from must have technicians with excellent skills"
         assert len(result) > 0
 
     def test_rubric_1_the_permanent_makeup_shop_must_have_a_rating_greater_than_or(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "The permanent makeup shop must have a rating greater than or equal to 4.2"
         assert len(result) > 0
 
     def test_rubric_2_the_package_from_the_permanent_makeup_shop_must_be_semi_perm(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "The package from the permanent makeup shop must be semi-permanent eyebrow microblading"
         assert len(result) > 0
 
     def test_rubric_3_need_to_search_for_the_most_expensive_semi_permanent_eyebrow(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "Need to search for the most expensive semi-permanent eyebrow microblading package, which is Korean Semi-Permanent Eyebrow Microblading (Chief Technician Jin Zhishou) from Celebrity Permanent Makeup & SPA Center for 3280 yuan, therefore the order must be for Korean Semi-Permanent Eyebrow Microblading (Chief Technician Jin Zhishou) from Celebrity Permanent Makeup & SPA Center"
         assert len(result) > 0
 
     def test_rubric_4_must_check_user_behavior_history_to_find_previously_visited(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "Must check user behavior history to find previously visited Italian restaurants, which shows La Vita Italian Traditional Cuisine; the in-store dining establishment must be La Vita Italian Traditional Cuisine"
         assert len(result) > 0
 
     def test_rubric_5_need_to_check_if_la_vita_italian_traditional_cuisine_offers(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "Need to check if La Vita Italian Traditional Cuisine offers a Qixi Festival Set Menu, results show they do; the in-store dining order must be for the Qixi Festival Set Menu"
         assert len(result) > 0
 
     def test_rubric_6_the_restaurant_reservation_order_needs_to_book_for_6_00_pm_o(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "The restaurant reservation order needs to book for 6:00 PM on Saturday, August 9, 2025"
         assert len(result) > 0
 
     def test_rubric_7_the_restaurant_reservation_must_be_for_2_people(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "The restaurant reservation must be for 2 people"
         assert len(result) > 0
 
     def test_rubric_8_the_reservation_should_be_made_at_la_vita_italian_traditiona(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "The reservation should be made at La Vita Italian Traditional Cuisine"
         assert len(result) > 0
 
     def test_rubric_9_the_eyebrow_microblading_appointment_time_must_be_at_3_00_pm(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "The eyebrow microblading appointment time must be at 3:00 PM on Sunday, August 10, 2025"
         assert len(result) > 0
 
     def test_rubric_10_the_permanent_makeup_shop_for_the_appointment_should_be_cele(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "The permanent makeup shop for the appointment should be Celebrity Permanent Makeup & SPA Center"
         assert len(result) > 0

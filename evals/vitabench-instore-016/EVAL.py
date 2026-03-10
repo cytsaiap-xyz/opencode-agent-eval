@@ -1,13 +1,13 @@
 import json
 import os
 import pytest
-from solution import solve
 
 _dir = os.path.dirname(os.path.abspath(__file__))
 with open(os.path.join(_dir, "expected.json")) as _f:
     expected_data = json.load(_f)
+with open(os.path.join(_dir, "answer.json")) as _f:
+    result = json.load(_f)
 
-result = solve()
 expected = expected_data["required_orders"]
 
 
@@ -55,41 +55,41 @@ class TestVitaBenchTask:
         assert abs(result[1]["total_price"] - 35) < 1
 
     def test_rubric_0_the_ordered_murder_mystery_game_set_must_include_carpooling(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "The ordered murder mystery game set must include carpooling service"
         assert len(result) > 0
 
     def test_rubric_1_the_ordered_murder_mystery_game_set_must_include_a_script(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "The ordered murder mystery game set must include a script"
         assert len(result) > 0
 
     def test_rubric_2_the_ordered_murder_mystery_game_set_must_include_script_and(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "The ordered murder mystery game set must include script and tea"
         assert len(result) > 0
 
     def test_rubric_3_the_ordered_murder_mystery_game_must_be_horror_themed(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "The ordered murder mystery game must be horror themed"
         assert len(result) > 0
 
     def test_rubric_4_the_query_shows_that_friday__2025_09_12__has_a_high_temperat(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "The query shows that Friday (2025-09-12) has a high temperature of 32 degrees, exceeding 30 degrees, so the order should be placed at a cold noodle restaurant"
         assert len(result) > 0
 
     def test_rubric_5_the_ordered_cold_noodle_restaurant_is_within_500m_of_home(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "The ordered cold noodle restaurant is within 500m of home"
         assert len(result) > 0
 
     def test_rubric_6_the_ordered_cold_noodles_must_not_contain_apple_strips(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "The ordered cold noodles must not contain apple strips"
         assert len(result) > 0
 
     def test_rubric_7_the_ordered_cold_noodles_must_be_available_for_takeaway(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "The ordered cold noodles must be available for takeaway"
         assert len(result) > 0

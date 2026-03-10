@@ -1,13 +1,13 @@
 import json
 import os
 import pytest
-from solution import solve
 
 _dir = os.path.dirname(os.path.abspath(__file__))
 with open(os.path.join(_dir, "expected.json")) as _f:
     expected_data = json.load(_f)
+with open(os.path.join(_dir, "answer.json")) as _f:
+    result = json.load(_f)
 
-result = solve()
 expected = expected_data["required_orders"]
 
 
@@ -55,36 +55,36 @@ class TestVitaBenchTask:
         assert abs(result[1]["total_price"] - 24.9) < 1
 
     def test_rubric_0_the_rating_of_the_ramen_restaurant_should_be_4_3_or_above(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "The rating of the ramen restaurant should be 4.3 or above"
         assert len(result) > 0
 
     def test_rubric_1_the_ramen_product_ordered_should_not_contain_shrimp_ingredie(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "The ramen product ordered should not contain shrimp ingredients"
         assert len(result) > 0
 
     def test_rubric_2_the_delivery_address_for_the_ramen_order_should_be_tianyuan(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "The delivery address for the ramen order should be Tianyuan Business Building, 3 Yuejin Road, Chang\'an District, Shijiazhuang, Hebei Province"
         assert len(result) > 0
 
     def test_rubric_3_the_estimated_delivery_time_for_the_ramen_order_should_be_ar(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "The estimated delivery time for the ramen order should be around 2024-03-31 12:00:00"
         assert len(result) > 0
 
     def test_rubric_4_the_temperature_attribute_for_the_milk_tea_product_should_be(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "The temperature attribute for the milk tea product should be set as hot"
         assert len(result) > 0
 
     def test_rubric_5_the_delivery_address_for_the_milk_tea_order_should_be_tianyu(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "The delivery address for the milk tea order should be Tianyuan Business Building, 3 Yuejin Road, Chang\'an District, Shijiazhuang, Hebei Province"
         assert len(result) > 0
 
     def test_rubric_6_the_estimated_delivery_time_for_the_milk_tea_order_should_be(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "The estimated delivery time for the milk tea order should be around 2024-03-31 12:00:00"
         assert len(result) > 0

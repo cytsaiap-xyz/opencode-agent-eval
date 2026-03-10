@@ -1,13 +1,13 @@
 import json
 import os
 import pytest
-from solution import solve
 
 _dir = os.path.dirname(os.path.abspath(__file__))
 with open(os.path.join(_dir, "expected.json")) as _f:
     expected_data = json.load(_f)
+with open(os.path.join(_dir, "answer.json")) as _f:
+    result = json.load(_f)
 
-result = solve()
 expected = expected_data["required_orders"]
 
 
@@ -72,51 +72,51 @@ class TestVitaBenchTask:
         assert abs(result[2]["total_price"] - 120) < 1
 
     def test_rubric_0_the_merchant_in_the_package_order_is_a_local_cuisine_restaur(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "The merchant in the package order is a local cuisine restaurant (Minnan cuisine)"
         assert len(result) > 0
 
     def test_rubric_1_the_purchased_package_must_include_the_restaurant_s_signatur(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "The purchased package must include the restaurant\'s signature dishes"
         assert len(result) > 0
 
     def test_rubric_2_the_purchased_package_is_a_four_person_meal__not_four_indivi(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "The purchased package is a four-person meal, not four individual packages"
         assert len(result) > 0
 
     def test_rubric_3_the_reserved_restaurant_is_gulang_minwei(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "The reserved restaurant is Gulang Minwei"
         assert len(result) > 0
 
     def test_rubric_4_the_number_of_people_for_the_restaurant_reservation_is_4(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "The number of people for the restaurant reservation is 4"
         assert len(result) > 0
 
     def test_rubric_5_the_restaurant_reservation_time_is_12_00_00_on_2024_03_17(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "The restaurant reservation time is 12:00:00 on 2024-03-17"
         assert len(result) > 0
 
     def test_rubric_6_check_tomorrow_s__2024_03_18__weather_forecast__with_the_hig(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "Check tomorrow\'s (2024-03-18) weather forecast, with the highest temperature being 28 degrees, not exceeding 30 degrees, therefore purchasing a badminton package"
         assert len(result) > 0
 
     def test_rubric_7_the_merchant_in_the_badminton_package_order_should_be_the_on(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "The merchant in the badminton package order should be the one the user frequently visits (Software Park Badminton Hall)"
         assert len(result) > 0
 
     def test_rubric_8_the_purchased_badminton_package_should_be_for_two_hours(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "The purchased badminton package should be for two hours"
         assert len(result) > 0
 
     def test_rubric_9_the_purchased_badminton_package_should_be_a_court_package(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "The purchased badminton package should be a court package"
         assert len(result) > 0

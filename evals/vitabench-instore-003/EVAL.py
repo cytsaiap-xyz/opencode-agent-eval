@@ -1,13 +1,13 @@
 import json
 import os
 import pytest
-from solution import solve
 
 _dir = os.path.dirname(os.path.abspath(__file__))
 with open(os.path.join(_dir, "expected.json")) as _f:
     expected_data = json.load(_f)
+with open(os.path.join(_dir, "answer.json")) as _f:
+    result = json.load(_f)
 
-result = solve()
 expected = expected_data["required_orders"]
 
 
@@ -75,46 +75,46 @@ class TestVitaBenchTask:
         assert abs(result[2]["total_price"] - 280) < 1
 
     def test_rubric_0_the_massage_shop_should_provide_traditional_massage_service(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "The massage shop should provide Traditional Massage service"
         assert len(result) > 0
 
     def test_rubric_1_there_is_no_historical_order_for_massage_shops__the_massage(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "There is no historical order for massage shops, the massage shop to be ordered should be within 3km of Room 1802, Unit 1, Building 3, Huaze Lidu Community, 319 Jinxing Middle Road, Yuelu District, Changsha, Hunan Province"
         assert len(result) > 0
 
     def test_rubric_2_the_massage_shop_rating_should_be_4_0_or_above(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "The massage shop rating should be 4.0 or above"
         assert len(result) > 0
 
     def test_rubric_3_the_ordered_massage_service_should_be_a_package_that_include(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "The ordered massage service should be a package that includes Foot Bath and Acupoint Massage"
         assert len(result) > 0
 
     def test_rubric_4_the_massage_shop_to_be_reserved_should_be_ancient_charm_heal(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "The massage shop to be reserved should be Ancient Charm Health Preservation Club"
         assert len(result) > 0
 
     def test_rubric_5_the_weather_in_changsha_on_2025_04_12_will_be_moderate_rain(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "The weather in Changsha on 2025-04-12 will be moderate rain, and on 2025-04-13 will be overcast, the massage appointment time should be 2025-04-13 17:00:00"
         assert len(result) > 0
 
     def test_rubric_6_the_number_of_people_for_the_massage_appointment_should_be_1(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "The number of people for the massage appointment should be 1"
         assert len(result) > 0
 
     def test_rubric_7_the_hair_salon_should_be_within_1km_of_ancient_charm_health(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "The hair salon should be within 1km of Ancient Charm Health Preservation Club, 328 Jinxing Road, Yuelu District, Changsha, Hunan Province"
         assert len(result) > 0
 
     def test_rubric_8_the_hair_salon_order_should_be_a_highlighting_package_with_u(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "The hair salon order should be a Highlighting Package with Unlimited Bleaching"
         assert len(result) > 0

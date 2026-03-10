@@ -1,13 +1,13 @@
 import json
 import os
 import pytest
-from solution import solve
 
 _dir = os.path.dirname(os.path.abspath(__file__))
 with open(os.path.join(_dir, "expected.json")) as _f:
     expected_data = json.load(_f)
+with open(os.path.join(_dir, "answer.json")) as _f:
+    result = json.load(_f)
 
-result = solve()
 expected = expected_data["required_orders"]
 
 
@@ -55,46 +55,46 @@ class TestVitaBenchTask:
         assert abs(result[1]["total_price"] - 480) < 1
 
     def test_rubric_0_need_to_check_the_weather_in_zhuhai_on_may_16__2026__with_th(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "Need to check the weather in Zhuhai on May 16, 2026, with the highest temperature of 35°C, which exceeds 33°C. The attraction to order should be Zhuhai Chimelong Ocean Kingdom"
         assert len(result) > 0
 
     def test_rubric_1_the_tickets_in_the_attraction_order_should_include_a_firewor(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "The tickets in the attraction order should include a fireworks show"
         assert len(result) > 0
 
     def test_rubric_2_the_date_of_the_tickets_in_the_attraction_order_should_be_ma(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "The date of the tickets in the attraction order should be May 16, 2026"
         assert len(result) > 0
 
     def test_rubric_3_the_ticket_type_in_the_attraction_order_should_be_adult_tick(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "The ticket type in the attraction order should be adult tickets"
         assert len(result) > 0
 
     def test_rubric_4_the_hotel_room_type_should_be_an_ocean_view_room(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "The hotel room type should be an Ocean View Room"
         assert len(result) > 0
 
     def test_rubric_5_the_hotel_room_type_should_be_a_king_room(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "The hotel room type should be a King Room"
         assert len(result) > 0
 
     def test_rubric_6_the_hotel_room_must_have_a_view_of_the_hong_kong_zhuhai_maca(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "The hotel room must have a view of the Hong Kong-Zhuhai-Macao Bridge"
         assert len(result) > 0
 
     def test_rubric_7_the_hotel_order_date_should_be_may_16__2026(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "The hotel order date should be May 16, 2026"
         assert len(result) > 0
 
     def test_rubric_8_need_to_check_the_ticket_price_of_zhuhai_chimelong_ocean_kin(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "Need to check the ticket price of Zhuhai Chimelong Ocean Kingdom, which is 850 yuan for Adult Ticket (Including Fireworks Show and Indoor Light Show), exceeding the user\'s budget of 800 yuan per person"
         assert len(result) > 0

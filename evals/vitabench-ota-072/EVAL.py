@@ -1,13 +1,13 @@
 import json
 import os
 import pytest
-from solution import solve
 
 _dir = os.path.dirname(os.path.abspath(__file__))
 with open(os.path.join(_dir, "expected.json")) as _f:
     expected_data = json.load(_f)
+with open(os.path.join(_dir, "answer.json")) as _f:
+    result = json.load(_f)
 
-result = solve()
 expected = expected_data["required_orders"]
 
 
@@ -71,56 +71,56 @@ class TestVitaBenchTask:
         assert abs(result[2]["total_price"] - 60) < 1
 
     def test_rubric_0_train_number_should_be_d3115(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "Train number should be D3115"
         assert len(result) > 0
 
     def test_rubric_1_train_departure_date_should_be_march_22__2025(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "Train departure date should be March 22, 2025"
         assert len(result) > 0
 
     def test_rubric_2_train_tickets_should_include_2_second_class_seats(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "Train tickets should include 2 Second-class seats"
         assert len(result) > 0
 
     def test_rubric_3_train_tickets_should_include_2_business_class_seats(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "Train tickets should include 2 Business-class seats"
         assert len(result) > 0
 
     def test_rubric_4_day_1_attraction_should_be_pingtan_beach(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "Day 1 attraction should be Pingtan Beach"
         assert len(result) > 0
 
     def test_rubric_5_day_1_attraction_ticket_usage_date_should_be_march_22__2025(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "Day 1 attraction ticket usage date should be March 22, 2025"
         assert len(result) > 0
 
     def test_rubric_6_day_1_attraction_ticket_quantity_should_be_4(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "Day 1 attraction ticket quantity should be 4"
         assert len(result) > 0
 
     def test_rubric_7_day_2_attraction_should_be_three_lanes_and_seven_alleys(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "Day 2 attraction should be Three Lanes and Seven Alleys"
         assert len(result) > 0
 
     def test_rubric_8_day_2_attraction_ticket_usage_date_should_be_march_23__2025(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "Day 2 attraction ticket usage date should be March 23, 2025"
         assert len(result) > 0
 
     def test_rubric_9_day_2_attraction_tickets_should_include_2_adult_tickets(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "Day 2 attraction tickets should include 2 Adult tickets"
         assert len(result) > 0
 
     def test_rubric_10_day_2_attraction_tickets_should_include_2_senior_tickets(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "Day 2 attraction tickets should include 2 Senior tickets"
         assert len(result) > 0

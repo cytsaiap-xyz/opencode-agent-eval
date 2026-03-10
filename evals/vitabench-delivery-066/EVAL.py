@@ -1,13 +1,13 @@
 import json
 import os
 import pytest
-from solution import solve
 
 _dir = os.path.dirname(os.path.abspath(__file__))
 with open(os.path.join(_dir, "expected.json")) as _f:
     expected_data = json.load(_f)
+with open(os.path.join(_dir, "answer.json")) as _f:
+    result = json.load(_f)
 
-result = solve()
 expected = expected_data["required_orders"]
 
 
@@ -55,36 +55,36 @@ class TestVitaBenchTask:
         assert abs(result[1]["total_price"] - 24.0) < 1
 
     def test_rubric_0_when_ordering_pork_dumplings_for_the_user__the_order_items_s(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "When ordering pork dumplings for the user, the order items should not contain chive filling"
         assert len(result) > 0
 
     def test_rubric_1_when_ordering_pork_dumplings_for_the_user__the_store_rating(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "When ordering pork dumplings for the user, the store rating should be 4.5 or above"
         assert len(result) > 0
 
     def test_rubric_2_when_ordering_pork_dumplings_for_the_user__the_store_should(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "When ordering pork dumplings for the user, the store should have a physical location with Dine-in Available"
         assert len(result) > 0
 
     def test_rubric_3_the_delivery_address_for_the_user_s_pork_dumplings_order_sho(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "The delivery address for the user\'s pork dumplings order should be Faculty Building, No.62 West Second Ring North Road, Qiaoxi District, Shijiazhuang City, Hebei Province"
         assert len(result) > 0
 
     def test_rubric_4_when_ordering_seafood_dumpling_soup_for_grandmother__the_sto(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "When ordering Seafood Dumpling Soup for grandmother, the store rating should be 4.5 or above"
         assert len(result) > 0
 
     def test_rubric_5_when_ordering_seafood_dumpling_soup_for_grandmother__the_sto(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "When ordering Seafood Dumpling Soup for grandmother, the store should have a physical location with Dine-in Available"
         assert len(result) > 0
 
     def test_rubric_6_the_delivery_address_for_grandmother_s_seafood_dumpling_soup(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "The delivery address for grandmother\'s Seafood Dumpling Soup order should be Faculty Building, No.62 West Second Ring North Road, Qiaoxi District, Shijiazhuang City, Hebei Province"
         assert len(result) > 0

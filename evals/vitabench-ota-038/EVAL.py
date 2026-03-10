@@ -1,13 +1,13 @@
 import json
 import os
 import pytest
-from solution import solve
 
 _dir = os.path.dirname(os.path.abspath(__file__))
 with open(os.path.join(_dir, "expected.json")) as _f:
     expected_data = json.load(_f)
+with open(os.path.join(_dir, "answer.json")) as _f:
+    result = json.load(_f)
 
-result = solve()
 expected = expected_data["required_orders"]
 
 
@@ -55,31 +55,31 @@ class TestVitaBenchTask:
         assert abs(result[1]["total_price"] - 856) < 1
 
     def test_rubric_0_query_the_price_of_huangcheng_xiangfu_tickets_with_show_incl(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "Query the price of Huangcheng Xiangfu tickets with show included"
         assert len(result) > 0
 
     def test_rubric_1_check_the_weather_in_jincheng_from_august_2__2025_to_august(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "Check the weather in Jincheng from August 2, 2025 to August 7, 2025, and find which day is sunny (result: August 5, 2025), so the attraction ticket date is set for August 5, 2025"
         assert len(result) > 0
 
     def test_rubric_2_the_attraction_ticket_purchased_includes_a_show(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "The attraction ticket purchased includes a show"
         assert len(result) > 0
 
     def test_rubric_3_check_that_the_beginning_of_autumn_date_is_august_7__2025__s(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "Check that the Beginning of Autumn date is August 7, 2025, so hotel reservations are made for August 7 and August 8, 2025"
         assert len(result) > 0
 
     def test_rubric_4_by_reviewing_last_month_s_hotel_orders_in_wuzhou__determine(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "By reviewing last month\'s hotel orders in Wuzhou, determine that the hotel to be booked is Atour Hotel Wuzhou"
         assert len(result) > 0
 
     def test_rubric_5_the_hotel_room_type_booked_is_a_twin_room(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "The hotel room type booked is a twin room"
         assert len(result) > 0

@@ -1,13 +1,13 @@
 import json
 import os
 import pytest
-from solution import solve
 
 _dir = os.path.dirname(os.path.abspath(__file__))
 with open(os.path.join(_dir, "expected.json")) as _f:
     expected_data = json.load(_f)
+with open(os.path.join(_dir, "answer.json")) as _f:
+    result = json.load(_f)
 
-result = solve()
 expected = expected_data["required_orders"]
 
 
@@ -55,51 +55,51 @@ class TestVitaBenchTask:
         assert abs(result[1]["total_price"] - 65) < 1
 
     def test_rubric_0_the_booked_hotel_should_be_within_500_meters_of_central_plaz(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "The booked hotel should be within 500 meters of Central Plaza, 18 Harbour Road, Wan Chai, Hong Kong"
         assert len(result) > 0
 
     def test_rubric_1_the_hotel_should_have_an_executive_floor(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "The hotel should have an Executive Floor"
         assert len(result) > 0
 
     def test_rubric_2_the_hotel_reservation_should_include_six_nights_of_rooms__sp(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "The hotel reservation should include six nights of rooms, specifically for 2024-09-13, 2024-09-14, 2024-09-15, 2024-09-16, 2024-09-17, 2024-09-18"
         assert len(result) > 0
 
     def test_rubric_3_the_room_type_in_the_hotel_reservation_should_be_a_king_room(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "The room type in the hotel reservation should be a king room"
         assert len(result) > 0
 
     def test_rubric_4_the_hotel_reservation_should_include_4_rooms_for_each_night(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "The hotel reservation should include 4 rooms for each night"
         assert len(result) > 0
 
     def test_rubric_5_the_room_rate_per_night_should_be_between_1000_1600_yuan__an(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "The room rate per night should be between 1000-1600 yuan, and the total order amount should be between 24000-38400 yuan"
         assert len(result) > 0
 
     def test_rubric_6_need_to_check_the_date_of_mid_autumn_festival_in_2024__which(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "Need to check the date of Mid-Autumn Festival in 2024, which is 2024-09-17; need to check the weather in Hong Kong on 2024-09-17, which is sunny, and the tickets in the attraction order should be for the Victoria Peak Tram"
         assert len(result) > 0
 
     def test_rubric_7_the_tickets_in_the_attraction_order_should_be_one_way_ticket(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "The tickets in the attraction order should be one-way tickets"
         assert len(result) > 0
 
     def test_rubric_8_the_tickets_in_the_attraction_order_should_be_adult_ticket(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "The tickets in the attraction order should be Adult Ticket"
         assert len(result) > 0
 
     def test_rubric_9_the_date_in_the_attraction_order_should_be_2024_09_17(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "The date in the attraction order should be 2024-09-17"
         assert len(result) > 0

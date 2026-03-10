@@ -1,13 +1,13 @@
 import json
 import os
 import pytest
-from solution import solve
 
 _dir = os.path.dirname(os.path.abspath(__file__))
 with open(os.path.join(_dir, "expected.json")) as _f:
     expected_data = json.load(_f)
+with open(os.path.join(_dir, "answer.json")) as _f:
+    result = json.load(_f)
 
-result = solve()
 expected = expected_data["required_orders"]
 
 
@@ -71,71 +71,71 @@ class TestVitaBenchTask:
         assert abs(result[2]["total_price"] - 69) < 1
 
     def test_rubric_0_the_delivery_address_for_the_grilled_fish_order_should_be_ro(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "The delivery address for the grilled fish order should be Room 1204, Building 3, Haiyun Garden (Haiyuan Street), No. 24 Haiyuan Street, Shahekou District, Dalian, Liaoning Province (430m walk from Exit B of Second Hospital Metro Station)"
         assert len(result) > 0
 
     def test_rubric_1_the_estimated_delivery_time_for_the_grilled_fish_order_shoul(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "The estimated delivery time for the grilled fish order should be around 19:00 on September 26, 2025"
         assert len(result) > 0
 
     def test_rubric_2_the_dinner_order_should_choose_grilled_fish_items(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "The dinner order should choose grilled fish items"
         assert len(result) > 0
 
     def test_rubric_3_the_grilled_fish_order_should_include_a_dual_flavor_grilled(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "The grilled fish order should include a dual-flavor grilled fish with garlic and sauce flavors"
         assert len(result) > 0
 
     def test_rubric_4_the_grilled_fish_order_should_select_a_size_for_3_or_more_pe(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "The grilled fish order should select a size for 3 or more people"
         assert len(result) > 0
 
     def test_rubric_5_the_delivery_address_for_the_beverage_order_should_be_room_1(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "The delivery address for the beverage order should be Room 1204, Building 3, Haiyun Garden (Haiyuan Street), No. 24 Haiyuan Street, Shahekou District, Dalian, Liaoning Province (430m walk from Exit B of Second Hospital Metro Station)"
         assert len(result) > 0
 
     def test_rubric_6_the_estimated_delivery_time_for_the_beverage_order_should_be(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "The estimated delivery time for the beverage order should be between 18:00 and 19:00 on September 26, 2025"
         assert len(result) > 0
 
     def test_rubric_7_the_beverage_order_should_choose_grape_jasmine_drinks(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "The beverage order should choose grape jasmine drinks"
         assert len(result) > 0
 
     def test_rubric_8_the_beverage_order_specification_should_be_large_size_with_l(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "The beverage order specification should be large size with less sugar"
         assert len(result) > 0
 
     def test_rubric_9_the_beverage_order_quantity_should_be_3_cups(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "The beverage order quantity should be 3 cups"
         assert len(result) > 0
 
     def test_rubric_10_the_delivery_address_for_the_stir_fried_rice_noodles_order_s(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "The delivery address for the stir-fried rice noodles order should be Room 1204, Building 3, Haiyun Garden (Haiyuan Street), No. 24 Haiyuan Street, Shahekou District, Dalian, Liaoning Province (430m walk from Exit B of Second Hospital Metro Station)"
         assert len(result) > 0
 
     def test_rubric_11_the_estimated_delivery_time_for_the_stir_fried_rice_noodles(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "The estimated delivery time for the stir-fried rice noodles order should be between 18:00 and 19:00 on September 26, 2025"
         assert len(result) > 0
 
     def test_rubric_12_the_stir_fried_rice_noodles_order_should_select_home_style_r(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "The stir-fried rice noodles order should select Home-style Restaurant (Stir-fry·Rice Bowls·Dumplings)"
         assert len(result) > 0
 
     def test_rubric_13_the_stir_fried_rice_noodles_order_should_choose_stir_fried_r(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "The stir-fried rice noodles order should choose stir-fried rice noodles that do not contain Chinese turnip"
         assert len(result) > 0

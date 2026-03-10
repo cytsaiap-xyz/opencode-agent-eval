@@ -1,13 +1,13 @@
 import json
 import os
 import pytest
-from solution import solve
 
 _dir = os.path.dirname(os.path.abspath(__file__))
 with open(os.path.join(_dir, "expected.json")) as _f:
     expected_data = json.load(_f)
+with open(os.path.join(_dir, "answer.json")) as _f:
+    result = json.load(_f)
 
-result = solve()
 expected = expected_data["required_orders"]
 
 
@@ -39,26 +39,26 @@ class TestVitaBenchTask:
         assert abs(result[0]["total_price"] - 142.0) < 1
 
     def test_rubric_0_the_delivery_address_for_the_family_dinner_order_celebrating(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "The delivery address for the family dinner order celebrating promotion should be Xinyuan Residential Area, 180 meters southeast of the intersection of Huangshanglong Road and Minxiangyuan Road, Yunlong District, Xuzhou City, Jiangsu Province"
         assert len(result) > 0
 
     def test_rubric_1_the_estimated_delivery_time_for_the_family_dinner_order_cele(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "The estimated delivery time for the family dinner order celebrating promotion should be before 9:00 PM on November 27, 2025"
         assert len(result) > 0
 
     def test_rubric_2_the_restaurant_for_the_family_dinner_order_celebrating_promo(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "The restaurant for the family dinner order celebrating promotion should be a Guangshunxing brand store"
         assert len(result) > 0
 
     def test_rubric_3_the_family_dinner_order_celebrating_promotion_should_contain(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "The family dinner order celebrating promotion should contain 3 dishes in total"
         assert len(result) > 0
 
     def test_rubric_4_the_family_dinner_order_celebrating_promotion_should_include(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "The family dinner order celebrating promotion should include pig stomach chicken as the main dish, and at least one dim sum item (such as shumai)"
         assert len(result) > 0

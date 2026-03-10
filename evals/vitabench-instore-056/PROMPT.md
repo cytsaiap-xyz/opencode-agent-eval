@@ -1,6 +1,6 @@
 # VitaBench Task: Instore #56
 
-You are building a service agent that processes user requests. Given the environment data in `environment.json` and the expected output format in `expected.json`, implement the `solve()` function in `solution.py`.
+You are building a service agent that processes user requests. Given the environment data in `environment.json` and the expected output format in `expected.json`, analyze the data and write your answer to `answer.json`.
 
 ## User Request
 
@@ -32,10 +32,12 @@ Recently, my son has been constantly asking to try racing, so you decide to take
 
 ## Your Task
 
-Implement the `solve()` function in `solution.py` that returns the correct order(s) matching the user's request. The function should:
+Read and analyze the environment data in `environment.json` to find orders matching the user's request:
 
-1. Read the environment data (stores, products, user info)
-2. Apply the constraints from the user's request
-3. Return an array of order objects with the correct `store_id`, `products` (each with `product_id`, `quantity`, `price`), `total_price`, and `address`
+1. Read the environment data (stores, products, user info, weather, location)
+2. Apply the constraints from the user's request and rubrics above
+3. Write your answer to `answer.json` as an array of order objects
 
-Look at `expected.json` for the exact output format expected. Your `solve()` function must return data that matches the `required_orders` structure.
+Each order should have: `store_id`, `products` (array of `{product_id, quantity, price}`), `total_price`, and any other relevant fields (address, delivery_time, reservation details, etc.).
+
+Look at `expected.json` for the exact output format expected. Your `answer.json` must contain data matching the `required_orders` structure.

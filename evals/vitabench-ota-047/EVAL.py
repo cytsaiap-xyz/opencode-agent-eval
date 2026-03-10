@@ -1,13 +1,13 @@
 import json
 import os
 import pytest
-from solution import solve
 
 _dir = os.path.dirname(os.path.abspath(__file__))
 with open(os.path.join(_dir, "expected.json")) as _f:
     expected_data = json.load(_f)
+with open(os.path.join(_dir, "answer.json")) as _f:
+    result = json.load(_f)
 
-result = solve()
 expected = expected_data["required_orders"]
 
 
@@ -55,36 +55,36 @@ class TestVitaBenchTask:
         assert abs(result[1]["total_price"] - 45) < 1
 
     def test_rubric_0_train_departure_date_should_be_june_18__2024(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "Train departure date should be June 18, 2024"
         assert len(result) > 0
 
     def test_rubric_1_train_tickets_should_be_for_the_train_from_jinan_to_weihai(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "Train tickets should be for the train from Jinan to Weihai"
         assert len(result) > 0
 
     def test_rubric_2_train_number_should_be_g6966(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "Train number should be G6966"
         assert len(result) > 0
 
     def test_rubric_3_number_of_train_tickets_should_be_2(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "Number of train tickets should be 2"
         assert len(result) > 0
 
     def test_rubric_4_the_ordered_attraction_ticket_should_be_the_cheapest_one__ba(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "The ordered attraction ticket should be the cheapest one (Banana boat experience ticket)"
         assert len(result) > 0
 
     def test_rubric_5_attraction_ticket_use_date_should_be_june_19__2024(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "Attraction ticket use date should be June 19, 2024"
         assert len(result) > 0
 
     def test_rubric_6_number_of_attraction_tickets_should_be_1(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "Number of attraction tickets should be 1"
         assert len(result) > 0

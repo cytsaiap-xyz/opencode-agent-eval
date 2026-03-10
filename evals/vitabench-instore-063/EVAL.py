@@ -1,13 +1,13 @@
 import json
 import os
 import pytest
-from solution import solve
 
 _dir = os.path.dirname(os.path.abspath(__file__))
 with open(os.path.join(_dir, "expected.json")) as _f:
     expected_data = json.load(_f)
+with open(os.path.join(_dir, "answer.json")) as _f:
+    result = json.load(_f)
 
-result = solve()
 expected = expected_data["required_orders"]
 
 
@@ -55,41 +55,41 @@ class TestVitaBenchTask:
         assert abs(result[1]["total_price"] - 23) < 1
 
     def test_rubric_0_the_distance_between_the_health_preservation_center_and_room(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "The distance between the health preservation center and Room 1203, Building B, Huale Garden, 1037 Luoyu Road, Hongshan District, Wuhan should be within 3000m (including 3000m)"
         assert len(result) > 0
 
     def test_rubric_1_the_health_preservation_center_should_have_a_tcm_physician_a(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "The health preservation center should have a TCM Physician available on Mondays"
         assert len(result) > 0
 
     def test_rubric_2_the_ordered_product_from_the_health_preservation_center_shou(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "The ordered product from the health preservation center should be a multiple acupoint treatment package"
         assert len(result) > 0
 
     def test_rubric_3_the_ordered_product_from_the_health_preservation_center_shou(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "The ordered product from the health preservation center should be moxibustion treatment"
         assert len(result) > 0
 
     def test_rubric_4_the_ordered_product_from_the_health_preservation_center_shou(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "The ordered product from the health preservation center should be the Traditional Five-Point Moxibustion Experience Package"
         assert len(result) > 0
 
     def test_rubric_5_the_distance_between_the_beverage_shop_and_the_starlight_par(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "The distance between the beverage shop and the Starlight Paradise Shopping Mall should be within 1000m (including 1000m)"
         assert len(result) > 0
 
     def test_rubric_6_after_checking_the_user_s_historic_orders__book_and_resercat(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "After checking the user\'s historic orders, book and resercation, the user\'s preferred store rating range is 4.3-5.0, so the beverage shop\'s rating should be 4.3 or above"
         assert len(result) > 0
 
     def test_rubric_7_the_beverage_shop_should_be_checked_for_strawberry_milkshake(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "The beverage shop should be checked for Strawberry Milkshake, which is available, so the ordered product from the beverage shop should be Strawberry Milkshake"
         assert len(result) > 0

@@ -1,13 +1,13 @@
 import json
 import os
 import pytest
-from solution import solve
 
 _dir = os.path.dirname(os.path.abspath(__file__))
 with open(os.path.join(_dir, "expected.json")) as _f:
     expected_data = json.load(_f)
+with open(os.path.join(_dir, "answer.json")) as _f:
+    result = json.load(_f)
 
-result = solve()
 expected = expected_data["required_orders"]
 
 
@@ -55,41 +55,41 @@ class TestVitaBenchTask:
         assert abs(result[1]["total_price"] - 32.0) < 1
 
     def test_rubric_0_vermicelli_main_dish_order_should_choose_sichuan_chongqing_n(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "Vermicelli main dish order should choose Sichuan-Chongqing Noodle House (Hot and Sour Vermicelli • Dumplings • Rice Noodles) store"
         assert len(result) > 0
 
     def test_rubric_1_vermicelli_main_dish_order_should_select_chongqing_pea_mix_h(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "Vermicelli main dish order should select Chongqing Pea Mix Hot and Sour Vermicelli + Golden Beans + Pickled Long Beans + Peanuts + Side Dishes product"
         assert len(result) > 0
 
     def test_rubric_2_vermicelli_main_dish_order_should_select_mild_spicy_flavor(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "Vermicelli main dish order should select mild spicy flavor"
         assert len(result) > 0
 
     def test_rubric_3_vermicelli_main_dish_order_delivery_address_should_be_nanhu(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "Vermicelli main dish order delivery address should be Nanhu Garden, No. 15 Dongzhai Road, Wucheng District, Jinhua City, Zhejiang Province"
         assert len(result) > 0
 
     def test_rubric_4_beverage_order_product_should_be_peach_flavor(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "Beverage order product should be peach flavor"
         assert len(result) > 0
 
     def test_rubric_5_peach_flavor_beverage_order_product_should_be_low_caffeine_o(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "Peach flavor beverage order product should be low-caffeine or caffeine-free drink"
         assert len(result) > 0
 
     def test_rubric_6_peach_flavor_beverage_order_product_should_select_hot_drink(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "Peach flavor beverage order product should select hot drink"
         assert len(result) > 0
 
     def test_rubric_7_peach_flavor_beverage_order_delivery_address_should_be_nanhu(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "Peach flavor beverage order delivery address should be Nanhu Garden, No. 15 Dongzhai Road, Wucheng District, Jinhua City, Zhejiang Province"
         assert len(result) > 0

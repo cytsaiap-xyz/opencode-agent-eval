@@ -1,13 +1,13 @@
 import json
 import os
 import pytest
-from solution import solve
 
 _dir = os.path.dirname(os.path.abspath(__file__))
 with open(os.path.join(_dir, "expected.json")) as _f:
     expected_data = json.load(_f)
+with open(os.path.join(_dir, "answer.json")) as _f:
+    result = json.load(_f)
 
-result = solve()
 expected = expected_data["required_orders"]
 
 
@@ -55,41 +55,41 @@ class TestVitaBenchTask:
         assert abs(result[1]["total_price"] - 24) < 1
 
     def test_rubric_0_the_delivery_address_for_the_beef_ball_rice_noodle_order_sho(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "The delivery address for the beef ball rice noodle order should be Huixin Cultural Office, 1st Floor, Hengqin Innovation Way, No. 111 Tianyu Road, Xiangzhou District, Zhuhai City, Guangdong Province"
         assert len(result) > 0
 
     def test_rubric_1_the_estimated_delivery_time_for_the_beef_ball_rice_noodle_or(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "The estimated delivery time for the beef ball rice noodle order should be around 18:30 on February 14, 2025"
         assert len(result) > 0
 
     def test_rubric_2_the_beef_balls_selected_in_the_beef_ball_rice_noodle_order_s(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "The beef balls selected in the beef ball rice noodle order should be freshly hand-pounded, and this feature should be reflected in the product label or description"
         assert len(result) > 0
 
     def test_rubric_3_the_delivery_address_for_the_dessert_order_should_be_huafa_s(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "The delivery address for the dessert order should be Huafa Shoufu, South Side of Gang\'ao Avenue, Xiangzhou District, Zhuhai City, Guangdong Province"
         assert len(result) > 0
 
     def test_rubric_4_the_estimated_delivery_time_for_the_dessert_order_should_be(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "The estimated delivery time for the dessert order should be between 18:15 and 18:30 on February 14, 2025"
         assert len(result) > 0
 
     def test_rubric_5_a_reliable_dessert_shop_should_be_ordered_from__typically_ch(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "A reliable dessert shop should be ordered from, typically characterized by high ratings, Chain Store guarantee, and Authentic flavors"
         assert len(result) > 0
 
     def test_rubric_6_the_product_selected_in_the_dessert_order_should_contain_tar(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "The product selected in the dessert order should contain taro paste elements, which should be reflected in the product name or description"
         assert len(result) > 0
 
     def test_rubric_7_the_ordered_dessert_should_not_be_cold(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "The ordered dessert should not be cold"
         assert len(result) > 0

@@ -1,13 +1,13 @@
 import json
 import os
 import pytest
-from solution import plan_trip
 
 _dir = os.path.dirname(os.path.abspath(__file__))
 with open(os.path.join(_dir, "task-data.json")) as _f:
     task_data = json.load(_f)
+with open(os.path.join(_dir, "answer.json")) as _f:
+    plan = json.load(_f)
 
-plan = plan_trip()
 constraints = task_data["hard_constraints"]
 meta = task_data["meta_info"]
 

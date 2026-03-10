@@ -1,13 +1,13 @@
 import json
 import os
 import pytest
-from solution import solve
 
 _dir = os.path.dirname(os.path.abspath(__file__))
 with open(os.path.join(_dir, "expected.json")) as _f:
     expected_data = json.load(_f)
+with open(os.path.join(_dir, "answer.json")) as _f:
+    result = json.load(_f)
 
-result = solve()
 expected = expected_data["required_orders"]
 
 
@@ -72,56 +72,56 @@ class TestVitaBenchTask:
         assert result[2].get("customer_count") == 2
 
     def test_rubric_0_the_hanfu_store_should_be_within_1km_of_xiyuan_temple(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "The Hanfu store should be within 1km of Xiyuan Temple"
         assert len(result) > 0
 
     def test_rubric_1_the_ordered_product_from_the_hanfu_store_should_be_a_couple(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "The ordered product from the Hanfu store should be a couple photography package including styling"
         assert len(result) > 0
 
     def test_rubric_2_the_ordered_restaurant_should_mainly_serve_suzhou_cuisine(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "The ordered restaurant should mainly serve Suzhou Cuisine"
         assert len(result) > 0
 
     def test_rubric_3_the_ordered_restaurant_should_offer_free_pingtan_performance(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "The ordered restaurant should offer free Pingtan performance"
         assert len(result) > 0
 
     def test_rubric_4_the_ordered_restaurant_should_provide_free_pingtan_performan(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "The ordered restaurant should provide free Pingtan performance between 4:00 PM and 7:30 PM"
         assert len(result) > 0
 
     def test_rubric_5_the_restaurant_order_should_be_for_one_couple_meal__not_two(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "The restaurant order should be for one couple meal, not two individual meals"
         assert len(result) > 0
 
     def test_rubric_6_the_restaurant_reservation_is_for_songhelou_restaurant(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "The restaurant reservation is for Songhelou Restaurant"
         assert len(result) > 0
 
     def test_rubric_7_the_restaurant_reservation_time_is_september_21__2025__at_16(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "The restaurant reservation time is September 21, 2025, at 16:00"
         assert len(result) > 0
 
     def test_rubric_8_the_restaurant_reservation_is_for_2_people(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "The restaurant reservation is for 2 people"
         assert len(result) > 0
 
     def test_rubric_9_the_last_time_milk_tea_was_ordered_was_july_10__2025(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "The last time milk tea was ordered was July 10, 2025"
         assert len(result) > 0
 
     def test_rubric_10_the_last_milk_tea_order_was_more_than_one_month_before_septe(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "The last milk tea order was more than one month before September 20, 2025"
         assert len(result) > 0

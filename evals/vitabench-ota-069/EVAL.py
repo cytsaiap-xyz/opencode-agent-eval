@@ -1,13 +1,13 @@
 import json
 import os
 import pytest
-from solution import solve
 
 _dir = os.path.dirname(os.path.abspath(__file__))
 with open(os.path.join(_dir, "expected.json")) as _f:
     expected_data = json.load(_f)
+with open(os.path.join(_dir, "answer.json")) as _f:
+    result = json.load(_f)
 
-result = solve()
 expected = expected_data["required_orders"]
 
 
@@ -71,81 +71,81 @@ class TestVitaBenchTask:
         assert abs(result[2]["total_price"] - 8380) < 1
 
     def test_rubric_0_the_outbound_flight_order_must_be_from_shenzhen_to_nyingchi(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "The outbound flight order must be from Shenzhen to Nyingchi"
         assert len(result) > 0
 
     def test_rubric_1_the_outbound_flight_order_departure_time_must_be_march_25__2(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "The outbound flight order departure time must be March 25, 2025"
         assert len(result) > 0
 
     def test_rubric_2_the_outbound_flight_order_cabin_class_should_be_economy_clas(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "The outbound flight order cabin class should be economy class"
         assert len(result) > 0
 
     def test_rubric_3_the_outbound_flight_order_ticket_quantity_must_be_7(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "The outbound flight order ticket quantity must be 7"
         assert len(result) > 0
 
     def test_rubric_4_the_outbound_flight_order_must_depart_after_10_00_am(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "The outbound flight order must depart after 10:00 AM"
         assert len(result) > 0
 
     def test_rubric_5_the_return_flight_order_must_be_from_nyingchi_to_shenzhen(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "The return flight order must be from Nyingchi to Shenzhen"
         assert len(result) > 0
 
     def test_rubric_6_the_return_flight_order_departure_time_must_be_march_29__202(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "The return flight order departure time must be March 29, 2025"
         assert len(result) > 0
 
     def test_rubric_7_the_return_flight_order_cabin_class_should_be_economy_class(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "The return flight order cabin class should be economy class"
         assert len(result) > 0
 
     def test_rubric_8_the_return_flight_order_ticket_quantity_must_be_7(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "The return flight order ticket quantity must be 7"
         assert len(result) > 0
 
     def test_rubric_9_the_return_flight_order_must_depart_after_10_00_am(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "The return flight order must depart after 10:00 AM"
         assert len(result) > 0
 
     def test_rubric_10_the_hotel_booked_must_be_located_in_nyingchi_city_area(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "The hotel booked must be located in Nyingchi city area"
         assert len(result) > 0
 
     def test_rubric_11_there_should_be_only_one_hotel_order(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "There should be only one hotel order"
         assert len(result) > 0
 
     def test_rubric_12_the_hotel_order_check_in_dates_must_be_march_25__2025__march(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "The hotel order check-in dates must be March 25, 2025, March 26, 2025, March 27, 2025, and March 28, 2025"
         assert len(result) > 0
 
     def test_rubric_13_the_hotel_order_must_book_2_family_rooms_per_night(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "The hotel order must book 2 family rooms per night"
         assert len(result) > 0
 
     def test_rubric_14_the_hotel_order_must_book_1_twin_room_per_night(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "The hotel order must book 1 twin room per night"
         assert len(result) > 0
 
     def test_rubric_15_weather_for_march_26_in_nyingchi_should_be_checked__with_res(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "Weather for March 26 in Nyingchi should be checked, with results showing light rain; no scenic spot tickets need to be booked"
         assert len(result) > 0

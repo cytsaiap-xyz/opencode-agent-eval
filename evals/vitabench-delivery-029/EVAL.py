@@ -1,13 +1,13 @@
 import json
 import os
 import pytest
-from solution import solve
 
 _dir = os.path.dirname(os.path.abspath(__file__))
 with open(os.path.join(_dir, "expected.json")) as _f:
     expected_data = json.load(_f)
+with open(os.path.join(_dir, "answer.json")) as _f:
+    result = json.load(_f)
 
-result = solve()
 expected = expected_data["required_orders"]
 
 
@@ -55,21 +55,21 @@ class TestVitaBenchTask:
         assert abs(result[1]["total_price"] - 26.9) < 1
 
     def test_rubric_0_add_note_to_the_handmade_spicy_strips_order_with_order_id_40(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "Add note to the handmade spicy strips order with order_id 40711008O01: Extra spicy, thanks"
         assert len(result) > 0
 
     def test_rubric_1_the_ordered_pork_sandwich_and_rice_skin_noodles_must_be_in_m(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "The ordered pork sandwich and rice skin noodles must be in meal set form, not as individual items"
         assert len(result) > 0
 
     def test_rubric_2_the_expected_delivery_time_for_the_pork_sandwich_and_rice_sk(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "The expected delivery time for the pork sandwich and rice skin noodles order should be before 12:00:00 on June 24, 2026"
         assert len(result) > 0
 
     def test_rubric_3_the_delivery_address_for_the_pork_sandwich_and_rice_skin_noo(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "The delivery address for the pork sandwich and rice skin noodles order should be ZTO Express Xigong Branch 3, No. 3 Jiankang East Road, Xigong District, Luoyang, Henan Province"
         assert len(result) > 0

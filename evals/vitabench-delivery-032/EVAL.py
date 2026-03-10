@@ -1,13 +1,13 @@
 import json
 import os
 import pytest
-from solution import solve
 
 _dir = os.path.dirname(os.path.abspath(__file__))
 with open(os.path.join(_dir, "expected.json")) as _f:
     expected_data = json.load(_f)
+with open(os.path.join(_dir, "answer.json")) as _f:
+    result = json.load(_f)
 
-result = solve()
 expected = expected_data["required_orders"]
 
 
@@ -39,31 +39,31 @@ class TestVitaBenchTask:
         assert abs(result[0]["total_price"] - 28.8) < 1
 
     def test_rubric_0_the_ordered_light_dinner_item_cannot_include_kyoto_grain_gri(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "The ordered light dinner item cannot include Kyoto Grain Grilled Meat Rice Bowl"
         assert len(result) > 0
 
     def test_rubric_1_the_ordered_light_dinner_item_should_come_from_super_deer_te(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "The ordered light dinner item should come from Super Deer Team · Light Weight-loss Meal (Jiaojiang Branch)"
         assert len(result) > 0
 
     def test_rubric_2_the_ordered_light_dinner_item_should_provide_a_feeling_of_fu(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "The ordered light dinner item should provide a Feeling of Fullness and be suitable for consumption before exercise"
         assert len(result) > 0
 
     def test_rubric_3_the_ordered_light_dinner_item_should_cost_less_than_30_yuan(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "The ordered light dinner item should cost less than 30 yuan"
         assert len(result) > 0
 
     def test_rubric_4_the_delivery_address_for_the_light_dinner_order_should_be_zh(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "The delivery address for the light dinner order should be Zhejiang Nanyang Huacheng Technology Co., Ltd., No. 388 Development Avenue, Economic Development Zone, Baiyun Street, Jiaojiang District, Taizhou City, Zhejiang Province"
         assert len(result) > 0
 
     def test_rubric_5_the_estimated_delivery_time_for_the_light_dinner_order_shoul(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "The estimated delivery time for the light dinner order should be before 18:00 on July 15, 2025"
         assert len(result) > 0

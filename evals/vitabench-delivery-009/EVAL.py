@@ -1,13 +1,13 @@
 import json
 import os
 import pytest
-from solution import solve
 
 _dir = os.path.dirname(os.path.abspath(__file__))
 with open(os.path.join(_dir, "expected.json")) as _f:
     expected_data = json.load(_f)
+with open(os.path.join(_dir, "answer.json")) as _f:
+    result = json.load(_f)
 
-result = solve()
 expected = expected_data["required_orders"]
 
 
@@ -39,31 +39,31 @@ class TestVitaBenchTask:
         assert abs(result[0]["total_price"] - 14) < 1
 
     def test_rubric_0_the_delivery_address_should_be_ziwei_city_garden_near_bank_o(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "The delivery address should be Ziwei City Garden near Bank of Communications (Xi\'an Electronic City Branch), Yanta District, Xi\'an, Shaanxi Province"
         assert len(result) > 0
 
     def test_rubric_1_the_delivery_time_of_the_menstrual_period_drink_order_should(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "The delivery time of the menstrual period drink order should be after 2025-09-18 20:00:00"
         assert len(result) > 0
 
     def test_rubric_2_drink_orders_cannot_select_mixue_ice_cream_stores(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "Drink orders cannot select Mixue Ice Cream stores"
         assert len(result) > 0
 
     def test_rubric_3_drink_orders_must_select_products_that_are_low_caffeine_or_c(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "Drink orders must select products that are Low Caffeine or caffeine-free"
         assert len(result) > 0
 
     def test_rubric_4_menstrual_period_drink_orders_must_select_hot_drinks__not_co(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "Menstrual period drink orders must select hot drinks, not cold drinks"
         assert len(result) > 0
 
     def test_rubric_5_menstrual_period_drink_orders_should_select_small_or_medium(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "Menstrual period drink orders should select small or Medium Cup, not large or extra-large cups"
         assert len(result) > 0

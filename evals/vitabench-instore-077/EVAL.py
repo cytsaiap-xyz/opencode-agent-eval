@@ -1,13 +1,13 @@
 import json
 import os
 import pytest
-from solution import solve
 
 _dir = os.path.dirname(os.path.abspath(__file__))
 with open(os.path.join(_dir, "expected.json")) as _f:
     expected_data = json.load(_f)
+with open(os.path.join(_dir, "answer.json")) as _f:
+    result = json.load(_f)
 
-result = solve()
 expected = expected_data["required_orders"]
 
 
@@ -55,26 +55,26 @@ class TestVitaBenchTask:
         assert abs(result[1]["total_price"] - 68) < 1
 
     def test_rubric_0_the_xinjiang_restaurant_order_should_be_suitable_for_photo_c(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "The Xinjiang restaurant order should be suitable for photo check-in"
         assert len(result) > 0
 
     def test_rubric_1_the_xinjiang_restaurant_order_should_be_a_two_person_set_tha(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "The Xinjiang restaurant order should be a two-person set that includes alcoholic beverages, Spicy Lamb Hoof, and Hand-Grabbed Rice"
         assert len(result) > 0
 
     def test_rubric_2_the_distance_from_the_claw_machine_store_to_tianshan_style_x(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "The distance from the claw machine store to Tianshan Style Xinjiang Cuisine, 1st Floor, Building A, Triumph Plaza, No. 198 Zhongzhou Middle Road, Xigong District, Luoyang should be within 2km (including 2km)"
         assert len(result) > 0
 
     def test_rubric_3_in_the_claw_machine_store__the_200_game_coins_package_costs(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "In the claw machine store, the 200 Game Coins Package costs only 10 yuan more than the 100 Game Coins Package, so the 200 Game Coins Package should be purchased"
         assert len(result) > 0
 
     def test_rubric_4_the_distance_from_the_xinjiang_restaurant_to_room_1503__buil(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "The distance from the Xinjiang restaurant to Room 1503, Building B, Triumph Plaza, No. 229 Zhongzhou Middle Road, Xigong District, Luoyang is within 1km (including 1km), so no reservation is needed"
         assert len(result) > 0

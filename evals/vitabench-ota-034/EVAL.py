@@ -1,13 +1,13 @@
 import json
 import os
 import pytest
-from solution import solve
 
 _dir = os.path.dirname(os.path.abspath(__file__))
 with open(os.path.join(_dir, "expected.json")) as _f:
     expected_data = json.load(_f)
+with open(os.path.join(_dir, "answer.json")) as _f:
+    result = json.load(_f)
 
-result = solve()
 expected = expected_data["required_orders"]
 
 
@@ -119,81 +119,81 @@ class TestVitaBenchTask:
         assert abs(result[5]["total_price"] - 90) < 1
 
     def test_rubric_0_the_departure_date_should_be_june_24__2023(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "The departure date should be June 24, 2023"
         assert len(result) > 0
 
     def test_rubric_1_the_departure_train_should_arrive_at_around_7_pm_on_june_24(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "The departure train should arrive at around 7 PM on June 24, 2023"
         assert len(result) > 0
 
     def test_rubric_2_the_departure_train_ticket_should_be_for_a_train_from_hefei(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "The departure train ticket should be for a train from Hefei to Huangshan"
         assert len(result) > 0
 
     def test_rubric_3_the_return_date_should_be_june_25__2023(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "The return date should be June 25, 2023"
         assert len(result) > 0
 
     def test_rubric_4_the_return_train_departure_time_should_be_after_4_pm_on_june(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "The return train departure time should be after 4 PM on June 25, 2023"
         assert len(result) > 0
 
     def test_rubric_5_the_return_train_should_be_from_huangshan_to_hefei(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "The return train should be from Huangshan to Hefei"
         assert len(result) > 0
 
     def test_rubric_6_the_hotel_brand_should_be_atour_ji_hotel_vienna_orange_or_an(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "The hotel brand should be Atour/Ji Hotel/Vienna/Orange or any brand under Huazhu Group"
         assert len(result) > 0
 
     def test_rubric_7_the_hotel_price_should_be_less_than_500_yuan(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "The hotel price should be less than 500 yuan"
         assert len(result) > 0
 
     def test_rubric_8_the_hotel_should_provide_luggage_storage_service(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "The hotel should provide luggage storage service"
         assert len(result) > 0
 
     def test_rubric_9_the_hotel_order_should_include_a_room_for_june_24__2023(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "The hotel order should include a room for June 24, 2023"
         assert len(result) > 0
 
     def test_rubric_10_the_huangshan_scenic_area_ticket_should_be_used_on_june_25(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "The Huangshan Scenic Area ticket should be used on June 25, 2023"
         assert len(result) > 0
 
     def test_rubric_11_the_huangshan_scenic_area_ticket_should_be_an_adult_ticket(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "The Huangshan Scenic Area ticket should be an adult ticket"
         assert len(result) > 0
 
     def test_rubric_12_the_huangshan_yungu_cable_car_ticket_should_be_for_upward_di(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "The Huangshan Yungu Cable Car ticket should be for upward direction"
         assert len(result) > 0
 
     def test_rubric_13_the_huangshan_yungu_cable_car_ticket_should_be_used_on_june(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "The Huangshan Yungu Cable Car ticket should be used on June 25, 2023"
         assert len(result) > 0
 
     def test_rubric_14_the_huangshan_yuping_cable_car_ticket_should_be_for_downward(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "The Huangshan Yuping Cable Car ticket should be for downward direction"
         assert len(result) > 0
 
     def test_rubric_15_the_huangshan_yuping_cable_car_ticket_should_be_used_on_june(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "The Huangshan Yuping Cable Car ticket should be used on June 25, 2023"
         assert len(result) > 0

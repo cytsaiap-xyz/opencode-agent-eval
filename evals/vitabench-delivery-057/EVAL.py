@@ -1,13 +1,13 @@
 import json
 import os
 import pytest
-from solution import solve
 
 _dir = os.path.dirname(os.path.abspath(__file__))
 with open(os.path.join(_dir, "expected.json")) as _f:
     expected_data = json.load(_f)
+with open(os.path.join(_dir, "answer.json")) as _f:
+    result = json.load(_f)
 
-result = solve()
 expected = expected_data["required_orders"]
 
 
@@ -55,51 +55,51 @@ class TestVitaBenchTask:
         assert abs(result[1]["total_price"] - 44.0) < 1
 
     def test_rubric_0_the_delivery_address_for_the_pancake_order_should_be_buildin(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "The delivery address for the pancake order should be Building A, Baolian Plaza, 1103 Liyu Road, Wucheng District, Jinhua City, Zhejiang Province"
         assert len(result) > 0
 
     def test_rubric_1_the_estimated_delivery_time_for_the_pancake_order_should_be(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "The estimated delivery time for the pancake order should be between 2025-02-08 11:30:00 and 2025-02-08 12:15:00"
         assert len(result) > 0
 
     def test_rubric_2_the_pancake_order_should_select_lai_shili_pu_pancake__sanjia(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "The pancake order should select Lai Shili Pu·Pancake (Sanjiang International Store) as the merchant"
         assert len(result) > 0
 
     def test_rubric_3_the_pancake_order_should_include_multigrain_pancake___egg(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "The pancake order should include Multigrain Pancake + Egg + Crispy Cracker + Handmade Extra Large Tenderloin + Lettuce item and add Beef Slices item"
         assert len(result) > 0
 
     def test_rubric_4_the_pancake_order_should_add_a_note_requesting_to_cut_the_pa(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "The pancake order should add a note requesting to cut the pancake into halves"
         assert len(result) > 0
 
     def test_rubric_5_the_delivery_address_for_the_beverage_order_should_be_buildi(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "The delivery address for the beverage order should be Building A, Baolian Plaza, 1103 Liyu Road, Wucheng District, Jinhua City, Zhejiang Province"
         assert len(result) > 0
 
     def test_rubric_6_the_estimated_delivery_time_for_the_beverage_order_should_be(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "The estimated delivery time for the beverage order should be before 2025-05-23 12:15:00"
         assert len(result) > 0
 
     def test_rubric_7_the_beverage_order_should_select_drinks_with_sweet_and_fresh(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "The beverage order should select drinks with Sweet and Fresh flavor"
         assert len(result) > 0
 
     def test_rubric_8_the_beverage_order_should_select_drinks_with_less_ice(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "The beverage order should select drinks with less ice"
         assert len(result) > 0
 
     def test_rubric_9_the_beverage_order_should_select_drinks_with_no_extra_sugar(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "The beverage order should select drinks with no extra sugar to meet sugar restriction requirements"
         assert len(result) > 0

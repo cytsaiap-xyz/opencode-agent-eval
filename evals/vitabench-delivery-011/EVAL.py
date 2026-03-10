@@ -1,13 +1,13 @@
 import json
 import os
 import pytest
-from solution import solve
 
 _dir = os.path.dirname(os.path.abspath(__file__))
 with open(os.path.join(_dir, "expected.json")) as _f:
     expected_data = json.load(_f)
+with open(os.path.join(_dir, "answer.json")) as _f:
+    result = json.load(_f)
 
-result = solve()
 expected = expected_data["required_orders"]
 
 
@@ -71,46 +71,46 @@ class TestVitaBenchTask:
         assert abs(result[2]["total_price"] - 15.99) < 1
 
     def test_rubric_0_successfully_cancel_the_user_s_iced_coffee_order_from_night(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "Successfully cancel the user\'s iced coffee order from Night of No Mistake · Coffee in Morning, Wine at Night, the order with id 20715002T01 should be changed to cancelled status"
         assert len(result) > 0
 
     def test_rubric_1_the_delivery_address_for_the_yuxiang_shredded_pork_lunch_ord(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "The delivery address for the Yuxiang Shredded Pork lunch order should be Tsinghua Science Park, 101 University Road, Tangjia Bay, Xiangzhou District, Zhuhai City, Guangdong Province"
         assert len(result) > 0
 
     def test_rubric_2_the_estimated_delivery_time_for_the_yuxiang_shredded_pork_lu(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "The estimated delivery time for the Yuxiang Shredded Pork lunch order should be on or before 2025-08-08 12:00:00"
         assert len(result) > 0
 
     def test_rubric_3_the_yuxiang_shredded_pork_lunch_order_should_include_a_note(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "The Yuxiang Shredded Pork lunch order should include a note requesting an extra set of cutlery to ensure an additional pair of chopsticks is available"
         assert len(result) > 0
 
     def test_rubric_4_the_delivery_address_for_the_new_latte_order_should_be_tsing(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "The delivery address for the new latte order should be Tsinghua Science Park, 101 University Road, Tangjia Bay, Xiangzhou District, Zhuhai City, Guangdong Province"
         assert len(result) > 0
 
     def test_rubric_5_the_estimated_delivery_time_for_the_replacement_latte_order(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "The estimated delivery time for the replacement latte order should be around 2025-08-08 14:00:00"
         assert len(result) > 0
 
     def test_rubric_6_when_selecting_a_replacement_latte__avoid_night_of_no_mistak(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "When selecting a replacement latte, avoid Night of No Mistake · Coffee in Morning, Wine at Night and choose another coffee shop"
         assert len(result) > 0
 
     def test_rubric_7_when_selecting_a_replacement_latte__choose_a_product_that_co(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "When selecting a replacement latte, choose a product that Contains coconut milk to satisfy the requirement for a strong coconut flavor"
         assert len(result) > 0
 
     def test_rubric_8_when_selecting_a_replacement_latte__choose_a_hot_drink_tempe(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "When selecting a replacement latte, choose a hot drink temperature to avoid cold drinks irritating the digestive system"
         assert len(result) > 0

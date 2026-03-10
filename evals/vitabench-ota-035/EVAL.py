@@ -1,13 +1,13 @@
 import json
 import os
 import pytest
-from solution import solve
 
 _dir = os.path.dirname(os.path.abspath(__file__))
 with open(os.path.join(_dir, "expected.json")) as _f:
     expected_data = json.load(_f)
+with open(os.path.join(_dir, "answer.json")) as _f:
+    result = json.load(_f)
 
-result = solve()
 expected = expected_data["required_orders"]
 
 
@@ -71,56 +71,56 @@ class TestVitaBenchTask:
         assert abs(result[2]["total_price"] - 1520) < 1
 
     def test_rubric_0_flight_to_ili_is_scheduled_for_june_20__2027(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "Flight to Ili is scheduled for June 20, 2027"
         assert len(result) > 0
 
     def test_rubric_1_the_flight_arrives_in_ili_around_4_pm_on_june_20__2027(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "The flight arrives in Ili around 4 PM on June 20, 2027"
         assert len(result) > 0
 
     def test_rubric_2_number_of_tickets_to_ili_is_1(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "Number of tickets to Ili is 1"
         assert len(result) > 0
 
     def test_rubric_3_the_homestay_should_be_in_country_style(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "The homestay should be in Country Style"
         assert len(result) > 0
 
     def test_rubric_4_the_homestay_should_offer_flower_field_view(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "The homestay should offer Flower Field View"
         assert len(result) > 0
 
     def test_rubric_5_since_the_king_room_costs_over_200_yuan_per_night__the_homes(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "Since the king room costs over 200 yuan per night, the homestay booking should be for twin rooms"
         assert len(result) > 0
 
     def test_rubric_6_the_homestay_booking_should_include_2_twin_rooms_per_night(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "The homestay booking should include 2 twin rooms per night"
         assert len(result) > 0
 
     def test_rubric_7_the_homestay_booking_should_be_for_2_nights__on_june_20_and(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "The homestay booking should be for 2 nights, on June 20 and June 21, 2027"
         assert len(result) > 0
 
     def test_rubric_8_flight_to_urumqi_is_scheduled_for_june_22__2027(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "Flight to Urumqi is scheduled for June 22, 2027"
         assert len(result) > 0
 
     def test_rubric_9_the_flight_arrives_in_urumqi_in_the_afternoon_of_june_22__20(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "The flight arrives in Urumqi in the afternoon of June 22, 2027"
         assert len(result) > 0
 
     def test_rubric_10_number_of_tickets_to_urumqi_is_4(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "Number of tickets to Urumqi is 4"
         assert len(result) > 0

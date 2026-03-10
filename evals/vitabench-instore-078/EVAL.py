@@ -1,13 +1,13 @@
 import json
 import os
 import pytest
-from solution import solve
 
 _dir = os.path.dirname(os.path.abspath(__file__))
 with open(os.path.join(_dir, "expected.json")) as _f:
     expected_data = json.load(_f)
+with open(os.path.join(_dir, "answer.json")) as _f:
+    result = json.load(_f)
 
-result = solve()
 expected = expected_data["required_orders"]
 
 
@@ -72,51 +72,51 @@ class TestVitaBenchTask:
         assert result[2].get("customer_count") == 6
 
     def test_rubric_0_the_restaurant_ordered_should_be_within_3km__inclusive__of_r(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "The restaurant ordered should be within 3km (inclusive) of Room 503, Unit 2, Building 6, Henghua Garden, 28 Youyi Road, Hexi District, Tianjin"
         assert len(result) > 0
 
     def test_rubric_1_the_restaurant_ordered_should_be_top_rated(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "The restaurant ordered should be Top-rated"
         assert len(result) > 0
 
     def test_rubric_2_the_merchant_in_the_order_should_be_a_fujian_cuisine_restaur(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "The merchant in the order should be a Fujian cuisine restaurant"
         assert len(result) > 0
 
     def test_rubric_3_the_search_shows_no_4_person_meal_that_includes_both_yellow(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "The search shows no 4-person meal that includes both yellow croaker rice cake and geoduck jelly, so the ordered item should be a set meal for 2-3 people that includes both yellow croaker rice cake and geoduck jelly, rather than multiple individual set meals"
         assert len(result) > 0
 
     def test_rubric_4_the_reserved_restaurant_should_be_fujian_aming_seafood_resta(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "The reserved restaurant should be Fujian Aming Seafood Restaurant"
         assert len(result) > 0
 
     def test_rubric_5_the_restaurant_reservation_time_should_be_2024_05_25_17_30_0(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "The restaurant reservation time should be 2024-05-25 17:30:00"
         assert len(result) > 0
 
     def test_rubric_6_the_number_of_people_for_the_restaurant_reservation_should_b(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "The number of people for the restaurant reservation should be 8"
         assert len(result) > 0
 
     def test_rubric_7_the_reserved_tea_house_should_be_anxin_tea_house(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "The reserved tea house should be Anxin Tea House"
         assert len(result) > 0
 
     def test_rubric_8_the_tea_house_reservation_time_should_be_2024_05_25_20_00_00(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "The tea house reservation time should be 2024-05-25 20:00:00"
         assert len(result) > 0
 
     def test_rubric_9_the_number_of_people_for_the_tea_house_reservation_should_be(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "The number of people for the tea house reservation should be 6"
         assert len(result) > 0

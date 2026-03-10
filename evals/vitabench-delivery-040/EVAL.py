@@ -1,13 +1,13 @@
 import json
 import os
 import pytest
-from solution import solve
 
 _dir = os.path.dirname(os.path.abspath(__file__))
 with open(os.path.join(_dir, "expected.json")) as _f:
     expected_data = json.load(_f)
+with open(os.path.join(_dir, "answer.json")) as _f:
+    result = json.load(_f)
 
-result = solve()
 expected = expected_data["required_orders"]
 
 
@@ -55,46 +55,46 @@ class TestVitaBenchTask:
         assert abs(result[1]["total_price"] - 176.8) < 1
 
     def test_rubric_0_the_delivery_address_for_the_hand_shaken_lemon_tea_order_sho(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "The delivery address for the hand-shaken lemon tea order should be Jinqiu Residential Area, No. 368 Furong South Road, Tianxin District, Changsha, Hunan Province (180 meters from Railway Institute Metro Station Exit 2)"
         assert len(result) > 0
 
     def test_rubric_1_the_estimated_delivery_time_for_the_hand_shaken_lemon_tea_or(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "The estimated delivery time for the hand-shaken lemon tea order should be between 2025-10-10 12:00:00 and 2025-10-10 14:00:00"
         assert len(result) > 0
 
     def test_rubric_2_the_hand_shaken_lemon_tea_order_should_choose_the_merchant_c(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "The hand-shaken lemon tea order should choose the merchant closest to the user: LINLEE Hand-shaken Lemon Tea (Forestry University Branch)"
         assert len(result) > 0
 
     def test_rubric_3_the_hand_shaken_lemon_tea_order_should_select_the_signature(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "The hand-shaken lemon tea order should select the Signature Hand-shaken Lemon Tea product"
         assert len(result) > 0
 
     def test_rubric_4_the_sweetness_level_for_the_signature_hand_shaken_lemon_tea(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "The sweetness level for the Signature Hand-shaken Lemon Tea should be 5/10 sugar (slightly less than standard sweetness)"
         assert len(result) > 0
 
     def test_rubric_5_the_hand_shaken_lemon_tea_order_needs_a_note_requesting_the(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "The hand-shaken lemon tea order needs a note requesting the ugliest duck"
         assert len(result) > 0
 
     def test_rubric_6_the_delivery_address_for_the_salmon_sashimi_order_should_be(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "The delivery address for the salmon sashimi order should be Jinqiu Residential Area, No. 368 Furong South Road, Tianxin District, Changsha, Hunan Province (180 meters from Railway Institute Metro Station Exit 2)"
         assert len(result) > 0
 
     def test_rubric_7_the_estimated_delivery_time_for_the_salmon_sashimi_order_sho(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "The estimated delivery time for the salmon sashimi order should be between 2025-10-10 12:00:00 and 2025-10-10 14:00:00"
         assert len(result) > 0
 
     def test_rubric_8_the_salmon_sashimi_order_should_select_products_labeled_as_f(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "The salmon sashimi order should select products labeled as Fresh-cut Today"
         assert len(result) > 0

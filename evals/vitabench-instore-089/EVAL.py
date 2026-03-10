@@ -1,13 +1,13 @@
 import json
 import os
 import pytest
-from solution import solve
 
 _dir = os.path.dirname(os.path.abspath(__file__))
 with open(os.path.join(_dir, "expected.json")) as _f:
     expected_data = json.load(_f)
+with open(os.path.join(_dir, "answer.json")) as _f:
+    result = json.load(_f)
 
-result = solve()
 expected = expected_data["required_orders"]
 
 
@@ -55,41 +55,41 @@ class TestVitaBenchTask:
         assert abs(result[1]["total_price"] - 380) < 1
 
     def test_rubric_0_the_restaurant_ordered_should_have_chinese_courtyard_style_d(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "The restaurant ordered should have Chinese Courtyard Style decoration"
         assert len(result) > 0
 
     def test_rubric_1_the_products_ordered_from_the_restaurant_should_be_a_package(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "The products ordered from the restaurant should be a package for two people"
         assert len(result) > 0
 
     def test_rubric_2_the_products_ordered_from_the_restaurant_should_have_a_healt(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "The products ordered from the restaurant should have a health cultivation theme"
         assert len(result) > 0
 
     def test_rubric_3_based_on_inquiries__packages_containing_celery_with_lily_bul(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "Based on inquiries, packages containing Celery with Lily Bulbs are sold out at eligible restaurants, so the package ordered should include Astragalus Beef"
         assert len(result) > 0
 
     def test_rubric_4_the_restaurant_package_ordered_cannot_contain_both_celery_wi(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "The restaurant package ordered cannot contain both Celery with Lily Bulbs and Astragalus Beef"
         assert len(result) > 0
 
     def test_rubric_5_the_meditation_center_should_be_within_2_5_kilometers__inclu(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "The meditation center should be within 2.5 kilometers (inclusive) from Xinghai Square Commercial Area, Shahekou District, Dalian"
         assert len(result) > 0
 
     def test_rubric_6_the_product_ordered_from_the_meditation_center_should_be_a_o(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "The product ordered from the meditation center should be a one-to-two course package"
         assert len(result) > 0
 
     def test_rubric_7_the_total_price_of_products_from_the_meditation_center_shoul(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "The total price of products from the meditation center should be less than or equal to 400 yuan"
         assert len(result) > 0

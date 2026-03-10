@@ -1,13 +1,13 @@
 import json
 import os
 import pytest
-from solution import solve
 
 _dir = os.path.dirname(os.path.abspath(__file__))
 with open(os.path.join(_dir, "expected.json")) as _f:
     expected_data = json.load(_f)
+with open(os.path.join(_dir, "answer.json")) as _f:
+    result = json.load(_f)
 
-result = solve()
 expected = expected_data["required_orders"]
 
 
@@ -71,51 +71,51 @@ class TestVitaBenchTask:
         assert abs(result[2]["total_price"] - 68) < 1
 
     def test_rubric_0_the_merchant_ordered_in_the_bathhouse_order_cannot_be_the__n(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "The merchant ordered in the bathhouse order cannot be the \'Northeastern Bathhouse\' that the user has visited before"
         assert len(result) > 0
 
     def test_rubric_1_the_item_ordered_in_the_bathhouse_order_must_include_full_bo(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "The item ordered in the bathhouse order must include full body massage"
         assert len(result) > 0
 
     def test_rubric_2_the_item_ordered_in_the_bathhouse_order_must_include_cupping(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "The item ordered in the bathhouse order must include Cupping Therapy"
         assert len(result) > 0
 
     def test_rubric_3_the_merchant_ordered_in_the_bathhouse_order_must_be_high_end(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "The merchant ordered in the bathhouse order must be high-end"
         assert len(result) > 0
 
     def test_rubric_4_the_rating_of_the_merchant_ordered_in_the_japanese_restauran(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "The rating of the merchant ordered in the Japanese restaurant order should be 4.2 or above"
         assert len(result) > 0
 
     def test_rubric_5_the_item_ordered_in_the_japanese_restaurant_order_is_a_meal(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "The item ordered in the Japanese restaurant order is a meal for one person"
         assert len(result) > 0
 
     def test_rubric_6_the_item_ordered_in_the_japanese_restaurant_order_includes_s(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "The item ordered in the Japanese restaurant order includes Sashimi Platter"
         assert len(result) > 0
 
     def test_rubric_7_the_merchant_ordered_in_the_japanese_restaurant_order_should(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "The merchant ordered in the Japanese restaurant order should be within 3km of Crown Sauna Club, No. 268, Xueshi Road, Yuelu District, Changsha"
         assert len(result) > 0
 
     def test_rubric_8_if_the_total_cost_of_the_bathhouse_order_and_japanese_cuisin(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "If the total cost of the bathhouse order and Japanese cuisine order does not exceed 600 yuan, then purchase a billiards package"
         assert len(result) > 0
 
     def test_rubric_9_the_total_cost_of_the_billiards_package_order_plus_the_bathh(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "The total cost of the billiards package order plus the bathhouse order and Japanese cuisine order cannot exceed 600 yuan"
         assert len(result) > 0

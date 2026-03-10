@@ -1,13 +1,13 @@
 import json
 import os
 import pytest
-from solution import solve
 
 _dir = os.path.dirname(os.path.abspath(__file__))
 with open(os.path.join(_dir, "expected.json")) as _f:
     expected_data = json.load(_f)
+with open(os.path.join(_dir, "answer.json")) as _f:
+    result = json.load(_f)
 
-result = solve()
 expected = expected_data["required_orders"]
 
 
@@ -55,36 +55,36 @@ class TestVitaBenchTask:
         assert abs(result[1]["total_price"] - 38.0) < 1
 
     def test_rubric_0_the_delivery_address_for_the_beef_rice_bowl_order_should_be(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "The delivery address for the beef rice bowl order should be Henan Digital Certificate Authentication Center, Building 2, Future International, No. 26 Business Inner Ring Road, Jinshui District, Zhengzhou City, Henan Province"
         assert len(result) > 0
 
     def test_rubric_1_the_delivery_time_for_the_beef_rice_bowl_order_should_be_bef(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "The delivery time for the beef rice bowl order should be before 2024-11-28 20:00:00"
         assert len(result) > 0
 
     def test_rubric_2_when_selecting_beef_rice_bowl_products__items_containing_org(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "When selecting beef rice bowl products, items containing organ meats should be avoided"
         assert len(result) > 0
 
     def test_rubric_3_the_delivery_address_for_the_flat_white_coffee_order_should(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "The delivery address for the flat white coffee order should be Henan Digital Certificate Authentication Center, Building 2, Future International, No. 26 Business Inner Ring Road, Jinshui District, Zhengzhou City, Henan Province"
         assert len(result) > 0
 
     def test_rubric_4_the_delivery_time_for_the_flat_white_coffee_order_should_be(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "The delivery time for the flat white coffee order should be before 2024-11-28 20:00:00"
         assert len(result) > 0
 
     def test_rubric_5_when_selecting_flat_white_coffee__dark_roast_types_such_as_d(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "When selecting flat white coffee, dark roast types such as Dark Roast Flat White should be avoided"
         assert len(result) > 0
 
     def test_rubric_6_when_selecting_flat_white_coffee__it_should_be_served_hot(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "When selecting flat white coffee, it should be served hot"
         assert len(result) > 0

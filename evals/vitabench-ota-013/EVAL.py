@@ -1,13 +1,13 @@
 import json
 import os
 import pytest
-from solution import solve
 
 _dir = os.path.dirname(os.path.abspath(__file__))
 with open(os.path.join(_dir, "expected.json")) as _f:
     expected_data = json.load(_f)
+with open(os.path.join(_dir, "answer.json")) as _f:
+    result = json.load(_f)
 
-result = solve()
 expected = expected_data["required_orders"]
 
 
@@ -71,56 +71,56 @@ class TestVitaBenchTask:
         assert abs(result[2]["total_price"] - 780) < 1
 
     def test_rubric_0_the_booked_hotel_brand_should_be_one_that_the_user_frequentl(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "The booked hotel brand should be one that the user frequently stays at (such as Home Inn, Orange Hotel, Ji Hotel, Hanting Hotel, Atour)"
         assert len(result) > 0
 
     def test_rubric_1_the_booked_hotel_should_be_within_1km_of_lanzhou_hyatt_hotel(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "The booked hotel should be within 1km of Lanzhou Hyatt Hotel"
         assert len(result) > 0
 
     def test_rubric_2_the_hotel_booking_dates_should_be_january_2__2026_and_januar(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "The hotel booking dates should be January 2, 2026 and January 3, 2026"
         assert len(result) > 0
 
     def test_rubric_3_the_booked_hotel_room_type_should_be_a_king_room(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "The booked hotel room type should be a king room"
         assert len(result) > 0
 
     def test_rubric_4_the_outbound_flight_should_be_from_shenyang_to_lanzhou(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "The outbound flight should be from Shenyang to Lanzhou"
         assert len(result) > 0
 
     def test_rubric_5_the_arrival_time_of_the_outbound_flight_should_not_be_too_la(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "The arrival time of the outbound flight should not be too late, and should avoid late night arrival"
         assert len(result) > 0
 
     def test_rubric_6_since_the_hotel_is_booked_for_january_2__2026_and_january_3(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "Since the hotel is booked for January 2, 2026 and January 3, 2026, the outbound flight date should be January 2, 2026"
         assert len(result) > 0
 
     def test_rubric_7_the_return_flight_should_be_from_lanzhou_to_shenyang(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "The return flight should be from Lanzhou to Shenyang"
         assert len(result) > 0
 
     def test_rubric_8_the_return_flight_date_is_flexible__but_the_entire_trip_shou(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "The return flight date is flexible, but the entire trip should not exceed 5 days (with the latest return date being January 7, 2026)"
         assert len(result) > 0
 
     def test_rubric_9_since_the_wedding_is_on_january_3__2026__the_return_date_sho(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "Since the wedding is on January 3, 2026, the return date should be January 4, 2026 or later"
         assert len(result) > 0
 
     def test_rubric_10_the_return_flight_should_consider_cost_savings__and_should_c(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "The return flight should consider cost savings, and should choose the lowest priced flight"
         assert len(result) > 0

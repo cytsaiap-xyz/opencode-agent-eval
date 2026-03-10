@@ -1,13 +1,13 @@
 import json
 import os
 import pytest
-from solution import solve
 
 _dir = os.path.dirname(os.path.abspath(__file__))
 with open(os.path.join(_dir, "expected.json")) as _f:
     expected_data = json.load(_f)
+with open(os.path.join(_dir, "answer.json")) as _f:
+    result = json.load(_f)
 
-result = solve()
 expected = expected_data["required_orders"]
 
 
@@ -107,76 +107,76 @@ class TestVitaBenchTask:
         assert result[4].get("customer_count") == 2
 
     def test_rubric_0_the_order_status_for_gradient_color_manicure_package_should(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "The order status for Gradient Color Manicure Package should be cancelled"
         assert len(result) > 0
 
     def test_rubric_1_the_nail_salon_should_be_a_store_on_the_top_seller_list(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "The nail salon should be a store on the top seller list"
         assert len(result) > 0
 
     def test_rubric_2_the_ordered_item_at_the_nail_salon_should_be_internet_celebr(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "The ordered item at the nail salon should be Internet Celebrity Exquisite Manicure Package"
         assert len(result) > 0
 
     def test_rubric_3_based_on_order_history__the_last_gradient_color_manicure_cos(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "Based on order history, the last Gradient Color Manicure cost 118 yuan, so the Internet Celebrity Exquisite Manicure Package ordered at the nail salon should not exceed 118 yuan (including 118 yuan)"
         assert len(result) > 0
 
     def test_rubric_4_the_quantity_of_items_ordered_at_the_nail_salon_should_be_1(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "The quantity of items ordered at the nail salon should be 1"
         assert len(result) > 0
 
     def test_rubric_5_the_nail_salon_appointment_should_be_at_fingertip_art_manicu(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "The nail salon appointment should be at Fingertip Art Manicure"
         assert len(result) > 0
 
     def test_rubric_6_the_nail_salon_appointment_time_should_be_2024_09_17_10_00_0(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "The nail salon appointment time should be 2024-09-17 10:00:00"
         assert len(result) > 0
 
     def test_rubric_7_the_number_of_people_for_the_nail_salon_appointment_should_b(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "The number of people for the nail salon appointment should be 1"
         assert len(result) > 0
 
     def test_rubric_8_the_selected_hair_gobbler_chain_location_should_be_the_close(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "The selected Hair Gobbler Chain location should be the closest to Meishang Nail Art, 3rd Floor, Wanda Plaza, 66 Yuhua West Road, Qiaoxi District, Shijiazhuang"
         assert len(result) > 0
 
     def test_rubric_9_the_item_ordered_at_hair_gobbler_chain_should_be_ice_point(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "The item ordered at Hair Gobbler Chain should be Ice Point"
         assert len(result) > 0
 
     def test_rubric_10_the_item_ordered_at_hair_gobbler_chain_should_be_hair_remova(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "The item ordered at Hair Gobbler Chain should be Hair Removal"
         assert len(result) > 0
 
     def test_rubric_11_the_quantity_of_items_ordered_at_hair_gobbler_chain_should_b(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "The quantity of items ordered at Hair Gobbler Chain should be 2"
         assert len(result) > 0
 
     def test_rubric_12_the_hair_gobbler_chain_appointment_should_be_at_hair_gobbler(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "The Hair Gobbler Chain appointment should be at Hair Gobbler Hair Removal Chain (Wanda Plaza Branch)"
         assert len(result) > 0
 
     def test_rubric_13_the_hair_gobbler_chain_appointment_time_should_be_3_hours_la(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "The Hair Gobbler Chain appointment time should be 3 hours later than the nail salon, which should be 2024-09-17 11:00:00"
         assert len(result) > 0
 
     def test_rubric_14_the_number_of_people_for_the_hair_gobbler_chain_appointment(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "The number of people for the Hair Gobbler Chain appointment should be 2"
         assert len(result) > 0

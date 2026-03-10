@@ -1,13 +1,13 @@
 import json
 import os
 import pytest
-from solution import solve
 
 _dir = os.path.dirname(os.path.abspath(__file__))
 with open(os.path.join(_dir, "expected.json")) as _f:
     expected_data = json.load(_f)
+with open(os.path.join(_dir, "answer.json")) as _f:
+    result = json.load(_f)
 
-result = solve()
 expected = expected_data["required_orders"]
 
 
@@ -75,41 +75,41 @@ class TestVitaBenchTask:
         assert abs(result[2]["total_price"] - 398) < 1
 
     def test_rubric_0_the_diy_handicraft_workshop_to_be_ordered_should_have_more_t(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "The DIY handicraft workshop to be ordered should have more than 5 years of traditional handicraft making experience"
         assert len(result) > 0
 
     def test_rubric_1_the_ordered_product_from_diy_handicraft_workshop_should_incl(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "The ordered product from DIY handicraft workshop should include zongzi making activity"
         assert len(result) > 0
 
     def test_rubric_2_the_ordered_product_from_diy_handicraft_workshop_should_be_a(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "The ordered product from DIY handicraft workshop should be a family package for 2 adults and 1 child"
         assert len(result) > 0
 
     def test_rubric_3_the_diy_handicraft_workshop_appointment_time_should_be_2025(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "The DIY handicraft workshop appointment time should be 2025-05-31 14:00:00"
         assert len(result) > 0
 
     def test_rubric_4_the_diy_handicraft_workshop_reservation_should_be_for_3_peop(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "The DIY handicraft workshop reservation should be for 3 people"
         assert len(result) > 0
 
     def test_rubric_5_the_diy_handicraft_workshop_merchant_should_be_zongqing_hand(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "The DIY handicraft workshop merchant should be Zongqing Handcraft Workshop"
         assert len(result) > 0
 
     def test_rubric_6_after_checking_user_s_historical_behavior__the_restaurant_to(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "After checking user\'s historical behavior, the restaurant to order from should be Qingdao Fishing Port Seafood Restaurant"
         assert len(result) > 0
 
     def test_rubric_7_after_checking_the_set_meals_of_qingdao_fishing_port_seafood(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "After checking the set meals of Qingdao Fishing Port Seafood Restaurant, the results include Dragon Boat Festival exclusive package, therefore the seafood restaurant order should be for the Dragon Boat Festival exclusive package"
         assert len(result) > 0

@@ -1,13 +1,13 @@
 import json
 import os
 import pytest
-from solution import solve
 
 _dir = os.path.dirname(os.path.abspath(__file__))
 with open(os.path.join(_dir, "expected.json")) as _f:
     expected_data = json.load(_f)
+with open(os.path.join(_dir, "answer.json")) as _f:
+    result = json.load(_f)
 
-result = solve()
 expected = expected_data["required_orders"]
 
 
@@ -55,56 +55,56 @@ class TestVitaBenchTask:
         assert abs(result[1]["total_price"] - 140) < 1
 
     def test_rubric_0_hotel_reservation_must_be_for_2_nights__on_2025_06_20_and_20(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "Hotel reservation must be for 2 nights, on 2025-06-20 and 2025-06-21"
         assert len(result) > 0
 
     def test_rubric_1_hotel_must_be_located_near_linfen_high_speed_railway_station(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "Hotel must be located near Linfen High-speed Railway Station"
         assert len(result) > 0
 
     def test_rubric_2_accommodation_must_be_atour_brand(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "Accommodation must be Atour brand"
         assert len(result) > 0
 
     def test_rubric_3_accommodation_must_be_a_king_room(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "Accommodation must be a King Room"
         assert len(result) > 0
 
     def test_rubric_4_attraction_ticket_must_be_for_xunzi_cultural_park(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "Attraction ticket must be for Xunzi Cultural Park"
         assert len(result) > 0
 
     def test_rubric_5_xunzi_cultural_park_visit_must_be_scheduled_for_2025_06_21(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "Xunzi Cultural Park visit must be scheduled for 2025-06-21"
         assert len(result) > 0
 
     def test_rubric_6_must_select_double_ticket_package_for_xunzi_cultural_park(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "Must select Double Ticket Package for Xunzi Cultural Park"
         assert len(result) > 0
 
     def test_rubric_7_must_provide_information_about_xunzi_related_attractions_in(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "Must provide information about Xunzi-related attractions in Linfen suitable for 2-3 hour visits, with result being Xunzi Memorial Museum"
         assert len(result) > 0
 
     def test_rubric_8_return_flight_must_arrive_around_8_9_pm(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "Return flight must arrive around 8-9 PM"
         assert len(result) > 0
 
     def test_rubric_9_return_flight_order_must_be_for_2_tickets(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "Return flight order must be for 2 tickets"
         assert len(result) > 0
 
     def test_rubric_10_return_flight_must_be_business_class(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "Return flight must be Business Class"
         assert len(result) > 0

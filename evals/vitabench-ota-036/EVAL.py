@@ -1,13 +1,13 @@
 import json
 import os
 import pytest
-from solution import solve
 
 _dir = os.path.dirname(os.path.abspath(__file__))
 with open(os.path.join(_dir, "expected.json")) as _f:
     expected_data = json.load(_f)
+with open(os.path.join(_dir, "answer.json")) as _f:
+    result = json.load(_f)
 
-result = solve()
 expected = expected_data["required_orders"]
 
 
@@ -71,51 +71,51 @@ class TestVitaBenchTask:
         assert abs(result[2]["total_price"] - 298) < 1
 
     def test_rubric_0_flight_order_must_book_a_red_eye_flight(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "Flight order must book a Red-eye Flight"
         assert len(result) > 0
 
     def test_rubric_1_need_to_check_which_flight_between_2028_02_15_and_2028_02_16(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "Need to check which flight between 2028-02-15 and 2028-02-16 has the best Price Discount, the result shows that CA1835 on February 15th at 820 yuan is the cheapest, and the flight in the order must be CA1835"
         assert len(result) > 0
 
     def test_rubric_2_guesthouse_order_must_be_for_a_guesthouse_rather_than_a_chai(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "Guesthouse order must be for a guesthouse rather than a Chain Brand hotel"
         assert len(result) > 0
 
     def test_rubric_3_guesthouse_must_have_naxi_ethnic_features(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "Guesthouse must have Naxi Ethnic Features"
         assert len(result) > 0
 
     def test_rubric_4_guesthouse_booking_duration_must_be_one_week__7_nights(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "Guesthouse booking duration must be one week (7 nights)"
         assert len(result) > 0
 
     def test_rubric_5_the_dates_of_the_guesthouse_order_must_be_2028_02_15__2028_0(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "The dates of the guesthouse order must be 2028-02-15, 2028-02-16, 2028-02-17, 2028-02-18, 2028-02-19, 2028-02-20, 2028-02-21 respectively"
         assert len(result) > 0
 
     def test_rubric_6_the_guesthouse_price_per_night_must_be_lower_than_the_user_s(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "The guesthouse price per night must be lower than the user\'s historical hotel consumption budget, the price per night should be less than 500 yuan"
         assert len(result) > 0
 
     def test_rubric_7_must_book_tickets_for_jade_dragon_snow_mountain_scenic_area(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "Must book tickets for Jade Dragon Snow Mountain Scenic Area"
         assert len(result) > 0
 
     def test_rubric_8_the_visiting_time_for_jade_dragon_snow_mountain_in_the_ticke(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "The visiting time for Jade Dragon Snow Mountain in the ticket order must be the sixth day (i.e., 2028-02-20, the 6th day counting from the check-in date)"
         assert len(result) > 0
 
     def test_rubric_9_the_jade_dragon_snow_mountain_admission_ticket_must_choose_a(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "The Jade Dragon Snow Mountain admission ticket must choose a package that includes warm clothing rental"
         assert len(result) > 0

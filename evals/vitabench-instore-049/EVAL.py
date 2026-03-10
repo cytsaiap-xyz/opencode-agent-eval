@@ -1,13 +1,13 @@
 import json
 import os
 import pytest
-from solution import solve
 
 _dir = os.path.dirname(os.path.abspath(__file__))
 with open(os.path.join(_dir, "expected.json")) as _f:
     expected_data = json.load(_f)
+with open(os.path.join(_dir, "answer.json")) as _f:
+    result = json.load(_f)
 
-result = solve()
 expected = expected_data["required_orders"]
 
 
@@ -91,71 +91,71 @@ class TestVitaBenchTask:
         assert result[3].get("customer_count") == 1
 
     def test_rubric_0_the_pottery_workshop_order_should_be_a_pottery_experience_pa(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "The pottery workshop order should be a pottery experience package"
         assert len(result) > 0
 
     def test_rubric_1_the_pottery_workshop_package_should_include_basic_operation(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "The pottery workshop package should include basic operation tools"
         assert len(result) > 0
 
     def test_rubric_2_the_pottery_workshop_package_should_include_production_mater(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "The pottery workshop package should include production materials"
         assert len(result) > 0
 
     def test_rubric_3_the_pottery_workshop_ordered_should_be_niba_craftsman_potter(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "The pottery workshop ordered should be Niba Craftsman Pottery Workshop"
         assert len(result) > 0
 
     def test_rubric_4_the_pottery_workshop_booked_should_be_niba_craftsman_pottery(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "The pottery workshop booked should be Niba Craftsman Pottery Workshop"
         assert len(result) > 0
 
     def test_rubric_5_the_number_of_people_for_the_pottery_workshop_booking_is_1(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "The number of people for the pottery workshop booking is 1"
         assert len(result) > 0
 
     def test_rubric_6_should_check_if_the_ordered_pottery_workshop_item_can_be_use(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "Should check if the ordered pottery workshop item can be used on June 10, 2024 (Dragon Boat Festival), the result is no, so the pottery workshop appointment time is June 11, 2024, 09:00"
         assert len(result) > 0
 
     def test_rubric_7_should_check_if_the_ordered_pottery_workshop_item_can_be_use(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "Should check if the ordered pottery workshop item can be used on June 10, 2024 (Dragon Boat Festival), the result is no, so need to check the user\'s behavior history, the last murder mystery game store the user played at was Immersive Murder Mystery Game (Taikoo Li Branch), so the murder mystery game store order should be Immersive Murder Mystery Game (Taikoo Li Branch)"
         assert len(result) > 0
 
     def test_rubric_8_the_murder_mystery_game_store_order_should_be_a_single_carpo(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "The murder mystery game store order should be a Single Carpool Ticket"
         assert len(result) > 0
 
     def test_rubric_9_the_murder_mystery_game_store_order_should_not_contain_horro(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "The murder mystery game store order should not contain horror elements"
         assert len(result) > 0
 
     def test_rubric_10_the_murder_mystery_game_store_order_should_be_usable_on_june(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "The murder mystery game store order should be usable on June 10, 2024 (Dragon Boat Festival)"
         assert len(result) > 0
 
     def test_rubric_11_the_murder_mystery_game_store_booked_should_be_immersive_mur(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "The murder mystery game store booked should be Immersive Murder Mystery Game (Taikoo Li Branch)"
         assert len(result) > 0
 
     def test_rubric_12_the_murder_mystery_game_store_appointment_time_is_june_10__2(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "The murder mystery game store appointment time is June 10, 2024, 10:00"
         assert len(result) > 0
 
     def test_rubric_13_the_number_of_people_for_the_murder_mystery_game_store_booki(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "The number of people for the murder mystery game store booking is 1"
         assert len(result) > 0

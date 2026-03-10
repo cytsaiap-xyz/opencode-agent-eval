@@ -1,13 +1,13 @@
 import json
 import os
 import pytest
-from solution import solve
 
 _dir = os.path.dirname(os.path.abspath(__file__))
 with open(os.path.join(_dir, "expected.json")) as _f:
     expected_data = json.load(_f)
+with open(os.path.join(_dir, "answer.json")) as _f:
+    result = json.load(_f)
 
-result = solve()
 expected = expected_data["required_orders"]
 
 
@@ -71,61 +71,61 @@ class TestVitaBenchTask:
         assert abs(result[2]["total_price"] - 38) < 1
 
     def test_rubric_0_the_delivery_address_for_the_lunch_sichuan_cuisine_order_sho(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "The delivery address for the lunch Sichuan cuisine order should be Zone B, South A Zone, Yalan Garden, Yulin Street, Wuhou District, Chengdu, Sichuan Province"
         assert len(result) > 0
 
     def test_rubric_1_the_delivery_time_for_the_lunch_sichuan_cuisine_order_should(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "The delivery time for the lunch Sichuan cuisine order should be around 12:00 on December 27, 2025, no later than 14:00"
         assert len(result) > 0
 
     def test_rubric_2_the_selected_restaurant_for_the_lunch_sichuan_cuisine_order(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "The selected restaurant for the lunch Sichuan cuisine order should have a rating of 4.5 or above"
         assert len(result) > 0
 
     def test_rubric_3_the_items_in_the_lunch_sichuan_cuisine_order_should_be_fresh(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "The items in the lunch Sichuan cuisine order should be freshly made dishes, not pre-made dishes"
         assert len(result) > 0
 
     def test_rubric_4_the_lunch_sichuan_cuisine_order_should_include_2_dishes__for(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "The lunch Sichuan cuisine order should include 2 dishes, for two people to share"
         assert len(result) > 0
 
     def test_rubric_5_the_delivery_address_for_the_thank_you_dessert_order_should(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "The delivery address for the thank-you dessert order should be Toyota Car Dealership"
         assert len(result) > 0
 
     def test_rubric_6_the_delivery_time_for_the_thank_you_dessert_order_should_be(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "The delivery time for the thank-you dessert order should be before 14:00 on December 27, 2025"
         assert len(result) > 0
 
     def test_rubric_7_the_items_in_the_thank_you_dessert_order_should_not_contain(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "The items in the thank-you dessert order should not contain caffeine"
         assert len(result) > 0
 
     def test_rubric_8_the_delivery_address_for_the_evening_beverage_order_should_b(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "The delivery address for the evening beverage order should be La Terre (Renhe New City Branch) restaurant (the complete address is 2nd Floor, Renhe Spring International Plaza, No. 505 West Section of Fucheng Avenue, Wuhou District, Chengdu, Sichuan Province, but it\'s acceptable as long as the restaurant name is correct)"
         assert len(result) > 0
 
     def test_rubric_9_the_delivery_time_for_the_evening_beverage_order_should_be_a(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "The delivery time for the evening beverage order should be after 18:00 on December 27, 2025"
         assert len(result) > 0
 
     def test_rubric_10_all_beverages_in_the_evening_beverage_order_should_be_select(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "All beverages in the evening beverage order should be selected with no sugar or no additional sugar"
         assert len(result) > 0
 
     def test_rubric_11_the_evening_beverage_order_should_include_2_drinks__for_two(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "The evening beverage order should include 2 drinks, for two people to consume"
         assert len(result) > 0

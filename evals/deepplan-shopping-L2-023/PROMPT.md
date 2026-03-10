@@ -1,6 +1,6 @@
 # DeepPlanning Shopping Task Level 2 #23
 
-You are building a shopping assistant agent. Given the user's shopping request in `task-data.json`, implement the `build_cart()` function in `solution.py`.
+You are building a shopping assistant agent. Given the user's shopping request in `task-data.json`, analyze the data and write your answer to `answer.json`.
 
 ## Level 2 Objective
 
@@ -12,9 +12,12 @@ I'm doing a big wardrobe refresh and need a few things. First, I'm looking for a
 
 ## Your Task
 
-Implement `build_cart()` in `solution.py`. Parse the user's request to identify:
-1. Each product requirement (brand, color, size, rating, review constraints, etc.)
-2. Budget constraint (Level 2+)
-3. Coupon optimization (Level 3)
+Read `task-data.json` and analyze the user's shopping request. Parse the query to identify each product requirement (brand, color, size, rating, review constraints, etc.), budget constraints, and coupon optimization opportunities.
 
-Return a cart with items matching all stated requirements. Extract specific constraints like brand names, color, minimum ratings, review thresholds, monthly sales minimums, etc. from the query text.
+Write your answer to `answer.json` as a cart object with:
+- `items`: Array of matching products, each with `name`, `brand`, `price`, `matched_requirement`
+- `subtotal`: Sum of all item prices
+- `applied_coupons`: Array of applied coupons (empty if none)
+- `total_discount`: Total discount amount
+- `final_price`: subtotal minus total_discount
+- `level`: The task level (1, 2, or 3)

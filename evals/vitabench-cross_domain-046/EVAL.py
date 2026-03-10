@@ -1,13 +1,13 @@
 import json
 import os
 import pytest
-from solution import solve
 
 _dir = os.path.dirname(os.path.abspath(__file__))
 with open(os.path.join(_dir, "expected.json")) as _f:
     expected_data = json.load(_f)
+with open(os.path.join(_dir, "answer.json")) as _f:
+    result = json.load(_f)
 
-result = solve()
 expected = expected_data["required_orders"]
 
 
@@ -71,51 +71,51 @@ class TestVitaBenchTask:
         assert abs(result[2]["total_price"] - 154) < 1
 
     def test_rubric_0_the_in_store_merchant_should_be_an_outdoor_store_with_campin(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "The in-store merchant should be an outdoor store with camping activities"
         assert len(result) > 0
 
     def test_rubric_1_the_ordered_outdoor_store_must_have_an_area_available_for_fr(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "The ordered outdoor store must have an area available for Frisbee activities"
         assert len(result) > 0
 
     def test_rubric_2_the_ordered_item_from_the_outdoor_store_should_be_a_two_pers(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "The ordered item from the outdoor store should be a Two-Person Stove-Cooked Tea Package"
         assert len(result) > 0
 
     def test_rubric_3_the_takeout_order_must_include_playing_cards(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "The takeout order must include Playing Cards"
         assert len(result) > 0
 
     def test_rubric_4_the_takeout_order_must_include_frisbee(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "The takeout order must include Frisbee"
         assert len(result) > 0
 
     def test_rubric_5_the_playing_cards_and_frisbee_in_the_takeout_order_must_come(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "The playing cards and frisbee in the takeout order must come from the same store"
         assert len(result) > 0
 
     def test_rubric_6_the_delivery_address_for_the_takeout_order_should_be_hoshino(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "The delivery address for the takeout order should be Hoshino Camping Base, 168 Wanghai Road, Xinglongtai District, Panjin, Liaoning Province"
         assert len(result) > 0
 
     def test_rubric_7_the_expected_delivery_time_for_the_takeout_order_should_be_b(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "The expected delivery time for the takeout order should be before 15:00 on November 22, 2024"
         assert len(result) > 0
 
     def test_rubric_8_the_departure_time_of_the_final_ordered_high_speed_rail_tick(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "The departure time of the final ordered high-speed rail ticket from Panjin to Dalian should be 21:42"
         assert len(result) > 0
 
     def test_rubric_9_the_train_number_of_the_final_ordered_high_speed_rail_ticket(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "The train number of the final ordered high-speed rail ticket should be G8021"
         assert len(result) > 0

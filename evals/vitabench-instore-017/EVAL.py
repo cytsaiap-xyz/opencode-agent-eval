@@ -1,13 +1,13 @@
 import json
 import os
 import pytest
-from solution import solve
 
 _dir = os.path.dirname(os.path.abspath(__file__))
 with open(os.path.join(_dir, "expected.json")) as _f:
     expected_data = json.load(_f)
+with open(os.path.join(_dir, "answer.json")) as _f:
+    result = json.load(_f)
 
-result = solve()
 expected = expected_data["required_orders"]
 
 
@@ -88,86 +88,86 @@ class TestVitaBenchTask:
         assert result[3].get("customer_count") == 2
 
     def test_rubric_0_the_massage_shop_should_be_within_1000m__inclusive__from_roo(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "The massage shop should be within 1000m (inclusive) from Room 502, Unit 1, Building 3, Jinyu Huafu, 6789 Dongfeng East Street, Kuiwen District, Weifang, Shandong Province"
         assert len(result) > 0
 
     def test_rubric_1_the_massage_shop_should_have_a_rating_of_4_4_or_above(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "The massage shop should have a rating of 4.4 or above"
         assert len(result) > 0
 
     def test_rubric_2_the_massage_shop_should_provide_health_preservation_sauna_se(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "The massage shop should provide Health Preservation Sauna service"
         assert len(result) > 0
 
     def test_rubric_3_the_appointment_time_for_the_massage_shop_should_be_2024_10(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "The appointment time for the massage shop should be 2024-10-26 16:00"
         assert len(result) > 0
 
     def test_rubric_4_the_number_of_people_for_the_massage_shop_appointment_should(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "The number of people for the massage shop appointment should be 2"
         assert len(result) > 0
 
     def test_rubric_5_the_ordered_massage_shop_should_be_yuyang_health_club(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "The ordered massage shop should be Yuyang Health Club"
         assert len(result) > 0
 
     def test_rubric_6_the_ordered_item_at_the_massage_shop_should_be_a_health_pres(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "The ordered item at the massage shop should be a Health Preservation Sauna package"
         assert len(result) > 0
 
     def test_rubric_7_the_ordered_item_at_the_massage_shop_should_be_suitable_for(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "The ordered item at the massage shop should be suitable for two people"
         assert len(result) > 0
 
     def test_rubric_8_the_ordered_item_at_the_massage_shop_should_be_a_health_pres(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "The ordered item at the massage shop should be a Health Preservation Sauna Package for Two"
         assert len(result) > 0
 
     def test_rubric_9_the_japanese_buffet_restaurant_should_be_within_4000m__inclu(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "The Japanese buffet restaurant should be within 4000m (inclusive) from Yuyang Health Club, 3rd Floor, Wanda Plaza, 5678 Dongfeng East Street, Kuiwen District, Weifang, Shandong Province"
         assert len(result) > 0
 
     def test_rubric_10_the_japanese_buffet_restaurant_should_have_fresh_ingredients(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "The Japanese buffet restaurant should have fresh ingredients"
         assert len(result) > 0
 
     def test_rubric_11_the_ordered_item_at_the_japanese_buffet_restaurant_should_be(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "The ordered item at the Japanese buffet restaurant should be a Package for Two"
         assert len(result) > 0
 
     def test_rubric_12_the_ordered_set_at_the_japanese_buffet_restaurant_should_inc(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "The ordered set at the Japanese buffet restaurant should include both Sashimi and Wagyu Beef BBQ"
         assert len(result) > 0
 
     def test_rubric_13_the_price_of_the_ordered_set_at_the_japanese_buffet_restaura(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "The price of the ordered set at the Japanese buffet restaurant should be within 400 yuan (inclusive)"
         assert len(result) > 0
 
     def test_rubric_14_the_reserved_japanese_buffet_restaurant_should_be_sakura_jap(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "The reserved Japanese buffet restaurant should be Sakura Japanese Buffet"
         assert len(result) > 0
 
     def test_rubric_15_the_reservation_time_for_the_japanese_buffet_restaurant_shou(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "The reservation time for the Japanese buffet restaurant should be 2024-10-26 19:00"
         assert len(result) > 0
 
     def test_rubric_16_the_number_of_people_for_the_japanese_buffet_restaurant_rese(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "The number of people for the Japanese buffet restaurant reservation should be 2"
         assert len(result) > 0

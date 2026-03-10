@@ -1,13 +1,13 @@
 import json
 import os
 import pytest
-from solution import solve
 
 _dir = os.path.dirname(os.path.abspath(__file__))
 with open(os.path.join(_dir, "expected.json")) as _f:
     expected_data = json.load(_f)
+with open(os.path.join(_dir, "answer.json")) as _f:
+    result = json.load(_f)
 
-result = solve()
 expected = expected_data["required_orders"]
 
 
@@ -71,41 +71,41 @@ class TestVitaBenchTask:
         assert abs(result[2]["total_price"] - 20.4) < 1
 
     def test_rubric_0_need_to_cancel_the_order_with_order_id_90721003o01(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "Need to cancel the order with order_id 90721003O01"
         assert len(result) > 0
 
     def test_rubric_1_the_delivery_address_for_the_rice_wrapper_roll_ordered_for_d(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "The delivery address for the rice wrapper roll ordered for daughter should be Cuihu Paradise Walk Phase 2, 120 meters west of the intersection of Huasheng Road and Jiabo Road, Yuzhong District, Chongqing City"
         assert len(result) > 0
 
     def test_rubric_2_the_delivery_time_for_the_rice_wrapper_roll_order_should_be(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "The delivery time for the rice wrapper roll order should be between 2025-10-17 10:43:27 and 2025-10-17 12:43:27"
         assert len(result) > 0
 
     def test_rubric_3_when_choosing_a_rice_wrapper_roll_restaurant__priority_shoul(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "When choosing a rice wrapper roll restaurant, priority should be given to chain stores that originated from Guizhou"
         assert len(result) > 0
 
     def test_rubric_4_the_delivery_address_for_the_bean_soup_rice_ordered_for_daug(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "The delivery address for the bean soup rice ordered for daughter should be Cuihu Paradise Walk Phase 2, 120 meters west of the intersection of Huasheng Road and Jiabo Road, Yuzhong District, Chongqing City"
         assert len(result) > 0
 
     def test_rubric_5_the_delivery_time_for_the_bean_soup_rice_order_should_be_bet(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "The delivery time for the bean soup rice order should be between 2025-10-17 10:43:27 and 2025-10-17 12:43:27"
         assert len(result) > 0
 
     def test_rubric_6_when_choosing_a_bean_soup_rice_restaurant__it_should_be_the(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "When choosing a bean soup rice restaurant, it should be the highest-rated No. 71 Bean Soup Rice restaurant"
         assert len(result) > 0
 
     def test_rubric_7_considering_the_daughter_s_health_condition_of_high_choleste(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "Considering the daughter\'s health condition of high cholesterol, the bean soup rice items should not contain offal or other high-cholesterol ingredients"
         assert len(result) > 0

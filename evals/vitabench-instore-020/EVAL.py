@@ -1,13 +1,13 @@
 import json
 import os
 import pytest
-from solution import solve
 
 _dir = os.path.dirname(os.path.abspath(__file__))
 with open(os.path.join(_dir, "expected.json")) as _f:
     expected_data = json.load(_f)
+with open(os.path.join(_dir, "answer.json")) as _f:
+    result = json.load(_f)
 
-result = solve()
 expected = expected_data["required_orders"]
 
 
@@ -91,81 +91,81 @@ class TestVitaBenchTask:
         assert result[3].get("customer_count") == 2
 
     def test_rubric_0_the_package_ordered_from_a_pet_grooming_store_must_be_availa(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "The package ordered from a pet grooming store must be available for dogs"
         assert len(result) > 0
 
     def test_rubric_1_pet_grooming_store_rating_must_be_4_5_stars_or_higher(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "Pet grooming store rating must be 4.5 stars or higher"
         assert len(result) > 0
 
     def test_rubric_2_pet_grooming_store_order_must_include_bath___grooming_servic(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "Pet grooming store order must include bath + grooming service"
         assert len(result) > 0
 
     def test_rubric_3_pet_grooming_store_order_must_be_show_grade_washing_and_care(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "Pet grooming store order must be show-grade washing and care service"
         assert len(result) > 0
 
     def test_rubric_4_pet_grooming_store_order_must_include_imported_dog_treat_can(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "Pet grooming store order must include imported dog treat canned food"
         assert len(result) > 0
 
     def test_rubric_5_pet_grooming_store_order_must_include_6_cans_of_dog_food(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "Pet grooming store order must include 6 cans of dog food"
         assert len(result) > 0
 
     def test_rubric_6_pet_grooming_appointment_time_must_be_10_00_am(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "Pet grooming appointment time must be 10:00 AM"
         assert len(result) > 0
 
     def test_rubric_7_the_reserved_pet_grooming_business_should_be_noble_pet_spa_c(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "The reserved pet grooming business should be Noble Pet SPA Club"
         assert len(result) > 0
 
     def test_rubric_8_the_western_restaurant_must_be_located_within_1km_of_the_pet(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "The western restaurant must be located within 1km of the pet grooming store (Noble Pet SPA Club, 1st Floor, Zhengshang Bozuan Commercial Plaza, Intersection of Tanggong West Road and Kaixuan East Road, Xigong District, Luoyang)"
         assert len(result) > 0
 
     def test_rubric_9_the_western_restaurant_order_must_be_a_set_meal_for_two__not(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "The western restaurant order must be a set meal for two, not two individual meals"
         assert len(result) > 0
 
     def test_rubric_10_the_western_restaurant_set_meal_for_two_must_not_contain_bee(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "The western restaurant set meal for two must not contain beef (friend\'s dietary restriction)"
         assert len(result) > 0
 
     def test_rubric_11_the_western_restaurant_set_meal_for_two_must_not_contain_caf(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "The western restaurant set meal for two must not contain caffeine (user is allergic), choosing a set meal labeled as caffeine-free"
         assert len(result) > 0
 
     def test_rubric_12_the_western_restaurant_order_must_be_a_beautiful_meal(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "The western restaurant order must be a Beautiful Meal"
         assert len(result) > 0
 
     def test_rubric_13_western_restaurant_reservation_time_must_be_11_00_am(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "Western restaurant reservation time must be 11:00 AM"
         assert len(result) > 0
 
     def test_rubric_14_western_restaurant_reservation_must_be_for_2_people(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "Western restaurant reservation must be for 2 people"
         assert len(result) > 0
 
     def test_rubric_15_the_reserved_western_restaurant_should_be_milano_western_res(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "The reserved western restaurant should be Milano Western Restaurant"
         assert len(result) > 0

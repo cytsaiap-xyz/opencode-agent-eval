@@ -1,13 +1,13 @@
 import json
 import os
 import pytest
-from solution import solve
 
 _dir = os.path.dirname(os.path.abspath(__file__))
 with open(os.path.join(_dir, "expected.json")) as _f:
     expected_data = json.load(_f)
+with open(os.path.join(_dir, "answer.json")) as _f:
+    result = json.load(_f)
 
-result = solve()
 expected = expected_data["required_orders"]
 
 
@@ -103,76 +103,76 @@ class TestVitaBenchTask:
         assert abs(result[4]["total_price"] - 498) < 1
 
     def test_rubric_0_it_won_t_rain_in_guilin_on_october_18_and_19__2026__and_it_w(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "It won\'t rain in Guilin on October 18 and 19, 2026, and it won\'t rain in Beihai on October 20 and 21, 2026, which meets the travel plan requirement of four days without rain, so the date for using Longji Rice Terraces tickets is October 18, 2026"
         assert len(result) > 0
 
     def test_rubric_1_longji_rice_terraces_tickets_should_include_2_adult_tickets(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "Longji Rice Terraces tickets should include 2 adult tickets"
         assert len(result) > 0
 
     def test_rubric_2_longji_rice_terraces_tickets_should_include_1_child_ticket(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "Longji Rice Terraces tickets should include 1 child ticket (7 years and below)"
         assert len(result) > 0
 
     def test_rubric_3_xingping_ancient_town_li_river_cruise_tickets_are_for_use_on(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "Xingping Ancient Town Li River cruise tickets are for use on October 19, 2026"
         assert len(result) > 0
 
     def test_rubric_4_xingping_ancient_town_li_river_cruise_tickets_should_include(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "Xingping Ancient Town Li River cruise tickets should include 2 adult tickets"
         assert len(result) > 0
 
     def test_rubric_5_xingping_ancient_town_li_river_cruise_tickets_should_include(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "Xingping Ancient Town Li River cruise tickets should include 1 child ticket (7 years and below)"
         assert len(result) > 0
 
     def test_rubric_6_weizhou_island_dishui_danping_scenic_area_tickets_are_for_us(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "Weizhou Island Dishui Danping Scenic Area tickets are for use on October 20, 2026"
         assert len(result) > 0
 
     def test_rubric_7_the_number_of_weizhou_island_dishui_danping_scenic_area_tick(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "The number of Weizhou Island Dishui Danping Scenic Area tickets should be 3"
         assert len(result) > 0
 
     def test_rubric_8_the_hotel_brand_for_staying_in_guilin_should_be_home_inn(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "The hotel brand for staying in Guilin should be Home Inn"
         assert len(result) > 0
 
     def test_rubric_9_the_hotel_order_in_guilin_should_include_rooms_for_2_nights(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "The hotel order in Guilin should include rooms for 2 nights, on October 18 and 19, 2026 respectively"
         assert len(result) > 0
 
     def test_rubric_10_the_budget_for_the_hotel_in_guilin_is_300_500_yuan_per_night(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "The budget for the hotel in Guilin is 300-500 yuan per night"
         assert len(result) > 0
 
     def test_rubric_11_the_room_type_for_the_hotel_in_guilin_should_be_a_twin_room(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "The room type for the hotel in Guilin should be a twin room"
         assert len(result) > 0
 
     def test_rubric_12_the_hotel_on_weizhou_island_should_be_booked_for_october_20(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "The hotel on Weizhou Island should be booked for October 20, 2026"
         assert len(result) > 0
 
     def test_rubric_13_the_budget_for_the_hotel_on_weizhou_island_is_300_500_yuan_p(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "The budget for the hotel on Weizhou Island is 300-500 yuan per night"
         assert len(result) > 0
 
     def test_rubric_14_the_room_type_for_the_hotel_on_weizhou_island_should_be_a_fa(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "The room type for the hotel on Weizhou Island should be a family suite"
         assert len(result) > 0

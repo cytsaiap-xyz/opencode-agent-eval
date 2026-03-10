@@ -1,13 +1,13 @@
 import json
 import os
 import pytest
-from solution import solve
 
 _dir = os.path.dirname(os.path.abspath(__file__))
 with open(os.path.join(_dir, "expected.json")) as _f:
     expected_data = json.load(_f)
+with open(os.path.join(_dir, "answer.json")) as _f:
+    result = json.load(_f)
 
-result = solve()
 expected = expected_data["required_orders"]
 
 
@@ -39,26 +39,26 @@ class TestVitaBenchTask:
         assert abs(result[0]["total_price"] - 25) < 1
 
     def test_rubric_0_the_rice_noodle_restaurant_must_support_dine_in_available(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "The rice noodle restaurant must support Dine-in available"
         assert len(result) > 0
 
     def test_rubric_1_the_rice_noodle_product_must_not_be_gold_soup_flavor__as_the(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "The rice noodle product must not be gold soup flavor, as the user is tired of it"
         assert len(result) > 0
 
     def test_rubric_2_the_rice_noodle_product_must_not_contain_fried_side_dishes_o(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "The rice noodle product must not contain fried side dishes or high-purine ingredients (such as offal, seafood soup, etc.)"
         assert len(result) > 0
 
     def test_rubric_3_the_delivery_address_for_the_rice_noodle_order_should_be_yun(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "The delivery address for the rice noodle order should be Yunnan University Affiliated Hospital, 160 meters southeast of the intersection of Xinmin Lane and Pingzheng Street, Wuhua District, Kunming, Yunnan Province"
         assert len(result) > 0
 
     def test_rubric_4_the_delivery_time_for_the_rice_noodle_order_should_be_around(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "The delivery time for the rice noodle order should be around 2025-06-21 12:00:00 to ensure completion of the meal before the afternoon break"
         assert len(result) > 0

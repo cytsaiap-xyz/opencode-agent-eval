@@ -1,13 +1,13 @@
 import json
 import os
 import pytest
-from solution import solve
 
 _dir = os.path.dirname(os.path.abspath(__file__))
 with open(os.path.join(_dir, "expected.json")) as _f:
     expected_data = json.load(_f)
+with open(os.path.join(_dir, "answer.json")) as _f:
+    result = json.load(_f)
 
-result = solve()
 expected = expected_data["required_orders"]
 
 
@@ -71,51 +71,51 @@ class TestVitaBenchTask:
         assert abs(result[2]["total_price"] - 61.98) < 1
 
     def test_rubric_0_successfully_canceled_the_user_s_roast_duck_set_meal_order_f(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "Successfully canceled the user\'s roast duck set meal order from Dalao Roast Duck (Qingyang Road Branch), the order status of order_id D0721001T01 has been updated to cancelled"
         assert len(result) > 0
 
     def test_rubric_1_the_item_in_the_chicken_soup_rice_order_for_the_child_should(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "The item in the chicken soup rice order for the child should be non-spicy flavor"
         assert len(result) > 0
 
     def test_rubric_2_the_item_in_the_chicken_soup_rice_order_for_the_child_should(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "The item in the chicken soup rice order for the child should include the option of no green onions"
         assert len(result) > 0
 
     def test_rubric_3_the_chicken_soup_rice_order_for_the_child_should_be_delivere(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "The chicken soup rice order for the child should be delivered around 19:00 on September 30, 2024"
         assert len(result) > 0
 
     def test_rubric_4_the_delivery_address_for_the_chicken_soup_rice_order_for_the(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "The delivery address for the chicken soup rice order for the child should be Phase One of Keyuan New Village, Wuhu Road Street, Baohe District, Hefei City, Anhui Province"
         assert len(result) > 0
 
     def test_rubric_5_the_item_in_the_spicy_chicken_order_should_be_a_portion_for(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "The item in the spicy chicken order should be a portion for two people"
         assert len(result) > 0
 
     def test_rubric_6_the_item_in_the_spicy_chicken_order_should_select_the_extra(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "The item in the spicy chicken order should select the extra spicy flavor option"
         assert len(result) > 0
 
     def test_rubric_7_the_spicy_chicken_order_should_include_noodle_type_staple_fo(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "The spicy chicken order should include noodle-type staple food items"
         assert len(result) > 0
 
     def test_rubric_8_the_spicy_chicken_order_should_be_delivered_around_19_00_on(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "The spicy chicken order should be delivered around 19:00 on September 30, 2024"
         assert len(result) > 0
 
     def test_rubric_9_the_delivery_address_for_the_spicy_chicken_order_should_be_p(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "The delivery address for the spicy chicken order should be Phase One of Keyuan New Village, Wuhu Road Street, Baohe District, Hefei City, Anhui Province"
         assert len(result) > 0

@@ -1,13 +1,13 @@
 import json
 import os
 import pytest
-from solution import solve
 
 _dir = os.path.dirname(os.path.abspath(__file__))
 with open(os.path.join(_dir, "expected.json")) as _f:
     expected_data = json.load(_f)
+with open(os.path.join(_dir, "answer.json")) as _f:
+    result = json.load(_f)
 
-result = solve()
 expected = expected_data["required_orders"]
 
 
@@ -71,51 +71,51 @@ class TestVitaBenchTask:
         assert abs(result[2]["total_price"] - 29.8) < 1
 
     def test_rubric_0_successfully_cancel_the_user_s_order_for_mango_pomelo_sago_c(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "Successfully cancel the user\'s order for Mango Pomelo Sago Cheese Mochi at Nuojiji Mochi Shop·Coffee (Shida South Road Branch), with order number 10721002T01"
         assert len(result) > 0
 
     def test_rubric_1_the_merchant_for_the_new_order_should_still_be_nuojiji_mochi(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "The merchant for the new order should still be Nuojiji Mochi Shop·Coffee (Shida South Road Branch)"
         assert len(result) > 0
 
     def test_rubric_2_the_reordered_mochi_items_should_be_mint_dark_chocolate_chee(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "The reordered mochi items should be Mint Dark Chocolate Cheese Mochi and Blueberry and Mulberry Cheese Mochi (Slightly Sour)"
         assert len(result) > 0
 
     def test_rubric_3_the_specifications_for_the_reordered_mochi_items_should_avoi(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "The specifications for the reordered mochi items should avoid black mochi skin, preferring options such as coconut or white Oreo flavor"
         assert len(result) > 0
 
     def test_rubric_4_the_reordered_mochi_order_needs_to_include_a_note_requesting(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "The reordered mochi order needs to include a note requesting disposable gloves from the merchant"
         assert len(result) > 0
 
     def test_rubric_5_the_delivery_address_for_the_reordered_mochi_should_be_no_1(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "The delivery address for the reordered mochi should be No.1 Shida South Road, Qingshanhu District, Nanchang City, Jiangxi Province (200 meters from Exit 4 of Shida South Road Metro Station), Shida South Road No.1 Complex"
         assert len(result) > 0
 
     def test_rubric_6_should_purchase_boiled_and_deep_fried_food_from_sister_xu_s(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "Should purchase boiled and deep-fried food from Sister Xu\'s Boiled and Deep-fried (Shunwai Road Branch)"
         assert len(result) > 0
 
     def test_rubric_7_the_boiled_and_deep_fried_order_should_only_include_one_set(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "The boiled and deep-fried order should only include one set meal that contains both boiled and deep-fried items"
         assert len(result) > 0
 
     def test_rubric_8_the_boiled_and_deep_fried_order_needs_to_include_a_note_requ(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "The boiled and deep-fried order needs to include a note requesting no coriander and no fish mint, in accordance with the user\'s dietary restrictions of no coriander/fish mint"
         assert len(result) > 0
 
     def test_rubric_9_the_delivery_address_for_the_sister_xu_s_boiled_and_deep_fri(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "The delivery address for the Sister Xu\'s Boiled and Deep-fried order should be No.1 Shida South Road, Qingshanhu District, Nanchang City, Jiangxi Province (200 meters from Exit 4 of Shida South Road Metro Station), Shida South Road No.1 Complex"
         assert len(result) > 0

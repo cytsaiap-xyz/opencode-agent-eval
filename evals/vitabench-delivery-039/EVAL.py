@@ -1,13 +1,13 @@
 import json
 import os
 import pytest
-from solution import solve
 
 _dir = os.path.dirname(os.path.abspath(__file__))
 with open(os.path.join(_dir, "expected.json")) as _f:
     expected_data = json.load(_f)
+with open(os.path.join(_dir, "answer.json")) as _f:
+    result = json.load(_f)
 
-result = solve()
 expected = expected_data["required_orders"]
 
 
@@ -55,41 +55,41 @@ class TestVitaBenchTask:
         assert abs(result[1]["total_price"] - 30) < 1
 
     def test_rubric_0_the_black_sesame_product_ordered_from_honeymoon_dessert_shou(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "The Black Sesame product ordered from Honeymoon Dessert should be selected with hot drink attribute, suitable for cold stomach conditions"
         assert len(result) > 0
 
     def test_rubric_1_the_honeymoon_dessert_store_ordered_from_should_be_honeymoon(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "The Honeymoon Dessert store ordered from should be Honeymoon Dessert (Dalian CapitaMall Peace Plaza Second Store)"
         assert len(result) > 0
 
     def test_rubric_2_the_delivery_address_for_black_sesame_order_should_be_dalian(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "The delivery address for Black Sesame order should be Dalian Software Park, 160 meters northeast of the intersection of Huangpu Road and Shuxiang Street, Shahekou District, Dalian, Liaoning Province"
         assert len(result) > 0
 
     def test_rubric_3_the_estimated_delivery_time_for_black_sesame_order_should_be(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "The estimated delivery time for Black Sesame order should be before 2025-05-08 20:00:00, ensuring the user can enjoy it before working overtime"
         assert len(result) > 0
 
     def test_rubric_4_the_quantity_of_black_sesame_order_should_be_3_portions(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "The quantity of Black Sesame order should be 3 portions"
         assert len(result) > 0
 
     def test_rubric_5_the_delivery_address_for_corn_cake_products_order_should_be(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "The delivery address for Corn Cake products order should be Dalian Software Park, 160 meters northeast of the intersection of Huangpu Road and Shuxiang Street, Shahekou District, Dalian, Liaoning Province"
         assert len(result) > 0
 
     def test_rubric_6_the_estimated_delivery_time_for_corn_cake_products_order_sho(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "The estimated delivery time for Corn Cake products order should be before 2025-05-08 20:00:00"
         assert len(result) > 0
 
     def test_rubric_7_the_order_quantity_of_corn_cake_products_should_be_10_pieces(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "The order quantity of Corn Cake products should be 10 pieces, meeting the stocking needs"
         assert len(result) > 0

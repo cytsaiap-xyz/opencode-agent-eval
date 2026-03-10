@@ -1,13 +1,13 @@
 import json
 import os
 import pytest
-from solution import solve
 
 _dir = os.path.dirname(os.path.abspath(__file__))
 with open(os.path.join(_dir, "expected.json")) as _f:
     expected_data = json.load(_f)
+with open(os.path.join(_dir, "answer.json")) as _f:
+    result = json.load(_f)
 
-result = solve()
 expected = expected_data["required_orders"]
 
 
@@ -71,41 +71,41 @@ class TestVitaBenchTask:
         assert abs(result[2]["total_price"] - 19.2) < 1
 
     def test_rubric_0_the_delivery_address_for_the_red_bean_paste_egg_yolk_pastry(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "The delivery address for the Red Bean Paste Egg Yolk Pastry order should be No. 26 Sihuan South Road, Henan\'an Street, Huicheng District, Huizhou City, Guangdong Province, Wanxiang International Office Building"
         assert len(result) > 0
 
     def test_rubric_1_the_delivery_address_for_the_meat_crab_pot_order_should_be_n(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "The delivery address for the Meat Crab Pot order should be No. 26 Sihuan South Road, Henan\'an Street, Huicheng District, Huizhou City, Guangdong Province, Wanxiang International Office Building"
         assert len(result) > 0
 
     def test_rubric_2_when_selecting_meat_crab_pot__the_mild_spicy_flavor_should_b(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "When selecting Meat Crab Pot, the mild spicy flavor should be chosen, suitable for sharing with colleagues"
         assert len(result) > 0
 
     def test_rubric_3_when_selecting_a_meat_crab_pot_merchant__the_rating_should_b(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "When selecting a Meat Crab Pot merchant, the rating should be greater than or equal to 4.5"
         assert len(result) > 0
 
     def test_rubric_4_the_delivery_address_for_the_double_skin_milk_pudding_order(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "The delivery address for the Double-Skin Milk Pudding order should be No. 8 Sanxin South Road, Jiangbei, Huicheng District, Huizhou City, Guangdong Province, Jiangbei New Garden"
         assert len(result) > 0
 
     def test_rubric_5_when_selecting_double_skin_milk_pudding__it_should_not_conta(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "When selecting Double-Skin Milk Pudding, it should not contain mango ingredients to avoid allergic reactions"
         assert len(result) > 0
 
     def test_rubric_6_double_skin_milk_pudding_should_be_selected_as_a_hot_drink(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "Double-Skin Milk Pudding should be selected as a hot drink, suitable for consumption during menstruation"
         assert len(result) > 0
 
     def test_rubric_7_the_double_skin_milk_pudding_order_should_include_red_bean(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "The Double-Skin Milk Pudding order should include Red Bean (Extra Topping), with a total of 2 items"
         assert len(result) > 0

@@ -1,13 +1,13 @@
 import json
 import os
 import pytest
-from solution import solve
 
 _dir = os.path.dirname(os.path.abspath(__file__))
 with open(os.path.join(_dir, "expected.json")) as _f:
     expected_data = json.load(_f)
+with open(os.path.join(_dir, "answer.json")) as _f:
+    result = json.load(_f)
 
-result = solve()
 expected = expected_data["required_orders"]
 
 
@@ -55,46 +55,46 @@ class TestVitaBenchTask:
         assert abs(result[1]["total_price"] - 72.56) < 1
 
     def test_rubric_0_the_delivery_address_for_children_s_beverage_orders_should_b(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "The delivery address for children\'s beverage orders should be Green Island Garden, No. 63 Hong Kong Middle Road, Shinan District, Qingdao, Shandong Province (180m walking distance from Exit A of Yan\'erdao Road Metro Station)"
         assert len(result) > 0
 
     def test_rubric_1_the_delivery_time_for_children_s_beverage_orders_should_be_b(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "The delivery time for children\'s beverage orders should be before 2025-06-01 00:00:00"
         assert len(result) > 0
 
     def test_rubric_2_the_merchant_rating_for_children_s_beverage_orders_should_be(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "The merchant rating for children\'s beverage orders should be greater than or equal to 4.0"
         assert len(result) > 0
 
     def test_rubric_3_children_s_beverages_should_not_be_milk_or_any_product_conta(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "Children\'s beverages should not be milk or any product containing milk, to avoid stomach discomfort in children"
         assert len(result) > 0
 
     def test_rubric_4_the_delivery_address_for_night_snack_orders_should_be_green(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "The delivery address for night snack orders should be Green Island Garden, No. 63 Hong Kong Middle Road, Shinan District, Qingdao, Shandong Province (180m walking distance from Exit A of Yan\'erdao Road Metro Station)"
         assert len(result) > 0
 
     def test_rubric_5_the_delivery_time_for_night_snack_orders_should_be_scheduled(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "The delivery time for night snack orders should be scheduled after 2025-06-01 00:00:00"
         assert len(result) > 0
 
     def test_rubric_6_the_merchant_rating_for_night_snack_orders_should_be_greater(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "The merchant rating for night snack orders should be greater than or equal to 4.0"
         assert len(result) > 0
 
     def test_rubric_7_the_merchant_selected_for_night_snack_orders_should_support(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "The merchant selected for night snack orders should support late-night delivery service"
         assert len(result) > 0
 
     def test_rubric_8_items_like_stir_fried_river_snails_in_the_night_snack_order(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "Items like Stir-fried River Snails in the night snack order should be selected with mild spicy or non-spicy flavor, suitable for users with mouth ulcers"
         assert len(result) > 0

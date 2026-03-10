@@ -1,13 +1,13 @@
 import json
 import os
 import pytest
-from solution import solve
 
 _dir = os.path.dirname(os.path.abspath(__file__))
 with open(os.path.join(_dir, "expected.json")) as _f:
     expected_data = json.load(_f)
+with open(os.path.join(_dir, "answer.json")) as _f:
+    result = json.load(_f)
 
-result = solve()
 expected = expected_data["required_orders"]
 
 
@@ -55,6 +55,6 @@ class TestVitaBenchTask:
         assert abs(result[1]["total_price"] - 25.68) < 1
 
     def test_rubric_0_order_the_product_from_order_g0721005o01_again(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "Order the product from order G0721005O01 again"
         assert len(result) > 0

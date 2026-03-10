@@ -1,13 +1,13 @@
 import json
 import os
 import pytest
-from solution import solve
 
 _dir = os.path.dirname(os.path.abspath(__file__))
 with open(os.path.join(_dir, "expected.json")) as _f:
     expected_data = json.load(_f)
+with open(os.path.join(_dir, "answer.json")) as _f:
+    result = json.load(_f)
 
-result = solve()
 expected = expected_data["required_orders"]
 
 
@@ -71,51 +71,51 @@ class TestVitaBenchTask:
         assert abs(result[2]["total_price"] - 160) < 1
 
     def test_rubric_0_the_destination_of_the_train_order_should_be_jiujiang(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "The destination of the train order should be Jiujiang"
         assert len(result) > 0
 
     def test_rubric_1_the_departure_date_of_the_train_order_should_be_2026_09_01(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "The departure date of the train order should be 2026-09-01"
         assert len(result) > 0
 
     def test_rubric_2_the_arrival_time_of_the_train_should_be_around_09_00(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "The arrival time of the train should be around 09:00"
         assert len(result) > 0
 
     def test_rubric_3_the_seat_type_in_the_train_ticket_order_should_be_second_cla(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "The seat type in the train ticket order should be second class seat"
         assert len(result) > 0
 
     def test_rubric_4_need_to_check_the_weather_in_lushan_mountain_on_2026_09_01_a(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "Need to check the weather in Lushan Mountain on 2026-09-01 and 2026-09-02, which is showers followed by sunny, suitable for viewing the sea of clouds, and the booked hotel should be located on Lushan Mountain"
         assert len(result) > 0
 
     def test_rubric_5_the_price_of_the_booked_hotel_should_be_less_than_or_equal_t(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "The price of the booked hotel should be less than or equal to 600 yuan"
         assert len(result) > 0
 
     def test_rubric_6_the_room_type_of_the_booked_hotel_should_be_a_king_room(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "The room type of the booked hotel should be a king room"
         assert len(result) > 0
 
     def test_rubric_7_the_attraction_to_be_ordered_should_be_lushan_scenic_area(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "The attraction to be ordered should be Lushan Scenic Area"
         assert len(result) > 0
 
     def test_rubric_8_the_ticket_date_in_the_attraction_order_should_be_2026_09_02(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "The ticket date in the attraction order should be 2026-09-02"
         assert len(result) > 0
 
     def test_rubric_9_the_ticket_type_in_the_attraction_order_should_be_adult_tick(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "The ticket type in the attraction order should be adult ticket"
         assert len(result) > 0

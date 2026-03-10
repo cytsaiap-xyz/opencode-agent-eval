@@ -1,13 +1,13 @@
 import json
 import os
 import pytest
-from solution import solve
 
 _dir = os.path.dirname(os.path.abspath(__file__))
 with open(os.path.join(_dir, "expected.json")) as _f:
     expected_data = json.load(_f)
+with open(os.path.join(_dir, "answer.json")) as _f:
+    result = json.load(_f)
 
-result = solve()
 expected = expected_data["required_orders"]
 
 
@@ -72,51 +72,51 @@ class TestVitaBenchTask:
         assert abs(result[2]["total_price"] - 88) < 1
 
     def test_rubric_0_should_check_if_there_are_outdoor_bbq_restaurants_within_20k(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "Should check if there are outdoor BBQ restaurants within 20km of Room 502, Unit 1, Building 3, Zilang Mansion, 128 Gongnong Road, Chongchuan District, Nantong, Jiangsu Province (including 20km). The result is yes, so the merchant for the in-store dining order should be an outdoor BBQ restaurant"
         assert len(result) > 0
 
     def test_rubric_1_the_ordered_outdoor_bbq_restaurant_should_have_spacious_lawn(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "The ordered outdoor BBQ restaurant should have spacious lawn and canopy facilities"
         assert len(result) > 0
 
     def test_rubric_2_the_set_menu_ordered_at_the_outdoor_bbq_restaurant_should_pr(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "The set menu ordered at the outdoor BBQ restaurant should provide BBQ ingredients and BBQ tools"
         assert len(result) > 0
 
     def test_rubric_3_the_bbq_ingredients_provided_in_the_outdoor_bbq_restaurant_s(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "The BBQ ingredients provided in the outdoor BBQ restaurant\'s ordered set menu should not include pork"
         assert len(result) > 0
 
     def test_rubric_4_the_outdoor_bbq_restaurant_order_should_be_for_one_4_person(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "The outdoor BBQ restaurant order should be for one 4-person meal, not four individual sets"
         assert len(result) > 0
 
     def test_rubric_5_the_reserved_outdoor_bbq_restaurant_should_be_prairie_canopy(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "The reserved outdoor BBQ restaurant should be Prairie Canopy BBQ Camp"
         assert len(result) > 0
 
     def test_rubric_6_the_outdoor_bbq_restaurant_reservation_time_should_be_2024_0(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "The outdoor BBQ restaurant reservation time should be 2024-01-06 11:00:00"
         assert len(result) > 0
 
     def test_rubric_7_the_number_of_people_for_the_outdoor_bbq_restaurant_reservat(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "The number of people for the outdoor BBQ restaurant reservation is 4"
         assert len(result) > 0
 
     def test_rubric_8_need_to_check_user_behavior_history_to_find_previously_visit(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "Need to check user behavior history to find previously visited family parks, with the result being Wonder Family Park; the ordered family park should be Wonder Family Park"
         assert len(result) > 0
 
     def test_rubric_9_need_to_check_the_bbq_order_price__with_the_result_being_not(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "Need to check the BBQ order price, with the result being not more than 450 yuan; the family park order should be for a Family Package (1 Adult & 1 Child)"
         assert len(result) > 0

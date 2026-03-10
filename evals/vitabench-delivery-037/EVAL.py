@@ -1,13 +1,13 @@
 import json
 import os
 import pytest
-from solution import solve
 
 _dir = os.path.dirname(os.path.abspath(__file__))
 with open(os.path.join(_dir, "expected.json")) as _f:
     expected_data = json.load(_f)
+with open(os.path.join(_dir, "answer.json")) as _f:
+    result = json.load(_f)
 
-result = solve()
 expected = expected_data["required_orders"]
 
 
@@ -39,31 +39,31 @@ class TestVitaBenchTask:
         assert abs(result[0]["total_price"] - 18.0) < 1
 
     def test_rubric_0_the_delivery_address_for_the_chicken_claypot_order_should_be(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "The delivery address for the chicken claypot order should be Jinzhai Residential Area near Machine Tool Factory No.3, Jinwa Road, east of Dashuying Interchange, Guandu District, Kunming City, Yunnan Province"
         assert len(result) > 0
 
     def test_rubric_1_the_delivery_time_for_the_chicken_claypot_order_should_be_be(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "The delivery time for the chicken claypot order should be before 2025-04-11 19:00:00 to ensure the user has enough time for dining and digestion"
         assert len(result) > 0
 
     def test_rubric_2_the_ordered_claypot_dish_must_contain_chicken_as_the_main_in(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "The ordered claypot dish must contain chicken as the main ingredient"
         assert len(result) > 0
 
     def test_rubric_3_the_ordered_claypot_dish_must_include_rice_or_other_staple_f(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "The ordered claypot dish must include rice or other staple food to ensure a complete nutritional balance"
         assert len(result) > 0
 
     def test_rubric_4_the_ordered_claypot_dish_should_have_a_light__non_greasy_fla(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "The ordered claypot dish should have a light, non-greasy flavor to meet the user\'s dietary restriction of avoiding greasy food"
         assert len(result) > 0
 
     def test_rubric_5_the_ordered_claypot_dish_must_come_with_dipping_sauce_to_sat(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "The ordered claypot dish must come with dipping sauce to satisfy the user\'s requirement for condiments"
         assert len(result) > 0

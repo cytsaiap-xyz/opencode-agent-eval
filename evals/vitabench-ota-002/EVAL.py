@@ -1,13 +1,13 @@
 import json
 import os
 import pytest
-from solution import solve
 
 _dir = os.path.dirname(os.path.abspath(__file__))
 with open(os.path.join(_dir, "expected.json")) as _f:
     expected_data = json.load(_f)
+with open(os.path.join(_dir, "answer.json")) as _f:
+    result = json.load(_f)
 
-result = solve()
 expected = expected_data["required_orders"]
 
 
@@ -71,36 +71,36 @@ class TestVitaBenchTask:
         assert abs(result[2]["total_price"] - 1140) < 1
 
     def test_rubric_0_the_train_ticket_order_status_for_july_10__2027_should_be_ca(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "The train ticket order status for July 10, 2027 should be cancelled"
         assert len(result) > 0
 
     def test_rubric_1_the_train_number_for_july_10__2027_is_k9619__with_departure(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "The train number for July 10, 2027 is K9619, with departure time at 18:30. The tickets for this train on July 12, 2027 are sold out, so the tickets for July 12, 2027 should be for train K9622 which departs one hour later (departure time at 19:30)"
         assert len(result) > 0
 
     def test_rubric_2_the_train_ticket_order_status_for_july_12__2027_should_be_pa(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "The train ticket order status for July 12, 2027 should be paid"
         assert len(result) > 0
 
     def test_rubric_3_the_reserved_homestay_should_have_bai_ethnic_style(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "The reserved homestay should have Bai Ethnic Style"
         assert len(result) > 0
 
     def test_rubric_4_the_reserved_homestay_should_have_views_of_erhai_lake_and_ca(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "The reserved homestay should have views of Erhai Lake and Cangshan Mountain"
         assert len(result) > 0
 
     def test_rubric_5_the_reserved_homestay_should_include_breakfast(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "The reserved homestay should include breakfast"
         assert len(result) > 0
 
     def test_rubric_6_the_homestay_reservation_should_include_three_nights__specif(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "The homestay reservation should include three nights, specifically for July 12, 2027, July 13, 2027, and July 14, 2027"
         assert len(result) > 0

@@ -1,28 +1,46 @@
 # Conference Schedule Builder
 
-Implement a conference schedule builder in `scheduler.py` using data from `conference.json` (10 sessions, 4 rooms, 7 time slots).
+You are a conference planning agent. Read the conference data in `conference.json` (10 sessions, 4 rooms, 7 time slots) and build an optimal schedule.
+
+## Scheduling Rules
+
+- Schedule by priority: required > high > medium > low
+- Match room equipment to session requirements
+- No speaker or room double-booking (same room or same speaker at same time)
+- Sessions > 60 min can span consecutive time slots
+- Prefer sessions in their preferred time period (morning/afternoon)
+
+## Scoring (0-100)
+
+- 40 pts: required sessions scheduled (proportional)
+- 30 pts: high-priority sessions scheduled (proportional)
+- 15 pts: sessions in preferred time period (proportional)
+- 15 pts: no conflicts
 
 ## Your Task
 
-Implement all functions in `scheduler.py`:
+Read `conference.json` and build an optimal schedule. Write your results to `answer.json`.
 
-1. **`room_has_equipment(room, session)`** — Check if room has all equipment the session requires.
+### Required Output
 
-2. **`session_fits_slot(session, slot)`** — Check if session duration fits within the time slot's duration.
+1. **schedule**: The complete schedule with:
+   - `entries`: Array of `{session_id, room_id, time_slot_id, start_time, end_time}`
+   - `unscheduled`: Array of session IDs that couldn't be scheduled
+   - `score`: The schedule's score (0-100)
 
-3. **`detect_conflicts(schedule)`** — Find room conflicts (double-booked rooms), speaker conflicts (same speaker at same time), and equipment conflicts (room missing equipment).
+2. **formatted**: Human-readable schedule as a string, sorted by time then room. Format each line as: `"HH:MM-HH:MM: [Room Name] Session Title (Speaker Name)"`
 
-4. **`calculate_score(schedule)`** — Score 0-100 based on:
-   - 40 pts: required sessions scheduled (proportional)
-   - 30 pts: high-priority sessions scheduled (proportional)
-   - 15 pts: sessions in preferred time period (proportional)
-   - 15 pts: no conflicts
+3. **conflict_check**: Run conflict detection on your schedule. Provide:
+   - `room_conflicts`: number of room conflicts (should be 0)
+   - `speaker_conflicts`: number of speaker conflicts (should be 0)
+   - `equipment_conflicts`: number of equipment conflicts (should be 0)
 
-5. **`build_schedule()`** — Build an optimal conflict-free schedule:
-   - Schedule by priority order: required > high > medium > low
-   - Prefer matching equipment and preferred time period
-   - No speaker or room conflicts
-   - Sessions > 60 min can span consecutive time slots
-   - Return schedule with entries, unscheduled list, and score
+## Key Sessions
 
-6. **`format_schedule(schedule)`** — Human-readable display sorted by time then room, format: `"09:00-10:00: [Main Hall] Session Title (Speaker)"`
+- Required: s1 (Keynote: Future of AI, Dr. Smith), s5 (Panel Discussion), s10 (Closing Remarks)
+- High priority: s2, s3, s7, s8
+- Note: Prof. Johnson speaks at both s2 and s6 — they cannot be at the same time
+
+## Output Format
+
+Write `answer.json` with the keys: `schedule`, `formatted`, `conflict_check`.

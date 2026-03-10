@@ -1,13 +1,13 @@
 import json
 import os
 import pytest
-from solution import solve
 
 _dir = os.path.dirname(os.path.abspath(__file__))
 with open(os.path.join(_dir, "expected.json")) as _f:
     expected_data = json.load(_f)
+with open(os.path.join(_dir, "answer.json")) as _f:
+    result = json.load(_f)
 
-result = solve()
 expected = expected_data["required_orders"]
 
 
@@ -71,56 +71,56 @@ class TestVitaBenchTask:
         assert abs(result[2]["total_price"] - 17.0) < 1
 
     def test_rubric_0_the_delivery_address_for_the_steamed_mutton_dumplings_order(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "The delivery address for the Steamed Mutton Dumplings order should be Main Hospital of the First Affiliated Hospital of Xi\'an Jiaotong University, No.277 Yanta West Road, Yanta District, Xi\'an, Shaanxi Province"
         assert len(result) > 0
 
     def test_rubric_1_the_estimated_delivery_time_for_the_steamed_mutton_dumplings(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "The estimated delivery time for the Steamed Mutton Dumplings order should be after 12:00 on September 10, 2025"
         assert len(result) > 0
 
     def test_rubric_2_the_steamed_mutton_dumplings_order_must_come_from_a_non_chai(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "The Steamed Mutton Dumplings order must come from a Non-chain Store"
         assert len(result) > 0
 
     def test_rubric_3_the_delivery_address_for_the_uncle_s_meat_soup_dumplings_and(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "The delivery address for the uncle\'s meat soup dumplings and soup order should be Main Hospital of the First Affiliated Hospital of Xi\'an Jiaotong University, No.277 Yanta West Road, Yanta District, Xi\'an, Shaanxi Province"
         assert len(result) > 0
 
     def test_rubric_4_the_estimated_delivery_time_for_the_uncle_s_meat_soup_dumpli(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "The estimated delivery time for the uncle\'s meat soup dumplings and soup order should be around 12:00 on September 10, 2025"
         assert len(result) > 0
 
     def test_rubric_5_the_items_in_the_uncle_s_meat_soup_dumplings_and_soup_order(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "The items in the uncle\'s meat soup dumplings and soup order should not be in set menu form"
         assert len(result) > 0
 
     def test_rubric_6_the_items_in_the_uncle_s_meat_soup_dumplings_and_soup_order(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "The items in the uncle\'s meat soup dumplings and soup order should come from stores with branches in both Nanjing and Xi\'an"
         assert len(result) > 0
 
     def test_rubric_7_the_items_in_the_uncle_s_meat_soup_dumplings_and_soup_order(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "The items in the uncle\'s meat soup dumplings and soup order must not contain seafood ingredients"
         assert len(result) > 0
 
     def test_rubric_8_the_delivery_address_for_the_yellow_tea_order_should_be_main(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "The delivery address for the Yellow Tea order should be Main Hospital of the First Affiliated Hospital of Xi\'an Jiaotong University, No.277 Yanta West Road, Yanta District, Xi\'an, Shaanxi Province"
         assert len(result) > 0
 
     def test_rubric_9_the_estimated_delivery_time_for_the_yellow_tea_order_should(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "The estimated delivery time for the Yellow Tea order should be around 12:00 on September 10, 2025"
         assert len(result) > 0
 
     def test_rubric_10_the_yellow_tea_order_item_specification_should_be_sugar_free(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "The Yellow Tea order item specification should be sugar-free (no additional sugar)"
         assert len(result) > 0

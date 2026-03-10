@@ -1,13 +1,13 @@
 import json
 import os
 import pytest
-from solution import solve
 
 _dir = os.path.dirname(os.path.abspath(__file__))
 with open(os.path.join(_dir, "expected.json")) as _f:
     expected_data = json.load(_f)
+with open(os.path.join(_dir, "answer.json")) as _f:
+    result = json.load(_f)
 
-result = solve()
 expected = expected_data["required_orders"]
 
 
@@ -75,51 +75,51 @@ class TestVitaBenchTask:
         assert abs(result[2]["total_price"] - 198) < 1
 
     def test_rubric_0_the_distance_from_the_hot_spring_establishment_to_no__18__se(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "The distance from the hot spring establishment to No. 18, Section 2, Hongxing Road, Jinjiang District, Chengdu, Sichuan Province (450 meters walk from Exit A of City Second Hospital Metro Station) should be within 20km (including 20km)"
         assert len(result) > 0
 
     def test_rubric_1_the_hot_spring_establishment_rating_should_be_5_0(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "The hot spring establishment rating should be 5.0"
         assert len(result) > 0
 
     def test_rubric_2_the_hot_spring_establishment_should_have_a_parking_lot(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "The hot spring establishment should have a Parking lot"
         assert len(result) > 0
 
     def test_rubric_3_the_ordered_item_price_at_the_hot_spring_establishment_can_e(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "The ordered item price at the hot spring establishment can exceed 1000 yuan"
         assert len(result) > 0
 
     def test_rubric_4_the_ordered_item_at_the_hot_spring_establishment_should_be_a(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "The ordered item at the hot spring establishment should be a Family hot spring package"
         assert len(result) > 0
 
     def test_rubric_5_the_reserved_hot_spring_establishment_should_be_jinjiang_hot(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "The reserved hot spring establishment should be Jinjiang Hot Spring Club"
         assert len(result) > 0
 
     def test_rubric_6_the_reservation_time_for_the_hot_spring_establishment_is_202(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "The reservation time for the hot spring establishment is 2024-02-11 09:00:00"
         assert len(result) > 0
 
     def test_rubric_7_the_number_of_people_for_the_hot_spring_reservation_is_3(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "The number of people for the hot spring reservation is 3"
         assert len(result) > 0
 
     def test_rubric_8_there_is_a_game_hall_within_10km__including_10km__of_jinjian(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "There is a Game hall within 10km (including 10km) of Jinjiang Hot Spring Club, Chenglong Road, Jinjiang District, Chengdu, therefore the establishment to order from should be the Game hall"
         assert len(result) > 0
 
     def test_rubric_9_the_ordered_item_from_the_game_hall_should_be_a_newcomer_exp(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "The ordered item from the Game hall should be a Newcomer experience package"
         assert len(result) > 0

@@ -1,13 +1,13 @@
 import json
 import os
 import pytest
-from solution import solve
 
 _dir = os.path.dirname(os.path.abspath(__file__))
 with open(os.path.join(_dir, "expected.json")) as _f:
     expected_data = json.load(_f)
+with open(os.path.join(_dir, "answer.json")) as _f:
+    result = json.load(_f)
 
-result = solve()
 expected = expected_data["required_orders"]
 
 
@@ -55,26 +55,26 @@ class TestVitaBenchTask:
         assert abs(result[1]["total_price"] - 36.0) < 1
 
     def test_rubric_0_successfully_canceled_the_order_for__deluxe_individual_custo(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "Successfully canceled the order for 🏅Deluxe Individual Customized Set Meal from Sixi Cloud Kitchen Chinese Healthy Cuisine store, specifically the order with order_id 90721002T02 should have been updated to cancelled status"
         assert len(result) > 0
 
     def test_rubric_1_the_delivery_address_for_the_carrot_slimming_bottle_juice_or(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "The delivery address for the Carrot Slimming Bottle juice order should be Jiayleyuan, No.158 Yongle Road, Liangxi District, Wuxi City, Jiangsu Province"
         assert len(result) > 0
 
     def test_rubric_2_the_estimated_delivery_time_for_the_carrot_slimming_bottle_j(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "The estimated delivery time for the Carrot Slimming Bottle juice order should be before 7:00 PM on November 1, 2025"
         assert len(result) > 0
 
     def test_rubric_3_the_total_number_of_items_in_the_carrot_slimming_bottle_juic(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "The total number of items in the Carrot Slimming Bottle juice order should be 2"
         assert len(result) > 0
 
     def test_rubric_4_the_product_specification_in_the_carrot_slimming_bottle_juic(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "The product specification in the Carrot Slimming Bottle juice order should be \'No ice\'"
         assert len(result) > 0

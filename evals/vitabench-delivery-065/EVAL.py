@@ -1,13 +1,13 @@
 import json
 import os
 import pytest
-from solution import solve
 
 _dir = os.path.dirname(os.path.abspath(__file__))
 with open(os.path.join(_dir, "expected.json")) as _f:
     expected_data = json.load(_f)
+with open(os.path.join(_dir, "answer.json")) as _f:
+    result = json.load(_f)
 
-result = solve()
 expected = expected_data["required_orders"]
 
 
@@ -71,26 +71,26 @@ class TestVitaBenchTask:
         assert abs(result[2]["total_price"] - 198.0) < 1
 
     def test_rubric_0_order_one_more_serving_of_tofu_pudding_from_order_d0721003t0(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "Order one more serving of tofu pudding from order D0721003T01"
         assert len(result) > 0
 
     def test_rubric_1_the_delivery_address_for_the_beef_jerky_order_should_be_jing(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "The delivery address for the beef jerky order should be Jingcheng Xiufu, No. 288 Zhangba East Road, Yanta District, Xi\'an City, Shaanxi Province"
         assert len(result) > 0
 
     def test_rubric_2_the_beef_jerky_order_should_select_taizu_military_rations__f(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "The beef jerky order should select Taizu Military Rations: Freshly Baked Beef Jerky (Xi\'an Branch) as the merchant"
         assert len(result) > 0
 
     def test_rubric_3_the_beef_jerky_order_should_select_lean_type_products__avoid(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "The beef jerky order should select lean type products, avoiding marbled mixed types"
         assert len(result) > 0
 
     def test_rubric_4_the_total_weight_of_beef_jerky_products_in_the_order_should(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "The total weight of beef jerky products in the order should be one jin (500g)"
         assert len(result) > 0

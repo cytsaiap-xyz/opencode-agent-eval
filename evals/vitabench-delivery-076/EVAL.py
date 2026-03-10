@@ -1,13 +1,13 @@
 import json
 import os
 import pytest
-from solution import solve
 
 _dir = os.path.dirname(os.path.abspath(__file__))
 with open(os.path.join(_dir, "expected.json")) as _f:
     expected_data = json.load(_f)
+with open(os.path.join(_dir, "answer.json")) as _f:
+    result = json.load(_f)
 
-result = solve()
 expected = expected_data["required_orders"]
 
 
@@ -55,31 +55,31 @@ class TestVitaBenchTask:
         assert abs(result[1]["total_price"] - 38.9) < 1
 
     def test_rubric_0_the_delivery_address_for_lelecha_tea_order_should_be_greenla(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "The delivery address for LELECHA Tea order should be Greenland Yuansheng International, Intersection of Jinshui East Road and Dongfeng South Road, Zhengdong New District, Jinshui District, Zhengzhou City, Henan Province"
         assert len(result) > 0
 
     def test_rubric_1_the_estimated_delivery_time_for_lelecha_tea_order_should_be(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "The estimated delivery time for LELECHA Tea order should be before 12:00 on August 16, 2025"
         assert len(result) > 0
 
     def test_rubric_2_when_choosing_lelecha_tea_drinks__select_products_with_no_te(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "When choosing LELECHA Tea drinks, select products with no tea base to avoid caffeine"
         assert len(result) > 0
 
     def test_rubric_3_the_delivery_address_for_xiabu_xiabu_hot_pot_order_should_be(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "The delivery address for Xiabu Xiabu Hot Pot order should be Greenland Yuansheng International, Intersection of Jinshui East Road and Dongfeng South Road, Zhengdong New District, Jinshui District, Zhengzhou City, Henan Province"
         assert len(result) > 0
 
     def test_rubric_4_the_estimated_delivery_time_for_xiabu_xiabu_hot_pot_order_sh(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "The estimated delivery time for Xiabu Xiabu Hot Pot order should be before 12:00 on August 16, 2025"
         assert len(result) > 0
 
     def test_rubric_5_when_choosing_xiabu_xiabu_hot_pot_set__select_non_spicy_savo(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "When choosing Xiabu Xiabu Hot Pot set, select non-spicy savory flavor, avoiding mild spicy or spicy flavors"
         assert len(result) > 0

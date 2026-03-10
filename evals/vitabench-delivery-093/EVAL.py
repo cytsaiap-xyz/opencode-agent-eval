@@ -1,13 +1,13 @@
 import json
 import os
 import pytest
-from solution import solve
 
 _dir = os.path.dirname(os.path.abspath(__file__))
 with open(os.path.join(_dir, "expected.json")) as _f:
     expected_data = json.load(_f)
+with open(os.path.join(_dir, "answer.json")) as _f:
+    result = json.load(_f)
 
-result = solve()
 expected = expected_data["required_orders"]
 
 
@@ -39,11 +39,11 @@ class TestVitaBenchTask:
         assert abs(result[0]["total_price"] - 20) < 1
 
     def test_rubric_0_the_delivery_address_for_the_breakfast_soup_dumpling_order_s(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "The delivery address for the breakfast soup dumpling order should be Yintai Garden, 1168 Ganjiang West Road (440m walk from Tongjing North Road Metro Station Exit 5), Gusu District, Suzhou, Jiangsu Province"
         assert len(result) > 0
 
     def test_rubric_1_the_expected_delivery_time_for_the_breakfast_soup_dumpling_o(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "The expected delivery time for the breakfast soup dumpling order should be around 7:00 on September 21, 2025, ensuring that the user can eat in time before taking the boss to the airport"
         assert len(result) > 0

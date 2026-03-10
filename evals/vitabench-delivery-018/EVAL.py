@@ -1,13 +1,13 @@
 import json
 import os
 import pytest
-from solution import solve
 
 _dir = os.path.dirname(os.path.abspath(__file__))
 with open(os.path.join(_dir, "expected.json")) as _f:
     expected_data = json.load(_f)
+with open(os.path.join(_dir, "answer.json")) as _f:
+    result = json.load(_f)
 
-result = solve()
 expected = expected_data["required_orders"]
 
 
@@ -71,51 +71,51 @@ class TestVitaBenchTask:
         assert abs(result[2]["total_price"] - 29.99) < 1
 
     def test_rubric_0_the_duck_collarbone_order_delivery_address_should_be_buildin(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "The duck collarbone order delivery address should be Building A, Yonghe Longzihu Plaza, Boxue Road Street, Jinshui District, Zhengzhou City, Henan Province"
         assert len(result) > 0
 
     def test_rubric_1_the_duck_collarbone_order_delivery_time_should_be_around_202(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "The duck collarbone order delivery time should be around 2025-10-30 12:00:00"
         assert len(result) > 0
 
     def test_rubric_2_when_selecting_duck_collarbone_products__choose_stores_near(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "When selecting duck collarbone products, choose stores near the company to ensure shorter delivery distance"
         assert len(result) > 0
 
     def test_rubric_3_the_clay_pot_rice_order_delivery_address_should_be_building(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "The clay pot rice order delivery address should be Building A, Yonghe Longzihu Plaza, No. 197 Ping\'an Avenue, Jinshui District, Zhengzhou City, Henan Province"
         assert len(result) > 0
 
     def test_rubric_4_the_clay_pot_rice_order_delivery_time_should_be_around_2025(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "The clay pot rice order delivery time should be around 2025-10-30 12:00:00"
         assert len(result) > 0
 
     def test_rubric_5_when_choosing_clay_pot_rice_for_guangdong_colleagues__select(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "When choosing clay pot rice for Guangdong colleagues, select Cantonese-style products to meet their discerning taste requirements"
         assert len(result) > 0
 
     def test_rubric_6_the_dry_pot_braised_rice_order_delivery_address_should_be_bu(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "The dry pot braised rice order delivery address should be Building A, Yonghe Longzihu Plaza, Boxue Road Street, Jinshui District, Zhengzhou City, Henan Province"
         assert len(result) > 0
 
     def test_rubric_7_the_dry_pot_braised_rice_order_delivery_time_should_be_aroun(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "The dry pot braised rice order delivery time should be around 2025-10-30 12:00:00"
         assert len(result) > 0
 
     def test_rubric_8_when_choosing_dry_pot_braised_rice_for_personal_lunch__selec(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "When choosing dry pot braised rice for personal lunch, select from the frequently visited Bajibaji Dry Pot Braised Rice (Longzihu Branch)"
         assert len(result) > 0
 
     def test_rubric_9_the_personal_lunch_dry_pot_braised_rice_must_include_both_cr(self):
-        # Structural check - the solve() function must produce orders that satisfy:
+        # Structural check - the answer must contain orders that satisfy:
         # "The personal lunch dry pot braised rice must include both crispy pork and beef toppings"
         assert len(result) > 0
