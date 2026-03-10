@@ -25,19 +25,18 @@ Each of the 640 tasks is a standalone eval directory:
 ```
 evals/vitabench-delivery-001/
 ├── PROMPT.md           # Task description for the agent
-├── EVAL.ts             # Hidden vitest assertions (grading)
-├── solution.ts         # Skeleton with TODO stubs
+├── EVAL.py             # Hidden pytest assertions (grading)
+├── solution.py         # Skeleton with TODO stubs
 ├── environment.json    # Embedded task data (stores, products, etc.)
 ├── expected.json       # Ground truth (expected orders/answers)
-├── package.json
-└── tsconfig.json
+└── requirements.txt
 ```
 
 **VitaBench tasks**: The agent reads environment data (stores, products, weather, user profile) and implements `solve()` to return the correct orders matching the user's natural language request. Graded against expected store IDs, product IDs, prices, and rubrics.
 
-**DeepPlanning Travel tasks**: The agent reads the trip query and constraint metadata, then implements `planTrip()` to return the correct itinerary. Graded against hard constraints (specific hotel names, train numbers, restaurants, attractions, budgets).
+**DeepPlanning Travel tasks**: The agent reads the trip query and constraint metadata, then implements `plan_trip()` to return the correct itinerary. Graded against hard constraints (specific hotel names, train numbers, restaurants, attractions, budgets).
 
-**DeepPlanning Shopping tasks**: The agent parses a shopping request and implements `buildCart()` to return the optimal product selection. Graded on structural validity, budget compliance (L2+), and coupon optimization (L3).
+**DeepPlanning Shopping tasks**: The agent parses a shopping request and implements `build_cart()` to return the optimal product selection. Graded on structural validity, budget compliance (L2+), and coupon optimization (L3).
 
 ## Usage
 
@@ -87,7 +86,8 @@ python3 generate-all-evals.py
 ## Requirements
 
 - [opencode](https://github.com/opencode-ai/opencode) CLI installed
-- Node.js 18+
+- Python 3.12+
+- pytest 8.0+
 - An LLM model configured via `opencode.json`
 
 ## Credits

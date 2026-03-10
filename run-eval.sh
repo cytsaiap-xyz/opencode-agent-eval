@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
 set -euo pipefail
 
-# run-eval.sh — Run a single eval: opencode solves the task, vitest grades it.
+# run-eval.sh — Run a single eval: opencode solves the task, pytest grades it.
 # Usage:
 #   ./run-eval.sh evals/01-fix-bug-off-by-one
 #   ./run-eval.sh evals/01-fix-bug-off-by-one --model nvidia/moonshotai/kimi-k2.5
@@ -43,14 +43,14 @@ echo "============================================"
 echo "[1/6] Copying eval to work directory..."
 cp -r "$SCRIPT_DIR/$EVAL_DIR" "$WORK_DIR"
 
-# --- Step 2: Hide EVAL.ts so agent cannot see grading criteria ---
-echo "[2/6] Hiding EVAL.ts from agent..."
-EVAL_TS="$WORK_DIR/EVAL.ts"
-EVAL_TS_HIDDEN="$WORK_DIR/.EVAL.ts.hidden"
-if [ -f "$EVAL_TS" ]; then
-  mv "$EVAL_TS" "$EVAL_TS_HIDDEN"
+# --- Step 2: Hide EVAL.py so agent cannot see grading criteria ---
+echo "[2/6] Hiding EVAL.py from agent..."
+EVAL_PY="$WORK_DIR/EVAL.py"
+EVAL_PY_HIDDEN="$WORK_DIR/.EVAL.py.hidden"
+if [ -f "$EVAL_PY" ]; then
+  mv "$EVAL_PY" "$EVAL_PY_HIDDEN"
 else
-  echo "ERROR: No EVAL.ts found in $EVAL_DIR"
+  echo "ERROR: No EVAL.py found in $EVAL_DIR"
   exit 1
 fi
 
@@ -60,7 +60,9 @@ cp "$SCRIPT_DIR/opencode.json" "$WORK_DIR/opencode.json"
 
 # --- Step 4: Install dependencies ---
 echo "[4/6] Installing dependencies..."
-(cd "$WORK_DIR" && npm install --silent 2>&1 | tail -5)
+if [ -f "$WORK_DIR/requirements.txt" ]; then
+  pip install -q -r "$WORK_DIR/requirements.txt" 2>&1 | tail -5
+fi
 
 # --- Step 5: Run opencode on the prompt ---
 echo "[5/6] Running opencode agent..."
@@ -76,40 +78,23 @@ AGENT_END="$(date +%s)"
 AGENT_DURATION=$((AGENT_END - AGENT_START))
 echo "  Agent finished in ${AGENT_DURATION}s"
 
-# Run build if a build script exists in package.json
-if grep -q '"build"' "$WORK_DIR/package.json" 2>/dev/null; then
-  echo "  Running npm build..."
-  (cd "$WORK_DIR" && npm run build 2>&1 | tail -5) || echo "  (build failed, continuing to grade)"
-fi
+# --- Step 6: Restore EVAL.py and run pytest ---
+echo "[6/6] Grading with pytest..."
+mv "$EVAL_PY_HIDDEN" "$EVAL_PY"
 
-# --- Step 6: Restore EVAL.ts and run vitest ---
-echo "[6/6] Grading with vitest..."
-mv "$EVAL_TS_HIDDEN" "$EVAL_TS"
-
-# Generate vitest config that picks up EVAL.ts
-cat > "$WORK_DIR/vitest.config.ts" << 'VCONF'
-import { defineConfig } from 'vitest/config';
-export default defineConfig({
-  test: {
-    include: ['EVAL.ts'],
-    globals: true,
-  },
-});
-VCONF
-
-# Run vitest
+# Run pytest
 GRADE_START="$(date +%s)"
 set +e
-VITEST_OUTPUT="$(cd "$WORK_DIR" && npx vitest run --reporter=verbose 2>&1)"
-VITEST_EXIT=$?
+PYTEST_OUTPUT="$(cd "$WORK_DIR" && python -m pytest EVAL.py -v 2>&1)"
+PYTEST_EXIT=$?
 set -e
 GRADE_END="$(date +%s)"
 GRADE_DURATION=$((GRADE_END - GRADE_START))
 
-echo "$VITEST_OUTPUT"
+echo "$PYTEST_OUTPUT"
 
 # --- Determine result ---
-if [ $VITEST_EXIT -eq 0 ]; then
+if [ $PYTEST_EXIT -eq 0 ]; then
   RESULT="PASS"
   echo ""
   echo "  RESULT: PASS"
@@ -133,7 +118,7 @@ cat > "$RESULT_FILE" << RJSON
   "grade_duration_s": $GRADE_DURATION,
   "timestamp": "$TIMESTAMP",
   "work_dir": "$WORK_DIR",
-  "vitest_exit_code": $VITEST_EXIT
+  "pytest_exit_code": $PYTEST_EXIT
 }
 RJSON
 

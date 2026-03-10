@@ -1,28 +1,28 @@
 # Conference Schedule Builder
 
-Implement a conference schedule builder in `scheduler.ts` using data from `conference.json` (10 sessions, 4 rooms, 7 time slots).
+Implement a conference schedule builder in `scheduler.py` using data from `conference.json` (10 sessions, 4 rooms, 7 time slots).
 
 ## Your Task
 
-Implement all functions in `scheduler.ts`:
+Implement all functions in `scheduler.py`:
 
-1. **`roomHasEquipment(room, session)`** — Check if room has all equipment the session requires.
+1. **`room_has_equipment(room, session)`** — Check if room has all equipment the session requires.
 
-2. **`sessionFitsSlot(session, slot)`** — Check if session duration fits within the time slot's duration.
+2. **`session_fits_slot(session, slot)`** — Check if session duration fits within the time slot's duration.
 
-3. **`detectConflicts(schedule)`** — Find room conflicts (double-booked rooms), speaker conflicts (same speaker at same time), and equipment conflicts (room missing equipment).
+3. **`detect_conflicts(schedule)`** — Find room conflicts (double-booked rooms), speaker conflicts (same speaker at same time), and equipment conflicts (room missing equipment).
 
-4. **`calculateScore(schedule)`** — Score 0-100 based on:
+4. **`calculate_score(schedule)`** — Score 0-100 based on:
    - 40 pts: required sessions scheduled (proportional)
    - 30 pts: high-priority sessions scheduled (proportional)
    - 15 pts: sessions in preferred time period (proportional)
    - 15 pts: no conflicts
 
-5. **`buildSchedule()`** — Build an optimal conflict-free schedule:
+5. **`build_schedule()`** — Build an optimal conflict-free schedule:
    - Schedule by priority order: required > high > medium > low
    - Prefer matching equipment and preferred time period
    - No speaker or room conflicts
    - Sessions > 60 min can span consecutive time slots
    - Return schedule with entries, unscheduled list, and score
 
-6. **`formatSchedule(schedule)`** — Human-readable display sorted by time then room, format: `"09:00-10:00: [Main Hall] Session Title (Speaker)"`
+6. **`format_schedule(schedule)`** — Human-readable display sorted by time then room, format: `"09:00-10:00: [Main Hall] Session Title (Speaker)"`

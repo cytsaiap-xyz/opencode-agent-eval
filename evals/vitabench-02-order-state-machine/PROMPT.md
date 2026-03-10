@@ -1,6 +1,6 @@
 # Order State Machine
 
-Implement an order management system in `order.ts`. Orders follow a strict state machine with these transitions:
+Implement an order management system in `order.py`. Orders follow a strict state machine with these transitions:
 
 ```
 created -> confirmed -> preparing -> delivering -> delivered
@@ -12,7 +12,7 @@ delivered -> refunded (only within 24-hour refund window)
 
 ## Your Task
 
-Implement all functions in `order.ts`:
+Implement all functions in `order.py`:
 
 1. **`createOrder(items)`** — Create a new order with status 'created' and empty history.
 

@@ -1,6 +1,6 @@
 # DeepPlanning Shopping Task Level 1 #30
 
-You are building a shopping assistant agent. Given the user's shopping request in `task-data.json`, implement the `buildCart()` function in `solution.ts`.
+You are building a shopping assistant agent. Given the user's shopping request in `task-data.json`, implement the `build_cart()` function in `solution.py`.
 
 ## Level 1 Objective
 
@@ -12,7 +12,7 @@ I'm getting ready for a last-minute hiking trip and need to order some gear. Fir
 
 ## Your Task
 
-Implement `buildCart()` in `solution.ts`. Parse the user's request to identify:
+Implement `build_cart()` in `solution.py`. Parse the user's request to identify:
 1. Each product requirement (brand, color, size, rating, review constraints, etc.)
 2. Budget constraint (Level 2+)
 3. Coupon optimization (Level 3)

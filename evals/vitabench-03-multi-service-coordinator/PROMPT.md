@@ -1,10 +1,10 @@
 # Multi-Service Booking Coordinator
 
-Implement a cross-service booking coordinator in `coordinator.ts` that finds valid hotel + restaurant combinations from the data in `services.json`.
+Implement a cross-service booking coordinator in `coordinator.py` that finds valid hotel + restaurant combinations from the data in `services.json`.
 
 ## Your Task
 
-Implement all functions in `coordinator.ts`:
+Implement all functions in `coordinator.py`:
 
 1. **`calculateDistance(a, b)`** — Calculate distance in km between two lat/lng locations using the Haversine formula.
 

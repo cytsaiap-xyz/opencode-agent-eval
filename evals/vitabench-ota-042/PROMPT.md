@@ -1,6 +1,6 @@
 # VitaBench Task: Ota #42
 
-You are building a service agent that processes user requests. Given the environment data in `environment.json` and the expected output format in `expected.json`, implement the `solve()` function in `solution.ts`.
+You are building a service agent that processes user requests. Given the environment data in `environment.json` and the expected output format in `expected.json`, implement the `solve()` function in `solution.py`.
 
 ## User Request
 
@@ -31,7 +31,7 @@ You're thinking about taking your parents to Libo Xiaoqikong Scenic Area during 
 
 ## Your Task
 
-Implement the `solve()` function in `solution.ts` that returns the correct order(s) matching the user's request. The function should:
+Implement the `solve()` function in `solution.py` that returns the correct order(s) matching the user's request. The function should:
 
 1. Read the environment data (stores, products, user info)
 2. Apply the constraints from the user's request

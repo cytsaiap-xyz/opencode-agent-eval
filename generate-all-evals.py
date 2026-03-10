@@ -2,6 +2,7 @@
 """
 Generate all VitaBench (400) + DeepPlanning (240) evals for opencode.
 Reads source data from cloned repos and outputs eval directories.
+Generates Python (pytest) test files.
 """
 
 import json
@@ -11,32 +12,7 @@ import re
 
 EVALS_DIR = os.path.join(os.path.dirname(os.path.abspath(__file__)), "evals")
 
-COMMON_PACKAGE_JSON = """{
-  "name": "eval-EVAL_NAME",
-  "private": true,
-  "scripts": {
-    "test": "npx vitest run"
-  },
-  "devDependencies": {
-    "typescript": "^5.5.0",
-    "vitest": "^3.1.0"
-  }
-}
-"""
-
-COMMON_TSCONFIG = """{
-  "compilerOptions": {
-    "target": "ES2022",
-    "module": "ESNext",
-    "moduleResolution": "bundler",
-    "esModuleInterop": true,
-    "strict": true,
-    "skipLibCheck": true,
-    "resolveJsonModule": true
-  },
-  "include": ["*.ts"]
-}
-"""
+COMMON_REQUIREMENTS_TXT = "pytest>=8.0.0\n"
 
 # ─── VitaBench ────────────────────────────────────────────────────────────────
 
@@ -90,7 +66,7 @@ def generate_vitabench_eval(task, domain, idx):
     rubrics_text = "\n".join(f"- {r}" for r in rubrics) if rubrics else "- Complete the task correctly based on the instructions."
     prompt = f"""# VitaBench Task: {domain.replace('_', ' ').title()} #{idx}
 
-You are building a service agent that processes user requests. Given the environment data in `environment.json` and the expected output format in `expected.json`, implement the `solve()` function in `solution.ts`.
+You are building a service agent that processes user requests. Given the environment data in `environment.json` and the expected output format in `expected.json`, implement the `solve()` function in `solution.py`.
 
 ## User Request
 
@@ -107,11 +83,11 @@ You are building a service agent that processes user requests. Given the environ
 
 ## Your Task
 
-Implement the `solve()` function in `solution.ts` that returns the correct order(s) matching the user's request. The function should:
+Implement the `solve()` function in `solution.py` that returns the correct order(s) matching the user's request. The function should:
 
 1. Read the environment data (stores, products, user info)
 2. Apply the constraints from the user's request
-3. Return an array of order objects with the correct `store_id`, `products` (each with `product_id`, `quantity`, `price`), `total_price`, and `address`
+3. Return a list of order dicts with the correct `store_id`, `products` (each with `product_id`, `quantity`, `price`), `total_price`, and `address`
 
 Look at `expected.json` for the exact output format expected. Your `solve()` function must return data that matches the `required_orders` structure.
 """
@@ -119,73 +95,61 @@ Look at `expected.json` for the exact output format expected. Your `solve()` fun
     with open(os.path.join(eval_dir, "PROMPT.md"), "w") as f:
         f.write(prompt)
 
-    # solution.ts
-    solution = """import envData from './environment.json';
-import expectedData from './expected.json';
+    # solution.py
+    solution = '''import json
+import os
 
-export interface Product {
-  product_id: string;
-  quantity: number;
-  price: number;
-  name?: string;
-}
+_dir = os.path.dirname(os.path.abspath(__file__))
+with open(os.path.join(_dir, "environment.json")) as _f:
+    env_data = json.load(_f)
+with open(os.path.join(_dir, "expected.json")) as _f:
+    expected_data = json.load(_f)
 
-export interface Order {
-  order_id: string;
-  order_type: string;
-  user_id: string;
-  store_id: string;
-  products: Product[];
-  total_price: number;
-  location?: {
-    address: string;
-    longitude?: number;
-    latitude?: number;
-  };
-  dispatch_time?: string;
-  status?: string;
-  note?: string;
-  [key: string]: unknown;
-}
 
-/**
- * Analyze the environment data and user request to produce the correct orders.
- * Read environment.json for available stores/products and user context.
- * Return orders matching the required format in expected.json.
- */
-export function solve(): Order[] {
-  // TODO: implement
-  // Read envData.stores, envData.user_profile, envData.weather, etc.
-  // Apply the constraints from the user request
-  // Return the correct order(s)
-  throw new Error('Not implemented');
-}
-"""
-    with open(os.path.join(eval_dir, "solution.ts"), "w") as f:
+def solve() -> list[dict]:
+    """
+    Analyze the environment data and user request to produce the correct orders.
+    Read environment.json for available stores/products and user context.
+    Return orders matching the required format in expected.json.
+
+    Each order should be a dict with keys:
+        store_id, products (list of dicts with product_id, quantity, price),
+        total_price, and optionally location, dispatch_time, status, note.
+    """
+    # TODO: implement
+    # Read env_data["stores"], env_data["user_profile"], env_data["weather"], etc.
+    # Apply the constraints from the user request
+    # Return the correct order(s)
+    raise NotImplementedError("Not implemented")
+'''
+    with open(os.path.join(eval_dir, "solution.py"), "w") as f:
         f.write(solution)
 
-    # EVAL.ts
-    eval_ts = """import { expect, test, describe } from 'vitest';
-import { solve } from './solution';
-import expectedData from './expected.json';
+    # EVAL.py
+    eval_py = '''import json
+import os
+import pytest
+from solution import solve
 
-describe('VitaBench Task', () => {
-  const result = solve();
-  const expected = expectedData.required_orders;
+_dir = os.path.dirname(os.path.abspath(__file__))
+with open(os.path.join(_dir, "expected.json")) as _f:
+    expected_data = json.load(_f)
 
-  test('returns correct number of orders', () => {
-    expect(result.length).toBe(expected.length);
-  });
+result = solve()
+expected = expected_data["required_orders"]
 
-  test('each order has required fields', () => {
-    for (const order of result) {
-      expect(order).toHaveProperty('store_id');
-      expect(order).toHaveProperty('products');
-      expect(order).toHaveProperty('total_price');
-      expect(Array.isArray(order.products)).toBe(true);
-    }
-  });
-"""
+
+class TestVitaBenchTask:
+    def test_returns_correct_number_of_orders(self):
+        assert len(result) == len(expected)
+
+    def test_each_order_has_required_fields(self):
+        for order in result:
+            assert "store_id" in order
+            assert "products" in order
+            assert "total_price" in order
+            assert isinstance(order["products"], list)
+'''
 
     # Add per-order checks
     for oi, order in enumerate(required_orders):
@@ -193,50 +157,53 @@ describe('VitaBench Task', () => {
         products = order.get("products", [])
         total_price = order.get("total_price", 0)
 
-        eval_ts += f"""
-  test('order {oi} matches expected store', () => {{
-    expect(result[{oi}].store_id).toBe('{store_id}');
-  }});
+        expected_products = [{"product_id": p.get("product_id", ""), "quantity": p.get("quantity", 1)} for p in products]
 
-  test('order {oi} has correct products', () => {{
-    const expectedProducts = {json.dumps([{"product_id": p.get("product_id", ""), "quantity": p.get("quantity", 1)} for p in products])};
-    for (const ep of expectedProducts) {{
-      const found = result[{oi}].products.find((p: any) => p.product_id === ep.product_id);
-      expect(found, `Missing product ${{ep.product_id}}`).toBeDefined();
-      if (found) {{
-        expect(found.quantity).toBe(ep.quantity);
-      }}
-    }}
-  }});
+        eval_py += f"""
+    def test_order_{oi}_matches_expected_store(self):
+        assert result[{oi}]["store_id"] == {store_id!r}
 
-  test('order {oi} has correct total price', () => {{
-    expect(result[{oi}].total_price).toBeCloseTo({total_price}, 0);
-  }});
+    def test_order_{oi}_has_correct_products(self):
+        expected_products = {json.dumps(expected_products)}
+        for ep in expected_products:
+            found = next(
+                (p for p in result[{oi}]["products"] if p["product_id"] == ep["product_id"]),
+                None,
+            )
+            assert found is not None, f"Missing product {{ep['product_id']}}"
+            assert found["quantity"] == ep["quantity"]
+
+    def test_order_{oi}_has_correct_total_price(self):
+        assert abs(result[{oi}]["total_price"] - {total_price}) < 1
 """
 
     # Add rubric checks as named tests
     for ri, rubric in enumerate(rubrics):
-        safe_rubric = rubric.replace("'", "\\'").replace("`", "\\`").replace("${", "\\${")
-        eval_ts += f"""
-  test('rubric: {safe_rubric[:80]}', () => {{
-    // Structural check - the solve() function must produce orders that satisfy:
-    // "{safe_rubric}"
-    // If solve() returns correct store_id and products, this rubric should be met.
-    expect(result.length).toBeGreaterThan(0);
-  }});
+        safe_rubric = rubric.replace("'", "\\'").replace('"', '\\"')
+        # Make a valid Python identifier from the rubric
+        func_name = re.sub(r'[^a-zA-Z0-9]', '_', rubric[:60]).strip('_').lower()
+        if not func_name:
+            func_name = f"rubric_{ri}"
+        eval_py += f"""
+    def test_rubric_{ri}_{func_name}(self):
+        # Structural check - the solve() function must produce orders that satisfy:
+        # "{safe_rubric}"
+        # If solve() returns correct store_id and products, this rubric should be met.
+        assert len(result) > 0
 """
 
-    eval_ts += "});\n"
+    with open(os.path.join(eval_dir, "EVAL.py"), "w") as f:
+        f.write(eval_py)
 
-    with open(os.path.join(eval_dir, "EVAL.ts"), "w") as f:
-        f.write(eval_ts)
+    # requirements.txt
+    with open(os.path.join(eval_dir, "requirements.txt"), "w") as f:
+        f.write(COMMON_REQUIREMENTS_TXT)
 
-    # package.json & tsconfig
-    with open(os.path.join(eval_dir, "package.json"), "w") as f:
-        f.write(COMMON_PACKAGE_JSON.replace("EVAL_NAME", eval_name))
-
-    with open(os.path.join(eval_dir, "tsconfig.json"), "w") as f:
-        f.write(COMMON_TSCONFIG)
+    # Clean up old TS files if they exist
+    for old_file in ["EVAL.ts", "solution.ts", "package.json", "tsconfig.json"]:
+        old_path = os.path.join(eval_dir, old_file)
+        if os.path.exists(old_path):
+            os.remove(old_path)
 
     return eval_name
 
@@ -278,7 +245,7 @@ def generate_deepplan_travel_eval(task, idx):
 
     prompt = f"""# DeepPlanning Travel Task #{idx}
 
-You are building a travel planning agent. Given the user's query and constraint metadata in `task-data.json`, implement the `planTrip()` function in `solution.ts`.
+You are building a travel planning agent. Given the user's query and constraint metadata in `task-data.json`, implement the `plan_trip()` function in `solution.py`.
 
 ## User Query
 
@@ -300,211 +267,175 @@ You are building a travel planning agent. Given the user's query and constraint 
 
 ## Your Task
 
-Implement `planTrip()` in `solution.ts`. Read `task-data.json` for the full constraint details. Your function must return a plan object that satisfies all hard constraints. Each constraint in `hard_constraints` has a specific expected answer (hotel name, train number, restaurant, attraction, budget, etc.) — your plan must match these exactly.
+Implement `plan_trip()` in `solution.py`. Read `task-data.json` for the full constraint details. Your function must return a plan dict that satisfies all hard constraints. Each constraint in `hard_constraints` has a specific expected answer (hotel name, train number, restaurant, attraction, budget, etc.) — your plan must match these exactly.
 """
 
     with open(os.path.join(eval_dir, "PROMPT.md"), "w") as f:
         f.write(prompt)
 
-    # solution.ts
-    solution = """import taskData from './task-data.json';
+    # solution.py
+    solution = '''import json
+import os
 
-export interface TransportPlan {
-  type: 'train' | 'flight';
-  number: string;       // train number or flight number
-  departure: string;    // departure time
-  arrival: string;      // arrival time
-  seatClass?: string;
-}
+_dir = os.path.dirname(os.path.abspath(__file__))
+with open(os.path.join(_dir, "task-data.json")) as _f:
+    task_data = json.load(_f)
 
-export interface HotelPlan {
-  name: string;
-  star: number;
-  pricePerNight: number;
-  nights: number;
-  rooms: number;
-  services?: string[];  // e.g., ["Swimming Pool"]
-}
 
-export interface MealPlan {
-  restaurantName: string;
-  cuisine?: string;
-  nearAttraction?: string;
-  specialRequirement?: string;
-}
+def plan_trip() -> dict:
+    """
+    Read the task data and produce a trip plan that satisfies all hard constraints.
+    The hard_constraints in task-data.json contain the expected answers.
+    Your plan must match these constraints exactly.
 
-export interface AttractionPlan {
-  name: string;
-  type?: string;
-  ticketPrice?: number;
-}
-
-export interface TripPlan {
-  origin: string;
-  destination: string;
-  days: number;
-  peopleNumber: number;
-  outboundTransport: TransportPlan;
-  inboundTransport: TransportPlan;
-  hotel: HotelPlan;
-  meals: MealPlan[];
-  attractions: AttractionPlan[];
-  totalBudget: number;
-  constraintResults: Record<string, unknown>;
-}
-
-/**
- * Read the task data and produce a trip plan that satisfies all hard constraints.
- * The hard_constraints in task-data.json contain the expected answers.
- * Your plan must match these constraints exactly.
- */
-export function planTrip(): TripPlan {
-  // TODO: implement
-  // Read taskData.hard_constraints for specific requirements
-  // Build a plan that satisfies each constraint
-  throw new Error('Not implemented');
-}
-"""
-    with open(os.path.join(eval_dir, "solution.ts"), "w") as f:
+    Return a dict with keys:
+        origin, destination, days, people_number,
+        outbound_transport (dict with type, number, departure, arrival, seat_class),
+        inbound_transport (same structure),
+        hotel (dict with name, star, price_per_night, nights, rooms, services),
+        meals (list of dicts with restaurant_name, cuisine, near_attraction, special_requirement),
+        attractions (list of dicts with name, type, ticket_price),
+        total_budget (number),
+        constraint_results (dict mapping constraint name to value).
+    """
+    # TODO: implement
+    # Read task_data["hard_constraints"] for specific requirements
+    # Build a plan that satisfies each constraint
+    raise NotImplementedError("Not implemented")
+'''
+    with open(os.path.join(eval_dir, "solution.py"), "w") as f:
         f.write(solution)
 
-    # EVAL.ts - check against hard_constraints
-    eval_ts = """import { expect, test, describe } from 'vitest';
-import { planTrip } from './solution';
-import taskData from './task-data.json';
+    # EVAL.py - check against hard_constraints
+    eval_py = '''import json
+import os
+import pytest
+from solution import plan_trip
 
-describe('DeepPlanning Travel Task', () => {
-  const plan = planTrip();
-  const constraints = taskData.hard_constraints as Record<string, any>;
-  const meta = taskData.meta_info;
+_dir = os.path.dirname(os.path.abspath(__file__))
+with open(os.path.join(_dir, "task-data.json")) as _f:
+    task_data = json.load(_f)
 
-  test('plan has correct origin and destination', () => {
-    expect(plan.origin).toBeTruthy();
-    expect(plan.destination).toBeTruthy();
-  });
+plan = plan_trip()
+constraints = task_data["hard_constraints"]
+meta = task_data["meta_info"]
 
-  test('plan has correct number of days', () => {
-    expect(plan.days).toBe(meta.days);
-  });
 
-  test('plan has correct number of travelers', () => {
-    expect(plan.peopleNumber).toBe(meta.people_number);
-  });
-"""
+class TestDeepPlanningTravelTask:
+    def test_plan_has_correct_origin_and_destination(self):
+        assert plan["origin"]
+        assert plan["destination"]
+
+    def test_plan_has_correct_number_of_days(self):
+        assert plan["days"] == meta["days"]
+
+    def test_plan_has_correct_number_of_travelers(self):
+        assert plan["people_number"] == meta["people_number"]
+'''
 
     # Generate constraint-specific tests
     for cname, cdata in hard_constraints.items():
         safe_name = cname.replace("'", "\\'")
+        func_name = re.sub(r'[^a-zA-Z0-9]', '_', cname).strip('_').lower()
 
         if "hotel_name" in cdata:
-            hotel_name = cdata["hotel_name"].replace("'", "\\'")
-            eval_ts += f"""
-  test('constraint: {safe_name} - correct hotel', () => {{
-    expect(plan.hotel.name).toBe('{hotel_name}');
-  }});
+            hotel_name = cdata["hotel_name"]
+            eval_py += f"""
+    def test_constraint_{func_name}_correct_hotel(self):
+        assert plan["hotel"]["name"] == {hotel_name!r}
 """
             if "hotel_star" in cdata:
-                eval_ts += f"""
-  test('constraint: {safe_name} - correct star rating', () => {{
-    expect(plan.hotel.star).toBe({cdata["hotel_star"]});
-  }});
+                eval_py += f"""
+    def test_constraint_{func_name}_correct_star_rating(self):
+        assert plan["hotel"]["star"] == {cdata["hotel_star"]}
 """
             if "required_service" in cdata:
-                svc = cdata["required_service"].replace("'", "\\'")
-                eval_ts += f"""
-  test('constraint: {safe_name} - required service', () => {{
-    expect(plan.hotel.services).toContain('{svc}');
-  }});
+                svc = cdata["required_service"]
+                eval_py += f"""
+    def test_constraint_{func_name}_required_service(self):
+        assert {svc!r} in plan["hotel"]["services"]
 """
 
         elif "outbound_train_no" in cdata or "inbound_train_no" in cdata:
             if "outbound_train_no" in cdata:
-                train = cdata["outbound_train_no"].replace("'", "\\'")
-                eval_ts += f"""
-  test('constraint: {safe_name} - outbound train', () => {{
-    expect(plan.outboundTransport.number).toBe('{train}');
-  }});
+                train = cdata["outbound_train_no"]
+                eval_py += f"""
+    def test_constraint_{func_name}_outbound_train(self):
+        assert plan["outbound_transport"]["number"] == {train!r}
 """
             if "inbound_train_no" in cdata:
-                train = cdata["inbound_train_no"].replace("'", "\\'")
-                eval_ts += f"""
-  test('constraint: {safe_name} - inbound train', () => {{
-    expect(plan.inboundTransport.number).toBe('{train}');
-  }});
+                train = cdata["inbound_train_no"]
+                eval_py += f"""
+    def test_constraint_{func_name}_inbound_train(self):
+        assert plan["inbound_transport"]["number"] == {train!r}
 """
 
         elif "outbound_flight_no" in cdata or "inbound_flight_no" in cdata:
             if "outbound_flight_no" in cdata:
-                flight = cdata["outbound_flight_no"].replace("'", "\\'")
-                eval_ts += f"""
-  test('constraint: {safe_name} - outbound flight', () => {{
-    expect(plan.outboundTransport.number).toBe('{flight}');
-  }});
+                flight = cdata["outbound_flight_no"]
+                eval_py += f"""
+    def test_constraint_{func_name}_outbound_flight(self):
+        assert plan["outbound_transport"]["number"] == {flight!r}
 """
             if "inbound_flight_no" in cdata:
-                flight = cdata["inbound_flight_no"].replace("'", "\\'")
-                eval_ts += f"""
-  test('constraint: {safe_name} - inbound flight', () => {{
-    expect(plan.inboundTransport.number).toBe('{flight}');
-  }});
+                flight = cdata["inbound_flight_no"]
+                eval_py += f"""
+    def test_constraint_{func_name}_inbound_flight(self):
+        assert plan["inbound_transport"]["number"] == {flight!r}
 """
 
         elif "restaurant_name" in cdata:
-            rname = cdata["restaurant_name"].replace("'", "\\'")
-            eval_ts += f"""
-  test('constraint: {safe_name} - restaurant', () => {{
-    const mealNames = plan.meals.map(m => m.restaurantName);
-    expect(mealNames).toContain('{rname}');
-  }});
+            rname = cdata["restaurant_name"]
+            eval_py += f"""
+    def test_constraint_{func_name}_restaurant(self):
+        meal_names = [m["restaurant_name"] for m in plan["meals"]]
+        assert {rname!r} in meal_names
 """
 
         elif "attraction_name" in cdata:
             aname = cdata["attraction_name"]
             if isinstance(aname, list):
-                for a in aname:
-                    a_safe = a.replace("'", "\\'")
-                    eval_ts += f"""
-  test('constraint: {safe_name} - attraction {a_safe[:40]}', () => {{
-    const names = plan.attractions.map(a => a.name);
-    expect(names).toContain('{a_safe}');
-  }});
+                for ai, a in enumerate(aname):
+                    a_func = re.sub(r'[^a-zA-Z0-9]', '_', a[:40]).strip('_').lower()
+                    eval_py += f"""
+    def test_constraint_{func_name}_attraction_{a_func}(self):
+        names = [a["name"] for a in plan["attractions"]]
+        assert {a!r} in names
 """
             else:
-                a_safe = str(aname).replace("'", "\\'")
-                eval_ts += f"""
-  test('constraint: {safe_name} - attraction', () => {{
-    const names = plan.attractions.map(a => a.name);
-    expect(names).toContain('{a_safe}');
-  }});
+                eval_py += f"""
+    def test_constraint_{func_name}_attraction(self):
+        names = [a["name"] for a in plan["attractions"]]
+        assert {str(aname)!r} in names
 """
 
         elif "budget" in cdata:
             budget = cdata.get("budget", cdata.get("budget_limit", 0))
             if budget:
-                eval_ts += f"""
-  test('constraint: {safe_name} - within budget', () => {{
-    expect(plan.totalBudget).toBeLessThanOrEqual({budget});
-  }});
+                eval_py += f"""
+    def test_constraint_{func_name}_within_budget(self):
+        assert plan["total_budget"] <= {budget}
 """
 
         else:
-            # Generic constraint check via constraintResults
-            eval_ts += f"""
-  test('constraint: {safe_name} - satisfied', () => {{
-    expect(plan.constraintResults).toHaveProperty('{safe_name}');
-  }});
+            # Generic constraint check via constraint_results
+            eval_py += f"""
+    def test_constraint_{func_name}_satisfied(self):
+        assert {cname!r} in plan["constraint_results"]
 """
 
-    eval_ts += "});\n"
+    with open(os.path.join(eval_dir, "EVAL.py"), "w") as f:
+        f.write(eval_py)
 
-    with open(os.path.join(eval_dir, "EVAL.ts"), "w") as f:
-        f.write(eval_ts)
+    # requirements.txt
+    with open(os.path.join(eval_dir, "requirements.txt"), "w") as f:
+        f.write(COMMON_REQUIREMENTS_TXT)
 
-    with open(os.path.join(eval_dir, "package.json"), "w") as f:
-        f.write(COMMON_PACKAGE_JSON.replace("EVAL_NAME", eval_name))
-
-    with open(os.path.join(eval_dir, "tsconfig.json"), "w") as f:
-        f.write(COMMON_TSCONFIG)
+    # Clean up old TS files if they exist
+    for old_file in ["EVAL.ts", "solution.ts", "package.json", "tsconfig.json"]:
+        old_path = os.path.join(eval_dir, old_file)
+        if os.path.exists(old_path):
+            os.remove(old_path)
 
     return eval_name
 
@@ -542,7 +473,7 @@ def generate_deepplan_shopping_eval(task, level, idx):
 
     prompt = f"""# DeepPlanning Shopping Task Level {level} #{idx}
 
-You are building a shopping assistant agent. Given the user's shopping request in `task-data.json`, implement the `buildCart()` function in `solution.ts`.
+You are building a shopping assistant agent. Given the user's shopping request in `task-data.json`, implement the `build_cart()` function in `solution.py`.
 
 ## Level {level} Objective
 
@@ -554,7 +485,7 @@ You are building a shopping assistant agent. Given the user's shopping request i
 
 ## Your Task
 
-Implement `buildCart()` in `solution.ts`. Parse the user's request to identify:
+Implement `build_cart()` in `solution.py`. Parse the user's request to identify:
 1. Each product requirement (brand, color, size, rating, review constraints, etc.)
 2. Budget constraint (Level 2+)
 3. Coupon optimization (Level 3)
@@ -565,139 +496,119 @@ Return a cart with items matching all stated requirements. Extract specific cons
     with open(os.path.join(eval_dir, "PROMPT.md"), "w") as f:
         f.write(prompt)
 
-    # solution.ts
-    solution = f"""import taskData from './task-data.json';
+    # solution.py
+    solution = f'''import json
+import os
 
-export interface CartItem {{
-  name: string;
-  brand: string;
-  price: number;
-  color?: string;
-  size?: string;
-  rating?: number;
-  totalReviews?: number;
-  monthlySales?: number;
-  matchedRequirement: string;  // which requirement this item satisfies
-}}
+_dir = os.path.dirname(os.path.abspath(__file__))
+with open(os.path.join(_dir, "task-data.json")) as _f:
+    task_data = json.load(_f)
 
-export interface AppliedCoupon {{
-  type: 'cross-store' | 'same-brand';
-  discount: number;
-  description: string;
-}}
 
-export interface ShoppingCart {{
-  items: CartItem[];
-  subtotal: number;
-  appliedCoupons: AppliedCoupon[];
-  totalDiscount: number;
-  finalPrice: number;
-  level: number;
-}}
+def build_cart() -> dict:
+    """
+    Parse the shopping query and build the optimal cart.
+    Level {level}: {level_desc.get(level, "")}
 
-/**
- * Parse the shopping query and build the optimal cart.
- * Level {level}: {level_desc.get(level, "")}
- *
- * Read taskData.query for the full shopping request.
- * Extract each product requirement and find matching items.
- */
-export function buildCart(): ShoppingCart {{
-  // TODO: implement
-  // Parse the query to extract product requirements
-  // For each requirement, find/define the matching product
-  // Apply budget constraints (Level 2+)
-  // Optimize coupons (Level 3)
-  throw new Error('Not implemented');
-}}
-"""
-    with open(os.path.join(eval_dir, "solution.ts"), "w") as f:
+    Read task_data["query"] for the full shopping request.
+    Extract each product requirement and find matching items.
+
+    Return a dict with keys:
+        items (list of dicts with name, brand, price, color, size, rating,
+               total_reviews, monthly_sales, matched_requirement),
+        subtotal (number),
+        applied_coupons (list of dicts with type, discount, description),
+        total_discount (number),
+        final_price (number),
+        level (int).
+    """
+    # TODO: implement
+    # Parse the query to extract product requirements
+    # For each requirement, find/define the matching product
+    # Apply budget constraints (Level 2+)
+    # Optimize coupons (Level 3)
+    raise NotImplementedError("Not implemented")
+'''
+    with open(os.path.join(eval_dir, "solution.py"), "w") as f:
         f.write(solution)
 
-    # EVAL.ts - structural validation + constraint extraction
-    # Extract product count from query (count distinct requirement blocks)
-    # Simple heuristic: count "I need", "I'm looking for", "Next", "Also", "Finally" etc.
-    eval_ts = """import { expect, test, describe } from 'vitest';
-import { buildCart } from './solution';
-import taskData from './task-data.json';
+    # EVAL.py
+    eval_py = f'''import json
+import os
+import pytest
+from solution import build_cart
 
-describe('DeepPlanning Shopping Task', () => {
-  const cart = buildCart();
+_dir = os.path.dirname(os.path.abspath(__file__))
+with open(os.path.join(_dir, "task-data.json")) as _f:
+    task_data = json.load(_f)
 
-  test('cart has items', () => {
-    expect(cart.items.length).toBeGreaterThan(0);
-  });
+cart = build_cart()
 
-  test('all items have required fields', () => {
-    for (const item of cart.items) {
-      expect(item.name).toBeTruthy();
-      expect(item.brand).toBeTruthy();
-      expect(item.price).toBeGreaterThan(0);
-      expect(item.matchedRequirement).toBeTruthy();
-    }
-  });
 
-  test('subtotal matches sum of item prices', () => {
-    const sum = cart.items.reduce((s, i) => s + i.price, 0);
-    expect(cart.subtotal).toBeCloseTo(sum, 2);
-  });
+class TestDeepPlanningShoppingTask:
+    def test_cart_has_items(self):
+        assert len(cart["items"]) > 0
 
-  test('final price is subtotal minus discount', () => {
-    expect(cart.finalPrice).toBeCloseTo(cart.subtotal - cart.totalDiscount, 2);
-  });
+    def test_all_items_have_required_fields(self):
+        for item in cart["items"]:
+            assert item["name"]
+            assert item["brand"]
+            assert item["price"] > 0
+            assert item["matched_requirement"]
 
-  test('correct level', () => {
-    expect(cart.level).toBe(LEVEL);
-  });
-""".replace("LEVEL", str(level))
+    def test_subtotal_matches_sum_of_item_prices(self):
+        total = sum(item["price"] for item in cart["items"])
+        assert abs(cart["subtotal"] - total) < 0.01
+
+    def test_final_price_is_subtotal_minus_discount(self):
+        assert abs(cart["final_price"] - (cart["subtotal"] - cart["total_discount"])) < 0.01
+
+    def test_correct_level(self):
+        assert cart["level"] == {level}
+'''
 
     # Level 2+ budget check
     if level >= 2:
-        # Try to extract budget from query
         budget_match = re.search(r'budget\s+(?:is\s+)?(?:between\s+)?(\d[\d,]*)', query.lower())
         if budget_match:
             budget_val = budget_match.group(1).replace(",", "")
-            eval_ts += f"""
-  test('within budget', () => {{
-    expect(cart.finalPrice).toBeLessThanOrEqual({budget_val});
-  }});
+            eval_py += f"""
+    def test_within_budget(self):
+        assert cart["final_price"] <= {budget_val}
 """
 
     # Level 3 coupon check
     if level >= 3:
-        eval_ts += """
-  test('applies coupons for optimization', () => {
-    // Level 3 should attempt coupon optimization
-    // At minimum, check that coupon logic is present
-    expect(cart.appliedCoupons).toBeDefined();
-    expect(Array.isArray(cart.appliedCoupons)).toBe(true);
-  });
+        eval_py += """
+    def test_applies_coupons_for_optimization(self):
+        # Level 3 should attempt coupon optimization
+        # At minimum, check that coupon logic is present
+        assert "applied_coupons" in cart
+        assert isinstance(cart["applied_coupons"], list)
 """
 
-    # Check that each item has a non-zero price
-    eval_ts += """
-  test('no free items unless explicitly free', () => {
-    for (const item of cart.items) {
-      expect(item.price).toBeGreaterThan(0);
-    }
-  });
+    eval_py += """
+    def test_no_free_items_unless_explicitly_free(self):
+        for item in cart["items"]:
+            assert item["price"] > 0
 
-  test('no duplicate matched requirements', () => {
-    const reqs = cart.items.map(i => i.matchedRequirement);
-    const unique = new Set(reqs);
-    expect(unique.size).toBe(reqs.length);
-  });
-});
+    def test_no_duplicate_matched_requirements(self):
+        reqs = [item["matched_requirement"] for item in cart["items"]]
+        assert len(set(reqs)) == len(reqs)
 """
 
-    with open(os.path.join(eval_dir, "EVAL.ts"), "w") as f:
-        f.write(eval_ts)
+    with open(os.path.join(eval_dir, "EVAL.py"), "w") as f:
+        f.write(eval_py)
 
-    with open(os.path.join(eval_dir, "package.json"), "w") as f:
-        f.write(COMMON_PACKAGE_JSON.replace("EVAL_NAME", eval_name))
+    # requirements.txt
+    with open(os.path.join(eval_dir, "requirements.txt"), "w") as f:
+        f.write(COMMON_REQUIREMENTS_TXT)
 
-    with open(os.path.join(eval_dir, "tsconfig.json"), "w") as f:
-        f.write(COMMON_TSCONFIG)
+    # Clean up old TS files if they exist
+    for old_file in ["EVAL.ts", "solution.ts", "package.json", "tsconfig.json"]:
+        old_path = os.path.join(eval_dir, old_file)
+        if os.path.exists(old_path):
+            os.remove(old_path)
 
     return eval_name
 
